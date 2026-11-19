@@ -53,7 +53,13 @@ module.exports = async function questionDataHandler(req, res) {
         }
 
         const token = process.env.GITHUB_DATA_READ_TOKEN;
-        if (!token) throw new HttpError(503, "Question data is temporarily unavailable.");
+        if (!token) {
+            throw new HttpError(
+                503,
+                "Question downloads are not configured on the server. Contact the administrator.",
+                { expose: true }
+            );
+        }
         const encodedPath = relativePath.split("/").map(encodeURIComponent).join("/");
         const response = await fetch(
             `https://api.github.com/repos/${REPOSITORY}/contents/${encodedPath}?ref=${REF}`,
@@ -70,7 +76,35 @@ module.exports = async function questionDataHandler(req, res) {
         if (response.status === 404) {
             throw new HttpError(404, "Questions for this subject are not available yet.");
         }
-        if (!response.ok) throw new HttpError(502, "Question data is temporarily unavailable.");
+        if (!response.ok) {
+            const upstreamBody = await response.json().catch(() => null);
+            const upstreamMessage = typeof upstreamBody?.message === "string"
+                ? upstreamBody.message.slice(0, 300)
+                : "";
+            if (response.status === 401 || response.status === 403) {
+                throw new HttpError(
+                    503,
+                    "The question repository is not available. Contact the administrator.",
+                    {
+                        expose: true,
+                        details: {
+                            upstream: "GitHub Contents API",
+                            status: response.status,
+                            message: upstreamMessage,
+                            requestId: response.headers.get("x-github-request-id")
+                        }
+                    }
+                );
+            }
+            throw new HttpError(502, "Question data is temporarily unavailable.", {
+                details: {
+                    upstream: "GitHub Contents API",
+                    status: response.status,
+                    message: upstreamMessage,
+                    requestId: response.headers.get("x-github-request-id")
+                }
+            });
+        }
 
         let questions;
         try {

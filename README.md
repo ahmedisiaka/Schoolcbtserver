@@ -7,10 +7,12 @@ Vercel-hosted access-code and computer-status APIs for the LIMLO Schools CBT app
 1. Make this repository private before pushing the question-bank files.
 2. Import `ahmedisiaka/Schoolcbtserver` as a Vercel project and set its root directory to the repository root.
 3. Add `FIREBASE_SERVICE_ACCOUNT_JSON` in Vercel, using the Firebase service-account JSON for the same project used by the CBT app.
-4. Add `GITHUB_DATA_READ_TOKEN` in Vercel, using a fine-grained token with read-only Contents access to this repository.
-5. Deploy. The app calls the API under `https://cbtsoftwareserver.vercel.app/server/api/`. Vercel rewrites these routes to the root API functions.
+4. Add `GITHUB_DATA_READ_TOKEN` in Vercel for every environment serving the app (at least Production), using a fine-grained token with read-only Contents access to `ahmedisiaka/Schoolcbtserver`.
+5. Redeploy after adding or changing the token. Vercel functions do not receive environment-variable changes until a new deployment. The app calls the API under `https://cbtsoftwareserver.vercel.app/server/api/`. Vercel rewrites these routes to the root API functions.
 
 The service account needs access to Firebase Authentication token verification and the configured Firestore data root. Keep credentials only in Vercel's encrypted environment variables.
+
+If question downloads fail with a server log pointing to the missing-token check in `api/question-data.js`, `GITHUB_DATA_READ_TOKEN` is not present in the deployment environment. Add it under Vercel **Project Settings → Environment Variables**, grant it read-only Contents access to this private repository, select the deployment environment, and redeploy. The token must remain in Vercel and must never be embedded in the app.
 
 Set `CBT_DATA_ROOT` to the Firestore top-level collection used by a school edition (defaults to `GIBBORSHUB`). For an app dedicated to one school, also set `CBT_APP_SCHOOL_ID` to that school's Firestore document ID. The server rejects requests and access codes from another root or school when these values are configured. These settings are tenant enforcement, not a cryptographic client signature.
 
