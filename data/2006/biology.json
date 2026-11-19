@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2006_01",
+      "text": "Which of the following describes the cell of a typical $\\text{Plant}$?",
+      "image": "[Diagram comparing a Plant Cell and an Animal Cell]",
+      "options": [
+        "No cell wall, large central vacuole, no chloroplasts",
+        "Cell wall present, small vacuoles, chloroplasts absent",
+        "Cell wall present, large central vacuole, chloroplasts present",
+        "No cell wall, small vacuoles, chloroplasts present"
+      ],
+      "answer": "Cell wall present, large central vacuole, chloroplasts present",
+      "explanation": "Plant cells are characterized by the presence of a rigid $\\text{Cell}$ $\\text{wall}$, a large central $\\text{vacuole}$ for turgor and storage, and $\\text{chloroplasts}$ for photosynthesis."
+    },
+    {
+      "id": "BIO_2006_02",
+      "text": "The major distinguishing feature between the Phylum $\\text{Platyhelminthes}$ (flatworms) and $\\text{Nematoda}$ (roundworms) is:",
+      "image": "",
+      "options": [
+        "The presence of a mouth",
+        "The presence of an anus",
+        "Their body symmetry",
+        "Their feeding habits"
+      ],
+      "answer": "The presence of an anus",
+      "explanation": "Flatworms (Platyhelminthes) have an incomplete digestive system (one opening, the mouth), while roundworms (Nematoda) have a complete digestive system (two openings: mouth and $\\text{anus}$)."
+    },
+    {
+      "id": "BIO_2006_03",
+      "text": "Which hormone is responsible for converting $\\text{Glycogen}$ back to $\\text{Glucose}$ in the $\\text{Liver}$ when blood sugar levels are low?",
+      "image": "[Diagram showing Insulin and Glucagon regulation of blood sugar]",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "answer": "Glucagon",
+      "explanation": "Glucagon, secreted by the $\\text{Pancreas}$, acts on the $\\text{Liver}$ to stimulate $\\text{Glycogenolysis}$ (breakdown of $\\text{Glycogen}$) to raise blood $\\text{Glucose}$ concentration."
+    },
+    {
+      "id": "BIO_2006_04",
+      "text": "The primary waste product of protein metabolism in mammals that is excreted by the $\\text{Kidney}$ is:",
+      "image": "[Diagram of a Nephron showing filtration and reabsorption]",
+      "options": [
+        "Uric acid",
+        "Ammonia",
+        "Urea",
+        "Creatinine"
+      ],
+      "answer": "Urea",
+      "explanation": "Excess amino acids are deaminated in the $\\text{Liver}$, converting the toxic $\\text{Ammonia}$ into less toxic $\\text{Urea}$ (the major nitrogenous waste product), which is filtered out by the $\\text{Kidneys}$."
+    },
+    {
+      "id": "BIO_2006_05",
+      "text": "Which of the following is an example of a $\\text{Discontinuous}$ $\\text{Variation}$ in humans?",
+      "image": "",
+      "options": [
+        "Height",
+        "Skin colour",
+        "Blood group",
+        "Weight"
+      ],
+      "answer": "Blood group",
+      "explanation": "Discontinuous variation results in distinct categories with no intermediates (e.g., Blood groups $\\text{A, B, AB, O}$). The other options are examples of $\\text{Continuous}$ $\\text{Variation}$."
+    },
+    {
+      "id": "BIO_2006_06",
+      "text": "The part of the $\\text{Eye}$ that contains light-sensitive cells (rods and cones) is the:",
+      "image": "[Diagram of the human eye highlighting the Retina]",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Retina",
+        "Iris"
+      ],
+      "answer": "Retina",
+      "explanation": "The $\\text{Retina}$ is the innermost layer at the back of the eye, containing the photoreceptor cells ($\text{Rods}$ for low light and $\text{Cones}$ for colour) that initiate the visual process."
+    },
+    {
+      "id": "BIO_2006_07",
+      "text": "The splitting of water molecules into $\\text{Hydrogen}$ ions and $\\text{Oxygen}$ during the light reaction of photosynthesis is called:",
+      "image": "[Chemical equation of Photolysis of water]",
+      "options": [
+        "Carbon fixation",
+        "Chemosynthesis",
+        "Photolysis",
+        "Reduction"
+      ],
+      "answer": "Photolysis",
+      "explanation": "Photolysis is the process where light energy is used to split water molecules ($\\text{2H}_2\\text{O} \\rightarrow 4\\text{H}^+ + \\text{O}_2 + 4e^-$), releasing $\\text{Oxygen}$ as a byproduct."
+    },
+    {
+      "id": "BIO_2006_08",
+      "text": "Which of these is the most efficient means of preventing soil erosion on a hillside?",
+      "image": "[Image illustrating Terrace Farming]",
+      "options": [
+        "Deforestation",
+        "Overgrazing",
+        "Contour ploughing and terracing",
+        "Bush burning"
+      ],
+      "answer": "Contour ploughing and terracing",
+      "explanation": "Contour ploughing and $\\text{Terracing}$ reduce the velocity of water runoff and increase infiltration, thereby minimizing soil loss on slopes."
+    },
+    {
+      "id": "BIO_2006_09",
+      "text": "The function of the $\\text{Phloem}$ tissue in plants is to transport:",
+      "image": "[Diagram of Xylem and Phloem tissues in a plant stem]",
+      "options": [
+        "Water and mineral salts",
+        "Manufactured food (sugars)",
+        "Excretory products",
+        "Oxygen and carbon dioxide"
+      ],
+      "answer": "Manufactured food (sugars)",
+      "explanation": "Phloem vessels transport organic nutrients, primarily $\\text{Sucrose}$ (manufactured food), from the leaves (source) to all other parts of the plant (sinks) via $\\text{Translocation}$."
+    },
+    {
+      "id": "BIO_2006_10",
+      "text": "Which of the following is not a characteristic of $\\text{Arthropods}$?",
+      "image": "[Diagram of a generalized Arthropod showing exoskeleton and segments]",
+      "options": [
+        "Jointed appendages",
+        "Segmented body",
+        "Exoskeleton of chitin",
+        "Vertebral column"
+      ],
+      "answer": "Vertebral column",
+      "explanation": "Arthropods are $\\text{Invertebrates}$ (animals without a vertebral column). The other three are defining characteristics of the phylum $\\text{Arthropoda}$."
+    },
+    {
+      "id": "BIO_2006_11",
+      "text": "An organism that possesses both male and female reproductive organs is known as a:",
+      "image": "",
+      "options": [
+        "Gonochorist",
+        "Dioecious",
+        "Hermaphrodite",
+        "Asexual"
+      ],
+      "answer": "Hermaphrodite",
+      "explanation": "Hermaphroditism describes an organism (like an earthworm or snail) having both male and female reproductive structures. $\\text{Dioecious}$ organisms have separate male and female individuals."
+    },
+    {
+      "id": "BIO_2006_12",
+      "text": "The enzyme $\\text{Ptyalin}$ (Salivary $\\text{Amylase}$) acts on which class of food?",
+      "image": "",
+      "options": [
+        "Fats",
+        "Proteins",
+        "Carbohydrates (Starch)",
+        "Vitamins"
+      ],
+      "answer": "Carbohydrates (Starch)",
+      "explanation": "Ptyalin, found in saliva, begins the digestion of $\\text{Starch}$ (a $\\text{Carbohydrate}$) into $\\text{Maltose}$."
+    },
+    {
+      "id": "BIO_2006_13",
+      "text": "The part of the $\\text{Brain}$ that controls involuntary actions like breathing, heartbeat, and coughing is the:",
+      "image": "[Diagram of the human brain highlighting the Medulla Oblongata]",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla $\\text{Oblongata}$",
+        "Hypothalamus"
+      ],
+      "answer": "Medulla $\\text{Oblongata}$",
+      "explanation": "The $\\text{Medulla}$ $\\text{Oblongata}$, located in the brainstem, controls vital, $\\text{involuntary}$ reflexes such as heart rate, blood pressure, respiration, and swallowing."
+    },
+    {
+      "id": "BIO_2006_14",
+      "text": "In a food pyramid, the organisms at the base of the pyramid are the:",
+      "image": "[Diagram of an Ecological Pyramid of numbers or energy]",
+      "options": [
+        "Primary consumers",
+        "Decomposers",
+        "Producers",
+        "Secondary consumers"
+      ],
+      "answer": "Producers",
+      "explanation": "Producers (autotrophs like plants) form the first (base) trophic level, as they generate energy (food) for the entire ecosystem."
+    },
+    {
+      "id": "BIO_2006_15",
+      "text": "The loss of water in the form of water vapour from the aerial parts of plants is called:",
+      "image": "[Diagram illustrating Transpiration through a leaf]",
+      "options": [
+        "Guttation",
+        "Translocation",
+        "Diffusion",
+        "Transpiration"
+      ],
+      "answer": "Transpiration",
+      "explanation": "Transpiration is essential for the upward movement of water (the $\\text{Transpiration}$ $\\text{pull}$) and cooling the plant, but it represents water loss."
+    },
+    {
+      "id": "BIO_2006_16",
+      "text": "Which structure in the $\\text{Mammalian}$ neck prevents food from entering the trachea during swallowing?",
+      "image": "[Diagram of the throat area showing the Epiglottis]",
+      "options": [
+        "Larynx",
+        "Pharynx",
+        "Oesophagus",
+        "Epiglottis"
+      ],
+      "answer": "Epiglottis",
+      "explanation": "The $\\text{Epiglottis}$ is a flap of cartilage at the base of the tongue that covers the opening of the $\\text{Larynx}$ (entrance to the trachea) during swallowing."
+    },
+    {
+      "id": "BIO_2006_17",
+      "text": "The causative organism for $\\text{Malaria}$ is transmitted by the bite of the female:",
+      "image": "[Image comparing a female Anopheles mosquito and a male one]",
+      "options": [
+        "Tsetse fly",
+        "Aedes mosquito",
+        "Anopheles mosquito",
+        "Culex mosquito"
+      ],
+      "answer": "Anopheles mosquito",
+      "explanation": "Malaria is caused by a $\\text{Protozoan}$ parasite ($\text{Plasmodium}$) and is transmitted to humans by the female $\\text{Anopheles}$ mosquito."
+    },
+    {
+      "id": "BIO_2006_18",
+      "text": "The process where a $\\text{Diploid}$ cell divides twice to produce four $\\text{Haploid}$ daughter cells is:",
+      "image": "[Diagram comparing Mitosis and Meiosis]",
+      "options": [
+        "Mitosis",
+        "Fertilization",
+        "Fission",
+        "Meiosis"
+      ],
+      "answer": "Meiosis",
+      "explanation": "Meiosis is the reduction division ($\text{2n} \\rightarrow \text{n}$) used to produce gametes (sex cells) for sexual reproduction, ensuring that the offspring maintain the correct chromosome number."
+    },
+    {
+      "id": "BIO_2006_19",
+      "text": "Which vitamin deficiency leads to the disease $\\text{Scurvy}$ (bleeding gums)?",
+      "image": "",
+      "options": [
+        "Vitamin $\\text{A}$",
+        "Vitamin $\\text{B}$",
+        "Vitamin $\\text{C}$",
+        "Vitamin $\\text{D}$"
+      ],
+      "answer": "Vitamin $\\text{C}$",
+      "explanation": "Vitamin $\\text{C}$ (Ascorbic acid) is essential for collagen formation. Its deficiency causes $\\text{Scurvy}$, characterized by fatigue, poor wound healing, and bleeding gums."
+    },
+    {
+      "id": "BIO_2006_20",
+      "text": "The term used to describe the total number of living organisms of a species in a specific area is:",
+      "image": "",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population",
+        "Habitat"
+      ],
+      "answer": "Population",
+      "explanation": "A $\\text{Population}$ is defined as a group of organisms of the same species living together in a particular geographic area."
+    },
+    {
+      "id": "BIO_2006_21",
+      "text": "The site of $\\text{Protein}$ synthesis within the cell is the:",
+      "image": "[Diagram of a Ribosome structure]",
+      "options": [
+        "Lysosome",
+        "Ribosome",
+        "Golgi apparatus",
+        "Smooth $\\text{Endoplasmic}$ $\\text{Reticulum}$"
+      ],
+      "answer": "Ribosome",
+      "explanation": "Ribosomes are organelles responsible for translating messenger $\\text{RNA}$ ($\text{mRNA}$) into polypeptide chains, i.e., synthesizing proteins."
+    },
+    {
+      "id": "BIO_2006_22",
+      "text": "In the $\\text{Nitrogen}$ cycle, the conversion of nitrites to nitrates is carried out by bacteria such as:",
+      "image": "[Diagram of the Nitrogen Cycle showing different bacterial roles]",
+      "options": [
+        "$\\text{Rhizobium}$",
+        "$\\text{Nitrosomonas}$",
+        "$\\text{Azotobacter}$",
+        "$\\text{Nitrobacter}$"
+      ],
+      "answer": "$\\text{Nitrobacter}$",
+      "explanation": "$\\text{Nitrobacter}$ is responsible for the second stage of $\\text{Nitrification}$, oxidizing $\\text{Nitrite}$ ions ($\text{NO}_2^-$) to more plant-accessible $\\text{Nitrate}$ ions ($\text{NO}_3^-$). $\\text{Nitrosomonas}$ converts $\\text{Ammonia}$ to $\\text{Nitrite}$."
+    },
+    {
+      "id": "BIO_2006_23",
+      "text": "The blood vessel that carries oxygenated blood from the $\\text{Lungs}$ back to the heart is the:",
+      "image": "[Diagram of the human circulatory system showing Pulmonary Vein]",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Pulmonary vein",
+        "Vena cava"
+      ],
+      "answer": "Pulmonary vein",
+      "explanation": "The $\\text{Pulmonary}$ $\\text{vein}$ is the only vein in the adult body that carries $\\text{Oxygenated}$ blood (from the $\\text{Lungs}$ to the left atrium of the heart)."
+    },
+    {
+      "id": "BIO_2006_24",
+      "text": "If a red-flowered plant ($\text{RR}$) is crossed with a white-flowered plant ($\text{rr}$), the $\\text{Phenotype}$ of the $\\text{F}_1$ generation, assuming complete dominance, will be:",
+      "image": "[Punnett square for a monohybrid cross (RR x rr)]",
+      "options": [
+        "All white",
+        "All red",
+        "50\\% red, 50\\% white",
+        "75\\% red, 25\\% white"
+      ],
+      "answer": "All red",
+      "explanation": "The cross $\\text{RR} \\times \\text{rr}$ yields $\\text{Rr}$ heterozygotes in the $\\text{F}_1$ generation. Due to complete dominance, the dominant red colour ($\text{R}$) will be expressed in all offspring."
+    },
+    {
+      "id": "BIO_2006_25",
+      "text": "The protective layer of a leaf that reduces water loss by evaporation is the:",
+      "image": "[Diagram of a leaf cross-section showing Cuticle]",
+      "options": [
+        "Epidermis",
+        "Spongy mesophyll",
+        "Palisade mesophyll",
+        "Cuticle"
+      ],
+      "answer": "Cuticle",
+      "explanation": "The $\\text{Cuticle}$ is a waxy layer secreted by the epidermal cells that greatly reduces $\\text{Transpiration}$ (water loss)."
+    },
+    {
+      "id": "BIO_2006_26",
+      "text": "Which type of joint allows for movement in only one plane, like the $\\text{Knee}$ and $\\text{Elbow}$?",
+      "image": "[Diagram illustrating a Hinge Joint]",
+      "options": [
+        "Ball and socket joint",
+        "Gliding joint",
+        "Pivot joint",
+        "Hinge joint"
+      ],
+      "answer": "Hinge joint",
+      "explanation": "A $\\text{Hinge}$ joint permits angular movement in one direction only (like a door hinge), allowing for flexion and extension."
+    },
+    {
+      "id": "BIO_2006_27",
+      "text": "In a food chain, if $\\text{Producers}$ have $10,000 \\text{ J}$ of energy, how much energy is typically transferred to the $\\text{Secondary}$ $\\text{Consumers}$?",
+      "image": "[Ecological Pyramid illustrating the 10% Energy Rule]",
+      "options": [
+        "$1000 \\text{ J}$",
+        "$100 \\text{ J}$",
+        "$10 \\text{ J}$",
+        "$1 \\text{ J}$"
+      ],
+      "answer": "$100 \\text{ J}$",
+      "explanation": "The $10\\%$ rule states that only about $10\\%$ of energy is transferred to the next trophic level. Producers ($10,000 \\text{ J}$) $\\rightarrow$ Primary Consumers ($10\\%$ of $10,000 = 1000 \\text{ J}$) $\\rightarrow$ Secondary Consumers ($10\\%$ of $1000 = 100 \\text{ J}$)."
+    },
+    {
+      "id": "BIO_2006_28",
+      "text": "The method of asexual reproduction common in $\\text{Yeast}$ is:",
+      "image": "[Micrograph illustrating Budding in Yeast]",
+      "options": [
+        "Binary fission",
+        "Spore formation",
+        "Fragmentation",
+        "Budding"
+      ],
+      "answer": "Budding",
+      "explanation": "Budding is an asexual method where a small outgrowth (bud) forms on the parent cell, develops, and then separates to form a new, genetically identical individual."
+    },
+    {
+      "id": "BIO_2006_29",
+      "text": "An example of a respiratory organ in a $\\text{Fish}$ is the:",
+      "image": "[Diagram of a Fish Gill structure]",
+      "options": [
+        "Lung",
+        "Trachea",
+        "Skin",
+        "Gill"
+      ],
+      "answer": "Gill",
+      "explanation": "Fish use $\\text{Gills}$ for $\\text{Gaseous}$ $\\text{Exchange}$. Water passes over the gill filaments where $\\text{Oxygen}$ diffuses into the blood."
+    },
+    {
+      "id": "BIO_2006_30",
+      "text": "The condition of a person suffering from $\\text{Diabetes}$ $\\text{Mellitus}$ is caused by a failure of the:",
+      "image": "",
+      "options": [
+        "Thyroid gland to produce $\\text{Thyroxine}$",
+        "Pancreas to produce sufficient $\\text{Insulin}$",
+        "Adrenal gland to produce $\\text{Adrenaline}$",
+        "Pituitary gland to produce $\\text{Growth}$ $\\text{Hormone}$"
+      ],
+      "answer": "Pancreas to produce sufficient $\\text{Insulin}$",
+      "explanation": "Diabetes $\\text{Mellitus}$ is primarily caused by insufficient production or inadequate response to $\\text{Insulin}$, leading to high blood $\\text{Glucose}$ levels."
+    },
+    {
+      "id": "BIO_2006_31",
+      "text": "Which of the following organisms exhibit $\\text{Holozoic}$ nutrition?",
+      "image": "",
+      "options": [
+        "$\text{Mould}$",
+        "$\text{Tapeworm}$",
+        "$\text{Amoeba}$",
+        "$\text{Euglena}$"
+      ],
+      "answer": "$\text{Amoeba}$",
+      "explanation": "Amoeba exhibits $\\text{Holozoic}$ nutrition, ingesting solid food particles using $\\text{Pseudopodia}$ (false feet) and digesting them internally in a food $\\text{Vacuole}$."
+    },
+    {
+      "id": "BIO_2006_32",
+      "text": "The main component of the $\\text{Cell}$ $\\text{Membrane}$ is:",
+      "image": "[Diagram of the Fluid Mosaic Model of the cell membrane]",
+      "options": [
+        "Cellulose",
+        "Lipids and proteins",
+        "Starch and sugar",
+        "Water and salts"
+      ],
+      "answer": "Lipids and proteins",
+      "explanation": "The cell membrane structure is described by the $\\text{Fluid}$ $\\text{Mosaic}$ model, which is primarily a bilayer of $\\text{Phospholipids}$ (lipids) with embedded and associated $\\text{Proteins}$."
+    },
+    {
+      "id": "BIO_2006_33",
+      "text": "The $\\text{Parietal}$ cell in the $\\text{Stomach}$ lining secretes:",
+      "image": "[Microscopic image of stomach lining cells]",
+      "options": [
+        "Pepsinogen",
+        "Mucus",
+        "Hydrochloric acid ($\text{HCl}$)",
+        "Bile"
+      ],
+      "answer": "Hydrochloric acid ($\text{HCl}$)",
+      "explanation": "Parietal (Oxyntic) cells secrete $\\text{Hydrochloric}$ $\\text{acid}$, which kills germs, provides the optimum acidic $\\text{pH}$ for the enzyme $\\text{Pepsin}$, and converts $\\text{Pepsinogen}$ to $\\text{Pepsin}$."
+    },
+    {
+      "id": "BIO_2006_34",
+      "text": "The $\\text{Cerebellum}$ is involved in the control of:",
+      "image": "[Diagram of the human brain highlighting the Cerebellum]",
+      "options": [
+        "Reflex actions only",
+        "Memory and learning",
+        "Breathing and heart rate",
+        "Posture and balance"
+      ],
+      "answer": "Posture and balance",
+      "explanation": "The $\\text{Cerebellum}$ is the major centre for regulating $\\text{Balance}$, coordination, and fine-tuning voluntary muscle movements to maintain $\\text{Posture}$."
+    },
+    {
+      "id": "BIO_2006_35",
+      "text": "In $\\text{Dicotyledonous}$ plants, the $\\text{Vascular}$ $\\text{Bundles}$ are arranged:",
+      "image": "[Cross-section of a Dicot stem showing vascular bundle arrangement]",
+      "options": [
+        "Scattered randomly throughout the stem",
+        "In a definite ring",
+        "Only at the centre of the stem",
+        "Only in the epidermis"
+      ],
+      "answer": "In a definite ring",
+      "explanation": "In dicot stems, the $\\text{Vascular}$ $\\text{Bundles}$ ($\text{Xylem}$ and $\\text{Phloem}$) are arranged in a ring around the central $\\text{Pith}$. In monocots, they are scattered."
+    },
+    {
+      "id": "BIO_2006_36",
+      "text": "Which of the following is the final electron acceptor in aerobic respiration?",
+      "image": "[Diagram of the Electron Transport Chain in the Mitochondrion]",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen",
+      "explanation": "In $\\text{Aerobic}$ $\\text{Respiration}$, $\\text{Oxygen}$ accepts the electrons at the end of the $\\text{Electron}$ $\\text{Transport}$ $\\text{Chain}$ and combines with $\\text{Hydrogen}$ ions to form $\\text{Water}$ ($\text{H}_2\\text{O}$)."
+    },
+    {
+      "id": "BIO_2006_37",
+      "text": "The primary agent of dispersal for the fruit of the $\\text{Coconut}$ $\\text{Plant}$ is:",
+      "image": "",
+      "options": [
+        "Wind",
+        "Water",
+        "Animal",
+        "Explosion"
+      ],
+      "answer": "Water",
+      "explanation": "The coconut fruit is adapted for $\\text{Hydrochory}$ (dispersal by water), possessing a buoyant fibrous husk (mesocarp) that allows it to float across seas and oceans."
+    },
+    {
+      "id": "BIO_2006_38",
+      "text": "The phenomenon where male and female parts of a flower mature at different times is called:",
+      "image": "",
+      "options": [
+        "Self-pollination",
+        "Dichogamy",
+        "Heterostyly",
+        "Protogyny"
+      ],
+      "answer": "Dichogamy",
+      "explanation": "$\\text{Dichogamy}$ is a mechanism that promotes cross-pollination by ensuring that the $\\text{Anthers}$ (male) and $\\text{Stigma}$ (female) of the same flower are not ready for reproduction simultaneously."
+    },
+    {
+      "id": "BIO_2006_39",
+      "text": "Which of the following diseases is caused by a $\\text{Virus}$?",
+      "image": "",
+      "options": [
+        "Tuberculosis",
+        "Typhoid fever",
+        "Measles",
+        "Cholera"
+      ],
+      "answer": "Measles",
+      "explanation": "Measles is a highly contagious disease caused by the $\\text{Measles}$ $\\text{Virus}$ (a member of the $\\text{Morbillivirus}$ genus). The others are caused by $\\text{Bacteria}$."
+    },
+    {
+      "id": "BIO_2006_40",
+      "text": "An adaptation of a $\\text{Xerophyte}$ plant to reduce water loss is the presence of:",
+      "image": "[Micrograph of a Xerophytic leaf (e.g., Oleander) showing sunken stomata]",
+      "options": [
+        "Broad, thin leaves",
+        "Numerous stomata on the upper surface",
+        "Thick, waxy cuticle and sunken stomata",
+        "Abundant leaf hairs"
+      ],
+      "answer": "Thick, waxy cuticle and sunken stomata",
+      "explanation": "A thick, waxy $\\text{Cuticle}$ and $\\text{Sunken}$ $\\text{Stomata}$ (in pits) both create a moist, still layer of air, reducing the water potential gradient and thus minimizing water loss via $\\text{Transpiration}$."
+    }
+  ]

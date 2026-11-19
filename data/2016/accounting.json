@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_121",
+      "text": "The maximum number of shareholders in a Public Limited Company (PLC) is:",
+      "image": "ACCO_2023_121.png",
+      "options": [
+        "50",
+        "No maximum limit",
+        "7",
+        "100"
+      ],
+      "answer": "No maximum limit",
+      "explanation": "A Public Limited Company (PLC) has no statutory maximum limit on the number of shareholders, allowing it to raise substantial capital from the general public."
+    },
+    {
+      "id": "ACCO_2023_122",
+      "text": "The account prepared to record the net effect of revaluing assets and liabilities upon the admission or retirement of a partner is the:",
+      "image": "ACCO_2023_122.png",
+      "options": [
+        "Capital Account",
+        "Current Account",
+        "Realization Account",
+        "Revaluation Account"
+      ],
+      "answer": "Revaluation Account",
+      "explanation": "The Revaluation Account is used to determine the profit or loss on revaluation, which is then shared among the existing partners in their old profit-sharing ratio."
+    },
+    {
+      "id": "ACCO_2023_123",
+      "text": "The document that defines the relationship between a company and its external world, particularly its objectives and powers, is the:",
+      "image": "ACCO_2023_123.png",
+      "options": [
+        "Articles of Association",
+        "Statement of Financial Position",
+        "Memorandum of Association",
+        "Prospectus"
+      ],
+      "answer": "Memorandum of Association",
+      "explanation": "The Memorandum of Association (or Certificate of Incorporation) states the fundamental rules concerning the company's external affairs, including its name, object clause, and capital."
+    },
+    {
+      "id": "ACCO_2023_124",
+      "text": "The cost of issuing shares, such as underwriting fees and printing costs, are classified as:",
+      "image": "ACCO_2023_124.png",
+      "options": [
+        "Revenue Expenditure",
+        "Preliminary Expenses (Capital Expenditure)",
+        "Selling and Distribution Costs",
+        "Operating Expenses"
+      ],
+      "answer": "Preliminary Expenses (Capital Expenditure)",
+      "explanation": "These are capital in nature as they relate to the formation and permanent structure of the company, usually written off over a short period."
+    },
+    {
+      "id": "ACCO_2023_125",
+      "text": "The formula (Net Profit / Owner's Equity) calculates the:",
+      "image": "ACCO_2023_125.png",
+      "options": [
+        "Return on Assets (ROA)",
+        "Gross Profit Margin",
+        "Return on Equity (ROE)",
+        "Current Ratio"
+      ],
+      "answer": "Return on Equity (ROE)",
+      "explanation": "ROE measures the profitability generated for each Naira invested by the owners (shareholders/partners)."
+    },
+    {
+      "id": "ACCO_2023_126",
+      "text": "Which ratio assesses the ability of a business to convert sales into profit?",
+      "image": "ACCO_2023_126.png",
+      "options": [
+        "Gross Profit Margin",
+        "Working Capital Ratio",
+        "Asset Turnover Ratio",
+        "Inventory Turnover Ratio"
+      ],
+      "answer": "Gross Profit Margin",
+      "explanation": "Gross Profit Margin (Gross Profit / Sales) measures the percentage of revenue remaining after covering the cost of goods sold, indicating pricing efficiency."
+    },
+    {
+      "id": "ACCO_2023_127",
+      "text": "In job costing, the sum of Prime Cost and Factory Overheads is known as the:",
+      "image": "ACCO_2023_127.png",
+      "options": [
+        "Total Cost",
+        "Works Cost (or Factory Cost)",
+        "Cost of Sales",
+        "Conversion Cost"
+      ],
+      "answer": "Works Cost (or Factory Cost)",
+      "explanation": "Works Cost is the total cost incurred in the factory to manufacture a product, including Prime Cost (direct materials + direct labor) and all factory overheads."
+    },
+    {
+      "id": "ACCO_2023_128",
+      "text": "The account opened to distribute the remaining assets and liabilities when a partnership is dissolved is the:",
+      "image": "ACCO_2023_128.png",
+      "options": [
+        "Realization Account",
+        "Revaluation Account",
+        "Goodwill Account",
+        "Profit and Loss Appropriation Account"
+      ],
+      "answer": "Realization Account",
+      "explanation": "The Realization Account is prepared upon dissolution to record the sale of assets, payment of liabilities, and the final profit or loss on the realization process."
+    },
+    {
+      "id": "ACCO_2023_129",
+      "text": "The minimum number of members required to hold a statutory meeting of a Public Limited Company is determined by the:",
+      "image": "ACCO_2023_129.png",
+      "options": [
+        "Memorandum of Association",
+        "Prospectus",
+        "Companies Act (or relevant national law)",
+        "Stock Exchange Rules"
+      ],
+      "answer": "Companies Act (or relevant national law)",
+      "explanation": "Statutory requirements for company meetings, including quorum rules, are mandated by the governing Companies Act."
+    },
+    {
+      "id": "ACCO_2023_130",
+      "text": "A dividend that is paid out of a company's past accumulated profits is classified as a:",
+      "image": "ACCO_2023_130.png",
+      "options": [
+        "Final Dividend",
+        "Interim Dividend",
+        "Scrip Dividend",
+        "Bonus Dividend"
+      ],
+      "answer": "Interim Dividend",
+      "explanation": "While final dividends are paid after year-end, interim dividends are usually declared and paid during the financial year from current or accumulated profits."
+    },
+    {
+      "id": "ACCO_2023_131",
+      "text": "An error where an expense is posted to the wrong personal account (e.g., electricity expense is debited to a staff debtor) is an error of:",
+      "image": "ACCO_2023_131.png",
+      "options": [
+        "Omission",
+        "Commission",
+        "Principle",
+        "Compensating"
+      ],
+      "answer": "Commission",
+      "explanation": "Error of Commission involves recording a correct transaction to the wrong account of the same class (e.g., one current asset account instead of another, or one expense instead of another)."
+    },
+    {
+      "id": "ACCO_2023_132",
+      "text": "The main reason for accruing expenses (Outstanding Expenses) at the year-end is to comply with the:",
+      "image": "ACCO_2023_132.png",
+      "options": [
+        "Realization concept",
+        "Prudence concept",
+        "Matching concept",
+        "Going concern concept"
+      ],
+      "answer": "Matching concept",
+      "explanation": "Accruals ensure that all expenses incurred in the period are matched against the revenue earned in that same period, regardless of when cash is paid."
+    },
+    {
+      "id": "ACCO_2023_133",
+      "text": "The cost of raw materials consumed is calculated by:",
+      "image": "ACCO_2023_133.png",
+      "options": [
+        "Opening Stock of Raw Materials + Purchases - Closing Stock of Raw Materials",
+        "Prime Cost - Direct Labor",
+        "Cost of Production - Opening Work in Progress",
+        "Purchases + Carriage Outwards"
+      ],
+      "answer": "Opening Stock of Raw Materials + Purchases - Closing Stock of Raw Materials",
+      "explanation": "This is the standard formula used in the Manufacturing Account to determine the direct material cost included in the Prime Cost."
+    },
+    {
+      "id": "ACCO_2023_134",
+      "text": "The ratio (Current Assets - Current Liabilities) calculates the:",
+      "image": "ACCO_2023_134.png",
+      "options": [
+        "Quick Ratio",
+        "Working Capital",
+        "Capital Employed",
+        "Net Profit"
+      ],
+      "answer": "Working Capital",
+      "explanation": "Working Capital (or Net Current Assets) represents the resources available to meet day-to-day operating expenses after all current liabilities are covered."
+    },
+    {
+      "id": "ACCO_2023_135",
+      "text": "The method of depreciation that allocates the depreciable amount based on the estimated usage or output of the asset is the:",
+      "image": "ACCO_2023_135.png",
+      "options": [
+        "Annuity Method",
+        "Units of Production Method",
+        "Sum-of-the-years' Digits Method",
+        "Straight-Line Method"
+      ],
+      "answer": "Units of Production Method",
+      "explanation": "This method links depreciation to activity rather than time, making it suitable for assets like machinery where wear and tear is directly related to usage."
+    },
+    {
+      "id": "ACCO_2023_136",
+      "text": "Goods returned by the business to a supplier are initially recorded in the:",
+      "image": "ACCO_2023_136.png",
+      "options": [
+        "Returns Inwards Journal",
+        "Purchases Journal",
+        "Returns Outwards Journal",
+        "General Ledger"
+      ],
+      "answer": "Returns Outwards Journal",
+      "explanation": "The Returns Outwards Journal is the book of original entry for recording all returns of merchandise to suppliers."
+    },
+    {
+      "id": "ACCO_2023_137",
+      "text": "The accounting concept that states that the business entity is separate from its owner is the:",
+      "image": "ACCO_2023_137.png",
+      "options": [
+        "Going Concern Concept",
+        "Business Entity Concept",
+        "Dual Aspect Concept",
+        "Historical Cost Concept"
+      ],
+      "answer": "Business Entity Concept",
+      "explanation": "This concept ensures that the owner's personal transactions are kept distinct from the business's transactions, even in a sole proprietorship."
+    },
+    {
+      "id": "ACCO_2023_138",
+      "text": "The document issued by a bank to inform a customer that their account has been increased is a:",
+      "image": "ACCO_2023_138.png",
+      "options": [
+        "Debit Memo",
+        "Credit Memo",
+        "Bank Statement",
+        "Cheque"
+      ],
+      "answer": "Credit Memo",
+      "explanation": "A credit memo (or credit note) from the bank indicates an amount that has been credited (added) to the customer's account, such as interest received or a direct deposit."
+    },
+    {
+      "id": "ACCO_2023_139",
+      "text": "In a limited company, the total nominal value of shares actually held by the members is the:",
+      "image": "ACCO_2023_139.png",
+      "options": [
+        "Authorized Capital",
+        "Issued Capital",
+        "Unissued Capital",
+        "Reserve Capital"
+      ],
+      "answer": "Issued Capital",
+      "explanation": "Issued Capital is the part of the authorized capital that has been allocated or allotted to the shareholders."
+    },
+    {
+      "id": "ACCO_2023_140",
+      "text": "When a new partner is admitted, the sacrifice made by the old partners is measured by the:",
+      "image": "ACCO_2023_140.png",
+      "options": [
+        "Gaining Ratio",
+        "Sacrificing Ratio",
+        "Capital Ratio",
+        "New Profit Sharing Ratio"
+      ],
+      "answer": "Sacrificing Ratio",
+      "explanation": "The Sacrificing Ratio determines the proportion in which the old partners give up their share of future profits in favour of the incoming partner."
+    },
+    {
+      "id": "ACCO_2023_141",
+      "text": "The primary role of the Auditing profession is to provide assurance on the:",
+      "image": "ACCO_2023_141.png",
+      "options": [
+        "Profitability of the business",
+        "Legal compliance of the company's contracts",
+        "Fairness and truthfulness of the financial statements",
+        "Management's business strategy"
+      ],
+      "answer": "Fairness and truthfulness of the financial statements",
+      "explanation": "An auditor's main function is to express an opinion on whether the financial statements are presented fairly, in all material respects, in accordance with the applicable financial reporting framework."
+    },
+    {
+      "id": "ACCO_2023_142",
+      "text": "The ratio that indicates the average number of days it takes for a company to collect cash from its trade debtors is the:",
+      "image": "ACCO_2023_142.png",
+      "options": [
+        "Creditors Payment Period",
+        "Debt-to-Equity Ratio",
+        "Debtors Collection Period",
+        "Inventory Holding Period"
+      ],
+      "answer": "Debtors Collection Period",
+      "explanation": "Debtors Collection Period = (Average Trade Receivables / Credit Sales) $\\times$ 365 days."
+    },
+    {
+      "id": "ACCO_2023_143",
+      "text": "The total of all items in the Purchases Journal is posted to the:",
+      "image": "ACCO_2023_143.png",
+      "options": [
+        "Credit side of the Purchases Account",
+        "Debit side of the Sales Account",
+        "Debit side of the Purchases Account",
+        "Credit side of the Debtors Account"
+      ],
+      "answer": "Debit side of the Purchases Account",
+      "explanation": "The total of credit purchases is periodically debited to the Purchases Account in the General Ledger (increasing the expense/cost of goods)."
+    },
+    {
+      "id": "ACCO_2023_144",
+      "text": "The method of calculating depreciation that is typically used for small, inexpensive assets like tools is the:",
+      "image": "ACCO_2023_144.png",
+      "options": [
+        "Straight-Line Method",
+        "Reducing Balance Method",
+        "Revaluation Method",
+        "Sum-of-the-years' Digits Method"
+      ],
+      "answer": "Revaluation Method",
+      "explanation": "The Revaluation Method calculates depreciation as the difference between the opening value and the closing value of the asset, often used for groups of small assets."
+    },
+    {
+      "id": "ACCO_2023_145",
+      "text": "Which of these is considered a revenue reserve and is distributable to shareholders?",
+      "image": "ACCO_2023_145.png",
+      "options": [
+        "Share Premium",
+        "Revaluation Reserve",
+        "Retained Earnings (General Reserve)",
+        "Capital Redemption Reserve"
+      ],
+      "answer": "Retained Earnings (General Reserve)",
+      "explanation": "Revenue Reserves (like Retained Earnings or General Reserve) are created from trading profits and are available for distribution as dividends."
+    },
+    {
+      "id": "ACCO_2023_146",
+      "text": "In Cost Accounting, fixed costs per unit of production:",
+      "image": "ACCO_2023_146.png",
+      "options": [
+        "Remain constant with changes in output",
+        "Increase with an increase in output",
+        "Decrease with an increase in output",
+        "Are zero at all output levels"
+      ],
+      "answer": "Decrease with an increase in output",
+      "explanation": "Total fixed costs remain constant, so as the number of units produced increases, the fixed cost is spread over more units, thus decreasing the cost per unit."
+    },
+    {
+      "id": "ACCO_2023_147",
+      "text": "The account that shows the movement of partners' share of profits, interest, salaries, and drawings is the:",
+      "image": "ACCO_2023_147.png",
+      "options": [
+        "Partner's Capital Account",
+        "Partner's Loan Account",
+        "Partner's Current Account",
+        "Realization Account"
+      ],
+      "answer": "Partner's Current Account",
+      "explanation": "If capital accounts are fixed, the Current Account records all regular transactions, while the Capital Account remains mostly unchanged unless new capital is introduced."
+    },
+    {
+      "id": "ACCO_2023_148",
+      "text": "The journal entry to correct a transposition error (e.g., N120 recorded as N210) usually requires the use of a:",
+      "image": "ACCO_2023_148.png",
+      "options": [
+        "Sales Journal",
+        "Cash Book",
+        "Journal Proper",
+        "Purchases Journal"
+      ],
+      "answer": "Journal Proper",
+      "explanation": "The Journal Proper (General Journal) is used for correcting errors. The entry will involve the accounts affected and often the Suspense Account if the Trial Balance was prepared."
+    },
+    {
+      "id": "ACCO_2023_149",
+      "text": "The accounting concept that states that money loses its purchasing power over time is addressed by the limitation of the:",
+      "image": "ACCO_2023_149.png",
+      "options": [
+        "Historical Cost concept",
+        "Money Measurement concept",
+        "Materiality concept",
+        "Prudence concept"
+      ],
+      "answer": "Money Measurement concept",
+      "explanation": "The Money Measurement concept assumes the currency unit is stable, which is a major limitation, especially during periods of high inflation."
+    },
+    {
+      "id": "ACCO_2023_150",
+      "text": "In a manufacturing firm, finished goods are valued at:",
+      "image": "ACCO_2023_150.png",
+      "options": [
+        "Prime Cost",
+        "Works Cost",
+        "Cost of Production",
+        "Selling Price"
+      ],
+      "answer": "Cost of Production",
+      "explanation": "Finished goods are valued at their total Cost of Production (Works Cost plus administrative overheads related to production) or Net Realizable Value, whichever is lower."
+    },
+    {
+      "id": "ACCO_2023_151",
+      "text": "The ratio that measures a company's financial risk, or leverage, is the:",
+      "image": "ACCO_2023_151.png",
+      "options": [
+        "Liquidity Ratio",
+        "Profitability Ratio",
+        "Gearing Ratio",
+        "Efficiency Ratio"
+      ],
+      "answer": "Gearing Ratio",
+      "explanation": "Gearing Ratios (like Debt-to-Equity or Debt-to-Assets) show the proportion of debt used to finance the business, which indicates financial risk."
+    },
+    {
+      "id": "ACCO_2023_152",
+      "text": "The total amount of cash collected from trade debtors during a period can be found in the:",
+      "image": "ACCO_2023_152.png",
+      "options": [
+        "Sales Journal",
+        "Creditors Control Account",
+        "Cash Book (Receipts Side)",
+        "Statement of Profit or Loss"
+      ],
+      "answer": "Cash Book (Receipts Side)",
+      "explanation": "The Cash Book records all cash inflows, and cash collected from debtors is a major inflow, recorded on the debit (receipts) side."
+    },
+    {
+      "id": "ACCO_2023_153",
+      "text": "Accrued income (Income Receivable) is classified as a:",
+      "image": "ACCO_2023_153.png",
+      "options": [
+        "Current Liability",
+        "Current Asset",
+        "Non-Current Asset",
+        "Revenue"
+      ],
+      "answer": "Current Asset",
+      "explanation": "Accrued income is revenue earned but not yet received in cash, representing a future economic benefit (claim to cash) collectible within the next year."
+    },
+    {
+      "id": "ACCO_2023_154",
+      "text": "The legal minimum share capital required for a Public Limited Company to commence business is called the:",
+      "image": "ACCO_2023_154.png",
+      "options": [
+        "Authorized Capital",
+        "Called-up Capital",
+        "Working Capital",
+        "Minimum Subscription"
+      ],
+      "answer": "Minimum Subscription",
+      "explanation": "The Minimum Subscription is the minimum amount of shares that must be subscribed by the public before a PLC can proceed with the allotment of shares and obtain a Certificate of Trading."
+    },
+    {
+      "id": "ACCO_2023_155",
+      "text": "The formula (Capital Employed / Total Revenue) calculates the:",
+      "image": "ACCO_2023_155.png",
+      "options": [
+        "Capital Turnover Ratio",
+        "Net Profit Margin",
+        "Return on Capital Employed",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Capital Turnover Ratio",
+      "explanation": "Capital Turnover Ratio (Sales / Capital Employed) measures the efficiency of capital usage in generating sales."
+    },
+    {
+      "id": "ACCO_2023_156",
+      "text": "In a partnership dissolution, the loan of a partner is paid:",
+      "image": "ACCO_2023_156.png",
+      "options": [
+        "After the payment of external liabilities and before capital accounts",
+        "After the payment of capital accounts",
+        "At the same time as external liabilities",
+        "Only if there is a profit on realization"
+      ],
+      "answer": "After the payment of external liabilities and before capital accounts",
+      "explanation": "The legal order of payment is: External Creditors $\\rightarrow$ Partners' Loans $\\rightarrow$ Partners' Capital."
+    },
+    {
+      "id": "ACCO_2023_157",
+      "text": "The difference between the market price of a share and its nominal value when issued is recorded in the:",
+      "image": "ACCO_2023_157.png",
+      "options": [
+        "Retained Earnings Account",
+        "Share Premium Account",
+        "General Reserve Account",
+        "Capital Redemption Reserve"
+      ],
+      "answer": "Share Premium Account",
+      "explanation": "The Share Premium Account records the excess amount received over the nominal value of the shares and is a capital reserve."
+    },
+    {
+      "id": "ACCO_2023_158",
+      "text": "The type of cost that changes in direct proportion to the volume of output is the:",
+      "image": "ACCO_2023_158.png",
+      "options": [
+        "Fixed Cost",
+        "Semi-Variable Cost",
+        "Variable Cost",
+        "Standard Cost"
+      ],
+      "answer": "Variable Cost",
+      "explanation": "Variable costs, such as direct materials and direct labor, are constant per unit but change in total as output increases or decreases."
+    },
+    {
+      "id": "ACCO_2023_159",
+      "text": "In a non-profit organization, the initial capital fund is built up primarily from:",
+      "image": "ACCO_2023_159.png",
+      "options": [
+        "Sales of goods",
+        "Bank loans",
+        "Accumulated surplus and special donations/legacies",
+        "Trade receivables"
+      ],
+      "answer": "Accumulated surplus and special donations/legacies",
+      "explanation": "The accumulated fund (equivalent to capital) of a non-profit is generated through surpluses from operations and specific capital contributions (legacies, large grants)."
+    },
+    {
+      "id": "ACCO_2023_160",
+      "text": "An error that affects two or more accounts in such a way that the Trial Balance still balances is a(n):",
+      "image": "ACCO_2023_160.png",
+      "options": [
+        "Error of Omission",
+        "Error of Principle",
+        "Compensating Error",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "Errors of Omission (complete transaction missing), Principle (wrong class of account), and Compensating Errors (two errors cancelling each other out) all belong to the class of errors that do not affect the agreement of the Trial Balance."
+    }
+  ]

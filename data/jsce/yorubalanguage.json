@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "text": "Kí ni orúkọ olú ìlú Nàìjíríà?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Ibadan",
+      "D": "Kano"
+    },
+    "correct": "B",
+    "explanation": "Abuja ni olú ìlú (capital city) Nàìjíríà."
+  },
+  {
+    "id": 2,
+    "text": "Ọjọ́ wo ni 'Sunday' ní èdè Yorùbá?",
+    "options": {
+      "A": "Ọjọ́ Ajé",
+      "B": "Ọjọ́ Ìṣẹ́gun",
+      "C": "Ọjọ́ Àìkú",
+      "D": "Ọjọ́ Ẹtì"
+    },
+    "correct": "C",
+    "explanation": "'Àìkú' (Day of Immortality) is Sunday."
+  },
+  {
+    "id": 3,
+    "text": "Ta ni Odùduwà?",
+    "options": {
+      "A": "Bàbá àwọn Yorùbá",
+      "B": "Ọba Kano",
+      "C": "Gómìnà",
+      "D": "Olùkọ́"
+    },
+    "correct": "A",
+    "explanation": "Oduduwa is regarded as the progenitor (father) of the Yoruba race."
+  },
+  {
+    "id": 4,
+    "text": "Kí ni 'Head' ní èdè Yorùbá?",
+    "options": {
+      "A": "Ojú",
+      "B": "Orí",
+      "C": "Ẹsẹ̀",
+      "D": "Ọwọ́"
+    },
+    "correct": "B",
+    "explanation": "Orí means Head."
+  },
+  {
+    "id": 5,
+    "text": "Èwo ni oúnjẹ òkèlè?",
+    "options": {
+      "A": "Búrẹ́dì",
+      "B": "Iyán",
+      "C": "Bísíkítì",
+      "D": "Wàrà"
+    },
+    "correct": "B",
+    "explanation": "Iyán (Pounded Yam) is a solid food eaten with soup (òkèlè)."
+  },
+  {
+    "id": 6,
+    "text": "Báwo ni a ṣe ń kí èèyàn ní àárọ̀?",
+    "options": {
+      "A": "Ẹ kú ìrọ̀lẹ́",
+      "B": "Ẹ kú àárọ̀",
+      "C": "Ẹ kú alé",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "Good morning is 'Ẹ kú àárọ̀'."
+  },
+  {
+    "id": 7,
+    "text": "Ta ni ó bí bàbá tàbí ìyá ẹni?",
+    "options": {
+      "A": "Àbúrò",
+      "B": "Ẹ̀gbọ́n",
+      "C": "Bàbá-nlá/Ìyá-nlá",
+      "D": "Ọmọ"
+    },
+    "correct": "C",
+    "explanation": "Grandparents (Baba-nla/Iya-nla) gave birth to one's parents."
+  },
+  {
+    "id": 8,
+    "text": "Kí ni a máa ń fi ń rìn?",
+    "options": {
+      "A": "Orí",
+      "B": "Ẹsẹ̀",
+      "C": "Imú",
+      "D": "Etí"
+    },
+    "correct": "B",
+    "explanation": "We walk with our legs (Ẹsẹ̀)."
+  },
+  {
+    "id": 9,
+    "text": "Ọba ìlú wo ni Aláàfin?",
+    "options": {
+      "A": "Ife",
+      "B": "Oyo",
+      "C": "Eko",
+      "D": "Ibadan"
+    },
+    "correct": "B",
+    "explanation": "The Alafin rules Oyo."
+  },
+  {
+    "id": 10,
+    "text": "Kí ni 'Water' ní èdè Yorùbá?",
+    "options": {
+      "A": "Epo",
+      "B": "Omi",
+      "C": "Ẹ̀jẹ̀",
+      "D": "Otí"
+    },
+    "correct": "B",
+    "explanation": "Omi means Water."
+  },
+  {
+    "id": 11,
+    "text": "Mélòó ni 'Twenty'?",
+    "options": {
+      "A": "Mẹ́wàá",
+      "B": "Ogún",
+      "C": "Ọgbọ̀n",
+      "D": "Àádọ́ta"
+    },
+    "correct": "B",
+    "explanation": "Ogún is 20."
+  },
+  {
+    "id": 12,
+    "text": "Èwo ni àwọ̀ 'White'?",
+    "options": {
+      "A": "Dúdú",
+      "B": "Funfun",
+      "C": "Pupa",
+      "D": "Blue"
+    },
+    "correct": "B",
+    "explanation": "Funfun means White."
+  },
+  {
+    "id": 13,
+    "text": "Kí ni ìtumọ̀ 'Come'?",
+    "options": {
+      "A": "Lọ",
+      "B": "Wá",
+      "C": "Sùn",
+      "D": "Jẹ"
+    },
+    "correct": "B",
+    "explanation": "Wá means Come."
+  },
+  {
+    "id": 14,
+    "text": "Ta ni ó kọ ìwé 'Ògbójú Ọdẹ Nínú Igbó Irúnmọlẹ̀'?",
+    "options": {
+      "A": "Wole Soyinka",
+      "B": "D.O. Fagunwa",
+      "C": "Adebayo Faleti",
+      "D": "Hubert Ogunde"
+    },
+    "correct": "B",
+    "explanation": "D.O. Fagunwa is the famous author."
+  },
+  {
+    "id": 15,
+    "text": "Kí ni a ń pè ní 'Father'?",
+    "options": {
+      "A": "Ìyá",
+      "B": "Bàbá",
+      "C": "Ọmọ",
+      "D": "Ẹ̀gbọ́n"
+    },
+    "correct": "B",
+    "explanation": "Bàbá means Father."
+  },
+  {
+    "id": 16,
+    "text": "Kí ni 'Eye' ní èdè Yorùbá?",
+    "options": {
+      "A": "Etí",
+      "B": "Ojú",
+      "C": "Ẹnu",
+      "D": "Ahọ́n"
+    },
+    "correct": "B",
+    "explanation": "Ojú means Eye."
+  },
+  {
+    "id": 17,
+    "text": "Iṣẹ́ wo ni àgbẹ̀ ń ṣe?",
+    "options": {
+      "A": "Kíkọ́ ilé",
+      "B": "Ríro oko",
+      "C": "Wíwa mọ́tò",
+      "D": "Ríran aṣọ"
+    },
+    "correct": "B",
+    "explanation": "A farmer (agbẹ) farms the land (riro oko)."
+  },
+  {
+    "id": 18,
+    "text": "Kí ni orúkọ mìíràn fún 'Ẹ̀kọ' (Lagos)?",
+    "options": {
+      "A": "Àró",
+      "B": "Èkó",
+      "C": "Ìbàdàn",
+      "D": "Abuja"
+    },
+    "correct": "B",
+    "explanation": "Lagos is traditionally called Èkó."
+  },
+  {
+    "id": 19,
+    "text": "Kí ni 'Shoe'?",
+    "options": {
+      "A": "Fìlà",
+      "B": "Bàtà",
+      "C": "Sòkòtò",
+      "D": "Ẹ̀wù"
+    },
+    "correct": "B",
+    "explanation": "Bàtà means Shoe."
+  },
+  {
+    "id": 20,
+    "text": "Oṣù kíni ọdún ni ______.",
+    "options": {
+      "A": "January",
+      "B": "December",
+      "C": "June",
+      "D": "March"
+    },
+    "correct": "A",
+    "explanation": "January is the first month."
+  },
+  {
+    "id": 21,
+    "text": "Kí ni àmì ohùn 'Do'?",
+    "options": {
+      "A": "Òkè",
+      "B": "Ilẹ̀",
+      "C": "Àárín",
+      "D": "Kò sí"
+    },
+    "correct": "B",
+    "explanation": "'Do' is represented by the low tone mark (Grave accent `)."
+  },
+  {
+    "id": 22,
+    "text": "Pari owe yii: 'Ọmọ tí yóò jẹ aṣàmú, kékeré ni yóò ti ______.'",
+    "options": {
+      "A": "Sùn",
+      "B": "Jẹun",
+      "C": "Sẹnu sámúsámú",
+      "D": "Sunkún"
+    },
+    "correct": "C",
+    "explanation": "Proverb: A child who will be sharp shows it early."
+  },
+  {
+    "id": 23,
+    "text": "Kí ni 'Money'?",
+    "options": {
+      "A": "Owó",
+      "B": "Aṣọ",
+      "C": "Ilé",
+      "D": "Ọkọ̀"
+    },
+    "correct": "A",
+    "explanation": "Owó means Money."
+  },
+  {
+    "id": 24,
+    "text": "Orúkọ wo ni a ń fún ọmọ tí a bí lẹ́yìn ìbejì?",
+    "options": {
+      "A": "Dòtún",
+      "B": "Ìdòwú",
+      "C": "Kẹ́hìndé",
+      "D": "Táíwò"
+    },
+    "correct": "B",
+    "explanation": "Idowu comes after twins."
+  },
+  {
+    "id": 25,
+    "text": "Kí ni 'Dog'?",
+    "options": {
+      "A": "Ológbò",
+      "B": "Ajá",
+      "C": "Ewúrẹ́",
+      "D": "Adìyẹ"
+    },
+    "correct": "B",
+    "explanation": "Ajá means Dog."
+  },
+  {
+    "id": 26,
+    "text": "Ọba ìlú Ifẹ̀ ni ______.",
+    "options": {
+      "A": "Ooni",
+      "B": "Alaafin",
+      "C": "Awujale",
+      "D": "Alake"
+    },
+    "correct": "A",
+    "explanation": "The Ooni rules Ile-Ife."
+  },
+  {
+    "id": 27,
+    "text": "Èwo ni kì í ṣe ẹ̀yà ara?",
+    "options": {
+      "A": "Orí",
+      "B": "Bàtà",
+      "C": "Ọwọ́",
+      "D": "Ẹsẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Bàtà (Shoe) is not a body part."
+  },
+  {
+    "id": 28,
+    "text": "Kí ni 'King'?",
+    "options": {
+      "A": "Ìjòyè",
+      "B": "Ọba",
+      "C": "Baálẹ̀",
+      "D": "Olórí"
+    },
+    "correct": "B",
+    "explanation": "Ọba means King."
+  },
+  {
+    "id": 29,
+    "text": "Kí ni a máa ń wọ̀ sí ọrùn?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Ìlẹ̀kẹ̀",
+      "C": "Fìlà",
+      "D": "Gélè"
+    },
+    "correct": "B",
+    "explanation": "Beads (Ìlẹ̀kẹ̀) are worn on the neck (and waist/wrist)."
+  },
+  {
+    "id": 30,
+    "text": "Èdè wo ni wọ́n ń sọ ní Ìbàdàn?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yorùbá",
+      "C": "Igbo",
+      "D": "Efik"
+    },
+    "correct": "B",
+    "explanation": "Ibadan is a Yoruba city."
+  },
+  {
+    "id": 31,
+    "text": "Kí ni 'Market'?",
+    "options": {
+      "A": "Ilé",
+      "B": "Ọjà",
+      "C": "Oko",
+      "D": "Odò"
+    },
+    "correct": "B",
+    "explanation": "Ọjà means Market."
+  },
+  {
+    "id": 32,
+    "text": "Ta ni ó bí Ìyá?",
+    "options": {
+      "A": "Ìyá-nlá",
+      "B": "Bàbá",
+      "C": "Ọmọ",
+      "D": "Àbúrò"
+    },
+    "correct": "A",
+    "explanation": "Grandmother (Iya-nla) is Mother's mother."
+  },
+  {
+    "id": 33,
+    "text": "Kí ni 'Book'?",
+    "options": {
+      "A": "Bíró",
+      "B": "Ìwé",
+      "C": "Pátákó",
+      "D": "Tábìlì"
+    },
+    "correct": "B",
+    "explanation": "Ìwé means Book."
+  },
+  {
+    "id": 34,
+    "text": "Kí ni àmì ohùn 'Mi'?",
+    "options": {
+      "A": "Dò",
+      "B": "Re",
+      "C": "Mi",
+      "D": "Fa"
+    },
+    "correct": "C",
+    "explanation": "'Mi' is the mid tone (no mark or macron)."
+  },
+  {
+    "id": 35,
+    "text": "Èwo ni oúnjẹ ilẹ̀ Yorùbá?",
+    "options": {
+      "A": "Pizza",
+      "B": "Àmàlà",
+      "C": "Burger",
+      "D": "Shawarma"
+    },
+    "correct": "B",
+    "explanation": "Amala is a traditional Yoruba food."
+  },
+  {
+    "id": 36,
+    "text": "Kí ni 'Hand'?",
+    "options": {
+      "A": "Ẹsẹ̀",
+      "B": "Ọwọ́",
+      "C": "Orí",
+      "D": "Ikùn"
+    },
+    "correct": "B",
+    "explanation": "Ọwọ́ means Hand."
+  },
+  {
+    "id": 37,
+    "text": "Mélòó ni 'Ten'?",
+    "options": {
+      "A": "Marun",
+      "B": "Mẹ́wàá",
+      "C": "Meje",
+      "D": "Mẹjọ"
+    },
+    "correct": "B",
+    "explanation": "Mẹ́wàá is 10."
+  },
+  {
+    "id": 38,
+    "text": "Kí ni 'House'?",
+    "options": {
+      "A": "Ọjà",
+      "B": "Ilé",
+      "C": "Oko",
+      "D": "Ọ̀nà"
+    },
+    "correct": "B",
+    "explanation": "Ilé means House."
+  },
+  {
+    "id": 39,
+    "text": "Pari owe yii: 'Ilé la á wò, ká tó sọmọ lórúkọ.'",
+    "options": {
+      "A": "Sọmọ lórúkọ",
+      "B": "Jẹun",
+      "C": "Sùn",
+      "D": "Lọ"
+    },
+    "correct": "A",
+    "explanation": "We look at the home/circumstances before naming a child."
+  },
+  {
+    "id": 40,
+    "text": "Kí ni 'Wife'?",
+    "options": {
+      "A": "Ọkọ",
+      "B": "Ìyàwó",
+      "C": "Ọmọ",
+      "D": "Ìyá"
+    },
+    "correct": "B",
+    "explanation": "Ìyàwó means Wife."
+  },
+  {
+    "id": 41,
+    "text": "Kí ni 'Snake'?",
+    "options": {
+      "A": "Ejò",
+      "B": "Eku",
+      "C": "Ẹja",
+      "D": "Eye"
+    },
+    "correct": "A",
+    "explanation": "Ejò means Snake."
+  },
+  {
+    "id": 42,
+    "text": "Kí ni a máa ń fi ń gbọ́rọ̀?",
+    "options": {
+      "A": "Imú",
+      "B": "Etí",
+      "C": "Ẹnu",
+      "D": "Ojú"
+    },
+    "correct": "B",
+    "explanation": "We hear with our Ears (Etí)."
+  },
+  {
+    "id": 43,
+    "text": "Kí ni 'Sit down'?",
+    "options": {
+      "A": "Dìde",
+      "B": "Jókòó",
+      "C": "Lọ",
+      "D": "Wá"
+    },
+    "correct": "B",
+    "explanation": "Jókòó means Sit down."
+  },
+  {
+    "id": 44,
+    "text": "Ta ni ó kéré sí ẹni?",
+    "options": {
+      "A": "Ẹ̀gbọ́n",
+      "B": "Àbúrò",
+      "C": "Bàbá",
+      "D": "Ìyá"
+    },
+    "correct": "B",
+    "explanation": "Àbúrò is a younger sibling."
+  },
+  {
+    "id": 45,
+    "text": "Kí ni 'Fish'?",
+    "options": {
+      "A": "Eran",
+      "B": "Ẹja",
+      "C": "Ewúro",
+      "D": "Epo"
+    },
+    "correct": "B",
+    "explanation": "Ẹja means Fish."
+  },
+  {
+    "id": 46,
+    "text": "Kí ni 'Teacher'?",
+    "options": {
+      "A": "Akẹ́kọ̀ọ́",
+      "B": "Olùkọ́",
+      "C": "Dókítà",
+      "D": "Agbẹ"
+    },
+    "correct": "B",
+    "explanation": "Olùkọ́ is a Teacher."
+  },
+  {
+    "id": 47,
+    "text": "Èwo ni kì í ṣe oúnjẹ?",
+    "options": {
+      "A": "Ìrẹsì",
+      "B": "Òkúta",
+      "C": "Ẹ̀bà",
+      "D": "Iyán"
+    },
+    "correct": "B",
+    "explanation": "Òkúta (Stone) is not food."
+  },
+  {
+    "id": 48,
+    "text": "Kí ni 'Black'?",
+    "options": {
+      "A": "Pupa",
+      "B": "Dúdú",
+      "C": "Funfun",
+      "D": "Yẹ́lò"
+    },
+    "correct": "B",
+    "explanation": "Dúdú means Black."
+  },
+  {
+    "id": 49,
+    "text": "Kí ni 'Husband'?",
+    "options": {
+      "A": "Ìyàwó",
+      "B": "Ọkọ",
+      "C": "Ọmọ",
+      "D": "Àbúrò"
+    },
+    "correct": "B",
+    "explanation": "Ọkọ means Husband."
+  },
+  {
+    "id": 50,
+    "text": "Kí ni a máa ń fi ń kọ̀wé?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Kálámù/Bíró",
+      "C": "Abẹ́",
+      "D": "Òkúta"
+    },
+    "correct": "B",
+    "explanation": "Pen (Kálámù/Bíró) is used for writing."
+  },
+  {
+    "id": 51,
+    "text": "Kí ni 'Sun'?",
+    "options": {
+      "A": "Òṣùpá",
+      "B": "Oòrùn",
+      "C": "Ìràwọ̀",
+      "D": "Ojú-ọ̀run"
+    },
+    "correct": "B",
+    "explanation": "Oòrùn is Sun."
+  },
+  {
+    "id": 52,
+    "text": "Kí ni 'Moon'?",
+    "options": {
+      "A": "Oòrùn",
+      "B": "Òṣùpá",
+      "C": "Afẹ́fẹ́",
+      "D": "Ilẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Òṣùpá is Moon."
+  },
+  {
+    "id": 53,
+    "text": "Oríkì fún ìbejì ni ______.",
+    "options": {
+      "A": "Àkànjí",
+      "B": "Ẹ̀jìrẹ́",
+      "C": "Àyìnlá",
+      "D": "Àdùnní"
+    },
+    "correct": "B",
+    "explanation": "Twins are praised as 'Ẹ̀jìrẹ́'."
+  },
+  {
+    "id": 54,
+    "text": "Kí ni 'Chicken'?",
+    "options": {
+      "A": "Ewúrẹ́",
+      "B": "Adìyẹ",
+      "C": "Agùntàn",
+      "D": "Maalu"
+    },
+    "correct": "B",
+    "explanation": "Adìyẹ means Chicken."
+  },
+  {
+    "id": 55,
+    "text": "Èwo ni ẹ̀yà ara tí a fi ń mí?",
+    "options": {
+      "A": "Etí",
+      "B": "Imú",
+      "C": "Ẹnu",
+      "D": "Ojú"
+    },
+    "correct": "B",
+    "explanation": "We breathe with the Nose (Imú)."
+  },
+  {
+    "id": 56,
+    "text": "Kí ni 'Red'?",
+    "options": {
+      "A": "Dúdú",
+      "B": "Pupa",
+      "C": "Funfun",
+      "D": "Àwọ̀ ewé"
+    },
+    "correct": "B",
+    "explanation": "Pupa means Red."
+  },
+  {
+    "id": 57,
+    "text": "Ọmọ tí a bí pẹ̀lú irun dídi ni ______.",
+    "options": {
+      "A": "Dàda",
+      "B": "Ìgè",
+      "C": "Òjó",
+      "D": "Àìná"
+    },
+    "correct": "A",
+    "explanation": "Dada is born with curly/matted hair."
+  },
+  {
+    "id": 58,
+    "text": "Kí ni 'Sleep'?",
+    "options": {
+      "A": "Jí",
+      "B": "Sùn",
+      "C": "Rìn",
+      "D": "Sọ̀rọ̀"
+    },
+    "correct": "B",
+    "explanation": "Sùn means Sleep."
+  },
+  {
+    "id": 59,
+    "text": "Èwo ni 'Cat'?",
+    "options": {
+      "A": "Ajá",
+      "B": "Ológbò",
+      "C": "Eku",
+      "D": "Ewúrẹ́"
+    },
+    "correct": "B",
+    "explanation": "Ológbò means Cat."
+  },
+  {
+    "id": 60,
+    "text": "Kí ni 'Thank you'?",
+    "options": {
+      "A": "Pẹ̀lẹ́",
+      "B": "E ṣe",
+      "C": "Káàbọ̀",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "E ṣe / O ṣe means Thank you."
+  },
+  {
+    "id": 61,
+    "text": "Kí ni 'Fire'?",
+    "options": {
+      "A": "Omi",
+      "B": "Iná",
+      "C": "Afẹ́fẹ́",
+      "D": "Erupe"
+    },
+    "correct": "B",
+    "explanation": "Iná means Fire."
+  },
+  {
+    "id": 62,
+    "text": "Ta ni ó dàgbà jù?",
+    "options": {
+      "A": "Ọmọ",
+      "B": "Bàbá",
+      "C": "Àbúrò",
+      "D": "Ìyàwó"
+    },
+    "correct": "B",
+    "explanation": "Father (Baba) is older than Child (Ọmọ) or Younger sibling."
+  },
+  {
+    "id": 63,
+    "text": "Kí ni 'Mouth'?",
+    "options": {
+      "A": "Ojú",
+      "B": "Ẹnu",
+      "C": "Etí",
+      "D": "Imú"
+    },
+    "correct": "B",
+    "explanation": "Ẹnu means Mouth."
+  },
+  {
+    "id": 64,
+    "text": "Kí ni 'Go'?",
+    "options": {
+      "A": "Wá",
+      "B": "Lọ",
+      "C": "Dúró",
+      "D": "Sá"
+    },
+    "correct": "B",
+    "explanation": "Lọ means Go."
+  },
+  {
+    "id": 65,
+    "text": "Kí ni 'Cloth'?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Aṣọ",
+      "C": "Fìlà",
+      "D": "Ìlẹ̀kẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Aṣọ means Cloth."
+  },
+  {
+    "id": 66,
+    "text": "Kí ni 'Tree'?",
+    "options": {
+      "A": "Igi",
+      "B": "Ewé",
+      "C": "Òdòdó",
+      "D": "Gbòngbò"
+    },
+    "correct": "A",
+    "explanation": "Igi means Tree."
+  },
+  {
+    "id": 67,
+    "text": "Kí ni 'Bird'?",
+    "options": {
+      "A": "Ẹja",
+      "B": "Ẹyẹ",
+      "C": "Eku",
+      "D": "Ejò"
+    },
+    "correct": "B",
+    "explanation": "Ẹyẹ means Bird."
+  },
+  {
+    "id": 68,
+    "text": "Mélòó ni 'Three'?",
+    "options": {
+      "A": "Méjì",
+      "B": "Mẹ́ta",
+      "C": "Mẹ́rin",
+      "D": "Márùn-ún"
+    },
+    "correct": "B",
+    "explanation": "Mẹ́ta is 3."
+  },
+  {
+    "id": 69,
+    "text": "Kí ni 'Earth/Ground'?",
+    "options": {
+      "A": "Ọ̀run",
+      "B": "Ilẹ̀",
+      "C": "Omi",
+      "D": "Iná"
+    },
+    "correct": "B",
+    "explanation": "Ilẹ̀ means Ground/Earth."
+  },
+  {
+    "id": 70,
+    "text": "Kí ni 'Good Night'?",
+    "options": {
+      "A": "Káàbọ̀",
+      "B": "Ó dáàrọ̀",
+      "C": "Ẹ kú alé",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "Ó dáàrọ̀ (Till morning) is Goodnight."
+  },
+  {
+    "id": 1,
+    "text": "Kí ni orúkọ olú ìlú Nàìjíríà?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Ibadan",
+      "D": "Kano"
+    },
+    "correct": "B",
+    "explanation": "Abuja ni olú ìlú (capital city) Nàìjíríà."
+  },
+  {
+    "id": 2,
+    "text": "Ọjọ́ wo ni 'Sunday' ní èdè Yorùbá?",
+    "options": {
+      "A": "Ọjọ́ Ajé",
+      "B": "Ọjọ́ Ìṣẹ́gun",
+      "C": "Ọjọ́ Àìkú",
+      "D": "Ọjọ́ Ẹtì"
+    },
+    "correct": "C",
+    "explanation": "'Àìkú' (Day of Immortality) is Sunday."
+  },
+  {
+    "id": 3,
+    "text": "Ta ni Odùduwà?",
+    "options": {
+      "A": "Bàbá àwọn Yorùbá",
+      "B": "Ọba Kano",
+      "C": "Gómìnà",
+      "D": "Olùkọ́"
+    },
+    "correct": "A",
+    "explanation": "Oduduwa is regarded as the progenitor (father) of the Yoruba race."
+  },
+  {
+    "id": 4,
+    "text": "Kí ni 'Head' ní èdè Yorùbá?",
+    "options": {
+      "A": "Ojú",
+      "B": "Orí",
+      "C": "Ẹsẹ̀",
+      "D": "Ọwọ́"
+    },
+    "correct": "B",
+    "explanation": "Orí means Head."
+  },
+  {
+    "id": 5,
+    "text": "Èwo ni oúnjẹ òkèlè?",
+    "options": {
+      "A": "Búrẹ́dì",
+      "B": "Iyán",
+      "C": "Bísíkítì",
+      "D": "Wàrà"
+    },
+    "correct": "B",
+    "explanation": "Iyán (Pounded Yam) is a solid food eaten with soup (òkèlè)."
+  },
+  {
+    "id": 6,
+    "text": "Báwo ni a ṣe ń kí èèyàn ní àárọ̀?",
+    "options": {
+      "A": "Ẹ kú ìrọ̀lẹ́",
+      "B": "Ẹ kú àárọ̀",
+      "C": "Ẹ kú alé",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "Good morning is 'Ẹ kú àárọ̀'."
+  },
+  {
+    "id": 7,
+    "text": "Ta ni ó bí bàbá tàbí ìyá ẹni?",
+    "options": {
+      "A": "Àbúrò",
+      "B": "Ẹ̀gbọ́n",
+      "C": "Bàbá-nlá/Ìyá-nlá",
+      "D": "Ọmọ"
+    },
+    "correct": "C",
+    "explanation": "Grandparents (Baba-nla/Iya-nla) gave birth to one's parents."
+  },
+  {
+    "id": 8,
+    "text": "Kí ni a máa ń fi ń rìn?",
+    "options": {
+      "A": "Orí",
+      "B": "Ẹsẹ̀",
+      "C": "Imú",
+      "D": "Etí"
+    },
+    "correct": "B",
+    "explanation": "We walk with our legs (Ẹsẹ̀)."
+  },
+  {
+    "id": 9,
+    "text": "Ọba ìlú wo ni Aláàfin?",
+    "options": {
+      "A": "Ife",
+      "B": "Oyo",
+      "C": "Eko",
+      "D": "Ibadan"
+    },
+    "correct": "B",
+    "explanation": "The Alafin rules Oyo."
+  },
+  {
+    "id": 10,
+    "text": "Kí ni 'Water' ní èdè Yorùbá?",
+    "options": {
+      "A": "Epo",
+      "B": "Omi",
+      "C": "Ẹ̀jẹ̀",
+      "D": "Otí"
+    },
+    "correct": "B",
+    "explanation": "Omi means Water."
+  },
+  {
+    "id": 11,
+    "text": "Mélòó ni 'Twenty'?",
+    "options": {
+      "A": "Mẹ́wàá",
+      "B": "Ogún",
+      "C": "Ọgbọ̀n",
+      "D": "Àádọ́ta"
+    },
+    "correct": "B",
+    "explanation": "Ogún is 20."
+  },
+  {
+    "id": 12,
+    "text": "Èwo ni àwọ̀ 'White'?",
+    "options": {
+      "A": "Dúdú",
+      "B": "Funfun",
+      "C": "Pupa",
+      "D": "Blue"
+    },
+    "correct": "B",
+    "explanation": "Funfun means White."
+  },
+  {
+    "id": 13,
+    "text": "Kí ni ìtumọ̀ 'Come'?",
+    "options": {
+      "A": "Lọ",
+      "B": "Wá",
+      "C": "Sùn",
+      "D": "Jẹ"
+    },
+    "correct": "B",
+    "explanation": "Wá means Come."
+  },
+  {
+    "id": 14,
+    "text": "Ta ni ó kọ ìwé 'Ògbójú Ọdẹ Nínú Igbó Irúnmọlẹ̀'?",
+    "options": {
+      "A": "Wole Soyinka",
+      "B": "D.O. Fagunwa",
+      "C": "Adebayo Faleti",
+      "D": "Hubert Ogunde"
+    },
+    "correct": "B",
+    "explanation": "D.O. Fagunwa is the famous author."
+  },
+  {
+    "id": 15,
+    "text": "Kí ni a ń pè ní 'Father'?",
+    "options": {
+      "A": "Ìyá",
+      "B": "Bàbá",
+      "C": "Ọmọ",
+      "D": "Ẹ̀gbọ́n"
+    },
+    "correct": "B",
+    "explanation": "Bàbá means Father."
+  },
+  {
+    "id": 16,
+    "text": "Kí ni 'Eye' ní èdè Yorùbá?",
+    "options": {
+      "A": "Etí",
+      "B": "Ojú",
+      "C": "Ẹnu",
+      "D": "Ahọ́n"
+    },
+    "correct": "B",
+    "explanation": "Ojú means Eye."
+  },
+  {
+    "id": 17,
+    "text": "Iṣẹ́ wo ni àgbẹ̀ ń ṣe?",
+    "options": {
+      "A": "Kíkọ́ ilé",
+      "B": "Ríro oko",
+      "C": "Wíwa mọ́tò",
+      "D": "Ríran aṣọ"
+    },
+    "correct": "B",
+    "explanation": "A farmer (agbẹ) farms the land (riro oko)."
+  },
+  {
+    "id": 18,
+    "text": "Kí ni orúkọ mìíràn fún 'Ẹ̀kọ' (Lagos)?",
+    "options": {
+      "A": "Àró",
+      "B": "Èkó",
+      "C": "Ìbàdàn",
+      "D": "Abuja"
+    },
+    "correct": "B",
+    "explanation": "Lagos is traditionally called Èkó."
+  },
+  {
+    "id": 19,
+    "text": "Kí ni 'Shoe'?",
+    "options": {
+      "A": "Fìlà",
+      "B": "Bàtà",
+      "C": "Sòkòtò",
+      "D": "Ẹ̀wù"
+    },
+    "correct": "B",
+    "explanation": "Bàtà means Shoe."
+  },
+  {
+    "id": 20,
+    "text": "Oṣù kíni ọdún ni ______.",
+    "options": {
+      "A": "January",
+      "B": "December",
+      "C": "June",
+      "D": "March"
+    },
+    "correct": "A",
+    "explanation": "January is the first month."
+  },
+  {
+    "id": 21,
+    "text": "Kí ni àmì ohùn 'Do'?",
+    "options": {
+      "A": "Òkè",
+      "B": "Ilẹ̀",
+      "C": "Àárín",
+      "D": "Kò sí"
+    },
+    "correct": "B",
+    "explanation": "'Do' is represented by the low tone mark (Grave accent `)."
+  },
+  {
+    "id": 22,
+    "text": "Pari owe yii: 'Ọmọ tí yóò jẹ aṣàmú, kékeré ni yóò ti ______.'",
+    "options": {
+      "A": "Sùn",
+      "B": "Jẹun",
+      "C": "Sẹnu sámúsámú",
+      "D": "Sunkún"
+    },
+    "correct": "C",
+    "explanation": "Proverb: A child who will be sharp shows it early."
+  },
+  {
+    "id": 23,
+    "text": "Kí ni 'Money'?",
+    "options": {
+      "A": "Owó",
+      "B": "Aṣọ",
+      "C": "Ilé",
+      "D": "Ọkọ̀"
+    },
+    "correct": "A",
+    "explanation": "Owó means Money."
+  },
+  {
+    "id": 24,
+    "text": "Orúkọ wo ni a ń fún ọmọ tí a bí lẹ́yìn ìbejì?",
+    "options": {
+      "A": "Dòtún",
+      "B": "Ìdòwú",
+      "C": "Kẹ́hìndé",
+      "D": "Táíwò"
+    },
+    "correct": "B",
+    "explanation": "Idowu comes after twins."
+  },
+  {
+    "id": 25,
+    "text": "Kí ni 'Dog'?",
+    "options": {
+      "A": "Ológbò",
+      "B": "Ajá",
+      "C": "Ewúrẹ́",
+      "D": "Adìyẹ"
+    },
+    "correct": "B",
+    "explanation": "Ajá means Dog."
+  },
+  {
+    "id": 26,
+    "text": "Ọba ìlú Ifẹ̀ ni ______.",
+    "options": {
+      "A": "Ooni",
+      "B": "Alaafin",
+      "C": "Awujale",
+      "D": "Alake"
+    },
+    "correct": "A",
+    "explanation": "The Ooni rules Ile-Ife."
+  },
+  {
+    "id": 27,
+    "text": "Èwo ni kì í ṣe ẹ̀yà ara?",
+    "options": {
+      "A": "Orí",
+      "B": "Bàtà",
+      "C": "Ọwọ́",
+      "D": "Ẹsẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Bàtà (Shoe) is not a body part."
+  },
+  {
+    "id": 28,
+    "text": "Kí ni 'King'?",
+    "options": {
+      "A": "Ìjòyè",
+      "B": "Ọba",
+      "C": "Baálẹ̀",
+      "D": "Olórí"
+    },
+    "correct": "B",
+    "explanation": "Ọba means King."
+  },
+  {
+    "id": 29,
+    "text": "Kí ni a máa ń wọ̀ sí ọrùn?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Ìlẹ̀kẹ̀",
+      "C": "Fìlà",
+      "D": "Gélè"
+    },
+    "correct": "B",
+    "explanation": "Beads (Ìlẹ̀kẹ̀) are worn on the neck (and waist/wrist)."
+  },
+  {
+    "id": 30,
+    "text": "Èdè wo ni wọ́n ń sọ ní Ìbàdàn?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yorùbá",
+      "C": "Igbo",
+      "D": "Efik"
+    },
+    "correct": "B",
+    "explanation": "Ibadan is a Yoruba city."
+  },
+  {
+    "id": 31,
+    "text": "Kí ni 'Market'?",
+    "options": {
+      "A": "Ilé",
+      "B": "Ọjà",
+      "C": "Oko",
+      "D": "Odò"
+    },
+    "correct": "B",
+    "explanation": "Ọjà means Market."
+  },
+  {
+    "id": 32,
+    "text": "Ta ni ó bí Ìyá?",
+    "options": {
+      "A": "Ìyá-nlá",
+      "B": "Bàbá",
+      "C": "Ọmọ",
+      "D": "Àbúrò"
+    },
+    "correct": "A",
+    "explanation": "Grandmother (Iya-nla) is Mother's mother."
+  },
+  {
+    "id": 33,
+    "text": "Kí ni 'Book'?",
+    "options": {
+      "A": "Bíró",
+      "B": "Ìwé",
+      "C": "Pátákó",
+      "D": "Tábìlì"
+    },
+    "correct": "B",
+    "explanation": "Ìwé means Book."
+  },
+  {
+    "id": 34,
+    "text": "Kí ni àmì ohùn 'Mi'?",
+    "options": {
+      "A": "Dò",
+      "B": "Re",
+      "C": "Mi",
+      "D": "Fa"
+    },
+    "correct": "C",
+    "explanation": "'Mi' is the mid tone (no mark or macron)."
+  },
+  {
+    "id": 35,
+    "text": "Èwo ni oúnjẹ ilẹ̀ Yorùbá?",
+    "options": {
+      "A": "Pizza",
+      "B": "Àmàlà",
+      "C": "Burger",
+      "D": "Shawarma"
+    },
+    "correct": "B",
+    "explanation": "Amala is a traditional Yoruba food."
+  },
+  {
+    "id": 36,
+    "text": "Kí ni 'Hand'?",
+    "options": {
+      "A": "Ẹsẹ̀",
+      "B": "Ọwọ́",
+      "C": "Orí",
+      "D": "Ikùn"
+    },
+    "correct": "B",
+    "explanation": "Ọwọ́ means Hand."
+  },
+  {
+    "id": 37,
+    "text": "Mélòó ni 'Ten'?",
+    "options": {
+      "A": "Marun",
+      "B": "Mẹ́wàá",
+      "C": "Meje",
+      "D": "Mẹjọ"
+    },
+    "correct": "B",
+    "explanation": "Mẹ́wàá is 10."
+  },
+  {
+    "id": 38,
+    "text": "Kí ni 'House'?",
+    "options": {
+      "A": "Ọjà",
+      "B": "Ilé",
+      "C": "Oko",
+      "D": "Ọ̀nà"
+    },
+    "correct": "B",
+    "explanation": "Ilé means House."
+  },
+  {
+    "id": 39,
+    "text": "Pari owe yii: 'Ilé la á wò, ká tó sọmọ lórúkọ.'",
+    "options": {
+      "A": "Sọmọ lórúkọ",
+      "B": "Jẹun",
+      "C": "Sùn",
+      "D": "Lọ"
+    },
+    "correct": "A",
+    "explanation": "We look at the home/circumstances before naming a child."
+  },
+  {
+    "id": 40,
+    "text": "Kí ni 'Wife'?",
+    "options": {
+      "A": "Ọkọ",
+      "B": "Ìyàwó",
+      "C": "Ọmọ",
+      "D": "Ìyá"
+    },
+    "correct": "B",
+    "explanation": "Ìyàwó means Wife."
+  },
+  {
+    "id": 41,
+    "text": "Kí ni 'Snake'?",
+    "options": {
+      "A": "Ejò",
+      "B": "Eku",
+      "C": "Ẹja",
+      "D": "Eye"
+    },
+    "correct": "A",
+    "explanation": "Ejò means Snake."
+  },
+  {
+    "id": 42,
+    "text": "Kí ni a máa ń fi ń gbọ́rọ̀?",
+    "options": {
+      "A": "Imú",
+      "B": "Etí",
+      "C": "Ẹnu",
+      "D": "Ojú"
+    },
+    "correct": "B",
+    "explanation": "We hear with our Ears (Etí)."
+  },
+  {
+    "id": 43,
+    "text": "Kí ni 'Sit down'?",
+    "options": {
+      "A": "Dìde",
+      "B": "Jókòó",
+      "C": "Lọ",
+      "D": "Wá"
+    },
+    "correct": "B",
+    "explanation": "Jókòó means Sit down."
+  },
+  {
+    "id": 44,
+    "text": "Ta ni ó kéré sí ẹni?",
+    "options": {
+      "A": "Ẹ̀gbọ́n",
+      "B": "Àbúrò",
+      "C": "Bàbá",
+      "D": "Ìyá"
+    },
+    "correct": "B",
+    "explanation": "Àbúrò is a younger sibling."
+  },
+  {
+    "id": 45,
+    "text": "Kí ni 'Fish'?",
+    "options": {
+      "A": "Eran",
+      "B": "Ẹja",
+      "C": "Ewúro",
+      "D": "Epo"
+    },
+    "correct": "B",
+    "explanation": "Ẹja means Fish."
+  },
+  {
+    "id": 46,
+    "text": "Kí ni 'Teacher'?",
+    "options": {
+      "A": "Akẹ́kọ̀ọ́",
+      "B": "Olùkọ́",
+      "C": "Dókítà",
+      "D": "Agbẹ"
+    },
+    "correct": "B",
+    "explanation": "Olùkọ́ is a Teacher."
+  },
+  {
+    "id": 47,
+    "text": "Èwo ni kì í ṣe oúnjẹ?",
+    "options": {
+      "A": "Ìrẹsì",
+      "B": "Òkúta",
+      "C": "Ẹ̀bà",
+      "D": "Iyán"
+    },
+    "correct": "B",
+    "explanation": "Òkúta (Stone) is not food."
+  },
+  {
+    "id": 48,
+    "text": "Kí ni 'Black'?",
+    "options": {
+      "A": "Pupa",
+      "B": "Dúdú",
+      "C": "Funfun",
+      "D": "Yẹ́lò"
+    },
+    "correct": "B",
+    "explanation": "Dúdú means Black."
+  },
+  {
+    "id": 49,
+    "text": "Kí ni 'Husband'?",
+    "options": {
+      "A": "Ìyàwó",
+      "B": "Ọkọ",
+      "C": "Ọmọ",
+      "D": "Àbúrò"
+    },
+    "correct": "B",
+    "explanation": "Ọkọ means Husband."
+  },
+  {
+    "id": 50,
+    "text": "Kí ni a máa ń fi ń kọ̀wé?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Kálámù/Bíró",
+      "C": "Abẹ́",
+      "D": "Òkúta"
+    },
+    "correct": "B",
+    "explanation": "Pen (Kálámù/Bíró) is used for writing."
+  },
+  {
+    "id": 51,
+    "text": "Kí ni 'Sun'?",
+    "options": {
+      "A": "Òṣùpá",
+      "B": "Oòrùn",
+      "C": "Ìràwọ̀",
+      "D": "Ojú-ọ̀run"
+    },
+    "correct": "B",
+    "explanation": "Oòrùn is Sun."
+  },
+  {
+    "id": 52,
+    "text": "Kí ni 'Moon'?",
+    "options": {
+      "A": "Oòrùn",
+      "B": "Òṣùpá",
+      "C": "Afẹ́fẹ́",
+      "D": "Ilẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Òṣùpá is Moon."
+  },
+  {
+    "id": 53,
+    "text": "Oríkì fún ìbejì ni ______.",
+    "options": {
+      "A": "Àkànjí",
+      "B": "Ẹ̀jìrẹ́",
+      "C": "Àyìnlá",
+      "D": "Àdùnní"
+    },
+    "correct": "B",
+    "explanation": "Twins are praised as 'Ẹ̀jìrẹ́'."
+  },
+  {
+    "id": 54,
+    "text": "Kí ni 'Chicken'?",
+    "options": {
+      "A": "Ewúrẹ́",
+      "B": "Adìyẹ",
+      "C": "Agùntàn",
+      "D": "Maalu"
+    },
+    "correct": "B",
+    "explanation": "Adìyẹ means Chicken."
+  },
+  {
+    "id": 55,
+    "text": "Èwo ni ẹ̀yà ara tí a fi ń mí?",
+    "options": {
+      "A": "Etí",
+      "B": "Imú",
+      "C": "Ẹnu",
+      "D": "Ojú"
+    },
+    "correct": "B",
+    "explanation": "We breathe with the Nose (Imú)."
+  },
+  {
+    "id": 56,
+    "text": "Kí ni 'Red'?",
+    "options": {
+      "A": "Dúdú",
+      "B": "Pupa",
+      "C": "Funfun",
+      "D": "Àwọ̀ ewé"
+    },
+    "correct": "B",
+    "explanation": "Pupa means Red."
+  },
+  {
+    "id": 57,
+    "text": "Ọmọ tí a bí pẹ̀lú irun dídi ni ______.",
+    "options": {
+      "A": "Dàda",
+      "B": "Ìgè",
+      "C": "Òjó",
+      "D": "Àìná"
+    },
+    "correct": "A",
+    "explanation": "Dada is born with curly/matted hair."
+  },
+  {
+    "id": 58,
+    "text": "Kí ni 'Sleep'?",
+    "options": {
+      "A": "Jí",
+      "B": "Sùn",
+      "C": "Rìn",
+      "D": "Sọ̀rọ̀"
+    },
+    "correct": "B",
+    "explanation": "Sùn means Sleep."
+  },
+  {
+    "id": 59,
+    "text": "Èwo ni 'Cat'?",
+    "options": {
+      "A": "Ajá",
+      "B": "Ológbò",
+      "C": "Eku",
+      "D": "Ewúrẹ́"
+    },
+    "correct": "B",
+    "explanation": "Ológbò means Cat."
+  },
+  {
+    "id": 60,
+    "text": "Kí ni 'Thank you'?",
+    "options": {
+      "A": "Pẹ̀lẹ́",
+      "B": "E ṣe",
+      "C": "Káàbọ̀",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "E ṣe / O ṣe means Thank you."
+  },
+  {
+    "id": 61,
+    "text": "Kí ni 'Fire'?",
+    "options": {
+      "A": "Omi",
+      "B": "Iná",
+      "C": "Afẹ́fẹ́",
+      "D": "Erupe"
+    },
+    "correct": "B",
+    "explanation": "Iná means Fire."
+  },
+  {
+    "id": 62,
+    "text": "Ta ni ó dàgbà jù?",
+    "options": {
+      "A": "Ọmọ",
+      "B": "Bàbá",
+      "C": "Àbúrò",
+      "D": "Ìyàwó"
+    },
+    "correct": "B",
+    "explanation": "Father (Baba) is older than Child (Ọmọ) or Younger sibling."
+  },
+  {
+    "id": 63,
+    "text": "Kí ni 'Mouth'?",
+    "options": {
+      "A": "Ojú",
+      "B": "Ẹnu",
+      "C": "Etí",
+      "D": "Imú"
+    },
+    "correct": "B",
+    "explanation": "Ẹnu means Mouth."
+  },
+  {
+    "id": 64,
+    "text": "Kí ni 'Go'?",
+    "options": {
+      "A": "Wá",
+      "B": "Lọ",
+      "C": "Dúró",
+      "D": "Sá"
+    },
+    "correct": "B",
+    "explanation": "Lọ means Go."
+  },
+  {
+    "id": 65,
+    "text": "Kí ni 'Cloth'?",
+    "options": {
+      "A": "Bàtà",
+      "B": "Aṣọ",
+      "C": "Fìlà",
+      "D": "Ìlẹ̀kẹ̀"
+    },
+    "correct": "B",
+    "explanation": "Aṣọ means Cloth."
+  },
+  {
+    "id": 66,
+    "text": "Kí ni 'Tree'?",
+    "options": {
+      "A": "Igi",
+      "B": "Ewé",
+      "C": "Òdòdó",
+      "D": "Gbòngbò"
+    },
+    "correct": "A",
+    "explanation": "Igi means Tree."
+  },
+  {
+    "id": 67,
+    "text": "Kí ni 'Bird'?",
+    "options": {
+      "A": "Ẹja",
+      "B": "Ẹyẹ",
+      "C": "Eku",
+      "D": "Ejò"
+    },
+    "correct": "B",
+    "explanation": "Ẹyẹ means Bird."
+  },
+  {
+    "id": 68,
+    "text": "Mélòó ni 'Three'?",
+    "options": {
+      "A": "Méjì",
+      "B": "Mẹ́ta",
+      "C": "Mẹ́rin",
+      "D": "Márùn-ún"
+    },
+    "correct": "B",
+    "explanation": "Mẹ́ta is 3."
+  },
+  {
+    "id": 69,
+    "text": "Kí ni 'Earth/Ground'?",
+    "options": {
+      "A": "Ọ̀run",
+      "B": "Ilẹ̀",
+      "C": "Omi",
+      "D": "Iná"
+    },
+    "correct": "B",
+    "explanation": "Ilẹ̀ means Ground/Earth."
+  },
+  {
+    "id": 70,
+    "text": "Kí ni 'Good Night'?",
+    "options": {
+      "A": "Káàbọ̀",
+      "B": "Ó dáàrọ̀",
+      "C": "Ẹ kú alé",
+      "D": "Ó dàbọ̀"
+    },
+    "correct": "B",
+    "explanation": "Ó dáàrọ̀ (Till morning) is Goodnight."
+  }
+]

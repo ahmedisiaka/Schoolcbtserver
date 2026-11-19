@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The legendary strategy of using a hollow wooden horse to infiltrate the city of Troy is associated with which war?",
+        "image": "",
+        "options": [
+            "The Persian War",
+            "The Trojan War",
+            "The Peloponnesian War",
+            "The Punic War"
+        ],
+        "answer": "The Trojan War",
+        "explanation": "According to Greek mythology, the Greeks used the Trojan Horse to enter the city of Troy and end the ten-year siege."
+    },
+    {
+        "id": "H02",
+        "text": "Who led the famous slave revolt against the $\\textbf{Roman Republic}$ in 73 BC?",
+        "image": "",
+        "options": [
+            "Hannibal",
+            "Spartacus",
+            "Vercingetorix",
+            "Boudicca"
+        ],
+        "answer": "Spartacus",
+        "explanation": "Spartacus was a Thracian gladiator who became one of the escaped slave leaders in the Third Servile War."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Bayeux Tapestry}$ depicts the events leading up to which historic battle?",
+        "image": "",
+        "options": [
+            "The Battle of Agincourt",
+            "The Battle of Hastings",
+            "The Battle of Tours",
+            "The Battle of Waterloo"
+        ],
+        "answer": "The Battle of Hastings",
+        "explanation": "This famous embroidery illustrates the Norman Conquest of England in 1066."
+    },
+    {
+        "id": "H04",
+        "text": "Which explorer is credited with being the first European to land in North America, nearly 500 years before Columbus?",
+        "image": "",
+        "options": [
+            "Erik the Red",
+            "Leif Erikson",
+            "Marco Polo",
+            "Amerigo Vespucci"
+        ],
+        "answer": "Leif Erikson",
+        "explanation": "The Norse explorer established a settlement at Vinland (present-day Newfoundland) around 1000 AD."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Divine Comedy}$, a cornerstone of Italian literature, was written by:",
+        "image": "",
+        "options": [
+            "Petrarch",
+            "Boccaccio",
+            "Dante Alighieri",
+            "Machiavelli"
+        ],
+        "answer": "Dante Alighieri",
+        "explanation": "Written in the 14th century, it describes Dante's journey through Hell, Purgatory, and Paradise."
+    },
+    {
+        "id": "H06",
+        "text": "Which Spanish Conquistador is responsible for the fall of the $\\textbf{Aztec Empire}$?",
+        "image": "",
+        "options": [
+            "Francisco Pizarro",
+            "Hernán Cortés",
+            "Juan Ponce de León",
+            "Vasco Núñez de Balboa"
+        ],
+        "answer": "Hernán Cortés",
+        "explanation": "Cortés arrived in Mexico in 1519 and eventually conquered the Aztec capital of Tenochtitlán."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Fountain of Youth}$ was a legendary spring sought by which explorer?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Juan Ponce de León",
+            "John Cabot"
+        ],
+        "answer": "Juan Ponce de León",
+        "explanation": "Ponce de León explored modern-day Florida in 1513 in search of the mythical fountain."
+    },
+    {
+        "id": "H08",
+        "text": "Who was the first Englishman to circumnavigate the globe?",
+        "image": "",
+        "options": [
+            "Walter Raleigh",
+            "James Cook",
+            "Sir Francis Drake",
+            "Henry Hudson"
+        ],
+        "answer": "Sir Francis Drake",
+        "explanation": "Drake completed his circumnavigation in 1580 aboard the Golden Hind."
+    },
+    {
+        "id": "H09",
+        "text": "The Native American woman $\\textbf{Pocahontas}$ is associated with the colonial settlement of:",
+        "image": "",
+        "options": [
+            "Plymouth",
+            "Jamestown",
+            "Roanoke",
+            "New Amsterdam"
+        ],
+        "answer": "Jamestown",
+        "explanation": "She was the daughter of Chief Powhatan and is famous for her association with the English colonists in Virginia."
+    },
+    {
+        "id": "H10",
+        "text": "Who formulated the $\\textbf{Laws of Planetary Motion}$?",
+        "image": "",
+        "options": [
+            "Isaac Newton",
+            "Johannes Kepler",
+            "Galileo Galilei",
+            "Tycho Brahe"
+        ],
+        "answer": "Johannes Kepler",
+        "explanation": "Kepler was a key figure in the 17th-century scientific revolution, best known for his laws defining planetary orbits."
+    },
+    {
+        "id": "H11",
+        "text": "Which Russian Empress is known as $\\textbf{'The Great'}$ and expanded the empire significantly in the 18th century?",
+        "image": "",
+        "options": [
+            "Elizabeth",
+            "Catherine II",
+            "Alexandra",
+            "Anna"
+        ],
+        "answer": "Catherine II",
+        "explanation": "Catherine the Great ruled from 1762 to 1796, modernizing Russia along Western European lines."
+    },
+    {
+        "id": "H12",
+        "text": "During the $\\textbf{War of 1812}$, British forces famously burned down which major building?",
+        "image": "",
+        "options": [
+            "The Pentagon",
+            "The White House",
+            "Independence Hall",
+            "The Old North Church"
+        ],
+        "answer": "The White House",
+        "explanation": "British troops occupied Washington, D.C., in 1814 and set fire to many public buildings, including the White House."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Battle of the Alamo}$ took place during the struggle for independence of which territory?",
+        "image": "",
+        "options": [
+            "California",
+            "Florida",
+            "Texas",
+            "New Mexico"
+        ],
+        "answer": "Texas",
+        "explanation": "The 1836 battle became a symbol of resistance for Texans fighting for independence from Mexico."
+    },
+    {
+        "id": "H14",
+        "text": "Who was the most famous 'conductor' on the $\\textbf{Underground Railroad}$?",
+        "image": "",
+        "options": [
+            "Frederick Douglass",
+            "Sojourner Truth",
+            "Harriet Tubman",
+            "Nat Turner"
+        ],
+        "answer": "Harriet Tubman",
+        "explanation": "Tubman escaped slavery and made some 13 missions to rescue approximately 70 enslaved people."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Pony Express}$ was a mail service delivering messages between:",
+        "image": "",
+        "options": [
+            "New York and London",
+            "Missouri and California",
+            "Boston and Philadelphia",
+            "Texas and Mexico"
+        ],
+        "answer": "Missouri and California",
+        "explanation": "Operating in 1860–1861, riders on horseback carried mail across the American West."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Statue of Liberty}$ was a gift to the United States from which country?",
+        "image": "",
+        "options": [
+            "Great Britain",
+            "France",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "France",
+        "explanation": "Dedicated in 1886, the statue was a gift from the people of France to commemorate the alliance between the two nations."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Eiffel Tower}$ was constructed as the entrance arch for:",
+        "image": "",
+        "options": [
+            "The 1889 World's Fair",
+            "The coronation of Napoleon",
+            "The 1900 Olympics",
+            "The French Revolution Centennial"
+        ],
+        "answer": "The 1889 World's Fair",
+        "explanation": "Initially criticized by some of France's leading artists, it has become a global cultural icon of France."
+    },
+    {
+        "id": "H18",
+        "text": "Who was the mystical adviser to the Romanovs whose influence contributed to the fall of the Russian monarchy?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Grigori Rasputin",
+            "Peter Stolypin"
+        ],
+        "answer": "Grigori Rasputin",
+        "explanation": "Rasputin's influence over Tsar Nicholas II and Empress Alexandra scandalous Russian society."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{18th Amendment}$ to the US Constitution established:",
+        "image": "",
+        "options": [
+            "Women's Suffrage",
+            "Prohibition of Alcohol",
+            "Direct Election of Senators",
+            "Income Tax"
+        ],
+        "answer": "Prohibition of Alcohol",
+        "explanation": "Ratified in 1919, it banned the manufacture, sale, and transportation of intoxicating liquors (repealed by the 21st Amendment)."
+    },
+    {
+        "id": "H20",
+        "text": "Who made the first solo nonstop flight across the Atlantic Ocean in the $\\textbf{Spirit of St. Louis}$?",
+        "image": "",
+        "options": [
+            "Howard Hughes",
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "Orville Wright"
+        ],
+        "answer": "Charles Lindbergh",
+        "explanation": "In 1927, Lindbergh flew from New York to Paris, becoming an international celebrity."
+    },
+    {
+        "id": "H21",
+        "text": "Which American athlete won four gold medals at the $\\textbf{1936 Berlin Olympics}$, defying Nazi ideology?",
+        "image": "",
+        "options": [
+            "Jackie Robinson",
+            "Muhammad Ali",
+            "Jesse Owens",
+            "Joe Louis"
+        ],
+        "answer": "Jesse Owens",
+        "explanation": "Owens' success crushed Hitler's myth of Aryan supremacy on a global stage."
+    },
+    {
+        "id": "H22",
+        "text": "The diary of a young Jewish girl hiding from the Nazis in Amsterdam is titled $\\textbf{The Diary of a Young Girl}$ by:",
+        "image": "",
+        "options": [
+            "Elie Wiesel",
+            "Anne Frank",
+            "Hannah Arendt",
+            "Sophie Scholl"
+        ],
+        "answer": "Anne Frank",
+        "explanation": "Anne Frank's diary is one of the most widely read books in the world, documenting her life in hiding from 1942 to 1944."
+    },
+    {
+        "id": "H23",
+        "text": "Which Civil Rights leader was known for advocating self-defense and black nationalism before his assassination in 1965?",
+        "image": "",
+        "options": [
+            "Martin Luther King Jr.",
+            "Malcolm X",
+            "Medgar Evers",
+            "John Lewis"
+        ],
+        "answer": "Malcolm X",
+        "explanation": "A prominent figure in the Nation of Islam, he later embraced Sunni Islam and civil rights activism."
+    },
+    {
+        "id": "H24",
+        "text": "Dr. Jonas Salk is famous for developing the first successful vaccine for:",
+        "image": "",
+        "options": [
+            "Smallpox",
+            "Polio",
+            "Measles",
+            "Influenza"
+        ],
+        "answer": "Polio",
+        "explanation": "Introduced in 1955, the vaccine contributed to the near-eradication of polio worldwide."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Woodstock}$ music festival, a pivotal moment in popular music history, took place in:",
+        "image": "",
+        "options": [
+            "1959",
+            "1969",
+            "1979",
+            "1989"
+        ],
+        "answer": "1969",
+        "explanation": "Held in upstate New York, it attracted over 400,000 people and became a symbol of the counterculture generation."
+    },
+    {
+        "id": "H26",
+        "text": "Which mountain face in South Dakota features the carved heads of four US Presidents?",
+        "image": "",
+        "options": [
+            "Mount McKinley",
+            "Mount Rainier",
+            "Mount Rushmore",
+            "Mount Everest"
+        ],
+        "answer": "Mount Rushmore",
+        "explanation": "It features sculptures of Washington, Jefferson, T. Roosevelt, and Lincoln."
+    },
+    {
+        "id": "H27",
+        "text": "Who is considered the founder of modern $\\textbf{nursing}$?",
+        "image": "",
+        "options": [
+            "Clara Barton",
+            "Florence Nightingale",
+            "Elizabeth Blackwell",
+            "Mother Teresa"
+        ],
+        "answer": "Florence Nightingale",
+        "explanation": "Known as 'The Lady with the Lamp', she came to prominence while serving as a manager and trainer of nurses during the Crimean War."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Battle of Midway}$ (1942) was a crucial naval battle in the Pacific Theater of:",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Korean War",
+            "The Vietnam War"
+        ],
+        "answer": "World War II",
+        "explanation": "The US Navy defeated an attacking fleet of the Imperial Japanese Navy, marking a turning point in the Pacific."
+    },
+    {
+        "id": "H29",
+        "text": "The raising of the US flag on Mount Suribachi is an iconic image from the Battle of:",
+        "image": "",
+        "options": [
+            "Okinawa",
+            "Guadalcanal",
+            "Iwo Jima",
+            "Normandy"
+        ],
+        "answer": "Iwo Jima",
+        "explanation": "The photograph by Joe Rosenthal is one of the most recognizable images of World War II."
+    },
+    {
+        "id": "H30",
+        "text": "Who established the $\\textbf{Fascist Party}$ in Italy?",
+        "image": "",
+        "options": [
+            "Adolf Hitler",
+            "Francisco Franco",
+            "Benito Mussolini",
+            "Joseph Stalin"
+        ],
+        "answer": "Benito Mussolini",
+        "explanation": "Mussolini founded the party in 1919 and ruled Italy as a dictator from 1925 to 1943."
+    },
+    {
+        "id": "H31",
+        "text": "Which Soviet leader implemented the $\\textbf{Five-Year Plans}$ to industrialize the USSR?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Nikita Khrushchev",
+            "Leon Trotsky"
+        ],
+        "answer": "Joseph Stalin",
+        "explanation": "Stalin's centralized economic plans rapidly industrialized the Soviet Union but at a tremendous human cost."
+    },
+    {
+        "id": "H32",
+        "text": "Which Commodore led the naval expedition that forced Japan to open trade with the West in 1853?",
+        "image": "",
+        "options": [
+            "Matthew Perry",
+            "George Dewey",
+            "Chester Nimitz",
+            "David Farragut"
+        ],
+        "answer": "Matthew Perry",
+        "explanation": "Perry's 'Black Ships' ended over 200 years of Japanese isolationism."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Boer War}$ was fought between the British Empire and settlers of Dutch origin in:",
+        "image": "",
+        "options": [
+            "Australia",
+            "South Africa",
+            "India",
+            "Canada"
+        ],
+        "answer": "South Africa",
+        "explanation": "The conflict (1899–1902) resulted in British victory and the eventual formation of the Union of South Africa."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{San Francisco Earthquake}$ of 1906 was followed by massive:",
+        "image": "",
+        "options": [
+            "Floods",
+            "Fires",
+            "Tsunamis",
+            "Riots"
+        ],
+        "answer": "Fires",
+        "explanation": "The fires that broke out after the quake caused more damage than the earthquake itself."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Klondike Gold Rush}$ took place in which region?",
+        "image": "",
+        "options": [
+            "California",
+            "Yukon (Canada)",
+            "South Africa",
+            "Australia"
+        ],
+        "answer": "Yukon (Canada)",
+        "explanation": "In the late 1890s, an estimated 100,000 prospectors migrated to the Klondike region of the Yukon."
+    },
+    {
+        "id": "H36",
+        "text": "Which Scottish hero defeated the English at the $\\textbf{Battle of Stirling Bridge}$ in 1297?",
+        "image": "",
+        "options": [
+            "Robert the Bruce",
+            "William Wallace",
+            "Mary, Queen of Scots",
+            "Rob Roy"
+        ],
+        "answer": "William Wallace",
+        "explanation": "Wallace was a key leader in the First War of Scottish Independence."
+    },
+    {
+        "id": "H37",
+        "text": "Who was the ruler of the $\\textbf{Huns}$ known as the 'Scourge of God'?",
+        "image": "",
+        "options": [
+            "Genghis Khan",
+            "Attila",
+            "Alaric",
+            "Odoacer"
+        ],
+        "answer": "Attila",
+        "explanation": "Attila the Hun was the ruler of the Huns from 434 until his death in 453 and was a feared enemy of the Roman Empire."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Aztec}$ emperor at the time of the Spanish conquest was:",
+        "image": "",
+        "options": [
+            "Atahualpa",
+            "Pachacuti",
+            "Montezuma II",
+            "Cuauhtémoc"
+        ],
+        "answer": "Montezuma II",
+        "explanation": "Montezuma was killed during the initial stages of the Spanish conquest of Mexico."
+    },
+    {
+        "id": "H39",
+        "text": "Which civilization built the $\\textbf{Chichen Itza}$ pyramid?",
+        "image": "",
+        "options": [
+            "The Aztec",
+            "The Inca",
+            "The Maya",
+            "The Olmec"
+        ],
+        "answer": "The Maya",
+        "explanation": "Chichen Itza was a major focal point in the Northern Maya Lowlands."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Battle of Marathon}$ is the origin of which modern sporting event?",
+        "image": "",
+        "options": [
+            "The Triathlon",
+            "The Pentathlon",
+            "The Marathon",
+            "The Decathlon"
+        ],
+        "answer": "The Marathon",
+        "explanation": "Legend says Pheidippides ran from the battlefield of Marathon to Athens to announce the victory, a distance of about 26 miles."
+    }
+]

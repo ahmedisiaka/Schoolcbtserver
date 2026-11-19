@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E0081",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{government}$ imposed the $\\textbf{first}$ $\\textbf{major}$ $\\textbf{tariffs}$ on $\\textbf{steel}$ and $\\textbf{aluminum}$ imports in $\\textbf{March}$ $\\textbf{2018}$, citing $\\textbf{national}$ $\\textbf{security}$ concerns under $\\textbf{Section}$ $\\textbf{232}$ of the $\\textbf{Trade}$ $\\textbf{Expansion}$ $\\textbf{Act}$.",
+        "image": "",
+        "options": [
+            "Section 301",
+            "Section 232",
+            "Section 421",
+            "Section 504"
+        ],
+        "answer": "Section 232",
+        "explanation": "Section 232 of the 1962 Trade Expansion Act allows the U.S. to restrict imports if they threaten national security."
+    },
+    {
+        "id": "E0082",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Federal}$ $\\textbf{Reserve}$ raised the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{four}$ $\\textbf{times}$ in $\\textbf{2018}$ (March, June, September, December), pushing the target range to $\\textbf{2.25}\\%$-$\\textbf{2.50}\\%$.",
+        "image": "",
+        "options": [
+            "One time",
+            "Two times",
+            "Three times",
+            "Four times"
+        ],
+        "answer": "Four times",
+        "explanation": "This aggressive pace of tightening, combined with Quantitative Tightening (QT), was a major factor in the late-year market volatility."
+    },
+    {
+        "id": "E0083",
+        "text": "The $\\textbf{U.S.}$ $\textbf{tariffs}$ on $\\textbf{Chinese}$ $\\textbf{goods}$ imposed in $\\textbf{2018}$ were primarily justified under $\\textbf{Section}$ $\\textbf{301}$ of the $\\textbf{Trade}$ $\\textbf{Act}$ of $\\textbf{1974}$, citing $\\textbf{unfair}$ $\\textbf{technology}$ $\\textbf{transfer}$ practices.",
+        "image": "",
+        "options": [
+            "Massive deflation",
+            "Unfair technology transfer practices",
+            "Environmental concerns",
+            "High labor costs"
+        ],
+        "answer": "Unfair technology transfer practices",
+        "explanation": "Section 301 authorizes the President to take all appropriate action to retaliate against foreign trade practices deemed unfair."
+    },
+    {
+        "id": "E0084",
+        "text": "The $\\textbf{major}$ $\textbf{stock}$ $\textbf{market}$ $\textbf{event}$ in $\\textbf{February}$ $\\textbf{2018}$ was a $\\textbf{sudden}$ $\\textbf{spike}$ in $\\textbf{volatility}$ known as the $\\textbf{Volmageddon}$ event, which was triggered by $\\textbf{short}$ $\\textbf{volatility}$ $\\textbf{ETFs}$ unwinding.",
+        "image": "",
+        "options": [
+            "The Dot-com Bubble Burst",
+            "The Volmageddon event",
+            "The Asian Financial Crisis",
+            "The Brexit vote"
+        ],
+        "answer": "The Volmageddon event",
+        "explanation": "The sudden spike in the VIX index led to the collapse of complex exchange-traded products that bet on continued low volatility."
+    },
+    {
+        "id": "E0085",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{flattened}$ significantly throughout $\\textbf{2018}$, with the spread between the $\\textbf{10-year}$ and $\\textbf{2-year}$ $\\textbf{Treasury}$ $\\textbf{yields}$ reaching its $\\textbf{narrowest}$ $\\textbf{margin}$ in $\\textbf{a}$ $\textbf{decade}$.",
+        "image": "",
+        "options": [
+            "Steepened dramatically",
+            "Flattened significantly",
+            "Became inverted by 100 basis points",
+            "Remained unchanged"
+        ],
+        "answer": "Flattened significantly",
+        "explanation": "The Fed's hikes were pushing short-term rates up, while long-term rates were capped by global savings, causing the curve to flatten—a traditional signal of late-cycle caution."
+    },
+    {
+        "id": "E0086",
+        "text": "The $\\textbf{European}$ $\textbf{Central}$ $\textbf{Bank}$ ($\\textbf{ECB}$) $\\textbf{ended}$ its $\\textbf{Quantitative}$ $\\textbf{Easing}$ ($\\textbf{QE}$) program in $\\textbf{December}$ $\\textbf{2018}$, marking the $\\textbf{end}$ of $\\textbf{net}$ $\\textbf{asset}$ $\\textbf{purchases}$ after nearly $\\textbf{four}$ $\\textbf{years}$.",
+        "image": "",
+        "options": [
+            "Doubled its QE program",
+            "Ended its Quantitative Easing (QE) program",
+            "Started buying U.S. debt",
+            "Cut interest rates to zero"
+        ],
+        "answer": "Ended its Quantitative Easing (QE) program",
+        "explanation": "The decision was driven by the strong synchronized growth in the Eurozone, though concerns about trade and inflation remained."
+    },
+    {
+        "id": "E0087",
+        "text": "$\\textbf{China}$ $\\textbf{retaliated}$ to the $\\textbf{U.S.}$ $\textbf{tariffs}$ in $\\textbf{2018}$ primarily by imposing $\\textbf{counter-tariffs}$ on $\\textbf{U.S.}$ $\textbf{agricultural}$ $\\textbf{products}$ like $\\textbf{soybeans}$ and $\\textbf{pork}$.",
+        "image": "",
+        "options": [
+            "A currency revaluation",
+            "Counter-tariffs on U.S. agricultural products",
+            "Immediate repayment of all U.S. debt",
+            "Selling all its gold reserves"
+        ],
+        "answer": "Counter-tariffs on U.S. agricultural products",
+        "explanation": "This was a highly targeted political move aimed at hurting producers in U.S. farming states."
+    },
+    {
+        "id": "E0088",
+        "text": "The $\\textbf{U.S.}$ $\textbf{stock}$ $\textbf{market}$ suffered its $\\textbf{worst}$ $\\textbf{December}$ since $\\textbf{1931}$ in $\\textbf{2018}$, with the $\\textbf{S&P}$ $\\textbf{500}$ briefly entering $\\textbf{bear}$ $\\textbf{market}$ $\\textbf{territory}$ (a $\\textbf{20}\\%$ $\\textbf{drop}$ from its $\\textbf{peak}$).",
+        "image": "",
+        "options": [
+            "A huge rally",
+            "Its worst December since 1931",
+            "A minor correction",
+            "Zero volatility"
+        ],
+        "answer": "Its worst December since 1931",
+        "explanation": "The market reaction was driven by fears over the trade war, the aggressive Fed policy, and a looming government shutdown."
+    },
+    {
+        "id": "E0089",
+        "text": "The $\\textbf{primary}$ $\textbf{reason}$ the $\\textbf{Fed}$ $\\textbf{continued}$ its $\\textbf{aggressive}$ $\\textbf{hiking}$ schedule in $\\textbf{2018}$ was $\\textbf{fear}$ of $\\textbf{inflationary}$ $\\textbf{pressure}$ from the $\\textbf{Tax}$ $\\textbf{Cuts}$ $\\textbf{and}$ $\\textbf{Jobs}$ $\\textbf{Act}$ ($\\textbf{TCJA}$) $\\textbf{fiscal}$ $\\textbf{stimulus}$.",
+        "image": "",
+        "options": [
+            "To fight deflation",
+            "Fear of inflationary pressure from the TCJA fiscal stimulus",
+            "To stop a housing crash",
+            "To support the currency"
+        ],
+        "answer": "Fear of inflationary pressure from the TCJA fiscal stimulus",
+        "explanation": "The Fed worried that massive fiscal stimulus late in the cycle would overheat the economy, forcing them to hike rates pre-emptively."
+    },
+    {
+        "id": "E0090",
+        "text": "The $\\textbf{U.S.}$ $\textbf{current}$ $\textbf{account}$ $\textbf{deficit}$ $\\textbf{widened}$ in $\\textbf{2018}$ as $\\textbf{strong}$ $\\textbf{domestic}$ $\\textbf{demand}$ (fueled by $\\textbf{tax}$ $\\textbf{cuts}$) led to $\\textbf{increased}$ $\\textbf{imports}$.",
+        "image": "",
+        "options": [
+            "Narrowed dramatically",
+            "Widened",
+            "Turned into a surplus",
+            "Was eliminated by tariffs"
+        ],
+        "answer": "Widened",
+        "explanation": "The economic acceleration from the tax cuts led to increased consumption and investment, much of which was met by foreign goods, pushing the deficit wider."
+    },
+    {
+        "id": "E0091",
+        "text": "The $\\textbf{President}$ of the $\\textbf{Federal}$ $\\textbf{Reserve}$ who oversaw the $\\textbf{four}$ $\\textbf{rate}$ $\\textbf{hikes}$ in $\\textbf{2018}$ was $\\textbf{Jerome}$ $\\textbf{Powell}$, who began his term in $\\textbf{February}$.",
+        "image": "",
+        "options": [
+            "Ben Bernanke",
+            "Janet Yellen",
+            "Jerome Powell",
+            "Alan Greenspan"
+        ],
+        "answer": "Jerome Powell",
+        "explanation": "Powell took over from Yellen in February 2018 and maintained the course of policy normalization."
+    },
+    {
+        "id": "E0092",
+        "text": "The $\\textbf{primary}$ $\textbf{economic}$ $\textbf{consequence}$ of the $\\textbf{U.S.-China}$ $\\textbf{trade}$ $\textbf{war}$ in $\\textbf{2018}$ was $\\textbf{increased}$ $\\textbf{costs}$ for $\\textbf{U.S.}$ $\textbf{importers}$ and $\\textbf{retaliatory}$ $\\textbf{pain}$ for $\\textbf{U.S.}$ $\textbf{exporters}$.",
+        "image": "",
+        "options": [
+            "A sudden collapse in the U.S. dollar",
+            "Increased costs for U.S. importers and retaliatory pain for U.S. exporters",
+            "A huge expansion of global trade volume",
+            "The end of the Eurozone debt crisis"
+        ],
+        "answer": "Increased costs for U.S. importers and retaliatory pain for U.S. exporters",
+        "explanation": "The tariffs acted as taxes on imported goods, and China's retaliation severely reduced market access for key U.S. agricultural products."
+    },
+    {
+        "id": "E0093",
+        "text": "The $\\textbf{Eurozone}$'s $\\textbf{GDP}$ $\\textbf{growth}$ $\\textbf{slowed}$ $\\textbf{significantly}$ in $\\textbf{2018}$, moving from $\\textbf{synchronized}$ $\\textbf{growth}$ to $\\textbf{economic}$ $\\textbf{softness}$, driven by $\\textbf{trade}$ $\\textbf{uncertainty}$ and $\\textbf{Italian}$ $\\textbf{political}$ $\\textbf{risk}$.",
+        "image": "",
+        "options": [
+            "Accelerated rapidly",
+            "Slowed significantly",
+            "Turned negative",
+            "Was only positive in Greece"
+        ],
+        "answer": "Slowed significantly",
+        "explanation": "The Eurozone was highly exposed to global trade, and uncertainty quickly impacted its manufacturing heartland, particularly Germany."
+    },
+    {
+        "id": "E0094",
+        "text": "The $\\textbf{U.S.}$ $\textbf{dollar}$ $\textbf{strengthened}$ in $\\textbf{2018}$, primarily due to the $\\textbf{divergence}$ in $\\textbf{interest}$ $\\textbf{rates}$ between the $\\textbf{Fed}$ and the $\\textbf{ECB}$/$\\textbf{BoJ}$.",
+        "image": "",
+        "options": [
+            "Weakened significantly",
+            "Strengthened",
+            "Remained flat",
+            "Was fixed to the Euro"
+        ],
+        "answer": "Strengthened",
+        "explanation": "The U.S. offered higher yields (the 'dollar smile'), attracting global capital while other major central banks kept rates low."
+    },
+    {
+        "id": "E0095",
+        "text": "The $\\textbf{market}$ $\textbf{volatility}$ spike in $\\textbf{October}$ $\\textbf{2018}$ was largely attributed to the Fed $\\textbf{Chairman}$ $\\textbf{Jerome}$ $\\textbf{Powell}$'s statement that $\\textbf{interest}$ $\\textbf{rates}$ were $\\textbf{still}$ $\\textbf{'a}$ $\\textbf{long}$ $\\textbf{way}$ $\\textbf{from}$ $\\textbf{neutral}$'.",
+        "image": "",
+        "options": [
+            "A statement on trade war resolution",
+            "A statement that interest rates were 'a long way from neutral'",
+            "The launch of a new government bond",
+            "An agreement between OPEC and Russia"
+        ],
+        "answer": "A statement that interest rates were 'a long way from neutral'",
+        "explanation": "This comment was interpreted as highly hawkish, suggesting many more rate hikes were coming, leading investors to fear a recession."
+    },
+    {
+        "id": "E0096",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) made a $\\textbf{minor}$ $\textbf{adjustment}$ to its $\\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{Control}$ ($\\textbf{YCC}$) policy in $\\textbf{July}$ $\\textbf{2018}$ by $\\textbf{allowing}$ the $\\textbf{10-year}$ $\\textbf{JGB}$ $\\textbf{yield}$ to $\\textbf{fluctuate}$ $\\textbf{more}$ $\\textbf{freely}$ around $\\textbf{0}\\%$.",
+        "image": "",
+        "options": [
+            "Eliminated YCC completely",
+            "Allowed the 10-year JGB yield to fluctuate more freely around 0%",
+            "Cut the main policy rate to $-1.0\\%$",
+            "Started buying U.S. stocks"
+        ],
+        "answer": "Allowed the 10-year JGB yield to fluctuate more freely around 0%",
+        "explanation": "This was an attempt to improve the functioning of the bond market and ease pressure on bank profitability without abandoning the core policy."
+    },
+    {
+        "id": "E0097",
+        "text": "The $\\textbf{U.S.}$ $\textbf{economy}$ saw its $\\textbf{strongest}$ $\\textbf{quarter}$ of $\\textbf{GDP}$ $\\textbf{growth}$ of the $\\textbf{cycle}$ in $\\textbf{Q2}$ $\\textbf{2018}$, growing at an $\\textbf{annualized}$ $\\textbf{rate}$ of $\\textbf{4.2}\\%$, boosted by $\\textbf{fiscal}$ $\\textbf{stimulus}$.",
+        "image": "",
+        "options": [
+            "1.5%",
+            "4.2%",
+            "6.0%",
+            "-0.5%"
+        ],
+        "answer": "4.2%",
+        "explanation": "The combined effect of tax cuts and increased government spending provided a strong, albeit late-cycle, surge in growth."
+    },
+    {
+        "id": "E0098",
+        "text": "The $\\textbf{trade}$ $\textbf{tensions}$ in $\\textbf{2018}$ primarily impacted the $\\textbf{global}$ $\textbf{manufacturing}$ $\\textbf{sector}$, leading to a sharp $\\textbf{slowdown}$ in $\\textbf{industrial}$ $\textbf{production}$ worldwide.",
+        "image": "",
+        "options": [
+            "Only the services sector",
+            "The global manufacturing sector",
+            "The housing market",
+            "The energy sector"
+        ],
+        "answer": "The global manufacturing sector",
+        "explanation": "Manufacturing is highly sensitive to changes in trade policy and global demand uncertainty, leading to deferred investment."
+    },
+    {
+        "id": "E0099",
+        "text": "The $\\textbf{U.S.}$ $\textbf{budget}$ $\textbf{deficit}$ $\\textbf{soared}$ in $\\textbf{2018}$, reaching $\\textbf{\\$779}$ $\\textbf{billion}$, primarily due to the $\\textbf{revenue}$ $\\textbf{loss}$ from the $\\textbf{TCJA}$ and $\\textbf{increased}$ $\\textbf{government}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "Fell to its lowest level in history",
+            "Soared",
+            "Remained zero",
+            "Only affected local budgets"
+        ],
+        "answer": "Soared",
+        "explanation": "The combination of late-cycle fiscal stimulus and tax cuts created a widening structural deficit."
+    },
+    {
+        "id": "E0100",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{England}$ ($\\textbf{BoE}$) raised its $\\textbf{main}$ $\\textbf{interest}$ $\textbf{rate}$ in $\\textbf{August}$ $\\textbf{2018}$, citing the $\\textbf{erosion}$ of $\\textbf{spare}$ $\\textbf{capacity}$ and the $\\textbf{need}$ to $\\textbf{keep}$ $\\textbf{inflation}$ $\\textbf{in}$ $\\textbf{check}$.",
+        "image": "",
+        "options": [
+            "To fund a major infrastructure project",
+            "To combat deflation",
+            "To keep inflation in check",
+            "To support a collapsing housing market"
+        ],
+        "answer": "To keep inflation in check",
+        "explanation": "This was the second hike since the Brexit vote, as the UK economy continued to perform reasonably well despite uncertainty."
+    },
+    {
+        "id": "E0101",
+        "text": "The $\\textbf{emerging}$ $\textbf{markets}$ ($\\textbf{EM}$) asset class $\\textbf{suffered}$ $\\textbf{significant}$ $\\textbf{capital}$ $\textbf{outflows}$ in $\\textbf{2018}$, driven by the $\\textbf{stronger}$ $\\textbf{U.S.}$ $\textbf{dollar}$ and $\\textbf{rising}$ $\\textbf{U.S.}$ $\textbf{interest}$ $\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Saw a huge rally",
+            "Suffered significant capital outflows",
+            "Were unaffected",
+            "Only saw positive returns"
+        ],
+        "answer": "Suffered significant capital outflows",
+        "explanation": "Rising U.S. rates made dollar-denominated debt more expensive and drew capital out of riskier EM assets."
+    },
+    {
+        "id": "E0102",
+        "text": "The $\\textbf{Italian}$ $\textbf{sovereign}$ $\textbf{debt}$ $\textbf{market}$ experienced a major $\\textbf{spike}$ in $\\textbf{yields}$ in $\\textbf{2018}$ due to a $\\textbf{budgetary}$ $\\textbf{standoff}$ between the $\\textbf{new}$ $\\textbf{populist}$ $\\textbf{government}$ and the $\\textbf{European}$ $\\textbf{Commission}$.",
+        "image": "",
+        "options": [
+            "A sudden economic boom",
+            "A budgetary standoff between the new populist government and the European Commission",
+            "The launch of a new Eurobond",
+            "A major deflationary shock"
+        ],
+        "answer": "A budgetary standoff between the new populist government and the European Commission",
+        "explanation": "The conflict over Italy's high-spending budget increased fears of a return to the Eurozone crisis, driving bond yields up."
+    },
+    {
+        "id": "E0103",
+        "text": "The $\\textbf{U.S.}$ $\textbf{unemployment}$ $\textbf{rate}$ fell to $\\textbf{3.7}\\%$ in $\\textbf{2018}$, its $\\textbf{lowest}$ $\\textbf{level}$ since $\\textbf{1969}$, creating $\\textbf{wage}$ $\\textbf{pressure}$ and providing $\\textbf{justification}$ for $\\textbf{Fed}$ $\\textbf{rate}$ $\\textbf{hikes}$.",
+        "image": "",
+        "options": [
+            "5.0%",
+            "3.7%",
+            "4.5%",
+            "6.0%"
+        ],
+        "answer": "3.7%",
+        "explanation": "The extremely tight labor market was a key domestic indicator that the Fed pointed to as necessitating higher rates."
+    },
+    {
+        "id": "E0104",
+        "text": "The $\\textbf{S&P}$ $\textbf{500}$ finished $\\textbf{2018}$ with its $\\textbf{first}$ $\\textbf{annual}$ $\\textbf{loss}$ in $\\textbf{a}$ $\textbf{decade}$ (since $\\textbf{2008}$), closing the year $\\textbf{down}$ $\\textbf{6.2}\\%$.",
+        "image": "",
+        "options": [
+            "A huge gain of 20%",
+            "Its first annual loss in a decade",
+            "A flat return of 0%",
+            "A gain of 10%"
+        ],
+        "answer": "Its first annual loss in a decade",
+        "explanation": "The massive fourth-quarter correction was enough to wipe out the strong gains made in the first three quarters."
+    },
+    {
+        "id": "E0105",
+        "text": "The $\\textbf{Oil}$ $\textbf{Market}$ saw a $\\textbf{dramatic}$ $\textbf{collapse}$ in $\\textbf{Q4}$ $\\textbf{2018}$, with $\\textbf{Brent}$ $\textbf{Crude}$ falling from $\\textbf{\\$85}$ to $\\textbf{below}$ $\\textbf{\\$50}$ per $\\textbf{barrel}$ on fears of $\\textbf{global}$ $\\textbf{slowdown}$ and $\\textbf{excess}$ $\\textbf{supply}$.",
+        "image": "",
+        "options": [
+            "A steady rise to $100/barrel",
+            "A dramatic collapse in Q4",
+            "Remained flat around $60/barrel",
+            "Was only traded in the U.S."
+        ],
+        "answer": "A dramatic collapse in Q4",
+        "explanation": "The market went from fears of undersupply (due to Iran sanctions) to fears of oversupply (due to U.S. shale and global slowdown) in a single quarter."
+    },
+    {
+        "id": "E0106",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Treasury}$ $\textbf{Department}$ labeled $\\textbf{China}$ a $\\textbf{currency}$ $\\textbf{manipulator}$ in $\\textbf{2018}$ (although the designation was $\\textbf{later}$ $\\textbf{dropped}$).",
+        "image": "",
+        "options": [
+            "Japan",
+            "Germany",
+            "China",
+            "Canada"
+        ],
+        "answer": "China",
+        "explanation": "The U.S. accused China of intentionally weakening the Yuan to gain a trade advantage, a central point of the trade war rhetoric."
+    },
+    {
+        "id": "E0107",
+        "text": "The $\\textbf{Fed}$'s $\\textbf{Quantitative}$ $\\textbf{Tightening}$ ($\\textbf{QT}$) program reached its $\\textbf{maximum}$ $\\textbf{monthly}$ $\\textbf{runoff}$ $\\textbf{cap}$ of $\\textbf{\\$50}$ $\\textbf{billion}$ ($\\textbf{\\$30}$ $\\textbf{billion}$ $\\textbf{Treasury}$, $\\textbf{\\$20}$ $\\textbf{billion}$ $\\textbf{MBS}$) in $\\textbf{Q4}$ $\\textbf{2018}$.",
+        "image": "",
+        "options": [
+            "$10 billion",
+            "$50 billion",
+            "$100 billion",
+            "$5 billion"
+        ],
+        "answer": "$50 billion",
+        "explanation": "This full throttle of both rate hikes and balance sheet reduction was seen as extremely aggressive and contributed to market instability."
+    },
+    {
+        "id": "E0108",
+        "text": "The $\\textbf{Chinese}$ $\textbf{Yuan}$ $\\textbf{depreciated}$ significantly against the $\\textbf{U.S.}$ $\textbf{dollar}$ in $\\textbf{2018}$ as $\\textbf{trade}$ $\\textbf{tensions}$ escalated and the $\\textbf{PBoC}$ $\\textbf{eased}$ $\\textbf{policy}$ to $\\textbf{offset}$ $\\textbf{tariff}$ $\\textbf{pain}$.",
+        "image": "",
+        "options": [
+            "Appreciated strongly",
+            "Depreciated significantly",
+            "Was pegged to gold",
+            "Remained flat"
+        ],
+        "answer": "Depreciated significantly",
+        "explanation": "A weaker Yuan helps Chinese exports by making them cheaper, providing a partial cushion against the U.S. tariffs."
+    },
+    {
+        "id": "E0109",
+        "text": "The $\\textbf{U.S.}$ $\textbf{housing}$ $\textbf{market}$ $\\textbf{cooled}$ $\\textbf{off}$ significantly in $\\textbf{2018}$ as $\\textbf{rising}$ $\\textbf{mortgage}$ $\\textbf{rates}$ (due to $\\textbf{Fed}$ $\\textbf{hikes}$) reduced $\\textbf{affordability}$ and $\\textbf{demand}$.",
+        "image": "",
+        "options": [
+            "Experienced a massive boom",
+            "Cooled off significantly",
+            "Was nationalized",
+            "Only affected commercial property"
+        ],
+        "answer": "Cooled off significantly",
+        "explanation": "The Fed's rate hikes pushed up the cost of borrowing for homes, slowing sales and price growth."
+    },
+    {
+        "id": "E0110",
+        "text": "The $\\textbf{U.K.}$ $\textbf{economy}$ was dominated in $\\textbf{2018}$ by the $\\textbf{ongoing}$ $\\textbf{political}$ $\\textbf{impasse}$ over the $\\textbf{Brexit}$ $\\textbf{withdrawal}$ $\\textbf{agreement}$, leading to $\\textbf{deferred}$ $\\textbf{business}$ $\\textbf{investment}$.",
+        "image": "",
+        "options": [
+            "A trade deal with China",
+            "An interest rate cut",
+            "The ongoing political impasse over the Brexit withdrawal agreement",
+            "A surge in manufacturing output"
+        ],
+        "answer": "The ongoing political impasse over the Brexit withdrawal agreement",
+        "explanation": "The lack of clarity on the future trading relationship created paralyzing uncertainty for businesses."
+    },
+    {
+        "id": "E0111",
+        "text": "The $\\textbf{largest}$ $\textbf{daily}$ $\textbf{drop}$ in the $\\textbf{Dow}$ $\textbf{Jones}$ $\\textbf{Industrial}$ $\\textbf{Average}$ ($\\textbf{DJIA}$) in $\\textbf{2018}$ occurred in $\\textbf{February}$ during the $\\textbf{Volmageddon}$ $\\textbf{event}$.",
+        "image": "",
+        "options": [
+            "January",
+            "February",
+            "October",
+            "December"
+        ],
+        "answer": "February",
+        "explanation": "The sudden market dislocation saw the DJIA drop over 1,000 points in a day."
+    },
+    {
+        "id": "E0112",
+        "text": "The $\\textbf{ECB}$ $\\textbf{maintained}$ its $\\textbf{deposit}$ $\\textbf{rate}$ at $\\textbf{-0.40}\\%$ throughout $\\textbf{2018}$, signaling that despite $\\textbf{ending}$ $\\textbf{QE}$, $\\textbf{monetary}$ $\\textbf{policy}$ would $\\textbf{remain}$ $\\textbf{highly}$ $\\textbf{accommodative}$.",
+        "image": "",
+        "options": [
+            "Raised it to 1.0%",
+            "Maintained it at -0.40%",
+            "Cut it to -1.0%",
+            "Fixed it to the German rate"
+        ],
+        "answer": "Maintained it at -0.40%",
+        "explanation": "Ending QE (flow) did not mean an end to accommodation (stock/rates), as the ECB needed to ensure a soft landing for the economy."
+    },
+    {
+        "id": "E0113",
+        "text": "The $\\textbf{U.S.}$ $\textbf{government}$ $\textbf{shutdown}$ that occurred in $\\textbf{December}$ $\\textbf{2018}$ contributed to the $\\textbf{market}$ $\\textbf{volatility}$ at the $\\textbf{end}$ of the $\\textbf{year}$.",
+        "image": "",
+        "options": [
+            "A natural disaster",
+            "A U.S. government shutdown",
+            "An oil price spike",
+            "A sudden rise in inflation"
+        ],
+        "answer": "A U.S. government shutdown",
+        "explanation": "Political instability was another factor added to trade war and Fed fears, compounding investor pessimism."
+    },
+    {
+        "id": "E0114",
+        "text": "The $\\textbf{yield}$ $\textbf{spread}$ between $\\textbf{Italian}$ and $\\textbf{German}$ $\\textbf{10-year}$ $\\textbf{bonds}$ $\\textbf{widened}$ significantly in $\\textbf{2018}$, a measure of $\\textbf{rising}$ $\\textbf{political}$ $\\textbf{risk}$ and $\\textbf{fragmentation}$ in the $\\textbf{Eurozone}$.",
+        "image": "",
+        "options": [
+            "Narrowed to zero",
+            "Widened significantly",
+            "Remained stable",
+            "Only affected French bonds"
+        ],
+        "answer": "Widened significantly",
+        "explanation": "The 'spread' is a key indicator of investor confidence; a wider spread signals that investors view Italian debt as significantly riskier than German debt."
+    },
+    {
+        "id": "E0115",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) continued its $\\textbf{massive}$ $\\textbf{purchases}$ of $\\textbf{Japanese}$ $\\textbf{Government}$ $\\textbf{Bonds}$ ($\\textbf{JGBs}$) throughout $\\textbf{2018}$ to $\\textbf{maintain}$ the $\\textbf{YCC}$ $\\textbf{target}$ and $\\textbf{stimulate}$ $\\textbf{inflation}$.",
+        "image": "",
+        "options": [
+            "Ended JGB purchases",
+            "Massively sold off JGBs",
+            "Continued its massive purchases of Japanese Government Bonds (JGBs)",
+            "Pegged the Yen to the Euro"
+        ],
+        "answer": "Continued its massive purchases of Japanese Government Bonds (JGBs)",
+        "explanation": "The BoJ remained committed to unconventional policy while the rest of the world began to normalize."
+    },
+    {
+        "id": "E0116",
+        "text": "The $\\textbf{U.S.}$ $\textbf{energy}$ $\textbf{sector}$ saw $\\textbf{massive}$ $\textbf{production}$ $\textbf{increases}$ in $\\textbf{2018}$, with the $\\textbf{U.S.}$ $\textbf{becoming}$ the $\\textbf{world}$'s $\\textbf{largest}$ $\textbf{crude}$ $\\textbf{oil}$ $\\textbf{producer}$, surpassing $\\textbf{Saudi}$ $\\textbf{Arabia}$ and $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "Russia",
+            "Iran",
+            "Saudi Arabia and Russia",
+            "Canada and Mexico"
+        ],
+        "answer": "Saudi Arabia and Russia",
+        "explanation": "U.S. shale production surged due to rising oil prices and improving technology, making the U.S. the top global producer."
+    },
+    {
+        "id": "E0117",
+        "text": "The $\\textbf{key}$ $\textbf{domestic}$ $\textbf{policy}$ $\textbf{change}$ in $\\textbf{China}$ in $\\textbf{2018}$ was a $\\textbf{pivot}$ to $\\textbf{easing}$ $\\textbf{monetary}$ $\\textbf{and}$ $\\textbf{fiscal}$ $\\textbf{policy}$ to $\\textbf{offset}$ the $\\textbf{negative}$ $\\textbf{impact}$ of the $\\textbf{trade}$ $\\textbf{war}$.",
+        "image": "",
+        "options": [
+            "A shift to austerity",
+            "A pivot to easing monetary and fiscal policy",
+            "A major crackdown on the housing market",
+            "Full nationalization of all tech companies"
+        ],
+        "answer": "A pivot to easing monetary and fiscal policy",
+        "explanation": "The need to stabilize the economy against external trade shocks forced Beijing to temporarily backtrack on its deleveraging campaign."
+    },
+    {
+        "id": "E0118",
+        "text": "The $\\textbf{U.S.}$ $\textbf{corporate}$ $\textbf{bond}$ $\textbf{market}$ $\\textbf{suffered}$ a $\\textbf{major}$ $\textbf{sell-off}$ in $\\textbf{late}$ $\\textbf{2018}$ as $\\textbf{rising}$ $\\textbf{interest}$ $\\textbf{rates}$ and $\\textbf{fears}$ of $\\textbf{economic}$ $\\textbf{slowdown}$ made $\\textbf{debt}$ $\\textbf{servicing}$ $\\textbf{riskier}$.",
+        "image": "",
+        "options": [
+            "A huge rally",
+            "Suffered a major sell-off",
+            "Was only affected by oil prices",
+            "Was nationalized by the government"
+        ],
+        "answer": "Suffered a major sell-off",
+        "explanation": "Rising yields led to lower bond prices, and investors became wary of highly indebted 'BBB' rated corporate debt."
+    },
+    {
+        "id": "E0119",
+        "text": "The $\\textbf{German}$ $\textbf{economy}$, highly $\\textbf{reliant}$ on $\\textbf{exports}$, began to $\\textbf{show}$ $\\textbf{signs}$ of $\\textbf{strain}$ in $\\textbf{2018}$ as $\\textbf{global}$ $\\textbf{trade}$ $\\textbf{slowed}$ $\\textbf{due}$ to $\\textbf{tariffs}$.",
+        "image": "",
+        "options": [
+            "A massive housing boom",
+            "Began to show signs of strain",
+            "Was unaffected by global events",
+            "Experienced hyperinflation"
+        ],
+        "answer": "Began to show signs of strain",
+        "explanation": "Weak manufacturing data, particularly related to the auto sector and global orders, signaled a significant slowdown for Europe's largest economy."
+    },
+    {
+        "id": "E0120",
+        "text": "The $\\textbf{primary}$ $\textbf{asset}$ $\textbf{class}$ that $\\textbf{performed}$ $\textbf{well}$ in the $\\textbf{volatile}$ $\\textbf{2018}$ $\\textbf{market}$ environment was the $\\textbf{U.S.}$ $\textbf{dollar}$, due to its $\\textbf{safe-haven}$ $\\textbf{status}$ and $\\textbf{rising}$ $\\textbf{interest}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Global equities",
+            "Emerging market bonds",
+            "U.S. dollar",
+            "Oil"
+        ],
+        "answer": "U.S. dollar",
+        "explanation": "The confluence of Fed hikes and global risk aversion made the dollar the beneficiary of capital flows."
+    }
+]

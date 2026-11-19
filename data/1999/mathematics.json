@@ -1,0 +1,522 @@
+[
+    {
+      "id": "MATHS_1999_01",
+      "text": "If $1101_2 - 111_2 = x_2$, find $x$.",
+      "image": "[Binary subtraction illustration]",
+      "options": [
+        "$110$",
+        "$100$",
+        "$111$",
+        "$1010$"
+      ],
+      "answer": "$110$",
+      "explanation": "Convert to base 10: $1101_2 = 13$, $111_2 = 7$. $13 - 7 = 6$. Convert 6 to base 2: $6 = 110_2$."
+    },
+    {
+      "id": "MATHS_1999_02",
+      "text": "Evaluate $\\frac{1}{2} \\div \\frac{1}{3} + \\frac{1}{4} - \\frac{1}{5}$.",
+      "image": "[BODMAS fractional calculation example]",
+      "options": [
+        "$1\\frac{11}{20}$",
+        "$1\\frac{7}{60}$",
+        "$1\\frac{21}{60}$",
+        "$1\\frac{1}{12}$"
+      ],
+      "answer": "$1\\frac{11}{20}$",
+      "explanation": "Use BODMAS: $\\frac{1}{2} \\div \\frac{1}{3} = \\frac{1}{2} \\times 3 = \\frac{3}{2}$. Expression is $\\frac{3}{2} + \\frac{1}{4} - \\frac{1}{5}$. $\\frac{3}{2} + \\frac{1}{4} = \\frac{6 + 1}{4} = \\frac{7}{4}$. $\\frac{7}{4} - \\frac{1}{5} = \\frac{35 - 4}{20} = \\frac{31}{20} = 1\\frac{11}{20}$."
+    },
+    {
+      "id": "MATHS_1999_03",
+      "text": "Simplify $\\frac{0.0025 \\times 0.0004}{0.05 \\times 0.0002}$.",
+      "image": "",
+      "options": [
+        "$0.01$",
+        "$0.1$",
+        "$1.0$",
+        "$10.0$"
+      ],
+      "answer": "$0.1$",
+      "explanation": "Convert to standard form: $\\frac{(2.5 \\times 10^{-3}) \\times (4 \\times 10^{-4})}{(5 \\times 10^{-2}) \\times (2 \\times 10^{-4})} = \\frac{10 \\times 10^{-7}}{10 \\times 10^{-6}} = 1 \\times 10^{-1} = 0.1$."
+    },
+    {
+      "id": "MATHS_1999_04",
+      "text": "If $\\log_{10} 2 = 0.3010$, find $\\log_{10} 8$.",
+      "image": "[Logarithm power rule illustration]",
+      "options": [
+        "$0.6020$",
+        "$0.9030$",
+        "$1.2040$",
+        "$2.4080$"
+      ],
+      "answer": "$0.9030$",
+      "explanation": "$\\log_{10} 8 = \\log_{10} (2^3) = 3 \\log_{10} 2 = 3 \\times 0.3010 = 0.9030$."
+    },
+    {
+      "id": "MATHS_1999_05",
+      "text": "Rationalize the denominator of $\\frac{2}{\\sqrt{3} - 1}$.",
+      "image": "",
+      "options": [
+        "$\\sqrt{3} + 1$",
+        "$\\sqrt{3} - 1$",
+        "$2\\sqrt{3} + 2$",
+        "$\\frac{\\sqrt{3} + 1}{2}$"
+      ],
+      "answer": "$\\sqrt{3} + 1$",
+      "explanation": "Multiply numerator and denominator by the conjugate $\\sqrt{3} + 1$: $\\frac{2}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{2(\\sqrt{3} + 1)}{(\\sqrt{3})^2 - 1^2} = \\frac{2(\\sqrt{3} + 1)}{3 - 1} = \\frac{2(\\sqrt{3} + 1)}{2} = \\sqrt{3} + 1$."
+    },
+    {
+      "id": "MATHS_1999_06",
+      "text": "If $P = \\left\\{1, 2, 3, 4\\right\\}$ and $Q = \\left\\{2, 4, 6, 8\\right\\}$, find $P \\cup Q$.",
+      "image": "[Venn diagram showing union of sets P and Q]",
+      "options": [
+        "$\\left\\{2, 4\\right\\}$",
+        "$\\left\\{1, 3, 6, 8\\right\\}$",
+        "$\\left\\{1, 2, 3, 4, 6, 8\\right\\}$",
+        "$\\left\\{1, 2, 3, 4\\right\\}$"
+      ],
+      "answer": "$\\left\\{1, 2, 3, 4, 6, 8\\right\\}$",
+      "explanation": "The union $P \\cup Q$ is the set of all elements in $P$ or $Q$ or both."
+    },
+    {
+      "id": "MATHS_1999_07",
+      "text": "Factorize $a^2 + 5a - 6$.",
+      "image": "",
+      "options": [
+        "$(a + 6)(a - 1)$",
+        "$(a - 6)(a + 1)$",
+        "$(a + 3)(a + 2)$",
+        "$(a - 3)(a - 2)$"
+      ],
+      "answer": "$(a + 6)(a - 1)$",
+      "explanation": "We look for two numbers that multiply to $-6$ and add up to $5$. These numbers are $6$ and $-1$. So $a^2 + 5a - 6 = (a + 6)(a - 1)$."
+    },
+    {
+      "id": "MATHS_1999_08",
+      "text": "Simplify $\\frac{x^2 - 16}{x^2 - 5x + 4}$.",
+      "image": "",
+      "options": [
+        "$\\frac{x - 4}{x - 1}$",
+        "$\\frac{x + 4}{x - 1}$",
+        "$\\frac{x + 4}{x + 1}$",
+        "$\\frac{x - 4}{x + 1}$"
+      ],
+      "answer": "$\\frac{x + 4}{x - 1}$",
+      "explanation": "Numerator is difference of squares: $x^2 - 16 = (x - 4)(x + 4)$. Denominator factors to $(x - 4)(x - 1)$. $\\frac{(x - 4)(x + 4)}{(x - 4)(x - 1)} = \\frac{x + 4}{x - 1}$ (for $x \\ne 4$)."
+    },
+    {
+      "id": "MATHS_1999_09",
+      "text": "Solve the inequality: $\\frac{1}{2}(x - 4) < 2x + 1$.",
+      "image": "[Graph of linear inequality on number line]",
+      "options": [
+        "$x > -2$",
+        "$x < -2$",
+        "$x > -6/5$",
+        "$x < -6/5$"
+      ],
+      "answer": "$x > -2$",
+      "explanation": "Multiply by 2: $x - 4 < 4x + 2$. $-4 - 2 < 4x - x$. $-6 < 3x$. $-2 < x$, or $x > -2$."
+    },
+    {
+      "id": "MATHS_1999_10",
+      "text": "If $y$ varies directly as $x$ and $y = 12$ when $x = 4$, find $y$ when $x = 5$.",
+      "image": "[Graph of direct variation line]",
+      "options": [
+        "$15$",
+        "$16$",
+        "$20$",
+        "$30$"
+      ],
+      "answer": "$15$",
+      "explanation": "The relationship is $y = kx$. Find $k$: $12 = k(4) \\implies k = 3$. The equation is $y = 3x$. When $x = 5$: $y = 3(5) = 15$."
+    },
+    {
+      "id": "MATHS_1999_11",
+      "text": "The roots of a quadratic equation are $3$ and $-1$. Find the equation.",
+      "image": "[Parabola graph showing roots at x=3 and x=-1]",
+      "options": [
+        "$x^2 - 2x - 3 = 0$",
+        "$x^2 + 2x - 3 = 0$",
+        "$x^2 - 4x + 3 = 0$",
+        "$x^2 + 4x + 3 = 0$"
+      ],
+      "answer": "$x^2 - 2x - 3 = 0$",
+      "explanation": "Sum of roots $S = 3 + (-1) = 2$. Product of roots $P = 3 \\times (-1) = -3$. The equation is $x^2 - Sx + P = 0$. $x^2 - 2x + (-3) = 0 \\implies x^2 - 2x - 3 = 0$."
+    },
+    {
+      "id": "MATHS_1999_12",
+      "text": "A binary operation $\\star$ is defined by $a \\star b = a + b + ab$. Find $2 \\star 3$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$6$",
+        "$11$",
+        "$12$"
+      ],
+      "answer": "$11$",
+      "explanation": "Substitute $a=2$ and $b=3$: $2 \\star 3 = 2 + 3 + (2 \\times 3) = 5 + 6 = 11$."
+    },
+    {
+      "id": "MATHS_1999_13",
+      "text": "Solve the simultaneous equations: $2x + y = 7$ and $x - y = 2$.",
+      "image": "",
+      "options": [
+        "$x=3, y=1$",
+        "$x=2, y=3$",
+        "$x=4, y=-1$",
+        "$x=5, y=-3$"
+      ],
+      "answer": "$x=3, y=1$",
+      "explanation": "Add the two equations: $(2x + y) + (x - y) = 7 + 2$. $3x = 9 \\implies x = 3$. Substitute $x=3$ into the second equation: $3 - y = 2 \\implies y = 1$."
+    },
+    {
+      "id": "MATHS_1999_14",
+      "text": "Find the $4^{th}$ term of the A.P.: $5, 8, 11, \\dots$",
+      "image": "",
+      "options": [
+        "$13$",
+        "$14$",
+        "$15$",
+        "$17$"
+      ],
+      "answer": "$14$",
+      "explanation": "First term $a = 5$. Common difference $d = 8 - 5 = 3$. The $n^{th}$ term of an A.P. is $T_n = a + (n - 1)d$. $T_4 = 5 + (4 - 1)3 = 5 + 3(3) = 5 + 9 = 14$."
+    },
+    {
+      "id": "MATHS_1999_15",
+      "text": "What is the sum of the first $5$ terms of the G.P.: $1, 2, 4, 8, \\dots$?",
+      "image": "[Geometric series summation diagram]",
+      "options": [
+        "$15$",
+        "$31$",
+        "$32$",
+        "$63$"
+      ],
+      "answer": "$31$",
+      "explanation": "First term $a = 1$. Common ratio $r = 2$. Sum of $n$ terms $S_n = \\frac{a(r^n - 1)}{r - 1}$. $S_5 = \\frac{1(2^5 - 1)}{2 - 1} = \\frac{32 - 1}{1} = 31$."
+    },
+    {
+      "id": "MATHS_1999_16",
+      "text": "A sector of a circle of radius $7 \\text{ cm}$ subtends an angle of $90^\\circ$ at the centre. Find the area of the sector. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a circle sector with angle 90 degrees]",
+      "options": [
+        "$77 \\text{ cm}^2$",
+        "$38.5 \\text{ cm}^2$",
+        "$22 \\text{ cm}^2$",
+        "$11 \\text{ cm}^2$"
+      ],
+      "answer": "$38.5 \\text{ cm}^2$",
+      "explanation": "Area of sector $A = \\frac{\\theta}{360} \\times \\pi r^2$. $A = \\frac{90}{360} \\times \\frac{22}{7} \\times 7^2 = \\frac{1}{4} \\times 22 \\times 7 = \\frac{154}{4} = 38.5 \\text{ cm}^2$."
+    },
+    {
+      "id": "MATHS_1999_17",
+      "text": "The sides of a right-angled triangle are $x, x+1, x+2$. Find the value of $x$.",
+      "image": "[Right-angled triangle with sides x, x+1, x+2]",
+      "options": [
+        "$1$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "answer": "$3$",
+      "explanation": "By Pythagoras theorem, $x^2 + (x + 1)^2 = (x + 2)^2$. $x^2 + x^2 + 2x + 1 = x^2 + 4x + 4$. $2x^2 + 2x + 1 = x^2 + 4x + 4$. $x^2 - 2x - 3 = 0$. $(x - 3)(x + 1) = 0$. Since length must be positive, $x = 3$."
+    },
+    {
+      "id": "MATHS_1999_18",
+      "text": "The angle of elevation of a tower from a point $20 \\text{ m}$ away from its base is $45^\\circ$. Find the height of the tower.",
+      "image": "[Right-angled triangle showing angle of elevation 45 degrees]",
+      "options": [
+        "$10\\sqrt{3} \\text{ m}$",
+        "$20 \\text{ m}$",
+        "$20\\sqrt{2} \\text{ m}$",
+        "$40 \\text{ m}$"
+      ],
+      "answer": "$20 \\text{ m}$",
+      "explanation": "Let $h$ be the height. $\\tan 45^\\circ = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{h}{20}$. Since $\\tan 45^\\circ = 1$, $1 = \\frac{h}{20}$. $h = 20 \\text{ m}$."
+    },
+    {
+      "id": "MATHS_1999_19",
+      "text": "Find the equation of the line perpendicular to $y = 3x + 5$ and passing through $(3, 2)$.",
+      "image": "",
+      "options": [
+        "$y = -3x + 11$",
+        "$y = -\\frac{1}{3}x + 3$",
+        "$y = \\frac{1}{3}x + 1$",
+        "$y = 3x - 7$"
+      ],
+      "answer": "$y = -\\frac{1}{3}x + 3$",
+      "explanation": "Slope of given line $m_1 = 3$. Perpendicular slope $m_2 = -1/m_1 = -1/3$. Using point-slope form $y - y_1 = m_2(x - x_1)$: $y - 2 = -\\frac{1}{3}(x - 3)$. $y - 2 = -\\frac{1}{3}x + 1$. $y = -\\frac{1}{3}x + 3$."
+    },
+    {
+      "id": "MATHS_1999_20",
+      "text": "Find the midpoint of the line segment joining $A(5, -3)$ and $B(1, 7)$.",
+      "image": "",
+      "options": [
+        "$(3, 2)$",
+        "$(4, -10)$",
+        "$(2, 5)$",
+        "$(6, 4)$"
+      ],
+      "answer": "$(3, 2)$",
+      "explanation": "Midpoint $M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$. $M = \\left(\\frac{5 + 1}{2}, \\frac{-3 + 7}{2}\\right) = \\left(\\frac{6}{2}, \\frac{4}{2}\\right) = (3, 2)$."
+    },
+    {
+      "id": "MATHS_1999_21",
+      "text": "The length of an arc of a circle is $11 \\text{ cm}$. If the radius is $7 \\text{ cm}$, find the angle subtended by the arc at the centre (in degrees). (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a circle arc with length and radius labeled]",
+      "options": [
+        "$45^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$180^\\circ$"
+      ],
+      "answer": "$90^\\circ$",
+      "explanation": "Arc length $L = \\frac{\\theta}{360} \\times 2\\pi r$. $11 = \\frac{\\theta}{360} \\times 2 \\times \\frac{22}{7} \\times 7$. $11 = \\frac{\\theta}{360} \\times 44$. $\\theta = \\frac{11 \\times 360}{44} = \\frac{1 \\times 360}{4} = 90^\\circ$."
+    },
+    {
+      "id": "MATHS_1999_22",
+      "text": "Find the volume of a cylinder of radius $5 \\text{ cm}$ and height $10 \\text{ cm}$. (Leave $\\pi$ in your answer)",
+      "image": "[Diagram of a cylinder with radius and height labeled]",
+      "options": [
+        "$50\\pi \\text{ cm}^3$",
+        "$100\\pi \\text{ cm}^3$",
+        "$250\\pi \\text{ cm}^3$",
+        "$500\\pi \\text{ cm}^3$"
+      ],
+      "answer": "$250\\pi \\text{ cm}^3$",
+      "explanation": "Volume of cylinder $V = \\pi r^2 h$. $V = \\pi (5^2) (10) = 250\\pi \\text{ cm}^3$."
+    },
+    {
+      "id": "MATHS_1999_23",
+      "text": "If $\\cos \\alpha = 3/5$ and $\\alpha$ is acute, find $\\tan \\alpha$.",
+      "image": "[Right-angled triangle with sides 3, 4, 5 and angle alpha]",
+      "options": [
+        "$3/4$",
+        "$4/3$",
+        "$5/3$",
+        "$5/4$"
+      ],
+      "answer": "$4/3$",
+      "explanation": "Adjacent side $= 3$, Hypotenuse $= 5$. Opposite side $= \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4$. $\\tan \\alpha = \\frac{\\text{Opposite}}{\\text{Adjacent}} = 4/3$."
+    },
+    {
+      "id": "MATHS_1999_24",
+      "text": "Find the value of $\\sin 210^\\circ$.",
+      "image": "[Unit circle showing angle 210 degrees in the third quadrant]",
+      "options": [
+        "$\\sqrt{3}/2$",
+        "$-1/2$",
+        "$-\\sqrt{3}/2$",
+        "$1/2$"
+      ],
+      "answer": "$-1/2$",
+      "explanation": "Since $210^\\circ$ is in the third quadrant, $\\sin 210^\\circ = -\\sin (210^\\circ - 180^\\circ) = -\\sin 30^\\circ$. Since $\\sin 30^\\circ = 1/2$, $\\sin 210^\\circ = -1/2$."
+    },
+    {
+      "id": "MATHS_1999_25",
+      "text": "Differentiate $y = 2x^3 - 5x + 1$ with respect to $x$.",
+      "image": "",
+      "options": [
+        "$6x^2 - 5$",
+        "$6x^2 - 5x$",
+        "$2x^2 - 5$",
+        "$6x^2 + 1$"
+      ],
+      "answer": "$6x^2 - 5$",
+      "explanation": "Use the power rule: $\\frac{dy}{dx} = 2(3x^{3-1}) - 5(1x^{1-1}) + 0 = 6x^2 - 5$."
+    },
+    {
+      "id": "MATHS_1999_26",
+      "text": "Find $\\frac{dy}{dx}$ if $y = \\sqrt{2x + 1}$.",
+      "image": "",
+      "options": [
+        "$\\frac{1}{2\\sqrt{2x + 1}}$",
+        "$\\frac{2}{\\sqrt{2x + 1}}$",
+        "$\\frac{1}{\\sqrt{2x + 1}}$",
+        "$\\frac{1}{\\sqrt{x + 1}}$"
+      ],
+      "answer": "$\\frac{1}{\\sqrt{2x + 1}}$",
+      "explanation": "Let $u = 2x + 1$, so $y = u^{1/2}$. $\\frac{du}{dx} = 2$. $\\frac{dy}{du} = \\frac{1}{2}u^{-1/2}$. By Chain Rule, $\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx} = \\frac{1}{2}(2x + 1)^{-1/2} \\cdot 2 = (2x + 1)^{-1/2} = \\frac{1}{\\sqrt{2x + 1}}$."
+    },
+    {
+      "id": "MATHS_1999_27",
+      "text": "Evaluate the indefinite integral $\\int (3x^2 - 2x) dx$.",
+      "image": "",
+      "options": [
+        "$x^3 - x^2 + C$",
+        "$x^3 - 2x^2 + C$",
+        "$6x - 2 + C$",
+        "$x^3 - x + C$"
+      ],
+      "answer": "$x^3 - x^2 + C$",
+      "explanation": "Integrate term by term: $\\int 3x^2 dx = 3\\frac{x^3}{3} = x^3$. $\\int -2x dx = -2\\frac{x^2}{2} = -x^2$. Result: $x^3 - x^2 + C$."
+    },
+    {
+      "id": "MATHS_1999_28",
+      "text": "Find the maximum value of the curve $y = 6x - x^2$.",
+      "image": "[Downward-opening parabola showing maximum point]",
+      "options": [
+        "$3$",
+        "$6$",
+        "$9$",
+        "$12$"
+      ],
+      "answer": "$9$",
+      "explanation": "The maximum occurs where $\\frac{dy}{dx} = 0$. $\\frac{dy}{dx} = 6 - 2x$. $6 - 2x = 0 \\implies x = 3$. Maximum value $y = 6(3) - (3)^2 = 18 - 9 = 9$."
+    },
+    {
+      "id": "MATHS_1999_29",
+      "text": "If $A = \\begin{pmatrix} 2 & 1 \\\\ 5 & 3 \\end{pmatrix}$, find the inverse of $A$.",
+      "image": "[Matrix inverse formula illustration]",
+      "options": [
+        "$\\begin{pmatrix} 3 & -1 \\\\ -5 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & -1 \\\\ -5 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 3 & 1 \\\\ 5 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -2 & -1 \\\\ -5 & -3 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 3 & -1 \\\\ -5 & 2 \\end{pmatrix}$",
+      "explanation": "Determinant $D = (2)(3) - (1)(5) = 6 - 5 = 1$. $A^{-1} = \\frac{1}{D} \\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix} = \\frac{1}{1} \\begin{pmatrix} 3 & -1 \\\\ -5 & 2 \\end{pmatrix}$."
+    },
+    {
+      "id": "MATHS_1999_30",
+      "text": "Given that $I$ is the identity matrix, if $\\begin{pmatrix} 3 & -1 \\\\ 2 & 0 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 7 \\\\ 4 \\end{pmatrix}$, find $x$ and $y$.",
+      "image": "",
+      "options": [
+        "$x=2, y=1$",
+        "$x=1, y=-4$",
+        "$x=2, y=-1$",
+        "$x=4, y=5$"
+      ],
+      "answer": "$x=2, y=-1$",
+      "explanation": "The equations are: $3x - y = 7$ (1) and $2x + 0y = 4$ (2). From (2), $2x = 4 \\implies x = 2$. Substitute $x=2$ into (1): $3(2) - y = 7$. $6 - y = 7$. $-y = 1 \\implies y = -1$."
+    },
+    {
+      "id": "MATHS_1999_31",
+      "text": "The number of permutations of 4 distinct objects taken 2 at a time is:",
+      "image": "[Permutation formula illustration]",
+      "options": [
+        "$4$",
+        "$6$",
+        "$12$",
+        "$24$"
+      ],
+      "answer": "$12$",
+      "explanation": "Permutation $P(n, r) = \\frac{n!}{(n - r)!}$. $P(4, 2) = \\frac{4!}{(4 - 2)!} = \\frac{4!}{2!} = \\frac{4 \\times 3 \\times 2 \\times 1}{2 \\times 1} = 12$."
+    },
+    {
+      "id": "MATHS_1999_32",
+      "text": "In how many ways can the letters of the word 'PETER' be arranged?",
+      "image": "",
+      "options": [
+        "$24$",
+        "$60$",
+        "$120$",
+        "$720$"
+      ],
+      "answer": "$60$",
+      "explanation": "Total letters $n=5$. Repeated letter 'E' occurs $n_1=2$ times. Number of arrangements $= \\frac{n!}{n_1!} = \\frac{5!}{2!} = \\frac{120}{2} = 60$."
+    },
+    {
+      "id": "MATHS_1999_33",
+      "text": "Find the mode of the numbers $2, 4, 3, 2, 5, 2, 4$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "answer": "$2$",
+      "explanation": "The mode is the number that appears most frequently in the set. The number $2$ appears 3 times, which is more than any other number."
+    },
+    {
+      "id": "MATHS_1999_34",
+      "text": "Find the mean of the numbers $3, 5, 7, 9, 11$.",
+      "image": "",
+      "options": [
+        "$7$",
+        "$8$",
+        "$9$",
+        "$10$"
+      ],
+      "answer": "$7$",
+      "explanation": "Mean $\\bar{x} = \\frac{\\sum x}{n} = \\frac{3 + 5 + 7 + 9 + 11}{5} = \\frac{35}{5} = 7$."
+    },
+    {
+      "id": "MATHS_1999_35",
+      "text": "A fair die is thrown. What is the probability of getting a number greater than $4$?",
+      "image": "[Probability tree diagram for dice roll]",
+      "options": [
+        "$1/6$",
+        "$1/3$",
+        "$1/2$",
+        "$2/3$"
+      ],
+      "answer": "$1/3$",
+      "explanation": "Sample space $S = \\left\\{1, 2, 3, 4, 5, 6\\right\\}$. Event $E$ (number $> 4$) $= \\left\\{5, 6\\right\\}$. $P(E) = \\frac{n(E)}{n(S)} = \\frac{2}{6} = 1/3$."
+    },
+    {
+      "id": "MATHS_1999_36",
+      "text": "Two events $A$ and $B$ are independent. If $P(A) = 0.3$ and $P(B) = 0.6$, find $P(A \\text{ and } B)$.",
+      "image": "",
+      "options": [
+        "$0.9$",
+        "$0.18$",
+        "$0.3$",
+        "$0.7$"
+      ],
+      "answer": "$0.18$",
+      "explanation": "For independent events, $P(A \\text{ and } B) = P(A) \\times P(B)$. $P(A \\text{ and } B) = 0.3 \\times 0.6 = 0.18$."
+    },
+    {
+      "id": "MATHS_1999_37",
+      "text": "Make $q$ the subject of the formula $r = \\frac{p}{q - 1}$.",
+      "image": "",
+      "options": [
+        "$q = \\frac{p + r}{r}$",
+        "$q = \\frac{p - r}{r}$",
+        "$q = \\frac{r + p}{p}$",
+        "$q = \\frac{r - p}{r}$"
+      ],
+      "answer": "$q = \\frac{p + r}{r}$",
+      "explanation": "$r(q - 1) = p$. $rq - r = p$. $rq = p + r$. $q = \\frac{p + r}{r}$."
+    },
+    {
+      "id": "MATHS_1999_38",
+      "text": "If the interior angle of a regular polygon is $150^\\circ$, find the number of sides.",
+      "image": "[Diagram of a regular polygon with interior angle 150 degrees]",
+      "options": [
+        "$8$",
+        "$10$",
+        "$12$",
+        "$15$"
+      ],
+      "answer": "$12$",
+      "explanation": "Exterior angle $E = 180^\\circ - 150^\\circ = 30^\\circ$. Number of sides $n = \\frac{360^\\circ}{E} = \\frac{360^\\circ}{30^\\circ} = 12$."
+    },
+    {
+      "id": "MATHS_1999_39",
+      "text": "In the figure below, $PQ \\parallel RS$. If $\\angle PQT = 110^\\circ$ and $\\angle RST = 130^\\circ$, find $\\angle QTR$.",
+      "image": "[Diagram of two parallel lines PQ and RS cut by a transversal T, forming angles at Q and R]",
+      "options": [
+        "$40^\\circ$",
+        "$60^\\circ$",
+        "$70^\\circ$",
+        "$80^\\circ$"
+      ],
+      "answer": "$60^\\circ$",
+      "explanation": "Draw a line through $T$ parallel to $PQ$ and $RS$. $\\angle PQT + \\angle QTU = 180^\\circ$ (consecutive interior angles). $\\angle QTU = 180^\\circ - 110^\\circ = 70^\\circ$. $\\angle RST + \\angle STU = 180^\\circ$. $\\angle STU = 180^\\circ - 130^\\circ = 50^\\circ$. $\\angle QTR = \\angle QTU - \\angle STU$. Wait, based on the angles, $T$ is between $Q$ and $R$. Let $U$ be a point on the line through $T$. Angle $\\angle R T U = 180 - 130 = 50^\\circ$. Angle $\\angle Q T U = 180 - 110 = 70^\\circ$. $\\angle QTR = 70^\\circ - 50^\\circ = 20^\\circ$. If $T$ is the vertex of the triangle $QTR$. $\\angle T Q R = 180 - 110 = 70^\\circ$. $\\angle T R Q = 180 - 130 = 50^\\circ$. $\\angle QTR = 180 - (70 + 50) = 60^\\circ$. The diagram implies $QTR$ is a triangle whose angles are determined by the parallel lines. The correct approach is $\\angle TQR = 180^\\circ - 110^\\circ = 70^\\circ$ and $\\angle TRQ = 180^\\circ - 130^\\circ = 50^\\circ$. Then $\\angle QTR = 180^\\circ - (70^\\circ + 50^\\circ) = 60^\\circ$."
+    },
+    {
+      "id": "MATHS_1999_40",
+      "text": "Find the range of values of $x$ for which the expression $\\frac{1}{x^2 - 4}$ is undefined.",
+      "image": "[Graph of $y=1/(x^2 - 4)$ showing vertical asymptotes at x=2 and x=-2]",
+      "options": [
+        "$x = 2$ only",
+        "$x = -2$ only",
+        "$x = 2$ or $x = -2$",
+        "$x \\ne 2$ and $x \\ne -2$"
+      ],
+      "answer": "$x = 2$ or $x = -2$",
+      "explanation": "An expression is undefined when the denominator is zero. $x^2 - 4 = 0$. $(x - 2)(x + 2) = 0$. $x = 2$ or $x = -2$."
+    }
+  ]

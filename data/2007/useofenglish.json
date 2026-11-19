@@ -1,0 +1,515 @@
+[
+    {
+      "id": "U2007_1",
+      "text": "The year 2007 saw the $\\textbf{launch}$ of the $\\textbf{Apple}$ $\\textbf{iPhone}$ in June, a device that $\\textbf{revolutionized}$ the mobile phone $\\textbf{industry}$ and set a new standard for smartphone design and functionality globally. (Comprehension Passage Snippet 1)\n\nWhat industry did the launch of the Apple iPhone primarily revolutionize?",
+      "image": "",
+      "options": [
+        "The computer manufacturing industry",
+        "The mobile phone industry",
+        "The television production industry",
+        "The home gaming industry"
+      ],
+      "answer": "The mobile phone industry",
+      "explanation": "The text states the iPhone 'revolutionized the mobile phone industry'."
+    },
+    {
+      "id": "U2007_2",
+      "text": "The new product $\\textbf{revolutionized}$ the way people interacted with technology.\n\nChoose the word that is closest in meaning to $\\textbf{revolutionized}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Slightly improved",
+        "Transformed or changed profoundly",
+        "Regulated and controlled",
+        "Replaced entirely"
+      ],
+      "answer": "Transformed or changed profoundly",
+      "explanation": "To revolutionize means to change something fundamentally and dramatically."
+    },
+    {
+      "id": "U2007_3",
+      "text": "The device, $\\textbf{(which was/whose screen was)}$ revolutionary, was introduced by Steve Jobs.\n\nChoose the correct relative pronoun to refer to the revolutionary nature of the device itself.",
+      "image": "",
+      "options": [
+        "which was",
+        "whose screen was",
+        "when it was",
+        "where it was"
+      ],
+      "answer": "which was",
+      "explanation": "'Which' is the correct relative pronoun to introduce a non-essential clause describing the device."
+    },
+    {
+      "id": "U2007_4",
+      "text": "The word $\\textbf{'innovation'}$ $\\textbf{i n n o v a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **innovation**.",
+      "image": "",
+      "options": [
+        "in",
+        "no",
+        "va",
+        "tion"
+      ],
+      "answer": "va",
+      "explanation": "The primary stress in 'innovation' /ˌɪn.əˈveɪ.ʃən/ falls on the third syllable, 'va'."
+    },
+    {
+      "id": "U2007_5",
+      "text": "The $\\textbf{Subprime}$ $\\textbf{Mortgage}$ $\\textbf{Crisis}$ began to $\\textbf{unfold}$ in 2007, marked by a sharp rise in $\\textbf{foreclosures}$ in the US and a lack of $\\textbf{liquidity}$ in the banking sector, signaling the start of the $\\textbf{Great}$ $\\textbf{Recession}$. (Comprehension Passage Snippet 2)\n\nWhat initial sign of the crisis is mentioned regarding US homeowners?",
+      "image": "",
+      "options": [
+        "A sharp rise in employment",
+        "A sharp rise in foreclosures",
+        "A sudden decrease in oil prices",
+        "An increase in technology stocks"
+      ],
+      "answer": "A sharp rise in foreclosures",
+      "explanation": "The text states the crisis was 'marked by a sharp rise in foreclosures in the US'."
+    },
+    {
+      "id": "U2007_6",
+      "text": "Banks saw a huge increase in $\\textbf{foreclosures}$ as borrowers defaulted on their loans.\n\nChoose the word that is closest in meaning to $\\textbf{foreclosures}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Loans being approved",
+        "Legal action to take possession of mortgaged property",
+        "Property values increasing",
+        "New homes being built"
+      ],
+      "answer": "Legal action to take possession of mortgaged property",
+      "explanation": "A foreclosure is the action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments."
+    },
+    {
+      "id": "U2007_7",
+      "text": "The value of the houses $\\textbf{(began/had begun)}$ to drop sharply by late 2007.\n\nChoose the correct verb form for a simple action completed in the past.",
+      "image": "",
+      "options": [
+        "began",
+        "had begun",
+        "has begun",
+        "will begin"
+      ],
+      "answer": "began",
+      "explanation": "The Simple Past ('began') is used to describe a single, completed action at a specific past time ('by late 2007')."
+    },
+    {
+      "id": "U2007_8",
+      "text": "The word $\\textbf{'mortgage'}$ $\\textbf{m o r t g a g e}$.\n\nIdentify the syllable that carries the primary stress in the word **mortgage**.",
+      "image": "",
+      "options": [
+        "mor",
+        "gage"
+      ],
+      "answer": "mor",
+      "explanation": "The primary stress in 'mortgage' /ˈmɔːr.ɡɪdʒ/ falls on the first syllable, 'mor'."
+    },
+    {
+      "id": "U2007_9",
+      "text": "In December 2007, former Pakistani Prime Minister $\\textbf{Benazir}$ $\\textbf{Bhutto}$ was $\\textbf{assassinated}$ in a $\\textbf{suicide}$ $\\textbf{attack}$ following a political $\\textbf{rally}$ in Rawalpindi, marking a $\\textbf{tragedy}$ for the country's $\\textbf{democratic}$ transition. (Comprehension Passage Snippet 3)\n\nWhat was Benazir Bhutto doing immediately before the attack that resulted in her death?",
+      "image": "",
+      "options": [
+        "Attending a state dinner",
+        "Addressing the parliament",
+        "Speaking at a political rally",
+        "Traveling overseas"
+      ],
+      "answer": "Speaking at a political rally",
+      "explanation": "She was killed 'following a political rally'."
+    },
+    {
+      "id": "U2007_10",
+      "text": "The political $\\textbf{assassination}$ shocked the global community.\n\nChoose the word that is closest in meaning to $\\textbf{assassination}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Peaceful retirement",
+        "Public ceremony",
+        "The killing of a prominent person for political reasons",
+        "A failed protest"
+      ],
+      "answer": "The killing of a prominent person for political reasons",
+      "explanation": "Assassination is the murder of a prominent person, often a political figure, for political or religious reasons."
+    },
+    {
+      "id": "U2007_11",
+      "text": "She $\\textbf{(was campaigning/campaigned)}$ for the upcoming elections when the attack happened.\n\nChoose the correct verb form to show an ongoing action interrupted by another past action.",
+      "image": "",
+      "options": [
+        "was campaigning",
+        "campaigned",
+        "has campaigned",
+        "would campaign"
+      ],
+      "answer": "was campaigning",
+      "explanation": "The Past Continuous ('was campaigning') describes the ongoing background action interrupted by the attack (Simple Past)."
+    },
+    {
+      "id": "U2007_12",
+      "text": "The word $\\textbf{'geopolitical'}$ $\\textbf{g e o p o l i t i c a l}$.\n\nIdentify the syllable that carries the primary stress in the word **geopolitical**.",
+      "image": "",
+      "options": [
+        "ge",
+        "o",
+        "po",
+        "lit",
+        "i",
+        "cal"
+      ],
+      "answer": "lit",
+      "explanation": "The primary stress in 'geopolitical' /ˌdʒiː.oʊ.pəˈlɪt.ɪ.kəl/ falls on the fourth syllable, 'lit'."
+    },
+    {
+      "id": "U2007_13",
+      "text": "The final book in the series, $\\textbf{Harry}$ $\\textbf{Potter}$ $\\textbf{and}$ $\\textbf{the}$ $\\textbf{Deathly}$ $\\textbf{Hallows}$, was released in July 2007, marking the $\\textbf{culmination}$ of a global literary $\\textbf{phenomenon}$ and breaking $\\textbf{sales}$ $\\textbf{records}$. (Comprehension Passage Snippet 4)\n\nWhat was the significance of the book's release in the context of the series?",
+      "image": "",
+      "options": [
+        "It was the first book in the series",
+        "It was the only non-fiction book",
+        "It marked the culmination (final installment) of the series",
+        "It was the least popular book"
+      ],
+      "answer": "It marked the culmination (final installment) of the series",
+      "explanation": "The text describes it as the 'final book' and the 'culmination' of the phenomenon."
+    },
+    {
+      "id": "U2007_14",
+      "text": "The event was the $\\textbf{culmination}$ of a decade of work by the author.\n\nChoose the word that is closest in meaning to $\\textbf{culmination}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "The beginning of something",
+        "The highest or climactic point of a sequence of events",
+        "A temporary pause",
+        "A complete failure"
+      ],
+      "answer": "The highest or climactic point of a sequence of events",
+      "explanation": "Culmination means the highest or climactic point of a sequence of events."
+    },
+    {
+      "id": "U2007_15",
+      "text": "The sales figures $\\textbf{(were/was)}$ the highest in publishing history.\n\nChoose the correct form of the verb 'to be' to agree with the plural subject 'sales figures'.",
+      "image": "",
+      "options": [
+        "were",
+        "was",
+        "is",
+        "has been"
+      ],
+      "answer": "were",
+      "explanation": "The subject 'sales figures' is plural, requiring the plural past tense verb 'were'."
+    },
+    {
+      "id": "U2007_16",
+      "text": "The word $\\textbf{'conclusion'}$ $\\textbf{c o n c l u s i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **conclusion**.",
+      "image": "",
+      "options": [
+        "con",
+        "clu",
+        "sion"
+      ],
+      "answer": "clu",
+      "explanation": "The primary stress in 'conclusion' /kənˈkluː.ʒən/ falls on the second syllable, 'clu'."
+    },
+    {
+      "id": "U2007_17",
+      "text": "In the summer of 2007, the $\\textbf{instability}$ in the US $\\textbf{subprime}$ $\\textbf{market}$ began to spill over into the wider financial system, leading to the $\\textbf{freezing}$ of $\\textbf{three}$ $\\textbf{funds}$ by the French bank $\\textbf{BNP}$ $\\textbf{Paribas}$. (Comprehension Passage Snippet 5)\n\nWhich bank's action of freezing funds in 2007 is cited as an early sign of the broader financial crisis?",
+      "image": "",
+      "options": [
+        "Lehman Brothers",
+        "Goldman Sachs",
+        "BNP Paribas",
+        "Bank of America"
+      ],
+      "answer": "BNP Paribas",
+      "explanation": "The text mentions the French bank 'BNP Paribas' freezing three funds."
+    },
+    {
+      "id": "U2007_18",
+      "text": "The $\\textbf{freezing}$ of funds pointed to a crisis of $\\textbf{liquidity}$.\n\nChoose the word that is closest in meaning to $\\textbf{liquidity}$ as used in the context of finance.",
+      "image": "",
+      "options": [
+        "A state of being frozen",
+        "The availability of cash or assets readily convertible to cash",
+        "A lack of transparency",
+        "High levels of profit"
+      ],
+      "answer": "The availability of cash or assets readily convertible to cash",
+      "explanation": "In finance, liquidity refers to how easily an asset can be converted into cash without affecting its market price."
+    },
+    {
+      "id": "U2007_19",
+      "text": "If the banks $\\textbf{(had understood/would understand)}$ the risk, the global crisis $\\textbf{(would not have occurred)}$ at that scale.\n\nChoose the correct verb forms to complete the Third Conditional structure.",
+      "image": "",
+      "options": [
+        "had understood / would not have occurred",
+        "would understand / would not occur",
+        "understood / had not occurred",
+        "have understood / will not occur"
+      ],
+      "answer": "had understood / would not have occurred",
+      "explanation": "The Third Conditional expresses a hypothetical situation in the past ('If + Past Perfect') and its hypothetical result ('would have + Past Participle')."
+    },
+    {
+      "id": "U2007_20",
+      "text": "The word $\\textbf{'financial'}$ $\\textbf{f i n a n c i a l}$.\n\nIdentify the syllable that carries the primary stress in the word **financial**.",
+      "image": "",
+      "options": [
+        "fi",
+        "nan",
+        "cial"
+      ],
+      "answer": "nan",
+      "explanation": "The primary stress in 'financial' /faɪˈnæn.ʃəl/ falls on the second syllable, 'nan'."
+    },
+    {
+      "id": "U2007_21",
+      "text": "In January 2007, US President George W. Bush announced a major $\\textbf{escalation}$ in the Iraq War, known as the $\\textbf{'Troop}$ $\\textbf{Surge}$', which involved deploying an $\\textbf{additional}$ $\\textbf{20,000}$ US troops to Baghdad to try and quell $\\textbf{sectarian}$ $\\textbf{violence}$. (Comprehension Passage Snippet 6)\n\nWhat was the primary goal of the 'Troop Surge' policy in Iraq in 2007?",
+      "image": "",
+      "options": [
+        "To withdraw all US forces",
+        "To end the conflict with Iran",
+        "To quell sectarian violence in Baghdad",
+        "To build new civilian infrastructure"
+      ],
+      "answer": "To quell sectarian violence in Baghdad",
+      "explanation": "The goal was 'to try and quell sectarian violence' in Baghdad."
+    },
+    {
+      "id": "U2007_22",
+      "text": "The policy represented a significant $\\textbf{escalation}$ of military commitment.\n\nChoose the word that is closest in meaning to $\\textbf{escalation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Decrease or reduction",
+        "A rapid increase in intensity or extent",
+        "A peaceful resolution",
+        "A planned postponement"
+      ],
+      "answer": "A rapid increase in intensity or extent",
+      "explanation": "Escalation means an increase in the intensity or seriousness of something."
+    },
+    {
+      "id": "U2007_23",
+      "text": "The troops $\\textbf{(were deployed/deployed)}$ to Baghdad to quell sectarian violence.\n\nChoose the correct verb phrase to indicate that the troops were the recipients of the action (Passive Voice).",
+      "image": "",
+      "options": [
+        "were deployed",
+        "deployed",
+        "have deployed",
+        "are deploying"
+      ],
+      "answer": "were deployed",
+      "explanation": "The Passive Voice ('were deployed') is appropriate because the troops were moved by someone else (the President/military command)."
+    },
+    {
+      "id": "U2007_24",
+      "text": "The word $\\textbf{'strategy'}$ $\\textbf{s t r a t e g y}$.\n\nIdentify the syllable that carries the primary stress in the word **strategy**.",
+      "image": "",
+      "options": [
+        "stra",
+        "te",
+        "gy"
+      ],
+      "answer": "stra",
+      "explanation": "The primary stress in 'strategy' /ˈstræt.ə.dʒi/ falls on the first syllable, 'stra'."
+    },
+    {
+      "id": "U2007_25",
+      "text": "The $\\textbf{Intergovernmental}$ $\\textbf{Panel}$ $\\textbf{on}$ $\\textbf{Climate}$ $\\textbf{Change}$ ($\\textbf{IPCC}$) released its Fourth $\\textbf{Assessment}$ $\\textbf{Report}$ in 2007, stating that $\\textbf{warming}$ of the climate system was $\\textbf{unequivocal}$ and that most of the observed increase in global average temperatures since the mid-20th century was $\\textbf{very}$ $\\textbf{likely}$ due to $\\textbf{human}$ $\\textbf{emissions}$. (Comprehension Passage Snippet 7)\n\nWhat specific finding of the IPCC report is highlighted regarding the cause of global temperature increases?",
+      "image": "",
+      "options": [
+        "Solar flares were the main cause",
+        "It was very likely due to human emissions",
+        "Volcanic activity was responsible",
+        "The warming trend was a myth"
+      ],
+      "answer": "It was very likely due to human emissions",
+      "explanation": "The report concluded that the warming 'was very likely due to human emissions'."
+    },
+    {
+      "id": "U2007_26",
+      "text": "The evidence of climate change was judged to be $\\textbf{unequivocal}$.\n\nChoose the word that is closest in meaning to $\\textbf{unequivocal}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Ambiguous or unclear",
+        "Leaving no doubt; clear and unambiguous",
+        "Based on speculation",
+        "Easily disputed"
+      ],
+      "answer": "Leaving no doubt; clear and unambiguous",
+      "explanation": "Unequivocal means leaving no doubt; unambiguous."
+    },
+    {
+      "id": "U2007_27",
+      "text": "The report stated that the evidence $\\textbf{(was/is)}$ now unequivocal.\n\nChoose the correct verb form to maintain consistency with the past reporting verb 'stated' (sequence of tenses in reported speech).",
+      "image": "",
+      "options": [
+        "was",
+        "is",
+        "will be",
+        "has been"
+      ],
+      "answer": "was",
+      "explanation": "To maintain proper sequence of tenses in reported speech, the verb in the dependent clause should be in the past tense ('was')."
+    },
+    {
+      "id": "U2007_28",
+      "text": "The word $\\textbf{'evidence'}$ $\\textbf{e v i d e n c e}$.\n\nIdentify the syllable that carries the primary stress in the word **evidence**.",
+      "image": "",
+      "options": [
+        "ev",
+        "i",
+        "dence"
+      ],
+      "answer": "ev",
+      "explanation": "The primary stress in 'evidence' /ˈev.ɪ.dəns/ falls on the first syllable, 'ev'."
+    },
+    {
+      "id": "U2007_29",
+      "text": "A global $\\textbf{voting}$ $\\textbf{campaign}$ culminated in July 2007 with the announcement of the $\\textbf{New}$ $\\textbf{7}$ $\\textbf{Wonders}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{World}$, a list of $\\textbf{historical}$ $\\textbf{sites}$ chosen by hundreds of millions of people worldwide. (Comprehension Passage Snippet 8)\n\nWhat was the final outcome of the global voting campaign in July 2007?",
+      "image": "",
+      "options": [
+        "The election of a new UN Secretary-General",
+        "The announcement of the New 7 Wonders of the World",
+        "The discovery of a new planet",
+        "A new sporting championship winner"
+      ],
+      "answer": "The announcement of the New 7 Wonders of the World",
+      "explanation": "The campaign 'culminated... with the announcement of the New 7 Wonders of the World'."
+    },
+    {
+      "id": "U2007_30",
+      "text": "The campaign succeeded in drawing $\\textbf{attention}$ to historical preservation.\n\nChoose the word that is closest in meaning to $\\textbf{campaign}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A military operation",
+        "A single public announcement",
+        "A planned series of actions to achieve a goal",
+        "An unexpected event"
+      ],
+      "answer": "A planned series of actions to achieve a goal",
+      "explanation": "A campaign is a series of planned activities working toward a particular goal, such as election or, in this case, a vote."
+    },
+    {
+      "id": "U2007_31",
+      "text": "Sites $\\textbf{(such as/like)}$ the Great Wall of China and the Roman Colosseum were included.\n\nChoose the correct two-word connective used to introduce examples.",
+      "image": "",
+      "options": [
+        "such as",
+        "just",
+        "instead of",
+        "in spite of"
+      ],
+      "answer": "such as",
+      "explanation": "'Such as' is commonly used to introduce one or more specific examples."
+    },
+    {
+      "id": "U2007_32",
+      "text": "The word $\\textbf{'pyramid'}$ $\\textbf{p y r a m i d}$.\n\nIdentify the syllable that carries the primary stress in the word **pyramid**.",
+      "image": "",
+      "options": [
+        "pyr",
+        "a",
+        "mid"
+      ],
+      "answer": "pyr",
+      "explanation": "The primary stress in 'pyramid' /ˈpɪr.ə.mɪd/ falls on the first syllable, 'pyr'."
+    },
+    {
+      "id": "U2007_33",
+      "text": "The $\\textbf{microblogging}$ $\\textbf{platform}$ $\\textbf{Twitter}$, though launched in 2006, experienced $\\textbf{explosive}$ $\\textbf{growth}$ in 2007, moving from a niche service to a $\\textbf{mainstream}$ $\\textbf{communication}$ tool, particularly during major $\\textbf{global}$ $\\textbf{events}$. (Comprehension Passage Snippet 9)\n\nWhat type of communication platform is Twitter described as in the text?",
+      "image": "",
+      "options": [
+        "A video streaming service",
+        "A massive multiplayer game",
+        "A microblogging platform",
+        "A professional networking site"
+      ],
+      "answer": "A microblogging platform",
+      "explanation": "The text identifies Twitter as the 'microblogging platform'."
+    },
+    {
+      "id": "U2007_34",
+      "text": "The service allowed users to post short, $\\textbf{microblogging}$ $\\textbf{updates}$.\n\nChoose the word that is closest in meaning to $\\textbf{microblogging}$ as used in the context of the internet.",
+      "image": "",
+      "options": [
+        "Writing long academic essays",
+        "Posting very short, frequent entries or updates",
+        "Creating video documentaries",
+        "Sharing music files illegally"
+      ],
+      "answer": "Posting very short, frequent entries or updates",
+      "explanation": "Microblogging involves posting short content (texts, images, or links) rather than long entries."
+    },
+    {
+      "id": "U2007_35",
+      "text": "Twitter was quickly $\\textbf{(becoming/become)}$ a major communication tool worldwide.\n\nChoose the correct verb form to show an action that was in progress during that period.",
+      "image": "",
+      "options": [
+        "becoming",
+        "become",
+        "will become",
+        "has become"
+      ],
+      "answer": "becoming",
+      "explanation": "The Past Continuous form ('was becoming') is correct to describe a gradual, ongoing process of transformation in the past."
+    },
+    {
+      "id": "U2007_36",
+      "text": "The word $\\textbf{'social'}$ $\\textbf{s o c i a l}$.\n\nIdentify the syllable that carries the primary stress in the word **social**.",
+      "image": "",
+      "options": [
+        "so",
+        "cial"
+      ],
+      "answer": "so",
+      "explanation": "The primary stress in 'social' /ˈsoʊ.ʃəl/ falls on the first syllable, 'so'."
+    },
+    {
+      "id": "U2007_37",
+      "text": "The $\\textbf{Democratic}$ $\\textbf{Republic}$ $\\textbf{of}$ $\\textbf{Congo}$ suffered from intense $\\textbf{political}$ $\\textbf{instability}$ throughout 2007, with $\\textbf{clashes}$ $\\textbf{between}$ $\\textbf{government}$ $\\textbf{forces}$ and $\\textbf{militia}$ groups, particularly in the $\\textbf{Eastern}$ $\\textbf{region}$. (Comprehension Passage Snippet 10)\n\nWhat was the primary source of conflict in the Democratic Republic of Congo in 2007?",
+      "image": "",
+      "options": [
+        "A border dispute with Uganda",
+        "Clashes between government forces and militia groups",
+        "A dispute over diamond mining rights with South Africa",
+        "A widespread student strike"
+      ],
+      "answer": "Clashes between government forces and militia groups",
+      "explanation": "The conflict involved 'clashes between government forces and militia groups'."
+    },
+    {
+      "id": "U2007_38",
+      "text": "The fighting led to mass $\\textbf{displacement}$ and humanitarian crisis.\n\nChoose the word that is closest in meaning to $\\textbf{displacement}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "The process of building new homes",
+        "The process of moving people from their home or region",
+        "A peaceful negotiation",
+        "A change in government leadership"
+      ],
+      "answer": "The process of moving people from their home or region",
+      "explanation": "Displacement means the forced movement of people from their homes, typically due to war or natural disaster."
+    },
+    {
+      "id": "U2007_39",
+      "text": "The international community offered support $\\textbf{(despite/as)}$ the ongoing violence in the region.\n\nChoose the correct connector to show contrast.",
+      "image": "",
+      "options": [
+        "despite",
+        "as",
+        "because",
+        "therefore"
+      ],
+      "answer": "despite",
+      "explanation": "'Despite' is used to show contrast or unexpected opposition, meaning support was offered even though violence was ongoing."
+    },
+    {
+      "id": "U2007_40",
+      "text": "The word $\\textbf{'political'}$ $\\textbf{p o l i t i c a l}$.\n\nIdentify the syllable that carries the primary stress in the word **political**.",
+      "image": "",
+      "options": [
+        "po",
+        "lit",
+        "i",
+        "cal"
+      ],
+      "answer": "lit",
+      "explanation": "The primary stress in 'political' /pəˈlɪt.ɪ.kəl/ falls on the second syllable, 'lit'."
+    }
+  ]

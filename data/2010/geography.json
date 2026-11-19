@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "A catastrophic magnitude 7.0 earthquake struck near $\\textbf{Port-au-Prince}$, the capital of $\\textbf{Haiti}$, in January 2010, causing massive devastation.",
+        "image": "",
+        "options": [
+            "Santo Domingo",
+            "Kingston",
+            "Port-au-Prince",
+            "Havana"
+        ],
+        "answer": "Port-au-Prince",
+        "explanation": "The epicenter was just 25 km from the capital, leading to an estimated death toll of over 200,000 people."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Deepwater Horizon}$ oil spill occurred in the $\\textbf{Gulf of Mexico}$, becoming the largest marine oil spill in history.",
+        "image": "",
+        "options": [
+            "Persian Gulf",
+            "North Sea",
+            "Gulf of Mexico",
+            "Bay of Bengal"
+        ],
+        "answer": "Gulf of Mexico",
+        "explanation": "The explosion on the BP-operated rig released millions of barrels of oil, impacting the coastlines of Louisiana, Mississippi, Alabama, and Florida."
+    },
+    {
+        "id": "GEO03",
+        "text": "The eruption of the volcano $\\textbf{Eyjafjallajökull}$ in $\\textbf{Iceland}$ grounded air traffic across Europe for weeks due to a massive $\\textbf{Ash Cloud}$.",
+        "image": "",
+        "options": [
+            "Greenland",
+            "Iceland",
+            "Norway",
+            "Finland"
+        ],
+        "answer": "Iceland",
+        "explanation": "The ash plume entered the jet stream, forcing the closure of airspace over much of northern and western Europe."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Burj Khalifa}$, the world's tallest building, officially opened in January 2010 in $\\textbf{Dubai}$, United Arab Emirates.",
+        "image": "",
+        "options": [
+            "Abu Dhabi",
+            "Dubai",
+            "Doha",
+            "Riyadh"
+        ],
+        "answer": "Dubai",
+        "explanation": "Standing at 828 meters (2,717 ft), it surpassed Taipei 101 as the tallest structure in the world."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{2010 FIFA World Cup}$ was held in $\\textbf{South Africa}$, marking the first time the tournament was hosted on the $\\textbf{African}$ continent.",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Morocco",
+            "South Africa",
+            "Nigeria"
+        ],
+        "answer": "South Africa",
+        "explanation": "The event showcased cities like Johannesburg, Cape Town, and Durban to a global audience."
+    },
+    {
+        "id": "GEO06",
+        "text": "Thirty-three miners were trapped for 69 days in the $\\textbf{San José Mine}$ located in the $\\textbf{Atacama Desert}$ of $\\textbf{Chile}$.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Bolivia",
+            "Chile",
+            "Argentina"
+        ],
+        "answer": "Chile",
+        "explanation": "The dramatic rescue operation in the Copiapó region was watched by millions worldwide."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{2010 Winter Olympics}$ were hosted by $\\textbf{Vancouver}$ in the province of $\\textbf{British Columbia}$, Canada.",
+        "image": "",
+        "options": [
+            "Alberta",
+            "Ontario",
+            "British Columbia",
+            "Quebec"
+        ],
+        "answer": "British Columbia",
+        "explanation": "Events were held in Vancouver and the nearby resort town of Whistler."
+    },
+    {
+        "id": "GEO08",
+        "text": "A massive magnitude 8.8 earthquake struck off the coast of the $\\textbf{Maule}$ region in $\\textbf{Chile}$ in February 2010, triggering a tsunami.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Chile",
+            "Indonesia",
+            "Mexico"
+        ],
+        "answer": "Chile",
+        "explanation": "It was one of the strongest earthquakes ever recorded, moving the city of Concepción more than 3 meters to the west."
+    },
+    {
+        "id": "GEO09",
+        "text": "Devastating floods submerged one-fifth of $\\textbf{Pakistan}$ in 2010, caused by unprecedented $\\textbf{Monsoon}$ rains swelling the $\\textbf{Indus River}$.",
+        "image": "",
+        "options": [
+            "India",
+            "Bangladesh",
+            "Pakistan",
+            "Nepal"
+        ],
+        "answer": "Pakistan",
+        "explanation": "The floods affected an estimated 20 million people and destroyed infrastructure across the country."
+    },
+    {
+        "id": "GEO10",
+        "text": "In 2010, $\\textbf{China}$ officially overtook $\\textbf{Japan}$ to become the world's second-largest $\\textbf{Economy}$ by GDP.",
+        "image": "",
+        "options": [
+            "Germany",
+            "Japan",
+            "China",
+            "India"
+        ],
+        "answer": "China",
+        "explanation": "This marked a major shift in global economic geography, with China trailing only the United States."
+    },
+    {
+        "id": "GEO11",
+        "text": "Mount $\\textbf{Merapi}$, located on the densely populated island of $\\textbf{Java}$ in $\\textbf{Indonesia}$, erupted violently in late 2010.",
+        "image": "",
+        "options": [
+            "Sumatra",
+            "Bali",
+            "Java",
+            "Lombok"
+        ],
+        "answer": "Java",
+        "explanation": "The eruption forced the evacuation of hundreds of thousands of people in the Yogyakarta region."
+    },
+    {
+        "id": "GEO12",
+        "text": "Severe $\\textbf{Wildfires}$ and a record heatwave struck western $\\textbf{Russia}$ in 2010, threatening the capital city of $\\textbf{Moscow}$ with heavy smog.",
+        "image": "",
+        "options": [
+            "Ukraine",
+            "Belarus",
+            "Russia",
+            "Poland"
+        ],
+        "answer": "Russia",
+        "explanation": "The heatwave destroyed a significant portion of Russia's grain crop and raised global wheat prices."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Shanghai Expo 2010}$, the largest World's Fair in history, was held in $\\textbf{China}$ on the banks of the $\\textbf{Huangpu River}$.",
+        "image": "",
+        "options": [
+            "Yangtze River",
+            "Yellow River",
+            "Huangpu River",
+            "Pearl River"
+        ],
+        "answer": "Huangpu River",
+        "explanation": "More than 73 million people visited the expo, breaking previous attendance records."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Netherlands Antilles}$ was dissolved in 2010, causing $\\textbf{Curaçao}$ and $\\textbf{Sint Maarten}$ to become constituent countries within the Kingdom of the Netherlands.",
+        "image": "",
+        "options": [
+            "Aruba",
+            "Bonaire",
+            "Curaçao",
+            "Saba"
+        ],
+        "answer": "Curaçao",
+        "explanation": "This changed the political map of the Caribbean, giving these islands greater autonomy."
+    },
+    {
+        "id": "GEO15",
+        "text": "A massive toxic red sludge spill occurred in $\\textbf{Hungary}$ in 2010, reaching the $\\textbf{Danube River}$ and causing an ecological disaster.",
+        "image": "",
+        "options": [
+            "Romania",
+            "Hungary",
+            "Bulgaria",
+            "Serbia"
+        ],
+        "answer": "Hungary",
+        "explanation": "The sludge escaped from an alumina plant reservoir in Ajka, burying nearby villages."
+    },
+    {
+        "id": "GEO16",
+        "text": "A giant $\\textbf{Sinkhole}$ opened up in the middle of $\\textbf{Guatemala City}$ in 2010, triggered by Tropical Storm Agatha.",
+        "image": "",
+        "options": [
+            "Mexico City",
+            "San Salvador",
+            "Guatemala City",
+            "Tegucigalpa"
+        ],
+        "answer": "Guatemala City",
+        "explanation": "The almost perfectly circular hole was caused by piping features and a burst sewer pipe."
+    },
+    {
+        "id": "GEO17",
+        "text": "The first of the $\\textbf{Canterbury Earthquakes}$ struck near $\\textbf{Christchurch}$, $\\textbf{New Zealand}$ in September 2010, causing widespread damage.",
+        "image": "",
+        "options": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Hamilton"
+        ],
+        "answer": "Christchurch",
+        "explanation": "While there were no fatalities in the 2010 quake, it weakened infrastructure leading to the deadly 2011 event."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Three Gorges Dam}$ in $\\textbf{China}$ reached its maximum water level capacity in 2010, marking a milestone for the world's largest power station.",
+        "image": "",
+        "options": [
+            "Yellow River",
+            "Yangtze River",
+            "Mekong River",
+            "Ganges River"
+        ],
+        "answer": "Yangtze River",
+        "explanation": "The dam spans the Yangtze River and is a massive hydroelectric engineering project."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Amazon Rainforest}$ experienced a severe $\\textbf{Drought}$ in 2010, causing river levels to drop to historic lows in $\\textbf{Brazil}$.",
+        "image": "",
+        "options": [
+            "Flood",
+            "Drought",
+            "Freeze",
+            "Hurricane"
+        ],
+        "answer": "Drought",
+        "explanation": "The drought affected transportation, fishing, and released huge amounts of carbon dioxide."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Deepest Volcanic Vents}$ ever discovered were found in the $\\textbf{Cayman Trough}$ in the Caribbean Sea in 2010.",
+        "image": "",
+        "options": [
+            "Mariana Trench",
+            "Cayman Trough",
+            "Puerto Rico Trench",
+            "Java Trench"
+        ],
+        "answer": "Cayman Trough",
+        "explanation": "Located 5,000 meters down, these vents host unique copper-rich ecosystems."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Senkaku Islands}$ collision incident in 2010 heightened territorial tensions between $\\textbf{China}$ and $\\textbf{Japan}$ in the East China Sea.",
+        "image": "",
+        "options": [
+            "South Korea",
+            "Japan",
+            "Vietnam",
+            "Philippines"
+        ],
+        "answer": "Japan",
+        "explanation": "A Chinese trawler collided with Japanese Coast Guard patrol boats near the disputed islands."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Mentawai Islands}$ in $\\textbf{Indonesia}$ were struck by a tsunami in 2010, following a magnitude 7.7 earthquake.",
+        "image": "",
+        "options": [
+            "Philippines",
+            "Indonesia",
+            "Malaysia",
+            "Thailand"
+        ],
+        "answer": "Indonesia",
+        "explanation": "The islands are located off the western coast of Sumatra."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Gulf of Aden}$ saw a peak in $\\textbf{Piracy}$ activities in 2010, threatening one of the world's busiest shipping lanes off the coast of $\\textbf{Somalia}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Somalia",
+            "Yemen",
+            "Oman"
+        ],
+        "answer": "Somalia",
+        "explanation": "International naval task forces were deployed to protect vessels transiting toward the Suez Canal."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{2010 US Census}$ revealed that the center of population had shifted further to the $\\textbf{South}$ and $\\textbf{West}$.",
+        "image": "",
+        "options": [
+            "North",
+            "East",
+            "South",
+            "Midwest"
+        ],
+        "answer": "South",
+        "explanation": "States like Texas and Nevada saw significant growth, while the Rust Belt population stagnated."
+    },
+    {
+        "id": "GEO25",
+        "text": "Mount $\\textbf{Sinabung}$ in $\\textbf{Indonesia}$ erupted in 2010 after being dormant for over 400 years.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Bali",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "The volcano is located in the North Sumatra province."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Yeonpyeong}$ shelling incident occurred in 2010, when $\\textbf{North Korea}$ fired artillery at a $\\textbf{South Korean}$ island near the maritime border.",
+        "image": "",
+        "options": [
+            "Japan",
+            "South Korea",
+            "China",
+            "Russia"
+        ],
+        "answer": "South Korea",
+        "explanation": "This was one of the most serious escalations on the peninsula since the Korean War."
+    },
+    {
+        "id": "GEO27",
+        "text": "In 2010, $\\textbf{Russia}$ and $\\textbf{Norway}$ signed a treaty resolving a 40-year dispute over their maritime border in the $\\textbf{Barents Sea}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Barents Sea",
+            "Baltic Sea",
+            "Caspian Sea"
+        ],
+        "answer": "Barents Sea",
+        "explanation": "The agreement opened up the region for potential oil and gas exploration."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Shen Neng 1}$ coal carrier ran aground on the $\\textbf{Great Barrier Reef}$ in 2010, damaging a large area of the World Heritage site.",
+        "image": "",
+        "options": [
+            "Belize Barrier Reef",
+            "Great Barrier Reef",
+            "Ningaloo Reef",
+            "Palancar Reef"
+        ],
+        "answer": "Great Barrier Reef",
+        "explanation": "The incident occurred off the coast of Queensland, Australia, leaving a toxic paint scar."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{International Court of Justice}$ ruled in 2010 that $\\textbf{Kosovo}$'s declaration of independence from $\\textbf{Serbia}$ did not violate international law.",
+        "image": "",
+        "options": [
+            "Croatia",
+            "Bosnia",
+            "Serbia",
+            "Albania"
+        ],
+        "answer": "Serbia",
+        "explanation": "Kosovo had unilaterally declared independence in 2008, a move contested by Serbia."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Love Parade}$ disaster occurred in $\\textbf{Duisburg}$, $\\textbf{Germany}$, in 2010, leading to the permanent cancellation of the festival.",
+        "image": "",
+        "options": [
+            "Berlin",
+            "Munich",
+            "Duisburg",
+            "Hamburg"
+        ],
+        "answer": "Duisburg",
+        "explanation": "A stampede in a tunnel entrance caused the tragedy, shocking the nation."
+    },
+    {
+        "id": "GEO31",
+        "text": "Cyclone $\\textbf{Giri}$ made landfall in $\\textbf{Myanmar}$'s Rakhine State in 2010, causing significant damage just years after Cyclone Nargis.",
+        "image": "",
+        "options": [
+            "Bangladesh",
+            "Myanmar",
+            "Thailand",
+            "India"
+        ],
+        "answer": "Myanmar",
+        "explanation": "The cyclone intensified rapidly in the Bay of Bengal before hitting the coast."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Kampala}$ bombings in 2010 targeted crowds watching the World Cup final in $\\textbf{Uganda}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Uganda",
+            "Rwanda"
+        ],
+        "answer": "Uganda",
+        "explanation": "The attacks were claimed by Al-Shabaab in retaliation for Uganda's support of the Somali government."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Rio-Antirrio Bridge}$, an engineering marvel in $\\textbf{Greece}$, was a symbol of infrastructure development despite the country's growing debt crisis in 2010.",
+        "image": "",
+        "options": [
+            "Italy",
+            "Greece",
+            "Spain",
+            "Portugal"
+        ],
+        "answer": "Greece",
+        "explanation": "It connects the Peloponnese peninsula with mainland Greece across the Gulf of Corinth."
+    },
+    {
+        "id": "GEO34",
+        "text": "In 2010, $\\textbf{Qatar}$ was controversially awarded the hosting rights for the $\\textbf{2022 FIFA World Cup}$, a decision that transformed the small peninsula's infrastructure.",
+        "image": "",
+        "options": [
+            "Bahrain",
+            "Kuwait",
+            "Qatar",
+            "UAE"
+        ],
+        "answer": "Qatar",
+        "explanation": "Qatar became the first Middle Eastern nation selected to host the global tournament."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Bushehr Nuclear Power Plant}$ in $\\textbf{Iran}$ began fueling in 2010, marking the start of the country's nuclear energy program amid sanctions.",
+        "image": "",
+        "options": [
+            "Iraq",
+            "Iran",
+            "Pakistan",
+            "North Korea"
+        ],
+        "answer": "Iran",
+        "explanation": "The plant is located on the Persian Gulf coast."
+    },
+    {
+        "id": "GEO36",
+        "text": "A Polish Air Force jet crashed near $\\textbf{Smolensk}$, $\\textbf{Russia}$ in 2010, killing the Polish President and many top officials.",
+        "image": "",
+        "options": [
+            "Ukraine",
+            "Belarus",
+            "Russia",
+            "Lithuania"
+        ],
+        "answer": "Russia",
+        "explanation": "The crash occurred in thick fog while the delegation was en route to a memorial service."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Stuxnet}$ computer worm was discovered in 2010, specifically targeting nuclear facilities in $\\textbf{Natanz}$, $\\textbf{Iran}$.",
+        "image": "",
+        "options": [
+            "Israel",
+            "Iran",
+            "Syria",
+            "Libya"
+        ],
+        "answer": "Iran",
+        "explanation": "It was the first known cyberweapon to cause physical damage to industrial infrastructure (centrifuges)."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Danube Delta}$ borders $\\textbf{Romania}$ and $\\textbf{Ukraine}$ and is the second largest river delta in Europe.",
+        "image": "",
+        "options": [
+            "Hungary",
+            "Romania",
+            "Bulgaria",
+            "Moldova"
+        ],
+        "answer": "Romania",
+        "explanation": "Most of the delta lies within Romania, and it is a UNESCO World Heritage Site."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Spratly Islands}$ dispute intensified in 2010 as $\\textbf{US}$ Secretary of State Hillary Clinton declared freedom of navigation in the $\\textbf{South China Sea}$ a national interest.",
+        "image": "",
+        "options": [
+            "East China Sea",
+            "South China Sea",
+            "Philippine Sea",
+            "Yellow Sea"
+        ],
+        "answer": "South China Sea",
+        "explanation": "This signaled greater US involvement in the territorial disputes of the region."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{One World Trade Center}$ in $\\textbf{New York City}$ reached a construction milestone in 2010, surpassing the height of the $\\textbf{Empire State Building}$.",
+        "image": "",
+        "options": [
+            "Chrysler Building",
+            "Empire State Building",
+            "Willis Tower",
+            "Flatiron Building"
+        ],
+        "answer": "Empire State Building",
+        "explanation": "It was part of the rebuilding of the World Trade Center complex following the 9/11 attacks."
+    }
+]

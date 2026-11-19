@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G521",
+        "text": "The $\\textbf{American Recovery and Reinvestment Act (ARRA)}$ of 2009 was a massive federal spending package designed to combat the Great Recession. This direct spending is a classic example of:",
+        "image": "",
+        "options": [
+            "Monetary Policy, managed by the Federal Reserve",
+            "Judicial Activism",
+            "Fiscal Policy, managed by Congress and the President",
+            "States' Reserved Powers"
+        ],
+        "answer": "Fiscal Policy, managed by Congress and the President",
+        "explanation": "Fiscal policy involves the government using its spending and taxing powers (controlled by the legislative and executive branches) to influence the economy."
+    },
+    {
+        "id": "G522",
+        "text": "Congress justified the ARRA under its enumerated power to provide for the $\\textbf{General Welfare}$ (Article I, Section 8) and its power to regulate:",
+        "image": "",
+        "options": [
+            "The appointment of ambassadors",
+            "Only military operations",
+            "Commerce among the several states",
+            "Local zoning laws"
+        ],
+        "answer": "Commerce among the several states",
+        "explanation": "The Commerce Clause, often paired with the Spending Clause, is the primary constitutional basis for broad federal economic and regulatory legislation."
+    },
+    {
+        "id": "G523",
+        "text": "The $\\textbf{Federal Reserve}$ (The Fed) is responsible for $\\textbf{Monetary Policy}$. To combat the recession, the Fed engaged in $\\textbf{Quantitative Easing}$, primarily by controlling the supply of money and:",
+        "image": "",
+        "options": [
+            "Tax rates",
+            "Interest rates",
+            "Federal court appointments",
+            "International trade tariffs"
+        ],
+        "answer": "Interest rates",
+        "explanation": "The Fed controls key interest rates (like the federal funds rate) and the money supply to manage inflation and economic growth."
+    },
+    {
+        "id": "G524",
+        "text": "The 2009 $\\textbf{stimulus}$ package included funds directed through $\\textbf{grants-in-aid}$ to state and local governments for infrastructure projects. This mechanism for directing federal funds is a core component of:",
+        "image": "",
+        "options": [
+            "Dual Federalism",
+            "Cooperative Federalism",
+            "Unitary Government",
+            "A Presidential Cabinet"
+        ],
+        "answer": "Cooperative Federalism",
+        "explanation": "Cooperative federalism involves the federal government providing money (grants) and setting the goals for state and local governments to implement."
+    },
+    {
+        "id": "G525",
+        "text": "President Obama's nomination of $\\textbf{Sonia Sotomayor}$ to the Supreme Court in 2009 required the Senate to exercise its constitutional power of:",
+        "image": "",
+        "options": [
+            "Judicial Review",
+            "Impeachment",
+            "Advice and Consent",
+            "Initiating revenue bills"
+        ],
+        "answer": "Advice and Consent",
+        "explanation": "The Senate's role in confirming presidential nominees, including federal judges, is its power of Advice and Consent."
+    },
+    {
+        "id": "G526",
+        "text": "Justice Sotomayor's confirmation hearings highlighted the debate over $\\textbf{Judicial Philosophy}$. Those who advocate for $\\textbf{Judicial Restraint}$ believe judges should primarily:",
+        "image": "",
+        "options": [
+            "Overturn laws frequently",
+            "Defer to the policy decisions of elected officials",
+            "Write new laws from the bench",
+            "Ignore legal precedent ($\textit{stare decisis}$)"
+        ],
+        "answer": "Defer to the policy decisions of elected officials",
+        "explanation": "Judicial restraint is the belief that courts should limit the use of judicial review and avoid making policy decisions."
+    },
+    {
+        "id": "G527",
+        "text": "During the 2009 economic crisis, the $\\textbf{Executive Branch}$ used its power to stabilize the auto industry and the financial sector. This action is supported by the President's role as the:",
+        "image": "",
+        "options": [
+            "Chief Legislator",
+            "Commander-in-Chief",
+            "Chief Executive and Economic Planner",
+            "Chief Diplomat"
+        ],
+        "answer": "Chief Executive and Economic Planner",
+        "explanation": "The President is generally seen as the nation's chief manager of the economy, especially in times of crisis."
+    },
+    {
+        "id": "G528",
+        "text": "The controversy surrounding the closure of the detention facility at $\\textbf{Guantanamo Bay}$ in 2009 involved a conflict between the President's $\\textbf{war powers}$ and the rights protected by:",
+        "image": "",
+        "options": [
+            "The Tenth Amendment (Reserved Powers)",
+            "The $\\textbf{writ of habeas corpus}$ (right to judicial review of detention)",
+            "The Full Faith and Credit Clause",
+            "The Establishment Clause"
+        ],
+        "answer": "The $\\textbf{writ of habeas corpus}$ (right to judicial review of detention)",
+        "explanation": "Habeas corpus is the legal right to challenge one's detention before a court, a right often asserted by Guantanamo detainees."
+    },
+    {
+        "id": "G529",
+        "text": "The $\\textbf{Tenth Amendment}$ was frequently invoked in 2009 by those opposing new federal mandates in areas like healthcare reform, arguing that policy control should be left to the:",
+        "image": "",
+        "options": [
+            "Federal Judiciary",
+            "Federal Bureaucracy",
+            "States (Reserved Powers)",
+            "U.S. House of Representatives"
+        ],
+        "answer": "States (Reserved Powers)",
+        "explanation": "The 10th Amendment reserves powers not explicitly given to the federal government to the states, which is the core argument of anti-mandate federalism."
+    },
+    {
+        "id": "G530",
+        "text": "The $\\textbf{Office of Management and Budget (OMB)}$ is an Executive Office agency that prepares the President's $\\textbf{annual budget proposal}$ and oversees the $\\textbf{implementation}$ of federal spending, exemplifying the President's role as:",
+        "image": "",
+        "options": [
+            "Chief of Party",
+            "Chief Administrator",
+            "Chief Justice",
+            "Chief Lobbyist"
+        ],
+        "answer": "Chief Administrator",
+        "explanation": "As Chief Administrator, the President directs the federal bureaucracy, including the management of the federal budget."
+    },
+    {
+        "id": "G531",
+        "text": "In 2009, the debate over the $\\textbf{Affordable Care Act}$ saw intense $\\textbf{lobbying}$ efforts by $\\textbf{interest groups}$ from the insurance and medical industries, demonstrating the influence of:",
+        "image": "",
+        "options": [
+            "The Vice President's tie-breaking vote",
+            "Elite theory in policy making",
+            "Pluralist theory in policy making",
+            "The $\\textbf{War Powers Resolution}$"
+        ],
+        "answer": "Pluralist theory in policy making",
+        "explanation": "Pluralist theory posits that policy is made through the competition and bargaining of many diverse interest groups."
+    },
+    {
+        "id": "G532",
+        "text": "When Congress considered the ARRA, it engaged in $\\textbf{Congressional Oversight}$ to monitor the distribution of funds and prevent fraud. This is a check on the power of the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Executive Branch and Federal Agencies",
+            "State Legislatures",
+            "The media"
+        ],
+        "answer": "Executive Branch and Federal Agencies",
+        "explanation": "Oversight is Congress's check on the executive branch to ensure laws are being implemented correctly and efficiently."
+    },
+    {
+        "id": "G533",
+        "text": "The majority party in the $\\textbf{House of Representatives}$ controls the $\\textbf{Rules Committee}$, which determines the conditions under which a bill is debated and voted on, especially the length of debate and number of:",
+        "image": "",
+        "options": [
+            "Treaties",
+            "Executive Orders",
+            "Amendments allowed",
+            "Supreme Court terms"
+        ],
+        "answer": "Amendments allowed",
+        "explanation": "The Rules Committee is extremely powerful, often issuing 'closed rules' that severely limit debate and amendments."
+    },
+    {
+        "id": "G534",
+        "text": "The Senate's power to $\\textbf{filibuster}$ was used heavily in 2009 to obstruct major legislation, requiring the majority party to invoke $\\textbf{cloture}$ to end debate. Cloture requires a supermajority vote of:",
+        "image": "",
+        "options": [
+            "51 Senators",
+            "60 Senators",
+            "Two-thirds of all members of Congress",
+            "Three-fourths of state legislatures"
+        ],
+        "answer": "60 Senators",
+        "explanation": "Cloture is the only formal procedure to terminate a filibuster, requiring 60 votes (three-fifths of the full Senate)."
+    },
+    {
+        "id": "G535",
+        "text": "In $\\textbf{Federalism}$, $\\textbf{Concurrent Powers}$ are those shared by both the federal government and the states. An example relevant to the 2009 recession response is the power to:",
+        "image": "",
+        "options": [
+            "Coin money",
+            "Declare war",
+            "Levy and collect $\\textbf{Taxes}$",
+            "Ratify treaties"
+        ],
+        "answer": "Levy and collect $\\textbf{Taxes}$",
+        "explanation": "Both the federal and state governments have the power to tax citizens and businesses."
+    },
+    {
+        "id": "G536",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Elastic Clause) in Article I, Section 8 is the constitutional source for Congress's $\\textbf{implied powers}$, allowing it to address issues not explicitly detailed in the:",
+        "image": "",
+        "options": [
+            "Declaration of Independence",
+            "Bill of Rights",
+            "Electoral College",
+            "Enumerated Powers list"
+        ],
+        "answer": "Enumerated Powers list",
+        "explanation": "The Elastic Clause enables Congress to pass laws required to carry out its expressed, or enumerated, powers."
+    },
+    {
+        "id": "G537",
+        "text": "The President's power to issue an $\\textbf{Executive Order}$ (like one regarding the closure of Gitmo) is based on the authority granted by the Constitution and $\\textbf{delegated authority}$ from:",
+        "image": "",
+        "options": [
+            "The Supreme Court",
+            "State governors",
+            "Acts of Congress",
+            "Foreign nations"
+        ],
+        "answer": "Acts of Congress",
+        "explanation": "Executive Orders must be based on either the President's constitutional powers or authority delegated to the executive branch by law (Congress)."
+    },
+    {
+        "id": "G538",
+        "text": "The $\\textbf{Judiciary Act of 1789}$ established the federal court system. The Supreme Court's power of $\\textbf{Judicial Review}$, however, was established by the court case:",
+        "image": "",
+        "options": [
+            "McCulloch v. Maryland",
+            "Marbury v. Madison (1803)",
+            "Roe v. Wade",
+            "Gideon v. Wainwright"
+        ],
+        "answer": "Marbury v. Madison (1803)",
+        "explanation": "This landmark case established the Supreme Court's authority to interpret the Constitution and declare laws unconstitutional."
+    },
+    {
+        "id": "G539",
+        "text": "When President Obama took the oath of office, he pledged to $\\textbf{preserve, protect, and defend}$ the Constitution, fulfilling his role as:",
+        "image": "",
+        "options": [
+            "Chief of Party",
+            "Chief Legislator",
+            "Chief Jurist",
+            "Chief of State"
+        ],
+        "answer": "Chief of State",
+        "explanation": "The Chief of State is the ceremonial head of the government, symbolizing national unity and authority."
+    },
+    {
+        "id": "G540",
+        "text": "The $\\textbf{Fourth Amendment}$ protection against $\\textbf{unreasonable searches}$ is primarily enforced by the $\\textbf{Exclusionary Rule}$, which mandates that illegally obtained evidence cannot be used in a:",
+        "image": "",
+        "options": [
+            "Presidential impeachment",
+            "Criminal trial",
+            "Congressional hearing",
+            "Treaty negotiation"
+        ],
+        "answer": "Criminal trial",
+        "explanation": "The Exclusionary Rule is a judicial remedy to deter police misconduct by barring the use of unconstitutionally obtained evidence."
+    },
+    {
+        "id": "G541",
+        "text": "The $\\textbf{House Ways and Means Committee}$ in 2009 was critical because it is where all $\\textbf{tax}$ and other $\\textbf{revenue}$ measures must originate, as mandated by:",
+        "image": "",
+        "options": [
+            "The Tenth Amendment",
+            "Article I, Section 7 of the Constitution",
+            "The Supremacy Clause",
+            "The Fifth Amendment"
+        ],
+        "answer": "Article I, Section 7 of the Constitution",
+        "explanation": "The 'Origination Clause' requires that all bills for raising revenue must begin in the House of Representatives."
+    },
+    {
+        "id": "G542",
+        "text": "The constitutional principle of $\\textbf{Separation of Powers}$ prevents one branch from becoming too powerful, such as preventing the President from single-handedly $\\textbf{declaring}$:",
+        "image": "",
+        "options": [
+            "A national holiday",
+            "War",
+            "A state of emergency",
+            "A recess of Congress"
+        ],
+        "answer": "War",
+        "explanation": "The power to declare war is reserved for Congress, checking the President's role as Commander-in-Chief."
+    },
+    {
+        "id": "G543",
+        "text": "The $\\textbf{media's}$ role in aggressively questioning and investigating the use of ARRA funds is an example of the media acting as the political:",
+        "image": "",
+        "options": [
+            "Pledge of Allegiance",
+            "Watchdog",
+            "Party Boss",
+            "Electoral College"
+        ],
+        "answer": "Watchdog",
+        "explanation": "The watchdog function involves the media scrutinizing government officials and exposing misconduct or waste."
+    },
+    {
+        "id": "G544",
+        "text": "The $\\textbf{Permanent Earmark}$ Ban was debated in 2009, targeting the practice of legislative provisions that direct $\\textbf{specified federal funds}$ to particular recipients. These are often criticized for violating:",
+        "image": "",
+        "options": [
+            "The principle of majority rule",
+            "The principle of $\\textbf{equal protection}$",
+            "The rule of law (in certain contexts)",
+            "Due process"
+        ],
+        "answer": "The principle of $\\textbf{equal protection}$",
+        "explanation": "Earmarks are often seen as favoring specific constituencies or lobbyists over the general public interest."
+    },
+    {
+        "id": "G545",
+        "text": "The $\\textbf{Supremacy Clause}$ ensures that when the federal government acts within its constitutional powers (like passing the ARRA), its laws $\\textbf{prevail}$ over conflicting:",
+        "image": "",
+        "options": [
+            "State laws",
+            "Presidential vetoes",
+            "Foreign treaties",
+            "Cabinet decisions"
+        ],
+        "answer": "State laws",
+        "explanation": "Article VI establishes the hierarchy of law, placing the Constitution and federal laws above state laws."
+    },
+    {
+        "id": "G546",
+        "text": "President Obama chose to appoint $\\textbf{Cabinet secretaries}$ who often held diverse views. Cabinet secretaries are confirmed by the Senate and primarily serve the President in their role as:",
+        "image": "",
+        "options": [
+            "Chief of Party",
+            "Chief Legislator",
+            "Chief Diplomat",
+            "Chief Executive"
+        ],
+        "answer": "Chief Executive",
+        "explanation": "The Cabinet departments help the President carry out the laws as the head of the executive branch."
+    },
+    {
+        "id": "G547",
+        "text": "The $\\textbf{House of Representatives}$ is considered the chamber $\\textbf{closest to the people}$ because its members are subject to elections every:",
+        "image": "",
+        "options": [
+            "Four years",
+            "Six years",
+            "Two years",
+            "Eight years"
+        ],
+        "answer": "Two years",
+        "explanation": "Short, two-year terms ensure House members are highly responsive to public opinion."
+    },
+    {
+        "id": "G548",
+        "text": "The $\\textbf{Republican opposition}$ to the stimulus package and healthcare reform in 2009 demonstrated the concept of $\\textbf{divided government}$, which occurs when the Presidency and at least one house of Congress are controlled by:",
+        "image": "",
+        "options": [
+            "The same party",
+            "The Federal Reserve",
+            "Different parties",
+            "The military"
+        ],
+        "answer": "Different parties",
+        "explanation": "Divided government often leads to legislative gridlock and partisan conflict."
+    },
+    {
+        "id": "G549",
+        "text": "The $\\textbf{Eighth Amendment}$ prohibition on $\\textbf{cruel and unusual punishments}$ was often debated in 2009 regarding the treatment of detainees and the application of:",
+        "image": "",
+        "options": [
+            "Electoral College rules",
+            "Monetary policy",
+            "The death penalty",
+            "The Commerce Clause"
+        ],
+        "answer": "The death penalty",
+        "explanation": "The Eighth Amendment is the constitutional basis for legal challenges to the death penalty's methods and application."
+    },
+    {
+        "id": "G550",
+        "text": "The $\\textbf{President's}$ power to extend diplomatic $\\textbf{recognition}$ to foreign nations, such as restoring ties or meeting with leaders, is part of their role as:",
+        "image": "",
+        "options": [
+            "Chief Administrator",
+            "Chief of Party",
+            "Chief Diplomat",
+            "Chief of Staff"
+        ],
+        "answer": "Chief Diplomat",
+        "explanation": "The President directs U.S. foreign policy, including the power to recognize foreign governments."
+    },
+    {
+        "id": "G551",
+        "text": "The $\\textbf{Chief of Staff}$ is often considered the President's most important advisor, controlling access to the President and managing the $\\textbf{White House Staff}$, which is part of the:",
+        "image": "",
+        "options": [
+            "Independent Regulatory Agencies",
+            "Executive Office of the President (EOP)",
+            "Cabinet Departments",
+            "Senate"
+        ],
+        "answer": "Executive Office of the President (EOP)",
+        "explanation": "The EOP consists of agencies that directly advise and assist the President in carrying out their duties."
+    },
+    {
+        "id": "G552",
+        "text": "Federal funding for $\\textbf{education}$ was a component of the ARRA. Education policy, however, is traditionally a $\\textbf{Reserved Power}$ under the:",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Tenth Amendment",
+            "Supremacy Clause",
+            "Necessary and Proper Clause"
+        ],
+        "answer": "Tenth Amendment",
+        "explanation": "Because education is not mentioned in the Constitution as a federal power, it is reserved to the states."
+    },
+    {
+        "id": "G553",
+        "text": "The $\\textbf{2009 Stimulus}$ bill increased spending on $\\textbf{Discretionary Spending}$ programs. Discretionary spending is the portion of the federal budget that Congress must approve:",
+        "image": "",
+        "options": [
+            "Annually",
+            "Only once every decade",
+            "Through a constitutional amendment",
+            "By Executive Order"
+        ],
+        "answer": "Annually",
+        "explanation": "Discretionary spending (like defense and infrastructure) is funded through annual appropriations bills, unlike mandatory spending (like Social Security)."
+    },
+    {
+        "id": "G554",
+        "text": "The $\\textbf{Pledge of Allegiance}$ case ($\textit{Elk Grove v. Newdow}$) illustrates the conflict between the $\\textbf{Free Exercise Clause}$ and the $\\textbf{Establishment Clause}$ of the:",
+        "image": "",
+        "options": [
+            "Fourth Amendment",
+            "Fifth Amendment",
+            "First Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "First Amendment",
+        "explanation": "The First Amendment protects both the freedom to practice religion and the freedom from government-established religion."
+    },
+    {
+        "id": "G555",
+        "text": "A $\\textbf{Conference Committee}$ is established to resolve differences between the $\\textbf{House and Senate}$ versions of a bill, ensuring that the final text passed by both chambers is:",
+        "image": "",
+        "options": [
+            "Veto-proof",
+            "Identical",
+            "Ratified by the states",
+            "Subject to judicial review"
+        ],
+        "answer": "Identical",
+        "explanation": "Both houses must pass the exact same bill before it can be sent to the President."
+    },
+    {
+        "id": "G556",
+        "text": "The $\\textbf{Government Accountability Office (GAO)}$ is a Congressional agency that provides $\\textbf{audits, evaluations}$, and investigations into federal programs (like the ARRA), acting as a key tool for $\\textbf{Congressional}$:",
+        "image": "",
+        "options": [
+            "Ratification",
+            "Oversight",
+            "Appointment",
+            "Impeachment"
+        ],
+        "answer": "Oversight",
+        "explanation": "The GAO is often called 'the congressional watchdog' for its role in monitoring executive branch agencies."
+    },
+    {
+        "id": "G557",
+        "text": "The power of $\\textbf{Impeachment}$ rests with the $\\textbf{House of Representatives}$, while the power to try and convict (remove) an impeached official (like a President or federal judge) rests with the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "President's Cabinet",
+            "Senate",
+            "State governors"
+        ],
+        "answer": "Senate",
+        "explanation": "The House acts as the prosecutor, and the Senate acts as the jury in impeachment proceedings."
+    },
+    {
+        "id": "G558",
+        "text": "The $\\textbf{2009 Recession}$ highlighted the need for $\\textbf{emergency powers}$ that the President and Congress can activate during national crises, demonstrating the constitutional principle of $\\textbf{flexibility}$ embedded in the:",
+        "image": "",
+        "options": [
+            "Bill of Rights",
+            "Electoral College",
+            "Elastic Clause",
+            "Privileges and Immunities Clause"
+        ],
+        "answer": "Elastic Clause",
+        "explanation": "The Necessary and Proper Clause allows the government to adapt its structure and scope to meet unforeseen national challenges."
+    },
+    {
+        "id": "G559",
+        "text": "The $\\textbf{Fifth Amendment}$ guarantees $\\textbf{Due Process}$ of law, protecting citizens from arbitrary deprivation of life, liberty, or property by the $\\textbf{federal}$ government. This concept was extended to the $\\textbf{states}$ by the:",
+        "image": "",
+        "options": [
+            "Twelfth Amendment",
+            "Fourteenth Amendment (Due Process Clause)",
+            "Tenth Amendment",
+            "Sixth Amendment"
+        ],
+        "answer": "Fourteenth Amendment (Due Process Clause)",
+        "explanation": "The 14th Amendment's Due Process Clause applies the protections of the Bill of Rights to state governments through Selective Incorporation."
+    },
+    {
+        "id": "G560",
+        "text": "The constitutional requirement for an $\\textbf{accurate census}$ every ten years is necessary for reapportioning the number of $\\textbf{seats}$ each state has in the:",
+        "image": "",
+        "options": [
+            "Cabinet",
+            "Senate",
+            "House of Representatives",
+            "Supreme Court"
+        ],
+        "answer": "House of Representatives",
+        "explanation": "The census is mandated to ensure representation in the House is proportional to the population."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "PHYS_Q_01",
+      "text": "The refractive index of glass is 1.5. If the speed of light in air is $3.0 \\times 10^{8} \\text{ m/s}$, calculate the speed of light in the glass.",
+      "image": "",
+      "options": ["$2.0 \\times 10^{8} \\text{ m/s}$", "$4.5 \\times 10^{8} \\text{ m/s}$", "$1.5 \\times 10^{8} \\text{ m/s}$", "$3.0 \\times 10^{8} \\text{ m/s}$"],
+      "answer": "$2.0 \\times 10^{8} \\text{ m/s}$",
+      "explanation": "Refractive index ($n$) is given by $n = c/v$, where $c$ is the speed of light in vacuum/air and $v$ is the speed in the medium. $v = c/n = (3.0 \\times 10^{8}) / 1.5 = 2.0 \\times 10^{8} \\text{ m/s}$."
+    },
+    {
+      "id": "PHYS_Q_02",
+      "text": "Which of the following is a fundamental S.I. unit?",
+      "image": "",
+      "options": ["Volt", "Newton", "Ampere", "Joule"],
+      "answer": "Ampere",
+      "explanation": "The seven fundamental S.I. units are metre, kilogram, second, ampere, kelvin, mole, and candela."
+    },
+    {
+      "id": "PHYS_Q_03",
+      "text": "A block of mass 5 kg is pulled along a horizontal floor by a force of 20 N. If the frictional force is 5 N, what is the acceleration of the block?",
+      "image": "",
+      "options": ["3.0 m/s²", "4.0 m/s²", "5.0 m/s²", "7.0 m/s²"],
+      "answer": "3.0 m/s²",
+      "explanation": "Net Force ($F_{net}$) = Applied Force - Frictional Force = $20 \\text{ N} - 5 \\text{ N} = 15 \\text{ N}$. Using Newton's second law, $F_{net} = ma$. $a = F_{net}/m = 15/5 = 3.0 \\text{ m/s}^{2}$."
+    },
+    {
+      "id": "PHYS_Q_04",
+      "text": "The quantity that has the same unit as the moment of a force is:",
+      "image": "",
+      "options": ["Power", "Work", "Impulse", "Pressure"],
+      "answer": "Work",
+      "explanation": "Moment of a force (Torque) = Force $\\times$ distance, unit is $\\text{N} \\cdot \\text{m}$. Work = Force $\\times$ distance, unit is $\\text{J}$ (which is $\\text{N} \\cdot \\text{m}$). The units are the same."
+    },
+    {
+      "id": "PHYS_Q_05",
+      "text": "An object moves in a circular path of radius 0.5 m with a constant speed of 2 m/s. The centripetal acceleration is:",
+      "image": "",
+      "options": ["4 m/s²", "8 m/s²", "1 m/s²", "0.25 m/s²"],
+      "answer": "8 m/s²",
+      "explanation": "Centripetal acceleration ($a_c$) is given by $a_c = v^2/r = (2)^2/0.5 = 4/0.5 = 8 \\text{ m/s}^{2}$."
+    },
+    {
+      "id": "PHYS_Q_06",
+      "text": "Which of the following processes involves heat transfer by density differences in a fluid?",
+      "image": "",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "answer": "Convection",
+      "explanation": "Convection is the transfer of heat by the actual movement of fluid molecules due to density changes."
+    },
+    {
+      "id": "PHYS_Q_07",
+      "text": "The S.I. unit of specific latent heat is:",
+      "image": "",
+      "options": ["J/kg", "J/K", "J/kg $\\cdot$ K", "J"],
+      "answer": "J/kg",
+      "explanation": "Specific latent heat ($L$) is energy ($Q$) per unit mass ($m$), so $L = Q/m$, giving the unit $\\text{J}/\\text{kg}$."
+    },
+    {
+      "id": "PHYS_Q_08",
+      "text": "A wave has a frequency of 10 Hz and a wavelength of 3.0 m. What is its velocity?",
+      "image": "",
+      "options": ["30 m/s", "0.3 m/s", "3.3 m/s", "10 m/s"],
+      "answer": "30 m/s",
+      "explanation": "Wave velocity ($v$) is given by $v = f\\lambda = 10 \\text{ Hz} \\times 3.0 \\text{ m} = 30 \\text{ m/s}$."
+    },
+    {
+      "id": "PHYS_Q_09",
+      "text": "Total internal reflection occurs only when light moves from a:",
+      "image": "",
+      "options": ["Less dense to a more dense medium", "More dense to a less dense medium", "Vacuum to air", "Air to water"],
+      "answer": "More dense to a less dense medium",
+      "explanation": "For total internal reflection, the light must travel from an optically denser medium to an optically less dense medium, and the angle of incidence must be greater than the critical angle."
+    },
+    {
+      "id": "PHYS_Q_10",
+      "text": "A body of mass 2 kg is raised to a height of 5 m. What is its potential energy? (Take $g = 10 \\text{ m/s}^{2}$)",
+      "image": "",
+      "options": ["100 J", "10 J", "50 J", "20 J"],
+      "answer": "100 J",
+      "explanation": "Potential Energy ($PE$) = $mgh = 2 \\text{ kg} \\times 10 \\text{ m/s}^{2} \\times 5 \\text{ m} = 100 \\text{ J}$."
+    },
+    {
+      "id": "PHYS_Q_11",
+      "text": "Which property of a wave is responsible for the phenomenon of beats?",
+      "image": "",
+      "options": ["Reflection", "Refraction", "Interference", "Diffraction"],
+      "answer": "Interference",
+      "explanation": "Beats are produced by the superposition (interference) of two sound waves of slightly different frequencies."
+    },
+    {
+      "id": "PHYS_Q_12",
+      "text": "A step-down transformer has a primary coil of 400 turns and a secondary coil of 100 turns. If the primary voltage is 240 V, what is the secondary voltage?",
+      "image": "",
+      "options": ["960 V", "60 V", "240 V", "40 V"],
+      "answer": "60 V",
+      "explanation": "Transformer ratio: $V_s/V_p = N_s/N_p$. $V_s = V_p \\times (N_s/N_p) = 240 \\text{ V} \\times (100/400) = 240/4 = 60 \\text{ V}$."
+    },
+    {
+      "id": "PHYS_Q_13",
+      "text": "Ohm's law relates voltage, current, and resistance as:",
+      "image": "",
+      "options": ["$R = V \\times I$", "$V = I/R$", "$I = V \\times R$", "$V = I \\times R$"],
+      "answer": "$V = I \\times R$",
+      "explanation": "Ohm's law states that the voltage ($V$) across a conductor is directly proportional to the current ($I$) flowing through it, where $R$ is the constant of proportionality (resistance)."
+    },
+    {
+      "id": "PHYS_Q_14",
+      "text": "Three resistors of $3 \\Omega$, $6 \\Omega$, and $9 \\Omega$ are connected in series. What is the equivalent resistance?",
+      "image": "",
+      "options": ["$18 \\Omega$", "$1.64 \\Omega$", "$6 \\Omega$", "$9 \\Omega$"],
+      "answer": "$18 \\Omega$",
+      "explanation": "For series connection, $R_{eq} = R_1 + R_2 + R_3 = 3 + 6 + 9 = 18 \\Omega$."
+    },
+    {
+      "id": "PHYS_Q_15",
+      "text": "The process of using a magnetic field to generate an electric current in a conductor is called:",
+      "image": "",
+      "options": ["Electrolysis", "Thermoelectric effect", "Electromagnetic Induction", "Capacitance"],
+      "answer": "Electromagnetic Induction",
+      "explanation": "This is Faraday's Law of Electromagnetic Induction."
+    },
+    {
+      "id": "PHYS_Q_16",
+      "text": "A wire of length 2 m and cross-sectional area $1.0 \\times 10^{-6} \\text{ m}^{2}$ has a resistance of $5 \\Omega$. What is the resistivity of the wire?",
+      "image": "",
+      "options": ["$2.5 \\times 10^{-6} \\text{ } \\Omega\\cdot\\text{m}$", "$1.0 \\times 10^{-5} \\text{ } \\Omega\\cdot\\text{m}$", "$5.0 \\times 10^{-6} \\text{ } \\Omega\\cdot\\text{m}$", "$1.0 \\times 10^{6} \\text{ } \\Omega\\cdot\\text{m}$"],
+      "answer": "$2.5 \\times 10^{-6} \\text{ } \\Omega\\cdot\\text{m}$",
+      "explanation": "Resistance $R = \\rho L/A$. Resistivity $\\rho = RA/L = (5 \\Omega \\times 1.0 \\times 10^{-6} \\text{ m}^{2}) / 2 \\text{ m} = 2.5 \\times 10^{-6} \\text{ } \\Omega\\cdot\\text{m}$."
+    },
+    {
+      "id": "PHYS_Q_17",
+      "text": "The half-life of a radioactive element is 8 days. How long will it take for $3/4$ of the sample to decay?",
+      "image": "",
+      "options": ["4 days", "8 days", "16 days", "32 days"],
+      "answer": "16 days",
+      "explanation": "If $3/4$ has decayed, $1/4$ remains. $1/4 = (1/2)^n$, where $n$ is the number of half-lives. $n=2$. Total time = $n \\times t_{1/2} = 2 \\times 8 \\text{ days} = 16 \\text{ days}$."
+    },
+    {
+      "id": "PHYS_Q_18",
+      "text": "The energy radiated per second by a body depends on the fourth power of its absolute temperature. This is stated by:",
+      "image": "",
+      "options": ["Wien's Law", "Kirchhoff's Law", "Stefan-Boltzmann Law", "Newton's Law of Cooling"],
+      "answer": "Stefan-Boltzmann Law",
+      "explanation": "Stefan-Boltzmann Law states that $P = e \\sigma A T^4$."
+    },
+    {
+      "id": "PHYS_Q_19",
+      "text": "The change in momentum of a body is equal to the:",
+      "image": "",
+      "options": ["Power", "Force", "Impulse", "Energy"],
+      "answer": "Impulse",
+      "explanation": "Impulse is defined as the change in momentum ($I = \\Delta p$). It is also equal to the product of the force and the time interval for which the force acts ($I = F\\Delta t$)."
+    },
+    {
+      "id": "PHYS_Q_20",
+      "text": "Which of the following electromagnetic waves has the lowest frequency?",
+      "image": "",
+      "options": ["X-rays", "Infrared radiation", "Radio waves", "Gamma rays"],
+      "answer": "Radio waves",
+      "explanation": "In the electromagnetic spectrum, frequency increases from Radio waves $\\rightarrow$ Microwaves $\\rightarrow$ Infrared $\\rightarrow$ Visible Light $\\rightarrow$ UV $\\rightarrow$ X-rays $\\rightarrow$ Gamma rays. Radio waves have the lowest frequency and longest wavelength."
+    },
+    {
+      "id": "PHYS_Q_21",
+      "text": "When a solid is heated and changes directly to a gas, the process is called:",
+      "image": "",
+      "options": ["Melting", "Boiling", "Sublimation", "Condensation"],
+      "answer": "Sublimation",
+      "explanation": "Sublimation is the transition of a substance directly from the solid to the gas phase without passing through the intermediate liquid phase."
+    },
+    {
+      "id": "PHYS_Q_22",
+      "text": "What is the pressure at a depth of 10 m in water? (Density of water $= 1000 \\text{ kg/m}^{3}$, $g = 10 \\text{ m/s}^{2}$)",
+      "image": "",
+      "options": ["$1.0 \\times 10^{4} \\text{ Pa}$", "$1.0 \\times 10^{5} \\text{ Pa}$", "$1.0 \\times 10^{3} \\text{ Pa}$", "$1.0 \\times 10^{6} \\text{ Pa}$"],
+      "answer": "$1.0 \\times 10^{5} \\text{ Pa}$",
+      "explanation": "Pressure ($P$) = $\\rho gh = 1000 \\text{ kg/m}^{3} \\times 10 \\text{ m/s}^{2} \\times 10 \\text{ m} = 100,000 \\text{ Pa} = 1.0 \\times 10^{5} \\text{ Pa}$."
+    },
+    {
+      "id": "PHYS_Q_23",
+      "text": "An object starts from rest and accelerates uniformly at $4 \\text{ m/s}^{2}$ for 5 seconds. What is its final velocity?",
+      "image": "",
+      "options": ["20 m/s", "10 m/s", "4 m/s", "16 m/s"],
+      "answer": "20 m/s",
+      "explanation": "Using $v = u + at$. Since it starts from rest, $u=0$. $v = 0 + (4 \\text{ m/s}^{2} \\times 5 \\text{ s}) = 20 \\text{ m/s}$."
+    },
+    {
+      "id": "PHYS_Q_24",
+      "text": "The phenomenon where a vibrating body causes a second body to vibrate at the same natural frequency is called:",
+      "image": "",
+      "options": ["Diffraction", "Refraction", "Resonance", "Damping"],
+      "answer": "Resonance",
+      "explanation": "Resonance occurs when the driving frequency matches the natural frequency, leading to maximum amplitude."
+    },
+    {
+      "id": "PHYS_Q_25",
+      "text": "Which principle is applied in a hydraulic brake system?",
+      "image": "",
+      "options": ["Archimedes' Principle", "Bernoulli's Principle", "Hooke's Law", "Pascal's Principle"],
+      "answer": "Pascal's Principle",
+      "explanation": "Pascal's principle states that pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid and the walls of the containing vessel."
+    },
+    {
+      "id": "PHYS_Q_26",
+      "text": "What is the main function of a transformer?",
+      "image": "",
+      "options": ["To convert AC to DC", "To store electric charge", "To change the voltage or current of an AC supply", "To measure resistance"],
+      "answer": "To change the voltage or current of an AC supply",
+      "explanation": "Transformers work on the principle of mutual induction to step-up (increase) or step-down (decrease) AC voltage."
+    },
+    {
+      "id": "PHYS_Q_27",
+      "text": "The image formed by a plane mirror is always:",
+      "image": "",
+      "options": ["Real, inverted, and same size", "Virtual, upright, and smaller", "Virtual, upright, and same size", "Real, inverted, and larger"],
+      "answer": "Virtual, upright, and same size",
+      "explanation": "Plane mirrors produce laterally inverted, virtual images that are the same size as the object and are upright."
+    },
+    {
+      "id": "PHYS_Q_28",
+      "text": "The instrument used to measure electric potential difference is the:",
+      "image": "",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "Voltmeter",
+      "explanation": "A voltmeter measures the voltage or electric potential difference between two points in a circuit."
+    },
+    {
+      "id": "PHYS_Q_29",
+      "text": "The type of nuclear reaction that powers the sun is:",
+      "image": "",
+      "options": ["Nuclear Fission", "Radioactive Decay", "Nuclear Fusion", "Chain Reaction"],
+      "answer": "Nuclear Fusion",
+      "explanation": "Nuclear fusion, the combining of light nuclei (like hydrogen) to form heavier ones (like helium), releases massive amounts of energy and is the process that powers the sun and other stars."
+    },
+    {
+      "id": "PHYS_Q_30",
+      "text": "The relationship between period ($T$) and frequency ($f$) of a simple harmonic motion is:",
+      "image": "",
+      "options": ["$T = f^2$", "$T = 1/f$", "$T = 2\\pi f$", "$f = 1/T^2$"],
+      "answer": "$T = 1/f$",
+      "explanation": "Period and frequency are reciprocals of each other."
+    },
+    {
+      "id": "PHYS_Q_31",
+      "text": "If a metal has a work function of 2.5 eV, what is the minimum frequency of light required to cause photoelectric emission? (Planck's constant $h = 6.6 \\times 10^{-34} \\text{ J}\\cdot\\text{s}$, $1 \\text{ eV} = 1.6 \\times 10^{-19} \\text{ J}$)",
+      "image": "[Image showing the photoelectric effect setup]",
+      "options": ["$6.06 \\times 10^{14} \\text{ Hz}$", "$1.65 \\times 10^{15} \\text{ Hz}$", "$4.0 \\times 10^{-19} \\text{ Hz}$", "$9.6 \\times 10^{16} \\text{ Hz}$"],
+      "answer": "$6.06 \\times 10^{14} \\text{ Hz}$",
+      "explanation": "Threshold frequency ($f_0$) is given by $hf_0 = \\phi$ (work function). $\\phi = 2.5 \\times 1.6 \\times 10^{-19} \\text{ J} = 4.0 \\times 10^{-19} \\text{ J}$. $f_0 = \\phi/h = (4.0 \\times 10^{-19} \\text{ J}) / (6.6 \\times 10^{-34} \\text{ J}\\cdot\\text{s}) \\approx 6.06 \\times 10^{14} \\text{ Hz}$."
+    },
+    {
+      "id": "PHYS_Q_32",
+      "text": "A magnet is moved near a coil of wire. The induced current will be larger if the magnet moves:",
+      "image": "",
+      "options": ["Slower", "Faster", "In the same direction as the coil", "Perpendicular to the coil"],
+      "answer": "Faster",
+      "explanation": "According to Faraday's law, the magnitude of the induced e.m.f. is proportional to the rate of change of magnetic flux linkage. Moving the magnet faster increases the rate of change of flux."
+    },
+    {
+      "id": "PHYS_Q_33",
+      "text": "The unit of momentum is:",
+      "image": "",
+      "options": ["$\\text{N}\\cdot\\text{s}$", "$\\text{kg}\\cdot\\text{m}/\\text{s}^{2}$", "$\\text{J}\\cdot\\text{s}$", "$\\text{N}/\\text{s}$"],
+      "answer": "$\\text{N}\\cdot\\text{s}$",
+      "explanation": "Momentum ($p$) is mass $\\times$ velocity ($m v$), unit is $\\text{kg}\\cdot\\text{m}/\\text{s}$. Since $F = ma$, $1 \\text{ N} = 1 \\text{ kg}\\cdot\\text{m}/\\text{s}^{2}$. Thus, $1 \\text{ N}\\cdot\\text{s} = 1 (\\text{kg}\\cdot\\text{m}/\\text{s}^{2}) \\cdot \\text{s} = 1 \\text{ kg}\\cdot\\text{m}/\\text{s}$. Therefore, $\\text{N}\\cdot\\text{s}$ is the correct unit."
+    },
+    {
+      "id": "PHYS_Q_34",
+      "text": "Which type of mirror is used as a driving mirror for vehicles?",
+      "image": "",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+      "answer": "Convex mirror",
+      "explanation": "Convex mirrors always produce virtual, upright, and diminished images, and they offer a wide field of view, which is essential for rear-view mirrors."
+    },
+    {
+      "id": "PHYS_Q_35",
+      "text": "A $4 \\text{ F}$ capacitor is charged by a $12 \\text{ V}$ battery. What is the charge stored in the capacitor?",
+      "image": "",
+      "options": ["3 C", "48 C", "16 C", "0.33 C"],
+      "answer": "48 C",
+      "explanation": "Charge ($Q$) = Capacitance ($C$) $\\times$ Voltage ($V$). $Q = 4 \\text{ F} \\times 12 \\text{ V} = 48 \\text{ C}$."
+    },
+    {
+      "id": "PHYS_Q_36",
+      "text": "The condition for a body to float on a liquid is that its average density must be:",
+      "image": "",
+      "options": ["Greater than the liquid's density", "Equal to the liquid's density", "Less than the liquid's density", "Twice the liquid's density"],
+      "answer": "Less than the liquid's density",
+      "explanation": "A body floats when the upthrust (buoyant force) is greater than or equal to its weight. This occurs when the body's average density is less than or equal to the density of the fluid it displaces. For stable floating, it is typically less than."
+    },
+    {
+      "id": "PHYS_Q_37",
+      "text": "Which of the following is not a characteristic of sound waves?",
+      "image": "",
+      "options": ["Requires a medium for propagation", "Is a mechanical wave", "Exhibits polarization", "Exhibits reflection"],
+      "answer": "Exhibits polarization",
+      "explanation": "Sound waves are longitudinal waves and only transverse waves (like light) can be polarized."
+    },
+    {
+      "id": "PHYS_Q_38",
+      "text": "The speed of sound in a medium is greatest in:",
+      "image": "",
+      "options": ["Air", "Water", "Vacuum", "Steel"],
+      "answer": "Steel",
+      "explanation": "Sound travels fastest in solids (like steel), then liquids (water), and slowest in gases (air). It cannot travel in a vacuum."
+    },
+    {
+      "id": "PHYS_Q_39",
+      "text": "The phenomenon that causes a coin placed in a glass of water to appear shallower is:",
+      "image": "[Image illustrating light refraction in a glass of water]",
+      "options": ["Reflection", "Dispersion", "Refraction", "Diffraction"],
+      "answer": "Refraction",
+      "explanation": "Refraction is the bending of light as it passes from one medium (water) to another (air), causing the apparent change in depth."
+    },
+    {
+      "id": "PHYS_Q_40",
+      "text": "In a nuclear reactor, the substance used to slow down neutrons is called a:",
+      "image": "",
+      "options": ["Coolant", "Moderator", "Control rod", "Reflector"],
+      "answer": "Moderator",
+      "explanation": "A moderator (e.g., heavy water, graphite) is used to slow down fast neutrons to thermal energies, making them more likely to cause further fission."
+    }
+]

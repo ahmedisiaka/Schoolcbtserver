@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2016_01",
+      "text": "The mass of $0.5$ mole of sulphuric acid ($H_2SO_4$) is (H=1, S=32, O=16):",
+      "image": "",
+      "options": ["49 g", "98 g", "196 g", "32 g"],
+      "answer": "49 g",
+      "explanation": "Molar Mass of $H_2SO_4 = (2 \\times 1) + 32 + (4 \\times 16) = 2 + 32 + 64 = 98 g/mol$. Mass = Moles $\\times$ Molar Mass = $0.5 \\text{ mol} \\times 98 \\text{ g/mol} = 49 \\text{ g}$."
+    },
+    {
+      "id": "JAMB_C_2016_02",
+      "text": "Which of the following describes the change of state from gas to liquid?",
+      "image": "",
+      "options": ["Sublimation", "Evaporation", "Condensation", "Melting"],
+      "answer": "Condensation",
+      "explanation": "Condensation is the process where a gas or vapor turns into a liquid, usually by cooling."
+    },
+    {
+      "id": "JAMB_C_2016_03",
+      "text": "The functional group present in all carboxylic acids is:",
+      "image": "",
+      "options": ["Hydroxyl group $( -OH )$", "Carbonyl group $( >C=O )$", "Carboxyl group $( -COOH )$", "Amino group $( -NH_2 )$"],
+      "answer": "Carboxyl group $( -COOH )$",
+      "explanation": "The carboxyl group consists of a carbonyl group and a hydroxyl group, giving carboxylic acids their characteristic acidic properties."
+    },
+    {
+      "id": "JAMB_C_2016_04",
+      "text": "Which gas diffuses fastest under the same conditions of temperature and pressure? (H=1, C=12, O=16, S=32)",
+      "image": "",
+      "options": ["$O_2$ (Oxygen)", "$H_2S$ (Hydrogen sulphide)", "$CO_2$ (Carbon dioxide)", "$CH_4$ (Methane)"],
+      "answer": "$CH_4$ (Methane)",
+      "explanation": "According to Graham's Law of Diffusion, the rate of diffusion is inversely proportional to the square root of the molar mass. The gas with the lowest molar mass diffuses fastest. $O_2=32$, $H_2S=34$, $CO_2=44$, $CH_4=16$. Methane ($16$) is the lightest."
+    },
+    {
+      "id": "JAMB_C_2016_05",
+      "text": "The process of converting vegetable oil to margarine is called:",
+      "image": "",
+      "options": ["Saponification", "Esterification", "Polymerization", "Hydrogenation"],
+      "answer": "Hydrogenation",
+      "explanation": "Hydrogenation is the addition of hydrogen across the double bonds in unsaturated vegetable oils, converting them into saturated or partially saturated fats (like margarine), which are solids at room temperature."
+    },
+    {
+      "id": "JAMB_C_2016_06",
+      "text": "What is the oxidation number of sulfur in the thiosulphate ion, $S_2O_3^{2-}$?",
+      "image": "",
+      "options": ["+1", "+2", "+4", "+6"],
+      "answer": "+2",
+      "explanation": "Let $x$ be the oxidation number of $S$. The total charge is $-2$. $2x + 3(-2) = -2 \\implies 2x - 6 = -2 \\implies 2x = 4 \\implies x = +2$."
+    },
+    {
+      "id": "JAMB_C_2016_07",
+      "text": "The relative atomic mass of an element is the average mass of its naturally occurring isotopes relative to:",
+      "image": "",
+      "options": ["The mass of a hydrogen atom", "The mass of one oxygen atom", "One twelfth the mass of an atom of Carbon-12", "The mass of a proton"],
+      "answer": "One twelfth the mass of an atom of Carbon-12",
+      "explanation": "The definition of the relative atomic mass is based on the $\\frac{1}{12}$ the mass of a Carbon-12 isotope."
+    },
+    {
+      "id": "JAMB_C_2016_08",
+      "text": "Which of the following is a physical change?",
+      "image": "",
+      "options": ["Burning of kerosene", "Rusting of iron", "Dissolution of salt in water", "Souring of milk"],
+      "answer": "Dissolution of salt in water",
+      "explanation": "Dissolving salt in water is a physical change because the salt (solute) and water (solvent) can be easily separated (e.g., by evaporation) and no new chemical substance is formed. The other options are chemical changes."
+    },
+    {
+      "id": "JAMB_C_2016_09",
+      "text": "In a reaction, the minimum energy required by reacting species to transform into products is called the:",
+      "image": "[Image of energy profile diagram for a chemical reaction]",
+      "options": ["Internal energy", "Free energy", "Activation energy", "Heat of reaction"],
+      "answer": "Activation energy",
+      "explanation": "Activation energy ($E_a$) is the energy barrier that must be overcome for a chemical reaction to occur."
+    },
+    {
+      "id": "JAMB_C_2016_10",
+      "text": "When a small amount of concentrated sodium hydroxide is added to a solution of aluminum sulphate, a white precipitate is formed. The precipitate dissolves when excess sodium hydroxide is added. The white precipitate is:",
+      "image": "",
+      "options": ["$NaAlO_2$", "$Al(OH)_3$", "$Al_2O_3$", "$Al(SO_4)_3$"],
+      "answer": "$Al(OH)_3$",
+      "explanation": "Aluminum ions react with $\\text{OH}^-$ to form the insoluble precipitate $Al(OH)_3$: $Al^{3+} + 3OH^- \\to Al(OH)_3(s)$. The precipitate dissolves in excess $\\text{NaOH}$ because aluminum hydroxide is amphoteric, forming the soluble aluminate ion ($NaAlO_2$)."
+    },
+    {
+      "id": "JAMB_C_2016_11",
+      "text": "An element $X$ has a mass number of 40 and 20 neutrons. The electronic configuration of $X$ is:",
+      "image": "",
+      "options": ["$1s^2 2s^2 2p^6 3s^2 3p^4$", "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$", "$1s^2 2s^2 2p^6 3s^2 3p^6$", "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^1$"],
+      "answer": "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$",
+      "explanation": "Number of protons (Atomic number, Z) = Mass number - Neutrons = $40 - 20 = 20$. For a neutral atom, electrons = protons = 20. The electronic configuration for 20 electrons (Calcium, Ca) is $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$."
+    },
+    {
+      "id": "JAMB_C_2016_12",
+      "text": "Which of the following compounds exhibits isomerism?",
+      "image": "",
+      "options": ["Methane", "Ethane", "Propane", "Butane"],
+      "answer": "Butane",
+      "explanation": "Isomerism starts from four carbon atoms in alkanes ($C_4H_{10}$). Butane has two structural isomers: n-butane and 2-methylpropane (isobutane)."
+    },
+    {
+      "id": "JAMB_C_2016_13",
+      "text": "The gas responsible for acid rain is primarily:",
+      "image": "",
+      "options": ["Carbon monoxide", "Sulphur dioxide and oxides of nitrogen", "Methane", "Ammonia"],
+      "answer": "Sulphur dioxide and oxides of nitrogen",
+      "explanation": "Acid rain is formed when Sulphur dioxide ($SO_2$) and oxides of nitrogen ($NO_x$) dissolve in rainwater, forming $\\text{H}_2SO_4$ and $\\text{HNO}_3$ respectively."
+    },
+    {
+      "id": "JAMB_C_2016_14",
+      "text": "What is the molar concentration of a solution containing $4.0 g$ of $NaOH$ in $250 cm^3$ of solution? (Na=23, O=16, H=1)",
+      "image": "",
+      "options": ["$0.1 M$", "$0.4 M$", "$0.2 M$", "$0.8 M$"],
+      "answer": "$0.4 M$",
+      "explanation": "Molar mass of $NaOH = 23 + 16 + 1 = 40 g/mol$. Moles of $NaOH = 4.0 g / 40 g/mol = 0.1 \text{ mol}$. Volume in $\text{dm}^3 = 250 / 1000 = 0.25 \text{ dm}^3$. Concentration = Moles / Volume = $0.1 \text{ mol} / 0.25 \text{ dm}^3 = 0.4 \text{ mol/dm}^3$ or $0.4 M$."
+    },
+    {
+      "id": "JAMB_C_2016_15",
+      "text": "The phenomenon whereby a substance exists in two or more crystalline forms is known as:",
+      "image": "",
+      "options": ["Isomerism", "Allotropy", "Isotopy", "Polymorphism"],
+      "answer": "Polymorphism",
+      "explanation": "Polymorphism (or allotropy for elements) refers to the ability of a solid material to exist in more than one form or crystal structure. Since the question refers to a 'substance' (which can be a compound), polymorphism is the more accurate term, though allotropy is common for elements (like carbon)."
+    },
+    {
+      "id": "JAMB_C_2016_16",
+      "text": "The shape of the water molecule ($H_2O$) is:",
+      "image": "",
+      "options": ["Tetrahedral", "Linear", "Bent (V-shaped)", "Trigonal planar"],
+      "answer": "Bent (V-shaped)",
+      "explanation": "The oxygen atom in water has two lone pairs and two bonding pairs, leading to a bent or V-shaped geometry due to the repulsion between the lone pairs and bonding pairs (Valence Shell Electron Pair Repulsion theory)."
+    },
+    {
+      "id": "JAMB_C_2016_17",
+      "text": "In the extraction of iron, the main reducing agent in the blast furnace is:",
+      "image": "[Image of a blast furnace showing the reduction of iron ore]",
+      "options": ["Coke", "Limestone", "Carbon monoxide", "Slag"],
+      "answer": "Carbon monoxide",
+      "explanation": "Coke burns to produce heat and carbon dioxide, which then reacts with unburnt coke to form carbon monoxide ($CO$). $CO$ is the primary chemical species that reduces the iron ore ($Fe_2O_3$) to molten iron ($Fe$)."
+    },
+    {
+      "id": "JAMB_C_2016_18",
+      "text": "Which of the following elements is a transition metal?",
+      "image": "",
+      "options": ["Calcium (Ca)", "Iron (Fe)", "Potassium (K)", "Aluminum (Al)"],
+      "answer": "Iron (Fe)",
+      "explanation": "Transition metals are elements in the d-block of the periodic table, located between Group 2 and Group 13. Iron is in Group 8, Period 4."
+    },
+    {
+      "id": "JAMB_C_2016_19",
+      "text": "The commonest method used to separate components of crude oil is:",
+      "image": "[Image of fractional distillation setup]",
+      "options": ["Simple distillation", "Fractional distillation", "Sublimation", "Chromatography"],
+      "answer": "Fractional distillation",
+      "explanation": "Crude oil is a mixture of hydrocarbons with different boiling points, which are separated based on these differences using fractional distillation."
+    },
+    {
+      "id": "JAMB_C_2016_20",
+      "text": "A substance that changes the rate of a chemical reaction without itself being consumed is a:",
+      "image": "",
+      "options": ["Buffer", "Inhibitor", "Catalyst", "Reagent"],
+      "answer": "Catalyst",
+      "explanation": "A catalyst speeds up a reaction by providing an alternative reaction pathway with lower activation energy."
+    },
+    {
+      "id": "JAMB_C_2016_21",
+      "text": "The $\\text{pH}$ of a solution of sodium chloride ($NaCl$) is:",
+      "image": "",
+      "options": ["$< 7$", "$> 7$", "$= 7$", "Cannot be determined"],
+      "answer": "$= 7$",
+      "explanation": "$NaCl$ is formed from a strong acid ($\\text{HCl}$) and a strong base ($\\text{NaOH}$). The resulting solution is neutral, with a $\\text{pH}$ of 7."
+    },
+    {
+      "id": "JAMB_C_2016_22",
+      "text": "Which property of hydrogen makes it suitable for use as a reducing agent?",
+      "image": "",
+      "options": ["It is diatomic", "It is flammable", "Its low density", "Its ability to donate electrons"],
+      "answer": "Its ability to donate electrons",
+      "explanation": "Reduction is the gain of electrons or the addition of hydrogen. Hydrogen acts as a reducing agent by removing oxygen or adding electrons/hydrogen to other species."
+    },
+    {
+      "id": "JAMB_C_2016_23",
+      "text": "The reaction $CH_3CH_2OH \\xrightarrow[170^\\circ C]{\\text{Conc. } H_2SO_4} C_2H_4 + H_2O$ is an example of:",
+      "image": "",
+      "options": ["Substitution", "Addition", "Elimination", "Oxidation"],
+      "answer": "Elimination",
+      "explanation": "Concentrated $\\text{H}_2SO_4$ at $170^\\circ C$ acts as a dehydrating agent, removing a water molecule ($H$ and $OH$) from ethanol to form ethene, which is an elimination reaction."
+    },
+    {
+      "id": "JAMB_C_2016_24",
+      "text": "An aqueous solution turns red litmus paper blue. This solution is likely:",
+      "image": "",
+      "options": ["Acidic", "Neutral", "Basic (Alkaline)", "Amphoteric"],
+      "answer": "Basic (Alkaline)",
+      "explanation": "Blue litmus paper turns red in acidic solutions, while red litmus paper turns blue in basic (alkaline) solutions."
+    },
+    {
+      "id": "JAMB_C_2016_25",
+      "text": "The bond existing in gaseous hydrogen chloride ($HCl$) is:",
+      "image": "",
+      "options": ["Ionic", "Metallic", "Dative (Coordinate)", "Covalent"],
+      "answer": "Covalent",
+      "explanation": "Hydrogen and chlorine are both non-metals, and the bond between them involves the sharing of electrons, making it a polar covalent bond."
+    },
+    {
+      "id": "JAMB_C_2016_26",
+      "text": "The reaction $Fe^{2+} \\to Fe^{3+} + e^-$ represents:",
+      "image": "",
+      "options": ["Reduction", "Neutralization", "Oxidation", "Hydrolysis"],
+      "answer": "Oxidation",
+      "explanation": "Oxidation is the loss of electrons. The iron ion is losing one electron, and its oxidation state is increasing from $+2$ to $+3$."
+    },
+    {
+      "id": "JAMB_C_2016_27",
+      "text": "Which of the following compounds will decolorize bromine water?",
+      "image": "",
+      "options": ["Ethane ($C_2H_6$)", "Methane ($CH_4$)", "Ethene ($C_2H_4$)", "Benzene ($C_6H_6$)"],
+      "answer": "Ethene ($C_2H_4$)",
+      "explanation": "Bromine water is a test for unsaturation. Alkenes (like ethene) undergo an addition reaction with bromine water, breaking the double bond and becoming colourless. Saturated compounds (like ethane and methane) do not react under normal conditions."
+    },
+    {
+      "id": "JAMB_C_2016_28",
+      "text": "According to Le Chatelier's principle, if the concentration of a reactant is increased in a reversible reaction at equilibrium, the equilibrium will shift to favour the:",
+      "image": "",
+      "options": ["Reactants", "Reverse reaction", "Products", "Side with fewer moles"],
+      "answer": "Products",
+      "explanation": "The system acts to relieve the stress. Increasing a reactant's concentration is relieved by consuming that reactant, which means shifting the equilibrium towards the product side (forward reaction)."
+    },
+    {
+      "id": "JAMB_C_2016_29",
+      "text": "The quantum number that describes the orientation of an orbital in space is the:",
+      "image": "",
+      "options": ["Principal quantum number", "Angular momentum quantum number", "Magnetic quantum number", "Spin quantum number"],
+      "answer": "Magnetic quantum number",
+      "explanation": "The magnetic quantum number ($m_l$) specifies the orientation of an orbital in space (e.g., $p_x, p_y, p_z$ for $l=1$)."
+    },
+    {
+      "id": "JAMB_C_2016_30",
+      "text": "A substance that absorbs moisture from the atmosphere and dissolves in it to form a solution is said to be:",
+      "image": "",
+      "options": ["Hygroscopic", "Efflorescent", "Deliquescent", "Anhydrous"],
+      "answer": "Deliquescent",
+      "explanation": "Deliquescent substances absorb so much moisture from the air that they dissolve and turn into a solution. Hygroscopic substances absorb moisture but do not dissolve."
+    },
+    {
+      "id": "JAMB_C_2016_31",
+      "text": "Which of the following is an allotrope of Sulphur?",
+      "image": "",
+      "options": ["Red Sulphur", "Amorphous Sulphur", "Black Sulphur", "Sulphur dioxide"],
+      "answer": "Amorphous Sulphur",
+      "explanation": "Sulphur has several allotropes, including rhombic, monoclinic, and amorphous (plastic) sulphur. Sulphur dioxide is a compound, not an allotrope."
+    },
+    {
+      "id": "JAMB_C_2016_32",
+      "text": "The general formula for alkynes is:",
+      "image": "",
+      "options": ["$C_nH_{2n+2}$", "$C_nH_{2n}$", "$C_nH_{2n-2}$", "$C_nH_{2n-4}$"],
+      "answer": "$C_nH_{2n-2}$",
+      "explanation": "Alkynes contain a carbon-carbon triple bond. $C_nH_{2n+2}$ is for alkanes (saturated), and $C_nH_{2n}$ is for alkenes (one double bond)."
+    },
+    {
+      "id": "JAMB_C_2016_33",
+      "text": "The maximum number of electrons that can occupy the $d$-orbital is:",
+      "image": "[Image of d-orbitals]",
+      "options": ["2", "6", "10", "14"],
+      "answer": "10",
+      "explanation": "The $d$-subshell has five orbitals ($d_{xy}, d_{yz}, d_{xz}, d_{x^2-y^2}, d_{z^2}$). Each orbital can hold a maximum of 2 electrons, so $5 \\times 2 = 10$ electrons."
+    },
+    {
+      "id": "JAMB_C_2016_34",
+      "text": "The raw material for the production of glass is mainly:",
+      "image": "",
+      "options": ["Clay", "Limestone", "Sand (Silicon dioxide)", "Bauxite"],
+      "answer": "Sand (Silicon dioxide)",
+      "explanation": "The main component of glass is silicon dioxide ($SiO_2$), usually obtained from sand. Limestone ($CaCO_3$) and soda ash ($Na_2CO_3$) are also added but sand is the principal ingredient."
+    },
+    {
+      "id": "JAMB_C_2016_35",
+      "text": "A neutral atom has 19 electrons. It belongs to which group of the periodic table?",
+      "image": "",
+      "options": ["Group 1", "Group 2", "Group 3", "Group 17"],
+      "answer": "Group 1",
+      "explanation": "The electronic configuration is $1s^2 2s^2 2p^6 3s^2 3p^6 4s^1$. It has one valence electron in the $s$-orbital (Potassium, K), placing it in Group 1 (Alkali metals)."
+    },
+    {
+      "id": "JAMB_C_2016_36",
+      "text": "In electroplating a metal object with silver, the object to be plated is made the:",
+      "image": "[Image of an electroplating cell for silver]",
+      "options": ["Anode", "Cathode", "Electrolyte", "Salt bridge"],
+      "answer": "Cathode",
+      "explanation": "During electroplating, the metal ions (e.g., $Ag^+$) are reduced to solid metal ($Ag$) and deposited on the object. Reduction always occurs at the cathode (negative electrode)."
+    },
+    {
+      "id": "JAMB_C_2016_37",
+      "text": "The $\\text{pH}$ value of a solution of $0.0001 M$ $HNO_3$ is:",
+      "image": "",
+      "options": ["1", "4", "10", "13"],
+      "answer": "4",
+      "explanation": "$HNO_3$ is a strong acid, so $[H^+] = 0.0001 M = 10^{-4} M$. $\\text{pH} = -\\log[H^+] = -\\log(10^{-4}) = 4$."
+    },
+    {
+      "id": "JAMB_C_2016_38",
+      "text": "The correct arrangement of elements in increasing order of atomic size is:",
+      "image": "",
+      "options": ["F < O < C < B", "B < C < O < F", "F < C < B < O", "O < F < B < C"],
+      "answer": "F < O < C < B",
+      "explanation": "Atomic size generally decreases across a period (from left to right) due to increasing nuclear charge pulling the valence electrons closer. F (Group 17) is the smallest, and B (Group 13) is the largest in Period 2."
+    },
+    {
+      "id": "JAMB_C_2016_39",
+      "text": "The chemical process used for separating ethanol from water is:",
+      "image": "[Image of simple distillation setup]",
+      "options": ["Filtration", "Fractional distillation", "Evaporation", "Chromatography"],
+      "answer": "Fractional distillation",
+      "explanation": "Ethanol and water are miscible liquids but have different boiling points ($78^\\circ C$ and $100^\\circ C$, respectively). They are separated efficiently using fractional distillation."
+    },
+    {
+      "id": "JAMB_C_2016_40",
+      "text": "The most appropriate method for the collection of hydrogen gas in the laboratory is by:",
+      "image": "",
+      "options": ["Downward delivery", "Upward delivery", "Displacement of water", "Passage through concentrated $H_2SO_4$"],
+      "answer": "Displacement of water",
+      "explanation": "Hydrogen gas is virtually insoluble in water, making the displacement of water method (where the gas is collected over water) highly suitable."
+    }
+  ]

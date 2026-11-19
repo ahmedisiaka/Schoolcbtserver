@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G161",
+        "text": "The $\\textbf{2018 Midterm Elections}$ resulted in the Democratic Party taking control of the House of Representatives while the Republican Party maintained control of the Senate. This divided government structure significantly increases the likelihood of:",
+        "image": "",
+        "options": [
+            "Executive Privilege",
+            "Legislative Gridlock",
+            "Judicial Unaniminity",
+            "Monetary Policy Reform"
+        ],
+        "answer": "Legislative Gridlock",
+        "explanation": "Divided government, where different parties control the presidency and at least one chamber of Congress, often leads to stalemates and difficulty passing major legislation."
+    },
+    {
+        "id": "G162",
+        "text": "The highly contested confirmation of Justice Brett Kavanaugh in 2018 centered entirely on the Senate's power of $\\textbf{Advice and Consent}$, which is an example of the legislative branch checking the power of the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Executive Branch",
+            "Federal Bureaucracy",
+            "State Governments"
+        ],
+        "answer": "Executive Branch",
+        "explanation": "The President nominates federal judges, but the Senate must confirm them. This is a fundamental check outlined in Article II, Section 2."
+    },
+    {
+        "id": "G163",
+        "text": "The $\\textbf{Mueller Investigation}$ continued throughout 2018, examining the actions of the Executive Branch. The ability of Congress to call witnesses and demand documents related to this investigation falls under its power of:",
+        "image": "",
+        "options": [
+            "Cloture",
+            "Oversight",
+            "Judicial Review",
+            "Writ of Habeas Corpus"
+        ],
+        "answer": "Oversight",
+        "explanation": "Congressional oversight is the power of the legislature to review and monitor the actions of the executive branch and its agencies."
+    },
+    {
+        "id": "G164",
+        "text": "Following the Parkland shooting in 2018, debates over new gun control legislation highlighted the division of power in the U.S. system. The primary authority for regulating gun sales and possession $\\textbf{within a state}$ rests with the state, illustrating the principle of:",
+        "image": "",
+        "options": [
+            "Exclusive Federal Power",
+            "Implied Powers",
+            "Reserved Powers (Tenth Amendment)",
+            "Mandatory Spending"
+        ],
+        "answer": "Reserved Powers (Tenth Amendment)",
+        "explanation": "The Tenth Amendment reserves powers not delegated to the federal government to the states, which includes most health, safety, and welfare regulations (police power)."
+    },
+    {
+        "id": "G165",
+        "text": "President Trump imposed a number of $\\textbf{tariffs}$ on foreign goods in 2018. The constitutional source of power for the federal government to regulate this economic activity is the:",
+        "image": "",
+        "options": [
+            "Necessary and Proper Clause",
+            "Commerce Clause (Article I, Section 8)",
+            "First Amendment",
+            "Twenty-Fifth Amendment"
+        ],
+        "answer": "Commerce Clause (Article I, Section 8)",
+        "explanation": "This clause gives Congress the power to regulate commerce with foreign nations and among the several states."
+    },
+    {
+        "id": "G166",
+        "text": "The $\\textbf{amicus curiae}$ (friend of the court) brief is a formal submission to an appellate court, often used by interest groups like the NRA or ACLU. The purpose of this brief is to:",
+        "image": "",
+        "options": [
+            "Offer a bribe to the judge",
+            "Provide the court with relevant information and arguments not presented by the parties",
+            "Officially start the impeachment process",
+            "Approve the federal budget"
+        ],
+        "answer": "Provide the court with relevant information and arguments not presented by the parties",
+        "explanation": "Interest groups use amicus briefs to influence the Supreme Court’s decision by providing broader context or legal analysis."
+    },
+    {
+        "id": "G167",
+        "text": "When the President uses a national address to appeal directly to the public to support a controversial policy (e.g., border security funding in 2018), he is employing the tactic known as the:",
+        "image": "",
+        "options": [
+            "Writ of Mandamus",
+            "Filibuster",
+            "Bully Pulpit",
+            "Discharge Petition"
+        ],
+        "answer": "Bully Pulpit",
+        "explanation": "The 'bully pulpit' is a term for the President's platform from which they can persuade the public and pressure Congress to act."
+    },
+    {
+        "id": "G168",
+        "text": "Following the midterms, the newly elected members of the House were seated. The constitutional requirement that all $\\textbf{revenue (tax) bills}$ must originate in the House of Representatives is based on the idea that:",
+        "image": "",
+        "options": [
+            "The Senate is too small to handle complex finance bills",
+            "The House, being closer to the people, should control taxation",
+            "The President must approve all tax legislation first",
+            "State governors must ratify all tax law"
+        ],
+        "answer": "The House, being closer to the people, should control taxation",
+        "explanation": "Article I, Section 7 mandates that all bills for raising revenue shall originate in the House, reflecting the founders' desire for taxation to be controlled by the most representative branch."
+    },
+    {
+        "id": "G169",
+        "text": "The $\\textbf{Fifteenth Amendment}$ to the Constitution, ratified in 1870, guarantees that the right to vote cannot be denied based on:",
+        "image": "",
+        "options": [
+            "Age",
+            "Sex",
+            "Race, color, or previous condition of servitude",
+            "Property ownership"
+        ],
+        "answer": "Race, color, or previous condition of servitude",
+        "explanation": "This was the first of the Reconstruction Amendments aimed at protecting the rights of formerly enslaved persons."
+    },
+    {
+        "id": "G170",
+        "text": "A $\\textbf{divided government}$ often makes it more difficult for the President to secure passage of their legislative agenda, reinforcing the Framers' intent for the system of Checks and Balances to promote:",
+        "image": "",
+        "options": [
+            "Rapid policy change",
+            "Consensus and compromise",
+            "Increased federal spending",
+            "Executive dominance"
+        ],
+        "answer": "Consensus and compromise",
+        "explanation": "The structure of separated powers forces different branches and parties to work together to pass laws, slowing down the process."
+    },
+    {
+        "id": "G171",
+        "text": "The $\\textbf{Fourth Amendment}$ protection against unreasonable searches and seizures became increasingly relevant in 2018 with court cases dealing with the search of $\\textbf{digital devices}$ (cell phones and computers). This highlights the courts' role in:",
+        "image": "",
+        "options": [
+            "Strictly following the literal wording of the 1787 text",
+            "Applying constitutional principles to new technologies and contexts",
+            "Ignoring all prior precedent (Stare Decisis)",
+            "Setting the annual federal budget"
+        ],
+        "answer": "Applying constitutional principles to new technologies and contexts",
+        "explanation": "Judicial review requires the courts to adapt constitutional guarantees, such as the right to privacy, to circumstances unimagined by the Framers."
+    },
+    {
+        "id": "G172",
+        "text": "In the Senate, the Vice President (VP) serves as the $\\textbf{President of the Senate}$. The VP's only constitutional function in that role is to:",
+        "image": "",
+        "options": [
+            "Propose all new legislation",
+            "Cast a vote in the event of a tie",
+            "Appoint all committee chairs",
+            "Oversee all filibusters"
+        ],
+        "answer": "Cast a vote in the event of a tie",
+        "explanation": "The VP rarely presides and can only vote to break a deadlock (a 50-50 tie)."
+    },
+    {
+        "id": "G173",
+        "text": "A judge adhering to $\\textbf{Judicial Restraint}$ is most likely to:",
+        "image": "",
+        "options": [
+            "Overturn federal laws frequently",
+            "Defer to the policy judgments of the elected branches (Congress and the President)",
+            "Actively seek out new legal controversies",
+            "Ignore the principle of Stare Decisis"
+        ],
+        "answer": "Defer to the policy judgments of the elected branches (Congress and the President)",
+        "explanation": "Judicial restraint encourages judges to limit their own power and avoid making policy decisions better left to the legislature."
+    },
+    {
+        "id": "G174",
+        "text": "State laws requiring a $\\textbf{photo ID}$ to vote are typically challenged by opponents on the grounds that they violate the $\\textbf{Equal Protection Clause}$ of the:",
+        "image": "",
+        "options": [
+            "Fifth Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment",
+            "Twenty-Seventh Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Equal Protection Clause is used to argue that such laws disproportionately burden certain groups of voters, denying them equal protection under the law."
+    },
+    {
+        "id": "G175",
+        "text": "The conflict between federal law (which criminalizes marijuana) and state laws (which legalize it) is a modern example of tension between federal authority and the states' $\\textbf{Reserved Powers}$. This conflict is settled in favor of the federal law by the:",
+        "image": "",
+        "options": [
+            "Bill of Attainder Clause",
+            "Supremacy Clause",
+            "Full Faith and Credit Clause",
+            "Writ of Habeas Corpus"
+        ],
+        "answer": "Supremacy Clause",
+        "explanation": "The Supremacy Clause (Article VI) holds that the Constitution and federal laws are the supreme law of the land, overriding conflicting state laws."
+    },
+    {
+        "id": "G176",
+        "text": "The use of $\\textbf{Executive Orders}$ by the President became a frequent point of contention in 2018. The limits on a President's use of executive orders are that they must:",
+        "image": "",
+        "options": [
+            "Be unanimously approved by the Senate",
+            "Be accompanied by a judicial warrant",
+            "Be based on existing law or the powers granted by the Constitution",
+            "Expire after 60 days"
+        ],
+        "answer": "Be based on existing law or the powers granted by the Constitution",
+        "explanation": "Executive orders are administrative tools for executing the law, not a means to create new law or override the Constitution."
+    },
+    {
+        "id": "G177",
+        "text": "The $\\textbf{Senate Judiciary Committee}$ holds significant power in the confirmation process, as it is responsible for:",
+        "image": "",
+        "options": [
+            "Conducting the floor vote on all judicial nominees",
+            "Investigating and holding hearings on Supreme Court nominees",
+            "Determining the salary of federal judges",
+            "Impeaching the Attorney General"
+        ],
+        "answer": "Investigating and holding hearings on Supreme Court nominees",
+        "explanation": "The committee vets the nominee and makes a recommendation to the full Senate."
+    },
+    {
+        "id": "G178",
+        "text": "The political phenomenon where voters choose a presidential candidate from one party and a congressional candidate from the other is known as:",
+        "image": "",
+        "options": [
+            "Partisan Realignment",
+            "Split-Ticket Voting",
+            "Straight-Ticket Voting",
+            "Logrolling"
+        ],
+        "answer": "Split-Ticket Voting",
+        "explanation": "Split-ticket voting is a key factor leading to divided government, as seen in the 2018 midterms."
+    },
+    {
+        "id": "G179",
+        "text": "In the budget process, $\\textbf{Mandatory Spending}$ refers to funds that:",
+        "image": "",
+        "options": [
+            "Can be changed annually by Congress",
+            "The President can cut using a line-item veto",
+            "Are legally committed to programs like Social Security and Medicare",
+            "Must be used only for national defense"
+        ],
+        "answer": "Are legally committed to programs like Social Security and Medicare",
+        "explanation": "Mandatory spending is required by existing laws and accounts for the largest share of the federal budget; changing it requires new legislation."
+    },
+    {
+        "id": "G180",
+        "text": "The $\\textbf{Free Exercise Clause}$ of the First Amendment primarily deals with the right of individuals to:",
+        "image": "",
+        "options": [
+            "Speak freely without government censorship",
+            "Assemble peaceably",
+            "Practice their religion freely without undue government interference",
+            "Own firearms"
+        ],
+        "answer": "Practice their religion freely without undue government interference",
+        "explanation": "The clause guarantees an individual's right to worship and believe as they choose, within limits."
+    },
+    {
+        "id": "G181",
+        "text": "The ability of the Speaker of the House to control which bills are debated and voted upon is a major source of their power, allowing them to act as the chamber's primary:",
+        "image": "",
+        "options": [
+            "Diplomat",
+            "Treasurer",
+            "Agenda Setter",
+            "Chief Justice"
+        ],
+        "answer": "Agenda Setter",
+        "explanation": "The Speaker determines the legislative calendar and controls the flow of legislation, thus setting the agenda."
+    },
+    {
+        "id": "G182",
+        "text": "The $\\textbf{Eighth Amendment}$ to the Constitution protects citizens from:",
+        "image": "",
+        "options": [
+            "Unreasonable searches and seizures",
+            "Cruel and unusual punishments",
+            "Excessive fines and bail",
+            "Both B and C"
+        ],
+        "answer": "Both B and C",
+        "explanation": "The Eighth Amendment specifically prohibits both excessive bail and excessive fines, as well as cruel and unusual punishments."
+    },
+    {
+        "id": "G183",
+        "text": "The term $\\textbf{stare decisis}$ is a Latin phrase meaning 'let the decision stand.' In the judiciary, this refers to the principle of:",
+        "image": "",
+        "options": [
+            "Following precedent",
+            "Writing a dissenting opinion",
+            "Judicial review",
+            "Original jurisdiction"
+        ],
+        "answer": "Following precedent",
+        "explanation": "Stare decisis promotes consistency and stability in the law by requiring courts to adhere to prior rulings."
+    },
+    {
+        "id": "G184",
+        "text": "The President's power to issue a $\\textbf{pardon}$ for a federal crime is a check on the judicial branch and is nearly absolute, meaning it cannot be:",
+        "image": "",
+        "options": [
+            "Overridden by Congress",
+            "Reviewed by the Supreme Court",
+            "Both A and B",
+            "Applied to cases of treason"
+        ],
+        "answer": "Both A and B",
+        "explanation": "The power to grant reprieves and pardons (Article II, Section 2) is a specific, non-reviewable executive power, except in cases of impeachment."
+    },
+    {
+        "id": "G185",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Article I, Section 8) is the source of Congress's $\\textbf{implied powers}$ because it grants Congress the power to make laws needed to carry out its:",
+        "image": "",
+        "options": [
+            "Executive orders",
+            "Enumerated powers",
+            "Treaty obligations",
+            "Judicial review function"
+        ],
+        "answer": "Enumerated powers",
+        "explanation": "The clause allows Congress to choose the means (implied powers) necessary to achieve the ends (enumerated powers) listed in the Constitution."
+    },
+    {
+        "id": "G186",
+        "text": "A $\\textbf{lobbyist}$ representing the defense industry is engaged in $\\textbf{direct lobbying}$ when they:",
+        "image": "",
+        "options": [
+            "Run television ads urging public support for a policy",
+            "Meet face-to-face with a member of Congress to discuss a pending bill",
+            "Organize a grassroots protest",
+            "File an *amicus curiae* brief with the Supreme Court"
+        ],
+        "answer": "Meet face-to-face with a member of Congress to discuss a pending bill",
+        "explanation": "Direct lobbying involves personal contact between a lobbyist and a policymaker."
+    },
+    {
+        "id": "G187",
+        "text": "The constitutional requirement for federal judges to hold their offices during 'good behavior' (i.e., $\\textbf{life tenure}$) is designed primarily to ensure:",
+        "image": "",
+        "options": [
+            "High salary for judges",
+            "Judicial independence from political pressure",
+            "Easy removal of incompetent judges",
+            "Mandatory retirement at age 70"
+        ],
+        "answer": "Judicial independence from political pressure",
+        "explanation": "Life tenure means judges do not have to worry about re-election or removal for unpopular decisions."
+    },
+    {
+        "id": "G188",
+        "text": "The term $\\textbf{Iron Triangle}$ describes a symbiotic relationship between an interest group, a bureaucratic agency, and:",
+        "image": "",
+        "options": [
+            "The White House Staff",
+            "The Federal Reserve Board",
+            "A relevant Congressional Committee",
+            "The Attorney General"
+        ],
+        "answer": "A relevant Congressional Committee",
+        "explanation": "These three groups—interest groups, agency, and committee—cooperate to make or preserve policies beneficial to all three."
+    },
+    {
+        "id": "G189",
+        "text": "Under the $\\textbf{Full Faith and Credit Clause}$, a state is generally required to recognize the official records and judicial proceedings of:",
+        "image": "",
+        "options": [
+            "Only the federal government",
+            "Other states",
+            "Foreign nations",
+            "The local municipal government"
+        ],
+        "answer": "Other states",
+        "explanation": "This clause (Article IV, Section 1) ensures legal documents, like marriage licenses and court orders, are valid across state lines."
+    },
+    {
+        "id": "G190",
+        "text": "The process by which the Supreme Court has gradually applied the protections of the Bill of Rights to the state governments via the Fourteenth Amendment is called:",
+        "image": "",
+        "options": [
+            "Devolution",
+            "Selective Incorporation",
+            "Originalism",
+            "Federal Preemption"
+        ],
+        "answer": "Selective Incorporation",
+        "explanation": "The Court uses the Due Process Clause of the 14th Amendment to incorporate specific rights in the Bill of Rights, making them applicable to the states."
+    },
+    {
+        "id": "G191",
+        "text": "The constitutional doctrine that prevents the federal government from creating or supporting an official national religion is the:",
+        "image": "",
+        "options": [
+            "Free Exercise Clause",
+            "Establishment Clause",
+            "Ex Post Facto Clause",
+            "Tenth Amendment"
+        ],
+        "answer": "Establishment Clause",
+        "explanation": "The Establishment Clause (First Amendment) mandates a 'separation of church and state,' prohibiting the government from endorsing or financially supporting any religion."
+    },
+    {
+        "id": "G192",
+        "text": "The $\\textbf{House Rules Committee}$ is considered the 'traffic cop' of the House because it is responsible for:",
+        "image": "",
+        "options": [
+            "Handling foreign travel arrangements for members",
+            "Determining when and how a bill will be debated and amended on the floor",
+            "Managing the President's public schedule",
+            "Enforcing campaign finance laws"
+        ],
+        "answer": "Determining when and how a bill will be debated and amended on the floor",
+        "explanation": "It issues a 'rule' for each bill, dictating the terms of debate, which is essential given the size of the House."
+    },
+    {
+        "id": "G193",
+        "text": "A $\\textbf{party platform}$ is a document created by a political party that outlines its:",
+        "image": "",
+        "options": [
+            "Membership directory and contact list",
+            "Position on all major political issues",
+            "Code of ethics for candidates",
+            "List of preferred Supreme Court nominees"
+        ],
+        "answer": "Position on all major political issues",
+        "explanation": "The platform serves as the party's official statement of its goals and policy priorities."
+    },
+    {
+        "id": "G194",
+        "text": "The term $\\textbf{pork-barrel spending}$ refers to:",
+        "image": "",
+        "options": [
+            "Tax cuts for large corporations",
+            "Funding for government programs deemed politically unnecessary but beneficial to a specific legislator's home district",
+            "The national debt limit",
+            "The allocation of funds for foreign aid"
+        ],
+        "answer": "Funding for government programs deemed politically unnecessary but beneficial to a specific legislator's home district",
+        "explanation": "Pork-barrel spending is often achieved through 'earmarks' (though formally banned in 2011, the concept persists) and is used to win constituent support."
+    },
+    {
+        "id": "G195",
+        "text": "The $\\textbf{Writ of Habeas Corpus}$ is a court order requiring authorities to:",
+        "image": "",
+        "options": [
+            "Release all federal prisoners immediately",
+            "Bring an arrested person before a judge to determine if their detention is lawful",
+            "Pay damages to a wronged party in a civil case",
+            "Conduct a recount of all federal election ballots"
+        ],
+        "answer": "Bring an arrested person before a judge to determine if their detention is lawful",
+        "explanation": "Habeas corpus is a fundamental civil liberty protecting against arbitrary and unlawful imprisonment. The Constitution states it cannot be suspended except in cases of rebellion or invasion."
+    },
+    {
+        "id": "G196",
+        "text": "In the process of $\\textbf{reapportionment}$ after the census, states must perform $\\textbf{redistricting}$, which is the process of:",
+        "image": "",
+        "options": [
+            "Reassigning electoral votes",
+            "Redrawing congressional district boundary lines",
+            "Re-calculating the national debt",
+            "Recalling elected officials"
+        ],
+        "answer": "Redrawing congressional district boundary lines",
+        "explanation": "Redistricting occurs within each state to ensure congressional districts are roughly equal in population."
+    },
+    {
+        "id": "G197",
+        "text": "A $\\textbf{veto override}$ by Congress requires a $\\textbf{two-thirds vote}$ in which body (or bodies)?",
+        "image": "",
+        "options": [
+            "The Senate only",
+            "The House of Representatives only",
+            "Both the House and the Senate",
+            "A majority of state legislatures"
+        ],
+        "answer": "Both the House and the Senate",
+        "explanation": "A presidential veto can be overridden only by a 2/3rds supermajority in both chambers of Congress."
+    },
+    {
+        "id": "G198",
+        "text": "The $\\textbf{bicameral}$ structure of the U.S. Congress, consisting of the House and the Senate, was a result of the Great Compromise and was primarily designed to:",
+        "image": "",
+        "options": [
+            "Give all states equal representation in both chambers",
+            "Balance the interests of large and small states",
+            "Allow the President to control one chamber",
+            "Ensure that all laws are passed unanimously"
+        ],
+        "answer": "Balance the interests of large and small states",
+        "explanation": "The House provides proportional representation (large states) and the Senate provides equal representation (small states)."
+    },
+    {
+        "id": "G199",
+        "text": "When Congress delegates authority to a bureaucratic agency to create specific, detailed rules to carry out a broad law, this is known as:",
+        "image": "",
+        "options": [
+            "Congressional oversight",
+            "Rule-making authority",
+            "Executive privilege",
+            "Judicial activism"
+        ],
+        "answer": "Rule-making authority",
+        "explanation": "The bureaucracy fills in the operational details for laws through this process, sometimes called quasi-legislative power."
+    },
+    {
+        "id": "G200",
+        "text": "The use of $\\textbf{media leaks}$ during the Mueller and impeachment inquiries highlighted the role of anonymity in news reporting. This journalistic practice is protected by the First Amendment right to $\\textbf{Freedom of the Press}$, subject to limits like:",
+        "image": "",
+        "options": [
+            "The doctrine of Executive Privilege",
+            "The requirement of prior congressional approval",
+            "The laws against $\\textbf{libel}$ (written falsehoods)",
+            "The Necessary and Proper Clause"
+        ],
+        "answer": "The laws against $\\textbf{libel}$ (written falsehoods)",
+        "explanation": "While the press is generally protected from prior restraint, it can still be sued or prosecuted for things like libel or slander."
+    }
+]

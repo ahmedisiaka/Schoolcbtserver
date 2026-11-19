@@ -1,0 +1,522 @@
+[
+    {
+        "id": "JAMB_G_001",
+        "text": "The $\\textbf{Production}$ $\\textbf{Possibility}$ $\\textbf{Curve}$ (PPC) illustrates the economic problem of:",
+        "image": "",
+        "options": [
+            "economic depression.",
+            "unemployment.",
+            "scarcity and choice.",
+            "inflation."
+        ],
+        "answer": "scarcity and choice.",
+        "explanation": "The PPC shows the maximum combinations of two goods that can be produced with given resources and technology (scarcity), and the trade-off (choice) involved in moving from one combination to another. [Image of Production Possibility Curve]"
+    },
+    {
+        "id": "JAMB_G_002",
+        "text": "What is the $\\textbf{primary}$ $\\textbf{condition}$ for $\\textbf{market}$ $\\textbf{equilibrium}$?",
+        "image": "",
+        "options": [
+            "Price equals Cost.",
+            "Marginal Utility equals Price.",
+            "Quantity Demanded equals Quantity Supplied.",
+            "Revenue equals Cost."
+        ],
+        "answer": "Quantity Demanded equals Quantity Supplied.",
+        "explanation": "Equilibrium in a market is reached at the price where the amount consumers wish to buy is exactly equal to the amount producers wish to sell."
+    },
+    {
+        "id": "JAMB_G_003",
+        "text": "When a firm is experiencing $\\textbf{increasing}$ $\\textbf{returns}$ $\\textbf{to}$ $\\textbf{scale}$, a proportional increase in inputs leads to a:",
+        "image": "",
+        "options": [
+            "less than proportional increase in output.",
+            "proportional increase in output.",
+            "more than proportional increase in output.",
+            "constant output level."
+        ],
+        "answer": "more than proportional increase in output.",
+        "explanation": "Increasing returns to scale means that average cost falls as output increases because the firm is becoming more efficient, often due to specialization."
+    },
+    {
+        "id": "JAMB_G_004",
+        "text": "The $\\textbf{cash}$ $\\textbf{reserve}$ $\\textbf{ratio}$ is the percentage of a commercial bank's $\\textbf{deposits}$ that must be held as:",
+        "image": "",
+        "options": [
+            "loans to the government.",
+            "cash in its vaults and deposits with the Central Bank.",
+            "investments in treasury bills.",
+            "mortgages."
+        ],
+        "answer": "cash in its vaults and deposits with the Central Bank.",
+        "explanation": "The Cash Reserve Ratio (CRR) is a monetary policy tool set by the Central Bank, requiring commercial banks to keep a specified portion of their deposits as liquid reserves."
+    },
+    {
+        "id": "JAMB_G_005",
+        "text": "If the $\\textbf{income}$ $\\textbf{elasticity}$ $\\textbf{of}$ $\\textbf{demand}$ for a good is $\\textbf{negative}$, the good is a(n):",
+        "image": "",
+        "options": [
+            "luxury good.",
+            "normal good.",
+            "inferior good.",
+            "complementary good."
+        ],
+        "answer": "inferior good.",
+        "explanation": "A negative income elasticity means that as consumer income rises, the quantity demanded for the good falls, which is the definition of an inferior good."
+    },
+    {
+        "id": "JAMB_G_006",
+        "text": "The major $\\textbf{difference}$ between $\\textbf{GDP}$ (Gross Domestic Product) and $\\textbf{GNP}$ (Gross National Product) is:",
+        "image": "",
+        "options": [
+            "depreciation.",
+            "indirect taxes.",
+            "subsidies.",
+            "net factor income from abroad."
+        ],
+        "answer": "net factor income from abroad.",
+        "explanation": "GDP is output produced within a country's boundaries; GNP is output produced by a country's residents. The difference is the income earned by citizens abroad minus the income earned by foreigners domestically (Net Factor Income from Abroad)."
+    },
+    {
+        "id": "JAMB_G_007",
+        "text": "Which of the following is $\\textbf{not}$ a function of $\\textbf{money}$?",
+        "image": "",
+        "options": [
+            "Measure of value.",
+            "Store of value.",
+            "Measure of opportunity cost.",
+            "Medium of exchange."
+        ],
+        "answer": "Measure of opportunity cost.",
+        "explanation": "The main functions of money are medium of exchange, unit of account (measure of value), store of value, and standard of deferred payment."
+    },
+    {
+        "id": "JAMB_G_008",
+        "text": "A persistent $\\textbf{fall}$ in the $\\textbf{general}$ $\\textbf{price}$ $\\textbf{level}$ of goods and services is called:",
+        "image": "",
+        "options": [
+            "Hyperinflation.",
+            "Deflation.",
+            "Disinflation.",
+            "Stagflation."
+        ],
+        "answer": "Deflation.",
+        "explanation": "Deflation is a sustained decrease in the general price level of goods and services, often associated with low aggregate demand."
+    },
+    {
+        "id": "JAMB_G_009",
+        "text": "In a $\\textbf{Monopoly}$ $\\textbf{market}$, barriers to entry are:",
+        "image": "",
+        "options": [
+            "very low.",
+            "non-existent.",
+            "high or total.",
+            "only based on advertising."
+        ],
+        "answer": "high or total.",
+        "explanation": "High barriers to entry (e.g., legal patents, control of resources, huge capital requirements) are the defining characteristic that allows a monopolist to maintain control over the market."
+    },
+    {
+        "id": "JAMB_G_010",
+        "text": "The $\\textbf{Marginal}$ $\\textbf{Rate}$ $\\textbf{of}$ $\\textbf{Substitution}$ (MRS) along an $\\textbf{indifference}$ $\\textbf{curve}$ is $\\textbf{decreasing}$ because of the $\\textbf{Law}$ $\\textbf{of}$:",
+        "image": "",
+        "options": [
+            "Demand.",
+            "Equi-Marginal Utility.",
+            "Diminishing Marginal Utility.",
+            "Supply."
+        ],
+        "answer": "Diminishing Marginal Utility.",
+        "explanation": "As a consumer consumes more of one good, its marginal utility falls, meaning the consumer is willing to give up less of the other good to obtain one more unit, causing the MRS to decrease."
+    },
+    {
+        "id": "JAMB_G_011",
+        "text": "The major $\\textbf{reward}$ to the factor of production, $\\textbf{Capital}$, is:",
+        "image": "",
+        "options": [
+            "Profit.",
+            "Rent.",
+            "Wages.",
+            "Interest."
+        ],
+        "answer": "Interest.",
+        "explanation": "Interest is the payment made for the use of borrowed money (capital)."
+    },
+    {
+        "id": "JAMB_G_012",
+        "text": "In the short run, a firm's $\\textbf{Total}$ $\\textbf{Cost}$ (TC) is the sum of:",
+        "image": "",
+        "options": [
+            "Marginal Cost and Average Cost.",
+            "Fixed Cost and Variable Cost.",
+            "Average Cost and Profit.",
+            "Explicit Cost and Implicit Cost."
+        ],
+        "answer": "Fixed Cost and Variable Cost.",
+        "explanation": "$TC = TFC + TVC$. Total Fixed Cost (TFC) does not change with output, and Total Variable Cost (TVC) does."
+    },
+    {
+        "id": "JAMB_G_013",
+        "text": "The basic aim of the $\\textbf{Economic}$ $\\textbf{Community}$ $\\textbf{of}$ $\\textbf{West}$ $\\textbf{African}$ $\\textbf{States}$ (ECOWAS) is to create a:",
+        "image": "",
+        "options": [
+            "political union.",
+            "common market and economic union.",
+            "military alliance.",
+            "single currency immediately."
+        ],
+        "answer": "common market and economic union.",
+        "explanation": "ECOWAS aims for regional integration, starting with trade liberalization leading to a common market and ultimately, a monetary and economic union."
+    },
+    {
+        "id": "JAMB_G_014",
+        "text": "Which of the following is an example of an $\\textbf{Injection}$ into the circular flow of income?",
+        "image": "",
+        "options": [
+            "Taxes",
+            "Imports",
+            "Investment",
+            "Savings"
+        ],
+        "answer": "Investment.",
+        "explanation": "Injections are additions to the circular flow, increasing income (Investment, Government Spending, Exports). Taxes, Imports, and Savings are Leakages (withdrawals)."
+    },
+    {
+        "id": "JAMB_G_015",
+        "text": "To combat $\\textbf{recession}$ (unemployment), the government should implement a $\\textbf{fiscal}$ $\\textbf{policy}$ that involves:",
+        "image": "",
+        "options": [
+            "increasing taxes and decreasing government spending.",
+            "decreasing taxes and increasing government spending.",
+            "selling government bonds.",
+            "increasing interest rates."
+        ],
+        "answer": "decreasing taxes and increasing government spending.",
+        "explanation": "This is an expansionary fiscal policy. Decreasing taxes increases disposable income (consumption), and increasing government spending directly boosts aggregate demand, both countering a recession."
+    },
+    {
+        "id": "JAMB_G_016",
+        "text": "When the $\\textbf{demand}$ for a good is $\\textbf{perfectly}$ $\\textbf{inelastic}$, its demand curve is:",
+        "image": "",
+        "options": [
+            "horizontal.",
+            "downward sloping.",
+            "vertical.",
+            "upward sloping."
+        ],
+        "answer": "vertical.",
+        "explanation": "Perfectly inelastic demand ($E_d = 0$) means the quantity demanded does not change at all, regardless of the price. This is shown by a vertical demand curve."
+    },
+    {
+        "id": "JAMB_G_017",
+        "text": "The main economic objective of a $\\textbf{cooperative}$ $\\textbf{society}$ is to:",
+        "image": "",
+        "options": [
+            "maximize profit for the government.",
+            "maximize shareholders' profit.",
+            "provide services to its members at minimum cost.",
+            "control the price of goods in the market."
+        ],
+        "answer": "provide services to its members at minimum cost.",
+        "explanation": "Cooperative societies are voluntary organizations designed to meet the common economic, social, and cultural needs of their members, often by eliminating middlemen."
+    },
+    {
+        "id": "JAMB_G_018",
+        "text": "A tax levied on imported goods is called a(n):",
+        "image": "",
+        "options": [
+            "quota.",
+            "subsidy.",
+            "tariff.",
+            "embargo."
+        ],
+        "answer": "tariff.",
+        "explanation": "A tariff is a tax imposed by a government on goods and services imported from other countries."
+    },
+    {
+        "id": "JAMB_G_019",
+        "text": "The $\\textbf{major}$ $\\textbf{drawback}$ of $\\textbf{barter}$ $\\textbf{as}$ a system of exchange is the:",
+        "image": "",
+        "options": [
+            "portability of goods.",
+            "absence of double coincidence of wants.",
+            "uniform size of commodities.",
+            "durability of goods."
+        ],
+        "answer": "absence of double coincidence of wants.",
+        "explanation": "Barter requires two parties each having what the other wants, which is rare. Money solves this problem by serving as a medium of exchange."
+    },
+    {
+        "id": "JAMB_G_020",
+        "text": "The $\\textbf{most}$ $\\textbf{liquid}$ asset a commercial bank holds is:",
+        "image": "",
+        "options": [
+            "Loans and Advances.",
+            "Investments.",
+            "Cash in Hand and at Central Bank.",
+            "Fixed Assets (Buildings)."
+        ],
+        "answer": "Cash in Hand and at Central Bank.",
+        "explanation": "Liquidity refers to how easily an asset can be converted to cash. Vault cash and reserves at the central bank are immediately available, making them the most liquid."
+    },
+    {
+        "id": "JAMB_G_021",
+        "text": "The $\\textbf{movement}$ from a $\\textbf{point}$ $\\textbf{inside}$ the PPC to a $\\textbf{point}$ $\\textbf{on}$ the PPC represents:",
+        "image": "",
+        "options": [
+            "economic growth.",
+            "a decrease in resources.",
+            "full employment of resources.",
+            "technological decline."
+        ],
+        "answer": "full employment of resources.",
+        "explanation": "Points inside the PPC represent inefficient use (unemployment) of resources. Moving to the boundary (on the curve) means all resources are now being fully and efficiently used."
+    },
+    {
+        "id": "JAMB_G_022",
+        "text": "When a firm stops gaining from specialization and faces $\\textbf{higher}$ $\\textbf{costs}$ as it $\\textbf{grows}$ $\\textbf{larger}$, it is experiencing:",
+        "image": "",
+        "options": [
+            "external economies of scale.",
+            "internal economies of scale.",
+            "internal diseconomies of scale.",
+            "external diseconomies of scale."
+        ],
+        "answer": "internal diseconomies of scale.",
+        "explanation": "Internal diseconomies are disadvantages that increase costs *within* the firm due to its large size (e.g., poor management, communication breakdown)."
+    },
+    {
+        "id": "JAMB_G_023",
+        "text": "What type of unemployment occurs when a worker voluntarily $\\textbf{leaves}$ a $\\textbf{job}$ $\\textbf{to}$ $\\textbf{search}$ for a better one?",
+        "image": "",
+        "options": [
+            "Cyclical unemployment.",
+            "Frictional unemployment.",
+            "Structural unemployment.",
+            "Disguised unemployment."
+        ],
+        "answer": "Frictional unemployment.",
+        "explanation": "Frictional unemployment is short-term unemployment that occurs when workers are in between jobs or searching for their first job."
+    },
+    {
+        "id": "JAMB_G_024",
+        "text": "The $\\textbf{multiplier}$ effect in national income analysis is $\\textbf{positively}$ $\\textbf{related}$ to the:",
+        "image": "",
+        "options": [
+            "Marginal Propensity to Save (MPS).",
+            "Average Propensity to Consume (APC).",
+            "Marginal Propensity to Consume (MPC).",
+            "Tax Rate."
+        ],
+        "answer": "Marginal Propensity to Consume (MPC).",
+        "explanation": "The formula for the simple multiplier is $k = 1 / (1 - MPC)$ or $k = 1 / MPS$. Since $1 / (1 - MPC)$ increases as MPC increases, the multiplier is directly related to MPC."
+    },
+    {
+        "id": "JAMB_G_025",
+        "text": "A $\\textbf{progressive}$ $\\textbf{tax}$ system is one where the tax rate:",
+        "image": "",
+        "options": [
+            "is constant across all income levels.",
+            "increases as the taxpayer's income increases.",
+            "decreases as the taxpayer's income increases.",
+            "is levied only on expenditure."
+        ],
+        "answer": "increases as the taxpayer's income increases.",
+        "explanation": "A progressive tax takes a larger percentage of income from high-income earners than from low-income earners, based on the principle of ability to pay."
+    },
+    {
+        "id": "JAMB_G_026",
+        "text": "Which of the following is $\\textbf{not}$ a barrier to $\\textbf{economic}$ $\\textbf{development}$ in West Africa?",
+        "image": "",
+        "options": [
+            "High rate of population growth.",
+            "Political instability.",
+            "Low dependency ratio.",
+            "Over-reliance on the primary sector."
+        ],
+        "answer": "Low dependency ratio.",
+        "explanation": "A low dependency ratio (few non-working dependents per worker) is generally considered *favorable* for economic development, not a barrier."
+    },
+    {
+        "id": "JAMB_G_027",
+        "text": "If the price of petrol (a $\\textbf{complement}$ to cars) $\\textbf{increases}$, the demand curve for cars will:",
+        "image": "",
+        "options": [
+            "shift to the right.",
+            "shift to the left.",
+            "remain unchanged.",
+            "become flatter."
+        ],
+        "answer": "shift to the left.",
+        "explanation": "Petrol and cars are complements. If the price of petrol rises, the cost of using a car increases, leading consumers to demand fewer cars at all price levels, shifting the demand curve for cars to the left."
+    },
+    {
+        "id": "JAMB_G_028",
+        "text": "In the calculation of National Income, $\\textbf{Net}$ $\\textbf{National}$ $\\textbf{Product}$ (NNP) is derived from $\\textbf{GNP}$ by subtracting:",
+        "image": "",
+        "options": [
+            "subsidies.",
+            "indirect taxes.",
+            "transfer payments.",
+            "depreciation (capital consumption)."
+        ],
+        "answer": "depreciation (capital consumption).",
+        "explanation": "NNP = GNP - Depreciation. Depreciation is the value of capital goods consumed in the process of production during the year."
+    },
+    {
+        "id": "JAMB_G_029",
+        "text": "The $\\textbf{selling}$ $\\textbf{cost}$ is a feature mainly associated with which market structure?",
+        "image": "",
+        "options": [
+            "Perfect Competition.",
+            "Monopolistic Competition.",
+            "Monopoly.",
+            "Oligopoly."
+        ],
+        "answer": "Monopolistic Competition.",
+        "explanation": "Selling costs (like advertising, branding, and packaging) are crucial in monopolistic competition to differentiate products and attract customers, as opposed to perfect competition where products are homogenous."
+    },
+    {
+        "id": "JAMB_G_030",
+        "text": "The $\\textbf{primary}$ $\\textbf{function}$ of $\\textbf{deposit}$ $\\textbf{money}$ $\\textbf{banks}$ (commercial banks) is:",
+        "image": "",
+        "options": [
+            "issuing new currency.",
+            "acting as banker to the government.",
+            "lending money and accepting deposits.",
+            "controlling inflation."
+        ],
+        "answer": "lending money and accepting deposits.",
+        "explanation": "Commercial banks accept deposits from the public and use these funds to create credit by granting loans and advances, which is their core activity."
+    },
+    {
+        "id": "JAMB_G_031",
+        "text": "In a $\\textbf{capitalist}$ $\\textbf{economy}$, the decisions of $\\textbf{what}$ $\\textbf{to}$ $\\textbf{produce}$ are primarily determined by the:",
+        "image": "",
+        "options": [
+            "planning committee.",
+            "price mechanism.",
+            "producers' interests.",
+            "traditional methods."
+        ],
+        "answer": "price mechanism.",
+        "explanation": "In capitalism (or a free market), the interaction of demand and supply (the price mechanism) signals to producers what goods are profitable to produce."
+    },
+    {
+        "id": "JAMB_G_032",
+        "text": "The term $\\textbf{monetary}$ $\\textbf{policy}$ refers to the actions taken by the $\\textbf{Central}$ $\\textbf{Bank}$ to influence the:",
+        "image": "",
+        "options": [
+            "government budget and taxes.",
+            "levels of imports and exports.",
+            "supply of money and credit.",
+            "price of crude oil."
+        ],
+        "answer": "supply of money and credit.",
+        "explanation": "Monetary policy involves the management of money supply and interest rates, typically by the Central Bank, to achieve macroeconomic objectives."
+    },
+    {
+        "id": "JAMB_G_033",
+        "text": "If a country's $\\textbf{Terms}$ $\\textbf{of}$ $\\textbf{Trade}$ $\\textbf{deteriorates}$, it means that:",
+        "image": "",
+        "options": [
+            "the price of its exports has fallen relative to its imports.",
+            "the volume of its exports has increased.",
+            "it is earning more foreign exchange.",
+            "it is paying less for its imports."
+        ],
+        "answer": "the price of its exports has fallen relative to its imports.",
+        "explanation": "Terms of Trade (TOT) = (Export Price Index / Import Price Index) $\\times$ 100. Deterioration means the TOT index has fallen, requiring the country to export more to buy the same amount of imports."
+    },
+    {
+        "id": "JAMB_G_034",
+        "text": "A situation where the $\\textbf{population}$ of a country is $\\textbf{less}$ $\\textbf{than}$ $\\textbf{the}$ $\\textbf{optimum}$ $\\textbf{population}$ is known as:",
+        "image": "",
+        "options": [
+            "Over-population.",
+            "Under-population.",
+            "Over-density.",
+            "Zero population growth."
+        ],
+        "answer": "Under-population.",
+        "explanation": "Under-population means that an increase in population would lead to an increase in output per head (per capita income), indicating resources are not being fully utilized."
+    },
+    {
+        "id": "JAMB_G_035",
+        "text": "The $\\textbf{relationship}$ between two goods with a $\\textbf{positive}$ $\\textbf{cross-elasticity}$ $\\textbf{of}$ $\\textbf{demand}$ is:",
+        "image": "",
+        "options": [
+            "independent.",
+            "complementary.",
+            "substitutes.",
+            "inferior."
+        ],
+        "answer": "substitutes.",
+        "explanation": "If the price of Good A increases, and the demand for Good B also increases (positive cross-elasticity), they are substitutes (e.g., butter and margarine)."
+    },
+    {
+        "id": "JAMB_G_036",
+        "text": "The $\\textbf{Nigerian}$ $\\textbf{Deposit}$ $\\textbf{Insurance}$ $\\textbf{Corporation}$ (NDIC) was primarily established to:",
+        "image": "",
+        "options": [
+            "control the rate of interest.",
+            "regulate the stock market.",
+            "protect small depositors in the event of bank failure.",
+            "act as banker to the government."
+        ],
+        "answer": "protect small depositors in the event of bank failure.",
+        "explanation": "The NDIC insures bank deposits, guaranteeing that small depositors will not lose all their savings if a commercial bank collapses, thus promoting financial stability."
+    },
+    {
+        "id": "JAMB_G_037",
+        "text": "A $\\textbf{disadvantage}$ of the $\\textbf{sole}$ $\\textbf{proprietorship}$ is:",
+        "image": "",
+        "options": [
+            "easy formation.",
+            "unlimited liability.",
+            "owner gets all the profit.",
+            "quick decision-making."
+        ],
+        "answer": "unlimited liability.",
+        "explanation": "Unlimited liability means the personal assets of the owner can be used to settle the business debts, which is a significant risk and disadvantage."
+    },
+    {
+        "id": "JAMB_G_038",
+        "text": "In a $\\textbf{planned}$ or $\\textbf{command}$ $\\textbf{economy}$, resources are allocated based on:",
+        "image": "",
+        "options": [
+            "the forces of demand and supply.",
+            "the needs of consumers.",
+            "decisions of a central planning authority.",
+            "tradition and custom."
+        ],
+        "answer": "decisions of a central planning authority.",
+        "explanation": "The central planning authority (government) determines what to produce, how to produce, and for whom to produce."
+    },
+    {
+        "id": "JAMB_G_039",
+        "text": "The $\\textbf{Marginal}$ $\\textbf{Revenue}$ $\\textbf{curve}$ for a $\\textbf{perfectly}$ $\\textbf{competitive}$ firm is $\\textbf{equal}$ to the:",
+        "image": "",
+        "options": [
+            "Total Revenue curve.",
+            "Average Fixed Cost curve.",
+            "Demand curve and Average Revenue curve.",
+            "Marginal Cost curve."
+        ],
+        "answer": "Demand curve and Average Revenue curve.",
+        "explanation": "In perfect competition, the price (P), Marginal Revenue (MR), and Average Revenue (AR) are all equal to each other, resulting in a single horizontal line at the market price."
+    },
+    {
+        "id": "JAMB_G_040",
+        "text": "The difference between $\\textbf{public}$ $\\textbf{goods}$ and $\\textbf{private}$ $\\textbf{goods}$ lies in the principles of:",
+        "image": "",
+        "options": [
+            "profit and loss.",
+            "cost and revenue.",
+            "elasticity and inelasticity.",
+            "non-rivalry and non-excludability."
+        ],
+        "answer": "non-rivalry and non-excludability.",
+        "explanation": "Public goods are non-rivalrous (one person's consumption doesn't stop another's) and non-excludable (it's impossible to prevent non-payers from consuming it)."
+    }
+]

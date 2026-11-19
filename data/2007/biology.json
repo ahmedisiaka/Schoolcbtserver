@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2007_01",
+      "text": "The organelle responsible for aerobic respiration and energy production in the cell is the:",
+      "image": "[Diagram of a Mitochondrion structure]",
+      "options": [
+        "Ribosome",
+        "Chloroplast",
+        "Mitochondrion",
+        "Nucleus"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are often referred to as the 'powerhouses' of the cell, where cellular respiration occurs to generate large quantities of $\\text{ATP}$ (energy)."
+    },
+    {
+      "id": "BIO_2007_02",
+      "text": "Which of the following classes of food is chemically digested only in the $\\text{Small}$ $\\text{Intestine}$?",
+      "image": "[Diagram of the human digestive tract]",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "Fats and Oils",
+        "Vitamins"
+      ],
+      "answer": "Fats and Oils",
+      "explanation": "Fats and $\\text{Oils}$ (lipids) begin their chemical digestion primarily in the $\\text{Small}$ $\\text{Intestine}$ after being emulsified by $\\text{Bile}$ and broken down by $\\text{Lipase}$."
+    },
+    {
+      "id": "BIO_2007_03",
+      "text": "The process by which complex food substances are broken down into simple, soluble forms is called:",
+      "image": "",
+      "options": [
+        "Assimilation",
+        "Absorption",
+        "Digestion",
+        "Egestion"
+      ],
+      "answer": "Digestion",
+      "explanation": "$\\text{Digestion}$ is the mechanical and chemical process that converts non-absorbable food into simple molecules that can be $\\text{Absorbed}$ by the body."
+    },
+    {
+      "id": "BIO_2007_04",
+      "text": "The blood cells that are responsible for the clotting of blood are the:",
+      "image": "[Micrograph of different types of blood cells]",
+      "options": [
+        "Leucocytes",
+        "Erythrocytes",
+        "Platelets",
+        "Phagocytes"
+      ],
+      "answer": "Platelets",
+      "explanation": "$\\text{Platelets}$ (Thrombocytes) are fragments of cells that initiate the blood $\\text{Clotting}$ cascade upon injury to prevent blood loss."
+    },
+    {
+      "id": "BIO_2007_05",
+      "text": "The specialized epidermal structures in the leaves of plants through which gaseous exchange occurs are the:",
+      "image": "[Microscopic image of Stomata on a leaf]",
+      "options": [
+        "Cuticles",
+        "Guard cells",
+        "Lenticels",
+        "Stomata"
+      ],
+      "answer": "Stomata",
+      "explanation": "$\\text{Stomata}$ (singular: $\\text{Stoma}$) are pores, typically on the lower epidermis, regulated by $\\text{Guard}$ $\\text{cells}$, that facilitate the exchange of $\\text{Carbon}$ $\\text{Dioxide}$ and $\\text{Oxygen}$."
+    },
+    {
+      "id": "BIO_2007_06",
+      "text": "Which of these tissues is primarily responsible for the increase in girth (width) of a woody stem?",
+      "image": "[Cross-section of a Dicot stem showing the Vascular Cambium]",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Apical meristem",
+        "Vascular $\\text{Cambium}$"
+      ],
+      "answer": "Vascular $\\text{Cambium}$",
+      "explanation": "The $\\text{Vascular}$ $\\text{Cambium}$ is a lateral meristem that produces secondary $\\text{Xylem}$ (inward) and secondary $\\text{Phloem}$ (outward), causing the stem to increase in $\\text{Girth}$ (secondary growth)."
+    },
+    {
+      "id": "BIO_2007_07",
+      "text": "The part of the flower that receives the pollen grain during pollination is the:",
+      "image": "[Diagram of a flower showing the Stigma]",
+      "options": [
+        "Anther",
+        "Style",
+        "Stigma",
+        "Ovary"
+      ],
+      "answer": "Stigma",
+      "explanation": "The $\\text{Stigma}$ is the receptive tip of the $\\text{Carpel}$ (pistil) that is specialized to capture and hold $\\text{Pollen}$ grains."
+    },
+    {
+      "id": "BIO_2007_08",
+      "text": "The type of asexual reproduction where an organism splits into two nearly equal halves is known as:",
+      "image": "[Diagram illustrating Binary Fission in an Amoeba]",
+      "options": [
+        "Budding",
+        "Fragmentation",
+        "Binary $\\text{Fission}$",
+        "Sporulation"
+      ],
+      "answer": "Binary $\\text{Fission}$",
+      "explanation": "Binary $\\text{Fission}$ is characteristic of single-celled organisms like $\\text{Amoeba}$ and bacteria, where the nucleus and cytoplasm divide equally to form two new individuals."
+    },
+    {
+      "id": "BIO_2007_09",
+      "text": "A $\\text{Homologous}$ pair of chromosomes means they have the same:",
+      "image": "[Diagram of a Homologous Chromosome pair]",
+      "options": [
+        "Alleles but different genes",
+        "Shape and size, and carry genes for the same traits",
+        "Number of chromatids",
+        "Type of mutation"
+      ],
+      "answer": "Shape and size, and carry genes for the same traits",
+      "explanation": "$\\text{Homologous}$ chromosomes are paired during $\\text{Meiosis}$. They are similar in $\\text{Size}$ and $\\text{Shape}$ and possess genes for the same traits at the same $\\text{Loci}$ (positions)."
+    },
+    {
+      "id": "BIO_2007_10",
+      "text": "If a couple has two children, both girls, the probability that the next child will be a boy is:",
+      "image": "[Punnett square for determining sex (XX x XY)]",
+      "options": [
+        "$1/4$",
+        "$1/3$",
+        "$1/2$",
+        "$3/4$"
+      ],
+      "answer": "$1/2$",
+      "explanation": "The sex of each child is an independent event. The probability of having a boy is $50\\%$ ($\text{XY}$ combination), regardless of the sex of previous children."
+    },
+    {
+      "id": "BIO_2007_11",
+      "text": "The relationship between a $\\text{Tick}$ and a $\\text{Dog}$, where the $\\text{Tick}$ benefits and the $\\text{Dog}$ is harmed, is an example of:",
+      "image": "[Image illustrating Parasitism (Tick on a Dog)]",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Saprophytism"
+      ],
+      "answer": "Parasitism",
+      "explanation": "$\\text{Parasitism}$ is a non-mutual symbiotic relationship between species, where one species, the $\\text{Parasite}$ ($\text{Tick}$), benefits at the expense of the other, the $\\text{Host}$ ($\text{Dog}$)."
+    },
+    {
+      "id": "BIO_2007_12",
+      "text": "Organisms that feed on dead organic matter are called:",
+      "image": "[Image illustrating Saprophytes (e.g., Fungi decomposing a log)]",
+      "options": [
+        "Carnivores",
+        "Producers",
+        "Saprophytes",
+        "Herbivores"
+      ],
+      "answer": "Saprophytes",
+      "explanation": "$\\text{Saprophytes}$ ($\text{Saprotrophs}$), such as most fungi and bacteria, obtain their nutrients from the decay of dead organic materials."
+    },
+    {
+      "id": "BIO_2007_13",
+      "text": "The final product of photosynthesis is stored in plants mainly as:",
+      "image": "[Diagram of a chloroplast showing starch grains]",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Starch",
+        "Sucrose"
+      ],
+      "answer": "Starch",
+      "explanation": "Although $\\text{Glucose}$ is the primary sugar produced, it is rapidly converted into the insoluble storage $\\text{Polysaccharide}$ called $\\text{Starch}$ in plant tissues, like leaves and tubers."
+    },
+    {
+      "id": "BIO_2007_14",
+      "text": "The function of $\\text{Ossicles}$ (Malleus, Incus, Stapes) in the $\\text{Mammalian}$ $\\text{Ear}$ is to:",
+      "image": "[Diagram of the human ear highlighting the Ossicles]",
+      "options": [
+        "Maintain balance",
+        "Transmit sound waves to the outer ear",
+        "Amplify sound vibrations",
+        "Equalize pressure"
+      ],
+      "answer": "Amplify sound vibrations",
+      "explanation": "The three tiny bones (Ossicles) in the middle ear act as a lever system to $\\text{Amplify}$ the sound vibrations received by the $\\text{Eardrum}$ before transmitting them to the inner ear."
+    },
+    {
+      "id": "BIO_2007_15",
+      "text": "A disease characterized by high blood pressure, protein in urine, and edema in pregnant women is known as:",
+      "image": "",
+      "options": [
+        "Eclampsia",
+        "Tetanus",
+        "Sickle-cell anaemia",
+        "Poliomyelitis"
+      ],
+      "answer": "Eclampsia",
+      "explanation": "$\\text{Eclampsia}$ (or $\\text{Pre-eclampsia}$ in its milder form) is a serious condition in pregnancy characterized by $\\text{Hypertension}$ (high blood pressure), $\\text{Proteinuria}$ (protein in the urine), and severe $\\text{Edema}$ (swelling)."
+    },
+    {
+      "id": "BIO_2007_16",
+      "text": "The primary function of the $\\text{Large}$ $\\text{Intestine}$ in mammals is the absorption of:",
+      "image": "[Diagram of the large intestine]",
+      "options": [
+        "Digested food",
+        "Water and mineral salts",
+        "Fats",
+        "Amino acids"
+      ],
+      "answer": "Water and mineral salts",
+      "explanation": "The majority of food digestion and nutrient absorption occurs in the $\\text{Small}$ $\\text{Intestine}$. The $\\text{Large}$ $\\text{Intestine}$'s main role is to absorb residual $\\text{Water}$ and $\\text{Electrolytes}$ before forming faeces."
+    },
+    {
+      "id": "BIO_2007_17",
+      "text": "An adaptation of a bird for flight is the presence of:",
+      "image": "[Diagram of a bird skeleton highlighting the sternum/keel]",
+      "options": [
+        "A three-chambered heart",
+        "Long, heavy bones",
+        "Webbed feet",
+        "A keel-shaped sternum"
+      ],
+      "answer": "A keel-shaped sternum",
+      "explanation": "The $\\text{Keel}$ (Carina) on the $\\text{Sternum}$ is an extension of the breastbone that provides a large surface area for the attachment of the powerful $\\text{Flight}$ muscles."
+    },
+    {
+      "id": "BIO_2007_18",
+      "text": "The nitrogenous base that is exclusive to $\\text{RNA}$ and not found in $\\text{DNA}$ is:",
+      "image": "[Diagram comparing DNA and RNA structure]",
+      "options": [
+        "Adenine",
+        "Cytosine",
+        "Thymine",
+        "Uracil"
+      ],
+      "answer": "Uracil",
+      "explanation": "DNA uses $\\text{Thymine}$ ($\text{T}$), while RNA substitutes $\\text{Uracil}$ ($\text{U}$) for $\\text{Thymine}$. In RNA, $\\text{Uracil}$ pairs with $\\text{Adenine}$."
+    },
+    {
+      "id": "BIO_2007_19",
+      "text": "Which element is crucial for the formation of the $\\text{Haemoglobin}$ molecule?",
+      "image": "[Molecular structure of Haemoglobin, showing the iron ion]",
+      "options": [
+        "Calcium",
+        "Iodine",
+        "Iron",
+        "Potassium"
+      ],
+      "answer": "Iron",
+      "explanation": "$\\text{Haemoglobin}$ is a protein that requires $\\text{Iron}$ ions ($\text{Fe}^{2+}$) to bind and transport $\\text{Oxygen}$ in the blood."
+    },
+    {
+      "id": "BIO_2007_20",
+      "text": "An example of a vascular $\\text{Cryptogam}$ (seedless vascular plant) is the:",
+      "image": "",
+      "options": [
+        "Moss",
+        "Alga",
+        "Fern",
+        "Mango tree"
+      ],
+      "answer": "Fern",
+      "explanation": "$\\text{Cryptogams}$ are non-flowering, seedless plants. $\\text{Ferns}$ ($\text{Pteridophytes}$) are vascular cryptogams, possessing $\\text{Xylem}$ and $\\text{Phloem}$ but reproducing by $\\text{Spores}$."
+    },
+    {
+      "id": "BIO_2007_21",
+      "text": "The change in population size over a unit of time is referred to as the:",
+      "image": "[Graph illustrating Population Growth Rate]",
+      "options": [
+        "Population density",
+        "Population distribution",
+        "Population $\\text{Growth}$ $\\text{Rate}$",
+        "Carrying capacity"
+      ],
+      "answer": "Population $\\text{Growth}$ $\\text{Rate}$",
+      "explanation": "The $\\text{Growth}$ $\\text{Rate}$ is the change in the number of individuals in a population per unit of time, calculated from births, deaths, and migration."
+    },
+    {
+      "id": "BIO_2007_22",
+      "text": "Which of the following is a $\\text{Density}$-dependent factor regulating population size?",
+      "image": "[Graph showing logistic growth and carrying capacity]",
+      "options": [
+        "Flooding",
+        "Drought",
+        "Predation",
+        "Wildfire"
+      ],
+      "answer": "Predation",
+      "explanation": "$\\text{Density}$-dependent factors (like $\\text{Predation}$, $\\text{Disease}$, $\\text{Competition}$) increase their effect on the population as the population density increases."
+    },
+    {
+      "id": "BIO_2007_23",
+      "text": "In the $\\text{Kidney}$, the process where water, salts, and glucose are returned to the blood is called:",
+      "image": "[Diagram of a Nephron showing Reabsorption]",
+      "options": [
+        "Filtration",
+        "Micturition",
+        "Selective $\\text{Reabsorption}$",
+        "Secretion"
+      ],
+      "answer": "Selective $\\text{Reabsorption}$",
+      "explanation": "After substances are filtered out in the $\\text{Glomerulus}$, useful components like water, $\\text{Glucose}$, $\\text{Amino}$ $\\text{acids}$, and salts are taken back into the blood from the renal tubule during selective $\\text{Reabsorption}$."
+    },
+    {
+      "id": "BIO_2007_24",
+      "text": "A plant hormone that promotes the ripening of fruits is:",
+      "image": "[Image illustrating fruit ripening stimulated by Ethylene]",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": "Ethylene",
+      "explanation": "$\\text{Ethylene}$ is a gaseous plant hormone that plays a major role in the maturation and $\\text{Ripening}$ of fruits."
+    },
+    {
+      "id": "BIO_2007_25",
+      "text": "Which of these animals is poikilothermic (cold-blooded)?",
+      "image": "",
+      "options": [
+        "Bat",
+        "Pigeon",
+        "Lizard",
+        "Human"
+      ],
+      "answer": "Lizard",
+      "explanation": "$\\text{Poikilotherms}$ (like reptiles, amphibians, and fish) have a body temperature that fluctuates with the ambient temperature. $\\text{Mammals}$ ($\text{Bat}$, $\\text{Human}$) and $\\text{Birds}$ ($\text{Pigeon}$) are $\\text{Homeothermic}$ (warm-blooded)."
+    },
+    {
+      "id": "BIO_2007_26",
+      "text": "The primary ecological role of bacteria and fungi in an ecosystem is as:",
+      "image": "[Diagram illustrating the role of Decomposers in a food web]",
+      "options": [
+        "Producers",
+        "Primary consumers",
+        "Decomposers",
+        "Scavengers"
+      ],
+      "answer": "Decomposers",
+      "explanation": "Bacteria and $\\text{Fungi}$ are the main $\\text{Decomposers}$ (Saprotrophs). They break down dead organic matter and waste, releasing essential nutrients back into the soil for producers."
+    },
+    {
+      "id": "BIO_2007_27",
+      "text": "Which blood group is known as the universal recipient?",
+      "image": "[Blood typing chart showing universal recipient AB]",
+      "options": [
+        "$\\text{A}$",
+        "$\\text{B}$",
+        "$\\text{O}$",
+        "$\\text{AB}$"
+      ],
+      "answer": "$\\text{AB}$",
+      "explanation": "Blood group $\\text{AB}$ has both $\\text{A}$ and $\\text{B}$ antigens on the red blood cells but neither $\\text{Anti-A}$ nor $\\text{Anti-B}$ antibodies in the plasma, so it can safely receive blood from any group."
+    },
+    {
+      "id": "BIO_2007_28",
+      "text": "The $\\text{Chlorophyll}$ molecule is located within the $\\text{Chloroplasts}$ in structures called:",
+      "image": "[Diagram of a Chloroplast showing Thylakoids and Grana]",
+      "options": [
+        "Stroma",
+        "Cristae",
+        "Grana",
+        "Matrix"
+      ],
+      "answer": "Grana",
+      "explanation": "$\\text{Chlorophyll}$ and the light-dependent reactions of $\\text{Photosynthesis}$ occur on the $\\text{Thylakoid}$ membranes, which are stacked together to form $\\text{Grana}$ (singular: $\\text{Granum}$)."
+    },
+    {
+      "id": "BIO_2007_29",
+      "text": "A physical trait that is expressed only when two copies of the controlling allele are present is described as:",
+      "image": "[Punnett square illustrating a recessive trait]",
+      "options": [
+        "Dominant",
+        "Homozygous",
+        "Recessive",
+        "Heterozygous"
+      ],
+      "answer": "Recessive",
+      "explanation": "A $\\text{Recessive}$ allele is masked by a $\\text{Dominant}$ allele in a $\\text{Heterozygote}$ ($\text{Aa}$), and thus the trait it controls is only expressed in the $\\text{Homozygous}$ recessive condition ($\text{aa}$)."
+    },
+    {
+      "id": "BIO_2007_30",
+      "text": "The structure in the human female reproductive system where $\\text{Fertilization}$ typically occurs is the:",
+      "image": "[Diagram of the female reproductive system highlighting the Fallopian Tube]",
+      "options": [
+        "Ovary",
+        "Uterus",
+        "Vagina",
+        "Fallopian $\\text{Tube}$ (Oviduct)"
+      ],
+      "answer": "Fallopian $\\text{Tube}$ (Oviduct)",
+      "explanation": "Fertilization, the fusion of the sperm and egg, normally takes place in the $\\text{Ampulla}$ region of the $\\text{Fallopian}$ $\\text{Tube}$."
+    },
+    {
+      "id": "BIO_2007_31",
+      "text": "The major excretory organ of an $\\text{Insect}$ is the:",
+      "image": "[Diagram of an insect abdomen showing Malpighian Tubules]",
+      "options": [
+        "Nephridium",
+        "Flame cell",
+        "Malpighian $\\text{Tubule}$",
+        "Kidney"
+      ],
+      "answer": "Malpighian $\\text{Tubule}$",
+      "explanation": "$\\text{Insects}$ (Arthropods) use a system of $\\text{Malpighian}$ $\\text{Tubules}$ to remove nitrogenous waste, primarily in the form of $\\text{Uric}$ $\\text{Acid}$."
+    },
+    {
+      "id": "BIO_2007_32",
+      "text": "Which enzyme converts $\\text{Sucrose}$ into $\\text{Glucose}$ and $\\text{Fructose}$?",
+      "image": "[Chemical equation of the hydrolysis of Sucrose]",
+      "options": [
+        "Amylase",
+        "Lipase",
+        "Sucrase",
+        "Maltase"
+      ],
+      "answer": "Sucrase",
+      "explanation": "$\\text{Sucrase}$ is the specific enzyme that catalyzes the hydrolysis (breakdown) of the disaccharide $\\text{Sucrose}$ into the two monosaccharides, $\\text{Glucose}$ and $\\text{Fructose}$."
+    },
+    {
+      "id": "BIO_2007_33",
+      "text": "The loss of responsiveness of a living organism to an external stimulus is called:",
+      "image": "",
+      "options": [
+        "Reflex action",
+        "Habituation",
+        "Conditioned reflex",
+        "Innate behaviour"
+      ],
+      "answer": "Habituation",
+      "explanation": "$\\text{Habituation}$ is a form of simple learning where an organism decreases or ceases its response to a repetitive, harmless stimulus."
+    },
+    {
+      "id": "BIO_2007_34",
+      "text": "The primary function of $\\text{Adrenaline}$ (Epinephrine) is to:",
+      "image": "[Diagram of the Adrenal gland and its effect on the body]",
+      "options": [
+        "Regulate blood sugar levels",
+        "Control the menstrual cycle",
+        "Prepare the body for 'fight or flight'",
+        "Stimulate growth"
+      ],
+      "answer": "Prepare the body for 'fight or flight'",
+      "explanation": "$\\text{Adrenaline}$ is a hormone released from the $\\text{Adrenal}$ $\\text{Medulla}$ in response to stress. It increases heart rate, breathing rate, and blood glucose, preparing the body for immediate action."
+    },
+    {
+      "id": "BIO_2007_35",
+      "text": "Which of these is the most significant factor affecting the distribution of organisms in an aquatic habitat?",
+      "image": "[Illustration of stratification in an aquatic environment]",
+      "options": [
+        "Substrate type",
+        "Light penetration",
+        "Wind speed",
+        "Atmospheric pressure"
+      ],
+      "answer": "Light penetration",
+      "explanation": "$\\text{Light}$ $\\text{Penetration}$ determines the depth at which $\\text{Photosynthesis}$ can occur (the photic zone), thus controlling the distribution of producers (algae/plants) and, consequently, the entire aquatic food web."
+    },
+    {
+      "id": "BIO_2007_36",
+      "text": "The part of the human central nervous system responsible for consciousness, memory, and voluntary action is the:",
+      "image": "[Diagram of the human brain highlighting the Cerebrum]",
+      "options": [
+        "Spinal cord",
+        "Cerebellum",
+        "Cerebrum",
+        "Medulla $\\text{Oblongata}$"
+      ],
+      "answer": "Cerebrum",
+      "explanation": "The $\\text{Cerebrum}$ is the largest part of the brain, associated with higher brain functions such as $\\text{Thought}$, $\\text{Action}$, $\\text{Sensation}$, and $\\text{Voluntary}$ movement."
+    },
+    {
+      "id": "BIO_2007_37",
+      "text": "A plant with $\\text{Parallel}$ leaf venation, $\\text{Fibrous}$ roots, and $\\text{Flower}$ parts in multiples of three belongs to the class:",
+      "image": "[Diagram comparing Monocot and Dicot features]",
+      "options": [
+        "Pteridophyta",
+        "Dicotyledonae",
+        "Monocotyledonae",
+        "Gymnospermae"
+      ],
+      "answer": "Monocotyledonae",
+      "explanation": "These characteristics ($\text{Parallel}$ $\\text{Venation}$, $\\text{Fibrous}$ $\\text{Root}$ $\\text{System}$, $\\text{Flower}$ parts in threes) are the key distinguishing features of $\\text{Monocots}$."
+    },
+    {
+      "id": "BIO_2007_38",
+      "text": "Which $\\text{Adaptation}$ allows a $\\text{Snail}$ to survive periods of intense heat and drought?",
+      "image": "",
+      "options": [
+        "Aestivation",
+        "Hibernation",
+        "Migration",
+        "Camouflage"
+      ],
+      "answer": "Aestivation",
+      "explanation": "$\\text{Aestivation}$ is a state of dormancy or reduced metabolic activity during hot, dry periods, allowing the $\\text{Snail}$ to conserve $\\text{Water}$."
+    },
+    {
+      "id": "BIO_2007_39",
+      "text": "The blood cells that engulf and destroy bacteria are the:",
+      "image": "[Image illustrating Phagocytosis by a Macrophage (a type of white blood cell)]",
+      "options": [
+        "Lymphocytes",
+        "Erythrocytes",
+        "Phagocytes",
+        "Platelets"
+      ],
+      "answer": "Phagocytes",
+      "explanation": "$\\text{Phagocytes}$ are a type of $\\text{Leucocyte}$ (white blood cell) that protect the body by ingesting (engulfing) harmful foreign particles, bacteria, and dead cells through the process of $\\text{Phagocytosis}$."
+    },
+    {
+      "id": "BIO_2007_40",
+      "text": "Which of these is a likely result of $\\text{Eutrophication}$ in a freshwater ecosystem?",
+      "image": "[Diagram illustrating the Eutrophication process]",
+      "options": [
+        "Increased oxygen concentration",
+        "Decreased primary productivity",
+        "Death of fish",
+        "Improved water clarity"
+      ],
+      "answer": "Death of fish",
+      "explanation": "$\\text{Eutrophication}$ (excessive nutrient enrichment) leads to algal blooms. When these algae die and decompose, the process consumes vast amounts of $\\text{Dissolved}$ $\\text{Oxygen}$, leading to $\\text{Hypoxia}$ (low oxygen) and the $\\text{Death}$ of fish and other aquatic life."
+    }
+  ]

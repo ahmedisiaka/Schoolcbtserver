@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM161",
+        "text": "The $\\textbf{Money Market}$ primarily facilitates the raising of $\\textbf{Short-Term}$ funds through the trading of highly liquid $\\textbf{Securities}$ like Treasury $\\textbf{Bills}$.",
+        "image": "",
+        "options": [
+            "Long-Term",
+            "Intermediate",
+            "Short-Term",
+            "Capital"
+        ],
+        "answer": "Short-Term",
+        "explanation": "The money market deals with debt instruments that mature in less than a year, providing liquidity to financial institutions."
+    },
+    {
+        "id": "COM162",
+        "text": "In $\\textbf{Market Segmentation}$, $\\textbf{Behavioral}$ segmentation divides consumers based on their knowledge, attitudes, uses, or $\\textbf{Responses}$ to a $\\textbf{Product}$.",
+        "image": "",
+        "options": [
+            "Demographic",
+            "Geographic",
+            "Psychographic",
+            "Behavioral"
+        ],
+        "answer": "Behavioral",
+        "explanation": "Examples include loyalty status, user status, and benefits sought by the consumer."
+    },
+    {
+        "id": "COM163",
+        "text": "The $\\textbf{Marketing Myopia}$ concept warns businesses against focusing too narrowly on the $\\textbf{Product}$ and ignoring the underlying $\\textbf{Customer Need}$.",
+        "image": "",
+        "options": [
+            "Sales Efficiency",
+            "Customer Need",
+            "Product Price",
+            "Distribution Channel"
+        ],
+        "answer": "Customer Need",
+        "explanation": "A company should define its mission in terms of satisfying basic customer needs rather than just selling a particular product."
+    },
+    {
+        "id": "COM164",
+        "text": "A $\\textbf{Non-Recourse}$ debt is primarily secured only by the $\\textbf{Collateral}$, limiting the lender's claim to that asset upon borrower $\\textbf{Default}$.",
+        "image": "",
+        "options": [
+            "Personal Guarantee",
+            "Collateral",
+            "Future Earnings",
+            "All Business Assets"
+        ],
+        "answer": "Collateral",
+        "explanation": "This type of debt offers greater protection to the borrower's other assets."
+    },
+    {
+        "id": "COM165",
+        "text": "The $\\textbf{Balance of Payments}$ ($\\,\\textbf{BOP}$) always $\\textbf{Equals Zero}$ because every international $\\textbf{Transaction}$ involves a $\\textbf{Debit}$ and an equal $\\textbf{Credit}$.",
+        "image": "",
+        "options": [
+            "Equals the Trade Balance",
+            "Is always positive",
+            "Equals Zero",
+            "Equals the Current Account"
+        ],
+        "answer": "Equals Zero",
+        "explanation": "In an accounting sense, the BOP must always balance; a deficit in the Current Account is balanced by a surplus in the Capital/Financial Account."
+    },
+    {
+        "id": "COM166",
+        "text": "The $\\textbf{Tariff}$ imposed on imported goods is classified as a $\\textbf{Tax}$ and is a $\\textbf{Revenue}$ source for the importing $\\textbf{Government}$.",
+        "image": "",
+        "options": [
+            "Subsidy",
+            "Quota",
+            "Tax",
+            "Embargo"
+        ],
+        "answer": "Tax",
+        "explanation": "Tariffs increase the cost of imported goods, making domestic products more competitive."
+    },
+    {
+        "id": "COM167",
+        "text": "In the $\\textbf{Supply Chain}$, the concept of $\\textbf{Intermodal Transport}$ aims to achieve $\\textbf{Efficiency}$ by minimizing the handling of $\\textbf{Goods}$ when transferring between $\\textbf{Modes}$.",
+        "image": "",
+        "options": [
+            "Maximize Handling",
+            "Efficiency",
+            "Standardize Price",
+            "Limit Modes"
+        ],
+        "answer": "Efficiency",
+        "explanation": "This is typically achieved through the use of standardized containers that move seamlessly between trucks, trains, and ships."
+    },
+    {
+        "id": "COM168",
+        "text": "The $\\textbf{Limited Liability Company}$ ($\\,\\textbf{LLC}$) structure is attractive because it offers the liability $\\textbf{Protection}$ of a $\\textbf{Corporation}$ with the $\\textbf{Pass-Through}$ $\\textbf{Taxation}$ of a $\\textbf{Partnership}$.",
+        "image": "",
+        "options": [
+            "Double Taxation",
+            "Corporate Tax",
+            "Pass-Through Taxation",
+            "No Taxation"
+        ],
+        "answer": "Pass-Through Taxation",
+        "explanation": "The business itself is not taxed; profits/losses are reported directly on the owners' personal tax returns."
+    },
+    {
+        "id": "COM169",
+        "text": "The $\\textbf{Economic Union}$ is the most $\\textbf{Integrated}$ form of trade bloc, requiring full coordination of $\\textbf{Economic}$ and $\\textbf{Fiscal}$ $\\textbf{Policies}$.",
+        "image": "",
+        "options": [
+            "Free Trade Area",
+            "Customs Union",
+            "Common Market",
+            "Economic Union"
+        ],
+        "answer": "Economic Union",
+        "explanation": "The European Union (EU) is the best example, including a common currency (Euro) and coordinated monetary policy."
+    },
+    {
+        "id": "COM170",
+        "text": "In $\\textbf{Commercial Law}$, a $\\textbf{Warranty}$ is a contractual assurance given by the $\\textbf{Seller}$ regarding the $\\textbf{Quality}$ or performance of the $\\textbf{Goods}$.",
+        "image": "",
+        "options": [
+            "Buyer",
+            "Carrier",
+            "Seller",
+            "Manufacturer"
+        ],
+        "answer": "Seller",
+        "explanation": "Warranties can be express (stated) or implied (assumed by law)."
+    },
+    {
+        "id": "COM171",
+        "text": "The $\\textbf{Bull Market}$ encourages the issuance of new $\\textbf{Stocks}$ ($\textbf{IPOs}$) as companies seek to capitalize on $\\textbf{High}$ investor $\\textbf{Optimism}$.",
+        "image": "",
+        "options": [
+            "Bonds",
+            "Loans",
+            "Stocks",
+            "Warrants"
+        ],
+        "answer": "Stocks",
+        "explanation": "IPOs are typically timed during bull markets to maximize the price at which the shares are sold."
+    },
+    {
+        "id": "COM172",
+        "text": "The $\\textbf{Product Life Cycle}$ stage where sales growth $\\textbf{Slows}$, competition peaks, and marketing shifts to promoting $\\textbf{Brand Loyalty}$ is $\\textbf{Maturity}$.",
+        "image": "",
+        "options": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Decline"
+        ],
+        "answer": "Maturity",
+        "explanation": "During maturity, profit margins often decline due to intense price competition."
+    },
+    {
+        "id": "COM173",
+        "text": "The $\\textbf{Trade Secret}$ protection is advantageous because it grants $\\textbf{Indefinite}$ $\\textbf{Protection}$ as long as the information remains $\\textbf{Confidential}$.",
+        "image": "",
+        "options": [
+            "20 Years",
+            "10 Years",
+            "Indefinite",
+            "Life of Author"
+        ],
+        "answer": "Indefinite",
+        "explanation": "Unlike a patent, which expires, a trade secret can last forever (e.g., the Coca-Cola formula)."
+    },
+    {
+        "id": "COM174",
+        "text": "The $\\textbf{Value Chain}$ primary activity of $\\textbf{Outbound Logistics}$ involves storing $\\textbf{Finished Goods}$ and moving them from the $\\textbf{Plant}$ to the $\\textbf{Customer}$.",
+        "image": "",
+        "options": [
+            "Inbound Logistics",
+            "Operations",
+            "Outbound Logistics",
+            "Service"
+        ],
+        "answer": "Outbound Logistics",
+        "explanation": "This includes warehousing, order fulfillment, and transportation of the final product."
+    },
+    {
+        "id": "COM175",
+        "text": "A $\\textbf{Limited Partner}$ in an $\\textbf{LP}$ ($\textbf{Limited Partnership}$) typically cannot participate in the $\\textbf{Day-to-Day Management}$ of the business without risking $\\textbf{Unlimited Liability}$.",
+        "image": "",
+        "options": [
+            "Financing",
+            "Consulting",
+            "Day-to-Day Management",
+            "Voting on Strategy"
+        ],
+        "answer": "Day-to-Day Management",
+        "explanation": "Limited partners are passive investors who maintain limited liability as long as they don't actively manage the partnership."
+    },
+    {
+        "id": "COM176",
+        "text": "The $\\textbf{Quaternary Sector}$ activities (R\\&D, Consulting) are often highly concentrated in $\\textbf{Global Cities}$ ($\textbf{New York}$, $\textbf{London}$) due to access to $\\textbf{Skilled Labor}$.",
+        "image": "",
+        "options": [
+            "Cheap Land",
+            "Raw Materials",
+            "Skilled Labor",
+            "Low Taxes"
+        ],
+        "answer": "Skilled Labor",
+        "explanation": "These knowledge-intensive services rely heavily on highly educated human capital."
+    },
+    {
+        "id": "COM177",
+        "text": "The $\\textbf{World Trade Organization}$ ($\\,\\textbf{WTO}$) operates on the principle of $\\textbf{Non-Discrimination}$, requiring members to treat all trading partners equally ($\textbf{Most-Favored-Nation}$ treatment).",
+        "image": "",
+        "options": [
+            "Price Setting",
+            "Unilateral Action",
+            "Non-Discrimination",
+            "Central Planning"
+        ],
+        "answer": "Non-Discrimination",
+        "explanation": "The Most-Favored-Nation (MFN) clause is central to the WTO's goal of fostering free trade."
+    },
+    {
+        "id": "COM178",
+        "text": "The $\\textbf{Capital Market}$ allows borrowers to access a larger pool of $\\textbf{Funds}$ from diverse $\\textbf{Investors}$ for $\\textbf{Long-Term}$ needs.",
+        "image": "",
+        "options": [
+            "Local Banks Only",
+            "Short-Term",
+            "Long-Term",
+            "Immediate"
+        ],
+        "answer": "Long-Term",
+        "explanation": "By offering stocks and bonds, companies can secure financing that national banks alone often cannot provide."
+    },
+    {
+        "id": "COM179",
+        "text": "In $\\textbf{Commercial Law}$, an $\\textbf{Offer}$ must be clearly communicated and contain definite $\\textbf{Terms}$ for a contract to be $\\textbf{Valid}$.",
+        "image": "",
+        "options": [
+            "Vague",
+            "Implied",
+            "Terms",
+            "Unconditional"
+        ],
+        "answer": "Terms",
+        "explanation": "The terms must be certain and complete enough for a court to enforce the agreement."
+    },
+    {
+        "id": "COM180",
+        "text": "The $\\textbf{Psychographic}$ variable of $\\textbf{Values}$ reflects a consumer's beliefs about what is fundamentally $\\textbf{Right}$ or $\\textbf{Wrong}$ and heavily influences ethical purchasing $\\textbf{Decisions}$.",
+        "image": "",
+        "options": [
+            "Demographics",
+            "Geography",
+            "Values",
+            "Age"
+        ],
+        "answer": "Values",
+        "explanation": "Targeting consumers based on shared values (e.g., sustainability, social justice) is a powerful modern marketing tool."
+    },
+    {
+        "id": "COM181",
+        "text": "The $\\textbf{Economic Cycle}$ $\\textbf{Trough}$ is the lowest point of the $\\textbf{Contraction}$ phase, where output and employment $\\textbf{Bottom Out}$ before recovery begins.",
+        "image": "",
+        "options": [
+            "Peak",
+            "Expansion",
+            "Trough",
+            "Stagnation"
+        ],
+        "answer": "Trough",
+        "explanation": "The trough marks the end of the recession and the beginning of the expansion/recovery phase."
+    },
+    {
+        "id": "COM182",
+        "text": "The $\\textbf{Trade Discount}$ is a reduction from the list price that is $\\textbf{Not Recorded}$ by either the buyer or the $\\textbf{Seller}$ as a separate $\\textbf{Transaction}$.",
+        "image": "",
+        "options": [
+            "Separately Recorded",
+            "Ignored",
+            "Not Recorded",
+            "Expensed"
+        ],
+        "answer": "Not Recorded",
+        "explanation": "The actual selling price (list price minus the trade discount) is the only amount recorded."
+    },
+    {
+        "id": "COM183",
+        "text": "The $\\textbf{Law of Agency}$ is founded on the $\\textbf{Fiduciary Duty}$ that the $\\textbf{Agent}$ owes to the $\\textbf{Principal}$, requiring the agent to act in the principal's $\\textbf{Best Interest}$.",
+        "image": "",
+        "options": [
+            "Third Party",
+            "Customer",
+            "Fiduciary Duty",
+            "Contractual Obligation"
+        ],
+        "answer": "Fiduciary Duty",
+        "explanation": "A fiduciary duty is the highest legal standard of care."
+    },
+    {
+        "id": "COM184",
+        "text": "The $\\textbf{Product Mix}$ dimension of $\\textbf{Width}$ refers to the total number of $\\textbf{Different Product Lines}$ a company $\\textbf{Carries}$.",
+        "image": "",
+        "options": [
+            "Length",
+            "Depth",
+            "Width",
+            "Consistency"
+        ],
+        "answer": "Width",
+        "explanation": "Width indicates how diversified the company is (e.g., General Electric's wide mix of appliances, power, and aviation)."
+    },
+    {
+        "id": "COM185",
+        "text": "A $\\textbf{Commercial Bank}$ primarily serves as a $\\textbf{Depositary}$ institution, accepting deposits and issuing $\\textbf{Loans}$ to businesses and $\\textbf{Individuals}$.",
+        "image": "",
+        "options": [
+            "Investment Firm",
+            "Central Bank",
+            "Commercial Bank",
+            "Insurance Company"
+        ],
+        "answer": "Commercial Bank",
+        "explanation": "Commercial banks are the backbone of the financial system, facilitating credit and payment services."
+    },
+    {
+        "id": "COM186",
+        "text": "The $\\textbf{Breach of Warranty}$ in a sales contract can lead to the buyer recovering $\\textbf{Damages}$ for the difference between the goods as $\\textbf{Warranted}$ and the goods as $\\textbf{Delivered}$.",
+        "image": "",
+        "options": [
+            "Specific Performance",
+            "Rescission",
+            "Damages",
+            "Injunction"
+        ],
+        "answer": "Damages",
+        "explanation": "Monetary compensation is the standard remedy for breach of warranty."
+    },
+    {
+        "id": "COM187",
+        "text": "The $\\textbf{Price Elasticity of Demand}$ is calculated by dividing the percentage change in quantity demanded by the percentage change in $\\textbf{Price}$.",
+        "image": "",
+        "options": [
+            "Cost",
+            "Supply",
+            "Price",
+            "Income"
+        ],
+        "answer": "Price",
+        "explanation": "It determines how sensitive consumer purchases are to price fluctuations."
+    },
+    {
+        "id": "COM188",
+        "text": "The $\\textbf{International Monetary Fund}$ ($\\,\\textbf{IMF}$) works to stabilize global $\\textbf{Exchange Rates}$ and provide $\\textbf{Financial Assistance}$ to countries facing $\\textbf{Balance of Payments}$ difficulties.",
+        "image": "",
+        "options": [
+            "Trade Negotiations",
+            "Infrastructure Loans",
+            "Financial Assistance",
+            "Humanitarian Aid"
+        ],
+        "answer": "Financial Assistance",
+        "explanation": "The IMF provides short-term liquidity to prevent global financial crises."
+    },
+    {
+        "id": "COM189",
+        "text": "The $\\textbf{Trade-Related Investment Measures}$ ($\\,\\textbf{TRIMS}$) agreement under the $\\textbf{WTO}$ governs regulations that a country imposes on foreign $\\textbf{Investors}$.",
+        "image": "",
+        "options": [
+            "Goods",
+            "Services",
+            "Investors",
+            "Intellectual Property"
+        ],
+        "answer": "Investors",
+        "explanation": "TRIMS prohibits requirements that unfairly restrict foreign investment, such as local content requirements."
+    },
+    {
+        "id": "COM190",
+        "text": "The $\\textbf{Limited Liability Partnership}$ ($\\,\\textbf{LLP}$) is similar to a general partnership, but shields partners from personal $\\textbf{Liability}$ for $\\textbf{Debts}$ and $\\textbf{Obligations}$ of the partnership.",
+        "image": "",
+        "options": [
+            "Taxes",
+            "Management",
+            "Liability",
+            "Assets"
+        ],
+        "answer": "Liability",
+        "explanation": "This distinction is essential for understanding the legal risks assumed by partners."
+    },
+    {
+        "id": "COM191",
+        "text": "$\\textbf{Crowdfunding}$ is a form of $\\textbf{Financing}$ where funds are solicited from a large number of $\\textbf{People}$, typically through an $\\textbf{Online Platform}$.",
+        "image": "",
+        "options": [
+            "Venture Capital",
+            "Angel Investing",
+            "Crowdfunding",
+            "Bank Loans"
+        ],
+        "answer": "Crowdfunding",
+        "explanation": "It allows entrepreneurs to bypass traditional financial intermediaries, often used for product launches or social causes."
+    },
+    {
+        "id": "COM192",
+        "text": "The $\\textbf{Promotional Mix}$ element $\\textbf{Advertising}$ is a paid, non-personal $\\textbf{Communication}$ used to promote ideas, goods, or $\\textbf{Services}$.",
+        "image": "",
+        "options": [
+            "Personal Selling",
+            "Public Relations",
+            "Advertising",
+            "Sales Promotion"
+        ],
+        "answer": "Advertising",
+        "explanation": "Advertising is controlled by the sponsor and disseminated through mass media."
+    },
+    {
+        "id": "COM193",
+        "text": "The $\\textbf{Secondary Sector}$'s main economic activity is transforming $\\textbf{Raw Materials}$ into $\\textbf{Finished Products}$ (manufacturing).",
+        "image": "",
+        "options": [
+            "Extraction",
+            "Retail",
+            "Manufacturing",
+            "Consulting"
+        ],
+        "answer": "Manufacturing",
+        "explanation": "This sector drives industrialization and creates tangible goods."
+    },
+    {
+        "id": "COM194",
+        "text": "A $\\textbf{Retailer}$ adds $\\textbf{Utility}$ to a product, primarily $\\textbf{Place Utility}$ (making the product $\\textbf{Available}$) and $\\textbf{Possession Utility}$ (facilitating $\\textbf{Ownership}$).",
+        "image": "",
+        "options": [
+            "Form Utility",
+            "Time Utility",
+            "Place Utility",
+            "Production Utility"
+        ],
+        "answer": "Place Utility",
+        "explanation": "Place utility is created by having the product where the customer needs it."
+    },
+    {
+        "id": "COM195",
+        "text": "The $\\textbf{Cash Flow Statement}$ shows the sources and uses of $\\textbf{Cash}$ over a period, distinguishing between operating, investing, and $\\textbf{Financing}$ $\\textbf{Activities}$.",
+        "image": "",
+        "options": [
+            "Budgeting",
+            "Forecasting",
+            "Financing",
+            "Auditing"
+        ],
+        "answer": "Financing",
+        "explanation": "The Cash Flow Statement is a critical tool for assessing a company's liquidity and solvency."
+    },
+    {
+        "id": "COM196",
+        "text": "The $\\textbf{Trade Union}$'s primary function is to engage in $\\textbf{Collective Bargaining}$ with employers over $\\textbf{Wages}$ and $\\textbf{Working Conditions}$.",
+        "image": "",
+        "options": [
+            "Individual Negotiation",
+            "Stock Trading",
+            "Collective Bargaining",
+            "Setting Prices"
+        ],
+        "answer": "Collective Bargaining",
+        "explanation": "This mechanism gives workers greater leverage than they would have individually."
+    },
+    {
+        "id": "COM197",
+        "text": "The $\\textbf{Product Mix}$ dimension of $\\textbf{Depth}$ refers to the total number of $\\textbf{Items}$ within a specific $\\textbf{Product Line}$.",
+        "image": "",
+        "options": [
+            "Width",
+            "Length",
+            "Depth",
+            "Consistency"
+        ],
+        "answer": "Depth",
+        "explanation": "For example, the depth of a soft drink line would be the number of different flavors and sizes offered."
+    },
+    {
+        "id": "COM198",
+        "text": "The $\\textbf{Incoterm}$ $\\textbf{DAP}$ ($\textbf{Delivered At Place}$) means the seller is responsible for the goods until they are placed at the $\\textbf{Buyer}$'s disposal at the agreed $\\textbf{Destination}$.",
+        "image": "",
+        "options": [
+            "FOB",
+            "EXW",
+            "DAP",
+            "CIF"
+        ],
+        "answer": "DAP",
+        "explanation": "Under DAP, the buyer is only responsible for import clearance and any associated duties or taxes."
+    },
+    {
+        "id": "COM199",
+        "text": "The $\\textbf{Monopolistic Competition}$ market is characterized by a high degree of $\\textbf{Non-Price Competition}$, such as $\\textbf{Advertising}$ and $\\textbf{Branding}$.",
+        "image": "",
+        "options": [
+            "Pure Price Competition",
+            "Government Regulation",
+            "Non-Price Competition",
+            "Zero Advertising"
+        ],
+        "answer": "Non-Price Competition",
+        "explanation": "Firms must rely on differentiation rather than just price cuts to attract customers."
+    },
+    {
+        "id": "COM200",
+        "text": "The $\\textbf{Financial Market}$ is divided into the $\\textbf{Capital Market}$ (long-term funds) and the $\\textbf{Money Market}$ ($\textbf{Short-Term}$ $\\textbf{Funds}$).",
+        "image": "",
+        "options": [
+            "Equity",
+            "Bond",
+            "Short-Term",
+            "Long-Term"
+        ],
+        "answer": "Short-Term",
+        "explanation": "The money market provides quick access to funds for liquidity needs."
+    }
+]

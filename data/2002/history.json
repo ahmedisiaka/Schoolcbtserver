@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Olmec}$ civilization, often considered the 'mother culture' of Mesoamerica, is famous for carving colossal heads from:",
+        "image": "",
+        "options": [
+            "Limestone",
+            "Basalt",
+            "Obsidian",
+            "Jade"
+        ],
+        "answer": "Basalt",
+        "explanation": "These massive stone heads, dating back to at least 900 BC, were carved from single basalt boulders."
+    },
+    {
+        "id": "H02",
+        "text": "Which ancient city was home to the $\\textbf{Ishtar Gate}$, a magnificent blue-tiled structure dedicated to the goddess Ishtar?",
+        "image": "",
+        "options": [
+            "Nineveh",
+            "Babylon",
+            "Ur",
+            "Persepolis"
+        ],
+        "answer": "Babylon",
+        "explanation": "Constructed around 575 BC by King Nebuchadnezzar II, it was the eighth gate to the inner city of Babylon."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of Salamis}$ was a decisive naval victory for the Greeks against which empire?",
+        "image": "",
+        "options": [
+            "The Roman Empire",
+            "The Persian Empire",
+            "The Macedonian Empire",
+            "The Egyptian Empire"
+        ],
+        "answer": "The Persian Empire",
+        "explanation": "Fought in 480 BC, the Greek fleet defeated the much larger Persian navy, halting Xerxes' invasion."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the Roman Emperor who supposedly $\\textbf{played the fiddle}$ (or lyre) while Rome burned?",
+        "image": "",
+        "options": [
+            "Caligula",
+            "Nero",
+            "Tiberius",
+            "Commodus"
+        ],
+        "answer": "Nero",
+        "explanation": "While the fiddle story is likely apocryphal, Nero was emperor during the Great Fire of Rome in 64 AD."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Hanseatic League}$ was a powerful medieval commercial and defensive confederation of merchant guilds and market towns in:",
+        "image": "",
+        "options": [
+            "Southern Europe (Italy)",
+            "Northern Europe (Germany/Baltic)",
+            "Western Europe (France/Spain)",
+            "Eastern Europe (Russia)"
+        ],
+        "answer": "Northern Europe (Germany/Baltic)",
+        "explanation": "It dominated Baltic maritime trade for three centuries, from the late 1100s to the mid-1400s."
+    },
+    {
+        "id": "H06",
+        "text": "Which explorer is credited with discovering the $\\textbf{Pacific Ocean}$ after crossing the Isthmus of Panama?",
+        "image": "",
+        "options": [
+            "Hernán Cortés",
+            "Vasco Núñez de Balboa",
+            "Francisco Pizarro",
+            "Juan Ponce de León"
+        ],
+        "answer": "Vasco Núñez de Balboa",
+        "explanation": "In 1513, Balboa became the first European to lead an expedition to have seen or reached the Pacific from the New World."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Council of Trent}$ was a major event in the history of the Catholic Church, responding to:",
+        "image": "",
+        "options": [
+            "The Great Schism",
+            "The Protestant Reformation",
+            "The Crusades",
+            "The French Revolution"
+        ],
+        "answer": "The Protestant Reformation",
+        "explanation": "Held between 1545 and 1563, it was the embodiment of the Counter-Reformation."
+    },
+    {
+        "id": "H08",
+        "text": "Who was the $\\textbf{Lord Protector}$ of the Commonwealth of England, Scotland, and Ireland after the execution of King Charles I?",
+        "image": "",
+        "options": [
+            "Thomas Fairfax",
+            "Oliver Cromwell",
+            "Richard Cromwell",
+            "Charles II"
+        ],
+        "answer": "Oliver Cromwell",
+        "explanation": "Cromwell ruled England as a republic (Commonwealth) from 1653 until his death in 1658."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Glorious Revolution}$ of 1688 resulted in the overthrow of which English King?",
+        "image": "",
+        "options": [
+            "Charles I",
+            "James II",
+            "Charles II",
+            "James I"
+        ],
+        "answer": "James II",
+        "explanation": "He was replaced by his daughter Mary II and her husband, William III of Orange."
+    },
+    {
+        "id": "H10",
+        "text": "Which Enlightenment philosopher wrote $\\textbf{Leviathan}$, arguing for a strong central authority to avoid chaos?",
+        "image": "",
+        "options": [
+            "John Locke",
+            "Thomas Hobbes",
+            "Jean-Jacques Rousseau",
+            "Montesquieu"
+        ],
+        "answer": "Thomas Hobbes",
+        "explanation": "Hobbes believed that without a strong sovereign, life would be 'nasty, brutish, and short'."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Seven Years' War}$ (1756–1763) ended with the Treaty of Paris, which forced France to cede much of its North American territory to:",
+        "image": "",
+        "options": [
+            "Spain",
+            "Great Britain",
+            "The United States",
+            "The Netherlands"
+        ],
+        "answer": "Great Britain",
+        "explanation": "The treaty marked the beginning of an era of British dominance outside Europe."
+    },
+    {
+        "id": "H12",
+        "text": "Who invented the $\\textbf{Cotton Gin}$ in 1793, which inadvertently revitalized slavery in the American South?",
+        "image": "",
+        "options": [
+            "Samuel Slater",
+            "Eli Whitney",
+            "Cyrus McCormick",
+            "Robert Fulton"
+        ],
+        "answer": "Eli Whitney",
+        "explanation": "The machine quickly and easily separated cotton fibers from their seeds, increasing productivity and demand for labor."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Battle of Austerlitz}$, also known as the Battle of the Three Emperors, was a major victory for:",
+        "image": "",
+        "options": [
+            "The Duke of Wellington",
+            "Napoleon Bonaparte",
+            "Tsar Alexander I",
+            "Emperor Francis II"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Fought in 1805, it is considered one of Napoleon's greatest victories, defeating the Russian and Austrian empires."
+    },
+    {
+        "id": "H14",
+        "text": "Which US President is associated with the $\\textbf{Monroe Doctrine}$?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "James Madison",
+            "James Monroe",
+            "John Quincy Adams"
+        ],
+        "answer": "James Monroe",
+        "explanation": "Though largely drafted by John Quincy Adams, it was introduced during Monroe's presidency in 1823."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Trail of Tears}$ refers to the forced relocation of Native American nations following the passage of which act?",
+        "image": "",
+        "options": [
+            "The Dawes Act",
+            "The Indian Removal Act",
+            "The Homestead Act",
+            "The Civil Rights Act"
+        ],
+        "answer": "The Indian Removal Act",
+        "explanation": "Signed by Andrew Jackson in 1830, it led to the forced migration of thousands of Native Americans to the West."
+    },
+    {
+        "id": "H16",
+        "text": "Who wrote the novel $\\textbf{Uncle Tom's Cabin}$, which intensified sectional conflict over slavery?",
+        "image": "",
+        "options": [
+            "Harriet Tubman",
+            "Frederick Douglass",
+            "Harriet Beecher Stowe",
+            "Mark Twain"
+        ],
+        "answer": "Harriet Beecher Stowe",
+        "explanation": "Published in 1852, the novel depicted the harsh reality of slavery and fueled the abolitionist movement."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Charge of the Light Brigade}$ took place during which war?",
+        "image": "",
+        "options": [
+            "The Napoleonic Wars",
+            "The Crimean War",
+            "The Boer War",
+            "World War I"
+        ],
+        "answer": "The Crimean War",
+        "explanation": "The disastrous British cavalry charge occurred during the Battle of Balaclava in 1854."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Meiji Restoration}$ in Japan (1868) led to the overthrow of the:",
+        "image": "",
+        "options": [
+            "Emperor",
+            "Tokugawa Shogunate",
+            "Samurai Class",
+            "Mongol Invaders"
+        ],
+        "answer": "Tokugawa Shogunate",
+        "explanation": "It restored imperial rule to Japan and accelerated industrialization and modernization."
+    },
+    {
+        "id": "H19",
+        "text": "Who patented the $\\textbf{Telephone}$ in 1876?",
+        "image": "",
+        "options": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell",
+        "explanation": "Bell was awarded the first US patent for the telephone, revolutionizing communication."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Berlin Conference}$ of 1884–1885 regulated European colonization and trade in:",
+        "image": "",
+        "options": [
+            "Asia",
+            "The Americas",
+            "Africa",
+            "The Middle East"
+        ],
+        "answer": "Africa",
+        "explanation": "Also known as the Scramble for Africa, it formalized the division of the continent among European powers."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Boxer Rebellion}$ was an anti-imperialist uprising in China at the turn of the 20th century against:",
+        "image": "",
+        "options": [
+            "The Qing Dynasty",
+            "Foreigners and Christians",
+            "The Communist Party",
+            "The Japanese"
+        ],
+        "answer": "Foreigners and Christians",
+        "explanation": "The 'Boxers' were a secret society that fought to expel foreign influence from China."
+    },
+    {
+        "id": "H22",
+        "text": "Which ship's sinking in 1898 precipitated the $\\textbf{Spanish-American War}$?",
+        "image": "",
+        "options": [
+            "The USS Arizona",
+            "The USS Maine",
+            "The RMS Lusitania",
+            "The HMS Dreadnought"
+        ],
+        "answer": "The USS Maine",
+        "explanation": "The explosion of the Maine in Havana Harbor was blamed on Spain, fueling public support for war."
+    },
+    {
+        "id": "H23",
+        "text": "Who was the first person to fly solo across the Atlantic Ocean?",
+        "image": "",
+        "options": [
+            "Amelia Earhart",
+            "Charles Lindbergh",
+            "Howard Hughes",
+            "Orville Wright"
+        ],
+        "answer": "Charles Lindbergh",
+        "explanation": "Lindbergh made the nonstop flight from New York to Paris in 1927 in the *Spirit of St. Louis*."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Dust Bowl}$ was a severe environmental disaster in the 1930s affecting which region?",
+        "image": "",
+        "options": [
+            "The American Midwest/Great Plains",
+            "The Amazon Rainforest",
+            "The Sahara Desert",
+            "The Australian Outback"
+        ],
+        "answer": "The American Midwest/Great Plains",
+        "explanation": "Severe drought and poor farming practices led to massive dust storms that devastated agriculture."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Battle of Stalingrad}$ (1942–1943) was a major turning point in World War II on the:",
+        "image": "",
+        "options": [
+            "Western Front",
+            "Eastern Front",
+            "Pacific Theater",
+            "North African Campaign"
+        ],
+        "answer": "Eastern Front",
+        "explanation": "The Soviet victory halted the German advance into the USSR and marked the start of the German retreat."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Yalta Conference}$ in 1945 was a meeting of the 'Big Three' leaders:",
+        "image": "",
+        "options": [
+            "Roosevelt, Churchill, and Stalin",
+            "Truman, Churchill, and Stalin",
+            "Roosevelt, Attlee, and Stalin",
+            "Wilson, Lloyd George, and Clemenceau"
+        ],
+        "answer": "Roosevelt, Churchill, and Stalin",
+        "explanation": "They met to discuss the post-war reorganization of Germany and Europe."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Partition of India}$ in 1947 created which two independent nations?",
+        "image": "",
+        "options": [
+            "India and Bangladesh",
+            "India and Pakistan",
+            "India and Sri Lanka",
+            "Pakistan and Afghanistan"
+        ],
+        "answer": "India and Pakistan",
+        "explanation": "British India was divided into the Dominion of India and the Dominion of Pakistan."
+    },
+    {
+        "id": "H28",
+        "text": "Who was the leader of the Communist forces in the $\\textbf{Vietnam War}$?",
+        "image": "",
+        "options": [
+            "Pol Pot",
+            "Ho Chi Minh",
+            "Mao Zedong",
+            "Kim Il-sung"
+        ],
+        "answer": "Ho Chi Minh",
+        "explanation": "Ho Chi Minh led the Viet Minh independence movement and later North Vietnam."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Suez Crisis}$ of 1956 was triggered by Egypt's nationalization of the Suez Canal by President:",
+        "image": "",
+        "options": [
+            "Anwar Sadat",
+            "Gamal Abdel Nasser",
+            "Hosni Mubarak",
+            "Yasser Arafat"
+        ],
+        "answer": "Gamal Abdel Nasser",
+        "explanation": "The crisis led to a military intervention by Israel, the UK, and France."
+    },
+    {
+        "id": "H30",
+        "text": "Who was the first human to travel into space?",
+        "image": "",
+        "options": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "answer": "Yuri Gagarin",
+        "explanation": "The Soviet cosmonaut orbited the Earth on April 12, 1961."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Cultural Revolution}$ in China (1966–1976) was launched by:",
+        "image": "",
+        "options": [
+            "Deng Xiaoping",
+            "Mao Zedong",
+            "Chiang Kai-shek",
+            "Zhou Enlai"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao launched the movement to preserve Communist ideology and purge remnants of capitalist and traditional elements."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Watergate Scandal}$ involved a break-in at the headquarters of the:",
+        "image": "",
+        "options": [
+            "Republican National Committee",
+            "Democratic National Committee",
+            "FBI",
+            "CIA"
+        ],
+        "answer": "Democratic National Committee",
+        "explanation": "The break-in at the Watergate complex and the subsequent cover-up led to Nixon's resignation."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Camp David Accords}$ (1978) were signed by leaders from which two countries?",
+        "image": "",
+        "options": [
+            "The US and USSR",
+            "Israel and Egypt",
+            "Iran and Iraq",
+            "North and South Korea"
+        ],
+        "answer": "Israel and Egypt",
+        "explanation": "Menachem Begin and Anwar Sadat signed the accords, leading to a peace treaty."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Solidarity}$ movement, the first independent trade union in the Soviet bloc, emerged in:",
+        "image": "",
+        "options": [
+            "Hungary",
+            "Czechoslovakia",
+            "Poland",
+            "East Germany"
+        ],
+        "answer": "Poland",
+        "explanation": "Led by Lech Wałęsa, it played a central role in the end of communist rule in Poland."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Tiananmen Square Protests}$ of 1989 took place in which city?",
+        "image": "",
+        "options": [
+            "Shanghai",
+            "Hong Kong",
+            "Beijing",
+            "Taipei"
+        ],
+        "answer": "Beijing",
+        "explanation": "Student-led demonstrations were forcibly suppressed by the Chinese government."
+    },
+    {
+        "id": "H36",
+        "text": "Who was the first female $\\textbf{Prime Minister of the United Kingdom}$?",
+        "image": "",
+        "options": [
+            "Theresa May",
+            "Margaret Thatcher",
+            "Indira Gandhi",
+            "Angela Merkel"
+        ],
+        "answer": "Margaret Thatcher",
+        "explanation": "Thatcher served from 1979 to 1990 and was known as the 'Iron Lady'."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Rwanda Genocide}$ occurred in which decade?",
+        "image": "",
+        "options": [
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s"
+        ],
+        "answer": "1990s",
+        "explanation": "The genocide against the Tutsi took place in 1994."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Good Friday Agreement}$ (1998) was a major political development in the peace process of:",
+        "image": "",
+        "options": [
+            "The Middle East",
+            "Northern Ireland",
+            "The Balkans",
+            "South Africa"
+        ],
+        "answer": "Northern Ireland",
+        "explanation": "It helped end 'The Troubles', a period of conflict in Northern Ireland."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Euro}$ was introduced as a physical currency in:",
+        "image": "",
+        "options": [
+            "1999",
+            "2000",
+            "2002",
+            "2005"
+        ],
+        "answer": "2002",
+        "explanation": "While it was introduced as an accounting currency in 1999, coins and banknotes entered circulation in 2002."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Human Genome Project}$, which mapped the DNA sequence of the human genome, was declared complete in:",
+        "image": "",
+        "options": [
+            "1990",
+            "2000",
+            "2003",
+            "2010"
+        ],
+        "answer": "2003",
+        "explanation": "It was an international scientific research project with the goal of determining the base pairs that make up human DNA."
+    }
+]

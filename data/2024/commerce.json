@@ -1,0 +1,522 @@
+[
+    {
+      "id": "COMM_2023_281",
+      "text": "The main benefit of a Public Limited Company (PLC) compared to a Private Limited Company (LTD) is the ease of:",
+      "image": "COMM_2023_281.png",
+      "options": [
+        "Obtaining government contracts",
+        "Transferring shares (liquidity)",
+        "Maintaining secrecy",
+        "Forming the business"
+      ],
+      "answer": "Transferring shares (liquidity)",
+      "explanation": "PLC shares can be freely bought and sold on the stock exchange, providing high liquidity for investors, a feature restricted in LTDs."
+    },
+    {
+      "id": "COMM_2023_282",
+      "text": "The major barrier to trade eliminated by the packaging of goods is:",
+      "image": "COMM_2023_282.png",
+      "options": [
+        "Finance",
+        "Risk of damage and wastage",
+        "Time",
+        "Ignorance"
+      ],
+      "answer": "Risk of damage and wastage",
+      "explanation": "Effective packaging provides physical protection for the product during handling, storage, and transit, minimizing the risk of loss or spoilage."
+    },
+    {
+      "id": "COMM_2023_283",
+      "text": "The marketing channel that involves the producer selling to an agent, who then sells to a wholesaler, who finally sells to a retailer is the:",
+      "image": "COMM_2023_283.png",
+      "options": [
+        "One-Level Channel",
+        "Two-Level Channel",
+        "Three-Level Channel (or Indirect Channel)",
+        "Zero-Level Channel"
+      ],
+      "answer": "Three-Level Channel (or Indirect Channel)",
+      "explanation": "This channel involves three intermediaries: Producer $\\rightarrow$ Agent $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer. It is common for products with a broad market or when the producer lacks a direct sales force."
+    },
+    {
+      "id": "COMM_2023_284",
+      "text": "The legal term used to describe the party who initiates the drawing of a Bill of Exchange (the seller or creditor) is the:",
+      "image": "COMM_2023_284.png",
+      "options": [
+        "Payee",
+        "Drawee",
+        "Drawer",
+        "Acceptor"
+      ],
+      "answer": "Drawer",
+      "explanation": "The Drawer is the person who orders the Drawee (the debtor) to pay a sum of money to the Payee."
+    },
+    {
+      "id": "COMM_2023_285",
+      "text": "The main objective of a Fiscal Policy aimed at reducing unemployment in the economy is:",
+      "image": "COMM_2023_285.png",
+      "options": [
+        "Increasing taxation and decreasing government spending",
+        "Decreasing interest rates and selling securities",
+        "Decreasing taxation and increasing government spending",
+        "Increasing the Cash Reserve Ratio"
+      ],
+      "answer": "Decreasing taxation and increasing government spending",
+      "explanation": "Expansionary fiscal policy (reducing taxes and increasing government expenditure) stimulates aggregate demand, encouraging businesses to invest and hire more workers."
+    },
+    {
+      "id": "COMM_2023_286",
+      "text": "The financial intermediary that typically accepts large, fixed deposits for specified periods and provides finance for large industrial projects is the:",
+      "image": "COMM_2023_286.png",
+      "options": [
+        "Commercial Bank",
+        "Development Bank",
+        "Microfinance Bank",
+        "Savings Bank"
+      ],
+      "answer": "Development Bank",
+      "explanation": "Development Banks focus on long-term lending and are structured to accept funds that are fixed or tied to national development initiatives."
+    },
+    {
+      "id": "COMM_2023_287",
+      "text": "The main disadvantage of Horizontal Integration (merger of competitors) is the potential for:",
+      "image": "COMM_2023_287.png",
+      "options": [
+        "Increased cost of production",
+        "Monopolistic tendencies and reduced competition",
+        "Loss of economies of scale",
+        "Increased flexibility in the market"
+      ],
+      "answer": "Monopolistic tendencies and reduced competition",
+      "explanation": "Merging competitors often leads to the consolidation of market power, which can be detrimental to consumers through higher prices and less choice, attracting regulatory scrutiny."
+    },
+    {
+      "id": "COMM_2023_288",
+      "text": "The type of check endorsement where the payee signs the check and specifies the name of the new payee is a:",
+      "image": "COMM_2023_288.png",
+      "options": [
+        "Blank Endorsement",
+        "Restrictive Endorsement",
+        "Special Endorsement",
+        "Conditional Endorsement"
+      ],
+      "answer": "Special Endorsement",
+      "explanation": "A Special Endorsement (or Full Endorsement) names the specific person to whom the check is payable, thereby limiting its transferability."
+    },
+    {
+      "id": "COMM_2023_289",
+      "text": "The main benefit of a Public Warehouse over a Private Warehouse is:",
+      "image": "COMM_2023_289.png",
+      "options": [
+        "Exclusive control over operations",
+        "Cheaper long-term storage costs",
+        "Flexibility in storage space and handling specialized goods",
+        "Exemption from customs duty"
+      ],
+      "answer": "Flexibility in storage space and handling specialized goods",
+      "explanation": "Public warehouses charge for space used and provide specialized services (e.g., cold storage, bonded handling), offering flexibility that benefits smaller firms or firms with fluctuating inventory needs."
+    },
+    {
+      "id": "COMM_2023_290",
+      "text": "The marketing mix element concerned with inventory management, storage, logistics, and distribution channels is:",
+      "image": "COMM_2023_290.png",
+      "options": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Place (Distribution)"
+      ],
+      "answer": "Place (Distribution)",
+      "explanation": "Place decisions cover how the product gets from the manufacturer to the customer, including channels, locations, and transportation."
+    },
+    {
+      "id": "COMM_2023_291",
+      "text": "The principle of insurance that states the insured must take out a new policy if there is a fundamental change in the subject matter of the risk is related to:",
+      "image": "COMM_2023_291.png",
+      "options": [
+        "Insurable Interest",
+        "Proximate Cause",
+        "Warranties and Conditions",
+        "Indemnity"
+      ],
+      "answer": "Warranties and Conditions",
+      "explanation": "Warranties are promises made by the insured (e.g., that the insured property will be used for a specific purpose). A breach of a condition may void the policy."
+    },
+    {
+      "id": "COMM_2023_292",
+      "text": "The major economic activity that creates possession utility by transferring ownership of goods from seller to buyer is:",
+      "image": "COMM_2023_292.png",
+      "options": [
+        "Industry",
+        "Transportation",
+        "Trade",
+        "Warehousing"
+      ],
+      "answer": "Trade",
+      "explanation": "Trade (buying and selling) is the core commercial activity that facilitates the change in title (ownership), thereby creating possession utility."
+    },
+    {
+      "id": "COMM_2023_293",
+      "text": "The term used for a trade policy where a country allows the unimpeded flow of goods and services across its borders is:",
+      "image": "COMM_2023_293.png",
+      "options": [
+        "Protectionism",
+        "Trade Liberalization (or Free Trade)",
+        "Dumping",
+        "Embargo"
+      ],
+      "answer": "Trade Liberalization (or Free Trade)",
+      "explanation": "Trade liberalization involves the reduction or elimination of trade barriers (tariffs, quotas) to promote international commerce."
+    },
+    {
+      "id": "COMM_2023_294",
+      "text": "The type of retail organization characterized by centralized ownership, uniform practices, and identical layout across many branches is the:",
+      "image": "COMM_2023_294.png",
+      "options": [
+        "Departmental Store",
+        "Supermarket",
+        "Chain Store (or Multiple Shop)",
+        "Cooperative Society"
+      ],
+      "answer": "Chain Store (or Multiple Shop)",
+      "explanation": "Chain stores benefit from massive economies of scale in buying, advertising, and management due to their standardized nature."
+    },
+    {
+      "id": "COMM_2023_295",
+      "text": "The main purpose of customs duties (tariffs) imposed on imported goods is:",
+      "image": "COMM_2023_295.png",
+      "options": [
+        "To reduce export subsidies",
+        "To protect local industries and generate government revenue",
+        "To increase the volume of imports",
+        "To simplify customs procedures"
+      ],
+      "answer": "To protect local industries and generate government revenue",
+      "explanation": "Tariffs are a protectionist tool used to make foreign goods more expensive domestically and serve as a source of tax revenue for the government."
+    },
+    {
+      "id": "COMM_2023_296",
+      "text": "The financial intermediary that typically accepts savings deposits and grants mainly housing loans to its members is the:",
+      "image": "COMM_2023_296.png",
+      "options": [
+        "Commercial Bank",
+        "Central Bank",
+        "Mortgage Bank (or Building Society)",
+        "Investment Bank"
+      ],
+      "answer": "Mortgage Bank (or Building Society)",
+      "explanation": "Mortgage banks specialize in the long-term financing of real estate purchases and development."
+    },
+    {
+      "id": "COMM_2023_297",
+      "text": "The document issued by a bank to confirm a customer's opening balance, transactions, and closing balance over a period is the:",
+      "image": "COMM_2023_297.png",
+      "options": [
+        "Bank Certificate",
+        "Bank Draft",
+        "Bank Statement",
+        "Cheque Book"
+      ],
+      "answer": "Bank Statement",
+      "explanation": "The Bank Statement is the formal record of the customer's account maintained by the bank, used for reconciliation purposes."
+    },
+    {
+      "id": "COMM_2023_298",
+      "text": "The term used for a trade restriction where the government provides preferential treatment (e.g., lower tax) to products made in specific regions is:",
+      "image": "COMM_2023_298.png",
+      "options": [
+        "Fiscal Quota",
+        "Regional Subsidy",
+        "Dumping",
+        "Trade Embargo"
+      ],
+      "answer": "Regional Subsidy",
+      "explanation": "This is a form of subsidy designed to promote regional development, encouraging businesses to locate and produce in specific geographic areas."
+    },
+    {
+      "id": "COMM_2023_299",
+      "text": "The main benefit of trade credit to the seller is that it helps to:",
+      "image": "COMM_2023_299.png",
+      "options": [
+        "Reduce the risk of bad debt",
+        "Increase sales volume and attract customers",
+        "Increase production costs",
+        "Reduce stock holding costs"
+      ],
+      "answer": "Increase sales volume and attract customers",
+      "explanation": "Offering credit makes the seller's product more attractive and competitive, often leading to higher sales volumes, which outweighs the risk of bad debt."
+    },
+    {
+      "id": "COMM_2023_300",
+      "text": "The stock exchange activity where securities are bought and sold based on discrepancies in price between different markets is:",
+      "image": "COMM_2023_300.png",
+      "options": [
+        "Bulling",
+        "Short Selling",
+        "Arbitrage",
+        "Stagging"
+      ],
+      "answer": "Arbitrage",
+      "explanation": "Arbitrage is the near-simultaneous purchase and sale of an asset to profit from a differential in the price of the asset in different markets."
+    },
+    {
+      "id": "COMM_2023_301",
+      "text": "The maximum number of shareholders in a Public Limited Company is:",
+      "image": "COMM_2023_301.png",
+      "options": [
+        "50",
+        "100",
+        "7",
+        "No maximum limit"
+      ],
+      "answer": "No maximum limit",
+      "explanation": "A key feature of a PLC is its ability to raise capital from the public without a restriction on the number of members."
+    },
+    {
+      "id": "COMM_2023_302",
+      "text": "The document that confirms that imported goods have been legally cleared by customs authorities and duties have been paid is the:",
+      "image": "COMM_2023_302.png",
+      "options": [
+        "Bill of Lading",
+        "Customs Entry Document (or Release Note)",
+        "Proforma Invoice",
+        "Insurance Certificate"
+      ],
+      "answer": "Customs Entry Document (or Release Note)",
+      "explanation": "This official document confirms that all necessary import procedures, including duty payment, have been satisfied, allowing the goods to enter the domestic market."
+    },
+    {
+      "id": "COMM_2023_303",
+      "text": "The law of insurance that makes an insurance contract legally enforceable only if there is a potential financial loss to the insured is:",
+      "image": "COMM_2023_303.png",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Insurable Interest",
+        "Utmost Good Faith"
+      ],
+      "answer": "Insurable Interest",
+      "explanation": "Insurable interest is the legal right to insure, arising from a financial relationship with the subject matter of the insurance."
+    },
+    {
+      "id": "COMM_2023_304",
+      "text": "The term used for money that is widely accepted as a means of exchange but is not backed by gold or silver is:",
+      "image": "COMM_2023_304.png",
+      "options": [
+        "Commodity money",
+        "Full-bodied money",
+        "Fiat money",
+        "Token money"
+      ],
+      "answer": "Fiat money",
+      "explanation": "Fiat money derives its value from government declaration (fiat) that it is legal tender, rather than from its intrinsic material value."
+    },
+    {
+      "id": "COMM_2023_305",
+      "text": "The final consumer in a typical distribution channel receives the goods from the:",
+      "image": "COMM_2023_305.png",
+      "options": [
+        "Wholesaler",
+        "Producer",
+        "Retailer",
+        "Agent"
+      ],
+      "answer": "Retailer",
+      "explanation": "The retailer is the final link in the channel, whose primary role is to serve the end user."
+    },
+    {
+      "id": "COMM_2023_306",
+      "text": "The main benefit of the cooperative society business structure to the economy is the:",
+      "image": "COMM_2023_306.png",
+      "options": [
+        "Maximization of profit for shareholders",
+        "Provision of essential goods and services at fair prices",
+        "Ease of raising capital from the public",
+        "Unlimited liability of members"
+      ],
+      "answer": "Provision of essential goods and services at fair prices",
+      "explanation": "Cooperatives prioritize service, self-help, and member welfare over profit maximization, often ensuring affordability and quality."
+    },
+    {
+      "id": "COMM_2023_307",
+      "text": "The most appropriate method for transporting highly specialized, bulky, high-pressure industrial liquids and gases over a continent is:",
+      "image": "COMM_2023_307.png",
+      "options": [
+        "Rail transport",
+        "Air transport",
+        "Pipeline transport",
+        "Road transport"
+      ],
+      "answer": "Pipeline transport",
+      "explanation": "Pipelines are the most efficient, safest, and most continuous method for transporting vast quantities of fluids and gases over long distances."
+    },
+    {
+      "id": "COMM_2023_308",
+      "text": "The document that serves as proof of ownership of shares in a limited company is the:",
+      "image": "COMM_2023_308.png",
+      "options": [
+        "Memorandum of Association",
+        "Certificate of Incorporation",
+        "Share Certificate",
+        "Debenture Certificate"
+      ],
+      "answer": "Share Certificate",
+      "explanation": "A Share Certificate is the legally mandated document confirming the holder's title to a specified number of shares in the company."
+    },
+    {
+      "id": "COMM_2023_309",
+      "text": "The term used for the total value of money flowing into and out of a country over a specific period is the:",
+      "image": "COMM_2023_309.png",
+      "options": [
+        "Balance of Trade",
+        "National Debt",
+        "Balance of Payments (BOP)",
+        "National Income"
+      ],
+      "answer": "Balance of Payments (BOP)",
+      "explanation": "BOP is a systematic record of all economic transactions between the residents of a country and the residents of the rest of the world during a period."
+    },
+    {
+      "id": "COMM_2023_310",
+      "text": "The Central Bank's policy of changing the minimum amount of cash reserves commercial banks must hold is known as:",
+      "image": "COMM_2023_310.png",
+      "options": [
+        "Open Market Operation",
+        "Discount Rate Policy",
+        "Cash Reserve Ratio (CRR) Policy",
+        "Moral Suasion"
+      ],
+      "answer": "Cash Reserve Ratio (CRR) Policy",
+      "explanation": "The CRR is a powerful quantitative monetary tool used to influence the money supply and lending capacity of commercial banks."
+    },
+    {
+      "id": "COMM_2023_311",
+      "text": "A factor influencing business location that focuses on the government's policy of industrial licensing and restrictions is the:",
+      "image": "COMM_2023_311.png",
+      "options": [
+        "Economic factor",
+        "Social factor",
+        "Political/Legal factor",
+        "Climatic factor"
+      ],
+      "answer": "Political/Legal factor",
+      "explanation": "Government legislation, trade restrictions, political stability, and licensing requirements heavily influence where a business can and cannot operate."
+    },
+    {
+      "id": "COMM_2023_312",
+      "text": "The major marketing function that helps eliminate the barrier of personal communication between the producer and the mass consumer is:",
+      "image": "COMM_2023_312.png",
+      "options": [
+        "Packaging",
+        "Warehousing",
+        "Advertising",
+        "Branding"
+      ],
+      "answer": "Advertising",
+      "explanation": "Advertising allows a company to communicate its message simultaneously to millions of geographically dispersed consumers, filling the information gap."
+    },
+    {
+      "id": "COMM_2023_313",
+      "text": "The financial intermediary that serves as a collective investment vehicle, pooling funds to invest in high-risk ventures or early-stage businesses is a:",
+      "image": "COMM_2023_313.png",
+      "options": [
+        "Commercial Bank",
+        "Venture Capital Firm (or Private Equity)",
+        "Mortgage Bank",
+        "Savings and Loan Association"
+      ],
+      "answer": "Venture Capital Firm (or Private Equity)",
+      "explanation": "Venture Capital firms specialize in financing risky, high-potential startups in exchange for equity ownership."
+    },
+    {
+      "id": "COMM_2023_314",
+      "text": "The main benefit of Vertical Integration (combining different production stages) is:",
+      "image": "COMM_2023_314.png",
+      "options": [
+        "Increased competition",
+        "Control over quality and supply chain (assured supply)",
+        "Risk reduction through diversification",
+        "Lower startup capital requirements"
+      ],
+      "answer": "Control over quality and supply chain (assured supply)",
+      "explanation": "Vertical integration minimizes external risks related to price volatility, supply disruption, and quality inconsistency from independent suppliers."
+    },
+    {
+      "id": "COMM_2023_315",
+      "text": "A cooperative society that helps members market their agricultural produce efficiently and gain higher returns is a:",
+      "image": "COMM_2023_315.png",
+      "options": [
+        "Consumer Cooperative",
+        "Credit and Thrift Cooperative",
+        "Marketing Cooperative",
+        "Housing Cooperative"
+      ],
+      "answer": "Marketing Cooperative",
+      "explanation": "Marketing cooperatives combine the produce of members for better grading, storage, negotiation, and distribution, improving market access."
+    },
+    {
+      "id": "COMM_2023_316",
+      "text": "The document that serves as the basis for a debit entry in the customer's account in the seller's ledger is the:",
+      "image": "COMM_2023_316.png",
+      "options": [
+        "Credit Note",
+        "Receipt",
+        "Invoice",
+        "Statement of Account"
+      ],
+      "answer": "Invoice",
+      "explanation": "The Invoice documents a sale on credit, increasing the customer's debt (debiting the debtor's personal account)."
+    },
+    {
+      "id": "COMM_2023_317",
+      "text": "The principle of insurance that states the insured must suffer a financial loss before any claim can be paid is:",
+      "image": "COMM_2023_317.png",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Proximate Cause",
+        "Utmost Good Faith"
+      ],
+      "answer": "Indemnity",
+      "explanation": "Indemnity is the promise to restore the financial position. If no loss is suffered, no indemnity is due."
+    },
+    {
+      "id": "COMM_2023_318",
+      "text": "The most effective method of communication for urgent, complex, and confidential business messages over long distances is:",
+      "image": "COMM_2023_318.png",
+      "options": [
+        "Postal mail",
+        "Email and Internet Communication",
+        "Courier service",
+        "Telephone and Fax"
+      ],
+      "answer": "Email and Internet Communication",
+      "explanation": "Email and secure internet channels offer speed, confidentiality (via encryption/security), and the capacity to transmit complex documents (attachments) instantly over any distance."
+    },
+    {
+      "id": "COMM_2023_319",
+      "text": "The stock exchange activity where investors apply for new shares in the primary market hoping to sell them at a profit when they are listed is called:",
+      "image": "COMM_2023_319.png",
+      "options": [
+        "Bulling",
+        "Short Selling",
+        "Stagging",
+        "Arbitrage"
+      ],
+      "answer": "Stagging",
+      "explanation": "Stags are speculators who profit from the short-term difference between the issue price and the listing price of newly floated shares (IPO arbitrage)."
+    },
+    {
+      "id": "COMM_2023_320",
+      "text": "The primary role of the Securities and Exchange Commission (SEC) is to protect the interests of:",
+      "image": "COMM_2023_320.png",
+      "options": [
+        "Commercial Banks",
+        "Company Directors",
+        "The Government",
+        "Investors and the public"
+      ],
+      "answer": "Investors and the public",
+      "explanation": "SEC enforces regulations to ensure transparency and fairness, safeguarding those who invest in the capital market."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "C01",
+        "text": "What is the primary function of a $\\textbf{commercial bank}$?",
+        "image": "",
+        "options": [
+            "Issue currency notes",
+            "Act as a government banker",
+            "Accept deposits and grant loans",
+            "Control credit in the economy"
+        ],
+        "answer": "Accept deposits and grant loans",
+        "explanation": "Commercial banks primarily serve the public by mobilizing savings (accepting deposits) and providing credit (granting loans) for business and personal use."
+    },
+    {
+        "id": "C02",
+        "text": "The phrase $\\textbf{'Caveat Emptor'}$ means:",
+        "image": "",
+        "options": [
+            "Let the seller beware",
+            "Let the buyer beware",
+            "Let the contract be fair",
+            "Let the profit be high"
+        ],
+        "answer": "Let the buyer beware",
+        "explanation": "It is a principle of contract law that places the responsibility on the buyer to perform due diligence before purchasing a product or service."
+    },
+    {
+        "id": "C03",
+        "text": "Which financial statement shows a company's assets, liabilities, and equity at a specific point in time?",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "Statement of Cash Flows",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet",
+        "explanation": "The Balance Sheet adheres to the accounting equation: Assets = Liabilities + Equity, providing a snapshot of the company's financial position."
+    },
+    {
+        "id": "C04",
+        "text": "In a $\\textbf{Perfectly Competitive}$ market, which characteristic is $\\textbf{NOT}$ present?",
+        "image": "",
+        "options": [
+            "Many buyers and sellers",
+            "Homogeneous products",
+            "Free entry and exit",
+            "Product differentiation"
+        ],
+        "answer": "Product differentiation",
+        "explanation": "Perfect competition assumes all products are identical (homogeneous); product differentiation is characteristic of monopolistic competition."
+    },
+    {
+        "id": "C05",
+        "text": "What is the legal document that governs the internal management of a company, defining rules for meetings and share transfer?",
+        "image": "",
+        "options": [
+            "Memorandum of Association",
+            "Prospectus",
+            "Articles of Association",
+            "Certificate of Incorporation"
+        ],
+        "answer": "Articles of Association",
+        "explanation": "The Articles of Association (AoA) detail the operating procedures and internal governance of a company."
+    },
+    {
+        "id": "C06",
+        "text": "The $\\textbf{Inflation Rate}$ is measured by the percentage change in which index?",
+        "image": "",
+        "options": [
+            "Gross Domestic Product (GDP)",
+            "Consumer Price Index (CPI)",
+            "Unemployment Rate",
+            "Interest Rate"
+        ],
+        "answer": "Consumer Price Index (CPI)",
+        "explanation": "The CPI measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services, which is the standard measure of inflation."
+    },
+    {
+        "id": "C07",
+        "text": "Which type of business organization has its liability limited to the extent of capital invested?",
+        "image": "",
+        "options": [
+            "Sole Proprietorship",
+            "Partnership Firm",
+            "Joint Stock Company",
+            "Hindu Undivided Family (HUF)"
+        ],
+        "answer": "Joint Stock Company",
+        "explanation": "The key benefit of a joint stock company (corporation) is limited liability for its shareholders."
+    },
+    {
+        "id": "C08",
+        "text": "A $\\textbf{Bull Market}$ is characterized by:",
+        "image": "",
+        "options": [
+            "Falling stock prices",
+            "Rising stock prices",
+            "High levels of unemployment",
+            "Decreased consumer spending"
+        ],
+        "answer": "Rising stock prices",
+        "explanation": "A bull market is a period where stock prices are generally rising, encouraging investment."
+    },
+    {
+        "id": "C09",
+        "text": "What is $\\textbf{Working Capital}$?",
+        "image": "",
+        "options": [
+            "Total capital of a company",
+            "Capital needed for fixed assets",
+            "The difference between current assets and current liabilities",
+            "Capital raised from issuing shares"
+        ],
+        "answer": "The difference between current assets and current liabilities",
+        "explanation": "Working capital (Current Assets - Current Liabilities) measures a company's short-term liquidity and operational efficiency."
+    },
+    {
+        "id": "C10",
+        "text": "The $\\textbf{4 Ps}$ of the Marketing Mix traditionally include Product, Price, Place, and:",
+        "image": "",
+        "options": [
+            "Profit",
+            "People",
+            "Publicity",
+            "Promotion"
+        ],
+        "answer": "Promotion",
+        "explanation": "The traditional marketing mix (developed by E. Jerome McCarthy) consists of Product, Price, Place, and Promotion."
+    },
+    {
+        "id": "C11",
+        "text": "Which document is an $\\textbf{acknowledgement of debt}$ issued by a company under its common seal?",
+        "image": "",
+        "options": [
+            "Share Certificate",
+            "Debenture",
+            "Bond",
+            "Equity Share"
+        ],
+        "answer": "Debenture",
+        "explanation": "A debenture is a long-term debt instrument issued by corporations to raise capital, typically backed by the general credit of the issuer."
+    },
+    {
+        "id": "C12",
+        "text": "The $\\textbf{JIT}$ (Just-In-Time) inventory system aims to:",
+        "image": "",
+        "options": [
+            "Maximize buffer stock",
+            "Minimize storage costs and waste",
+            "Ensure immediate delivery to customers",
+            "Increase production speed"
+        ],
+        "answer": "Minimize storage costs and waste",
+        "explanation": "JIT is a management strategy that minimizes inventory and increases efficiency by receiving goods only as they are needed in the production process."
+    },
+    {
+        "id": "C13",
+        "text": "Which of the following is an $\\textbf{e-commerce}$ model where business sells directly to consumers?",
+        "image": "",
+        "options": [
+            "B2B (Business-to-Business)",
+            "C2C (Consumer-to-Consumer)",
+            "B2C (Business-to-Consumer)",
+            "G2B (Government-to-Business)"
+        ],
+        "answer": "B2C (Business-to-Consumer)",
+        "explanation": "B2C refers to the transaction of goods and services between a business and individual consumers, common in online retail."
+    },
+    {
+        "id": "C14",
+        "text": "What is $\\textbf{Human Resource Management}$ (HRM) primarily concerned with?",
+        "image": "",
+        "options": [
+            "Managing financial records",
+            "Optimizing production machinery",
+            "Managing people in an organization",
+            "Analyzing market trends"
+        ],
+        "answer": "Managing people in an organization",
+        "explanation": "HRM is the strategic approach to the effective management of an organization's workers, encompassing recruitment, training, and performance."
+    },
+    {
+        "id": "C15",
+        "text": "The concept of $\\textbf{Branding}$ involves all of the following $\\textbf{EXCEPT}$:",
+        "image": "",
+        "options": [
+            "A unique name and logo",
+            "A specific promise of value",
+            "The physical product design",
+            "The price per unit"
+        ],
+        "answer": "The price per unit",
+        "explanation": "While price is part of the marketing mix, branding is a broader concept that creates a distinct identity (name, logo, image, promise) for a product or service."
+    },
+    {
+        "id": "C16",
+        "text": "What does $\\textbf{IPO}$ stand for in the context of the stock market?",
+        "image": "",
+        "options": [
+            "International Price Offer",
+            "Initial Public Offering",
+            "Investment Portfolio Option",
+            "Internal Procurement Order"
+        ],
+        "answer": "Initial Public Offering",
+        "explanation": "An IPO is the process where a private corporation offers its shares to the public for the first time."
+    },
+    {
+        "id": "C17",
+        "text": "Which function of management involves establishing standards, comparing actual performance with standards, and taking corrective action?",
+        "image": "",
+        "options": [
+            "Planning",
+            "Organizing",
+            "Directing",
+            "Controlling"
+        ],
+        "answer": "Controlling",
+        "explanation": "The controlling function ensures that organizational activities are proceeding as planned and goals are achieved."
+    },
+    {
+        "id": "C18",
+        "text": "A $\\textbf{Tariff}$ is defined as a tax imposed on:",
+        "image": "",
+        "options": [
+            "Domestic sales of goods",
+            "Imports or exports of goods",
+            "Company profits",
+            "The acquisition of fixed assets"
+        ],
+        "answer": "Imports or exports of goods",
+        "explanation": "Tariffs are typically taxes imposed by a government on imported goods or services."
+    },
+    {
+        "id": "C19",
+        "text": "In accounting, $\\textbf{Depreciation}$ is the systematic allocation of the cost of a fixed asset over its:",
+        "image": "",
+        "options": [
+            "Market value",
+            "Salvage value",
+            "Useful life",
+            "Replacement cost"
+        ],
+        "answer": "Useful life",
+        "explanation": "Depreciation matches the expense of using an asset with the revenue it helps generate over its operational life."
+    },
+    {
+        "id": "C20",
+        "text": "What is the term for a market structure dominated by a $\\textbf{small number of large sellers}$?",
+        "image": "",
+        "options": [
+            "Monopoly",
+            "Perfect Competition",
+            "Monopolistic Competition",
+            "Oligopoly"
+        ],
+        "answer": "Oligopoly",
+        "explanation": "Oligopoly is characterized by a few large firms that are mutually interdependent in their pricing and output decisions."
+    },
+    {
+        "id": "C21",
+        "text": "A $\\textbf{Venture Capitalist}$ typically invests in:",
+        "image": "",
+        "options": [
+            "Established blue-chip companies",
+            "Government bonds",
+            "New, high-growth potential startups",
+            "Real estate properties"
+        ],
+        "answer": "New, high-growth potential startups",
+        "explanation": "Venture capitalists provide funding to early-stage companies that show promise for exponential growth, usually in exchange for equity."
+    },
+    {
+        "id": "C22",
+        "text": "The $\\textbf{Chain of Command}$ principle in management refers to:",
+        "image": "",
+        "options": [
+            "The flow of production tasks",
+            "The line of authority from top to bottom",
+            "The sequence of marketing steps",
+            "The process of financial budgeting"
+        ],
+        "answer": "The line of authority from top to bottom",
+        "explanation": "It defines the hierarchy of reporting relationships, ensuring that every employee knows who to report to."
+    },
+    {
+        "id": "C23",
+        "text": "Which of the following is $\\textbf{NOT}$ a common method of settling international trade disputes?",
+        "image": "",
+        "options": [
+            "Mediation",
+            "Arbitration",
+            "Litigation",
+            "Public Referendum"
+        ],
+        "answer": "Public Referendum",
+        "explanation": "Public referendums are political voting processes, not mechanisms for resolving commercial legal disputes."
+    },
+    {
+        "id": "C24",
+        "text": "In a partnership, the liability of partners is usually:",
+        "image": "",
+        "options": [
+            "Limited to their capital contribution",
+            "Unlimited",
+            "Limited to firm assets",
+            "Determined by the government"
+        ],
+        "answer": "Unlimited",
+        "explanation": "Partners are typically jointly and severally liable for the firm's debts, meaning their personal assets can be used to pay off business debts."
+    },
+    {
+        "id": "C25",
+        "text": "The concept of $\\textbf{Glocalization}$ refers to:",
+        "image": "",
+        "options": [
+            "Setting global prices for local markets",
+            "Thinking globally, but acting nationally",
+            "Adapting global products to local tastes",
+            "The complete standardization of products globally"
+        ],
+        "answer": "Adapting global products to local tastes",
+        "explanation": "Glocalization means conducting business globally while adapting services or products to local cultures, conditions, or demands."
+    },
+    {
+        "id": "C26",
+        "text": "The $\\textbf{Break-Even Point}$ in cost accounting is the point where:",
+        "image": "",
+        "options": [
+            "Total Revenue equals Total Variable Costs",
+            "Total Revenue equals Total Fixed Costs",
+            "Total Revenue equals Total Costs (Fixed + Variable)",
+            "Profit is maximized"
+        ],
+        "answer": "Total Revenue equals Total Costs (Fixed + Variable)",
+        "explanation": "At the break-even point, a business has neither made a profit nor incurred a loss."
+    },
+    {
+        "id": "C27",
+        "text": "The central bank uses $\\textbf{Open Market Operations}$ primarily to influence:",
+        "image": "",
+        "options": [
+            "Government budget deficits",
+            "The money supply and interest rates",
+            "International trade agreements",
+            "Consumer safety standards"
+        ],
+        "answer": "The money supply and interest rates",
+        "explanation": "Open Market Operations (buying and selling government securities) are a key tool of monetary policy to regulate the quantity of money in the economy."
+    },
+    {
+        "id": "C28",
+        "text": "Which of the following describes $\\textbf{FOB (Free On Board)}$ in international shipping?",
+        "image": "",
+        "options": [
+            "The seller pays all costs until the goods reach the final destination",
+            "The buyer assumes all risk and costs once goods are loaded onto the ship",
+            "The cost includes the price of the goods, insurance, and freight",
+            "The seller handles all customs duties"
+        ],
+        "answer": "The buyer assumes all risk and costs once goods are loaded onto the ship",
+        "explanation": "FOB is a shipping term meaning the seller delivers the goods 'on board' the vessel, and the buyer assumes ownership, risk, and cost from that point."
+    },
+    {
+        "id": "C29",
+        "text": "What is the primary objective of $\\textbf{Financial Management}$?",
+        "image": "",
+        "options": [
+            "Maximizing sales revenue",
+            "Minimizing tax payments",
+            "Maximizing shareholder wealth",
+            "Ensuring employee satisfaction"
+        ],
+        "answer": "Maximizing shareholder wealth",
+        "explanation": "This is achieved by making sound financing, investment, and dividend decisions that increase the value of the company's stock."
+    },
+    {
+        "id": "C30",
+        "text": "A $\\textbf{Mortgage}$ is a debt instrument secured by:",
+        "image": "",
+        "options": [
+            "Cash reserves",
+            "Inventory",
+            "Real property (real estate)",
+            "Patents and trademarks"
+        ],
+        "answer": "Real property (real estate)",
+        "explanation": "A mortgage is a loan used to purchase property, which serves as collateral for the loan."
+    },
+    {
+        "id": "C31",
+        "text": "Which theory suggests that management should focus on efficiency in production and a fair day's pay for a fair day's work?",
+        "image": "",
+        "options": [
+            "Administrative Theory (Fayol)",
+            "Scientific Management (Taylor)",
+            "Human Relations Movement (Mayo)",
+            "Theory X and Theory Y (McGregor)"
+        ],
+        "answer": "Scientific Management (Taylor)",
+        "explanation": "Frederick W. Taylor's Scientific Management focused on optimizing work through observation, measurement, and precise procedures."
+    },
+    {
+        "id": "C32",
+        "text": "The difference between a country's exports and imports of $\\textbf{visible}$ goods is known as the:",
+        "image": "",
+        "options": [
+            "Balance of Payments",
+            "Balance of Trade",
+            "Current Account Balance",
+            "Capital Account Balance"
+        ],
+        "answer": "Balance of Trade",
+        "explanation": "The Balance of Trade (BoT) specifically refers to the net difference between a country's merchandise (visible goods) exports and imports."
+    },
+    {
+        "id": "C33",
+        "text": "What does the $\\textbf{SWOT}$ analysis framework stand for?",
+        "image": "",
+        "options": [
+            "Sales, Workflow, Operating Tactics, Targets",
+            "Strengths, Weaknesses, Opportunities, Threats",
+            "Strategy, Workforce, Objectives, Time-frame",
+            "Success, Wealth, Optimization, Training"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, Threats",
+        "explanation": "SWOT analysis is a strategic planning technique used to identify an organization's internal (Strengths/Weaknesses) and external (Opportunities/Threats) factors."
+    },
+    {
+        "id": "C34",
+        "text": "The payment made to a shareholder from the company's profits is called a:",
+        "image": "",
+        "options": [
+            "Interest",
+            "Royalty",
+            "Dividend",
+            "Commission"
+        ],
+        "answer": "Dividend",
+        "explanation": "A dividend is a distribution of a portion of a company's earnings, decided by the board of directors, to a class of its shareholders."
+    },
+    {
+        "id": "C35",
+        "text": "Which type of insurance covers the loss or damage to goods during transit, especially via sea?",
+        "image": "",
+        "options": [
+            "Fire Insurance",
+            "Life Insurance",
+            "Marine Insurance",
+            "Liability Insurance"
+        ],
+        "answer": "Marine Insurance",
+        "explanation": "Marine insurance covers the loss or damage of ships, cargo, terminals, and any transport by which property is transferred, acquired, or held between the points of origin and final destination."
+    },
+    {
+        "id": "C36",
+        "text": "The $\\textbf{Elasticity of Demand}$ measures the responsiveness of quantity demanded to a change in:",
+        "image": "",
+        "options": [
+            "Quantity supplied",
+            "Production costs",
+            "Price of the product",
+            "Government regulation"
+        ],
+        "answer": "Price of the product",
+        "explanation": "Price elasticity of demand (PED) is a measure used in economics to show the responsiveness of the quantity demanded of a good or service to a change in its price."
+    },
+    {
+        "id": "C37",
+        "text": "What is the term for the deliberate actions taken by a government to influence the economy through $\\textbf{taxation and spending}$?",
+        "image": "",
+        "options": [
+            "Monetary Policy",
+            "Fiscal Policy",
+            "Trade Policy",
+            "Income Policy"
+        ],
+        "answer": "Fiscal Policy",
+        "explanation": "Fiscal policy is the use of government spending and tax policies to influence economic conditions, typically macroeconomic conditions."
+    },
+    {
+        "id": "C38",
+        "text": "The principle of $\\textbf{Indemnity}$ in insurance states that the insured should be placed in the same financial position as before the loss, $\\textbf{NOT}$ profiting from it. Which insurance type is a notable $\\textbf{EXCEPTION}$ to this rule?",
+        "image": "",
+        "options": [
+            "Fire Insurance",
+            "Marine Insurance",
+            "Health Insurance",
+            "Life Insurance"
+        ],
+        "answer": "Life Insurance",
+        "explanation": "Life insurance is a contract of assurance, not indemnity, because the value of human life cannot be precisely measured in monetary terms."
+    },
+    {
+        "id": "C39",
+        "text": "The $\\textbf{Equity}$ of a business represents the claims of the:",
+        "image": "",
+        "options": [
+            "Creditors and Lenders",
+            "Owners (Shareholders)",
+            "Government Tax Authority",
+            "Suppliers and Vendors"
+        ],
+        "answer": "Owners (Shareholders)",
+        "explanation": "Equity is the residual interest in the assets of an entity that remains after deducting its liabilities; it represents the owners' stake."
+    },
+    {
+        "id": "C40",
+        "text": "What is the process of setting a $\\textbf{very low initial price}$ for a new product to rapidly gain market share?",
+        "image": "",
+        "options": [
+            "Price Skimming",
+            "Penetration Pricing",
+            "Value-Based Pricing",
+            "Cost-Plus Pricing"
+        ],
+        "answer": "Penetration Pricing",
+        "explanation": "Penetration pricing is an aggressive strategy intended to capture market share quickly, often used when entering a crowded or price-sensitive market."
+    }
+]

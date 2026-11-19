@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E5001",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ concluded its second major round of $\\textbf{Quantitative}$ $\\textbf{Easing}$ ($\\textbf{QE2}$) in $\\textbf{June}$ $\\textbf{2011}$. The total size of this program was approximately:",
+        "image": "",
+        "options": [
+            "$100 billion",
+            "$600 billion",
+            "$1.25 trillion",
+            "$400 billion"
+        ],
+        "answer": "$600 billion",
+        "explanation": "QE2 involved the purchase of $600 billion in long-term Treasury securities between November 2010 and June 2011, aimed at lowering long-term interest rates and preventing deflation."
+    },
+    {
+        "id": "E5002",
+        "text": "The primary cause of market volatility in the U.S. in the summer of 2011 was the political crisis over raising the $\\textbf{Debt}$ $\\textbf{Ceiling}$, the limit on the total amount of money the government is allowed to borrow.",
+        "image": "",
+        "options": [
+            "A sudden rise in inflation",
+            "The Federal Reserve raising interest rates",
+            "The political crisis over raising the Debt Ceiling",
+            "A major bank failure"
+        ],
+        "answer": "The political crisis over raising the Debt Ceiling",
+        "explanation": "The failure to raise the debt ceiling would have meant a technical default on U.S. obligations, sending shockwaves through global markets."
+    },
+    {
+        "id": "E5003",
+        "text": "The credit rating agency $\\textbf{Standard}$ $\\textbf{&}$ $\\textbf{Poor's}$ ($\\textbf{S&P}$) took the unprecedented step of $\\textbf{downgrading}$ the U.S. sovereign credit rating from AAA to AA+ in August 2011 due to:",
+        "image": "",
+        "options": [
+            "Hyperinflation",
+            "The risk associated with political brinkmanship over the debt ceiling",
+            "A sudden collapse in trade",
+            "War debts"
+        ],
+        "answer": "The risk associated with political brinkmanship over the debt ceiling",
+        "explanation": "S&P cited the high political risk and the inability of Congress to agree on a credible plan for long-term deficit reduction."
+    },
+    {
+        "id": "E5004",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{Sovereign}$ $\\textbf{Debt}$ $\\textbf{Crisis}$ intensified in 2011, requiring $\\textbf{bailouts}$ for which country after Greece and Ireland?",
+        "image": "",
+        "options": [
+            "Germany",
+            "France",
+            "Portugal",
+            "Italy"
+        ],
+        "answer": "Portugal",
+        "explanation": "Portugal required an IMF/EU bailout in May 2011 due to unsustainable debt and high borrowing costs."
+    },
+    {
+        "id": "E5005",
+        "text": "The main $\\textbf{unintended}$ $\\textbf{consequence}$ of QE2 was the significant rise in $\\textbf{commodity}$ $\\textbf{prices}$, including oil and food, leading to concerns about $\\textbf{global}$ $\\textbf{inflation}$.",
+        "image": "",
+        "options": [
+            "A drop in the stock market",
+            "A drop in commodity prices",
+            "The significant rise in commodity prices",
+            "A collapse in U.S. housing"
+        ],
+        "answer": "The significant rise in commodity prices",
+        "explanation": "Critics argued that the flood of liquidity from QE weakened the dollar and fueled speculative buying in global commodities."
+    },
+    {
+        "id": "E5006",
+        "text": "In response to the expiration of QE2, the Federal Reserve launched $\\textbf{Operation}$ $\\textbf{Twist}$ in late 2011. The goal was to $\\textbf{lower}$ $\\textbf{long-term}$ $\\textbf{rates}$ by:",
+        "image": "",
+        "options": [
+            "Printing new money",
+            "Selling short-term Treasuries and buying long-term Treasuries",
+            "Buying corporate bonds",
+            "Selling gold reserves"
+        ],
+        "answer": "Selling short-term Treasuries and buying long-term Treasuries",
+        "explanation": "Operation Twist sterilized the monetary impact (no new money printed) but changed the composition of the Fed's holdings to drive down long-term borrowing costs."
+    },
+    {
+        "id": "E5007",
+        "text": "The $\\textbf{Output}$ $\textbf{Gap}$—the difference between the economy's actual and potential output—remained $\\textbf{large}$ in 2011, justifying the Fed's policy of $\\textbf{extended}$ $\\textbf{low}$ $\\textbf{interest}$ $\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Zero",
+            "Negative",
+            "Large",
+            "Irrelevant"
+        ],
+        "answer": "Large",
+        "explanation": "A large output gap implies significant unused capacity (idle factories, unemployed workers), meaning inflation risk is low and more stimulus is needed."
+    },
+    {
+        "id": "E5008",
+        "text": "The $\\textbf{unemployment}$ $\\textbf{rate}$ finally began a slow, sustained $\\textbf{decline}$ in 2011, falling from its peak, but the rate of decline was hampered by:",
+        "image": "",
+        "options": [
+            "High inflation",
+            "A lack of skilled workers",
+            "Low labor force participation",
+            "Excessive government hiring"
+        ],
+        "answer": "Low labor force participation",
+        "explanation": "Many discouraged workers left the labor force, making the decline in the unemployment rate look better than the actual job creation figures."
+    },
+    {
+        "id": "E5009",
+        "text": "The $\\textbf{Supercommittee}$ was formed in late 2011 as part of the deal to raise the debt ceiling. Its mandate was to find $\\textbf{at}$ $\\textbf{least}$ $\\textbf{\\$1.2}$ $\\textbf{trillion}$ in budget savings over ten years, but it ultimately failed to agree on a plan.",
+        "image": "",
+        "options": [
+            "$100 billion",
+            "$500 billion",
+            "$1.2 trillion",
+            "$2.5 trillion"
+        ],
+        "answer": "$1.2 trillion",
+        "explanation": "Its failure triggered the mandatory, across-the-board budget cuts known as 'sequestration,' scheduled to begin in 2013."
+    },
+    {
+        "id": "E5010",
+        "text": "Which major $\\textbf{Eurozone}$ $\textbf{economy}$ became the focus of the debt crisis in late 2011 due to its massive debt burden and the sheer size of its economy?",
+        "image": "",
+        "options": [
+            "Greece",
+            "Ireland",
+            "Italy",
+            "Finland"
+        ],
+        "answer": "Italy",
+        "explanation": "Italy's debt load was so large that a bailout was considered unfeasible, raising fears that a default could break the Eurozone."
+    },
+    {
+        "id": "E5011",
+        "text": "The primary $\\textbf{Keynesian}$ argument for the $\\textbf{Payroll}$ $\textbf{Tax}$ $\\textbf{Cut}$ extension in 2011 was that it would boost $\\textbf{Aggregate}$ $\\textbf{Demand}$ by increasing the marginal propensity to consume ($\textbf{MPC}$) among lower and middle-income workers.",
+        "image": "",
+        "options": [
+            "Increase long-term investment",
+            "Boost Aggregate Demand",
+            "Reduce the national debt",
+            "Lower corporate taxes"
+        ],
+        "answer": "Boost Aggregate Demand",
+        "explanation": "A payroll tax cut increases disposable income for consumers, who are likely to spend it immediately, leading to a high multiplier effect."
+    },
+    {
+        "id": "E5012",
+        "text": "The $\\textbf{housing}$ $\textbf{market}$ remained $\\textbf{depressed}$ in 2011, with home prices essentially $\\textbf{flat}$ or declining in many areas, largely due to the continued overhang of $\\textbf{foreclosures}$ and 'shadow inventory.'",
+        "image": "",
+        "options": [
+            "Rising rapidly",
+            "Flat or declining",
+            "Only falling in the West Coast",
+            "Only rising in the Northeast"
+        ],
+        "answer": "Flat or declining",
+        "explanation": "The slow pace of recovery meant the massive housing glut took years to clear, keeping prices low."
+    },
+    {
+        "id": "E5013",
+        "text": "The $\\textbf{European}$ $\textbf{Sovereign}$ $\textbf{Debt}$ $\\textbf{Crisis}$ caused the interest rates (or $\\textbf{yields}$) on bonds issued by peripheral nations (like Greece) to $\\textbf{skyrocket}$.",
+        "image": "",
+        "options": [
+            "Fall dramatically",
+            "Skyrocket",
+            "Stay fixed at 2%",
+            "Match U.S. Treasury yields"
+        ],
+        "answer": "Skyrocket",
+        "explanation": "Rising yields reflected the high risk of default, forcing those governments to pay more to borrow money."
+    },
+    {
+        "id": "E5014",
+        "text": "The $\\textbf{European}$ $\textbf{Financial}$ $\textbf{Stability}$ $\textbf{Facility}$ ($\textbf{EFSF}$) was replaced by the $\\textbf{European}$ $\textbf{Stability}$ $\textbf{Mechanism}$ ($\textbf{ESM}$) in 2011 as the Eurozone's $\\textbf{permanent}$ $\\textbf{rescue}$ $\textbf{fund}$ for member states.",
+        "image": "",
+        "options": [
+            "European Central Bank (ECB)",
+            "European Stability Mechanism (ESM)",
+            "Eurogroup",
+            "European Union (EU)"
+        ],
+        "answer": "European Stability Mechanism (ESM)",
+        "explanation": "The ESM provided a larger, permanent structure for lending and crisis management within the Eurozone."
+    },
+    {
+        "id": "E5015",
+        "text": "A key criticism of the $\\textbf{Dodd-Frank}$ $\textbf{Act}$ in 2011 was that the sheer volume of new rules and the complexity of its implementation would lead to $\\textbf{regulatory}$ $\\textbf{uncertainty}$.",
+        "image": "",
+        "options": [
+            "Lower taxes for banks",
+            "Simplified compliance procedures",
+            "Regulatory uncertainty",
+            "Immediate growth in lending"
+        ],
+        "answer": "Regulatory uncertainty",
+        "explanation": "It took years for the hundreds of required rules to be written and finalized, leaving banks and financial firms uncertain about the future regulatory landscape."
+    },
+    {
+        "id": "E5016",
+        "text": "The $\\textbf{Core}$ $\\textbf{Consumer}$ $\textbf{Price}$ $\textbf{Index}$ ($\\textbf{CPI}$) experienced a temporary rise in early 2011, mainly driven by the surge in $\\textbf{global}$ $\\textbf{oil}$ $\\textbf{prices}$ and the weakening of the $\\textbf{U.S.}$ $\\textbf{dollar}$.",
+        "image": "",
+        "options": [
+            "The price of gold",
+            "Global oil prices",
+            "Government bond yields",
+            "Real estate prices"
+        ],
+        "answer": "Global oil prices",
+        "explanation": "While core inflation excludes energy, the overall headline CPI, which includes energy, caused temporary inflation worries."
+    },
+    {
+        "id": "E5017",
+        "text": "As the U.S. recovery sputtered in mid-2011, the Federal Reserve changed its communication strategy to provide $\\textbf{Forward}$ $\\textbf{Guidance}$, committing to keep the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ near zero until at least:",
+        "image": "",
+        "options": [
+            "2012",
+            "Mid-2013",
+            "2020",
+            "The end of the year"
+        ],
+        "answer": "Mid-2013",
+        "explanation": "This was the first time the Fed committed to a calendar date, attempting to anchor long-term expectations and reduce uncertainty for borrowers."
+    },
+    {
+        "id": "E5018",
+        "text": "The $\\textbf{VIX}$ Index, often called the 'fear gauge,' spiked dramatically in August 2011 as a result of the $\\textbf{Debt}$ $\\textbf{Ceiling}$ $\\textbf{crisis}$ and the $\\textbf{S&P}$ $\\textbf{downgrade}$.",
+        "image": "",
+        "options": [
+            "Fell to its lowest level",
+            "Spiked dramatically",
+            "Was suspended from trading",
+            "Was unaffected"
+        ],
+        "answer": "Spiked dramatically",
+        "explanation": "The VIX measures expected stock market volatility. The political crisis caused investor uncertainty to surge."
+    },
+    {
+        "id": "E5019",
+        "text": "Which $\\textbf{European}$ $\textbf{economic}$ $\textbf{powerhouse}$ was the primary lender to the struggling peripheral nations during the Eurozone Crisis in 2011?",
+        "image": "",
+        "options": [
+            "United Kingdom",
+            "France",
+            "Germany",
+            "Italy"
+        ],
+        "answer": "Germany",
+        "explanation": "Germany, with its relatively strong public finances, was the largest contributor to the EFSF and ESM bailout funds."
+    },
+    {
+        "id": "E5020",
+        "text": "The $\\textbf{Long-Term}$ $\textbf{Refinancing}$ $\textbf{Operations}$ ($\textbf{LTROs}$) were launched by the $\\textbf{ECB}$ in late 2011 to inject massive amounts of cheap, long-term liquidity into Eurozone $\\textbf{banks}$.",
+        "image": "",
+        "options": [
+            "The Bank of England",
+            "The Federal Reserve",
+            "The European Central Bank (ECB)",
+            "The Bank of Japan"
+        ],
+        "answer": "The European Central Bank (ECB)",
+        "explanation": "The LTROs provided banks with low-cost, multi-year funding, allowing them to stabilize their balance sheets and buy sovereign debt."
+    },
+    {
+        "id": "E5021",
+        "text": "The $\\textbf{Bank}$ $\textbf{Stress}$ $\textbf{Tests}$ became a regular feature in 2011, requiring large financial institutions to prove they could withstand $\\textbf{severe}$ $\\textbf{economic}$ $\\textbf{shocks}$ without collapsing.",
+        "image": "",
+        "options": [
+            "Minor market fluctuation",
+            "Severe economic shocks",
+            "A sudden drop in the price of gold",
+            "Low inflation"
+        ],
+        "answer": "Severe economic shocks",
+        "explanation": "These annual tests, mandated by Dodd-Frank, aimed to ensure banks had sufficient capital buffers."
+    },
+    {
+        "id": "E5022",
+        "text": "The $\\textbf{sequestration}$ mechanism was designed as a $\\textbf{mandatory}$, $\\textbf{automatic}$ $\\textbf{spending}$ $\\textbf{cut}$ if the Supercommittee failed to reach a deficit-reduction deal.",
+        "image": "",
+        "options": [
+            "Tax increase for all Americans",
+            "Mandatory, automatic spending cut",
+            "A declaration of default",
+            "A new round of stimulus"
+        ],
+        "answer": "Mandatory, automatic spending cut",
+        "explanation": "This was intended to be an unappealing option to force a bipartisan compromise, but the compromise failed."
+    },
+    {
+        "id": "E5023",
+        "text": "A major $\\textbf{geopolitical}$ $\textbf{event}$ in early 2011 that significantly impacted global $\\textbf{oil}$ $\textbf{prices}$ and inflation expectations was the start of the $\\textbf{Arab}$ $\\textbf{Spring}$.",
+        "image": "",
+        "options": [
+            "The Japanese earthquake/tsunami",
+            "The start of the Arab Spring",
+            "The Eurozone bank stress tests",
+            "The conclusion of QE2"
+        ],
+        "answer": "The start of the Arab Spring",
+        "explanation": "Unrest in the Middle East and North Africa created supply uncertainty, causing oil prices to spike."
+    },
+    {
+        "id": "E5024",
+        "text": "Economists debate whether the $\\textbf{ARRA}$ $\\textbf{stimulus}$ was $\\textbf{too}$ $\\textbf{small}$ or $\\textbf{ended}$ $\\textbf{too}$ $\\textbf{soon}$. The latter criticism suggests the U.S. recovery sputtered in 2011 due to:",
+        "image": "",
+        "options": [
+            "Deflationary forces",
+            "Excessive private debt",
+            "A 'fiscal cliff' from the stimulus withdrawal",
+            "High interest rates"
+        ],
+        "answer": "A 'fiscal cliff' from the stimulus withdrawal",
+        "explanation": "The expiration of temporary spending and tax cuts removed necessary government support while the private sector was still fragile."
+    },
+    {
+        "id": "E5025",
+        "text": "The $\\textbf{Consumer}$ $\textbf{Financial}$ $\textbf{Protection}$ $\textbf{Bureau}$ ($\textbf{CFPB}$), created by Dodd-Frank, formally began its operations in $\\textbf{July}$ $\\textbf{2011}$.",
+        "image": "",
+        "options": [
+            "January 2010",
+            "July 2011",
+            "December 2012",
+            "March 2015"
+        ],
+        "answer": "July 2011",
+        "explanation": "Its official start marked the first major regulatory component of Dodd-Frank to become operational."
+    },
+    {
+        "id": "E5026",
+        "text": "The $\\textbf{European}$ $\textbf{Central}$ $\textbf{Bank}$'s ($\\textbf{ECB}$) primary mandate is $\\textbf{price}$ $\\textbf{stability}$, meaning its ability to act as a 'lender of last resort' to struggling governments was $\\textbf{more}$ $\\textbf{constrained}$ than the U.S. Federal Reserve.",
+        "image": "",
+        "options": [
+            "Unlimited",
+            "Identical to the Fed's",
+            "More constrained",
+            "Irrelevant"
+        ],
+        "answer": "More constrained",
+        "explanation": "The ECB’s mandate prevented it from explicitly guaranteeing sovereign debt, heightening volatility until it changed its strategy in 2012."
+    },
+    {
+        "id": "E5027",
+        "text": "The $\\textbf{primary}$ $\textbf{economic}$ $\textbf{risk}$ of the $\\textbf{U.S.}$ $\textbf{credit}$ $\textbf{downgrade}$ was not higher borrowing costs, but the potential for $\\textbf{institutional}$ $\\textbf{rules}$ requiring investors to sell non-AAA rated assets.",
+        "image": "",
+        "options": [
+            "Lower long-term rates",
+            "Institutional rules requiring investors to sell non-AAA rated assets",
+            "Massive deflation",
+            "A global trade war"
+        ],
+        "answer": "Institutional rules requiring investors to sell non-AAA rated assets",
+        "explanation": "Many funds, insurance companies, and money market accounts had mandates to only hold AAA-rated government debt, which the downgrade threatened."
+    },
+    {
+        "id": "E5028",
+        "text": "The $\\textbf{Volcker}$ $\textbf{Rule}$ continued to face implementation delays in 2011 because its key distinction between $\\textbf{proprietary}$ $\\textbf{trading}$ and $\\textbf{market}$ $\\textbf{making}$ was highly complex to define.",
+        "image": "",
+        "options": [
+            "The simplicity of its language",
+            "The definition of market making and proprietary trading",
+            "A lack of technology",
+            "Its focus on small banks"
+        ],
+        "answer": "The definition of market making and proprietary trading",
+        "explanation": "It was difficult to legally define when a trade was 'on behalf of the client' (market making) versus 'on behalf of the bank' (proprietary)."
+    },
+    {
+        "id": "E5029",
+        "text": "In 2011, the $\\textbf{median}$ $\\textbf{U.S.}$ $\textbf{household}$ $\\textbf{net}$ $\\textbf{worth}$ was estimated to have $\\textbf{fallen}$ sharply from pre-recession levels, primarily due to the lasting effects of the $\\textbf{housing}$ $\textbf{market}$ $\\textbf{collapse}$.",
+        "image": "",
+        "options": [
+            "Risen dramatically",
+            "Fallen sharply",
+            "Remained unchanged",
+            "Only fallen for the wealthy"
+        ],
+        "answer": "Fallen sharply",
+        "explanation": "The destruction of home equity, which is the primary source of wealth for most Americans, was the main driver of the decline in net worth."
+    },
+    {
+        "id": "E5030",
+        "text": "The $\\textbf{Federal}$ $\textbf{Reserve}$'s $\\textbf{Operation}$ $\\textbf{Twist}$ was intended to $\\textbf{flatten}$ the $\\textbf{yield}$ $\\textbf{curve}$ by selling short-term bonds and buying long-term bonds, thus $\\textbf{lowering}$ the long-term borrowing costs for businesses and consumers.",
+        "image": "",
+        "options": [
+            "Steepen",
+            "Flatten",
+            "Invert",
+            "Disappear"
+        ],
+        "answer": "Flatten",
+        "explanation": "A flatter yield curve generally indicates expectations of weaker economic growth and lower inflation in the future."
+    },
+    {
+        "id": "E5031",
+        "text": "The $\\textbf{Long-Term}$ $\textbf{Refinancing}$ $\textbf{Operations}$ ($\textbf{LTROs}$) of the ECB in late 2011 were essentially a large-scale attempt to unfreeze the European $\\textbf{interbank}$ $\\textbf{lending}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "U.S. consumer lending market",
+            "Asian trade market",
+            "European interbank lending market",
+            "Global gold market"
+        ],
+        "answer": "European interbank lending market",
+        "explanation": "Banks were unwilling to lend to each other due to fears of sovereign default, and the LTROs filled that void with cheap liquidity."
+    },
+    {
+        "id": "E5032",
+        "text": "In 2011, the $\\textbf{European}$ $\textbf{Union}$ implemented the $\\textbf{Six-Pack}$, a set of five EU regulations and one directive aimed at improving $\\textbf{economic}$ $\\textbf{governance}$ and monitoring of national budgets.",
+        "image": "",
+        "options": [
+            "The Three-Pack",
+            "The Six-Pack",
+            "The Five-Star Plan",
+            "The Euro-Statute"
+        ],
+        "answer": "The Six-Pack",
+        "explanation": "This legislation introduced stricter limits on national debt and deficits and tougher enforcement mechanisms."
+    },
+    {
+        "id": "E5033",
+        "text": "The $\\textbf{Debt}$ $\textbf{Ceiling}$ crisis demonstrated a key difference between U.S. and Eurozone sovereign debt: the U.S. government could $\\textbf{theoretically}$ $\\textbf{print}$ $\\textbf{its}$ $\\textbf{own}$ $\\textbf{currency}$, while Eurozone members could $\\textbf{not}$.",
+        "image": "",
+        "options": [
+            "Cannot borrow money",
+            "Cannot raise taxes",
+            "Can theoretically print its own currency",
+            "Has no political dissent"
+        ],
+        "answer": "Can theoretically print its own currency",
+        "explanation": "This is why the U.S. default risk was considered political/technical, while the Eurozone members faced genuine solvency risk."
+    },
+    {
+        "id": "E5034",
+        "text": "The $\\textbf{Occupy}$ $\textbf{Wall}$ $\textbf{Street}$ movement began in September 2011, primarily protesting what economic concept?",
+        "image": "",
+        "options": [
+            "High interest rates",
+            "Income inequality and the influence of wealth (the '1%')",
+            "Deflation",
+            "Low corporate taxes"
+        ],
+        "answer": "Income inequality and the influence of wealth (the '1%')",
+        "explanation": "The movement was fueled by frustration over the bank bailouts and the perception that the rich were protected while ordinary citizens struggled."
+    },
+    {
+        "id": "E5035",
+        "text": "The $\\textbf{Japanese}$ $\\textbf{Earthquake}$ and $\\textbf{Tsunami}$ in March 2011 had a significant, temporary economic impact on the U.S. through the disruption of $\\textbf{global}$ $\\textbf{supply}$ $\\textbf{chains}$.",
+        "image": "",
+        "options": [
+            "Foreign exchange rates",
+            "Global supply chains",
+            "The price of gold",
+            "U.S. housing prices"
+        ],
+        "answer": "Global supply chains",
+        "explanation": "The disaster temporarily shut down manufacturing, particularly in the auto and electronics sectors, impacting production worldwide."
+    },
+    {
+        "id": "E5036",
+        "text": "The $\\textbf{Long-Term}$ $\textbf{Unemployment}$ rate (jobless for 27+ weeks) remained stubbornly $\\textbf{high}$ in 2011, leading to concerns that a significant portion of the workforce was permanently detached from the labor market.",
+        "image": "",
+        "options": [
+            "High",
+            "Low",
+            "Non-existent",
+            "The lowest since 2007"
+        ],
+        "answer": "High",
+        "explanation": "The structural problem of long-term unemployment persisted, even as the overall unemployment rate slowly ticked down."
+    },
+    {
+        "id": "E5037",
+        "text": "The $\\textbf{Greek}$ $\textbf{Debt}$ $\textbf{Crisis}$ escalated in late 2011, resulting in the agreement of a $\\textbf{haircut}$ (a forced loss) on bonds held by $\\textbf{private}$ $\\textbf{sector}$ $\\textbf{creditors}$ (banks, hedge funds).",
+        "image": "",
+        "options": [
+            "A government guarantee",
+            "A full repayment",
+            "A haircut (a forced loss)",
+            "A currency devaluation"
+        ],
+        "answer": "A haircut (a forced loss)",
+        "explanation": "This 'Private Sector Involvement' (PSI) was designed to make Greek debt sustainable but caused significant losses for investors."
+    },
+    {
+        "id": "E5038",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Corporate}$ $\textbf{Sector}$ was the $\\textbf{bright}$ $\textbf{spot}$ of the U.S. economy in 2011, characterized by record $\\textbf{profitability}$ and $\\textbf{cash}$ $\\textbf{holdings}$.",
+        "image": "",
+        "options": [
+            "Low profitability",
+            "Record profitability and cash holdings",
+            "High debt levels",
+            "Low foreign revenue"
+        ],
+        "answer": "Record profitability and cash holdings",
+        "explanation": "Companies had cut costs drastically during the recession and benefited from low interest rates and global demand, leading to high profits that were largely saved rather than invested."
+    },
+    {
+        "id": "E5039",
+        "text": "The $\\textbf{European}$ $\textbf{Central}$ $\textbf{Bank}$ ($\\textbf{ECB}$) president at the end of 2011, who was instrumental in implementing the LTROs and stabilizing the market, was $\\textbf{Mario}$ $\\textbf{Draghi}$.",
+        "image": "",
+        "options": [
+            "Jean-Claude Trichet",
+            "Mario Draghi",
+            "Ben Bernanke",
+            "Christine Lagarde"
+        ],
+        "answer": "Mario Draghi",
+        "explanation": "Draghi took over from Trichet in November 2011 and quickly implemented aggressive measures to stabilize the Eurozone."
+    },
+    {
+        "id": "E5040",
+        "text": "The $\\textbf{primary}$ $\textbf{debate}$ among U.S. economists in 2011 was whether the high unemployment rate was $\\textbf{cyclical}$ (due to weak demand) or $\\textbf{structural}$ (a mismatch of skills and jobs).",
+        "image": "",
+        "options": [
+            "Due to high inflation",
+            "Cyclical or structural",
+            "Caused by excessive bank regulation",
+            "Related to trade deficits"
+        ],
+        "answer": "Cyclical or structural",
+        "explanation": "The cyclical/structural debate determined the appropriate policy response: more stimulus (cyclical) or training/labor market reform (structural)."
+    }
+]

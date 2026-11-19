@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM81",
+        "text": "The $\\textbf{Foreign Exchange Market}$ ($\\,\\textbf{Forex}$) is the global, decentralized market where currencies are $\\textbf{Traded}$ and $\\textbf{Exchange Rates}$ are determined.",
+        "image": "",
+        "options": [
+            "Commodity Market",
+            "Foreign Exchange Market",
+            "Stock Exchange",
+            "Bond Market"
+        ],
+        "answer": "Foreign Exchange Market",
+        "explanation": "It is the largest and most liquid financial market in the world."
+    },
+    {
+        "id": "COM82",
+        "text": "A $\\textbf{Non-Recourse}$ $\\textbf{Loan}$ is characterized by the lender only being able to claim the $\\textbf{Collateral}$ (e.g., property) and $\\textbf{Not}$ the borrower's $\\textbf{Personal Assets}$ upon default.",
+        "image": "",
+        "options": [
+            "Personal Assets",
+            "Business Assets",
+            "Collateral",
+            "Future Income"
+        ],
+        "answer": "Collateral",
+        "explanation": "Non-recourse financing protects the borrower's other assets but often comes with higher interest rates."
+    },
+    {
+        "id": "COM83",
+        "text": "The $\\textbf{Product Concept}$ in $\\textbf{Marketing}$ focuses on the idea that consumers prefer products that offer the most $\\textbf{Quality}$, performance, and $\\textbf{Innovative Features}$.",
+        "image": "",
+        "options": [
+            "Affordability",
+            "Availability",
+            "Innovative Features",
+            "Sales Promotion"
+        ],
+        "answer": "Innovative Features",
+        "explanation": "This orientation can lead to marketing myopia if managers become too focused on the product itself rather than customer needs."
+    },
+    {
+        "id": "COM84",
+        "text": "The $\\textbf{Statute of Frauds}$ in $\\textbf{Commercial Law}$ requires certain types of $\\textbf{Contracts}$ (e.g., those involving real $\\textbf{Estate}$) to be in $\\textbf{Writing}$ to be enforceable.",
+        "image": "",
+        "options": [
+            "Oral Agreement",
+            "Implied Contract",
+            "In Writing",
+            "Verbal Contract"
+        ],
+        "answer": "In Writing",
+        "explanation": "This rule exists to prevent fraudulent claims of a contract having been made."
+    },
+    {
+        "id": "COM85",
+        "text": "The $\\textbf{Consumer Protection Act}$ aims to safeguard the $\\textbf{Rights}$ of $\\textbf{Consumers}$ against fraudulent or $\\textbf{Unfair}$ business $\\textbf{Practices}$.",
+        "image": "",
+        "options": [
+            "Manufacturers Only",
+            "Businesses Only",
+            "Consumers",
+            "Government"
+        ],
+        "answer": "Consumers",
+        "explanation": "This legislation covers areas like product safety, advertising transparency, and unfair contract terms."
+    },
+    {
+        "id": "COM86",
+        "text": "A $\\textbf{Certificate of Incorporation}$ is the formal document issued by a state or national government granting a business its status as a $\\textbf{Corporation}$.",
+        "image": "",
+        "options": [
+            "Partnership Agreement",
+            "Trade License",
+            "Certificate of Incorporation",
+            "Memorandum of Understanding"
+        ],
+        "answer": "Certificate of Incorporation",
+        "explanation": "This document legalizes the company as a separate legal entity."
+    },
+    {
+        "id": "COM87",
+        "text": "$\\textbf{Customization}$ in mass production, known as $\\textbf{Mass Customization}$, allows businesses to meet individual customer $\\textbf{Needs}$ efficiently.",
+        "image": "",
+        "options": [
+            "Mass Marketing",
+            "Mass Customization",
+            "Product Differentiation",
+            "Market Skimming"
+        ],
+        "answer": "Mass Customization",
+        "explanation": "This strategy uses flexible production processes to produce differentiated products at a cost near that of mass production."
+    },
+    {
+        "id": "COM88",
+        "text": "The $\\textbf{Liquidity}$ of a financial instrument refers to how quickly and easily it can be converted into $\\textbf{Cash}$ without significant $\\textbf{Loss}$ in $\\textbf{Value}$.",
+        "image": "",
+        "options": [
+            "Risk",
+            "Return",
+            "Cash",
+            "Maturity"
+        ],
+        "answer": "Cash",
+        "explanation": "Cash and short-term treasury bills are highly liquid; real estate is less liquid."
+    },
+    {
+        "id": "COM89",
+        "text": "A $\\textbf{Conglomerate Merger}$ involves two companies operating in $\\textbf{Unrelated Industries}$ combining to achieve $\\textbf{Diversification}$.",
+        "image": "",
+        "options": [
+            "Same Industry",
+            "Related Industries",
+            "Unrelated Industries",
+            "Same Geographic Area"
+        ],
+        "answer": "Unrelated Industries",
+        "explanation": "This type of merger is primarily aimed at reducing overall business risk."
+    },
+    {
+        "id": "COM90",
+        "text": "The $\\textbf{Secondary Market}$ in finance is where $\\textbf{Existing}$ securities (stocks or bonds) are bought and sold among $\\textbf{Investors}$.",
+        "image": "",
+        "options": [
+            "New",
+            "Unlisted",
+            "Existing",
+            "Cancelled"
+        ],
+        "answer": "Existing",
+        "explanation": "The primary market is where new securities are first issued (e.g., IPOs)."
+    },
+    {
+        "id": "COM91",
+        "text": "In $\\textbf{Logistics}$, the $\\textbf{Last-Mile Delivery}$ refers to the final $\\textbf{Stage}$ of the delivery process from the transportation hub to the $\\textbf{End User}$ (consumer).",
+        "image": "",
+        "options": [
+            "First Stage",
+            "Last-Mile Delivery",
+            "Intermodal Transport",
+            "Warehousing"
+        ],
+        "answer": "Last-Mile Delivery",
+        "explanation": "This segment is often the most expensive and least efficient part of the supply chain."
+    },
+    {
+        "id": "COM92",
+        "text": "A $\\textbf{Quota}$ is a $\\textbf{Non-Tariff Barrier}$ to trade because it restricts the $\\textbf{Quantity}$ of imports rather than imposing a $\\textbf{Tax}$.",
+        "image": "",
+        "options": [
+            "Tariff Barrier",
+            "Subsidy",
+            "Non-Tariff Barrier",
+            "Embargo"
+        ],
+        "answer": "Non-Tariff Barrier",
+        "explanation": "Non-tariff barriers use regulations, quotas, or standards to impede trade."
+    },
+    {
+        "id": "COM93",
+        "text": "The $\\textbf{Consumer Price Index}$ ($\\,\\textbf{CPI}$) is a measure that examines the weighted average of $\\textbf{Prices}$ of a basket of $\\textbf{Consumer Goods}$ and services.",
+        "image": "",
+        "options": [
+            "GDP",
+            "Unemployment Rate",
+            "Consumer Price Index",
+            "Producer Price Index"
+        ],
+        "answer": "Consumer Price Index",
+        "explanation": "CPI is the most widely used measure of inflation and changes in the cost of living."
+    },
+    {
+        "id": "COM94",
+        "text": "The $\\textbf{Law of Agency}$ governs the relationship where an $\\textbf{Agent}$ (employee) acts on behalf of a $\\textbf{Principal}$ (employer) to create legal $\\textbf{Relations}$ with a $\\textbf{Third Party}$.",
+        "image": "",
+        "options": [
+            "Customer",
+            "Competitor",
+            "Agent",
+            "Supplier"
+        ],
+        "answer": "Agent",
+        "explanation": "The principal grants the agent the authority to act on their behalf, leading to the principal's legal liability."
+    },
+    {
+        "id": "COM95",
+        "text": "A $\\textbf{Cash Flow Statement}$ in $\\textbf{Finance}$ and $\\textbf{Accounting}$ categorizes activities into Operating, $\\textbf{Investing}$, and Financing.",
+        "image": "",
+        "options": [
+            "Marketing",
+            "Sales",
+            "Investing",
+            "Budgeting"
+        ],
+        "answer": "Investing",
+        "explanation": "Investing activities involve the purchase or sale of long-term assets and investments in other companies."
+    },
+    {
+        "id": "COM96",
+        "text": "The $\\textbf{Promotional Mix}$ (part of the $\\textbf{4 Ps}$) includes Advertising, Sales Promotion, Public Relations, and $\\textbf{Personal Selling}$.",
+        "image": "",
+        "options": [
+            "Product",
+            "Price",
+            "Personal Selling",
+            "Place"
+        ],
+        "answer": "Personal Selling",
+        "explanation": "Personal selling involves direct communication between a salesperson and a potential customer."
+    },
+    {
+        "id": "COM97",
+        "text": "The $\\textbf{E-Commerce}$ model $\\textbf{C2C}$ refers to transactions conducted directly between $\\textbf{Consumers}$, often facilitated by $\\textbf{Third-Party}$ $\\textbf{Platforms}$ (e.g., eBay).",
+        "image": "",
+        "options": [
+            "Business-to-Consumer",
+            "Consumer-to-Consumer",
+            "Business-to-Business",
+            "Business-to-Government"
+        ],
+        "answer": "Consumer-to-Consumer",
+        "explanation": "The platform acts as an intermediary, but the primary transaction occurs between the two consumers."
+    },
+    {
+        "id": "COM98",
+        "text": "The $\\textbf{Trade-Related Intellectual Property Rights}$ ($\\,\\textbf{TRIPS}$) Agreement is administered by the $\\textbf{WTO}$ ($\textbf{World Trade Organization}$).",
+        "image": "",
+        "options": [
+            "IMF",
+            "World Bank",
+            "WTO",
+            "UN"
+        ],
+        "answer": "WTO",
+        "explanation": "TRIPS sets minimum standards for the regulation by national governments of intellectual property."
+    },
+    {
+        "id": "COM99",
+        "text": "A $\\textbf{Debenture}$ is a type of long-term debt instrument that is $\\textbf{Unsecured}$, meaning it is not backed by specific $\\textbf{Collateral}$.",
+        "image": "",
+        "options": [
+            "Secured Bond",
+            "Mortgage Bond",
+            "Debenture",
+            "Convertible Bond"
+        ],
+        "answer": "Debenture",
+        "explanation": "Debentures rely on the general creditworthiness of the issuing company."
+    },
+    {
+        "id": "COM100",
+        "text": "The $\\textbf{Fixed Costs}$ of a business are those costs that remain $\\textbf{Constant}$ regardless of the volume of goods $\\textbf{Produced}$ or $\\textbf{Sold}$.",
+        "image": "",
+        "options": [
+            "Vary",
+            "Increase",
+            "Constant",
+            "Decrease"
+        ],
+        "answer": "Constant",
+        "explanation": "Examples include rent, insurance, and salaries for permanent staff."
+    },
+    {
+        "id": "COM101",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Novation}$ is the act of replacing an original $\\textbf{Party}$ to a contract with a $\\textbf{New Party}$, releasing the original party from $\\textbf{Liability}$.",
+        "image": "",
+        "options": [
+            "Breach",
+            "Assignment",
+            "Novation",
+            "Rescission"
+        ],
+        "answer": "Novation",
+        "explanation": "Novation requires the consent of all three parties: the original parties and the new party."
+    },
+    {
+        "id": "COM102",
+        "text": "The $\\textbf{Demographic Transition Model}$ suggests that the $\\textbf{Birth Rate}$ and $\\textbf{Death Rate}$ of a country influence its economic $\\textbf{Development}$ and $\\textbf{Consumption}$ patterns.",
+        "image": "",
+        "options": [
+            "Literacy Rate",
+            "Birth Rate",
+            "Interest Rate",
+            "Exchange Rate"
+        ],
+        "answer": "Birth Rate",
+        "explanation": "The model tracks changes in birth and death rates over time, showing how countries transition from high rates to low rates."
+    },
+    {
+        "id": "COM103",
+        "text": "The $\\textbf{Product Placement}$ promotional technique involves subtly placing branded $\\textbf{Products}$ within $\\textbf{Films}$ or $\\textbf{Television}$ shows.",
+        "image": "",
+        "options": [
+            "Personal Selling",
+            "Advertising",
+            "Product Placement",
+            "Direct Marketing"
+        ],
+        "answer": "Product Placement",
+        "explanation": "This aims to create a favorable association with the brand in a non-traditional advertising format."
+    },
+    {
+        "id": "COM104",
+        "text": "A $\\textbf{Call Option}$ gives the holder the right, but not the obligation, to $\\textbf{Buy}$ an underlying asset at a specified $\\textbf{Strike Price}$ by a certain date.",
+        "image": "",
+        "options": [
+            "Sell",
+            "Lease",
+            "Buy",
+            "Hold"
+        ],
+        "answer": "Buy",
+        "explanation": "This is a key financial derivative used for hedging or speculation."
+    },
+    {
+        "id": "COM105",
+        "text": "The $\\textbf{Economic Cycle}$ (or $\\textbf{Business Cycle}$) is characterized by four stages: $\\textbf{Expansion}$, Peak, Contraction/Recession, and $\\textbf{Trough}$/Recovery.",
+        "image": "",
+        "options": [
+            "Inflation",
+            "Expansion",
+            "Deflation",
+            "Stagnation"
+        ],
+        "answer": "Expansion",
+        "explanation": "The expansion phase sees GDP growth, rising employment, and increasing consumer spending."
+    },
+    {
+        "id": "COM106",
+        "text": "The $\\textbf{Geographic}$ segmentation variable divides the market based on physical location, such as $\\textbf{Region}$, city size, or $\\textbf{Climate}$.",
+        "image": "",
+        "options": [
+            "Lifestyle",
+            "Region",
+            "Income",
+            "Attitude"
+        ],
+        "answer": "Region",
+        "explanation": "Geographic variables influence product distribution and pricing decisions."
+    },
+    {
+        "id": "COM107",
+        "text": "The $\\textbf{Trade Secret}$ intellectual property protection covers confidential business $\\textbf{Information}$ (e.g., the $\\textbf{Coca-Cola}$ formula) that provides a competitive $\\textbf{Advantage}$.",
+        "image": "",
+        "options": [
+            "Copyright",
+            "Patent",
+            "Trademark",
+            "Trade Secret"
+        ],
+        "answer": "Trade Secret",
+        "explanation": "Unlike patents, a trade secret is protected indefinitely as long as it remains confidential."
+    },
+    {
+        "id": "COM108",
+        "text": "The concept of $\\textbf{Externalities}$ in $\\textbf{Economics}$ refers to the uncompensated $\\textbf{Impact}$ of one person's or firm's actions on the $\\textbf{Well-being}$ of a $\\textbf{Bystander}$.",
+        "image": "",
+        "options": [
+            "Internal Costs",
+            "Tax Payments",
+            "Impact",
+            "Profits"
+        ],
+        "answer": "Impact",
+        "explanation": "Negative externalities (like pollution) often require government intervention to internalize the cost."
+    },
+    {
+        "id": "COM109",
+        "text": "A $\\textbf{Multinational Corporation}$ ($\\,\\textbf{MNC}$) is a company that has facilities and other $\\textbf{Assets}$ in at least one $\\textbf{Country}$ other than its home $\\textbf{Country}$.",
+        "image": "",
+        "options": [
+            "Domestic Company",
+            "Local Business",
+            "Multinational Corporation",
+            "Joint Venture"
+        ],
+        "answer": "Multinational Corporation",
+        "explanation": "MNCs are powerful drivers of globalization and international trade."
+    },
+    {
+        "id": "COM110",
+        "text": "The $\\textbf{Just-In-Time}$ ($\\,\\textbf{JIT}$) system requires strong, reliable relationships with $\\textbf{Suppliers}$ due to the lack of a large $\\textbf{Safety Stock}$.",
+        "image": "",
+        "options": [
+            "Customers",
+            "Competitors",
+            "Suppliers",
+            "Regulators"
+        ],
+        "answer": "Suppliers",
+        "explanation": "Any delay or quality issue from a supplier can halt the entire production line in a JIT system."
+    },
+    {
+        "id": "COM111",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Breach of Contract}$ occurs when one party fails to fulfill their $\\textbf{Obligation}$ under the $\\textbf{Terms}$ of the $\\textbf{Agreement}$.",
+        "image": "",
+        "options": [
+            "Fulfillment",
+            "Obligation",
+            "Renewal",
+            "Negotiation"
+        ],
+        "answer": "Obligation",
+        "explanation": "A breach gives the injured party the right to sue for damages or seek other remedies."
+    },
+    {
+        "id": "COM112",
+        "text": "The $\\textbf{Financial Intermediary}$ that connects $\\textbf{Savers}$ (those with surplus funds) to $\\textbf{Borrowers}$ (those needing funds) is typically a $\\textbf{Bank}$.",
+        "image": "",
+        "options": [
+            "Regulator",
+            "Bank",
+            "Retailer",
+            "Manufacturer"
+        ],
+        "answer": "Bank",
+        "explanation": "Banks and other financial institutions mobilize savings and allocate capital efficiently throughout the economy."
+    },
+    {
+        "id": "COM113",
+        "text": "The $\\textbf{Marketing Concept}$ leads to the $\\textbf{Societal Marketing Concept}$, which considers long-term consumer $\\textbf{Welfare}$ and social $\\textbf{Well-being}$.",
+        "image": "",
+        "options": [
+            "Product Concept",
+            "Sales Concept",
+            "Societal Marketing Concept",
+            "Production Concept"
+        ],
+        "answer": "Societal Marketing Concept",
+        "explanation": "This concept balances profit maximization with consumer satisfaction and societal interests."
+    },
+    {
+        "id": "COM114",
+        "text": "A $\\textbf{Horizontal Analysis}$ (Trend Analysis) of financial data compares line items over $\\textbf{Time}$ to identify $\\textbf{Growth}$ or $\\textbf{Decline}$ patterns.",
+        "image": "",
+        "options": [
+            "Competitors",
+            "Industry Benchmarks",
+            "Time",
+            "Different Segments"
+        ],
+        "answer": "Time",
+        "explanation": "It contrasts with vertical analysis, which compares items within a single period."
+    },
+    {
+        "id": "COM115",
+        "text": "The $\\textbf{Limited Liability Partnership}$ ($\\,\\textbf{LLP}$) structure is often favored by professionals like $\\textbf{Accountants}$ and $\\textbf{Lawyers}$ to protect individual partners from the $\\textbf{Malpractice}$ of other partners.",
+        "image": "",
+        "options": [
+            "Sole Proprietors",
+            "Manufacturers",
+            "Lawyers",
+            "Retailers"
+        ],
+        "answer": "Lawyers",
+        "explanation": "The LLP structure offers liability protection while retaining the tax advantages of a partnership."
+    },
+    {
+        "id": "COM116",
+        "text": "The $\\textbf{Price Penetration}$ strategy involves setting a deliberately $\\textbf{Low}$ initial $\\textbf{Price}$ to quickly gain market share and discourage $\\textbf{Competitors}$.",
+        "image": "",
+        "options": [
+            "High",
+            "Average",
+            "Low",
+            "Premium"
+        ],
+        "answer": "Low",
+        "explanation": "This strategy is most effective for highly price-sensitive markets and when economies of scale can be achieved rapidly."
+    },
+    {
+        "id": "COM117",
+        "text": "A $\\textbf{Vertical Merger}$ involves two or more companies operating at $\\textbf{Different}$ $\\textbf{Levels}$ of the same $\\textbf{Supply Chain}$ merging (e.g., a manufacturer and a $\\textbf{Retailer}$).",
+        "image": "",
+        "options": [
+            "Same Level",
+            "Unrelated Levels",
+            "Different Levels",
+            "Foreign Levels"
+        ],
+        "answer": "Different Levels",
+        "explanation": "Vertical mergers aim to gain control over the supply chain, reducing costs and improving efficiency."
+    },
+    {
+        "id": "COM118",
+        "text": "The $\\textbf{Balance of Payments}$ ($\\,\\textbf{BOP}$) is a summary of all economic $\\textbf{Transactions}$ between a country and the rest of the $\\textbf{World}$ over a specified $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Only Trade",
+            "Only Investments",
+            "All Economic Transactions",
+            "Only Government Transactions"
+        ],
+        "answer": "All Economic Transactions",
+        "explanation": "The BOP includes the current account (trade, services, income) and the capital/financial account."
+    },
+    {
+        "id": "COM119",
+        "text": "The $\\textbf{Brand Equity}$ is the commercial $\\textbf{Value}$ derived from consumer $\\textbf{Perception}$ of the brand name of a particular $\\textbf{Product}$ or $\\textbf{Service}$.",
+        "image": "",
+        "options": [
+            "Cost of Production",
+            "Commercial Value",
+            "Market Share",
+            "Physical Assets"
+        ],
+        "answer": "Commercial Value",
+        "explanation": "Strong brand equity allows a company to charge premium prices and facilitates expansion into new markets."
+    },
+    {
+        "id": "COM120",
+        "text": "The $\\textbf{Logistics}$ management function encompasses the planning, implementation, and control of the efficient, effective $\\textbf{Forward and Reverse}$ flow and storage of goods and $\\textbf{Information}$.",
+        "image": "",
+        "options": [
+            "Only Forward",
+            "Only Reverse",
+            "Forward and Reverse",
+            "Only Storage"
+        ],
+        "answer": "Forward and Reverse",
+        "explanation": "Reverse logistics (handling returns, recycling, and disposal) is an increasingly important part of supply chain management."
+    }
+]

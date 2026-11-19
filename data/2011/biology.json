@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2011_01",
+      "text": "The $\\text{Optimum}$ $\\text{Temperature}$ for the activity of most enzymes in the human body is approximately:",
+      "image": "[Graph illustrating enzyme activity vs. temperature]",
+      "options": [
+        "$25^\\circ\\text{C}$",
+        "$37^\\circ\\text{C}$",
+        "$50^\\circ\\text{C}$",
+        "$100^\\circ\\text{C}$"
+      ],
+      "answer": "$37^\\circ\\text{C}$",
+      "explanation": "Human enzymes function best at normal body temperature, which is approximately $37^\\circ\\text{C}$. Temperatures significantly above this can cause $\\text{Denaturation}$."
+    },
+    {
+      "id": "BIO_2011_02",
+      "text": "The $\\text{Cell}$ $\\text{Organelle}$ primarily responsible for $\\text{Protein}$ $\\text{Synthesis}$ is the:",
+      "image": "[Diagram of a Ribosome attached to Endoplasmic Reticulum]",
+      "options": [
+        "Lysosome",
+        "Ribosome",
+        "Golgi $\\text{Apparatus}$",
+        "Mitochondrion"
+      ],
+      "answer": "Ribosome",
+      "explanation": "$\\text{Ribosomes}$ are the sites of $\\text{Translation}$, where messenger $\\text{RNA}$ ($\\text{mRNA}$) is read to synthesize $\\text{Protein}$ chains."
+    },
+    {
+      "id": "BIO_2011_03",
+      "text": "Which structure in flowering plants is responsible for the $\\text{Transportation}$ of $\\text{Water}$ and $\\text{Mineral}$ $\\text{Salts}$ from the roots to the leaves?",
+      "image": "[Cross-section of a plant stem showing Xylem and Phloem]",
+      "options": [
+        "Phloem",
+        "Parenchyma",
+        "Sieve $\\text{Tube}$",
+        "Xylem"
+      ],
+      "answer": "Xylem",
+      "explanation": "The $\\text{Xylem}$ tissue is made up of dead, lignified cells that form continuous tubes for the $\\text{Upward}$ transport of $\\text{Water}$ and $\\text{Dissolved}$ $\\text{Minerals}$ ($\\text{Translocation}$). $\\text{Phloem}$ transports manufactured food."
+    },
+    {
+      "id": "BIO_2011_04",
+      "text": "The iron-containing $\\text{Pigment}$ found in $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ that carries $\\text{Oxygen}$ is:",
+      "image": "[Molecular structure of Haemoglobin]",
+      "options": [
+        "Bilirubin",
+        "Haemoglobin",
+        "Fibrinogen",
+        "Carboxyhaemoglobin"
+      ],
+      "answer": "Haemoglobin",
+      "explanation": "$\\text{Haemoglobin}$ is a $\\text{Protein}$ with four $\\text{Heme}$ groups, each containing an $\\text{Iron}$ atom, to which $\\text{Oxygen}$ molecules bind reversibly."
+    },
+    {
+      "id": "BIO_2011_05",
+      "text": "The process by which the $\\text{Kidneys}$ selectively reabsorb useful substances like $\\text{Glucose}$ and $\\text{Amino}$ $\\text{Acids}$ back into the blood is called:",
+      "image": "[Diagram of the Nephron highlighting Reabsorption in the Tubules]",
+      "options": [
+        "Ultrafiltration",
+        "Selective $\\text{Reabsorption}$",
+        "Osmotic $\\text{Regulation}$",
+        "Tubular $\\text{Secretion}$"
+      ],
+      "answer": "Selective $\\text{Reabsorption}$",
+      "explanation": "After $\\text{Ultrafiltration}$ in the $\\text{Glomerulus}$, most of the water and all useful solutes are actively or passively transported back into the blood in the $\\text{Renal}$ $\\text{Tubules}$ ($\\text{Selective}$ $\\text{Reabsorption}$). "
+    },
+    {
+      "id": "BIO_2011_06",
+      "text": "Which group of organisms is responsible for converting $\\text{Atmospheric}$ $\\text{Nitrogen}$ ($\\text{N}_2$) into $\\text{Nitrates}$ in the soil (Nitrogen $\\text{Fixation}$)?",
+      "image": "[Diagram of the Nitrogen Cycle highlighting Nitrogen-fixing bacteria]",
+      "options": [
+        "Fungi",
+        "Nitrogen-fixing $\\text{Bacteria}$",
+        "Denitrifying $\\text{Bacteria}$",
+        "Algae"
+      ],
+      "answer": "Nitrogen-fixing $\\text{Bacteria}$",
+      "explanation": "Bacteria like $\\text{Rhizobium}$ (in legume root nodules) and free-living $\\text{Azotobacter}$ convert atmospheric $\\text{Nitrogen}$ into $\\text{Ammonium}$ compounds, which are further converted to $\\text{Nitrates}$ (the usable form for plants)."
+    },
+    {
+      "id": "BIO_2011_07",
+      "text": "In a $\\text{Monohybrid}$ $\\text{Cross}$ between two heterozygous parents ($\\text{Aa}$ $\\text{x}$ $\\text{Aa}$), the expected ratio of $\\text{Genotypes}$ in the offspring is:",
+      "image": "[Punnett square for a monohybrid cross (Aa x Aa)]",
+      "options": [
+        "$3:1$",
+        "$1:1$",
+        "$1:2:1$",
+        "$9:3:3:1$"
+      ],
+      "answer": "$1:2:1$",
+      "explanation": "The expected genotypic ratio from a heterozygous cross ($\\text{Aa} \\text{ x } \\text{Aa}$) is $\\text{1 AA : 2 Aa : 1 aa}$ ($\\text{1:2:1}$). The phenotypic ratio is $3:1$ ($\\text{Dominant}$ : $\\text{Recessive}$)."
+    },
+    {
+      "id": "BIO_2011_08",
+      "text": "The $\\text{Placenta}$ in mammals is primarily responsible for:",
+      "image": "[Diagram of the Human Placenta and Umbilical Cord]",
+      "options": [
+        "Synthesis of $\\text{Blood}$ for the $\\text{Foetus}$",
+        "Separating the $\\text{Maternal}$ and $\\text{Foetal}$ $\\text{Blood}$ $\\text{Completely}$",
+        "Exchange of $\\text{Nutrients}$ and $\\text{Wastes}$ between $\\text{Mother}$ and $\\text{Foetus}$",
+        "Protecting the $\\text{Foetus}$ from $\\text{All}$ $\\text{Infections}$"
+      ],
+      "answer": "Exchange of $\\text{Nutrients}$ and $\\text{Wastes}$ between $\\text{Mother}$ and $\\text{Foetus}$",
+      "explanation": "The $\\text{Placenta}$ is the organ of exchange, allowing $\\text{Diffusion}$ of $\\text{Oxygen}$ and $\\text{Nutrients}$ to the $\\text{Foetus}$ and $\\text{Carbon}$ $\\text{Dioxide}$ and $\\text{Urea}$ away from the $\\text{Foetus}$."
+    },
+    {
+      "id": "BIO_2011_09",
+      "text": "Gas exchange in the stem of a woody plant takes place through the:",
+      "image": "[Cross-section of a woody stem showing a Lenticel]",
+      "options": [
+        "Stomata",
+        "Cuticle",
+        "Lenticel",
+        "Guard $\\text{Cells}$"
+      ],
+      "answer": "Lenticel",
+      "explanation": "$\\text{Lenticels}$ are $\\text{Pores}$ in the bark of $\\text{Woody}$ $\\text{Stems}$ and $\\text{Roots}$ that allow direct exchange of $\\text{Gases}$ between the internal tissues and the atmosphere."
+    },
+    {
+      "id": "BIO_2011_10",
+      "text": "In amphibians (e.g., $\\text{Frog}$), gas exchange occurs through the skin, the buccal cavity, and the:",
+      "image": "[Diagram of a frog's respiratory surfaces]",
+      "options": [
+        "Gills",
+        "Trachea",
+        "Lungs",
+        "Spiracles"
+      ],
+      "answer": "Lungs",
+      "explanation": "Adult $\\text{Amphibians}$ use $\\text{Cutaneous}$ $\\text{Respiration}$ (skin), $\\text{Buccal}$ $\\text{Respiration}$ (mouth lining), and $\\text{Pulmonary}$ $\\text{Respiration}$ (simple $\\text{Lungs}$)."
+    },
+    {
+      "id": "BIO_2011_11",
+      "text": "The primary role of $\\text{Chlorophyll}$ in $\\text{Photosynthesis}$ is to:",
+      "image": "[Diagram showing Chlorophyll absorbing light energy]",
+      "options": [
+        "Absorb $\\text{Carbon}$ $\\text{Dioxide}$",
+        "Release $\\text{Oxygen}$",
+        "Convert $\\text{Light}$ $\\text{Energy}$ to $\\text{Chemical}$ $\\text{Energy}$",
+        "Synthesize $\\text{Glucose}$"
+      ],
+      "answer": "Convert $\\text{Light}$ $\\text{Energy}$ to $\\text{Chemical}$ $\\text{Energy}$",
+      "explanation": "$\\text{Chlorophyll}$ pigments are located in the $\\text{Thylakoid}$ membranes of $\\text{Chloroplasts}$ and are crucial for capturing $\\text{Light}$ $\\text{Energy}$ to initiate the $\\text{Light}$-$\\text{Dependent}$ $\\text{Reactions}$."
+    },
+    {
+      "id": "BIO_2011_12",
+      "text": "Which of the following represents the correct hierarchical sequence of classification in biology?",
+      "image": "",
+      "options": [
+        "Class $\\rightarrow$ Order $\\rightarrow$ Family $\\rightarrow$ Genus",
+        "Phylum $\\rightarrow$ Class $\\rightarrow$ Order $\\rightarrow$ Family",
+        "Kingdom $\\rightarrow$ Phylum $\\rightarrow$ Family $\\rightarrow$ Class",
+        "Genus $\\rightarrow$ Species $\\rightarrow$ Class $\\rightarrow$ Phylum"
+      ],
+      "answer": "Phylum $\\rightarrow$ Class $\\rightarrow$ Order $\\rightarrow$ Family",
+      "explanation": "The correct sequence from broadest to narrowest is $\\text{Kingdom}$, $\\text{Phylum}$ (or $\\text{Division}$ for plants), $\\text{Class}$, $\\text{Order}$, $\\text{Family}$, $\\text{Genus}$, $\\text{Species}$."
+    },
+    {
+      "id": "BIO_2011_13",
+      "text": "The correct sequence of structures in a simple $\\text{Reflex}$ $\\text{Arc}$ is:",
+      "image": "[Diagram of a simple reflex arc]",
+      "options": [
+        "Effector $\\rightarrow$ Sensory $\\text{Neuron}$ $\\rightarrow$ Receptor",
+        "Receptor $\\rightarrow$ Motor $\\text{Neuron}$ $\\rightarrow$ Sensory $\\text{Neuron}$ $\\rightarrow$ Effector",
+        "Receptor $\\rightarrow$ Sensory $\\text{Neuron}$ $\\rightarrow$ Central $\\text{Nervous}$ $\\text{System}$ $\\rightarrow$ Motor $\\text{Neuron}$ $\\rightarrow$ Effector",
+        "Motor $\\text{Neuron}$ $\\rightarrow$ Central $\\text{Nervous}$ $\\text{System}$ $\\rightarrow$ Receptor"
+      ],
+      "answer": "Receptor $\\rightarrow$ Sensory $\\text{Neuron}$ $\\rightarrow$ Central $\\text{Nervous}$ $\\text{System}$ $\\rightarrow$ Motor $\\text{Neuron}$ $\\rightarrow$ Effector",
+      "explanation": "The pathway is: $\\text{Stimulus}$ $\\rightarrow$ $\\text{Receptor}$ $\\rightarrow$ $\\text{Sensory}$ $\\text{Neuron}$ $\\rightarrow$ $\\text{Relay}$ $\\text{Neuron}$ in $\\text{CNS}$ $\\rightarrow$ $\\text{Motor}$ $\\text{Neuron}$ $\\rightarrow$ $\\text{Effector}$ $\\rightarrow$ $\\text{Response}$."
+    },
+    {
+      "id": "BIO_2011_14",
+      "text": "The disease $\\text{Sleeping}$ $\\text{Sickness}$ in humans is transmitted by the vector:",
+      "image": "",
+      "options": [
+        "Female $\\text{Anopheles}$ $\\text{Mosquito}$",
+        "Blackfly",
+        "Tsetse $\\text{Fly}$",
+        "Housefly"
+      ],
+      "answer": "Tsetse $\\text{Fly}$",
+      "explanation": "The $\\text{Tsetse}$ $\\text{Fly}$ transmits the $\\text{Protozoan}$ parasite $\\text{Trypanosoma}$ that causes $\\text{Sleeping}$ $\\text{Sickness}$ (African $\\text{Trypanosomiasis}$)."
+    },
+    {
+      "id": "BIO_2011_15",
+      "text": "The $\\text{Plant}$ $\\text{Hormone}$ responsible for the growth curvature response ($\\text{Phototropism}$) is:",
+      "image": "[Diagram illustrating Auxin accumulation causing bending in plant shoot]",
+      "options": [
+        "Abscisic $\\text{Acid}$",
+        "Auxin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": "Auxin",
+      "explanation": "$\\text{Auxins}$ ($\\text{Indoleacetic}$ $\\text{Acid}$, $\\text{IAA}$) control cell $\\text{Elongation}$ and are responsible for $\\text{Tropisms}$ (growth movements in response to light, gravity, etc.)."
+    },
+    {
+      "id": "BIO_2011_16",
+      "text": "In the mammalian $\\text{Skeleton}$, the function of $\\text{Cartilage}$ is to:",
+      "image": "[Diagram of a joint showing Cartilage]",
+      "options": [
+        "Produce $\\text{Blood}$ $\\text{Cells}$",
+        "Act as a $\\text{Hard}$ $\\text{Supporting}$ $\\text{Framework}$",
+        "Reduce $\\text{Friction}$ at $\\text{Joints}$",
+        "Connect $\\text{Bone}$ to $\\text{Muscle}$"
+      ],
+      "answer": "Reduce $\\text{Friction}$ at $\\text{Joints}$",
+      "explanation": "$\\text{Cartilage}$ is a $\\text{Flexible}$ connective tissue that covers the ends of $\\text{Bones}$ in a joint, acting as a $\\text{Shock}$ $\\text{Absorber}$ and reducing $\\text{Friction}$ during movement."
+    },
+    {
+      "id": "BIO_2011_17",
+      "text": "The theory of $\\text{Evolution}$ based on the $\\text{Inheritance}$ of $\\text{Acquired}$ $\\text{Characteristics}$ was proposed by:",
+      "image": "[Historical image of Jean-Baptiste Lamarck]",
+      "options": [
+        "Charles $\\text{Darwin}$",
+        "Gregor $\\text{Mendel}$",
+        "Jean-Baptiste $\\text{Lamarck}$",
+        "Alfred $\\text{Wallace}$"
+      ],
+      "answer": "Jean-Baptiste $\\text{Lamarck}$",
+      "explanation": "Lamarckism's central idea was that traits acquired by an organism during its lifetime (e.g., muscle development) could be inherited by its offspring. This theory is largely discredited."
+    },
+    {
+      "id": "BIO_2011_18",
+      "text": "The final product of $\\text{Mitosis}$ in a diploid cell ($2n$) is:",
+      "image": "[Diagram illustrating the stages and final result of Mitosis]",
+      "options": [
+        "Four $\\text{Haploid}$ $\\text{Cells}$ (n)",
+        "Two $\\text{Diploid}$ $\\text{Cells}$ ($2n$)",
+        "One $\\text{Diploid}$ $\\text{Cell}$ ($2n$)",
+        "Two $\\text{Haploid}$ $\\text{Cells}$ (n)"
+      ],
+      "answer": "Two $\\text{Diploid}$ $\\text{Cells}$ ($2n$)",
+      "explanation": "$\\text{Mitosis}$ is a form of $\\text{Asexual}$ $\\text{Reproduction}$ and $\\text{Cell}$ $\\text{Division}$ that results in two daughter cells genetically $\\text{Identical}$ to the parent cell, maintaining the $\\text{Diploid}$ $\\text{Chromosome}$ $\\text{Number}$."
+    },
+    {
+      "id": "BIO_2011_19",
+      "text": "The process of food intake and digestion in an $\\text{Amoeba}$ involves the formation of a:",
+      "image": "[Diagram illustrating Phagocytosis in Amoeba]",
+      "options": [
+        "Gastrovascular $\\text{Cavity}$",
+        "Contractile $\\text{Vacuole}$",
+        "Food $\\text{Vacuole}$",
+        "Alimentary $\\text{Canal}$"
+      ],
+      "answer": "Food $\\text{Vacuole}$",
+      "explanation": "An $\\text{Amoeba}$ captures food by $\\text{Phagocytosis}$ (engulfing with $\\text{Pseudopods}$), which results in the formation of an intracellular $\\text{Food}$ $\\text{Vacuole}$ where digestion occurs."
+    },
+    {
+      "id": "BIO_2011_20",
+      "text": "The progressive change in species composition in an ecological $\\text{Community}$ over time, often beginning with a pioneer community, is known as:",
+      "image": "[Diagram illustrating primary or secondary ecological succession]",
+      "options": [
+        "Climax $\\text{Community}$",
+        "Erosion",
+        "Ecological $\\text{Succession}$",
+        "Competition"
+      ],
+      "answer": "Ecological $\\text{Succession}$",
+      "explanation": "$\\text{Ecological}$ $\\text{Succession}$ is the orderly and predictable series of changes in a community structure until a stable $\\text{Climax}$ $\\text{Community}$ is reached."
+    },
+    {
+      "id": "BIO_2011_21",
+      "text": "A plant cell placed in a $\\text{Concentrated}$ $\\text{Salt}$ $\\text{Solution}$ will $\\text{Lose}$ $\\text{Water}$ and become:",
+      "image": "[Diagram comparing Turgid, Flaccid, and Plasmolysed plant cells]",
+      "options": [
+        "Turgid",
+        "Plasmolysed",
+        "Flaccid",
+        "Crenated"
+      ],
+      "answer": "Plasmolysed",
+      "explanation": "The external solution is $\\text{Hypertonic}$ (higher solute concentration), causing water to leave the cell by $\\text{Osmosis}$. This makes the $\\text{Cytoplasm}$ shrink away from the $\\text{Cell}$ $\\text{Wall}$ ($\\text{Plasmolysis}$)."
+    },
+    {
+      "id": "BIO_2011_22",
+      "text": "The adaptive feature in fish that allows them to blend with the background when viewed from above or below is called:",
+      "image": "[Image showing a fish with countershading (dark top, light bottom)]",
+      "options": [
+        "Aposematism",
+        "Warning $\\text{Colouration}$",
+        "Mimicry",
+        "Countershading"
+      ],
+      "answer": "Countershading",
+      "explanation": "$\\text{Countershading}$ is a form of $\\text{Camouflage}$ where an animal's upper parts are dark and lower parts are light, counteracting the effects of light coming from above."
+    },
+    {
+      "id": "BIO_2011_23",
+      "text": "In a $\\text{Food}$ $\\text{Web}$, organisms that break down $\\text{Dead}$ $\\text{Organic}$ $\\text{Matter}$ and return $\\text{Nutrients}$ to the $\\text{Soil}$ are:",
+      "image": "[Diagram of a Food Web including Decomposers]",
+      "options": [
+        "Producers",
+        "Consumers",
+        "Decomposers",
+        "Scavengers"
+      ],
+      "answer": "Decomposers",
+      "explanation": "$\\text{Decomposers}$ (primarily $\\text{Bacteria}$ and $\\text{Fungi}$) feed on dead organisms and waste products, completing the nutrient $\\text{Cycling}$ process."
+    },
+    {
+      "id": "BIO_2011_24",
+      "text": "The $\\text{Pulmonary}$ $\\text{Artery}$ is unique because it carries:",
+      "image": "[Diagram of the Human Heart showing Pulmonary Circulation]",
+      "options": [
+        "Oxygenated $\\text{Blood}$ away from the $\\text{Heart}$",
+        "Deoxygenated $\\text{Blood}$ away from the $\\text{Heart}$",
+        "Oxygenated $\\text{Blood}$ to the $\\text{Heart}$",
+        "Deoxygenated $\\text{Blood}$ to the $\\text{Kidneys}$"
+      ],
+      "answer": "Deoxygenated $\\text{Blood}$ away from the $\\text{Heart}$",
+      "explanation": "The $\\text{Pulmonary}$ $\\text{Artery}$ transports $\\text{Deoxygenated}$ $\\text{Blood}$ from the $\\text{Right}$ $\\text{Ventricle}$ of the $\\text{Heart}$ to the $\\text{Lungs}$ for $\\text{Oxygenation}$. All other arteries carry $\\text{Oxygenated}$ $\\text{Blood}$."
+    },
+    {
+      "id": "BIO_2011_25",
+      "text": "The dental formula for a $\\text{Herbivorous}$ $\\text{Mammal}$ (e.g., cow) is typically characterized by the absence of:",
+      "image": "[Diagram comparing Human and Herbivore teeth]",
+      "options": [
+        "Incisors",
+        "Canines",
+        "Premolars",
+        "Molars"
+      ],
+      "answer": "Canines",
+      "explanation": "In many $\\text{Herbivores}$, the $\\text{Canines}$ (used for piercing/tearing) are $\\text{Absent}$, and the $\\text{Incisors}$ and $\\text{Canines}$ are often replaced by a hard $\\text{Dental}$ $\\text{Pad}$ in the upper jaw, leaving a large $\\text{Gap}$ ($\\text{Diastema}$). "
+    },
+    {
+      "id": "BIO_2011_26",
+      "text": "Which of these traits exhibits $\\text{Discontinuous}$ $\\text{Variation}$ in humans?",
+      "image": "[Graph illustrating discontinuous variation (bar chart, e.g., blood groups)]",
+      "options": [
+        "Height",
+        "Skin $\\text{Colour}$",
+        "Body $\\text{Weight}$",
+        "Blood $\\text{Group}$"
+      ],
+      "answer": "Blood $\\text{Group}$",
+      "explanation": "$\\text{Discontinuous}$ $\\text{Variation}$ is controlled by a $\\text{Single}$ or $\\text{Few}$ $\\text{Genes}$ and results in a few distinct categories (e.g., $\\text{A}$, $\\text{B}$, $\\text{AB}$, $\\text{O}$). $\\text{Height}$, $\\text{Colour}$, and $\\text{Weight}$ are $\\text{Continuous}$ $\\text{Variations}$."
+    },
+    {
+      "id": "BIO_2011_27",
+      "text": "The $\\text{Maximum}$ $\\text{Population}$ $\\text{Size}$ that an environment can $\\text{Sustain}$ $\\text{Indefinitely}$ is called the:",
+      "image": "[Population growth curve showing Carrying Capacity (K)]",
+      "options": [
+        "Population $\\text{Density}$",
+        "Biotic $\\text{Potential}$",
+        "Carrying $\\text{Capacity}$",
+        "Limiting $\\text{Factor}$"
+      ],
+      "answer": "Carrying $\\text{Capacity}$",
+      "explanation": "The $\\text{Carrying}$ $\\text{Capacity}$ ($\\text{K}$) is the largest population size that an environment can support given the availability of resources."
+    },
+    {
+      "id": "BIO_2011_28",
+      "text": "The loss of water in liquid form from the tips of grass leaves in the early morning is known as:",
+      "image": "[Image showing Guttation drops on leaf edges]",
+      "options": [
+        "Transpiration",
+        "Evaporation",
+        "Osmosis",
+        "Guttation"
+      ],
+      "answer": "Guttation",
+      "explanation": "$\\text{Guttation}$ is the exudation of $\\text{Drops}$ of $\\text{Xylem}$ $\\text{Sap}$ from the $\\text{Hydathodes}$ (modified $\\text{Pores}$) at the edges or tips of leaves, usually when $\\text{Transpiration}$ is low and $\\text{Root}$ $\\text{Pressure}$ is high."
+    },
+    {
+      "id": "BIO_2011_29",
+      "text": "The $\\text{Joint}$ between the $\\text{Humerus}$ and the $\\text{Ulna}$/$\\text{Radius}$ (elbow) is an example of a:",
+      "image": "[Diagram of the Elbow Joint (Hinge joint)]",
+      "options": [
+        "Pivot $\\text{Joint}$",
+        "Ball and $\\text{Socket}$ $\\text{Joint}$",
+        "Hinge $\\text{Joint}$",
+        "Gliding $\\text{Joint}$"
+      ],
+      "answer": "Hinge $\\text{Joint}$",
+      "explanation": "A $\\text{Hinge}$ $\\text{Joint}$ (like the elbow or knee) allows movement primarily in $\\text{One}$ $\\text{Plane}$ (flexion and extension)."
+    },
+    {
+      "id": "BIO_2011_30",
+      "text": "Which characteristic is $\\text{Common}$ to all members of the phylum $\\text{Arthropoda}$?",
+      "image": "[Image illustrating various Arthropods with segmented bodies and jointed legs]",
+      "options": [
+        "Presence of $\\text{Four}$ $\\text{Pairs}$ of $\\text{Legs}$",
+        "Possession of a $\\text{Chitinous}$ $\\text{Exoskeleton}$",
+        "Having $\\text{Only}$ $\\text{One}$ $\\text{Body}$ $\\text{Segment}$",
+        "Marine $\\text{Habitat}$"
+      ],
+      "answer": "Possession of a $\\text{Chitinous}$ $\\text{Exoskeleton}$",
+      "explanation": "$\\text{Arthropods}$ (insects, arachnids, crustaceans, etc.) are characterized by a $\\text{Segmented}$ $\\text{Body}$, $\\text{Jointed}$ $\\text{Appendages}$, and a $\\text{Hard}$ $\\text{Exoskeleton}$ made of $\\text{Chitin}$."
+    },
+    {
+      "id": "BIO_2011_31",
+      "text": "The purpose of a $\\text{Test}$ $\\text{Cross}$ is to determine the $\\text{Genotype}$ of an organism that exhibits the $\\text{Dominant}$ $\\text{Phenotype}$ by crossing it with an organism that is:",
+      "image": "[Punnett square illustrating a test cross (A_ x aa)]",
+      "options": [
+        "Heterozygous $\\text{Dominant}$",
+        "Homozygous $\\text{Dominant}$",
+        "Homozygous $\\text{Recessive}$",
+        "Pure $\\text{Breeding}$"
+      ],
+      "answer": "Homozygous $\\text{Recessive}$",
+      "explanation": "A $\\text{Test}$ $\\text{Cross}$ involves crossing an unknown dominant phenotype ($\\text{A}\\_$) with a known $\\text{Homozygous}$ $\\text{Recessive}$ ($\\text{aa}$) individual. If any offspring show the recessive phenotype, the unknown parent must be $\\text{Heterozygous}$ ($\\text{Aa}$)."
+    },
+    {
+      "id": "BIO_2011_32",
+      "text": "Viruses are often considered to be non-living outside a host because they:",
+      "image": "[Diagram of a bacteriophage virus]",
+      "options": [
+        "Lack a $\\text{Cell}$ $\\text{Wall}$",
+        "Cannot $\\text{Reproduce}$ $\\text{Independently}$",
+        "Have $\\text{DNA}$ and $\\text{RNA}$",
+        "Are $\\text{Too}$ $\\text{Small}$"
+      ],
+      "answer": "Cannot $\\text{Reproduce}$ $\\text{Independently}$",
+      "explanation": "Viruses are $\\text{Obligate}$ $\\text{Intracellular}$ $\\text{Parasites}$ and must hijack the host cell's machinery to $\\text{Replicate}$ and $\\text{Synthesize}$ $\\text{Proteins}$. They exhibit no metabolism or reproduction outside a living cell."
+    },
+    {
+      "id": "BIO_2011_33",
+      "text": "The hormone $\\text{Adrenaline}$ (Epinephrine) is released in response to:",
+      "image": "[Diagram showing Adrenaline initiating the Fight-or-Flight response]",
+      "options": [
+        "Low $\\text{Blood}$ $\\text{Sugar}$ $\\text{Level}$",
+        "Stress and $\\text{Fear}$",
+        "Sleep $\\text{Regulation}$",
+        "Growth $\\text{Stimulation}$"
+      ],
+      "answer": "Stress and $\\text{Fear}$",
+      "explanation": "$\\text{Adrenaline}$, secreted by the $\\text{Adrenal}$ $\\text{Glands}$, mediates the $\\text{Fight}$-$\\text{or}$-$\\text{Flight}$ $\\text{Response}$ by increasing $\\text{Heart}$ $\\text{Rate}$, $\\text{Blood}$ $\\text{Pressure}$, and $\\text{Blood}$ $\\text{Glucose}$ $\\text{Levels}$."
+    },
+    {
+      "id": "BIO_2011_34",
+      "text": "The major products of the $\\text{Light}$-$\\text{Dependent}$ $\\text{Reactions}$ of $\\text{Photosynthesis}$ are $\\text{ATP}$, $\\text{NADPH}$, and:",
+      "image": "[Diagram of the Light-Dependent Reaction cycle]",
+      "options": [
+        "Water",
+        "Glucose",
+        "Carbon $\\text{Dioxide}$",
+        "Oxygen"
+      ],
+      "answer": "Oxygen",
+      "explanation": "In the $\\text{Light}$-$\\text{Dependent}$ $\\text{Reactions}$, $\\text{Water}$ is split ($\\text{Photolysis}$) to replace electrons in $\\text{Chlorophyll}$, releasing $\\text{Oxygen}$ as a $\\text{Byproduct}$ and producing energy carriers $\\text{ATP}$ and $\\text{NADPH}$."
+    },
+    {
+      "id": "BIO_2011_35",
+      "text": "The importance of $\\text{Humus}$ in the soil is primarily to:",
+      "image": "",
+      "options": [
+        "Prevent $\\text{Water}$ $\\text{Retention}$",
+        "Increase $\\text{Soil}$ $\\text{Temperature}$",
+        "Improve $\\text{Soil}$ $\\text{Structure}$ and $\\text{Water}$ $\\text{Retention}$",
+        "Provide $\\text{Inorganic}$ $\\text{Nutrients}$ $\\text{Immediately}$"
+      ],
+      "answer": "Improve $\\text{Soil}$ $\\text{Structure}$ and $\\text{Water}$ $\\text{Retention}$",
+      "explanation": "$\\text{Humus}$ is the $\\text{Decomposed}$ $\\text{Organic}$ $\\text{Matter}$ in soil. It greatly improves soil $\\text{Aeration}$, $\\text{Drainage}$, and the ability to $\\text{Hold}$ $\\text{Water}$ and $\\text{Nutrients}$."
+    },
+    {
+      "id": "BIO_2011_36",
+      "text": "In the $\\text{Water}$ $\\text{Cycle}$, the process of $\\text{Transpiration}$ contributes to $\\text{Water}$ $\\text{Vapour}$ in the atmosphere. This process involves the loss of water through the plant's:",
+      "image": "[Diagram illustrating water loss from a plant leaf (Transpiration)]",
+      "options": [
+        "Roots",
+        "Xylem $\\text{Vessels}$",
+        "Stomata",
+        "Lenticels"
+      ],
+      "answer": "Stomata",
+      "explanation": "$\\text{Transpiration}$ is mainly the loss of $\\text{Water}$ $\\text{Vapour}$ from the $\\text{Stomata}$ (pores) on the leaf surface, which is controlled by the $\\text{Guard}$ $\\text{Cells}$."
+    },
+    {
+      "id": "BIO_2011_37",
+      "text": "The type of $\\text{Movement}$ exhibited by $\\text{Paramecium}$ and cells lining the $\\text{Trachea}$ in humans is:",
+      "image": "[Microscopic image of Cilia on Paramecium]",
+      "options": [
+        "Amoeboid $\\text{Movement}$",
+        "Flagellar $\\text{Movement}$",
+        "Ciliary $\\text{Movement}$",
+        "Peristalsis"
+      ],
+      "answer": "Ciliary $\\text{Movement}$",
+      "explanation": "$\\text{Cilia}$ are small, hair-like projections that beat in a coordinated manner. They are used for locomotion in $\\text{Paramecium}$ and for moving $\\text{Mucus}$ (and trapped particles) in the mammalian $\\text{Trachea}$."
+    },
+    {
+      "id": "BIO_2011_38",
+      "text": "The $\\text{Endoplasmic}$ $\\text{Reticulum}$ is involved in all the following $\\text{Functions}$ $\\text{EXCEPT}$:",
+      "image": "[Diagram of Rough and Smooth Endoplasmic Reticulum]",
+      "options": [
+        "Synthesis of $\\text{Lipids}$",
+        "Detoxification of $\\text{Drugs}$",
+        "Protein $\\text{Synthesis}$ and $\\text{Transport}$",
+        "Packaging of $\\text{Secretory}$ $\\text{Vesicles}$"
+      ],
+      "answer": "Packaging of $\\text{Secretory}$ $\\text{Vesicles}$",
+      "explanation": "The $\\text{Rough}$ $\\text{ER}$ synthesizes and transports $\\text{Proteins}$. The $\\text{Smooth}$ $\\text{ER}$ synthesizes $\\text{Lipids}$ and $\\text{Detoxifies}$ $\\text{Drugs}$. $\\text{Packaging}$ is primarily the role of the $\\text{Golgi}$ $\\text{Apparatus}$."
+    },
+    {
+      "id": "BIO_2011_39",
+      "text": "The site of $\\text{Fertilization}$ in the female human reproductive system is normally the:",
+      "image": "[Diagram of the female reproductive system highlighting the Fallopian Tube]",
+      "options": [
+        "Uterus",
+        "Vagina",
+        "Ovary",
+        "Fallopian $\\text{Tube}$ ($\\text{Oviduct}$)"
+      ],
+      "answer": "Fallopian $\\text{Tube}$ ($\\text{Oviduct}$)",
+      "explanation": "Fertilization, the fusion of the $\\text{Sperm}$ and the $\\text{Egg}$, usually occurs in the $\\text{Ampulla}$ region of the $\\text{Fallopian}$ $\\text{Tube}$."
+    },
+    {
+      "id": "BIO_2011_40",
+      "text": "The inner region of the $\\text{Spinal}$ $\\text{Cord}$, which is $\\text{H}$-$\\text{Shaped}$ and contains the cell bodies of $\\text{Neurons}$, is the:",
+      "image": "[Cross-section of the Spinal Cord showing Grey and White matter]",
+      "options": [
+        "White $\\text{Matter}$",
+        "Grey $\\text{Matter}$",
+        "Dorsal $\\text{Root}$",
+        "Ventral $\\text{Root}$"
+      ],
+      "answer": "Grey $\\text{Matter}$",
+      "explanation": "The $\\text{Grey}$ $\\text{Matter}$ is the central, $\\text{H}$-$\\text{Shaped}$ region of the $\\text{Spinal}$ $\\text{Cord}$ composed mainly of $\\text{Neuron}$ $\\text{Cell}$ $\\text{Bodies}$, $\\text{Dendrites}$, $\\text{Axon}$ $\\text{Terminals}$, and $\\text{Glia}$. The $\\text{White}$ $\\text{Matter}$ surrounds it and contains myelinated $\\text{Axons}$."
+    }
+  ]

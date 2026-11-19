@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM41",
+        "text": "The $\\textbf{Quintuple Bottom Line}$ framework expands on $\\textbf{Triple Bottom Line}$ by adding $\\textbf{Ethics}$ and $\\textbf{Equity}$ to People, Planet, and $\\textbf{Profit}$.",
+        "image": "",
+        "options": [
+            "Technology",
+            "Governance",
+            "Ethics",
+            "Risk"
+        ],
+        "answer": "Ethics",
+        "explanation": "The Quintuple Bottom Line (5Ps) adds Purpose/Equity and Ethics/Governance to the traditional 3Ps (People, Planet, Profit) for holistic reporting."
+    },
+    {
+        "id": "COM42",
+        "text": "The principle of $\\textbf{Utmost Good Faith}$ ($\\,\\textbf{Uberrimae Fidei}$) is a fundamental requirement in all forms of $\\textbf{Insurance}$ contracts.",
+        "image": "",
+        "options": [
+            "Sales Contracts",
+            "Employment Contracts",
+            "Insurance",
+            "Lease Agreements"
+        ],
+        "answer": "Insurance",
+        "explanation": "It requires that all parties to an insurance contract disclose every material fact accurately, as one party (the insurer) relies entirely on the information provided by the other."
+    },
+    {
+        "id": "COM43",
+        "text": "The $\\textbf{Marketing Funnel}$ model typically moves customers through stages like Awareness, Interest, Desire, and finally $\\textbf{Action}$.",
+        "image": "",
+        "options": [
+            "Budgeting",
+            "Evaluation",
+            "Action",
+            "Strategy"
+        ],
+        "answer": "Action",
+        "explanation": "The final stage (Action) represents the desired outcome, usually a purchase or conversion."
+    },
+    {
+        "id": "COM44",
+        "text": "In $\\textbf{Commercial Banking}$, a $\\textbf{Certificate of Deposit}$ ($\\,\\textbf{CD}$) is a financial instrument that offers a fixed $\\textbf{Interest Rate}$ for a specified $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Credit Card",
+            "Checking Account",
+            "Certificate of Deposit",
+            "Treasury Bill"
+        ],
+        "answer": "Certificate of Deposit",
+        "explanation": "CDs are generally considered low-risk because the principal is insured, but access to funds is restricted until maturity."
+    },
+    {
+        "id": "COM45",
+        "text": "$\\textbf{Just-In-Time}$ ($\\,\\textbf{JIT}$) inventory management aims to reduce $\\textbf{Waste}$ and costs by receiving goods from suppliers only as they are $\\textbf{Needed}$ for $\\textbf{Production}$.",
+        "image": "",
+        "options": [
+            "Mass Storage",
+            "Buffer Stock",
+            "Just-In-Time",
+            "Safety Stock"
+        ],
+        "answer": "Just-In-Time",
+        "explanation": "JIT minimizes warehousing costs and inventory obsolescence but increases reliance on efficient logistics."
+    },
+    {
+        "id": "COM46",
+        "text": "The concept of $\\textbf{Vicarious Liability}$ in $\\textbf{Commercial Law}$ holds an employer responsible for the $\\textbf{Actions}$ of their $\\textbf{Employees}$ committed within the scope of their employment.",
+        "image": "",
+        "options": [
+            "Employee Only",
+            "Customer",
+            "Employer",
+            "Government"
+        ],
+        "answer": "Employer",
+        "explanation": "This principle is common in agency law, where the principal (employer) is liable for the torts of the agent (employee)."
+    },
+    {
+        "id": "COM47",
+        "text": "The $\\textbf{Boston Consulting Group}$ ($\\,\\textbf{BCG}$) Matrix classifies a company's product portfolio based on market growth rate and relative $\\textbf{Market Share}$.",
+        "image": "",
+        "options": [
+            "Profit Margin",
+            "Brand Loyalty",
+            "Market Share",
+            "Sales Volume"
+        ],
+        "answer": "Market Share",
+        "explanation": "Products are categorized into Stars, Cash Cows, Question Marks, and Dogs, guiding investment strategy."
+    },
+    {
+        "id": "COM48",
+        "text": "The $\\textbf{General Partnership}$ is a business structure where all partners share $\\textbf{Equal}$ management rights and $\\textbf{Unlimited Liability}$.",
+        "image": "",
+        "options": [
+            "Limited Liability Partnership",
+            "Corporation",
+            "General Partnership",
+            "Limited Partnership"
+        ],
+        "answer": "General Partnership",
+        "explanation": "Each partner is personally liable for all business debts, even those incurred by other partners."
+    },
+    {
+        "id": "COM49",
+        "text": "A $\\textbf{Bailment}$ in $\\textbf{Commercial Law}$ involves the transfer of $\\textbf{Possession}$ of $\\textbf{Goods}$ from the bailor to the bailee, without the transfer of $\\textbf{Ownership}$.",
+        "image": "",
+        "options": [
+            "Title",
+            "Possession",
+            "Risk",
+            "Liability"
+        ],
+        "answer": "Possession",
+        "explanation": "This occurs when goods are left for repair, storage, or transportation."
+    },
+    {
+        "id": "COM50",
+        "text": "The $\\textbf{Monetary Policy}$ conducted by a nation's $\\textbf{Central Bank}$ (e.g., the $\\textbf{Federal Reserve}$) primarily manages the supply of $\\textbf{Money}$ and $\\textbf{Credit}$ to influence the economy.",
+        "image": "",
+        "options": [
+            "Taxation",
+            "Government Spending",
+            "Supply of Money and Credit",
+            "Trade Tariffs"
+        ],
+        "answer": "Supply of Money and Credit",
+        "explanation": "Tools include adjusting interest rates, reserve requirements, and open market operations."
+    },
+    {
+        "id": "COM51",
+        "text": "In $\\textbf{Marketing}$, $\\textbf{Market Segmentation}$ is the process of dividing a broad consumer market into $\\textbf{Subgroups}$ of consumers who share common $\\textbf{Characteristics}$.",
+        "image": "",
+        "options": [
+            "Targeting",
+            "Positioning",
+            "Market Segmentation",
+            "Benchmarking"
+        ],
+        "answer": "Market Segmentation",
+        "explanation": "Segmentation allows companies to tailor their products and marketing efforts more effectively."
+    },
+    {
+        "id": "COM52",
+        "text": "The $\\textbf{Securities and Exchange Commission}$ ($\\,\\textbf{SEC}$) is the US government agency responsible for protecting investors and regulating $\\textbf{Stock Markets}$.",
+        "image": "",
+        "options": [
+            "Federal Reserve",
+            "Internal Revenue Service",
+            "Securities and Exchange Commission",
+            "Federal Trade Commission"
+        ],
+        "answer": "Securities and Exchange Commission",
+        "explanation": "The SEC enforces laws requiring public companies to disclose financial information."
+    },
+    {
+        "id": "COM53",
+        "text": "The concept of $\\textbf{Demutualization}$ in finance refers to a $\\textbf{Mutual Organization}$ (owned by its members) converting into a company owned by $\\textbf{Shareholders}$.",
+        "image": "",
+        "options": [
+            "Partnership",
+            "Sole Proprietorship",
+            "Mutual Organization",
+            "Non-Profit"
+        ],
+        "answer": "Mutual Organization",
+        "explanation": "This is common in the insurance and banking sectors, allowing the organization to raise capital through the sale of shares."
+    },
+    {
+        "id": "COM54",
+        "text": "The $\\textbf{Supply Curve}$ in economics generally slopes $\\textbf{Upward}$ and to the $\\textbf{Right}$, indicating that higher prices lead to a greater $\\textbf{Quantity Supplied}$.",
+        "image": "",
+        "options": [
+            "Downward and to the Right",
+            "Upward",
+            "Vertical",
+            "Horizontal"
+        ],
+        "answer": "Upward",
+        "explanation": "This is based on the law of supply: producers are willing to supply more when prices are higher."
+    },
+    {
+        "id": "COM55",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Consideration}$ is the essential element that distinguishes a contract from a $\\textbf{Gift}$.",
+        "image": "",
+        "options": [
+            "Offer",
+            "Acceptance",
+            "Consideration",
+            "Capacity"
+        ],
+        "answer": "Consideration",
+        "explanation": "Consideration is something of value exchanged between the parties (e.g., money, goods, or a promise to perform)."
+    },
+    {
+        "id": "COM56",
+        "text": "The $\\textbf{Product Life Cycle}$ ($\\,\\textbf{PLC}$) stages are Introduction, $\\textbf{Growth}$, Maturity, and $\\textbf{Decline}$.",
+        "image": "",
+        "options": [
+            "Pre-Launch",
+            "Innovation",
+            "Growth",
+            "Rejuvenation"
+        ],
+        "answer": "Growth",
+        "explanation": "The growth stage is characterized by increasing sales, rising profits, and the emergence of competitors."
+    },
+    {
+        "id": "COM57",
+        "text": "The term $\\textbf{FAS}$ (Free Alongside Ship) in $\\textbf{Incoterms}$ means the $\\textbf{Seller}$ fulfills the delivery obligation when the goods are placed alongside the $\\textbf{Vessel}$ at the named $\\textbf{Port}$.",
+        "image": "",
+        "options": [
+            "Buyer",
+            "Carrier",
+            "Seller",
+            "Bank"
+        ],
+        "answer": "Seller",
+        "explanation": "The risk of loss or damage to the goods passes when the goods are alongside the ship."
+    },
+    {
+        "id": "COM58",
+        "text": "In $\\textbf{Logistics}$, $\\textbf{Intermodal Transport}$ involves using two or more $\\textbf{Modes}$ of $\\textbf{Transportation}$ (e.g., rail and $\\textbf{Ship}$) under a single $\\textbf{Contract}$.",
+        "image": "",
+        "options": [
+            "Road Only",
+            "Air Only",
+            "One Mode Only",
+            "Two or More Modes"
+        ],
+        "answer": "Two or More Modes",
+        "explanation": "Intermodal transport optimizes the use of different transport modes for efficiency and cost reduction."
+    },
+    {
+        "id": "COM59",
+        "text": "$\\textbf{Economic Globalization}$ involves the increasing interdependence of world $\\textbf{Economies}$ as a result of the growing scale of $\\textbf{Cross-Border}$ $\\textbf{Trade}$ and capital flow.",
+        "image": "",
+        "options": [
+            "Local Market Focus",
+            "Cross-Border Trade and Capital Flow",
+            "Government Control",
+            "Cultural Homogeneity"
+        ],
+        "answer": "Cross-Border Trade and Capital Flow",
+        "explanation": "Key drivers include technological advances, liberalization of trade, and the rise of multinational corporations."
+    },
+    {
+        "id": "COM60",
+        "text": "A $\\textbf{Certificate of Origin}$ is a document used in $\\textbf{Foreign Trade}$ that certifies the $\\textbf{Country}$ where a product was $\\textbf{Manufactured}$ or produced.",
+        "image": "",
+        "options": [
+            "Product Price",
+            "Quality Standard",
+            "Country",
+            "Shipping Date"
+        ],
+        "answer": "Country",
+        "explanation": "This document is required by customs authorities to determine tariffs and whether goods are eligible for preferential treatment under trade agreements."
+    },
+    {
+        "id": "COM61",
+        "text": "The $\\textbf{Board of Directors}$ (in a corporation) is the governing body elected by $\\textbf{Shareholders}$ to oversee the $\\textbf{Management}$ and set strategic $\\textbf{Policy}$.",
+        "image": "",
+        "options": [
+            "CEO",
+            "CFO",
+            "Shareholders",
+            "Employees"
+        ],
+        "answer": "Shareholders",
+        "explanation": "The board represents the interests of the owners (shareholders) and hires the senior management team."
+    },
+    {
+        "id": "COM62",
+        "text": "The $\\textbf{Cash Discount}$ is an incentive offered by the seller to encourage the buyer to pay the invoice $\\textbf{Promptly}$ (e.g., '2/10, net 30').",
+        "image": "",
+        "options": [
+            "Quantity Discount",
+            "Trade Discount",
+            "Cash Discount",
+            "Seasonal Discount"
+        ],
+        "answer": "Cash Discount",
+        "explanation": "If the payment is made within the specified early period, the buyer can deduct a percentage of the total amount due."
+    },
+    {
+        "id": "COM63",
+        "text": "In $\\textbf{Risk Management}$, $\\textbf{Risk Retention}$ is the acceptance of $\\textbf{Risk}$ because the potential loss is deemed too small or too $\\textbf{Costly}$ to insure.",
+        "image": "",
+        "options": [
+            "Risk Avoidance",
+            "Risk Transfer",
+            "Risk Mitigation",
+            "Risk Retention"
+        ],
+        "answer": "Risk Retention",
+        "explanation": "This often involves setting aside funds (self-insurance) to cover anticipated small losses."
+    },
+    {
+        "id": "COM64",
+        "text": "The $\\textbf{Limited Partnership}$ ($\\,\\textbf{LP}$) must have at least one $\\textbf{General Partner}$ (with unlimited liability) and one $\\textbf{Limited Partner}$ (with limited liability).",
+        "image": "",
+        "options": [
+            "Limited Partner",
+            "Corporate Partner",
+            "General Partner",
+            "Silent Partner"
+        ],
+        "answer": "General Partner",
+        "explanation": "The general partner runs the business and accepts full liability, while limited partners are passive investors."
+    },
+    {
+        "id": "COM65",
+        "text": "A $\\textbf{Demand Curve}$ in commerce slopes $\\textbf{Downward}$ and to the $\\textbf{Right}$, showing that as price decreases, the quantity demanded $\\textbf{Increases}$.",
+        "image": "",
+        "options": [
+            "Upward and to the Right",
+            "Downward",
+            "Horizontal",
+            "Vertical"
+        ],
+        "answer": "Downward",
+        "explanation": "This inverse relationship between price and quantity demanded is known as the law of demand."
+    },
+    {
+        "id": "COM66",
+        "text": "The $\\textbf{Psychographic}$ segmentation variable divides consumers based on their $\\textbf{Lifestyle}$, values, attitudes, and $\\textbf{Personality}$.",
+        "image": "",
+        "options": [
+            "Income",
+            "Geography",
+            "Lifestyle",
+            "Purchase History"
+        ],
+        "answer": "Lifestyle",
+        "explanation": "Psychographics delve into the 'why' behind consumer behavior, unlike demographics which focus on the 'who'."
+    },
+    {
+        "id": "COM67",
+        "text": "A $\\textbf{Copyright}$ legally protects original works of $\\textbf{Authorship}$, such as books, music, and $\\textbf{Software Code}$, for a specified duration.",
+        "image": "",
+        "options": [
+            "Name/Logo",
+            "Invention",
+            "Authorship",
+            "Process"
+        ],
+        "answer": "Authorship",
+        "explanation": "Copyright protects the expression of an idea, not the idea itself."
+    },
+    {
+        "id": "COM68",
+        "text": "The $\\textbf{Price Skimming}$ strategy involves setting a deliberately $\\textbf{High}$ initial $\\textbf{Price}$ for a new product, often used for $\\textbf{Innovative}$ goods.",
+        "image": "",
+        "options": [
+            "Low",
+            "Average",
+            "High",
+            "Discounted"
+        ],
+        "answer": "High",
+        "explanation": "The goal is to 'skim' maximum revenue from segments willing to pay the high price before competitors enter the market."
+    },
+    {
+        "id": "COM69",
+        "text": "The $\\textbf{Balance of Trade}$ (part of the $\\textbf{Balance of Payments}$) is the difference between a country's total $\\textbf{Exports}$ and total $\\textbf{Imports}$ of $\\textbf{Goods}$.",
+        "image": "",
+        "options": [
+            "Services",
+            "Investments",
+            "Exports",
+            "Capital"
+        ],
+        "answer": "Exports",
+        "explanation": "A trade surplus occurs when exports exceed imports; a trade deficit occurs when imports exceed exports."
+    },
+    {
+        "id": "COM70",
+        "text": "A $\\textbf{Horizontal Merger}$ involves two or more companies operating at the $\\textbf{Same}$ $\\textbf{Level}$ of the supply chain (e.g., two competing $\\textbf{Retailers}$) merging.",
+        "image": "",
+        "options": [
+            "Vertical Merger",
+            "Conglomerate Merger",
+            "Horizontal Merger",
+            "Market Extension Merger"
+        ],
+        "answer": "Horizontal Merger",
+        "explanation": "Horizontal mergers often aim to increase market share and achieve economies of scale."
+    },
+    {
+        "id": "COM71",
+        "text": "In a $\\textbf{Bilateral Contract}$, both parties exchange a $\\textbf{Promise}$ for a $\\textbf{Promise}$, creating reciprocal $\\textbf{Obligations}$.",
+        "image": "",
+        "options": [
+            "Performance",
+            "Goods",
+            "Promise",
+            "Service"
+        ],
+        "answer": "Promise",
+        "explanation": "Most commercial contracts are bilateral, meaning acceptance is communicated by a promise to perform."
+    },
+    {
+        "id": "COM72",
+        "text": "The $\\textbf{Bull Market}$ in finance is characterized by generally $\\textbf{Rising}$ $\\textbf{Stock Prices}$ and widespread $\\textbf{Optimism}$ among $\\textbf{Investors}$.",
+        "image": "",
+        "options": [
+            "Declining",
+            "Volatile",
+            "Rising",
+            "Stable"
+        ],
+        "answer": "Rising",
+        "explanation": "A bear market is the opposite, characterized by declining prices and pessimism."
+    },
+    {
+        "id": "COM73",
+        "text": "A $\\textbf{Venture Capital}$ firm invests in $\\textbf{High-Growth}$ $\\textbf{Startups}$ in exchange for $\\textbf{Equity}$ ownership.",
+        "image": "",
+        "options": [
+            "Low-Risk",
+            "Publicly Traded",
+            "High-Growth",
+            "Mature"
+        ],
+        "answer": "High-Growth",
+        "explanation": "Venture capital is a crucial source of funding for technology and innovative companies, focusing on high potential returns despite high risk."
+    },
+    {
+        "id": "COM74",
+        "text": "The $\\textbf{Public Relations}$ ($\\,\\textbf{PR}$) function of marketing manages the $\\textbf{Image}$ and $\\textbf{Communication}$ between an organization and its $\\textbf{Public}$.",
+        "image": "",
+        "options": [
+            "Direct Sales",
+            "Pricing",
+            "Public Relations",
+            "Product Development"
+        ],
+        "answer": "Public Relations",
+        "explanation": "PR aims to secure favorable publicity, build a good corporate image, and handle unfavorable rumors or events."
+    },
+    {
+        "id": "COM75",
+        "text": "The $\\textbf{Just-In-Time}$ ($\\,\\textbf{JIT}$) system in logistics requires extremely high levels of $\\textbf{Quality Control}$ because there is little $\\textbf{Buffer Stock}$ to replace defective parts.",
+        "image": "",
+        "options": [
+            "Low Quality Control",
+            "High Quality Control",
+            "Mass Production",
+            "Slow Delivery"
+        ],
+        "answer": "High Quality Control",
+        "explanation": "Defects halt the entire production line in JIT, making perfect quality a prerequisite."
+    },
+    {
+        "id": "COM76",
+        "text": "The concept of $\\textbf{Business Ethics}$ relates to the moral principles and $\\textbf{Standards}$ that govern the $\\textbf{Conduct}$ of individuals and $\\textbf{Organizations}$ in the world of commerce.",
+        "image": "",
+        "options": [
+            "Legal Compliance Only",
+            "Profit Maximization",
+            "Moral Principles and Standards",
+            "Technological Innovation"
+        ],
+        "answer": "Moral Principles and Standards",
+        "explanation": "Business ethics addresses issues like corporate social responsibility, transparency, and fairness."
+    },
+    {
+        "id": "COM77",
+        "text": "A $\\textbf{Demographic}$ factor that significantly influences consumer $\\textbf{Buying Behavior}$ is the $\\textbf{Life Cycle Stage}$ (e.g., student, newly married, retired).",
+        "image": "",
+        "options": [
+            "Climate",
+            "Life Cycle Stage",
+            "Political Affiliation",
+            "Personality"
+        ],
+        "answer": "Life Cycle Stage",
+        "explanation": "Consumption patterns change significantly as individuals move through different stages of their lives."
+    },
+    {
+        "id": "COM78",
+        "text": "The $\\textbf{Ex-Works}$ ($\\,\\textbf{EXW}$) $\\textbf{Incoterm}$ places the maximum $\\textbf{Obligation}$ and $\\textbf{Risk}$ on the $\\textbf{Buyer}$ in international trade.",
+        "image": "",
+        "options": [
+            "Seller",
+            "Carrier",
+            "Buyer",
+            "Customs"
+        ],
+        "answer": "Buyer",
+        "explanation": "Under EXW, the seller simply makes the goods available at their premises; the buyer handles all transportation, insurance, and customs."
+    },
+    {
+        "id": "COM79",
+        "text": "The $\\textbf{European Union}$ ($\\,\\textbf{EU}$) is the closest example of a full $\\textbf{Economic Union}$, featuring a common market and a common $\\textbf{Currency}$ (the $\\textbf{Euro}$).",
+        "image": "",
+        "options": [
+            "Customs Union",
+            "Free Trade Area",
+            "Economic Union",
+            "Common Market"
+        ],
+        "answer": "Economic Union",
+        "explanation": "An economic union integrates policies, including monetary policy, in addition to free movement of goods, labor, and capital."
+    },
+    {
+        "id": "COM80",
+        "text": "The $\\textbf{Wholesaler}$ plays a critical role in the $\\textbf{Distribution Channel}$ by $\\textbf{Breaking Bulk}$ (buying large quantities and selling small quantities to $\\textbf{Retailers}$).",
+        "image": "",
+        "options": [
+            "Manufacturing",
+            "Advertising",
+            "Breaking Bulk",
+            "Product Design"
+        ],
+        "answer": "Breaking Bulk",
+        "explanation": "This function makes goods accessible and manageable for small retailers."
+    }
+]

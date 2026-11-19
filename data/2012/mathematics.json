@@ -1,0 +1,522 @@
+[
+    {
+      "id": "MATHS_2012_01",
+      "text": "Express $0.00572$ in standard form.",
+      "image": "",
+      "options": [
+        "$5.72 \\times 10^{-2}$",
+        "$5.72 \\times 10^{-3}$",
+        "$5.72 \\times 10^3$",
+        "$5.72 \\times 10^{-4}$"
+      ],
+      "answer": "$5.72 \\times 10^{-3}$",
+      "explanation": "Move the decimal point 3 places to the right: $0.00572 = 5.72 \\times 10^{-3}$."
+    },
+    {
+      "id": "MATHS_2012_02",
+      "text": "Simplify $\\frac{2^5 \\times 4^{-2}}{16^{1/2}}$.",
+      "image": "",
+      "options": [
+        "$4$",
+        "$1/2$",
+        "$1$",
+        "$8$"
+      ],
+      "answer": "$1/2$",
+      "explanation": "Simplify: $4^{-2} = (2^2)^{-2} = 2^{-4}$. $16^{1/2} = \\sqrt{16} = 4 = 2^2$. The expression is $\\frac{2^5 \\times 2^{-4}}{2^2} = \\frac{2^{5 - 4}}{2^2} = \\frac{2^1}{2^2} = 2^{1 - 2} = 2^{-1} = 1/2$."
+    },
+    {
+      "id": "MATHS_2012_03",
+      "text": "If $\\log_2 (x + 1) = 3$, find the value of $x$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "answer": "$7$",
+      "explanation": "Convert from logarithmic to index form: $x + 1 = 2^3$. $x + 1 = 8$. $x = 8 - 1 = 7$."
+    },
+    {
+      "id": "MATHS_2012_04",
+      "text": "Rationalize the denominator of $\\frac{1}{\\sqrt{3} - 1}$.",
+      "image": "",
+      "options": [
+        "$\\frac{\\sqrt{3} - 1}{2}$",
+        "$\\frac{\\sqrt{3} + 1}{2}$",
+        "$\\frac{\\sqrt{3} + 1}{4}$",
+        "$\\sqrt{3} + 1$"
+      ],
+      "answer": "$\\frac{\\sqrt{3} + 1}{2}$",
+      "explanation": "Multiply by the conjugate $\\sqrt{3} + 1$: $\\frac{1}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{\\sqrt{3} + 1}{(\\sqrt{3})^2 - 1^2} = \\frac{\\sqrt{3} + 1}{3 - 1} = \\frac{\\sqrt{3} + 1}{2}$."
+    },
+    {
+      "id": "MATHS_2012_05",
+      "text": "Factorize the expression $y^2 - 10y + 24$.",
+      "image": "",
+      "options": [
+        "$(y + 6)(y + 4)$",
+        "$(y - 6)(y + 4)$",
+        "$(y - 6)(y - 4)$",
+        "$(y - 8)(y - 3)$"
+      ],
+      "answer": "$(y - 6)(y - 4)$",
+      "explanation": "We need two numbers that multiply to $+24$ and add up to $-10$. These numbers are $-6$ and $-4$. Thus, $(y - 6)(y - 4)$."
+    },
+    {
+      "id": "MATHS_2012_06",
+      "text": "Solve the simultaneous equations: $2x + y = 7$ and $x - y = 2$.",
+      "image": "",
+      "options": [
+        "$x=2, y=3$",
+        "$x=3, y=1$",
+        "$x=4, y=-1$",
+        "$x=5, y=-3$"
+      ],
+      "answer": "$x=3, y=1$",
+      "explanation": "Adding the two equations: $(2x + y) + (x - y) = 7 + 2 \\implies 3x = 9 \\implies x = 3$. Substitute $x=3$ into the second equation: $3 - y = 2 \\implies y = 3 - 2 = 1$."
+    },
+    {
+      "id": "MATHS_2012_07",
+      "text": "Find the values of $x$ for which $2x^2 + 5x - 3 = 0$.",
+      "image": "[Graph of a parabola showing x-intercepts]",
+      "options": [
+        "$x=1$ or $x=-3$",
+        "$x=1/2$ or $x=-3$",
+        "$x=-1/2$ or $x=3$",
+        "$x=2$ or $x=-1/3$"
+      ],
+      "answer": "$x=1/2$ or $x=-3$",
+      "explanation": "Factorize: $(2x - 1)(x + 3) = 0$. This gives $2x - 1 = 0 \\implies x = 1/2$ or $x + 3 = 0 \\implies x = -3$."
+    },
+    {
+      "id": "MATHS_2012_08",
+      "text": "If $M$ is directly proportional to $L$ and $M=12$ when $L=4$, find the value of $M$ when $L=5$.",
+      "image": "",
+      "options": [
+        "$15$",
+        "$10$",
+        "$16$",
+        "$12$"
+      ],
+      "answer": "$15$",
+      "explanation": "The relationship is $M = kL$. Substitute $(L, M) = (4, 12)$: $12 = k(4) \\implies k = 3$. The equation is $M = 3L$. When $L=5$, $M = 3(5) = 15$."
+    },
+    {
+      "id": "MATHS_2012_09",
+      "text": "Solve the inequality $4 - 3x \\geq 10$.",
+      "image": "[Number line graph showing inequality x <= -2]",
+      "options": [
+        "$x \\geq -2$",
+        "$x \\leq 2$",
+        "$x \\leq -2$",
+        "$x \\geq 2$"
+      ],
+      "answer": "$x \\leq -2$",
+      "explanation": "Subtract 4 from both sides: $-3x \\geq 6$. Divide by $-3$ and reverse the inequality sign: $x \\leq -2$."
+    },
+    {
+      "id": "MATHS_2012_10",
+      "text": "If $f(x) = 2x - 5$, find the value of $f(-1)$.",
+      "image": "",
+      "options": [
+        "$-3$",
+        "$3$",
+        "$-7$",
+        "$7$"
+      ],
+      "answer": "$-7$",
+      "explanation": "Substitute $x = -1$: $f(-1) = 2(-1) - 5 = -2 - 5 = -7$."
+    },
+    {
+      "id": "MATHS_2012_11",
+      "text": "Find the $10^{\\text{th}}$ term of the Arithmetic Progression (A.P.) $2, 5, 8, \\dots$.",
+      "image": "",
+      "options": [
+        "$26$",
+        "$29$",
+        "$32$",
+        "$35$"
+      ],
+      "answer": "$29$",
+      "explanation": "First term $a=2$. Common difference $d = 5 - 2 = 3$. The $n^{\\text{th}}$ term is $T_n = a + (n-1)d$. $T_{10} = 2 + (10 - 1)3 = 2 + 9(3) = 2 + 27 = 29$."
+    },
+    {
+      "id": "MATHS_2012_12",
+      "text": "Find the sum of the first 4 terms of the Geometric Progression (G.P.) $3, 6, 12, \\dots$.",
+      "image": "",
+      "options": [
+        "$36$",
+        "$39$",
+        "$45$",
+        "$48$"
+      ],
+      "answer": "$45$",
+      "explanation": "First term $a=3$. Common ratio $r = 6/3 = 2$. Sum of $n$ terms is $S_n = \\frac{a(r^n - 1)}{r - 1}$. $S_4 = \\frac{3(2^4 - 1)}{2 - 1} = \\frac{3(16 - 1)}{1} = 3(15) = 45$."
+    },
+    {
+      "id": "MATHS_2012_13",
+      "text": "If $P = \\{1, 3, 5, 7\\}$ and $Q = \\{2, 3, 6, 7\\}$, find $P \\cup Q$.",
+      "image": "[Venn Diagram showing the union of sets P and Q]",
+      "options": [
+        "\\{3, 7\\}",
+        "\\{1, 2, 3, 5, 6, 7\\}",
+        "\\{1, 2, 5, 6\\}",
+        "\\{1, 2, 3, 5, 7\\}"
+      ],
+      "answer": "\\{1, 2, 3, 5, 6, 7\\}",
+      "explanation": "The union $P \\cup Q$ contains all elements in set $P$ or set $Q$ (or both). $P \\cup Q = \\{1, 2, 3, 5, 6, 7\\}$."
+    },
+    {
+      "id": "MATHS_2012_14",
+      "text": "The binary operation $\\triangle$ is defined by $a \\triangle b = a^2 + b^2$. Find $5 \\triangle 2$.",
+      "image": "",
+      "options": [
+        "$27$",
+        "$29$",
+        "$20$",
+        "$10$"
+      ],
+      "answer": "$29$",
+      "explanation": "Substitute $a=5$ and $b=2$: $5 \\triangle 2 = 5^2 + 2^2 = 25 + 4 = 29$."
+    },
+    {
+      "id": "MATHS_2012_15",
+      "text": "Convert $11011_2$ to base 10.",
+      "image": "",
+      "options": [
+        "$25_{10}$",
+        "$27_{10}$",
+        "$23_{10}$",
+        "$29_{10}$"
+      ],
+      "answer": "$27_{10}$",
+      "explanation": "Expansion method: $11011_2 = 1 \\times 2^4 + 1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 16 + 8 + 0 + 2 + 1 = 27_{10}$."
+    },
+    {
+      "id": "MATHS_2012_16",
+      "text": "A dealer sold a car for $\\text{N}540,000$ at a profit of $20\\%$. Find the cost price ($\\text{CP}$).",
+      "image": "",
+      "options": [
+        "$\\text{N}480,000$",
+        "$\\text{N}450,000$",
+        "$\\text{N}432,000$",
+        "$\\text{N}500,000$"
+      ],
+      "answer": "$\\text{N}450,000$",
+      "explanation": "Selling Price ($\\text{SP}$) is $100\\% + 20\\% = 120\\%$ of $\\text{CP}$. $\\text{SP} = 1.20 \\times \\text{CP}$. $\\text{CP} = \\text{SP} / 1.20 = 540,000 / 1.2 = 5,400,000 / 12 = \\text{N}450,000$."
+    },
+    {
+      "id": "MATHS_2012_17",
+      "text": "Calculate the simple interest on $\\text{N}25,000$ for $3$ years at $8\\%$ per annum.",
+      "image": "",
+      "options": [
+        "$\\text{N}5,000$",
+        "$\\text{N}6,000$",
+        "$\\text{N}6,500$",
+        "$\\text{N}7,000$"
+      ],
+      "answer": "$\\text{N}6,000$",
+      "explanation": "Simple Interest $I = \\frac{PRT}{100}$. $I = \\frac{25,000 \\times 8 \\times 3}{100} = 250 \\times 24 = \\text{N}6,000$."
+    },
+    {
+      "id": "MATHS_2012_18",
+      "text": "Find the area of a rhombus whose diagonals are $16 \\text{ cm}$ and $12 \\text{ cm}$.",
+      "image": "[Diagram of a rhombus with diagonals labeled]",
+      "options": [
+        "$48 \\text{ cm}^2$",
+        "$72 \\text{ cm}^2$",
+        "$96 \\text{ cm}^2$",
+        "$192 \\text{ cm}^2$"
+      ],
+      "answer": "$96 \\text{ cm}^2$",
+      "explanation": "Area of rhombus $A = \\frac{1}{2} d_1 d_2 = \\frac{1}{2} \\times 16 \\times 12 = 8 \\times 12 = 96 \\text{ cm}^2$."
+    },
+    {
+      "id": "MATHS_2012_19",
+      "text": "The volume of a cylinder is $308 \\text{ cm}^3$ and its height is $8 \\text{ cm}$. Find the radius. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a cylinder with radius and height labeled]",
+      "options": [
+        "$7 \\text{ cm}$",
+        "$3.5 \\text{ cm}$",
+        "$5 \\text{ cm}$",
+        "$4 \\text{ cm}$"
+      ],
+      "answer": "$3.5 \\text{ cm}$",
+      "explanation": "Volume $V = \\pi r^2 h$. $308 = \\frac{22}{7} \\times r^2 \\times 8$. $r^2 = \\frac{308 \\times 7}{22 \\times 8} = \\frac{2156}{176} = 12.25$. $r = \\sqrt{12.25} = 3.5 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2012_20",
+      "text": "In a circle, the angle at the center subtended by an arc is $150^\\circ$. What is the angle at the circumference subtended by the same arc?",
+      "image": "[Circle diagram showing angle at center and angle at circumference]",
+      "options": [
+        "$75^\\circ$",
+        "$150^\\circ$",
+        "$300^\\circ$",
+        "$100^\\circ$"
+      ],
+      "answer": "$75^\\circ$",
+      "explanation": "The angle at the center is twice the angle at the circumference subtended by the same arc. Angle at circumference $= \\frac{1}{2} \\times 150^\\circ = 75^\\circ$."
+    },
+    {
+      "id": "MATHS_2012_21",
+      "text": "Find the size of an exterior angle of a regular octagon.",
+      "image": "[Diagram of a regular octagon with an exterior angle marked]",
+      "options": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$36^\\circ$",
+        "$72^\\circ$"
+      ],
+      "answer": "$45^\\circ$",
+      "explanation": "For a regular polygon with $n$ sides, the exterior angle is $\\frac{360^\\circ}{n}$. For an octagon, $n=8$. Exterior angle $= \\frac{360^\\circ}{8} = 45^\\circ$."
+    },
+    {
+      "id": "MATHS_2012_22",
+      "text": "The locus of points equidistant from a straight line is a:",
+      "image": "[Diagram showing two parallel lines equidistant from a central line]",
+      "options": [
+        "Circle",
+        "Perpendicular line",
+        "Parallel line",
+        "Parabola"
+      ],
+      "answer": "Parallel line",
+      "explanation": "The locus of points equidistant from a given straight line is a pair of parallel lines, one on each side of the given line, at the specified distance."
+    },
+    {
+      "id": "MATHS_2012_23",
+      "text": "Find the distance between the points $(3, 1)$ and $(7, 4)$.",
+      "image": "",
+      "options": [
+        "$\\sqrt{13}$",
+        "$5$",
+        "$\\sqrt{20}$",
+        "$7$"
+      ],
+      "answer": "$5$",
+      "explanation": "Distance $D = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \\sqrt{(7 - 3)^2 + (4 - 1)^2} = \\sqrt{4^2 + 3^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5$."
+    },
+    {
+      "id": "MATHS_2012_24",
+      "text": "Find the gradient of the line $2x + 3y = 6$.",
+      "image": "[Coordinate plane showing a line with negative gradient]",
+      "options": [
+        "$3/2$",
+        "$-2/3$",
+        "$2$",
+        "$6$"
+      ],
+      "answer": "$-2/3$",
+      "explanation": "Rewrite the equation in the form $y = mx + c$: $3y = -2x + 6 \\implies y = -\\frac{2}{3}x + 2$. The gradient $m = -2/3$."
+    },
+    {
+      "id": "MATHS_2012_25",
+      "text": "If $\\tan x = 5/12$ and $x$ is an acute angle, find the value of $\\sin x$.",
+      "image": "[Right-angled triangle with opposite 5 and adjacent 12]",
+      "options": [
+        "$12/13$",
+        "$5/13$",
+        "$13/5$",
+        "$1/5$"
+      ],
+      "answer": "$5/13$",
+      "explanation": "Using Pythagoras theorem: $\\text{Hypotenuse}^2 = 5^2 + 12^2 = 25 + 144 = 169$. Hypotenuse $= \\sqrt{169} = 13$. $\\sin x = \\text{Opposite}/\\text{Hypotenuse} = 5/13$."
+    },
+    {
+      "id": "MATHS_2012_26",
+      "text": "Simplify $\\frac{1 - \\cos^2 \\theta}{\\sin \\theta}$.",
+      "image": "",
+      "options": [
+        "$\\cos \\theta$",
+        "$\\tan \\theta$",
+        "$\\sin \\theta$",
+        "$\\cot \\theta$"
+      ],
+      "answer": "$\\sin \\theta$",
+      "explanation": "Using the Pythagorean identity, $1 - \\cos^2 \\theta = \\sin^2 \\theta$. The expression becomes $\\frac{\\sin^2 \\theta}{\\sin \\theta} = \\sin \\theta$."
+    },
+    {
+      "id": "MATHS_2012_27",
+      "text": "A vertical pole $8 \\text{ m}$ high casts a shadow $8\\sqrt{3} \\text{ m}$ long. Find the angle of elevation of the sun.",
+      "image": "[Diagram of a right-angled triangle showing height 8m and shadow 8sqrt(3)m]",
+      "options": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$15^\\circ$"
+      ],
+      "answer": "$30^\\circ$",
+      "explanation": "Let $\\theta$ be the angle of elevation. $\\tan \\theta = \\text{opposite}/\\text{adjacent} = \\frac{8}{8\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$. Since $\\tan 30^\\circ = 1/\\sqrt{3}$, the angle of elevation is $30^\\circ$."
+    },
+    {
+      "id": "MATHS_2012_28",
+      "text": "Differentiate $y = 5x^3 - 2x^2 + 1$ with respect to $x$.",
+      "image": "",
+      "options": [
+        "$15x^2 - 4x + 1$",
+        "$15x^2 - 4x$",
+        "$5x^2 - 2x$",
+        "$3x^2 - 2x$"
+      ],
+      "answer": "$15x^2 - 4x$",
+      "explanation": "Using the power rule $\\frac{d}{dx}(ax^n) = anx^{n-1}$: $\\frac{dy}{dx} = 5(3)x^{3-1} - 2(2)x^{2-1} + 0 = 15x^2 - 4x$."
+    },
+    {
+      "id": "MATHS_2012_29",
+      "text": "Evaluate the definite integral $\\int_1^2 (2x - 1) dx$.",
+      "image": "[Graph showing the area under the line 2x-1 from x=1 to x=2]",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "answer": "$2$",
+      "explanation": "Integrate: $\\int (2x - 1) dx = x^2 - x + C$. Evaluate: $[x^2 - x]_1^2 = (2^2 - 2) - (1^2 - 1) = (4 - 2) - (1 - 1) = 2 - 0 = 2$."
+    },
+    {
+      "id": "MATHS_2012_30",
+      "text": "The scores obtained by a group of students are $6, 8, 4, 7, 5$. Find the mean score.",
+      "image": "",
+      "options": [
+        "$5.5$",
+        "$6$",
+        "$6.5$",
+        "$7$"
+      ],
+      "answer": "$6$",
+      "explanation": "Mean $= \\frac{\\text{Sum of scores}}{\\text{Number of scores}} = \\frac{6 + 8 + 4 + 7 + 5}{5} = \\frac{30}{5} = 6$."
+    },
+    {
+      "id": "MATHS_2012_31",
+      "text": "Find the median of the following set of numbers: $1, 3, 5, 7, 9, 11$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$6$",
+        "$7$",
+        "$5.5$"
+      ],
+      "answer": "$6$",
+      "explanation": "The numbers are already ordered. Since there is an even number of values (6), the median is the average of the two middle terms (3rd and 4th): $\\frac{5 + 7}{2} = \\frac{12}{2} = 6$."
+    },
+    {
+      "id": "MATHS_2012_32",
+      "text": "The distribution is $3, 5, 5, 6, 7, 5, 8$. Find the mode.",
+      "image": "",
+      "options": [
+        "$3$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "answer": "$5$",
+      "explanation": "The mode is the value that appears most frequently. The number 5 appears three times, which is more than any other number."
+    },
+    {
+      "id": "MATHS_2012_33",
+      "text": "A fair die is rolled once. What is the probability of getting a number less than 3?",
+      "image": "",
+      "options": [
+        "$1/6$",
+        "$1/3$",
+        "$1/2$",
+        "$2/3$"
+      ],
+      "answer": "$1/3$",
+      "explanation": "Possible outcomes are $\\{1, 2, 3, 4, 5, 6\\}$ (Total = 6). Numbers less than 3 are $\\{1, 2\\}$ (Favorable = 2). Probability $= \\frac{2}{6} = 1/3$."
+    },
+    {
+      "id": "MATHS_2012_34",
+      "text": "The variance of the numbers $3, 3, 3, 3, 3$ is:",
+      "image": "",
+      "options": [
+        "$3$",
+        "$1$",
+        "$0$",
+        "$\\sqrt{3}$"
+      ],
+      "answer": "$0$",
+      "explanation": "Mean $\\mu = 3$. Variance is the average of the squared deviations from the mean. Since every number is 3, the deviation for each is $3 - 3 = 0$. The variance is $0$."
+    },
+    {
+      "id": "MATHS_2012_35",
+      "text": "If $A = \\begin{pmatrix} 2 & -1 \\\\ 3 & 4 \\end{pmatrix}$, find the transpose of $A$, denoted as $A^T$.",
+      "image": "",
+      "options": [
+        "$\\begin{pmatrix} 2 & 1 \\\\ -3 & 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 3 \\\\ -1 & 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 4 & 1 \\\\ -3 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -2 & 1 \\\\ -3 & -4 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 2 & 3 \\\\ -1 & 4 \\end{pmatrix}$",
+      "explanation": "The transpose is found by swapping the rows and columns. Row 1 (2, -1) becomes Column 1. Row 2 (3, 4) becomes Column 2."
+    },
+    {
+      "id": "MATHS_2012_36",
+      "text": "If $B = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$, find the determinant of $B$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$-2$",
+        "$10$",
+        "$-10$"
+      ],
+      "answer": "$-2$",
+      "explanation": "Determinant $D = ad - bc = (1)(4) - (2)(3) = 4 - 6 = -2$."
+    },
+    {
+      "id": "MATHS_2012_37",
+      "text": "Find the magnitude of the vector $\\mathbf{v} = 4\\mathbf{i} - 3\\mathbf{j}$.",
+      "image": "[Coordinate plane showing a vector from origin to (4, -3)]",
+      "options": [
+        "$\\sqrt{7}$",
+        "$5$",
+        "$7$",
+        "$25$"
+      ],
+      "answer": "$5$",
+      "explanation": "Magnitude $|\\mathbf{v}| = \\sqrt{x^2 + y^2} = \\sqrt{4^2 + (-3)^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5$."
+    },
+    {
+      "id": "MATHS_2012_38",
+      "text": "If $h(x) = \\frac{x}{2} + 1$, find the inverse function $h^{-1}(x)$.",
+      "image": "",
+      "options": [
+        "$2x - 1$",
+        "$\\frac{x - 1}{2}$",
+        "$2x - 2$",
+        "$2x + 2$"
+      ],
+      "answer": "$2x - 2$",
+      "explanation": "Let $y = \\frac{x}{2} + 1$. Swap $x$ and $y$: $x = \\frac{y}{2} + 1$. Solve for $y$: $x - 1 = \\frac{y}{2} \\implies y = 2(x - 1) = 2x - 2$. So, $h^{-1}(x) = 2x - 2$."
+    },
+    {
+      "id": "MATHS_2012_39",
+      "text": "Given the functions $f(x) = x - 3$ and $g(x) = x^2$, find $f(g(2))$.",
+      "image": "",
+      "options": [
+        "$4$",
+        "$1$",
+        "$-1$",
+        "$-2$"
+      ],
+      "answer": "$1$",
+      "explanation": "First find $g(2)$: $g(2) = 2^2 = 4$. Then substitute this result into $f(x)$: $f(g(2)) = f(4) = 4 - 3 = 1$."
+    },
+    {
+      "id": "MATHS_2012_40",
+      "text": "If $T = 2\\pi \\sqrt{\\frac{L}{g + a}}$, make $a$ the subject of the formula.",
+      "image": "",
+      "options": [
+        "$a = \\frac{4\\pi^2 L}{T^2} + g$",
+        "$a = \\frac{T^2}{4\\pi^2 L} - g$",
+        "$a = \\frac{4\\pi^2 L}{T^2} - g$",
+        "$a = \\frac{T^2}{L} - g$"
+      ],
+      "answer": "$a = \\frac{4\\pi^2 L}{T^2} - g$",
+      "explanation": "1. Divide by $2\\pi$: $\\frac{T}{2\\pi} = \\sqrt{\\frac{L}{g + a}}$. 2. Square both sides: $\\frac{T^2}{4\\pi^2} = \\frac{L}{g + a}$. 3. Cross-multiply: $T^2(g + a) = 4\\pi^2 L$. 4. Divide by $T^2$: $g + a = \\frac{4\\pi^2 L}{T^2}$. 5. Subtract $g$: $a = \\frac{4\\pi^2 L}{T^2} - g$."
+    }
+  ]

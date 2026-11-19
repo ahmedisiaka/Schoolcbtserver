@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC81",
+        "text": "The $\\textbf{Modified Accelerated Cost Recovery System}$ ($\\,\\textbf{MACRS}$) is the mandated depreciation method used for $\\textbf{Tax}$ reporting in the $\\textbf{United States}$.",
+        "image": "",
+        "options": [
+            "Financial Reporting",
+            "Managerial Reporting",
+            "Tax",
+            "Audit"
+        ],
+        "answer": "Tax",
+        "explanation": "MACRS uses accelerated methods and prescribed asset lives which often differ from the useful lives used for financial reporting (GAAP/IFRS)."
+    },
+    {
+        "id": "ACC82",
+        "text": "The $\\textbf{Audit Committee}$ is a subset of the $\\textbf{Board of Directors}$ responsible for overseeing the company's $\\textbf{Financial Reporting}$ process and engaging the $\\textbf{External Auditor}$.",
+        "image": "",
+        "options": [
+            "CEO",
+            "CFO",
+            "Audit Committee",
+            "Shareholders"
+        ],
+        "answer": "Audit Committee",
+        "explanation": "SOX requires that the audit committee be composed entirely of independent directors."
+    },
+    {
+        "id": "ACC83",
+        "text": "The $\\textbf{Book-to-Tax Difference}$ that arises from using $\\textbf{Straight-Line}$ depreciation for financial statements and $\\textbf{MACRS}$ for tax reporting is a $\\textbf{Temporary Difference}$.",
+        "image": "",
+        "options": [
+            "Permanent Difference",
+            "Temporary Difference",
+            "Irrelevant Difference",
+            "Fraudulent Difference"
+        ],
+        "answer": "Temporary Difference",
+        "explanation": "Temporary differences reverse over time and give rise to deferred tax assets or liabilities."
+    },
+    {
+        "id": "ACC84",
+        "text": "The $\\textbf{Current Liability}$ account known as $\\textbf{Sales Tax Payable}$ represents amounts collected from customers that are $\\textbf{Owed}$ to the $\\textbf{Government}$.",
+        "image": "",
+        "options": [
+            "Expense",
+            "Revenue",
+            "Liability",
+            "Asset"
+        ],
+        "answer": "Liability",
+        "explanation": "The company acts as an agent, collecting the tax on behalf of the taxing authority."
+    },
+    {
+        "id": "ACC85",
+        "text": "The $\\textbf{Return on Investment}$ ($\\,\\textbf{ROI}$) performance metric is calculated as $\\textbf{Operating Income}$ divided by $\\textbf{Average Operating Assets}$.",
+        "image": "",
+        "options": [
+            "Net Income",
+            "Sales Revenue",
+            "Operating Income",
+            "Contribution Margin"
+        ],
+        "answer": "Operating Income",
+        "explanation": "ROI is a measure of efficiency, showing how effectively management uses assets to generate earnings."
+    },
+    {
+        "id": "ACC86",
+        "text": "A $\\textbf{Vertical Analysis}$ of the $\\textbf{Balance Sheet}$ expresses each account balance as a percentage of $\\textbf{Total Assets}$.",
+        "image": "",
+        "options": [
+            "Total Liabilities",
+            "Total Equity",
+            "Total Revenue",
+            "Total Assets"
+        ],
+        "answer": "Total Assets",
+        "explanation": "This allows for comparison of the composition of assets and liabilities over time or against competitors."
+    },
+    {
+        "id": "ACC87",
+        "text": "The $\\textbf{Audit Engagement Letter}$ is a formal contract between the $\\textbf{Auditor}$ and the client, outlining the scope and $\\textbf{Responsibilities}$ of the engagement.",
+        "image": "",
+        "options": [
+            "Regulator",
+            "Client's Lawyer",
+            "Auditor",
+            "Shareholders"
+        ],
+        "answer": "Auditor",
+        "explanation": "The letter establishes a clear understanding of the terms and objectives, reducing misunderstandings."
+    },
+    {
+        "id": "ACC88",
+        "text": "The $\\textbf{Valuation}$ assertion in auditing relates to whether assets, liabilities, and equity are included in the financial statements at $\\textbf{Appropriate}$ $\\textbf{Amounts}$.",
+        "image": "",
+        "options": [
+            "Existence",
+            "Completeness",
+            "Valuation",
+            "Cutoff"
+        ],
+        "answer": "Valuation",
+        "explanation": "This assertion is particularly relevant for complex assets like derivatives, cryptocurrency (in 2021), and large fixed assets."
+    },
+    {
+        "id": "ACC89",
+        "text": "The $\\textbf{Capital Expenditures}$ (CapEx) disclosed in the Investing section of the Statement of Cash Flows represent $\\textbf{Purchases}$ of Property, Plant, and $\\textbf{Equipment}$.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Purchases",
+            "Depreciation",
+            "Amortization"
+        ],
+        "answer": "Purchases",
+        "explanation": "CapEx involves outflows of cash to acquire long-term assets expected to provide benefits beyond the current period."
+    },
+    {
+        "id": "ACC90",
+        "text": "The $\\textbf{Time Value of Money}$ principle states that a dollar today is worth $\\textbf{More}$ than a dollar $\\textbf{Received}$ in the future.",
+        "image": "",
+        "options": [
+            "Less",
+            "Equal",
+            "More",
+            "None"
+        ],
+        "answer": "More",
+        "explanation": "This is due to the opportunity to earn a return on the money (interest) and the effect of inflation."
+    },
+    {
+        "id": "ACC91",
+        "text": "The $\\textbf{Return on Sales}$ ($\\,\\textbf{ROS}$) ratio, also known as $\\textbf{Operating Margin}$, is calculated by dividing $\\textbf{Operating Income}$ by $\\textbf{Net Sales}$.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Net Income",
+            "Operating Income",
+            "EBITDA"
+        ],
+        "answer": "Operating Income",
+        "explanation": "ROS measures how much profit a company makes on each dollar of sales after accounting for operating expenses."
+    },
+    {
+        "id": "ACC92",
+        "text": "The $\\textbf{Job Order Costing}$ system accumulates costs by specific $\\textbf{Job}$ or batch, while the $\\textbf{Process Costing}$ system accumulates costs by $\\textbf{Department}$.",
+        "image": "",
+        "options": [
+            "Customer",
+            "Product Line",
+            "Department",
+            "Geographic Region"
+        ],
+        "answer": "Department",
+        "explanation": "This distinction is essential for choosing the appropriate costing methodology based on the production process."
+    },
+    {
+        "id": "ACC93",
+        "text": "The $\\textbf{Master Budget}$ preparation typically begins with the $\\textbf{Sales Budget}$, as sales volume is the $\\textbf{Driver}$ for all subsequent $\\textbf{Budgets}$.",
+        "image": "",
+        "options": [
+            "Production Budget",
+            "Cash Budget",
+            "Sales Budget",
+            "Capital Expenditure Budget"
+        ],
+        "answer": "Sales Budget",
+        "explanation": "The sales budget determines the required production volume, which in turn drives the material, labor, and overhead budgets."
+    },
+    {
+        "id": "ACC94",
+        "text": "The $\\textbf{Weighted-Average}$ method in $\\textbf{Process Costing}$ blends costs of $\\textbf{Beginning Inventory}$ with $\\textbf{Current Period}$ costs.",
+        "image": "",
+        "options": [
+            "Beginning Inventory",
+            "Ending Inventory",
+            "Scrapped Units",
+            "Normal Loss"
+        ],
+        "answer": "Beginning Inventory",
+        "explanation": "This method simplifies cost tracking by averaging unit costs across all units worked on during the period."
+    },
+    {
+        "id": "ACC95",
+        "text": "The $\\textbf{Efficiency Variance}$ for $\\textbf{Direct Labor}$ measures the difference between the $\\textbf{Actual Hours}$ and the $\\textbf{Standard Hours}$ allowed for the output produced.",
+        "image": "",
+        "options": [
+            "Actual Rate",
+            "Standard Rate",
+            "Actual Hours",
+            "Standard Price"
+        ],
+        "answer": "Actual Hours",
+        "explanation": "The efficiency variance focuses on the quantity of input used, calculated as $(\\textbf{Actual Hours} - \\textbf{Standard Hours}) \\times \\textbf{Standard Rate}$."
+    },
+    {
+        "id": "ACC96",
+        "text": "In $\\textbf{C-V-P}$ analysis, the $\\textbf{Ceteris Paribus}$ assumption implies that $\\textbf{Selling Price}$, unit variable cost, and total fixed costs remain $\\textbf{Constant}$ within the $\\textbf{Relevant Range}$.",
+        "image": "",
+        "options": [
+            "Change",
+            "Increase",
+            "Constant",
+            "Decrease"
+        ],
+        "answer": "Constant",
+        "explanation": "CVP analysis relies on these linear assumptions to calculate break-even points and target profits easily."
+    },
+    {
+        "id": "ACC97",
+        "text": "A $\\textbf{Note Payable}$ is evidenced by a formal $\\textbf{Written Promise}$ to pay a definite sum of $\\textbf{Money}$ on a specific $\\textbf{Date}$.",
+        "image": "",
+        "options": [
+            "Oral Agreement",
+            "Written Promise",
+            "Credit Card Statement",
+            "Invoice"
+        ],
+        "answer": "Written Promise",
+        "explanation": "Notes payable are generally distinguishable from accounts payable by the formal documentation and explicit interest terms."
+    },
+    {
+        "id": "ACC98",
+        "text": "The $\\textbf{Asset Retirement Obligation}$ ($\\,\\textbf{ARO}$) is a $\\textbf{Liability}$ recorded for the estimated future cost of dismantling or restoring an asset's $\\textbf{Site}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Asset",
+            "Expense",
+            "Liability"
+        ],
+        "answer": "Liability",
+        "explanation": "ARO is recognized at fair value (present value of the estimated cost) and is common in mining or nuclear industries."
+    },
+    {
+        "id": "ACC99",
+        "text": "The $\\textbf{Market Capitalization}$ of a publicly traded company is calculated by multiplying its $\\textbf{Current Stock Price}$ by the number of $\\textbf{Shares Outstanding}$.",
+        "image": "",
+        "options": [
+            "Authorized Shares",
+            "Treasury Shares",
+            "Shares Outstanding",
+            "Diluted Shares"
+        ],
+        "answer": "Shares Outstanding",
+        "explanation": "Market cap is often used as a measure of a company's size and value in the financial markets (relevant to SPACs/IPOs in 2021)."
+    },
+    {
+        "id": "ACC100",
+        "text": "The $\\textbf{Direct Method}$ of preparing the $\\textbf{Statement of Cash Flows}$ reports $\\textbf{Major Classes}$ of gross cash $\\textbf{Receipts}$ and $\\textbf{Payments}$.",
+        "image": "",
+        "options": [
+            "Indirect Method",
+            "Accrual Method",
+            "Direct Method",
+            "Net Method"
+        ],
+        "answer": "Direct Method",
+        "explanation": "Though less commonly used, the direct method is favored by FASB as it provides a clearer picture of cash sources and uses in operating activities."
+    },
+    {
+        "id": "ACC101",
+        "text": "In $\\textbf{Financial Statement Analysis}$, a $\\textbf{Horizontal Analysis}$ compares the financial data of a company across $\\textbf{Different Periods}$.",
+        "image": "",
+        "options": [
+            "Competitors",
+            "Industry Averages",
+            "Different Periods",
+            "Ratios"
+        ],
+        "answer": "Different Periods",
+        "explanation": "Horizontal analysis is used to identify trends and growth rates over time."
+    },
+    {
+        "id": "ACC102",
+        "text": "The $\\textbf{Impairment Loss}$ for a $\\textbf{Fixed Asset}$ occurs when the asset's $\\textbf{Future Cash Flows}$ are less than its $\\textbf{Book Value}$.",
+        "image": "",
+        "options": [
+            "Market Price",
+            "Replacement Cost",
+            "Future Cash Flows",
+            "Original Cost"
+        ],
+        "answer": "Future Cash Flows",
+        "explanation": "The loss is measured as the difference between the book value and the asset's fair value (GAAP)."
+    },
+    {
+        "id": "ACC103",
+        "text": "The $\\textbf{Internal Audit}$ function primarily uses the $\\textbf{Risk-Based Approach}$ to prioritize its audit activities, focusing on areas with the highest $\\textbf{Exposure}$.",
+        "image": "",
+        "options": [
+            "Historical Approach",
+            "Financial Approach",
+            "Risk-Based Approach",
+            "Compliance Approach"
+        ],
+        "answer": "Risk-Based Approach",
+        "explanation": "This approach ensures that the limited resources of the internal audit team are focused on the most critical threats to the organization."
+    },
+    {
+        "id": "ACC104",
+        "text": "$\\textbf{Economic Value Added}$ ($\\,\\textbf{EVA}$) is a performance measure calculated as $\\textbf{Net Operating Profit After Taxes}$ ($\\,\\textbf{NOPAT}$) minus a charge for the $\\textbf{Cost of Capital}$.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Net Income",
+            "NOPAT",
+            "EBIT"
+        ],
+        "answer": "NOPAT",
+        "explanation": "EVA measures a company's true economic profit by deducting the cost of using the capital required to generate the profit."
+    },
+    {
+        "id": "ACC105",
+        "text": "A $\\textbf{Perpetual Inventory System}$ requires a $\\textbf{Physical Count}$ of inventory at least $\\textbf{Once}$ per year to confirm the accuracy of the $\\textbf{Records}$.",
+        "image": "",
+        "options": [
+            "Monthly",
+            "Quarterly",
+            "Twice",
+            "Once"
+        ],
+        "answer": "Once",
+        "explanation": "Even with continuous tracking, a physical count is necessary to detect theft, spoilage, or recording errors."
+    },
+    {
+        "id": "ACC106",
+        "text": "The $\\textbf{Allowance}$ for $\\textbf{Doubtful Accounts}$ is a $\\textbf{Contra-Asset}$ account that reduces the net realizable value of $\\textbf{Accounts Receivable}$.",
+        "image": "",
+        "options": [
+            "Asset",
+            "Liability",
+            "Contra-Asset",
+            "Equity"
+        ],
+        "answer": "Contra-Asset",
+        "explanation": "It has a normal credit balance and is subtracted from the gross accounts receivable on the balance sheet."
+    },
+    {
+        "id": "ACC107",
+        "text": "In $\\textbf{Job Order Costing}$, the cost flow involves tracing $\\textbf{Direct Materials}$ and $\\textbf{Direct Labor}$ to the specific $\\textbf{Job Cost Sheet}$.",
+        "image": "",
+        "options": [
+            "Finished Goods Inventory",
+            "Cost of Goods Sold",
+            "Job Cost Sheet",
+            "General Ledger"
+        ],
+        "answer": "Job Cost Sheet",
+        "explanation": "The Job Cost Sheet is the primary document used to accumulate and summarize all costs related to a specific job."
+    },
+    {
+        "id": "ACC108",
+        "text": "The $\\textbf{Fixed Asset Turnover}$ ratio measures the efficiency of utilizing $\\textbf{Property, Plant, and Equipment}$ ($\\,\\textbf{PPE}$) to generate $\\textbf{Revenue}$.",
+        "image": "",
+        "options": [
+            "Inventory",
+            "Intangible Assets",
+            "PPE",
+            "Cash"
+        ],
+        "answer": "PPE",
+        "explanation": "It is calculated as $\\textbf{Net Sales} / \\textbf{Average Net Fixed Assets}$."
+    },
+    {
+        "id": "ACC109",
+        "text": "The $\\textbf{Statement of Comprehensive Income}$ includes $\\textbf{Net Income}$ and $\\textbf{Other Comprehensive Income}$ ($\\,\\textbf{OCI}$), which includes items like unrealized $\\textbf{Gains}$ on available-for-sale $\\textbf{Securities}$.",
+        "image": "",
+        "options": [
+            "Dividends",
+            "Taxes",
+            "Gains",
+            "Revenue"
+        ],
+        "answer": "Gains",
+        "explanation": "OCI items bypass the income statement but are eventually recorded in accumulated OCI in the equity section of the balance sheet."
+    },
+    {
+        "id": "ACC110",
+        "text": "The $\\textbf{Discount Rate}$ (Cost of Capital) used in $\\textbf{Net Present Value}$ ($\\,\\textbf{NPV}$) analysis is generally based on the company's $\\textbf{Weighted Average Cost of Capital}$ ($\\,\\textbf{WACC}$).",
+        "image": "",
+        "options": [
+            "Risk-Free Rate",
+            "Inflation Rate",
+            "WACC",
+            "Payback Rate"
+        ],
+        "answer": "WACC",
+        "explanation": "WACC represents the opportunity cost of the funds used in the project."
+    },
+    {
+        "id": "ACC111",
+        "text": "The $\\textbf{Secured}$ portion of a loan means a specific $\\textbf{Asset}$ (collateral) is pledged to the $\\textbf{Creditor}$ in case of $\\textbf{Default}$.",
+        "image": "",
+        "options": [
+            "Expense",
+            "Liability",
+            "Asset",
+            "Equity"
+        ],
+        "answer": "Asset",
+        "explanation": "If the borrower defaults, the creditor has the legal right to take possession of the pledged asset (e.g., mortgage on a home)."
+    },
+    {
+        "id": "ACC112",
+        "text": "$\textbf{Stock Splits}$ increase the number of shares outstanding but $\\textbf{Do Not}$ affect the total amount of $\\textbf{Shareholder's Equity}$.",
+        "image": "",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Double",
+            "Do Not"
+        ],
+        "answer": "Do Not",
+        "explanation": "A stock split divides the existing shares into more, smaller units, reducing the par value per share but leaving total equity unchanged."
+    },
+    {
+        "id": "ACC113",
+        "text": "The $\\textbf{Diluted EPS}$ calculation uses the $\\textbf{Treasury Stock Method}$ to account for the impact of $\\textbf{Options}$ and $\\textbf{Warrants}$.",
+        "image": "",
+        "options": [
+            "Par Value Method",
+            "Cost Method",
+            "Treasury Stock Method",
+            "Intrinsic Value Method"
+        ],
+        "answer": "Treasury Stock Method",
+        "explanation": "This method assumes the company uses the cash proceeds from the hypothetical exercise of options/warrants to repurchase its own shares."
+    },
+    {
+        "id": "ACC114",
+        "text": "The $\\textbf{Sales Budget}$ is usually accompanied by a schedule of $\\textbf{Expected Cash Collections}$ from customers to aid in cash $\\textbf{Planning}$.",
+        "image": "",
+        "options": [
+            "Tax Payments",
+            "Inventory Purchases",
+            "Expected Cash Collections",
+            "Fixed Asset Purchases"
+        ],
+        "answer": "Expected Cash Collections",
+        "explanation": "The cash collections schedule separates cash sales from credit sales and estimates when credit sales will be received, feeding directly into the cash budget."
+    },
+    {
+        "id": "ACC115",
+        "text": "The $\\textbf{FIFO}$ inventory method (used extensively in 2021) is generally preferred because the ending $\\textbf{Inventory Balance}$ closely approximates $\\textbf{Current Cost}$.",
+        "image": "",
+        "options": [
+            "Historical Cost",
+            "Current Cost",
+            "Salvage Value",
+            "Net Realizable Value"
+        ],
+        "answer": "Current Cost",
+        "explanation": "Since the newest (latest purchased) goods remain in ending inventory under FIFO, the value is closer to the current replacement cost."
+    },
+    {
+        "id": "ACC116",
+        "text": "The $\\textbf{COSO Internal Control}$ framework (widely used in 2021) has five integrated components: Control Environment, Risk Assessment, Control Activities, Information and Communication, and $\\textbf{Monitoring Activities}$.",
+        "image": "",
+        "options": [
+            "Audit Committee",
+            "Board Oversight",
+            "Monitoring Activities",
+            "IT Infrastructure"
+        ],
+        "answer": "Monitoring Activities",
+        "explanation": "Monitoring ensures the other four components of internal control continue to function effectively over time."
+    },
+    {
+        "id": "ACC117",
+        "text": "The $\\textbf{Audit Opinion}$ of a publicly traded company is addressed primarily to the $\\textbf{Shareholders}$ and the $\\textbf{Board of Directors}$.",
+        "image": "",
+        "options": [
+            "CEO and CFO",
+            "External Banks",
+            "Shareholders",
+            "Regulators"
+        ],
+        "answer": "Shareholders",
+        "explanation": "Shareholders (owners) rely on the auditor's opinion to confirm the fairness of the financial reports provided by management."
+    },
+    {
+        "id": "ACC118",
+        "text": "In $\\textbf{Cost Accounting}$, a $\\textbf{Joint Product}$ is one of $\\textbf{Two or More}$ products produced simultaneously from a single $\\textbf{Common Input}$ process.",
+        "image": "",
+        "options": [
+            "Single",
+            "Two or More",
+            "Unlimited",
+            "One"
+        ],
+        "answer": "Two or More",
+        "explanation": "Costs are accumulated up to the split-off point, after which they are allocated among the joint products."
+    },
+    {
+        "id": "ACC119",
+        "text": "The $\\textbf{Zero-Based Budgeting}$ ($\\,\\textbf{ZBB}$) process starts with $\\textbf{Zero}$ and requires managers to $\\textbf{Justify}$ every expense, unlike $\\textbf{Incremental Budgeting}$.",
+        "image": "",
+        "options": [
+            "Last Year's Budget",
+            "Historical Cost",
+            "Zero",
+            "Fixed Amount"
+        ],
+        "answer": "Zero",
+        "explanation": "ZBB is a rigorous process that eliminates past inertia and encourages cost reduction by forcing review of all activities."
+    },
+    {
+        "id": "ACC120",
+        "text": "The $\\textbf{Financial Accounting Standards Board}$ ($\\,\\textbf{FASB}$) is the independent organization in the $\\textbf{United States}$ responsible for setting $\\textbf{GAAP}$ standards.",
+        "image": "",
+        "options": [
+            "SEC",
+            "PCAOB",
+            "FASB",
+            "IASB"
+        ],
+        "answer": "FASB",
+        "explanation": "FASB is a private-sector body, subject to oversight by the SEC for publicly traded companies."
+    }
+]

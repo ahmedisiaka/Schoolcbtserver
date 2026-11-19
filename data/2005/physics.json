@@ -1,0 +1,325 @@
+[
+    {
+      "id": "JAMB_P_2005_01",
+      "text": "Which of the following is a fundamental quantity?",
+      "image": "",
+      "options": ["Force", "Pressure", "Mass", "Power"],
+      "answer": "Mass",
+      "explanation": "Mass is a base physical quantity."
+    },
+    {
+      "id": "JAMB_P_2005_02",
+      "text": "A car moving at 15 m/s is brought to rest in 5 seconds. The deceleration is:",
+      "image": "",
+      "options": ["2 m/s²", "3 m/s²", "4 m/s²", "5 m/s²"],
+      "answer": "3 m/s²",
+      "explanation": "a = (v - u)/t = (0 - 15)/5 = -3 m/s²."
+    },
+    {
+      "id": "JAMB_P_2005_03",
+      "text": "The quantity that remains constant in uniform circular motion is:",
+      "image": "",
+      "options": ["Speed", "Velocity", "Acceleration", "Centripetal force"],
+      "answer": "Speed",
+      "explanation": "Speed is constant, velocity changes direction."
+    },
+    {
+      "id": "JAMB_P_2005_04",
+      "text": "The work done when a force of 10 N moves an object through 4 m is:",
+      "image": "",
+      "options": ["10 J", "20 J", "40 J", "80 J"],
+      "answer": "40 J",
+      "explanation": "W = Fd = 10 × 4."
+    },
+    {
+      "id": "JAMB_P_2005_05",
+      "text": "Which of these is a derived unit?",
+      "image": "",
+      "options": ["Kilogram", "Metre", "Second", "Newton"],
+      "answer": "Newton",
+      "explanation": "Newton is derived from kg·m/s²."
+    },
+    {
+      "id": "JAMB_P_2005_06",
+      "text": "A liquid boils when:",
+      "image": "",
+      "options": ["Its vapour pressure equals atmospheric pressure", "Temperature is 0°C", "Density becomes lowest", "Bubbles are seen"],
+      "answer": "Its vapour pressure equals atmospheric pressure",
+      "explanation": "Boiling occurs at this equality."
+    },
+    {
+      "id": "JAMB_P_2005_07",
+      "text": "The moment of a force depends on:",
+      "image": "",
+      "options": ["Mass and distance", "Force and distance", "Speed and time", "Power and time"],
+      "answer": "Force and distance",
+      "explanation": "Moment = F × perpendicular distance."
+    },
+    {
+      "id": "JAMB_P_2005_08",
+      "text": "The device used to measure relative humidity is:",
+      "image": "",
+      "options": ["Hydrometer", "Hygrometer", "Barometer", "Manometer"],
+      "answer": "Hygrometer",
+      "explanation": "A hygrometer measures humidity."
+    },
+    {
+      "id": "JAMB_P_2005_09",
+      "text": "The S.I. unit of heat is:",
+      "image": "",
+      "options": ["Calorie", "Kelvin", "Joule", "Watt"],
+      "answer": "Joule",
+      "explanation": "Heat is measured in joules."
+    },
+    {
+      "id": "JAMB_P_2005_10",
+      "text": "A wave travels with speed 200 m/s and wavelength 4 m. Its frequency is:",
+      "image": "",
+      "options": ["25 Hz", "50 Hz", "100 Hz", "200 Hz"],
+      "answer": "50 Hz",
+      "explanation": "f = v/λ = 200/4."
+    },
+    {
+      "id": "JAMB_P_2005_11",
+      "text": "In refraction, the ratio sin(i)/sin(r) is:",
+      "image": "",
+      "options": ["Speed of light", "Refractive index", "Lens power", "Critical angle"],
+      "answer": "Refractive index",
+      "explanation": "By Snell’s law: n = sin i / sin r."
+    },
+    {
+      "id": "JAMB_P_2005_12",
+      "text": "A converging mirror is also called:",
+      "image": "",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Spherical mirror"],
+      "answer": "Concave mirror",
+      "explanation": "Concave mirrors converge light rays."
+    },
+    {
+      "id": "JAMB_P_2005_13",
+      "text": "The unit of electric field strength is:",
+      "image": "",
+      "options": ["N/C", "C/N", "V", "A"],
+      "answer": "N/C",
+      "explanation": "E = F/q is in newton per coulomb."
+    },
+    {
+      "id": "JAMB_P_2005_14",
+      "text": "A 12 V battery supplies 3 A. The power is:",
+      "image": "",
+      "options": ["4 W", "12 W", "36 W", "48 W"],
+      "answer": "36 W",
+      "explanation": "P = VI."
+    },
+    {
+      "id": "JAMB_P_2005_15",
+      "text": "Which component converts AC to DC?",
+      "image": "",
+      "options": ["Capacitor", "Resistor", "Diode", "Transistor"],
+      "answer": "Diode",
+      "explanation": "Diodes permit rectification."
+    },
+    {
+      "id": "JAMB_P_2005_16",
+      "text": "A transformer used to reduce voltage is a:",
+      "image": "",
+      "options": ["Step-up transformer", "Step-down transformer", "Auto-transformer", "Terminal transformer"],
+      "answer": "Step-down transformer",
+      "explanation": "Step-down transformer reduces secondary voltage."
+    },
+    {
+      "id": "JAMB_P_2005_17",
+      "text": "The process of charging by bringing a charged object near is called:",
+      "image": "",
+      "options": ["Conduction", "Induction", "Convection", "Radiation"],
+      "answer": "Induction",
+      "explanation": "Induction does not require contact."
+    },
+    {
+      "id": "JAMB_P_2005_18",
+      "text": "A semiconductor with excess electrons is:",
+      "image": "",
+      "options": ["P-type", "N-type", "Conductor", "Insulator"],
+      "answer": "N-type",
+      "explanation": "N-type contains donor impurities."
+    },
+    {
+      "id": "JAMB_P_2005_19",
+      "text": "Which radiation has the least penetrating power?",
+      "image": "",
+      "options": ["Alpha", "Beta", "Gamma", "X-rays"],
+      "answer": "Alpha",
+      "explanation": "Alpha particles are least penetrating."
+    },
+    {
+      "id": "JAMB_P_2005_20",
+      "text": "The instrument used to detect ionizing radiation is:",
+      "image": "",
+      "options": ["Thermometer", "Geiger–Müller tube", "Hygrometer", "Potentiometer"],
+      "answer": "Geiger–Müller tube",
+      "explanation": "G-M tubes measure radiation counts."
+    },
+  
+    {
+      "id": "JAMB_P_2005_21",
+      "text": "Heat transfer by waves is known as:",
+      "image": "",
+      "options": ["Conduction", "Convection", "Radiation", "Emission"],
+      "answer": "Radiation",
+      "explanation": "Radiation does not need a medium."
+    },
+    {
+      "id": "JAMB_P_2005_22",
+      "text": "The pitch of a sound depends on its:",
+      "image": "",
+      "options": ["Frequency", "Amplitude", "Speed", "Wavelength"],
+      "answer": "Frequency",
+      "explanation": "High frequency → high pitch."
+    },
+    {
+      "id": "JAMB_P_2005_23",
+      "text": "The speed of electromagnetic waves in vacuum is:",
+      "image": "",
+      "options": ["3 × 10³ m/s", "3 × 10⁵ m/s", "3 × 10⁶ m/s", "3 × 10⁸ m/s"],
+      "answer": "3 × 10⁸ m/s",
+      "explanation": "Speed of light in vacuum."
+    },
+    {
+      "id": "JAMB_P_2005_24",
+      "text": "Which lens can correct long-sightedness?",
+      "image": "",
+      "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Plane lens"],
+      "answer": "Convex lens",
+      "explanation": "Long-sightedness requires converging lens."
+    },
+    {
+      "id": "JAMB_P_2005_25",
+      "text": "The ability of a body to resist change of motion is:",
+      "image": "",
+      "options": ["Momentum", "Energy", "Inertia", "Power"],
+      "answer": "Inertia",
+      "explanation": "Inertia is resistance to motion change."
+    },
+    {
+      "id": "JAMB_P_2005_26",
+      "text": "Which law states that pressure is transmitted equally in all directions?",
+      "image": "",
+      "options": ["Boyle’s law", "Charles’ law", "Pascal’s law", "Archimedes’ principle"],
+      "answer": "Pascal’s law",
+      "explanation": "Pascal’s principle explains hydraulic devices."
+    },
+    {
+      "id": "JAMB_P_2005_27",
+      "text": "A body floating in a fluid displaces fluid equal to its:",
+      "image": "",
+      "options": ["Mass", "Weight", "Density", "Volume"],
+      "answer": "Weight",
+      "explanation": "Floating involves equal weight displaced."
+    },
+    {
+      "id": "JAMB_P_2005_28",
+      "text": "A fuse protects a circuit by:",
+      "image": "",
+      "options": ["Increasing current", "Breaking high current", "Generating heat", "Reducing voltage"],
+      "answer": "Breaking high current",
+      "explanation": "Fuse melts at high current."
+    },
+    {
+      "id": "JAMB_P_2005_29",
+      "text": "A neutral atom contains:",
+      "image": "",
+      "options": ["More protons", "More electrons", "Equal protons and electrons", "No electrons"],
+      "answer": "Equal protons and electrons",
+      "explanation": "Neutrality requires balance."
+    },
+    {
+      "id": "JAMB_P_2005_30",
+      "text": "Which device stores electric charge?",
+      "image": "",
+      "options": ["Resistor", "Capacitor", "Inductor", "Diode"],
+      "answer": "Capacitor",
+      "explanation": "Capacitors store charge."
+    },
+  
+    {
+      "id": "JAMB_P_2005_31",
+      "text": "The energy stored in a capacitor is:",
+      "image": "",
+      "options": ["½CV²", "CV", "IR", "V/I"],
+      "answer": "½CV²",
+      "explanation": "Energy = ½CV²."
+    },
+    {
+      "id": "JAMB_P_2005_32",
+      "text": "The force between two charges varies with:",
+      "image": "",
+      "options": ["Inverse of distance", "Inverse square of distance", "Square of distance", "Cube of distance"],
+      "answer": "Inverse square of distance",
+      "explanation": "Coulomb’s law."
+    },
+    {
+      "id": "JAMB_P_2005_33",
+      "text": "At resonance, the amplitude of vibration is:",
+      "image": "",
+      "options": ["Zero", "Minimum", "Maximum", "Constant"],
+      "answer": "Maximum",
+      "explanation": "Resonance produces maximum amplitude."
+    },
+    {
+      "id": "JAMB_P_2005_34",
+      "text": "The principle of conservation of energy states that energy:",
+      "image": "",
+      "options": ["Is created", "Is destroyed", "Transforms but remains constant", "Decreases over time"],
+      "answer": "Transforms but remains constant",
+      "explanation": "Energy cannot be created or destroyed."
+    },
+    {
+      "id": "JAMB_P_2005_35",
+      "text": "Which instrument measures small currents?",
+      "image": "",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Potentiometer"],
+      "answer": "Galvanometer",
+      "explanation": "Galvanometer detects small currents."
+    },
+    {
+      "id": "JAMB_P_2005_36",
+      "text": "The unit of magnetic flux is:",
+      "image": "",
+      "options": ["Tesla", "Weber", "Henry", "Farad"],
+      "answer": "Weber",
+      "explanation": "Magnetic flux is measured in Weber."
+    },
+    {
+      "id": "JAMB_P_2005_37",
+      "text": "Which electromagnetic wave has the longest wavelength?",
+      "image": "",
+      "options": ["Gamma rays", "X-rays", "Radio waves", "UV rays"],
+      "answer": "Radio waves",
+      "explanation": "Radio waves have longest wavelength."
+    },
+    {
+      "id": "JAMB_P_2005_38",
+      "text": "The photoelectric effect depends on:",
+      "image": "",
+      "options": ["Light intensity", "Light frequency", "Amplitude", "Wavelength only"],
+      "answer": "Light frequency",
+      "explanation": "Electron emission depends on frequency above threshold."
+    },
+    {
+      "id": "JAMB_P_2005_39",
+      "text": "The instrument used to measure pressure in gases is:",
+      "image": "",
+      "options": ["Barometer", "Manometer", "Hygrometer", "Voltmeter"],
+      "answer": "Manometer",
+      "explanation": "Manometer measures gas pressure."
+    },
+    {
+      "id": "JAMB_P_2005_40",
+      "text": "A body is in equilibrium when:",
+      "image": "",
+      "options": ["Resultant force is zero", "Speed is constant", "Velocity is zero", "Temperature is constant"],
+      "answer": "Resultant force is zero",
+      "explanation": "Equilibrium requires zero net force."
+    }
+  ]
+  

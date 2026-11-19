@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E6001",
+        "text": "The single most important event for the $\\textbf{Eurozone}$ $\\textbf{Crisis}$ in 2012 was the speech given by ECB President $\\textbf{Mario}$ $\\textbf{Draghi}$ in July, promising to do $\\textbf{whatever}$ $\\textbf{it}$ $\\textbf{takes}$ to preserve the Euro.",
+        "image": "",
+        "options": [
+            "German budget surplus",
+            "Greek debt default",
+            "ECB President Mario Draghi's 'whatever it takes' speech",
+            "France leaving the Eurozone"
+        ],
+        "answer": "ECB President Mario Draghi's 'whatever it takes' speech",
+        "explanation": "This promise, backed by the threat of unlimited bond purchases, dramatically reduced speculation against the debt of countries like Spain and Italy."
+    },
+    {
+        "id": "E6002",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ launched $\\textbf{QE3}$ (Quantitative Easing 3) in September 2012. Unlike previous rounds, this program was $\\textbf{open-ended}$, meaning it was not limited by a specific $\\textbf{dollar}$ $\\textbf{amount}$ or $\\textbf{timeframe}$.",
+        "image": "",
+        "options": [
+            "Limited to $100 billion",
+            "Open-ended, not limited by a specific dollar amount or timeframe",
+            "Focused solely on short-term Treasuries",
+            "Focused on corporate stock"
+        ],
+        "answer": "Open-ended, not limited by a specific dollar amount or timeframe",
+        "explanation": "QE3 was tied to economic targets (unemployment and inflation) rather than a fixed sum, committing the Fed until substantial improvement occurred."
+    },
+    {
+        "id": "E6003",
+        "text": "The primary asset the Fed targeted with the open-ended QE3 purchases was $\\textbf{Mortgage-Backed}$ $\\textbf{Securities}$ ($\\textbf{MBS}$). This was intended to directly support the recovery of the $\\textbf{Housing}$ $\\textbf{Market}$.",
+        "image": "",
+        "options": [
+            "Long-term corporate bonds",
+            "Foreign government debt",
+            "Mortgage-Backed Securities (MBS)",
+            "Short-term Treasury bills"
+        ],
+        "answer": "Mortgage-Backed Securities (MBS)",
+        "explanation": "By buying MBS, the Fed aimed to lower long-term mortgage rates, making home ownership more affordable and stimulating housing construction."
+    },
+    {
+        "id": "E6004",
+        "text": "In response to his promise, Mario Draghi announced the $\\textbf{Outright}$ $\\textbf{Monetary}$ $\\textbf{Transactions}$ ($\\textbf{OMT}$) program. This program involved the ECB buying $\\textbf{sovereign}$ $\\textbf{bonds}$ of distressed nations, provided the nation first agreed to:",
+        "image": "",
+        "options": [
+            "Leave the Eurozone",
+            "Implement a mandatory austerity program under a Troika MoU",
+            "Join NATO",
+            "Issue gold-backed debt"
+        ],
+        "answer": "Implement a mandatory austerity program under a Troika MoU",
+        "explanation": "OMT required countries to apply for the ESM and agree to strict economic conditionality (austerity), making the program politically acceptable to Germany."
+    },
+    {
+        "id": "E6005",
+        "text": "The term $\\textbf{'Fiscal}$ $\\textbf{Cliff'}$ referred to the simultaneous expiration of $\\textbf{Bush-era}$ $\\textbf{Tax}$ $\\textbf{Cuts}$ and the $\\textbf{imposition}$ of $\\textbf{sequestration}$ $\\textbf{spending}$ $\\textbf{cuts}$ scheduled for January 1, 2013.",
+        "image": "",
+        "options": [
+            "The collapse of the housing market",
+            "A sudden, severe tightening of fiscal policy",
+            "A spike in energy prices",
+            "The failure of a major bank"
+        ],
+        "answer": "A sudden, severe tightening of fiscal policy",
+        "explanation": "Economists worried this combination of massive tax increases and spending cuts would plunge the fragile U.S. economy back into recession."
+    },
+    {
+        "id": "E6006",
+        "text": "As part of its $\\textbf{Forward}$ $\\textbf{Guidance}$, the Fed in 2012 shifted from using $\\textbf{calendar}$ $\\textbf{dates}$ to $\\textbf{thresholds}$—explicit numerical targets for $\\textbf{unemployment}$ and $\\textbf{inflation}$—to determine when interest rates would rise.",
+        "image": "",
+        "options": [
+            "Government debt and GDP",
+            "Unemployment and inflation",
+            "Oil prices and gold prices",
+            "Trade deficit and government spending"
+        ],
+        "answer": "Unemployment and inflation",
+        "explanation": "The Fed promised to keep rates near zero as long as unemployment remained above 6.5% AND inflation forecasts remained below 2.5%."
+    },
+    {
+        "id": "E6007",
+        "text": "The $\\textbf{primary}$ $\textbf{reason}$ the $\\textbf{OMT}$ program was so effective, even though it was $\\textbf{never}$ $\\textbf{actually}$ $\\textbf{used}$, was that it eliminated the $\\textbf{default}$ $\\textbf{tail}$ $\\textbf{risk}$ on sovereign debt.",
+        "image": "",
+        "options": [
+            "It raised the interest rate",
+            "It was instantly funded with $1 trillion",
+            "It eliminated the default tail risk on sovereign debt",
+            "It forced Germany to leave the Eurozone"
+        ],
+        "answer": "It eliminated the default tail risk on sovereign debt",
+        "explanation": "By committing to be an unlimited buyer, the ECB made a speculative attack against a solvent country impossible, restoring confidence."
+    },
+    {
+        "id": "E6008",
+        "text": "The $\\textbf{U.S.}$ $\textbf{housing}$ $\textbf{market}$ finally began a solid $\\textbf{recovery}$ in 2012, marked by consistent year-over-year growth in $\\textbf{home}$ $\\textbf{prices}$ and $\\textbf{new}$ $\\textbf{construction}$.",
+        "image": "",
+        "options": [
+            "Collapsed further",
+            "Began a solid recovery",
+            "Was nationalized by the government",
+            "Was unaffected by the Fed's policy"
+        ],
+        "answer": "Began a solid recovery",
+        "explanation": "Low rates from the Fed, a reduction in shadow inventory, and pent-up demand finally kick-started the housing sector."
+    },
+    {
+        "id": "E6009",
+        "text": "The term $\\textbf{Lesser}$ $\textbf{of}$ $\textbf{Two}$ $\textbf{Evils}$ was often used to describe the choice facing policymakers during the $\\textbf{Fiscal}$ $\\textbf{Cliff}$ negotiations, referring to whether to choose higher $\\textbf{taxes}$ or deep $\\textbf{spending}$ $\\textbf{cuts}$.",
+        "image": "",
+        "options": [
+            "Printing money or raising rates",
+            "Higher taxes or deep spending cuts",
+            "Bailing out banks or letting them fail",
+            "Joining or leaving the Euro"
+        ],
+        "answer": "Higher taxes or deep spending cuts",
+        "explanation": "Both options carried economic risks, leading to a protracted political stalemate."
+    },
+    {
+        "id": "E6010",
+        "text": "The $\\textbf{major}$ $\textbf{fiscal}$ $\textbf{compromise}$ reached in late 2012/early 2013 to avert the worst of the Fiscal Cliff resulted in $\\textbf{permanent}$ $\\textbf{tax}$ $\\textbf{cuts}$ for all but the $\\textbf{highest}$ $\\textbf{income}$ $\\textbf{earners}$.",
+        "image": "",
+        "options": [
+            "A total end to all tax cuts",
+            "Permanent tax cuts for all but the highest income earners",
+            "A temporary extension for one month",
+            "A sharp increase in the national debt"
+        ],
+        "answer": "Permanent tax cuts for all but the highest income earners",
+        "explanation": "The 'American Taxpayer Relief Act of 2012' made the Bush-era tax cuts permanent for the vast majority of Americans."
+    },
+    {
+        "id": "E6011",
+        "text": "The $\\textbf{primary}$ $\textbf{goal}$ of $\\textbf{QE3}$ (along with Operation Twist) was to use $\\textbf{monetary}$ $\\textbf{policy}$ to generate an $\\textbf{unconventional}$ $\\textbf{stimulus}$ because the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ was already at zero.",
+        "image": "",
+        "options": [
+            "Increase the value of the dollar",
+            "Generate an unconventional stimulus",
+            "Lower the trade deficit",
+            "Punish foreign banks"
+        ],
+        "answer": "Generate an unconventional stimulus",
+        "explanation": "With the main tool (interest rates) at zero, the Fed resorted to asset purchases to influence long-term rates and expectations."
+    },
+    {
+        "id": "E6012",
+        "text": "Which $\\textbf{Eurozone}$ country became the center of the $\\textbf{banking}$ $\textbf{crisis}$ in the summer of 2012, requiring a major European bailout for its $\\textbf{banking}$ $\\textbf{system}$?",
+        "image": "",
+        "options": [
+            "Germany",
+            "Finland",
+            "Spain",
+            "Italy"
+        ],
+        "answer": "Spain",
+        "explanation": "Spain's banks were saddled with massive bad debt from the imploded real estate bubble, forcing a European rescue of up to €100 billion."
+    },
+    {
+        "id": "E6013",
+        "text": "The $\\textbf{unemployment}$ $\\textbf{rate}$ saw its first substantial $\\textbf{drop}$ in 2012, signaling the start of a more robust $\\textbf{labor}$ $\\textbf{market}$ $\\textbf{recovery}$.",
+        "image": "",
+        "options": [
+            "Increased sharply",
+            "Saw its first substantial drop",
+            "Remained above 10%",
+            "Was unaffected by GDP growth"
+        ],
+        "answer": "Saw its first substantial drop",
+        "explanation": "The unemployment rate fell from 8.3% in January to 7.9% in December, the first time it had fallen below 8% since the crisis began."
+    },
+    {
+        "id": "E6014",
+        "text": "The $\\textbf{ECB}$'s 'whatever it takes' speech provided $\\textbf{credibility}$ to the $\\textbf{Euro}$ and essentially ended the immediate threat of a Eurozone $\\textbf{breakup}$.",
+        "image": "",
+        "options": [
+            "Increased speculation against the Euro",
+            "Triggered a massive recession",
+            "Essentially ended the immediate threat of a Eurozone breakup",
+            "Forced the resignation of the German Chancellor"
+        ],
+        "answer": "Essentially ended the immediate threat of a Eurozone breakup",
+        "explanation": "The promise acted as a powerful psychological and financial stabilizing force."
+    },
+    {
+        "id": "E6015",
+        "text": "A major economic policy debate in the U.S. in 2012 revolved around the concept of $\\textbf{Austerity}$ (sharp spending cuts) versus continued $\\textbf{Fiscal}$ $\\textbf{Stimulus}$.",
+        "image": "",
+        "options": [
+            "Inflationary spending",
+            "Austerity",
+            "Monetary tightening",
+            "Gold standard"
+        ],
+        "answer": "Austerity",
+        "explanation": "Republicans favored austerity to reduce the debt, while Democrats and many economists favored continued stimulus to support the recovery."
+    },
+    {
+        "id": "E6016",
+        "text": "The $\\textbf{Long-Term}$ $\textbf{Unemployment}$ rate began to $\\textbf{decline}$ in 2012 but remained a $\\textbf{structural}$ concern due to $\\textbf{skill}$ $\\textbf{mismatch}$ and $\\textbf{worker}$ $\\textbf{detachment}$.",
+        "image": "",
+        "options": [
+            "Was eliminated",
+            "Began to decline but remained a structural concern",
+            "Spiked dramatically higher",
+            "Was only present in the technology sector"
+        ],
+        "answer": "Began to decline but remained a structural concern",
+        "explanation": "While jobs were being created, many long-term unemployed workers struggled to transition back into the workforce."
+    },
+    {
+        "id": "E6017",
+        "text": "The U.S. Congress passed a law in February 2012 to temporarily prevent a massive increase in student loan $\\textbf{interest}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Housing prices",
+            "Minimum wage",
+            "Student loan interest rates",
+            "Oil prices"
+        ],
+        "answer": "Student loan interest rates",
+        "explanation": "This political action was necessary to prevent a scheduled doubling of the interest rate on subsidized Stafford loans."
+    },
+    {
+        "id": "E6018",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{Outright}$ $\\textbf{Monetary}$ $\\textbf{Transactions}$ ($\\textbf{OMT}$) program was challenged in $\\textbf{German}$ $\\textbf{Constitutional}$ $\\textbf{Court}$ on the grounds that it violated the $\\textbf{ECB}$'s mandate against $\\textbf{monetary}$ $\\textbf{financing}$ of governments.",
+        "image": "",
+        "options": [
+            "Greek Parliament",
+            "French Treasury",
+            "German Constitutional Court",
+            "U.S. Congress"
+        ],
+        "answer": "German Constitutional Court",
+        "explanation": "German critics argued OMT was a stealth bailout and that the ECB was overstepping its legal bounds by effectively printing money to fund governments."
+    },
+    {
+        "id": "E6019",
+        "text": "The $\\textbf{primary}$ $\textbf{risk}$ of the $\\textbf{Fiscal}$ $\\textbf{Cliff}$ was a $\\textbf{negative}$ $\\textbf{multiplier}$ $\\textbf{effect}$, where every dollar of spending cuts or tax hikes would reduce $\\textbf{GDP}$ by $\\textbf{more}$ $\\textbf{than}$ $\\textbf{one}$ $\\textbf{dollar}$.",
+        "image": "",
+        "options": [
+            "High inflation",
+            "A negative multiplier effect",
+            "A trade surplus",
+            "A real estate boom"
+        ],
+        "answer": "A negative multiplier effect",
+        "explanation": "This Keynesian concept suggested the fiscal contraction could lead to a downward spiral in consumer spending and investment."
+    },
+    {
+        "id": "E6020",
+        "text": "The $\\textbf{U.S.}$ $\textbf{budget}$ $\textbf{deficit}$ as a percentage of GDP $\\textbf{shrunk}$ in 2012, primarily due to rising $\\textbf{tax}$ $\\textbf{revenues}$ from the slowly recovering economy and reduced $\\textbf{stimulus}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "Expanded significantly",
+            "Remained unchanged",
+            "Shrunk",
+            "Was only visible in state governments"
+        ],
+        "answer": "Shrunk",
+        "explanation": "The deficit fell from its post-crisis highs, easing some political tensions, even before the Fiscal Cliff compromise."
+    },
+    {
+        "id": "E6021",
+        "text": "The $\\textbf{Volcker}$ $\textbf{Rule}$, intended to ban proprietary trading by banks, was further $\\textbf{delayed}$ in 2012 due to complex regulatory coordination among $\\textbf{five}$ $\\textbf{different}$ $\\textbf{agencies}$.",
+        "image": "",
+        "options": [
+            "Three",
+            "Five",
+            "Zero",
+            "Ten"
+        ],
+        "answer": "Five",
+        "explanation": "The FDIC, OCC, Fed, SEC, and CFTC all had to agree on the complex final language, leading to significant delays."
+    },
+    {
+        "id": "E6022",
+        "text": "The European Union's major fiscal response to the crisis in 2012 was the $\\textbf{Fiscal}$ $\\textbf{Compact}$, a treaty committing member states to incorporate a $\\textbf{Balanced}$ $\\textbf{Budget}$ $\\textbf{Rule}$ into national law.",
+        "image": "",
+        "options": [
+            "The Stimulus Compact",
+            "The Debt Forgiveness Treaty",
+            "The Fiscal Compact",
+            "The Trade Agreement"
+        ],
+        "answer": "The Fiscal Compact",
+        "explanation": "This treaty required countries to keep structural budget deficits below 0.5% of GDP, reinforcing austerity measures."
+    },
+    {
+        "id": "E6023",
+        "text": "The $\\textbf{primary}$ $\textbf{economic}$ $\textbf{risk}$ associated with $\\textbf{QE3}$ was the fear that it would eventually trigger $\\textbf{high}$ $\\textbf{inflation}$ once the economy reached full capacity.",
+        "image": "",
+        "options": [
+            "Immediate deflation",
+            "High interest rates",
+            "High inflation",
+            "A collapse in the stock market"
+        ],
+        "answer": "High inflation",
+        "explanation": "Critics worried that the massive expansion of the Fed's balance sheet would unleash a flood of money into the economy."
+    },
+    {
+        "id": "E6024",
+        "text": "The $\\textbf{price}$ $\textbf{of}$ $\\textbf{oil}$ was a major $\\textbf{drag}$ on $\\textbf{U.S.}$ $\textbf{consumer}$ $\textbf{spending}$ in 2012, peaking in the spring, which acted as a de facto $\\textbf{tax}$ $\\textbf{increase}$.",
+        "image": "",
+        "options": [
+            "Falling rapidly",
+            "A major drag on U.S. consumer spending",
+            "Zero",
+            "Unaffected by world events"
+        ],
+        "answer": "A major drag on U.S. consumer spending",
+        "explanation": "High gasoline prices forced consumers to spend more on energy, reducing their ability to spend on other goods and services."
+    },
+    {
+        "id": "E6025",
+        "text": "The $\\textbf{European}$ $\textbf{Stability}$ $\textbf{Mechanism}$ ($\textbf{ESM}$), the Eurozone's $\\textbf{permanent}$ $\\textbf{rescue}$ $\textbf{fund}$, officially became operational in $\\textbf{October}$ $\\textbf{2012}$.",
+        "image": "",
+        "options": [
+            "January 2011",
+            "October 2012",
+            "March 2013",
+            "June 2014"
+        ],
+        "answer": "October 2012",
+        "explanation": "The ESM replaced the temporary EFSF and provided the deep financial capacity needed to backstop the 'whatever it takes' promise."
+    },
+    {
+        "id": "E6026",
+        "text": "The $\\textbf{Dodd-Frank}$ $\textbf{Act}$ required large banks to submit $\\textbf{Living}$ $\\textbf{Wills}$ in 2012. These documents detail:",
+        "image": "",
+        "options": [
+            "Plans for executive retirement",
+            "A bank's internal trading algorithms",
+            "Plans for rapid and orderly liquidation in the event of failure",
+            "Future lending strategies"
+        ],
+        "answer": "Plans for rapid and orderly liquidation in the event of failure",
+        "explanation": "Living Wills are designed to allow regulators to dismantle a failing SIFI without causing systemic disruption, formalizing the Orderly Liquidation Authority (OLA)."
+    },
+    {
+        "id": "E6027",
+        "text": "The $\\textbf{Stock}$ $\textbf{Market}$ $\\textbf{Performance}$ in 2012 was generally $\\textbf{positive}$ and $\\textbf{stable}$, driven by record $\\textbf{corporate}$ $\\textbf{profits}$ and the $\\textbf{Fed}$'s continued $\\textbf{monetary}$ $\\textbf{accommodation}$.",
+        "image": "",
+        "options": [
+            "Highly volatile and negative",
+            "Generally positive and stable",
+            "Unaffected by macroeconomics",
+            "Only rising in the energy sector"
+        ],
+        "answer": "Generally positive and stable",
+        "explanation": "The S&P 500 rose by over 13% in 2012, as investor confidence in the recovery and Fed support solidified."
+    },
+    {
+        "id": "E6028",
+        "text": "The $\\textbf{primary}$ $\textbf{structural}$ $\textbf{reform}$ implemented in the U.S. in 2012 to help with the $\\textbf{housing}$ $\textbf{crisis}$ was the $\\textbf{Mortgage}$ $\textbf{Settlement}$, which provided relief to homeowners who had been improperly $\\textbf{foreclosed}$ $\\textbf{on}$.",
+        "image": "",
+        "options": [
+            "A trade deal with China",
+            "The Mortgage Settlement",
+            "A new stimulus bill",
+            "A corporate tax cut"
+        ],
+        "answer": "The Mortgage Settlement",
+        "explanation": "This settlement between the U.S. government and major mortgage servicers led to billions in relief for homeowners and reformed foreclosure practices."
+    },
+    {
+        "id": "E6029",
+        "text": "In $\\textbf{October}$ $\\textbf{2012}$, the $\\textbf{unemployment}$ $\\textbf{rate}$ officially dropped $\\textbf{below}$ $\\textbf{8%}$ for the first time since the $\\textbf{recession}$ $\\textbf{began}$ in 2008.",
+        "image": "",
+        "options": [
+            "Above 9%",
+            "Below 8%",
+            "At 10%",
+            "Below 6%"
+        ],
+        "answer": "Below 8%",
+        "explanation": "This was a major psychological milestone in the Jobless Recovery, though the rate remained historically high."
+    },
+    {
+        "id": "E6030",
+        "text": "The $\\textbf{primary}$ $\textbf{argument}$ against the $\\textbf{ECB}$'s $\\textbf{OMT}$ program was the $\\textbf{moral}$ $\\textbf{hazard}$ it created, by allowing governments to borrow cheaply without fear of $\\textbf{market}$ $\\textbf{discipline}$.",
+        "image": "",
+        "options": [
+            "It was too small",
+            "It was too complicated",
+            "The moral hazard it created",
+            "It only helped Germany"
+        ],
+        "answer": "The moral hazard it created",
+        "explanation": "Critics argued that the OMT removed the incentive for debtor nations to reform their spending habits."
+    },
+    {
+        "id": "E6031",
+        "text": "The $\\textbf{permanent}$ $\textbf{tax}$ $\textbf{cuts}$ from the Fiscal Cliff deal, effective January 1, 2013, ensured that the $\\textbf{vast}$ $\textbf{majority}$ of Americans did $\\textbf{not}$ see a rise in their $\\textbf{marginal}$ $\\textbf{tax}$ $\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Corporate tax rates",
+            "Marginal tax rates",
+            "Import tariffs",
+            "Sales taxes"
+        ],
+        "answer": "Marginal tax rates",
+        "explanation": "The deal locked in the lower tax rates for approximately 99% of U.S. taxpayers."
+    },
+    {
+        "id": "E6032",
+        "text": "The $\\textbf{European}$ $\textbf{Banking}$ $\textbf{Union}$ was proposed in 2012. Its three main pillars include a $\\textbf{Single}$ $\textbf{Supervisory}$ $\textbf{Mechanism}$ ($\\textbf{SSM}$), a $\\textbf{Single}$ $\textbf{Resolution}$ $\\textbf{Mechanism}$ ($\\textbf{SRM}$), and a $\\textbf{common}$ $\\textbf{deposit}$ $\\textbf{insurance}$ $\\textbf{scheme}$.",
+        "image": "",
+        "options": [
+            "Single currency, single language, single army",
+            "Single Supervisory Mechanism (SSM), Single Resolution Mechanism (SRM), and a common deposit insurance scheme",
+            "Common tax rate, common debt, common spending",
+            "Common agricultural policy, common trade policy, common military policy"
+        ],
+        "answer": "Single Supervisory Mechanism (SSM), Single Resolution Mechanism (SRM), and a common deposit insurance scheme",
+        "explanation": "The Banking Union was intended to break the 'doom loop' between sovereign debt and failing national banks."
+    },
+    {
+        "id": "E6033",
+        "text": "The $\\textbf{Shadow}$ $\textbf{Inventory}$ of homes, those not officially listed for sale but likely to enter the market, began to $\\textbf{decline}$ $\\textbf{significantly}$ in 2012 as banks started working through the backlog of $\\textbf{foreclosures}$.",
+        "image": "",
+        "options": [
+            "Increase dramatically",
+            "Decline significantly",
+            "Double in size",
+            "Remain unchanged"
+        ],
+        "answer": "Decline significantly",
+        "explanation": "This was a necessary precursor to the housing market recovery, as it cleared the market of potential future supply."
+    },
+    {
+        "id": "E6034",
+        "text": "The Fed's $\\textbf{QE3}$ focused its open-ended purchases on $\\textbf{Mortgage-Backed}$ $\\textbf{Securities}$ ($\\textbf{MBS}$). The monthly purchase amount was initially $\\textbf{\\$40}$ $\\textbf{billion}$.",
+        "image": "",
+        "options": [
+            "$10 billion",
+            "$40 billion",
+            "$100 billion",
+            "$500 billion"
+        ],
+        "answer": "$40 billion",
+        "explanation": "This was later increased, but the initial amount was $40 billion, combined with Operation Twist for a total stimulus effort."
+    },
+    {
+        "id": "E6035",
+        "text": "The $\\textbf{American}$ $\textbf{Taxpayer}$ $\textbf{Relief}$ $\textbf{Act}$ ($\\textbf{ATRA}$) of 2012 primarily $\\textbf{increased}$ the $\\textbf{top}$ $\\textbf{marginal}$ $\\textbf{income}$ $\\textbf{tax}$ $\\textbf{rate}$ from 35% to $\\textbf{39.6}$ $\\textbf{\\%}$ for the highest earners.",
+        "image": "",
+        "options": [
+            "Reduced the corporate tax rate",
+            "Eliminated the estate tax",
+            "Increased the top marginal income tax rate",
+            "Introduced a new sales tax"
+        ],
+        "answer": "Increased the top marginal income tax rate",
+        "explanation": "This was the main concession by Democrats to make the tax cuts permanent for the lower and middle classes."
+    },
+    {
+        "id": "E6036",
+        "text": "The $\\textbf{Term}$ $\textbf{Auction}$ $\textbf{Facility}$ ($\\textbf{TAF}$), a Fed program used to inject liquidity into banks during the crisis, was $\\textbf{discontinued}$ in 2012 as markets stabilized.",
+        "image": "",
+        "options": [
+            "Expanded dramatically",
+            "Discontinued",
+            "Converted to a gold fund",
+            "Sold to a private company"
+        ],
+        "answer": "Discontinued",
+        "explanation": "The end of TAF signaled that the financial system was no longer dependent on emergency Fed lending."
+    },
+    {
+        "id": "E6037",
+        "text": "The Greek debt crisis saw a $\\textbf{Private}$ $\textbf{Sector}$ $\\textbf{Involvement}$ ($\\textbf{PSI}$) program in 2012, which involved the largest $\\textbf{sovereign}$ $\\textbf{debt}$ $\\textbf{restructuring}$ in $\\textbf{history}$.",
+        "image": "",
+        "options": [
+            "Equity injection",
+            "Sovereign debt restructuring",
+            "Loan guarantee",
+            "Currency peg"
+        ],
+        "answer": "Sovereign debt restructuring",
+        "explanation": "Private creditors were forced to take a loss (haircut) of over 50% on their Greek bond holdings."
+    },
+    {
+        "id": "E6038",
+        "text": "The $\\textbf{Labor}$ $\textbf{Force}$ $\textbf{Participation}$ $\textbf{Rate}$ continued its long-term $\\textbf{decline}$ in 2012, fueling the debate over whether $\\textbf{economic}$ $\\textbf{slack}$ was disappearing or if $\\textbf{structural}$ $\\textbf{factors}$ were permanently reducing the workforce.",
+        "image": "",
+        "options": [
+            "Rapidly increasing",
+            "Bouncing back to pre-crisis levels",
+            "Continuing its long-term decline",
+            "Unaffected by demographics"
+        ],
+        "answer": "Continuing its long-term decline",
+        "explanation": "The decline was attributed to demographics (retiring Baby Boomers) and discouraged workers, muddying the interpretation of the falling unemployment rate."
+    },
+    {
+        "id": "E6039",
+        "text": "The $\\textbf{Cyprus}$ $\textbf{Banking}$ $\textbf{Crisis}$ began to unfold in late 2012, highlighting the $\\textbf{fragility}$ of small $\\textbf{Eurozone}$ $\\textbf{economies}$ and leading to the controversial imposition of a $\\textbf{bail-in}$ in 2013.",
+        "image": "",
+        "options": [
+            "Malta",
+            "Cyprus",
+            "Luxembourg",
+            "Estonia"
+        ],
+        "answer": "Cyprus",
+        "explanation": "Cyprus's massive banking sector (linked to Greece) required a major bailout, setting a dangerous precedent for using depositors' funds (a bail-in)."
+    },
+    {
+        "id": "E6040",
+        "text": "The U.S. economy's $\\textbf{GDP}$ $\textbf{growth}$ in 2012 was characterized by $\\textbf{modest}$ $\\textbf{expansion}$ (around 2.2%) but remained well $\\textbf{below}$ the $\\textbf{historical}$ $\\textbf{average}$ for a post-recession recovery.",
+        "image": "",
+        "options": [
+            "Hyper-growth (over 5%)",
+            "Contraction (negative growth)",
+            "Modest expansion (around 2%)",
+            "Zero growth"
+        ],
+        "answer": "Modest expansion (around 2%)",
+        "explanation": "The slow, 'new normal' pace of growth was a persistent concern throughout the post-crisis years."
+    }
+]

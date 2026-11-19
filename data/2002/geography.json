@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G201",
+        "text": "The earth rotates on its axis from $\\textbf{West}$ to $\\textbf{East}$ once every $\\textbf{24 hours}$.",
+        "image": "",
+        "options": [
+            "East to West",
+            "North to South",
+            "West to East",
+            "South to North"
+        ],
+        "answer": "West to East",
+        "explanation": "This rotation causes day and night and the apparent movement of the sun across the sky."
+    },
+    {
+        "id": "G202",
+        "text": "Which of the following is a $\\textbf{Sedimentary}$ rock?",
+        "image": "",
+        "options": [
+            "Granite",
+            "Basalt",
+            "Limestone",
+            "Marble"
+        ],
+        "answer": "Limestone",
+        "explanation": "Limestone is formed from the accumulation of shell, coral, algal, and fecal debris."
+    },
+    {
+        "id": "G203",
+        "text": "The instrument used to measure $\\textbf{Wind Direction}$ is the $\\textbf{Wind Vane}$.",
+        "image": "",
+        "options": [
+            "Anemometer",
+            "Wind Vane",
+            "Barometer",
+            "Rain Gauge"
+        ],
+        "answer": "Wind Vane",
+        "explanation": "It points into the wind to show the direction from which the wind is blowing."
+    },
+    {
+        "id": "G204",
+        "text": "Lines on a map joining places of equal rainfall are called $\\textbf{Isohyets}$.",
+        "image": "",
+        "options": [
+            "Isobars",
+            "Isotherms",
+            "Isohyets",
+            "Contours"
+        ],
+        "answer": "Isohyets",
+        "explanation": "'Iso' means equal and 'hyet' relates to rain."
+    },
+    {
+        "id": "G205",
+        "text": "A narrow inlet of the sea between steep cliffs or slopes is a $\\textbf{Fjord}$ (or Ria, depending on formation).",
+        "image": "",
+        "options": [
+            "Delta",
+            "Fjord",
+            "Lagoon",
+            "Spit"
+        ],
+        "answer": "Fjord",
+        "explanation": "Fjords are formed by the submergence of a glaciated valley."
+    },
+    {
+        "id": "G206",
+        "text": "The scientific study of the population is known as $\\textbf{Demography}$.",
+        "image": "",
+        "options": [
+            "Cartography",
+            "Demography",
+            "Geology",
+            "Sociology"
+        ],
+        "answer": "Demography",
+        "explanation": "It analyzes statistics such as birth, death, and disease."
+    },
+    {
+        "id": "G207",
+        "text": "Which type of agriculture involves the clearing of forest, burning the debris, and planting crops for a few years? $\\textbf{Shifting Cultivation}$.",
+        "image": "",
+        "options": [
+            "Plantation Agriculture",
+            "Shifting Cultivation",
+            "Mixed Farming",
+            "Market Gardening"
+        ],
+        "answer": "Shifting Cultivation",
+        "explanation": "Also known as 'slash and burn', practiced in tropical rainforests."
+    },
+    {
+        "id": "G208",
+        "text": "The extraction of minerals from the earth is called $\\textbf{Mining}$.",
+        "image": "",
+        "options": [
+            "Farming",
+            "Mining",
+            "Fishing",
+            "Lumbering"
+        ],
+        "answer": "Mining",
+        "explanation": "It is a primary economic activity."
+    },
+    {
+        "id": "G209",
+        "text": "Which mode of transport is best for transporting perishable goods quickly over long distances? $\\textbf{Air}$.",
+        "image": "",
+        "options": [
+            "Rail",
+            "Road",
+            "Water",
+            "Air"
+        ],
+        "answer": "Air",
+        "explanation": "Air transport minimizes travel time, reducing spoilage."
+    },
+    {
+        "id": "G210",
+        "text": "The continuous movement of water on, above, and below the surface of the Earth is the $\\textbf{Water Cycle}$.",
+        "image": "",
+        "options": [
+            "Rock Cycle",
+            "Water Cycle",
+            "Life Cycle",
+            "Carbon Cycle"
+        ],
+        "answer": "Water Cycle",
+        "explanation": "Also called the Hydrological Cycle."
+    },
+    {
+        "id": "G211",
+        "text": "A settlement where the main occupation is fishing is a $\\textbf{Fishing Village}$ (or Port).",
+        "image": "",
+        "options": [
+            "Mining Town",
+            "Market Town",
+            "Fishing Village",
+            "Resort"
+        ],
+        "answer": "Fishing Village",
+        "explanation": "Usually located along coasts or riverbanks."
+    },
+    {
+        "id": "G212",
+        "text": "Granite creates landforms known as $\\textbf{Inselbergs}$ or Tors when weathered.",
+        "image": "",
+        "options": [
+            "Dunes",
+            "Inselbergs",
+            "Deltas",
+            "Craters"
+        ],
+        "answer": "Inselbergs",
+        "explanation": "Isolated rock hills that have resisted erosion."
+    },
+    {
+        "id": "G213",
+        "text": "The $\\textbf{Solar System}$ consists of the Sun and the $\\textbf{Planets}$ orbiting it.",
+        "image": "",
+        "options": [
+            "Stars",
+            "Planets",
+            "Galaxies",
+            "Nebulas"
+        ],
+        "answer": "Planets",
+        "explanation": "There are eight planets in our solar system."
+    },
+    {
+        "id": "G214",
+        "text": "The lower course of a river is characterized by $\\textbf{Deposition}$.",
+        "image": "",
+        "options": [
+            "Erosion",
+            "Transportation",
+            "Deposition",
+            "Corrasion"
+        ],
+        "answer": "Deposition",
+        "explanation": "The river loses energy and drops its load, forming floodplains and deltas."
+    },
+    {
+        "id": "G215",
+        "text": "The direction opposite to North is $\\textbf{South}$.",
+        "image": "",
+        "options": [
+            "East",
+            "West",
+            "South",
+            "North-West"
+        ],
+        "answer": "South",
+        "explanation": "It corresponds to a bearing of 180°."
+    },
+    {
+        "id": "G216",
+        "text": "The layer of the earth composed of molten rock is the $\\textbf{Mantle}$ (specifically the Asthenosphere).",
+        "image": "",
+        "options": [
+            "Crust",
+            "Mantle",
+            "Inner Core",
+            "Atmosphere"
+        ],
+        "answer": "Mantle",
+        "explanation": "Magma originates from the upper mantle."
+    },
+    {
+        "id": "G217",
+        "text": "Marble is a metamorphic rock formed from $\\textbf{Limestone}$.",
+        "image": "",
+        "options": [
+            "Sandstone",
+            "Shale",
+            "Granite",
+            "Limestone"
+        ],
+        "answer": "Limestone",
+        "explanation": "Heat and pressure recrystallize the calcite in limestone."
+    },
+    {
+        "id": "G218",
+        "text": "The movement of soil and rock down a slope due to gravity is called $\\textbf{Mass Wasting}$.",
+        "image": "",
+        "options": [
+            "Weathering",
+            "Erosion",
+            "Mass Wasting",
+            "Deposition"
+        ],
+        "answer": "Mass Wasting",
+        "explanation": "Includes landslides, mudflows, and soil creep."
+    },
+    {
+        "id": "G219",
+        "text": "Which soil is best for agriculture? $\\textbf{Loam}$.",
+        "image": "",
+        "options": [
+            "Sand",
+            "Clay",
+            "Loam",
+            "Gravel"
+        ],
+        "answer": "Loam",
+        "explanation": "It has a balanced mixture of sand, silt, and clay."
+    },
+    {
+        "id": "G220",
+        "text": "Hydro-electric power is generated from $\\textbf{Running Water}$.",
+        "image": "",
+        "options": [
+            "Wind",
+            "Sun",
+            "Running Water",
+            "Coal"
+        ],
+        "answer": "Running Water",
+        "explanation": "Dams are built to harness the kinetic energy of water."
+    },
+    {
+        "id": "G221",
+        "text": "Industries that are not tied to a specific location are called $\\textbf{Footloose Industries}$.",
+        "image": "",
+        "options": [
+            "Heavy Industries",
+            "Footloose Industries",
+            "Cottage Industries",
+            "Extractive Industries"
+        ],
+        "answer": "Footloose Industries",
+        "explanation": "They can be located anywhere because transportation costs are low."
+    },
+    {
+        "id": "G222",
+        "text": "The latitude of the $\\textbf{Arctic Circle}$ is $\\textbf{66½° North}$.",
+        "image": "",
+        "options": [
+            "23½° North",
+            "66½° North",
+            "90° North",
+            "0°"
+        ],
+        "answer": "66½° North",
+        "explanation": "It marks the southern limit of the area where the sun does not set on the summer solstice."
+    },
+    {
+        "id": "G223",
+        "text": "A ridge of sand formed by wind deposition in a desert is a $\\textbf{Sand Dune}$.",
+        "image": "",
+        "options": [
+            "Inselberg",
+            "Sand Dune",
+            "Mesa",
+            "Wadi"
+        ],
+        "answer": "Sand Dune",
+        "explanation": "They can be crescent-shaped (barchans) or linear (seif dunes)."
+    },
+    {
+        "id": "G224",
+        "text": "The condition of the atmosphere at a specific time and place is $\\textbf{Weather}$.",
+        "image": "",
+        "options": [
+            "Climate",
+            "Weather",
+            "Season",
+            "Temperature"
+        ],
+        "answer": "Weather",
+        "explanation": "Climate is the average weather over a long period (30+ years)."
+    },
+    {
+        "id": "G225",
+        "text": "The movement of people from rural areas to cities is $\\textbf{Rural-Urban Migration}$.",
+        "image": "",
+        "options": [
+            "Urbanization",
+            "Rural-Urban Migration",
+            "Emigration",
+            "Immigration"
+        ],
+        "answer": "Rural-Urban Migration",
+        "explanation": "Driven by push factors (rural poverty) and pull factors (urban jobs)."
+    },
+    {
+        "id": "G226",
+        "text": "Coal is an example of a $\\textbf{Fossil Fuel}$.",
+        "image": "",
+        "options": [
+            "Renewable Resource",
+            "Fossil Fuel",
+            "Metal",
+            "Gemstone"
+        ],
+        "answer": "Fossil Fuel",
+        "explanation": "Formed from ancient plant matter."
+    },
+    {
+        "id": "G227",
+        "text": "The savanna vegetation belt is characterized by $\\textbf{Grassland with scattered trees}$.",
+        "image": "",
+        "options": [
+            "Dense forest",
+            "Grassland with scattered trees",
+            "Thorny bushes",
+            "Mosses and Lichens"
+        ],
+        "answer": "Grassland with scattered trees",
+        "explanation": "It lies between the rainforest and the desert."
+    },
+    {
+        "id": "G228",
+        "text": "Which activity belongs to the tertiary sector? $\\textbf{Banking}$.",
+        "image": "",
+        "options": [
+            "Fishing",
+            "Manufacturing",
+            "Banking",
+            "Mining"
+        ],
+        "answer": "Banking",
+        "explanation": "Tertiary activities involve providing services."
+    },
+    {
+        "id": "G229",
+        "text": "The Prime Meridian passes through $\\textbf{London}$ (Greenwich).",
+        "image": "",
+        "options": [
+            "Paris",
+            "New York",
+            "London",
+            "Tokyo"
+        ],
+        "answer": "London",
+        "explanation": "It is the starting point for measuring longitude (0°)."
+    },
+    {
+        "id": "G230",
+        "text": "A feature formed by wave erosion is a $\\textbf{Stack}$.",
+        "image": "",
+        "options": [
+            "Beach",
+            "Spit",
+            "Stack",
+            "Tombolo"
+        ],
+        "answer": "Stack",
+        "explanation": "An isolated pillar of rock left when an arch collapses."
+    },
+    {
+        "id": "G231",
+        "text": "The exchange of goods and services is called $\\textbf{Trade}$.",
+        "image": "",
+        "options": [
+            "Production",
+            "Consumption",
+            "Trade",
+            "Distribution"
+        ],
+        "answer": "Trade",
+        "explanation": "It is the buying and selling of commodities."
+    },
+    {
+        "id": "G232",
+        "text": "Which of the following is an agent of weathering? $\\textbf{Temperature Change}$.",
+        "image": "",
+        "options": [
+            "Wind",
+            "River",
+            "Temperature Change",
+            "Glacier"
+        ],
+        "answer": "Temperature Change",
+        "explanation": "Physical weathering is caused by expansion and contraction due to heat."
+    },
+    {
+        "id": "G233",
+        "text": "The tropical rainforest is known for its $\\textbf{High Biodiversity}$.",
+        "image": "",
+        "options": [
+            "Low Biodiversity",
+            "High Biodiversity",
+            "Lack of Trees",
+            "Dryness"
+        ],
+        "answer": "High Biodiversity",
+        "explanation": "It contains a vast variety of plant and animal species."
+    },
+    {
+        "id": "G234",
+        "text": "A narrow strip of land connecting two larger land masses is an $\\textbf{Isthmus}$.",
+        "image": "",
+        "options": [
+            "Strait",
+            "Isthmus",
+            "Peninsula",
+            "Cape"
+        ],
+        "answer": "Isthmus",
+        "explanation": "Example: Isthmus of Panama."
+    },
+    {
+        "id": "G235",
+        "text": "Applying water to crops artificially is called $\\textbf{Irrigation}$.",
+        "image": "",
+        "options": [
+            "Drainage",
+            "Ploughing",
+            "Irrigation",
+            "Weeding"
+        ],
+        "answer": "Irrigation",
+        "explanation": "Used in dry areas to support agriculture."
+    },
+    {
+        "id": "G236",
+        "text": "The layer of the atmosphere where ozone is found is the $\\textbf{Stratosphere}$.",
+        "image": "",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Exosphere"
+        ],
+        "answer": "Stratosphere",
+        "explanation": "The ozone layer protects life from UV radiation."
+    },
+    {
+        "id": "G237",
+        "text": "On a map, V-shaped contours pointing upstream indicate a $\\textbf{River Valley}$.",
+        "image": "",
+        "options": [
+            "Spur",
+            "River Valley",
+            "Hill",
+            "Ridge"
+        ],
+        "answer": "River Valley",
+        "explanation": "The V points towards higher ground."
+    },
+    {
+        "id": "G238",
+        "text": "A population pyramid with a narrow base indicates a $\\textbf{Low Birth Rate}$.",
+        "image": "",
+        "options": [
+            "High Birth Rate",
+            "Low Birth Rate",
+            "High Death Rate",
+            "Rapid Growth"
+        ],
+        "answer": "Low Birth Rate",
+        "explanation": "Typical of developed countries with aging populations."
+    },
+    {
+        "id": "G239",
+        "text": "The mechanical breakdown of rocks without chemical change is $\\textbf{Physical Weathering}$.",
+        "image": "",
+        "options": [
+            "Chemical Weathering",
+            "Physical Weathering",
+            "Biological Weathering",
+            "Erosion"
+        ],
+        "answer": "Physical Weathering",
+        "explanation": "Also called mechanical weathering."
+    },
+    {
+        "id": "G240",
+        "text": "The largest continent by land area is $\\textbf{Asia}$.",
+        "image": "",
+        "options": [
+            "Africa",
+            "North America",
+            "Asia",
+            "Europe"
+        ],
+        "answer": "Asia",
+        "explanation": "It covers about 30% of Earth's total land area."
+    }
+]

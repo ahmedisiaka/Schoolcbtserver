@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM201",
+        "text": "The $\\textbf{Money Market}$ provides an avenue for companies and governments to manage $\\textbf{Liquidity}$ by issuing and trading $\\textbf{Short-Term}$ debt instruments.",
+        "image": "",
+        "options": [
+            "Solvency",
+            "Profitability",
+            "Liquidity",
+            "Efficiency"
+        ],
+        "answer": "Liquidity",
+        "explanation": "The money market ensures that financial institutions have quick access to cash to meet immediate operational needs."
+    },
+    {
+        "id": "COM202",
+        "text": "The $\\textbf{Transfer Price}$ used between divisions of a multinational corporation significantly impacts the distribution of $\\textbf{Profit}$ and $\\textbf{Taxable Income}$ across $\\textbf{Jurisdictions}$.",
+        "image": "",
+        "options": [
+            "Revenue Only",
+            "Costs Only",
+            "Profit",
+            "Sales Volume"
+        ],
+        "answer": "Profit",
+        "explanation": "Setting optimal transfer prices is a critical aspect of international tax planning and management performance evaluation."
+    },
+    {
+        "id": "COM203",
+        "text": "The $\\textbf{Product Mix}$ dimension of $\\textbf{Consistency}$ refers to how closely related the various product $\\textbf{Lines}$ are in terms of end use, production requirements, or $\\textbf{Distribution}$ channels.",
+        "image": "",
+        "options": [
+            "Width",
+            "Length",
+            "Depth",
+            "Consistency"
+        ],
+        "answer": "Consistency",
+        "explanation": "High consistency allows the company to leverage shared resources and expertise across product lines."
+    },
+    {
+        "id": "COM204",
+        "text": "The $\\textbf{Bull Market}$ encourages $\\textbf{Mergers and Acquisitions}$ ($\\,\\textbf{M\\&A}$) because high $\\textbf{Stock Prices}$ make it easier to use equity as $\\textbf{Currency}$ for $\\textbf{Takeovers}$.",
+        "image": "",
+        "options": [
+            "Debt",
+            "Cash",
+            "Stock Prices",
+            "Assets"
+        ],
+        "answer": "Stock Prices",
+        "explanation": "Acquiring firms prefer to pay with their own highly valued stock during a bull market."
+    },
+    {
+        "id": "COM205",
+        "text": "A $\\textbf{Common Market}$ is a trade bloc that adds the free movement of $\\textbf{Labor}$ ($\textbf{People}$) and $\\textbf{Capital}$ to the features of a Customs Union.",
+        "image": "",
+        "options": [
+            "Goods Only",
+            "Capital",
+            "Services Only",
+            "Information"
+        ],
+        "answer": "Capital",
+        "explanation": "The free movement of factors of production (labor and capital) allows for greater economic integration."
+    },
+    {
+        "id": "COM206",
+        "text": "The $\\textbf{Commercial Paper}$ financial instrument is an $\\textbf{Unsecured}$ $\\textbf{Promissory Note}$ issued by large, reputable corporations to raise $\\textbf{Short-Term}$ funds.",
+        "image": "",
+        "options": [
+            "Government Bonds",
+            "Corporate Stocks",
+            "Commercial Paper",
+            "Mortgage Bonds"
+        ],
+        "answer": "Commercial Paper",
+        "explanation": "It is a popular money market instrument because it avoids the need for collateral or banking intermediation."
+    },
+    {
+        "id": "COM207",
+        "text": "The $\\textbf{Incoterm}$ $\\textbf{FOB}$ ($\textbf{Free On Board}$) traditionally means the $\\textbf{Seller}$ fulfills the obligation when the goods pass the $\\textbf{Ship's Rail}$.",
+        "image": "",
+        "options": [
+            "Buyer's Warehouse",
+            "Seller's Dock",
+            "Ship's Rail",
+            "Customs Point"
+        ],
+        "answer": "Ship's Rail",
+        "explanation": "At this point, the risk of loss or damage transfers from the seller to the buyer (traditional interpretation)."
+    },
+    {
+        "id": "COM208",
+        "text": "The $\\textbf{Trade-Related Investment Measures}$ ($\\,\\textbf{TRIMS}$) agreement prohibits countries from imposing local $\\textbf{Content Requirements}$ on foreign $\\textbf{Investors}$.",
+        "image": "",
+        "options": [
+            "Labor Laws",
+            "Tax Rates",
+            "Content Requirements",
+            "Environmental Standards"
+        ],
+        "answer": "Content Requirements",
+        "explanation": "Local content requirements force foreign companies to source a percentage of components locally, which is seen as restrictive to trade."
+    },
+    {
+        "id": "COM209",
+        "text": "The $\\textbf{Product Concept}$ risks $\\textbf{Marketing Myopia}$ because a focus on $\\textbf{Perfection}$ may lead to $\\textbf{Overlooking}$ simpler solutions to customer needs.",
+        "image": "",
+        "options": [
+            "Cost",
+            "Simplicity",
+            "Perfection",
+            "Distribution"
+        ],
+        "answer": "Perfection",
+        "explanation": "The pursuit of the 'perfect' product may lead the company to miss market shifts or neglect market demand for a cheaper or simpler alternative."
+    },
+    {
+        "id": "COM210",
+        "text": "A $\\textbf{Certificate of Origin}$ is essential in international trade for determining the correct $\\textbf{Tariff}$ and checking compliance with $\\textbf{Rules of Origin}$ in trade $\\textbf{Agreements}$.",
+        "image": "",
+        "options": [
+            "Product Price",
+            "Tariff",
+            "Shipping Date",
+            "Insurance Cost"
+        ],
+        "answer": "Tariff",
+        "explanation": "Tariff rates vary dramatically based on the country of origin due to various preferential trade agreements."
+    },
+    {
+        "id": "COM211",
+        "text": "In $\\textbf{Logistics}$, $\\textbf{Reverse Logistics}$ specifically manages the flow of $\\textbf{Goods}$ and information from the $\\textbf{Consumer}$ back to the $\\textbf{Producer}$ (e.g., product returns).",
+        "image": "",
+        "options": [
+            "Outbound Logistics",
+            "Forward Logistics",
+            "Reverse Logistics",
+            "Inbound Logistics"
+        ],
+        "answer": "Reverse Logistics",
+        "explanation": "This is a growing focus area due to e-commerce returns and the need for recycling/disposal."
+    },
+    {
+        "id": "COM212",
+        "text": "The $\\textbf{Primary Sector}$'s contribution to the $\\textbf{GDP}$ of developed countries is generally $\\textbf{Smaller}$ than the contributions of the $\\textbf{Secondary}$ and $\\textbf{Tertiary}$ sectors.",
+        "image": "",
+        "options": [
+            "Larger",
+            "Equal",
+            "Smaller",
+            "Unrelated"
+        ],
+        "answer": "Smaller",
+        "explanation": "Developed economies shift towards manufacturing and especially services, reducing the relative importance of raw material extraction."
+    },
+    {
+        "id": "COM213",
+        "text": "The $\\textbf{Monopolistic Competition}$ market is distinguished from an $\\textbf{Oligopoly}$ by having many $\\textbf{Small}$ firms rather than a few $\\textbf{Large}$ dominant firms.",
+        "image": "",
+        "options": [
+            "Few Large",
+            "One Dominant",
+            "Many Small",
+            "Two Competing"
+        ],
+        "answer": "Many Small",
+        "explanation": "Monopolistic competition involves many firms competing by differentiating their products."
+    },
+    {
+        "id": "COM214",
+        "text": "The $\\textbf{Corporate Veil}$ is the legal barrier that separates the $\\textbf{Liability}$ of the $\\textbf{Corporation}$ from its $\\textbf{Shareholders}$.",
+        "image": "",
+        "options": [
+            "Partnership",
+            "Sole Proprietorship",
+            "Corporate Veil",
+            "LLC"
+        ],
+        "answer": "Corporate Veil",
+        "explanation": "Lifting or 'piercing' the corporate veil removes this protection, making shareholders personally liable."
+    },
+    {
+        "id": "COM215",
+        "text": "A $\\textbf{Futures Contract}$ is an agreement traded on an $\\textbf{Exchange}$ to buy or sell a specific asset at a fixed $\\textbf{Price}$ on a future $\\textbf{Date}$.",
+        "image": "",
+        "options": [
+            "Over-the-counter",
+            "Exchange",
+            "Bank",
+            "Directly"
+        ],
+        "answer": "Exchange",
+        "explanation": "Trading on a regulated exchange makes futures contracts highly standardized and liquid."
+    },
+    {
+        "id": "COM216",
+        "text": "The $\\textbf{Law of Agency}$ requires that the $\\textbf{Agent}$ must maintain the $\\textbf{Confidentiality}$ of the $\\textbf{Principal}$'s $\\textbf{Information}$.",
+        "image": "",
+        "options": [
+            "Transparency",
+            "Full Disclosure",
+            "Confidentiality",
+            "Publicity"
+        ],
+        "answer": "Confidentiality",
+        "explanation": "This is part of the agent's fiduciary duty to the principal."
+    },
+    {
+        "id": "COM217",
+        "text": "The $\\textbf{Brand Equity}$ is often measured by the difference between a $\\textbf{Branded}$ product's selling price and an $\\textbf{Identical}$ $\\textbf{Generic}$ product's selling price.",
+        "image": "",
+        "options": [
+            "Cost",
+            "Marketing Budget",
+            "Branded",
+            "Sales Volume"
+        ],
+        "answer": "Branded",
+        "explanation": "This premium reflects the commercial value added by the brand name itself."
+    },
+    {
+        "id": "COM218",
+        "text": "The $\\textbf{Price Skimming}$ strategy is best used during the $\\textbf{Introduction}$ stage of the $\\textbf{Product Life Cycle}$ for new, innovative products.",
+        "image": "",
+        "options": [
+            "Decline",
+            "Growth",
+            "Introduction",
+            "Maturity"
+        ],
+        "answer": "Introduction",
+        "explanation": "The high initial price maximizes revenue from early adopters before competition arrives."
+    },
+    {
+        "id": "COM219",
+        "text": "A $\\textbf{Customs Union}$ aims to remove $\\textbf{Internal}$ trade barriers and establish a common $\\textbf{External}$ $\\textbf{Tariff}$ ($\textbf{CET}$).",
+        "image": "",
+        "options": [
+            "Separate External Tariffs",
+            "No External Tariffs",
+            "Common External Tariff",
+            "Individual Currencies"
+        ],
+        "answer": "Common External Tariff",
+        "explanation": "The CET means the same customs duties apply to imports from outside the union, regardless of which member country receives them."
+    },
+    {
+        "id": "COM220",
+        "text": "The $\\textbf{Quaternary Sector}$ relies heavily on $\\textbf{Human Capital}$ and $\\textbf{Intellectual Property}$ for its economic $\\textbf{Output}$.",
+        "image": "",
+        "options": [
+            "Natural Resources",
+            "Physical Labor",
+            "Human Capital",
+            "Fixed Assets"
+        ],
+        "answer": "Human Capital",
+        "explanation": "This sector is defined by knowledge-based services and innovation."
+    },
+    {
+        "id": "COM221",
+        "text": "The $\\textbf{Supply Chain}$ management is concerned with optimizing the movement of $\\textbf{Goods}$, $\\textbf{Information}$, and $\\textbf{Funds}$ efficiently.",
+        "image": "",
+        "options": [
+            "Competition",
+            "Information",
+            "Regulation",
+            "Pricing"
+        ],
+        "answer": "Information",
+        "explanation": "Accurate information flow is vital for making timely decisions on production and inventory."
+    },
+    {
+        "id": "COM222",
+        "text": "$\\textbf{Psychographic}$ segmentation is often used to develop $\\textbf{Advertising}$ appeals that resonate with a target group's $\\textbf{Motivations}$ and $\\textbf{Beliefs}$.",
+        "image": "",
+        "options": [
+            "Distribution",
+            "Pricing",
+            "Advertising",
+            "Quality Control"
+        ],
+        "answer": "Advertising",
+        "explanation": "Appeals based on lifestyle and values (psychographics) are more persuasive than appeals based on demographics alone."
+    },
+    {
+        "id": "COM223",
+        "text": "A $\\textbf{Bull Market}$ typically precedes an $\\textbf{Economic Expansion}$ phase of the $\\textbf{Business Cycle}$.",
+        "image": "",
+        "options": [
+            "Recession",
+            "Trough",
+            "Economic Expansion",
+            "Depression"
+        ],
+        "answer": "Economic Expansion",
+        "explanation": "The stock market often acts as a leading indicator of the broader economy."
+    },
+    {
+        "id": "COM224",
+        "text": "The $\\textbf{Incoterm}$ $\\textbf{DDP}$ ($\textbf{Delivered Duty Paid}$) places the maximum $\\textbf{Obligation}$ and $\\textbf{Risk}$ on the $\\textbf{Seller}$, including paying all $\\textbf{Import Duties}$.",
+        "image": "",
+        "options": [
+            "Buyer",
+            "Seller",
+            "Carrier",
+            "Bank"
+        ],
+        "answer": "Seller",
+        "explanation": "DDP is the most comprehensive term for the seller, who delivers the goods ready for unloading at the buyer's destination."
+    },
+    {
+        "id": "COM225",
+        "text": "The $\\textbf{Demographic}$ factor of $\\textbf{Income}$ is often used in segmentation to determine a target market's $\\textbf{Purchasing Power}$.",
+        "image": "",
+        "options": [
+            "Lifestyle",
+            "Climate",
+            "Income",
+            "Attitude"
+        ],
+        "answer": "Income",
+        "explanation": "Income dictates affordability and is critical for pricing strategies, particularly for luxury goods."
+    },
+    {
+        "id": "COM226",
+        "text": "The $\\textbf{General Agreement on Tariffs and Trade}$ ($\\,\\textbf{GATT}$) was the predecessor organization to the $\\textbf{World Trade Organization}$ ($\\,\\textbf{WTO}$).",
+        "image": "",
+        "options": [
+            "IMF",
+            "World Bank",
+            "WTO",
+            "UNCTAD"
+        ],
+        "answer": "WTO",
+        "explanation": "The WTO was officially established in 1995, evolving from GATT, which focused primarily on trade in goods."
+    },
+    {
+        "id": "COM227",
+        "text": "A $\\textbf{Horizontal Merger}$ is most likely to face $\\textbf{Scrutiny}$ from $\\textbf{Anti-Trust}$ regulators due to the potential for reducing $\\textbf{Competition}$.",
+        "image": "",
+        "options": [
+            "Vertical Merger",
+            "Conglomerate Merger",
+            "Horizontal Merger",
+            "Market Extension Merger"
+        ],
+        "answer": "Horizontal Merger",
+        "explanation": "Regulators are concerned about horizontal mergers because they directly increase market concentration and potential monopoly power."
+    },
+    {
+        "id": "COM228",
+        "text": "The $\\textbf{Channel of Distribution}$ that involves only the $\\textbf{Producer}$ selling directly to the $\\textbf{Consumer}$ is called a $\\textbf{Direct Channel}$.",
+        "image": "",
+        "options": [
+            "Indirect Channel",
+            "Vertical Channel",
+            "Direct Channel",
+            "Hybrid Channel"
+        ],
+        "answer": "Direct Channel",
+        "explanation": "Examples include company-owned stores, direct mail, and factory-to-consumer e-commerce."
+    },
+    {
+        "id": "COM229",
+        "text": "The $\\textbf{Limited Partnership}$ ($\\,\\textbf{LP}$) is typically used to raise $\\textbf{Capital}$ from $\\textbf{Passive}$ $\\textbf{Investors}$ who want $\\textbf{Limited Liability}$ protection.",
+        "image": "",
+        "options": [
+            "Active",
+            "Operating",
+            "Passive",
+            "Managing"
+        ],
+        "answer": "Passive",
+        "explanation": "Limited partners do not participate in management but provide necessary financing."
+    },
+    {
+        "id": "COM230",
+        "text": "The $\\textbf{Copyright}$ protection lasts for the $\\textbf{Life of the Author}$ plus $\\textbf{70}$ $\\textbf{Years}$ (in many jurisdictions).",
+        "image": "",
+        "options": [
+            "20 Years",
+            "Life of the Author",
+            "10 Years",
+            "50 Years"
+        ],
+        "answer": "Life of the Author",
+        "explanation": "This longevity ensures that the creator and their heirs benefit from their work for a significant period."
+    },
+    {
+        "id": "COM231",
+        "text": "The $\\textbf{Tertiary Sector}$ (Services) contributes the largest $\\textbf{Share}$ to the $\\textbf{GDP}$ of most $\\textbf{Developed}$ $\\textbf{Economies}$.",
+        "image": "",
+        "options": [
+            "Primary Sector",
+            "Secondary Sector",
+            "Tertiary Sector",
+            "Quaternary Sector"
+        ],
+        "answer": "Tertiary Sector",
+        "explanation": "Services, including finance, healthcare, and retail, form the majority of economic output in mature economies."
+    },
+    {
+        "id": "COM232",
+        "text": "A $\\textbf{Promissory Note}$ is a written, unconditional $\\textbf{Promise}$ by the maker to pay a specified sum of $\\textbf{Money}$ to a named $\\textbf{Payee}$ on $\\textbf{Demand}$ or at a specified $\\textbf{Future Date}$.",
+        "image": "",
+        "options": [
+            "Order",
+            "Request",
+            "Promise",
+            "Demand"
+        ],
+        "answer": "Promise",
+        "explanation": "A promissory note is a simple, formal legal debt instrument used in commerce."
+    },
+    {
+        "id": "COM233",
+        "text": "$\\textbf{Just-In-Time}$ ($\\,\\textbf{JIT}$) management is often integrated with $\\textbf{Total Quality Management}$ ($\\,\\textbf{TQM}$) because JIT requires minimizing $\\textbf{Defects}$ to prevent $\\textbf{Production Stops}$.",
+        "image": "",
+        "options": [
+            "High Buffer Stock",
+            "Massive Warehousing",
+            "Defects",
+            "Slow Delivery"
+        ],
+        "answer": "Defects",
+        "explanation": "The lack of inventory buffer in JIT means that quality control must be nearly perfect."
+    },
+    {
+        "id": "COM234",
+        "text": "The $\\textbf{Risk Management}$ strategy of $\\textbf{Avoidance}$ involves eliminating the $\\textbf{Cause}$ of the $\\textbf{Risk}$ altogether (e.g., stopping a risky product line).",
+        "image": "",
+        "options": [
+            "Transfer",
+            "Retention",
+            "Avoidance",
+            "Mitigation"
+        ],
+        "answer": "Avoidance",
+        "explanation": "Avoidance is the most stringent method of risk management, removing all potential for loss from a specific activity."
+    },
+    {
+        "id": "COM235",
+        "text": "The $\\textbf{Balance of Payments}$ ($\\,\\textbf{BOP}$) is divided into the $\\textbf{Current Account}$ (trade in goods/services) and the $\\textbf{Capital/Financial Account}$ (investments).",
+        "image": "",
+        "options": [
+            "Government Account",
+            "Primary Account",
+            "Current Account",
+            "Monetary Account"
+        ],
+        "answer": "Current Account",
+        "explanation": "The current account reflects transactions that occur in the short term, like exports and imports."
+    },
+    {
+        "id": "COM236",
+        "text": "The $\\textbf{Geographic}$ segmentation variable of $\\textbf{City Size}$ is important because it dictates the appropriate $\\textbf{Distribution}$ and $\\textbf{Promotional}$ strategies.",
+        "image": "",
+        "options": [
+            "Income",
+            "Lifestyle",
+            "City Size",
+            "Education"
+        ],
+        "answer": "City Size",
+        "explanation": "Marketing efforts differ vastly between major metropolitan areas and rural towns."
+    },
+    {
+        "id": "COM237",
+        "text": "The $\\textbf{Product Life Cycle}$ stage of $\\textbf{Decline}$ is characterized by falling $\\textbf{Sales}$, shrinking $\\textbf{Profits}$, and reduced $\\textbf{Marketing}$ $\\textbf{Expenditure}$.",
+        "image": "",
+        "options": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Decline"
+        ],
+        "answer": "Decline",
+        "explanation": "In this stage, management must decide whether to harvest the product (reduce investment) or divest (sell or discontinue)."
+    },
+    {
+        "id": "COM238",
+        "text": "A $\\textbf{Receivables Factoring}$ arrangement involves a business selling its $\\textbf{Accounts Receivable}$ to a third party (the factor) at a $\\textbf{Discount}$ for immediate $\\textbf{Cash}$.",
+        "image": "",
+        "options": [
+            "Inventory",
+            "Fixed Assets",
+            "Accounts Receivable",
+            "Equity"
+        ],
+        "answer": "Accounts Receivable",
+        "explanation": "Factoring improves the seller's liquidity but comes at the cost of a percentage fee deducted by the factor."
+    },
+    {
+        "id": "COM239",
+        "text": "The $\\textbf{Horizontal Merger}$ results in the greatest potential for $\\textbf{Economies of Scale}$ because it combines $\\textbf{Similar}$ $\\textbf{Operations}$ and eliminates $\\textbf{Redundancy}$.",
+        "image": "",
+        "options": [
+            "Diseconomies of Scale",
+            "Economies of Scale",
+            "Diseconomies of Scope",
+            "Diseconomies of Size"
+        ],
+        "answer": "Economies of Scale",
+        "explanation": "By operating on a larger scale, the merged entity can reduce average costs."
+    },
+    {
+        "id": "COM240",
+        "text": "The $\\textbf{Sole Proprietorship}$ owner directly receives all $\\textbf{Profits}$ and is solely responsible for all $\\textbf{Taxes}$ related to the $\\textbf{Business}$.",
+        "image": "",
+        "options": [
+            "Limited Liability",
+            "Separate Entity",
+            "Taxes",
+            "Corporate Tax"
+        ],
+        "answer": "Taxes",
+        "explanation": "Profits are reported on the owner's personal income tax return (pass-through taxation)."
+    }
+]

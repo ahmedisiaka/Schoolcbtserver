@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Seven Years' War}$ (1756–1763) is often regarded as the first global conflict. In North America, it was known as:",
+        "image": "",
+        "options": [
+            "The War of 1812",
+            "The French and Indian War",
+            "The Revolutionary War",
+            "King Philip's War"
+        ],
+        "answer": "The French and Indian War",
+        "explanation": "The conflict pitted the colonies of British America against those of New France, each supported by their parent country."
+    },
+    {
+        "id": "H02",
+        "text": "Which ancient philosopher founded the $\\textbf{Academy}$ in Athens, the first institution of higher learning in the Western world?",
+        "image": "",
+        "options": [
+            "Socrates",
+            "Plato",
+            "Aristotle",
+            "Diogenes"
+        ],
+        "answer": "Plato",
+        "explanation": "Plato was a student of Socrates and the teacher of Aristotle; his Academy persisted for centuries."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of the Bulge}$ was the last major German offensive campaign on the Western Front during:",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Franco-Prussian War",
+            "The Napoleonic Wars"
+        ],
+        "answer": "World War II",
+        "explanation": "Fought in the winter of 1944–1945, it was a surprise attack intended to split Allied lines."
+    },
+    {
+        "id": "H04",
+        "text": "Who is credited with inventing the $\\textbf{Cotton Gin}$, which revitalized slavery in the American South?",
+        "image": "",
+        "options": [
+            "Eli Whitney",
+            "Samuel Slater",
+            "Cyrus McCormick",
+            "John Deere"
+        ],
+        "answer": "Eli Whitney",
+        "explanation": "Invented in 1793, the machine quickly separated cotton fibers from their seeds."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Little Rock Nine}$ were a group of African American students known for:",
+        "image": "",
+        "options": [
+            "Leading the Montgomery Bus Boycott",
+            "Integrating Little Rock Central High School",
+            "Founding the NAACP",
+            "Protesting the Vietnam War"
+        ],
+        "answer": "Integrating Little Rock Central High School",
+        "explanation": "In 1957, their enrollment was followed by the Little Rock Crisis, requiring federal troops for protection."
+    },
+    {
+        "id": "H06",
+        "text": "Which empire was known as the $\\textbf{Land of the Rising Sun}$?",
+        "image": "",
+        "options": [
+            "The Mongol Empire",
+            "The Empire of Japan",
+            "The Chinese Empire",
+            "The Korean Empire"
+        ],
+        "answer": "The Empire of Japan",
+        "explanation": "The name comes from the Japanese characters for Japan, which mean 'sun origin'."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Domesday Book}$, commissioned by William the Conqueror in 1086, was:",
+        "image": "",
+        "options": [
+            "A religious text",
+            "A declaration of war",
+            "A comprehensive survey of land and wealth",
+            "A code of laws"
+        ],
+        "answer": "A comprehensive survey of land and wealth",
+        "explanation": "It was created to determine the taxes owed to the King."
+    },
+    {
+        "id": "H08",
+        "text": "Who was the first man to reach the $\\textbf{North Pole}$ (though the claim is disputed)?",
+        "image": "",
+        "options": [
+            "Robert Peary",
+            "Ernest Shackleton",
+            "Roald Amundsen",
+            "Richard Byrd"
+        ],
+        "answer": "Robert Peary",
+        "explanation": "Peary claimed to reach the pole in 1909, accompanied by Matthew Henson."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Gulf War}$ (1990–1991) was triggered by Iraq's invasion of:",
+        "image": "",
+        "options": [
+            "Iran",
+            "Saudi Arabia",
+            "Kuwait",
+            "Turkey"
+        ],
+        "answer": "Kuwait",
+        "explanation": "A US-led coalition expelled Iraqi forces from Kuwait in Operation Desert Storm."
+    },
+    {
+        "id": "H10",
+        "text": "Which medieval weapon was known for its long range and armor-piercing capability, famously used at Agincourt?",
+        "image": "",
+        "options": [
+            "The Crossbow",
+            "The English Longbow",
+            "The Trebuchet",
+            "The Arquebus"
+        ],
+        "answer": "The English Longbow",
+        "explanation": "The longbow allowed English archers to defeat heavily armored French knights in 1415."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Dreyfus Affair}$ was a political scandal that divided which country in the late 19th century?",
+        "image": "",
+        "options": [
+            "Germany",
+            "Britain",
+            "France",
+            "Italy"
+        ],
+        "answer": "France",
+        "explanation": "It involved the wrongful conviction of Alfred Dreyfus, a Jewish artillery officer, for treason."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the longest-serving President of the United States, elected to four terms?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Franklin D. Roosevelt",
+            "Theodore Roosevelt",
+            "Woodrow Wilson"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "FDR served from 1933 until his death in 1945, leading the country through the Depression and WWII."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Treaty of Ghent}$ ended which war?",
+        "image": "",
+        "options": [
+            "The Revolutionary War",
+            "The War of 1812",
+            "The French and Indian War",
+            "The Civil War"
+        ],
+        "answer": "The War of 1812",
+        "explanation": "Signed in 1814, it restored the borders of the two countries to the lines before the war."
+    },
+    {
+        "id": "H14",
+        "text": "Which famous scientist developed the $\\textbf{Theory of Relativity}$ ($E=mc^2$)?",
+        "image": "",
+        "options": [
+            "Isaac Newton",
+            "Niels Bohr",
+            "Albert Einstein",
+            "Stephen Hawking"
+        ],
+        "answer": "Albert Einstein",
+        "explanation": "Einstein's theory revolutionized our understanding of space, time, and gravity."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Spanish Flu}$ of 1918 is estimated to have killed how many people worldwide?",
+        "image": "",
+        "options": [
+            "1 million",
+            "10 million",
+            "50 million",
+            "100,000"
+        ],
+        "answer": "50 million",
+        "explanation": "It was one of the deadliest pandemics in human history."
+    },
+    {
+        "id": "H16",
+        "text": "Who founded the $\\textbf{Standard Oil Company}$ and became the wealthiest American of his time?",
+        "image": "",
+        "options": [
+            "Andrew Carnegie",
+            "J.P. Morgan",
+            "John D. Rockefeller",
+            "Cornelius Vanderbilt"
+        ],
+        "answer": "John D. Rockefeller",
+        "explanation": "Rockefeller revolutionized the petroleum industry and defined the structure of modern philanthropy."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Challenger Disaster}$ in 1986 involved the explosion of a:",
+        "image": "",
+        "options": [
+            "Nuclear Power Plant",
+            "Space Shuttle",
+            "Oil Rig",
+            "Submarine"
+        ],
+        "answer": "Space Shuttle",
+        "explanation": "The shuttle broke apart 73 seconds into its flight, killing all seven crew members."
+    },
+    {
+        "id": "H18",
+        "text": "Which civilization built the city of $\\textbf{Teotihuacan}$ near modern-day Mexico City?",
+        "image": "",
+        "options": [
+            "The Maya",
+            "The Aztec",
+            "The Teotihuacanos",
+            "The Zapotec"
+        ],
+        "answer": "The Teotihuacanos",
+        "explanation": "While the Aztecs later inhabited the area, the city was built by an earlier civilization roughly 1000 years prior."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Warsaw Uprising}$ of 1944 was a major operation by the resistance in which country?",
+        "image": "",
+        "options": [
+            "France",
+            "Poland",
+            "Czechoslovakia",
+            "Hungary"
+        ],
+        "answer": "Poland",
+        "explanation": "The Polish Home Army attempted to liberate Warsaw from German occupation before the Soviet army arrived."
+    },
+    {
+        "id": "H20",
+        "text": "Who was the first woman to serve on the $\\textbf{United States Supreme Court}$?",
+        "image": "",
+        "options": [
+            "Ruth Bader Ginsburg",
+            "Sandra Day O'Connor",
+            "Sonia Sotomayor",
+            "Elena Kagan"
+        ],
+        "answer": "Sandra Day O'Connor",
+        "explanation": "Appointed by Ronald Reagan, she served from 1981 until her retirement in 2006."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Battle of Dunkirk}$ involved the mass evacuation of Allied troops from:",
+        "image": "",
+        "options": [
+            "Italy",
+            "Germany",
+            "France",
+            "Norway"
+        ],
+        "answer": "France",
+        "explanation": "Operation Dynamo rescued over 338,000 soldiers from the beaches of Dunkirk in 1940."
+    },
+    {
+        "id": "H22",
+        "text": "Which act in 1862 granted 160 acres of public land to settlers in the American West?",
+        "image": "",
+        "options": [
+            "The Dawes Act",
+            "The Homestead Act",
+            "The Morrill Act",
+            "The Pacific Railway Act"
+        ],
+        "answer": "The Homestead Act",
+        "explanation": "It encouraged Western migration by providing land for a small filing fee and five years of residence."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Red Baron}$ (Manfred von Richthofen) was a famous fighter pilot during:",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Spanish Civil War",
+            "The Korean War"
+        ],
+        "answer": "World War I",
+        "explanation": "He is considered the ace-of-aces of the war, officially credited with 80 air combat victories."
+    },
+    {
+        "id": "H24",
+        "text": "Who wrote the novel $\\textbf{Uncle Tom's Cabin}$, which helped fuel the abolitionist movement?",
+        "image": "",
+        "options": [
+            "Harriet Tubman",
+            "Frederick Douglass",
+            "Harriet Beecher Stowe",
+            "Mark Twain"
+        ],
+        "answer": "Harriet Beecher Stowe",
+        "explanation": "Published in 1852, the novel depicted the harsh reality of slavery."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Potato Famine}$ (1845–1849) caused mass starvation and emigration in:",
+        "image": "",
+        "options": [
+            "Russia",
+            "Germany",
+            "Ireland",
+            "Scotland"
+        ],
+        "answer": "Ireland",
+        "explanation": "A potato blight destroyed the primary food source for much of the population, leading to a million deaths."
+    },
+    {
+        "id": "H26",
+        "text": "Which Roman Emperor appointed his horse, Incitatus, as a consul (according to legend)?",
+        "image": "",
+        "options": [
+            "Caligula",
+            "Nero",
+            "Tiberius",
+            "Commodus"
+        ],
+        "answer": "Caligula",
+        "explanation": "Caligula's reign is famous for his eccentricity, cruelty, and alleged insanity."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Transcontinental Railroad}$ was completed in 1869 at which location?",
+        "image": "",
+        "options": [
+            "Sacramento, California",
+            "Promontory Summit, Utah",
+            "Omaha, Nebraska",
+            "Denver, Colorado"
+        ],
+        "answer": "Promontory Summit, Utah",
+        "explanation": "A 'Golden Spike' was driven to join the rails of the First Transcontinental Railroad."
+    },
+    {
+        "id": "H28",
+        "text": "Who was the leader of the $\\textbf{Khmer Rouge}$ in Cambodia?",
+        "image": "",
+        "options": [
+            "Ho Chi Minh",
+            "Pol Pot",
+            "Mao Zedong",
+            "Kim Il-sung"
+        ],
+        "answer": "Pol Pot",
+        "explanation": "His regime (1975–1979) was responsible for the Cambodian genocide."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Medici Family}$ is most famous for their influence during the:",
+        "image": "",
+        "options": [
+            "Industrial Revolution",
+            "Renaissance",
+            "Middle Ages",
+            "Enlightenment"
+        ],
+        "answer": "Renaissance",
+        "explanation": "They were a powerful banking family and political dynasty in Florence who patronized the arts."
+    },
+    {
+        "id": "H30",
+        "text": "Which famous assassin killed $\\textbf{Abraham Lincoln}$ at Ford's Theatre?",
+        "image": "",
+        "options": [
+            "Lee Harvey Oswald",
+            "Charles Guiteau",
+            "John Wilkes Booth",
+            "Leon Czolgosz"
+        ],
+        "answer": "John Wilkes Booth",
+        "explanation": "Booth, a Confederate sympathizer, shot Lincoln on April 14, 1865."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Battle of Agincourt}$ is a famous victory for the English in the:",
+        "image": "",
+        "options": [
+            "Hundred Years' War",
+            "War of the Roses",
+            "English Civil War",
+            "Napoleonic Wars"
+        ],
+        "answer": "Hundred Years' War",
+        "explanation": "Henry V's army defeated a numerically superior French army in 1415."
+    },
+    {
+        "id": "H32",
+        "text": "Who was the scientist that cloned $\\textbf{Dolly the Sheep}$ in 1996?",
+        "image": "",
+        "options": [
+            "Ian Wilmut",
+            "Craig Venter",
+            "James Watson",
+            "Francis Crick"
+        ],
+        "answer": "Ian Wilmut",
+        "explanation": "Dolly was the first mammal cloned from an adult somatic cell."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Roaring Twenties}$ ended abruptly with:",
+        "image": "",
+        "options": [
+            "The end of Prohibition",
+            "The Stock Market Crash of 1929",
+            "The beginning of WWII",
+            "The election of FDR"
+        ],
+        "answer": "The Stock Market Crash of 1929",
+        "explanation": "The economic collapse signaled the start of the Great Depression."
+    },
+    {
+        "id": "H34",
+        "text": "Which ancient law code introduced the concept of $\\textbf{'innocent until proven guilty'}$?",
+        "image": "",
+        "options": [
+            "Code of Hammurabi",
+            "Justinian Code",
+            "Twelve Tables",
+            "Magna Carta"
+        ],
+        "answer": "Justinian Code",
+        "explanation": "The 'Corpus Juris Civilis' ordered by Justinian I is the foundation of much modern civil law."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Seneca Falls Convention}$ of 1848 was the first convention for:",
+        "image": "",
+        "options": [
+            "Abolition of Slavery",
+            "Women's Rights",
+            "Labor Unions",
+            "Temperance"
+        ],
+        "answer": "Women's Rights",
+        "explanation": "Organized by Elizabeth Cady Stanton and Lucretia Mott, it launched the women's suffrage movement."
+    },
+    {
+        "id": "H36",
+        "text": "Who was the leader of the $\\textbf{Huns}$ that invaded the Roman Empire?",
+        "image": "",
+        "options": [
+            "Alaric",
+            "Attila",
+            "Odoacer",
+            "Genseric"
+        ],
+        "answer": "Attila",
+        "explanation": "Known as the 'Scourge of God', Attila ruled the Huns from 434 to 453."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{McCarthyism}$ era in the US (1950s) was characterized by:",
+        "image": "",
+        "options": [
+            "Economic prosperity",
+            "Anti-Communist suspicion",
+            "Civil Rights protests",
+            "Technological innovation"
+        ],
+        "answer": "Anti-Communist suspicion",
+        "explanation": "Senator Joseph McCarthy led a campaign against alleged communists in the US government and other institutions."
+    },
+    {
+        "id": "H38",
+        "text": "Which explorer discovered the $\\textbf{St. Lawrence River}$ and claimed Canada for France?",
+        "image": "",
+        "options": [
+            "Samuel de Champlain",
+            "Jacques Cartier",
+            "Henry Hudson",
+            "Giovanni da Verrazzano"
+        ],
+        "answer": "Jacques Cartier",
+        "explanation": "Cartier's voyages in the 1530s laid the basis for later French claims to North America."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Triangle Shirtwaist Factory Fire}$ in 1911 led to major reforms in:",
+        "image": "",
+        "options": [
+            "Child labor laws",
+            "Workplace safety standards",
+            "Minimum wage",
+            "Women's voting rights"
+        ],
+        "answer": "Workplace safety standards",
+        "explanation": "The tragedy in New York City killed 146 garment workers and galvanized the labor movement."
+    },
+    {
+        "id": "H40",
+        "text": "Who was the first female $\\textbf{Prime Minister of Israel}$?",
+        "image": "",
+        "options": [
+            "Golda Meir",
+            "Tzipi Livni",
+            "Indira Gandhi",
+            "Margaret Thatcher"
+        ],
+        "answer": "Golda Meir",
+        "explanation": "Meir served as Prime Minister from 1969 to 1974, leading the country during the Yom Kippur War."
+    }
+]

@@ -1,0 +1,523 @@
+[
+    {
+        "id": "G441",
+        "text": "The $\\textbf{Debt Ceiling Crisis}$ of 2011 centered on Congress's refusal to raise the legal limit on the amount of money the federal government can borrow. This struggle is a prime example of the checks and balances between the Legislative and $\\textbf{Executive}$ branches regarding:",
+        "image": "",
+        "options": [
+            "Foreign policy",
+            "Monetary policy",
+            "Fiscal policy and public debt",
+            "Judicial appointments"
+        ],
+        "answer": "Fiscal policy and public debt",
+        "explanation": "Fiscal policy involves taxing and spending, which is primarily controlled by Congress's power of the purse. The debt ceiling is a legislative restraint on the Executive Branch's ability to finance existing spending obligations."
+    },
+    {
+        "id": "G442",
+        "text": "To resolve the 2011 crisis, Congress passed the $\\textbf{Budget Control Act (BCA)}$, which established $\\textbf{sequestration}$ (mandatory, automatic spending cuts) if a bipartisan 'supercommittee' failed to agree on reductions. Sequestration is a mechanism designed to limit growth in which type of federal spending?",
+        "image": "",
+        "options": [
+            "Mandatory spending (entitlements)",
+            "Interest on the debt",
+            "Discretionary spending (defense, non-defense)",
+            "State reserved powers"
+        ],
+        "answer": "Discretionary spending (defense, non-defense)",
+        "explanation": "Discretionary spending is the portion of the budget that Congress must reauthorize annually, making it the primary target for these types of legislative restraints."
+    },
+    {
+        "id": "G443",
+        "text": "The failure of the bipartisan 'supercommittee' established by the BCA to agree on cuts is a clear example of $\\textbf{congressional}$:",
+        "image": "",
+        "options": [
+            "Cloture",
+            "Logrolling",
+            "Gridlock",
+            "Appellate review"
+        ],
+        "answer": "Gridlock",
+        "explanation": "Gridlock occurs when political parties refuse to compromise, resulting in the failure of legislative action, as happened with the Supercommittee."
+    },
+    {
+        "id": "G444",
+        "text": "The $\\textbf{Occupy Wall Street (OWS)}$ movement, beginning in 2011, focused on economic inequality and the political influence of large financial institutions. This type of protest is protected primarily by the First Amendment's guarantee of $\\textbf{freedom of}$:",
+        "image": "",
+        "options": [
+            "Petition and Assembly",
+            "Religion and Speech",
+            "The Press and Self-Incrimination",
+            "Due Process and Trial by Jury"
+        ]
+        ,
+        "answer": "Petition and Assembly",
+        "explanation": "Protests in public spaces are the core of the freedom of assembly and the right to petition the government for redress of grievances."
+    },
+    {
+        "id": "G445",
+        "text": "OWS's criticism of the disproportionate power held by wealthy elites is consistent with the theory of $\\textbf{Elite Democracy}$, which contrasts with the theory of $\\textbf{Pluralism}$, which suggests that power is distributed among:",
+        "image": "",
+        "options": [
+            "Only the three branches of government",
+            "Many competing interest groups",
+            "The top 1\\% of earners",
+            "A single, centralized political party"
+        ],
+        "answer": "Many competing interest groups",
+        "explanation": "Pluralism argues that diverse interest groups compete for influence, preventing any single group from dominating policy."
+    },
+    {
+        "id": "G446",
+        "text": "The repeal of the military's $\\textbf{'Don't Ask, Don't Tell'}$ policy in 2011 was a major advancement for $\\textbf{civil rights}$. The constitutional basis for guaranteeing non-discrimination is found in the $\\textbf{Equal Protection Clause}$ of the:",
+        "image": "",
+        "options": [
+            "Second Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment",
+            "Twenty-Fifth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Equal Protection Clause requires states to guarantee the same rights, privileges, and protections to all citizens."
+    },
+    {
+        "id": "G447",
+        "text": "The constitutional authority for Congress to legislate the structure and operation of the U.S. military (including personnel policies like DADT) is derived from its enumerated power to:",
+        "image": "",
+        "options": [
+            "Appoint federal judges",
+            "Coin money",
+            "Raise and support Armies",
+            "Ratify treaties"
+        ],
+        "answer": "Raise and support Armies",
+        "explanation": "Article I, Section 8 grants Congress the power to provide for and regulate the armed forces."
+    },
+    {
+        "id": "G448",
+        "text": "The operation that resulted in the death of Osama bin Laden in 2011 was ordered by the President in his role as:",
+        "image": "",
+        "options": [
+            "Chief Legislator",
+            "Chief Executive",
+            "Chief Diplomat",
+            "Commander-in-Chief"
+        ],
+        "answer": "Commander-in-Chief",
+        "explanation": "This role (Article II, Section 2) gives the President ultimate authority over military operations and strategy."
+    },
+    {
+        "id": "G449",
+        "text": "The execution of the raid relied heavily on intelligence gathered by the $\\textbf{Central Intelligence Agency (CIA)}$ and other parts of the $\\textbf{intelligence community}$. These are examples of specialized agencies within the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Legislative Branch",
+            "Federal Bureaucracy (Executive Branch)",
+            "State governments"
+        ],
+        "answer": "Federal Bureaucracy (Executive Branch)",
+        "explanation": "The bureaucracy consists of the millions of non-elected officials who implement and administer federal policies."
+    },
+    {
+        "id": "G450",
+        "text": "The $\\textbf{War Powers Resolution}$ (1973) requires the President to notify Congress within 48 hours of deploying troops and to withdraw them within 60 days without Congressional authorization. This act is an example of the $\\textbf{Legislative Branch}$ checking the power of the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Executive Branch (Commander-in-Chief)",
+            "State Governors",
+            "Media"
+        ],
+        "answer": "Executive Branch (Commander-in-Chief)",
+        "explanation": "This act was Congress's attempt to reclaim its constitutional power to declare war, limiting the President's unilateral action."
+    },
+    {
+        "id": "G451",
+        "text": "The President's power to issue $\\textbf{Executive Orders}$ to guide the bureaucracy in implementing law is based on his constitutional duty to 'take $\\textbf{care that the laws be faithfully executed}$.' This is an example of a(n):",
+        "image": "",
+        "options": [
+            "Expressed power",
+            "Reserved power",
+            "Implied power",
+            "Concurrent power"
+        ],
+        "answer": "Implied power",
+        "explanation": "While the duty to execute laws is expressed, the specific power to use executive orders to do so is an implied power of the Chief Executive."
+    },
+    {
+        "id": "G452",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Elastic Clause) is the constitutional foundation for Congress to pass laws it deems $\\textbf{essential}$ to carrying out its enumerated powers, thus granting Congress:",
+        "image": "",
+        "options": [
+            "Formal powers",
+            "Reserved powers",
+            "Implied powers",
+            "Veto power"
+        ],
+        "answer": "Implied powers",
+        "explanation": "Located in Article I, Section 8, this clause allows for the growth and adaptation of Congress's authority."
+    },
+    {
+        "id": "G453",
+        "text": "The $\\textbf{Due Process Clause}$ is mentioned in both the $\\textbf{Fifth Amendment}$ (applying to the federal government) and the $\\textbf{Fourteenth Amendment}$ (applying to the states). Its fundamental purpose is to ensure:",
+        "image": "",
+        "options": [
+            "The right to bear arms",
+            "That all laws passed are popular",
+            "Fair legal procedure and judicial fairness",
+            "The government cannot establish a religion"
+        ],
+        "answer": "Fair legal procedure and judicial fairness",
+        "explanation": "Due process ensures that government actions depriving a person of life, liberty, or property are fair and reasonable."
+    },
+    {
+        "id": "G454",
+        "text": "The $\\textbf{Federal Reserve}$ manages $\\textbf{monetary policy}$ (interest rates, money supply). Fiscal policy (taxing and spending) is controlled by which branch of the federal government?",
+        "image": "",
+        "options": [
+            "The Judicial Branch",
+            "The Legislative Branch (Congress)",
+            "The Department of Commerce",
+            "The President"
+        ],
+        "answer": "The Legislative Branch (Congress)",
+        "explanation": "Congress holds the power of the purse, making it the controller of fiscal policy."
+    },
+    {
+        "id": "G455",
+        "text": "The $\\textbf{Franking Privilege}$, which allows members of Congress to mail official communications to constituents for free, is a major component of the $\\textbf{incumbency}$ advantage, leading to:",
+        "image": "",
+        "options": [
+            "Less party loyalty",
+            "Increased name recognition and voter contact",
+            "More judicial appointments",
+            "Fewer legislative vetoes"
+        ],
+        "answer": "Increased name recognition and voter contact",
+        "explanation": "The franking privilege is a taxpayer-funded benefit that helps incumbents maintain high visibility and support in their districts."
+    },
+    {
+        "id": "G456",
+        "text": "The $\\textbf{Electoral College}$ is the formal body that elects the President. The number of votes a state has in the Electoral College is equal to the number of its members in the House of Representatives plus:",
+        "image": "",
+        "options": [
+            "The number of state governors",
+            "The number of US Senators (always two)",
+            "The number of Supreme Court justices",
+            "Three (as an average)"
+        ],
+        "answer": "The number of US Senators (always two)",
+        "explanation": "This formula ensures that smaller states have a disproportionately large influence relative to their population."
+    },
+    {
+        "id": "G457",
+        "text": "The constitutional principle of $\\textbf{Federalism}$ is the division of powers between the national government and the:",
+        "image": "",
+        "options": [
+            "Media",
+            "State governments",
+            "Judicial Branch",
+            "Supreme Court"
+        ],
+        "answer": "State governments",
+        "explanation": "Federalism is a foundational principle of the US Constitution, dividing authority territorially."
+    },
+    {
+        "id": "G458",
+        "text": "The $\\textbf{media's}$ role in exposing the details of the Debt Ceiling Crisis and the OWS protests is an example of its function as a:",
+        "image": "",
+        "options": [
+            "Lobbyist",
+            "Electoral College",
+            "Watchdog (or Agenda-Setter)",
+            "Supreme Court appointee"
+        ],
+        "answer": "Watchdog (or Agenda-Setter)",
+        "explanation": "The watchdog function involves scrutinizing and investigating government or corporate misconduct."
+    },
+    {
+        "id": "G459",
+        "text": "In a $\\textbf{pluralist}$ democracy, policy outcomes are generally the result of:",
+        "image": "",
+        "options": [
+            "The will of a single, unified majority party",
+            "Negotiations, compromises, and competition among various interest groups",
+            "A series of direct national referendums",
+            "The President's sole decision"
+        ],
+        "answer": "Negotiations, compromises, and competition among various interest groups",
+        "explanation": "Pluralism assumes that policy is made through the competition of diverse groups, leading to compromise."
+    },
+    {
+        "id": "G460",
+        "text": "The $\\textbf{Supremacy Clause}$ (Article VI) establishes that when state and federal laws conflict, the $\\textbf{federal}$ law will prevail, provided it is:",
+        "image": "",
+        "options": [
+            "Approved by the Senate",
+            "Constitutional",
+            "Preferred by the President",
+            "Less expensive to implement"
+        ],
+        "answer": "Constitutional",
+        "explanation": "Federal law must still be constitutional for it to supersede state law under the Supremacy Clause."
+    },
+    {
+        "id": "G461",
+        "text": "The Supreme Court's power of $\\textbf{Judicial Review}$, established in $\\textit{Marbury v. Madison}$, allows it to declare laws or presidential actions unconstitutional. This power is an essential component of $\\textbf{Checks and Balances}$ and is considered a(n):",
+        "image": "",
+        "options": [
+            "Enumerated power",
+            "Judicially implied power",
+            "Reserved power",
+            "Expressed power"
+        ],
+        "answer": "Judicially implied power",
+        "explanation": "The Constitution does not explicitly grant the power of judicial review; it was established by the Court itself in 1803."
+    },
+    {
+        "id": "G462",
+        "text": "The process of redrawing congressional district boundaries following the $\\textbf{census}$ to reflect population shifts is called $\\textbf{redistricting}$. Manipulating these boundaries for political advantage is known as:",
+        "image": "",
+        "options": [
+            "Reapportionment",
+            "Cloture",
+            "Gerrymandering",
+            "Stare decisis"
+        ],
+        "answer": "Gerrymandering",
+        "explanation": "Gerrymandering is a common political tool that often results in highly polarized and non-competitive districts."
+    },
+    {
+        "id": "G463",
+        "text": "The $\\textbf{Speaker of the House}$ is the most powerful legislative leader because they control the assignment of bills to $\\textbf{committees}$ and control the flow of:",
+        "image": "",
+        "options": [
+            "Federal judicial appointments",
+            "The Electoral College",
+            "Debate and the legislative calendar",
+            "Executive orders"
+        ],
+        "answer": "Debate and the legislative calendar",
+        "explanation": "The Speaker sets the agenda for the House and often uses their power to advance their party's goals."
+    },
+    {
+        "id": "G464",
+        "text": "The constitutional requirement that all $\\textbf{revenue bills}$ must originate in the House of Representatives grants the $\\textbf{power of the purse}$ primarily to the chamber considered closest to the:",
+        "image": "",
+        "options": [
+            "President",
+            "Judiciary",
+            "People (through frequent elections)",
+            "States"
+        ],
+        "answer": "People (through frequent elections)",
+        "explanation": "House members face re-election every two years, making them highly accountable to voters."
+    },
+    {
+        "id": "G465",
+        "text": "A $\\textbf{standing committee}$ in Congress is a $\\textbf{permanent}$, subject-specific committee (e.g., Appropriations, Judiciary) that is essential because it:",
+        "image": "",
+        "options": [
+            "Ratifies treaties",
+            "Performs most of the legislative work, holding hearings and drafting bills",
+            "Breaks ties in the Senate",
+            "Appoints Cabinet Secretaries"
+        ],
+        "answer": "Performs most of the legislative work, holding hearings and drafting bills",
+        "explanation": "Standing committees specialize in policy areas and are the first stop for nearly all legislation."
+    },
+    {
+        "id": "G466",
+        "text": "The constitutional provision that requires states to respect the $\\textbf{public acts, records, and judicial proceedings}$ of every other state (e.g., contracts, marriage certificates) is the:",
+        "image": "",
+        "options": [
+            "Commerce Clause",
+            "Necessary and Proper Clause",
+            "Full Faith and Credit Clause",
+            "Supremacy Clause"
+        ],
+        "answer": "Full Faith and Credit Clause",
+        "explanation": "Found in Article IV, it ensures legal portability and unity across the states."
+    },
+    {
+        "id": "G467",
+        "text": "The $\\textbf{Fifteenth Amendment}$ (1870) and the $\\textbf{Nineteenth Amendment}$ (1920) both extended $\\textbf{suffrage}$ (the right to vote) to specific groups, demonstrating the role of $\\textbf{constitutional amendments}$ in expanding:",
+        "image": "",
+        "options": [
+            "Executive authority",
+            "Judicial review",
+            "Democracy and civil rights",
+            "Fiscal policy"
+        ],
+        "answer": "Democracy and civil rights",
+        "explanation": "Constitutional amendments are frequently used to expand the rights and participation of marginalized groups."
+    },
+    {
+        "id": "G468",
+        "text": "The $\\textbf{Federal Bureaucracy}$ often exercises its $\\textbf{rule-making}$ authority by issuing specific, legally binding rules that interpret broad congressional laws. This is sometimes criticized as:",
+        "image": "",
+        "options": [
+            "Judicial activism",
+            "Legislating from the agency (delegated authority)",
+            "Vetoing the President",
+            "Executive privilege"
+        ],
+        "answer": "Legislating from the agency (delegated authority)",
+        "explanation": "Congress delegates this authority because agencies possess the necessary expertise to fill in policy details."
+    },
+    {
+        "id": "G469",
+        "text": "The $\\textbf{Vice President's}$ only constitutional duty outside of succeeding the President is to preside over the Senate and:",
+        "image": "",
+        "options": [
+            "Introduce all revenue bills",
+            "Appoint committee chairmen",
+            "Break tie votes",
+            "Ratify treaties"
+        ],
+        "answer": "Break tie votes",
+        "explanation": "The Vice President rarely presides over the Senate but can cast a vote to resolve a tie."
+    },
+    {
+        "id": "G470",
+        "text": "The $\\textbf{Judicial Restraint}$ philosophy encourages judges to limit the use of $\\textbf{judicial review}$ and generally defer to the policy choices of the:",
+        "image": "",
+        "options": [
+            "Elected branches (Legislative and Executive)",
+            "Media and interest groups",
+            "State governors",
+            "Precedent ($\textit{stare decisis}$)"
+        ],
+        "answer": "Elected branches (Legislative and Executive)",
+        "explanation": "Judicial restraint argues that unelected judges should avoid overturning the will of democratically elected officials."
+    },
+    {
+        "id": "G471",
+        "text": "The $\\textbf{Iron Triangle}$ is a close, cooperative relationship among a $\\textbf{federal agency}$, a $\\textbf{congressional committee}$, and a(n):",
+        "image": "",
+        "options": [
+            "Supreme Court justice",
+            "Foreign government",
+            "Interest group (or lobbyist)",
+            "Local media outlet"
+        ],
+        "answer": "Interest group (or lobbyist)",
+        "explanation": "This structure often controls policy-making in a specific area, excluding outside influence."
+    },
+    {
+        "id": "G472",
+        "text": "The $\\textbf{Filibuster}$ is a Senate-only procedure that allows a minority of senators to delay or block a vote on a bill. It can only be ended by a $\\textbf{cloture}$ vote, which requires a supermajority of:",
+        "image": "",
+        "options": [
+            "51 votes",
+            "60 votes (three-fifths)",
+            "67 votes (two-thirds)",
+            "75 votes"
+        ],
+        "answer": "60 votes (three-fifths)",
+        "explanation": "The 60-vote threshold gives the minority party immense power over the legislative agenda."
+    },
+    {
+        "id": "G473",
+        "text": "The $\\textbf{Privileges and Immunities Clause}$ (Article IV, Section 2) prevents states from discriminating against citizens of other states, particularly in matters of:",
+        "image": "",
+        "options": [
+            "Military service and foreign travel",
+            "The right to vote in presidential elections",
+            "Trade, property ownership, and employment",
+            "Federal judicial review"
+        ],
+        "answer": "Trade, property ownership, and employment",
+        "explanation": "This clause is designed to promote national unity by ensuring citizens are treated equally wherever they go in the country."
+    },
+    {
+        "id": "G474",
+        "text": "The $\\textbf{Fifth Amendment}$ guarantees several rights to the accused, including protection from $\\textbf{double jeopardy}$, $\\textbf{self-incrimination}$, and the right to:",
+        "image": "",
+        "options": [
+            "A speedy trial",
+            "Legal counsel",
+            "Due Process of law",
+            "Cruel and unusual punishment"
+        ],
+        "answer": "Due Process of law",
+        "explanation": "The Fifth Amendment covers due process, eminent domain, grand jury indictment, double jeopardy, and self-incrimination."
+    },
+    {
+        "id": "G475",
+        "text": "The constitutional principle of $\\textbf{Rule of Law}$ means that all people and institutions, including government officials, are:",
+        "image": "",
+        "options": [
+            "Exempt from federal taxation",
+            "Subject to and accountable under the law",
+            "Only accountable to the President",
+            "Free to ignore the Constitution"
+        ],
+        "answer": "Subject to and accountable under the law",
+        "explanation": "This is a core component of limited government and constitutional democracy."
+    },
+    {
+        "id": "G476",
+        "text": "$\\textbf{Stare Decisis}$ is the legal principle of adhering to $\\textbf{precedent}$ (prior court decisions) when deciding cases. Its purpose is to promote $\\textbf{stability}$ and $\\textbf{predictability}$ in:",
+        "image": "",
+        "options": [
+            "The stock market",
+            "The national budget",
+            "The law",
+            "Congressional oversight"
+        ],
+        "answer": "The law",
+        "explanation": "Without $\\textit{stare decisis}$, every case would have to be argued from scratch, creating chaos."
+    },
+    {
+        "id": "G477",
+        "text": "The $\\textbf{Senate's}$ power of $\\textbf{Advice and Consent}$ is a major check on the President, requiring the Senate to approve nominations for:",
+        "image": "",
+        "options": [
+            "White House staff members",
+            "Cabinet Secretaries and Supreme Court justices",
+            "Members of the House of Representatives",
+            "State governors"
+        ],
+        "answer": "Cabinet Secretaries and Supreme Court justices",
+        "explanation": "This power allows the Senate to influence the composition of the Executive and Judicial branches."
+    },
+    {
+        "id": "G478",
+        "text": "The constitutional process for $\\textbf{impeachment}$ begins in the $\\textbf{House of Representatives}$, which votes to formally charge the official. The trial and conviction (removal from office) is conducted by the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "Senate",
+            "President's Cabinet",
+            "Electoral College"
+        ],
+        "answer": "Senate",
+        "explanation": "The House impeaches (accuses); the Senate tries and convicts (removes)."
+    },
+    {
+        "id": "G479",
+        "text": "$\\textbf{Independent Expenditures}$ by groups like $\\textbf{Super PACs}$ are considered political speech and are protected by the $\\textbf{First Amendment}$. The only major restriction on these expenditures is that they must be:",
+        "image": "",
+        "options": [
+            "Coordinated with the candidate's campaign",
+            "Under \\$10,000",
+            "Independent (not coordinated with the candidate)",
+            "Approved by the FEC"
+        ],
+        "answer": "Independent (not coordinated with the candidate)",
+        "explanation": "If the spending is coordinated, it is considered a contribution and is subject to strict limits."
+    },
+    {
+        "id": "G480",
+        "text": "The $\\textbf{Fourth Amendment}$ protection against $\\textbf{unreasonable searches and seizures}$ requires law enforcement to obtain a $\\textbf{warrant}$ supported by:",
+        "image": "",
+        "options": [
+            "The President's signature",
+            "A majority of the Supreme Court",
+            "The unanimous consent of the local community",
+            "Probable cause"
+        ],
+        "answer": "Probable cause",
+        "explanation": "Probable cause is the reasonable belief that a crime has been committed or that evidence of criminal activity will be found in the location to be searched."
+    }
+]

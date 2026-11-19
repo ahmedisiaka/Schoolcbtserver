@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G481",
+        "text": "The $\\textbf{Affordable Care Act (ACA)}$ (2010) was a major expansion of federal authority. Initially, supporters relied heavily on the $\\textbf{Commerce Clause}$ as constitutional justification, arguing Congress could regulate:",
+        "image": "",
+        "options": [
+            "Executive appointments",
+            "Any activity that $\\textbf{substantially affects}$ interstate economic activity",
+            "Only goods transported across state lines",
+            "State laws regarding public education"
+        ],
+        "answer": "Any activity that $\\textbf{substantially affects}$ interstate economic activity",
+        "explanation": "The 'Substantial Effects' test is the broad interpretation of the Commerce Clause that allows Congress to regulate local activities if they have a large cumulative impact on interstate commerce."
+    },
+    {
+        "id": "G482",
+        "text": "The $\\textbf{individual mandate}$ of the ACA, requiring most Americans to purchase insurance, was ultimately upheld by the Supreme Court not under the Commerce Clause, but under Congress's power to:",
+        "image": "",
+        "options": [
+            "Regulate the military",
+            "Establish federal courts",
+            "Lay and collect $\\textbf{Taxes}$",
+            "Appoint Ambassadors"
+        ],
+        "answer": "Lay and collect $\\textbf{Taxes}$",
+        "explanation": "In $\\textit{NFIB v. Sebelius}$ (2012), the Court ruled the penalty for not purchasing insurance was a permissible exercise of Congress’s taxing power."
+    },
+    {
+        "id": "G483",
+        "text": "To pass the ACA, Senate Democrats used the $\\textbf{budget reconciliation}$ process, which allows certain fiscal bills to bypass the standard 60-vote threshold required to end a $\\textbf{filibuster}$. The filibuster is a tool used by the minority party in the:",
+        "image": "",
+        "options": [
+            "House of Representatives",
+            "Supreme Court",
+            "Senate",
+            "Federal Bureaucracy"
+        ],
+        "answer": "Senate",
+        "explanation": "The filibuster is unique to the Senate; the House has strict rules limiting debate."
+    },
+    {
+        "id": "G484",
+        "text": "The ACA's expansion of $\\textbf{Medicaid}$ initially required states to participate or lose all federal funding for the program. The Supreme Court struck down this provision as violating $\\textbf{Federalism}$ by amounting to:",
+        "image": "",
+        "options": [
+            "An $\\textbf{Ex Post Facto}$ Law",
+            "An unconstitutional $\\textbf{coercive}$ mandate",
+            "A violation of the Tenth Amendment's reserved powers",
+            "A failure to meet $\\textit{stare decisis}$"
+        ],
+        "answer": "An unconstitutional $\\textbf{coercive}$ mandate",
+        "explanation": "The court held that threatening to withhold all existing Medicaid funds was too coercive and violated the principle of the sovereign equality of the states."
+    },
+    {
+        "id": "G485",
+        "text": "The power of Congress to spend money for the $\\textbf{General Welfare}$ (Article I, Section 8) is considered an $\\textbf{enumerated power}$ and is often used to justify $\\textbf{social welfare}$ programs, which are a form of:",
+        "image": "",
+        "options": [
+            "Judicial Activism",
+            "Federal mandates and grants-in-aid",
+            "Executive privilege",
+            "State-level concurrent powers"
+        ],
+        "answer": "Federal mandates and grants-in-aid",
+        "explanation": "Grants-in-aid (like Medicaid funding) are the primary tool the federal government uses to influence policy at the state level."
+    },
+    {
+        "id": "G486",
+        "text": "The $\\textbf{Dodd-Frank Act}$ (2010), a major financial reform law, created the $\\textbf{Consumer Financial Protection Bureau (CFPB)}$. The creation of such agencies is an exercise of $\\textbf{delegated authority}$ from Congress to the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Federal Bureaucracy (Executive Branch)",
+            "State Legislatures",
+            "Electoral College"
+        ],
+        "answer": "Federal Bureaucracy (Executive Branch)",
+        "explanation": "Congress delegates rule-making authority to bureaucratic agencies because they possess the policy expertise needed to implement complex laws."
+    },
+    {
+        "id": "G487",
+        "text": "The $\\textit{Citizens United v. FEC}$ (2010) decision dealt with $\\textbf{campaign finance}$ and the First Amendment, holding that the government cannot restrict $\\textbf{independent}$ political spending by:",
+        "image": "",
+        "options": [
+            "Individuals only",
+            "Corporations and $\\textbf{labor unions}$",
+            "Only registered lobbyists",
+            "Federal employees"
+        ],
+        "answer": "Corporations and $\\textbf{labor unions}$",
+        "explanation": "The Court equated money spent on political advocacy with speech, extending full First Amendment protection to corporate and union spending."
+    },
+    {
+        "id": "G488",
+        "text": "The $\\textit{Citizens United}$ ruling led directly to the proliferation of $\\textbf{Super PACs}$, which are organizations that can receive and spend $\\textbf{unlimited}$ amounts of money for political purposes, provided they do not:",
+        "image": "",
+        "options": [
+            "Engage in voter registration",
+            "Publish their donor lists",
+            "Coordinate with a $\\textbf{candidate's campaign}$",
+            "Run negative advertisements"
+        ],
+        "answer": "Coordinate with a $\\textbf{candidate's campaign}$",
+        "explanation": "The lack of coordination is the key legal distinction that makes Super PAC spending 'independent expenditure' and thus protected speech."
+    },
+    {
+        "id": "G489",
+        "text": "The $\\textbf{First Amendment}$ protects political speech, including the use of money in political campaigns. This right is considered fundamental to the operation of a:",
+        "image": "",
+        "options": [
+            "Monarchy",
+            "Unitary system",
+            "Constitutional $\\textbf{Democracy}$",
+            "Confederation"
+        ],
+        "answer": "Constitutional $\\textbf{Democracy}$",
+        "explanation": "Free expression of political ideas is essential for citizens to make informed electoral decisions."
+    },
+    {
+        "id": "G490",
+        "text": "The $\\textit{Citizens United}$ decision demonstrates the Supreme Court's power of $\\textbf{Judicial Review}$ in checking the power of Congress by overturning which type of federal law?",
+        "image": "",
+        "options": [
+            "An $\\textbf{Appropriations}$ bill",
+            "A $\\textbf{Campaign Finance}$ regulation",
+            "A $\\textbf{Treaty}$ with a foreign nation",
+            "An Executive Order"
+        ],
+        "answer": "A $\\textbf{Campaign Finance}$ regulation",
+        "explanation": "The ruling overturned decades of legislation regulating corporate and union spending in politics."
+    },
+    {
+        "id": "G491",
+        "text": "In $\\textit{McDonald v. City of Chicago}$ (2010), the Court applied the $\\textbf{Second Amendment}$ to the states using the doctrine of $\\textbf{Selective Incorporation}$. This doctrine uses the $\\textbf{Due Process Clause}$ of the:",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Eighth Amendment",
+            "Fourteenth Amendment",
+            "First Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The 14th Amendment's Due Process Clause is the vehicle through which most of the Bill of Rights is applied to state governments."
+    },
+    {
+        "id": "G492",
+        "text": "The $\\textit{McDonald}$ decision is significant because it held that the right to bear arms is a $\\textbf{fundamental}$ right that is $\\textbf{deeply rooted}$ in the nation's history, meaning states cannot:",
+        "image": "",
+        "options": [
+            "Override the President's veto",
+            "Abrogate the right without a compelling government interest",
+            "Regulate intrastate commerce",
+            "Ratify constitutional amendments"
+        ],
+        "answer": "Abrogate the right without a compelling government interest",
+        "explanation": "When a fundamental right is at stake, courts apply strict scrutiny, requiring the government to show a compelling interest."
+    },
+    {
+        "id": "G493",
+        "text": "The rise of the $\\textbf{Tea Party Movement}$ and its success in the $\\textbf{2010 Midterm Elections}$ led to increased $\\textbf{political polarization}$ in Congress, meaning members were more likely to:",
+        "image": "",
+        "options": [
+            "Vote across party lines",
+            "Adhere strictly to $\\textbf{party platforms}$ and ideology",
+            "Support the President's agenda",
+            "Engage in $\\textbf{logrolling}$"
+        ],
+        "answer": "Adhere strictly to $\\textbf{party platforms}$ and ideology",
+        "explanation": "Polarization means deep ideological divisions, leading to less compromise and more partisan voting."
+    },
+    {
+        "id": "G494",
+        "text": "The $\\textbf{House of Representatives}$ flipped control to the Republican Party in 2010. The new majority party immediately controls the $\\textbf{Committee Chairmanships}$ and the legislative:",
+        "image": "",
+        "options": [
+            "Commander-in-Chief role",
+            "Trial of impeached officials",
+            "Appointment of Supreme Court justices",
+            "Agenda and $\\textbf{Rules}$ for debate"
+        ],
+        "answer": "Agenda and $\\textbf{Rules}$ for debate",
+        "explanation": "The majority party determines which bills get heard, what amendments are allowed, and sets the schedule for the chamber."
+    },
+    {
+        "id": "G495",
+        "text": "The constitutional provision that gives Congress the power to pass all laws $\\textbf{Necessary and Proper}$ for carrying out its enumerated powers is often called the:",
+        "image": "",
+        "options": [
+            "Supremacy Clause",
+            "Elastic Clause",
+            "Full Faith and Credit Clause",
+            "Establishment Clause"
+        ],
+        "answer": "Elastic Clause",
+        "explanation": "Found in Article I, Section 8, this clause grants Congress $\\textbf{implied powers}$ to fulfill its role."
+    },
+    {
+        "id": "G496",
+        "text": "The $\\textbf{Tenth Amendment}$ reserves powers not delegated to the federal government nor prohibited to the states, to the $\\textbf{States}$ or the people. These are known as:",
+        "image": "",
+        "options": [
+            "Inherent powers",
+            "Reserved powers",
+            "Concurrent powers",
+            "Judicially implied powers"
+        ],
+        "answer": "Reserved powers",
+        "explanation": "This amendment defines the boundary of federalism, limiting national power."
+    },
+    {
+        "id": "G497",
+        "text": "The $\\textbf{media's}$ role in broadcasting the debates over the ACA and the implications of $\\textit{Citizens United}$ is an example of the media acting as a:",
+        "image": "",
+        "options": [
+            "Direct lobbyist",
+            "Political $\\textbf{Gatekeeper}$ (deciding which stories are important)",
+            "Federal Regulator",
+            "Electoral College member"
+        ],
+        "answer": "Political $\\textbf{Gatekeeper}$ (deciding which stories are important)",
+        "explanation": "The media's function in setting the public agenda by choosing what information to present is known as the gatekeeper role."
+    },
+    {
+        "id": "G498",
+        "text": "The $\\textbf{Rule of Law}$ principle, fundamental to U.S. government, means that $\\textbf{no one}$ is above the law, including the:",
+        "image": "",
+        "options": [
+            "President",
+            "Media",
+            "Voters",
+            "Super PACs"
+        ],
+        "answer": "President",
+        "explanation": "The Rule of Law ensures that government is limited by and subject to the law, preventing tyranny."
+    },
+    {
+        "id": "G499",
+        "text": "The constitutional principle of $\\textbf{Checks and Balances}$ is exemplified by the $\\textbf{President's power}$ to $\\textbf{veto}$ the ACA legislation passed by Congress, which Congress can override with a:",
+        "image": "",
+        "options": [
+            "Simple majority in both houses",
+            "Two-thirds vote in both houses",
+            "Three-fourths vote in the Senate only",
+            "Unanimous vote by the Cabinet"
+        ],
+        "answer": "Two-thirds vote in both houses",
+        "explanation": "The two-thirds supermajority is required in both the House and the Senate to successfully override a presidential veto."
+    },
+    {
+        "id": "G500",
+        "text": "In $\\textbf{pluralist}$ theory, the drafting of complex legislation like the Dodd-Frank Act is a process where policy outcomes result from the bargaining and compromise between:",
+        "image": "",
+        "options": [
+            "Only the President and the Chief Justice",
+            "Numerous $\\textbf{competing interest groups}$ and government officials",
+            "The top 1\\% of campaign donors",
+            "A single, dominant political party"
+        ],
+        "answer": "Numerous $\\textbf{competing interest groups}$ and government officials",
+        "explanation": "Pluralism suggests that policy is made through the competition and negotiation of diverse interest groups."
+    },
+    {
+        "id": "G501",
+        "text": "The $\\textbf{Electoral College}$ formally selects the President. The number of electors a state receives is based on its total number of U.S. Senators and:",
+        "image": "",
+        "options": [
+            "The total number of state legislatures",
+            "The total number of U.S. Representatives",
+            "The state's total land area",
+            "The number of registered voters"
+        ],
+        "answer": "The total number of U.S. Representatives",
+        "explanation": "Each state gets 2 Senators + its House delegation number of electors. D.C. gets 3."
+    },
+    {
+        "id": "G502",
+        "text": "The $\\textbf{Judiciary's}$ philosophy of $\\textbf{Judicial Activism}$ is often criticized for allowing judges to substitute their own policy preferences for those of elected officials, thereby $\\textbf{legislating}$ from the:",
+        "image": "",
+        "options": [
+            "Executive Office",
+            "Senate Floor",
+            "Bench",
+            "Pulpit"
+        ],
+        "answer": "Bench",
+        "explanation": "Judicial activism is when courts are seen as creating new law or dramatically overturning established precedent, as critics argued in $\\textit{Citizens United}$."
+    },
+    {
+        "id": "G503",
+        "text": "The $\\textbf{Supremacy Clause}$ (Article VI) holds that the Constitution, federal laws, and treaties are the $\\textbf{supreme Law}$ of the Land, meaning they bind:",
+        "image": "",
+        "options": [
+            "Only the President",
+            "Only the federal judiciary",
+            "All $\\textbf{state}$ and local government officials",
+            "Only members of Congress"
+        ],
+        "answer": "All $\\textbf{state}$ and local government officials",
+        "explanation": "This ensures that federal law, when constitutional, takes precedence over conflicting state law."
+    },
+    {
+        "id": "G504",
+        "text": "A $\\textbf{standing committee}$ in the House of Representatives is crucial because it is $\\textbf{permanent}$, specializes in a policy area (like Health, Commerce, or Finance), and is the first place where bills are:",
+        "image": "",
+        "options": [
+            "Vetoed",
+            "Ratified",
+            "$\textbf{Debated, amended, and passed}$ or killed",
+            "Nominated by the President"
+        ],
+        "answer": "$\textbf{Debated, amended, and passed}$ or killed",
+        "explanation": "Standing committees perform the essential legislative work of refining or stopping legislation."
+    },
+    {
+        "id": "G505",
+        "text": "The constitutional requirement that all $\\textbf{revenue bills}$ must originate in the $\\textbf{House of Representatives}$ is rooted in the framers' desire to place the power to $\\textbf{tax}$ closest to the:",
+        "image": "",
+        "options": [
+            "Executive Branch",
+            "People (through more frequent elections)",
+            "Supreme Court",
+            "State Governments"
+        ],
+        "answer": "People (through more frequent elections)",
+        "explanation": "House members face re-election every two years, making them highly accountable to voters on issues of taxation."
+    },
+    {
+        "id": "G506",
+        "text": "The $\\textbf{Full Faith and Credit Clause}$ (Article IV) requires states to respect the $\\textbf{public acts, records, and judicial proceedings}$ of other states, such as:",
+        "image": "",
+        "options": [
+            "Executive Orders",
+            "The result of an election",
+            "Property deeds and court judgments",
+            "The federal budget"
+        ],
+        "answer": "Property deeds and court judgments",
+        "explanation": "This clause promotes national unity by ensuring legal documents and rulings are recognized across state lines."
+    },
+    {
+        "id": "G507",
+        "text": "The $\\textbf{Speaker of the House}$ is second in line of presidential succession and is the most powerful figure in the chamber because they control the flow of legislation and determine $\\textbf{committee}$:",
+        "image": "",
+        "options": [
+            "Vetoes",
+            "Appointments and Referrals",
+            "Cabinet Nominations",
+            "State Reserved Powers"
+        ],
+        "answer": "Appointments and Referrals",
+        "explanation": "The Speaker assigns bills to committees and appoints the majority party’s members and leaders to those committees."
+    },
+    {
+        "id": "G508",
+        "text": "The $\\textbf{Privileges and Immunities Clause}$ is designed to prevent states from imposing unreasonable distinctions between their own residents and citizens of $\\textbf{other states}$ in areas like:",
+        "image": "",
+        "options": [
+            "Voting in a federal election",
+            "Employment, $\\textbf{travel}$, and property ownership",
+            "Military draft exemptions",
+            "Judicial review procedures"
+        ],
+        "answer": "Employment, $\\textbf{travel}$, and property ownership",
+        "explanation": "It ensures that a citizen of one state visiting another state is not treated as an alien."
+    },
+    {
+        "id": "G509",
+        "text": "The $\\textbf{Federal Bureaucracy}$ is responsible for the $\\textbf{implementation}$ of laws like the ACA and Dodd-Frank. Congressional oversight of this implementation is a check on the Executive Branch's:",
+        "image": "",
+        "options": [
+            "Taxing power",
+            "Discretionary authority and $\\textbf{rule-making}$",
+            "Power to ratify treaties",
+            "Right to counsel"
+        ],
+        "answer": "Discretionary authority and $\\textbf{rule-making}$",
+        "explanation": "Congress uses oversight to ensure that agencies are implementing laws as intended and to prevent bureaucratic drift."
+    },
+    {
+        "id": "G510",
+        "text": "The $\\textbf{Fifth Amendment}$ guarantees protection against $\\textbf{self-incrimination}$ (the right to remain silent) and $\\textbf{double jeopardy}$. Both are essential components of the constitutional requirement for:",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Separation of Powers",
+            "Due Process of Law",
+            "Judicial Restraint"
+        ],
+        "answer": "Due Process of Law",
+        "explanation": "Due process ensures that government proceedings are fair and that the rights of the accused are protected."
+    },
+    {
+        "id": "G511",
+        "text": "The $\\textbf{Republican victory}$ in the 2010 midterms is an example of the President's party often losing seats in an election that falls between presidential elections, which is known as:",
+        "image": "",
+        "options": [
+            "The $\\textbf{Coattail}$ Effect",
+            "A $\\textbf{Referendum}$ on the President's performance",
+            "Judicial Activism",
+            "Cloture"
+        ],
+        "answer": "A $\\textbf{Referendum}$ on the President's performance",
+        "explanation": "Midterms often serve as a chance for voters dissatisfied with the sitting President to express their disapproval."
+    },
+    {
+        "id": "G512",
+        "text": "The $\\textbf{Tenth Amendment}$ states that powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are $\\textbf{reserved}$ to the states respectively, or to the people. This is the constitutional definition of:",
+        "image": "",
+        "options": [
+            "Checks and Balances",
+            "Unitary Government",
+            "Federalism",
+            "Judicial Review"
+        ],
+        "answer": "Federalism",
+        "explanation": "The 10th Amendment explicitly grants non-enumerated powers to the state governments."
+    },
+    {
+        "id": "G513",
+        "text": "The principle of $\\textbf{Stare Decisis}$ means courts generally adhere to $\\textbf{precedent}$ (prior court rulings). When the Supreme Court overturns a major precedent, such as parts of $\\textit{Bipartisan Campaign Reform Act}$ in $\\textit{Citizens United}$, it is engaging in:",
+        "image": "",
+        "options": [
+            "Judicial Restraint",
+            "A Senate Filibuster",
+            "A departure from $\\textit{Stare Decisis}$",
+            "A writ of certiorari"
+        ],
+        "answer": "A departure from $\\textit{Stare Decisis}$",
+        "explanation": "Overruling precedent is a rare but powerful exercise of the Supreme Court’s authority."
+    },
+    {
+        "id": "G514",
+        "text": "The $\\textbf{Vice President}$ is the official President of the Senate, but their primary legislative power in this role is to:",
+        "image": "",
+        "options": [
+            "Introduce all bills",
+            "Cast a vote to $\\textbf{break a tie}$",
+            "Determine committee assignments",
+            "Serve as floor leader for the majority party"
+        ],
+        "answer": "Cast a vote to $\\textbf{break a tie}$",
+        "explanation": "The Vice President rarely attends Senate sessions and only votes when necessary to break a 50-50 deadlock."
+    },
+    {
+        "id": "G515",
+        "text": "The $\\textbf{Senatorial Courtesy}$ tradition gives individual senators a large degree of influence over the appointment of certain Executive Branch officials and $\\textbf{federal judges}$ who serve in:",
+        "image": "",
+        "options": [
+            "Their home state",
+            "The Supreme Court",
+            "The President's Cabinet",
+            "International courts"
+        ],
+        "answer": "Their home state",
+        "explanation": "Senatorial courtesy allows senators to essentially veto presidential nominees for positions (like District Court judges) within their own state."
+    },
+    {
+        "id": "G516",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ is often used in conjunction with the $\\textbf{Commerce Clause}$ to justify federal legislation, giving Congress $\\textbf{implied powers}$ beyond its:",
+        "image": "",
+        "options": [
+            "Reserved powers",
+            "Expressed (enumerated) powers",
+            "Veto power",
+            "Power of the sword"
+        ],
+        "answer": "Expressed (enumerated) powers",
+        "explanation": "This is the classic definition of the Elastic Clause, expanding Congress's reach beyond the 17 specified powers."
+    },
+    {
+        "id": "G517",
+        "text": "In $\\textbf{Electoral College}$ theory, the system protects smaller states by guaranteeing them a minimum of three electoral votes, ensuring their interests are not ignored by:",
+        "image": "",
+        "options": [
+            "Foreign governments",
+            "More populous $\\textbf{large states}$",
+            "The Judicial Branch",
+            "The federal bureaucracy"
+        ],
+        "answer": "More populous $\\textbf{large states}$",
+        "explanation": "The Electoral College gives states disproportionate power relative to their population in presidential elections."
+    },
+    {
+        "id": "G518",
+        "text": "The $\\textbf{Fourth Amendment}$ protects against $\\textbf{unreasonable searches and seizures}$. The standard used by courts to determine if a search is constitutional is that the police must usually have a warrant supported by:",
+        "image": "",
+        "options": [
+            "A unanimous vote",
+            "A majority of the legislature",
+            "Probable Cause",
+            "Executive Privilege"
+        ],
+        "answer": "Probable Cause",
+        "explanation": "Probable cause is the reasonable belief that a person has committed a crime or that evidence will be found in a particular location."
+    },
+    {
+        "id": "G519",
+        "text": "Congressional $\\textbf{Oversight}$ over the Federal Reserve (which controls $\\textbf{monetary policy}$) is primarily accomplished through $\\textbf{hearings}$, investigations, and review of the agency's:",
+        "image": "",
+        "options": [
+            "Appointments",
+            "Budget and Operations",
+            "Veto decisions",
+            "Treaty negotiations"
+        ],
+        "answer": "Budget and Operations",
+        "explanation": "Congress reviews the Fed's performance and budget, although the Fed is designed to have significant political independence."
+    },
+    {
+        "id": "G520",
+        "text": "The constitutional process for $\\textbf{ratifying}$ a $\\textbf{Treaty}$ with a foreign nation requires the President to submit the treaty to the Senate for approval by a:",
+        "image": "",
+        "options": [
+            "Simple majority vote",
+            "Two-thirds vote",
+            "Unanimous vote",
+            "Three-fourths vote of all state governors"
+        ],
+        "answer": "Two-thirds vote",
+        "explanation": "Treaty ratification requires a supermajority vote in the Senate as part of its Advice and Consent power."
+    }
+]

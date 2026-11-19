@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC201",
+        "text": "The $\\textbf{Accounting Information System}$ ($\\,\\textbf{AIS}$) relies on $\\textbf{Source Documents}$ to provide evidence of $\\textbf{Economic Events}$ or $\\textbf{Transactions}$.",
+        "image": "",
+        "options": [
+            "Financial Statements",
+            "Source Documents",
+            "Journal Entries",
+            "Trial Balance"
+        ],
+        "answer": "Source Documents",
+        "explanation": "Source documents (invoices, receipts, checks) are the primary inputs into the AIS."
+    },
+    {
+        "id": "ACC202",
+        "text": "The $\\textbf{Perpetual Inventory System}$ provides real-time data on the $\\textbf{Cost of Goods Sold}$ ($\\,\\textbf{COGS}$) and $\\textbf{Inventory}$ balances.",
+        "image": "",
+        "options": [
+            "At year-end",
+            "Monthly",
+            "In real-time",
+            "Annually"
+        ],
+        "answer": "In real-time",
+        "explanation": "This system tracks inventory movement continuously, making it essential for modern inventory management and auditing."
+    },
+    {
+        "id": "ACC203",
+        "text": "The $\\textbf{Gross Method}$ of accounting for $\\textbf{Sales Discounts}$ records the discount only if the customer $\\textbf{Pays}$ within the $\\textbf{Discount Period}$.",
+        "image": "",
+        "options": [
+            "Before shipment",
+            "After shipment",
+            "Pays",
+            "Is Billed"
+        ],
+        "answer": "Pays",
+        "explanation": "If the customer pays within the discount period, the discount is recorded as a reduction of revenue (Sales Discounts Forfeited)."
+    },
+    {
+        "id": "ACC204",
+        "text": "The $\\textbf{Direct Method}$ of preparing the $\\textbf{Statement of Cash Flows}$ is encouraged by the $\\textbf{FASB}$ because it is easier for users to $\\textbf{Understand}$ cash flows.",
+        "image": "",
+        "options": [
+            "Auditors",
+            "Management",
+            "Understand",
+            "Reconcile"
+        ],
+        "answer": "Understand",
+        "explanation": "It shows the gross cash receipts and payments, providing a clearer picture of cash generated from operations than the indirect method."
+    },
+    {
+        "id": "ACC205",
+        "text": "The $\\textbf{Book Value}$ of a bond payable is calculated as the bond's $\\textbf{Face Value}$ plus any unamortized $\\textbf{Premium}$ or minus any unamortized $\\textbf{Discount}$.",
+        "image": "",
+        "options": [
+            "Coupon Rate",
+            "Market Rate",
+            "Face Value",
+            "Interest Expense"
+        ],
+        "answer": "Face Value",
+        "explanation": "The book value represents the bond's carrying amount on the balance sheet."
+    },
+    {
+        "id": "ACC206",
+        "text": "The $\\textbf{Preferred Stock}$ features a $\\textbf{Cumulative}$ provision that requires any unpaid $\\textbf{Dividends}$ to be carried forward to the next $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Non-cumulative",
+            "Redeemable",
+            "Cumulative",
+            "Convertible"
+        ],
+        "answer": "Cumulative",
+        "explanation": "Unpaid dividends accumulate as 'dividends in arrears,' which must be paid before common stockholders receive any dividends."
+    },
+    {
+        "id": "ACC207",
+        "text": "The $\\textbf{Cost of Goods Manufactured}$ ($\\,\\textbf{COGM}$) is an intermediate calculation that appears on the $\\textbf{Income Statement}$ (as a component of $\\textbf{COGS}$) and the $\\textbf{Schedule}$ of $\\textbf{COGM}$.",
+        "image": "",
+        "options": [
+            "Balance Sheet",
+            "Statement of Retained Earnings",
+            "Income Statement",
+            "Cash Flow Statement"
+        ],
+        "answer": "Income Statement",
+        "explanation": "COGM flows from the manufacturing schedules into the Income Statement where it is used to calculate COGS."
+    },
+    {
+        "id": "ACC208",
+        "text": "The $\\textbf{Variable Costing}$ method (Managerial Accounting) includes only $\\textbf{Variable}$ manufacturing costs (DM, DL, Variable OH) in the $\\textbf{Product Cost}$.",
+        "image": "",
+        "options": [
+            "Absorption Costing",
+            "Activity-Based Costing",
+            "Variable Costing",
+            "Job Order Costing"
+        ],
+        "answer": "Variable Costing",
+        "explanation": "Fixed manufacturing overhead is treated as a period expense and expensed immediately."
+    },
+    {
+        "id": "ACC209",
+        "text": "The $\\textbf{Direct Materials Quantity Variance}$ measures the difference between the $\\textbf{Actual Quantity}$ of materials used and the $\\textbf{Standard Quantity}$ allowed for the $\\textbf{Output}$.",
+        "image": "",
+        "options": [
+            "Actual Price",
+            "Standard Price",
+            "Actual Quantity",
+            "Standard Rate"
+        ],
+        "answer": "Actual Quantity",
+        "explanation": "This variance focuses on operational efficiency: how well the company managed the amount of material used."
+    },
+    {
+        "id": "ACC210",
+        "text": "The $\\textbf{Balanced Scorecard}$ uses measures from the $\\textbf{Learning and Growth}$ perspective to evaluate employee capabilities and $\\textbf{Innovation}$ processes.",
+        "image": "",
+        "options": [
+            "Customer Satisfaction",
+            "Innovation",
+            "Return on Investment",
+            "Fixed Costs"
+        ],
+        "answer": "Innovation",
+        "explanation": "This perspective addresses the organization's capacity to sustain long-term growth and improvement."
+    },
+    {
+        "id": "ACC211",
+        "text": "The $\\textbf{Required Rate of Return}$ used in $\\textbf{NPV}$ calculations is often adjusted upwards to reflect the $\\textbf{Specific Risk}$ associated with the $\\textbf{Project}$.",
+        "image": "",
+        "options": [
+            "Inflation",
+            "Specific Risk",
+            "Liquidity",
+            "Capital Structure"
+        ],
+        "answer": "Specific Risk",
+        "explanation": "Projects with higher risk than the company average should use a higher discount rate."
+    },
+    {
+        "id": "ACC212",
+        "text": "The $\\textbf{Margin of Safety}$ can be expressed in units, $\\textbf{Sales Dollars}$, or as a $\\textbf{Percentage}$.",
+        "image": "",
+        "options": [
+            "Fixed Costs",
+            "Variable Costs",
+            "Sales Dollars",
+            "Net Income"
+        ],
+        "answer": "Sales Dollars",
+        "explanation": "Margin of Safety measures the cushion between expected sales and the break-even point."
+    },
+    {
+        "id": "ACC213",
+        "text": "A $\\textbf{Service Organization}$ primarily uses $\\textbf{Job Order Costing}$ to track costs associated with specific client $\\textbf{Contracts}$ or $\\textbf{Engagements}$.",
+        "image": "",
+        "options": [
+            "Process Costing",
+            "Absorption Costing",
+            "Job Order Costing",
+            "Activity-Based Costing"
+        ],
+        "answer": "Job Order Costing",
+        "explanation": "Costs (labor, materials, overhead) are accumulated by the unique service job (e.g., a consulting engagement or legal case)."
+    },
+    {
+        "id": "ACC214",
+        "text": "The $\\textbf{Cash Budget}$ (part of the Master Budget) combines the expected $\\textbf{Cash Receipts}$ and $\\textbf{Cash Disbursements}$ to predict $\\textbf{Future}$ cash needs.",
+        "image": "",
+        "options": [
+            "Historical",
+            "Actual",
+            "Future",
+            "Permanent"
+        ],
+        "answer": "Future",
+        "explanation": "The cash budget is crucial for liquidity management, especially in volatile economic environments (like 2021)."
+    },
+    {
+        "id": "ACC215",
+        "text": "The $\\textbf{Unqualified Opinion}$ is the best result of an $\\textbf{Audit}$, meaning the financial statements are presented $\\textbf{Fairly}$ in all material $\\textbf{Respects}$.",
+        "image": "",
+        "options": [
+            "Adverse Opinion",
+            "Qualified Opinion",
+            "Disclaimer of Opinion",
+            "Unqualified Opinion"
+        ],
+        "answer": "Unqualified Opinion",
+        "explanation": "This is often referred to as a 'clean opinion' and gives users the highest level of assurance."
+    },
+    {
+        "id": "ACC216",
+        "text": "The $\\textbf{Sarbanes-Oxley Act}$ ($\\,\\textbf{SOX}$) requires that the CEO and $\\textbf{CFO}$ personally certify the accuracy of the $\\textbf{Financial Statements}$.",
+        "image": "",
+        "options": [
+            "COO",
+            "CFO",
+            "CIO",
+            "HR Director"
+        ],
+        "answer": "CFO",
+        "explanation": "This mandate places direct personal accountability on top executives for the reliability of financial reporting."
+    },
+    {
+        "id": "ACC217",
+        "text": "The $\\textbf{Monitoring}$ component of the $\\textbf{COSO}$ framework includes activities such as $\\textbf{Periodic}$ $\\textbf{Evaluation}$ of internal controls and $\\textbf{Follow-up}$ on deficiencies.",
+        "image": "",
+        "options": [
+            "Control Environment",
+            "Control Activities",
+            "Risk Assessment",
+            "Monitoring"
+        ],
+        "answer": "Monitoring",
+        "explanation": "Monitoring ensures controls continue to operate effectively and that findings are addressed in a timely manner."
+    },
+    {
+        "id": "ACC218",
+        "text": "The $\\textbf{Tax Cuts and Jobs Act}$ (2017) created a $\\textbf{Deferred Tax Asset}$ for certain $\\textbf{R&D}$ costs by requiring them to be $\\textbf{Capitalized}$ and $\\textbf{Amortized}$ for tax purposes starting in 2022.",
+        "image": "",
+        "options": [
+            "Expensed Immediately",
+            "Capitalized",
+            "Ignored",
+            "Deducted Annually"
+        ],
+        "answer": "Capitalized",
+        "explanation": "The change meant R&D was expensed immediately for book purposes but capitalized for tax, creating a temporary difference resulting in a Deferred Tax Liability (until 2022)."
+    },
+    {
+        "id": "ACC219",
+        "text": "The $\\textbf{Impairment Loss}$ for an $\\textbf{Intangible Asset}$ with an $\\textbf{Indefinite Life}$ (like $\\textbf{Goodwill}$) is triggered when the $\\textbf{Fair Value}$ is less than the $\\textbf{Carrying Value}$.",
+        "image": "",
+        "options": [
+            "Amortization",
+            "Depreciation",
+            "Impairment Loss",
+            "Depletion"
+        ],
+        "answer": "Impairment Loss",
+        "explanation": "Indefinite-lived assets are not amortized but must be tested for impairment annually or whenever circumstances indicate a loss."
+    },
+    {
+        "id": "ACC220",
+        "text": "The $\\textbf{Journal Entry}$ to record the sale of goods on credit includes a $\\textbf{Debit}$ to $\\textbf{Accounts Receivable}$ and a $\\textbf{Credit}$ to $\\textbf{Sales Revenue}$.",
+        "image": "",
+        "options": [
+            "Cash",
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Inventory"
+        ],
+        "answer": "Accounts Receivable",
+        "explanation": "This recognizes the asset (the right to collect cash) and the revenue earned under the accrual basis."
+    },
+    {
+        "id": "ACC221",
+        "text": "The $\\textbf{Net Present Value}$ ($\\,\\textbf{NPV}$) method accepts an investment project if its NPV is $\\textbf{Greater}$ than $\\textbf{Zero}$.",
+        "image": "",
+        "options": [
+            "Less than zero",
+            "Equal to zero",
+            "Greater",
+            "Equal to the IRR"
+        ],
+        "answer": "Greater",
+        "explanation": "A positive NPV means the project is expected to generate a return exceeding the company's cost of capital."
+    },
+    {
+        "id": "ACC222",
+        "text": "The $\\textbf{Earnings Per Share}$ ($\\,\\textbf{EPS}$) is the only financial ratio required to be disclosed on the $\\textbf{Face}$ of the $\\textbf{Income Statement}$.",
+        "image": "",
+        "options": [
+            "Current Ratio",
+            "Gross Profit Margin",
+            "Earnings Per Share",
+            "Return on Equity"
+        ],
+        "answer": "Earnings Per Share",
+        "explanation": "Both basic and diluted EPS must be presented directly on the income statement for publicly traded companies."
+    },
+    {
+        "id": "ACC223",
+        "text": "The $\\textbf{Acid-Test Ratio}$ (Quick Ratio) is a measure of $\\textbf{Short-Term}$ liquidity, often calculated without using $\\textbf{Prepaid Expenses}$.",
+        "image": "",
+        "options": [
+            "Long-Term",
+            "Solvency",
+            "Short-Term",
+            "Profitability"
+        ],
+        "answer": "Short-Term",
+        "explanation": "It tests a company's ability to cover immediate obligations using only its most liquid assets."
+    },
+    {
+        "id": "ACC224",
+        "text": "The $\\textbf{Weighted Average}$ cost method for inventory assumes that $\\textbf{COGS}$ and $\\textbf{Ending Inventory}$ are valued using the average cost of all goods available for $\\textbf{Sale}$.",
+        "image": "",
+        "options": [
+            "Purchase",
+            "Production",
+            "Sale",
+            "Storage"
+        ],
+        "answer": "Sale",
+        "explanation": "This method smooths out the impact of fluctuating prices on inventory values."
+    },
+    {
+        "id": "ACC225",
+        "text": "The $\\textbf{Contribution Margin}$ format income statement classifies costs by $\\textbf{Behavior}$ ($\textbf{Fixed}$ vs. $\textbf{Variable}$) rather than by $\\textbf{Function}$.",
+        "image": "",
+        "options": [
+            "Function",
+            "Department",
+            "Product Line",
+            "Job"
+        ],
+        "answer": "Function",
+        "explanation": "Functional classification (e.g., COGS, Selling, G&A) is used in absorption costing for external reporting."
+    },
+    {
+        "id": "ACC226",
+        "text": "The $\\textbf{Cash Budget}$ is typically the $\\textbf{Final}$ budget prepared in the $\\textbf{Master Budget}$ process, integrating all operating and $\\textbf{Financing}$ activities.",
+        "image": "",
+        "options": [
+            "First",
+            "Second",
+            "Third",
+            "Final"
+        ],
+        "answer": "Final",
+        "explanation": "All other budgets (sales, production, expense) feed into the cash budget to predict the ending cash balance."
+    },
+    {
+        "id": "ACC227",
+        "text": "In $\\textbf{Process Costing}$, $\\textbf{Conversion Costs}$ are generally assumed to be incurred $\\textbf{Uniformly}$ throughout the production $\\textbf{Process}$.",
+        "image": "",
+        "options": [
+            "At the beginning",
+            "At the end",
+            "Uniformly",
+            "Irregularly"
+        ],
+        "answer": "Uniformly",
+        "explanation": "This assumption is necessary for calculating Equivalent Units of Production (EUP)."
+    },
+    {
+        "id": "ACC228",
+        "text": "The $\\textbf{Weighted Average Cost of Capital}$ ($\\,\\textbf{WACC}$) represents the average $\\textbf{Rate of Return}$ a company is expected to pay to its $\\textbf{Security Holders}$.",
+        "image": "",
+        "options": [
+            "Taxes",
+            "Revenue",
+            "Rate of Return",
+            "Net Income"
+        ],
+        "answer": "Rate of Return",
+        "explanation": "WACC is the weighted cost of equity and after-tax cost of debt, and serves as the discount rate for average-risk projects."
+    },
+    {
+        "id": "ACC229",
+        "text": "The $\\textbf{Economic Value Added}$ ($\\,\\textbf{EVA}$) encourages managers to expand $\\textbf{Operations}$ as long as the $\\textbf{Return on Investment}$ exceeds the $\\textbf{Cost of Capital}$.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Expenses",
+            "Operations",
+            "Profit"
+        ],
+        "answer": "Operations",
+        "explanation": "EVA is positive when the project's return is greater than the cost of capital, aligning with shareholder wealth maximization."
+    },
+    {
+        "id": "ACC230",
+        "text": "The $\\textbf{International Sustainability Standards Board}$ ($\\,\\textbf{ISSB}$), operational in 2021, aims to develop $\\textbf{Global}$ baseline standards for $\\textbf{Sustainability}$ reporting.",
+        "image": "",
+        "options": [
+            "Regional",
+            "National",
+            "Global",
+            "Local"
+        ],
+        "answer": "Global",
+        "explanation": "The ISSB was formed by the IFRS Foundation to address the growing demand for consistent, high-quality sustainability information."
+    },
+    {
+        "id": "ACC231",
+        "text": "The $\\textbf{Sarbanes-Oxley Act}$ ($\\,\\textbf{SOX}$) requires that all members of the $\\textbf{Audit Committee}$ be $\\textbf{Independent}$ of company $\\textbf{Management}$.",
+        "image": "",
+        "options": [
+            "Related",
+            "Employed",
+            "Independent",
+            "Certified"
+        ],
+        "answer": "Independent",
+        "explanation": "Independence is crucial to ensure objective oversight of financial reporting and the external audit process."
+    },
+    {
+        "id": "ACC232",
+        "text": "The $\\textbf{Deferred Tax Liability}$ arises because the current year's $\\textbf{Taxable Income}$ is $\\textbf{Less}$ than the current year's $\\textbf{Accounting Income}$.",
+        "image": "",
+        "options": [
+            "Greater than",
+            "Equal to",
+            "Less",
+            "Unrelated to"
+        ],
+        "answer": "Less",
+        "explanation": "The company saves taxes now, creating a future obligation (liability) when the difference reverses."
+    },
+    {
+        "id": "ACC233",
+        "text": "The $\\textbf{Impairment}$ of an asset's value is a $\\textbf{Non-Cash Expense}$ that reduces $\\textbf{Net Income}$ but has no effect on $\\textbf{Cash Flow}$.",
+        "image": "",
+        "options": [
+            "Cash Inflow",
+            "Cash Outflow",
+            "Non-Cash Expense",
+            "Financing Activity"
+        ],
+        "answer": "Non-Cash Expense",
+        "explanation": "Like depreciation, impairment must be added back to net income when calculating cash flow from operating activities (indirect method)."
+    },
+    {
+        "id": "ACC234",
+        "text": "The $\\textbf{Working Capital}$ is defined as $\\textbf{Current Assets}$ minus $\\textbf{Current Liabilities}$.",
+        "image": "",
+        "options": [
+            "Total Assets",
+            "Non-Current Assets",
+            "Current Assets",
+            "Total Equity"
+        ],
+        "answer": "Current Assets",
+        "explanation": "Working capital is a key measure of liquidity and operational efficiency."
+    },
+    {
+        "id": "ACC235",
+        "text": "The $\\textbf{Statement of Retained Earnings}$ is the formal report that reconciles the $\\textbf{Beginning}$ and $\\textbf{Ending}$ balances of the $\\textbf{Retained Earnings}$ account.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Expenses",
+            "Beginning",
+            "Net Income"
+        ],
+        "answer": "Beginning",
+        "explanation": "It shows how net income (increase) and dividends (decrease) impacted retained earnings during the period."
+    },
+    {
+        "id": "ACC236",
+        "text": "The $\\textbf{Time Value of Money}$ is relevant in accounting whenever cash flows occur in $\\textbf{Different}$ $\\textbf{Periods}$ (e.g., leases, pensions, and bonds).",
+        "image": "",
+        "options": [
+            "Same",
+            "Different",
+            "Fixed",
+            "Short"
+        ],
+        "answer": "Different",
+        "explanation": "Present value calculations are used to accurately reflect the economic reality of future payments or receipts."
+    },
+    {
+        "id": "ACC237",
+        "text": "In $\\textbf{Financial Statement Analysis}$, the $\\textbf{Current Ratio}$ is a more $\\textbf{Conservative}$ measure of liquidity than the $\\textbf{Acid-Test Ratio}$ (Quick Ratio).",
+        "image": "",
+        "options": [
+            "Stringent",
+            "Liberal",
+            "Conservative",
+            "Aggressive"
+        ],
+        "answer": "Liberal",
+        "explanation": "The Current Ratio is actually *less* stringent (more liberal) because it includes less liquid assets like inventory and prepaid expenses in its calculation."
+    },
+    {
+        "id": "ACC238",
+        "text": "The $\\textbf{Transfer Price}$ set between $\\textbf{Divisions}$ of a company affects the $\\textbf{Profitability}$ of both the selling and buying $\\textbf{Segments}$.",
+        "image": "",
+        "options": [
+            "Headquarters",
+            "External Customers",
+            "Profitability",
+            "Inventory Levels"
+        ],
+        "answer": "Profitability",
+        "explanation": "The transfer price determines the revenue of the selling division and the cost of the buying division."
+    },
+    {
+        "id": "ACC239",
+        "text": "The $\\textbf{Treasury Stock}$ account is recorded at the $\\textbf{Cost Method}$, meaning it is debited for the $\\textbf{Acquisition Price}$ of the repurchased shares.",
+        "image": "",
+        "options": [
+            "Par Value Method",
+            "Market Value Method",
+            "Cost Method",
+            "FIFO Method"
+        ],
+        "answer": "Cost Method",
+        "explanation": "The cost method is the most common approach, and the account is treated as a reduction of total shareholder's equity."
+    },
+    {
+        "id": "ACC240",
+        "text": "The $\\textbf{Risk Assessment}$ component of $\\textbf{COSO}$ includes identifying and analyzing $\\textbf{Internal}$ and $\\textbf{External}$ risks that could prevent the achievement of $\\textbf{Objectives}$.",
+        "image": "",
+        "options": [
+            "Financial",
+            "Operational",
+            "Internal",
+            "Compliance"
+        ],
+        "answer": "Internal",
+        "explanation": "Internal risks include employee error or fraud, while external risks include regulatory changes or economic downturns."
+    }
+]

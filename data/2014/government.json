@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G321",
+        "text": "The $\\textbf{2014 elections}$ were $\\textbf{midterm}$ elections. These elections are held for the House of Representatives and one-third of the Senate:",
+        "image": "",
+        "options": [
+            "Every year",
+            "In the middle of a presidential term",
+            "Only when the President is retiring",
+            "Every eight years"
+        ],
+        "answer": "In the middle of a presidential term",
+        "explanation": "Midterm elections occur two years into a sitting president's four-year term and often serve as a referendum on the president's performance."
+    },
+    {
+        "id": "G322",
+        "text": "The results of the 2014 midterms led to $\\textbf{divided government}$, meaning:",
+        "image": "",
+        "options": [
+            "Congress was controlled by the Supreme Court",
+            "The President and Congress belonged to the same party",
+            "The Executive and Legislative branches were controlled by different parties",
+            "Only state governments held power"
+        ],
+        "answer": "The Executive and Legislative branches were controlled by different parties",
+        "explanation": "In 2014, the Democratic President faced a Republican-controlled House and Senate, leading to increased legislative gridlock."
+    },
+    {
+        "id": "G323",
+        "text": "Historically, voter turnout is $\\textbf{significantly lower}$ in midterm elections than in presidential elections, a factor that often disproportionately benefits:",
+        "image": "",
+        "options": [
+            "Third-party candidates",
+            "The party that controls the White House",
+            "The party that is out of power",
+            "Urban political machines"
+        ],
+        "answer": "The party that is out of power",
+        "explanation": "The President's party often loses seats in midterms, as the opposition party's base is typically more energized to vote against the incumbent administration."
+    },
+    {
+        "id": "G324",
+        "text": "The single greatest advantage members of Congress have when running for re-election, which was evident in 2014, is $\\textbf{incumbency}$. This advantage is boosted by:",
+        "image": "",
+        "options": [
+            "Lifetime appointments for Congressmen",
+            "The power of judicial review",
+            "Name recognition and access to free mail (franking privilege)",
+            "The ability to issue executive orders"
+        ],
+        "answer": "Name recognition and access to free mail (franking privilege)",
+        "explanation": "Incumbents benefit from name recognition, easier fundraising, and government-funded mail to constituents (franking privilege)."
+    },
+    {
+        "id": "G325",
+        "text": "In late 2014, President Obama used $\\textbf{executive action}$ (DACA/DAPA) to change immigration enforcement. The most direct constitutional challenge to this action came from states arguing a violation of:",
+        "image": "",
+        "options": [
+            "The Eighth Amendment",
+            "The principle of Separation of Powers",
+            "The Establishment Clause",
+            "The Twenty-Fifth Amendment"
+        ],
+        "answer": "The principle of Separation of Powers",
+        "explanation": "Opponents argued the President was engaging in lawmaking, a power reserved for the Legislative Branch (Congress), thus violating the separation of powers."
+    },
+    {
+        "id": "G326",
+        "text": "To counter presidential executive action that they disagree with, Congress can use the $\\textbf{power of the purse}$. This means Congress can:",
+        "image": "",
+        "options": [
+            "Veto an executive order",
+            "Refuse to fund the executive branch agencies responsible for the action",
+            "Impeach the President's Cabinet",
+            "Negotiate treaties with foreign countries"
+        ],
+        "answer": "Refuse to fund the executive branch agencies responsible for the action",
+        "explanation": "Congress controls all federal spending and can limit or eliminate funds for specific programs or actions it opposes."
+    },
+    {
+        "id": "G327",
+        "text": "Presidential actions based on powers not explicitly written in the Constitution but which are argued to stem from the 'vesting clause' (Article II) are often referred to as $\\textbf{inherent}$ or:",
+        "image": "",
+        "options": [
+            "Expressed powers",
+            "Delegated powers",
+            "Emergency powers",
+            "Enumerated powers"
+        ],
+        "answer": "Emergency powers",
+        "explanation": "Inherent/Emergency powers are claimed by the President in times of crisis or when dealing with vague constitutional language."
+    },
+    {
+        "id": "G328",
+        "text": "As the highest-ranking member of the $\\textbf{House of Representatives}$, the $\\textbf{Speaker of the House}$ has the power to:",
+        "image": "",
+        "options": [
+            "Appoint all committee members",
+            "Veto legislation",
+            "Preside over Senate impeachment trials",
+            "Determine which bills go to which committees"
+        ],
+        "answer": "Determine which bills go to which committees",
+        "explanation": "The Speaker controls the legislative calendar and flow of legislation, holding immense procedural power."
+    },
+    {
+        "id": "G329",
+        "text": "The Senate's power of $\\textbf{Advice and Consent}$ gives it the ability to $\\textbf{check}$ the President's power by:",
+        "image": "",
+        "options": [
+            "Declaring war",
+            "Ratifying treaties and confirming high-level appointments",
+            "Introducing revenue bills",
+            "Issuing pardons"
+        ],
+        "answer": "Ratifying treaties and confirming high-level appointments",
+        "explanation": "This check applies to Cabinet Secretaries, Supreme Court Justices, Ambassadors, and other top-level officials."
+    },
+    {
+        "id": "G330",
+        "text": "When the President uses his veto power, Congress can still enact the bill into law if it achieves a $\\textbf{veto override}$, which requires:",
+        "image": "",
+        "options": [
+            "A simple majority vote in both houses",
+            "A two-thirds vote in the Supreme Court",
+            "A two-thirds vote in both the House and the Senate",
+            "Unanimous approval by state governors"
+        ],
+        "answer": "A two-thirds vote in both the House and the Senate",
+        "explanation": "This is a difficult legislative hurdle, showing the power of the presidential veto."
+    },
+    {
+        "id": "G331",
+        "text": "$\\textbf{Divided government}$ often leads to $\\textbf{legislative gridlock}$. This is most evident in the difficulty of passing:",
+        "image": "",
+        "options": [
+            "Routine administrative rules",
+            "Controversial legislation and confirming judicial nominees",
+            "Annual budget extensions",
+            "Declarations of war"
+        ],
+        "answer": "Controversial legislation and confirming judicial nominees",
+        "explanation": "Opposition parties use procedural tactics (like the filibuster) to block nominees and bills from the other side."
+    },
+    {
+        "id": "G332",
+        "text": "Following the decennial $\\textbf{census}$, the process of $\\textbf{reapportionment}$ determines how many House seats each state receives. This number is based on the state's:",
+        "image": "",
+        "options": [
+            "Land area",
+            "Total population",
+            "Number of registered voters",
+            "Economic output"
+        ],
+        "answer": "Total population",
+        "explanation": "House seats are apportioned based on population, with each state guaranteed at least one representative."
+    },
+    {
+        "id": "G333",
+        "text": "The powerful $\\textbf{House Ways and Means Committee}$ has jurisdiction over:",
+        "image": "",
+        "options": [
+            "Judicial appointments",
+            "All tax legislation (revenue bills)",
+            "Military declarations of war",
+            "Foreign policy treaties"
+        ],
+        "answer": "All tax legislation (revenue bills)",
+        "explanation": "All revenue bills must originate in the House (Article I), and the Ways and Means Committee handles all matters related to taxes, tariffs, and Social Security."
+    },
+    {
+        "id": "G334",
+        "text": "In the Senate, the use of a $\\textbf{filibuster}$ is a procedural tactic used by the $\\textbf{minority}$ party to delay or block a vote. It can only be stopped by a vote of $\\textbf{cloture}$, which requires a minimum of:",
+        "image": "",
+        "options": [
+            "51 Senators",
+            "60 Senators",
+            "67 Senators",
+            "All Senators"
+        ],
+        "answer": "60 Senators",
+        "explanation": "This three-fifths majority (60 votes) is necessary to end debate and proceed to a vote."
+    },
+    {
+        "id": "G335",
+        "text": "When Congress cannot agree on a new federal budget by the start of the fiscal year (October 1st), it must pass a $\\textbf{continuing resolution}$ to:",
+        "image": "",
+        "options": [
+            "Declare a national emergency",
+            "Keep the government running at current funding levels",
+            "Appoint a new budget director",
+            "Raise the national debt ceiling"
+        ],
+        "answer": "Keep the government running at current funding levels",
+        "explanation": "A continuing resolution temporarily funds the government to avoid a shutdown."
+    },
+    {
+        "id": "G336",
+        "text": "The largest portion of the federal budget goes toward $\\textbf{mandatory spending}$, which primarily funds $\\textbf{entitlement programs}$ like Medicare, Medicaid, and:",
+        "image": "",
+        "options": [
+            "Space exploration",
+            "Foreign aid",
+            "Social Security",
+            "The Department of Education"
+        ],
+        "answer": "Social Security",
+        "explanation": "Mandatory spending is required by existing law for all eligible recipients, unlike discretionary spending which is set annually by Congress."
+    },
+    {
+        "id": "G337",
+        "text": "The $\\textbf{federal bureaucracy}$ is given $\\textbf{discretionary authority}$, allowing agencies to:",
+        "image": "",
+        "options": [
+            "Override a Supreme Court decision",
+            "Decide how to implement vague or broadly-written laws",
+            "Appoint presidential cabinet members",
+            "Impeach federal judges"
+        ],
+        "answer": "Decide how to implement vague or broadly-written laws",
+        "explanation": "Congress often delegates the details of complex policy to the bureaucratic agencies, giving them implementation discretion."
+    },
+    {
+        "id": "G338",
+        "text": "In 2014, the $\\textbf{Affordable Care Act}$ (ACA) continued to be implemented largely by the $\\textbf{Department of Health and Human Services}$ and the $\\textbf{IRS}$. These agencies' actions are part of the process known as:",
+        "image": "",
+        "options": [
+            "Originalism",
+            "Iron Triangles",
+            "Rule-making",
+            "Judicial Activism"
+        ],
+        "answer": "Rule-making",
+        "explanation": "Rule-making is the bureaucratic process of translating broad congressional policy mandates into specific, legally binding administrative rules and regulations."
+    },
+    {
+        "id": "G339",
+        "text": "Congress exercises $\\textbf{oversight}$ of the bureaucracy primarily through:",
+        "image": "",
+        "options": [
+            "Appointing agency heads",
+            "Holding committee hearings and controlling the agency's budget",
+            "Issuing executive orders",
+            "Declaring bureaucratic rules unconstitutional"
+        ],
+        "answer": "Holding committee hearings and controlling the agency's budget",
+        "explanation": "The 'police patrol' and 'fire alarm' forms of oversight ensure agencies are implementing the law as Congress intended."
+    },
+    {
+        "id": "G340",
+        "text": "The $\\textbf{Hatch Act}$ (1939) restricts the political activity of $\\textbf{federal employees}$ primarily to ensure that:",
+        "image": "",
+        "options": [
+            "They cannot vote",
+            "Federal services are administered in a non-partisan way",
+            "They must join a political party",
+            "They must run for office"
+        ],
+        "answer": "Federal services are administered in a non-partisan way",
+        "explanation": "The Act prevents employees from using their official authority to influence election results."
+    },
+    {
+        "id": "G341",
+        "text": "The 2010 Supreme Court case $\\textbf{Citizens United v. FEC}$ continued to shape the 2014 campaign, ruling that independent political spending is a form of $\\textbf{speech}$ protected by the:",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Fourth Amendment",
+            "First Amendment",
+            "Second Amendment"
+        ],
+        "answer": "First Amendment",
+        "explanation": "This ruling allowed for the rise of Super PACs and unlimited independent expenditures in elections."
+    },
+    {
+        "id": "G342",
+        "text": "$\\textbf{Super PACs}$ can raise and spend $\\textbf{unlimited}$ amounts of money for political purposes, provided they do not $\\textbf{coordinate}$ their spending with the candidate's $\\textbf{official campaign}$. This spending is classified as:",
+        "image": "",
+        "options": [
+            "Hard money",
+            "Soft money",
+            "Independent expenditure",
+            "Judicial funding"
+        ],
+        "answer": "Independent expenditure",
+        "explanation": "Independent expenditures are not subject to limits because they are not contributions directly to the candidate."
+    },
+    {
+        "id": "G343",
+        "text": "The media's power to determine which issues or candidates receive public attention and become the subject of debate is known as:",
+        "image": "",
+        "options": [
+            "Spinning",
+            "Agenda-Setting",
+            "Stare Decisis",
+            "Amicus Curiae"
+        ],
+        "answer": "Agenda-Setting",
+        "explanation": "The media doesn't tell people what to think, but rather what to think *about*."
+    },
+    {
+        "id": "G344",
+        "text": "In a $\\textbf{closed primary}$ election, only voters who are $\\textbf{registered}$ members of the party holding the primary are allowed to participate. This contrasts with an $\\textbf{open primary}$ where:",
+        "image": "",
+        "options": [
+            "Only incumbents can vote",
+            "Voters must write in their candidates",
+            "Voters can choose which party's primary to vote in on election day",
+            "Only members of Congress can vote"
+        ],
+        "answer": "Voters can choose which party's primary to vote in on election day",
+        "explanation": "Open primaries allow for 'crossover' voting, while closed primaries ensure party loyalty."
+    },
+    {
+        "id": "G345",
+        "text": "The $\\textbf{Tenth Amendment}$ is central to American $\\textbf{federalism}$ and states that powers not delegated to the federal government, nor prohibited to the states, are:",
+        "image": "",
+        "options": [
+            "Denied to all governments",
+            "Reserved to the states or the people",
+            "Automatically given to the President",
+            "Controlled by the Supreme Court"
+        ],
+        "answer": "Reserved to the states or the people",
+        "explanation": "This amendment defines the concept of reserved powers for the states."
+    },
+    {
+        "id": "G346",
+        "text": "The $\\textbf{Supremacy Clause}$ (Article VI) holds that when state and federal laws conflict, the highest authority is:",
+        "image": "",
+        "options": [
+            "The state constitution",
+            "The U.S. Constitution and federal laws made pursuant to it",
+            "Local ordinances",
+            "The governor's executive orders"
+        ],
+        "answer": "The U.S. Constitution and federal laws made pursuant to it",
+        "explanation": "Federal law reigns supreme when it is properly authorized by the Constitution."
+    },
+    {
+        "id": "G347",
+        "text": "The $\\textbf{Fourteenth Amendment's Equal Protection Clause}$ was originally intended to prevent discrimination by state governments against:",
+        "image": "",
+        "options": [
+            "Corporations",
+            "Former slaves",
+            "Foreign governments",
+            "Federal judges"
+        ],
+        "answer": "Former slaves",
+        "explanation": "It guarantees that no state shall deny to any person within its jurisdiction the equal protection of the laws."
+    },
+    {
+        "id": "G348",
+        "text": "The Supreme Court used the $\\textbf{Due Process Clause}$ of the $\\textbf{Fourteenth Amendment}$ to apply most of the $\\textbf{Bill of Rights}$ protections to the states, a process known as:",
+        "image": "",
+        "options": [
+            "Judicial Restraint",
+            "Originalism",
+            "Selective Incorporation",
+            "Devolution"
+        ],
+        "answer": "Selective Incorporation",
+        "explanation": "This process gradually nationalized the Bill of Rights over the 20th century."
+    },
+    {
+        "id": "G349",
+        "text": "The $\\textbf{Free Exercise Clause}$ of the First Amendment ensures that individuals can:",
+        "image": "",
+        "options": [
+            "Use government funds for religious purposes",
+            "Practice their religion without government interference",
+            "Demand that the government endorse their religion",
+            "Prevent others from practicing a different religion"
+        ],
+        "answer": "Practice their religion without government interference",
+        "explanation": "This clause guarantees the freedom to believe and practice one's faith."
+    },
+    {
+        "id": "G350",
+        "text": "The $\\textbf{Exclusionary Rule}$ (from $\\textit{Mapp v. Ohio}$) is a judicial remedy that prohibits the use of illegally obtained evidence in a criminal trial, enforcing the guarantees of the:",
+        "image": "",
+        "options": [
+            "Fifth Amendment",
+            "Eighth Amendment",
+            "Fourth Amendment",
+            "Sixth Amendment"
+        ],
+        "answer": "Fourth Amendment",
+        "explanation": "The rule ensures that government agents adhere to the constitutional requirement for reasonable searches and seizures."
+    },
+    {
+        "id": "G351",
+        "text": "The fundamental power of the Supreme Court, $\\textbf{judicial review}$ (established in $\\textit{Marbury v. Madison}$), allows the Court to:",
+        "image": "",
+        "options": [
+            "Override a presidential veto",
+            "Declare a law or an executive action unconstitutional",
+            "Appoint federal judges",
+            "Write new legislation"
+        ],
+        "answer": "Declare a law or an executive action unconstitutional",
+        "explanation": "This is the Court's most significant check on the legislative and executive branches."
+    },
+    {
+        "id": "G352",
+        "text": "A $\\textbf{concurring opinion}$ written by a Supreme Court justice is one that agrees with the $\\textbf{majority}$ decision but:",
+        "image": "",
+        "options": [
+            "Argues the outcome should be the opposite",
+            "Offers a different legal reasoning for the outcome",
+            "Refers the case back to a lower court",
+            "Calls for a constitutional amendment"
+        ],
+        "answer": "Offers a different legal reasoning for the outcome",
+        "explanation": "A concurring opinion supports the result but uses alternative or supplemental legal justification."
+    },
+    {
+        "id": "G353",
+        "text": "The original purpose of the $\\textbf{Electoral College}$, as designed by the Framers, was to balance the power between the $\\textbf{direct popular vote}$ and:",
+        "image": "",
+        "options": [
+            "The vote of the state governors",
+            "The vote of Congress",
+            "The vote of the Supreme Court",
+            "International opinion"
+        ],
+        "answer": "The vote of Congress",
+        "explanation": "The Framers sought a compromise to ensure a qualified president without relying solely on either the people or the legislature."
+    },
+    {
+        "id": "G354",
+        "text": "The $\\textbf{Budget and Accounting Act of 1921}$ requires the President to submit a comprehensive $\\textbf{budget}$ proposal to Congress every year, which serves as the President's:",
+        "image": "",
+        "options": [
+            "Foreign policy agenda",
+            "Statement of priorities and spending requests",
+            "Annual tax return",
+            "List of vetoed bills"
+        ],
+        "answer": "Statement of priorities and spending requests",
+        "explanation": "The President proposes the budget, but Congress must ultimately approve all funding."
+    },
+    {
+        "id": "G355",
+        "text": "When Congress grants funds to the states with $\\textbf{broad}$ guidelines and $\\textbf{few strings attached}$, allowing states significant policy discretion, this is an example of:",
+        "image": "",
+        "options": [
+            "Block grants",
+            "Categorical grants",
+            "Unfunded mandates",
+            "The Franking Privilege"
+        ],
+        "answer": "Block grants",
+        "explanation": "Block grants are preferred by states because they offer flexibility in spending the money."
+    },
+    {
+        "id": "G356",
+        "text": "The $\\textbf{Constitution}$ requires the President to periodically address Congress on the state of the country, a duty fulfilled today by the:",
+        "image": "",
+        "options": [
+            "Annual Budget Message",
+            "State of the Union Address",
+            "Fireside Chat",
+            "Annual Press Conference"
+        ],
+        "answer": "State of the Union Address",
+        "explanation": "This speech is used by the President to outline policy goals and influence the national agenda."
+    },
+    {
+        "id": "G357",
+        "text": "The primary constitutional duty assigned to the $\\textbf{Vice President}$ is to:",
+        "image": "",
+        "options": [
+            "Serve as Commander-in-Chief of the military",
+            "Preside over the Senate and break tie votes",
+            "Negotiate all foreign treaties",
+            "Oversee the federal bureaucracy"
+        ],
+        "answer": "Preside over the Senate and break tie votes",
+        "explanation": "The VP's role in the Senate is the only explicit power they hold in the Legislative Branch."
+    },
+    {
+        "id": "G358",
+        "text": "The intentional drawing of legislative district lines to maximize the electoral advantage of one political party is known as:",
+        "image": "",
+        "options": [
+            "Apportionment",
+            "Redistricting",
+            "Gerrymandering",
+            "Filibustering"
+        ],
+        "answer": "Gerrymandering",
+        "explanation": "This practice helps create safe seats and contributes to partisan polarization in Congress."
+    },
+    {
+        "id": "G359",
+        "text": "The constitutional principle that grants Congress the $\\textbf{implied power}$ to pass any law considered $\\textbf{necessary and proper}$ for carrying out its enumerated powers is often called the:",
+        "image": "",
+        "options": [
+            "Supremacy Clause",
+            "Commerce Clause",
+            "Elastic Clause",
+            "Full Faith and Credit Clause"
+        ],
+        "answer": "Elastic Clause",
+        "explanation": "The Necessary and Proper Clause (often called the Elastic Clause) has been used to justify a vast expansion of federal power, including the creation of the ACA."
+    },
+    {
+        "id": "G360",
+        "text": "The constitutional structure of the US government, which divides power between the $\\textbf{national}$ and $\\textbf{state}$ governments, is known as:",
+        "image": "",
+        "options": [
+            "Confederalism",
+            "Federalism",
+            "Parliamentary system",
+            "Unitary system"
+        ],
+        "answer": "Federalism",
+        "explanation": "Federalism creates a compound government where power is shared and divided across multiple levels."
+    }
+]

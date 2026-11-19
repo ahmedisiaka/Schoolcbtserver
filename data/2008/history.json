@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Neolithic Revolution}$ marked a fundamental change in human history characterized by:",
+        "image": "",
+        "options": [
+            "The invention of the wheel",
+            "The shift from hunting and gathering to agriculture",
+            "The discovery of fire",
+            "The use of bronze tools"
+        ],
+        "answer": "The shift from hunting and gathering to agriculture",
+        "explanation": "This transition allowed for permanent settlements, population growth, and the eventual development of civilizations."
+    },
+    {
+        "id": "H02",
+        "text": "Who was the ruler of the $\\textbf{Mauryan Empire}$ who converted to Buddhism after the bloody Battle of Kalinga?",
+        "image": "",
+        "options": [
+            "Chandragupta",
+            "Ashoka the Great",
+            "Akbar",
+            "Porus"
+        ],
+        "answer": "Ashoka the Great",
+        "explanation": "Ashoka renounced violence and spread Buddhist principles across Asia through his edicts."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Hagia Sophia}$, originally a cathedral and later a mosque, is a masterpiece of Byzantine architecture located in:",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Istanbul (Constantinople)",
+            "Cairo"
+        ],
+        "answer": "Istanbul (Constantinople)",
+        "explanation": "Built by Emperor Justinian I in the 6th century, it is famous for its massive dome."
+    },
+    {
+        "id": "H04",
+        "text": "Which document was signed by King John in 1215, establishing the principle that everyone is subject to the law?",
+        "image": "",
+        "options": [
+            "The Domesday Book",
+            "The Magna Carta",
+            "The Petition of Right",
+            "The Treaty of Windsor"
+        ],
+        "answer": "The Magna Carta",
+        "explanation": "The 'Great Charter' limited the power of the monarch and laid the groundwork for modern democracy."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Black Death}$ arrived in Europe in the 14th century via trade ships docking in:",
+        "image": "",
+        "options": [
+            "London",
+            "Sicily (Messina)",
+            "Lisbon",
+            "Marseille"
+        ],
+        "answer": "Sicily (Messina)",
+        "explanation": "Geniese galleys from the Crimea brought the plague to Sicily in 1347, from where it spread north."
+    },
+    {
+        "id": "H06",
+        "text": "Who was the French heroine of the $\\textbf{Hundred Years' War}$ burned at the stake in 1431?",
+        "image": "",
+        "options": [
+            "Eleanor of Aquitaine",
+            "Marie Antoinette",
+            "Joan of Arc",
+            "Catherine de' Medici"
+        ],
+        "answer": "Joan of Arc",
+        "explanation": "The 'Maid of Orléans' led the French army to victory but was captured and executed for heresy."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Aztec Empire}$ was conquered by Spanish forces led by:",
+        "image": "",
+        "options": [
+            "Francisco Pizarro",
+            "Hernán Cortés",
+            "Ferdinand Magellan",
+            "Ponce de León"
+        ],
+        "answer": "Hernán Cortés",
+        "explanation": "Cortés arrived in Mexico in 1519 and, with indigenous allies, toppled the Aztec capital Tenochtitlan."
+    },
+    {
+        "id": "H08",
+        "text": "Who wrote the political treatise $\\textbf{The Prince}$?",
+        "image": "",
+        "options": [
+            "Dante Alighieri",
+            "Niccolò Machiavelli",
+            "Thomas More",
+            "Erasmus"
+        ],
+        "answer": "Niccolò Machiavelli",
+        "explanation": "Written in 1513, it describes how to acquire and maintain political power, often through ruthless means."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Peace of Westphalia}$ (1648) brought an end to which major conflict?",
+        "image": "",
+        "options": [
+            "The Hundred Years' War",
+            "The Thirty Years' War",
+            "The War of the Roses",
+            "The English Civil War"
+        ],
+        "answer": "The Thirty Years' War",
+        "explanation": "The treaties established the concept of state sovereignty and ended a devastating religious war in Europe."
+    },
+    {
+        "id": "H10",
+        "text": "Which Russian Tsar is known for Westernizing Russia and founding the city of $\\textbf{St. Petersburg}$?",
+        "image": "",
+        "options": [
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Nicholas II",
+            "Alexander I"
+        ],
+        "answer": "Peter the Great",
+        "explanation": "Peter I modernized the Russian military and government based on Western European models."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Boston Tea Party}$ was a protest against:",
+        "image": "",
+        "options": [
+            "The Stamp Act",
+            "The Tea Act",
+            "The Quartering Act",
+            "The Sugar Act"
+        ],
+        "answer": "The Tea Act",
+        "explanation": "In 1773, colonists dumped tea into Boston Harbor to protest British taxation without representation."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the leader of the $\\textbf{Haitian Revolution}$, the only successful slave revolt in history?",
+        "image": "",
+        "options": [
+            "Simon Bolivar",
+            "Toussaint Louverture",
+            "Jean-Jacques Dessalines",
+            "Che Guevara"
+        ],
+        "answer": "Toussaint Louverture",
+        "explanation": "He led the rebellion against French colonial rule, paving the way for Haiti's independence."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Battle of Trafalgar}$ (1805) was a decisive naval victory for:",
+        "image": "",
+        "options": [
+            "Napoleon Bonaparte",
+            "Horatio Nelson (Britain)",
+            "The Spanish Armada",
+            "The US Navy"
+        ],
+        "answer": "Horatio Nelson (Britain)",
+        "explanation": "Admiral Nelson defeated the combined French and Spanish fleets, ensuring British naval supremacy."
+    },
+    {
+        "id": "H14",
+        "text": "Who invented the $\\textbf{Steam Engine}$ improvements that powered the Industrial Revolution?",
+        "image": "",
+        "options": [
+            "Thomas Edison",
+            "James Watt",
+            "Eli Whitney",
+            "Robert Fulton"
+        ],
+        "answer": "James Watt",
+        "explanation": "Watt's improvements to the Newcomen engine made it efficient enough for widespread industrial use."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Monroe Doctrine}$ (1823) warned European powers against:",
+        "image": "",
+        "options": [
+            "Trading with China",
+            "Interfering in the Western Hemisphere",
+            "Colonizing Africa",
+            "Building a navy"
+        ],
+        "answer": "Interfering in the Western Hemisphere",
+        "explanation": "It stated that the Americas were no longer open to European colonization."
+    },
+    {
+        "id": "H16",
+        "text": "Who was the nurse known as 'The Lady with the Lamp' during the $\\textbf{Crimean War}$?",
+        "image": "",
+        "options": [
+            "Clara Barton",
+            "Florence Nightingale",
+            "Mother Teresa",
+            "Elizabeth Blackwell"
+        ],
+        "answer": "Florence Nightingale",
+        "explanation": "She established the principles of modern nursing while caring for wounded soldiers."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Meiji Restoration}$ in Japan marked the end of the rule of the:",
+        "image": "",
+        "options": [
+            "Emperors",
+            "Shoguns",
+            "Samurai",
+            "Mongols"
+        ],
+        "answer": "Shoguns",
+        "explanation": "In 1868, power was restored to the Emperor, leading to rapid modernization and industrialization."
+    },
+    {
+        "id": "H18",
+        "text": "Which US President issued the $\\textbf{Emancipation Proclamation}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Issued in 1863, it declared all enslaved people in Confederate-held territory to be free."
+    },
+    {
+        "id": "H19",
+        "text": "Who discovered $\\textbf{Radium and Polonium}$ and won two Nobel Prizes?",
+        "image": "",
+        "options": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Louis Pasteur",
+            "Alexander Fleming"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "Curie was a pioneer in the field of radioactivity and the first woman to win a Nobel Prize."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Wright Brothers}$ achieved the first powered flight in:",
+        "image": "",
+        "options": [
+            "1899",
+            "1903",
+            "1912",
+            "1927"
+        ],
+        "answer": "1903",
+        "explanation": "Orville and Wilbur Wright flew the 'Wright Flyer' at Kitty Hawk, North Carolina."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Zimmermann Telegram}$ was a secret diplomatic communication that proposed an alliance between Germany and:",
+        "image": "",
+        "options": [
+            "Russia",
+            "Japan",
+            "Mexico",
+            "Italy"
+        ],
+        "answer": "Mexico",
+        "explanation": "Intercepted in 1917, it helped draw the United States into World War I."
+    },
+    {
+        "id": "H22",
+        "text": "Which revolution overthrew the $\\textbf{Qing Dynasty}$ in 1911?",
+        "image": "",
+        "options": [
+            "The Communist Revolution",
+            "The Xinhai Revolution",
+            "The Cultural Revolution",
+            "The Boxer Rebellion"
+        ],
+        "answer": "The Xinhai Revolution",
+        "explanation": "Led by Sun Yat-sen's supporters, it ended over 2,000 years of imperial rule in China."
+    },
+    {
+        "id": "H23",
+        "text": "Who was the leader of the $\\textbf{Indian Independence Movement}$ known for nonviolent resistance?",
+        "image": "",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah",
+            "Subhas Chandra Bose"
+        ],
+        "answer": "Mahatma Gandhi",
+        "explanation": "Gandhi's philosophy of Satyagraha inspired civil rights movements worldwide."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Manhattan Project}$ was the code name for the development of:",
+        "image": "",
+        "options": [
+            "Radar",
+            "The Atomic Bomb",
+            "The Internet",
+            "Jet Engines"
+        ],
+        "answer": "The Atomic Bomb",
+        "explanation": "The US-led project during WWII resulted in the first nuclear weapons."
+    },
+    {
+        "id": "H25",
+        "text": "Which battle is considered the turning point of World War II in the $\\textbf{European Theater}$?",
+        "image": "",
+        "options": [
+            "Battle of Britain",
+            "Battle of Stalingrad",
+            "Battle of the Bulge",
+            "Battle of El Alamein"
+        ],
+        "answer": "Battle of Stalingrad",
+        "explanation": "The Soviet victory ended the German advance into Russia and marked the beginning of the Allied offensive."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Marshall Plan}$ provided economic aid to help rebuild:",
+        "image": "",
+        "options": [
+            "Japan",
+            "Western Europe",
+            "The Soviet Union",
+            "Latin America"
+        ],
+        "answer": "Western Europe",
+        "explanation": "Enacted in 1948, it aimed to rebuild war-torn regions, remove trade barriers, and prevent the spread of communism."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the revolutionary leader who established the $\\textbf{People's Republic of China}$ in 1949?",
+        "image": "",
+        "options": [
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping",
+            "Sun Yat-sen"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao led the Communist Party of China to victory in the Chinese Civil War."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Cuban Missile Crisis}$ (1962) was a confrontation between the US and:",
+        "image": "",
+        "options": [
+            "China",
+            "The Soviet Union",
+            "Vietnam",
+            "North Korea"
+        ],
+        "answer": "The Soviet Union",
+        "explanation": "It was the closest the Cold War came to escalating into a full-scale nuclear war."
+    },
+    {
+        "id": "H29",
+        "text": "Who was the first human to $\\textbf{orbit the Earth}$?",
+        "image": "",
+        "options": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Yuri Gagarin",
+            "Buzz Aldrin"
+        ],
+        "answer": "Yuri Gagarin",
+        "explanation": "The Soviet cosmonaut completed an orbit aboard Vostok 1 in 1961."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Vietnam War}$ effectively ended with the fall of which city in 1975?",
+        "image": "",
+        "options": [
+            "Hanoi",
+            "Saigon",
+            "Da Nang",
+            "Hue"
+        ],
+        "answer": "Saigon",
+        "explanation": "The capture of the South Vietnamese capital by North Vietnamese forces marked the end of the war."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Camp David Accords}$ (1978) led to a peace treaty between:",
+        "image": "",
+        "options": [
+            "Israel and Egypt",
+            "Israel and Jordan",
+            "The US and USSR",
+            "Iran and Iraq"
+        ],
+        "answer": "Israel and Egypt",
+        "explanation": "Brokered by US President Jimmy Carter, it was the first peace treaty between Israel and an Arab state."
+    },
+    {
+        "id": "H32",
+        "text": "Who was the leader of the $\\textbf{Solidarity}$ movement in Poland?",
+        "image": "",
+        "options": [
+            "Pope John Paul II",
+            "Lech Wałęsa",
+            "Mikhail Gorbachev",
+            "Boris Yeltsin"
+        ],
+        "answer": "Lech Wałęsa",
+        "explanation": "Wałęsa led the first independent trade union in the Soviet bloc and later became President of Poland."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Chernobyl Disaster}$ (1986) was a catastrophic nuclear accident in:",
+        "image": "",
+        "options": [
+            "Russia",
+            "Belarus",
+            "Ukraine",
+            "Kazakhstan"
+        ],
+        "answer": "Ukraine",
+        "explanation": "It occurred at the Chernobyl Nuclear Power Plant in the Ukrainian SSR, releasing massive amounts of radiation."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Fall of the Berlin Wall}$ in 1989 symbolized the end of:",
+        "image": "",
+        "options": [
+            "The European Union",
+            "The Cold War",
+            "World War II",
+            "The Vietnam War"
+        ],
+        "answer": "The Cold War",
+        "explanation": "The wall had divided East and West Berlin since 1961."
+    },
+    {
+        "id": "H35",
+        "text": "Who was the first female $\\textbf{Justice of the US Supreme Court}$?",
+        "image": "",
+        "options": [
+            "Ruth Bader Ginsburg",
+            "Sandra Day O'Connor",
+            "Sonia Sotomayor",
+            "Elena Kagan"
+        ],
+        "answer": "Sandra Day O'Connor",
+        "explanation": "Appointed by President Ronald Reagan, she served from 1981 to 2006."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Rwandan Genocide}$ occurred in which year?",
+        "image": "",
+        "options": [
+            "1984",
+            "1994",
+            "2004",
+            "1974"
+        ],
+        "answer": "1994",
+        "explanation": "During a period of 100 days, hundreds of thousands of Tutsi and moderate Hutus were killed."
+    },
+    {
+        "id": "H37",
+        "text": "Which empire constructed the extensive road network known as the $\\textbf{Inca Trail}$?",
+        "image": "",
+        "options": [
+            "The Aztec Empire",
+            "The Maya Civilization",
+            "The Inca Empire",
+            "The Olmec Civilization"
+        ],
+        "answer": "The Inca Empire",
+        "explanation": "The trail system connected the vast territory of the Inca Empire in the Andes."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Great Fire of London}$ occurred in:",
+        "image": "",
+        "options": [
+            "1066",
+            "1492",
+            "1666",
+            "1812"
+        ],
+        "answer": "1666",
+        "explanation": "The fire gutted the medieval City of London inside the old Roman city wall."
+    },
+    {
+        "id": "H39",
+        "text": "Who painted the ceiling of the $\\textbf{Sistine Chapel}$?",
+        "image": "",
+        "options": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Michelangelo",
+            "Donatello"
+        ],
+        "answer": "Michelangelo",
+        "explanation": "It is a cornerstone work of High Renaissance art."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Panama Canal}$ was officially transferred from US to Panamanian control in:",
+        "image": "",
+        "options": [
+            "1979",
+            "1989",
+            "1999",
+            "2009"
+        ],
+        "answer": "1999",
+        "explanation": "The transfer was the result of the Torrijos-Carter Treaties signed in 1977."
+    }
+]

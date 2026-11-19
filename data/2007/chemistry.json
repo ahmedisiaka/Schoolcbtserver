@@ -1,0 +1,326 @@
+[
+    {
+      "id": "JAMB_C_2007_01",
+      "text": "Which of the following is a mixture?",
+      "image": "",
+      "options": ["Water", "Carbon dioxide", "Air", "Sodium chloride"],
+      "answer": "Air",
+      "explanation": "Air is a mixture of several gases."
+    },
+    {
+      "id": "JAMB_C_2007_02",
+      "text": "Which gas relights a glowing splint?",
+      "image": "",
+      "options": ["Hydrogen", "Oxygen", "Nitrogen", "Chlorine"],
+      "answer": "Oxygen",
+      "explanation": "Oxygen supports combustion."
+    },
+    {
+      "id": "JAMB_C_2007_03",
+      "text": "The atomic number of an element is equal to the number of:",
+      "image": "",
+      "options": ["Neutrons", "Electrons", "Protons", "Nucleons"],
+      "answer": "Protons",
+      "explanation": "Protons determine the atomic number."
+    },
+    {
+      "id": "JAMB_C_2007_04",
+      "text": "A chemical used to test for the presence of starch is:",
+      "image": "",
+      "options": ["Fehling's solution", "Benedict’s reagent", "Iodine solution", "Copper sulphate"],
+      "answer": "Iodine solution",
+      "explanation": "Iodine turns blue-black in presence of starch."
+    },
+    {
+      "id": "JAMB_C_2007_05",
+      "text": "Which of the following is an alkali?",
+      "image": "",
+      "options": ["NH₄Cl", "NaOH", "H₂SO₄", "FeCl₂"],
+      "answer": "NaOH",
+      "explanation": "NaOH is a strong alkali."
+    },
+    {
+      "id": "JAMB_C_2007_06",
+      "text": "What type of bond is present in H₂O?",
+      "image": "",
+      "options": ["Ionic", "Covalent", "Hydrogen bond", "Metallic"],
+      "answer": "Covalent",
+      "explanation": "Oxygen shares electrons with hydrogen."
+    },
+    {
+      "id": "JAMB_C_2007_07",
+      "text": "Which of the following is a property of acids?",
+      "image": "",
+      "options": ["Turn litmus blue", "Taste bitter", "Turn litmus red", "Feel slippery"],
+      "answer": "Turn litmus red",
+      "explanation": "Acids turn blue litmus red."
+    },
+    {
+      "id": "JAMB_C_2007_08",
+      "text": "A catalyst increases the rate of reaction by:",
+      "image": "",
+      "options": ["Increasing pressure", "Increasing temperature", "Lowering activation energy", "Changing equilibrium position"],
+      "answer": "Lowering activation energy",
+      "explanation": "Catalysts provide an easier pathway."
+    },
+    {
+      "id": "JAMB_C_2007_09",
+      "text": "The functional group of alcohols is:",
+      "image": "",
+      "options": ["–COOH", "–OH", "–NH₂", "–CHO"],
+      "answer": "–OH",
+      "explanation": "Alcohols contain hydroxyl groups."
+    },
+    {
+      "id": "JAMB_C_2007_10",
+      "text": "The main component of natural gas is:",
+      "image": "",
+      "options": ["Ethane", "Propane", "Methane", "Butane"],
+      "answer": "Methane",
+      "explanation": "Natural gas is mostly methane."
+    },
+  
+    {
+      "id": "JAMB_C_2007_11",
+      "text": "Which of the following is an endothermic process?",
+      "image": "",
+      "options": ["Freezing of water", "Burning of fuel", "Melting of ice", "Neutralization"],
+      "answer": "Melting of ice",
+      "explanation": "Melting requires heat absorption."
+    },
+    {
+      "id": "JAMB_C_2007_12",
+      "text": "The colour of methyl orange in alkaline solution is:",
+      "image": "",
+      "options": ["Pink", "Yellow", "Red", "Blue"],
+      "answer": "Yellow",
+      "explanation": "Methyl orange turns yellow in bases."
+    },
+    {
+      "id": "JAMB_C_2007_13",
+      "text": "The oxidation state of carbon in CO₂ is:",
+      "image": "",
+      "options": ["+2", "+4", "0", "-2"],
+      "answer": "+4",
+      "explanation": "Carbon has oxidation number +4 in CO₂."
+    },
+    {
+      "id": "JAMB_C_2007_14",
+      "text": "A solution that resists changes in pH is called:",
+      "image": "",
+      "options": ["Indicator", "Buffer", "Salt solution", "Neutral solution"],
+      "answer": "Buffer",
+      "explanation": "Buffers help stabilise pH levels."
+    },
+    {
+      "id": "JAMB_C_2007_15",
+      "text": "Which gas is responsible for the depletion of the ozone layer?",
+      "image": "",
+      "options": ["CO₂", "SO₂", "CFCs", "N₂"],
+      "answer": "CFCs",
+      "explanation": "Chlorofluorocarbons destroy ozone molecules."
+    },
+    {
+      "id": "JAMB_C_2007_16",
+      "text": "The pH of a neutral solution is:",
+      "image": "",
+      "options": ["0", "1", "7", "14"],
+      "answer": "7",
+      "explanation": "Neutral solutions have pH 7."
+    },
+    {
+      "id": "JAMB_C_2007_17",
+      "text": "Temporary hardness of water can be removed by:",
+      "image": "",
+      "options": ["Boiling", "Adding chlorine", "Adding alum", "Distillation"],
+      "answer": "Boiling",
+      "explanation": "Boiling removes bicarbonates."
+    },
+    {
+      "id": "JAMB_C_2007_18",
+      "text": "The process of coating iron with zinc is called:",
+      "image": "",
+      "options": ["Galvanization", "Soldering", "Electroplating", "Rusting"],
+      "answer": "Galvanization",
+      "explanation": "Zinc prevents corrosion of iron."
+    },
+    {
+      "id": "JAMB_C_2007_19",
+      "text": "Which of the following is a noble gas?",
+      "image": "",
+      "options": ["Helium", "Chlorine", "Nitrogen", "Hydrogen"],
+      "answer": "Helium",
+      "explanation": "Noble gases include He, Ne, Ar, Kr…"
+    },
+    {
+      "id": "JAMB_C_2007_20",
+      "text": "Which pollutant causes acid rain?",
+      "image": "",
+      "options": ["CO₂", "SO₂", "N₂", "H₂"],
+      "answer": "SO₂",
+      "explanation": "Sulphur dioxide forms sulphurous acid in rainwater."
+    },
+  
+    {
+      "id": "JAMB_C_2007_21",
+      "text": "A solution that contains more solute than it can normally dissolve at that temperature is:",
+      "image": "",
+      "options": ["Dilute", "Concentrated", "Saturated", "Supersaturated"],
+      "answer": "Supersaturated",
+      "explanation": "Supersaturated solutions contain excess solute."
+    },
+    {
+      "id": "JAMB_C_2007_22",
+      "text": "The bond formed when atoms share electron pairs is:",
+      "image": "",
+      "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "answer": "Covalent",
+      "explanation": "Covalent bonds involve sharing of electrons."
+    },
+    {
+      "id": "JAMB_C_2007_23",
+      "text": "The chemical used to soften permanent hard water is:",
+      "image": "",
+      "options": ["Slaked lime", "Soap", "Sodium carbonate", "Chlorine"],
+      "answer": "Sodium carbonate",
+      "explanation": "Sodium carbonate removes Ca²⁺ and Mg²⁺ ions."
+    },
+    {
+      "id": "JAMB_C_2007_24",
+      "text": "Which gas is used in the manufacture of ammonia?",
+      "image": "",
+      "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Neon"],
+      "answer": "Hydrogen",
+      "explanation": "NH₃ is formed from N₂ and H₂."
+    },
+    {
+      "id": "JAMB_C_2007_25",
+      "text": "The molecular formula of ethanol is:",
+      "image": "",
+      "options": ["C₂H₂", "C₂H₅OH", "C₂H₄", "CH₄"],
+      "answer": "C₂H₅OH",
+      "explanation": "Ethanol contains two carbon atoms and the –OH group."
+    },
+    {
+      "id": "JAMB_C_2007_26",
+      "text": "An element with atomic number 12 belongs to which group?",
+      "image": "",
+      "options": ["Group I", "Group II", "Group III", "Group IV"],
+      "answer": "Group II",
+      "explanation": "Magnesium (12) is an alkaline earth metal."
+    },
+    {
+      "id": "JAMB_C_2007_27",
+      "text": "Which of the following is NOT a greenhouse gas?",
+      "image": "",
+      "options": ["CO₂", "CH₄", "N₂O", "O₂"],
+      "answer": "O₂",
+      "explanation": "Oxygen does not contribute to greenhouse effect."
+    },
+    {
+      "id": "JAMB_C_2007_28",
+      "text": "Which of the following is a reducing agent?",
+      "image": "",
+      "options": ["O₂", "H₂", "Cl₂", "CO₂"],
+      "answer": "H₂",
+      "explanation": "Hydrogen donates electrons and reduces substances."
+    },
+    {
+      "id": "JAMB_C_2007_29",
+      "text": "The general formula of alkanes is:",
+      "image": "",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "answer": "CₙH₂ₙ₊₂",
+      "explanation": "Alkanes are saturated hydrocarbons."
+    },
+    {
+      "id": "JAMB_C_2007_30",
+      "text": "Which substance is used as a drying agent?",
+      "image": "",
+      "options": ["H₂O", "CaCl₂", "NaCl", "CO₂"],
+      "answer": "CaCl₂",
+      "explanation": "Calcium chloride absorbs moisture."
+    },
+  
+    {
+      "id": "JAMB_C_2007_31",
+      "text": "The colour of phenolphthalein in acidic solution is:",
+      "image": "",
+      "options": ["Pink", "Colourless", "Blue", "Red"],
+      "answer": "Colourless",
+      "explanation": "Phenolphthalein is colourless in acids."
+    },
+    {
+      "id": "JAMB_C_2007_32",
+      "text": "Which of the following is an example of a neutral oxide?",
+      "image": "",
+      "options": ["CO", "SO₂", "Na₂O", "CaO"],
+      "answer": "CO",
+      "explanation": "Carbon monoxide is a neutral oxide."
+    },
+    {
+      "id": "JAMB_C_2007_33",
+      "text": "The gas that is least soluble in water is:",
+      "image": "",
+      "options": ["CO₂", "NH₃", "HCl", "O₂"],
+      "answer": "O₂",
+      "explanation": "Oxygen is only slightly soluble in water."
+    },
+    {
+      "id": "JAMB_C_2007_34",
+      "text": "Which of the following is an example of polymerization?",
+      "image": "",
+      "options": ["Fermentation", "Photosynthesis", "Addition reaction", "Combustion"],
+      "answer": "Addition reaction",
+      "explanation": "Polymers form when monomers add up."
+    },
+    {
+      "id": "JAMB_C_2007_35",
+      "text": "What is the colour of copper(II) sulphate crystals?",
+      "image": "",
+      "options": ["Green", "White", "Blue", "Red"],
+      "answer": "Blue",
+      "explanation": "CuSO₄·5H₂O appears blue."
+    },
+    {
+      "id": "JAMB_C_2007_36",
+      "text": "Which of the following is NOT an acid?",
+      "image": "",
+      "options": ["HCl", "H₂SO₄", "HNO₃", "NaOH"],
+      "answer": "NaOH",
+      "explanation": "NaOH is a base."
+    },
+    {
+      "id": "JAMB_C_2007_37",
+      "text": "The term 'allotropy' refers to:",
+      "image": "",
+      "options": ["Isotopes", "Different forms of the same element", "Mixtures", "Compounds"],
+      "answer": "Different forms of the same element",
+      "explanation": "Carbon, oxygen, and sulphur show allotropy."
+    },
+    {
+      "id": "JAMB_C_2007_38",
+      "text": "The chemical formula of washing soda is:",
+      "image": "",
+      "options": ["Na₂CO₃", "NaHCO₃", "Na₂CO₃·10H₂O", "NaCl"],
+      "answer": "Na₂CO₃·10H₂O",
+      "explanation": "Washing soda is hydrated sodium carbonate."
+    },
+    {
+      "id": "JAMB_C_2007_39",
+      "text": "A gas that is lighter than air is:",
+      "image": "",
+      "options": ["CO₂", "NO₂", "NH₃", "Cl₂"],
+      "answer": "NH₃",
+      "explanation": "Ammonia is less dense than air."
+    },
+    {
+      "id": "JAMB_C_2007_40",
+      "text": "The product of the reaction between an acid and a base is:",
+      "image": "",
+      "options": ["Salt and oxygen", "Salt and water", "Water and hydrogen", "Salt and carbon"],
+      "answer": "Salt and water",
+      "explanation": "Neutralization produces salt and water."
+    }
+  ]
+  

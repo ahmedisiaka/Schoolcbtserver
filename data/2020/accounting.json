@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC01",
+        "text": "The $\\textbf{Accounting Equation}$ must always hold true, even after a transaction is recorded. If $\\textbf{Assets}$ increase by $\\$10,000$, Liabilities must either increase or $\\textbf{Equity}$ must increase by the same amount.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Expenses",
+            "Equity",
+            "Dividends"
+        ],
+        "answer": "Equity",
+        "explanation": "The equation $\\textbf{Assets} = \\textbf{Liabilities} + \\textbf{Equity}$ mandates that any change in Assets must be balanced by an equal change in the other side."
+    },
+    {
+        "id": "ACC02",
+        "text": "The $\\textbf{PPP Loan}$ (Paycheck Protection Program), a major 2021 financial event, was generally accounted for as a $\\textbf{Liability}$ until the borrower met the conditions for $\\textbf{Forgiveness}$.",
+        "image": "",
+        "options": [
+            "Equity Contribution",
+            "Revenue",
+            "Liability",
+            "Grant"
+        ],
+        "answer": "Liability",
+        "explanation": "Under GAAP, the loan was initially recorded as debt, which was then removed and recognized as gain or revenue upon confirmation of forgiveness."
+    },
+    {
+        "id": "ACC03",
+        "text": "The $\\textbf{SaaS}$ (Software as a Service) model, prominent in 2021 tech accounting, often involves recognizing revenue $\\textbf{Over Time}$ rather than at a single point in time.",
+        "image": "",
+        "options": [
+            "At contract signing",
+            "At single point in time",
+            "Over Time",
+            "At cash collection"
+        ],
+        "answer": "Over Time",
+        "explanation": "Under ASC 606/IFRS 15, software subscriptions are generally treated as performance obligations satisfied over the service period."
+    },
+    {
+        "id": "ACC04",
+        "text": "The $\\textbf{Straight-Line}$ method of $\\textbf{Depreciation}$ allocates an equal amount of depreciation $\\textbf{Expense}$ to each full year of an asset's useful life.",
+        "image": "",
+        "options": [
+            "Declining-Balance",
+            "Units-of-Production",
+            "Straight-Line",
+            "Sum-of-the-Years'-Digits"
+        ],
+        "answer": "Straight-Line",
+        "explanation": "The formula is $(\\textbf{Cost} - \\textbf{Salvage Value}) / \\textbf{Useful Life}$."
+    },
+    {
+        "id": "ACC05",
+        "text": "The $\\textbf{Quick Ratio}$ ($\\,\\textbf{Acid-Test Ratio}$) excludes $\\textbf{Inventory}$ from current assets because inventory is generally the least $\\textbf{Liquid}$ of a company's current assets.",
+        "image": "",
+        "options": [
+            "Accounts Receivable",
+            "Cash",
+            "Inventory",
+            "Marketable Securities"
+        ],
+        "answer": "Inventory",
+        "explanation": "Quick Ratio is $(\\textbf{Current Assets} - \\textbf{Inventory}) / \\textbf{Current Liabilities}$. It provides a stricter test of immediate liquidity."
+    },
+    {
+        "id": "ACC06",
+        "text": "An increase in $\\textbf{Accounts Payable}$ represents a $\\textbf{Source}$ of cash in the $\\textbf{Operating}$ section of the Statement of Cash Flows (indirect method).",
+        "image": "",
+        "options": [
+            "Use",
+            "Source",
+            "Neutral",
+            "Financing"
+        ],
+        "answer": "Source",
+        "explanation": "An increase in a current liability means the company has postponed a cash payment, temporarily increasing the cash balance."
+    },
+    {
+        "id": "ACC07",
+        "text": "A $\\textbf{Perpetual Inventory System}$ is distinguished by constantly updating inventory records and the $\\textbf{Cost of Goods Sold}$ ($\\,\\textbf{COGS}$) after every $\\textbf{Sale}$.",
+        "image": "",
+        "options": [
+            "At year end only",
+            "At month end only",
+            "After every purchase",
+            "After every sale"
+        ],
+        "answer": "After every sale",
+        "explanation": "The perpetual system maintains continuous records, allowing for better inventory management and immediate COGS tracking."
+    },
+    {
+        "id": "ACC08",
+        "text": "In $\\textbf{Capital Markets}$ (highly scrutinized in 2021), a company issuing $\\textbf{Stock}$ to the public would record the inflow of cash in the $\\textbf{Financing}$ activities section of the Statement of Cash Flows.",
+        "image": "",
+        "options": [
+            "Operating",
+            "Investing",
+            "Financing",
+            "Supplemental"
+        ],
+        "answer": "Financing",
+        "explanation": "Financing activities deal with raising cash from and repaying cash to owners (equity) and creditors (debt)."
+    },
+    {
+        "id": "ACC09",
+        "text": "The $\\textbf{Allowance Method}$ for $\\textbf{Bad Debts}$ requires estimating and recording the $\\textbf{Expense}$ in the same period as the related $\\textbf{Sales}$ ($\\,\\textbf{Matching}$ Principle).",
+        "image": "",
+        "options": [
+            "Direct Write-Off Method",
+            "Cash Method",
+            "Allowance Method",
+            "Factoring Method"
+        ],
+        "answer": "Allowance Method",
+        "explanation": "The allowance method is required by GAAP/IFRS because it ensures that the expense of uncollectible accounts is matched to the revenue it helped generate."
+    },
+    {
+        "id": "ACC10",
+        "text": "The $\\textbf{Amortization}$ of an $\\textbf{Intangible Asset}$ is most similar to the $\\textbf{Depreciation}$ of a tangible $\\textbf{Asset}$.",
+        "image": "",
+        "options": [
+            "Impairment",
+            "Depreciation",
+            "Accretion",
+            "Depletion"
+        ],
+        "answer": "Depreciation",
+        "explanation": "Amortization systematically allocates the cost of an intangible asset (like a patent) over its useful life."
+    },
+    {
+        "id": "ACC11",
+        "text": "The $\\textbf{Times Interest Earned}$ ratio measures a company's ability to meet its $\\textbf{Debt}$ obligations, specifically by dividing $\\textbf{EBIT}$ by $\\textbf{Interest Expense}$.",
+        "image": "",
+        "options": [
+            "EBITDA",
+            "Net Income",
+            "EBIT",
+            "Total Revenue"
+        ],
+        "answer": "EBIT",
+        "explanation": "EBIT stands for Earnings Before Interest and Taxes and represents the income available to cover interest payments."
+    },
+    {
+        "id": "ACC12",
+        "text": "When a company issues bonds at a $\\textbf{Premium}$, the $\\textbf{Coupon Rate}$ is $\\textbf{Higher}$ than the prevailing $\\textbf{Market Interest Rate}$.",
+        "image": "",
+        "options": [
+            "Lower",
+            "Equal to",
+            "Unrelated to",
+            "Higher"
+        ],
+        "answer": "Higher",
+        "explanation": "Investors are willing to pay more than the face value because the bond pays a stated interest rate (coupon) that is more attractive than what they could earn elsewhere."
+    },
+    {
+        "id": "ACC13",
+        "text": "The $\\textbf{FIFO}$ inventory costing method is generally favored during periods of rising $\\textbf{Prices}$ because it results in a $\\textbf{Higher Net Income}$.",
+        "image": "",
+        "options": [
+            "Lower Net Income",
+            "Higher Cost of Goods Sold",
+            "Higher Net Income",
+            "Lower Ending Inventory"
+        ],
+        "answer": "Higher Net Income",
+        "explanation": "FIFO assumes older, cheaper inventory is sold first, resulting in a lower COGS and thus a higher reported net income."
+    },
+    {
+        "id": "ACC14",
+        "text": "$\\textbf{Diluted Earnings Per Share}$ ($\\,\\textbf{Diluted EPS}$) is a conservative measure that includes the potential conversion of $\\textbf{Convertible Securities}$ like options or $\\textbf{Warrants}$.",
+        "image": "",
+        "options": [
+            "Cash Equivalents",
+            "Fixed Assets",
+            "Convertible Securities",
+            "Treasury Stock"
+        ],
+        "answer": "Convertible Securities",
+        "explanation": "Diluted EPS reflects the maximum potential dilution of the company's earnings and is mandatory under GAAP/IFRS if a company has complex capital structure."
+    },
+    {
+        "id": "ACC15",
+        "text": "Under the $\\textbf{Accrual Basis}$, the payment of future rent is initially recorded as an $\\textbf{Asset}$ called $\\textbf{Prepaid Rent}$.",
+        "image": "",
+        "options": [
+            "Expense",
+            "Liability",
+            "Revenue",
+            "Asset"
+        ],
+        "answer": "Asset",
+        "explanation": "Prepaid Rent is an asset because it represents a future benefit (the right to use the property) for which cash has already been paid."
+    },
+    {
+        "id": "ACC16",
+        "text": "A $\\textbf{Relevant Cost}$ (used in $\\textbf{Managerial Accounting}$ decision-making) is a future cost that $\\textbf{Differs}$ among the alternative courses of action.",
+        "image": "",
+        "options": [
+            "Historical Cost",
+            "Sunk Cost",
+            "Relevant Cost",
+            "Fixed Cost"
+        ],
+        "answer": "Relevant Cost",
+        "explanation": "Only relevant costs and relevant revenues should be considered when making tactical decisions like 'make or buy' or 'keep or drop'."
+    },
+    {
+        "id": "ACC17",
+        "text": "A $\\textbf{Favorable}$ $\\textbf{Variance}$ occurs when the $\\textbf{Actual Cost}$ is $\\textbf{Less}$ than the $\\textbf{Standard}$ or budgeted cost.",
+        "image": "",
+        "options": [
+            "Greater than",
+            "Equal to",
+            "Less",
+            "Double"
+        ],
+        "answer": "Less",
+        "explanation": "A favorable variance (e.g., lower material cost) generally suggests that operations were more efficient or less costly than planned."
+    },
+    {
+        "id": "ACC18",
+        "text": "The $\\textbf{Operating Leverage}$ is the extent to which a company's net income reacts to a change in $\\textbf{Sales}$, driven by its proportion of $\\textbf{Fixed Costs}$.",
+        "image": "",
+        "options": [
+            "Variable Costs",
+            "Fixed Costs",
+            "Sunk Costs",
+            "Direct Materials"
+        ],
+        "answer": "Fixed Costs",
+        "explanation": "Companies with high operating leverage (high fixed costs) have greater risk but higher potential profits as sales increase."
+    },
+    {
+        "id": "ACC19",
+        "text": "The $\\textbf{Margin of Safety}$ is the difference between $\\textbf{Actual or Expected Sales}$ and $\\textbf{Break-Even Sales}$.",
+        "image": "",
+        "options": [
+            "Fixed Costs",
+            "Variable Costs",
+            "Actual or Expected Sales",
+            "Target Profit"
+        ],
+        "answer": "Actual or Expected Sales",
+        "explanation": "It indicates how much sales can drop before the company incurs a loss."
+    },
+    {
+        "id": "ACC20",
+        "text": "In $\\textbf{Process Costing}$, costs are tracked for an entire $\\textbf{Department}$ or process, which is typical for products that are $\\textbf{Homogeneous}$ and continuously produced.",
+        "image": "",
+        "options": [
+            "Job",
+            "Customer",
+            "Department",
+            "Individual Unit"
+        ],
+        "answer": "Department",
+        "explanation": "Process costing is used for industries like beverages, petroleum refining, and chemicals, where all units are identical."
+    },
+    {
+        "id": "ACC21",
+        "text": "The primary users of $\\textbf{Managerial Accounting}$ information are $\\textbf{Internal Managers}$ who use the data for planning, controlling, and $\\textbf{Decision-Making}$.",
+        "image": "",
+        "options": [
+            "Investors",
+            "Internal Managers",
+            "Creditors",
+            "Regulators"
+        ],
+        "answer": "Internal Managers",
+        "explanation": "Managerial reports are tailored to internal needs and do not have to adhere to GAAP/IFRS."
+    },
+    {
+        "id": "ACC22",
+        "text": "The $\\textbf{Payback Period}$ in capital budgeting is the time required for the $\\textbf{Cumulative Net Cash Flows}$ to equal the $\\textbf{Initial Investment}$.",
+        "image": "",
+        "options": [
+            "Accounting Rate of Return",
+            "Net Present Value",
+            "Cumulative Net Cash Flows",
+            "Discounted Cash Flows"
+        ],
+        "answer": "Cumulative Net Cash Flows",
+        "explanation": "The payback period is a simple metric, but it ignores the time value of money and cash flows occurring after the payback date."
+    },
+    {
+        "id": "ACC23",
+        "text": "A $\\textbf{Balanced Scorecard}$ is a performance measurement framework that measures performance across four perspectives: Financial, Customer, Internal Process, and $\\textbf{Learning and Growth}$.",
+        "image": "",
+        "options": [
+            "Management Efficiency",
+            "Market Share",
+            "Learning and Growth",
+            "Supplier Relationships"
+        ],
+        "answer": "Learning and Growth",
+        "explanation": "This framework balances traditional financial metrics with non-financial drivers of future performance."
+    },
+    {
+        "id": "ACC24",
+        "text": "In the $\\textbf{Capital Asset Pricing Model}$ ($\\,\\textbf{CAPM}$), the $\\textbf{Beta}$ ($\\,\\beta$) coefficient measures the $\\textbf{Systematic Risk}$ of a security.",
+        "image": "",
+        "options": [
+            "Total Risk",
+            "Diversifiable Risk",
+            "Systematic Risk",
+            "Uncontrollable Risk"
+        ],
+        "answer": "Systematic Risk",
+        "explanation": "Systematic risk is non-diversifiable market risk that cannot be eliminated through diversification."
+    },
+    {
+        "id": "ACC25",
+        "text": "In $\\textbf{Job Order Costing}$, costs are tracked for distinct $\\textbf{Jobs}$ or products, which is typical for customized or $\\textbf{Unique}$ goods.",
+        "image": "",
+        "options": [
+            "Homogeneous",
+            "Continuous",
+            "Mass-Produced",
+            "Unique"
+        ],
+        "answer": "Unique",
+        "explanation": "Examples include custom furniture, construction projects, or specialized service contracts."
+    },
+    {
+        "id": "ACC26",
+        "text": "The $\\textbf{SEC}$ (Securities and Exchange Commission) began requiring disclosures on $\\textbf{Human Capital Management}$ ($\\,\\textbf{HCM}$) in 2021, focusing on metrics like workforce $\\textbf{Turnover}$ and $\\textbf{Skills}$.",
+        "image": "",
+        "options": [
+            "Direct Labor Hours",
+            "Employee Turnover",
+            "Fixed Asset Depreciation",
+            "Sales Revenue"
+        ],
+        "answer": "Employee Turnover",
+        "explanation": "HCM disclosures focus on a company's investment in its people, recognizing that human capital is an increasingly important non-financial asset."
+    },
+    {
+        "id": "ACC27",
+        "text": "$\\textbf{IFRS 16}$ (Leases), fully in effect in 2021, requires lessees to record nearly all $\\textbf{Leases}$ on the $\\textbf{Balance Sheet}$ as a Right-of-Use $\\textbf{Asset}$.",
+        "image": "",
+        "options": [
+            "Operating Leases",
+            "Short-term Leases",
+            "Finance Leases",
+            "Leases"
+        ],
+        "answer": "Leases",
+        "explanation": "This change aimed to increase transparency by bringing billions of dollars in off-balance sheet lease obligations onto the financial statements."
+    },
+    {
+        "id": "ACC28",
+        "text": "The $\\textbf{Tax Cuts and Jobs Act}$ of 2017 (affecting 2021 accounting) permanently reduced the US federal corporate $\\textbf{Income Tax Rate}$ to $\\textbf{21%}$.",
+        "image": "",
+        "options": [
+            "35%",
+            "28%",
+            "21%",
+            "15%"
+        ],
+        "answer": "21%",
+        "explanation": "This legislative change significantly impacted deferred tax calculations and financial statement presentation."
+    },
+    {
+        "id": "ACC29",
+        "text": "Auditors dealing with increased $\\textbf{Fraud Risk}$ during the $\\textbf{COVID-19}$ pandemic (2021) often focused on management $\\textbf{Overrides}$ of controls and manipulated revenue $\\textbf{Estimates}$.",
+        "image": "",
+        "options": [
+            "Inventory Counts",
+            "Fixed Asset Depreciation",
+            "Management Overrides",
+            "Payroll Processing"
+        ],
+        "answer": "Management Overrides",
+        "explanation": "Management overrides are a major risk factor, especially when companies face severe economic pressure to meet earning targets."
+    },
+    {
+        "id": "ACC30",
+        "text": "The concept of $\\textbf{Integrated Reporting}$ (gaining traction in 2021) seeks to connect a company's financial performance with its $\\textbf{Sustainability}$ and $\\textbf{Social}$ performance.",
+        "image": "",
+        "options": [
+            "Tax Compliance",
+            "Sustainability",
+            "Historical Cost",
+            "Internal Audit"
+        ],
+        "answer": "Sustainability",
+        "explanation": "Integrated reports show how a company uses various 'capitals' (financial, intellectual, natural, human) to create value over time."
+    },
+    {
+        "id": "ACC31",
+        "text": "A $\\textbf{Trial Balance}$ is a list of all accounts and their $\\textbf{Balances}$ used to confirm that the total debits $\\textbf{Equal}$ the total $\\textbf{Credits}$.",
+        "image": "",
+        "options": [
+            "Revenues",
+            "Expenses",
+            "Balances",
+            "Assets"
+        ],
+        "answer": "Balances",
+        "explanation": "The trial balance is prepared before making adjusting entries."
+    },
+    {
+        "id": "ACC32",
+        "text": "The $\\textbf{Control Environment}$ (one component of $\\textbf{COSO}$ framework) sets the $\\textbf{Tone}$ of an organization regarding $\\textbf{Internal Controls}$ and ethical standards.",
+        "image": "",
+        "options": [
+            "Risk Assessment",
+            "Control Activities",
+            "Control Environment",
+            "Information and Communication"
+        ],
+        "answer": "Control Environment",
+        "explanation": "It includes management philosophy, organizational structure, and integrity/ethical values."
+    },
+    {
+        "id": "ACC33",
+        "text": "The $\\textbf{Dividends}$ declared and paid by a company are recorded as a reduction of $\\textbf{Retained Earnings}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Liabilities",
+            "Assets",
+            "Retained Earnings"
+        ],
+        "answer": "Retained Earnings",
+        "explanation": "Dividends represent a distribution of past earnings to shareholders."
+    },
+    {
+        "id": "ACC34",
+        "text": "The $\\textbf{Aging of Accounts Receivable}$ method is used to estimate $\\textbf{Bad Debt Expense}$ based on the $\\textbf{Length of Time}$ receivables have been $\\textbf{Outstanding}$.",
+        "image": "",
+        "options": [
+            "Sales Volume",
+            "Industry Average",
+            "Length of Time",
+            "Customer Credit Score"
+        ],
+        "answer": "Length of Time",
+        "explanation": "It applies a higher estimated uncollectible rate to older, more past-due receivables (conservatism)."
+    },
+    {
+        "id": "ACC35",
+        "text": "The $\\textbf{Management Assertion}$ related to ensuring all transactions that occurred are $\\textbf{Recorded}$ is called $\\textbf{Completeness}$.",
+        "image": "",
+        "options": [
+            "Existence",
+            "Valuation",
+            "Completeness",
+            "Rights and Obligations"
+        ],
+        "answer": "Completeness",
+        "explanation": "Auditors test completeness to ensure that no transactions (especially liabilities or expenses) have been omitted."
+    },
+    {
+        "id": "ACC36",
+        "text": "The $\\textbf{Profitability Index}$ (PI) is calculated by dividing the $\\textbf{Present Value}$ of future cash flows by the $\\textbf{Initial Investment}$.",
+        "image": "",
+        "options": [
+            "Future Value",
+            "Net Present Value",
+            "Present Value",
+            "Internal Rate of Return"
+        ],
+        "answer": "Present Value",
+        "explanation": "A PI greater than 1.0 indicates that the project's return is higher than the required rate, making it acceptable."
+    },
+    {
+        "id": "ACC37",
+        "text": "The $\\textbf{Asset Turnover}$ ratio measures how efficiently a company uses its $\\textbf{Assets}$ to generate $\\textbf{Sales Revenue}$.",
+        "image": "",
+        "options": [
+            "Profit Margin",
+            "Debt Ratio",
+            "Asset Turnover",
+            "Inventory Turnover"
+        ],
+        "answer": "Asset Turnover",
+        "explanation": "It is calculated as $\\textbf{Net Sales} / \\textbf{Average Total Assets}$."
+    },
+    {
+        "id": "ACC38",
+        "text": "In $\\textbf{Transfer Pricing}$, the price charged when one $\\textbf{Division}$ of a company sells goods or services to $\\textbf{Another Division}$ is the $\\textbf{Transfer Price}$.",
+        "image": "",
+        "options": [
+            "External Price",
+            "Market Price",
+            "Transfer Price",
+            "Acquisition Cost"
+        ],
+        "answer": "Transfer Price",
+        "explanation": "Transfer prices are critical in multinational corporations for tax and performance evaluation purposes."
+    },
+    {
+        "id": "ACC39",
+        "text": "The $\\textbf{Dilution}$ of $\\textbf{Earnings Per Share}$ occurs when the assumed conversion of securities would $\\textbf{Decrease}$ the $\\textbf{Basic EPS}$ amount.",
+        "image": "",
+        "options": [
+            "Increase",
+            "Maintain",
+            "Decrease",
+            "Double"
+        ],
+        "answer": "Decrease",
+        "explanation": "Diluted EPS is only calculated and reported if it is anti-dilutive (causes a decrease in EPS)."
+    },
+    {
+        "id": "ACC40",
+        "text": "The $\\textbf{IASB}$ (International Accounting Standards Board) is the independent organization that develops and approves $\\textbf{International Financial Reporting Standards}$ ($\\,\\textbf{IFRS}$).",
+        "image": "",
+        "options": [
+            "FASB",
+            "SEC",
+            "IASB",
+            "PCAOB"
+        ],
+        "answer": "IASB",
+        "explanation": "The IASB promotes the use and rigorous application of IFRS globally, which was particularly important in 2021 as more countries adopted the standards."
+    }
+]

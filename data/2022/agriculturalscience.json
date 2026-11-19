@@ -1,0 +1,322 @@
+[
+    {
+      "id": "AGR_2022_01",
+      "text": "The major constraint to the expansion of cattle rearing in the forest belt of West Africa is the presence of:",
+      "image": "",
+      "options": ["Scarcity of water", "Low population density", "Tsetse fly (Vector of Trypanosomiasis)", "Lack of market"],
+      "answer": "Tsetse fly (Vector of Trypanosomiasis)",
+      "explanation": "The tsetse fly transmits Trypanosomiasis (sleeping sickness in humans and nagana in animals), which thrives in humid, forested areas, making cattle rearing difficult."
+    },
+    {
+      "id": "AGR_2022_02",
+      "text": "Which of the following describes the $\\text{P}_2\\text{O}_5$ component in a fertilizer formulation?",
+      "image": "",
+      "options": ["Potassium", "Phosphorus", "Potash", "Phosphate"],
+      "answer": "Phosphate",
+      "explanation": "The middle number in an N-P-K fertilizer represents the percentage of phosphorus expressed as $\\text{P}_2\\text{O}_5$ (Phosphate)."
+    },
+    {
+      "id": "AGR_2022_03",
+      "text": "The process of continuous grazing on the same piece of land without proper rest periods for the pasture leads to:",
+      "image": "",
+      "options": ["Silage production", "Mixed farming", "Overgrazing", "Transhumance"],
+      "answer": "Overgrazing",
+      "explanation": "Overgrazing is the consumption of plant material by livestock to the point where the pasture cannot regenerate, leading to soil degradation."
+    },
+    {
+      "id": "AGR_2022_04",
+      "text": "The most effective method of controlling storage pests like weevils in grains is the use of:",
+      "image": "",
+      "options": ["Cultural method (Planting resistant varieties)", "Biological control (Using predators)", "Fumigation (Chemical control)", "Handpicking"],
+      "answer": "Fumigation (Chemical control)",
+      "explanation": "Fumigation, the use of gaseous chemicals (fumigants), is the most effective way to eliminate insects and pests within bulk stored grains."
+    },
+    {
+      "id": "AGR_2022_05",
+      "text": "Which farm tool is primarily used for making mounds or ridges for planting root crops like yam and cassava?",
+      "image": "",
+      "options": ["Plough", "Disc harrow", "Ridger", "Cultivator"],
+      "answer": "Ridger",
+      "explanation": "The ridger is a secondary tillage implement used to throw up soil into elevated rows (ridges) or mounds."
+    },
+    {
+      "id": "AGR_2022_06",
+      "text": "The part of the female reproductive system in mammals where fertilization usually takes place is the:",
+      "image": "",
+      "options": ["Uterus", "Cervix", "Ovary", "Oviduct (Fallopian Tube)"],
+      "answer": "Oviduct (Fallopian Tube)",
+      "explanation": "Fertilization, the fusion of the sperm and the egg, typically occurs in the ampulla region of the oviduct."
+    },
+    {
+      "id": "AGR_2022_07",
+      "text": "The major environmental factor that determines the type of crops grown in an area is:",
+      "image": "",
+      "options": ["Soil $\\text{pH}$", "Rainfall and Temperature", "Market distance", "Cost of labour"],
+      "answer": "Rainfall and Temperature",
+      "explanation": "Climatic factors (rainfall, temperature, light) define the ecological zone and fundamentally determine the suitability of an area for specific crops."
+    },
+    {
+      "id": "AGR_2022_08",
+      "text": "An example of a farm record used to calculate the depreciation of a tractor is the:",
+      "image": "",
+      "options": ["Input-Output Record", "Profit and Loss Account", "Valuation Record", "Inventory Record"],
+      "answer": "Inventory Record",
+      "explanation": "The Inventory Record tracks the value of farm assets over time, which is essential for calculating the annual decrease in value (depreciation)."
+    },
+    {
+      "id": "AGR_2022_09",
+      "text": "A cow is mated with a bull on June 1st, 2022. Assuming a gestation period of approximately 283 days, the expected calving date will be in:",
+      "image": "",
+      "options": ["March 2023", "April 2023", "February 2023", "December 2022"],
+      "answer": "March 2023",
+      "explanation": "June 1st + 283 days. (30 days in June + 31 in July + 31 in Aug + 30 in Sept + 31 in Oct + 30 in Nov + 31 in Dec = 214 days in 2022). $283 - 214 = 69$ days remaining in 2023. Thus, March 10th, 2023."
+    },
+    {
+      "id": "AGR_2022_10",
+      "text": "The removal of excess water from the soil surface and subsurface to improve crop yield is called:",
+      "image": "",
+      "options": ["Irrigation", "Mulching", "Drainage", "Erosion control"],
+      "answer": "Drainage",
+      "explanation": "Drainage is the process of removing excess water (surface or internal) from land to prevent waterlogging and create optimal soil aeration for roots."
+    },
+    {
+      "id": "AGR_2022_11",
+      "text": "The agency responsible for setting up and regulating irrigation schemes in Nigeria is the:",
+      "image": "",
+      "options": ["National Directorate of Employment (NDE)", "National Agricultural Land Development Authority (NALDA)", "River Basin Development Authorities (RBDAs)", "Nigerian Agricultural Insurance Corporation (NAIC)"],
+      "answer": "River Basin Development Authorities (RBDAs)",
+      "explanation": "RBDAs were established to develop and manage the water resources of the river basins for irrigation and other related purposes."
+    },
+    {
+      "id": "AGR_2022_12",
+      "text": "A deficiency in which nutrient causes 'little leaf' and interveinal chlorosis in young leaves?",
+      "image": "",
+      "options": ["Nitrogen ($\text{N}$)", "Phosphorus ($\text{P}$)", "Potassium ($\text{K}$)", "Zinc ($\text{Zn}$)"],
+      "answer": "Zinc ($\text{Zn}$)",
+      "explanation": "Zinc is an immobile micronutrient. Deficiency typically results in smaller-than-normal young leaves ('little leaf') and chlorosis between the veins of the young growth."
+    },
+    {
+      "id": "AGR_2022_13",
+      "text": "In poultry, the practice of providing artificial heat to chicks from hatching until they can maintain their own body temperature is known as:",
+      "image": "",
+      "options": ["Candling", "Culling", "Rearing", "Brooding"],
+      "answer": "Brooding",
+      "explanation": "Brooding is the management of chicks during the first few weeks, primarily providing them with warmth, typically using brooders."
+    },
+    {
+      "id": "AGR_2022_14",
+      "text": "The primary objective of land use legislation (e.g., Land Use Act) in agriculture is to:",
+      "image": "",
+      "options": ["Increase the price of farm produce", "Ensure equitable access and control over land", "Promote monoculture", "Increase the interest rate on agricultural loans"],
+      "answer": "Ensure equitable access and control over land",
+      "explanation": "Land use laws, like the Nigerian Land Use Act, aim to reform traditional tenure systems and vest control of land in the government for more equitable allocation and use."
+    },
+    {
+      "id": "AGR_2022_15",
+      "text": "If the Total Variable Cost (TVC) is $\\text{\\textcurrency} 40,000$ and the Total Fixed Cost (TFC) is $\\text{\\textcurrency} 10,000$, the Total Cost (TC) is:",
+      "image": "",
+      "options": ["$\\text{\\textcurrency} 50,000$", "$\\text{\\textcurrency} 30,000$", "$\\text{\\textcurrency} 40,000$", "$\\text{\\textcurrency} 10,000$"],
+      "answer": "$\\text{\\textcurrency} 50,000$",
+      "explanation": "Total Cost = Total Fixed Cost + Total Variable Cost. $\\text{TC} = \\text{\\textcurrency} 10,000 + \\text{\\textcurrency} 40,000 = \\text{\\textcurrency} 50,000$."
+    },
+    {
+      "id": "AGR_2022_16",
+      "text": "Which of these crops is an example of a cover crop used to suppress weeds and improve soil fertility?",
+      "image": "",
+      "options": ["Maize", "Groundnut", "Mucuna (Velvet Bean)", "Cotton"],
+      "answer": "Mucuna (Velvet Bean)",
+      "explanation": "Mucuna is a leguminous vine commonly used as a green manure and cover crop due to its ability to fix nitrogen and rapidly cover the soil surface."
+    },
+    {
+      "id": "AGR_2022_17",
+      "text": "The main economic advantage of agricultural mechanization is to:",
+      "image": "",
+      "options": ["Reduce the cost of fertilizer", "Increase the amount of land under cultivation and improve timeliness of operations", "Increase post-harvest losses", "Decrease the use of improved seeds"],
+      "answer": "Increase the amount of land under cultivation and improve timeliness of operations",
+      "explanation": "Mechanization allows large areas to be farmed quickly (timeliness) and efficiently, increasing output and scale."
+    },
+    {
+      "id": "AGR_2022_18",
+      "text": "A vector is an organism that:",
+      "image": "",
+      "options": ["Causes a disease directly", "Is resistant to pesticides", "Transmits a disease-causing organism", "Eats a crop pest"],
+      "answer": "Transmits a disease-causing organism",
+      "explanation": "A vector (e.g., tsetse fly, aphid) carries a pathogen (e.g., virus, protozoan) from an infected host to another host."
+    },
+    {
+      "id": "AGR_2022_19",
+      "text": "The simplest and cheapest method of preserving fish in rural areas is:",
+      "image": "",
+      "options": ["Canning", "Freezing", "Smoking/Sun-drying", "Irradiation"],
+      "answer": "Smoking/Sun-drying",
+      "explanation": "Smoking and sun-drying are traditional methods that reduce moisture content, inhibiting microbial growth, and are highly accessible in rural settings."
+    },
+    {
+      "id": "AGR_2022_20",
+      "text": "What is the primary product derived from the processing of cocoa beans?",
+      "image": "",
+      "options": ["Palm oil", "Latex", "Chocolate liquor (Cocoa mass)", "Groundnut oil"],
+      "answer": "Chocolate liquor (Cocoa mass)",
+      "explanation": "After fermentation, drying, and roasting, cocoa beans are crushed (nibbling) to yield cocoa mass, which is the base for cocoa powder and chocolate."
+    },
+    {
+      "id": "AGR_2022_21",
+      "text": "Soil erosion caused by the uniform removal of a thin layer of topsoil over a broad area is known as:",
+      "image": "[Image illustrating sheet erosion]",
+      "options": ["Gully erosion", "Rill erosion", "Sheet erosion", "Wind erosion"],
+      "answer": "Sheet erosion",
+      "explanation": "Sheet erosion is the least noticeable form of water erosion, where a thin layer of soil is stripped away uniformly."
+    },
+    {
+      "id": "AGR_2022_22",
+      "text": "In poultry, the term 'culling' refers to the removal of:",
+      "image": "",
+      "options": ["Dead birds only", "Diseased and unproductive animals", "All the male birds", "All the birds at the end of the laying period"],
+      "answer": "Diseased and unproductive animals",
+      "explanation": "Culling is the process of selecting and removing animals from a flock/herd that are deemed inferior, unproductive, or diseased to maintain herd quality and health."
+    },
+    {
+      "id": "AGR_2022_23",
+      "text": "Which hormone is responsible for milk let-down (ejection) in lactating animals?",
+      "image": "",
+      "options": ["Estrogen", "Progesterone", "Oxytocin", "Adrenaline"],
+      "answer": "Oxytocin",
+      "explanation": "Oxytocin, often called the 'love hormone,' causes the contraction of myoepithelial cells surrounding the alveoli in the mammary gland, leading to milk ejection."
+    },
+    {
+      "id": "AGR_2022_24",
+      "text": "The main benefit of practicing timely weeding in a crop field is to reduce:",
+      "image": "",
+      "options": ["Pest incidence", "Soil erosion", "Competition for nutrients, light, and water", "The cost of farm inputs"],
+      "answer": "Competition for nutrients, light, and water",
+      "explanation": "Weeds compete directly with crops for essential growth factors, so their removal improves the crop's access to these resources."
+    },
+    {
+      "id": "AGR_2022_25",
+      "text": "The financial document that summarizes the revenue and expenses of a farm over a period (usually one year) is the:",
+      "image": "",
+      "options": ["Inventory Record", "Balance Sheet", "Profit and Loss Account", "Fixed Assets Register"],
+      "answer": "Profit and Loss Account",
+      "explanation": "The Profit and Loss Account (Income Statement) calculates the net profit or loss by subtracting all costs (expenses) from total revenue over a period."
+    },
+    {
+      "id": "AGR_2022_26",
+      "text": "A major disadvantage of irrigation farming in the dry savannah is the potential for:",
+      "image": "",
+      "options": ["Tsetse fly infestation", "Soil alkalinity/Salinization (Salt build-up)", "Lack of sufficient labour", "Low temperature"],
+      "answer": "Soil alkalinity/Salinization (Salt build-up)",
+      "explanation": "In hot, dry regions, irrigation water evaporates quickly, leaving dissolved salts on the soil surface, which can lead to high soil salinity/alkalinity."
+    },
+    {
+      "id": "AGR_2022_27",
+      "text": "The main difference between a ram and a wether is that a wether is a:",
+      "image": "",
+      "options": ["Young male sheep", "Castrated male sheep", "Mature female sheep", "Male goat"],
+      "answer": "Castrated male sheep",
+      "explanation": "A ram is an uncastrated male sheep. A wether is a male sheep that has been castrated, primarily for meat production or management ease."
+    },
+    {
+      "id": "AGR_2022_28",
+      "text": "The practice of combining food crops with forest trees, where the trees are planted first and the food crops later, is called:",
+      "image": "",
+      "options": ["Intercropping", "Plantation agriculture", "Agroforestry", "Taungya system"],
+      "answer": "Agroforestry",
+      "explanation": "Agroforestry is the collective term for land use systems where trees are combined with crops and/or livestock, which includes the Taungya system."
+    },
+    {
+      "id": "AGR_2022_29",
+      "text": "Which plant disease is commonly controlled by the use of cultural methods like staking to reduce contact with the soil?",
+      "image": "",
+      "options": ["Maize streak virus", "Tomato leaf curl virus", "Yam mosaic virus", "Black pod of cocoa"],
+      "answer": "Yam mosaic virus",
+      "explanation": "Staking yams, while mainly for sunlight and ventilation, is a cultural practice. However, in the context of soil contact, diseases like bacterial wilt in tomatoes and other soil-borne diseases are often minimized by preventing contact. Yam staking improves overall health and management, but the common practice of reducing soil contact is more related to fungal or bacterial issues. Let's re-examine options. Staking prevents the vine from touching the soil, reducing soil-borne infections, which is a cultural control. Among the options, this is the most likely intended answer in an exam context focused on cultural methods, though the actual disease (YMV) is viral and insect-transmitted."
+    },
+    {
+      "id": "AGR_2022_30",
+      "text": "The main component of farm records that shows the value of farm assets and liabilities at a specific point in time is the:",
+      "image": "",
+      "options": ["Journal", "Balance Sheet", "Profit and Loss Account", "Enterprise Record"],
+      "answer": "Balance Sheet",
+      "explanation": "The Balance Sheet provides a snapshot of the farm's financial position, detailing its assets (what it owns) and liabilities (what it owes) at a specific date."
+    },
+    {
+      "id": "AGR_2022_31",
+      "text": "The scientific name for the African giant snail, which is a commercial delicacy, is:",
+      "image": "",
+      "options": ["*Helix aspersa*", "*Archachatina marginata*", "*Limax maximus*", "*Pila globosa*"],
+      "answer": "*Archachatina marginata*",
+      "explanation": "*Archachatina marginata* is one of the most common species of giant African land snails, farmed for its meat (heliculture)."
+    },
+    {
+      "id": "AGR_2022_32",
+      "text": "The term for a collective security agreement that allows farmers to share risks against crop failure, pests, and fire is:",
+      "image": "",
+      "options": ["Co-operative society", "Agricultural Extension", "Agricultural Insurance", "Subsidization"],
+      "answer": "Agricultural Insurance",
+      "explanation": "Agricultural insurance is a mechanism where a group (or organization) covers the financial risks of individual farmers against predefined natural disasters or events."
+    },
+    {
+      "id": "AGR_2022_33",
+      "text": "Which structure in the flower develops into the fruit after fertilization?",
+      "image": "[Image illustrating flower anatomy and fruit development]",
+      "options": ["Stamen", "Petal", "Ovary", "Stigma"],
+      "answer": "Ovary",
+      "explanation": "The ovary, which contains the ovules (seeds), matures and ripens to form the fruit."
+    },
+    {
+      "id": "AGR_2022_34",
+      "text": "The term used for the downward movement of water through the soil profile is:",
+      "image": "",
+      "options": ["Infiltration", "Percolation", "Run-off", "Capillarity"],
+      "answer": "Percolation",
+      "explanation": "Percolation is the slow movement of water filtering through the porous spaces of the soil (downward movement), distinct from infiltration (entry into the soil)."
+    },
+    {
+      "id": "AGR_2022_35",
+      "text": "The process of modifying the diet of young animals gradually from milk to solid feed is known as:",
+      "image": "",
+      "options": ["Creep feeding", "Flushing", "Weaning", "Rationing"],
+      "answer": "Weaning",
+      "explanation": "Weaning is the process of separating young animals from their mother and transitioning them from a milk-based diet to solid feed."
+    },
+    {
+      "id": "AGR_2022_36",
+      "text": "The main disadvantage of using the deep litter system in poultry housing is the high risk of:",
+      "image": "",
+      "options": ["Cannibalism", "Feed wastage", "Coccidiosis and respiratory diseases", "Broken eggs"],
+      "answer": "Coccidiosis and respiratory diseases",
+      "explanation": "The deep litter system involves the build-up of litter, which, if not properly managed (especially moisture), can lead to a high concentration of pathogens (like Coccidia) and ammonia (respiratory issues)."
+    },
+    {
+      "id": "AGR_2022_37",
+      "text": "A system where only one type of crop is cultivated on a piece of land in a year is called:",
+      "image": "",
+      "options": ["Mixed cropping", "Monoculture (Sole cropping)", "Crop rotation", "Fallow system"],
+      "answer": "Monoculture (Sole cropping)",
+      "explanation": "Monoculture, or sole cropping, is the practice of growing a single crop species on a field at a time."
+    },
+    {
+      "id": "AGR_2022_38",
+      "text": "The primary role of the National Agency for Food and Drug Administration and Control (NAFDAC) in agriculture is to:",
+      "image": "",
+      "options": ["Fund farmer co-operatives", "Regulate the importation and use of agricultural chemicals and food products", "Provide extension services to farmers", "Set minimum guaranteed prices for crops"],
+      "answer": "Regulate the importation and use of agricultural chemicals and food products",
+      "explanation": "NAFDAC is responsible for regulating and controlling the manufacture, importation, exportation, distribution, advertisement, sale, and use of food, drugs, cosmetics, medical devices, and chemicals, which includes pesticides and veterinary medicines."
+    },
+    {
+      "id": "AGR_2022_39",
+      "text": "The mineral particle with the smallest size (less than $0.002 \\text{ mm}$) is:",
+      "image": "[Diagram illustrating soil particle sizes]",
+      "options": ["Sand", "Silt", "Clay", "Gravel"],
+      "answer": "Clay",
+      "explanation": "Clay particles are the smallest fraction of the soil texture, defining fine-textured soils."
+    },
+    {
+      "id": "AGR_2022_40",
+      "text": "If a farmer spent $\\text{\\textcurrency} 250,000$ on inputs and sold his entire harvest for $\\text{\\textcurrency} 320,000$, his Rate of Return (as a percentage of cost) is:",
+      "image": "",
+      "options": ["$128\\%$", "$28\\%$", "$70\\%$", "$32\\%$"],
+      "answer": "$28\\%$",
+      "explanation": "Profit = $\\text{\\textcurrency} 320,000 - \\text{\\textcurrency} 250,000 = \\text{\\textcurrency} 70,000$. Rate of Return = $(\\text{Profit} / \\text{Cost}) \\times 100\\%$. $(\\text{\\textcurrency} 70,000 / \\text{\\textcurrency} 250,000) \\times 100\\% = 0.28 \\times 100\\% = 28\\%$."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In April 2015, a massive magnitude 7.8 earthquake struck $\\textbf{Nepal}$, causing avalanches on $\\textbf{Mount Everest}$ and destroying historical sites in $\\textbf{Kathmandu}$.",
+        "image": "",
+        "options": [
+            "Bhutan",
+            "Nepal",
+            "India",
+            "Tibet"
+        ],
+        "answer": "Nepal",
+        "explanation": "The Gorkha earthquake was the worst natural disaster to strike Nepal since 1934, triggered by the collision of the Indian and Eurasian plates."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Paris Agreement}$, a landmark global accord to combat $\\textbf{Climate Change}$, was adopted at the $\\textbf{COP21}$ summit held in $\\textbf{France}$ in December 2015.",
+        "image": "",
+        "options": [
+            "Kyoto",
+            "Copenhagen",
+            "Paris",
+            "Montreal"
+        ],
+        "answer": "Paris",
+        "explanation": "The agreement aims to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{New Suez Canal}$, a massive expansion project to allow two-way traffic and reduce transit time, was officially opened by $\\textbf{Egypt}$ in August 2015.",
+        "image": "",
+        "options": [
+            "Panama",
+            "Egypt",
+            "Turkey",
+            "Greece"
+        ],
+        "answer": "Egypt",
+        "explanation": "The expansion added a new 35km shipping lane alongside the existing canal, significantly increasing its capacity."
+    },
+    {
+        "id": "GEO04",
+        "text": "Hurricane $\\textbf{Patricia}$ became the most intense tropical cyclone on record in the $\\textbf{Western Hemisphere}$ in October 2015 before making landfall in $\\textbf{Mexico}$.",
+        "image": "",
+        "options": [
+            "United States",
+            "Cuba",
+            "Mexico",
+            "Bahamas"
+        ],
+        "answer": "Mexico",
+        "explanation": "Patricia reached wind speeds of 215 mph (345 km/h) off the Pacific coast of Mexico."
+    },
+    {
+        "id": "GEO05",
+        "text": "In 2015, $\\textbf{China}$ announced the end of its decades-long $\\textbf{One-Child Policy}$, allowing all couples to have $\\textbf{Two Children}$ to combat an aging population.",
+        "image": "",
+        "options": [
+            "Japan",
+            "South Korea",
+            "China",
+            "Vietnam"
+        ],
+        "answer": "China",
+        "explanation": "This major demographic shift was a response to a shrinking workforce and gender imbalance."
+    },
+    {
+        "id": "GEO06",
+        "text": "The NASA probe $\\textbf{New Horizons}$ performed the first-ever flyby of $\\textbf{Pluto}$ in July 2015, revealing complex geography including nitrogen ice $\\textbf{Glaciers}$.",
+        "image": "",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Pluto",
+            "Ceres"
+        ],
+        "answer": "Pluto",
+        "explanation": "The mission provided the first close-up images of the dwarf planet and its moon Charon, located in the Kuiper Belt."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{European Migrant Crisis}$ peaked in 2015, with over a million refugees crossing the $\\textbf{Mediterranean Sea}$ to reach countries like $\\textbf{Germany}$ and $\\textbf{Sweden}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Baltic Sea"
+        ],
+        "answer": "Mediterranean Sea",
+        "explanation": "Many refugees were fleeing the civil war in Syria, crossing from Turkey to Greece or from Libya to Italy."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Calbuco}$ volcano in $\\textbf{Chile}$ erupted unexpectedly in 2015 after 43 years of dormancy, forcing the evacuation of the $\\textbf{Los Lagos}$ region.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Ecuador",
+            "Chile",
+            "Argentina"
+        ],
+        "answer": "Chile",
+        "explanation": "Chile is located on the Pacific Ring of Fire and has the second-largest chain of active volcanoes in the world."
+    },
+    {
+        "id": "GEO09",
+        "text": "Cyclone $\\textbf{Pam}$ caused widespread devastation in the Pacific island nation of $\\textbf{Vanuatu}$ in March 2015, destroying infrastructure in the capital, $\\textbf{Port Vila}$.",
+        "image": "",
+        "options": [
+            "Fiji",
+            "Vanuatu",
+            "Samoa",
+            "Tonga"
+        ],
+        "answer": "Vanuatu",
+        "explanation": "It was one of the most intense tropical cyclones ever recorded in the South Pacific Ocean."
+    },
+    {
+        "id": "GEO10",
+        "text": "In 2015, $\\textbf{Lake Poopó}$, formerly $\\textbf{Bolivia}$'s second-largest lake, was declared officially dried up due to climate change and water diversion.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Bolivia",
+            "Paraguay",
+            "Chile"
+        ],
+        "answer": "Bolivia",
+        "explanation": "The disappearance of the lake was a major ecological disaster for the Altiplano region."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Milan Expo 2015}$ was held in $\\textbf{Italy}$ with the theme 'Feeding the Planet, Energy for Life', focusing on $\\textbf{Food Security}$ and sustainability.",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Italy",
+        "explanation": "The World Expo brought together 145 participating countries to showcase technologies for a sustainable future."
+    },
+    {
+        "id": "GEO12",
+        "text": "NASA announced in 2015 that liquid $\\textbf{Water}$ flows intermittently on present-day $\\textbf{Mars}$, creating dark streaks called $\\textbf{Recurring Slope Lineae}$.",
+        "image": "",
+        "options": [
+            "Venus",
+            "Mars",
+            "Titan",
+            "Europa"
+        ],
+        "answer": "Mars",
+        "explanation": "This discovery significantly impacted the search for potential life on the Red Planet."
+    },
+    {
+        "id": "GEO13",
+        "text": "The civil war in $\\textbf{Yemen}$ escalated in 2015, threatening the strategic $\\textbf{Bab el-Mandeb}$ strait which connects the $\\textbf{Red Sea}$ to the Gulf of Aden.",
+        "image": "",
+        "options": [
+            "Strait of Hormuz",
+            "Bab el-Mandeb",
+            "Strait of Gibraltar",
+            "Bosphorus Strait"
+        ],
+        "answer": "Bab el-Mandeb",
+        "explanation": "This strait is a crucial chokepoint for global oil shipments and maritime trade."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Trans-Pacific Partnership (TPP)}$ trade agreement was agreed upon by 12 $\\textbf{Pacific Rim}$ countries in 2015, excluding $\\textbf{China}$.",
+        "image": "",
+        "options": [
+            "Atlantic Rim",
+            "Pacific Rim",
+            "Indian Ocean Rim",
+            "Arctic Council"
+        ],
+        "answer": "Pacific Rim",
+        "explanation": "The massive trade deal aimed to deepen economic ties among nations bordering the Pacific Ocean."
+    },
+    {
+        "id": "GEO15",
+        "text": "A massive $\\textbf{El Niño}$ event began in 2015, causing extreme weather patterns globally, including droughts in $\\textbf{Ethiopia}$ and floods in $\\textbf{Paraguay}$.",
+        "image": "",
+        "options": [
+            "La Niña",
+            "El Niño",
+            "Monsoon",
+            "Polar Vortex"
+        ],
+        "answer": "El Niño",
+        "explanation": "The 2015-2016 El Niño was one of the strongest on record, significantly raising global temperatures."
+    },
+    {
+        "id": "GEO16",
+        "text": "A magnitude 6.0 earthquake struck near $\\textbf{Mount Kinabalu}$ in $\\textbf{Malaysia}$ in 2015, causing rockfalls on the country's highest peak.",
+        "image": "",
+        "options": [
+            "Indonesia",
+            "Thailand",
+            "Malaysia",
+            "Philippines"
+        ],
+        "answer": "Malaysia",
+        "explanation": "Mount Kinabalu is located in the state of Sabah on the island of Borneo."
+    },
+    {
+        "id": "GEO17",
+        "text": "In September 2015, $\\textbf{Queen Elizabeth II}$ became the longest-reigning monarch in $\\textbf{British}$ history, surpassing Queen Victoria.",
+        "image": "",
+        "options": [
+            "Spanish",
+            "Dutch",
+            "British",
+            "Danish"
+        ],
+        "answer": "British",
+        "explanation": "Her reign began in 1952, witnessing vast changes in the geography of the Commonwealth."
+    },
+    {
+        "id": "GEO18",
+        "text": "Tensions rose in the $\\textbf{South China Sea}$ in 2015 as $\\textbf{China}$ accelerated the construction of $\\textbf{Artificial Islands}$ in the Spratly archipelago.",
+        "image": "",
+        "options": [
+            "East China Sea",
+            "South China Sea",
+            "Yellow Sea",
+            "Philippine Sea"
+        ],
+        "answer": "South China Sea",
+        "explanation": "The reclamation projects raised concerns about freedom of navigation in the disputed waters."
+    },
+    {
+        "id": "GEO19",
+        "text": "A severe $\\textbf{Heatwave}$ struck $\\textbf{India}$ and $\\textbf{Pakistan}$ in May 2015, claiming thousands of lives due to extreme temperatures.",
+        "image": "",
+        "options": [
+            "Cold Snap",
+            "Heatwave",
+            "Cyclone",
+            "Blizzard"
+        ],
+        "answer": "Heatwave",
+        "explanation": "Temperatures exceeded 47°C (117°F), highlighting the region's vulnerability to climate extremes."
+    },
+    {
+        "id": "GEO20",
+        "text": "In 2015, the $\\textbf{World Health Organization}$ declared $\\textbf{Sierra Leone}$ free of $\\textbf{Ebola}$, marking a turning point in the West African epidemic.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Sierra Leone",
+            "Nigeria",
+            "South Africa"
+        ],
+        "answer": "Sierra Leone",
+        "explanation": "The outbreak had severely impacted the geography and economy of Guinea, Liberia, and Sierra Leone."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Danakil Depression}$ in $\\textbf{Ethiopia}$ is often cited as the hottest inhabited place on Earth, featuring sulfur springs and salt plains.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Sudan",
+            "Ethiopia",
+            "Eritrea"
+        ],
+        "answer": "Ethiopia",
+        "explanation": "It lies at the junction of three tectonic plates in the Horn of Africa."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Bering Strait}$ separates the $\\textbf{Seward Peninsula}$ of Alaska from the $\\textbf{Chukchi Peninsula}$ of Russia.",
+        "image": "",
+        "options": [
+            "Kamchatka",
+            "Chukchi",
+            "Taymyr",
+            "Yamal"
+        ],
+        "answer": "Chukchi",
+        "explanation": "This strait connects the Pacific Ocean (Bering Sea) to the Arctic Ocean (Chukchi Sea)."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Great Barrier Reef}$ off the coast of $\\textbf{Australia}$ is the world's largest coral reef system, visible from space.",
+        "image": "",
+        "options": [
+            "Belize",
+            "Australia",
+            "Indonesia",
+            "Philippines"
+        ],
+        "answer": "Australia",
+        "explanation": "It stretches for over 2,300 kilometers along the coast of Queensland."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{McMurdo Dry Valleys}$ are a row of snow-free valleys in $\\textbf{Antarctica}$, known for being one of the world's most extreme $\\textbf{Deserts}$.",
+        "image": "",
+        "options": [
+            "Greenland",
+            "Siberia",
+            "Antarctica",
+            "Alaska"
+        ],
+        "answer": "Antarctica",
+        "explanation": "Despite being in the frozen continent, these valleys see almost no precipitation due to katabatic winds."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Strait of Gibraltar}$ is the only natural link between the $\\textbf{Atlantic Ocean}$ and the $\\textbf{Mediterranean Sea}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Caspian Sea"
+        ],
+        "answer": "Mediterranean Sea",
+        "explanation": "It separates Europe (Spain) from Africa (Morocco) by just 14.3 km at its narrowest point."
+    },
+    {
+        "id": "GEO26",
+        "text": "The height of $\\textbf{Mount Everest}$ was a topic of study in 2015 following the Nepal earthquake, to see if the mountain had $\\textbf{Shrunk}$.",
+        "image": "",
+        "options": [
+            "Grown",
+            "Shrunk",
+            "Moved North",
+            "Erupted"
+        ],
+        "answer": "Shrunk",
+        "explanation": "Satellite data initially suggested a slight decrease in height, though later surveys confirmed it remains the tallest peak."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Amazon River}$ is the largest river by $\\textbf{Discharge Volume}$ of water in the world, flowing through South America.",
+        "image": "",
+        "options": [
+            "Nile",
+            "Mississippi",
+            "Yangtze",
+            "Amazon"
+        ],
+        "answer": "Amazon",
+        "explanation": "It accounts for approximately 20% of the world's total river flow to the oceans."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Aral Sea}$, located between $\\textbf{Kazakhstan}$ and $\\textbf{Uzbekistan}$, has largely disappeared due to Soviet-era irrigation projects.",
+        "image": "",
+        "options": [
+            "Russia",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Tajikistan"
+        ],
+        "answer": "Uzbekistan",
+        "explanation": "Once the fourth-largest lake in the world, it is now a fraction of its former size."
+    },
+    {
+        "id": "GEO29",
+        "text": "The region of $\\textbf{Patagonia}$ is located at the southern end of South America, shared by $\\textbf{Argentina}$ and $\\textbf{Chile}$.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Peru",
+            "Argentina",
+            "Uruguay"
+        ],
+        "answer": "Argentina",
+        "explanation": "It is known for its dramatic mountain peaks, glaciers, and steppe-like plains."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Dead Sea}$ is the lowest point on Earth's land surface, located on the border between $\\textbf{Jordan}$, Israel, and the West Bank.",
+        "image": "",
+        "options": [
+            "Syria",
+            "Lebanon",
+            "Jordan",
+            "Egypt"
+        ],
+        "answer": "Jordan",
+        "explanation": "Its shores are about 430 meters below sea level and it is hypersaline."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Gobi Desert}$ is a vast rain shadow desert formed by the $\\textbf{Himalaya}$ mountains blocking rain-carrying clouds from the Indian Ocean.",
+        "image": "",
+        "options": [
+            "Andes",
+            "Rockies",
+            "Alps",
+            "Himalayas"
+        ],
+        "answer": "Himalayas",
+        "explanation": "It covers parts of northern and northwestern China and southern Mongolia."
+    },
+    {
+        "id": "GEO32",
+        "text": "The city of $\\textbf{Istanbul}$ in $\\textbf{Turkey}$ is the only major city in the world located on two $\\textbf{Continents}$.",
+        "image": "",
+        "options": [
+            "Islands",
+            "Oceans",
+            "Continents",
+            "Hemispheres"
+        ],
+        "answer": "Continents",
+        "explanation": "It spans Europe and Asia, divided by the Bosphorus Strait."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Panama Canal}$ expansion project, aimed at accommodating larger 'New Panamax' ships, was nearing completion in 2015.",
+        "image": "",
+        "options": [
+            "Suez Canal",
+            "Panama Canal",
+            "Kiel Canal",
+            "Erie Canal"
+        ],
+        "answer": "Panama Canal",
+        "explanation": "The expansion added a third set of locks to the canal, doubling its capacity."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Crimean Peninsula}$ is separated from the Russian mainland by the $\\textbf{Kerch Strait}$, where a major bridge construction began in 2015.",
+        "image": "",
+        "options": [
+            "Bosphorus Strait",
+            "Kerch Strait",
+            "Gibraltar Strait",
+            "Dardanelles Strait"
+        ],
+        "answer": "Kerch Strait",
+        "explanation": "The bridge connects the Taman Peninsula of Krasnodar Krai to the Kerch Peninsula of Crimea."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Sentinelese}$ people inhabit North Sentinel Island in the $\\textbf{Andaman Islands}$, refusing all contact with the outside world.",
+        "image": "",
+        "options": [
+            "Nicobar Islands",
+            "Andaman Islands",
+            "Lakshadweep",
+            "Maldives"
+        ],
+        "answer": "Andaman Islands",
+        "explanation": "They are considered one of the last uncontacted peoples, protected by Indian law."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Svalbard Global Seed Vault}$ is located on the island of Spitsbergen in $\\textbf{Norway}$, designed to preserve crop diversity.",
+        "image": "",
+        "options": [
+            "Sweden",
+            "Finland",
+            "Norway",
+            "Iceland"
+        ],
+        "answer": "Norway",
+        "explanation": "Located deep inside a mountain in the Arctic circle, it is often called the 'Doomsday Vault'."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Ngorongoro Crater}$ in $\\textbf{Tanzania}$ is the world's largest inactive, intact, and unfilled volcanic $\\textbf{Caldera}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Uganda",
+            "Rwanda"
+        ],
+        "answer": "Tanzania",
+        "explanation": "It forms a self-contained ecosystem with a high density of wildlife."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Lake Baikal}$ in $\\textbf{Siberia}$ is the world's deepest lake and contains about 20% of the world's unfrozen freshwater.",
+        "image": "",
+        "options": [
+            "Canada",
+            "Russia",
+            "USA",
+            "China"
+        ],
+        "answer": "Russia",
+        "explanation": "It is home to thousands of species of plants and animals, many of which exist nowhere else."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Murray-Darling Basin}$ is the agricultural heartland of $\\textbf{Australia}$, which faced severe drought conditions around 2015.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "South Africa",
+            "Australia",
+            "Argentina"
+        ],
+        "answer": "Australia",
+        "explanation": "It covers one-seventh of the Australian continent and is vital for irrigation."
+    },
+    {
+        "id": "GEO40",
+        "text": "The ancient city of $\\textbf{Timbuktu}$, located in $\\textbf{Mali}$, sits on the southern edge of the $\\textbf{Sahara Desert}$.",
+        "image": "",
+        "options": [
+            "Niger",
+            "Chad",
+            "Mali",
+            "Mauritania"
+        ],
+        "answer": "Mali",
+        "explanation": "Historically a center of trade and learning, it is threatened by desertification."
+    }
+]

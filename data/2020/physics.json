@@ -1,0 +1,522 @@
+[
+    {
+        "id": "P9901",
+        "text": "A car travels 100 $\\text{m}$ in 10 $\\text{s}$ with uniform speed. What is its average speed?",
+        "image": "",
+        "options": [
+            "5 $\\text{m/s}$",
+            "10 $\\text{m/s}$",
+            "15 $\\text{m/s}$",
+            "20 $\\text{m/s}$"
+        ],
+        "answer": "10 $\\text{m/s}$",
+        "explanation": "Average speed is calculated as total distance divided by total time: $v = 100\\text{m} / 10\\text{s} = 10\\text{ m/s}$."
+    },
+    {
+        "id": "P9902",
+        "text": "The $\\textbf{S.I. unit}$ of force is the $\\textbf{Newton}$ (N), which is a $\\textbf{Derived Unit}$.",
+        "image": "",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Kilogram"
+        ],
+        "answer": "Newton",
+        "explanation": "The Newton (N) is the S.I. unit of force, defined as $\\text{kg}\\cdot\\text{m/s}^2$."
+    },
+    {
+        "id": "P9903",
+        "text": "Calculate the work done if a force of 50 $\\text{N}$ moves an object by 5 $\\text{m}$ in the direction of the force.",
+        "image": "",
+        "options": [
+            "10 $\\text{J}$",
+            "55 $\\text{J}$",
+            "250 $\\text{J}$",
+            "500 $\\text{J}$"
+        ],
+        "answer": "250 $\\text{J}$",
+        "explanation": "Work Done $W = \\text{Force} \\times \\text{Distance} = 50\\text{ N} \\times 5\\text{ m} = 250\\text{ J}$."
+    },
+    {
+        "id": "P9904",
+        "text": "The product of mass and acceleration due to gravity ($mg$) gives the object's $\\textbf{Weight}$.",
+        "image": "",
+        "options": [
+            "Inertia",
+            "Mass",
+            "Weight",
+            "Momentum"
+        ],
+        "answer": "Weight",
+        "explanation": "Weight is the force of gravity acting on a mass ($W = mg$), measured in Newtons."
+    },
+    {
+        "id": "P9905",
+        "text": "If a substance has mass 500 $\\text{g}$ and volume 250 $\\text{cm}^3$, what is its density?",
+        "image": "",
+        "options": [
+            "0.5 $\\text{g/cm}^3$",
+            "2 $\\text{g/cm}^3$",
+            "250 $\\text{g/cm}^3$",
+            "125000 $\\text{g/cm}^3$"
+        ],
+        "answer": "2 $\\text{g/cm}^3$",
+        "explanation": "Density $\\rho = \\text{Mass} / \\text{Volume} = 500\\text{ g} / 250\\text{ cm}^3 = 2\\text{ g/cm}^3$."
+    },
+    {
+        "id": "P9906",
+        "text": "The pressure exerted by a fluid increases with the $\\textbf{Depth}$ and density of the fluid.",
+        "image": "",
+        "options": [
+            "Surface Area",
+            "Temperature",
+            "Depth",
+            "Volume"
+        ],
+        "answer": "Depth",
+        "explanation": "Hydrostatic pressure $P = \\rho gh$, where $h$ is the depth."
+    },
+    {
+        "id": "P9907",
+        "text": "In a simple machine, the ratio of the distance moved by the effort to the distance moved by the load is the $\\textbf{Velocity Ratio}$ (V.R.).",
+        "image": "",
+        "options": [
+            "Mechanical Advantage",
+            "Efficiency",
+            "Work Input",
+            "Velocity Ratio"
+        ],
+        "answer": "Velocity Ratio",
+        "explanation": "Velocity ratio is a theoretical quantity determined by the machine's geometry."
+    },
+    {
+        "id": "P9908",
+        "text": "The amount of heat required to raise the temperature of $1 \\text{kg}$ of a substance by $1 \\text{K}$ is the $\\textbf{Specific Heat Capacity}$.",
+        "image": "",
+        "options": [
+            "Latent Heat",
+            "Heat Energy",
+            "Specific Heat Capacity",
+            "Thermal Conductivity"
+        ],
+        "answer": "Specific Heat Capacity",
+        "explanation": "The S.I. unit is $\\text{J}/\\text{kg}\\cdot\\text{K}$."
+    },
+    {
+        "id": "P9909",
+        "text": "The transfer of heat energy through a fluid (liquid or gas) by the movement of the fluid itself is called $\\textbf{Convection}$.",
+        "image": "",
+        "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Insulation"
+        ],
+        "answer": "Convection",
+        "explanation": "Convection involves the movement of hotter, less dense fluid rising and colder, denser fluid sinking."
+    },
+    {
+        "id": "P9910",
+        "text": "Convert $27^\\circ\\text{C}$ to the Kelvin scale.",
+        "image": "",
+        "options": [
+            "273 $\\text{K}$",
+            "296 $\\text{K}$",
+            "300 $\\text{K}$",
+            "327 $\\text{K}$"
+        ],
+        "answer": "300 $\\text{K}$",
+        "explanation": "Temperature in Kelvin $T(\\text{K}) = T(^\\circ\\text{C}) + 273$. $27 + 273 = 300\\text{ K}$."
+    },
+    {
+        "id": "P9911",
+        "text": "The maximum displacement of a vibrating particle from its equilibrium position is the $\\textbf{Amplitude}$.",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Frequency",
+            "Period",
+            "Amplitude"
+        ],
+        "answer": "Amplitude",
+        "explanation": "Amplitude is related to the energy or intensity of the wave."
+    },
+    {
+        "id": "P9912",
+        "text": "Sound waves require a material medium for their propagation and are classified as $\\textbf{Mechanical Waves}$.",
+        "image": "",
+        "options": [
+            "Electromagnetic Waves",
+            "Transverse Waves",
+            "Mechanical Waves",
+            "Radio Waves"
+        ],
+        "answer": "Mechanical Waves",
+        "explanation": "Sound waves are mechanical and longitudinal."
+    },
+    {
+        "id": "P9913",
+        "text": "The bending of a ray of light when it travels obliquely from one medium to another is known as $\\textbf{Refraction}$.",
+        "image": "",
+        "options": [
+            "Reflection",
+            "Diffraction",
+            "Refraction",
+            "Polarization"
+        ],
+        "answer": "Refraction",
+        "explanation": "Refraction occurs due to the change in the speed of light between the two media."
+    },
+    {
+        "id": "P9914",
+        "text": "If an object is placed at a distance greater than the focal length ($f$) of a concave mirror, the image formed is always $\\textbf{Real}$ and inverted.",
+        "image": "",
+        "options": [
+            "Virtual and Erect",
+            "Virtual and Inverted",
+            "Real and Erect",
+            "Real and Inverted"
+        ],
+        "answer": "Real and Inverted",
+        "explanation": "A concave mirror forms a real image unless the object is placed between the pole and the focal point."
+    },
+    {
+        "id": "P9915",
+        "text": "The $\\textbf{S.I. unit}$ of electric current is the $\\textbf{Ampere}$ (A).",
+        "image": "",
+        "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Coulomb"
+        ],
+        "answer": "Ampere",
+        "explanation": "Current ($I$) is the rate of flow of charge, measured in Amperes."
+    },
+    {
+        "id": "P9916",
+        "text": "According to Ohm's law ($V = IR$), if the potential difference across a resistor is $24\\text{V}$ and the resistance is $6\\Omega$, find the current $I$.",
+        "image": "",
+        "options": [
+            "2 $\\text{A}$",
+            "4 $\\text{A}$",
+            "18 $\\text{A}$",
+            "144 $\\text{A}$"
+        ],
+        "answer": "4 $\\text{A}$",
+        "explanation": "$I = V / R = 24\\text{V} / 6\\Omega = 4\\text{ A}$."
+    },
+    {
+        "id": "P9917",
+        "text": "Electric power $P$ is given by $P = IV$. If a device draws $10\\text{A}$ at $220\\text{V}$, what is its power?",
+        "image": "",
+        "options": [
+            "22 $\\text{W}$",
+            "220 $\\text{W}$",
+            "2200 $\\text{W}$",
+            "22000 $\\text{W}$"
+        ],
+        "answer": "2200 $\\text{W}$",
+        "explanation": "Power $P = 10\\text{A} \\times 220\\text{V} = 2200\\text{ W}$ (or $2.2\\text{ kW}$). "
+    },
+    {
+        "id": "P9918",
+        "text": "The region around a charged body where an electric charge experiences a force is called the $\\textbf{Electric Field}$.",
+        "image": "",
+        "options": [
+            "Magnetic Field",
+            "Gravitational Field",
+            "Electric Field",
+            "Nuclear Field"
+        ],
+        "answer": "Electric Field",
+        "explanation": "An electric field is produced by static or moving charges."
+    },
+    {
+        "id": "P9919",
+        "text": "The time taken for half the quantity of a radioactive substance to decay is called the $\\textbf{Half-life}$.",
+        "image": "",
+        "options": [
+            "Decay Time",
+            "Mean Life",
+            "Half-life",
+            "Activity Rate"
+        ],
+        "answer": "Half-life",
+        "explanation": "Half-life ($T_{1/2}$) is a characteristic property of a radioisotope."
+    },
+    {
+        "id": "P9920",
+        "text": "Which of the three main types of nuclear radiation has the highest penetrating power?",
+        "image": "",
+        "options": [
+            "Alpha ($\\,\\alpha$)",
+            "Beta ($\\,\\beta$)",
+            "Gamma ($\\,\\gamma$)",
+            "X-ray"
+        ],
+        "answer": "Gamma ($\\,\\gamma$)",
+        "explanation": "Gamma rays are high-energy photons with no mass or charge, giving them the highest penetrating power."
+    },
+    {
+        "id": "P9921",
+        "text": "Calculate the acceleration of a body that accelerates from rest to 20 $\\text{m/s}$ in 5 $\\text{s}$.",
+        "image": "",
+        "options": [
+            "2 $\\text{m/s}^2$",
+            "4 $\\text{m/s}^2$",
+            "5 $\\text{m/s}^2$",
+            "10 $\\text{m/s}^2$"
+        ],
+        "answer": "4 $\\text{m/s}^2$",
+        "explanation": "Acceleration $a = (v - u) / t = (20 - 0) / 5 = 4\\text{ m/s}^2$."
+    },
+    {
+        "id": "P9922",
+        "text": "Potential Energy is given by $PE = mgh$. If $m=2\\text{kg}$, $g=10\\text{m/s}^2$, and $h=5\\text{m}$, find the potential energy.",
+        "image": "",
+        "options": [
+            "20 $\\text{J}$",
+            "50 $\\text{J}$",
+            "100 $\\text{J}$",
+            "200 $\\text{J}$"
+        ],
+        "answer": "100 $\\text{J}$",
+        "explanation": "$PE = 2\\text{ kg} \\times 10\\text{ m/s}^2 \\times 5\\text{ m} = 100\\text{ J}$."
+    },
+    {
+        "id": "P9923",
+        "text": "The turning effect of a force about a pivot is called the $\\textbf{Moment}$ of the force (or Torque).",
+        "image": "",
+        "options": [
+            "Work",
+            "Power",
+            "Energy",
+            "Moment"
+        ],
+        "answer": "Moment",
+        "explanation": "Moment = Force $\\times$ Perpendicular Distance from the pivot."
+    },
+    {
+        "id": "P9924",
+        "text": "Which physical quantity measures the amount of substance in a body and is constant regardless of location?",
+        "image": "",
+        "options": [
+            "Weight",
+            "Density",
+            "Mass",
+            "Volume"
+        ],
+        "answer": "Mass",
+        "explanation": "Mass (measured in kg) is an intrinsic property, whereas weight depends on gravity."
+    },
+    {
+        "id": "P9925",
+        "text": "The phenomenon where a small force applied at a low frequency causes a large vibration is known as $\\textbf{Resonance}$.",
+        "image": "",
+        "options": [
+            "Damping",
+            "Resonance",
+            "Reflection",
+            "Diffraction"
+        ],
+        "answer": "Resonance",
+        "explanation": "Resonance occurs when the driving frequency matches the natural frequency of the system."
+    },
+    {
+        "id": "P9926",
+        "text": "The unit of $\\textbf{Specific Latent Heat}$ (e.g., of fusion or vaporization) is:",
+        "image": "",
+        "options": [
+            "$\\text{J}/\\text{kg}\\cdot\\text{K}$",
+            "$\\text{J}/\\text{kg}$",
+            "$\\text{J}/\\text{s}$",
+            "$\\text{kg}/\\text{m}^3$"
+        ],
+        "answer": "$\\text{J}/\\text{kg}$",
+        "explanation": "Latent heat $L = Q/m$, so the unit is Joule per kilogram."
+    },
+    {
+        "id": "P9927",
+        "text": "Which method of heat transfer does $\\textbf{not}$ require a material medium?",
+        "image": "",
+        "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Insulation"
+        ],
+        "answer": "Radiation",
+        "explanation": "Heat radiation (infrared waves) can travel through a vacuum, such as space."
+    },
+    {
+        "id": "P9928",
+        "text": "If the wavelength of a wave is 5 $\\text{m}$ and its velocity is 10 $\\text{m/s}$, what is its frequency? ($v=f\\lambda$)",
+        "image": "",
+        "options": [
+            "0.5 $\\text{Hz}$",
+            "2 $\\text{Hz}$",
+            "5 $\\text{Hz}$",
+            "50 $\\text{Hz}$"
+        ],
+        "answer": "2 $\\text{Hz}$",
+        "explanation": "Frequency $f = v / \\lambda = 10\\text{ m/s} / 5\\text{ m} = 2\\text{ Hz}$."
+    },
+    {
+        "id": "P9929",
+        "text": "The speed of light in a vacuum is approximately:",
+        "image": "",
+        "options": [
+            "$3.0 \\times 10^5 \\text{ m/s}$",
+            "$3.0 \\times 10^8 \\text{ m/s}$",
+            "$3.0 \\times 10^3 \\text{ m/s}$",
+            "$3.0 \\times 10^9 \\text{ m/s}$"
+        ],
+        "answer": "$3.0 \\times 10^8 \\text{ m/s}$",
+        "explanation": "This value ($c$) is the upper limit for the speed of matter and energy transfer."
+    },
+    {
+        "id": "P9930",
+        "text": "The principle that describes how a changing magnetic field produces an induced electromotive force (e.m.f) is known as $\\textbf{Electromagnetic Induction}$.",
+        "image": "",
+        "options": [
+            "Ohm's Law",
+            "Electromagnetic Induction",
+            "Coulomb's Law",
+            "Lenz's Law"
+        ],
+        "answer": "Electromagnetic Induction",
+        "explanation": "This principle is the basis for generators and transformers."
+    },
+    {
+        "id": "P9931",
+        "text": "Three resistors of $4\\Omega$, $6\\Omega$, and $2\\Omega$ are connected in $\\textbf{series}$. Find the total resistance.",
+        "image": "",
+        "options": [
+            "$1.09\\Omega$",
+            "$12\\Omega$",
+            "$8\\Omega$",
+            "$0.92\\Omega$"
+        ],
+        "answer": "$12\\Omega$",
+        "explanation": "In series, $R_{\\text{total}} = R_1 + R_2 + R_3 = 4 + 6 + 2 = 12\\Omega$."
+    },
+    {
+        "id": "P9932",
+        "text": "If two resistors of $6\\Omega$ and $3\\Omega$ are connected in $\\textbf{parallel}$, calculate the total resistance.",
+        "image": "",
+        "options": [
+            "$9\\Omega$",
+            "$1.5\\Omega$",
+            "$2\\Omega$",
+            "$4.5\\Omega$"
+        ],
+        "answer": "$2\\Omega$",
+        "explanation": "In parallel, $\\frac{1}{R_{\\text{total}}} = \\frac{1}{6} + \\frac{1}{3} = \\frac{1}{6} + \\frac{2}{6} = \\frac{3}{6} = \\frac{1}{2}$. Thus, $R_{\\text{total}} = 2\\Omega$."
+    },
+    {
+        "id": "P9933",
+        "text": "The $\\textbf{S.I. unit}$ of electrical resistance is the $\\textbf{Ohm}$ ($\\Omega$).",
+        "image": "",
+        "options": [
+            "Ampere",
+            "Volt",
+            "Ohm",
+            "Coulomb"
+        ],
+        "answer": "Ohm",
+        "explanation": "Resistance measures the opposition to the flow of electric current."
+    },
+    {
+        "id": "P9934",
+        "text": "The force applied to a spring is directly proportional to its extension, provided the $\\textbf{Elastic Limit}$ is not exceeded (Hooke's Law).",
+        "image": "",
+        "options": [
+            "Yield Point",
+            "Breaking Point",
+            "Elastic Limit",
+            "Permanent Set"
+        ],
+        "answer": "Elastic Limit",
+        "explanation": "If the force exceeds the elastic limit, the material will undergo permanent deformation."
+    },
+    {
+        "id": "P9935",
+        "text": "The force exerted by a uniform magnetic field on a current-carrying conductor is described by $\\textbf{Fleming's Left-Hand Rule}$.",
+        "image": "",
+        "options": [
+            "Fleming's Right-Hand Rule",
+            "Right-Hand Grip Rule",
+            "Fleming's Left-Hand Rule",
+            "Ohm's Law"
+        ],
+        "answer": "Fleming's Left-Hand Rule",
+        "explanation": "Used for motors (Force, Field, Current)."
+    },
+    {
+        "id": "P9936",
+        "text": "The process where a nucleus splits into two or more smaller nuclei, releasing a large amount of energy, is called $\\textbf{Fission}$.",
+        "image": "",
+        "options": [
+            "Fusion",
+            "Fission",
+            "Radioactivity",
+            "Decay"
+        ],
+        "answer": "Fission",
+        "explanation": "Fission is used in nuclear power reactors."
+    },
+    {
+        "id": "P9937",
+        "text": "Which property of matter is used in a glass thermometer to measure temperature?",
+        "image": "",
+        "options": [
+            "Change in color",
+            "Change in electrical resistance",
+            "Change in volume",
+            "Change in pressure"
+        ],
+        "answer": "Change in volume",
+        "explanation": "The expansion or contraction of the liquid (mercury or alcohol) determines the temperature reading."
+    },
+    {
+        "id": "P9938",
+        "text": "The law of conservation of energy states that the total energy in a closed system remains $\\textbf{Constant}$.",
+        "image": "",
+        "options": [
+            "Increased",
+            "Decreased",
+            "Constant",
+            "Converted"
+        ],
+        "answer": "Constant",
+        "explanation": "Energy can only be converted from one form to another, not created or destroyed."
+    },
+    {
+        "id": "P9939",
+        "text": "The power of a lens is measured in $\\textbf{Dioptres}$ (D), and is the reciprocal of the focal length in $\\text{meters}$.",
+        "image": "",
+        "options": [
+            "Metres",
+            "Watts",
+            "Dioptres",
+            "Newtons"
+        ],
+        "answer": "Dioptres",
+        "explanation": "Power $P = 1/f$ (where $f$ is in meters)."
+    },
+    {
+        "id": "P9940",
+        "text": "The force that holds the nucleus of an atom together, overcoming the repulsion between protons, is the $\\textbf{Strong Nuclear Force}$.",
+        "image": "",
+        "options": [
+            "Gravitational Force",
+            "Electromagnetic Force",
+            "Weak Nuclear Force",
+            "Strong Nuclear Force"
+        ],
+        "answer": "Strong Nuclear Force",
+        "explanation": "It is the strongest fundamental force, but acts only over very short distances."
+    }
+]

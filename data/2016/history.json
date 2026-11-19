@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "Who was the first emperor of the $\\textbf{Akkadian Empire}$, often regarded as the first empire in history?",
+        "image": "",
+        "options": [
+            "Hammurabi",
+            "Sargon of Akkad",
+            "Nebuchadnezzar II",
+            "Ashurbanipal"
+        ],
+        "answer": "Sargon of Akkad",
+        "explanation": "Sargon conquered the Sumerian city-states in the 24th and 23rd centuries BC, creating the first known empire."
+    },
+    {
+        "id": "H02",
+        "text": "The $\\textbf{Battle of Actium}$ in 31 BC resulted in the defeat of Mark Antony and Cleopatra by:",
+        "image": "",
+        "options": [
+            "Julius Caesar",
+            "Pompey",
+            "Octavian (Augustus)",
+            "Brutus"
+        ],
+        "answer": "Octavian (Augustus)",
+        "explanation": "This naval victory consolidated Octavian's power, paving the way for him to become the first Roman Emperor."
+    },
+    {
+        "id": "H03",
+        "text": "Which Celtic queen led a major uprising against occupying Roman forces in Britain around 60 AD?",
+        "image": "",
+        "options": [
+            "Boudicca",
+            "Zenobia",
+            "Cartimandua",
+            "Cleopatra"
+        ],
+        "answer": "Boudicca",
+        "explanation": "Queen of the Iceni tribe, she led a revolt that destroyed Camulodunum, Londinium, and Verulamium before being defeated."
+    },
+    {
+        "id": "H04",
+        "text": "The $\\textbf{Hegira}$ (622 AD) marks the migration of the Prophet Muhammad from Mecca to:",
+        "image": "",
+        "options": [
+            "Jerusalem",
+            "Damascus",
+            "Medina",
+            "Baghdad"
+        ],
+        "answer": "Medina",
+        "explanation": "This event marks the beginning of the Islamic calendar."
+    },
+    {
+        "id": "H05",
+        "text": "Which Roman Emperor divided the empire into the $\\textbf{Tetrarchy}$ to make it easier to govern?",
+        "image": "",
+        "options": [
+            "Constantine",
+            "Diocletian",
+            "Trajan",
+            "Nero"
+        ],
+        "answer": "Diocletian",
+        "explanation": "Diocletian realized the empire was too large for one man to rule and split power between four rulers."
+    },
+    {
+        "id": "H06",
+        "text": "The $\\textbf{Battle of Lepanto}$ (1571) was a crucial naval victory for the Holy League against:",
+        "image": "",
+        "options": [
+            "The British Navy",
+            "The French Navy",
+            "The Ottoman Empire",
+            "The Spanish Armada"
+        ],
+        "answer": "The Ottoman Empire",
+        "explanation": "It halted the Ottoman expansion into the western Mediterranean."
+    },
+    {
+        "id": "H07",
+        "text": "Who founded the $\\textbf{Mughal Empire}$ in India?",
+        "image": "",
+        "options": [
+            "Akbar",
+            "Babur",
+            "Shah Jahan",
+            "Aurangzeb"
+        ],
+        "answer": "Babur",
+        "explanation": "Babur, a descendant of Timur and Genghis Khan, defeated the Sultan of Delhi in 1526."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Articles of Confederation}$ served as the first constitution of:",
+        "image": "",
+        "options": [
+            "The Confederate States of America",
+            "The United States",
+            "The European Union",
+            "The Republic of Texas"
+        ],
+        "answer": "The United States",
+        "explanation": "Adopted in 1777, it created a weak central government that was later replaced by the US Constitution."
+    },
+    {
+        "id": "H09",
+        "text": "Which battle is often considered the $\\textbf{turning point}$ of the American Revolutionary War?",
+        "image": "",
+        "options": [
+            "Battle of Bunker Hill",
+            "Battle of Saratoga",
+            "Battle of Trenton",
+            "Battle of Long Island"
+        ],
+        "answer": "Battle of Saratoga",
+        "explanation": "The American victory in 1777 convinced France to openly support the American cause."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Treaty of Guadalupe Hidalgo}$ ended which conflict?",
+        "image": "",
+        "options": [
+            "The Spanish-American War",
+            "The Mexican-American War",
+            "The Texas Revolution",
+            "The War of 1812"
+        ],
+        "answer": "The Mexican-American War",
+        "explanation": "Signed in 1848, the treaty ceded a vast portion of Mexican territory to the United States."
+    },
+    {
+        "id": "H11",
+        "text": "Who was the leader of the $\\textbf{Anti-Apartheid Movement}$ who was imprisoned for 27 years?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Steve Biko",
+            "Nelson Mandela",
+            "F.W. de Klerk"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela became a global symbol of resistance to apartheid and later the first black president of South Africa."
+    },
+    {
+        "id": "H12",
+        "text": "The $\\textbf{Battle of Antietam}$ (1862) is known as:",
+        "image": "",
+        "options": [
+            "The longest battle of the Civil War",
+            "The bloodiest single-day battle in American history",
+            "The final battle of the Civil War",
+            "The first battle of the Civil War"
+        ],
+        "answer": "The bloodiest single-day battle in American history",
+        "explanation": "Over 22,000 soldiers were killed, wounded, or missing in a single day of fighting."
+    },
+    {
+        "id": "H13",
+        "text": "General Robert E. Lee surrendered to Ulysses S. Grant at:",
+        "image": "",
+        "options": [
+            "Richmond, Virginia",
+            "Gettysburg, Pennsylvania",
+            "Appomattox Court House",
+            "Washington, D.C."
+        ],
+        "answer": "Appomattox Court House",
+        "explanation": "The surrender on April 9, 1865, effectively ended the American Civil War."
+    },
+    {
+        "id": "H14",
+        "text": "Who was the corrupt political boss of $\\textbf{Tammany Hall}$ in New York City?",
+        "image": "",
+        "options": [
+            "Al Capone",
+            "William 'Boss' Tweed",
+            "Huey Long",
+            "Jimmy Hoffa"
+        ],
+        "answer": "William 'Boss' Tweed",
+        "explanation": "Tweed and his cronies stole millions of dollars from New York City taxpayers in the 19th century."
+    },
+    {
+        "id": "H15",
+        "text": "The novel $\\textbf{The Jungle}$ by Upton Sinclair exposed conditions in:",
+        "image": "",
+        "options": [
+            "The coal mining industry",
+            "The meatpacking industry",
+            "The textile industry",
+            "The steel industry"
+        ],
+        "answer": "The meatpacking industry",
+        "explanation": "Published in 1906, the book led to the passage of the Pure Food and Drug Act and the Meat Inspection Act."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Teapot Dome Scandal}$ involved the secret leasing of federal oil reserves during whose presidency?",
+        "image": "",
+        "options": [
+            "Theodore Roosevelt",
+            "Woodrow Wilson",
+            "Warren G. Harding",
+            "Herbert Hoover"
+        ],
+        "answer": "Warren G. Harding",
+        "explanation": "It was considered the greatest and most sensational scandal in the history of American politics before Watergate."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Scopes Monkey Trial}$ of 1925 centered on the teaching of:",
+        "image": "",
+        "options": [
+            "Communism",
+            "Evolution",
+            "Creationism",
+            "Sex Education"
+        ],
+        "answer": "Evolution",
+        "explanation": "High school teacher John Scopes was accused of violating Tennessee's Butler Act, which made it unlawful to teach human evolution."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Good Neighbor Policy}$ was the foreign policy of which US President towards Latin America?",
+        "image": "",
+        "options": [
+            "Theodore Roosevelt",
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "John F. Kennedy"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "The policy emphasized cooperation and trade rather than military intervention."
+    },
+    {
+        "id": "H19",
+        "text": "Which naval battle was the first in history where the opposing ships never sighted or fired directly at each other?",
+        "image": "",
+        "options": [
+            "Battle of Midway",
+            "Battle of the Coral Sea",
+            "Battle of Leyte Gulf",
+            "Battle of Jutland"
+        ],
+        "answer": "Battle of the Coral Sea",
+        "explanation": "Fought in 1942, it was the first battle in which aircraft carriers engaged each other."
+    },
+    {
+        "id": "H20",
+        "text": "Who refused to give up her seat on a bus in Montgomery, Alabama, sparking a boycott?",
+        "image": "",
+        "options": [
+            "Harriet Tubman",
+            "Sojourner Truth",
+            "Rosa Parks",
+            "Coretta Scott King"
+        ],
+        "answer": "Rosa Parks",
+        "explanation": "Her arrest in 1955 was a catalyst for the Civil Rights Movement."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Voting Rights Act}$ was signed into law in:",
+        "image": "",
+        "options": [
+            "1954",
+            "1964",
+            "1965",
+            "1968"
+        ],
+        "answer": "1965",
+        "explanation": "Signed by President Lyndon B. Johnson, it aimed to overcome legal barriers at the state and local levels that prevented African Americans from voting."
+    },
+    {
+        "id": "H22",
+        "text": "Who is known as the father of modern Turkey?",
+        "image": "",
+        "options": [
+            "Suleiman the Magnificent",
+            "Mustafa Kemal Atatürk",
+            "Recep Tayyip Erdoğan",
+            "Osman I"
+        ],
+        "answer": "Mustafa Kemal Atatürk",
+        "explanation": "Atatürk led the Turkish National Movement and founded the Republic of Turkey in 1923."
+    },
+    {
+        "id": "H23",
+        "text": "Who was the first female Prime Minister of a Muslim-majority nation?",
+        "image": "",
+        "options": [
+            "Indira Gandhi",
+            "Golda Meir",
+            "Benazir Bhutto",
+            "Sheikh Hasina"
+        ],
+        "answer": "Benazir Bhutto",
+        "explanation": "Bhutto served as Prime Minister of Pakistan in two non-consecutive terms in the 1980s and 90s."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Open Door Policy}$ was a statement of principles initiated by the US for the protection of equal privileges in:",
+        "image": "",
+        "options": [
+            "Japan",
+            "China",
+            "India",
+            "The Philippines"
+        ],
+        "answer": "China",
+        "explanation": "Issued around 1900, it aimed to keep China open to trade with all countries on an equal basis."
+    },
+    {
+        "id": "H25",
+        "text": "Which British imperialist founded the De Beers diamond company?",
+        "image": "",
+        "options": [
+            "David Livingstone",
+            "Cecil Rhodes",
+            "Henry Stanley",
+            "Horatio Nelson"
+        ],
+        "answer": "Cecil Rhodes",
+        "explanation": "Rhodes was a staunch believer in British colonial imperialism and founded the territory of Rhodesia."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Investiture Controversy}$ was a conflict between:",
+        "image": "",
+        "options": [
+            "The Church and State (Pope and Emperor)",
+            "England and France",
+            "Christians and Muslims",
+            "Rich and Poor"
+        ],
+        "answer": "The Church and State (Pope and Emperor)",
+        "explanation": "It was the most significant conflict between secular and religious powers in medieval Europe, concerning who would appoint bishops."
+    },
+    {
+        "id": "H27",
+        "text": "Which Spanish explorer is credited with discovering the Mississippi River?",
+        "image": "",
+        "options": [
+            "Juan Ponce de León",
+            "Hernando de Soto",
+            "Francisco Coronado",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Hernando de Soto",
+        "explanation": "De Soto led the first European expedition deep into the territory of the modern-day United States."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Treaty of Utrecht}$ (1713) ended which war?",
+        "image": "",
+        "options": [
+            "The Thirty Years' War",
+            "The War of the Spanish Succession",
+            "The Seven Years' War",
+            "The Napoleonic Wars"
+        ],
+        "answer": "The War of the Spanish Succession",
+        "explanation": "The treaty checked the power of France and preserved the balance of power in Europe."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Battle of Plassey}$ (1757) established British dominance in:",
+        "image": "",
+        "options": [
+            "Africa",
+            "India",
+            "China",
+            "Australia"
+        ],
+        "answer": "India",
+        "explanation": "Robert Clive's victory over the Nawab of Bengal marked the beginning of nearly two centuries of British rule in India."
+    },
+    {
+        "id": "H30",
+        "text": "Who was the leader of the $\\textbf{Chinese Revolution}$ of 1911?",
+        "image": "",
+        "options": [
+            "Mao Zedong",
+            "Chiang Kai-shek",
+            "Sun Yat-sen",
+            "Deng Xiaoping"
+        ],
+        "answer": "Sun Yat-sen",
+        "explanation": "Sun Yat-sen played a pivotal role in overthrowing the Qing Dynasty and establishing the Republic of China."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Whiskey Rebellion}$ was a 1794 uprising of farmers in:",
+        "image": "",
+        "options": [
+            "Massachusetts",
+            "Virginia",
+            "Pennsylvania",
+            "Kentucky"
+        ],
+        "answer": "Pennsylvania",
+        "explanation": "It was the first major challenge to federal authority under the new US Constitution."
+    },
+    {
+        "id": "H32",
+        "text": "Which act was signed in 1993 to create a trilateral trade bloc in North America?",
+        "image": "",
+        "options": [
+            "NATO",
+            "NAFTA",
+            "WTO",
+            "TPP"
+        ],
+        "answer": "NAFTA",
+        "explanation": "The North American Free Trade Agreement eliminated most tariffs between the US, Canada, and Mexico."
+    },
+    {
+        "id": "H33",
+        "text": "Who was the last Emperor of $\\textbf{Ethiopia}$?",
+        "image": "",
+        "options": [
+            "Menelik II",
+            "Haile Selassie",
+            "Tewodros II",
+            "Zewditu"
+        ],
+        "answer": "Haile Selassie",
+        "explanation": "He is a defining figure in modern Ethiopian history and the Rastafari movement."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{English Bill of Rights}$ of 1689 reduced the power of:",
+        "image": "",
+        "options": [
+            "Parliament",
+            "The Monarchy",
+            "The Church",
+            "The Courts"
+        ],
+        "answer": "The Monarchy",
+        "explanation": "It set limits on the powers of the monarch and set out the rights of Parliament."
+    },
+    {
+        "id": "H35",
+        "text": "Which war is associated with the term $\\textbf{'Bleeding Kansas'}$?",
+        "image": "",
+        "options": [
+            "The Revolutionary War",
+            "The Civil War",
+            "The War of 1812",
+            "The Mexican-American War"
+        ],
+        "answer": "The Civil War",
+        "explanation": "It was a series of violent civil confrontations in the US between 1854 and 1861 over the legality of slavery in Kansas."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Sherman Antitrust Act}$ (1890) was the first federal act that:",
+        "image": "",
+        "options": [
+            "Outlawed monopolistic business practices",
+            "Established the income tax",
+            "Created the Federal Reserve",
+            "Regulated the stock market"
+        ],
+        "answer": "Outlawed monopolistic business practices",
+        "explanation": "It authorized the federal government to institute proceedings against trusts in order to dissolve them."
+    },
+    {
+        "id": "H37",
+        "text": "Who was the Archbishop of Canterbury murdered in his own cathedral in 1170?",
+        "image": "",
+        "options": [
+            "Thomas Cranmer",
+            "Thomas More",
+            "Thomas Becket",
+            "Cardinal Wolsey"
+        ],
+        "answer": "Thomas Becket",
+        "explanation": "He was assassinated by followers of King Henry II after a conflict over the rights of the Church."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Yuan Dynasty}$ in China was established by:",
+        "image": "",
+        "options": [
+            "The Manchus",
+            "The Mongols",
+            "The Han",
+            "The Japanese"
+        ],
+        "answer": "The Mongols",
+        "explanation": "Established by Kublai Khan, it was the first foreign-led dynasty in China."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Great Zimbabwe}$ was the capital of a wealthy kingdom in:",
+        "image": "",
+        "options": [
+            "West Africa",
+            "North Africa",
+            "Southern Africa",
+            "East Africa"
+        ],
+        "answer": "Southern Africa",
+        "explanation": "It was a medieval city known for its large circular wall and tower."
+    },
+    {
+        "id": "H40",
+        "text": "Which Russian Tsar is known for Westernizing Russia and founding St. Petersburg?",
+        "image": "",
+        "options": [
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Nicholas II",
+            "Alexander II"
+        ],
+        "answer": "Peter the Great",
+        "explanation": "Peter I ruled from 1682 to 1725 and implemented sweeping reforms to modernize the country."
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E921",
+        "text": "The U.S. economy in 1999 was characterized by a period of sustained expansion marked by high GDP growth and **low unemployment** rates, often falling below the natural rate.",
+        "image": "",
+        "options": [
+            "High interest rates",
+            "Deflation",
+            "Low unemployment",
+            "Recessionary conditions"
+        ],
+        "answer": "Low unemployment",
+        "explanation": "The U.S. unemployment rate dipped below 4.5% during this period, signifying a very tight labor market."
+    },
+    {
+        "id": "E922",
+        "text": "For the second consecutive year, the $\\textbf{Federal}$ $\\textbf{Government}$ in 1999 reported a **budget surplus**, meaning tax revenues exceeded federal expenditures.",
+        "image": "",
+        "options": [
+            "Significant budget deficit",
+            "Budget surplus",
+            "Negative GDP growth",
+            "Double-digit inflation"
+        ],
+        "answer": "Budget surplus",
+        "explanation": "The surplus led to major policy debates on how to use the excess funds."
+    },
+    {
+        "id": "E923",
+        "text": "The primary economic debate regarding the federal budget surplus was whether to allocate it for $\\textbf{tax}$ $\\textbf{cuts}$ or to **pay down the national debt** and stabilize social programs.",
+        "image": "",
+        "options": [
+            "Fund new space exploration programs",
+            "Pay down the national debt",
+            "Massively increase foreign aid",
+            "Create a single-payer healthcare system"
+        ],
+        "answer": "Pay down the national debt",
+        "explanation": "President Clinton advocated paying down the debt and shoring up Social Security/Medicare, while Republicans favored large tax cuts."
+    },
+    {
+        "id": "E924",
+        "text": "The 'New Economy' concept, dominant in 1999, was largely attributed to rapid, efficiency-enhancing growth in the **Information Technology (IT)** sector.",
+        "image": "",
+        "options": [
+            "Automobile manufacturing",
+            "Information Technology (IT)",
+            "Textile production",
+            "Coal mining"
+        ],
+        "answer": "Information Technology (IT)",
+        "explanation": "The spread of the internet, personal computing, and networking drove significant productivity gains."
+    },
+    {
+        "id": "E925",
+        "text": "The phenomenon of low inflation persisting despite very low unemployment challenged the historical inverse relationship modeled by the **Phillips Curve**.",
+        "image": "",
+        "options": [
+            "Laffer Curve",
+            "Phillips Curve",
+            "Production Possibilities Frontier",
+            "Supply and Demand Curve"
+        ],
+        "answer": "Phillips Curve",
+        "explanation": "The Phillips Curve suggests that low unemployment should lead to rising inflation, which did not happen substantially in 1999."
+    },
+    {
+        "id": "E926",
+        "text": "The economic metric that measures the total value of all finished goods and services produced within a country's borders in a specific time period is the **Gross Domestic Product (GDP)**.",
+        "image": "",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Gross Domestic Product (GDP)",
+            "Trade Deficit",
+            "Federal Funds Rate"
+        ],
+        "answer": "Gross Domestic Product (GDP)",
+        "explanation": "GDP growth was consistently strong throughout 1999."
+    },
+    {
+        "id": "E927",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Price}$ $\\textbf{Index}$ (**CPI**) is the government statistic used to measure **inflation** and the cost of a basket of goods and services.",
+        "image": "",
+        "options": [
+            "Unemployment",
+            "Inflation",
+            "GDP",
+            "Trade balance"
+        ],
+        "answer": "Inflation",
+        "explanation": "The CPI is the most common measure of inflation experienced by consumers."
+    },
+    {
+        "id": "E928",
+        "text": "The natural rate of unemployment, or the **Non-Accelerating Inflation Rate of Unemployment (NAIRU)**, was estimated to be lower in 1999 due to productivity gains.",
+        "image": "",
+        "options": [
+            "Marginal Propensity to Consume (MPC)",
+            "Non-Accelerating Inflation Rate of Unemployment (NAIRU)",
+            "Money Multiplier",
+            "Fiscal Multiplier"
+        ],
+        "answer": "Non-Accelerating Inflation Rate of Unemployment (NAIRU)",
+        "explanation": "NAIRU is the lowest unemployment rate that can be sustained without causing inflation to rise."
+    },
+    {
+        "id": "E929",
+        "text": "The metric that saw a marked acceleration in the late 1990s, indicating efficiency gains from technology adoption, was **labor productivity**.",
+        "image": "",
+        "options": [
+            "The national debt",
+            "Income inequality",
+            "Labor productivity",
+            "The trade deficit"
+        ],
+        "answer": "Labor productivity",
+        "explanation": "Higher productivity was seen as the key to sustaining high growth without inflation."
+    },
+    {
+        "id": "E930",
+        "text": "The $\\textbf{increase}$ in $\\textbf{wealth}$ resulting from the rising stock market was believed to fuel consumer spending via the $\\textbf{wealth}$ $\\textbf{effect}$.",
+        "image": "",
+        "options": [
+            "Multiplier effect",
+            "Substitution effect",
+            "Wealth effect",
+            "Income effect"
+        ],
+        "answer": "Wealth effect",
+        "explanation": "As people felt richer from their investment portfolios, they increased consumption."
+    },
+    {
+        "id": "E931",
+        "text": "The Chairman of the Federal Reserve throughout 1999, who was tasked with managing the economic boom, was **Alan Greenspan**.",
+        "image": "",
+        "options": [
+            "Paul Volcker",
+            "Ben Bernanke",
+            "Alan Greenspan",
+            "Janet Yellen"
+        ],
+        "answer": "Alan Greenspan",
+        "explanation": "Greenspan was famously cautious about potential 'irrational exuberance' in the stock market."
+    },
+    {
+        "id": "E932",
+        "text": "The Federal Reserve's primary monetary policy tool for setting the short-term cost of borrowing between banks is targeting the **Federal Funds Rate**.",
+        "image": "",
+        "options": [
+            "Prime Rate",
+            "Discount Rate",
+            "Federal Funds Rate",
+            "Mortgage Rate"
+        ],
+        "answer": "Federal Funds Rate",
+        "explanation": "The Fed targets this rate through open market operations (buying/selling government bonds)."
+    },
+    {
+        "id": "E933",
+        "text": "The Fed raised the target interest rate in late 1999 primarily to **preempt potential inflation** and cool what they saw as speculative investment.",
+        "image": "",
+        "options": [
+            "Encourage housing starts",
+            "Stimulate exports",
+            "Preempt potential inflation",
+            "Fund the federal deficit"
+        ],
+        "answer": "Preempt potential inflation",
+        "explanation": "The policy was aimed at ensuring the strong growth didn't eventually lead to an overheating economy."
+    },
+    {
+        "id": "E934",
+        "text": "When the Fed $\\textbf{sells}$ government securities in open market operations, it **decreases the money supply** and raises the Federal Funds Rate.",
+        "image": "",
+        "options": [
+            "Increases the money supply",
+            "Decreases the money supply",
+            "Changes fiscal policy",
+            "Increases the trade deficit"
+        ],
+        "answer": "Decreases the money supply",
+        "explanation": "Selling bonds removes money from the banking system, tightening credit."
+    },
+    {
+        "id": "E935",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Open}$ $\\textbf{Market}$ $\\textbf{Committee}$ (**FOMC**) is the branch of the Federal Reserve System responsible for setting the official interest rate target.",
+        "image": "",
+        "options": [
+            "The Board of Governors",
+            "The Federal Reserve Banks",
+            "The Federal Open Market Committee (FOMC)",
+            "The Office of Management and Budget (OMB)"
+        ],
+        "answer": "The Federal Open Market Committee (FOMC)",
+        "explanation": "The FOMC consists of the seven governors and five rotating bank presidents."
+    },
+    {
+        "id": "E936",
+        "text": "A general rise in asset prices (like stocks or real estate) that is not supported by underlying fundamentals is known as an **asset bubble**.",
+        "image": "",
+        "options": [
+            "Market correction",
+            "Efficient market",
+            "Asset bubble",
+            "Yield curve inversion"
+        ],
+        "answer": "Asset bubble",
+        "explanation": "The Dot-com era was characterized by a massive asset bubble in technology stocks."
+    },
+    {
+        "id": "E937",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ is an $\\textbf{independent}$ $\\textbf{central}$ $\\textbf{bank}$ because its policy decisions **do not require congressional or presidential approval**.",
+        "image": "",
+        "options": [
+            "Is privately owned by banks",
+            "Reports directly to the UN",
+            "Is independent from political control",
+            "Must seek approval from the Treasury"
+        ],
+        "answer": "Is independent from political control",
+        "explanation": "While overseen by Congress, the Fed's independence allows it to make tough decisions without political pressure."
+    },
+    {
+        "id": "E938",
+        "text": "The term **liquidity** refers to how easily and quickly an asset can be converted into cash without a significant loss in value.",
+        "image": "",
+        "options": [
+            "Solvency",
+            "Collateral",
+            "Liquidity",
+            "Volatility"
+        ],
+        "answer": "Liquidity",
+        "explanation": "Cash is perfectly liquid; real estate is less so."
+    },
+    {
+        "id": "E939",
+        "text": "Monetary policy decisions that involve lowering interest rates to stimulate borrowing and investment are described as **expansionary**.",
+        "image": "",
+        "options": [
+            "Contractionary",
+            "Neutral",
+            "Expansionary",
+            "Restrictive"
+        ],
+        "answer": "Expansionary",
+        "explanation": "An expansionary policy is used to speed up economic growth."
+    },
+    {
+        "id": "E940",
+        "text": "The **Discount Rate** is the interest rate at which commercial banks can borrow money directly from the Federal Reserve.",
+        "image": "",
+        "options": [
+            "Prime Rate",
+            "Discount Rate",
+            "Federal Funds Rate",
+            "Treasury Yield"
+        ],
+        "answer": "Discount Rate",
+        "explanation": "While less frequently used than open market operations, it is another key tool of the Fed."
+    },
+    {
+        "id": "E941",
+        "text": "The stock market index most closely associated with the high-flying tech stocks of the Dot-com Bubble in 1999 was the **NASDAQ Composite**.",
+        "image": "",
+        "options": [
+            "S&P 500",
+            "Dow Jones Industrial Average",
+            "NASDAQ Composite",
+            "Russell 2000"
+        ],
+        "answer": "NASDAQ Composite",
+        "explanation": "The NASDAQ is heavily weighted toward technology stocks, which saw exponential growth."
+    },
+    {
+        "id": "E942",
+        "text": "A **speculative bubble** occurs when asset prices rise rapidly and unsustainably, driven primarily by investor expectation of future price increases.",
+        "image": "",
+        "options": [
+            "Bear market",
+            "Recession",
+            "Speculative bubble",
+            "Efficient market"
+        ],
+        "answer": "Speculative bubble",
+        "explanation": "The Dot-com Bubble was a classic example of this phenomenon."
+    },
+    {
+        "id": "E943",
+        "text": "Many companies in 1999 with high valuations but little to no revenue were often referred to by the general term **dot-coms**.",
+        "image": "",
+        "options": [
+            "Blue-chips",
+            "Dot-coms",
+            "Utilities",
+            "Commodities"
+        ],
+        "answer": "Dot-coms",
+        "explanation": "Their business models were often based on capturing market share regardless of immediate profitability."
+    },
+    {
+        "id": "E944",
+        "text": "The $\\textbf{Dow}$ $\\textbf{Jones}$ $\\textbf{Industrial}$ $\\textbf{Average}$ (**DJIA**), a major stock index, surpassed the **10,000-point** mark for the first time in 1999.",
+        "image": "",
+        "options": [
+            "5,000-point",
+            "10,000-point",
+            "20,000-point",
+            "50,000-point"
+        ],
+        "answer": "10,000-point",
+        "explanation": "This milestone was highly publicized as a sign of the bull market's strength."
+    },
+    {
+        "id": "E945",
+        "text": "The price of a share of stock divided by the company's earnings per share is the **price-to-earnings ratio (P/E)**, which was highly inflated for tech stocks in 1999.",
+        "image": "",
+        "options": [
+            "Debt-to-equity ratio",
+            "Price-to-earnings ratio (P/E)",
+            "Dividend yield",
+            "Return on assets (ROA)"
+        ],
+        "answer": "Price-to-earnings ratio (P/E)",
+        "explanation": "High P/E ratios reflected investor belief in massive future growth rather than current profitability."
+    },
+    {
+        "id": "E946",
+        "text": "The practice of reducing overall investment risk by holding a portfolio of different types of assets is known as **diversification**.",
+        "image": "",
+        "options": [
+            "Short selling",
+            "Arbitrage",
+            "Diversification",
+            "Leveraging"
+        ],
+        "answer": "Diversification",
+        "explanation": "Diversification became more important as market volatility increased."
+    },
+    {
+        "id": "E947",
+        "text": "A **bear market** is characterized by a sustained period of declining stock prices, typically defined as a drop of 20% or more.",
+        "image": "",
+        "options": [
+            "Bull market",
+            "Bear market",
+            "Flat market",
+            "Correction"
+        ],
+        "answer": "Bear market",
+        "explanation": "1999 was a bull market, but the bear market would arrive shortly after the bubble burst."
+    },
+    {
+        "id": "E948",
+        "text": "The total value of a company's outstanding shares of stock is its **market capitalization**.",
+        "image": "",
+        "options": [
+            "Book value",
+            "Market capitalization",
+            "Revenue",
+            "Owner's equity"
+        ],
+        "answer": "Market capitalization",
+        "explanation": "Many 'dot-coms' achieved market capitalizations far exceeding their revenues."
+    },
+    {
+        "id": "E949",
+        "text": "The first time a company sells stock to the public to raise capital is called an **Initial Public Offering (IPO)**.",
+        "image": "",
+        "options": [
+            "Initial Public Offering (IPO)",
+            "Secondary Offering (SO)",
+            "Merger and Acquisition (M&A)",
+            "Private Equity (PE)"
+        ],
+        "answer": "Initial Public Offering (IPO)",
+        "explanation": "1999 saw a record number of tech IPOs."
+    },
+    {
+        "id": "E950",
+        "text": "The funding source for thousands of internet startups in the late 1990s, often involving equity investment in high-risk, high-growth firms, was **Venture Capital (VC)**.",
+        "image": "",
+        "options": [
+            "Commercial banking",
+            "Venture Capital (VC)",
+            "Savings bonds",
+            "Foreign central banks"
+        ],
+        "answer": "Venture Capital (VC)",
+        "explanation": "VC funding exploded during the Dot-com boom."
+    },
+    {
+        "id": "E951",
+        "text": "In January 1999, the **Euro** was introduced as a non-cash currency for 11 European Union member states, marking a major global economic shift.",
+        "image": "",
+        "options": [
+            "Yen",
+            "Euro",
+            "Pound Sterling",
+            "Swiss Franc"
+        ],
+        "answer": "Euro",
+        "explanation": "The launch of the common European currency created a new global trading bloc."
+    },
+    {
+        "id": "E952",
+        "text": "The $\\textbf{World}$ $\\textbf{Trade}$ $\\textbf{Organization}$ (**WTO**) meeting in $\\textbf{late 1999}$ that was met with massive protests over the effects of globalization took place in **Seattle**.",
+        "image": "",
+        "options": [
+            "Geneva",
+            "Doha",
+            "Seattle",
+            "Tokyo"
+        ],
+        "answer": "Seattle",
+        "explanation": "The 'Battle of Seattle' highlighted the growing opposition to certain aspects of free trade and globalization."
+    },
+    {
+        "id": "E953",
+        "text": "The process of increasing interdependence and integration among nations' economies, which was the target of 1999 protests, is called **globalization**.",
+        "image": "",
+        "options": [
+            "Localization",
+            "Protectionism",
+            "Globalization",
+            "Nationalization"
+        ],
+        "answer": "Globalization",
+        "explanation": "Globalization involves increased trade, investment, and migration across borders."
+    },
+    {
+        "id": "E954",
+        "text": "Following the Asian Financial Crisis of 1997-98, the **International Monetary Fund (IMF)** was central to providing financial assistance and structural reform advice to affected countries.",
+        "image": "",
+        "options": [
+            "World Bank (WB)",
+            "International Monetary Fund (IMF)",
+            "European Central Bank (ECB)",
+            "Organization of the Petroleum Exporting Countries (OPEC)"
+        ],
+        "answer": "International Monetary Fund (IMF)",
+        "explanation": "The IMF specializes in providing loans to countries facing balance-of-payments difficulties."
+    },
+    {
+        "id": "E955",
+        "text": "The $\\textbf{Trade}$ $\\textbf{Deficit}$ occurs when a country's total value of $\\textbf{imports}$ $\\textbf{exceeds}$ its total value of $\\textbf{exports}$, a condition that widened for the U.S. in 1999.",
+        "image": "",
+        "options": [
+            "Budget surplus",
+            "Trade deficit",
+            "Current account surplus",
+            "Capital flight"
+        ],
+        "answer": "Trade deficit",
+        "explanation": "Strong U.S. consumer demand for foreign goods contributed to a widening trade deficit."
+    },
+    {
+        "id": "E956",
+        "text": "The $\\textbf{Y2K}$ phenomenon primarily concerned the potential failure of $\\textbf{legacy}$ $\\textbf{computer}$ $\\textbf{systems}$ to correctly process the transition to the year 2000.",
+        "image": "",
+        "options": [
+            "The North American Free Trade Agreement (NAFTA)",
+            "The failure of legacy computer systems",
+            "A global currency collapse",
+            "The launch of the internet"
+        ],
+        "answer": "The failure of legacy computer systems",
+        "explanation": "Massive corporate and government spending occurred in 1999 to mitigate the Y2K risk."
+    },
+    {
+        "id": "E957",
+        "text": "A country's government or central bank uses **fiscal policy** when it manipulates government spending and taxation to influence the economy.",
+        "image": "",
+        "options": [
+            "Monetary policy",
+            "Exchange rate policy",
+            "Fiscal policy",
+            "Trade policy"
+        ],
+        "answer": "Fiscal policy",
+        "explanation": "Debates over the budget surplus involved fiscal policy choices."
+    },
+    {
+        "id": "E958",
+        "text": "The granting of **Permanent Normal Trade Relations (PNTR)** status to China was a major trade policy issue debated in 1999, which would pave the way for its WTO entry.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Russia",
+            "China",
+            "Mexico"
+        ],
+        "answer": "China",
+        "explanation": "This policy change was a highly controversial topic."
+    },
+    {
+        "id": "E959",
+        "text": "A country maintains a **fixed exchange rate** when its central bank intervenes in the foreign exchange market to keep its currency's value tied to another currency or commodity.",
+        "image": "",
+        "options": [
+            "Floating exchange rate",
+            "Fixed exchange rate",
+            "Pegged interest rate",
+            "Managed trade policy"
+        ],
+        "answer": "Fixed exchange rate",
+        "explanation": "Many Asian economies had fixed or pegged exchange rates prior to the 1997-98 crisis, which contributed to their vulnerability."
+    },
+    {
+        "id": "E960",
+        "text": "The $\\textbf{Business}$ $\\textbf{Cycle}$ is the natural, short-run fluctuation in economic activity, characterized by periods of expansion, peak, contraction, and trough.",
+        "image": "",
+        "options": [
+            "Secular Stagnation",
+            "Business Cycle",
+            "Great Moderation",
+            "V-shaped Recovery"
+        ],
+        "answer": "Business Cycle",
+        "explanation": "In 1999, the economy was considered to be in the 'peak' or late 'expansion' phase of the cycle."
+    }
+]

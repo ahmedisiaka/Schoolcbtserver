@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E4001",
+        "text": "The major financial regulatory reform bill signed into law in July 2010 was the $\\textbf{Dodd-Frank}$ $\\textbf{Wall}$ $\\textbf{Street}$ $\\textbf{Reform}$ $\\textbf{and}$ $\\textbf{Consumer}$ $\\textbf{Protection}$ $\\textbf{Act}$.",
+        "image": "",
+        "options": [
+            "The Volcker Act",
+            "The Emergency Economic Stabilization Act (EESA)",
+            "The Dodd-Frank Act",
+            "The Gramm-Leach-Bliley Act"
+        ],
+        "answer": "The Dodd-Frank Act",
+        "explanation": "Dodd-Frank established broad new regulations for the financial sector to prevent a recurrence of the 2008 crisis."
+    },
+    {
+        "id": "E4002",
+        "text": "A key component of Dodd-Frank was the creation of the $\\textbf{Consumer}$ $\\textbf{Financial}$ $\\textbf{Protection}$ $\\textbf{Bureau}$ ($\\textbf{CFPB}$), whose primary role is to:",
+        "image": "",
+        "options": [
+            "Regulate stock market trading",
+            "Oversee insurance companies",
+            "Protect consumers from predatory financial practices (mortgages, credit cards)",
+            "Manage the national debt"
+        ],
+        "answer": "Protect consumers from predatory financial practices (mortgages, credit cards)",
+        "explanation": "The CFPB was designed to standardize regulations for consumer financial products and enforce compliance."
+    },
+    {
+        "id": "E4003",
+        "text": "The $\\textbf{Volcker}$ $\\textbf{Rule}$, a controversial part of Dodd-Frank, aimed to limit $\\textbf{proprietary}$ $\\textbf{trading}$ by banks. What does proprietary trading involve?",
+        "image": "",
+        "options": [
+            "Trading on behalf of clients",
+            "Trading a bank's own capital for its direct profit",
+            "Underwriting new stock issues",
+            "Lending money to small businesses"
+        ],
+        "answer": "Trading a bank's own capital for its direct profit",
+        "explanation": "The rule sought to separate risky speculative activities from FDIC-insured deposit-taking activities to protect taxpayers."
+    },
+    {
+        "id": "E4004",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{Sovereign}$ $\\textbf{Debt}$ $\\textbf{Crisis}$ began in earnest in 2010 with deep concerns over the high debt levels and budget deficit of which member country?",
+        "image": "",
+        "options": [
+            "Germany",
+            "Italy",
+            "Greece",
+            "France"
+        ],
+        "answer": "Greece",
+        "explanation": "Greece's inability to service its sovereign debt without massive bailouts exposed the structural flaws of the Eurozone."
+    },
+    {
+        "id": "E4005",
+        "text": "In response to the Eurozone crisis, member states established the $\\textbf{European}$ $\\textbf{Financial}$ $\\textbf{Stability}$ $\\textbf{Mechanism}$ ($\\textbf{EFSM}$) and the $\\textbf{European}$ $\\textbf{Financial}$ $\\textbf{Stability}$ $\\textbf{Facility}$ ($\\textbf{EFSF}$) to provide:",
+        "image": "",
+        "options": [
+            "A common Eurozone tax rate",
+            "Direct debt monetization",
+            "Emergency loans and guarantees to struggling member states",
+            "A European army"
+        ],
+        "answer": "Emergency loans and guarantees to struggling member states",
+        "explanation": "These mechanisms were the first line of defense to stabilize countries whose debt markets had seized up."
+    },
+    {
+        "id": "E4006",
+        "text": "The economic policy implemented by peripheral Eurozone countries like Greece and Spain to reduce budget deficits and debt was generally referred to as $\\textbf{Austerity}$.",
+        "image": "",
+        "options": [
+            "Inflationary spending",
+            "Austerity",
+            "Quantitative Easing",
+            "Currency manipulation"
+        ],
+        "answer": "Austerity",
+        "explanation": "Austerity involves aggressive cuts in public spending, public sector wages, and tax increases, which often led to deeper recessions in those countries."
+    },
+    {
+        "id": "E4007",
+        "text": "The Federal Reserve ended the $\\textbf{first}$ $\\textbf{round}$ $\\textbf{of}$ $\\textbf{Quantitative}$ $\\textbf{Easing}$ ($\\textbf{QE1}$) in March 2010. What specific asset purchases did it cease at that time?",
+        "image": "",
+        "options": [
+            "Corporate stocks",
+            "Short-term Treasury bills",
+            "Mortgage-Backed Securities (MBS) and Agency Debt",
+            "Gold"
+        ],
+        "answer": "Mortgage-Backed Securities (MBS) and Agency Debt",
+        "explanation": "QE1 successfully lowered mortgage rates and helped stabilize the housing finance market. Its end led to a market lull and the eventual proposal of QE2."
+    },
+    {
+        "id": "E4008",
+        "text": "The primary economic risk the Fed sought to combat with the threat of $\\textbf{QE2}$ later in 2010 was the ongoing threat of $\\textbf{Deflation}$.",
+        "image": "",
+        "options": [
+            "High inflation",
+            "Deflation",
+            "Excessive government surpluses",
+            "A strong U.S. dollar"
+        ],
+        "answer": "Deflation",
+        "explanation": "With inflation well below its 2% target and the recovery stalling, the Fed worried about a deflationary spiral, which QE2 aimed to prevent."
+    },
+    {
+        "id": "E4009",
+        "text": "In 2010, the $\\textbf{First-Time}$ $\textbf{Homebuyer}$ $\textbf{Tax}$ $\textbf{Credit}$ and the $\\textbf{Car}$ $\textbf{Allowance}$ $\\textbf{Rebate}$ $\textbf{System}$ ($\\textbf{CARS}$), which were major parts of the ARRA stimulus, both:",
+        "image": "",
+        "options": [
+            "Were made permanent",
+            "Were expanded to all sectors",
+            "Expired or were phased out",
+            "Were deemed illegal"
+        ],
+        "answer": "Expired or were phased out",
+        "explanation": "As temporary stimulus measures, they had a short-term boost but were not renewed, contributing to the 'fiscal cliff' debates."
+    },
+    {
+        "id": "E4010",
+        "text": "The major U.S. economic debate in 2010 centered on the high $\\textbf{structural}$ $\\textbf{deficit}$. The structural deficit is the portion that remains even when the economy is:",
+        "image": "",
+        "options": [
+            "In a depression",
+            "Operating at full employment",
+            "Experiencing hyperinflation",
+            "Engaged in a trade war"
+        ],
+        "answer": "Operating at full employment",
+        "explanation": "The structural deficit reflects long-term imbalances between spending commitments and tax revenue, regardless of the business cycle."
+    },
+    {
+        "id": "E4011",
+        "text": "The $\\textbf{high}$ $\\textbf{unemployment}$ $\\textbf{rate}$ in 2010, despite GDP recovery, led to the term $\\textbf{'Jobless}$ $\textbf{Recovery}'$. This was partly due to businesses:",
+        "image": "",
+        "options": [
+            "Over-hiring during the recession",
+            "Maximizing efficiency with existing staff and delaying new hiring",
+            "Facing too many labor union strikes",
+            "Relocating all operations overseas"
+        ],
+        "answer": "Maximizing efficiency with existing staff and delaying new hiring",
+        "explanation": "Firms delayed investment and hiring until the recovery was more certain, preferring to extract more output from current workers."
+    },
+    {
+        "id": "E4012",
+        "text": "The term $\\textbf{Shadow}$ $\\textbf{Inventory}$ gained prominence in 2010. It refers to the large number of properties that were:",
+        "image": "",
+        "options": [
+            "Built without permits",
+            "Homes owned by private equity firms",
+            "Foreclosed on by banks but not yet listed for sale",
+            "Vacant government buildings"
+        ],
+        "answer": "Foreclosed on by banks but not yet listed for sale",
+        "explanation": "This backlog of unlisted homes represented a supply overhang that continued to depress housing prices."
+    },
+    {
+        "id": "E4013",
+        "text": "Which new provision of Dodd-Frank gave regulators the power to seize and unwind a massive failing financial institution without taxpayer bailout funds?",
+        "image": "",
+        "options": [
+            "The Volcker Rule",
+            "Orderly Liquidation Authority (OLA)",
+            "The Brady Rule",
+            "The CFPB Mandate"
+        ],
+        "answer": "Orderly Liquidation Authority (OLA)",
+        "explanation": "OLA was intended to end 'Too Big to Fail' by establishing a clear procedure for liquidating failing systemically important financial institutions."
+    },
+    {
+        "id": "E4014",
+        "text": "The term $\\textbf{PIIGS}$ was often used in 2010 to refer to the financially distressed Eurozone nations: Portugal, Ireland, Italy, Greece, and Spain.",
+        "image": "",
+        "options": [
+            "France, Germany, Netherlands",
+            "Portugal, Ireland, Italy, Greece, and Spain",
+            "Sweden, Denmark, Norway, Iceland",
+            "Czech Republic, Poland, Hungary"
+        ],
+        "answer": "Portugal, Ireland, Italy, Greece, and Spain",
+        "explanation": "These five countries faced a common crisis of excessive sovereign debt or banking losses, threatening the stability of the Euro."
+    },
+    {
+        "id": "E4015",
+        "text": "The $\\textbf{Systemic}$ $\\textbf{Risk}$ $\\textbf{Council}$ (FSOC) was created by Dodd-Frank with the primary power to:",
+        "image": "",
+        "options": [
+            "Set the Federal Funds Rate",
+            "Approve all mortgage applications",
+            "Designate institutions as 'Systemically Important Financial Institutions' ($\textbf{SIFIs}$)",
+            "Oversee all foreign trade"
+        ],
+        "answer": "Designate institutions as 'Systemically Important Financial Institutions' ($\textbf{SIFIs}$)",
+        "explanation": "SIFIs face stricter capital and leverage requirements because their failure poses a risk to the entire financial system."
+    },
+    {
+        "id": "E4016",
+        "text": "In 2010, the U.S. Federal Reserve maintained its $\\textbf{Zero}$ $\\textbf{Interest}$ $\\textbf{Rate}$ $\\textbf{Policy}$ ($\\textbf{ZIRP}$). The target range for the Federal Funds Rate remained:",
+        "image": "",
+        "options": [
+            "2.00% to 2.25%",
+            "0.00% to 0.25%",
+            "Negative 0.50% to 0.00%",
+            "1.50% to 1.75%"
+        ],
+        "answer": "0.00% to 0.25%",
+        "explanation": "The Fed kept rates near zero to encourage lending and borrowing, providing maximum monetary stimulus."
+    },
+    {
+        "id": "E4017",
+        "text": "The $\\textbf{unemployment}$ $\\textbf{rate}$ in 2010 was often criticized for understating the true labor market distress due to a high number of $\\textbf{discouraged}$ $\\textbf{workers}$ who:",
+        "image": "",
+        "options": [
+            "Recently quit their jobs",
+            "Are working multiple jobs",
+            "Gave up looking for work and are not counted as unemployed",
+            "Are in the military"
+        ],
+        "answer": "Gave up looking for work and are not counted as unemployed",
+        "explanation": "Discouraged workers falling out of the labor force artificially lowers the official unemployment rate (U-3)."
+    },
+    {
+        "id": "E4018",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{stimulus}$ provided by the $\\textbf{ARRA}$ began to $\\textbf{taper}$ $\\textbf{off}$ in 2010. This tapering caused economic growth to:",
+        "image": "",
+        "options": [
+            "Accelerate rapidly",
+            "Slow down, leading to fears of a double-dip recession",
+            "Stop entirely",
+            "Turn into a surplus"
+        ],
+        "answer": "Slow down, leading to fears of a double-dip recession",
+        "explanation": "The withdrawal of government support in the form of expiring tax credits and spending cuts created a 'fiscal drag' on the still-fragile economy."
+    },
+    {
+        "id": "E4019",
+        "text": "In 2010, the $\\textbf{European}$ $\\textbf{Central}$ $\\textbf{Bank}$ ($\\textbf{ECB}$) faced significant political pressure to $\\textbf{buy}$ $\\textbf{government}$ $\\textbf{bonds}$ from distressed Eurozone nations to keep their borrowing costs down.",
+        "image": "",
+        "options": [
+            "Corporate stock",
+            "U.S. Treasury bonds",
+            "Government bonds from distressed Eurozone nations",
+            "Gold reserves"
+        ],
+        "answer": "Government bonds from distressed Eurozone nations",
+        "explanation": "The ECB's reluctance to immediately buy these bonds was based on its mandate for price stability, leading to market uncertainty."
+    },
+    {
+        "id": "E4020",
+        "text": "The Fed's policy of $\\textbf{reinvesting}$ $\\textbf{principal}$ $\\textbf{payments}$ from its MBS holdings into $\\textbf{Treasury}$ $\\textbf{securities}$ in mid-2010 was the technical move that preceded the formal launch of QE2.",
+        "image": "",
+        "options": [
+            "Selling all its assets",
+            "Raising the Federal Funds Rate",
+            "Reinvesting principal payments from its MBS holdings into Treasury securities",
+            "Lowering reserve requirements"
+        ],
+        "answer": "Reinvesting principal payments from its MBS holdings into Treasury securities",
+        "explanation": "This action maintained the size of the Fed's balance sheet, providing steady support to the market before the expansionary QE2 began."
+    },
+    {
+        "id": "E4021",
+        "text": "The $\\textbf{Stock}$ $\\textbf{Market}$ $\\textbf{Flash}$ $\\textbf{Crash}$ occurred on $\\textbf{May}$ $\\textbf{6,}$ $\\textbf{2010}$, where the Dow Jones Industrial Average plunged nearly 1,000 points in minutes before recovering. The event highlighted risks related to:",
+        "image": "",
+        "options": [
+            "Insider trading",
+            "High-frequency trading ($\textbf{HFT}$) and market infrastructure",
+            "A spike in inflation",
+            "Excessive use of paper trading"
+        ],
+        "answer": "High-frequency trading ($\textbf{HFT}$) and market infrastructure",
+        "explanation": "The crash was later attributed to a combination of HFT algorithms, market fragmentation, and a large, singular sell order."
+    },
+    {
+        "id": "E4022",
+        "text": "The $\\textbf{International}$ $\\textbf{Monetary}$ $\\textbf{Fund}$ ($\\textbf{IMF}$) and the $\\textbf{European}$ $\\textbf{Commission}$ joined the ECB to form the $\\textbf{Troika}$, the group responsible for imposing and monitoring bailout conditions on Eurozone debtor nations.",
+        "image": "",
+        "options": [
+            "The World Bank",
+            "The International Monetary Fund ($\textbf{IMF}$)",
+            "The Federal Reserve",
+            "The World Trade Organization"
+        ],
+        "answer": "The International Monetary Fund ($\textbf{IMF}$)",
+        "explanation": "The IMF's involvement brought global financial power and experience in dealing with sovereign debt crises to the Eurozone's problems."
+    },
+    {
+        "id": "E4023",
+        "text": "Which measure of inflation remained persistently $\\textbf{low}$ in 2010, giving the Federal Reserve the justification to continue with aggressive stimulus measures?",
+        "image": "",
+        "options": [
+            "Headline CPI (due to energy)",
+            "Core CPI (excluding food and energy)",
+            "The price of gold",
+            "The national debt"
+        ],
+        "answer": "Core CPI (excluding food and energy)",
+        "explanation": "The Core CPI was seen as a better predictor of long-term price trends and remained well below the Fed's target, indicating slack in the economy."
+    },
+    {
+        "id": "E4024",
+        "text": "The debate over the extension of the $\\textbf{Bush-era}$ $\\textbf{Tax}$ $\\textbf{Cuts}$ in late 2010 centered on whether to extend them for:",
+        "image": "",
+        "options": [
+            "No one, letting them all expire",
+            "Only the lowest income brackets",
+            "All income brackets, including the wealthy",
+            "Only corporations"
+        ],
+        "answer": "All income brackets, including the wealthy",
+        "explanation": "The compromise reached at the end of 2010 extended the cuts for everyone for two years, avoiding a large fiscal contraction."
+    },
+    {
+        "id": "E4025",
+        "text": "The $\\textbf{long-term}$ $\\textbf{unemployed}$ (out of work for 27 weeks or more) became a significant fraction of total unemployment in 2010, leading to concerns about $\\textbf{hysteresis}$, which is:",
+        "image": "",
+        "options": [
+            "Temporary unemployment due to a job search",
+            "The long-term damage to the labor force from unemployment becoming permanent",
+            "High inflation and unemployment combined",
+            "Workers moving to new cities"
+        ],
+        "answer": "The long-term damage to the labor force from unemployment becoming permanent",
+        "explanation": "Hysteresis refers to the idea that prolonged unemployment can lead to skill degradation, making it harder for workers to find future jobs, even when the economy recovers."
+    },
+    {
+        "id": "E4026",
+        "text": "The $\\textbf{derivatives}$ market, specifically the trading of $\\textbf{swaps}$, was a focus of Dodd-Frank reform. The legislation required these complex products to be moved from $\\textbf{over-the-counter}$ private deals onto:",
+        "image": "",
+        "options": [
+            "Private equity funds",
+            "Regulated exchanges and clearing houses",
+            "Foreign central banks",
+            "Offshore tax havens"
+        ],
+        "answer": "Regulated exchanges and clearing houses",
+        "explanation": "Moving swaps to clearing houses increases transparency and reduces counterparty risk by mandating that a central clearing party guarantees the trade."
+    },
+    {
+        "id": "E4027",
+        "text": "In 2010, the U.S. government took over control of which two major banks, following a series of government-backed restructurings?",
+        "image": "",
+        "options": [
+            "Bank of America and Citigroup",
+            "JPMorgan Chase and Goldman Sachs",
+            "General Motors and Chrysler",
+            "Fannie Mae and Freddie Mac"
+        ],
+        "answer": "Fannie Mae and Freddie Mac",
+        "explanation": "While they were already in conservatorship, their continued massive financial losses made their de facto nationalization a key fiscal issue."
+    },
+    {
+        "id": "E4028",
+        "text": "The $\\textbf{primary}$ $\\textbf{concern}$ driving the $\\textbf{Eurozone}$ $\\textbf{sovereign}$ $\\textbf{debt}$ $\\textbf{crisis}$ in 2010 was the risk of $\\textbf{default}$ and its $\\textbf{contagion}$ effect on banks holding those government bonds.",
+        "image": "",
+        "options": [
+            "Hyperinflation",
+            "Default and its contagion effect on banks holding those government bonds",
+            "Rapid economic growth",
+            "Trade surplus"
+        ],
+        "answer": "Default and its contagion effect on banks holding those government bonds",
+        "explanation": "A default by a government would have caused massive losses for banks that held that country's bonds, threatening a systemic banking crisis across Europe."
+    },
+    {
+        "id": "E4029",
+        "text": "What type of financial institutions, often operating regionally, were particularly slow to recover and continued to struggle with loan losses in 2010?",
+        "image": "",
+        "options": [
+            "Large investment banks (like Goldman Sachs)",
+            "Smaller and regional banks",
+            "The Federal Reserve Banks",
+            "Foreign exchange trading firms"
+        ],
+        "answer": "Smaller and regional banks",
+        "explanation": "Many smaller banks held high exposure to commercial real estate (CRE) loans, which experienced defaults later than residential mortgages."
+    },
+    {
+        "id": "E4030",
+        "text": "The $\\textbf{recession}$ $\\textbf{officially}$ $\\textbf{ended}$ in $\\textbf{June}$ $\\textbf{2009}$, but the $\\textbf{Jobless}$ $\\textbf{Recovery}$ meant that most Americans didn't feel the effects until employment began to noticeably increase in:",
+        "image": "",
+        "options": [
+            "Late 2009",
+            "Early 2010",
+            "Late 2011/Early 2012",
+            "2015"
+        ],
+        "answer": "Late 2011/Early 2012",
+        "explanation": "The recovery was so slow that it took several years for the unemployment rate to fall significantly and for substantial wage growth to resume."
+    },
+    {
+        "id": "E4031",
+        "text": "The $\\textbf{primary}$ $\\textbf{economic}$ $\\textbf{argument}$ against the $\\textbf{Volcker}$ $\\textbf{Rule}$ was that it would reduce $\\textbf{liquidity}$ and increase costs in the markets, making it harder for firms to hedge risks.",
+        "image": "",
+        "options": [
+            "It was too simple to implement",
+            "It would lead to lower taxes",
+            "It would reduce liquidity and increase costs in the markets",
+            "It only applied to small banks"
+        ],
+        "answer": "It would reduce liquidity and increase costs in the markets",
+        "explanation": "Critics argued that proprietary trading contributed to market depth and efficiency, and restricting it would make trading more difficult."
+    },
+    {
+        "id": "E4032",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ was criticized in 2010 for $\\textbf{paying}$ $\\textbf{interest}$ on $\\textbf{excess}$ $\\textbf{reserves}$ ($\\textbf{IOER}$) held by banks. The effect of this was to:",
+        "image": "",
+        "options": [
+            "Force banks to lend money",
+            "Encourage banks to hold reserves rather than lend them out",
+            "Increase the money supply rapidly",
+            "Punish banks that had been bailed out"
+        ],
+        "answer": "Encourage banks to hold reserves rather than lend them out",
+        "explanation": "IOER acts as a lower bound for the Federal Funds Rate and gave banks a risk-free return on their reserves, making them less willing to take on the risk of lending."
+    },
+    {
+        "id": "E4033",
+        "text": "As the U.S. recovery stalled in mid-2010, the term $\\textbf{secular}$ $\\textbf{stagnation}$ was beginning to be used, referring to a potential future of:",
+        "image": "",
+        "options": [
+            "Rapid, uncontrollable growth",
+            "Sustained low growth, low inflation, and high unemployment",
+            "High inflation and high interest rates",
+            "Massive foreign trade deficits"
+        ],
+        "answer": "Sustained low growth, low inflation, and high unemployment",
+        "explanation": "This was the fear that the U.S. economy might have entered a prolonged period of weak demand and slow growth."
+    },
+    {
+        "id": "E4034",
+        "text": "Dodd-Frank established the $\\textbf{Clearing}$ $\\textbf{Requirement}$ for certain types of derivatives. This mandate aimed to reduce $\\textbf{counterparty}$ $\\textbf{risk}$, which is the risk that:",
+        "image": "",
+        "options": [
+            "A currency will fluctuate widely",
+            "The party on the other side of a trade will default",
+            "A product will be mispriced",
+            "The Federal Reserve will raise rates unexpectedly"
+        ],
+        "answer": "The party on the other side of a trade will default",
+        "explanation": "Central clearing ensures that if one party defaults, the clearing house absorbs the loss, not the counterparty."
+    },
+    {
+        "id": "E4035",
+        "text": "In 2010, China's central bank announced it would allow its currency, the $\\textbf{Yuan}$ ($\\\textbf{Renminbi}$), to $\\textbf{fluctuate}$ $\\textbf{more}$ $\\textbf{freely}$ against the dollar, easing political tensions over $\\textbf{currency}$ $\\textbf{manipulation}$.",
+        "image": "",
+        "options": [
+            "Franc",
+            "Yuan (Renminbi)",
+            "Rupee",
+            "Pound"
+        ],
+        "answer": "Yuan (Renminbi)",
+        "explanation": "China had faced heavy criticism for keeping the Yuan pegged at an artificially low rate to boost its exports."
+    },
+    {
+        "id": "E4036",
+        "text": "The $\\textbf{Temporary}$ $\\textbf{Payroll}$ $\\textbf{Tax}$ $\\textbf{Cut}$ was passed in late 2010, taking effect in 2011. The primary purpose was to:",
+        "image": "",
+        "options": [
+            "Increase corporate investment",
+            "Boost consumer spending by increasing take-home pay",
+            "Reduce the national debt",
+            "Fund new infrastructure projects"
+        ],
+        "answer": "Boost consumer spending by increasing take-home pay",
+        "explanation": "This was a temporary fiscal stimulus designed to inject cash into the hands of consumers, who were expected to spend most of it immediately."
+    },
+    {
+        "id": "E4037",
+        "text": "The $\\textbf{European}$ $\\textbf{Sovereign}$ $\\textbf{Debt}$ $\\textbf{Crisis}$ was unique because Eurozone nations shared a $\\textbf{common}$ $\\textbf{currency}$ ($\\\textbf{Euro}$) but retained $\\textbf{independent}$ $\\textbf{fiscal}$ $\\textbf{policies}$ (taxing and spending).",
+        "image": "",
+        "options": [
+            "Trade agreements",
+            "Independent fiscal policies",
+            "Political leadership",
+            "Education systems"
+        ],
+        "answer": "Independent fiscal policies",
+        "explanation": "The lack of fiscal coordination was a fundamental weakness that allowed countries to accumulate unsustainable levels of debt, destabilizing the whole currency union."
+    },
+    {
+        "id": "E4038",
+        "text": "In late 2010, the debate over $\\textbf{monetary}$ $\\textbf{policy}$ escalated as the Fed formally announced $\\textbf{QE2}$. Critics argued that expanding the Fed's balance sheet would eventually lead to:",
+        "image": "",
+        "options": [
+            "Deflation",
+            "Uncontrollable inflation and dollar collapse",
+            "Lower corporate taxes",
+            "A trade surplus"
+        ],
+        "answer": "Uncontrollable inflation and dollar collapse",
+        "explanation": "By injecting massive liquidity, critics feared the money would eventually flood the economy, causing hyperinflation once the recessionary slack was absorbed."
+    },
+    {
+        "id": "E4039",
+        "text": "The $\\textbf{HAMP}$ mortgage modification program continued in 2010 but was heavily criticized because the rate of permanent loan modifications was $\\textbf{low}$ compared to the rate of $\\textbf{re-default}$.",
+        "image": "",
+        "options": [
+            "The price of gold",
+            "The rate of re-default",
+            "The rate of new home construction",
+            "The rate of job creation"
+        ],
+        "answer": "The rate of re-default",
+        "explanation": "Many temporary modifications did not become permanent, and a high percentage of permanent modifications still resulted in the homeowner eventually defaulting again."
+    },
+    {
+        "id": "E4040",
+        "text": "The $\\textbf{Durbin}$ $\\textbf{Amendment}$ to Dodd-Frank capped the fees merchants pay banks for processing $\\textbf{debit}$ $\\textbf{card}$ $\\textbf{transactions}$.",
+        "image": "",
+        "options": [
+            "Credit card transactions",
+            "Debit card transactions",
+            "Wire transfers",
+            "Stock purchases"
+        ],
+        "answer": "Debit card transactions",
+        "explanation": "This amendment was a significant win for retailers, lowering the interchange fees they had to pay for debit card processing."
+    }
+]

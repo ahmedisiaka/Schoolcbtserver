@@ -1,0 +1,522 @@
+[
+    {
+        "id": "LIT01",
+        "text": "The 2021 $\\textbf{Nobel Prize in Literature}$ was awarded to $\\textbf{Abdulrazak Gurnah}$ for his uncompromising and compassionate penetration of the effects of $\\textbf{Colonialism}$ and the fate of the $\\textbf{Refugee}$.",
+        "image": "",
+        "options": [
+            "Oceania",
+            "Tanzania",
+            "Nigeria",
+            "Jamaica"
+        ],
+        "answer": "Tanzania",
+        "explanation": "Gurnah, a Tanzanian novelist based in the UK, is best known for his novel $\\textit{Paradise}$ and his focus on displacement and memory."
+    },
+    {
+        "id": "LIT02",
+        "text": "The novel $\\textbf{The Promise}$ by Damon Galgut, which won the $\\textbf{Booker Prize}$ in 2021, is set in $\\textbf{South Africa}$ and traces the dissolution of a white family over four $\\textbf{Funerals}$.",
+        "image": "",
+        "options": [
+            "Nigeria",
+            "South Africa",
+            "India",
+            "Canada"
+        ],
+        "answer": "South Africa",
+        "explanation": "Galgut is a South African writer; his novel critiques the country's post-apartheid history through a multi-generational family saga."
+    },
+    {
+        "id": "LIT03",
+        "text": "The $\\textbf{Inaugural Poet}$ for the 2021 US Presidential Inauguration was $\\textbf{Amanda Gorman}$, who delivered the poem $\\textit{The Hill We Climb}$.",
+        "image": "",
+        "options": [
+            "Maya Angelou",
+            "Louise Glück",
+            "Amanda Gorman",
+            "Ada Limón"
+        ],
+        "answer": "Amanda Gorman",
+        "explanation": "Gorman was the youngest inaugural poet in US history, and her poem became a global phenomenon, focusing on unity and hope."
+    },
+    {
+    "id": "LIT04",
+        "text": "The 2021 $\\textbf{Pulitzer Prize}$ for Fiction was awarded to $\\textbf{Louise Erdrich}$ for $\\textit{The Night Watchman}$, a novel inspired by her grandfather's fight against Native American $\\textbf{Termination}$ policies.",
+        "image": "",
+        "options": [
+            "Indigenous Identity",
+            "The Civil War",
+            "The Great Depression",
+            "The Vietnam War"
+        ],
+        "answer": "Indigenous Identity",
+        "explanation": "Erdrich is an enrolled member of the Turtle Mountain Band of Chippewa; her novel is set on a Chippewa reservation in North Dakota."
+    },
+    {
+        "id": "LIT05",
+        "text": "The $\\textbf{Booker International Prize}$ in 2021 was won by $\\textbf{David Diop}$ for $\\textit{At Night All Blood is Black}$, focusing on a $\\textbf{Senegalese Soldier}$ fighting for $\\textbf{France}$ in World War I.",
+        "image": "",
+        "options": [
+            "A Japanese Fisherman",
+            "A Senegalese Soldier",
+            "A Vietnamese Refugee",
+            "An Algerian Academic"
+        ],
+        "answer": "A Senegalese Soldier",
+        "explanation": "The novel explores themes of trauma, madness, and colonial violence on the Western Front."
+    },
+    {
+        "id": "LIT06",
+        "text": "The popular genre of $\\textbf{Climate Fiction}$ ($\\,\\textbf{Cli-Fi}$), which gained traction in 2021, uses narrative to explore themes of environmental $\\textbf{Disaster}$ and planetary $\\textbf{Change}$.",
+        "image": "",
+        "options": [
+            "Gothic Literature",
+            "Utopian Literature",
+            "Climate Fiction",
+            "Steampunk"
+        ],
+        "answer": "Climate Fiction",
+        "explanation": "Cli-Fi is a subgenre of science fiction that addresses climate change and global warming."
+    },
+    {
+        "id": "LIT07",
+        "text": "The author of $\\textit{Where the Crawdads Sing}$, a global bestseller adapted into a film around 2021, is $\\textbf{Delia Owens}$, and the book is a blend of murder mystery and $\\textbf{Coming-of-Age}$ narrative.",
+        "image": "",
+        "options": [
+            "Liane Moriarty",
+            "Delia Owens",
+            "Gillian Flynn",
+            "Paula Hawkins"
+        ],
+        "answer": "Delia Owens",
+        "explanation": "The novel is set in the isolated marshlands of North Carolina and features detailed naturalistic descriptions."
+    },
+    {
+        "id": "LIT08",
+        "text": "The $\\textbf{Sonnet}$ form, traditionally favored by $\\textbf{Shakespeare}$, consists of $\\textbf{Fourteen}$ lines and follows a specific $\\textbf{Rhyme Scheme}$.",
+        "image": "",
+        "options": [
+            "Eight",
+            "Ten",
+            "Twelve",
+            "Fourteen"
+        ],
+        "answer": "Fourteen",
+        "explanation": "The Shakespearean or English sonnet uses the rhyme scheme ABAB CDCD EFEF GG."
+    },
+    {
+        "id": "LIT09",
+        "text": "The term $\\textbf{Stream of Consciousness}$ refers to a narrative method that attempts to depict the $\\textbf{Multifaceted}$ thoughts and feelings passing through the $\\textbf{Minds}$ of the characters.",
+        "image": "",
+        "options": [
+            "External Dialogue",
+            "Omniscient Narration",
+            "Stream of Consciousness",
+            "Epistolary Format"
+        ],
+        "answer": "Stream of Consciousness",
+        "explanation": "Notable examples include James Joyce’s $\\textit{Ulysses}$ and Virginia Woolf’s $\\textit{Mrs. Dalloway}$."
+    },
+    {
+        "id": "LIT10",
+        "text": "The genre of $\\textbf{Historical Fiction}$ (popular in 2021 releases) typically sets its story in a recognizable $\\textbf{Past}$ era and integrates real-life events, people, and $\\textbf{Settings}$.",
+        "image": "",
+        "options": [
+            "Future",
+            "Present",
+            "Past",
+            "Imaginary Realm"
+        ],
+        "answer": "Past",
+        "explanation": "The setting is crucial, and the conflict often arises from the characters' place within documented historical circumstances."
+    },
+    {
+        "id": "LIT11",
+        "text": "In $\\textbf{Tragedy}$, the $\\textbf{Hamartia}$ refers to the fatal $\\textbf{Flaw}$ or error in judgment that leads to the downfall of the $\\textbf{Protagonist}$.",
+        "image": "",
+        "options": [
+            "Plot Twist",
+            "Hamartia",
+            "Chorus",
+            "Deus ex Machina"
+        ],
+        "answer": "Hamartia",
+        "explanation": "This is a key concept in Aristotle's analysis of tragedy, often mistakenly translated simply as 'tragic flaw'."
+    },
+    {
+        "id": "LIT12",
+        "text": "The novel $\\textit{Klara and the Sun}$ by $\\textbf{Kazuo Ishiguro}$ (published in 2021) explores the human condition through the eyes of an $\\textbf{Artificial Friend}$ (AF).",
+        "image": "",
+        "options": [
+            "Margaret Atwood",
+            "J.K. Rowling",
+            "Kazuo Ishiguro",
+            "Haruki Murakami"
+        ],
+        "answer": "Kazuo Ishiguro",
+        "explanation": "Ishiguro is a Nobel laureate whose work often blends science fiction and emotional depth to examine memory and artificiality."
+    },
+    {
+        "id": "LIT13",
+        "text": "The $\\textbf{Victorian Era}$ (1837-1901) is known for its focus on $\\textbf{Realism}$, social $\\textbf{Critique}$, and the rise of the $\\textbf{Novel}$ as the dominant literary form.",
+        "image": "",
+        "options": [
+            "Romanticism",
+            "Modernism",
+            "Victorian Era",
+            "Postmodernism"
+        ],
+        "answer": "Victorian Era",
+        "explanation": "Charles Dickens, George Eliot, and Thomas Hardy are central figures of this period."
+    },
+    {
+        "id": "LIT14",
+        "text": "A $\\textbf{Metaphor}$ is a figure of speech that directly compares two unlike $\\textbf{Things}$ without using 'like' or 'as'.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Hyperbole",
+            "Metaphor",
+            "Personification"
+        ],
+        "answer": "Metaphor",
+        "explanation": "Example: 'The world is a stage' (from Shakespeare's $\\textit{As You Like It}$)."
+    },
+    {
+        "id": "LIT15",
+        "text": "The epic poem $\\textit{Beowulf}$, a foundational work of English literature, was originally written in $\\textbf{Old English}$ and features a heroic $\\textbf{Geatish Warrior}$.",
+        "image": "",
+        "options": [
+            "Middle English",
+            "Old English",
+            "Latin",
+            "Norman French"
+        ],
+        "answer": "Old English",
+        "explanation": "It is the longest and most important surviving heroic poem written in Old English, dating to between the 8th and 11th centuries."
+    },
+    {
+        "id": "LIT16",
+        "text": "The literary term $\\textbf{Gothic}$ refers to a style characterized by $\\textbf{Mystery}$, horror, and the $\\textbf{Supernatural}$, often set in isolated $\\textbf{Castles}$.",
+        "image": "",
+        "options": [
+            "Aesthetics",
+            "Gothic",
+            "Satire",
+            "Neoclassicism"
+        ],
+        "answer": "Gothic",
+        "explanation": "Key works include $\\textit{Frankenstein}$ and $\\textit{Dracula}$."
+    },
+    {
+        "id": "LIT17",
+        "text": "The central idea or message of a literary work is called the $\\textbf{Theme}$, which usually offers an insight into life or the $\\textbf{Human Condition}$.",
+        "image": "",
+        "options": [
+            "Plot",
+            "Setting",
+            "Theme",
+            "Imagery"
+        ],
+        "answer": "Theme",
+        "explanation": "Themes are broad ideas, such as 'love conquers all' or 'the danger of unchecked ambition'."
+    },
+    {
+        "id": "LIT18",
+        "text": "The $\\textbf{Renaissance}$ period in England saw the flourishing of drama, most notably through the plays of $\\textbf{William Shakespeare}$.",
+        "image": "",
+        "options": [
+            "Jonathan Swift",
+            "William Wordsworth",
+            "William Shakespeare",
+            "T.S. Eliot"
+        ],
+        "answer": "William Shakespeare",
+        "explanation": "Shakespeare's works define the late Renaissance, or Elizabethan/Jacobean era, in English literature."
+    },
+    {
+        "id": "LIT19",
+        "text": "The poetic device of $\\textbf{Alliteration}$ involves the repetition of $\\textbf{Initial Consonant Sounds}$ in two or more neighboring $\\textbf{Words}$.",
+        "image": "",
+        "options": [
+            "Vowel Sounds",
+            "Initial Consonant Sounds",
+            "End Rhymes",
+            "Silent Letters"
+        ],
+        "answer": "Initial Consonant Sounds",
+        "explanation": "Example: 'Peter Piper picked a peck of pickled peppers'."
+    },
+    {
+        "id": "LIT20",
+        "text": "The novel $\\textit{Caste: The Origins of Our Discontents}$ by $\\textbf{Isabel Wilkerson}$ (a major 2021 non-fiction topic) argues that America has a hidden $\\textbf{Hierarchy}$ structured like $\\textbf{India's}$ system.",
+        "image": "",
+        "options": [
+            "Social Mobility",
+            "Economic Equality",
+            "Racial Caste System",
+            "Political Factionalism"
+        ],
+        "answer": "Racial Caste System",
+        "explanation": "The book connects the historical structure of race relations in the US to caste systems found globally."
+    },
+    {
+        "id": "LIT21",
+        "text": "A $\\textbf{Couplet}$ is a pair of successive lines of $\\textbf{Verse}$ that typically $\\textbf{Rhyme}$ and have the same $\\textbf{Meter}$.",
+        "image": "",
+        "options": [
+            "Stanza",
+            "Quatrain",
+            "Couplet",
+            "Octave"
+        ],
+        "answer": "Couplet",
+        "explanation": "Shakespeare often used a rhyming couplet to conclude a sonnet or scene in a play."
+    },
+    {
+        "id": "LIT22",
+        "text": "The $\\textbf{Romantic Period}$ (late 18th to mid-19th century) emphasized $\\textbf{Emotion}$, individualism, and the $\\textbf{Sublime}$ beauty of $\\textbf{Nature}$.",
+        "image": "",
+        "options": [
+            "Reason and Logic",
+            "Social Conformity",
+            "Nature",
+            "Urbanization"
+        ],
+        "answer": "Nature",
+        "explanation": "Wordsworth, Coleridge, and Keats are key figures who championed the power of nature and individual feeling."
+    },
+    {
+        "id": "LIT23",
+        "text": "The term $\\textbf{Irony}$ refers to a contrast or $\\textbf{Discrepancy}$ between appearance and reality, often between what is $\\textbf{Said}$ and what is $\\textbf{Meant}$.",
+        "image": "",
+        "options": [
+            "Repetition",
+            "Foreshadowing",
+            "Irony",
+            "Allusion"
+        ],
+        "answer": "Irony",
+        "explanation": "Dramatic irony occurs when the audience knows something the characters do not."
+    },
+    {
+        "id": "LIT24",
+        "text": "$\\textbf{Philip Pullman}$'s $\\textit{The Book of Dust}$ trilogy (completed around 2021) is a prequel/sequel to $\\textit{His Dark Materials}$, heavily featuring the city of $\\textbf{Oxford}$.",
+        "image": "",
+        "options": [
+            "Cambridge",
+            "Edinburgh",
+            "Oxford",
+            "London"
+        ],
+        "answer": "Oxford",
+        "explanation": "Pullman's alternate reality often centers around the scholarly and spiritual life of the fictional Jordan College, Oxford."
+    },
+    {
+        "id": "LIT25",
+        "text": "The literary movement of $\\textbf{Modernism}$ (early 20th century) is characterized by $\\textbf{Experimentation}$, fragmented narratives, and a sense of $\\textbf{Disillusionment}$.",
+        "image": "",
+        "options": [
+            "Emphasis on tradition",
+            "Fragmented Narratives",
+            "Clear Moral Lessons",
+            "Simple Language"
+        ],
+        "answer": "Fragmented Narratives",
+        "explanation": "Authors like T.S. Eliot, Ezra Pound, and James Joyce utilized non-linear time and multiple perspectives."
+    },
+    {
+        "id": "LIT26",
+        "text": "A $\\textbf{Pastiche}$ is a literary work that $\\textbf{Imitates}$ the style or character of the work of one or more $\\textbf{Other Artists}$.",
+        "image": "",
+        "options": [
+            "Parody",
+            "Satire",
+            "Allegory",
+            "Pastiche"
+        ],
+        "answer": "Pastiche",
+        "explanation": "Unlike parody, pastiche is usually done in a respectful or neutral manner, often seen in postmodern fiction."
+    },
+    {
+        "id": "LIT27",
+        "text": "The term $\\textbf{Bildungsroman}$ refers to a novel that focuses on the psychological and moral $\\textbf{Growth}$ of the $\\textbf{Protagonist}$ from youth to $\\textbf{Adulthood}$.",
+        "image": "",
+        "options": [
+            "Fantasy",
+            "Bildungsroman",
+            "Mystery",
+            "Tragedy"
+        ],
+        "answer": "Bildungsroman",
+        "explanation": "Examples include $\\textit{Jane Eyre}$ and $\\textit{Great Expectations}$."
+    },
+    {
+        "id": "LIT28",
+        "text": "The novel $\\textit{Transcendent Kingdom}$ by $\\textbf{Yaa Gyasi}$ (published in 2020 and widely discussed in 2021) deals with the intersection of $\\textbf{Science}$, faith, and $\\textbf{Immigration}$ in an Ghanaian-American family.",
+        "image": "",
+        "options": [
+            "Science",
+            "Politics",
+            "Warfare",
+            "Finance"
+        ],
+        "answer": "Science",
+        "explanation": "The protagonist is a neuroscience PhD student who studies addiction, balancing her scientific pursuits against her family's evangelical Christian background."
+    },
+    {
+        "id": "LIT29",
+        "text": "A $\\textbf{Foil}$ is a character who contrasts with another character, usually the $\\textbf{Protagonist}$, to highlight certain $\\textbf{Qualities}$ of the other $\\textbf{Character}$.",
+        "image": "",
+        "options": [
+            "Antagonist",
+            "Deuteragonist",
+            "Foil",
+            "Confidant"
+        ],
+        "answer": "Foil",
+        "explanation": "An example is the contrast between the rational Sherlock Holmes and the impulsive Dr. Watson."
+    },
+    {
+        "id": "LIT30",
+        "text": "The $\\textbf{Haiku}$ is a Japanese poetic form that typically consists of $\\textbf{Three}$ phrases with a 5, 7, 5 $\\textbf{Syllable}$ structure.",
+        "image": "",
+        "options": [
+            "Four",
+            "Three",
+            "Five",
+            "Seven"
+        ],
+        "answer": "Three",
+        "explanation": "Haikus traditionally focus on natural imagery and a specific season."
+    },
+    {
+        "id": "LIT31",
+        "text": "The literary device $\\textbf{Anaphora}$ is the repetition of a $\\textbf{Word}$ or $\\textbf{Phrase}$ at the $\\textbf{Beginning}$ of successive clauses or sentences.",
+        "image": "",
+        "options": [
+            "End",
+            "Middle",
+            "Beginning",
+            "Random Point"
+        ],
+        "answer": "Beginning",
+        "explanation": "Example: 'I have a dream' repeated by Martin Luther King Jr."
+    },
+    {
+        "id": "LIT32",
+        "text": "The $\\textbf{Magical Realism}$ genre, strongly associated with Latin American writers, introduces $\\textbf{Fantastical}$ elements into an otherwise $\\textbf{Realistic}$ setting.",
+        "image": "",
+        "options": [
+            "Pure Fantasy",
+            "Absurdist Drama",
+            "Magical Realism",
+            "Dystopian Science Fiction"
+        ],
+        "answer": "Magical Realism",
+        "explanation": "Authors like Gabriel García Márquez seamlessly blend the mundane and the miraculous."
+    },
+    {
+        "id": "LIT33",
+        "text": "The novel $\\textit{Project Hail Mary}$ by $\\textbf{Andy Weir}$ (a 2021 bestseller) falls into the $\\textbf{Hard Science Fiction}$ subgenre due to its rigorous focus on $\\textbf{Scientific}$ accuracy.",
+        "image": "",
+        "options": [
+            "Fantasy",
+            "Mystery",
+            "Hard Science Fiction",
+            "Historical Romance"
+        ],
+        "answer": "Hard Science Fiction",
+        "explanation": "Weir is known for novels like $\\textit{The Martian}$, which rely heavily on real-world engineering and physics."
+    },
+    {
+        "id": "LIT34",
+        "text": "$\\textbf{T.S. Eliot}$'s poem $\\textit{The Waste Land}$ (1922) is a canonical $\\textbf{Modernist}$ work that uses $\\textbf{Allusions}$ and fragmentation to depict the $\\textbf{Spiritual Barrenness}$ of post-WWI Europe.",
+        "image": "",
+        "options": [
+            "Romantic",
+            "Victorian",
+            "Modernist",
+            "Neoclassical"
+        ],
+        "answer": "Modernist",
+        "explanation": "The poem is famous for its intricate structure and its use of multiple languages and voices."
+    },
+    {
+        "id": "LIT35",
+        "text": "The $\\textbf{Heroic Couplet}$, favored by 18th-century writers like $\\textbf{Alexander Pope}$, consists of two rhyming lines of $\\textbf{Iambic Pentameter}$.",
+        "image": "",
+        "options": [
+            "Trochaic Tetrameter",
+            "Iambic Tetrameter",
+            "Iambic Pentameter",
+            "Dactylic Hexameter"
+        ],
+        "answer": "Iambic Pentameter",
+        "explanation": "This structure provides a sense of formality, balance, and closure."
+    },
+    {
+        "id": "LIT36",
+        "text": "The concept of $\\textbf{The Unreliable Narrator}$ gained attention in $\\textbf{Psychological Thrillers}$ (popular in 2021 media) where the narrator's credibility is $\\textbf{Questioned}$.",
+        "image": "",
+        "options": [
+            "Credibility is Absolute",
+            "Credibility is Questioned",
+            "Facts are Always True",
+            "Events are Always Linear"
+        ],
+        "answer": "Credibility is Questioned",
+        "explanation": "This device forces the reader to actively question the story being told, often leading to a twist ending."
+    },
+    {
+        "id": "LIT37",
+        "text": "The literary device $\\textbf{Personification}$ attributes $\\textbf{Human Qualities}$ or actions to inanimate $\\textbf{Objects}$ or $\\textbf{Abstract Ideas}$.",
+        "image": "",
+        "options": [
+            "Animal Instincts",
+            "Natural Phenomena",
+            "Human Qualities",
+            "Divine Power"
+        ],
+        "answer": "Human Qualities",
+        "explanation": "Example: 'The wind whispered through the trees' or 'Justice is blind'."
+    },
+    {
+        "id": "LIT38",
+        "text": "The novel $\\textit{Whereabouts}$ by $\\textbf{Jhumpa Lahiri}$ (published in 2021) was notable because it was the first novel she wrote entirely in $\\textbf{Italian}$, later $\\textbf{Translated}$ into English.",
+        "image": "",
+        "options": [
+            "French",
+            "Italian",
+            "Bengali",
+            "Spanish"
+        ],
+        "answer": "Italian",
+        "explanation": "Lahiri, known for her Bengali-American themes, has been living in Italy and focused on mastering the language."
+    },
+    {
+        "id": "LIT39",
+        "text": "A $\\textbf{Dystopia}$ is an imaginary place where the inhabitants live under $\\textbf{Oppressive}$ control, often presented as a commentary on current political $\\textbf{Trends}$.",
+        "image": "",
+        "options": [
+            "Utopia",
+            "Dystopia",
+            "Eclogue",
+            "Ballad"
+        ],
+        "answer": "Dystopia",
+        "explanation": "Classic examples include $\\textit{1984}$, $\\textit{Brave New World}$, and $\\textit{The Handmaid's Tale}$ (whose themes remained highly relevant in 2021)."
+    },
+    {
+        "id": "LIT40",
+        "text": "The literary device $\\textbf{Foreshadowing}$ involves the author giving subtle $\\textbf{Hints}$ or clues about what will $\\textbf{Happen}$ later in the $\\textbf{Story}$.",
+        "image": "",
+        "options": [
+            "Flashback",
+            "Foreshadowing",
+            "Digression",
+            "Epilogue"
+        ],
+        "answer": "Foreshadowing",
+        "explanation": "Foreshadowing builds suspense and tension for the reader."
+    }
+]

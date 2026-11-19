@@ -1,0 +1,520 @@
+[
+    {
+      "id": "U2016_1",
+      "text": "The year 2016 was defined in Europe by the $\\textbf{Brexit}$ $\\textbf{referendum}$, where a $\\textbf{slim}$ $\\textbf{majority}$ of the UK electorate voted to $\\textbf{leave}$ the European Union. (Comprehension Passage Snippet 1)\n\nWhat major political event occurred in the UK in 2016, based on a slim majority vote?",
+      "image": "",
+      "options": [
+        "A change in the monarchy",
+        "The Brexit referendum",
+        "A shift to a federal system",
+        "The adoption of the Euro"
+      ],
+      "answer": "The Brexit referendum",
+      "explanation": "The text explicitly names the 'Brexit referendum' as the defining event where the majority voted to leave the EU."
+    },
+    {
+      "id": "U2016_2",
+      "text": "The Brexit referendum was a major $\\textbf{upheaval}$ in global politics, signaling a growing trend of $\\textbf{populism}$ and $\\textbf{protectionism}$. (Comprehension Passage Snippet 2)\n\nChoose the word that is closest in meaning to $\\textbf{upheaval}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "A peaceful negotiation",
+        "A slow, steady development",
+        "A violent or sudden change or disruption",
+        "A minor political correction"
+      ],
+      "answer": "A violent or sudden change or disruption",
+      "explanation": "An upheaval means a violent or sudden change or disruption to something."
+    },
+    {
+      "id": "U2016_3",
+      "text": "Following the US Presidential Election, the term $\\textbf{'post-truth'}$ was named the Oxford Dictionaries Word of the Year, $\\textbf{reflecting}$ the $\\textbf{amplification}$ of misinformation. (Comprehension Passage Snippet 3)\n\nWhat term was named the Oxford Dictionaries Word of the Year in 2016, reflecting the spread of misinformation?",
+      "image": "",
+      "options": [
+        "Populism",
+        "Post-truth",
+        "Deepfake",
+        "Blockchain"
+      ],
+      "answer": "Post-truth",
+      "explanation": "The text states that 'post-truth' was named the Word of the Year, reflecting the amplification of misinformation."
+    },
+    {
+      "id": "U2016_4",
+      "text": "Following the US Presidential Election, the term 'post-truth' was named the Oxford Dictionaries Word of the Year, reflecting the $\\textbf{amplification}$ of misinformation. (Comprehension Passage Snippet 3)\n\nChoose the word that is **opposite** in meaning to $\\textbf{amplification}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Intensification",
+        "Magnification",
+        "Reduction or dampening",
+        "Broadcasting"
+      ],
+      "answer": "Reduction or dampening",
+      "explanation": "Amplification means the increase of something's strength or intensity. The opposite is reduction or dampening."
+    },
+    {
+      "id": "U2016_5",
+      "text": "The central bank decided to $\\textbf{put}$ $\\textbf{off}$ the interest rate hike until the economic uncertainty subsided.\n\nChoose the option that best explains the phrasal verb **put off**.",
+      "image": "",
+      "options": [
+        "To light a fire",
+        "To postpone or delay an event",
+        "To discourage someone",
+        "To make a sudden decision"
+      ],
+      "answer": "To postpone or delay an event",
+      "explanation": "To 'put off' means to delay or postpone."
+    },
+    {
+      "id": "U2016_6",
+      "text": "The politician offered a $\\textbf{vehement}$ $\\textbf{denial}$ of all the allegations made against him during the campaign.\n\nChoose the word that is closest in meaning to the word $\\textbf{vehement}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Mild or gentle",
+        "Showing strong feeling; forceful, passionate, or intense",
+        "Hesitant",
+        "Indifferent"
+      ],
+      "answer": "Showing strong feeling; forceful, passionate, or intense",
+      "explanation": "Vehement means showing strong feeling; forceful, passionate, or intense."
+    },
+    {
+      "id": "U2016_7",
+      "text": "If the outcome $\\textbf{(had been/was)}$ different, the global markets would not have reacted so dramatically.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had been",
+        "was",
+        "would be",
+        "is"
+      ],
+      "answer": "had been",
+      "explanation": "This is a Third Conditional sentence (referring to a past hypothetical situation), requiring the past perfect tense ('had been') in the 'if' clause."
+    },
+    {
+      "id": "U2016_8",
+      "text": "The word $\\textbf{'populism'}$ $\\textbf{p o p u l i s m}$.\n\nIdentify the syllable that carries the primary stress in the word **populism**.",
+      "image": "",
+      "options": [
+        "po",
+        "pu",
+        "lism"
+      ],
+      "answer": "po",
+      "explanation": "The primary stress in 'populism' /ˈpɒp.jə.lɪ.zəm/ falls on the first syllable, 'po'."
+    },
+    {
+      "id": "U2016_9",
+      "text": "The scientific community celebrated the $\\textbf{confirmation}$ of $\\textbf{gravitational}$ $\\textbf{waves}$, a $\\textbf{century-old}$ $\\textbf{prediction}$ by Albert Einstein. (Comprehension Passage Snippet 4)\n\nWhat major scientific prediction, made a century ago, was confirmed in 2016?",
+      "image": "",
+      "options": [
+        "The discovery of a new planet",
+        "The theory of relativity's demise",
+        "The existence of gravitational waves",
+        "The creation of cold fusion"
+      ],
+      "answer": "The existence of gravitational waves",
+      "explanation": "The text mentions the 'confirmation of gravitational waves, a century-old prediction by Albert Einstein'."
+    },
+    {
+      "id": "U2016_10",
+      "text": "The confirmation of gravitational waves was a $\\textbf{monumental}$ scientific $\\textbf{discovery}$, opening up a new way to observe the $\\textbf{universe}$. (Comprehension Passage Snippet 4)\n\nChoose the word that is **opposite** in meaning to $\\textbf{monumental}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Enormous or huge",
+        "Insignificant or trivial",
+        "Historic",
+        "Groundbreaking"
+      ],
+      "answer": "Insignificant or trivial",
+      "explanation": "Monumental means great in importance, extent, or size. The opposite is insignificant or trivial."
+    },
+    {
+      "id": "U2016_11",
+      "text": "The official was $\\textbf{indebted}$ $\\textbf{(to/for)}$ the journalists who broke the story.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "The adjective 'indebted' (owing gratitude or money) is always followed by the preposition 'to' (indebted *to* a person)."
+    },
+    {
+      "id": "U2016_12",
+      "text": "The social media platform $\\textbf{altered}$ $\\textbf{its}$ $\\textbf{algorithm}$ $\\textbf{drastically}$ after the election.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Algorithm",
+        "Altered",
+        "Drastically",
+        "Its"
+      ],
+      "answer": "Drastically",
+      "explanation": "'Drastically' modifies the verb 'altered', describing *how* the action took place, making it an adverb."
+    },
+    {
+      "id": "U2016_13",
+      "text": "The world mourned the $\\textbf{sudden}$ $\\textbf{demise}$ of several musical icons in 2016, including Prince and David Bowie.\n\nChoose the word that is closest in meaning to the word $\\textbf{demise}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A great success",
+        "The death or end of existence",
+        "A public reappearance",
+        "A significant achievement"
+      ],
+      "answer": "The death or end of existence",
+      "explanation": "Demise means a person's death or the end or failure of an enterprise or institution."
+    },
+    {
+      "id": "U2016_14",
+      "text": "The word $\\textbf{'referendum'}$ $\\textbf{r e f e r e n d u m}$.\n\nIdentify the syllable that carries the primary stress in the word **referendum**.",
+      "image": "",
+      "options": [
+        "re",
+        "fe",
+        "ren",
+        "dum"
+      ],
+      "answer": "ren",
+      "explanation": "The primary stress in 'referendum' /ˌrɛf.ərˈɛn.dəm/ falls on the third syllable, 'ren'."
+    },
+    {
+      "id": "U2016_15",
+      "text": "The word $\\textbf{'loud'}$ $\\textbf{l o u d}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **loud**?",
+      "image": "",
+      "options": [
+        "Rod",
+        "Low",
+        "Down",
+        "Food"
+      ],
+      "answer": "Down",
+      "explanation": "The vowel sound in 'loud' is the diphthong /aʊ/. The vowel sound in 'Down' is also /aʊ/."
+    },
+    {
+      "id": "U2016_16",
+      "text": "The $\\textbf{controversial}$ $\\textbf{nature}$ of the results $\\textbf{led}$ $\\textbf{to}$ $\\textbf{widespread}$ $\\textbf{unrest}$.\n\nWhich of the words is an $\\textbf{adjective}$?",
+      "image": "",
+      "options": [
+        "Nature",
+        "Controversial",
+        "Results",
+        "Unrest"
+      ],
+      "answer": "Controversial",
+      "explanation": "'Controversial' describes the noun 'nature', making it an adjective."
+    },
+    {
+      "id": "U2016_17",
+      "text": "The opposition leader $\\textbf{(denied/refused)}$ to recognize the legitimacy of the election outcome.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "denied",
+        "refused",
+        "denying",
+        "has denied"
+      ],
+      "answer": "refused",
+      "explanation": "The verb 'refuse' is followed by the infinitive form ('to recognize'), while 'deny' is followed by a gerund ('denied recognizing')."
+    },
+    {
+      "id": "U2016_18",
+      "text": "The rise of the 'post-truth' phenomenon was $\\textbf{inextricably}$ $\\textbf{linked}$ to social media engagement metrics.\n\nChoose the word that is closest in meaning to the word $\\textbf{inextricably}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Loosely or incidentally",
+        "Impossible to separate or disentangle",
+        "Easily broken",
+        "Temporarily"
+      ],
+      "answer": "Impossible to separate or disentangle",
+      "explanation": "Inextricably means impossible to disentangle or separate."
+    },
+    {
+      "id": "U2016_19",
+      "text": "The government attempted to $\\textbf{placate}$ the angry protesters by offering concessions.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{placate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "To soothe or calm",
+        "To appease",
+        "To provoke or anger",
+        "To ignore"
+      ],
+      "answer": "To provoke or anger",
+      "explanation": "To placate means to make (someone) less angry or hostile. The opposite is to provoke or anger."
+    },
+    {
+      "id": "U2016_20",
+      "text": "The word $\\textbf{'controversial'}$ $\\textbf{c o n t r o v e r s i a l}$.\n\nIdentify the syllable that carries the primary stress in the word **controversial**.",
+      "image": "",
+      "options": [
+        "con",
+        "tro",
+        "ver",
+        "sial"
+      ],
+      "answer": "ver",
+      "explanation": "The primary stress in 'controversial' /ˌkɒn.trəˈvɜː.ʃəl/ falls on the third syllable, 'ver'."
+    },
+    {
+      "id": "U2016_21",
+      "text": "The word $\\textbf{'smooth'}$ $\\textbf{s m o o t h}$.\n\nWhich of the following words has the same consonant sound as the final letter 'th' in **smooth**?",
+      "image": "",
+      "options": [
+        "Thin",
+        "Bath",
+        "The",
+        "Truth"
+      ],
+      "answer": "The",
+      "explanation": "The 'th' in 'smooth' /smuːð/ is the voiced sound /ð/. The 'th' in 'The' is also the voiced sound /ð/."
+    },
+    {
+      "id": "U2016_22",
+      "text": "The social $\\textbf{media}$ $\\textbf{platforms}$ $\\textbf{that}$ $\\textbf{spread}$ $\\textbf{false}$ $\\textbf{news}$ were heavily criticized.\n\nWhich of the words is a $\\textbf{relative}$ $\\textbf{pronoun}$?",
+      "image": "",
+      "options": [
+        "Platforms",
+        "That",
+        "Spread",
+        "False"
+      ],
+      "answer": "That",
+      "explanation": "'That' introduces the relative clause ('that spread false news') and refers back to 'platforms', making it a relative pronoun."
+    },
+    {
+      "id": "U2016_23",
+      "text": "A $\\textbf{flurry}$ $\\textbf{of}$ $\\textbf{activity}$ from the developers fixed the major security flaw.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Developers",
+        "Activity",
+        "Flaw",
+        "Flurry"
+      ],
+      "answer": "Flurry",
+      "explanation": "A 'flurry' is a collective noun, meaning a number of things arriving or happening simultaneously."
+    },
+    {
+      "id": "U2016_24",
+      "text": "The political analyst was $\\textbf{adept}$ $\\textbf{(at/in)}$ predicting the outcomes of major elections.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "with"
+      ],
+      "answer": "at",
+      "explanation": "The adjective 'adept' (very skilled or proficient) is commonly followed by the preposition 'at' (adept *at* something)."
+    },
+    {
+      "id": "U2016_25",
+      "text": "The campaign's success was largely $\\textbf{attributable}$ to its aggressive use of social media targeting.\n\nChoose the word that is closest in meaning to the word $\\textbf{attributable}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Unrelated to",
+        "Caused by or accounted for by",
+        "Contrary to",
+        "Disregarded by"
+      ],
+      "answer": "Caused by or accounted for by",
+      "explanation": "Attributable means able to be regarded as caused by (something)."
+    },
+    {
+      "id": "U2016_26",
+      "text": "The economic report was $\\textbf{meant}$ $\\textbf{to}$ $\\textbf{inform}$ the public, but it only $\\textbf{(aroused/raised)}$ more fear.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "aroused",
+        "raised",
+        "rose",
+        "arise"
+      ],
+      "answer": "aroused",
+      "explanation": "To 'arouse' means to evoke or wake up (feelings, emotions, or passions). 'Raised' is typically used for physical objects or abstract concepts like *raising* a question or *raising* money."
+    },
+    {
+      "id": "U2016_27",
+      "text": "The investor decided to $\\textbf{cut}$ $\\textbf{their}$ $\\textbf{losses}$ after the stock plunged by 20%.\n\nChoose the option that best explains the idiom **cut their losses**.",
+      "image": "",
+      "options": [
+        "To physically divide something in half",
+        "To sell something at a reduced price to avoid further financial loss",
+        "To stop trading completely",
+        "To celebrate a small victory"
+      ],
+      "answer": "To sell something at a reduced price to avoid further financial loss",
+      "explanation": "The idiom 'cut one's losses' means to stop an activity that is unsuccessful, costly, or heading towards failure before more time or money is wasted."
+    },
+    {
+      "id": "U2016_28",
+      "text": "Identify the word where the sound represented by the letters 's' is pronounced /z/ (voiced).",
+      "image": "",
+      "options": [
+        "House (noun)",
+        "Misinformation",
+        "Close (adjective)",
+        "Raise"
+      ],
+      "answer": "Raise",
+      "explanation": "In 'Raise' /reɪz/, the 's' is pronounced /z/. In the other options, it is pronounced /s/."
+    },
+    {
+      "id": "U2016_29",
+      "text": "The word $\\textbf{'misinformation'}$ $\\textbf{m i s i n f o r m a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **misinformation**.",
+      "image": "",
+      "options": [
+        "mis",
+        "in",
+        "for",
+        "ma",
+        "tion"
+      ],
+      "answer": "ma",
+      "explanation": "The primary stress in 'misinformation' /ˌmɪs.ɪn.fəˈmeɪ.ʃən/ falls on the fourth syllable, 'ma' (before the -tion suffix)."
+    },
+    {
+      "id": "U2016_30",
+      "text": "The $\\textbf{meteoric}$ $\\textbf{rise}$ of augmented reality apps, like Pokémon Go, captivated millions in 2016.\n\nChoose the word that is closest in meaning to the word $\\textbf{meteoric}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Slow and gradual",
+        "Extremely rapid or sudden",
+        "Unsuccessful",
+        "Predictable"
+      ],
+      "answer": "Extremely rapid or sudden",
+      "explanation": "Meteoric means resembling a meteor in speed; extremely rapid."
+    },
+    {
+      "id": "U2016_31",
+      "text": "The tech firm decided to $\\textbf{close}$ $\\textbf{down}$ its European operations after the trade agreement failed.\n\nChoose the option that best explains the phrasal verb **close down**.",
+      "image": "",
+      "options": [
+        "To shut the door",
+        "To cease operating (for a business or organization)",
+        "To lower the curtains",
+        "To finish a conversation"
+      ],
+      "answer": "To cease operating (for a business or organization)",
+      "explanation": "To 'close down' means to cease operating permanently (usually used for businesses)."
+    },
+    {
+      "id": "U2016_32",
+      "text": "The word $\\textbf{'fear'}$ $\\textbf{f e a r}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **fear**?",
+      "image": "",
+      "options": [
+        "Here",
+        "Air",
+        "Far",
+        "Fit"
+      ],
+      "answer": "Here",
+      "explanation": "The vowel sound in 'fear' is /ɪər/. The vowel sound in 'Here' is also /ɪər/."
+    },
+    {
+      "id": "U2016_33",
+      "text": "The CEO's resignation was a $\\textbf{fait}$ $\\textbf{accompli}$—a done deal even before the board meeting.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{fait}$ $\\textbf{accompli}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "An unchangeable accomplished fact",
+        "A situation that is fully finished",
+        "A situation that is uncertain or subject to change",
+        "A successful outcome"
+      ],
+      "answer": "A situation that is uncertain or subject to change",
+      "explanation": "Fait accompli means something that has already happened or been decided before those affected hear about it, leaving them with no option but to accept it. The opposite is an uncertain situation."
+    },
+    {
+      "id": "U2016_34",
+      "text": "The $\\textbf{historic}$ $\\textbf{vote}$ $\\textbf{will}$ $\\textbf{change}$ $\\textbf{the}$ $\\textbf{political}$ $\\textbf{landscape}$ $\\textbf{forever}$.\n\nIdentify the $\\textbf{verb}$ in the sentence.",
+      "image": "",
+      "options": [
+        "Historic",
+        "Vote",
+        "Will",
+        "Change"
+      ],
+      "answer": "Change",
+      "explanation": "'Change' is the main verb, modified by the modal 'will' to form the future tense."
+    },
+    {
+      "id": "U2016_35",
+      "text": "The $\\textbf{majority}$ $\\textbf{of}$ $\\textbf{people}$ $\\textbf{might}$ $\\textbf{have}$ $\\textbf{misunderstood}$ the $\\textbf{true}$ $\\textbf{implications}$ of the $\\textbf{vote}$.\n\nWhich of the words is the $\\textbf{modal}$ $\\textbf{verb}$?",
+      "image": "",
+      "options": [
+        "Majority",
+        "might",
+        "have",
+        "misunderstood"
+      ],
+      "answer": "might",
+      "explanation": "'Might' is the modal verb, expressing possibility or speculation in the past when followed by 'have + past participle'."
+    },
+    {
+      "id": "U2016_36",
+      "text": "The word $\\textbf{'present'}$ (as a verb, meaning to give or submit).\n\nIdentify the syllable that carries the primary stress in the word **present** (verb).",
+      "image": "",
+      "options": [
+        "pre",
+        "sent"
+      ],
+      "answer": "sent",
+      "explanation": "The primary stress in the verb 'present' /prɪˈzɛnt/ falls on the second syllable, 'sent'. (Compare to the noun 'present' /ˈprɛz.ənt/ where the stress is on the first syllable)."
+    },
+    {
+      "id": "U2016_37",
+      "text": "The word $\\textbf{'law'}$ $\\textbf{l a w}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **law**?",
+      "image": "",
+      "options": [
+        "Lay",
+        "Loud",
+        "Door",
+        "Hat"
+      ],
+      "answer": "Door",
+      "explanation": "The vowel sound in 'law' is /ɔː/. The vowel sound in 'Door' is also /ɔː/."
+    },
+    {
+      "id": "U2016_38",
+      "text": "The candidate was $\\textbf{on}$ $\\textbf{the}$ $\\textbf{fence}$ about the environmental policy until the last minute.\n\nChoose the option that best explains the idiom **on the fence**.",
+      "image": "",
+      "options": [
+        "To be physically sitting on a fence",
+        "To be undecided or neutral about something",
+        "To be strongly opposed to something",
+        "To be very supportive of something"
+      ],
+      "answer": "To be undecided or neutral about something",
+      "explanation": "The idiom 'on the fence' means to be undecided or unable to choose between two sides of an argument or a plan."
+    },
+    {
+      "id": "U2016_39",
+      "text": "The $\\textbf{cynicism}$ toward mainstream media was a $\\textbf{hallmark}$ of the 2016 political climate.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{cynicism}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A belief that people are motivated by self-interest",
+        "A strong belief in the honesty and sincerity of others (trust/optimism)",
+        "A general sense of despair",
+        "Skepticism"
+      ],
+      "answer": "A strong belief in the honesty and sincerity of others (trust/optimism)",
+      "explanation": "Cynicism is an inclination to believe that people are motivated purely by self-interest. The opposite is trust or optimism."
+    },
+    {
+      "id": "U2016_40",
+      "text": "The $\\textbf{Brexit}$ $\\textbf{vote}$, $\\textbf{as}$ $\\textbf{well}$ $\\textbf{as}$ $\\textbf{the}$ $\\textbf{US}$ $\\textbf{election}$, $\\textbf{(was/were)}$ surprising to many commentators.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "will be"
+      ],
+      "answer": "was",
+      "explanation": "When two subjects are joined by 'as well as', the verb agrees with the first subject, which is singular ('The Brexit vote'), requiring the singular verb 'was'."
+    }
+  ]

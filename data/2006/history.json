@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Great Pyramid of Giza}$ was built as a tomb for which Pharaoh?",
+        "image": "",
+        "options": [
+            "Ramses II",
+            "Tutankhamun",
+            "Khufu",
+            "Akhenaten"
+        ],
+        "answer": "Khufu",
+        "explanation": "Completed around 2560 BC, it is the oldest and largest of the three pyramids in the Giza complex."
+    },
+    {
+        "id": "H02",
+        "text": "The $\\textbf{Peloponnesian War}$ was a prolonged conflict between which two Greek city-states?",
+        "image": "",
+        "options": [
+            "Athens and Sparta",
+            "Troy and Mycenae",
+            "Thebes and Corinth",
+            "Rome and Carthage"
+        ],
+        "answer": "Athens and Sparta",
+        "explanation": "Fought from 431 to 404 BC, it ended the Golden Age of Athens and shifted power to Sparta."
+    },
+    {
+        "id": "H03",
+        "text": "Which Roman Emperor famously divided the empire into the $\\textbf{East and West}$ to make it easier to govern?",
+        "image": "",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Diocletian",
+            "Constantine"
+        ],
+        "answer": "Diocletian",
+        "explanation": "Diocletian established the Tetrarchy in 293 AD, realizing the empire was too vast for one ruler."
+    },
+    {
+        "id": "H04",
+        "text": "The $\\textbf{Hagia Sophia}$, a masterpiece of Byzantine architecture, is located in:",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Istanbul (Constantinople)",
+            "Jerusalem"
+        ],
+        "answer": "Istanbul (Constantinople)",
+        "explanation": "Built by Emperor Justinian I in the 6th century, it served as a cathedral, mosque, and now a museum/mosque."
+    },
+    {
+        "id": "H05",
+        "text": "Who led the $\\textbf{Norman Conquest}$ of England in 1066?",
+        "image": "",
+        "options": [
+            "Charlemagne",
+            "William the Conqueror",
+            "King Harold II",
+            "Richard the Lionheart"
+        ],
+        "answer": "William the Conqueror",
+        "explanation": "William, Duke of Normandy, defeated Harold Godwinson at the Battle of Hastings."
+    },
+    {
+        "id": "H06",
+        "text": "The $\\textbf{Inquisition}$ was a powerful office set up within the Catholic Church to root out and punish:",
+        "image": "",
+        "options": [
+            "Heresy",
+            "Tax evasion",
+            "Treason",
+            "Corruption"
+        ],
+        "answer": "Heresy",
+        "explanation": "Most famous in Spain, it was established to maintain Catholic orthodoxy."
+    },
+    {
+        "id": "H07",
+        "text": "Which explorer's expedition was the first to $\\textbf{circumnavigate}$ the globe (though he died during the voyage)?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Francis Drake",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+        ],
+        "answer": "Ferdinand Magellan",
+        "explanation": "Magellan died in the Philippines in 1521, but his ship *Victoria*, led by Elcano, completed the journey."
+    },
+    {
+        "id": "H08",
+        "text": "Who posted the $\\textbf{95 Theses}$ on the door of the Castle Church in Wittenberg, sparking the Reformation?",
+        "image": "",
+        "options": [
+            "John Calvin",
+            "Henry VIII",
+            "Martin Luther",
+            "Erasmus"
+        ],
+        "answer": "Martin Luther",
+        "explanation": "Luther's 1517 act challenged the Catholic Church's sale of indulgences."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Taj Mahal}$ was built by Emperor Shah Jahan in memory of his:",
+        "image": "",
+        "options": [
+            "Father",
+            "Victory in war",
+            "Wife (Mumtaz Mahal)",
+            "Mother"
+        ],
+        "answer": "Wife (Mumtaz Mahal)",
+        "explanation": "This white marble mausoleum in Agra, India, is a symbol of eternal love."
+    },
+    {
+        "id": "H10",
+        "text": "Who is known as the $\\textbf{'Sun King'}$ and built the Palace of Versailles?",
+        "image": "",
+        "options": [
+            "Louis XIV",
+            "Louis XVI",
+            "Napoleon Bonaparte",
+            "Charlemagne"
+        ],
+        "answer": "Louis XIV",
+        "explanation": "He reigned for 72 years, the longest of any monarch of a major sovereign country in European history."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Boston Tea Party}$ (1773) was a protest against:",
+        "image": "",
+        "options": [
+            "The Stamp Act",
+            "The Tea Act",
+            "The Quartering Act",
+            "The Intolerable Acts"
+        ],
+        "answer": "The Tea Act",
+        "explanation": "Colonists dumped British tea into the harbor to protest taxation without representation."
+    },
+    {
+        "id": "H12",
+        "text": "Which Russian Tsar is credited with $\\textbf{Westernizing}$ Russia and founding St. Petersburg?",
+        "image": "",
+        "options": [
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Nicholas II",
+            "Alexander I"
+        ],
+        "answer": "Peter the Great",
+        "explanation": "Peter I modernized the military and government based on Western European models."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Lewis and Clark Expedition}$ was commissioned to explore which territory?",
+        "image": "",
+        "options": [
+            "The Oregon Territory",
+            "The Louisiana Purchase",
+            "Texas",
+            "Alaska"
+        ],
+        "answer": "The Louisiana Purchase",
+        "explanation": "President Thomas Jefferson sent the Corps of Discovery to map the newly acquired western lands."
+    },
+    {
+        "id": "H14",
+        "text": "Who led the $\\textbf{Reign of Terror}$ during the French Revolution?",
+        "image": "",
+        "options": [
+            "Napoleon Bonaparte",
+            "Marquis de Lafayette",
+            "Maximilien Robespierre",
+            "King Louis XVI"
+        ],
+        "answer": "Maximilien Robespierre",
+        "explanation": "As leader of the Committee of Public Safety, he oversaw the execution of thousands of 'enemies of the revolution'."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Battle of Trafalgar}$ (1805) was a decisive naval victory for:",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "Great Britain",
+            "The United States"
+        ],
+        "answer": "Great Britain",
+        "explanation": "Admiral Lord Nelson defeated the combined French and Spanish fleets, securing British naval supremacy."
+    },
+    {
+        "id": "H16",
+        "text": "Who wrote $\\textbf{The Communist Manifesto}$ in 1848?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Joseph Stalin",
+            "Friedrich Nietzsche"
+        ],
+        "answer": "Karl Marx",
+        "explanation": "Written with Friedrich Engels, it outlines the theory of class struggle and the goals of communism."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Irish Potato Famine}$ caused mass emigration to which country in the 1840s?",
+        "image": "",
+        "options": [
+            "France",
+            "Australia",
+            "The United States",
+            "Germany"
+        ],
+        "answer": "The United States",
+        "explanation": "A potato blight caused mass starvation, leading over a million Irish people to emigrate, mostly to the US."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Transcontinental Railroad}$ was completed in 1869 at Promontory Summit in:",
+        "image": "",
+        "options": [
+            "California",
+            "Colorado",
+            "Utah",
+            "Nevada"
+        ],
+        "answer": "Utah",
+        "explanation": "The 'Golden Spike' connected the Central Pacific and Union Pacific railroads, linking the US coasts."
+    },
+    {
+        "id": "H19",
+        "text": "Who was the nurse known as the 'Lady with the Lamp' during the $\\textbf{Crimean War}$?",
+        "image": "",
+        "options": [
+            "Clara Barton",
+            "Florence Nightingale",
+            "Mother Teresa",
+            "Mary Seacole"
+        ],
+        "answer": "Florence Nightingale",
+        "explanation": "She established the principles of modern nursing and hospital sanitation."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Meiji Restoration}$ in 1868 marked the rapid modernization and industrialization of:",
+        "image": "",
+        "options": [
+            "China",
+            "Japan",
+            "Korea",
+            "Thailand"
+        ],
+        "answer": "Japan",
+        "explanation": "It restored imperial rule and ended the feudal shogunate, transforming Japan into a world power."
+    },
+    {
+        "id": "H21",
+        "text": "The explosion of the $\\textbf{USS Maine}$ in Havana Harbor triggered which war?",
+        "image": "",
+        "options": [
+            "The Civil War",
+            "The Mexican-American War",
+            "The Spanish-American War",
+            "World War I"
+        ],
+        "answer": "The Spanish-American War",
+        "explanation": "Occurring in 1898, the event was sensationalized by 'yellow journalism' to rally support for war with Spain."
+    },
+    {
+        "id": "H22",
+        "text": "Who discovered $\\textbf{Penicillin}$ in 1928?",
+        "image": "",
+        "options": [
+            "Louis Pasteur",
+            "Marie Curie",
+            "Alexander Fleming",
+            "Jonas Salk"
+        ],
+        "answer": "Alexander Fleming",
+        "explanation": "This accidental discovery revolutionized medicine by introducing the first effective antibiotic."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) officially ended which conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Boer War"
+        ],
+        "answer": "World War I",
+        "explanation": "It imposed harsh reparations and territorial losses on Germany, reshaping the map of Europe."
+    },
+    {
+        "id": "H24",
+        "text": "Who was the leader of the $\\textbf{Indian Independence Movement}$ famous for his philosophy of nonviolence?",
+        "image": "",
+        "options": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Indira Gandhi"
+        ],
+        "answer": "Mahatma Gandhi",
+        "explanation": "Gandhi's strategy of civil disobedience led India to independence from British rule in 1947."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Stock Market Crash of 1929}$ signaled the beginning of:",
+        "image": "",
+        "options": [
+            "The Roaring Twenties",
+            "The Great Depression",
+            "The Cold War",
+            "The New Deal"
+        ],
+        "answer": "The Great Depression",
+        "explanation": "The economic collapse led to a decade of poverty and unemployment worldwide."
+    },
+    {
+        "id": "H26",
+        "text": "Who was the British Prime Minister during most of $\\textbf{World War II}$?",
+        "image": "",
+        "options": [
+            "Neville Chamberlain",
+            "Clement Attlee",
+            "Winston Churchill",
+            "Tony Blair"
+        ],
+        "answer": "Winston Churchill",
+        "explanation": "Churchill's leadership and speeches rallied the British people against Nazi Germany."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Marshall Plan}$ was a US program designed to:",
+        "image": "",
+        "options": [
+            "Develop the atomic bomb",
+            "Rebuild Western Europe after WWII",
+            "Contain communism in Asia",
+            "Explore space"
+        ],
+        "answer": "Rebuild Western Europe after WWII",
+        "explanation": "It provided billions of dollars in aid to help European economies recover."
+    },
+    {
+        "id": "H28",
+        "text": "Who refused to give up her seat on a bus in Montgomery, Alabama, sparking a boycott in 1955?",
+        "image": "",
+        "options": [
+            "Harriet Tubman",
+            "Sojourner Truth",
+            "Rosa Parks",
+            "Coretta Scott King"
+        ],
+        "answer": "Rosa Parks",
+        "explanation": "Her arrest was a catalyst for the Civil Rights Movement in the United States."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Sputnik}$ satellite, launched in 1957, marked the beginning of:",
+        "image": "",
+        "options": [
+            "The Nuclear Age",
+            "The Space Race",
+            "The Information Age",
+            "The Industrial Revolution"
+        ],
+        "answer": "The Space Race",
+        "explanation": "Launched by the Soviet Union, it was the first artificial satellite to orbit Earth."
+    },
+    {
+        "id": "H30",
+        "text": "Which US President was assassinated in Dallas, Texas, in 1963?",
+        "image": "",
+        "options": [
+            "Franklin D. Roosevelt",
+            "John F. Kennedy",
+            "Abraham Lincoln",
+            "William McKinley"
+        ],
+        "answer": "John F. Kennedy",
+        "explanation": "His assassination shocked the nation and led to the Warren Commission investigation."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Cultural Revolution}$ was a sociopolitical movement in China led by:",
+        "image": "",
+        "options": [
+            "Sun Yat-sen",
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Launched in 1966, it aimed to preserve communist ideology by purging capitalist and traditional elements."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Chernobyl Disaster}$ (1986) was a catastrophic accident involving:",
+        "image": "",
+        "options": [
+            "An oil spill",
+            "A chemical plant",
+            "A nuclear power plant",
+            "A dam failure"
+        ],
+        "answer": "A nuclear power plant",
+        "explanation": "Located in Ukraine (then USSR), it is considered the worst nuclear disaster in history."
+    },
+    {
+        "id": "H33",
+        "text": "Who was the leader of the $\\textbf{Anti-Apartheid Movement}$ and became South Africa's first black president?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Steve Biko",
+            "Nelson Mandela",
+            "Thabo Mbeki"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela spent 27 years in prison before leading the transition to a multiracial democracy in 1994."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Fall of the Berlin Wall}$ in 1989 symbolized the end of:",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Cold War",
+            "The Vietnam War",
+            "The European Union"
+        ],
+        "answer": "The Cold War",
+        "explanation": "The wall had divided East and West Berlin, representing the division between the communist East and democratic West."
+    },
+    {
+        "id": "H35",
+        "text": "Who invented the $\\textbf{World Wide Web}$ in 1989?",
+        "image": "",
+        "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Tim Berners-Lee",
+            "Al Gore"
+        ],
+        "answer": "Tim Berners-Lee",
+        "explanation": "He proposed the system while working at CERN to help scientists share information."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Rwandan Genocide}$ of 1994 involved conflict between which two ethnic groups?",
+        "image": "",
+        "options": [
+            "Hutus and Tutsis",
+            "Sunnis and Shias",
+            "Serbs and Croats",
+            "Kurds and Turks"
+        ],
+        "answer": "Hutus and Tutsis",
+        "explanation": "Approximately 800,000 people were killed in a span of 100 days."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Panama Canal}$ connects which two oceans?",
+        "image": "",
+        "options": [
+            "Atlantic and Indian",
+            "Pacific and Indian",
+            "Atlantic and Pacific",
+            "Arctic and Atlantic"
+        ],
+        "answer": "Atlantic and Pacific",
+        "explanation": "It allows ships to bypass the lengthy and dangerous route around the southern tip of South America."
+    },
+    {
+        "id": "H38",
+        "text": "Which scientist developed the $\\textbf{Theory of Relativity}$?",
+        "image": "",
+        "options": [
+            "Isaac Newton",
+            "Niels Bohr",
+            "Albert Einstein",
+            "Stephen Hawking"
+        ],
+        "answer": "Albert Einstein",
+        "explanation": "Einstein's theory ($E=mc^2$) fundamentally changed our understanding of time, space, and gravity."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Magna Carta}$ (1215) is a cornerstone of liberty because it:",
+        "image": "",
+        "options": [
+            "Granted women the vote",
+            "Abolished slavery",
+            "Limited the power of the King",
+            "Declared war on France"
+        ],
+        "answer": "Limited the power of the King",
+        "explanation": "It established the principle that the monarch is not above the law."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{September 11 Attacks}$ in 2001 targeted the World Trade Center and:",
+        "image": "",
+        "options": [
+            "The White House",
+            "The Pentagon",
+            "The Statue of Liberty",
+            "The Empire State Building"
+        ],
+        "answer": "The Pentagon",
+        "explanation": "Terrorists hijacked planes to attack symbols of American economic and military power."
+    }
+]

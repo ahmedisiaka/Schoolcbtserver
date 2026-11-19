@@ -1,0 +1,522 @@
+[
+    {
+        "id": "PHY01",
+        "text": "The $\\textbf{Mars Exploration Rover}$ program launched in 2003, utilizing the rovers $\\textbf{Spirit}$ and $\\textbf{Opportunity}$ to investigate past evidence of $\\textbf{Water}$ on the Martian surface.",
+        "image": "",
+        "options": [
+            "Carbon",
+            "Methane",
+            "Water",
+            "Sulphur"
+        ],
+        "answer": "Water",
+        "explanation": "The mission aimed to find geological evidence, such as hematite spheres, that indicated the past presence of liquid water on Mars."
+    },
+    {
+        "id": "PHY02",
+        "text": "The $\\textbf{Hubble Space Telescope}$ continued to operate in 2003, using $\\textbf{Reflection}$ (mirrors) rather than refraction (lenses) to collect light, making it a $\\textbf{Reflecting Telescope}$.",
+        "image": "",
+        "options": [
+            "Refracting Telescope",
+            "Radio Telescope",
+            "Reflecting Telescope",
+            "Gamma-Ray Telescope"
+        ],
+        "answer": "Reflecting Telescope",
+        "explanation": "Reflecting telescopes use mirrors to focus light, allowing them to be built much larger and avoid chromatic aberration present in lens-based refractors."
+    },
+    {
+        "id": "PHY03",
+        "text": "The $\\textbf{Space Shuttle Columbia}$ disaster in February 2003 involved the catastrophic failure of the orbiter's thermal protection system during $\\textbf{Reentry}$ into Earth's atmosphere.",
+        "image": "",
+        "options": [
+            "Launch Ignition",
+            "Orbital Insertion",
+            "Reentry",
+            "Docking Maneuver"
+        ],
+        "answer": "Reentry",
+        "explanation": "The failure was traced to damage to the left wing's leading edge during launch, which allowed superheated air to penetrate the structure during descent."
+    },
+    {
+        "id": "PHY04",
+        "text": "In a nuclear reactor, the rate of fission is controlled by inserting $\\textbf{Control Rods}$ made of materials like $\\textbf{Cadmium}$ or $\\textbf{Boron}$ to absorb excess $\\textbf{Neutrons}$.",
+        "image": "",
+        "options": [
+            "Moderators",
+            "Control Rods",
+            "Coolants",
+            "Fuel Pellets"
+        ],
+        "answer": "Control Rods",
+        "explanation": "Control rods regulate the power of the reactor by absorbing neutrons, thus preventing the chain reaction from accelerating uncontrollably."
+    },
+    {
+        "id": "PHY05",
+        "text": "The fundamental force responsible for holding protons and neutrons together in the nucleus of an atom is the $\\textbf{Strong Nuclear Force}$.",
+        "image": "",
+        "options": [
+            "Gravitational Force",
+            "Weak Nuclear Force",
+            "Electromagnetic Force",
+            "Strong Nuclear Force"
+        ],
+        "answer": "Strong Nuclear Force",
+        "explanation": "This force must overcome the electromagnetic repulsion between positively charged protons to keep the nucleus stable."
+    },
+    {
+        "id": "PHY06",
+        "text": "In the $\\textbf{Doppler Effect}$, when an ambulance moving towards an observer sounds its siren, the observer hears a $\\textbf{Higher}$ frequency sound than the source actually emits.",
+        "image": "",
+        "options": [
+            "Lower",
+            "Equal",
+            "Higher",
+            "Zero"
+        ],
+        "answer": "Higher",
+        "explanation": "The relative motion compresses the sound waves, decreasing the wavelength and increasing the perceived frequency (pitch)."
+    },
+    {
+        "id": "PHY07",
+        "text": "The principle stating that no two electrons in an atom can have the same set of four quantum numbers is the $\\textbf{Pauli Exclusion Principle}$.",
+        "image": "",
+        "options": [
+            "Heisenberg Uncertainty Principle",
+            "Pauli Exclusion Principle",
+            "Schrödinger Wave Equation",
+            "Bohr's Postulates"
+        ],
+        "answer": "Pauli Exclusion Principle",
+        "explanation": "This principle is fundamental to the structure of the electron shells and the periodic table of elements."
+    },
+    {
+        "id": "PHY08",
+        "text": "A $\\textbf{Transformer}$ is a device that increases or decreases alternating current ($\\,\\textbf{AC}$) voltage based on the ratio of coils in its primary and $\\textbf{Secondary}$ windings.",
+        "image": "",
+        "options": [
+            "Resistor",
+            "Capacitor",
+            "Inductor",
+            "Transformer"
+        ],
+        "answer": "Transformer",
+        "explanation": "Transformers work via electromagnetic induction and require alternating current to continuously change the magnetic flux."
+    },
+    {
+        "id": "PHY09",
+        "text": "In quantum physics, $\\textbf{Planck's Constant}$ ($\\,\\textbf{h}$) relates the energy of a photon ($\\,\\textbf{E}$) to its $\\textbf{Frequency}$ ($\\,\\textbf{f}$) via the equation $\\textbf{E = hf}$.",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Speed",
+            "Amplitude",
+            "Frequency"
+        ],
+        "answer": "Frequency",
+        "explanation": "This constant is a cornerstone of quantum theory, defining the smallest possible unit of energy (quantum) for electromagnetic radiation."
+    },
+    {
+        "id": "PHY10",
+        "text": "According to $\\textbf{Newton's Third Law}$ of Motion, for every action, there is an equal and opposite $\\textbf{Reaction}$ force.",
+        "image": "",
+        "options": [
+            "Momentum",
+            "Impulse",
+            "Inertia",
+            "Reaction"
+        ],
+        "answer": "Reaction",
+        "explanation": "This law explains why rockets move (gas pushed out is the action, the rocket moving forward is the reaction) and why objects in equilibrium remain stable."
+    },
+    {
+        "id": "PHY11",
+        "text": "The primary mechanism by which energy is transferred from the $\\textbf{Sun}$ to the $\\textbf{Earth}$ through the vacuum of space is $\\textbf{Radiation}$.",
+        "image": "",
+        "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Absorption"
+        ],
+        "answer": "Radiation",
+        "explanation": "Radiation involves the transfer of energy via electromagnetic waves, which do not require a medium to travel."
+    },
+    {
+        "id": "PHY12",
+        "text": "The $\\textbf{Speed of Light}$ in a vacuum, approximately $3.0 \\times 10^8 \\, \\text{m/s}$, is an absolute constant according to $\\textbf{Einstein's Theory}$ of $\\textbf{Special Relativity}$.",
+        "image": "",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed of Light",
+            "Momentum"
+        ],
+        "answer": "Speed of Light",
+        "explanation": "This is a foundational postulate of special relativity, implying that no object with mass can travel faster than light."
+    },
+    {
+        "id": "PHY13",
+        "text": "A substance with a high $\\textbf{Specific Heat Capacity}$ requires a large amount of $\\textbf{Heat Energy}$ to raise its $\\textbf{Temperature}$ by a given amount.",
+        "image": "",
+        "options": [
+            "Density",
+            "Thermal Conductivity",
+            "Specific Heat Capacity",
+            "Latent Heat"
+        ],
+        "answer": "Specific Heat Capacity",
+        "explanation": "Water has a notably high specific heat capacity, which helps moderate coastal climates."
+    },
+    {
+        "id": "PHY14",
+        "text": "The $\\textbf{Photoelectric Effect}$, where light striking a metal surface ejects electrons, provided evidence for the $\\textbf{Particle Nature}$ of light (photons).",
+        "image": "",
+        "options": [
+            "Wave Nature",
+            "Refraction",
+            "Particle Nature",
+            "Diffraction"
+        ],
+        "answer": "Particle Nature",
+        "explanation": "Einstein's explanation showed that light energy is quantized into discrete packets (photons), whose energy depends on frequency, not intensity."
+    },
+    {
+        "id": "PHY15",
+        "text": "The unit of electrical resistance is the $\\textbf{Ohm}$ ($\\,\\Omega$), defined as the resistance that allows one $\\textbf{Ampere}$ of current when one $\\textbf{Volt}$ of potential difference is applied ($\\,\\textbf{R = V/I}$).",
+        "image": "",
+        "options": [
+            "Ampere",
+            "Volt",
+            "Watt",
+            "Ohm"
+        ],
+        "answer": "Ohm",
+        "explanation": "This relationship is described by Ohm's Law (V = IR)."
+    },
+    {
+        "id": "PHY16",
+        "text": "The $\\textbf{CERN}$ Large Hadron Collider (LHC) continued construction in 2003, designed to accelerate $\\textbf{Protons}$ and heavy ions to near the speed of light.",
+        "image": "",
+        "options": [
+            "Neutrons",
+            "Protons",
+            "Electrons",
+            "Muons"
+        ],
+        "answer": "Protons",
+        "explanation": "The LHC is designed primarily to collide beams of protons to study fundamental particles, like the Higgs boson."
+    },
+    {
+        "id": "PHY17",
+        "text": "When a wire carrying an electric current is placed in a magnetic field, it experiences a $\\textbf{Force}$, which is the basis for $\\textbf{Electric Motors}$.",
+        "image": "",
+        "options": [
+            "Torque",
+            "Resistance",
+            "Voltage",
+            "Force"
+        ],
+        "answer": "Force",
+        "explanation": "This is known as the Lorentz force (or Ampère's force law for a current-carrying wire)."
+    },
+    {
+        "id": "PHY18",
+        "text": "$\\textbf{Huygens' Principle}$ is used to predict the new position of a $\\textbf{Wavefront}$ by treating every point on the existing wavefront as a source of $\\textbf{Secondary Wavelets}$.",
+        "image": "",
+        "options": [
+            "Ray Path",
+            "Wavefront",
+            "Energy Level",
+            "Photon Stream"
+        ],
+        "answer": "Wavefront",
+        "explanation": "This principle helps explain phenomena like diffraction and refraction of light."
+    },
+    {
+        "id": "PHY19",
+        "text": "The unit of $\\textbf{Power}$ is the $\\textbf{Watt}$ ($\\,\\text{W}$), which is defined as one $\\textbf{Joule}$ of energy expended per $\\textbf{Second}$.",
+        "image": "",
+        "options": [
+            "Work",
+            "Energy",
+            "Force",
+            "Power"
+        ],
+        "answer": "Power",
+        "explanation": "Power is the rate at which work is done or energy is transferred ($\\,\\text{P} = \\text{W}/\\text{t}$)."
+    },
+    {
+        "id": "PHY20",
+        "text": "In a closed system, the total $\\textbf{Momentum}$ remains constant if no $\\textbf{External Force}$ acts on the system, according to the Law of $\\textbf{Conservation}$ of Momentum.",
+        "image": "",
+        "options": [
+            "Energy",
+            "Momentum",
+            "Velocity",
+            "Mass"
+        ],
+        "answer": "Momentum",
+        "explanation": "This law is widely used to analyze collisions and explosions."
+    },
+    {
+        "id": "PHY21",
+        "text": "The $\\textbf{Zeroth Law}$ of $\\textbf{Thermodynamics}$ defines $\\textbf{Thermal Equilibrium}$: if two systems are each in thermal equilibrium with a third system, they are in thermal equilibrium with each other.",
+        "image": "",
+        "options": [
+            "First Law",
+            "Second Law",
+            "Third Law",
+            "Zeroth Law"
+        ],
+        "answer": "Zeroth Law",
+        "explanation": "This law justifies the use of thermometers to measure temperature."
+    },
+    {
+        "id": "PHY22",
+        "text": "$\\textbf{Lenz's Law}$ states that the direction of an $\\textbf{Induced Current}$ in a conductor is such that it opposes the $\\textbf{Change}$ in magnetic $\\textbf{Flux}$ that produced it.",
+        "image": "",
+        "options": [
+            "Ohm's Law",
+            "Kirchhoff's Law",
+            "Faraday's Law",
+            "Lenz's Law"
+        ],
+        "answer": "Lenz's Law",
+        "explanation": "This is a consequence of the law of conservation of energy applied to electromagnetic induction."
+    },
+    {
+        "id": "PHY23",
+        "text": "The $\\textbf{Wavelength}$ of light determines its $\\textbf{Color}$; longer wavelengths correspond to the $\\textbf{Red}$ end of the visible spectrum.",
+        "image": "",
+        "options": [
+            "Blue",
+            "Green",
+            "Violet",
+            "Red"
+        ],
+        "answer": "Red",
+        "explanation": "The visible spectrum ranges from roughly 400 nm (violet/blue) to 700 nm (red)."
+    },
+    {
+        "id": "PHY24",
+        "text": "When an object orbits a planet, its acceleration is directed toward the center of the planet due to the $\\textbf{Centripetal Force}$ provided by $\\textbf{Gravity}$.",
+        "image": "",
+        "options": [
+            "Tangential Force",
+            "Normal Force",
+            "Centripetal Force",
+            "Friction Force"
+        ],
+        "answer": "Centripetal Force",
+        "explanation": "Centripetal force is the force that makes an object follow a curved path and is directed toward the center of the curvature."
+    },
+    {
+        "id": "PHY25",
+        "text": "The property of matter that resists changes in motion is called $\\textbf{Inertia}$, and it is directly proportional to an object's $\\textbf{Mass}$.",
+        "image": "",
+        "options": [
+            "Weight",
+            "Volume",
+            "Velocity",
+            "Inertia"
+        ],
+        "answer": "Inertia",
+        "explanation": "Newton's First Law (Law of Inertia) states that an object will remain at rest or in uniform motion unless acted upon by a net force."
+    },
+    {
+        "id": "PHY26",
+        "text": "The $\\textbf{Compton Effect}$ involves the scattering of a photon by a charged particle, leading to a change in the photon's $\\textbf{Wavelength}$ and providing further proof of light's particle nature.",
+        "image": "",
+        "options": [
+            "Frequency",
+            "Speed",
+            "Amplitude",
+            "Wavelength"
+        ],
+        "answer": "Wavelength",
+        "explanation": "The change in wavelength is known as the Compton shift, which can be accurately predicted using the conservation of momentum and energy."
+    },
+    {
+        "id": "PHY27",
+        "text": "In a $\\textbf{Series Circuit}$, the total resistance is the $\\textbf{Sum}$ of the individual resistances, and the $\\textbf{Current}$ is the same through every component.",
+        "image": "",
+        "options": [
+            "Product",
+            "Difference",
+            "Sum",
+            "Average"
+        ],
+        "answer": "Sum",
+        "explanation": "Resistances add up because the current must flow through each resistor sequentially."
+    },
+    {
+        "id": "PHY28",
+        "text": "The conversion of mass into energy, as famously described by $\\textbf{E = mc}^2$, is the fundamental principle behind $\\textbf{Nuclear Fission}$ (energy release in 2003's nuclear technology).",
+        "image": "",
+        "options": [
+            "Chemical Reactions",
+            "Combustion",
+            "Nuclear Fission",
+            "Photosynthesis"
+        ],
+        "answer": "Nuclear Fission",
+        "explanation": "In fission, the total mass of the products is slightly less than the mass of the initial reactants, with the difference converted to kinetic energy."
+    },
+    {
+        "id": "PHY29",
+        "text": "The $\\textbf{Critical Angle}$ is the minimum angle of incidence at which a ray of light passing from an optically $\\textbf{Denser}$ medium to a less dense medium is refracted along the boundary.",
+        "image": "",
+        "options": [
+            "Less Dense",
+            "More Translucent",
+            "Denser",
+            "More Reflective"
+        ],
+        "answer": "Denser",
+        "explanation": "If the angle of incidence exceeds the critical angle, total internal reflection occurs."
+    },
+    {
+        "id": "PHY30",
+        "text": "The $\\textbf{Work}$ done on an object is calculated as the $\\textbf{Product}$ of the force applied and the $\\textbf{Distance}$ moved in the direction of the force.",
+        "image": "",
+        "options": [
+            "Quotient",
+            "Difference",
+            "Sum",
+            "Product"
+        ],
+        "answer": "Product",
+        "explanation": "The unit of work is the Joule ($\\,\\text{J}$), defined as one Newton-meter ($\\,\\text{N} \\cdot \\text{m}$)."
+    },
+    {
+        "id": "PHY31",
+        "text": "In an ideal $\\textbf{Gas}$, the average kinetic energy of the molecules is directly proportional to the gas's absolute $\\textbf{Temperature}$.",
+        "image": "",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Density",
+            "Temperature"
+        ],
+        "answer": "Temperature",
+        "explanation": "This is a key tenet of the kinetic theory of gases."
+    },
+    {
+        "id": "PHY32",
+        "text": "The term $\\textbf{Semiconductor}$ refers to materials like silicon (ubiquitous in 2003 electronics) whose electrical conductivity lies between that of a conductor and an $\\textbf{Insulator}$.",
+        "image": "",
+        "options": [
+            "Superconductor",
+            "Insulator",
+            "Metamaterial",
+            "Alloy"
+        ],
+        "answer": "Insulator",
+        "explanation": "Semiconductors can have their conductivity controlled precisely by doping, making them essential for transistors and microprocessors."
+    },
+    {
+        "id": "PHY33",
+        "text": "In $\\textbf{Simple Harmonic Motion (SHM)}$, the restoring force is directly proportional to the object's $\\textbf{Displacement}$ from its equilibrium position (Hooke's Law).",
+        "image": "",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Displacement",
+            "Frequency"
+        ],
+        "answer": "Displacement",
+        "explanation": "Examples include a mass oscillating on a spring or a pendulum with small amplitudes."
+    },
+    {
+        "id": "PHY34",
+        "text": "$\\textbf{Electrons}$ are the subatomic particles responsible for almost all chemical bonding and the flow of $\\textbf{Electric Current}$ in metals.",
+        "image": "",
+        "options": [
+            "Protons",
+            "Neutrons",
+            "Quarks",
+            "Electrons"
+        ],
+        "answer": "Electrons",
+        "explanation": "Their negative charge and ability to move freely in conductors enable electric current."
+    },
+    {
+        "id": "PHY35",
+        "text": "The $\\textbf{Diffraction}$ of light occurs when a wave encounters an $\\textbf{Obstacle}$ or small opening, causing the wave to bend around it.",
+        "image": "",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Interference"
+        ],
+        "answer": "Diffraction",
+        "explanation": "This is evidence of the wave nature of light, most noticeable when the obstacle size is comparable to the wavelength."
+    },
+    {
+        "id": "PHY36",
+        "text": "The principle of $\\textbf{Archimedes}$ states that the buoyant $\\textbf{Force}$ on an object submerged in a fluid is equal to the weight of the $\\textbf{Fluid Displaced}$.",
+        "image": "",
+        "options": [
+            "Pascal",
+            "Bernoulli",
+            "Archimedes",
+            "Torricelli"
+        ],
+        "answer": "Archimedes",
+        "explanation": "This explains why ships float and why hot air balloons rise."
+    },
+    {
+        "id": "PHY37",
+        "text": "The maximum displacement or distance moved by a point on a vibrating $\\textbf{Wave}$ or body measured from its equilibrium position is called the $\\textbf{Amplitude}$.",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Frequency",
+            "Velocity",
+            "Amplitude"
+        ],
+        "answer": "Amplitude",
+        "explanation": "For sound waves, amplitude relates to loudness; for light waves, it relates to intensity/brightness."
+    },
+    {
+        "id": "PHY38",
+        "text": "In a $\\textbf{Parallel Circuit}$, the $\\textbf{Voltage}$ across each component is the same, but the total current is the sum of the $\\textbf{Currents}$ through each branch.",
+        "image": "",
+        "options": [
+            "Current",
+            "Resistance",
+            "Voltage",
+            "Power"
+        ],
+        "answer": "Voltage",
+        "explanation": "Components in parallel offer multiple paths for the current to flow, meaning the total resistance decreases as more branches are added."
+    },
+    {
+        "id": "PHY39",
+        "text": "The $\\textbf{Curie Temperature}$ is the temperature above which a $\\textbf{Ferromagnetic}$ material loses its permanent $\\textbf{Magnetism}$ and becomes paramagnetic.",
+        "image": "",
+        "options": [
+            "Superconducting",
+            "Diamagnetic",
+            "Paramagnetic",
+            "Ferromagnetic"
+        ],
+        "answer": "Ferromagnetic",
+        "explanation": "This point is named after Pierre Curie and is critical in the study of magnetic materials."
+    },
+    {
+        "id": "PHY40",
+        "text": "The principle that states energy cannot be created or destroyed, only transformed, is the Law of $\\textbf{Conservation of Energy}$ (First Law of $\\textbf{Thermodynamics}$).",
+        "image": "",
+        "options": [
+            "Entropy",
+            "Equilibrium",
+            "Conservation of Mass",
+            "Conservation of Energy"
+        ],
+        "answer": "Conservation of Energy",
+        "explanation": "This law is one of the most fundamental principles in all of physics and engineering (including power generation technologies active in 2003)."
+    }
+]

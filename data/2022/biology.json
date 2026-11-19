@@ -1,0 +1,322 @@
+[
+    {
+      "id": "BIO_2022_01",
+      "text": "The phenomenon where a plant loses water in the form of liquid droplets from the leaves is known as:",
+      "image": "[Image illustrating Guttation in plants]",
+      "options": ["Transpiration", "Evaporation", "Osmosis", "Guttation"],
+      "answer": "Guttation",
+      "explanation": "Guttation is the exudation of xylem sap as droplets on the tips or edges of leaves of some vascular plants, caused by root pressure when transpiration is low."
+    },
+    {
+      "id": "BIO_2022_02",
+      "text": "Which organelle is responsible for packaging and modifying proteins synthesized on the endoplasmic reticulum?",
+      "image": "[Diagram of the Golgi apparatus]",
+      "options": ["Ribosome", "Lysosome", "Mitochondrion", "Golgi apparatus"],
+      "answer": "Golgi apparatus",
+      "explanation": "The Golgi apparatus (or Golgi complex) receives proteins and lipids from the endoplasmic reticulum, modifies them, sorts them, and packages them into vesicles for transport."
+    },
+    {
+      "id": "BIO_2022_03",
+      "text": "The primary structure of a protein is determined by the sequence of:",
+      "image": "",
+      "options": ["Fatty acids", "Amino acids", "Nucleotides", "Monosaccharides"],
+      "answer": "Amino acids",
+      "explanation": "The primary structure of a protein is the unique, linear sequence of amino acids linked together by peptide bonds."
+    },
+    {
+      "id": "BIO_2022_04",
+      "text": "In the nitrogen cycle, the process of converting atmospheric nitrogen gas ($\\text{N}_2$) into ammonia ($\\text{NH}_3$) is carried out by:",
+      "image": "[Diagram of the Nitrogen Cycle highlighting nitrogen fixation]",
+      "options": ["Nitrifying bacteria", "Denitrifying bacteria", "Nitrogen-fixing bacteria", "Decomposers"],
+      "answer": "Nitrogen-fixing bacteria",
+      "explanation": "Nitrogen fixation is the conversion of gaseous nitrogen into nitrogen compounds like ammonia by specialized bacteria (e.g., *Rhizobium* in legumes, *Azotobacter*)."
+    },
+    {
+      "id": "BIO_2022_05",
+      "text": "The exchange of gases between an organism and its environment is referred to as:",
+      "image": "",
+      "options": ["Aerobic respiration", "Breathing", "Pulmonary circulation", "Tissue respiration"],
+      "answer": "Breathing",
+      "explanation": "Breathing (or ventilation) is the physical process of drawing air into and expelling it from the lungs or respiratory organs, facilitating gas exchange (external respiration)."
+    },
+    {
+      "id": "BIO_2022_06",
+      "text": "Which of the following classes of organisms are exclusively carnivorous?",
+      "image": "",
+      "options": ["Omnivores", "Herbivores", "Secondary consumers", "Primary consumers"],
+      "answer": "Secondary consumers",
+      "explanation": "Secondary consumers feed on primary consumers (herbivores). Therefore, they are carnivorous (or omnivorous if they also eat plants), but in a strict food chain context, they represent the carnivorous level."
+    },
+    {
+      "id": "BIO_2022_07",
+      "text": "The outermost layer of the human skin, which consists mainly of dead cells, is the:",
+      "image": "[Diagram of the layers of the human skin]",
+      "options": ["Dermis", "Hypodermis", "Epidermis", "Melanin layer"],
+      "answer": "Epidermis",
+      "explanation": "The epidermis is the thin, outer layer of the skin. Its outermost part, the stratum corneum, consists of layers of dead, keratinized cells."
+    },
+    {
+      "id": "BIO_2022_08",
+      "text": "Which of the following is an example of an involuntary action in humans?",
+      "image": "",
+      "options": ["Writing a letter", "Riding a bicycle", "Kicking a ball", "Peristalsis in the gut"],
+      "answer": "Peristalsis in the gut",
+      "explanation": "Involuntary actions are controlled by the autonomic nervous system and are not under conscious control. Peristalsis (movement of food) is an example."
+    },
+    {
+      "id": "BIO_2022_09",
+      "text": "The part of the human eye that contains photoreceptor cells (rods and cones) is the:",
+      "image": "[Diagram of the human eye focusing on the Retina]",
+      "options": ["Cornea", "Lens", "Iris", "Retina"],
+      "answer": "Retina",
+      "explanation": "The retina is the light-sensitive layer at the back of the eye, containing the rods (for low light) and cones (for color vision)."
+    },
+    {
+      "id": "BIO_2022_10",
+      "text": "The two major products of photosynthesis are glucose and:",
+      "image": "[Equation for Photosynthesis]",
+      "options": ["Carbon dioxide", "Starch", "Water", "Oxygen"],
+      "answer": "Oxygen",
+      "explanation": "The balanced summary equation for photosynthesis is: $\\text{CO}_2 + \\text{H}_2\\text{O} \\xrightarrow{\\text{Light}} \\text{Glucose} + \\text{O}_2$. The products are glucose and oxygen."
+    },
+    {
+      "id": "BIO_2022_11",
+      "text": "Which condition is caused by the deficiency of Iodine in the diet?",
+      "image": "[Image showing Goitre]",
+      "options": ["Scurvy", "Rickets", "Goitre", "Anaemia"],
+      "answer": "Goitre",
+      "explanation": "Iodine is essential for the synthesis of thyroid hormones. A deficiency leads to an enlargement of the thyroid gland, known as goitre."
+    },
+    {
+      "id": "BIO_2022_12",
+      "text": "Which process ensures that the diploid number of chromosomes is maintained during sexual reproduction?",
+      "image": "",
+      "options": ["Meiosis", "Mitosis", "Fertilization", "Gametogenesis"],
+      "answer": "Fertilization",
+      "explanation": "Meiosis halves the chromosome number to form haploid gametes. Fertilization, the fusion of two haploid gametes, restores the diploid number."
+    },
+    {
+      "id": "BIO_2022_13",
+      "text": "A population of organisms that breed freely among themselves in nature and produce fertile offspring belong to the same:",
+      "image": "",
+      "options": ["Family", "Genus", "Species", "Phylum"],
+      "answer": "Species",
+      "explanation": "The biological species concept defines a species as a group of organisms that can interbreed and produce fertile offspring."
+    },
+    {
+      "id": "BIO_2022_14",
+      "text": "The transfer of pollen from the anther of one flower to the stigma of another flower on a different plant of the same species is called:",
+      "image": "[Diagram comparing self-pollination and cross-pollination]",
+      "options": ["Self-pollination", "Cross-pollination", "Fertilization", "Grafting"],
+      "answer": "Cross-pollination",
+      "explanation": "Cross-pollination (or allogamy) is the transfer of pollen between genetically different plants (of the same species), ensuring genetic variation."
+    },
+    {
+      "id": "BIO_2022_15",
+      "text": "The structural and functional unit of inheritance is the:",
+      "image": "[Diagram of a gene on a chromosome]",
+      "options": ["Chromosome", "Nucleus", "Allele", "Gene"],
+      "answer": "Gene",
+      "explanation": "A gene is a segment of $\\text{DNA}$ (or $\\text{RNA}$) that codes for a specific functional product, thus serving as the basic unit of heredity."
+    },
+    {
+      "id": "BIO_2022_16",
+      "text": "The maximum number of electrons that can be held by the $\\text{DNA}$ molecule's backbone is:",
+      "image": "",
+      "options": ["Unlimited", "Zero", "Fixed per base pair", "Depends on the cell type"],
+      "answer": "Zero",
+      "explanation": "The $\\text{DNA}$ molecule is not a shell or orbital; it does not 'hold' electrons in the sense of electron shells. The question seems flawed, but in a chemical context, its phosphate-sugar backbone is covalently bonded and does not have free electron capacity like an electron shell."
+    },
+    {
+      "id": "BIO_2022_17",
+      "text": "Which of the following is a function of the liver in mammals?",
+      "image": "",
+      "options": ["Pumping blood", "Secreting insulin", "Detoxification of blood", "Producing digestive enzymes for the gut"],
+      "answer": "Detoxification of blood",
+      "explanation": "The liver plays a central role in metabolism, including the breakdown of toxins, drugs, and metabolic byproducts (detoxification)."
+    },
+    {
+      "id": "BIO_2022_18",
+      "text": "The main component of the cuticle that covers the leaves of terrestrial plants is:",
+      "image": "",
+      "options": ["Lignin", "Cutin", "Cellulose", "Suberin"],
+      "answer": "Cutin",
+      "explanation": "The cuticle is a waxy layer covering the epidermis of leaves and stems. It is composed primarily of cutin, a lipid polymer, which helps reduce water loss through transpiration."
+    },
+    {
+      "id": "BIO_2022_19",
+      "text": "The primary role of the large intestine in the human digestive system is:",
+      "image": "",
+      "options": ["Absorption of digested food", "Mechanical breakdown of food", "Reabsorption of water and mineral salts", "Chemical digestion of protein"],
+      "answer": "Reabsorption of water and mineral salts",
+      "explanation": "The large intestine's main function is to absorb water and electrolytes from the remaining indigestible food matter and to store feces before elimination."
+    },
+    {
+      "id": "BIO_2022_20",
+      "text": "In birds, the specialized structure used for grinding food is the:",
+      "image": "[Diagram of the bird digestive system showing the Gizzard]",
+      "options": ["Crop", "Oesophagus", "Proventriculus", "Gizzard"],
+      "answer": "Gizzard",
+      "explanation": "The gizzard (muscular stomach) is a thick-walled, muscular part of the bird's stomach that uses grit or stones to grind food, especially in seed-eating birds."
+    },
+    {
+      "id": "BIO_2022_21",
+      "text": "Which hormone is responsible for converting glycogen back into glucose in the liver, thus raising blood sugar levels?",
+      "image": "[Diagram showing the regulation of blood glucose by Insulin and Glucagon]",
+      "options": ["Insulin", "Adrenaline", "Glucagon", "Thyroxine"],
+      "answer": "Glucagon",
+      "explanation": "Glucagon, secreted by the alpha cells of the pancreas, stimulates glycogenolysis (breakdown of glycogen) and gluconeogenesis (glucose synthesis) in the liver."
+    },
+    {
+      "id": "BIO_2022_22",
+      "text": "A plant adapted to growing in a salty environment is called a:",
+      "image": "",
+      "options": ["Hydrophyte", "Xerophyte", "Halophyte", "Mesophyte"],
+      "answer": "Halophyte",
+      "explanation": "Halophytes are salt-tolerant plants that grow in high-salinity areas, such as mangroves or coastal marshes."
+    },
+    {
+      "id": "BIO_2022_23",
+      "text": "The major difference between a seed and a fruit is that a fruit develops from the fertilized:",
+      "image": "",
+      "options": ["Ovule", "Style", "Ovary", "Stigma"],
+      "answer": "Ovary",
+      "explanation": "A seed develops from the fertilized ovule, while a fruit develops from the mature, ripened ovary of a flowering plant, sometimes including adjacent parts."
+    },
+    {
+      "id": "BIO_2022_24",
+      "text": "The term for the flow of energy from the sun to the producers, then to consumers, and finally to decomposers is:",
+      "image": "[Diagram of a Food Web/Chain illustrating energy flow]",
+      "options": ["Nutrient cycling", "Pyramid of biomass", "Energy flow", "Food chain"],
+      "answer": "Energy flow",
+      "explanation": "Energy flow describes the unidirectional movement of energy through the trophic levels of an ecosystem, starting with the sun."
+    },
+    {
+      "id": "BIO_2022_25",
+      "text": "If a male with blood group $\\text{A}$ (genotype $\\text{I}^A\\text{i}$) and a female with blood group $\\text{B}$ (genotype $\\text{I}^B\\text{i}$) have a child, what is the probability of the child having blood group $\\text{O}$?",
+      "image": "[Punnett square for $\\text{I}^A\\text{i} \\times \\text{I}^B\\text{i}$]",
+      "options": ["$0\\%$", "$25\\%$", "$50\\%$", "$100\\%$"],
+      "answer": "$25\\%$",
+      "explanation": "The cross $\\text{I}^A\\text{i} \\times \\text{I}^B\\text{i}$ yields offspring genotypes $\\text{I}^A\\text{I}^B$ ($\text{AB}$), $\\text{I}^A\\text{i}$ ($\text{A}$), $\\text{I}^B\\text{i}$ ($\text{B}$), and $\\text{ii}$ ($\text{O}$). The probability of $\\text{O}$ ($\text{ii}$) is $1$ out of $4$, or $25\\%$."
+    },
+    {
+      "id": "BIO_2022_26",
+      "text": "The type of asexual reproduction where an organism splits into two nearly equal halves is known as:",
+      "image": "[Diagram illustrating Binary Fission]",
+      "options": ["Budding", "Fragmentation", "Sporulation", "Binary fission"],
+      "answer": "Binary fission",
+      "explanation": "Binary fission is the method of asexual reproduction in most prokaryotes (like bacteria) and some eukaryotes (like Amoeba), where a single cell divides into two identical daughter cells."
+    },
+    {
+      "id": "BIO_2022_27",
+      "text": "A feature common to all sensory organs is the presence of:",
+      "image": "",
+      "options": ["Nerve endings", "Rods and cones", "Tympanic membrane", "Bones"],
+      "answer": "Nerve endings",
+      "explanation": "All sensory organs rely on specialized receptor cells or nerve endings (dendrites) to detect stimuli and transmit the information to the central nervous system."
+    },
+    {
+      "id": "BIO_2022_28",
+      "text": "Which of the following is an aquatic plant with numerous air sacs for buoyancy?",
+      "image": "",
+      "options": ["Maize", "Hibiscus", "Water lily", "Coconut"],
+      "answer": "Water lily",
+      "explanation": "Aquatic plants (hydrophytes) like the water lily have adaptations such as large air spaces (aerenchyma) in their tissues to provide buoyancy and support."
+    },
+    {
+      "id": "BIO_2022_29",
+      "text": "The waste product of urea is synthesized in the liver from excess amino acids and is mainly excreted by the:",
+      "image": "[Diagram of the human kidney/excretory system]",
+      "options": ["Skin", "Lungs", "Kidneys", "Large intestine"],
+      "answer": "Kidneys",
+      "explanation": "Urea is formed in the liver and transported in the blood to the kidneys, which filter it out and excrete it as part of urine."
+    },
+    {
+      "id": "BIO_2022_30",
+      "text": "The main substance that provides mechanical support and rigidity to non-woody plants is:",
+      "image": "[Diagram illustrating turgid cell structure]",
+      "options": ["Cellulose in cell wall", "Lignin in xylem", "Turgor pressure", "Starch granules"],
+      "answer": "Turgor pressure",
+      "explanation": "In herbaceous/non-woody plants, the hydrostatic pressure (turgor pressure) exerted by the cell contents against the cell wall is the primary source of rigidity and structural support."
+    },
+    {
+      "id": "BIO_2022_31",
+      "text": "A disease characterized by the uncontrolled growth and division of cells is:",
+      "image": "",
+      "options": ["Malaria", "Typhoid", "Diabetes", "Cancer"],
+      "answer": "Cancer",
+      "explanation": "Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body."
+    },
+    {
+      "id": "BIO_2022_32",
+      "text": "The process of rapid development from a larva to an adult form in insects (e.g., butterfly) is called:",
+      "image": "[Diagram illustrating the stages of Complete Metamorphosis]",
+      "options": ["Aestivation", "Migration", "Hibernation", "Metamorphosis"],
+      "answer": "Metamorphosis",
+      "explanation": "Metamorphosis is a biological process by which an animal physically develops after birth or hatching, involving a conspicuous and relatively abrupt change in the animal's body structure."
+    },
+    {
+      "id": "BIO_2022_33",
+      "text": "Which part of the $\\text{DNA}$ molecule carries the genetic code?",
+      "image": "[Diagram of the DNA double helix showing the base pairs]",
+      "options": ["Phosphate group", "Deoxyribose sugar", "Nitrogenous bases", "Hydrogen bonds"],
+      "answer": "Nitrogenous bases",
+      "explanation": "The genetic code is stored in the specific sequence of the nitrogenous bases (Adenine, Thymine, Guanine, Cytosine) along the $\\text{DNA}$ strand."
+    },
+    {
+      "id": "BIO_2022_34",
+      "text": "An organism that feeds on dead and decaying organic matter is a:",
+      "image": "",
+      "options": ["Parasite", "Carnivore", "Saprophyte", "Producer"],
+      "answer": "Saprophyte",
+      "explanation": "A saprophyte (or saprotroph) is an organism, especially a fungus or bacterium, that grows on and derives nourishment from dead or decaying organic matter."
+    },
+    {
+      "id": "BIO_2022_35",
+      "text": "Which excretory product is produced in plants?",
+      "image": "",
+      "options": ["Urea", "Carbon dioxide (as waste product)", "Tannin", "Uric acid"],
+      "answer": "Tannin",
+      "explanation": "Plants produce various secondary metabolites and wastes. Tannins, resins, and gums are common metabolic byproducts stored in plant parts, whereas urea and uric acid are typical nitrogenous wastes in animals."
+    },
+    {
+      "id": "BIO_2022_36",
+      "text": "In mammals, the part of the circulatory system that supplies blood to the heart muscle itself is the:",
+      "image": "[Diagram of the heart showing Coronary Arteries]",
+      "options": ["Pulmonary circuit", "Systemic circuit", "Hepatic portal system", "Coronary circulation"],
+      "answer": "Coronary circulation",
+      "explanation": "The coronary circulation system comprises the coronary arteries and veins, which supply oxygen and nutrients to the myocardium (heart muscle) and remove wastes."
+    },
+    {
+      "id": "BIO_2022_37",
+      "text": "The breeding of plants or animals to produce offspring with specific desirable traits is called:",
+      "image": "",
+      "options": ["Natural selection", "Genetic engineering", "Selective breeding", "Hybridization"],
+      "answer": "Selective breeding",
+      "explanation": "Selective breeding (or artificial selection) is the process by which humans deliberately choose and breed organisms with desired characteristics, unlike natural selection where nature does the choosing."
+    },
+    {
+      "id": "BIO_2022_38",
+      "text": "The simplest form of nervous system organization, often found in Cnidarians (e.g., Hydra), is the:",
+      "image": "[Diagram of a Hydra's Nerve Net]",
+      "options": ["Spinal cord", "Central nervous system", "Nerve net", "Ganglia"],
+      "answer": "Nerve net",
+      "explanation": "A nerve net is a diffuse network of neurons that is not centralized, characteristic of radially symmetrical organisms like Hydra."
+    },
+    {
+      "id": "BIO_2022_39",
+      "text": "Which structure in the mammalian sperm cell contains the enzymes necessary to penetrate the egg cell?",
+      "image": "[Diagram of a sperm cell highlighting the Acrosome]",
+      "options": ["Mitochondrion", "Tail (flagellum)", "Nucleus", "Acrosome"],
+      "answer": "Acrosome",
+      "explanation": "The acrosome is a cap-like structure covering the head of the sperm, containing hydrolytic enzymes (like hyaluronidase) that help the sperm penetrate the egg's protective layers."
+    },
+    {
+      "id": "BIO_2022_40",
+      "text": "The primary cause of the depletion of the ozone layer in the atmosphere is the release of:",
+      "image": "",
+      "options": ["Carbon dioxide", "Sulphur dioxide", "Nitrogen oxides", "Chlorofluorocarbons ($\text{CFCs}$)"],
+      "answer": "Chlorofluorocarbons ($\text{CFCs}$)",
+      "explanation": "Chlorofluorocarbons ($\text{CFCs}$), once widely used in refrigerants and aerosol propellants, are potent ozone-depleting substances."
+    }
+]

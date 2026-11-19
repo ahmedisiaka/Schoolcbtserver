@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G301",
+        "text": "The $\\textbf{Summer Solstice}$ occurs on June 21st, when the sun is directly overhead at the $\\textbf{Tropic of Cancer}$.",
+        "image": "",
+        "options": [
+            "Tropic of Capricorn",
+            "Tropic of Cancer",
+            "Equator",
+            "Arctic Circle"
+        ],
+        "answer": "Tropic of Cancer",
+        "explanation": "This marks the longest day in the Northern Hemisphere."
+    },
+    {
+        "id": "G302",
+        "text": "Granite is a coarse-grained $\\textbf{Plutonic}$ igneous rock formed deep underground.",
+        "image": "",
+        "options": [
+            "Volcanic",
+            "Plutonic",
+            "Sedimentary",
+            "Metamorphic"
+        ],
+        "answer": "Plutonic",
+        "explanation": "It cools slowly beneath the earth's surface, allowing large crystals to form."
+    },
+    {
+        "id": "G303",
+        "text": "The instrument used to measure $\\textbf{Temperature}$ is the $\\textbf{Thermometer}$.",
+        "image": "",
+        "options": [
+            "Barometer",
+            "Thermometer",
+            "Anemometer",
+            "Hygrometer"
+        ],
+        "answer": "Thermometer",
+        "explanation": "Typically contains mercury or alcohol to register changes in heat."
+    },
+    {
+        "id": "G304",
+        "text": "Lines on a map joining places of equal sunshine duration are called $\\textbf{Isohels}$.",
+        "image": "",
+        "options": [
+            "Isobars",
+            "Isotherms",
+            "Isohels",
+            "Isohyets"
+        ],
+        "answer": "Isohels",
+        "explanation": "'Helios' refers to the sun."
+    },
+    {
+        "id": "G305",
+        "text": "A broad, flat-topped highland with steep sides is called a $\\textbf{Plateau}$.",
+        "image": "",
+        "options": [
+            "Plain",
+            "Plateau",
+            "Fold Mountain",
+            "Volcano"
+        ],
+        "answer": "Plateau",
+        "explanation": "Often referred to as a tableland."
+    },
+    {
+        "id": "G306",
+        "text": "The total number of people living in a specific area at a specific time is the $\\textbf{Population}$.",
+        "image": "",
+        "options": [
+            "Census",
+            "Sample",
+            "Population",
+            "Community"
+        ],
+        "answer": "Population",
+        "explanation": "It refers to the aggregate of individuals."
+    },
+    {
+        "id": "G307",
+        "text": "Which type of farming involves the rearing of animals on natural pastures? $\\textbf{Pastoral Farming}$.",
+        "image": "",
+        "options": [
+            "Arable Farming",
+            "Mixed Farming",
+            "Pastoral Farming",
+            "Plantation Agriculture"
+        ],
+        "answer": "Pastoral Farming",
+        "explanation": "It focuses on livestock like cattle, sheep, and goats."
+    },
+    {
+        "id": "G308",
+        "text": "The removal of trees without adequate replanting is known as $\\textbf{Deforestation}$.",
+        "image": "",
+        "options": [
+            "Afforestation",
+            "Deforestation",
+            "Reforestation",
+            "Silviculture"
+        ],
+        "answer": "Deforestation",
+        "explanation": "It leads to soil erosion and loss of biodiversity."
+    },
+    {
+        "id": "G309",
+        "text": "Which mode of transport is most flexible for door-to-door delivery? $\\textbf{Road}$.",
+        "image": "",
+        "options": [
+            "Rail",
+            "Water",
+            "Air",
+            "Road"
+        ],
+        "answer": "Road",
+        "explanation": "Road transport can reach specific addresses unlike rail or air."
+    },
+    {
+        "id": "G310",
+        "text": "The process by which liquid water turns into water vapor is $\\textbf{Evaporation}$.",
+        "image": "",
+        "options": [
+            "Condensation",
+            "Precipitation",
+            "Evaporation",
+            "Transpiration"
+        ],
+        "answer": "Evaporation",
+        "explanation": "It occurs when water is heated by the sun."
+    },
+    {
+        "id": "G311",
+        "text": "A settlement where several roads meet is called a $\\textbf{Nodal}$ town.",
+        "image": "",
+        "options": [
+            "Port",
+            "Nodal",
+            "Resort",
+            "Mining"
+        ],
+        "answer": "Nodal",
+        "explanation": "It serves as a center of convergence or route focus."
+    },
+    {
+        "id": "G312",
+        "text": "Limestone is a $\\textbf{Permeable}$ rock because it allows water to pass through its joints.",
+        "image": "",
+        "options": [
+            "Impermeable",
+            "Porous",
+            "Permeable",
+            "Non-porous"
+        ],
+        "answer": "Permeable",
+        "explanation": "Permeability relates to the ability to transmit fluids."
+    },
+    {
+        "id": "G313",
+        "text": "The wearing away of the landscape by moving agents like water or wind is $\\textbf{Denudation}$.",
+        "image": "",
+        "options": [
+            "Weathering",
+            "Deposition",
+            "Denudation",
+            "Transportation"
+        ],
+        "answer": "Denudation",
+        "explanation": "Denudation includes weathering, erosion, transportation, and mass wasting."
+    },
+    {
+        "id": "G314",
+        "text": "Which of the following is a feature of the lower course of a river? $\\textbf{Delta}$.",
+        "image": "",
+        "options": [
+            "Waterfall",
+            "Gorge",
+            "Delta",
+            "Rapids"
+        ],
+        "answer": "Delta",
+        "explanation": "Depositional features like deltas occur near the river mouth."
+    },
+    {
+        "id": "G315",
+        "text": "The instrument used to find direction is the $\\textbf{Magnetic Compass}$.",
+        "image": "",
+        "options": [
+            "Sextant",
+            "Magnetic Compass",
+            "Theodolite",
+            "GPS"
+        ],
+        "answer": "Magnetic Compass",
+        "explanation": "It points to the magnetic north pole."
+    },
+    {
+        "id": "G316",
+        "text": "The greatest depth of the ocean is found in $\\textbf{Ocean Trenches}$.",
+        "image": "",
+        "options": [
+            "Continental Shelf",
+            "Ocean Ridges",
+            "Ocean Trenches",
+            "Abyssal Plain"
+        ],
+        "answer": "Ocean Trenches",
+        "explanation": "They are the deepest parts of the ocean floor."
+    },
+    {
+        "id": "G317",
+        "text": "Sandstone changes into $\\textbf{Quartzite}$ through metamorphism.",
+        "image": "",
+        "options": [
+            "Slate",
+            "Marble",
+            "Quartzite",
+            "Gneiss"
+        ],
+        "answer": "Quartzite",
+        "explanation": "Intense heat and pressure recrystallize the sand grains."
+    },
+    {
+        "id": "G318",
+        "text": "The rapid downward movement of soil and rock under gravity is a $\\textbf{Landslide}$.",
+        "image": "",
+        "options": [
+            "Soil Creep",
+            "Landslide",
+            "Solifluction",
+            "Mudflow"
+        ],
+        "answer": "Landslide",
+        "explanation": "A fast and destructive form of mass wasting."
+    },
+    {
+        "id": "G319",
+        "text": "Which soil type is composed of a mixture of sand, silt, and clay? $\\textbf{Loam}$.",
+        "image": "",
+        "options": [
+            "Clay",
+            "Sand",
+            "Loam",
+            "Silt"
+        ],
+        "answer": "Loam",
+        "explanation": "It is generally the most fertile for agriculture."
+    },
+    {
+        "id": "G320",
+        "text": "The main source of power for the hydrological cycle is $\\textbf{Solar Energy}$.",
+        "image": "",
+        "options": [
+            "Wind Energy",
+            "Solar Energy",
+            "Geothermal Energy",
+            "Tidal Energy"
+        ],
+        "answer": "Solar Energy",
+        "explanation": "The sun evaporates water, driving the cycle."
+    },
+    {
+        "id": "G321",
+        "text": "Industries that process raw materials from agriculture are called $\\textbf{Agro-Allied}$ industries.",
+        "image": "",
+        "options": [
+            "Heavy",
+            "Light",
+            "Agro-Allied",
+            "Service"
+        ],
+        "answer": "Agro-Allied",
+        "explanation": "Examples include textile mills (cotton) and fruit canning."
+    },
+    {
+        "id": "G322",
+        "text": "The line of latitude 23½° South is the $\\textbf{Tropic of Capricorn}$.",
+        "image": "",
+        "options": [
+            "Equator",
+            "Tropic of Cancer",
+            "Tropic of Capricorn",
+            "Arctic Circle"
+        ],
+        "answer": "Tropic of Capricorn",
+        "explanation": "It marks the southernmost point where the sun can be directly overhead."
+    },
+    {
+        "id": "G323",
+        "text": "A desert landform shaped by wind erosion resembling a mushroom is a $\\textbf{Rock Pedestal}$ (or Mushroom Rock).",
+        "image": "",
+        "options": [
+            "Zeugen",
+            "Yardang",
+            "Rock Pedestal",
+            "Inselberg"
+        ],
+        "answer": "Rock Pedestal",
+        "explanation": "Wind abrasion erodes the base faster than the top."
+    },
+    {
+        "id": "G324",
+        "text": "Which cloud type is associated with thunderstorms and heavy rain? $\\textbf{Cumulonimbus}$.",
+        "image": "",
+        "options": [
+            "Cirrus",
+            "Stratus",
+            "Cumulus",
+            "Cumulonimbus"
+        ],
+        "answer": "Cumulonimbus",
+        "explanation": "Tall, dense clouds often called thunderheads."
+    },
+    {
+        "id": "G325",
+        "text": "The process of urban growth leading to the merging of separate towns is $\\textbf{Conurbation}$.",
+        "image": "",
+        "options": [
+            "Urbanization",
+            "Conurbation",
+            "Suburbanization",
+            "Gentrification"
+        ],
+        "answer": "Conurbation",
+        "explanation": "A continuous urban area formed by the expansion of towns."
+    },
+    {
+        "id": "G326",
+        "text": "Petroleum is found in $\\textbf{Sedimentary}$ rock formations.",
+        "image": "",
+        "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary",
+            "Volcanic"
+        ],
+        "answer": "Sedimentary",
+        "explanation": "Oil is trapped in porous sedimentary rocks like sandstone."
+    },
+    {
+        "id": "G327",
+        "text": "The vegetation belt found in the coldest regions is $\\textbf{Tundra}$.",
+        "image": "",
+        "options": [
+            "Taiga",
+            "Tundra",
+            "Steppe",
+            "Savanna"
+        ],
+        "answer": "Tundra",
+        "explanation": "Characterized by permafrost and low-growing vegetation."
+    },
+    {
+        "id": "G328",
+        "text": "Which of the following is a secondary activity? $\\textbf{Car Manufacturing}$.",
+        "image": "",
+        "options": [
+            "Farming",
+            "Car Manufacturing",
+            "Teaching",
+            "Mining"
+        ],
+        "answer": "Car Manufacturing",
+        "explanation": "It involves processing and assembling, not raw extraction."
+    },
+    {
+        "id": "G329",
+        "text": "The imaginary lines running East-West parallel to the equator are $\\textbf{Latitudes}$.",
+        "image": "",
+        "options": [
+            "Longitudes",
+            "Meridians",
+            "Latitudes",
+            "Contours"
+        ],
+        "answer": "Latitudes",
+        "explanation": "They measure distance north or south of the equator."
+    },
+    {
+        "id": "G330",
+        "text": "The deposition of sand along the coast by wave action forms a $\\textbf{Beach}$.",
+        "image": "",
+        "options": [
+            "Cliff",
+            "Cave",
+            "Beach",
+            "Stack"
+        ],
+        "answer": "Beach",
+        "explanation": "A common coastal depositional feature."
+    },
+    {
+        "id": "G331",
+        "text": "Trade between countries is known as $\\textbf{International Trade}$.",
+        "image": "",
+        "options": [
+            "Domestic Trade",
+            "International Trade",
+            "Retail Trade",
+            "Wholesale Trade"
+        ],
+        "answer": "International Trade",
+        "explanation": "Exchange of goods and services across borders."
+    },
+    {
+        "id": "G332",
+        "text": "Which of the following is an agent of erosion? $\\textbf{Wind}$.",
+        "image": "",
+        "options": [
+            "Sun",
+            "Wind",
+            "Time",
+            "Gravity"
+        ],
+        "answer": "Wind",
+        "explanation": "Wind transports particles, causing erosion, especially in deserts."
+    },
+    {
+        "id": "G333",
+        "text": "The dense tropical forest with tall trees and little undergrowth due to canopy cover is the $\\textbf{Rainforest}$.",
+        "image": "",
+        "options": [
+            "Savanna",
+            "Rainforest",
+            "Monsoon Forest",
+            "Mangrove"
+        ],
+        "answer": "Rainforest",
+        "explanation": "The thick canopy blocks sunlight, limiting ground vegetation."
+    },
+    {
+        "id": "G334",
+        "text": "A narrow channel of water connecting two larger bodies of water is a $\\textbf{Strait}$.",
+        "image": "",
+        "options": [
+            "Isthmus",
+            "Strait",
+            "Cape",
+            "Bay"
+        ],
+        "answer": "Strait",
+        "explanation": "Example: Strait of Gibraltar."
+    },
+    {
+        "id": "G335",
+        "text": "The process of artificial application of water to land for farming is $\\textbf{Irrigation}$.",
+        "image": "",
+        "options": [
+            "Drainage",
+            "Irrigation",
+            "Fertilization",
+            "Harvesting"
+        ],
+        "answer": "Irrigation",
+        "explanation": "Essential in arid and semi-arid regions."
+    },
+    {
+        "id": "G336",
+        "text": "The layer of the earth's atmosphere that contains the air we breathe is the $\\textbf{Troposphere}$.",
+        "image": "",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "The lowest and densest layer."
+    },
+    {
+        "id": "G337",
+        "text": "Contours that form closed loops with higher values inside represent a $\\textbf{Hill}$ or mountain.",
+        "image": "",
+        "options": [
+            "Depression",
+            "Hill",
+            "Valley",
+            "Plain"
+        ],
+        "answer": "Hill",
+        "explanation": "Concentric circles of increasing height indicate a peak."
+    },
+    {
+        "id": "G338",
+        "text": "A population pyramid with a broad base indicates a $\\textbf{High Birth Rate}$.",
+        "image": "",
+        "options": [
+            "Low Birth Rate",
+            "High Birth Rate",
+            "High Life Expectancy",
+            "Aging Population"
+        ],
+        "answer": "High Birth Rate",
+        "explanation": "Typical of developing countries with young populations."
+    },
+    {
+        "id": "G339",
+        "text": "The disintegration of rocks due to frost action is a form of $\\textbf{Physical Weathering}$.",
+        "image": "",
+        "options": [
+            "Chemical Weathering",
+            "Physical Weathering",
+            "Biological Weathering",
+            "Oxidation"
+        ],
+        "answer": "Physical Weathering",
+        "explanation": "Water freezes in cracks, expands, and breaks the rock."
+    },
+    {
+        "id": "G340",
+        "text": "Which continent is the second largest in the world? $\\textbf{Africa}$.",
+        "image": "",
+        "options": [
+            "North America",
+            "Africa",
+            "Europe",
+            "South America"
+        ],
+        "answer": "Africa",
+        "explanation": "Asia is the largest, followed by Africa."
+    }
+]

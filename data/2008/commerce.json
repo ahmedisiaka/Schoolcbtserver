@@ -1,0 +1,523 @@
+[
+    {
+      "id": "COMM_2023_121",
+      "text": "The main disadvantage of vertical integration for a company is the possibility of:",
+      "image": "COMM_2023_121.png",
+      "options": [
+        "Loss of economies of scale",
+        "Increased market competition",
+        "Lack of flexibility and high capital requirement",
+        "Difficulty in standardization"
+      ],
+      "answer": "Lack of flexibility and high capital requirement",
+      "explanation": "Vertical integration requires substantial financial investment and makes the company less flexible in adapting to technological changes or shifts in market demand across different stages."
+    },
+    {
+      "id": "COMM_2023_122",
+      "text": "The principle of insurance that allows the insurer to sell the remaining damaged property after paying the claim is:",
+      "image": "COMM_2023_122.png",
+      "options": [
+        "Indemnity",
+        "Subrogation (or Salvage)",
+        "Utmost Good Faith",
+        "Proximate Cause"
+      ],
+      "answer": "Subrogation (or Salvage)",
+      "explanation": "Subrogation ensures the insured doesn't profit from the loss. Salvage is the scrap value of the damaged goods, which the insurer takes after compensating the insured."
+    },
+    {
+      "id": "COMM_2023_123",
+      "text": "The term used for the written authority given by a customer to their bank to pay a fixed amount to a third party at regular intervals is:",
+      "image": "COMM_2023_123.png",
+      "options": [
+        "Cheque",
+        "Standing Order",
+        "Bank Draft",
+        "Promissory Note"
+      ],
+      "answer": "Standing Order",
+      "explanation": "A Standing Order is used for fixed, recurring payments, whereas a Direct Debit is used for variable, recurring payments initiated by the payee."
+    },
+    {
+      "id": "COMM_2023_124",
+      "text": "The major function of the wholesaler that benefits the retailer is:",
+      "image": "COMM_2023_124.png",
+      "options": [
+        "Financing by providing credit",
+        "Providing research and development",
+        "Reducing the price of goods",
+        "Offering after-sales service to consumers"
+      ],
+      "answer": "Financing by providing credit",
+      "explanation": "Wholesalers typically sell goods on credit to retailers, enabling the retailer to carry stock and meet customer demand without immediate cash outflow."
+    },
+    {
+      "id": "COMM_2023_125",
+      "text": "The economic system where the government controls the prices of goods and services is mainly a characteristic of a:",
+      "image": "COMM_2023_125.png",
+      "options": [
+        "Market Economy",
+        "Command Economy (or Socialist)",
+        "Traditional Economy",
+        "Mixed Economy"
+      ],
+      "answer": "Command Economy (or Socialist)",
+      "explanation": "In a command (or centrally planned) economy, resource allocation, production levels, and pricing are dictated by the central authority."
+    },
+    {
+      "id": "COMM_2023_126",
+      "text": "The document that serves as the final demand for payment in a sales transaction is the:",
+      "image": "COMM_2023_126.png",
+      "options": [
+        "Delivery Note",
+        "Quotation",
+        "Invoice",
+        "Proforma Invoice"
+      ],
+      "answer": "Invoice",
+      "explanation": "The invoice is the formal notification of the amount due, detailing the goods supplied and the payment terms."
+    },
+    {
+      "id": "COMM_2023_127",
+      "text": "The financial intermediary primarily concerned with granting long-term loans for national development projects is a:",
+      "image": "COMM_2023_127.png",
+      "options": [
+        "Commercial Bank",
+        "Microfinance Bank",
+        "Development Bank",
+        "Investment Bank"
+      ],
+      "answer": "Development Bank",
+      "explanation": "Development Banks are specialized financial institutions established to provide medium- to long-term financing, usually at concessional rates, for infrastructure and industrial projects."
+    },
+    {
+      "id": "COMM_2023_128",
+      "text": "The method of marketing where goods are sold through a network of independent distributors who earn commission on sales is:",
+      "image": "COMM_2023_128.png",
+      "options": [
+        "E-commerce",
+        "Multi-Level Marketing (MLM) or Network Marketing",
+        "Non-store Retailing",
+        "Vending Machine Retailing"
+      ],
+      "answer": "Multi-Level Marketing (MLM) or Network Marketing",
+      "explanation": "MLM involves selling products and recruiting new members (who also sell products) in a structured distribution hierarchy."
+    },
+    {
+      "id": "COMM_2023_129",
+      "text": "The official document issued by the Registrar of Companies to confirm that a company has fulfilled all legal requirements to begin business is the:",
+      "image": "COMM_2023_129.png",
+      "options": [
+        "Certificate of Incorporation",
+        "Memorandum of Association",
+        "Prospectus",
+        "Certificate of Commencement of Business"
+      ],
+      "answer": "Certificate of Commencement of Business",
+      "explanation": "This certificate is mandatory only for Public Limited Companies (PLCs) before they can begin trading."
+    },
+    {
+      "id": "COMM_2023_130",
+      "text": "The stock exchange speculator who sells shares anticipating that their price will fall so they can buy them back cheaply is called a:",
+      "image": "COMM_2023_130.png",
+      "options": [
+        "Bull",
+        "Bear",
+        "Stag",
+        "Broker"
+      ],
+      "answer": "Bear",
+      "explanation": "Bears are pessimists who sell now to buy back later at a lower price. Bulls are optimists who buy now to sell later at a higher price."
+    },
+    {
+      "id": "COMM_2023_131",
+      "text": "The main benefit of trade fairs and exhibitions in the promotion mix is:",
+      "image": "COMM_2023_131.png",
+      "options": [
+        "Lowering production costs",
+        "Facilitating direct contact between buyers and sellers",
+        "Providing long-term market research",
+        "Eliminating the need for wholesalers"
+      ],
+      "answer": "Facilitating direct contact between buyers and sellers",
+      "explanation": "Trade fairs offer a platform for personal selling, product demonstration, and direct negotiation with potential customers and partners."
+    },
+    {
+      "id": "COMM_2023_132",
+      "text": "The law of insurance that allows the insured to recover only the amount of the actual loss sustained is:",
+      "image": "COMM_2023_132.png",
+      "options": [
+        "Insurable Interest",
+        "Indemnity",
+        "Proximate Cause",
+        "Contribution"
+      ],
+      "answer": "Indemnity",
+      "explanation": "Indemnity ensures compensation but prevents the insured from gaining financially from the loss."
+    },
+    {
+      "id": "COMM_2023_133",
+      "text": "A factor influencing business location that focuses on the availability and reliability of electricity, water, and internet connectivity is a:",
+      "image": "COMM_2023_133.png",
+      "options": [
+        "Climatic factor",
+        "Infrastructure factor",
+        "Labor factor",
+        "Market factor"
+      ],
+      "answer": "Infrastructure factor",
+      "explanation": "Adequate infrastructure (utilities, transport networks, communication) is essential for modern business operations and production."
+    },
+    {
+      "id": "COMM_2023_134",
+      "text": "The maximum number of partners allowed in a general trading partnership is typically:",
+      "image": "COMM_2023_134.png",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "No limit"
+      ],
+      "answer": "20",
+      "explanation": "While this varies, 20 is the common statutory maximum for non-professional partnerships in many jurisdictions."
+    },
+    {
+      "id": "COMM_2023_135",
+      "text": "The process of converting a sole proprietorship or partnership into a limited liability company is called:",
+      "image": "COMM_2023_135.png",
+      "options": [
+        "Amalgamation",
+        "Liquidation",
+        "Incorporation (or Conversion)",
+        "Nationalization"
+      ],
+      "answer": "Incorporation (or Conversion)",
+      "explanation": "Incorporation creates a separate legal entity, affording the business limited liability and perpetual succession."
+    },
+    {
+      "id": "COMM_2023_136",
+      "text": "A form of direct marketing where the company sends promotional materials to homes or businesses via postal mail is:",
+      "image": "COMM_2023_136.png",
+      "options": [
+        "Telemarketing",
+        "Vending Machine Retailing",
+        "Catalog Marketing (or Mail Order)",
+        "Supermarket Retailing"
+      ],
+      "answer": "Catalog Marketing (or Mail Order)",
+      "explanation": "Mail order and catalog marketing rely on distributing printed materials to solicit direct customer orders."
+    },
+    {
+      "id": "COMM_2023_137",
+      "text": "The principle of insurance that states the insured must be financially affected by the loss of the subject matter is:",
+      "image": "COMM_2023_137.png",
+      "options": [
+        "Proximate Cause",
+        "Indemnity",
+        "Insurable Interest",
+        "Contribution"
+      ],
+      "answer": "Insurable Interest",
+      "explanation": "A person cannot insure something unless they stand to suffer a financial loss should the subject matter be damaged or cease to exist."
+    },
+    {
+      "id": "COMM_2023_138",
+      "text": "The main function of the International Bank for Reconstruction and Development (IBRD, part of the World Bank) is to provide:",
+      "image": "COMM_2023_138.png",
+      "options": [
+        "Short-term loans to stabilize currencies",
+        "Long-term loans for infrastructure and development projects",
+        "Grants for trade missions",
+        "Legal advice on trade disputes"
+      ],
+      "answer": "Long-term loans for infrastructure and development projects",
+      "explanation": "The World Bank focuses on financing long-term development and reconstruction efforts in member countries."
+    },
+    {
+      "id": "COMM_2023_139",
+      "text": "The term used for a trade policy that restricts the free flow of goods and services between countries is:",
+      "image": "COMM_2023_139.png",
+      "options": [
+        "Trade Liberalization",
+        "Protectionism",
+        "Globalization",
+        "Free Trade"
+      ]
+      ,
+      "answer": "Protectionism",
+      "explanation": "Protectionism involves using trade barriers (tariffs, quotas, subsidies) to shield domestic industries from foreign competition."
+    },
+    {
+      "id": "COMM_2023_140",
+      "text": "The type of check endorsement where the payee simply signs their name on the back of the check, making it payable to bearer, is a:",
+      "image": "COMM_2023_140.png",
+      "options": [
+        "Special Endorsement",
+        "Restrictive Endorsement",
+        "Blank Endorsement",
+        "Conditional Endorsement"
+      ],
+      "answer": "Blank Endorsement",
+      "explanation": "A blank endorsement makes the check easily transferable by simple delivery, increasing its risk if lost."
+    },
+    {
+      "id": "COMM_2023_141",
+      "text": "The main benefit of branding a product to the consumer is:",
+      "image": "COMM_2023_141.png",
+      "options": [
+        "To obtain a lower price",
+        "To easily identify and guarantee the quality of the product",
+        "To increase the volume of sales",
+        "To lengthen the product life cycle"
+      ],
+      "answer": "To easily identify and guarantee the quality of the product",
+      "explanation": "Branding allows consumers to quickly distinguish one seller's goods from another's and rely on the promised quality associated with that brand name."
+    },
+    {
+      "id": "COMM_2023_142",
+      "text": "A factor influencing business location that focuses on the cost of transporting raw materials and finished goods is the:",
+      "image": "COMM_2023_142.png",
+      "options": [
+        "Social factor",
+        "Market factor",
+        "Transport cost factor",
+        "Financial factor"
+      ],
+      "answer": "Transport cost factor",
+      "explanation": "Transport costs are a major economic consideration, often dictating whether a business locates near raw materials (material-oriented) or near the consumer (market-oriented)."
+    },
+    {
+      "id": "COMM_2023_143",
+      "text": "The type of market where government securities (Treasury Bills) with maturity of less than one year are traded is the:",
+      "image": "COMM_2023_143.png",
+      "options": [
+        "Capital Market",
+        "Money Market",
+        "Commodity Market",
+        "Foreign Exchange Market"
+      ],
+      "answer": "Money Market",
+      "explanation": "The money market deals exclusively with short-term, highly liquid debt instruments."
+    },
+    {
+      "id": "COMM_2023_144",
+      "text": "The primary role of a central wholesaler in the distribution channel is to:",
+      "image": "COMM_2023_144.png",
+      "options": [
+        "Produce goods efficiently",
+        "Break bulk and store stock for retailers",
+        "Provide after-sales service to consumers",
+        "Control the price set by the manufacturer"
+      ],
+      "answer": "Break bulk and store stock for retailers",
+      "explanation": "Wholesalers aggregate large purchases from manufacturers, store them, and break them down into smaller, manageable quantities for retailers."
+    },
+    {
+      "id": "COMM_2023_145",
+      "text": "The main advantage of water transport over other forms of transportation is its:",
+      "image": "COMM_2023_145.png",
+      "options": [
+        "Speed",
+        "Low cost for bulky cargo over long distances",
+        "Flexibility of route",
+        "Ease of door-to-door delivery"
+      ],
+      "answer": "Low cost for bulky cargo over long distances",
+      "explanation": "Water transport (shipping) is the cheapest mode for moving large, heavy, non-perishable goods internationally."
+    },
+    {
+      "id": "COMM_2023_146",
+      "text": "A business combination involving firms that produce entirely unrelated products is a:",
+      "image": "COMM_2023_146.png",
+      "options": [
+        "Vertical Merger",
+        "Horizontal Merger",
+        "Conglomerate Merger",
+        "Lateral Merger"
+      ],
+      "answer": "Conglomerate Merger",
+      "explanation": "Conglomerate mergers aim for portfolio diversification across different industries (e.g., a food company merging with an electronics company)."
+    },
+    {
+      "id": "COMM_2023_147",
+      "text": "The document sent by the buyer to the seller requesting the supply of specified goods or services is the:",
+      "image": "COMM_2023_147.png",
+      "options": [
+        "Invoice",
+        "Goods Received Note",
+        "Purchase Order",
+        "Delivery Note"
+      ],
+      "answer": "Purchase Order",
+      "explanation": "The Purchase Order (PO) is the buyer's official, legally binding confirmation of an order based on a prior quotation or proforma invoice."
+    },
+    {
+      "id": "COMM_2023_148",
+      "text": "The principle of insurance that discourages fraud by stating that the insured should not receive more than the actual loss is:",
+      "image": "COMM_2023_148.png",
+      "options": [
+        "Insurable Interest",
+        "Contribution",
+        "Indemnity",
+        "Subrogation"
+      ],
+      "answer": "Indemnity",
+      "explanation": "Indemnity is the core principle of non-life insurance, ensuring compensation equal to the loss, preventing profit."
+    },
+    {
+      "id": "COMM_2023_149",
+      "text": "The Central Bank's use of moral suasion involves:",
+      "image": "COMM_2023_149.png",
+      "options": [
+        "Legal enforcement of credit limits",
+        "Persuading commercial banks through advice and appeal",
+        "Buying and selling government securities",
+        "Changing the discount rate"
+      ],
+      "answer": "Persuading commercial banks through advice and appeal",
+      "explanation": "Moral suasion is a qualitative monetary policy tool where the Central Bank attempts to influence commercial banks' behavior through non-binding means."
+    },
+    {
+      "id": "COMM_2023_150",
+      "text": "The type of transport that is highly flexible and best suited for door-to-door delivery of small, fragile goods is:",
+      "image": "COMM_2023_150.png",
+      "options": [
+        "Rail transport",
+        "Road transport",
+        "Air transport",
+        "Water transport"
+      ],
+      "answer": "Road transport",
+      "explanation": "Road transport offers the greatest flexibility in route planning and can easily provide final mile and door-to-door services."
+    },
+    {
+      "id": "COMM_2023_151",
+      "text": "The method of retail where goods are sold directly to the consumer without any shop premises, often through machines, is:",
+      "image": "COMM_2023_151.png",
+      "options": [
+        "Departmental Store",
+        "Chain Store",
+        "Vending Machine Retailing",
+        "Mail Order Business"
+      ],
+      "answer": "Vending Machine Retailing",
+      "explanation": "Vending machines are a form of non-store retailing that offers round-the-clock service with low labor requirements."
+    },
+    {
+      "id": "COMM_2023_152",
+      "text": "A factor that would typically lead to the dissolution of a partnership business is:",
+      "image": "COMM_2023_152.png",
+      "options": [
+        "Change in profit sharing ratio",
+        "The death or insolvency of a partner",
+        "Introduction of new capital by a partner",
+        "The firm making a large profit"
+      ],
+      "answer": "The death or insolvency of a partner",
+      "explanation": "The Partnership Act dictates that unless otherwise stated in the agreement, the death, bankruptcy, or insanity of any partner automatically dissolves the old partnership."
+    },
+    {
+      "id": "COMM_2023_153",
+      "text": "The negotiable instrument that is a banker's written order to pay a specified sum of money on demand to the bearer is a:",
+      "image": "COMM_2023_153.png",
+      "options": [
+        "Promissory Note",
+        "Bill of Exchange",
+        "Cheque",
+        "Bank Draft"
+      ],
+      "answer": "Cheque",
+      "explanation": "A cheque is a special type of Bill of Exchange drawn on a specified bank and payable on demand."
+    },
+    {
+      "id": "COMM_2023_154",
+      "text": "The term used for a trade restriction that bans the export or import of a specific product or trade with a specific country is an:",
+      "image": "COMM_2023_154.png",
+      "options": [
+        "Tariff",
+        "Quota",
+        "Embargo",
+        "Subsidy"
+      ],
+      "answer": "Embargo",
+      "explanation": "An embargo is the most severe trade barrier, representing a complete prohibition on commerce."
+    },
+    {
+      "id": "COMM_2023_155",
+      "text": "The marketing mix element concerning the variety, design, features, quality, and warranty of the offering is:",
+      "image": "COMM_2023_155.png",
+      "options": [
+        "Place",
+        "Promotion",
+        "Price",
+        "Product"
+      ],
+      "answer": "Product",
+      "explanation": "Product decisions cover all aspects of the actual goods or services offered to the market."
+    },
+    {
+      "id": "COMM_2023_156",
+      "text": "The stock exchange activity where speculators buy shares in anticipation of a rise in price is known as:",
+      "image": "COMM_2023_156.png",
+      "options": [
+        "Bearish activity",
+        "Bullish activity",
+        "Stagging",
+        "Arbitrage"
+      ],
+      "answer": "Bullish activity",
+      "explanation": "Bulls are optimistic investors who profit when prices rise. A 'bull market' is characterized by rising prices."
+    },
+    {
+      "id": "COMM_2023_157",
+      "text": "The type of warehouse that allows goods to be stored and processed without the payment of customs duty until they are removed for local sale is a:",
+      "image": "COMM_2023_157.png",
+      "options": [
+        "Public warehouse",
+        "Private warehouse",
+        "Bonded warehouse",
+        "Cold storage"
+      ],
+      "answer": "Bonded warehouse",
+      "explanation": "Bonded warehouses are controlled by customs authorities and defer the payment of duty, aiding cash flow for importers."
+    },
+    {
+      "id": "COMM_2023_158",
+      "text": "The main advantage of a Public Corporation over a Private Limited Company is:",
+      "image": "COMM_2023_158.png",
+      "options": [
+        "Higher profit motive",
+        "Service orientation and government backing",
+        "Ease of formation",
+        "Unlimited capital raising ability from the public"
+      ],
+      "answer": "Service orientation and government backing",
+      "explanation": "Public corporations are established to provide essential services, often natural monopolies, and benefit from government funding and sovereign guarantee."
+    },
+    {
+      "id": "COMM_2023_159",
+      "text": "The main benefit of a merger (horizontal integration) for the combining companies is often:",
+      "image": "COMM_2023_159.png",
+      "options": [
+        "Reduced scale of operation",
+        "Increased competition",
+        "Economies of scale and increased market power",
+        "Diversification into unrelated fields"
+      ],
+      "answer": "Economies of scale and increased market power",
+      "explanation": "Horizontal mergers reduce competition, increase market share, and allow for greater production efficiency (economies of scale)."
+    },
+    {
+      "id": "COMM_2023_160",
+      "text": "The business transaction where goods are returned by the buyer to the seller is documented by the buyer using a:",
+      "image": "COMM_2023_160.png",
+      "options": [
+        "Credit Note",
+        "Debit Note (as the buyer's formal claim)",
+        "Receipt",
+        "Statement of Account"
+      ],
+      "answer": "Debit Note (as the buyer's formal claim)",
+      "explanation": "The buyer issues a Debit Note to formally inform the seller that their debt to the seller is being reduced, acting as the buyer's record of the return."
+    }
+  ]

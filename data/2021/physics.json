@@ -1,0 +1,522 @@
+[
+    {
+      "id": "P1",
+      "topic": "Measurement and Motion",
+      "text": "The time rate of change of momentum is equal to the applied force. This statement is derived from:",
+      "options": [
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "Law of Conservation of Momentum"
+      ],
+      "answer": "Newton's Second Law of Motion",
+      "explanation": "Newton's Second Law states that force is directly proportional to the rate of change of momentum ($\\text{F} = \\frac{\\text{dp}}{\\text{dt}}$)."
+    },
+    {
+      "id": "P2",
+      "topic": "Mechanics",
+      "text": "A body of mass $5.0 \\text{ kg}$ accelerates uniformly from rest to $20 \\text{ m/s}$ in $4.0 \\text{ s}$. Calculate the magnitude of the force applied.",
+      "options": [
+        "$25 \\text{ N}$",
+        "$40 \\text{ N}$",
+        "$100 \\text{ N}$",
+        "$5 \\text{ N}$"
+      ],
+      "answer": "25 N",
+      "explanation": "Acceleration $a = \\frac{\\text{v}-\\text{u}}{\\text{t}} = \\frac{20-0}{4.0} = 5 \\text{ m/s}^2$. Force $F = ma = 5.0 \\times 5 = 25 \\text{ N}$."
+    },
+    {
+      "id": "P3",
+      "topic": "Work, Energy, and Power",
+      "text": "A machine does $1200 \\text{ J}$ of work in $5 \\text{ minutes}$. What is the power output of the machine?",
+      "options": [
+        "$240 \\text{ W}$",
+        "$4 \\text{ W}$",
+        "$24 \\text{ W}$",
+        "$6000 \\text{ W}$"
+      ],
+      "answer": "4 W",
+      "explanation": "Time $t = 5 \\text{ minutes} = 5 \\times 60 = 300 \\text{ s}$. Power $P = \\frac{\\text{Work}}{\\text{Time}} = \\frac{1200 \\text{ J}}{300 \\text{ s}} = 4 \\text{ W}$."
+    },
+    {
+      "id": "P4",
+      "topic": "Heat and Temperature",
+      "text": "The process by which heat is transmitted from one point to another through the actual movement of hot material is called:",
+      "options": [
+        "Conduction",
+        "Radiation",
+        "Convection",
+        "Ebullition"
+      ],
+      "answer": "Convection",
+      "explanation": "Convection is the transfer of heat in fluids (liquids or gases) due to the movement of the heated substance itself (e.g., hot air rising)."
+    },
+    {
+      "id": "P5",
+      "topic": "Waves (Sound)",
+      "text": "A musical instrument produces a fundamental note of frequency $256 \\text{ Hz}$. What is the frequency of its first overtone?",
+      "options": [
+        "$128 \\text{ Hz}$",
+        "$384 \\text{ Hz}$",
+        "$512 \\text{ Hz}$",
+        "$768 \\text{ Hz}$"
+      ],
+      "answer": "512 Hz",
+      "explanation": "The first overtone is the second harmonic. The frequency of the $n$-th harmonic is $n \\times f_0$. For the second harmonic, $f_2 = 2 \\times 256 \\text{ Hz} = 512 \\text{ Hz}$."
+    },
+    {
+      "id": "P6",
+      "topic": "Optics (Refraction)",
+      "text": "If the refractive index of glass is $1.5$ and the speed of light in air is $3.0 \\times 10^8 \\text{ m/s}$, calculate the speed of light in glass.",
+      "options": [
+        "$2.0 \\times 10^8 \\text{ m/s}$",
+        "$4.5 \\times 10^8 \\text{ m/s}$",
+        "$1.5 \\times 10^8 \\text{ m/s}$",
+        "$0.5 \\times 10^8 \\text{ m/s}$"
+      ],
+      "answer": "$2.0 \\times 10^8 \\text{ m/s}$",
+      "explanation": "Refractive index $n = \\frac{\\text{Speed of light in air}}{\\text{Speed of light in medium}} = \\frac{\\text{c}}{\\text{v}}$. $v = \\frac{c}{n} = \\frac{3.0 \\times 10^8}{1.5} = 2.0 \\times 10^8 \\text{ m/s}$."
+    },
+    {
+      "id": "P7",
+      "topic": "Electricity (Circuits)",
+      "text": "Three resistors of $3 \\Omega$, $4 \\Omega$, and $5 \\Omega$ are connected in series. What is the equivalent resistance?",
+      "options": [
+        "$12 \\Omega$",
+        "$1.2 \\Omega$",
+        "$3.0 \\Omega$",
+        "$1 \\Omega$"
+      ],
+      "answer": "12 $\\Omega$",
+      "explanation": "For resistors in series, the equivalent resistance $R_{\\text{eq}} = R_1 + R_2 + R_3 = 3 + 4 + 5 = 12 \\Omega$."
+    },
+    {
+      "id": "P8",
+      "topic": "Magnetism",
+      "text": "Which of the following materials is used for making electromagnets?",
+      "options": [
+        "Steel",
+        "Soft iron",
+        "Copper",
+        "Tungsten"
+      ],
+      "answer": "Soft iron",
+      "explanation": "Soft iron is easily magnetized and demagnetized (low coercivity and high permeability), making it ideal for temporary magnets like electromagnets."
+    },
+    {
+      "id": "P9",
+      "topic": "Modern Physics",
+      "text": "The emission of electrons from a metal surface when light of suitable frequency falls on it is known as:",
+      "options": [
+        "Radioactivity",
+        "Nuclear fission",
+        "Photoelectric effect",
+        "Thermionic emission"
+      ],
+      "answer": "Photoelectric effect",
+      "explanation": "The photoelectric effect is the physical phenomenon where electrons (photoelectrons) are emitted from a metal surface when it is exposed to electromagnetic radiation above a certain threshold frequency."
+    },
+    {
+      "id": "P10",
+      "topic": "Heat and Thermodynamics",
+      "text": "An ideal gas at a pressure of $1.0 \\times 10^5 \\text{ Pa}$ and volume $0.05 \\text{ m}^3$ is compressed isothermally to a volume of $0.01 \\text{ m}^3$. What is the new pressure?",
+      "options": [
+        "$5.0 \\times 10^5 \\text{ Pa}$",
+        "$2.0 \\times 10^5 \\text{ Pa}$",
+        "$0.5 \\times 10^5 \\text{ Pa}$",
+        "$1.0 \\times 10^5 \\text{ Pa}$"
+      ],
+      "answer": "$5.0 \\times 10^5 \\text{ Pa}$",
+      "explanation": "Applying Boyle's Law (isothermal process): $P_1V_1 = P_2V_2$. $P_2 = \\frac{P_1V_1}{V_2} = \\frac{1.0 \\times 10^5 \\times 0.05}{0.01} = 5.0 \\times 10^5 \\text{ Pa}$."
+    },
+    {
+      "id": "P11",
+      "topic": "Scales and Vectors",
+      "text": "Which of the following pairs contains one scalar and one vector quantity?",
+      "options": [
+        "Force and Velocity",
+        "Mass and Displacement",
+        "Acceleration and Speed",
+        "Momentum and Energy"
+      ],
+      "answer": "Mass and Displacement",
+      "explanation": "Mass is a scalar (magnitude only), and Displacement is a vector (magnitude and direction). Force, Velocity, Acceleration, Momentum are vectors, and Speed, Energy are scalars."
+    },
+    {
+      "id": "P12",
+      "topic": "Circular Motion",
+      "text": "A body moves in a circle at a constant speed. Which of the following statements is true?",
+      "options": [
+        "The velocity is constant.",
+        "The acceleration is zero.",
+        "There is no net force acting on the body.",
+        "The acceleration is directed towards the center of the circle."
+      ],
+      "answer": "The acceleration is directed towards the center of the circle.",
+      "explanation": "In uniform circular motion, the speed is constant, but the velocity is constantly changing direction. This change in velocity means there is an acceleration (centripetal acceleration) directed towards the center, caused by the centripetal force."
+    },
+    {
+      "id": "P13",
+      "topic": "Gravitation",
+      "text": "The weight of an astronaut changes in space primarily because of a change in:",
+      "options": [
+        "Mass",
+        "Acceleration due to gravity",
+        "Density of air",
+        "Volume"
+      ],
+      "answer": "Acceleration due to gravity",
+      "explanation": "Weight ($W = mg$) depends on the acceleration due to gravity ($g$). Mass ($m$) remains constant, but $g$ decreases as the astronaut moves further from a massive object like Earth."
+    },
+    {
+      "id": "P14",
+      "topic": "Elasticity",
+      "text": "The ratio of the stress to the strain produced in a body within the elastic limit is defined as the:",
+      "options": [
+        "Yield strength",
+        "Elastic limit",
+        "Young's modulus",
+        "Bulk modulus"
+      ],
+      "answer": "Young's modulus",
+      "explanation": "Young's modulus ($E$) is a measure of the stiffness of an elastic material and is defined as $E = \\frac{\\text{Stress}}{\\text{Strain}}$ (Hooke's Law)."
+    },
+    {
+      "id": "P15",
+      "topic": "Liquids and Gases",
+      "text": "The upward force experienced by an object partially or fully immersed in a fluid is known as:",
+      "options": [
+        "Surface tension",
+        "Viscosity",
+        "Capillarity",
+        "Upthrust (Buoyancy)"
+      ],
+      "answer": "Upthrust (Buoyancy)",
+      "explanation": "Upthrust, or buoyant force, is the upward force exerted by a fluid that opposes the weight of an immersed object (Archimedes' Principle)."
+    },
+    {
+      "id": "P16",
+      "topic": "Thermal Expansion",
+      "text": "Which of the following is NOT a consequence of thermal expansion?",
+      "options": [
+        "Cracking of thick glass tumblers when hot liquid is poured into them.",
+        "The use of bimetallic strips in thermostats.",
+        "The loosening of metal tyres from wooden wheels.",
+        "The expansion of water on freezing."
+      ],
+      "answer": "The expansion of water on freezing.",
+      "explanation": "The expansion of water on freezing is an anomalous behavior, while the other options are direct consequences of typical thermal expansion (increase in size with temperature)."
+    },
+    {
+      "id": "P17",
+      "topic": "Humidity",
+      "text": "The ratio of the mass of water vapour in a certain volume of air to the mass of water vapour required to saturate the same volume of air at the same temperature is the:",
+      "options": [
+        "Saturated vapour pressure",
+        "Dew point",
+        "Absolute humidity",
+        "Relative humidity"
+      ],
+      "answer": "Relative humidity",
+      "explanation": "This ratio, expressed as a percentage, is the definition of Relative Humidity."
+    },
+    {
+      "id": "P18",
+      "topic": "Waves",
+      "text": "Which of the following is a transverse wave?",
+      "options": [
+        "Sound waves in air",
+        "Waves produced on a spring by pushing and pulling the ends.",
+        "Light waves",
+        "All of the above"
+      ],
+      "answer": "Light waves",
+      "explanation": "In a transverse wave (like light and other electromagnetic waves), the oscillation of particles is perpendicular to the direction of wave propagation. Sound waves are longitudinal."
+    },
+    {
+      "id": "P19",
+      "topic": "Optics (Mirrors)",
+      "text": "An object is placed $10 \\text{ cm}$ from a convex mirror of focal length $15 \\text{ cm}$. The distance of the image from the mirror is:",
+      "options": [
+        "$6.0 \\text{ cm}$",
+        "$15.0 \\text{ cm}$",
+        "$10.0 \\text{ cm}$",
+        "$30.0 \\text{ cm}$"
+      ],
+      "answer": "6.0 cm",
+      "explanation": "Use the mirror formula $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$. For a convex mirror, $f$ is negative, so $f = -15 \\text{ cm}$. $\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = \\frac{1}{-15} - \\frac{1}{10} = \\frac{-2 - 3}{30} = \\frac{-5}{30} = -\\frac{1}{6}$. $v = -6.0 \\text{ cm}$ (Virtual image behind the mirror). The distance is $6.0 \\text{ cm}$."
+    },
+    {
+      "id": "P20",
+      "topic": "Dispersion of Light",
+      "text": "Which colour of light is refracted most when passing through a triangular glass prism?",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Violet"
+      ],
+      "answer": "Violet",
+      "explanation": "Dispersion occurs because refractive index depends on wavelength. Violet light has the shortest wavelength and is refracted the most (slowest speed in the medium)."
+    },
+    {
+      "id": "P21",
+      "topic": "Electrostatics",
+      "text": "The force of attraction or repulsion between two electric charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them. This is the statement of:",
+      "options": [
+        "Ohm's Law",
+        "Faraday's Law",
+        "Coulomb's Law",
+        "Lenz's Law"
+      ],
+      "answer": "Coulomb's Law",
+      "explanation": "This is the definition of Coulomb's Law, which mathematically describes the electrostatic force."
+    },
+    {
+      "id": "P22",
+      "topic": "Electricity (Resistance)",
+      "text": "The resistance of a wire is $\\rho$ (resistivity), $L$ (length), and $A$ (cross-sectional area). The correct relationship is:",
+      "options": [
+        "$R = \\frac{\\rho A}{L}$",
+        "$R = \\frac{L}{\\rho A}$",
+        "$R = \\frac{\\rho L}{A}$",
+        "$R = \\rho L A$"
+      ],
+      "answer": "$R = \\frac{\\rho L}{A}$",
+      "explanation": "Resistance is directly proportional to resistivity and length, and inversely proportional to the cross-sectional area."
+    },
+    {
+      "id": "P23",
+      "topic": "Electromagnetic Induction",
+      "text": "A transformer has $200$ turns in the primary coil and $4000$ turns in the secondary coil. If the input voltage is $12 \\text{ V}$, what is the output voltage?",
+      "options": [
+        "$240 \\text{ V}$",
+        "$120 \\text{ V}$",
+        "$60 \\text{ V}$",
+        "$480 \\text{ V}$"
+      ],
+      "answer": "240 V",
+      "explanation": "Transformer ratio: $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$. $V_s = V_p \\times \\frac{N_s}{N_p} = 12 \\text{ V} \\times \\frac{4000}{200} = 12 \\times 20 = 240 \\text{ V}$."
+    },
+    {
+      "id": "P24",
+      "topic": "Modern Physics",
+      "text": "Which of the following is a particle with the same mass as an electron but with a positive charge?",
+      "options": [
+        "Neutron",
+        "Proton",
+        "Positron",
+        "Alpha particle"
+      ],
+      "answer": "Positron",
+      "explanation": "A positron is the antiparticle of the electron. It has the same mass as the electron but carries a charge of $+e$."
+    },
+    {
+      "id": "P25",
+      "topic": "Wave-Particle Duality",
+      "text": "De Broglie suggested that moving particles, such as electrons, have wave properties. The wavelength of such a particle is given by the formula:",
+      "options": [
+        "$\\lambda = \\text{hf}$",
+        "$\\lambda = \\frac{\\text{h}}{\\text{mv}}$",
+        "$E = \\text{mc}^2$",
+        "$E = \\frac{1}{2}\\text{mv}^2$"
+      ],
+      "answer": "$\\lambda = \\frac{\\text{h}}{\\text{mv}}$",
+      "explanation": "The De Broglie wavelength ($\\lambda$) is given by $\\lambda = \\frac{\\text{h}}{\\text{p}}$, where $\\text{h}$ is Planck's constant, and $\\text{p}$ is momentum ($\\text{mv}$)."
+    },
+    {
+      "id": "P26",
+      "topic": "Simple Harmonic Motion (SHM)",
+      "text": "At which point in the oscillation of a simple pendulum is its kinetic energy maximum?",
+      "options": [
+        "At the extreme end of the swing.",
+        "At the lowest point of the swing (equilibrium position).",
+        "Midway between the equilibrium and the extreme end.",
+        "The kinetic energy is constant throughout."
+      ],
+      "answer": "At the lowest point of the swing (equilibrium position).",
+      "explanation": "Kinetic energy is maximum when velocity is maximum. This occurs at the equilibrium position (lowest point) where potential energy is minimum."
+    },
+    {
+      "id": "P27",
+      "topic": "Pressure",
+      "text": "A force of $40 \\text{ N}$ acts on an area of $0.2 \\text{ m}^2$. Calculate the pressure exerted.",
+      "options": [
+        "$8 \\text{ Pa}$",
+        "$200 \\text{ Pa}$",
+        "$40.2 \\text{ Pa}$",
+        "$80 \\text{ Pa}$"
+      ],
+      "answer": "200 Pa",
+      "explanation": "Pressure $P = \\frac{\\text{Force}}{\\text{Area}} = \\frac{40 \\text{ N}}{0.2 \\text{ m}^2} = 200 \\text{ Pa}$."
+    },
+    {
+      "id": "P28",
+      "topic": "Heat Capacity",
+      "text": "How much heat is required to raise the temperature of $2 \\text{ kg}$ of water from $30 \\text{ \u00b0C}$ to $100 \\text{ \u00b0C}$? (Specific heat capacity of water $c = 4200 \\text{ J/kg}\u00b0\\text{C}$)",
+      "options": [
+        "$588,000 \\text{ J}$",
+        "$840,000 \\text{ J}$",
+        "$240,000 \\text{ J}$",
+        "$420,000 \\text{ J}$"
+      ],
+      "answer": "588,000 J",
+      "explanation": "Heat required $Q = mc\\Delta \\theta$. $\\Delta \\theta = 100 - 30 = 70 \\text{ \u00b0C}$. $Q = 2 \\times 4200 \\times 70 = 588,000 \\text{ J}$."
+    },
+    {
+      "id": "P29",
+      "topic": "Propagation of Waves",
+      "text": "When a wave passes from a less dense medium to a more dense medium, which of the following remains unchanged?",
+      "options": [
+        "Wavelength",
+        "Speed",
+        "Frequency",
+        "Amplitude"
+      ],
+      "answer": "Frequency",
+      "explanation": "The frequency of a wave is determined by its source and remains constant when the wave travels from one medium to another."
+    },
+    {
+      "id": "P30",
+      "topic": "Optical Instruments",
+      "text": "A simple microscope (magnifying glass) consists of a single:",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Converging mirror",
+        "Diverging mirror"
+      ],
+      "answer": "Convex lens",
+      "explanation": "A simple microscope is a single converging (convex) lens used to produce a magnified virtual image."
+    },
+    {
+      "id": "P31",
+      "topic": "Internal Resistance",
+      "text": "A cell of $\\text{e.m.f.} \\text{ } 1.5 \\text{ V}$ and internal resistance $1.0 \\Omega$ is connected to an external resistor of $2.0 \\Omega$. The current flowing in the circuit is:",
+      "options": [
+        "$0.5 \\text{ A}$",
+        "$1.5 \\text{ A}$",
+        "$0.75 \\text{ A}$",
+        "$0.3 \\text{ A}$"
+      ],
+      "answer": "0.5 A",
+      "explanation": "Total resistance $R_{\\text{total}} = R_{\\text{ext}} + r = 2.0 \\Omega + 1.0 \\Omega = 3.0 \\Omega$. Current $I = \\frac{E}{R_{\\text{total}}} = \\frac{1.5 \\text{ V}}{3.0 \\Omega} = 0.5 \\text{ A}$."
+    },
+    {
+      "id": "P32",
+      "topic": "AC Circuits",
+      "text": "What is the instrument used to convert alternating current (AC) to direct current (DC)?",
+      "options": [
+        "Transformer",
+        "Inductor",
+        "Rectifier",
+        "Capacitor"
+      ],
+      "answer": "Rectifier",
+      "explanation": "A rectifier circuit, usually involving diodes, converts AC to DC by allowing current flow in only one direction."
+    },
+    {
+      "id": "P33",
+      "topic": "Magnetism",
+      "text": "Which law describes the force experienced by a current-carrying conductor placed in a magnetic field?",
+      "options": [
+        "Faraday's Law of Induction",
+        "Lenz's Law",
+        "Fleming's Left-Hand Rule",
+        "Ohm's Law"
+      ],
+      "answer": "Fleming's Left-Hand Rule",
+      "explanation": "Fleming's Left-Hand Rule is a mnemonic used to determine the direction of the force (thrust) on a current-carrying conductor placed in an external magnetic field."
+    },
+    {
+      "id": "P34",
+      "topic": "Radioactivity",
+      "text": "A radiation that is highly penetrating and has no charge is:",
+      "options": [
+        "Alpha particle ($\\alpha$)",
+        "Beta particle ($\\beta$)",
+        "Gamma ray ($\\gamma$)",
+        "Proton"
+      ],
+      "answer": "Gamma ray ($\\gamma$)",
+      "explanation": "Gamma rays are high-energy electromagnetic waves. They are uncharged and have the highest penetrating power of the common nuclear radiations."
+    },
+    {
+      "id": "P35",
+      "topic": "Nuclear Fission",
+      "text": "A nuclear reaction where a heavy nucleus splits into two or more smaller nuclei is known as:",
+      "options": [
+        "Nuclear fusion",
+        "Radioactive decay",
+        "Nuclear fission",
+        "Chain reaction"
+      ],
+      "answer": "Nuclear fission",
+      "explanation": "Nuclear fission is the process where a large nucleus (e.g., Uranium-235) is split, typically by a neutron, releasing a large amount of energy."
+    },
+    {
+      "id": "P36",
+      "topic": "Wave Properties (Interference)",
+      "text": "Which of the following is required to produce a sustained interference pattern with light waves?",
+      "options": [
+        "Two coherent sources.",
+        "Two monochromatic sources.",
+        "One source and one screen.",
+        "Two independent white light sources."
+      ],
+      "answer": "Two coherent sources.",
+      "explanation": "Coherent sources must have the same frequency, same amplitude, and a constant phase difference. This is essential for a sustained interference pattern."
+    },
+    {
+      "id": "P37",
+      "topic": "Fluids",
+      "text": "The property of fluids that enables a boat to float is due to:",
+      "options": [
+        "Surface tension",
+        "Adhesion",
+        "Viscosity",
+        "Upthrust (Buoyancy)"
+      ],
+      "answer": "Upthrust (Buoyancy)",
+      "explanation": "A boat floats because the upthrust exerted by the water is equal to the weight of the water displaced, which in turn equals the weight of the boat (Principle of Flotation)."
+    },
+    {
+      "id": "P38",
+      "topic": "Kinematics (Graphs)",
+      "text": "The gradient of a velocity-time graph represents the:",
+      "options": [
+        "Distance covered",
+        "Displacement",
+        "Acceleration",
+        "Force"
+      ],
+      "answer": "Acceleration",
+      "explanation": "The gradient (slope) of a velocity-time graph is $\\frac{\\text{Change in velocity}}{\\text{Change in time}}$, which is the definition of acceleration."
+    },
+    {
+      "id": "P39",
+      "topic": "Electricity (Power)",
+      "text": "A $60 \\text{ W}$ electric lamp is connected to a $240 \\text{ V}$ supply. Calculate the current drawn by the lamp.",
+      "options": [
+        "$4.0 \\text{ A}$",
+        "$0.25 \\text{ A}$",
+        "$2.5 \\text{ A}$",
+        "$0.4 \\text{ A}$"
+      ],
+      "answer": "0.25 A",
+      "explanation": "Power $P = IV$. Current $I = \\frac{P}{V} = \\frac{60 \\text{ W}}{240 \\text{ V}} = 0.25 \\text{ A}$."
+    },
+    {
+      "id": "P40",
+      "topic": "Simple Machines",
+      "text": "A simple machine is $75\\%$ efficient. If the work done on the machine (work input) is $1200 \\text{ J}$, what is the work done by the machine (work output)?",
+      "options": [
+        "$900 \\text{ J}$",
+        "$300 \\text{ J}$",
+        "$1600 \\text{ J}$",
+        "$1200 \\text{ J}$"
+      ],
+      "answer": "900 J",
+      "explanation": "Efficiency $\\eta = \\frac{\\text{Work Output}}{\\text{Work Input}} \\times 100\\%$. Work Output $= \\frac{\\eta \\times \\text{Work Input}}{100} = \\frac{75 \\times 1200}{100} = 900 \\text{ J}$."
+    }
+  ]

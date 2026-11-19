@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_361",
+      "text": "The accounting concept that assumes the monetary value of the currency unit remains stable and does not adjust for inflation is the:",
+      "image": "ACCO_2023_361.png",
+      "options": [
+        "Historical Cost concept",
+        "Going Concern concept",
+        "Money Measurement concept",
+        "Consistency concept"
+      ],
+      "answer": "Money Measurement concept",
+      "explanation": "The Money Measurement concept requires recording transactions in currency units, but it is a limitation because it assumes the currency unit's purchasing power is constant (stable), ignoring inflation."
+    },
+    {
+      "id": "ACCO_2023_362",
+      "text": "The main ethical threat arising when an accountant is asked to prepare financial statements in a way that maximizes a bonus for management is the:",
+      "image": "ACCO_2023_362.png",
+      "options": [
+        "Familiarity threat",
+        "Intimidation threat",
+        "Self-interest threat",
+        "Advocacy threat"
+      ],
+      "answer": "Self-interest threat",
+      "explanation": "The Self-interest threat occurs when a financial or other interest improperly influences the accountant's judgment or behavior, such as benefiting from the manipulation of figures."
+    },
+    {
+      "id": "ACCO_2023_363",
+      "text": "The ratio (Total Revenue / Total Assets) calculates the:",
+      "image": "ACCO_2023_363.png",
+      "options": [
+        "Net Profit Margin",
+        "Asset Turnover Ratio",
+        "Return on Equity",
+        "Creditors Turnover Ratio"
+      ],
+      "answer": "Asset Turnover Ratio",
+      "explanation": "The Asset Turnover Ratio measures how efficiently a company is using its total assets to generate sales revenue (an efficiency ratio)."
+    },
+    {
+      "id": "ACCO_2023_364",
+      "text": "The legal rule that prevents a company from distributing dividends out of capital is the principle of:",
+      "image": "ACCO_2023_364.png",
+      "options": [
+        "Unlimited Liability",
+        "Capital Maintenance",
+        "Prudence",
+        "Objectivity"
+      ],
+      "answer": "Capital Maintenance",
+      "explanation": "Capital Maintenance ensures that shareholders' funds and the capital base are preserved, protecting the interests of the company's creditors."
+    },
+    {
+      "id": "ACCO_2023_365",
+      "text": "The main component of an independent branch's trial balance that represents the Head Office's investment in the branch is the:",
+      "image": "ACCO_2023_365.png",
+      "options": [
+        "Branch Profit and Loss Account",
+        "Head Office Account",
+        "Branch Current Account",
+        "Branch Fixed Assets"
+      ],
+      "answer": "Head Office Account",
+      "explanation": "In the independent branch's books, the Head Office Account is a liability showing the amount owed to the Head Office. In the Head Office books, the Branch Account is an asset."
+    },
+    {
+      "id": "ACCO_2023_366",
+      "text": "The formula (Net Income / Total Number of Shares Outstanding) calculates the:",
+      "image": "ACCO_2023_366.png",
+      "options": [
+        "Dividend Payout Ratio",
+        "Price-Earnings Ratio",
+        "Earnings Per Share (EPS)",
+        "Book Value per Share"
+      ],
+      "answer": "Earnings Per Share (EPS)",
+      "explanation": "EPS is a profitability measure that indicates the portion of a company's profit allocated to each outstanding share of common stock."
+    },
+    {
+      "id": "ACCO_2023_367",
+      "text": "The primary objective of preparing a Receipts and Payments Account is to summarize:",
+      "image": "ACCO_2023_367.png",
+      "options": [
+        "All revenues and expenses on an accrual basis",
+        "The movement of all cash and bank transactions for the period",
+        "The change in capital fund",
+        "The total profit or loss"
+      ],
+      "answer": "The movement of all cash and bank transactions for the period",
+      "explanation": "The Receipts and Payments Account (used mainly by non-profits) is a cash book summary, recording only actual cash inflows and outflows."
+    },
+    {
+      "id": "ACCO_2023_368",
+      "text": "In a joint venture, the account where the profit or loss is finally transferred from the Joint Venture Account is the:",
+      "image": "ACCO_2023_368.png",
+      "options": [
+        "Joint Bank Account",
+        "Partner's Capital/Current Account",
+        "Realization Account",
+        "Consignment Account"
+      ],
+      "answer": "Partner's Capital/Current Account",
+      "explanation": "The profit or loss determined in the Joint Venture Account is shared among the venturers in their profit-sharing ratio and credited/debited to their respective capital or current accounts."
+    },
+    {
+      "id": "ACCO_2023_369",
+      "text": "The accounting standard that provides principles for accounting for government grants and disclosures of government assistance is:",
+      "image": "ACCO_2023_369.png",
+      "options": [
+        "IAS 1 (Presentation)",
+        "IAS 20 (Accounting for Government Grants)",
+        "IFRS 15 (Revenue)",
+        "IAS 36 (Impairment)"
+      ],
+      "answer": "IAS 20 (Accounting for Government Grants)",
+      "explanation": "IAS 20 covers the recognition and measurement of government grants and requires them to be recognized in profit or loss on a systematic basis over the periods in which the entity recognizes the related costs."
+    },
+    {
+      "id": "ACCO_2023_370",
+      "text": "An error that results in the incorrect classification of a transaction (e.g., revenue expenditure treated as capital expenditure) is termed an error of:",
+      "image": "ACCO_2023_370.png",
+      "options": [
+        "Commission",
+        "Principle",
+        "Omission",
+        "Compensating"
+      ],
+      "answer": "Principle",
+      "explanation": "An Error of Principle violates the fundamental accounting concepts (like the Going Concern or Matching Concept) but does not necessarily affect the Trial Balance agreement."
+    },
+    {
+      "id": "ACCO_2023_371",
+      "text": "The formula (Total Assets - Total Liabilities) is essential for calculating capital under the:",
+      "image": "ACCO_2023_371.png",
+      "options": [
+        "Double Entry System",
+        "Memorandum Method",
+        "Single Entry System (Statement of Affairs)",
+        "Receipts and Payments Account"
+      ],
+      "answer": "Single Entry System (Statement of Affairs)",
+      "explanation": "Under Single Entry, the Statement of Affairs is prepared by applying the accounting equation to estimate the missing figure, which is always the capital."
+    },
+    {
+      "id": "ACCO_2023_372",
+      "text": "Which ratio measures the number of days a company takes to pay its trade suppliers?",
+      "image": "ACCO_2023_372.png",
+      "options": [
+        "Debtors Collection Period",
+        "Inventory Holding Period",
+        "Creditors Payment Period",
+        "Cash Conversion Cycle"
+      ],
+      "answer": "Creditors Payment Period",
+      "explanation": "Creditors Payment Period = (Average Trade Payables / Net Credit Purchases) $\\times$ 365 days. It's an efficiency measure in managing liabilities."
+    },
+    {
+      "id": "ACCO_2023_373",
+      "text": "The term for the minimum number of subscribers required to sign the Memorandum of Association of a Private Limited Company is:",
+      "image": "ACCO_2023_373.png",
+      "options": [
+        "One",
+        "Seven",
+        "Two",
+        "Fifty"
+      ],
+      "answer": "One",
+      "explanation": "Modern company legislation in many jurisdictions allows a private limited company to be formed with only one director and one shareholder."
+    },
+    {
+      "id": "ACCO_2023_374",
+      "text": "The major advantage of the Reducing Balance Method of depreciation over the Straight-Line Method is its compliance with the:",
+      "image": "ACCO_2023_374.png",
+      "options": [
+        "Objectivity principle",
+        "Prudence concept",
+        "Matching concept (by compensating for increasing repair costs)",
+        "Consistency concept"
+      ],
+      "answer": "Matching concept (by compensating for increasing repair costs)",
+      "explanation": "The Reducing Balance Method charges higher depreciation in earlier years, which, when combined with lower repair costs, balances the total cost (depreciation + maintenance) over the asset's life, fulfilling the matching concept."
+    },
+    {
+      "id": "ACCO_2023_375",
+      "text": "In a partnership, the method that keeps partners' capital contributions fixed and records profit distribution and drawings separately is the:",
+      "image": "ACCO_2023_375.png",
+      "options": [
+        "Fluctuating Capital Method",
+        "Fixed Capital Method",
+        "Single Entry Method",
+        "Revaluation Method"
+      ],
+      "answer": "Fixed Capital Method",
+      "explanation": "The Fixed Capital Method requires opening a separate Current Account for each partner to record all non-capital-related transactions."
+    },
+    {
+      "id": "ACCO_2023_376",
+      "text": "The cost of goods lost due to poor management, theft, or fire on consignment is treated as:",
+      "image": "ACCO_2023_376.png",
+      "options": [
+        "Normal loss",
+        "Abnormal loss (or Extraordinary loss)",
+        "Recurring expense",
+        "Consignee's liability"
+      ],
+      "answer": "Abnormal loss (or Extraordinary loss)",
+      "explanation": "Abnormal loss is charged to the General Profit and Loss Account because it is non-recurring and should not be absorbed into the cost of the remaining units."
+    },
+    {
+      "id": "ACCO_2023_377",
+      "text": "The ratio (Total Liabilities / Owner's Equity) calculates the:",
+      "image": "ACCO_2023_377.png",
+      "options": [
+        "Debt-to-Assets Ratio",
+        "Current Ratio",
+        "Debt-to-Equity Ratio",
+        "Interest Cover Ratio"
+      ],
+      "answer": "Debt-to-Equity Ratio",
+      "explanation": "The Debt-to-Equity Ratio is a key gearing ratio showing the proportion of debt financing relative to equity financing."
+    },
+    {
+      "id": "ACCO_2023_378",
+      "text": "In Cost Accounting, the sum of direct materials, direct labor, and variable overheads is referred to as:",
+      "image": "ACCO_2023_378.png",
+      "options": [
+        "Absorption Cost",
+        "Prime Cost",
+        "Marginal Cost (or Variable Cost of Production)",
+        "Works Cost"
+      ],
+      "answer": "Marginal Cost (or Variable Cost of Production)",
+      "explanation": "Marginal Cost is the cost of producing one extra unit, which equals Prime Cost plus variable production overheads (assuming no variable selling/admin costs)."
+    },
+    {
+      "id": "ACCO_2023_379",
+      "text": "The statement that reconciles the Cash Book balance with the Bank Statement balance is the:",
+      "image": "ACCO_2023_379.png",
+      "options": [
+        "Trial Balance",
+        "Receipts and Payments Account",
+        "Bank Reconciliation Statement (BRS)",
+        "Statement of Financial Position"
+      ],
+      "answer": "Bank Reconciliation Statement (BRS)",
+      "explanation": "A BRS is an internal report prepared to explain and reconcile timing differences and errors between the bank's record and the company's cash book."
+    },
+    {
+      "id": "ACCO_2023_380",
+      "text": "The purpose of capitalizing borrowing costs (interest expense) on a qualifying asset is to comply with the accounting standard:",
+      "image": "ACCO_2023_380.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IAS 23 (Borrowing Costs)",
+        "IFRS 15 (Revenue)",
+        "IAS 38 (Intangibles)"
+      ],
+      "answer": "IAS 23 (Borrowing Costs)",
+      "explanation": "IAS 23 requires that borrowing costs directly attributable to the acquisition, construction, or production of a qualifying asset (one that takes a substantial period of time to get ready for its intended use) must be capitalized as part of the asset's cost."
+    },
+    {
+      "id": "ACCO_2023_381",
+      "text": "The main component of the Statement of Changes in Equity for a company is the change in:",
+      "image": "ACCO_2023_381.png",
+      "options": [
+        "Trade Receivables",
+        "Retained Earnings and Reserves",
+        "Total Assets",
+        "Current Liabilities"
+      ],
+      "answer": "Retained Earnings and Reserves",
+      "explanation": "This statement details the movements in equity components, including net profit, dividends, issuance of new shares, and revaluation surpluses."
+    },
+    {
+      "id": "ACCO_2023_382",
+      "text": "The ratio (Net Credit Purchases / Average Trade Payables) calculates the:",
+      "image": "ACCO_2023_382.png",
+      "options": [
+        "Debtors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Creditors Turnover Ratio",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Creditors Turnover Ratio",
+      "explanation": "The Creditors Turnover Ratio shows how actively a company pays its suppliers throughout the year."
+    },
+    {
+      "id": "ACCO_2023_383",
+      "text": "The cost of research expenditures on a new product that does not meet the recognition criteria for an intangible asset must be treated as:",
+      "image": "ACCO_2023_383.png",
+      "options": [
+        "Capital Expenditure",
+        "Deferred Revenue Expenditure",
+        "Expense in the Profit or Loss Account",
+        "Asset in the Balance Sheet"
+      ],
+      "answer": "Expense in the Profit or Loss Account",
+      "explanation": "According to IAS 38, research expenditure must be expensed as incurred because it is highly uncertain whether future economic benefits will flow to the entity."
+    },
+    {
+      "id": "ACCO_2023_384",
+      "text": "The loss that arises on the realization of assets upon the dissolution of a partnership is transferred to the:",
+      "image": "ACCO_2023_384.png",
+      "options": [
+        "Profit and Loss Account",
+        "Partner's Loan Account",
+        "Partner's Capital Accounts",
+        "General Reserve Account"
+      ],
+      "answer": "Partner's Capital Accounts",
+      "explanation": "The final loss on realization is debited to the partners' capital accounts in their profit-sharing ratio."
+    },
+    {
+      "id": "ACCO_2023_385",
+      "text": "The accounting standard that provides principles for the valuation of Inventory is:",
+      "image": "ACCO_2023_385.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IAS 2 (Inventory)",
+        "IFRS 15 (Revenue)",
+        "IAS 36 (Impairment)"
+      ],
+      "answer": "IAS 2 (Inventory)",
+      "explanation": "IAS 2 prescribes that inventory should be valued at the lower of cost and net realizable value (NRV)."
+    },
+    {
+      "id": "ACCO_2023_386",
+      "text": "The term for the money spent to restore an asset to its original capacity or useful life is:",
+      "image": "ACCO_2023_386.png",
+      "options": [
+        "Revenue Expenditure (Repair)",
+        "Capital Expenditure (Improvement)",
+        "Prime Cost",
+        "Deferred Revenue Expenditure"
+      ],
+      "answer": "Revenue Expenditure (Repair)",
+      "explanation": "Routine repairs and maintenance restore the asset's normal function and are expensed immediately. Only expenditure that substantially increases the asset's capacity or life is capitalized."
+    },
+    {
+      "id": "ACCO_2023_387",
+      "text": "In the Single Entry System, the total amount of cash and bank receipts is used to prepare the:",
+      "image": "ACCO_2023_387.png",
+      "options": [
+        "Statement of Affairs",
+        "Memorandum Trading Account",
+        "Total Debtors Account",
+        "Cash and Bank Summary (used to build the Cash Book)"
+      ],
+      "answer": "Cash and Bank Summary (used to build the Cash Book)",
+      "explanation": "Under Single Entry, a summary of cash transactions is often created first to reconstruct the missing information, especially the total sales and payments."
+    },
+    {
+      "id": "ACCO_2023_388",
+      "text": "The formula (Total Assets / Total Equity) calculates the:",
+      "image": "ACCO_2023_388.png",
+      "options": [
+        "Times Interest Earned",
+        "Equity Multiplier (Financial Leverage Ratio)",
+        "Debt-to-Assets Ratio",
+        "Return on Equity"
+      ],
+      "answer": "Equity Multiplier (Financial Leverage Ratio)",
+      "explanation": "The Equity Multiplier shows the extent to which assets are financed by equity. A higher ratio indicates higher financial leverage."
+    },
+    {
+      "id": "ACCO_2023_389",
+      "text": "When a company accepts its own shares as collateral for a loan, the shares are known as:",
+      "image": "ACCO_2023_389.png",
+      "options": [
+        "Issued Shares",
+        "Reserve Capital",
+        "Treasury Shares (or Reacquired Shares)",
+        "Bonus Shares"
+      ],
+      "answer": "Treasury Shares (or Reacquired Shares)",
+      "explanation": "Treasury shares are issued shares that have been bought back by the company. They reduce total equity but are not classified as an asset."
+    },
+    {
+      "id": "ACCO_2023_390",
+      "text": "The accounting concept that states that all transactions should be recorded from the viewpoint of the business, not the owner, is the:",
+      "image": "ACCO_2023_390.png",
+      "options": [
+        "Going Concern concept",
+        "Dual Aspect concept",
+        "Business Entity concept",
+        "Consistency concept"
+      ],
+      "answer": "Business Entity concept",
+      "explanation": "This concept maintains the strict separation between the financial affairs of the business and the personal affairs of its owners."
+    },
+    {
+      "id": "ACCO_2023_391",
+      "text": "The main ethical threat arising when an accountant reviews their own work or reports on a system they installed is the:",
+      "image": "ACCO_2023_391.png",
+      "options": [
+        "Self-Review threat",
+        "Advocacy threat",
+        "Familiarity threat",
+        "Intimidation threat"
+      ],
+      "answer": "Self-Review threat",
+      "explanation": "The Self-Review threat is the risk that an accountant will not appropriately evaluate the results of a previous judgment made or service performed by themselves."
+    },
+    {
+      "id": "ACCO_2023_392",
+      "text": "The difference between the total of the Sales Journal and the Sales Ledger Control Account indicates an error in the:",
+      "image": "ACCO_2023_392.png",
+      "options": [
+        "General Ledger (Sales Account)",
+        "Sales Ledger (Individual Debtors' Accounts)",
+        "Cash Book entries",
+        "Purchases Journal"
+      ],
+      "answer": "Sales Ledger (Individual Debtors' Accounts)",
+      "explanation": "The discrepancy implies that the individual entries in the Sales Ledger were incorrectly posted or totalled, as the Sales Journal total (which feeds the control account) is presumed correct."
+    },
+    {
+      "id": "ACCO_2023_393",
+      "text": "In departmental accounting, rent is usually allocated to departments based on the ratio of:",
+      "image": "ACCO_2023_393.png",
+      "options": [
+        "Sales Revenue",
+        "Number of Employees",
+        "Floor Area (Square Footage)",
+        "Time spent by supervisors"
+      ],
+      "answer": "Floor Area (Square Footage)",
+      "explanation": "Rent is a cost related to physical space, so the fairest basis for allocation is the area occupied by each department."
+    },
+    {
+      "id": "ACCO_2023_394",
+      "text": "The total amount of cash collected from debtors can be determined under the Single Entry System by preparing the:",
+      "image": "ACCO_2023_394.png",
+      "options": [
+        "Memorandum Profit and Loss Account",
+        "Total Creditors Account",
+        "Total Debtors Account (or Debtors Control Account)",
+        "Statement of Affairs"
+      ],
+      "answer": "Total Debtors Account (or Debtors Control Account)",
+      "explanation": "The Total Debtors Account is reconstructed using opening/closing balances, credit sales, and other related figures, with the missing amount typically representing cash received from debtors."
+    },
+    {
+      "id": "ACCO_2023_395",
+      "text": "The ratio (Earnings Per Share / P/E Ratio) is calculated to determine the:",
+      "image": "ACCO_2023_395.png",
+      "options": [
+        "Dividend Yield",
+        "Book Value per Share",
+        "Market Price per Share",
+        "Net Asset Value"
+      ],
+      "answer": "Market Price per Share",
+      "explanation": "Since P/E = Market Price / EPS, rearranging the formula gives: Market Price = EPS $\\times$ P/E. (Note: The calculation in the option is misleading, but the intended answer is based on the relationship in the P/E formula)."
+    },
+    {
+      "id": "ACCO_2023_396",
+      "text": "The purpose of a 'del credere commission' paid to a consignee is to incentivize the consignee to:",
+      "image": "ACCO_2023_396.png",
+      "options": [
+        "Pay all selling expenses",
+        "Guarantee the collection of credit sales",
+        "Store the goods safely",
+        "Pay the consignment freight costs"
+      ],
+      "answer": "Guarantee the collection of credit sales",
+      "explanation": "Del credere commission is an extra payment that makes the consignee responsible for any bad debts arising from credit sales."
+    },
+    {
+      "id": "ACCO_2023_397",
+      "text": "The final closing balance of the Realization Account in a partnership dissolution represents the:",
+      "image": "ACCO_2023_397.png",
+      "options": [
+        "Total assets remaining",
+        "Total liabilities settled",
+        "Profit or loss on the realization of assets and liabilities",
+        "Cash balance of the firm"
+      ],
+      "answer": "Profit or loss on the realization of assets and liabilities",
+      "explanation": "The final balance of the Realization Account is either a profit (credit balance) or a loss (debit balance) transferred to the partners' capital accounts."
+    },
+    {
+      "id": "ACCO_2023_398",
+      "text": "The document that summarizes the movement of finished goods from the factory to the sales warehouse is the:",
+      "image": "ACCO_2023_398.png",
+      "options": [
+        "Purchase Order",
+        "Goods Received Note",
+        "Transfer Note (or Finished Goods Transfer Slip)",
+        "Delivery Note"
+      ],
+      "answer": "Transfer Note (or Finished Goods Transfer Slip)",
+      "explanation": "A Transfer Note is used internally to document the movement of inventory between departments or locations within the company."
+    },
+    {
+      "id": "ACCO_2023_399",
+      "text": "The accounting concept that justifies the classification of items as Current or Non-Current (Long-Term) is the:",
+      "image": "ACCO_2023_399.png",
+      "options": [
+        "Business Entity concept",
+        "Prudence concept",
+        "Going Concern concept",
+        "Materiality concept"
+      ],
+      "answer": "Going Concern concept",
+      "explanation": "If the business were not assumed to continue (Going Concern), all assets would be valued at liquidation value, and the distinction between current and non-current would be irrelevant."
+    },
+    {
+      "id": "ACCO_2023_400",
+      "text": "The minimum dividend that must be paid to shareholders before any payment can be made to ordinary shareholders is related to:",
+      "image": "ACCO_2023_400.png",
+      "options": [
+        "Bonus shares",
+        "Scrip shares",
+        "Preference shares",
+        "Treasury shares"
+      ],
+      "answer": "Preference shares",
+      "explanation": "Preference shareholders receive dividends at a fixed rate before any residual profits are distributed to ordinary shareholders."
+    }
+  ]

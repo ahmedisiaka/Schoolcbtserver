@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E0001",
+        "text": "After nearly a year of caution, the $\\textbf{U.S.}$ $\\textbf{Federal}$ $\\textbf{Reserve}$ delivered its $\\textbf{second}$ $\\textbf{post-crisis}$ $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{hike}$ in $\\textbf{December}$ $\\textbf{2016}$.",
+        "image": "",
+        "options": [
+            "June 2016",
+            "December 2016",
+            "September 2015",
+            "March 2017"
+        ],
+        "answer": "December 2016",
+        "explanation": "Following the initial hike in December 2015, the Fed paused for a year amid global volatility (China, Brexit) before hiking again by 25 basis points."
+    },
+    {
+        "id": "E0002",
+        "text": "The major geopolitical event that shocked global markets in $\\textbf{June}$ $\\textbf{2016}$, leading to a surge in safe-haven assets, was the $\\textbf{UK}$ $\\textbf{referendum}$ vote to $\\textbf{leave}$ the $\\textbf{European}$ $\\textbf{Union}$ ($\\textbf{Brexit}$).",
+        "image": "",
+        "options": [
+            "The U.S. Presidential Election",
+            "The Greek Debt Crisis resolution",
+            "The UK referendum vote to leave the European Union (Brexit)",
+            "The China Yuan devaluation"
+        ],
+        "answer": "The UK referendum vote to leave the European Union (Brexit)",
+        "explanation": "The 'Leave' vote, contrary to most expectations, triggered the immediate resignation of Prime Minister David Cameron and massive market turbulence."
+    },
+    {
+        "id": "E0003",
+        "text": "The $\\textbf{immediate}$ $\\textbf{impact}$ of the $\\textbf{Brexit}$ vote on the $\\textbf{British}$ $\\textbf{Pound}$ ($\\textbf{GBP}$) was a $\\textbf{plunge}$ to its $\\textbf{lowest}$ $\\textbf{level}$ against the $\\textbf{U.S.}$ $\\textbf{Dollar}$ in $\\textbf{over}$ $\\textbf{30}$ $\\textbf{years}$.",
+        "image": "",
+        "options": [
+            "A sharp rally",
+            "A plunge to its lowest level in over 30 years",
+            "No significant change",
+            "A fixed peg to the Euro"
+        ],
+        "answer": "A plunge to its lowest level in over 30 years",
+        "explanation": "The sudden political and economic uncertainty caused investors to abandon the currency, which lost about 10% of its value overnight."
+    },
+    {
+        "id": "E0004",
+        "text": "In $\\textbf{November}$ $\\textbf{2016}$, the $\\textbf{U.S.}$ $\\textbf{stock}$ and $\\textbf{bond}$ $\\textbf{markets}$ reacted to the $\\textbf{Presidential}$ $\\textbf{Election}$ result with a sharp rise known as the $\\textbf{Trump}$ $\\textbf{Rally}$ or $\\textbf{Trumpflation}$.",
+        "image": "",
+        "options": [
+            "The Bernanke Boost",
+            "The Taper Tantrum",
+            "The Trump Rally",
+            "The Dot-com Burst"
+        ],
+        "answer": "The Trump Rally",
+        "explanation": "This rally was fueled by expectations of massive tax cuts, deregulation, and large infrastructure spending, which were seen as inflationary and pro-growth."
+    },
+    {
+        "id": "E0005",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) shocked markets in $\\textbf{January}$ $\\textbf{2016}$ by introducing $\\textbf{Negative}$ $\\textbf{Interest}$ $\\textbf{Rates}$ ($\\textbf{NIRP}$) on $\\textbf{excess}$ $\\textbf{bank}$ $\\textbf{reserves}$ to spur $\\textbf{lending}$.",
+        "image": "",
+        "options": [
+            "Ending all bond purchases",
+            "Introducing Negative Interest Rates (NIRP)",
+            "Raising the primary lending rate",
+            "Pegging the Yen to the Dollar"
+        ],
+        "answer": "Introducing Negative Interest Rates (NIRP)",
+        "explanation": "Following the ECB's lead, the BoJ adopted NIRP to punish banks for hoarding cash and encourage them to lend or invest."
+    },
+    {
+        "id": "E0006",
+        "text": "The $\\textbf{primary}$ $\textbf{reason}$ $\\textbf{U.S.}$ $\\textbf{bond}$ $\\textbf{yields}$ $\\textbf{rose}$ sharply following the $\\textbf{2016}$ $\\textbf{election}$ was the expectation of $\\textbf{increased}$ $\\textbf{government}$ $\\textbf{borrowing}$ (supply) to fund $\\textbf{fiscal}$ $\\textbf{stimulus}$ and $\\textbf{tax}$ $\\textbf{cuts}$.",
+        "image": "",
+        "options": [
+            "Decreased U.S. national debt",
+            "Massive deflation",
+            "Increased government borrowing to fund fiscal stimulus and tax cuts",
+            "A drop in the Fed's interest rate"
+        ],
+        "answer": "Increased government borrowing to fund fiscal stimulus and tax cuts",
+        "explanation": "Higher expected borrowing leads to higher supply of bonds, which pushes prices down and yields up. Also, the inflationary expectation contributed to the rise."
+    },
+    {
+        "id": "E0007",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{England}$ ($\\textbf{BoE}$) responded to the immediate economic threat of $\\textbf{Brexit}$ by $\\textbf{cutting}$ its $\\textbf{main}$ $\\textbf{interest}$ $\\textbf{rate}$ to a $\\textbf{record}$ $\\textbf{low}$ of $\\textbf{0.25}\\%$, and $\\textbf{expanding}$ $\\textbf{QE}$.",
+        "image": "",
+        "options": [
+            "Raising its main interest rate to 5%",
+            "Cutting its main interest rate and expanding QE",
+            "Fixing the Pound to the Euro",
+            "Nationalizing all major banks"
+        ],
+        "answer": "Cutting its main interest rate and expanding QE",
+        "explanation": "The BoE acted quickly to stave off a perceived recession risk by loosening monetary policy significantly."
+    },
+    {
+        "id": "E0008",
+        "text": "The $\\textbf{European}$ $\\textbf{Central}$ $\\textbf{Bank}$ ($\\textbf{ECB}$) expanded its $\\textbf{QE}$ program in $\\textbf{2016}$ to include the purchase of $\\textbf{corporate}$ $\\textbf{bonds}$ through the $\\textbf{Corporate}$ $\\textbf{Sector}$ $\\textbf{Purchase}$ $\\textbf{Programme}$ ($\\textbf{CSPP}$).",
+        "image": "",
+        "options": [
+            "Only buying U.S. Treasury bonds",
+            "Selling off all its assets",
+            "Including the purchase of corporate bonds",
+            "Raising the main refinancing rate"
+        ],
+        "answer": "Including the purchase of corporate bonds",
+        "explanation": "This was an extension of unconventional policy aimed at reducing borrowing costs directly for European companies."
+    },
+    {
+        "id": "E0009",
+        "text": "The $\\textbf{Oil}$ $\textbf{Market}$ finally began to $\\textbf{stabilize}$ in $\\textbf{late}$ $\\textbf{2016}$ after $\\textbf{OPEC}$ and $\\textbf{non-OPEC}$ producers, led by $\\textbf{Russia}$, agreed to $\\textbf{production}$ $\\textbf{cuts}$.",
+        "image": "",
+        "options": [
+            "The dissolution of OPEC",
+            "Massive increases in U.S. demand",
+            "OPEC and non-OPEC producers agreeing to production cuts",
+            "A sudden shift to renewable energy"
+        ],
+        "answer": "OPEC and non-OPEC producers agreeing to production cuts",
+        "explanation": "This signaled the end of the two-year price war and was a pivotal move toward rebalancing the market."
+    },
+    {
+        "id": "E0010",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{government}$ spent approximately $\\textbf{\\$300}$ $\\textbf{billion}$ of its $\\textbf{foreign}$ $\\textbf{exchange}$ $\\textbf{reserves}$ in $\\textbf{2016}$ to $\\textbf{support}$ the $\\textbf{Yuan}$ and $\\textbf{stem}$ $\\textbf{capital}$ $\\textbf{flight}$.",
+        "image": "",
+        "options": [
+            "Printing more local currency",
+            "Implementing capital controls on all transactions",
+            "Spending foreign exchange reserves to support the Yuan",
+            "Raising interest rates sharply"
+        ],
+        "answer": "Spending foreign exchange reserves to support the Yuan",
+        "explanation": "To prevent a disorderly collapse of the Yuan, the People's Bank of China actively sold dollars from its reserves."
+    },
+    {
+        "id": "E0011",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) introduced a new policy framework in $\\textbf{September}$ $\\textbf{2016}$ called $\\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{Control}$ ($\\textbf{YCC}$), which targets the $\\textbf{yield}$ of the $\\textbf{10-year}$ $\\textbf{Japanese}$ $\\textbf{Government}$ $\\textbf{Bond}$.",
+        "image": "",
+        "options": [
+            "A 5% inflation target",
+            "Yield Curve Control (YCC)",
+            "Unlimited buying of gold",
+            "Zero reserve requirements"
+        ],
+        "answer": "Yield Curve Control (YCC)",
+        "explanation": "YCC attempts to control the price of money (the yield) at a specific point on the long end of the bond curve, rather than just the volume of bond purchases."
+    },
+    {
+        "id": "E0012",
+        "text": "The $\\textbf{U.S.}$ $\textbf{sector}$ that saw the $\\textbf{strongest}$ $\\textbf{performance}$ immediately following the $\\textbf{2016}$ $\\textbf{election}$ was $\\textbf{Financials}$ (banks), due to expectations of $\\textbf{deregulation}$ and a $\\textbf{steeper}$ $\\textbf{yield}$ $\\textbf{curve}$.",
+        "image": "",
+        "options": [
+            "Technology (Tech)",
+            "Utilities",
+            "Financials (banks)",
+            "Consumer Staples"
+        ],
+        "answer": "Financials (banks)",
+        "explanation": "Banks benefit greatly from higher interest rates and a steeper yield curve (long rates rising faster than short rates), which increases their net interest margin."
+    },
+    {
+        "id": "E0013",
+        "text": "The $\\textbf{UK}$ $\textbf{FTSE}$ $\\textbf{100}$ $\\textbf{Index}$ $\\textbf{rose}$ sharply in the $\\textbf{second}$ $\\textbf{half}$ of $\\textbf{2016}$, despite $\\textbf{Brexit}$, largely because its constituent companies have $\\textbf{large}$ $\\textbf{foreign}$ $\\textbf{earnings}$ that were worth more in the $\\textbf{devalued}$ $\\textbf{Pound}$.",
+        "image": "",
+        "options": [
+            "Fell dramatically due to economic fear",
+            "Rose sharply due to the devalued Pound",
+            "Was nationalized by the government",
+            "Remained flat throughout the year"
+        ],
+        "answer": "Rose sharply due to the devalued Pound",
+        "explanation": "Since a large percentage of FTSE 100 revenue is earned in dollars or euros, the sharp fall in the Pound (GBP) made those foreign earnings worth more when translated back into GBP."
+    },
+    {
+        "id": "E0014",
+        "text": "The $\\textbf{Fed}$'s $\\textbf{reason}$ for $\\textbf{delaying}$ rate hikes in $\\textbf{early}$ $\\textbf{2016}$ was concern over $\\textbf{global}$ $\\textbf{economic}$ $\\textbf{volatility}$, particularly related to the $\\textbf{China}$ $\\textbf{slowdown}$ and the $\\textbf{Oil}$ $\\textbf{price}$ $\\textbf{collapse}$.",
+        "image": "",
+        "options": [
+            "Low U.S. unemployment",
+            "Low U.S. housing prices",
+            "Global economic volatility and the China slowdown",
+            "High U.S. inflation"
+        ],
+        "answer": "Global economic volatility and the China slowdown",
+        "explanation": "The FOMC explicitly cited global risks as a reason for patience in the first half of the year."
+    },
+    {
+        "id": "E0015",
+        "text": "The $\\textbf{OPEC}$ $\\textbf{agreement}$ in $\\textbf{late}$ $\\textbf{2016}$ was the first in $\\textbf{eight}$ $\\textbf{years}$ that successfully limited $\\textbf{crude}$ $\\textbf{oil}$ $\\textbf{production}$ from its $\\textbf{member}$ $\\textbf{countries}$.",
+        "image": "",
+        "options": [
+            "To increase oil supply",
+            "To limit crude oil production",
+            "To fund renewable energy projects",
+            "To fix oil prices at $10/barrel"
+        ],
+        "answer": "To limit crude oil production",
+        "explanation": "The agreement aimed to drain the massive global inventory surplus and push prices back up after years of decline."
+    },
+    {
+        "id": "E0016",
+        "text": "The $\\textbf{major}$ $\textbf{global}$ $\textbf{market}$ $\\textbf{fear}$ in $\\textbf{early}$ $\\textbf{2016}$ was that the $\\textbf{Yuan}$ $\\textbf{devaluation}$ in $\\textbf{China}$ would be $\\textbf{accelerated}$, causing a $\\textbf{disorderly}$ $\\textbf{decline}$ in the $\\textbf{currency}$.",
+        "image": "",
+        "options": [
+            "The return of high inflation",
+            "A major U.S. housing crisis",
+            "Accelerated Yuan devaluation causing a disorderly decline in the currency",
+            "The nationalization of German banks"
+        ],
+        "answer": "Accelerated Yuan devaluation causing a disorderly decline in the currency",
+        "explanation": "A collapsing Yuan was feared to export deflation and cause global capital flight, sparking a 'risk-off' environment."
+    },
+    {
+        "id": "E0017",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{Corporate}$ $\\textbf{Sector}$ $\\textbf{Purchase}$ $\\textbf{Programme}$ ($\\textbf{CSPP}$) led to $\\textbf{record}$ $\\textbf{low}$ $\\textbf{borrowing}$ $\\textbf{costs}$ for large $\\textbf{investment-grade}$ $\\textbf{Eurozone}$ $\\textbf{companies}$.",
+        "image": "",
+        "options": [
+            "A sharp rise in Eurozone inflation",
+            "Record low borrowing costs for large investment-grade Eurozone companies",
+            "A major expansion of sovereign bond yields",
+            "The closure of all German banks"
+        ],
+        "answer": "Record low borrowing costs for large investment-grade Eurozone companies",
+        "explanation": "The ECB became a major buyer of corporate debt, pushing prices up and yields down for the highest-rated companies."
+    },
+    {
+        "id": "E0018",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{steepened}$ significantly following the $\\textbf{2016}$ $\\textbf{election}$, meaning $\\textbf{long-term}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{rose}$ $\\textbf{faster}$ than $\\textbf{short-term}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Became inverted",
+            "Steepened significantly",
+            "Flattened dramatically",
+            "Only the 3-month yield moved"
+        ],
+        "answer": "Steepened significantly",
+        "explanation": "Expectations of inflation and increased long-term supply (debt issuance) pushed long-term yields up, creating a steeper curve."
+    },
+    {
+        "id": "E0019",
+        "text": "The $\\textbf{primary}$ $\textbf{risk}$ to $\\textbf{UK}$ $\\textbf{financial}$ $\\textbf{stability}$ cited by the $\\textbf{BoE}$ after $\\textbf{Brexit}$ was the $\\textbf{potential}$ $\\textbf{for}$ $\\textbf{commercial}$ $\\textbf{property}$ $\\textbf{funds}$ to $\\textbf{halt}$ $\\textbf{redemptions}$ due to panic selling.",
+        "image": "",
+        "options": [
+            "A shortage of gold",
+            "The potential for commercial property funds to halt redemptions",
+            "A surge in unemployment",
+            "Hyperinflation"
+        ],
+        "answer": "The potential for commercial property funds to halt redemptions",
+        "explanation": "The rush of investors wanting to pull their money out of illiquid property funds threatened a systemic liquidity crisis, forcing some funds to lock investors in."
+    },
+    {
+        "id": "E0020",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$'s $\\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{Control}$ ($\\textbf{YCC}$) aimed to fix the $\\textbf{10-year}$ $\\textbf{JGB}$ $\\textbf{yield}$ at $\\textbf{around}$ $\\textbf{zero}$ $\\textbf{percent}$ (0%).",
+        "image": "",
+        "options": [
+            "5%",
+            "-1%",
+            "Around zero percent (0%)",
+            "10%"
+        ],
+        "answer": "Around zero percent (0%)",
+        "explanation": "The target was initially set at 0% with a small tolerance band to provide accommodation without distorting the long end of the market too much."
+    },
+    {
+        "id": "E0021",
+        "text": "The $\\textbf{global}$ $\textbf{trade}$ $\\textbf{volume}$ growth in $\\textbf{2016}$ was $\\textbf{weak}$ and $\\textbf{below}$ $\\textbf{GDP}$ $\\textbf{growth}$, a troubling trend that signaled rising $\\textbf{protectionism}$ and $\\textbf{slowing}$ $\\textbf{globalization}$.",
+        "image": "",
+        "options": [
+            "Strong and well above GDP growth",
+            "Weak and below GDP growth",
+            "Only positive in the U.S.",
+            "Was non-existent"
+        ],
+        "answer": "Weak and below GDP growth",
+        "explanation": "This stagnation was a major worry for institutions like the IMF and WTO, as global trade had historically grown faster than GDP."
+    },
+    {
+        "id": "E0022",
+        "text": "The $\\textbf{U.S.}$ $\textbf{unemployment}$ $\\textbf{rate}$ reached $\\textbf{4.7}\\%$ by $\\textbf{December}$ $\\textbf{2016}$, pushing it closer to the $\\textbf{Fed}$'s estimate of the $\\textbf{Non-Accelerating}$ $\\textbf{Inflation}$ $\\textbf{Rate}$ $\\textbf{of}$ $\\textbf{Unemployment}$ ($\\textbf{NAIRU}$).",
+        "image": "",
+        "options": [
+            "8.0%",
+            "6.5%",
+            "4.7%",
+            "3.0%"
+        ],
+        "answer": "4.7%",
+        "explanation": "This low unemployment figure was the key domestic data point that gave the Fed confidence to hike rates."
+    },
+    {
+        "id": "E0023",
+        "text": "The $\\textbf{S&P}$ $\\textbf{500}$ finished $\\textbf{2016}$ with a $\\textbf{strong}$ $\\textbf{gain}$ of over $\\textbf{9}\\%$, with most of the $\\textbf{gains}$ occurring in the $\\textbf{last}$ $\\textbf{two}$ $\\textbf{months}$ after the $\\textbf{U.S.}$ $\\textbf{election}$.",
+        "image": "",
+        "options": [
+            "A slight loss for the year",
+            "A strong gain, mostly in the last two months",
+            "All gains occurring before Brexit",
+            "A flat return for the year"
+        ],
+        "answer": "A strong gain, mostly in the last two months",
+        "explanation": "The post-election 'Trump Rally' rescued what had been a choppy, volatile year for U.S. equities."
+    },
+    {
+        "id": "E0024",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{government}$'s $\\textbf{primary}$ $\\textbf{goal}$ with its $\\textbf{Yuan}$ $\\textbf{interventions}$ in $\\textbf{2016}$ was to $\\textbf{stabilize}$ the $\\textbf{currency}$ to $\\textbf{prevent}$ $\\textbf{mass}$ $\\textbf{capital}$ $\\textbf{flight}$ and maintain $\\textbf{financial}$ $\\textbf{confidence}$.",
+        "image": "",
+        "options": [
+            "To promote exports at all costs",
+            "To fund foreign infrastructure projects",
+            "To stabilize the currency to prevent mass capital flight",
+            "To make the Yuan a global reserve currency"
+        ],
+        "answer": "To stabilize the currency to prevent mass capital flight",
+        "explanation": "The fear was that an uncontrolled depreciation would lead to a flood of money leaving the country, destabilizing the financial system."
+    },
+    {
+        "id": "E0025",
+        "text": "The $\\textbf{European}$ $\textbf{Council}$ determined that the $\\textbf{EU}$ $\textbf{single}$ $\\textbf{market}$ access was $\\textbf{inseparable}$ from the $\\textbf{four}$ $\\textbf{freedoms}$ (including $\\textbf{free}$ $\\textbf{movement}$ of $\\textbf{people}$), which became a major hurdle in the $\\textbf{Brexit}$ $\\textbf{negotiations}$.",
+        "image": "",
+        "options": [
+            "Tax harmonization",
+            "Free movement of people",
+            "A common military",
+            "Unlimited fishing rights"
+        ],
+        "answer": "Free movement of people",
+        "explanation": "The UK wanted to end free movement, but the EU insisted that full single market access required accepting all four freedoms, including movement of goods, services, capital, and people."
+    },
+    {
+        "id": "E0026",
+        "text": "The $\\textbf{oil}$ $\\textbf{price}$ $\\textbf{low}$ point in $\\textbf{2016}$ was reached in $\\textbf{February}$, where $\\textbf{Brent}$ $\\textbf{crude}$ briefly fell below $\\textbf{\\$30}$ $\\textbf{per}$ $\\textbf{barrel}$.",
+        "image": "",
+        "options": [
+            "February",
+            "August",
+            "December",
+            "May"
+        ],
+        "answer": "February",
+        "explanation": "The market bottomed out early in the year, before the realization of massive production cuts later stabilized prices."
+    },
+    {
+        "id": "E0027",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Housing}$ $\textbf{Market}$ continued its $\\textbf{slow}$ $\\textbf{recovery}$ in $\\textbf{2016}$, characterized by $\\textbf{rising}$ $\\textbf{home}$ $\\textbf{prices}$ but $\\textbf{low}$ $\\textbf{inventory}$ and $\\textbf{sales}$ $\\textbf{volume}$.",
+        "image": "",
+        "options": [
+            "A sudden collapse in prices",
+            "Rising home prices but low inventory and sales volume",
+            "Massive speculative buying",
+            "Zero mortgage rates"
+        ],
+        "answer": "Rising home prices but low inventory and sales volume",
+        "explanation": "Lack of new construction and low turnover kept prices high, even with only moderate demand."
+    },
+    {
+        "id": "E0028",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{Corporate}$ $\\textbf{Bond}$ $\\textbf{buying}$ program led to a shortage of $\\textbf{eligible}$ $\\textbf{debt}$ in the $\\textbf{Eurozone}$, forcing the $\\textbf{ECB}$ to $\\textbf{broaden}$ its $\\textbf{purchase}$ $\\textbf{criteria}$.",
+        "image": "",
+        "options": [
+            "A surge in inflation",
+            "A shortage of eligible debt",
+            "Massive capital flight",
+            "The closure of all corporate markets"
+        ],
+        "answer": "A shortage of eligible debt",
+        "explanation": "The ECB was buying so much debt that it eventually ran out of 'eligible' bonds, necessitating changes to program rules."
+    },
+    {
+        "id": "E0029",
+        "text": "The $\\textbf{main}$ $\textbf{economic}$ $\\textbf{theme}$ for $\\textbf{Japan}$ in $\\textbf{2016}$ was $\\textbf{monetary}$ $\\textbf{policy}$ $\\textbf{exhaustion}$, as $\\textbf{QQE}$ and $\\textbf{NIRP}$ failed to push $\\textbf{inflation}$ to the $\\textbf{2}\\%$ $\\textbf{target}$.",
+        "image": "",
+        "options": [
+            "Massive inflation",
+            "Monetary policy exhaustion",
+            "A boom in exports",
+            "Negative GDP growth"
+        ],
+        "answer": "Monetary policy exhaustion",
+        "explanation": "Despite massive stimulus, inflation remained stubbornly low, leading the BoJ to innovate with Yield Curve Control in September."
+    },
+    {
+        "id": "E0030",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Dollar}$ $\\textbf{Index}$ saw a $\\textbf{major}$ $\\textbf{rally}$ in $\\textbf{late}$ $\\textbf{2016}$, driven by $\\textbf{higher}$ $\\textbf{U.S.}$ $\\textbf{interest}$ $\\textbf{rates}$ and the expectation of $\\textbf{stronger}$ $\\textbf{economic}$ $\\textbf{growth}$.",
+        "image": "",
+        "options": [
+            "A sharp decline",
+            "A major rally",
+            "No change",
+            "A fixed peg to the Yen"
+        ],
+        "answer": "A major rally",
+        "explanation": "The anticipation of 'Trumpflation' and the Fed's rate hike made the Dollar the most attractive major currency."
+    },
+    {
+        "id": "E0031",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Retail}$ $\\textbf{Sales}$ growth in $\\textbf{2016}$ was $\\textbf{moderate}$, continuing the $\\textbf{slow}$ $\\textbf{but}$ $\\textbf{steady}$ $\\textbf{post-crisis}$ $\\textbf{recovery}$ supported by $\\textbf{low}$ $\\textbf{gas}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Flat or negative",
+            "Moderate and steady",
+            "Near all-time record highs",
+            "Only positive in the Southwest"
+        ],
+        "answer": "Moderate and steady",
+        "explanation": "Consumers continued to spend, benefiting from cheap gas, but were still cautious about debt."
+    },
+    {
+        "id": "E0032",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{economy}$ saw a stabilization of its $\\textbf{official}$ $\\textbf{GDP}$ $\\textbf{growth}$ rate in $\\textbf{2016}$ around $\\textbf{6.7}\\%$, achieved through $\\textbf{massive}$ $\\textbf{government}$ $\\textbf{credit}$ $\\textbf{expansion}$.",
+        "image": "",
+        "options": [
+            "A sudden collapse to 1%",
+            "A massive expansion to 10%",
+            "A stabilization around 6.7%",
+            "Zero growth"
+        ],
+        "answer": "A stabilization around 6.7%",
+        "explanation": "China maintained its target growth rate, but the cost was a significant increase in corporate and local government debt."
+    },
+    {
+        "id": "E0033",
+        "text": "The $\\textbf{Sovereign}$ $\\textbf{Debt}$ of $\\textbf{Peripheral}$ $\\textbf{Eurozone}$ countries (like $\\textbf{Italy}$ and $\\textbf{Portugal}$) $\\textbf{benefited}$ from the $\\textbf{ECB}$'s $\\textbf{QE}$ program in $\\textbf{2016}$ as their $\\textbf{borrowing}$ $\\textbf{costs}$ were $\\textbf{suppressed}$.",
+        "image": "",
+        "options": [
+            "Increased dramatically",
+            "Were not affected",
+            "Benefited from the ECB's QE program",
+            "Were only bought by the U.S. Fed"
+        ],
+        "answer": "Benefited from the ECB's QE program",
+        "explanation": "The general lowering of bond yields across the Eurozone was a massive benefit, easing the debt burden on the weakest members."
+    },
+    {
+        "id": "E0034",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$'s $\\textbf{move}$ to $\\textbf{Negative}$ $\\textbf{Interest}$ $\\textbf{Rates}$ was $\\textbf{criticized}$ for $\\textbf{negatively}$ $\\textbf{impacting}$ the $\\textbf{profitability}$ of $\\textbf{Japanese}$ $\\textbf{banks}$ by squeezing their $\\textbf{lending}$ $\\textbf{margins}$.",
+        "image": "",
+        "options": [
+            "Boosting inflation too quickly",
+            "Negatively impacting the profitability of Japanese banks",
+            "Causing a surge in exports",
+            "Fixing the Yen too high"
+        ],
+        "answer": "Negatively impacting the profitability of Japanese banks",
+        "explanation": "Banks were forced to pay to store money at the BoJ, a cost they often could not pass on to depositors."
+    },
+    {
+        "id": "E0035",
+        "text": "The $\\textbf{UK}$'s $\\textbf{GDP}$ $\\textbf{growth}$ in $\\textbf{2016}$ was surprisingly $\\textbf{resilient}$ post-$\\textbf{Brexit}$, primarily due to the $\\textbf{boost}$ from $\\textbf{exports}$ resulting from the $\\textbf{weak}$ $\\textbf{Pound}$.",
+        "image": "",
+        "options": [
+            "Collapsed into recession",
+            "Was surprisingly resilient post-Brexit",
+            "Was only positive due to a housing boom",
+            "Was only positive in London"
+        ],
+        "answer": "Was surprisingly resilient post-Brexit",
+        "explanation": "The massive currency drop acted as a powerful stimulus for UK exports, offsetting the immediate shock of uncertainty."
+    },
+    {
+        "id": "E0036",
+        "text": "The $\\textbf{country}$ that was the $\\textbf{key}$ $\textbf{non-OPEC}$ partner in the $\\textbf{production}$ $\\textbf{cut}$ agreement with $\\textbf{OPEC}$ in $\\textbf{late}$ $\\textbf{2016}$ was $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "Canada",
+            "Russia",
+            "China",
+            "The United States"
+        ],
+        "answer": "Russia",
+        "explanation": "This was a historic moment of cooperation between the world's largest oil producers outside the traditional OPEC structure."
+    },
+    {
+        "id": "E0037",
+        "text": "The $\\textbf{strongest}$ $\textbf{performers}$ in the $\\textbf{commodity}$ $\\textbf{markets}$ post-$\\textbf{U.S.}$ $\\textbf{election}$ were $\\textbf{Industrial}$ $\\textbf{Metals}$ (like $\\textbf{Copper}$), driven by the expectation of $\\textbf{large}$ $\\textbf{infrastructure}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "Precious Metals (Gold/Silver)",
+            "Agricultural Goods (Wheat/Corn)",
+            "Industrial Metals (Copper)",
+            "Soft Commodities (Coffee/Sugar)"
+        ],
+        "answer": "Industrial Metals (Copper)",
+        "explanation": "Copper, often called 'Dr. Copper' for its predictive power, surged on the fiscal stimulus and infrastructure spending promise."
+    },
+    {
+        "id": "E0038",
+        "text": "The $\\textbf{Fed}$'s $\\textbf{2016}$ $\\textbf{rate}$ $\\textbf{hike}$ meant that $\\textbf{adjustable}$ $\textbf{rate}$ $\\textbf{mortgages}$ and $\\textbf{credit}$ $\\textbf{card}$ $\\textbf{interest}$ $\\textbf{rates}$ in the U.S. $\\textbf{increased}$ $\\textbf{immediately}$.",
+        "image": "",
+        "options": [
+            "Fell to zero",
+            "Increased immediately",
+            "Were fixed by the government",
+            "Only rose for large corporations"
+        ],
+        "answer": "Increased immediately",
+        "explanation": "These rates are typically tied directly to the short-term rates targeted by the Fed."
+    },
+    {
+        "id": "E0039",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{unemployment}$ $\\textbf{rate}$ continued its $\\textbf{slow}$ $\\textbf{decline}$ in $\\textbf{2016}$, falling $\\textbf{below}$ $\\textbf{10}\\%$ for the $\\textbf{first}$ $\\textbf{time}$ since $\\textbf{2011}$, signaling a fragile $\\textbf{recovery}$.",
+        "image": "",
+        "options": [
+            "Rose above 15%",
+            "Remained above 12%",
+            "Fell below 10%",
+            "Was only measured in Germany"
+        ],
+        "answer": "Fell below 10%",
+        "explanation": "While still high compared to the U.S., passing the 10% mark was a psychological and economic milestone for the Eurozone."
+    },
+    {
+        "id": "E0040",
+        "text": "The $\\textbf{primary}$ $\textbf{economic}$ $\\textbf{argument}$ used by the $\\textbf{Remain}$ campaign in the $\\textbf{Brexit}$ $\\textbf{referendum}$ was the $\\textbf{damage}$ to $\\textbf{trade}$ and $\\textbf{GDP}$ caused by $\\textbf{leaving}$ the $\\textbf{EU}$ $\\textbf{single}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "Increased military spending",
+            "A sudden collapse of the Euro",
+            "Damage to trade and GDP caused by leaving the EU single market",
+            "The need for lower interest rates"
+        ],
+        "answer": "Damage to trade and GDP caused by leaving the EU single market",
+        "explanation": "The argument focused heavily on the economic benefits of frictionless trade and the access to 500 million consumers."
+    }
+]

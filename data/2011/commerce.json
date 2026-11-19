@@ -1,0 +1,522 @@
+[
+    {
+      "id": "COMM_2023_161",
+      "text": "The major disadvantage of establishing a business as a Public Corporation (State-Owned Enterprise) is:",
+      "image": "COMM_2023_161.png",
+      "options": [
+        "Lack of continuity",
+        "High level of political interference and bureaucracy",
+        "Inability to raise capital",
+        "Difficulty in achieving economies of scale"
+      ],
+      "answer": "High level of political interference and bureaucracy",
+      "explanation": "Public Corporations often suffer from inefficiencies due to government control, slow decision-making processes, and potential political manipulation, hindering commercial viability."
+    },
+    {
+      "id": "COMM_2023_162",
+      "text": "The principle of insurance that holds that the insured cannot claim compensation from the insurer for a loss caused deliberately by the insured themselves is:",
+      "image": "COMM_2023_162.png",
+      "options": [
+        "Insurable Interest",
+        "Indemnity",
+        "Good Faith",
+        "Proximate Cause"
+      ],
+      "answer": "Proximate Cause",
+      "explanation": "If the proximate cause of the loss is a deliberate act by the insured (moral hazard), it is not covered, as the loss must be accidental or caused by an insured peril."
+    },
+    {
+      "id": "COMM_2023_163",
+      "text": "A check that has passed six months from the date of issue is legally referred to as a:",
+      "image": "COMM_2023_163.png",
+      "options": [
+        "Dishonoured check",
+        "Stale check",
+        "Post-dated check",
+        "Open check"
+      ],
+      "answer": "Stale check",
+      "explanation": "Banks generally refuse payment on checks that are presented after six months, as the instrument is considered too old (stale) to remain valid."
+    },
+    {
+      "id": "COMM_2023_164",
+      "text": "The economic barrier to trade addressed by advertising and sales promotion is:",
+      "image": "COMM_2023_164.png",
+      "options": [
+        "Risk",
+        "Distance",
+        "Ignorance (Lack of Information)",
+        "Finance"
+      ],
+      "answer": "Ignorance (Lack of Information)",
+      "explanation": "Advertising informs consumers about the existence, availability, and features of a product, removing the barrier of not knowing what to buy or where to find it."
+    },
+    {
+      "id": "COMM_2023_165",
+      "text": "The document that serves as the basis for a contract of carriage for goods transported by air is the:",
+      "image": "COMM_2023_165.png",
+      "options": [
+        "Bill of Lading",
+        "Airway Bill",
+        "Waybill",
+        "Certificate of Origin"
+      ],
+      "answer": "Airway Bill",
+      "explanation": "The Airway Bill is similar to the Bill of Lading but is specifically for air transport. Unlike the Bill of Lading, it is not a document of title."
+    },
+    {
+      "id": "COMM_2023_166",
+      "text": "The major function of the Central Bank that directly affects commercial banks' ability to lend is the:",
+      "image": "COMM_2023_166.png",
+      "options": [
+        "Banker to the government",
+        "Lender of last resort",
+        "Control of Cash Reserve Ratio (CRR)",
+        "Issuance of currency"
+      ],
+      "answer": "Control of Cash Reserve Ratio (CRR)",
+      "explanation": "The CRR dictates the minimum fraction of deposits that commercial banks must hold in reserve, directly impacting the money multiplier and their lending capacity."
+    },
+    {
+      "id": "COMM_2023_167",
+      "text": "The type of dividend that involves payment to shareholders of additional shares rather than cash is a:",
+      "image": "COMM_2023_167.png",
+      "options": [
+        "Cash Dividend",
+        "Final Dividend",
+        "Bonus Dividend (or Stock Dividend)",
+        "Interim Dividend"
+      ],
+      "answer": "Bonus Dividend (or Stock Dividend)",
+      "explanation": "Bonus shares are a non-cash distribution of the company's retained earnings or reserves to shareholders."
+    },
+    {
+      "id": "COMM_2023_168",
+      "text": "A retail outlet owned and operated by a manufacturer to sell only its own products is a:",
+      "image": "COMM_2023_168.png",
+      "options": [
+        "Departmental store",
+        "Manufacturer's Retail Outlet (or Exclusive Showroom)",
+        "Chain store",
+        "Hypermarket"
+      ],
+      "answer": "Manufacturer's Retail Outlet (or Exclusive Showroom)",
+      "explanation": "This allows the manufacturer to control pricing, branding, and the retail environment, ensuring brand integrity."
+    },
+    {
+      "id": "COMM_2023_169",
+      "text": "The market where trading in long-term debt instruments (bonds and debentures) occurs is the:",
+      "image": "COMM_2023_169.png",
+      "options": [
+        "Money Market",
+        "Stock Market",
+        "Capital Market",
+        "Commodity Market"
+      ],
+      "answer": "Capital Market",
+      "explanation": "The Capital Market is where medium and long-term funds are raised and traded, encompassing both the stock market (equity) and the bond market (debt)."
+    },
+    {
+      "id": "COMM_2023_170",
+      "text": "The process of determining the correct weight, size, and quality of agricultural products before they are sold is:",
+      "image": "COMM_2023_170.png",
+      "options": [
+        "Branding",
+        "Packaging",
+        "Grading and Standardization",
+        "Labeling"
+      ],
+      "answer": "Grading and Standardization",
+      "explanation": "Grading sorts products into uniform classes based on standards, which is necessary for bulk trading without inspection."
+    },
+    {
+      "id": "COMM_2023_171",
+      "text": "The term for a market situation where one firm controls the entire market for a product or service is a:",
+      "image": "COMM_2023_171.png",
+      "options": [
+        "Duopoly",
+        "Oligopoly",
+        "Monopoly",
+        "Perfect Competition"
+      ],
+      "answer": "Monopoly",
+      "explanation": "A monopoly is characterized by a single seller, no close substitutes for the product, and high barriers to entry."
+    },
+    {
+      "id": "COMM_2023_172",
+      "text": "The major barrier to trade addressed by insurance companies is the elimination of:",
+      "image": "COMM_2023_172.png",
+      "options": [
+        "Distance",
+        "Risk (Financial Loss)",
+        "Ignorance",
+        "Time"
+      ],
+      "answer": "Risk (Financial Loss)",
+      "explanation": "Insurance pools risk, providing financial security against potential future losses, encouraging businesses to undertake riskier ventures."
+    },
+    {
+      "id": "COMM_2023_173",
+      "text": "The type of cooperative society formed by small farmers to jointly purchase seeds, fertilizers, and equipment is a:",
+      "image": "COMM_2023_173.png",
+      "options": [
+        "Consumer Cooperative",
+        "Marketing Cooperative",
+        "Producer Cooperative (or Supply Cooperative)",
+        "Credit Cooperative"
+      ],
+      "answer": "Producer Cooperative (or Supply Cooperative)",
+      "explanation": "Producer cooperatives focus on aiding members in the production process, either by supplying inputs or processing/marketing outputs."
+    },
+    {
+      "id": "COMM_2023_174",
+      "text": "The negotiable instrument that is an instruction to a bank to pay money from the customer's account to a specified person is a:",
+      "image": "COMM_2023_174.png",
+      "options": [
+        "Promissory Note",
+        "Bill of Exchange",
+        "Cheque",
+        "Money Order"
+      ],
+      "answer": "Cheque",
+      "explanation": "A cheque is the most common form of payment instruction used by current account holders."
+    },
+    {
+      "id": "COMM_2023_175",
+      "text": "The main disadvantage of the partnership form of business organization is the:",
+      "image": "COMM_2023_175.png",
+      "options": [
+        "Lack of secrecy",
+        "Sharing of profits",
+        "Unlimited liability of partners",
+        "Limited number of business ideas"
+      ],
+      "answer": "Unlimited liability of partners",
+      "explanation": "Similar to sole proprietorship, partners' personal assets are not legally protected from the firm's business debts."
+    },
+    {
+      "id": "COMM_2023_176",
+      "text": "The term used for a trade restriction that sets a minimum price on an imported product is a:",
+      "image": "COMM_2023_176.png",
+      "options": [
+        "Quota",
+        "Voluntary Export Restraint",
+        "Minimum Import Price (or Reference Price)",
+        "Embargo"
+      ],
+      "answer": "Minimum Import Price (or Reference Price)",
+      "explanation": "Setting a minimum import price ensures that imported goods do not undercut domestic producers through dumping or artificially low prices."
+    },
+    {
+      "id": "COMM_2023_177",
+      "text": "The marketing channel involving the producer selling to a wholesaler, who then sells to a retailer, who finally sells to the consumer is the:",
+      "image": "COMM_2023_177.png",
+      "options": [
+        "Zero-Level Channel",
+        "One-Level Channel",
+        "Two-Level Channel",
+        "Three-Level Channel"
+      ],
+      "answer": "Two-Level Channel",
+      "explanation": "Two intermediaries (wholesaler and retailer) are involved: Producer $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer."
+    },
+    {
+      "id": "COMM_2023_178",
+      "text": "A factor influencing business location that focuses on proximity to the end consumer for quick service and delivery is the:",
+      "image": "COMM_2023_178.png",
+      "options": [
+        "Climatic factor",
+        "Raw materials factor",
+        "Market factor",
+        "Labor factor"
+      ],
+      "answer": "Market factor",
+      "explanation": "Businesses producing perishable goods, providing services, or manufacturing goods where transport cost is low tend to locate near the market."
+    },
+    {
+      "id": "COMM_2023_179",
+      "text": "The main function of the International Bank for Reconstruction and Development (IBRD) that differs from the International Monetary Fund (IMF) is its focus on:",
+      "image": "COMM_2023_179.png",
+      "options": [
+        "Short-term currency stabilization",
+        "Long-term structural development and poverty reduction",
+        "Global trade liberalization",
+        "Controlling global inflation"
+      ],
+      "answer": "Long-term structural development and poverty reduction",
+      "explanation": "The World Bank (IBRD) is development-oriented, while the IMF is stability-oriented (dealing with balance of payments crises)."
+    },
+    {
+      "id": "COMM_2023_180",
+      "text": "The term for a debt instrument issued by a company that gives the holder interest payments and priority repayment over shareholders is a:",
+      "image": "COMM_2023_180.png",
+      "options": [
+        "Share",
+        "Debenture",
+        "Warrant",
+        "Capital"
+      ],
+      "answer": "Debenture",
+      "explanation": "Debentures are fixed-income debt securities, meaning holders are creditors who must be paid interest and capital before shareholders receive dividends."
+    },
+    {
+      "id": "COMM_2023_181",
+      "text": "The stock exchange activity where speculators purchase securities in the hope of selling them at a higher price later is known as:",
+      "image": "COMM_2023_181.png",
+      "options": [
+        "Bearish activity",
+        "Bullish activity",
+        "Stagging",
+        "Short selling"
+      ],
+      "answer": "Bullish activity",
+      "explanation": "Bulls are characterized by optimism and a belief that prices will rise, driving buying activity in the market."
+    },
+    {
+      "id": "COMM_2023_182",
+      "text": "The document that serves as the basis for opening a Letter of Credit with a bank in international trade is usually the:",
+      "image": "COMM_2023_182.png",
+      "options": [
+        "Bill of Lading",
+        "Airway Bill",
+        "Proforma Invoice",
+        "Debit Note"
+      ],
+      "answer": "Proforma Invoice",
+      "explanation": "The buyer uses the Proforma Invoice (which contains precise details of the goods and costs) provided by the seller to instruct their bank to open the Letter of Credit."
+    },
+    {
+      "id": "COMM_2023_183",
+      "text": "The major economic activity that creates form utility by transforming raw materials into finished goods is:",
+      "image": "COMM_2023_183.png",
+      "options": [
+        "Trade",
+        "Aid to Trade",
+        "Commerce",
+        "Industry (or Production)"
+      ],
+      "answer": "Industry (or Production)",
+      "explanation": "Industry, through manufacturing and production, changes the physical form of materials to satisfy human needs (form utility)."
+    },
+    {
+      "id": "COMM_2023_184",
+      "text": "The main benefit of using road transport over rail transport is its:",
+      "image": "COMM_2023_184.png",
+      "options": [
+        "Low cost per unit for bulk goods",
+        "High speed over long distances",
+        "Flexibility and door-to-door service",
+        "Large load capacity"
+      ],
+      "answer": "Flexibility and door-to-door service",
+      "explanation": "Road transport is highly flexible in scheduling and routing, offering direct delivery from the source to the final destination."
+    },
+    {
+      "id": "COMM_2023_185",
+      "text": "The primary role of the World Trade Organization (WTO) in settling trade disputes is to ensure:",
+      "image": "COMM_2023_185.png",
+      "options": [
+        "Countries only trade with developing nations",
+        "Trade rules are followed and applied non-discriminatorily",
+        "No country can ever impose a tariff",
+        "The IMF gets paid back first"
+      ],
+      "answer": "Trade rules are followed and applied non-discriminatorily",
+      "explanation": "The WTO's dispute settlement mechanism enforces the agreed-upon multilateral trade rules (GATT/GATS) impartially."
+    },
+    {
+      "id": "COMM_2023_186",
+      "text": "The legal term used to describe the party ordered to pay a Bill of Exchange is the:",
+      "image": "COMM_2023_186.png",
+      "options": [
+        "Drawer",
+        "Payee",
+        "Drawee",
+        "Endorser"
+      ],
+      "answer": "Drawee",
+      "explanation": "The Drawee is the debtor (usually the buyer) who must 'accept' the bill to become the Acceptor before payment is due."
+    },
+    {
+      "id": "COMM_2023_187",
+      "text": "The technique used in marketing research to gather primary data from a small, representative group of consumers for in-depth discussion is:",
+      "image": "COMM_2023_187.png",
+      "options": [
+        "Survey method",
+        "Experimentation",
+        "Focus Group Interview",
+        "Observation method"
+      ],
+      "answer": "Focus Group Interview",
+      "explanation": "A Focus Group involves gathering a group of 6-10 people for a facilitated discussion about a product, concept, or advertisement."
+    },
+    {
+      "id": "COMM_2023_188",
+      "text": "The document that serves as the final and conclusive evidence of the legal existence of a limited company is the:",
+      "image": "COMM_2023_188.png",
+      "options": [
+        "Prospectus",
+        "Articles of Association",
+        "Certificate of Incorporation",
+        "Share Certificate"
+      ],
+      "answer": "Certificate of Incorporation",
+      "explanation": "Once the Certificate of Incorporation is issued by the Registrar, the company becomes a separate legal entity (legal personality)."
+    },
+    {
+      "id": "COMM_2023_189",
+      "text": "The main disadvantage of the chain store form of retail organization is:",
+      "image": "COMM_2023_189.png",
+      "options": [
+        "Lack of standardization",
+        "Difficulty in bulk buying",
+        "Lack of personal attention to customers",
+        "Unlimited liability"
+      ],
+      "answer": "Lack of personal attention to customers",
+      "explanation": "Chain stores (multiple identical branches) often lack the personal touch and flexibility of small, independent retailers due to centralized control and standardized operations."
+    },
+    {
+      "id": "COMM_2023_190",
+      "text": "The financial intermediary that specializes in providing finance and technical assistance to small-scale enterprises (SMEs) is a:",
+      "image": "COMM_2023_190.png",
+      "options": [
+        "Commercial Bank",
+        "Investment Bank",
+        "Development Bank (or Microfinance Institution)",
+        "Central Bank"
+      ],
+      "answer": "Development Bank (or Microfinance Institution)",
+      "explanation": "Development Banks often have specialized windows or subsidiaries (like microfinance institutions) dedicated to supporting SMEs, which struggle to access commercial bank loans."
+    },
+    {
+      "id": "COMM_2023_191",
+      "text": "The document sent by the seller to the buyer to request payment for goods sold on credit is the:",
+      "image": "COMM_2023_191.png",
+      "options": [
+        "Quotation",
+        "Delivery Note",
+        "Invoice",
+        "Receipt"
+      ],
+      "answer": "Invoice",
+      "explanation": "The invoice is the seller's demand for payment, detailing the sales transaction."
+    },
+    {
+      "id": "COMM_2023_192",
+      "text": "The term used for a trade restriction that gives a domestic producer a competitive edge by lowering their production costs is a:",
+      "image": "COMM_2023_192.png",
+      "options": [
+        "Tariff",
+        "Quota",
+        "Embargo",
+        "Subsidy"
+      ],
+      "answer": "Subsidy",
+      "explanation": "A subsidy is a financial contribution by the government that lowers the cost of production for local goods, allowing them to compete better with imports."
+    },
+    {
+      "id": "COMM_2023_193",
+      "text": "The concept in marketing that emphasizes understanding and satisfying customer needs as the primary focus of the entire organization is the:",
+      "image": "COMM_2023_193.png",
+      "options": [
+        "Selling Concept",
+        "Product Concept",
+        "Marketing Concept",
+        "Societal Marketing Concept"
+      ],
+      "answer": "Marketing Concept",
+      "explanation": "The Marketing Concept is customer-centric: knowing the wants and needs of target markets and delivering the desired satisfactions better than competitors."
+    },
+    {
+      "id": "COMM_2023_194",
+      "text": "The main benefit of a merger (conglomerate integration) for the combining companies is:",
+      "image": "COMM_2023_194.png",
+      "options": [
+        "Elimination of competition",
+        "Achieving economies of scale in production",
+        "Risk reduction through diversification",
+        "Gaining control over the supply chain"
+      ],
+      "answer": "Risk reduction through diversification",
+      "explanation": "Conglomerates merge unrelated businesses so that failure in one industry does not wipe out the entire group, smoothing out earnings volatility."
+    },
+    {
+      "id": "COMM_2023_195",
+      "text": "The term for the minimum number of members legally required to be present at a meeting to conduct valid business is:",
+      "image": "COMM_2023_195.png",
+      "options": [
+        "Majority",
+        "Quorum",
+        "Pro rata",
+        "Proxy"
+      ],
+      "answer": "Quorum",
+      "explanation": "The quorum is the minimum number of participants required by law or corporate charter to validate the proceedings of a meeting."
+    },
+    {
+      "id": "COMM_2023_196",
+      "text": "The negotiable instrument that is a written order to a banker to pay money to a specified person or bearer on demand is a:",
+      "image": "COMM_2023_196.png",
+      "options": [
+        "Promissory Note",
+        "Bill of Exchange",
+        "Cheque",
+        "Bank Draft"
+      ],
+      "answer": "Cheque",
+      "explanation": "A cheque is the standard form of payment instrument drawn on a bank, payable on demand."
+    },
+    {
+      "id": "COMM_2023_197",
+      "text": "The principle of insurance that states the insured must take reasonable steps to prevent or minimize a loss is the principle of:",
+      "image": "COMM_2023_197.png",
+      "options": [
+        "Contribution",
+        "Proximate Cause",
+        "Subrogation",
+        "Loss Minimization (or Salvage)"
+      ],
+      "answer": "Loss Minimization (or Salvage)",
+      "explanation": "The insured has a duty to act diligently to safeguard the insured property, even after a loss event has begun."
+    },
+    {
+      "id": "COMM_2023_198",
+      "text": "The market where trading in existing shares and debentures takes place is the:",
+      "image": "COMM_2023_198.png",
+      "options": [
+        "Primary Market",
+        "Secondary Market (Stock Exchange)",
+        "Money Market",
+        "Futures Market"
+      ],
+      "answer": "Secondary Market (Stock Exchange)",
+      "explanation": "The secondary market facilitates the transfer of ownership of already-issued securities, providing liquidity to investors."
+    },
+    {
+      "id": "COMM_2023_199",
+      "text": "A factor influencing business location that focuses on proximity to the source of raw materials for heavy, bulky goods is the:",
+      "image": "COMM_2023_199.png",
+      "options": [
+        "Market factor",
+        "Labor factor",
+        "Raw materials factor",
+        "Financial factor"
+      ],
+      "answer": "Raw materials factor",
+      "explanation": "Industries using heavy or perishable raw materials typically locate close to the supply source to minimize transport and spoilage costs."
+    },
+    {
+      "id": "COMM_2023_200",
+      "text": "The major function of the Central Bank in relation to commercial banks is to act as their:",
+      "image": "COMM_2023_200.png",
+      "options": [
+        "Customer",
+        "Competitor",
+        "Clearing House and Banker",
+        "Shareholder"
+      ],
+      "answer": "Clearing House and Banker",
+      "explanation": "The Central Bank facilitates the exchange of checks and payments between commercial banks (clearing house) and holds their reserves, acting as their banker and 'lender of last resort'."
+    }
+  ]

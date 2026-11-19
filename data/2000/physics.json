@@ -1,0 +1,652 @@
+[
+    {
+        "id": "JAMB_P_041",
+        "text": "Which of the following measurements is $\\textbf{most}$ accurate?",
+        "image": "",
+        "options": [
+            "$4.5\\text{ m}$.",
+            "$4.50\\text{ m}$.",
+            "$4.500\\text{ m}$.",
+            "$4.0\\text{ m}$."
+        ],
+        "answer": "$4.500\\text{ m}$.",
+        "explanation": "Accuracy is indicated by the number of $\\textbf{significant}$ $\\textbf{figures}$ or decimal places. $4.500\\text{ m}$ has four significant figures, indicating the smallest uncertainty (to the nearest millimeter)."
+    },
+    {
+        "id": "JAMB_P_042",
+        "text": "A car accelerates uniformly from rest at $4\\text{ m/s}^2$. How far does it travel in the fourth second?",
+        "image": "",
+        "options": [
+            "$8\\text{ m}$.",
+            "$12\\text{ m}$.",
+            "$14\\text{ m}$.",
+            "$32\\text{ m}$."
+        ],
+        "answer": "$14\\text{ m}$.",
+        "explanation": "Distance traveled in the $n^{th}$ second is $S_n = u + \\frac{a}{2}(2n-1)$. Here $u=0$, $a=4\\text{ m/s}^2$, $n=4$. $S_4 = 0 + \\frac{4}{2}(2(4)-1) = 2(8-1) = 2(7) = 14\\text{ m}$. [Image of acceleration-time graph]"
+    },
+    {
+        "id": "JAMB_P_043",
+        "text": "The $\\textbf{mass}$ of an object is $10\\text{ kg}$. If the acceleration due to gravity is $10\\text{ m/s}^2$, what is its $\\textbf{weight}$ on the moon where gravity is $\\frac{1}{6}$ of the Earth's gravity?",
+        "image": "",
+        "options": [
+            "$10\\text{ N}$.",
+            "$16.7\\text{ N}$.",
+            "$100\\text{ N}$.",
+            "$600\\text{ N}$."
+        ],
+        "answer": "$16.7\\text{ N}$.",
+        "explanation": "Weight on the moon $W_m = m \\times g_m$. $g_m = \\frac{1}{6} g_e = \\frac{1}{6}(10\\text{ m/s}^2) \\approx 1.67\\text{ m/s}^2$. $W_m = 10\\text{ kg} \\times 1.67\\text{ m/s}^2 \\approx 16.7\\text{ N}$."
+    },
+    {
+        "id": "JAMB_P_044",
+        "text": "The $\\textbf{maximum}$ $\\textbf{height}$ attained by a projectile launched at $30^\\circ$ to the horizontal with an initial velocity of $40\\text{ m/s}$ is: (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$10\\text{ m}$.",
+            "$20\\text{ m}$.",
+            "$40\\text{ m}$.",
+            "$80\\text{ m}$."
+        ],
+        "answer": "$20\\text{ m}$.",
+        "explanation": "Maximum height $H = \\frac{u^2 \\sin^2\\theta}{2g}$. $H = \\frac{(40)^2 (\\sin 30^\\circ)^2}{2(10)} = \\frac{1600 (0.5)^2}{20} = \\frac{1600 \\times 0.25}{20} = \\frac{400}{20} = 20\\text{ m}$. [Image of projectile trajectory showing max height]"
+    },
+    {
+        "id": "JAMB_P_045",
+        "text": "A wheel of radius $0.5\\text{ m}$ rotates at $10\\text{ revolutions per second}$. What is the $\\textbf{linear}$ $\\textbf{velocity}$ of a point on its rim?",
+        "image": "",
+        "options": [
+            "$5\\pi\\text{ m/s}$.",
+            "$10\\pi\\text{ m/s}$.",
+            "$20\\pi\\text{ m/s}$.",
+            "$50\\pi\\text{ m/s}$."
+        ],
+        "answer": "$10\\pi\\text{ m/s}$.",
+        "explanation": "Angular velocity $\\omega = 2\\pi f$. $f = 10\\text{ Hz}$. $\\omega = 2\\pi (10) = 20\\pi\\text{ rad/s}$. Linear velocity $v = r\\omega$. $v = 0.5\\text{ m} \\times 20\\pi\\text{ rad/s} = 10\\pi\\text{ m/s}$."
+    },
+    {
+        "id": "JAMB_P_046",
+        "text": "A force of $5\\text{ N}$ causes a spring to extend by $0.02\\text{ m}$. What is the $\\textbf{force}$ $\\textbf{constant}$ ($k$) of the spring?",
+        "image": "",
+        "options": [
+            "$0.1\\text{ N/m}$.",
+            "$25\\text{ N/m}$.",
+            "$100\\text{ N/m}$.",
+            "$250\\text{ N/m}$."
+        ],
+        "answer": "$250\\text{ N/m}$.",
+        "explanation": "According to Hooke's Law, $F = kx$. $k = \\frac{F}{x} = \\frac{5\\text{ N}}{0.02\\text{ m}} = 250\\text{ N/m}$."
+    },
+    {
+        "id": "JAMB_P_047",
+        "text": "The $\\textbf{pressure}$ in a water pipe is $5 \\times 10^5\\text{ Pa}$. If the cross-sectional area of the pipe is $0.01\\text{ m}^2$, what is the $\\textbf{force}$ exerted on the pipe end?",
+        "image": "",
+        "options": [
+            "$500\\text{ N}$.",
+            "$5000\\text{ N}$.",
+            "$50,000\\text{ N}$.",
+            "$500,000\\text{ N}$."
+        ],
+        "answer": "$5000\\text{ N}$.",
+        "explanation": "Pressure $P = \\frac{F}{A}$. $F = P \\times A = 5 \\times 10^5\\text{ Pa} \\times 0.01\\text{ m}^2 = 5 \\times 10^5 \\times 10^{-2} = 5 \\times 10^3\\text{ N} = 5000\\text{ N}$."
+    },
+    {
+        "id": "JAMB_P_048",
+        "text": "$\\textbf{Convection}$ is the primary mode of heat transfer in:",
+        "image": "",
+        "options": [
+            "Solids.",
+            "Vacuums.",
+            "Liquids and gases.",
+            "Metals."
+        ],
+        "answer": "Liquids and gases.",
+        "explanation": "Convection involves the bulk movement of fluid (liquid or gas) due to density changes caused by temperature differences. This cannot occur in solids or a vacuum."
+    },
+    {
+        "id": "JAMB_P_049",
+        "text": "A metal rod expands by $0.05\\text{ cm}$ when heated from $10^\\circ\\text{C}$ to $60^\\circ\\text{C}$. If its original length was $100\\text{ cm}$, what is its $\\textbf{linear}$ $\\textbf{expansivity}$ $(\\alpha)$?",
+        "image": "",
+        "options": [
+            "$1.0 \\times 10^{-5}\\text{ K}^{-1}$.",
+            "$5.0 \\times 10^{-5}\\text{ K}^{-1}$.",
+            "$1.0 \\times 10^{-4}\\text{ K}^{-1}$.",
+            "$5.0 \\times 10^{-4}\\text{ K}^{-1}$."
+        ],
+        "answer": "$1.0 \\times 10^{-5}\\text{ K}^{-1}$.",
+        "explanation": "Linear expansivity $\\alpha = \\frac{\\Delta L}{L_1 \\Delta T}$. $\\Delta L = 0.05\\text{ cm}$. $L_1 = 100\\text{ cm}$. $\\Delta T = 60 - 10 = 50\\text{ K}$. $\\alpha = \\frac{0.05}{100 \\times 50} = \\frac{0.05}{5000} = 1.0 \\times 10^{-5}\\text{ K}^{-1}$."
+    },
+    {
+        "id": "JAMB_P_050",
+        "text": "A gas at $27^\\circ\\text{C}$ and $100\\text{ Pa}$ pressure is compressed to half its original volume. If the temperature is maintained at $27^\\circ\\text{C}$, what is the new pressure?",
+        "image": "",
+        "options": [
+            "$50\\text{ Pa}$.",
+            "$100\\text{ Pa}$.",
+            "$200\\text{ Pa}$.",
+            "$400\\text{ Pa}$."
+        ],
+        "answer": "$200\\text{ Pa}$.",
+        "explanation": "Since the temperature is constant, use Boyle's Law: $P_1V_1 = P_2V_2$. $100 \\times V_1 = P_2 \\times (V_1/2)$. $P_2 = 100 \\times 2 = 200\\text{ Pa}$. [Image of Boyle's Law P-V diagram]"
+    },
+    {
+        "id": "JAMB_P_051",
+        "text": "What is the $\\textbf{minimum}$ number of $100\\text{ W}$ bulbs that can be run on a $240\\text{ V}$ $\\textbf{supply}$ protected by a $5\\text{ A}$ fuse?",
+        "image": "",
+        "options": [
+            "$10$ bulbs.",
+            "$12$ bulbs.",
+            "$15$ bulbs.",
+            "$24$ bulbs."
+        ],
+        "answer": "$12$ bulbs.",
+        "explanation": "Maximum power the circuit can handle $P_{\\text{max}} = V \\times I = 240\\text{ V} \\times 5\\text{ A} = 1200\\text{ W}$. Number of bulbs $N = \\frac{P_{\\text{max}}}{\\text{Power per bulb}} = \\frac{1200\\text{ W}}{100\\text{ W}} = 12$ bulbs."
+    },
+    {
+        "id": "JAMB_P_052",
+        "text": "The $\\textbf{range}$ of the $\\textbf{electromagnetic}$ $\\textbf{spectrum}$ with wavelengths longer than visible light but shorter than radio waves is:",
+        "image": "",
+        "options": [
+            "Gamma rays.",
+            "Infrared radiation.",
+            "Ultraviolet radiation.",
+            "X-rays."
+        ],
+        "answer": "Infrared radiation.",
+        "explanation": "The order of the EM spectrum (increasing wavelength): Gamma, X-rays, UV, Visible, $\\textbf{Infrared}$, Microwave, Radio. Infrared fits the description."
+    },
+    {
+        "id": "JAMB_P_053",
+        "text": "A virtual image is formed $10\\text{ cm}$ from a $\\textbf{convex}$ $\\textbf{lens}$ of focal length $15\\text{ cm}$. What is the object distance?",
+        "image": "",
+        "options": [
+            "$30\\text{ cm}$.",
+            "$15\\text{ cm}$.",
+            "$10\\text{ cm}$.",
+            "$6\\text{ cm}$."
+        ],
+        "answer": "$6\\text{ cm}$.",
+        "explanation": "Convex lens has positive focal length: $f = +15\\text{ cm}$. Virtual image means $v$ is negative: $v = -10\\text{ cm}$. Use lens formula: $\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}$. $\\frac{1}{15} = \\frac{1}{-10} - \\frac{1}{u}$. $\\frac{1}{u} = -\\frac{1}{10} - \\frac{1}{15} = \\frac{-3 - 2}{30} = -\\frac{5}{30} = -\\frac{1}{6}$. $u = -6\\text{ cm}$. The object distance (magnitude) is $6\\text{ cm}$. [Image of convex lens ray diagram for virtual image]"
+    },
+    {
+        "id": "JAMB_P_054",
+        "text": "If the angle of incidence is $60^\\circ$ and the angle of refraction is $30^\\circ$, the $\\textbf{refractive}$ $\\textbf{index}$ of the medium is:",
+        "image": "",
+        "options": [
+            "$\\frac{1}{2}$.",
+            "$\\sqrt{2}$.",
+            "$\\sqrt{3}$.",
+            "$2$."
+        ],
+        "answer": "$\\sqrt{3}$.",
+        "explanation": "By Snell's Law, $n = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^\\circ}{\\sin 30^\\circ} = \\frac{\\sqrt{3}/2}{1/2} = \\sqrt{3}$."
+    },
+    {
+        "id": "JAMB_P_055",
+        "text": "Which of the following describes the nature of sound waves?",
+        "image": "",
+        "options": [
+            "Transverse, non-mechanical.",
+            "Longitudinal, non-mechanical.",
+            "Transverse, mechanical.",
+            "Longitudinal, mechanical."
+        ],
+        "answer": "Longitudinal, mechanical.",
+        "explanation": "Sound waves require a medium (making them $\\textbf{mechanical}$) and the particles vibrate $\\textbf{parallel}$ to the direction of wave travel (making them $\\textbf{longitudinal}$)."
+    },
+    {
+        "id": "JAMB_P_056",
+        "text": "The $\\textbf{pitch}$ of a musical note is determined by its:",
+        "image": "",
+        "options": [
+            "Amplitude.",
+            "Wavelength.",
+            "Frequency.",
+            "Wave speed."
+        ],
+        "answer": "Frequency.",
+        "explanation": "$\\textbf{Pitch}$ is the human perception of $\\textbf{frequency}$: a higher frequency corresponds to a higher pitch."
+    },
+    {
+        "id": "JAMB_P_057",
+        "text": "What is the $\\textbf{power}$ dissipated by a $4\\text{ }\\Omega$ resistor when a current of $2\\text{ A}$ flows through it?",
+        "image": "",
+        "options": [
+            "$4\\text{ W}$.",
+            "$8\\text{ W}$.",
+            "$16\\text{ W}$.",
+            "$32\\text{ W}$."
+        ],
+        "answer": "$16\\text{ W}$.",
+        "explanation": "Power $P = I^2R$. $P = (2\\text{ A})^2 \\times 4\\text{ }\\Omega = 4 \\times 4 = 16\\text{ W}$."
+    },
+    {
+        "id": "JAMB_P_058",
+        "text": "Two capacitors of $2\\text{ }\\mu\\text{F}$ and $3\\text{ }\\mu\\text{F}$ are connected in $\\textbf{series}$. What is the equivalent capacitance?",
+        "image": "",
+        "options": [
+            "$1.2\\text{ }\\mu\\text{F}$.",
+            "$5.0\\text{ }\\mu\\text{F}$.",
+            "$0.83\\text{ }\\mu\\text{F}$.",
+            "$6.0\\text{ }\\mu\\text{F}$."
+        ],
+        "answer": "$1.2\\text{ }\\mu\\text{F}$.",
+        "explanation": "For series capacitors: $\\frac{1}{C_{\\text{eq}}} = \\frac{1}{C_1} + \\frac{1}{C_2} = \\frac{1}{2} + \\frac{1}{3} = \\frac{3+2}{6} = \\frac{5}{6}$. $C_{\\text{eq}} = \\frac{6}{5} = 1.2\\text{ }\\mu\\text{F}$. [Image of two series capacitors circuit diagram]"
+    },
+    {
+        "id": "JAMB_P_059",
+        "text": "The $\\textbf{unit}$ of $\\textbf{electric}$ $\\textbf{field}$ $\\textbf{intensity}$ ($E$) is:",
+        "image": "",
+        "options": [
+            "Joule per Coulomb ($\\text{J/C}$).",
+            "Coulomb per second ($\\text{C/s}$).",
+            "Volt per meter ($\\text{V/m}$).",
+            "Ampere-hour ($\\text{A} \\cdot \\text{h}$)."
+        ],
+        "answer": "Volt per meter ($\\text{V/m}$).",
+        "explanation": "Electric field intensity is defined as force per unit charge ($\\text{N/C}$) or potential gradient ($\\text{V/m}$). $\\text{Volt/meter}$ is the correct S.I. derived unit."
+    },
+    {
+        "id": "JAMB_P_060",
+        "text": "A wire carrying a current is placed in a $\\textbf{magnetic}$ $\\textbf{field}$. The force on the wire is $\\textbf{maximum}$ when the direction of the current is:",
+        "image": "",
+        "options": [
+            "Parallel to the field.",
+            "Anti-parallel to the field.",
+            "Perpendicular to the field.",
+            "At $45^\\circ$ to the field."
+        ],
+        "answer": "Perpendicular to the field.",
+        "explanation": "The magnetic force $F = BIL \\sin\\theta$. The force is maximum when $\\sin\\theta = 1$, which means $\\theta = 90^\\circ$. $\\textbf{Perpendicular}$ alignment yields the maximum force. "
+    },
+    {
+        "id": "JAMB_P_061",
+        "text": "The $\\textbf{induced}$ $\\textbf{e.m.f}$ in a conductor moving in a magnetic field is $\\textbf{inversely}$ $\\textbf{proportional}$ to the:",
+        "image": "",
+        "options": [
+            "Magnetic flux density.",
+            "Length of the conductor.",
+            "Rate of change of magnetic flux.",
+            "Resistance of the conductor."
+        ],
+        "answer": "Resistance of the conductor.",
+        "explanation": "According to $\\textbf{Faraday's Law}$, induced e.m.f ($E$) is proportional to the $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{change}$ of magnetic flux (and also proportional to $B$, $L$, and $v$). E.m.f is $\\textbf{independent}$ of $\\textbf{resistance}$, though the induced current $I$ is inversely proportional to $R$ ($I = E/R$)."
+    },
+    {
+        "id": "JAMB_P_062",
+        "text": "A $\\textbf{step-down}$ $\\textbf{transformer}$ is one that has:",
+        "image": "",
+        "options": [
+            "Fewer turns in the primary than in the secondary coil.",
+            "Equal number of turns in both coils.",
+            "More turns in the primary than in the secondary coil.",
+            "An iron core in the secondary coil only."
+        ],
+        "answer": "More turns in the primary than in the secondary coil.",
+        "explanation": "A step-down transformer reduces voltage. This requires the number of turns in the $\\textbf{secondary}$ coil ($N_s$) to be $\\textbf{less}$ $\\textbf{than}$ the number of turns in the $\\textbf{primary}$ coil ($N_p$), so $N_p > N_s$."
+    },
+    {
+        "id": "JAMB_P_063",
+        "text": "The property of a circuit component that opposes $\\textbf{any}$ $\\textbf{change}$ in the $\\textbf{current}$ flowing through it is called:",
+        "image": "",
+        "options": [
+            "Capacitance.",
+            "Resistance.",
+            "Inductance.",
+            "Conductance."
+        ],
+        "answer": "Inductance.",
+        "explanation": "Inductance, particularly the $\\textbf{self-inductance}$ of a coil (inductor), gives rise to an induced e.m.f. that opposes a change in the current flowing through it (Lenz's Law)."
+    },
+    {
+        "id": "JAMB_P_064",
+        "text": "Which part of the $\\textbf{cathode}$ $\\textbf{ray}$ $\\textbf{tube}$ (CRT) controls the $\\textbf{brightness}$ of the spot on the screen?",
+        "image": "",
+        "options": [
+            "Anode.",
+            "Cathode.",
+            "Grid.",
+            "Deflection plates."
+        ],
+        "answer": "Grid.",
+        "explanation": "The $\\textbf{grid}$ (or control grid) is a negatively charged cylinder that regulates the $\\textbf{number}$ of electrons reaching the screen, thereby controlling the $\\textbf{intensity}$ (brightness) of the spot."
+    },
+    {
+        "id": "JAMB_P_065",
+        "text": "The $\\textbf{mass}$ $\\textbf{defect}$ of a nucleus is the difference between the mass of the nucleus and the mass of its:",
+        "image": "",
+        "options": [
+            "Protons and electrons.",
+            "Protons only.",
+            "Constituent protons and neutrons.",
+            "Neutrons only."
+        ],
+        "answer": "Constituent protons and neutrons.",
+        "explanation": "The mass defect is the difference between the total mass of the $\\textbf{individual}$ $\\textbf{nucleons}$ (protons and neutrons) and the mass of the $\\textbf{actual}$ $\\textbf{nucleus}$. This missing mass is converted to $\\textbf{binding}$ $\\textbf{energy}$. "
+    },
+    {
+        "id": "JAMB_P_066",
+        "text": "The $\\textbf{radioactive}$ $\\textbf{decay}$ process where the atomic number $\\textbf{increases}$ by one and the mass number $\\textbf{remains}$ $\\textbf{unchanged}$ is:",
+        "image": "",
+        "options": [
+            "Alpha decay.",
+            "Beta decay ($\\beta^{-}$).",
+            "Gamma decay.",
+            "Neutron emission."
+        ],
+        "answer": "Beta decay ($\\beta^{-}$).",
+        "explanation": "In $\\beta^{-}$ decay, a neutron changes into a proton, an electron (beta particle), and an antineutrino. This increases the atomic number ($Z$) by $1$ and leaves the mass number ($A$) unchanged: ${}_Z^A X \\rightarrow {}_{Z+1}^A Y + {}_{-1}^0 e$."
+    },
+    {
+        "id": "JAMB_P_067",
+        "text": "The $\\textbf{absorption}$ of $\\textbf{X-rays}$ by matter is $\\textbf{least}$ for:",
+        "image": "",
+        "options": [
+            "Air.",
+            "Bone.",
+            "Lead.",
+            "Iron."
+        ],
+        "answer": "Air.",
+        "explanation": "X-ray absorption is strongly dependent on the $\\textbf{density}$ and the $\\textbf{atomic}$ $\\textbf{number}$ of the material. Air is the least dense of the options and therefore absorbs X-rays the least."
+    },
+    {
+        "id": "JAMB_P_068",
+        "text": "The $\\textbf{work}$ $\\textbf{function}$ of a metal determines the minimum $\\textbf{energy}$ required to:",
+        "image": "",
+        "options": [
+            "break its nucleus.",
+            "cause it to melt.",
+            "eject an electron from its surface.",
+            "make it a superconductor."
+        ],
+        "answer": "eject an electron from its surface.",
+        "explanation": "The work function ($W$) is the minimum energy (usually given in $\\text{eV}$) needed to remove a least tightly bound electron from the surface of a solid, a key concept in the photoelectric effect."
+    },
+    {
+        "id": "JAMB_P_069",
+        "text": "The $\\textbf{capacitance}$ of a parallel plate capacitor is $\\textbf{directly}$ $\\textbf{proportional}$ to the:",
+        "image": "",
+        "options": [
+            "distance between the plates.",
+            "square of the voltage applied.",
+            "area of overlap of the plates.",
+            "density of the dielectric material."
+        ],
+        "answer": "area of overlap of the plates.",
+        "explanation": "The capacitance $C$ of a parallel plate capacitor is given by $C = \\frac{\\epsilon A}{d}$, where $A$ is the $\\textbf{area}$ of overlap and $d$ is the distance between the plates. $C$ is $\\textbf{directly}$ proportional to $A$ and inversely proportional to $d$."
+    },
+    {
+        "id": "JAMB_P_070",
+        "text": "The $\\textbf{pressure}$ of a fixed mass of gas is $\\textbf{inversely}$ $\\textbf{proportional}$ to its volume at constant $\\textbf{temperature}$. This is a statement of:",
+        "image": "",
+        "options": [
+            "Charles' Law.",
+            "Boyle's Law.",
+            "Gay-Lussac's Law.",
+            "Archimedes' Principle."
+        ],
+        "answer": "Boyle's Law.",
+        "explanation": "Boyle's Law states $P \\propto \\frac{1}{V}$ (or $PV = \\text{constant}$) when temperature ($T$) and mass ($m$) are constant."
+    },
+    {
+        "id": "JAMB_P_071",
+        "text": "A body of mass $5\\text{ kg}$ is pulled up a smooth inclined plane of angle $30^\\circ$ by a force of $40\\text{ N}$. What is the $\\textbf{acceleration}$ of the body? (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$2.0\\text{ m/s}^2$.",
+            "$3.0\\text{ m/s}^2$.",
+            "$5.0\\text{ m/s}^2$.",
+            "$7.5\\text{ m/s}^2$."
+        ],
+        "answer": "$3.0\\text{ m/s}^2$.",
+        "explanation": "The net force causing acceleration up the plane $F_{\\text{net}} = \\text{Applied Force} - \\text{Component of Weight down the plane}$. $F_{\\text{net}} = F_{\\text{app}} - mg\\sin\\theta$. $F_{\\text{net}} = 40\\text{ N} - (5\\text{ kg})(10\\text{ m/s}^2)(\\sin 30^\\circ) = 40 - (50)(0.5) = 40 - 25 = 15\\text{ N}$. $a = \\frac{F_{\\text{net}}}{m} = \\frac{15\\text{ N}}{5\\text{ kg}} = 3.0\\text{ m/s}^2$. [Image of inclined plane free-body diagram]"
+    },
+    {
+        "id": "JAMB_P_072",
+        "text": "The $\\textbf{unit}$ of $\\textbf{moment}$ of a force is:",
+        "image": "",
+        "options": [
+            "Newton-meter ($\\text{N} \\cdot \\text{m}$).",
+            "Joule (J).",
+            "Watt (W).",
+            "Newton per meter ($\\text{N/m}$)."
+        ],
+        "answer": "Newton-meter ($\\text{N} \\cdot \\text{m}$).",
+        "explanation": "Moment ($\\tau$) is Force $\\times$ Perpendicular distance ($d$). $\\tau = Fd$. The unit is $\\text{Newton} \\times \\text{meter}$ or $\\text{N} \\cdot \\text{m}$. Although Joule is also $\\text{N} \\cdot \\text{m}$, $\\text{N} \\cdot \\text{m}$ is more specifically used for torque/moment to avoid confusion with work/energy."
+    },
+    {
+        "id": "JAMB_P_073",
+        "text": "If a metal cube is heated, the $\\textbf{ratio}$ of its $\\textbf{new}$ $\\textbf{density}$ to its $\\textbf{original}$ $\\textbf{density}$ is:",
+        "image": "",
+        "options": [
+            "greater than unity.",
+            "equal to unity.",
+            "less than unity.",
+            "dependent only on its specific heat capacity."
+        ],
+        "answer": "less than unity.",
+        "explanation": "When a metal cube is heated, its volume $\\textbf{increases}$ while its mass remains constant. Since $\\text{Density} = \\frac{\\text{Mass}}{\\text{Volume}}$, an increase in volume leads to a $\\textbf{decrease}$ in density. Thus, $\\frac{\\rho_{\\text{new}}}{\\rho_{\\text{original}}} < 1$."
+    },
+    {
+        "id": "JAMB_P_074",
+        "text": "The $\\textbf{refractive}$ $\\textbf{index}$ of glass is $1.5$. What is the $\\textbf{speed}$ of light in the glass? (Speed of light in vacuum $c = 3.0 \\times 10^8\\text{ m/s}$)",
+        "image": "",
+        "options": [
+            "$2.0 \\times 10^8\\text{ m/s}$.",
+            "$3.0 \\times 10^8\\text{ m/s}$.",
+            "$4.5 \\times 10^8\\text{ m/s}$.",
+            "$6.0 \\times 10^8\\text{ m/s}$."
+        ],
+        "answer": "$2.0 \\times 10^8\\text{ m/s}$.",
+        "explanation": "Refractive index $n = \\frac{\\text{Speed of light in vacuum}}{\\text{Speed of light in medium}} = \\frac{c}{v}$. $v = \\frac{c}{n} = \\frac{3.0 \\times 10^8\\text{ m/s}}{1.5} = 2.0 \\times 10^8\\text{ m/s}$."
+    },
+    {
+        "id": "JAMB_P_075",
+        "text": "In $\\textbf{photoelectric}$ $\\textbf{emission}$, increasing the $\\textbf{intensity}$ of the incident light, while keeping the $\\textbf{frequency}$ constant, will $\\textbf{increase}$ the:",
+        "image": "",
+        "options": [
+            "maximum kinetic energy of the electrons.",
+            "work function of the metal.",
+            "number of electrons emitted per second.",
+            "threshold frequency."
+        ],
+        "answer": "number of electrons emitted per second.",
+        "explanation": "In the photoelectric effect, the $\\textbf{kinetic}$ $\\textbf{energy}$ is dependent $\\textbf{only}$ on $\\textbf{frequency}$, and the $\\textbf{number}$ of electrons emitted (the photoelectric current) is dependent $\\textbf{only}$ on the $\\textbf{intensity}$ of the light."
+    },
+    {
+        "id": "JAMB_P_076",
+        "text": "The $\\textbf{electromotive}$ $\\textbf{force}$ (e.m.f) of a cell is the:",
+        "image": "",
+        "options": [
+            "force required to move electrons through the external circuit.",
+            "voltage of the cell when supplying current.",
+            "total work done per unit charge in driving current round the whole circuit.",
+            "potential difference across the external resistance."
+        ],
+        "answer": "total work done per unit charge in driving current round the whole circuit.",
+        "explanation": "e.m.f is the $\\textbf{total}$ energy supplied by the cell to a unit charge, including the work done in moving the charge through the cell's $\\textbf{internal}$ $\\textbf{resistance}$."
+    },
+    {
+        "id": "JAMB_P_077",
+        "text": "A wire of length $L$ and resistance $R$ is cut into two equal halves, and the halves are connected in $\\textbf{parallel}$. The equivalent resistance is:",
+        "image": "",
+        "options": [
+            "$\\frac{R}{4}$.",
+            "$\\frac{R}{2}$.",
+            "$R$.",
+            "$2R$."
+        ],
+        "answer": "$\\frac{R}{4}$.",
+        "explanation": "Each half has resistance $R' = R/2$ (since resistance $R \\propto L$). When connected in parallel: $\\frac{1}{R_{\\text{eq}}} = \\frac{1}{R'} + \\frac{1}{R'} = \\frac{2}{R'} = \\frac{2}{R/2} = \\frac{4}{R}$. $R_{\\text{eq}} = \\frac{R}{4}$."
+    },
+    {
+        "id": "JAMB_P_078",
+        "text": "The $\\textbf{time}$ $\\textbf{base}$ control in a $\\textbf{CRO}$ (Cathode Ray Oscilloscope) determines the:",
+        "image": "",
+        "options": [
+            "vertical scale of the display.",
+            "brightness of the trace.",
+            "horizontal sweep speed.",
+            "focus of the electron beam."
+        ],
+        "answer": "horizontal sweep speed.",
+        "explanation": "The time base circuit applies a varying voltage to the $\\textbf{X-plates}$ (horizontal deflection plates), causing the electron beam to sweep horizontally across the screen at a constant rate, displaying the variation of the signal with $\\textbf{time}$."
+    },
+    {
+        "id": "JAMB_P_079",
+        "text": "The $\\textbf{half-life}$ of a radioactive element is $5$ minutes. The $\\textbf{decay}$ $\\textbf{constant}$ ($\\lambda$) in $\\text{per}$ $\\text{minute}$ ($\\min^{-1}$) is:",
+        "image": "",
+        "options": [
+            "$0.1386\\text{ min}^{-1}$.",
+            "$0.693\\text{ min}^{-1}$.",
+            "$1.386\\text{ min}^{-1}$.",
+            "$5.00\\text{ min}^{-1}$."
+        ],
+        "answer": "$0.1386\\text{ min}^{-1}$.",
+        "explanation": "The relationship between half-life ($T_{1/2}$) and decay constant ($\\lambda$) is $T_{1/2} = \\frac{\\ln 2}{\\lambda} = \\frac{0.693}{\\lambda}$. $\\lambda = \\frac{0.693}{T_{1/2}} = \\frac{0.693}{5\\text{ min}} = 0.1386\\text{ min}^{-1}$."
+    },
+    {
+        "id": "JAMB_P_080",
+        "text": "Which part of a $\\textbf{moving}$ $\\textbf{coil}$ $\\textbf{galvanometer}$ provides the $\\textbf{controlling}$ $\\textbf{torque}$ that opposes the deflection?",
+        "image": "",
+        "options": [
+            "Permanent magnet.",
+            "Soft iron core.",
+            "Coil.",
+            "Hairsprings."
+        ],
+        "answer": "Hairsprings.",
+        "explanation": "The $\\textbf{hairsprings}$ (or suspension wire) create a $\\textbf{restoring}$ or $\\textbf{controlling}$ $\\textbf{torque}$ that is proportional to the angle of twist, ensuring the pointer returns to zero when the current stops and providing the opposing torque during current flow."
+    },
+    {
+        "id": "JAMB_P_081",
+        "text": "A wave traveling in a medium has a speed of $120\\text{ m/s}$ and a frequency of $600\\text{ Hz}$. The wavelength is:",
+        "image": "",
+        "options": [
+            "$0.2\\text{ m}$.",
+            "$5.0\\text{ m}$.",
+            "$50\\text{ m}$.",
+            "$7200\\text{ m}$."
+        ],
+        "answer": "$0.2\\text{ m}$.",
+        "explanation": "Use the wave equation $v = f\\lambda$. $\\lambda = \\frac{v}{f} = \\frac{120\\text{ m/s}}{600\\text{ Hz}} = 0.2\\text{ m}$."
+    },
+    {
+        "id": "JAMB_P_082",
+        "text": "Which of the following is $\\textbf{NOT}$ a property of $\\textbf{magnetic}$ $\\textbf{lines}$ $\\textbf{of}$ $\\textbf{force}$?",
+        "image": "",
+        "options": [
+            "They start from the North pole and end at the South pole.",
+            "They never intersect each other.",
+            "They are closest together where the field is strongest.",
+            "They pass through magnetic and non-magnetic materials equally."
+        ],
+        "answer": "They pass through magnetic and non-magnetic materials equally.",
+        "explanation": "Magnetic lines of force $\\textbf{concentrate}$ in magnetic materials (like iron) but $\\textbf{spread}$ $\\textbf{out}$ in non-magnetic materials (like air or wood), showing that materials affect the field strength."
+    },
+    {
+        "id": "JAMB_P_083",
+        "text": "The $\\textbf{difference}$ between $\\textbf{heat}$ and $\\textbf{temperature}$ is that:",
+        "image": "",
+        "options": [
+            "Heat is the degree of hotness, while temperature is the measure of molecular motion.",
+            "Heat is a measure of molecular motion, while temperature is energy.",
+            "Heat is a form of energy, while temperature is the degree of hotness.",
+            "Heat is measured in Kelvin, while temperature is measured in Joules."
+        ],
+        "answer": "Heat is a form of energy, while temperature is the degree of hotness.",
+        "explanation": "$\\textbf{Heat}$ is the $\\textbf{transfer}$ of thermal $\\textbf{energy}$ due to a temperature difference, and $\\textbf{temperature}$ is the $\\textbf{measure}$ of the degree of hotness or coldness (related to the average kinetic energy of molecules)."
+    },
+    {
+        "id": "JAMB_P_084",
+        "text": "The $\\textbf{tensile}$ $\\textbf{stress}$ in a wire is defined as the ratio of:",
+        "image": "",
+        "options": [
+            "applied force to extension.",
+            "applied force to original length.",
+            "extension to original length.",
+            "applied force to cross-sectional area."
+        ],
+        "answer": "applied force to cross-sectional area.",
+        "explanation": "Stress is defined as $\\textbf{Force}$ per unit $\\textbf{Area}$ ($ \\sigma = F/A$). Strain is extension to original length ($\\epsilon = e/L$)."
+    },
+    {
+        "id": "JAMB_P_085",
+        "text": "Which of the following describes the $\\textbf{image}$ formed when an object is placed $\\textbf{between}$ the $\\textbf{focal}$ $\\textbf{point}$ ($F$) and the $\\textbf{pole}$ ($P$) of a $\\textbf{concave}$ $\\textbf{mirror}$?",
+        "image": "",
+        "options": [
+            "Real, inverted, magnified.",
+            "Real, inverted, diminished.",
+            "Virtual, upright, magnified.",
+            "Virtual, upright, diminished."
+        ],
+        "answer": "Virtual, upright, magnified.",
+        "explanation": "This is the only case where a concave mirror produces a $\\textbf{virtual}$ $\\textbf{image}$ (used in shaving mirrors). The image is formed behind the mirror, is $\\textbf{upright}$ (erect), and $\\textbf{larger}$ than the object."
+    },
+    {
+        "id": "JAMB_P_086",
+        "text": "The $\\textbf{internal}$ $\\textbf{resistance}$ of a cell is the resistance offered by the $\\textbf{electrolyte}$ and the:",
+        "image": "",
+        "options": [
+            "connecting wires.",
+            "load resistor.",
+            "electrodes.",
+            "ammeter."
+        ],
+        "answer": "electrodes.",
+        "explanation": "Internal resistance is the opposition to current flow within the cell itself, caused by the $\\textbf{electrolyte}$ and the $\\textbf{electrodes}$."
+    },
+    {
+        "id": "JAMB_P_087",
+        "text": "If a gas expands $\\textbf{adiabatically}$, its $\\textbf{temperature}$ will:",
+        "image": "",
+        "options": [
+            "increase.",
+            "decrease.",
+            "remain constant.",
+            "become zero."
+        ],
+        "answer": "decrease.",
+        "explanation": "In an $\\textbf{adiabatic}$ process, no heat is exchanged with the surroundings. For expansion, the gas does work on the surroundings. This work comes from the $\\textbf{internal}$ $\\textbf{energy}$ of the gas, causing the average molecular kinetic energy (and thus the $\\textbf{temperature}$) to $\\textbf{drop}$."
+    },
+    {
+        "id": "JAMB_P_088",
+        "text": "Which of the following is an example of a $\\textbf{vector}$ $\\textbf{quantity}$?",
+        "image": "",
+        "options": [
+            "Mass.",
+            "Density.",
+            "Work.",
+            "Momentum."
+        ],
+        "answer": "Momentum.",
+        "explanation": "A $\\textbf{vector}$ quantity has both $\\textbf{magnitude}$ and $\\textbf{direction}$. Momentum ($\\text{Mass} \\times \\text{Velocity}$) has direction. The others are $\\textbf{scalar}$ quantities."
+    },
+    {
+        "id": "JAMB_P_089",
+        "text": "The $\\textbf{period}$ of a simple pendulum $\\textbf{increases}$ when the:",
+        "image": "",
+        "options": [
+            "mass of the bob is increased.",
+            "length of the pendulum is increased.",
+            "amplitude of oscillation is increased.",
+            "pendulum is moved to a place where gravity is higher."
+        ],
+        "answer": "length of the pendulum is increased.",
+        "explanation": "The period $T$ of a simple pendulum is given by $T = 2\\pi \\sqrt{\\frac{L}{g}}$. $T$ is $\\textbf{independent}$ of mass and amplitude (for small angles) but $\\textbf{directly}$ proportional to $\\sqrt{L}$ and $\\textbf{inversely}$ proportional to $\\sqrt{g}$."
+    },
+    {
+        "id": "JAMB_P_090",
+        "text": "Which of the following $\\textbf{cannot}$ be polarized?",
+        "image": "",
+        "options": [
+            "Radio waves.",
+            "Sound waves.",
+            "X-rays.",
+            "Visible light."
+        ],
+        "answer": "Sound waves.",
+        "explanation": "$\\textbf{Polarization}$ is a phenomenon characteristic $\\textbf{only}$ of $\\textbf{transverse}$ $\\textbf{waves}$. Sound waves are $\\textbf{longitudinal}$ and therefore cannot be polarized."
+    }
+]

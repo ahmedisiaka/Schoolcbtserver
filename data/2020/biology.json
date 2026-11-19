@@ -1,0 +1,322 @@
+[
+    {
+      "id": "BIO_2020_01",
+      "text": "The part of the plant cell responsible for the synthesis of proteins and packaging them for transport is the:",
+      "image": "",
+      "options": ["Mitochondrion", "Ribosome", "Golgi apparatus (Complex)", "Endoplasmic reticulum"],
+      "answer": "Golgi apparatus (Complex)",
+      "explanation": "The Golgi apparatus (or Golgi complex) modifies, sorts, and packages proteins and lipids synthesized in the endoplasmic reticulum for secretion or delivery to other organelles. Ribosomes are sites of protein synthesis, while the Endoplasmic Reticulum acts as a transport network."
+    },
+    {
+      "id": "BIO_2020_02",
+      "text": "Osmosis is best defined as the movement of water molecules from a region of:",
+      "image": "",
+      "options": ["Lower solute concentration to a region of higher solute concentration through a partially permeable membrane.", "Higher solute concentration to a region of lower solute concentration across a permeable membrane.", "Higher water potential to a region of lower water potential across a partially permeable membrane.", "Lower water potential to a region of higher water potential across a permeable membrane."],
+      "answer": "Higher water potential to a region of lower water potential across a partially permeable membrane.",
+      "explanation": "Osmosis is the net movement of water from an area of high water potential (dilute solution) to an area of low water potential (concentrated solution) across a semi-permeable (or partially permeable) membrane."
+    },
+    {
+      "id": "BIO_2020_03",
+      "text": "Which of the following is an example of a disaccharide?",
+      "image": "",
+      "options": ["Glucose", "Starch", "Maltose", "Cellulose"],
+      "answer": "Maltose",
+      "explanation": "Maltose is a disaccharide (made of two glucose units). Glucose is a monosaccharide. Starch and cellulose are polysaccharides."
+    },
+    {
+      "id": "BIO_2020_04",
+      "text": "The division of the cytoplasm during cell division is known as:",
+      "image": "",
+      "options": ["Karyokinesis", "Prophase", "Anaphase", "Cytokinesis"],
+      "answer": "Cytokinesis",
+      "explanation": "Cytokinesis is the physical process by which the cytoplasm of a single eukaryotic cell is divided into two daughter cells. Karyokinesis refers specifically to the division of the cell nucleus (mitosis or meiosis)."
+    },
+    {
+      "id": "BIO_2020_05",
+      "text": "In a monohybrid cross between two heterozygous parents (Tt x Tt), what is the expected genotypic ratio in the offspring?",
+      "image": "",
+      "options": ["3:1", "1:2:1", "1:1", "9:3:3:1"],
+      "answer": "1:2:1",
+      "explanation": "The expected genotypes are TT, Tt, and tt. The ratio is 1 (homozygous dominant) : 2 (heterozygous) : 1 (homozygous recessive)."
+    },
+    {
+      "id": "BIO_2020_06",
+      "text": "The failure of chromosomes to separate during meiosis is called:",
+      "image": "",
+      "options": ["Crossing over", "Translocation", "Non-disjunction", "Recombination"],
+      "answer": "Non-disjunction",
+      "explanation": "Non-disjunction is the failure of homologous chromosomes or sister chromatids to separate properly during cell division, leading to aneuploidy (abnormal number of chromosomes)."
+    },
+    {
+      "id": "BIO_2020_07",
+      "text": "The nitrogenous base that is found in RNA but not in DNA is:",
+      "image": "[Chemical structure comparison of Uracil and Thymine]",
+      "options": ["Thymine", "Cytosine", "Uracil", "Guanine"],
+      "answer": "Uracil",
+      "explanation": "DNA contains Adenine (A), Guanine (G), Cytosine (C), and Thymine (T). RNA contains Adenine (A), Guanine (G), Cytosine (C), and Uracil (U)."
+    },
+    {
+      "id": "BIO_2020_08",
+      "text": "Which of these traits is influenced by multiple genes and environmental factors?",
+      "image": "",
+      "options": ["Albinism", "Sickle cell anaemia", "Blood group", "Human height"],
+      "answer": "Human height",
+      "explanation": "Human height is a polygenic trait, meaning it is controlled by the cumulative effect of many different genes. It is also significantly influenced by environmental factors like nutrition."
+    },
+    {
+      "id": "BIO_2020_09",
+      "text": "In a food web, the organisms that feed directly on producers are known as:",
+      "image": "[Diagram of a simple food web]",
+      "options": ["Decomposers", "Secondary consumers", "Primary consumers", "Tertiary consumers"],
+      "answer": "Primary consumers",
+      "explanation": "Producers (plants/algae) form the first trophic level. Primary consumers (herbivores) feed on them and form the second trophic level."
+    },
+    {
+      "id": "BIO_2020_10",
+      "text": "The final stage of ecological succession in a freshwater pond is usually the development of a:",
+      "image": "[Diagram illustrating the stages of hydrarch succession]",
+      "options": ["Marshland", "Forest", "Grassland", "Sedge meadow"],
+      "answer": "Forest",
+      "explanation": "Ecological succession (Hydrosere) begins with open water and progresses through submerged plants, floating plants, reed swamp, marsh/sedge meadow, and finally to a stable climax community, often a terrestrial forest."
+    },
+    {
+      "id": "BIO_2020_11",
+      "text": "Which of the following is a density-dependent factor in population control?",
+      "image": "",
+      "options": ["Wildfire", "Flood", "Predation", "Climate change"],
+      "answer": "Predation",
+      "explanation": "Density-dependent factors (like predation, competition, disease) intensify as the population size (density) increases. Wildfire, flood, and climate change are generally density-independent."
+    },
+    {
+      "id": "BIO_2020_12",
+      "text": "Biological control of pests involves the use of:",
+      "image": "",
+      "options": ["Fumigants", "Pesticides", "Natural enemies", "Hormones"],
+      "answer": "Natural enemies",
+      "explanation": "Biological control is a method of controlling pests using other living organisms (natural enemies, such as predators, parasites, or pathogens) that are specific to the pest."
+    },
+    {
+      "id": "BIO_2020_13",
+      "text": "Eutrophication in a body of water primarily results from excessive amounts of:",
+      "image": "[Image illustrating algal bloom caused by nutrient runoff]",
+      "options": ["Heavy metals", "Oxygen", "Nitrates and phosphates", "Crude oil"],
+      "answer": "Nitrates and phosphates",
+      "explanation": "Eutrophication is the enrichment of water bodies with mineral nutrients (especially nitrogen and phosphorus compounds/nitrates and phosphates), which leads to excessive growth of algae (algal bloom)."
+    },
+    {
+      "id": "BIO_2020_14",
+      "text": "The raw materials for photosynthesis are:",
+      "image": "[Equation for Photosynthesis]",
+      "options": ["Oxygen and water", "Water and glucose", "Carbon dioxide and water", "Carbon dioxide and oxygen"],
+      "answer": "Carbon dioxide and water",
+      "explanation": "Plants use carbon dioxide ($\\text{CO}_2$) from the air and water ($\\text{H}_2\text{O}$) absorbed from the soil to produce glucose and oxygen in the presence of sunlight and chlorophyll."
+    },
+    {
+      "id": "BIO_2020_15",
+      "text": "Transpiration is important to plants because it helps in the:",
+      "image": "[Diagram illustrating the cohesion-tension theory of water movement]",
+      "options": ["Absorption of $\\text{CO}_2$", "Movement of water and dissolved minerals", "Formation of flowers", "Synthesis of starch"],
+      "answer": "Movement of water and dissolved minerals",
+      "explanation": "Transpiration, the loss of water vapour from leaves, creates a 'pull' or tension that draws water and dissolved mineral salts up the xylem vessels from the roots (transpirational pull)."
+    },
+    {
+      "id": "BIO_2020_16",
+      "text": "The main distinguishing feature between monocots and dicots is the number of:",
+      "image": "[Diagram comparing monocot and dicot seeds and leaves]",
+      "options": ["Leaves", "Cotyledons", "Flowers", "Vascular bundles"],
+      "answer": "Cotyledons",
+      "explanation": "Monocotyledonous plants (Monocots) have one cotyledon in their seed, while Dicotyledonous plants (Dicots) have two. This is the primary basis for their classification."
+    },
+    {
+      "id": "BIO_2020_17",
+      "text": "The growth regulator responsible for promoting cell elongation and phototropism in plants is:",
+      "image": "",
+      "options": ["Cytokinin", "Gibberellin", "Abscisic acid", "Auxin"],
+      "answer": "Auxin",
+      "explanation": "Auxins, such as Indoleacetic acid (IAA), are responsible for apical dominance, cell elongation, and the directional growth response to light (phototropism)."
+    },
+    {
+      "id": "BIO_2020_18",
+      "text": "The chamber of the mammalian heart that pumps oxygenated blood to all parts of the body is the:",
+      "image": "[Diagram of the mammalian heart showing chambers and major vessels]",
+      "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+      "answer": "Left ventricle",
+      "explanation": "The left ventricle receives oxygenated blood from the left atrium and pumps it out, via the aorta, to the systemic circulation (the rest of the body). It has the thickest muscular wall."
+    },
+    {
+      "id": "BIO_2020_19",
+      "text": "Which enzyme acts on starch to convert it to maltose?",
+      "image": "[Chemical equation showing the action of amylase]",
+      "options": ["Lipase", "Pepsin", "Amylase", "Maltase"],
+      "answer": "Amylase",
+      "explanation": "Amylase (e.g., salivary amylase, pancreatic amylase) hydrolyzes starch (a polysaccharide) into the disaccharide maltose. Maltase then breaks down maltose into glucose."
+    },
+    {
+      "id": "BIO_2020_20",
+      "text": "In the process of gaseous exchange in humans, oxygen diffuses into the blood through the walls of the:",
+      "image": "[Diagram of Alveolus and capillary network]",
+      "options": ["Bronchioles", "Trachea", "Alveoli", "Bronchi"],
+      "answer": "Alveoli",
+      "explanation": "The alveoli (air sacs) have thin, moist walls surrounded by capillaries. This thin barrier facilitates rapid diffusion of oxygen from the air into the blood and carbon dioxide from the blood into the air."
+    },
+    {
+      "id": "BIO_2020_21",
+      "text": "Which structure in the kidney is responsible for the reabsorption of useful substances like glucose and amino acids?",
+      "image": "[Diagram of the Nephron structure]",
+      "options": ["Bowman's capsule", "Glomerulus", "Collecting duct", "Proximal convoluted tubule"],
+      "answer": "Proximal convoluted tubule",
+      "explanation": "After filtration in the glomerulus and Bowman's capsule, most of the essential substances (like all glucose and amino acids, and most water) are selectively reabsorbed in the proximal convoluted tubule."
+    },
+    {
+      "id": "BIO_2020_22",
+      "text": "The part of the central nervous system that controls involuntary actions such as breathing and heartbeat is the:",
+      "image": "[Diagram of the human brain highlighting the brainstem]",
+      "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+      "answer": "Medulla oblongata",
+      "explanation": "The medulla oblongata, located in the brainstem, is the center for autonomic (involuntary) functions such as breathing, heart rate, blood pressure, and swallowing."
+    },
+    {
+      "id": "BIO_2020_23",
+      "text": "The condition caused by the deficiency of $\\text{Iodine}$ in the diet is:",
+      "image": "",
+      "options": ["Anaemia", "Scurvy", "Rickets", "Goitre"],
+      "answer": "Goitre",
+      "explanation": "Iodine is essential for the synthesis of thyroid hormones. A deficiency leads to the enlargement of the thyroid gland, a condition known as goitre."
+    },
+    {
+      "id": "BIO_2020_24",
+      "text": "Which of the following is NOT a product of anaerobic respiration in plants?",
+      "image": "[Chemical equation for anaerobic respiration in yeast]",
+      "options": ["Ethanol", "Lactic acid", "Carbon dioxide", "Energy"],
+      "answer": "Lactic acid",
+      "explanation": "Anaerobic respiration (fermentation) in plants (like yeast) produces Ethanol ($\text{C}_2\text{H}_5\text{OH}$), Carbon dioxide ($\text{CO}_2$), and a small amount of Energy ($\text{ATP}$). Lactic acid is produced during anaerobic respiration in animal muscles."
+    },
+    {
+      "id": "BIO_2020_25",
+      "text": "The sense organ responsible for balance and hearing is the:",
+      "image": "[Diagram of the human ear structure]",
+      "options": ["Eye", "Skin", "Ear", "Tongue"],
+      "answer": "Ear",
+      "explanation": "The ear contains structures for both hearing (cochlea) and balance/equilibrium (semi-circular canals, utricle, and saccule in the inner ear)."
+    },
+    {
+      "id": "BIO_2020_26",
+      "text": "A major way in which fungi differ from plants is that fungi:",
+      "image": "",
+      "options": ["Are mobile", "Lack chlorophyll", "Reproduce sexually", "Are multicellular"],
+      "answer": "Lack chlorophyll",
+      "explanation": "Fungi lack chlorophyll, making them heterotrophs (relying on external food sources), unlike plants which are autotrophs due to their chlorophyll content and ability to photosynthesize."
+    },
+    {
+      "id": "BIO_2020_27",
+      "text": "The transfer of resistance from one bacterium to another is often mediated by:",
+      "image": "[Diagram illustrating bacterial conjugation]",
+      "options": ["Chromosome transfer", "Phagocytosis", "Plasmids", "Mutation"],
+      "answer": "Plasmids",
+      "explanation": "Plasmids are small, circular, extra-chromosomal DNA molecules in bacteria. They often carry genes for antibiotic resistance and can be transferred between bacteria through conjugation."
+    },
+    {
+      "id": "BIO_2020_28",
+      "text": "Which component of blood is primarily responsible for blood clotting?",
+      "image": "[Micrograph of blood showing platelets]",
+      "options": ["White blood cells", "Red blood cells", "Plasma", "Platelets"],
+      "answer": "Platelets",
+      "explanation": "Platelets (thrombocytes) are cell fragments that initiate the blood clotting process by releasing thromboplastin when exposed to air or damaged tissue."
+    },
+    {
+      "id": "BIO_2020_29",
+      "text": "The mechanism of evolution proposed by Charles Darwin is:",
+      "image": "[Illustration of Darwin's finches or a natural selection flowchart]",
+      "options": ["Inheritance of acquired characteristics", "Use and disuse theory", "Genetic drift", "Natural selection"],
+      "answer": "Natural selection",
+      "explanation": "Charles Darwin and Alfred Russel Wallace proposed the theory of evolution by natural selection, which states that organisms better adapted to their environment tend to survive and produce more offspring."
+    },
+    {
+      "id": "BIO_2020_30",
+      "text": "Fossils are generally found in which type of rock?",
+      "image": "",
+      "options": ["Igneous rock", "Metamorphic rock", "Sedimentary rock", "Volcanic rock"],
+      "answer": "Sedimentary rock",
+      "explanation": "Fossils are typically formed when organisms are buried in sediment, which then hardens into sedimentary rock (e.g., limestone, sandstone). The heat and pressure of igneous or metamorphic rocks usually destroy the remains."
+    },
+    {
+      "id": "BIO_2020_31",
+      "text": "Which of the following is a characteristic feature of amphibians?",
+      "image": "",
+      "options": ["Scales on the skin", "Constant body temperature", "Gills throughout life", "Smooth, moist skin without scales"],
+      "answer": "Smooth, moist skin without scales",
+      "explanation": "Amphibians (like frogs and salamanders) typically have smooth, moist skin without scales, which allows for cutaneous respiration (breathing through the skin). They are also cold-blooded (poikilothermic)."
+    },
+    {
+      "id": "BIO_2020_32",
+      "text": "The classification of organisms based on their evolutionary history and relatedness is known as:",
+      "image": "[Diagram of a Phylogenetic tree]",
+      "options": ["Morphology", "Taxonomy", "Nomenclature", "Phylogeny (Cladistics)"],
+      "answer": "Phylogeny (Cladistics)",
+      "explanation": "Phylogeny is the study of evolutionary relationships among groups of organisms. Taxonomy is the science of naming, describing, and classifying organisms, often based on phylogenetic data."
+    },
+    {
+      "id": "BIO_2020_33",
+      "text": "The main excretory product of insects is:",
+      "image": "",
+      "options": ["Urea", "Ammonia", "Uric acid", "Creatinine"],
+      "answer": "Uric acid",
+      "explanation": "Insects, birds, and reptiles excrete nitrogenous waste primarily as Uric acid. This is an adaptation to conserve water, as uric acid requires very little water for its excretion."
+    },
+    {
+      "id": "BIO_2020_34",
+      "text": "In birds, the food is stored temporarily in the:",
+      "image": "[Diagram of the avian digestive system]",
+      "options": ["Gizzard", "Stomach", "Crop", "Intestine"],
+      "answer": "Crop",
+      "explanation": "The crop is an enlargement of the oesophagus used to store food temporarily before it proceeds to the stomach and gizzard for digestion and grinding."
+    },
+    {
+      "id": "BIO_2020_35",
+      "text": "Which phylum of the Kingdom Animalia is characterized by a water vascular system and tube feet?",
+      "image": "",
+      "options": ["Arthropoda", "Annelida", "Mollusca", "Echinodermata"],
+      "answer": "Echinodermata",
+      "explanation": "Echinoderms (e.g., starfish, sea urchins) are exclusively marine and possess a unique water vascular system that operates their tube feet for locomotion, feeding, and gas exchange."
+    },
+    {
+      "id": "BIO_2020_36",
+      "text": "The process where a pollen grain fuses with two polar nuclei to form the triploid endosperm is characteristic of:",
+      "image": "[Diagram of Double Fertilization in flowering plants]",
+      "options": ["Asexual reproduction in fungi", "Single fertilization in gymnosperms", "Double fertilization in angiosperms", "Conjugation in Spirogyra"],
+      "answer": "Double fertilization in angiosperms",
+      "explanation": "Double fertilization is a unique event in flowering plants (Angiosperms) where one sperm nucleus fertilizes the egg (forming the diploid zygote), and the second sperm nucleus fuses with the two polar nuclei (forming the triploid endosperm)."
+    },
+    {
+      "id": "BIO_2020_37",
+      "text": "The hormone responsible for preparing the uterine lining for implantation after ovulation is:",
+      "image": "[Graph showing hormone levels during the menstrual cycle]",
+      "options": ["Follicle Stimulating Hormone ($\text{FSH}$)", "Oestrogen", "Luteinizing Hormone ($\text{LH}$)", "Progesterone"],
+      "answer": "Progesterone",
+      "explanation": "Progesterone is secreted by the corpus luteum after ovulation. Its primary role is to maintain and thicken the endometrium (uterine lining) in preparation for the implantation of a fertilized egg."
+    },
+    {
+      "id": "BIO_2020_38",
+      "text": "The male reproductive organ of a flower is collectively known as the:",
+      "image": "[Diagram of a flower showing male and female parts]",
+      "options": ["Pistil", "Petal", "Stamen", "Sepal"],
+      "answer": "Stamen",
+      "explanation": "The stamen is the male reproductive organ, composed of the anther (where pollen is produced) and the filament. The pistil (or carpel) is the female reproductive organ."
+    },
+    {
+      "id": "BIO_2020_39",
+      "text": "Which of the following is a characteristic of insects that undergo incomplete metamorphosis?",
+      "image": "[Diagram comparing complete and incomplete metamorphosis]",
+      "options": ["Pupa stage is present", "Larva is distinct from the adult", "Young look like smaller versions of the adult", "No moulting occurs"],
+      "answer": "Young look like smaller versions of the adult",
+      "explanation": "Incomplete metamorphosis (e.g., grasshoppers) includes three stages: egg, nymph (young, which resembles a smaller, wingless adult), and adult. Complete metamorphosis includes the pupa stage and has a distinct larval form."
+    },
+    {
+      "id": "BIO_2020_40",
+      "text": "The process of development where the embryo is formed from the zygote through successive cell divisions is called:",
+      "image": "[Diagram of early embryonic development stages (cleavage, blastula, gastrula)]",
+      "options": ["Fertilization", "Gametogenesis", "Gastrulation", "Cleavage"],
+      "answer": "Cleavage",
+      "explanation": "Cleavage is the initial rapid cell division (mitosis) of the zygote immediately after fertilization, leading to the formation of the blastula stage (a ball of cells). Gastrulation follows, forming the germ layers."
+    }
+]

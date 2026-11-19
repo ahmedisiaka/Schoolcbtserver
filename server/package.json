@@ -1,0 +1,12 @@
+{
+  "name": "schoolcbtserver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel API for LIMLO Schools computer access and question-bank delivery.",
+  "engines": {
+    "node": "26.x"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.5.1"
+  }
+}

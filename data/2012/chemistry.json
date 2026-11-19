@@ -1,0 +1,322 @@
+[
+    {
+      "id": "CHEM_2012_01",
+      "text": "The number of electrons in the $\text{O}^{2-}$ ion is:",
+      "image": "",
+      "options": ["8", "10", "16", "18"],
+      "answer": "10",
+      "explanation": "A neutral Oxygen atom has 8 electrons (Atomic number Z=8). The $\text{O}^{2-}$ ion gains 2 electrons, so $8 + 2 = 10$ electrons."
+    },
+    {
+      "id": "CHEM_2012_02",
+      "text": "Which of the following elements is a halogen?",
+      "image": "[Periodic table showing Group 17]",
+      "options": ["Sulphur", "Neon", "Chlorine", "Calcium"],
+      "answer": "Chlorine",
+      "explanation": "Halogens belong to Group 17 of the periodic table, which includes Fluorine, Chlorine, Bromine, Iodine, and Astatine."
+    },
+    {
+      "id": "CHEM_2012_03",
+      "text": "The maximum number of electrons that can be accommodated in the $M$ shell of an atom is:",
+      "image": "[Electron shells K, L, M, N]",
+      "options": ["2", "8", "18", "32"],
+      "answer": "18",
+      "explanation": "The maximum number of electrons in any shell (n) is given by $2n^2$. For the $M$ shell, $n=3$, so $2 \times 3^2 = 18$."
+    },
+    {
+      "id": "CHEM_2012_04",
+      "text": "The type of chemical bond formed when electrons are completely transferred from one atom to another is:",
+      "image": "[Formation of NaCl ionic bond]",
+      "options": ["Covalent bond", "Dative bond", "Ionic bond", "Metallic bond"],
+      "answer": "Ionic bond",
+      "explanation": "Ionic bonds are formed by the electrostatic attraction between oppositely charged ions resulting from the complete transfer of electrons."
+    },
+    {
+      "id": "CHEM_2012_05",
+      "text": "If $200\text{ cm}^3$ of a gas has a pressure of $100\text{ mmHg}$, what is its volume at $400\text{ mmHg}$ pressure, assuming constant temperature?",
+      "image": "[Diagram illustrating Boyle's Law]",
+      "options": ["$50\text{ cm}^3$", "$100\text{ cm}^3$", "$200\text{ cm}^3$", "$800\text{ cm}^3$"],
+      "answer": "$50\text{ cm}^3$",
+      "explanation": "Using Boyle's Law ($P_1V_1 = P_2V_2$): $100 \times 200 = 400 \times V_2$. $V_2 = (100 \times 200) / 400 = 20000 / 400 = 50\text{ cm}^3$."
+    },
+    {
+      "id": "CHEM_2012_06",
+      "text": "The gas that diffuses fastest among the following is: [$\text{H}=1, \text{C}=12, \text{O}=16, \text{S}=32$]",
+      "image": "",
+      "options": ["$\text{O}_2$", "$\text{CO}_2$", "$\text{SO}_2$", "$\text{CH}_4$"],
+      "answer": "$\text{CH}_4$",
+      "explanation": "According to Graham's Law, the rate of diffusion is inversely proportional to the square root of the molar mass. Molar masses: $\text{O}_2=32, \text{CO}_2=44, \text{SO}_2=64, \text{CH}_4=16$. Methane ($\text{CH}_4$) has the lowest molar mass and thus diffuses fastest."
+    },
+    {
+      "id": "CHEM_2012_07",
+      "text": "What is the molar mass of $\text{Ca}(\text{NO}_3)_2$? [$\text{Ca}=40, \text{N}=14, \text{O}=16$]",
+      "image": "",
+      "options": ["$102\text{ g/mol}$", "$132\text{ g/mol}$", "$164\text{ g/mol}$", "$176\text{ g/mol}$"],
+      "answer": "$164\text{ g/mol}$",
+      "explanation": "Molar mass $= 40 + 2(14) + 6(16) = 40 + 28 + 96 = 164\text{ g/mol}$."
+    },
+    {
+      "id": "CHEM_2012_08",
+      "text": "A compound contains $40.0\\%$ $\text{C}$, $6.7\\%$ $\text{H}$, and $53.3\\%$ $\text{O}$. Its empirical formula is: [$\text{C}=12, \text{H}=1, \text{O}=16$]",
+      "image": "",
+      "options": ["$\text{CHO}$", "$\text{CH}_2\text{O}$", "$\text{C}_2\text{H}_4\text{O}$", "$\text{C}_2\text{H}_2\text{O}_2$"],
+      "answer": "$\text{CH}_2\text{O}$",
+      "explanation": "C: $40.0/12 \\approx 3.33$. H: $6.7/1 \\approx 6.7$. O: $53.3/16 \\approx 3.33$. Dividing by the smallest (3.33) gives C: 1, H: 2, O: 1. Empirical formula is $\text{CH}_2\text{O}$."
+    },
+    {
+      "id": "CHEM_2012_09",
+      "text": "A chemical reaction is said to be at equilibrium when:",
+      "image": "[Graph of reaction rate vs time at equilibrium]",
+      "options": ["The concentration of reactants and products are equal", "The reaction has stopped", "The forward and reverse reaction rates are equal", "The catalyst is consumed"],
+      "answer": "The forward and reverse reaction rates are equal",
+      "explanation": "Chemical equilibrium is a dynamic state where the rate of the forward reaction equals the rate of the reverse reaction, and concentrations remain constant."
+    },
+    {
+      "id": "CHEM_2012_10",
+      "text": "Which of the following is a neutral oxide?",
+      "image": "",
+      "options": ["$\text{SO}_2$", "$\text{CO}$", "$\text{P}_4\text{O}_{10}$", "$\text{Na}_2\text{O}$"],
+      "answer": "$\text{CO}$",
+      "explanation": "Neutral oxides do not react with either acids or bases. Carbon Monoxide ($\text{CO}$) and Nitric Oxide ($\text{NO}$) are common examples. $\text{SO}_2$ and $\text{P}_4\text{O}_{10}$ are acidic, and $\text{Na}_2\text{O}$ is basic."
+    },
+    {
+      "id": "CHEM_2012_11",
+      "text": "A solution that resists changes in pH when small amounts of acid or base are added is called a:",
+      "image": "[pH titration curve showing buffer region]",
+      "options": ["Saturated solution", "Colloidal solution", "Buffer solution", "Standard solution"],
+      "answer": "Buffer solution",
+      "explanation": "A buffer solution is typically a mixture of a weak acid and its conjugate base (or a weak base and its conjugate acid)."
+    },
+    {
+      "id": "CHEM_2012_12",
+      "text": "The process of preparing a standard solution by adding distilled water to a solution of higher concentration is known as:",
+      "image": "[Volumetric flask used in dilution]",
+      "options": ["Titration", "Concentration", "Neutralization", "Dilution"],
+      "answer": "Dilution",
+      "explanation": "Dilution is the process of reducing the concentration of a solute in a solution by adding more solvent."
+    },
+    {
+      "id": "CHEM_2012_13",
+      "text": "The $\text{OH}^-$ concentration in a solution with a $\text{pH}$ of 4.0 is:",
+      "image": "",
+      "options": ["$1.0 \times 10^{-4}\text{ mol/dm}^3$", "$1.0 \times 10^{-7}\text{ mol/dm}^3$", "$1.0 \times 10^{-10}\text{ mol/dm}^3$", "$1.0 \times 10^{-14}\text{ mol/dm}^3$"],
+      "answer": "$1.0 \times 10^{-10}\text{ mol/dm}^3$",
+      "explanation": "$\text{pH} = 4$, so $[\text{H}^+] = 10^{-4}\text{ mol/dm}^3$. $K_w = [\text{H}^+][\text{OH}^-] = 1.0 \times 10^{-14}$. $[\text{OH}^-] = 10^{-14} / 10^{-4} = 1.0 \times 10^{-10}\text{ mol/dm}^3$."
+    },
+    {
+      "id": "CHEM_2012_14",
+      "text": "A reaction in which reduction and oxidation occur simultaneously is called:",
+      "image": "[Half-reactions in a redox process]",
+      "options": ["Hydrolysis", "Polymerization", "Redox reaction", "Neutralization"],
+      "answer": "Redox reaction",
+      "explanation": "Redox is a portmanteau for Reduction-Oxidation. Reduction is gain of electrons/decrease in oxidation state, and oxidation is loss of electrons/increase in oxidation state."
+    },
+    {
+      "id": "CHEM_2012_15",
+      "text": "In the reaction $\text{Zn} + 2\text{HCl} \rightarrow \text{ZnCl}_2 + \text{H}_2$, the reducing agent is:",
+      "image": "",
+      "options": ["$\text{Zn}$", "$\text{HCl}$", "$\text{H}_2$", "$\text{ZnCl}_2$"],
+      "answer": "$\text{Zn}$",
+      "explanation": "$\text{Zn}$ is oxidized (oxidation state changes from 0 to +2). The reducing agent is the species that is oxidized."
+    },
+    {
+      "id": "CHEM_2012_16",
+      "text": "Which of the following processes is exothermic?",
+      "image": "[Energy profile diagram for exothermic reaction]",
+      "options": ["Melting of ice", "Boiling of water", "Combustion of charcoal", "Sublimation of iodine"],
+      "answer": "Combustion of charcoal",
+      "explanation": "Combustion is a burning process that releases heat energy to the surroundings ($\\Delta H$ is negative), hence it is exothermic."
+    },
+    {
+      "id": "CHEM_2012_17",
+      "text": "Increasing the pressure in a reaction involving only gases will shift the equilibrium towards:",
+      "image": "[Le Chatelier's Principle for pressure change]",
+      "options": ["The side with fewer moles of gas", "The side with more moles of gas", "The products only", "The reactants only"],
+      "answer": "The side with fewer moles of gas",
+      "explanation": "According to Le Chatelier's Principle, increasing pressure favors the reaction that reduces the total volume of gas, which is the side with fewer gaseous moles."
+    },
+    {
+      "id": "CHEM_2012_18",
+      "text": "Which substance is used to dry ammonia gas?",
+      "image": "",
+      "options": ["Concentrated $\text{H}_2\text{SO}_4$", "Anhydrous $\text{CaCl}_2$", "Quicklime ($\text{CaO}$)", "$\text{P}_4\text{O}_{10}$"],
+      "answer": "Quicklime ($\text{CaO}$)",
+      "explanation": "Ammonia is a basic gas, so it must be dried by a basic drying agent like quicklime ($\text{CaO}$) or Soda-lime. Acidic or neutral drying agents (like $\text{H}_2\text{SO}_4$ or $\text{CaCl}_2$) would react with it."
+    },
+    {
+      "id": "CHEM_2012_19",
+      "text": "The purest form of iron is:",
+      "image": "",
+      "options": ["Pig iron", "Cast iron", "Wrought iron", "Steel"],
+      "answer": "Wrought iron",
+      "explanation": "Wrought iron has the lowest carbon content (usually less than 0.1%) and is considered the purest form of commercial iron."
+    },
+    {
+      "id": "CHEM_2012_20",
+      "text": "Which of the following is an allotrope of Sulphur?",
+      "image": "[Structures of monoclinic and rhombic sulphur]",
+      "options": ["Amorphous sulphur", "Sulphuric acid", "Sulphur(IV) oxide", "Hydrogen sulphide"],
+      "answer": "Amorphous sulphur",
+      "explanation": "Sulphur exists in several allotropic forms, including Rhombic (alpha), Monoclinic (beta), and Amorphous (plastic) sulphur. The others are compounds."
+    },
+    {
+      "id": "CHEM_2012_21",
+      "text": "The contact process is used for the commercial production of:",
+      "image": "[Diagram of the Contact Process plant]",
+      "options": ["Nitric acid", "Hydrochloric acid", "Sulphuric acid", "Ammonia"],
+      "answer": "Sulphuric acid",
+      "explanation": "The Contact process involves the catalytic oxidation of $\text{SO}_2$ to $\text{SO}_3$ (using $\text{V}_2\text{O}_5$) and subsequent conversion to $\text{H}_2\text{SO}_4$."
+    },
+    {
+      "id": "CHEM_2012_22",
+      "text": "Which of the following halogens is the strongest oxidizing agent?",
+      "image": "[Periodic trend of electronegativity in halogens]",
+      "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "answer": "Fluorine",
+      "explanation": "Oxidizing strength decreases down Group 17 (Halogens). Fluorine has the highest electronegativity and is the strongest oxidizing agent."
+    },
+    {
+      "id": "CHEM_2012_23",
+      "text": "The general formula for an alkyne is:",
+      "image": "",
+      "options": ["$\text{C}_n\text{H}_{2n+2}$", "$\text{C}_n\text{H}_{2n}$", "$\text{C}_n\text{H}_{2n-2}$", "$\text{C}_n\text{H}_{2n-6}$"],
+      "answer": "$\text{C}_n\text{H}_{2n-2}$",
+      "explanation": "Alkanes are $\text{C}_n\text{H}_{2n+2}$, Alkenes are $\text{C}_n\text{H}_{2n}$, and Alkynes (containing one triple bond) are $\text{C}_n\text{H}_{2n-2}$."
+    },
+    {
+      "id": "CHEM_2012_24",
+      "text": "The compound $\text{CH}_3-\text{CH}_2-\text{CH}_2-\text{OH}$ is an example of a:",
+      "image": "",
+      "options": ["Primary alcohol", "Secondary alcohol", "Tertiary alcohol", "Phenol"],
+      "answer": "Primary alcohol",
+      "explanation": "In a primary alcohol, the carbon atom bonded to the $-\text{OH}$ group is attached to only one other carbon atom."
+    },
+    {
+      "id": "CHEM_2012_25",
+      "text": "The reaction between ethene and hydrogen in the presence of a catalyst like Nickel is called:",
+      "image": "[Diagram of catalytic hydrogenation]",
+      "options": ["Substitution", "Cracking", "Hydrogenation (Addition)", "Esterification"],
+      "answer": "Hydrogenation (Addition)",
+      "explanation": "Hydrogenation is the addition of hydrogen across a multiple bond (like the double bond in ethene) to form a single bond, producing ethane."
+    },
+    {
+      "id": "CHEM_2012_26",
+      "text": "Which of the following compounds will decolorize acidified potassium tetraoxomanganate(VII) ($\text{KMnO}_4$) solution?",
+      "image": "",
+      "options": ["Butane", "Ethene", "Ethanol", "Propanone"],
+      "answer": "Ethene",
+      "explanation": "The $\text{KMnO}_4$ test is used for unsaturation (double/triple bonds). Ethene (an alkene) undergoes an oxidation reaction that results in the decolourization of the purple $\text{KMnO}_4$ solution."
+    },
+    {
+      "id": "CHEM_2012_27",
+      "text": "The process of converting vegetable oils to solid fats (margarine) is known as:",
+      "image": "",
+      "options": ["Saponification", "Cracking", "Hydrolysis", "Hydrogenation"],
+      "answer": "Hydrogenation",
+      "explanation": "Vegetable oils (unsaturated fats) are converted to solid fats (saturated) by reacting them with hydrogen in the presence of a nickel catalyst."
+    },
+    {
+      "id": "CHEM_2012_28",
+      "text": "The functional group characteristic of carboxylic acids is:",
+      "image": "[Structure of the carboxyl group]",
+      "options": ["$-\text{OH}$", "$-\text{CHO}$", "$-\text{COOH}$", "$-\text{COO}$"],
+      "answer": "$-\text{COOH}$",
+      "explanation": "The carboxyl group ($-\text{COOH}$) defines carboxylic acids. $-\text{OH}$ is alcohol/hydroxyl, $-\text{CHO}$ is aldehyde/formyl."
+    },
+    {
+      "id": "CHEM_2012_29",
+      "text": "Which of the following gases is a major component of air that supports combustion?",
+      "image": "",
+      "options": ["Nitrogen", "Oxygen", "Carbon(IV) oxide", "Argon"],
+      "answer": "Oxygen",
+      "explanation": "Oxygen is necessary for combustion. It makes up about 21% of the atmosphere. Nitrogen (78%) is largely inert."
+    },
+    {
+      "id": "CHEM_2012_30",
+      "text": "Ozone layer depletion is caused by:",
+      "image": "[Diagram of $\text{CFC}$ reacting with ozone]",
+      "options": ["Sulphur dioxide", "Carbon monoxide", "Chlorofluorocarbons ($\text{CFCs}$)", "Nitrogen"],
+      "answer": "Chlorofluorocarbons ($\text{CFCs}$)",
+      "explanation": "$\text{CFCs}$ release chlorine atoms in the upper atmosphere, which catalytically destroy ozone molecules ($\text{O}_3$)."
+    },
+    {
+      "id": "CHEM_2012_31",
+      "text": "Crystallization is a purification technique that separates a substance based on its different:",
+      "image": "",
+      "options": ["Boiling points", "Densities", "Solubilities in a solvent", "Melting points"],
+      "answer": "Solubilities in a solvent",
+      "explanation": "Crystallization relies on the difference in solubility of the substance and its impurities, usually at varying temperatures."
+    },
+    {
+      "id": "CHEM_2012_32",
+      "text": "Elements in the same period of the periodic table have the same number of:",
+      "image": "[Section of the periodic table showing periods]",
+      "options": ["Valence electrons", "Protons", "Neutrons", "Electron shells"],
+      "answer": "Electron shells",
+      "explanation": "The period number corresponds to the principal quantum number (or the number of electron shells) in the atoms of the elements."
+    },
+    {
+      "id": "CHEM_2012_33",
+      "text": "In the extraction of iron, the main reducing agent in the blast furnace is:",
+      "image": "[Diagram of a blast furnace]",
+      "options": ["Limestone", "Coke (Carbon)", "Carbon(IV) oxide", "Carbon(II) oxide"],
+      "answer": "Carbon(II) oxide",
+      "explanation": "Carbon ($\text{C}$) reacts with air to form $\text{CO}$, which then reduces the iron ore ($\text{Fe}_2\text{O}_3$ to $\text{Fe}$) in the upper, cooler zones of the furnace: $\text{Fe}_2\text{O}_3 + 3\text{CO} \rightarrow 2\text{Fe} + 3\text{CO}_2$."
+    },
+    {
+      "id": "CHEM_2012_34",
+      "text": "The $\text{pH}$ of rain water is slightly acidic due to the presence of:",
+      "image": "",
+      "options": ["$\text{N}_2$", "$\text{O}_2$", "Dissolved $\text{CO}_2$", "Dust particles"],
+      "answer": "Dissolved $\text{CO}_2$",
+      "explanation": "Natural rain water dissolves atmospheric $\text{CO}_2$ to form weak carbonic acid ($\text{H}_2\text{CO}_3$), giving it a $\text{pH}$ of about 5.6."
+    },
+    {
+      "id": "CHEM_2012_35",
+      "text": "When ethanol is heated with excess concentrated $\text{H}_2\text{SO}_4$ at about $170^\\circ\text{C}$, the major product formed is:",
+      "image": "",
+      "options": ["Ethane", "Ethene", "Ethyne", "Diethyl ether"],
+      "answer": "Ethene",
+      "explanation": "Concentrated $\text{H}_2\text{SO}_4$ acts as a dehydrating agent. At high temperatures ($170^\\circ\text{C}$), it causes intermolecular dehydration of ethanol to form ethene: $\text{CH}_3\text{CH}_2\text{OH} \\xrightarrow{\text{Conc. H}_2\text{SO}_4} \text{CH}_2=\text{CH}_2 + \text{H}_2\text{O}$."
+    },
+    {
+      "id": "CHEM_2012_36",
+      "text": "The hydrocarbon used as the primary standard for calculating the octane number of fuels is:",
+      "image": "",
+      "options": ["Heptane", "Octane", "Iso-octane (2,2,4-trimethylpentane)", "Propane"],
+      "answer": "Iso-octane (2,2,4-trimethylpentane)",
+      "explanation": "Iso-octane is assigned an octane number of 100 as it has a very high resistance to autoignition (knocking)."
+    },
+    {
+      "id": "CHEM_2012_37",
+      "text": "The property that enables liquid solvents to dissolve solids is known as:",
+      "image": "",
+      "options": ["Adhesion", "Cohesion", "Surface tension", "Solvation (Hydration)"],
+      "answer": "Solvation (Hydration)",
+      "explanation": "Solvation is the process where solvent molecules surround and interact with solute particles (ions or molecules), pulling them into solution."
+    },
+    {
+      "id": "CHEM_2012_38",
+      "text": "Which of the following compounds is an ester?",
+      "image": "",
+      "options": ["$\text{CH}_3\text{COOH}$", "$\text{CH}_3\text{CHO}$", "$\text{CH}_3\text{COOCH}_3$", "$\text{CH}_3\text{COCH}_3$"],
+      "answer": "$\text{CH}_3\text{COOCH}_3$",
+      "explanation": "Esters have the functional group $-\text{COO}-$ in their chain. $\text{CH}_3\text{COOCH}_3$ is Methyl ethanoate."
+    },
+    {
+      "id": "CHEM_2012_39",
+      "text": "If $50\text{ cm}^3$ of $0.1\text{ M}$ $\text{HCl}$ neutralizes $25\text{ cm}^3$ of $\text{NaOH}$ solution, the concentration of the $\text{NaOH}$ solution is:",
+      "image": "[Setup for an acid-base titration]",
+      "options": ["$0.05\text{ M}$", "$0.1\text{ M}$", "$0.2\text{ M}$", "$0.4\text{ M}$"],
+      "answer": "$0.2\text{ M}$",
+      "explanation": "For a 1:1 reaction ($\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$), $C_aV_a = C_bV_b$. $(0.1 \text{ M}) \times (50 \text{ cm}^3) = C_b \times (25 \text{ cm}^3)$. $C_b = (0.1 \times 50) / 25 = 5 / 25 = 0.2\text{ M}$."
+    },
+    {
+      "id": "CHEM_2012_40",
+      "text": "The gas produced when $\text{Cu}$ reacts with concentrated $\text{HNO}_3$ is:",
+      "image": "",
+      "options": ["$\text{NO}$", "$\text{N}_2\text{O}$", "$\text{NO}_2$", "$\text{H}_2$"],
+      "answer": "$\text{NO}_2$",
+      "explanation": "Concentrated nitric acid is a strong oxidizing agent. When it reacts with a less reactive metal like copper, the primary reduction product is nitrogen(IV) oxide ($\text{NO}_2$): $\text{Cu} + 4\text{HNO}_3 \rightarrow \text{Cu}(\text{NO}_3)_2 + 2\text{NO}_2 + 2\text{H}_2\text{O}$."
+    }
+]

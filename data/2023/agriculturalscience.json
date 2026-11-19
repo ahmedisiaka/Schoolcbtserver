@@ -1,0 +1,322 @@
+[
+    {
+      "id": "AGR_2023_01",
+      "text": "Which of the following farming systems is primarily associated with the long-term restoration of soil fertility through natural vegetation regrowth?",
+      "image": "",
+      "options": ["Mixed Farming", "Plantation Agriculture", "Shifting Cultivation", "Pastoral Farming"],
+      "answer": "Shifting Cultivation",
+      "explanation": "Shifting cultivation involves clearing a plot of land, cultivating it for a few years, and then abandoning it for a long fallow period to allow natural vegetation to restore soil fertility."
+    },
+    {
+      "id": "AGR_2023_02",
+      "text": "The main component of the soil responsible for high water-holding capacity and cation exchange capacity (CEC) is:",
+      "image": "",
+      "options": ["Sand particles", "Silt particles", "Clay and Humus", "Gravel"],
+      "answer": "Clay and Humus",
+      "explanation": "Clay particles and humus (organic matter) are colloidal in nature and possess large surface areas and negative charges, giving them high water-holding capacity and CEC."
+    },
+    {
+      "id": "AGR_2023_03",
+      "text": "Which of these is a major function of the Agricultural Development Programmes (ADPs) in Nigeria?",
+      "image": "",
+      "options": ["Direct marketing of farm produce", "Provision of social amenities like schools", "Dissemination of agricultural innovations to farmers", "Setting official prices for cash crops"],
+      "answer": "Dissemination of agricultural innovations to farmers",
+      "explanation": "ADPs were established primarily to implement the Training and Visit (T&V) extension system, focusing on transferring new farming technologies and knowledge to rural farmers."
+    },
+    {
+      "id": "AGR_2023_04",
+      "text": "A disease characterized by 'rosette' symptoms (stunted growth and chlorotic/mottled leaves) in groundnut is caused by a:",
+      "image": "",
+      "options": ["Fungus", "Bacterium", "Virus", "Nematode"],
+      "answer": "Virus",
+      "explanation": "Groundnut rosette disease (GRD) is a viral disease transmitted by the groundnut aphid (*Aphis craccivora*)."
+    },
+    {
+      "id": "AGR_2023_05",
+      "text": "In poultry production, the section of the oviduct where the egg shell is formed is the:",
+      "image": "",
+      "options": ["Infundibulum", "Magnum", "Isthmus", "Uterus (Shell Gland)"],
+      "answer": "Uterus (Shell Gland)",
+      "explanation": "The Uterus, also known as the shell gland, is where the shell and shell pigments are added to the egg."
+    },
+    {
+      "id": "AGR_2023_06",
+      "text": "Which of the following farm animals is monogastric?",
+      "image": "",
+      "options": ["Goat", "Cattle", "Sheep", "Pig"],
+      "answer": "Pig",
+      "explanation": "Pigs (swine) have a simple, single-chambered stomach, classifying them as monogastric, unlike cattle, goats, and sheep, which are ruminants."
+    },
+    {
+      "id": "AGR_2023_07",
+      "text": "A farmer harvested 200 bags of maize in a season. If the initial cost of production was $\\text{\\textcurrency} 500,000$ and the selling price per bag is $\\text{\\textcurrency} 3,000$, what is the profit?",
+      "image": "",
+      "options": ["$\\text{\\textcurrency} 100,000$", "$\\text{\\textcurrency} 300,000$", "$\\text{\\textcurrency} 500,000$", "$\\text{\\textcurrency} 600,000$"],
+      "answer": "$\\text{\\textcurrency} 100,000$",
+      "explanation": "Total Revenue = $200 \\times \\text{\\textcurrency} 3,000 = \\text{\\textcurrency} 600,000$. Profit = Total Revenue - Cost of Production = $\\text{\\textcurrency} 600,000 - \\text{\\textcurrency} 500,000 = \\text{\\textcurrency} 100,000$."
+    },
+    {
+      "id": "AGR_2023_08",
+      "text": "The cultivation of crops and the rearing of livestock simultaneously on the same piece of land is known as:",
+      "image": "",
+      "options": ["Monoculture", "Mixed Cropping", "Mixed Farming", "Taungya System"],
+      "answer": "Mixed Farming",
+      "explanation": "Mixed farming is the practice of combining both crop production and animal husbandry on the same farm."
+    },
+    {
+      "id": "AGR_2023_09",
+      "text": "The term used for the loss of soil mineral nutrients due to the downward movement of water beyond the root zone is:",
+      "image": "[Image illustrating soil leaching]",
+      "options": ["Erosion", "Leaching", "Capillarity", "Denitrification"],
+      "answer": "Leaching",
+      "explanation": "Leaching is the process by which soluble materials (like nutrients) are washed downwards through the soil profile by water."
+    },
+    {
+      "id": "AGR_2023_10",
+      "text": "Which of these is a major disadvantage of using the communal land tenure system in agriculture?",
+      "image": "",
+      "options": ["It encourages large-scale farming", "It makes land acquisition cheap", "It hinders the use of land as collateral for loans", "It promotes soil conservation practices"],
+      "answer": "It hinders the use of land as collateral for loans",
+      "explanation": "Under communal tenure, the land is owned by the community, not the individual, making it difficult for individual farmers to use the land title to secure bank loans."
+    },
+    {
+      "id": "AGR_2023_11",
+      "text": "The practice of growing different types of crops on the same piece of land in a definite sequence is known as:",
+      "image": "",
+      "options": ["Sole cropping", "Continuous cropping", "Crop rotation", "Fallow system"],
+      "answer": "Crop rotation",
+      "explanation": "Crop rotation involves changing the type of crops grown in the same area across successive seasons."
+    },
+    {
+      "id": "AGR_2023_12",
+      "text": "The causative organism for Newcastle disease in poultry is a:",
+      "image": "",
+      "options": ["Bacterium", "Fungus", "Virus", "Protozoan"],
+      "answer": "Virus",
+      "explanation": "Newcastle disease (NCD) is a highly contagious viral disease affecting many species of birds, including domestic poultry."
+    },
+    {
+      "id": "AGR_2023_13",
+      "text": "Which piece of farm equipment is used primarily for secondary tillage to break up soil clods and level the soil surface?",
+      "image": "",
+      "options": ["Plough", "Ridger", "Harrow", "Planter"],
+      "answer": "Harrow",
+      "explanation": "Harrows are used after ploughing (primary tillage) to prepare the seedbed by pulverizing the soil, breaking clods, and leveling the surface."
+    },
+    {
+      "id": "AGR_2023_14",
+      "text": "A symptom of nitrogen deficiency in a maize plant is typically observed as:",
+      "image": "",
+      "options": ["Purple coloration of the stem", "Yellowing (chlorosis) starting from the tips and midribs of older leaves", "Stunted root growth only", "Thickening and curling of young leaves"],
+      "answer": "Yellowing (chlorosis) starting from the tips and midribs of older leaves",
+      "explanation": "Nitrogen is a mobile nutrient, so deficiency symptoms first appear in older leaves. Chlorosis typically starts at the tip and proceeds down the midrib."
+    },
+    {
+      "id": "AGR_2023_15",
+      "text": "The main component of farm records that shows the value of farm assets and liabilities at a specific point in time is the:",
+      "image": "",
+      "options": ["Inventory Record", "Journal", "Balance Sheet", "Profit and Loss Account"],
+      "answer": "Balance Sheet",
+      "explanation": "The Balance Sheet provides a snapshot of the farm's financial position, detailing its assets (what it owns) and liabilities (what it owes)."
+    },
+    {
+      "id": "AGR_2023_16",
+      "text": "The process of removing the reproductive organs of a male farm animal is called:",
+      "image": "",
+      "options": ["Docking", "Castration", "Culling", "Dehorning"],
+      "answer": "Castration",
+      "explanation": "Castration is the removal of the testes to prevent reproduction and often to improve meat quality and manageability."
+    },
+    {
+      "id": "AGR_2023_17",
+      "text": "In crop propagation, the fusion of two separate plant parts (scion and stock) to grow as one plant is called:",
+      "image": "[Image illustrating plant grafting]",
+      "options": ["Budding", "Layering", "Grafting", "Marotting"],
+      "answer": "Grafting",
+      "explanation": "Grafting is a technique where the vascular tissues of the scion (a detached shoot) and the stock (the root-bearing part) are joined to grow as a single plant."
+    },
+    {
+      "id": "AGR_2023_18",
+      "text": "If a fertilizer bag is labeled $\\text{15-10-20}$, the percentage by weight of $\\text{K}_2\\text{O}$ (Potash) in the mixture is:",
+      "image": "",
+      "options": ["10%", "15%", "20%", "35%"],
+      "answer": "20%",
+      "explanation": "The numbers on a fertilizer bag represent the percentage by weight of $\\text{N}$ (Nitrogen), $\\text{P}_2\\text{O}_5$ (Phosphate), and $\\text{K}_2\\text{O}$ (Potash), in that order. The third number, 20, is the percentage of $\\text{K}_2\\text{O}$."
+    },
+    {
+      "id": "AGR_2023_19",
+      "text": "Which of the following is a key advantage of adopting the 'Taungya' system of farming?",
+      "image": "",
+      "options": ["It eliminates the need for fallow period", "It encourages monoculture of timber species", "It aids in the establishment of tree crops (forestry) while providing food crops", "It relies entirely on mechanization"],
+      "answer": "It aids in the establishment of tree crops (forestry) while providing food crops",
+      "explanation": "The Taungya system combines food crop cultivation with forest tree planting, allowing farmers to cultivate short-term crops while tending to the newly planted tree seedlings."
+    },
+    {
+      "id": "AGR_2023_20",
+      "text": "The term used for the feeding of newborn animals with their mother's first milk (colostrum) is:",
+      "image": "",
+      "options": ["Creep feeding", "Weaning", "Suckling", "Drenching"],
+      "answer": "Suckling",
+      "explanation": "Suckling is the act of a young animal feeding from its mother's teats, which, when first born, provides it with colostrum, rich in antibodies."
+    },
+    {
+      "id": "AGR_2023_21",
+      "text": "The primary cause of 'Black Pod' disease in cocoa is the fungus:",
+      "image": "",
+      "options": ["*Fusarium* spp.", "*Phytophthora palmivora*", "*Ustilago maydis*", "*Xanthomonas* spp."],
+      "answer": "*Phytophthora palmivora*",
+      "explanation": "*Phytophthora palmivora* is the causal agent of Black Pod, a devastating fungal disease of cocoa in West Africa."
+    },
+    {
+      "id": "AGR_2023_22",
+      "text": "A factor that does NOT influence the choice of a farm site is the:",
+      "image": "",
+      "options": ["Nature of the soil", "Proximity to market", "Type of currency used in the area", "Availability of water"],
+      "answer": "Type of currency used in the area",
+      "explanation": "The type of local currency is an economic factor related to macroeconomics, not a physical or logistical factor influencing the choice of a specific farm location."
+    },
+    {
+      "id": "AGR_2023_23",
+      "text": "The $\\text{pH}$ of a soil determines its:",
+      "image": "",
+      "options": ["Texture", "Water retention capacity", "Level of acidity or alkalinity", "Organic matter content"],
+      "answer": "Level of acidity or alkalinity",
+      "explanation": "Soil $\\text{pH}$ is a measure of the concentration of hydrogen ions, which determines whether the soil is acidic (low $\\text{pH}$) or alkaline (high $\\text{pH}$). This also affects nutrient availability."
+    },
+    {
+      "id": "AGR_2023_24",
+      "text": "Which of these crops is primarily propagated vegetatively by means of suckers?",
+      "image": "",
+      "options": ["Maize", "Groundnut", "Banana", "Cowpea"],
+      "answer": "Banana",
+      "explanation": "Banana and plantain are typically propagated using suckers (shoots that arise from the base of the plant)."
+    },
+    {
+      "id": "AGR_2023_25",
+      "text": "The control of the tsetse fly, the vector of trypanosomiasis, is an example of which type of disease control?",
+      "image": "",
+      "options": ["Therapeutic control", "Cultural control", "Chemical control (Vector Control)", "Biological control (Pest Control)"],
+      "answer": "Chemical control (Vector Control)",
+      "explanation": "Controlling the vector (tsetse fly) using chemicals like insecticides or traps is a form of vector control, which is often grouped under chemical control measures in the field."
+    },
+    {
+      "id": "AGR_2023_26",
+      "text": "The principle of diminishing returns in agriculture states that as successive units of an input are added to a fixed amount of other inputs, the marginal product will eventually:",
+      "image": "",
+      "options": ["Increase indefinitely", "Remain constant", "Decrease", "Become zero initially"],
+      "answer": "Decrease",
+      "explanation": "The Law of Diminishing Returns states that beyond a certain point, adding more of a variable input (like fertilizer) to a fixed input (like land) will result in smaller and smaller increases in output (marginal product)."
+    },
+    {
+      "id": "AGR_2023_27",
+      "text": "Which tool is specifically designed for the harvesting of rice and other small grains?",
+      "image": "",
+      "options": ["Plough", "Tractor", "Combine harvester", "Mouldboard"],
+      "answer": "Combine harvester",
+      "explanation": "The combine harvester is a machine that harvests, threshes, and winnows grain crops in a single operation."
+    },
+    {
+      "id": "AGR_2023_28",
+      "text": "The main economic function of co-operative societies in agriculture is to:",
+      "image": "",
+      "options": ["Provide legal advice to farmers", "Offer extension services for free", "Pool resources for bulk purchase of inputs and collective marketing of produce", "Organize political rallies for farmers"],
+      "answer": "Pool resources for bulk purchase of inputs and collective marketing of produce",
+      "explanation": "Co-operatives leverage the collective power of members for better pricing on inputs (lower cost) and better prices for outputs (higher revenue)."
+    },
+    {
+      "id": "AGR_2023_29",
+      "text": "A cow that has given birth is referred to as a:",
+      "image": "",
+      "options": ["Heifer", "Bull", "Steer", "Dam"],
+      "answer": "Dam",
+      "explanation": "A dam is the term for the female parent of an animal, especially a cow that has given birth."
+    },
+    {
+      "id": "AGR_2023_30",
+      "text": "The $\\text{A-horizon}$ layer of the soil profile is characterized by the highest concentration of:",
+      "image": "",
+      "options": ["Regolith", "Parent material", "Organic matter (Humus)", "Leached minerals"],
+      "answer": "Organic matter (Humus)",
+      "explanation": "The $\\text{A-horizon}$ (topsoil) is the darkest layer and is rich in organic matter due to the decomposition of plant and animal residues."
+    },
+    {
+      "id": "AGR_2023_31",
+      "text": "Which of the following is a non-pathogenic method of controlling weeds?",
+      "image": "",
+      "options": ["Application of fungicide", "Use of a scythe", "Spraying of nematicide", "Biological control using a pest"],
+      "answer": "Use of a scythe",
+      "explanation": "Using a scythe (mowing/slashing) is a physical or mechanical control method. Fungicides are for fungi, nematicides are for nematodes, and biological control uses organisms (often pests or pathogens) to manage weeds/pests."
+    },
+    {
+      "id": "AGR_2023_32",
+      "text": "The West African Dwarf (WAD) goat is highly valued in the humid tropics primarily because of its:",
+      "image": "",
+      "options": ["High milk yield", "High growth rate", "Tolerance to Trypanosomiasis (Tsetse fly)", "Large size for meat production"],
+      "answer": "Tolerance to Trypanosomiasis (Tsetse fly)",
+      "explanation": "The WAD goat is known for its trypanotolerance, meaning it can survive and produce even in areas infested with the tsetse fly."
+    },
+    {
+      "id": "AGR_2023_33",
+      "text": "Which method of irrigation is most suitable for an area where water conservation is a critical concern, as it minimizes water loss to evaporation?",
+      "image": "",
+      "options": ["Flood irrigation", "Sprinkler irrigation", "Drip irrigation", "Furrow irrigation"],
+      "answer": "Drip irrigation",
+      "explanation": "Drip irrigation delivers water directly to the base of the plant, significantly reducing water loss through evaporation and runoff."
+    },
+    {
+      "id": "AGR_2023_34",
+      "text": "The main source of protein in the diet of farm animals is:",
+      "image": "",
+      "options": ["Maize grain", "Groundnut cake", "Cassava peel", "Bone meal"],
+      "answer": "Groundnut cake",
+      "explanation": "Groundnut cake (and soybean meal) are oilseed residues that are extremely high in protein (25-50%) and are primary sources of protein for livestock feed."
+    },
+    {
+      "id": "AGR_2023_35",
+      "text": "The primary role of the government agency, the National Agricultural Seed Council (NASC), is to:",
+      "image": "",
+      "options": ["Subsidize the price of chemical fertilizers", "Control the production and quality of planting seeds", "Provide insurance against crop failure", "Conduct agricultural extension services"],
+      "answer": "Control the production and quality of planting seeds",
+      "explanation": "NASC is the regulatory body responsible for ensuring that farmers have access to high-quality, certified seeds and seedlings."
+    },
+    {
+      "id": "AGR_2023_36",
+      "text": "The removal of unwanted diseased or unproductive plants from a crop field is known as:",
+      "image": "",
+      "options": ["Thinning", "Weeding", "Roughing (or Roguing)", "Pruning"],
+      "answer": "Roughing (or Roguing)",
+      "explanation": "Roughing is the act of identifying and removing individual plants that are diseased, off-type, or unproductive to maintain the health and purity of the crop."
+    },
+    {
+      "id": "AGR_2023_37",
+      "text": "Which part of a seed is responsible for food storage in a dicotyledonous plant like cowpea?",
+      "image": "",
+      "options": ["Radicle", "Plumule", "Cotyledon", "Testa"],
+      "answer": "Cotyledon",
+      "explanation": "In dicots like cowpea, the large cotyledons store the food reserves used by the embryo during germination."
+    },
+    {
+      "id": "AGR_2023_38",
+      "text": "The agricultural practice that involves the use of minimal or no tillage to conserve soil moisture and structure is:",
+      "image": "",
+      "options": ["Shifting cultivation", "Continuous cropping", "Conservation tillage (Zero Tillage)", "Intercropping"],
+      "answer": "Conservation tillage (Zero Tillage)",
+      "explanation": "Conservation tillage systems, including zero/no-tillage, minimize soil disturbance to reduce erosion, conserve soil moisture, and improve soil structure."
+    },
+    {
+      "id": "AGR_2023_39",
+      "text": "The major constraint to large-scale rice cultivation in the Niger Delta area is often:",
+      "image": "",
+      "options": ["Lack of sunshine", "High incidence of Tsetse fly", "Soil salinity and flooding", "Lack of labor"],
+      "answer": "Soil salinity and flooding",
+      "explanation": "The Niger Delta is prone to heavy rainfall and tidal influence, leading to perennial flooding, waterlogging, and high soil salinity, which challenges most crop growth, including rice."
+    },
+    {
+      "id": "AGR_2023_40",
+      "text": "A key role of agricultural economics is to help farmers make decisions regarding the optimal use of:",
+      "image": "",
+      "options": ["Social media platforms", "Limited resources", "Political influence", "Cultural festivals"],
+      "answer": "Limited resources",
+      "explanation": "Agricultural economics focuses on the efficient allocation and management of scarce resources (land, labor, capital) in agricultural production to maximize profit."
+    }
+  ]

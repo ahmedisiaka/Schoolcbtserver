@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_201",
+      "text": "The party who sends goods to an agent for sale on a commission basis is known as the:",
+      "image": "ACCO_2023_201.png",
+      "options": [
+        "Consignee",
+        "Consignor",
+        "Debtor",
+        "Broker"
+      ],
+      "answer": "Consignor",
+      "explanation": "In a consignment arrangement, the Consignor is the owner who sends the goods, and the Consignee is the agent who sells them for a commission."
+    },
+    {
+      "id": "ACCO_2023_202",
+      "text": "The main feature of a Joint Venture is its:",
+      "image": "ACCO_2023_202.png",
+      "options": [
+        "Permanent nature",
+        "Limited life span (temporary)",
+        "Unlimited liability",
+        "Legal separation from partners"
+      ],
+      "answer": "Limited life span (temporary)",
+      "explanation": "A Joint Venture is a temporary partnership formed for a specific purpose or project, dissolving once the purpose is achieved."
+    },
+    {
+      "id": "ACCO_2023_203",
+      "text": "The system of bookkeeping that records only cash transactions and personal accounts is the:",
+      "image": "ACCO_2023_203.png",
+      "options": [
+        "Double Entry System",
+        "Accrual System",
+        "Single Entry System",
+        "Cash Basis System"
+      ],
+      "answer": "Single Entry System",
+      "explanation": "The Single Entry System is incomplete, as it omits recording nominal accounts (revenue and expenses) and often real accounts (assets) fully."
+    },
+    {
+      "id": "ACCO_2023_204",
+      "text": "A reduction in the share capital of a company requires the approval of the:",
+      "image": "ACCO_2023_204.png",
+      "options": [
+        "Registrar of Companies only",
+        "Board of Directors only",
+        "Court and Special Resolution of Shareholders",
+        "Stock Exchange"
+      ],
+      "answer": "Court and Special Resolution of Shareholders",
+      "explanation": "Reduction of capital is a fundamental step that must be protected, usually requiring approval from both the shareholders (by special resolution) and the court."
+    },
+    {
+      "id": "ACCO_2023_205",
+      "text": "The primary aim of cost accounting is to determine the:",
+      "image": "ACCO_2023_205.png",
+      "options": [
+        "Net profit available for dividends",
+        "Cost per unit of product or service",
+        "Liquidity position of the company",
+        "Market price of the shares"
+      ],
+      "answer": "Cost per unit of product or service",
+      "explanation": "Cost accounting focuses on recording, classifying, and allocating costs to determine the total cost and unit cost of production for control and pricing decisions."
+    },
+    {
+      "id": "ACCO_2023_206",
+      "text": "When the debit side of the Trial Balance exceeds the credit side, the difference is temporarily placed on the:",
+      "image": "ACCO_2023_206.png",
+      "options": [
+        "Debit side of the Suspense Account",
+        "Credit side of the Suspense Account",
+        "Debit side of the Capital Account",
+        "Credit side of the Profit and Loss Account"
+      ],
+      "answer": "Credit side of the Suspense Account",
+      "explanation": "If Debits $>$ Credits, the missing credit is temporarily supplied by the Suspense Account to balance the Trial Balance."
+    },
+    {
+      "id": "ACCO_2023_207",
+      "text": "The accounting concept that requires every item to be supported by documentary evidence is the:",
+      "image": "ACCO_2023_207.png",
+      "options": [
+        "Consistency concept",
+        "Objectivity principle",
+        "Prudence concept",
+        "Materiality concept"
+      ],
+      "answer": "Objectivity principle",
+      "explanation": "The Objectivity principle requires that accounting records be based on reliable, verifiable evidence (source documents) and not on personal opinions or estimates."
+    },
+    {
+      "id": "ACCO_2023_208",
+      "text": "Which ratio assesses the ability of a company to convert its sales into cash quickly?",
+      "image": "ACCO_2023_208.png",
+      "options": [
+        "Return on Equity",
+        "Debtors Collection Period",
+        "Cash Conversion Cycle",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Cash Conversion Cycle",
+      "explanation": "The Cash Conversion Cycle measures the time required to convert investment in inventory and receivables into cash, indicating liquidity efficiency."
+    },
+    {
+      "id": "ACCO_2023_209",
+      "text": "In a partnership dissolution, the loss on realization is debited to the:",
+      "image": "ACCO_2023_209.png",
+      "options": [
+        "Profit and Loss Account",
+        "Partner's Loan Account",
+        "Partner's Capital Accounts (in the profit sharing ratio)",
+        "Bank Account"
+      ],
+      "answer": "Partner's Capital Accounts (in the profit sharing ratio)",
+      "explanation": "Profit or loss on realization is distributed among all partners in their final profit-sharing ratio before the closure of the capital accounts."
+    },
+    {
+      "id": "ACCO_2023_210",
+      "text": "The formula (Net Profit / Capital Employed) $\\times$ 100 calculates the:",
+      "image": "ACCO_2023_210.png",
+      "options": [
+        "Net Profit Margin",
+        "Return on Capital Employed (ROCE)",
+        "Gross Profit Margin",
+        "Earnings Per Share"
+      ],
+      "answer": "Return on Capital Employed (ROCE)",
+      "explanation": "ROCE is a primary efficiency ratio that measures the return generated from the total long-term funds invested in the business."
+    },
+    {
+      "id": "ACCO_2023_211",
+      "text": "The account of a non-profit organization that is equivalent to the Trading and Profit and Loss Account of a trading firm is the:",
+      "image": "ACCO_2023_211.png",
+      "options": [
+        "Receipts and Payments Account",
+        "Income and Expenditure Account",
+        "Accumulated Fund Account",
+        "Subscription Account"
+      ],
+      "answer": "Income and Expenditure Account",
+      "explanation": "This account records all revenue and capital expenditure on an accrual basis to determine the Surplus or Deficit for the period."
+    },
+    {
+      "id": "ACCO_2023_212",
+      "text": "The total amount of unissued shares that are reserved by a company for future needs is part of the:",
+      "image": "ACCO_2023_212.png",
+      "options": [
+        "Issued Capital",
+        "Reserve Capital",
+        "Called-up Capital",
+        "Paid-up Capital"
+      ],
+      "answer": "Reserve Capital",
+      "explanation": "Reserve Capital refers to the portion of the uncalled share capital that the company resolves not to call up, except in the event and for the purpose of the company being wound up."
+    },
+    {
+      "id": "ACCO_2023_213",
+      "text": "Non-cash items such as depreciation and impairment charges are added back to net profit when preparing the Statement of Cash Flows using the:",
+      "image": "ACCO_2023_213.png",
+      "options": [
+        "Direct method",
+        "Indirect method",
+        "Accrual method",
+        "Cash basis method"
+      ],
+      "answer": "Indirect method",
+      "explanation": "The indirect method starts with net income and adjusts it for non-cash items and changes in working capital to arrive at the net cash flow from operating activities."
+    },
+    {
+      "id": "ACCO_2023_214",
+      "text": "Which type of cost is most relevant for 'make or buy' decisions?",
+      "image": "ACCO_2023_214.png",
+      "options": [
+        "Fixed Cost",
+        "Sunk Cost",
+        "Variable Cost",
+        "Irrelevant Cost"
+      ],
+      "answer": "Variable Cost",
+      "explanation": "Since fixed costs often remain unchanged regardless of the decision, variable costs (the difference between the 'make' variable cost and the 'buy' price) are the most relevant factors."
+    },
+    {
+      "id": "ACCO_2023_215",
+      "text": "The payment made by the Consignee to the Consignor as an advance against future sales is known as:",
+      "image": "ACCO_2023_215.png",
+      "options": [
+        "Commission",
+        "Advance Payment",
+        "Proforma Invoice",
+        "Consignment Deposit"
+      ],
+      "answer": "Advance Payment",
+      "explanation": "This advance is usually deducted from the final amount remitted to the Consignor after sales are made."
+    },
+    {
+      "id": "ACCO_2023_216",
+      "text": "The main objective of preparing a Statement of Affairs in the Single Entry System is to ascertain the:",
+      "image": "ACCO_2023_216.png",
+      "options": [
+        "Sales Revenue",
+        "Cost of Goods Sold",
+        "Capital at a specific date",
+        "Net Profit"
+      ],
+      "answer": "Capital at a specific date",
+      "explanation": "The Statement of Affairs is essentially a balance sheet used to find the opening or closing capital by applying the accounting equation (Assets - Liabilities = Capital)."
+    },
+    {
+      "id": "ACCO_2023_217",
+      "text": "The accounting concept that dictates that the currency of the country should be the common denominator for recording transactions is the:",
+      "image": "ACCO_2023_217.png",
+      "options": [
+        "Business Entity concept",
+        "Periodicity concept",
+        "Money Measurement concept",
+        "Accrual concept"
+      ],
+      "answer": "Money Measurement concept",
+      "explanation": "This concept ensures that only quantifiable transactions are recorded and measured in a standard monetary unit."
+    },
+    {
+      "id": "ACCO_2023_218",
+      "text": "In a joint venture, the joint expenses are debited to the:",
+      "image": "ACCO_2023_218.png",
+      "options": [
+        "Partner's Capital Accounts",
+        "Joint Venture Account",
+        "General Ledger",
+        "Consignment Account"
+      ],
+      "answer": "Joint Venture Account",
+      "explanation": "The Joint Venture Account acts like a Trading and Profit and Loss Account for the project. All costs are debited, and all sales are credited to determine the project's profit or loss."
+    },
+    {
+      "id": "ACCO_2023_219",
+      "text": "The error caused by entering an amount on the wrong side of an account (e.g., N500 debited instead of credited) is an error of:",
+      "image": "ACCO_2023_219.png",
+      "options": [
+        "Omission",
+        "Commission",
+        "Posting to the wrong side",
+        "Principle"
+      ],
+      "answer": "Posting to the wrong side",
+      "explanation": "This error creates a difference equal to twice the amount of the error in the Trial Balance."
+    },
+    {
+      "id": "ACCO_2023_220",
+      "text": "The ratio that measures the ability of a company to pay its long-term debt obligations is the:",
+      "image": "ACCO_2023_220.png",
+      "options": [
+        "Liquidity Ratio",
+        "Solvency Ratio",
+        "Activity Ratio",
+        "Profitability Ratio"
+      ],
+      "answer": "Solvency Ratio",
+      "explanation": "Solvency ratios (like the Debt-to-Equity Ratio or Interest Cover Ratio) measure the financial health of a company over the long term, focusing on its ability to meet long-term liabilities."
+    },
+    {
+      "id": "ACCO_2023_221",
+      "text": "The total amount of cash collected from subscribers on a share issue is initially recorded in the:",
+      "image": "ACCO_2023_221.png",
+      "options": [
+        "Share Capital Account",
+        "Bank Account (Cash Book)",
+        "General Reserve",
+        "Share Application Account"
+      ],
+      "answer": "Bank Account (Cash Book)",
+      "explanation": "The receipt of cash, whether for application, allotment, or calls, is always first recorded on the debit side of the Bank column in the Cash Book."
+    },
+    {
+      "id": "ACCO_2023_222",
+      "text": "In cost accounting, the difference between the actual cost incurred and the standard cost is termed a:",
+      "image": "ACCO_2023_222.png",
+      "options": [
+        "Variance",
+        "Margin",
+        "Differential Cost",
+        "Opportunity Cost"
+      ],
+      "answer": "Variance",
+      "explanation": "Variance analysis compares actual results with budgeted/standard targets to measure performance and identify areas needing corrective action."
+    },
+    {
+      "id": "ACCO_2023_223",
+      "text": "The method of valuing closing stock where the most recent purchases are matched against the most recent sales is:",
+      "image": "ACCO_2023_223.png",
+      "options": [
+        "FIFO",
+        "LIFO (Last-in, First-out)",
+        "Weighted Average",
+        "Specific Identification"
+      ],
+      "answer": "LIFO (Last-in, First-out)",
+      "explanation": "LIFO assumes that the last units acquired are the first ones sold, meaning the cost of closing stock reflects the oldest inventory prices (Note: LIFO is generally not permitted under IFRS)."
+    },
+    {
+      "id": "ACCO_2023_224",
+      "text": "The account that is debited with the cost of goods transferred to the Consignee is the:",
+      "image": "ACCO_2023_224.png",
+      "options": [
+        "Goods Sent on Consignment Account",
+        "Consignee's Account",
+        "Consignment Account",
+        "Purchases Account"
+      ],
+      "answer": "Consignment Account",
+      "explanation": "The Consignment Account is debited with the cost of goods sent (credit Goods Sent on Consignment Account) and all non-recurrent expenses of the consignor."
+    },
+    {
+      "id": "ACCO_2023_225",
+      "text": "In a limited company, the appropriation account is used primarily to record the:",
+      "image": "ACCO_2023_225.png",
+      "options": [
+        "Cost of Goods Sold",
+        "Payment of dividends and transfers to reserves",
+        "Depreciation expense",
+        "Sales revenue"
+      ],
+      "answer": "Payment of dividends and transfers to reserves",
+      "explanation": "The Appropriation Account (or Statement of Changes in Equity/Retained Earnings) shows how the Net Profit for the year is distributed (appropriated) between reserves and dividends."
+    },
+    {
+      "id": "ACCO_2023_226",
+      "text": "The main disadvantage of the Single Entry System is that it:",
+      "image": "ACCO_2023_226.png",
+      "options": [
+        "Is too expensive to maintain",
+        "Does not reveal the true financial position or profit",
+        "Provides excessive detail on every transaction",
+        "Is only suitable for large companies"
+      ],
+      "answer": "Does not reveal the true financial position or profit",
+      "explanation": "Due to its incompleteness (lacking nominal accounts and the self-balancing check of double entry), the profit calculated is usually only an estimate."
+    },
+    {
+      "id": "ACCO_2023_227",
+      "text": "The formula (Net Profit $\\times$ 100) / Capital Employed calculates the:",
+      "image": "ACCO_2023_227.png",
+      "options": [
+        "Gross Profit Margin",
+        "Net Profit Margin",
+        "Return on Capital Employed (ROCE)",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Return on Capital Employed (ROCE)",
+      "explanation": "ROCE is a measure of management efficiency, indicating the return generated on the long-term funds provided by both owners and creditors."
+    },
+    {
+      "id": "ACCO_2023_228",
+      "text": "Which of the following is an example of an administrative overhead cost?",
+      "image": "ACCO_2023_228.png",
+      "options": [
+        "Wages of factory production staff",
+        "Depreciation of the office building",
+        "Cost of raw materials",
+        "Commission paid to sales agents"
+      ],
+      "answer": "Depreciation of the office building",
+      "explanation": "Administrative costs relate to general management and control, not directly to manufacturing or selling, and are recorded in the Statement of Profit or Loss."
+    },
+    {
+      "id": "ACCO_2023_229",
+      "text": "The liability of shareholders in a Public Limited Company is typically limited to the:",
+      "image": "ACCO_2023_229.png",
+      "options": [
+        "Total assets of the company",
+        "Unpaid amount on shares subscribed for",
+        "Total personal wealth of the shareholders",
+        "Par value of the shares held"
+      ],
+      "answer": "Unpaid amount on shares subscribed for",
+      "explanation": "Shareholders' liability is limited to the extent of the nominal value of shares held; if shares are fully paid up, their liability is zero."
+    },
+    {
+      "id": "ACCO_2023_230",
+      "text": "The main benefit of preparing a debtors control account is the:",
+      "image": "ACCO_2023_230.png",
+      "options": [
+        "Calculation of net profit",
+        "Internal check and error location in the sales ledger",
+        "Determination of cost of sales",
+        "Control of cash payments"
+      ],
+      "answer": "Internal check and error location in the sales ledger",
+      "explanation": "The control account provides an independent check on the accuracy of the individual debtor accounts in the Sales Ledger."
+    },
+    {
+      "id": "ACCO_2023_231",
+      "text": "In partnership accounting, the fixed capital method requires a separate account for partners' current transactions known as the:",
+      "image": "ACCO_2023_231.png",
+      "options": [
+        "Current Account",
+        "Loan Account",
+        "Capital Account",
+        "Realization Account"
+      ],
+      "answer": "Current Account",
+      "explanation": "Under the fixed capital method, the Capital Account remains fixed, and a separate Current Account is opened to record interest, salaries, drawings, and share of profit/loss."
+    },
+    {
+      "id": "ACCO_2023_232",
+      "text": "The cost that must be incurred when choosing one alternative over another is referred to as:",
+      "image": "ACCO_2023_232.png",
+      "options": [
+        "Prime Cost",
+        "Sunk Cost",
+        "Opportunity Cost",
+        "Standard Cost"
+      ],
+      "answer": "Opportunity Cost",
+      "explanation": "Opportunity cost is the value of the next best alternative that must be forgone when a particular choice is made, relevant for decision-making."
+    },
+    {
+      "id": "ACCO_2023_233",
+      "text": "A dividend declared but not yet paid by a company is classified as a:",
+      "image": "ACCO_2023_233.png",
+      "options": [
+        "Non-Current Liability",
+        "Current Asset",
+        "Current Liability",
+        "Equity"
+      ],
+      "answer": "Current Liability",
+      "explanation": "Once a dividend is declared by the board or approved by shareholders, it becomes a legal obligation payable within 12 months, hence a current liability."
+    },
+    {
+      "id": "ACCO_2023_234",
+      "text": "The document prepared by the Consignee to inform the Consignor of goods sold, expenses incurred, and commission earned is the:",
+      "image": "ACCO_2023_234.png",
+      "options": [
+        "Invoice",
+        "Proforma Invoice",
+        "Account Sales",
+        "Debit Note"
+      ],
+      "answer": "Account Sales",
+      "explanation": "The Account Sales is the statement sent by the Consignee to the Consignor, summarizing all transactions related to the consignment for a specific period."
+    },
+    {
+      "id": "ACCO_2023_235",
+      "text": "Which of these is a capital loss?",
+      "image": "ACCO_2023_235.png",
+      "options": [
+        "Discount allowed",
+        "Loss on sale of fixed assets",
+        "Wages expense",
+        "Decrease in provision for doubtful debts"
+      ],
+      "answer": "Loss on sale of fixed assets",
+      "explanation": "A loss resulting from the sale of a non-current asset (a capital transaction) is classified as a capital loss, recorded in the Statement of Profit or Loss below the Gross Profit line."
+    },
+    {
+      "id": "ACCO_2023_236",
+      "text": "The account prepared under the Single Entry System to convert the estimated profit into net profit is the:",
+      "image": "ACCO_2023_236.png",
+      "options": [
+        "Realization Account",
+        "Memorandum Trading Account",
+        "Statement of Affairs",
+        "Memorandum Profit and Loss Account"
+      ],
+      "answer": "Memorandum Profit and Loss Account",
+      "explanation": "This account is used to adjust the calculated profit (from the comparison of opening and closing capital) for non-cash and incomplete entries to find the final net profit."
+    },
+    {
+      "id": "ACCO_2023_237",
+      "text": "The formula (Capital Employed / Sales) calculates the:",
+      "image": "ACCO_2023_237.png",
+      "options": [
+        "Return on Investment",
+        "Capital Turnover Ratio",
+        "Working Capital Ratio",
+        "Gross Profit Margin"
+      ],
+      "answer": "Capital Turnover Ratio",
+      "explanation": "Capital Turnover Ratio (Sales / Capital Employed) measures the efficiency of the utilization of long-term funds in generating revenue."
+    },
+    {
+      "id": "ACCO_2023_238",
+      "text": "The total amount of cash and bank receipts for a period is summarized in the:",
+      "image": "ACCO_2023_238.png",
+      "options": [
+        "Journal Proper",
+        "Returns Inwards Journal",
+        "Receipts and Payments Account",
+        "Trial Balance"
+      ],
+      "answer": "Receipts and Payments Account",
+      "explanation": "The Receipts and Payments Account (used primarily by non-profits) summarizes the total cash inflows (receipts) and cash outflows (payments) during the accounting period."
+    },
+    {
+      "id": "ACCO_2023_239",
+      "text": "In a limited company, the minimum amount of capital a subscriber must pay when applying for shares is the:",
+      "image": "ACCO_2023_239.png",
+      "options": [
+        "Full nominal value",
+        "Minimum Subscription",
+        "Application money",
+        "Amount of the first call"
+      ],
+      "answer": "Application money",
+      "explanation": "Application money is the minimum fixed amount required to accompany a share application form. The total issued capital is raised through application, allotment, and subsequent calls."
+    },
+    {
+      "id": "ACCO_2023_240",
+      "text": "The difference between total fixed costs and total variable costs is known as the:",
+      "image": "ACCO_2023_240.png",
+      "options": [
+        "Contribution",
+        "Marginal Cost",
+        "Differential Cost",
+        "This calculation is not typically meaningful"
+      ],
+      "answer": "This calculation is not typically meaningful",
+      "explanation": "Total Cost is Fixed Cost + Variable Cost. Subtracting the two (Fixed Cost - Variable Cost) does not yield a standard or meaningful accounting metric."
+    }
+  ]

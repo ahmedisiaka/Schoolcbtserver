@@ -1,0 +1,322 @@
+[
+    {
+      "id": "PHYS_2010_01",
+      "text": "Which of the following physical quantities is a scalar?",
+      "image": "",
+      "options": ["Velocity", "Momentum", "Electric potential", "Acceleration"],
+      "answer": "Electric potential",
+      "explanation": "Scalars have magnitude only. Velocity, momentum, and acceleration are vectors (magnitude and direction). Electric potential is a scalar quantity."
+    },
+    {
+      "id": "PHYS_2010_02",
+      "text": "A car accelerates uniformly from rest at $3 \\text{ m/s}^2$. Its velocity after travelling a distance of $24 \\text{ m}$ is:",
+      "image": "",
+      "options": ["$12 \\text{ m/s}$", "$144 \\text{ m/s}$", "$72 \\text{ m/s}$", "$36 \\text{ m/s}$"],
+      "answer": "$12 \\text{ m/s}$",
+      "explanation": "Using $v^2 = u^2 + 2as$. Here $u=0$, $a=3$, $s=24$. $v^2 = 0 + 2(3)(24) = 144$. $v = \\sqrt{144} = 12 \\text{ m/s}$."
+    },
+    {
+      "id": "PHYS_2010_03",
+      "text": "The angle of projection for a projectile to attain its maximum horizontal range is:",
+      "image": "[Diagram of projectile motion showing different projection angles]",
+      "options": ["$30^{\\circ}$", "$45^{\\circ}$", "$60^{\\circ}$", "$90^{\\circ}$"],
+      "answer": "$45^{\\circ}$",
+      "explanation": "Range $R = (u^2 \\sin 2\\theta)/g$. R is maximum when $\\sin 2\\theta = 1$, which means $2\\theta = 90^{\\circ}$ or $\\theta = 45^{\\circ}$."
+    },
+    {
+      "id": "PHYS_2010_04",
+      "text": "A force of $100 \\text{ N}$ is used to kick a football of mass $0.5 \\text{ kg}$. If the force acts for $0.1 \\text{ s}$, the velocity of the ball is:",
+      "image": "",
+      "options": ["$20 \\text{ m/s}$", "$50 \\text{ m/s}$", "$5 \\text{ m/s}$", "$200 \\text{ m/s}$"],
+      "answer": "$20 \\text{ m/s}$",
+      "explanation": "Impulse = Change in momentum. $F \\times t = m(v - u)$. $100 \\times 0.1 = 0.5(v - 0)$. $10 = 0.5v$. $v = 20 \\text{ m/s}$."
+    },
+    {
+      "id": "PHYS_2010_05",
+      "text": "The efficiency of a machine is always less than $100\\%$ because:",
+      "image": "",
+      "options": ["Work output is greater than work input", "The velocity ratio is greater than the mechanical advantage", "Work is done against friction", "The load is greater than the effort"],
+      "answer": "Work is done against friction",
+      "explanation": "Some input energy is always lost to overcoming friction and moving the parts of the machine, so Work Output < Work Input."
+    },
+    {
+      "id": "PHYS_2010_06",
+      "text": "A body of mass $2 \\text{ kg}$ moves in a circular path of radius $4 \\text{ m}$ with a speed of $10 \\text{ m/s}$. The centripetal force acting on the body is:",
+      "image": "",
+      "options": ["$20 \\text{ N}$", "$40 \\text{ N}$", "$50 \\text{ N}$", "$100 \\text{ N}$"],
+      "answer": "$50 \\text{ N}$",
+      "explanation": "$F = mv^2/r = (2 \\times 10^2) / 4 = 200 / 4 = 50 \\text{ N}$."
+    },
+    {
+      "id": "PHYS_2010_07",
+      "text": "The S.I. unit of pressure is:",
+      "image": "",
+      "options": ["Newton (N)", "Pascal (Pa)", "Joule (J)", "Watt (W)"],
+      "answer": "Pascal (Pa)",
+      "explanation": "Pressure is defined as Force per unit Area ($N/m^2$), which is named the Pascal (Pa)."
+    },
+    {
+      "id": "PHYS_2010_08",
+      "text": "A temperature of $27^{\\circ}\\text{C}$ is equivalent to:",
+      "image": "",
+      "options": ["$200 \\text{ K}$", "$273 \\text{ K}$", "$300 \\text{ K}$", "$327 \\text{ K}$"],
+      "answer": "$300 \\text{ K}$",
+      "explanation": "$T(K) = T(^{\\circ}C) + 273$. $27 + 273 = 300 \\text{ K}$."
+    },
+    {
+      "id": "PHYS_2010_09",
+      "text": "The quantity of heat required to raise the temperature of a unit mass of a substance by $1 \\text{ K}$ is called its:",
+      "image": "",
+      "options": ["Heat capacity", "Specific heat capacity", "Latent heat", "Thermal conductivity"],
+      "answer": "Specific heat capacity",
+      "explanation": "Specific heat capacity is the heat energy required per unit mass per unit temperature change."
+    },
+    {
+      "id": "PHYS_2010_10",
+      "text": "Which of the following statements about evaporation is true?",
+      "image": "",
+      "options": ["It occurs only at the boiling point", "It occurs at all temperatures", "It does not cause cooling", "It occurs throughout the liquid volume"],
+      "answer": "It occurs at all temperatures",
+      "explanation": "Evaporation is a surface phenomenon that occurs at any temperature, unlike boiling which occurs at a specific temperature throughout the liquid."
+    },
+    {
+      "id": "PHYS_2010_11",
+      "text": "Boyle's law can be expressed mathematically as:",
+      "image": "[Graph of P vs V for Boyle's law]",
+      "options": ["$V \\propto T$", "$P \\propto 1/V$", "$P \\propto T$", "$V \\propto P$"],
+      "answer": "$P \\propto 1/V$",
+      "explanation": "Boyle's law states that for a fixed mass of gas at constant temperature, pressure is inversely proportional to volume ($PV = \\text{constant}$)."
+    },
+    {
+      "id": "PHYS_2010_12",
+      "text": "Sound waves cannot travel through:",
+      "image": "",
+      "options": ["Air", "Water", "Steel", "Vacuum"],
+      "answer": "Vacuum",
+      "explanation": "Sound is a mechanical wave that requires a material medium for propagation."
+    },
+    {
+      "id": "PHYS_2010_13",
+      "text": "An echo is heard $0.8 \\text{ s}$ after a sound is made. If the speed of sound in air is $340 \\text{ m/s}$, the distance of the reflecting surface is:",
+      "image": "",
+      "options": ["$136 \\text{ m}$", "$272 \\text{ m}$", "$68 \\text{ m}$", "$170 \\text{ m}$"],
+      "answer": "$136 \\text{ m}$",
+      "explanation": "Distance $d = (v \\times t) / 2$. $d = (340 \\times 0.8) / 2 = 272 / 2 = 136 \\text{ m}$."
+    },
+    {
+      "id": "PHYS_2010_14",
+      "text": "The defect of the eye where near objects cannot be seen clearly is called:",
+      "image": "[Diagram comparing normal vision and long-sightedness]",
+      "options": ["Myopia", "Hypermetropia", "Astigmatism", "Presbyopia"],
+      "answer": "Hypermetropia",
+      "explanation": "Hypermetropia (long-sightedness) is the inability to see near objects clearly. It is corrected with a converging (convex) lens."
+    },
+    {
+      "id": "PHYS_2010_15",
+      "text": "An object is placed $20 \\text{ cm}$ from a concave mirror of focal length $10 \\text{ cm}$. The image formed is:",
+      "image": "[Ray diagram of object at 2F of a concave mirror]",
+      "options": ["Virtual and erect", "Real, inverted and magnified", "Real, inverted and same size", "Real, inverted and diminished"],
+      "answer": "Real, inverted and same size",
+      "explanation": "The object is at the center of curvature ($2f = 20 \\text{ cm}$). The image formed by a concave mirror at $2f$ is real, inverted, and the same size."
+    },
+    {
+      "id": "PHYS_2010_16",
+      "text": "Which of the following colors of light is deviated least when white light passes through a triangular prism?",
+      "image": "[Diagram of white light dispersion through a prism]",
+      "options": ["Violet", "Blue", "Green", "Red"],
+      "answer": "Red",
+      "explanation": "Red light has the longest wavelength and travels fastest in glass, so it is refracted (deviated) the least. Violet is deviated the most."
+    },
+    {
+      "id": "PHYS_2010_17",
+      "text": "The force between two point charges is $F$. If the distance between them is doubled, the new force is:",
+      "image": "",
+      "options": ["$2F$", "$4F$", "$F/2$", "$F/4$"],
+      "answer": "$F/4$",
+      "explanation": "According to Coulomb's Law, $F \\propto 1/r^2$. If $r$ becomes $2r$, the new force is proportional to $1/(2r)^2 = 1/4r^2$, which is $F/4$."
+    },
+    {
+      "id": "PHYS_2010_18",
+      "text": "Three capacitors of $2 \\mu\\text{F}$, $4 \\mu\\text{F}$, and $8 \\mu\\text{F}$ are connected in parallel. The equivalent capacitance is:",
+      "image": "",
+      "options": ["$14 \\mu\\text{F}$", "$0.8 \\mu\\text{F}$", "$6 \\mu\\text{F}$", "$1.14 \\mu\\text{F}$"],
+      "answer": "$14 \\mu\\text{F}$",
+      "explanation": "For parallel capacitors, $C_{eq} = C_1 + C_2 + C_3 = 2 + 4 + 8 = 14 \\mu\\text{F}$."
+    },
+    {
+      "id": "PHYS_2010_19",
+      "text": "The S.I. unit of electric charge is:",
+      "image": "",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "Coulomb",
+      "explanation": "The Coulomb (C) is the S.I. unit of electric charge."
+    },
+    {
+      "id": "PHYS_2010_20",
+      "text": "A lamp is rated $240 \\text{ V}$, $60 \\text{ W}$. The resistance of the lamp filament is:",
+      "image": "",
+      "options": ["$4 \\Omega$", "$960 \\Omega$", "$14400 \\Omega$", "$60 \\Omega$"],
+      "answer": "$960 \\Omega$",
+      "explanation": "$P = V^2/R \\Rightarrow R = V^2/P$. $R = (240 \\times 240) / 60 = 57600 / 60 = 960 \\Omega$."
+    },
+    {
+      "id": "PHYS_2010_21",
+      "text": "Which of the following devices converts electrical energy to mechanical energy?",
+      "image": "",
+      "options": ["Dynamo", "Electric motor", "Transformer", "Inductor"],
+      "answer": "Electric motor",
+      "explanation": "An electric motor converts electrical energy into mechanical energy, while a dynamo (generator) does the reverse."
+    },
+    {
+      "id": "PHYS_2010_22",
+      "text": "The peak voltage of an A.C. source is $340 \\text{ V}$. The root mean square (r.m.s.) voltage is:",
+      "image": "",
+      "options": ["$240 \\text{ V}$", "$340 \\text{ V}$", "$480 \\text{ V}$", "$170 \\text{ V}$"],
+      "answer": "$240 \\text{ V}$",
+      "explanation": "$V_{rms} = V_{peak} / \\sqrt{2} \\approx 0.707 \\times 340 \\approx 240.38 \\text{ V}$, which is approx $240 \\text{ V}$."
+    },
+    {
+      "id": "PHYS_2010_23",
+      "text": "Which of the following radiations is electrically neutral?",
+      "image": "",
+      "options": ["Alpha particles", "Beta particles", "Gamma rays", "Protons"],
+      "answer": "Gamma rays",
+      "explanation": "Alpha particles are positive, beta particles are negative (electrons), protons are positive. Gamma rays are electromagnetic waves and carry no charge."
+    },
+    {
+      "id": "PHYS_2010_24",
+      "text": "Isotopes of an element have different:",
+      "image": "",
+      "options": ["Atomic numbers", "Number of electrons", "Number of protons", "Mass numbers"],
+      "answer": "Mass numbers",
+      "explanation": "Isotopes have the same atomic number (number of protons/electrons) but different mass numbers due to a different number of neutrons."
+    },
+    {
+      "id": "PHYS_2010_25",
+      "text": "In a p-type semiconductor, the majority charge carriers are:",
+      "image": "",
+      "options": ["Electrons", "Holes", "Protons", "Neutrons"],
+      "answer": "Holes",
+      "explanation": "In p-type (positive-type) semiconductors, holes are the majority carriers, created by doping with trivalent atoms."
+    },
+    {
+      "id": "PHYS_2010_26",
+      "text": "The energy stored in an inductor of inductance $L$ carrying a current $I$ is:",
+      "image": "",
+      "options": ["$1/2 LI^2$", "$LI^2$", "$1/2 L^2I$", "$LI$"],
+      "answer": "$1/2 LI^2$",
+      "explanation": "The energy stored in the magnetic field of an inductor is given by $E = 1/2 LI^2$."
+    },
+    {
+      "id": "PHYS_2010_27",
+      "text": "Which of the following surfaces is the best absorber of radiant heat?",
+      "image": "",
+      "options": ["White and polished", "Black and dull", "Silver and polished", "Red and shiny"],
+      "answer": "Black and dull",
+      "explanation": "Dull black surfaces are the best absorbers (and emitters) of radiant heat, while polished silvery surfaces are the best reflectors."
+    },
+    {
+      "id": "PHYS_2010_28",
+      "text": "The phenomenon of surface tension is explained by:",
+      "image": "[Diagram of molecular forces at the surface of a liquid]",
+      "options": ["Molecular cohesion", "Molecular adhesion", "Viscosity", "Capillarity"],
+      "answer": "Molecular cohesion",
+      "explanation": "Surface tension arises due to the cohesive forces between liquid molecules at the surface, which are pulled inward."
+    },
+    {
+      "id": "PHYS_2010_29",
+      "text": "A hydraulic press works on the principle of:",
+      "image": "[Diagram of a hydraulic press]",
+      "options": ["Transmission of pressure in fluids", "Conservation of mass", "Flotation", "Viscosity"],
+      "answer": "Transmission of pressure in fluids",
+      "explanation": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted equally in all directions, which is the basis for hydraulic presses."
+    },
+    {
+      "id": "PHYS_2010_30",
+      "text": "A body executes simple harmonic motion with an amplitude of $5 \\text{ cm}$. Its acceleration is maximum when its displacement from the equilibrium position is:",
+      "image": "",
+      "options": ["$0 \\text{ cm}$", "$2.5 \\text{ cm}$", "$5 \\text{ cm}$", "$10 \\text{ cm}$"],
+      "answer": "$5 \\text{ cm}$",
+      "explanation": "Acceleration in SHM is proportional to displacement ($a = -\\omega^2 x$). It is maximum at the extreme position (amplitude), i.e., $x = 5 \\text{ cm}$."
+    },
+    {
+      "id": "PHYS_2010_31",
+      "text": "A diverging lens has a focal length of $15 \\text{ cm}$. Its power is:",
+      "image": "",
+      "options": ["$+6.67 \\text{ D}$", "$-6.67 \\text{ D}$", "$+0.15 \\text{ D}$", "$-0.15 \\text{ D}$"],
+      "answer": "$-6.67 \\text{ D}$",
+      "explanation": "Power $P = 1/f$ (in meters). $f = -15 \\text{ cm} = -0.15 \\text{ m}$ (negative for diverging). $P = 1 / (-0.15) \\approx -6.67 \\text{ Diopters}$."
+    },
+    {
+      "id": "PHYS_2010_32",
+      "text": "Which of the following is not a vector quantity?",
+      "image": "",
+      "options": ["Force", "Weight", "Altitude", "Displacement"],
+      "answer": "Altitude",
+      "explanation": "Altitude is essentially a height (distance), which is a scalar. Force, Weight, and Displacement are vectors."
+    },
+    {
+      "id": "PHYS_2010_33",
+      "text": "When a light ray passes from air to glass, its frequency:",
+      "image": "",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "answer": "Remains constant",
+      "explanation": "Refraction changes speed and wavelength, but frequency depends on the source and remains constant across boundaries."
+    },
+    {
+      "id": "PHYS_2010_34",
+      "text": "The resistance of a wire depends on all the following except:",
+      "image": "",
+      "options": ["Length", "Cross-sectional area", "Temperature", "Pressure"],
+      "answer": "Pressure",
+      "explanation": "Resistance $R = \\rho L/A$. It depends on material (resistivity), length, area, and temperature. It does not significantly depend on pressure for solids."
+    },
+    {
+      "id": "PHYS_2010_35",
+      "text": "The splitting of a heavy nucleus into two lighter nuclei with the release of energy is called:",
+      "image": "[Diagram of nuclear fission process]",
+      "options": ["Nuclear fusion", "Nuclear fission", "Radioactive decay", "Transmutation"],
+      "answer": "Nuclear fission",
+      "explanation": "Fission is the splitting of a heavy nucleus (like Uranium) into smaller nuclei. Fusion is combining light nuclei."
+    },
+    {
+      "id": "PHYS_2010_36",
+      "text": "Which of the following instruments uses the heating effect of current?",
+      "image": "",
+      "options": ["Electric bell", "Electric motor", "Electric iron", "Moving coil galvanometer"],
+      "answer": "Electric iron",
+      "explanation": "An electric iron works by converting electrical energy into heat energy through a resistive element (Joule heating)."
+    },
+    {
+      "id": "PHYS_2010_37",
+      "text": "The escape velocity from the Earth's surface depends on:",
+      "image": "",
+      "options": ["Mass of the body", "Mass of the Earth", "Direction of projection", "Temperature of the atmosphere"],
+      "answer": "Mass of the Earth",
+      "explanation": "$v_e = \\sqrt{2GM/R}$. It depends on the Mass of the planet ($M$) and radius ($R$), not the mass of the escaping body."
+    },
+    {
+      "id": "PHYS_2010_38",
+      "text": "A piece of cork floats on water because:",
+      "image": "",
+      "options": ["Its density is greater than that of water", "Its density is less than that of water", "Its volume is less than that of water", "It is insoluble in water"],
+      "answer": "Its density is less than that of water",
+      "explanation": "Objects float if their density is lower than the fluid's density."
+    },
+    {
+      "id": "PHYS_2010_39",
+      "text": "If the pressure of a gas is doubled at constant temperature, its volume is:",
+      "image": "",
+      "options": ["Doubled", "Halved", "Quadrupled", "Unchanged"],
+      "answer": "Halved",
+      "explanation": "According to Boyle's law ($PV = k$), if pressure ($P$) is doubled ($2P$), volume ($V$) must be halved ($V/2$) to keep the product constant."
+    },
+    {
+      "id": "PHYS_2010_40",
+      "text": "The image formed by the objective lens of a compound microscope is:",
+      "image": "[Ray diagram of a compound microscope]",
+      "options": ["Real, inverted and magnified", "Real, erect and diminished", "Virtual, inverted and magnified", "Virtual, erect and magnified"],
+      "answer": "Real, inverted and magnified",
+      "explanation": "The objective lens creates a real, inverted, and magnified image of the object, which then serves as the object for the eyepiece."
+    }
+]

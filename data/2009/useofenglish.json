@@ -1,0 +1,510 @@
+[
+    {
+      "id": "U2009_1",
+      "text": "In January 2009, $\\textbf{Barack}$ $\\textbf{Obama}$ was inaugurated as the $\\textbf{44th}$ $\\textbf{President}$ of the United States, marking a historic political $\\textbf{transition}$ and a new era in American governance. (Comprehension Passage Snippet 1)\n\nWhat number President was Barack Obama when he was inaugurated in 2009?",
+      "image": "",
+      "options": [
+        "42nd",
+        "43rd",
+        "44th",
+        "45th"
+      ],
+      "answer": "44th",
+      "explanation": "The text states he was inaugurated as the '44th President of the United States'."
+    },
+    {
+      "id": "U2009_2",
+      "text": "His election represented a significant $\\textbf{transition}$ in American politics.\n\nChoose the word that is closest in meaning to $\\textbf{transition}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Sudden stop",
+        "Slow decline",
+        "Change or shift",
+        "Exact replica"
+      ],
+      "answer": "Change or shift",
+      "explanation": "Transition means the process or a period of changing from one state or condition to another."
+    },
+    {
+      "id": "U2009_3",
+      "text": "By the time he took office, the financial crisis $\\textbf{(had already begun/already began)}$ to affect millions of Americans.\n\nChoose the correct verb tense to describe the event that occurred before the inauguration.",
+      "image": "",
+      "options": [
+        "had already begun",
+        "already began",
+        "has already begun",
+        "will already begin"
+      ],
+      "answer": "had already begun",
+      "explanation": "The Past Perfect ('had already begun') is used for an action completed before a specific time in the past (the inauguration)."
+    },
+    {
+      "id": "U2009_4",
+      "text": "The word $\\textbf{'inauguration'}$ $\\textbf{i n a u g u r a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **inauguration**.",
+      "image": "",
+      "options": [
+        "in",
+        "au",
+        "gu",
+        "ra"
+      ],
+      "answer": "ra",
+      "explanation": "The primary stress in 'inauguration' /ɪˌnɔː.ɡjəˈreɪ.ʃən/ falls on the fourth syllable, 'ra'."
+    },
+    {
+      "id": "U2009_5",
+      "text": "In February 2009, the American Recovery and $\\textbf{Reinvestment}$ $\\textbf{Act}$ (ARRA), a $\\textbf{stimulus}$ package valued at over $\\textbf{800}$ $\\textbf{billion}$ $\\textbf{dollars}$, was signed into law, aiming to $\\textbf{mitigate}$ the effects of the Great Recession. (Comprehension Passage Snippet 2)\n\nWhat was the main financial goal of the American Recovery and Reinvestment Act?",
+      "image": "",
+      "options": [
+        "To fund space exploration",
+        "To mitigate the effects of the Great Recession",
+        "To create new tax cuts for corporations",
+        "To regulate social media platforms"
+      ],
+      "answer": "To mitigate the effects of the Great Recession",
+      "explanation": "The text states the package aimed 'to mitigate the effects of the Great Recession'."
+    },
+    {
+      "id": "U2009_6",
+      "text": "The government sought to $\\textbf{mitigate}$ the economic hardship faced by citizens.\n\nChoose the word that is closest in meaning to $\\textbf{mitigate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Intensify or worsen",
+        "Lessen or soften",
+        "Ignore completely",
+        "Document precisely"
+      ],
+      "answer": "Lessen or soften",
+      "explanation": "To mitigate means to make less severe, serious, or painful; to lessen."
+    },
+    {
+      "id": "U2009_7",
+      "text": "Economists argued that the government $\\textbf{(ought to/ought not)}$ have acted sooner to prevent the crisis from worsening.\n\nChoose the correct modal verb phrase to express advice or moral obligation.",
+      "image": "",
+      "options": [
+        "ought to",
+        "ought not",
+        "can",
+        "will"
+      ],
+      "answer": "ought to",
+      "explanation": "'Ought to' is used to say what is right or advisable (advice/obligation)."
+    },
+    {
+      "id": "U2009_8",
+      "text": "The word $\\textbf{'debt'}$ $\\textbf{d e b t}$.\n\nWhich of the following words has the same short vowel sound as the word **debt**?",
+      "image": "",
+      "options": [
+        "Leave",
+        "Get",
+        "Fight",
+        "Goal"
+      ],
+      "answer": "Get",
+      "explanation": "Both 'debt' /det/ and 'Get' /ɡet/ contain the short vowel sound /e/."
+    },
+    {
+      "id": "U2009_9",
+      "text": "In June 2009, the $\\textbf{World}$ $\\textbf{Health}$ $\\textbf{Organization}$ (WHO) declared the $\\textbf{H1N1}$ $\\textbf{swine}$ $\\textbf{flu}$ outbreak a $\\textbf{pandemic}$, signaling its rapid and $\\textbf{widespread}$ global spread. (Comprehension Passage Snippet 3)\n\nWhat term did the WHO use to describe the H1N1 outbreak in June 2009?",
+      "image": "",
+      "options": [
+        "Local epidemic",
+        "Controlled outbreak",
+        "Pandemic",
+        "Minor flu season"
+      ],
+      "answer": "Pandemic",
+      "explanation": "The text states the WHO 'declared the H1N1 swine flu outbreak a pandemic'."
+    },
+    {
+      "id": "U2009_10",
+      "text": "The flu was $\\textbf{widespread}$, affecting populations on every continent.\n\nChoose the word that is closest in meaning to $\\textbf{widespread}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Concentrated or limited",
+        "Rarely seen",
+        "Extensive or prevalent",
+        "Quietly debated"
+      ],
+      "answer": "Extensive or prevalent",
+      "explanation": "Widespread means spread or occurring over a large area or among many people."
+    },
+    {
+      "id": "U2009_11",
+      "text": "The WHO reported $\\textbf{(that/what)}$ the virus had reached nearly every corner of the globe.\n\nChoose the correct conjunction to introduce the object clause of the verb 'reported'.",
+      "image": "",
+      "options": [
+        "that",
+        "what",
+        "where",
+        "when"
+      ],
+      "answer": "that",
+      "explanation": "The conjunction 'that' is used for reporting speech or facts."
+    },
+    {
+      "id": "U2009_12",
+      "text": "The word $\\textbf{'pandemic'}$ $\\textbf{p a n d e m i c}$.\n\nIdentify the syllable that carries the primary stress in the word **pandemic**.",
+      "image": "",
+      "options": [
+        "pan",
+        "dem",
+        "ic"
+      ],
+      "answer": "dem",
+      "explanation": "The primary stress in 'pandemic' /pænˈdem.ɪk/ falls on the second syllable, 'dem'."
+    },
+    {
+      "id": "U2009_13",
+      "text": "Microsoft launched its highly anticipated operating system, $\\textbf{Windows}$ $\\textbf{7}$, in October 2009, aiming to $\\textbf{replace}$ the critically $\\textbf{panned}$ Windows $\\textbf{Vista}$ and improve user $\\textbf{experience}$. (Comprehension Passage Snippet 4)\n\nWhich operating system did Windows 7 primarily aim to replace?",
+      "image": "",
+      "options": [
+        "Windows XP",
+        "Windows Vista",
+        "Mac OS X",
+        "Linux"
+      ],
+      "answer": "Windows Vista",
+      "explanation": "The text states it aimed to 'replace the critically panned Windows Vista'."
+    },
+    {
+      "id": "U2009_14",
+      "text": "The new operating system offered a more intuitive $\\textbf{interface}$ than its predecessor.\n\nChoose the word that is closest in meaning to $\\textbf{interface}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Hidden code",
+        "User display or layout",
+        "Hardware component",
+        "Instruction manual"
+      ],
+      "answer": "User display or layout",
+      "explanation": "Interface refers to the visual design, screen layout, and input controls by which a user interacts with a computer."
+    },
+    {
+      "id": "U2009_15",
+      "text": "The new version $\\textbf{(was developed/developed)}$ over three years to address previous user complaints.\n\nChoose the correct verb phrase to complete the sentence.",
+      "image": "",
+      "options": [
+        "was developed",
+        "developed",
+        "is developed",
+        "would develop"
+      ],
+      "answer": "was developed",
+      "explanation": "The Passive Voice ('was developed') is required because the new version is the recipient of the action (being developed)."
+    },
+    {
+      "id": "U2009_16",
+      "text": "The word $\\textbf{'launch'}$ $\\textbf{l a u n c h}$.\n\nWhich of the following words has the same vowel sound as the word **launch**?",
+      "image": "",
+      "options": [
+        "Watch",
+        "Lawn",
+        "Fetch",
+        "Live"
+      ],
+      "answer": "Lawn",
+      "explanation": "Both 'launch' /lɔːntʃ/ and 'Lawn' /lɔːn/ contain the vowel sound /ɔː/."
+    },
+    {
+      "id": "U2009_17",
+      "text": "The death of global pop icon $\\textbf{Michael}$ $\\textbf{Jackson}$ in June 2009 caused an $\\textbf{outpouring}$ of grief worldwide and led to an $\\textbf{unprecedented}$ surge in sales of his music. (Comprehension Passage Snippet 5)\n\nWhat was one of the immediate consequences of Michael Jackson's death mentioned in the text?",
+      "image": "",
+      "options": [
+        "The cancellation of the World Cup",
+        "An unprecedented surge in sales of his music",
+        "A drop in global stock markets",
+        "A major political scandal"
+      ],
+      "answer": "An unprecedented surge in sales of his music",
+      "explanation": "The text mentions it 'led to an unprecedented surge in sales of his music'."
+    },
+    {
+      "id": "U2009_18",
+      "text": "His musical $\\textbf{legacy}$ continues to influence artists across many genres.\n\nChoose the word that is closest in meaning to $\\textbf{legacy}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Debt or financial obligation",
+        "Inheritance or lasting influence",
+        "Current performance",
+        "Daily schedule"
+      ],
+      "answer": "Inheritance or lasting influence",
+      "explanation": "Legacy means a long-lasting effect, impact, or inheritance from a previous time or person."
+    },
+    {
+      "id": "U2009_19",
+      "text": "His final concert rehearsals, $\\textbf{(whose/who)}$ $\\textbf{footage}$ $\\textbf{was}$ $\\textbf{released}$ later, showed his enduring commitment to his craft.\n\nChoose the correct possessive relative pronoun to fill the gap.",
+      "image": "",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' is the possessive form, referring to the footage belonging to the rehearsals (final concert rehearsals' footage)."
+    },
+    {
+      "id": "U2009_20",
+      "text": "The word $\\textbf{'concert'}$ $\\textbf{c o n c e r t}$.\n\nIdentify the syllable that carries the primary stress in the word **concert**.",
+      "image": "",
+      "options": [
+        "con",
+        "cert"
+      ],
+      "answer": "con",
+      "explanation": "The primary stress in 'concert' /ˈkɒn.sɜːt/ falls on the first syllable, 'con'."
+    },
+    {
+      "id": "U2009_21",
+      "text": "In October 2009, NASA's $\\textbf{LCROSS}$ $\\textbf{mission}$ successfully $\\textbf{confirmed}$ the $\\textbf{presence}$ of significant amounts of $\\textbf{water}$ $\\textbf{ice}$ inside a permanently shadowed $\\textbf{crater}$ on the Moon. (Comprehension Passage Snippet 6)\n\nWhere was the water ice confirmed to be located on the Moon?",
+      "image": "",
+      "options": [
+        "On the sunlit side of the equator",
+        "Inside a permanently shadowed crater",
+        "Under the lunar surface near the poles",
+        "On the highest mountain peak"
+      ],
+      "answer": "Inside a permanently shadowed crater",
+      "explanation": "The text specifies 'inside a permanently shadowed crater on the Moon'."
+    },
+    {
+      "id": "U2009_22",
+      "text": "The LCROSS $\\textbf{mission}$ sought to $\\textbf{confirm}$ decades of speculation.\n\nChoose the word that is closest in meaning to $\\textbf{confirm}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Deny or reject",
+        "Prove or verify",
+        "Doubt or question",
+        "Hide or obscure"
+      ],
+      "answer": "Prove or verify",
+      "explanation": "To confirm means to establish the truth or correctness of (something previously uncertain or suspected)."
+    },
+    {
+      "id": "U2009_23",
+      "text": "If water is readily available on the Moon, future manned missions $\\textbf{(will be/are)}$ significantly easier to sustain.\n\nChoose the correct verb tense for a First Conditional sentence.",
+      "image": "",
+      "options": [
+        "will be",
+        "are",
+        "was",
+        "had been"
+      ],
+      "answer": "will be",
+      "explanation": "The First Conditional ('if + present simple, will + base form') is used for probable future situations."
+    },
+    {
+      "id": "U2009_24",
+      "text": "The word $\\textbf{'crater'}$ $\\textbf{c r a t e r}$.\n\nIdentify the syllable that carries the primary stress in the word **crater**.",
+      "image": "",
+      "options": [
+        "cra",
+        "ter"
+      ],
+      "answer": "cra",
+      "explanation": "The primary stress in 'crater' /ˈkreɪ.tər/ falls on the first syllable, 'cra'."
+    },
+    {
+      "id": "U2009_25",
+      "text": "The $\\textbf{initial}$ $\\textbf{Bitcoin}$ software client was released in 2009 by the pseudonymous developer $\\textbf{Satoshi}$ $\\textbf{Nakamoto}$, laying the foundation for the world's first widely used $\\textbf{decentralized}$ $\\textbf{digital}$ $\\textbf{currency}$. (Comprehension Passage Snippet 7)\n\nWho is credited as the pseudonymous developer who released the first Bitcoin software client?",
+      "image": "",
+      "options": [
+        "Elon Musk",
+        "Mark Zuckerberg",
+        "Satoshi Nakamoto",
+        "Jeff Bezos"
+      ],
+      "answer": "Satoshi Nakamoto",
+      "explanation": "The text names the developer as the 'pseudonymous developer Satoshi Nakamoto'."
+    },
+    {
+      "id": "U2009_26",
+      "text": "Bitcoin introduced a $\\textbf{decentralized}$ system, free from central bank control.\n\nChoose the word that is **opposite** in meaning to $\\textbf{decentralized}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Spread out",
+        "Distributed",
+        "Centralized or concentrated",
+        "Made public"
+      ],
+      "answer": "Centralized or concentrated",
+      "explanation": "Decentralized means transferring control from a single central point to several local offices or authorities. The opposite is centralized."
+    },
+    {
+      "id": "U2009_27",
+      "text": "The concept was a $\\textbf{(new, intriguing/intriguing, new)}$ form of money.\n\nChoose the best order for the two coordinate adjectives.",
+      "image": "",
+      "options": [
+        "new, intriguing",
+        "intriguing, new"
+      ],
+      "answer": "intriguing, new",
+      "explanation": "Adjective order generally follows: Opinion (intriguing) before Age (new). Thus, 'intriguing, new' is the preferred order."
+    },
+    {
+      "id": "U2009_28",
+      "text": "The word $\\textbf{'digital'}$ $\\textbf{d i g i t a l}$.\n\nIdentify the syllable that carries the primary stress in the word **digital**.",
+      "image": "",
+      "options": [
+        "dig",
+        "i",
+        "tal"
+      ],
+      "answer": "dig",
+      "explanation": "The primary stress in 'digital' /ˈdɪdʒ.ɪ.təl/ falls on the first syllable, 'dig'."
+    },
+    {
+      "id": "U2009_29",
+      "text": "In April 2009, US Navy SEALs $\\textbf{successfully}$ $\\textbf{rescued}$ Captain $\\textbf{Richard}$ $\\textbf{Phillips}$ after he was taken $\\textbf{hostage}$ by $\\textbf{Somali}$ $\\textbf{pirates}$ $\\textbf{off}$ $\\textbf{the}$ $\\textbf{coast}$ of Africa. (Comprehension Passage Snippet 8)\n\nWho conducted the successful rescue of Captain Richard Phillips?",
+      "image": "",
+      "options": [
+        "British Special Forces",
+        "US Navy SEALs",
+        "Russian Marines",
+        "A private security company"
+      ],
+      "answer": "US Navy SEALs",
+      "explanation": "The text clearly states the rescue was performed by 'US Navy SEALs'."
+    },
+    {
+      "id": "U2009_30",
+      "text": "The captain was held $\\textbf{hostage}$ aboard a lifeboat for several days.\n\nChoose the word that is closest in meaning to $\\textbf{hostage}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Free traveler",
+        "Ambassador",
+        "Prisoner held for ransom or negotiation",
+        "Journalist"
+      ],
+      "answer": "Prisoner held for ransom or negotiation",
+      "explanation": "A hostage is a person seized or held as security for the fulfillment of a condition."
+    },
+    {
+      "id": "U2009_31",
+      "text": "The incident occurred $\\textbf{(off/on)}$ the coast of Somalia, far from major shipping lanes.\n\nChoose the correct preposition to fill the gap.",
+      "image": "",
+      "options": [
+        "off",
+        "on",
+        "in",
+        "through"
+      ],
+      "answer": "off",
+      "explanation": "'Off the coast' means situated near or relatively near to the shore or coastline."
+    },
+    {
+      "id": "U2009_32",
+      "text": "The word $\\textbf{'rescue'}$ $\\textbf{r e s c u e}$.\n\nIdentify the syllable that carries the primary stress in the word **rescue**.",
+      "image": "",
+      "options": [
+        "res",
+        "cue"
+      ],
+      "answer": "res",
+      "explanation": "The primary stress in 'rescue' /ˈres.kjuː/ falls on the first syllable, 'res'."
+    },
+    {
+      "id": "U2009_33",
+      "text": "Massive protests, known as the $\\textbf{Green}$ $\\textbf{Movement}$, erupted in $\\textbf{Iran}$ following the $\\textbf{disputed}$ presidential election results in June 2009, challenging the $\\textbf{legitimacy}$ of the government. (Comprehension Passage Snippet 9)\n\nWhat caused the eruption of the Green Movement protests in Iran?",
+      "image": "",
+      "options": [
+        "A new economic policy",
+        "The result of a football match",
+        "Disputed presidential election results",
+        "A military invasion"
+      ],
+      "answer": "Disputed presidential election results",
+      "explanation": "The text states the protests followed the 'disputed presidential election results'."
+    },
+    {
+      "id": "U2009_34",
+      "text": "The results were $\\textbf{disputed}$, with the opposition claiming widespread fraud.\n\nChoose the word that is closest in meaning to $\\textbf{disputed}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Accepted or verified",
+        "Argued or contested",
+        "Forgotten completely",
+        "Announced early"
+      ],
+      "answer": "Argued or contested",
+      "explanation": "Disputed means debated, questioned, or argued about (whether something is true, correct, or genuine)."
+    },
+    {
+      "id": "U2009_35",
+      "text": "Before the unrest, the opposition $\\textbf{(had been campaigning/was campaigning)}$ peacefully for several months.\n\nChoose the correct verb tense to describe the continuous action before a past event.",
+      "image": "",
+      "options": [
+        "had been campaigning",
+        "was campaigning",
+        "campaigned",
+        "will campaign"
+      ],
+      "answer": "had been campaigning",
+      "explanation": "The Past Perfect Continuous ('had been campaigning') is used to show that an action started in the past and continued up to another time in the past (the unrest)."
+    },
+    {
+      "id": "U2009_36",
+      "text": "The word $\\textbf{'protest'}$ $\\textbf{p r o t e s t}$ (noun).\n\nIdentify the syllable that carries the primary stress in the noun **protest**.",
+      "image": "",
+      "options": [
+        "pro",
+        "test"
+      ],
+      "answer": "pro",
+      "explanation": "The primary stress in the noun 'protest' /ˈprəʊ.test/ falls on the first syllable, 'pro'."
+    },
+    {
+      "id": "U2009_37",
+      "text": "The UN Climate Change Conference, also known as $\\textbf{COP15}$, was held in $\\textbf{Copenhagen}$ in December 2009, with the goal of achieving a new global agreement $\\textbf{to}$ $\\textbf{reduce}$ $\\textbf{carbon}$ $\\textbf{emissions}$. (Comprehension Passage Snippet 10)\n\nWhat was the primary goal of the Copenhagen climate summit?",
+      "image": "",
+      "options": [
+        "To abolish the United Nations",
+        "To negotiate new global trade tariffs",
+        "To achieve a new agreement to reduce carbon emissions",
+        "To establish a lunar colony"
+      ],
+      "answer": "To achieve a new agreement to reduce carbon emissions",
+      "explanation": "The text states the goal was 'of achieving a new global agreement to reduce carbon emissions'."
+    },
+    {
+      "id": "U2009_38",
+      "text": "Negotiators struggled to reach a $\\textbf{consensus}$ on binding emission targets.\n\nChoose the word that is closest in meaning to $\\textbf{consensus}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Disagreement",
+        "General agreement or shared opinion",
+        "Official document",
+        "Legal loophole"
+      ],
+      "answer": "General agreement or shared opinion",
+      "explanation": "Consensus means general agreement."
+    },
+    {
+      "id": "U2009_39",
+      "text": "All nations were urged $\\textbf{(to reduce/reducing)}$ their fossil fuel consumption immediately.\n\nChoose the correct verb form (infinitive or gerund) after the verb 'urged'.",
+      "image": "",
+      "options": [
+        "to reduce",
+        "reducing",
+        "reduces",
+        "reduced"
+      ],
+      "answer": "to reduce",
+      "explanation": "Verbs like 'urge' are typically followed by the infinitive form: 'urge someone to do something'."
+    },
+    {
+      "id": "U2009_40",
+      "text": "The word $\\textbf{'summit'}$ $\\textbf{s u m m i t}$.\n\nWhich of the following words has the same short vowel sound as the word **summit**?",
+      "image": "",
+      "options": [
+        "Suit",
+        "Cut",
+        "Sit",
+        "Same"
+      ],
+      "answer": "Sit",
+      "explanation": "Both 'summit' /ˈsʌm.ɪt/ and 'Sit' /sɪt/ contain the short vowel sound /ɪ/."
+    }
+  ]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "BIO_2023_01",
+      "text": "Which of the following describes the level of organization of a single-celled organism like Amoeba?",
+      "image": "[Diagram of the levels of organization in biology]",
+      "options": ["Tissue level", "Cellular level", "Organ system level", "Organismal level"],
+      "answer": "Cellular level",
+      "explanation": "Unicellular organisms, such as Amoeba and Paramecium, perform all life functions within a single cell, hence representing the cellular level of organization."
+    },
+    {
+      "id": "BIO_2023_02",
+      "text": "The process by which green plants manufacture their food using light energy is:",
+      "image": "[Equation for Photosynthesis]",
+      "options": ["Chemosynthesis", "Respiration", "Photosynthesis", "Digestion"],
+      "answer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process that converts light energy into chemical energy, stored in glucose, by synthesizing food from carbon dioxide and water."
+    },
+    {
+      "id": "BIO_2023_03",
+      "text": "Which part of the mammalian ear is responsible for maintaining body balance and equilibrium?",
+      "image": "[Diagram of the human ear focusing on the semicircular canals]",
+      "options": ["Pinna", "Cochlea", "Eardrum (Tympanic membrane)", "Semicircular canals"],
+      "answer": "Semicircular canals",
+      "explanation": "The semicircular canals in the inner ear are filled with fluid and contain sensory hairs that detect rotational movements of the head, thereby contributing to balance and equilibrium."
+    },
+    {
+      "id": "BIO_2023_04",
+      "text": "A population of organisms is said to be in competition when they:",
+      "image": "[Image illustrating intraspecific competition]",
+      "options": ["Feed on different food sources", "Occupy different habitats", "Struggle for the same limited resources", "Exist as predator and prey"],
+      "answer": "Struggle for the same limited resources",
+      "explanation": "Competition occurs when organisms (either of the same species, intraspecific, or different species, interspecific) vie for the same resources, such as food, water, or mates, that are scarce."
+    },
+    {
+      "id": "BIO_2023_05",
+      "text": "The ultimate source of energy for nearly all living organisms is:",
+      "image": "[Diagram of the flow of energy in an ecosystem]",
+      "options": ["Chemical energy in food", "The Sun", "Geothermal energy", "Heat from the Earth"],
+      "answer": "The Sun",
+      "explanation": "The Sun provides the light energy needed for photosynthesis, which is the process that introduces energy into most food chains and ecosystems."
+    },
+    {
+      "id": "BIO_2023_06",
+      "text": "Which of the following blood components is primarily involved in blood clotting?",
+      "image": "[Diagram of blood components highlighting platelets]",
+      "options": ["Erythrocytes (Red blood cells)", "Leucocytes (White blood cells)", "Plasma", "Platelets (Thrombocytes)"],
+      "answer": "Platelets (Thrombocytes)",
+      "explanation": "Platelets are small, irregular, disc-shaped fragments of cells that are vital in forming a clot (thrombus) to stop bleeding."
+    },
+    {
+      "id": "BIO_2023_07",
+      "text": "The scientific name for the housefly, *Musca domestica*, indicates its:",
+      "image": "",
+      "options": ["Phylum and Class", "Genus and Species", "Family and Genus", "Order and Family"],
+      "answer": "Genus and Species",
+      "explanation": "According to the Linnaean system of binomial nomenclature, the first word (*Musca*) is the genus, and the second word (*domestica*) is the species."
+    },
+    {
+      "id": "BIO_2023_08",
+      "text": "The main excretory product in insects is:",
+      "image": "",
+      "options": ["Urea", "Ammonia", "Uric acid", "Creatinine"],
+      "answer": "Uric acid",
+      "explanation": "Insects, birds, and reptiles excrete nitrogenous waste primarily as uric acid, which requires minimal water, an adaptation for terrestrial life."
+    },
+    {
+      "id": "BIO_2023_09",
+      "text": "The part of the flower that develops into the fruit after fertilization is the:",
+      "image": "[Diagram of a flower showing the ovary]",
+      "options": ["Petal", "Stamen", "Ovary", "Ovule"],
+      "answer": "Ovary",
+      "explanation": "After fertilization, the ovary wall matures and ripens to form the fruit, while the ovules inside develop into seeds."
+    },
+    {
+      "id": "BIO_2023_10",
+      "text": "Which of the following organisms exhibit extracellular digestion?",
+      "image": "",
+      "options": ["Amoeba", "Paramecium", "Earthworm", "Fungus (e.g., Mucor)"],
+      "answer": "Fungus (e.g., Mucor)",
+      "explanation": "Fungi release digestive enzymes onto the dead or decaying organic matter (extracellularly) and then absorb the soluble nutrients."
+    },
+    {
+      "id": "BIO_2023_11",
+      "text": "A plant with parallel venation, fibrous roots, and flower parts in multiples of three is likely a:",
+      "image": "[Diagram comparing Monocot and Dicot features]",
+      "options": ["Dicotyledon", "Monocotyledon", "Pteridophyte", "Gymnosperm"],
+      "answer": "Monocotyledon",
+      "explanation": "These are characteristic features of monocotyledonous plants: leaves with parallel veins, a fibrous root system, and floral parts in threes or multiples of three."
+    },
+    {
+      "id": "BIO_2023_12",
+      "text": "The disease caused by the deficiency of Vitamin $\\text{C}$ is:",
+      "image": "",
+      "options": ["Rickets", "Night blindness", "Beri-beri", "Scurvy"],
+      "answer": "Scurvy",
+      "explanation": "Scurvy is caused by a severe lack of Vitamin $\\text{C}$ (ascorbic acid), leading to weak connective tissue, bleeding gums, and bruising."
+    },
+    {
+      "id": "BIO_2023_13",
+      "text": "The region of cell division in the root of a plant is the:",
+      "image": "[Diagram of a root tip showing the zones]",
+      "options": ["Root cap", "Zone of elongation", "Zone of cell division (Apical meristem)", "Zone of differentiation"],
+      "answer": "Zone of cell division (Apical meristem)",
+      "explanation": "The Zone of cell division, located just behind the root cap, contains the apical meristem, where rapid cell division (mitosis) occurs for growth."
+    },
+    {
+      "id": "BIO_2023_14",
+      "text": "Which statement correctly describes the function of $\\text{DNA}$ in a living cell?",
+      "image": "[Diagram of the DNA double helix]",
+      "options": ["It transports amino acids to the ribosome", "It catalyzes chemical reactions", "It carries the genetic instructions for the development and function of all known organisms", "It provides structural support to the cell wall"],
+      "answer": "It carries the genetic instructions for the development and function of all known organisms",
+      "explanation": "Deoxyribonucleic acid ($\\text{DNA}$) stores the genetic information that guides the synthesis of proteins, which determine the organism's traits."
+    },
+    {
+      "id": "BIO_2023_15",
+      "text": "In a food chain, what happens to the energy that is not transferred to the next trophic level?",
+      "image": "[Diagram of an energy pyramid]",
+      "options": ["It is completely recycled by decomposers", "It is lost mainly as heat to the environment", "It remains locked in the organism's tissues indefinitely", "It is converted back into light energy"],
+      "answer": "It is lost mainly as heat to the environment",
+      "explanation": "According to the $10\\%$ rule, only about $10\\%$ of energy moves to the next level; the rest is lost primarily as heat during metabolic processes (respiration, movement, etc.)."
+    },
+    {
+      "id": "BIO_2023_16",
+      "text": "The primary function of chlorophyll in photosynthesis is to:",
+      "image": "[Diagram of a chloroplast showing thylakoids]",
+      "options": ["Absorb water from the atmosphere", "Catalyze the synthesis of glucose", "Trap light energy", "Store the synthesized food"],
+      "answer": "Trap light energy",
+      "explanation": "Chlorophyll, the green pigment, is crucial for capturing sunlight, which is the initial step in the light-dependent reactions of photosynthesis."
+    },
+    {
+      "id": "BIO_2023_17",
+      "text": "A man with blood group $\\text{AB}$ and a woman with blood group $\\text{O}$ can have children with which blood group phenotype?",
+      "image": "[Punnett square for $\\text{I}^A\\text{I}^B \\times \\text{ii}$]",
+      "options": ["$\text{A}$ and $\text{B}$ only", "$\text{A}$ and $\text{O}$ only", "$\text{B}$ and $\text{O}$ only", "$\text{AB}$ and $\text{O}$ only"],
+      "answer": "$\text{A}$ and $\text{B}$ only",
+      "explanation": "The cross $\\text{I}^A\\text{I}^B \\times \text{ii}$ yields genotypes $\\text{I}^A\\text{i}$ ($\text{A}$) and $\\text{I}^B\\text{i}$ ($\text{B}$) in a $1:1$ ratio. $\text{O}$ and $\text{AB}$ are impossible."
+    },
+    {
+      "id": "BIO_2023_18",
+      "text": "The process where a single parent produces offspring that are genetically identical to itself is known as:",
+      "image": "[Image illustrating Asexual Reproduction (e.g., Budding)]",
+      "options": ["Sexual reproduction", "Meiosis", "Fertilization", "Asexual reproduction"],
+      "answer": "Asexual reproduction",
+      "explanation": "Asexual reproduction involves one parent and produces genetically identical clones (excluding mutations)."
+    },
+    {
+      "id": "BIO_2023_19",
+      "text": "Which tissue in plants is responsible for the transport of manufactured food (sugars)?",
+      "image": "[Diagram of plant vascular tissues, xylem and phloem]",
+      "options": ["Xylem", "Phloem", "Parenchyma", "Sclerenchyma"],
+      "answer": "Phloem",
+      "explanation": "The phloem tissue is primarily responsible for translocation, the movement of organic nutrients like sucrose from the leaves (source) to other parts of the plant (sinks)."
+    },
+    {
+      "id": "BIO_2023_20",
+      "text": "The term used to describe the totality of genes in an individual is the:",
+      "image": "",
+      "options": ["Phenotype", "Allele", "Locus", "Genotype"],
+      "answer": "Genotype",
+      "explanation": "Genotype refers to the genetic makeup of an organism, specifically the set of genes it possesses. Phenotype is the observable physical expression."
+    },
+    {
+      "id": "BIO_2023_21",
+      "text": "Which of the following is an example of a characteristic feature of cold-blooded (poikilothermic) animals?",
+      "image": "",
+      "options": ["Possess insulating fur", "Maintain a constant high body temperature", "Have a body temperature that fluctuates with the environment", "Possess a four-chambered heart"],
+      "answer": "Have a body temperature that fluctuates with the environment",
+      "explanation": "Cold-blooded animals, such as reptiles and amphibians, cannot regulate their body temperature internally; it changes with the temperature of their surroundings."
+    },
+    {
+      "id": "BIO_2023_22",
+      "text": "The breakdown of glucose into pyruvate in the cytoplasm, releasing a small amount of $\\text{ATP}$, is called:",
+      "image": "[Diagram of Glycolysis]",
+      "options": ["Krebs cycle", "Electron transport chain", "Glycolysis", "Fermentation"],
+      "answer": "Glycolysis",
+      "explanation": "Glycolysis is the first stage of both aerobic and anaerobic respiration, occurring in the cytosol, where one glucose molecule is split into two pyruvate molecules."
+    },
+    {
+      "id": "BIO_2023_23",
+      "text": "Which organelle is responsible for respiration and energy production in the form of $\\text{ATP}$?",
+      "image": "[Diagram of a Mitochondrion]",
+      "options": ["Nucleus", "Ribosome", "Chloroplast", "Mitochondrion"],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are often called the 'powerhouses' of the cell because they are the site of aerobic respiration, which generates the vast majority of the cell's $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2023_24",
+      "text": "In the human digestive system, chemical digestion of starch begins in the:",
+      "image": "[Diagram of the human digestive system]",
+      "options": ["Stomach", "Small intestine", "Mouth", "Large intestine"],
+      "answer": "Mouth",
+      "explanation": "Salivary amylase (Ptyalin) in the saliva starts the breakdown of starch into maltose in the mouth."
+    },
+    {
+      "id": "BIO_2023_25",
+      "text": "The main substance that constitutes the cell wall of fungi is:",
+      "image": "[Diagram of a fungal cell]",
+      "options": ["Cellulose", "Lignin", "Chitin", "Pectin"],
+      "answer": "Chitin",
+      "explanation": "Fungal cell walls are made of Chitin, a structural polysaccharide, which is also the main component of the exoskeletons of insects and crustaceans."
+    },
+    {
+      "id": "BIO_2023_26",
+      "text": "The loss of soil fertility due to continuous planting of the same crop without rotation is termed:",
+      "image": "",
+      "options": ["Erosion", "Leaching", "Monocropping (Continuous cropping)", "Afforestation"],
+      "answer": "Monocropping (Continuous cropping)",
+      "explanation": "Monocropping, or continuous cropping of the same species, depletes specific soil nutrients required by that crop, leading to reduced fertility and lower yields."
+    },
+    {
+      "id": "BIO_2023_27",
+      "text": "Which of the following hormones is secreted by the adrenal gland and prepares the body for 'fight or flight' response?",
+      "image": "[Diagram of the Adrenal Gland]",
+      "options": ["Insulin", "Thyroxine", "Adrenaline (Epinephrine)", "Testosterone"],
+      "answer": "Adrenaline (Epinephrine)",
+      "explanation": "Adrenaline (Epinephrine) is a hormone released in response to stress, preparing the body for intense physical activity by increasing heart rate, blood pressure, and blood sugar levels."
+    },
+    {
+      "id": "BIO_2023_28",
+      "text": "A plant is described as a xerophyte because it is adapted to survive in areas with:",
+      "image": "",
+      "options": ["High salinity", "Scarcity of water", "Waterlogged soil", "Low light intensity"],
+      "answer": "Scarcity of water",
+      "explanation": "Xerophytes (e.g., cacti, euphorbias) are plants that have evolved structural and physiological adaptations to survive in dry or arid environments."
+    },
+    {
+      "id": "BIO_2023_29",
+      "text": "The primary role of decomposers in an ecosystem is to:",
+      "image": "[Diagram illustrating the role of decomposers in nutrient cycling]",
+      "options": ["Produce food for consumers", "Convert light energy into chemical energy", "Break down dead organic matter and recycle nutrients", "Feed on primary consumers"],
+      "answer": "Break down dead organic matter and recycle nutrients",
+      "explanation": "Decomposers (bacteria and fungi) break down dead organisms and waste products, returning essential nutrients (like nitrogen and carbon) to the soil or atmosphere."
+    },
+    {
+      "id": "BIO_2023_30",
+      "text": "In the human female, the fusion of the sperm nucleus and the egg nucleus occurs in the:",
+      "image": "[Diagram of the female reproductive system focusing on the fallopian tube]",
+      "options": ["Uterus", "Ovary", "Vagina", "Fallopian tube (Oviduct)"],
+      "answer": "Fallopian tube (Oviduct)",
+      "explanation": "Fertilization, the fusion of the male and female gametes, typically takes place in the ampulla region of the Fallopian tube."
+    },
+    {
+      "id": "BIO_2023_31",
+      "text": "The structure in the eye that controls the amount of light entering the eye is the:",
+      "image": "[Diagram of the human eye showing the Iris]",
+      "options": ["Cornea", "Lens", "Iris", "Retina"],
+      "answer": "Iris",
+      "explanation": "The iris, a colored muscular structure, adjusts the size of the pupil, thereby regulating the amount of light that hits the retina."
+    },
+    {
+      "id": "BIO_2023_32",
+      "text": "The part of the central nervous system that controls involuntary actions like heartbeat and breathing is the:",
+      "image": "[Diagram of the human brain showing the Medulla Oblongata]",
+      "options": ["Cerebrum", "Cerebellum", "Spinal cord", "Medulla oblongata"],
+      "answer": "Medulla oblongata",
+      "explanation": "The Medulla oblongata, located in the brainstem, is responsible for controlling autonomic, involuntary functions such as respiration, heart rate, and blood pressure."
+    },
+    {
+      "id": "BIO_2023_33",
+      "text": "Which of the following is a vestigial organ in humans?",
+      "image": "",
+      "options": ["Liver", "Appendix", "Heart", "Lungs"],
+      "answer": "Appendix",
+      "explanation": "Vestigial organs are remnants of structures that had important functions in ancestors but have lost most or all of their original function through evolution. The human appendix is a classic example."
+    },
+    {
+      "id": "BIO_2023_34",
+      "text": "The main component of the cell membrane, which allows it to be selectively permeable, is a:",
+      "image": "[Diagram of the Fluid Mosaic Model of the cell membrane]",
+      "options": ["Cellulose layer", "Protein-only layer", "Phospholipid bilayer", "Carbohydrate matrix"],
+      "answer": "Phospholipid bilayer",
+      "explanation": "The cell membrane is a fluid mosaic of lipids and proteins. The basic structure is the phospholipid bilayer, which gives the membrane its semi-permeable properties."
+    },
+    {
+      "id": "BIO_2023_35",
+      "text": "Which mode of transmission is characteristic of the disease known as Cholera?",
+      "image": "",
+      "options": ["Airborne droplets", "Sexual contact", "Contaminated food and water", "Vector transmission (Mosquito)"],
+      "answer": "Contaminated food and water",
+      "explanation": "Cholera is an acute diarrheal disease caused by the bacterium *Vibrio cholerae*, typically spread through contaminated water or food sources."
+    },
+    {
+      "id": "BIO_2023_36",
+      "text": "In genetics, the phenomenon where a single gene affects multiple, seemingly unrelated phenotypic traits is called:",
+      "image": "",
+      "options": ["Incomplete dominance", "Co-dominance", "Epistasis", "Pleiotropy"],
+      "answer": "Pleiotropy",
+      "explanation": "Pleiotropy occurs when one gene influences two or more different characteristic traits, such as the gene for sickle cell anemia which also provides resistance to malaria."
+    },
+    {
+      "id": "BIO_2023_37",
+      "text": "Which plant hormone is responsible for the ripening of fruits?",
+      "image": "",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+      "answer": "Ethylene",
+      "explanation": "Ethylene is a gaseous plant hormone that plays a major role in the ripening of climacteric fruits."
+    },
+    {
+      "id": "BIO_2023_38",
+      "text": "The primary structure in the kidney responsible for the filtration of blood is the:",
+      "image": "[Diagram of a Nephron]",
+      "options": ["Loop of Henle", "Collecting duct", "Glomerulus (in Bowman's capsule)", "Renal tubule"],
+      "answer": "Glomerulus (in Bowman's capsule)",
+      "explanation": "The Glomerulus, a network of capillaries within the Bowman's capsule, is where ultrafiltration of the blood occurs to form the initial filtrate."
+    },
+    {
+      "id": "BIO_2023_39",
+      "text": "Which adaptation allows birds to fly?",
+      "image": "",
+      "options": ["Presence of a long tail", "Presence of scales", "Pneumatic bones (hollow and lightweight)", "Possession of external ear lobes"],
+      "answer": "Pneumatic bones (hollow and lightweight)",
+      "explanation": "Pneumatic (hollow) bones and the presence of feathers are key anatomical adaptations that reduce body weight and facilitate flight in birds."
+    },
+    {
+      "id": "BIO_2023_40",
+      "text": "The main advantage of cross-pollination over self-pollination is that it:",
+      "image": "[Diagram comparing self-pollination and cross-pollination]",
+      "options": ["Requires less energy", "Leads to less wastage of pollen", "Introduces genetic variation", "Always results in fertilization"],
+      "answer": "Introduces genetic variation",
+      "explanation": "Cross-pollination involves the fusion of gametes from genetically different individuals, leading to hybridization and increased genetic diversity, which is crucial for adaptation and evolution."
+    }
+]

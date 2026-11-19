@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In 2018, King Mswati III officially changed the name of his country from $\\textbf{Swaziland}$ to $\\textbf{Eswatini}$ to mark the 50th anniversary of independence.",
+        "image": "",
+        "options": [
+            "Lesotho",
+            "Botswana",
+            "Eswatini",
+            "Zimbabwe"
+        ],
+        "answer": "Eswatini",
+        "explanation": "The name means 'land of the Swazis' in the Swazi language and was changed partly to avoid confusion with Switzerland."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Kilauea}$ volcano in $\\textbf{Hawaii}$ experienced a massive lower Puna eruption in 2018, destroying hundreds of homes and reshaping the coastline.",
+        "image": "",
+        "options": [
+            "Mauna Loa",
+            "Kilauea",
+            "Haleakala",
+            "Mauna Kea"
+        ],
+        "answer": "Kilauea",
+        "explanation": "It was one of the most destructive eruptions in Hawaii's modern history, adding hundreds of acres of new land to the Big Island."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Tham Luang}$ cave complex, where a junior football team was trapped and successfully rescued in 2018, is located in the Chiang Rai province of $\\textbf{Thailand}$.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Laos",
+            "Thailand",
+            "Myanmar"
+        ],
+        "answer": "Thailand",
+        "explanation": "The dramatic rescue operation involved international divers and highlighted the treacherous geography of the flooded cave system."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Camp Fire}$, the deadliest and most destructive wildfire in $\\textbf{California}$ history, virtually destroyed the town of $\\textbf{Paradise}$ in 2018.",
+        "image": "",
+        "options": [
+            "Oregon",
+            "California",
+            "Colorado",
+            "Arizona"
+        ],
+        "answer": "California",
+        "explanation": "The fire was ignited by faulty electrical transmission lines and spread rapidly due to extreme drought conditions."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Hong Kong–Zhuhai–Macau Bridge}$, the world's longest sea-crossing bridge, opened in 2018, connecting cities across the $\\textbf{Pearl River Delta}$.",
+        "image": "",
+        "options": [
+            "Yangtze Delta",
+            "Yellow River Delta",
+            "Pearl River Delta",
+            "Mekong Delta"
+        ],
+        "answer": "Pearl River Delta",
+        "explanation": "This massive infrastructure project links Hong Kong, Macau, and mainland China physically."
+    },
+    {
+        "id": "GEO06",
+        "text": "A devastating earthquake and tsunami struck the island of $\\textbf{Sulawesi}$ in $\\textbf{Indonesia}$ in 2018, severely damaging the city of $\\textbf{Palu}$.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Sulawesi",
+            "Bali"
+        ],
+        "answer": "Sulawesi",
+        "explanation": "The unique geography of Palu bay amplified the tsunami waves, causing widespread destruction."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{Volcán de Fuego}$ erupted violently in June 2018, causing deadly pyroclastic flows in $\\textbf{Guatemala}$.",
+        "image": "",
+        "options": [
+            "Mexico",
+            "El Salvador",
+            "Guatemala",
+            "Nicaragua"
+        ],
+        "answer": "Guatemala",
+        "explanation": "It is one of Central America's most active volcanoes, located near the colonial city of Antigua."
+    },
+    {
+        "id": "GEO08",
+        "text": "In 2018, the city of $\\textbf{Cape Town}$ in $\\textbf{South Africa}$ narrowly avoided 'Day Zero', the day when municipal water taps would be turned off due to severe $\\textbf{Drought}$.",
+        "image": "",
+        "options": [
+            "Johannesburg",
+            "Durban",
+            "Cape Town",
+            "Pretoria"
+        ],
+        "answer": "Cape Town",
+        "explanation": "Severe water restrictions and public cooperation helped the city avert the crisis."
+    },
+    {
+        "id": "GEO09",
+        "text": "The $\\textbf{Anak Krakatau}$ volcano in the $\\textbf{Sunda Strait}$ collapsed in late 2018, triggering a deadly tsunami that hit the coasts of Java and Sumatra.",
+        "image": "",
+        "options": [
+            "Malacca Strait",
+            "Sunda Strait",
+            "Lombok Strait",
+            "Makassar Strait"
+        ],
+        "answer": "Sunda Strait",
+        "explanation": "Anak Krakatau ('Child of Krakatoa') emerged from the caldera of the famous 1883 eruption."
+    },
+    {
+        "id": "GEO10",
+        "text": "The 2018 $\\textbf{Winter Olympics}$ were held in $\\textbf{PyeongChang}$, a county in the Taebaek Mountains of $\\textbf{South Korea}$.",
+        "image": "",
+        "options": [
+            "Japan",
+            "China",
+            "South Korea",
+            "North Korea"
+        ],
+        "answer": "South Korea",
+        "explanation": "The games were notable for the joint march of North and South Korean athletes under a unified flag."
+    },
+    {
+        "id": "GEO11",
+        "text": "Hurricane $\\textbf{Michael}$ made landfall in the $\\textbf{Florida Panhandle}$ in 2018 as a Category 5 storm, destroying the Tyndall Air Force Base.",
+        "image": "",
+        "options": [
+            "Texas",
+            "Louisiana",
+            "Florida",
+            "North Carolina"
+        ],
+        "answer": "Florida",
+        "explanation": "It was the first Category 5 hurricane to strike the contiguous United States since Hurricane Andrew in 1992."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Yellow Vest}$ protests (Gilets Jaunes) began in 2018 across $\\textbf{France}$, initially sparked by rising fuel prices and the cost of living.",
+        "image": "",
+        "options": [
+            "Germany",
+            "Belgium",
+            "France",
+            "Spain"
+        ],
+        "answer": "France",
+        "explanation": "The movement paralyzed major transport routes and landmarks like the Champs-Élysées."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Prespa Agreement}$, signed in 2018, resolved the long-standing name dispute between $\\textbf{Greece}$ and the country now known as $\\textbf{North Macedonia}$.",
+        "image": "",
+        "options": [
+            "Turkey",
+            "Bulgaria",
+            "Greece",
+            "Albania"
+        ],
+        "answer": "Greece",
+        "explanation": "The dispute arose because Greece has a northern region also named Macedonia."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Morandi Bridge}$ collapsed in the Italian city of $\\textbf{Genoa}$ in 2018, severing a vital transport link to France.",
+        "image": "",
+        "options": [
+            "Turin",
+            "Milan",
+            "Genoa",
+            "Naples"
+        ],
+        "answer": "Genoa",
+        "explanation": "The disaster highlighted the aging infrastructure issues facing many European nations."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{2018 FIFA World Cup}$ was hosted by $\\textbf{Russia}$, spanning two continents (Europe and Asia) across 11 cities.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Qatar",
+            "Russia",
+            "Germany"
+        ],
+        "answer": "Russia",
+        "explanation": "It was the first World Cup to be held in Eastern Europe."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Kerala}$ floods in 2018 were the worst floods in nearly a century to hit this southwestern state of $\\textbf{India}$.",
+        "image": "",
+        "options": [
+            "Pakistan",
+            "Bangladesh",
+            "India",
+            "Sri Lanka"
+        ],
+        "answer": "India",
+        "explanation": "Unusually high rainfall during the monsoon season caused dams to open, inundating the region."
+    },
+    {
+        "id": "GEO17",
+        "text": "In 2018, $\\textbf{Eritrea}$ and $\\textbf{Ethiopia}$ signed a peace deal ending decades of 'frozen conflict' in the $\\textbf{Horn of Africa}$.",
+        "image": "",
+        "options": [
+            "Sahel",
+            "Maghreb",
+            "Horn of Africa",
+            "Great Lakes Region"
+        ],
+        "answer": "Horn of Africa",
+        "explanation": "The border was reopened for the first time in 20 years, reuniting families."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Bering Sea}$ experienced unprecedented low levels of winter $\\textbf{Sea Ice}$ in 2018, alarming climate scientists.",
+        "image": "",
+        "options": [
+            "Beaufort Sea",
+            "Bering Sea",
+            "Chukchi Sea",
+            "Okhotsk Sea"
+        ],
+        "answer": "Bering Sea",
+        "explanation": "This anomaly disrupted indigenous hunting practices and marine ecosystems."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Sentinelese}$ people, an uncontacted tribe living on $\\textbf{North Sentinel Island}$ in the Bay of Bengal, made headlines in 2018 following an intrusion incident.",
+        "image": "",
+        "options": [
+            "Arabian Sea",
+            "Bay of Bengal",
+            "South China Sea",
+            "Andaman Sea"
+        ],
+        "answer": "Bay of Bengal",
+        "explanation": "The island is part of the Andaman and Nicobar Islands territory of India and is strictly off-limits."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{G20 Summit}$ in 2018 was held in $\\textbf{Buenos Aires}$, the capital of $\\textbf{Argentina}$, marking the first G20 summit in South America.",
+        "image": "",
+        "options": [
+            "Santiago",
+            "Brasilia",
+            "Buenos Aires",
+            "Lima"
+        ],
+        "answer": "Buenos Aires",
+        "explanation": "Leaders discussed trade, climate change, and sustainable development."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{United States}$ officially moved its embassy in $\\textbf{Israel}$ from Tel Aviv to $\\textbf{Jerusalem}$ in May 2018.",
+        "image": "",
+        "options": [
+            "Haifa",
+            "Jerusalem",
+            "Eilat",
+            "Nazareth"
+        ],
+        "answer": "Jerusalem",
+        "explanation": "The move was controversial because Jerusalem's status is a central issue in the Israeli-Palestinian conflict."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Lake Turkana}$ National Parks in $\\textbf{Kenya}$ were placed on the List of World Heritage in Danger in 2018 due to dam construction.",
+        "image": "",
+        "options": [
+            "Uganda",
+            "Tanzania",
+            "Kenya",
+            "Ethiopia"
+        ],
+        "answer": "Kenya",
+        "explanation": "The Gibe III dam in Ethiopia threatened the water levels of the lake, which is the world's largest desert lake."
+    },
+    {
+        "id": "GEO23",
+        "text": "Typhoon $\\textbf{Mangkhut}$ was the strongest storm of 2018, causing widespread destruction in the $\\textbf{Philippines}$ and $\\textbf{South China}$ in September.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Japan",
+            "Philippines",
+            "Taiwan"
+        ],
+        "answer": "Philippines",
+        "explanation": "It made landfall on the island of Luzon before hitting Hong Kong and mainland China."
+    },
+    {
+        "id": "GEO24",
+        "text": "A referendum on independence from $\\textbf{France}$ was held in $\\textbf{New Caledonia}$ in 2018, with the majority voting to remain part of France.",
+        "image": "",
+        "options": [
+            "United Kingdom",
+            "France",
+            "Netherlands",
+            "Spain"
+        ],
+        "answer": "France",
+        "explanation": "New Caledonia is a special collectivity of France located in the southwest Pacific Ocean."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Sanchi}$ oil tanker collision occurred in the $\\textbf{East China Sea}$, resulting in the world's largest condensate oil spill in decades.",
+        "image": "",
+        "options": [
+            "South China Sea",
+            "East China Sea",
+            "Yellow Sea",
+            "Sea of Japan"
+        ],
+        "answer": "East China Sea",
+        "explanation": "The tanker burned for over a week before sinking, releasing toxic light oil."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Panmunjom Declaration}$ was signed in 2018 by leaders of North and South Korea at the $\\textbf{Demilitarized Zone (DMZ)}$.",
+        "image": "",
+        "options": [
+            "Pyongyang",
+            "Seoul",
+            "DMZ",
+            "Busan"
+        ],
+        "answer": "DMZ",
+        "explanation": "The summit aimed to formally end the Korean War and denuclearize the peninsula."
+    },
+    {
+        "id": "GEO27",
+        "text": "In 2018, researchers published evidence that the $\\textbf{Great Pacific Garbage Patch}$ is much larger than previously thought, located between $\\textbf{California}$ and $\\textbf{Hawaii}$.",
+        "image": "",
+        "options": [
+            "Japan and Hawaii",
+            "California and Hawaii",
+            "Australia and New Zealand",
+            "Chile and Peru"
+        ],
+        "answer": "California and Hawaii",
+        "explanation": "The patch consists of millions of tons of floating plastic debris."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Lion Air}$ Flight 610 crash occurred in the $\\textbf{Java Sea}$ shortly after taking off from Jakarta, $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Thailand",
+            "Singapore"
+        ],
+        "answer": "Indonesia",
+        "explanation": "This was the first of two fatal crashes involving the Boeing 737 MAX 8 aircraft."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{IPCC Special Report}$ on Global Warming of $\\textbf{1.5°C}$ was released in 2018 in Incheon, $\\textbf{South Korea}$, outlining the impacts of global heating.",
+        "image": "",
+        "options": [
+            "Paris",
+            "Kyoto",
+            "Incheon",
+            "Geneva"
+        ],
+        "answer": "Incheon",
+        "explanation": "The report emphasized the urgent need to limit warming to 1.5°C above pre-industrial levels."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Hokkaido Eastern Iburi earthquake}$ struck the northernmost main island of $\\textbf{Japan}$ in 2018, causing massive landslides.",
+        "image": "",
+        "options": [
+            "Honshu",
+            "Kyushu",
+            "Hokkaido",
+            "Shikoku"
+        ],
+        "answer": "Hokkaido",
+        "explanation": "Hokkaido is known for its volcanoes, natural hot springs (onsen), and ski areas."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Mount Etna}$, Europe's highest active volcano located in $\\textbf{Sicily}$, Italy, erupted late in 2018 causing earthquakes.",
+        "image": "",
+        "options": [
+            "Sardinia",
+            "Corsica",
+            "Sicily",
+            "Crete"
+        ],
+        "answer": "Sicily",
+        "explanation": "Etna is one of the world's most active volcanoes and is in an almost constant state of activity."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Louvre Abu Dhabi}$, which saw its first full year of operations in 2018, is a major cultural museum located in the $\\textbf{United Arab Emirates}$.",
+        "image": "",
+        "options": [
+            "Saudi Arabia",
+            "Qatar",
+            "Bahrain",
+            "United Arab Emirates"
+        ],
+        "answer": "United Arab Emirates",
+        "explanation": "It is located on Saadiyat Island and is part of a cultural district in the capital."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Qantas}$ airline launched the first non-stop commercial flight from $\\textbf{Perth}$ to $\\textbf{London}$ in 2018, covering 14,498 km.",
+        "image": "",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Perth",
+            "Brisbane"
+        ],
+        "answer": "Perth",
+        "explanation": "This 'Kangaroo Route' flight takes approximately 17 hours, connecting Australia directly to Europe."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Lake Chad}$ region was the focus of a high-level conference in 2018 to address its shrinking water levels and the humanitarian crisis in the $\\textbf{Sahel}$.",
+        "image": "",
+        "options": [
+            "Maghreb",
+            "Sahel",
+            "Congo Basin",
+            "Horn of Africa"
+        ],
+        "answer": "Sahel",
+        "explanation": "The lake has shrunk by 90% since the 1960s, affecting Chad, Nigeria, Niger, and Cameroon."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Mount Agung}$ volcano in $\\textbf{Bali}$, Indonesia, erupted in mid-2018, disrupting flights and tourism on the popular island.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Bali",
+            "Lombok"
+        ],
+        "answer": "Bali",
+        "explanation": "Bali is a major tourist destination known for its volcanic mountains, beaches, and coral reefs."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Rohingya}$ refugee crisis continued in 2018, with vast camps located in $\\textbf{Cox's Bazar}$, Bangladesh, near the border with $\\textbf{Myanmar}$.",
+        "image": "",
+        "options": [
+            "India",
+            "Thailand",
+            "Myanmar",
+            "China"
+        ],
+        "answer": "Myanmar",
+        "explanation": "Cox's Bazar became home to the world's largest refugee camp."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Trans-Alaska Pipeline}$ was shut down briefly in 2018 following a 7.0 magnitude earthquake near $\\textbf{Anchorage}$.",
+        "image": "",
+        "options": [
+            "Juneau",
+            "Fairbanks",
+            "Anchorage",
+            "Nome"
+        ],
+        "answer": "Anchorage",
+        "explanation": "The pipeline transports oil from the North Slope to Valdez."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Lombok}$ earthquake in 2018 caused significant damage to the island, which sits just east of $\\textbf{Bali}$ in Indonesia.",
+        "image": "",
+        "options": [
+            "Java",
+            "Timor",
+            "Bali",
+            "Sumatra"
+        ],
+        "answer": "Bali",
+        "explanation": "The Wallace Line, a faunal boundary line, runs between Bali and Lombok."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Vistula Spit}$ canal project was initiated by $\\textbf{Poland}$ in 2018 to allow ships to bypass Russian waters near Kaliningrad.",
+        "image": "",
+        "options": [
+            "Germany",
+            "Poland",
+            "Lithuania",
+            "Sweden"
+        ],
+        "answer": "Poland",
+        "explanation": "The canal connects the Vistula Lagoon with the Gdańsk Bay."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Montecito}$ mudslides in early 2018 occurred in Southern $\\textbf{California}$, triggered by heavy rain on land burnt by the $\\textbf{Thomas Fire}$.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Arizona",
+            "California",
+            "Oregon"
+        ],
+        "answer": "California",
+        "explanation": "This disaster highlighted the dangerous 'fire-flood' cycle often seen in the region's geography."
+    }
+]

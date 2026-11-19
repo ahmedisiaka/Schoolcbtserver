@@ -1,0 +1,522 @@
+[
+    {
+      "id": "MATHS_2009_01",
+      "text": "Simplify $\\frac{5}{6} - \\frac{1}{2} + \\frac{2}{3}$.",
+      "image": "",
+      "options": [
+        "$1/2$",
+        "$3/4$",
+        "$5/6$",
+        "$1$"
+      ],
+      "answer": "$1$",
+      "explanation": "Find the Least Common Multiple (LCM) of the denominators (6, 2, 3), which is 6. The expression is $\\frac{5}{6} - \\frac{3}{6} + \\frac{4}{6} = \\frac{5 - 3 + 4}{6} = \\frac{6}{6} = 1$."
+    },
+    {
+      "id": "MATHS_2009_02",
+      "text": "Correct $0.003487$ to three significant figures.",
+      "image": "",
+      "options": [
+        "$0.003$",
+        "$0.00348$",
+        "$0.00349$",
+        "$0.0035$"
+      ],
+      "answer": "$0.00349$",
+      "explanation": "The first non-zero digit is 3. The first three significant figures are 3, 4, and 8. The fourth figure is 7, so we round up the third figure (8) to 9. The result is $0.00349$."
+    },
+    {
+      "id": "MATHS_2009_03",
+      "text": "Simplify $\\frac{2^{2n+1} \\times 4^n}{8^{n+1/3}}$.",
+      "image": "",
+      "options": [
+        "$2^{n}$",
+        "$1/2$",
+        "$2^{2n}$",
+        "$2$"
+      ],
+      "answer": "$2$",
+      "explanation": "Express all bases in terms of 2: $4^n = (2^2)^n = 2^{2n}$. $8^{n+1/3} = (2^3)^{n+1/3} = 2^{3n+1}$. The expression becomes $\\frac{2^{2n+1} \\times 2^{2n}}{2^{3n+1}} = \\frac{2^{2n+1+2n}}{2^{3n+1}} = \\frac{2^{4n+1}}{2^{3n+1}} = 2^{(4n+1) - (3n+1)} = 2^{n}$."
+    },
+    {
+      "id": "MATHS_2009_04",
+      "text": "If $\\log_8 x = 2/3$, find the value of $x$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$8$"
+      ],
+      "answer": "$4$",
+      "explanation": "Convert the logarithmic equation to an exponential equation: $8^{2/3} = x$. $x = (8^{1/3})^2 = (2)^2 = 4$."
+    },
+    {
+      "id": "MATHS_2009_05",
+      "text": "Evaluate $\\frac{2\\sqrt{27} + 3\\sqrt{12}}{\\sqrt{3}}$.",
+      "image": "",
+      "options": [
+        "$12$",
+        "$18$",
+        "$24$",
+        "$30$"
+      ],
+      "answer": "$12$",
+      "explanation": "Simplify the surds: $2\\sqrt{27} = 2\\sqrt{9 \\times 3} = 2(3\\sqrt{3}) = 6\\sqrt{3}$. $3\\sqrt{12} = 3\\sqrt{4 \\times 3} = 3(2\\sqrt{3}) = 6\\sqrt{3}$. Expression is $\\frac{6\\sqrt{3} + 6\\sqrt{3}}{\\sqrt{3}} = \\frac{12\\sqrt{3}}{\\sqrt{3}} = 12$."
+    },
+    {
+      "id": "MATHS_2009_06",
+      "text": "Factorize $3x^2 - 11x - 4$.",
+      "image": "",
+      "options": [
+        "$(3x + 1)(x - 4)$",
+        "$(3x - 1)(x + 4)$",
+        "$(3x - 4)(x + 1)$",
+        "$(3x + 4)(x - 1)$"
+      ],
+      "answer": "$(3x + 1)(x - 4)$",
+      "explanation": "We look for two numbers that multiply to $3 \\times (-4) = -12$ and add up to $-11$. These are $-12$ and $1$. $3x^2 - 12x + x - 4 = 3x(x - 4) + 1(x - 4) = (3x + 1)(x - 4)$."
+    },
+    {
+      "id": "MATHS_2009_07",
+      "text": "Solve for $x$ in the equation $\\frac{x}{3} + \\frac{x-1}{2} = 1$.",
+      "image": "",
+      "options": [
+        "$9/5$",
+        "$6/5$",
+        "$5/6$",
+        "$2/5$"
+      ],
+      "answer": "$9/5$",
+      "explanation": "Multiply through by the LCM of 3 and 2, which is 6: $6(\\frac{x}{3}) + 6(\\frac{x-1}{2}) = 6(1)$. $2x + 3(x - 1) = 6$. $2x + 3x - 3 = 6$. $5x = 9$. $x = 9/5$."
+    },
+    {
+      "id": "MATHS_2009_08",
+      "text": "If $P$ varies directly as $Q$, and $P=6$ when $Q=2$, find $P$ when $Q=5$.",
+      "image": "",
+      "options": [
+        "$10$",
+        "$15$",
+        "$20$",
+        "$30$"
+      ],
+      "answer": "$15$",
+      "explanation": "The relationship is $P = kQ$. Substitute $(P, Q) = (6, 2)$: $6 = k(2)$, so $k = 3$. The equation is $P = 3Q$. When $Q=5$, $P = 3 \\times 5 = 15$."
+    },
+    {
+      "id": "MATHS_2009_09",
+      "text": "Solve the quadratic equation $x^2 - 5x - 6 = 0$.",
+      "image": "",
+      "options": [
+        "$x=6$ or $x=-1$",
+        "$x=-6$ or $x=1$",
+        "$x=3$ or $x=2$",
+        "$x=-3$ or $x=-2$"
+      ],
+      "answer": "$x=6$ or $x=-1$",
+      "explanation": "We look for two numbers that multiply to $-6$ and add up to $-5$. These are $-6$ and $1$. $(x - 6)(x + 1) = 0$. So, $x = 6$ or $x = -1$."
+    },
+    {
+      "id": "MATHS_2009_10",
+      "text": "Find the range of values of $x$ for which $3 - x > 2x - 3$.",
+      "image": "[Number line graph showing inequality x < 2]",
+      "options": [
+        "$x < 2$",
+        "$x > 2$",
+        "$x \\le 2$",
+        "$x \\ge 2$"
+      ],
+      "answer": "$x < 2$",
+      "explanation": "Gather $x$ terms on the right and constants on the left: $3 + 3 > 2x + x$. $6 > 3x$. Divide by 3: $2 > x$, or $x < 2$."
+    },
+    {
+      "id": "MATHS_2009_11",
+      "text": "If $f(x) = x^3 - 3x^2 + 4$, find the value of $f(2)$.",
+      "image": "",
+      "options": [
+        "$0$",
+        "$4$",
+        "$8$",
+        "$12$"
+      ],
+      "answer": "$0$",
+      "explanation": "Substitute $x = 2$: $f(2) = (2)^3 - 3(2)^2 + 4 = 8 - 3(4) + 4 = 8 - 12 + 4 = 0$."
+    },
+    {
+      "id": "MATHS_2009_12",
+      "text": "The $5^{th}$ term of an A.P. is $15$ and the common difference is $2$. Find the first term.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$7$",
+        "$10$",
+        "$13$"
+      ],
+      "answer": "$7$",
+      "explanation": "For an A.P., $T_n = a + (n-1)d$. We have $T_5 = 15$ and $d = 2$. $15 = a + (5 - 1)2$. $15 = a + 8$. $a = 15 - 8 = 7$."
+    },
+    {
+      "id": "MATHS_2009_13",
+      "text": "The first term of a G.P. is $2$ and the common ratio is $3$. Find the sum of the first four terms ($S_4$).",
+      "image": "",
+      "options": [
+        "$26$",
+        "$40$",
+        "$80$",
+        "$120$"
+      ],
+      "answer": "$80$",
+      "explanation": "For a G.P., $S_n = \\frac{a(r^n - 1)}{r - 1}$. $S_4 = \\frac{2(3^4 - 1)}{3 - 1} = \\frac{2(81 - 1)}{2} = 80$."
+    },
+    {
+      "id": "MATHS_2009_14",
+      "text": "Given $\\mathcal{E} = \\{1, 2, \\dots, 10\\}$, $A = \\{2, 3, 5, 7\\}$, $B = \\{1, 3, 5, 7, 9\\}$, find $(A \\cap B)'$.",
+      "image": "[Venn Diagram showing the intersection and complement of two sets]",
+      "options": [
+        "\\{1, 2, 4, 6, 8, 9, 10\\}",
+        "\\{2, 4, 6, 8, 10\\}",
+        "\\{1, 9\\}",
+        "\\{3, 5, 7\\}"
+      ],
+      "answer": "\\{1, 2, 4, 6, 8, 9, 10\\}",
+      "explanation": "First find the intersection $A \\cap B$, which are elements common to both sets: $A \\cap B = \\{3, 5, 7\\}$. The complement $(A \\cap B)'$ contains elements in the universal set $\\mathcal{E}$ that are not in $A \\cap B$. $(A \\cap B)' = \\{1, 2, 4, 6, 8, 9, 10\\}$."
+    },
+    {
+      "id": "MATHS_2009_15",
+      "text": "The binary operation $\\triangle$ is defined by $a \\triangle b = a + b + ab$. Find $3 \\triangle 4$.",
+      "image": "",
+      "options": [
+        "$7$",
+        "$12$",
+        "$19$",
+        "$24$"
+      ],
+      "answer": "$19$",
+      "explanation": "Substitute $a=3$ and $b=4$: $3 \\triangle 4 = 3 + 4 + (3 \\times 4) = 7 + 12 = 19$."
+    },
+    {
+      "id": "MATHS_2009_16",
+      "text": "Convert $10110_2$ to base 10.",
+      "image": "",
+      "options": [
+        "$22_{10}$",
+        "$18_{10}$",
+        "$26_{10}$",
+        "$32_{10}$"
+      ],
+      "answer": "$22_{10}$",
+      "explanation": "Expand the number: $10110_2 = 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 1 \\times 2^1 + 0 \\times 2^0 = 16 + 0 + 4 + 2 + 0 = 22_{10}$."
+    },
+    {
+      "id": "MATHS_2009_17",
+      "text": "A worker spends $1/4$ of his salary on food and $1/5$ of the remainder on rent. What fraction of his salary is left?",
+      "image": "",
+      "options": [
+        "$3/4$",
+        "$2/5$",
+        "$3/5$",
+        "$9/20$"
+      ],
+      "answer": "$3/5$",
+      "explanation": "Fraction spent on food: $1/4$. Remainder: $1 - 1/4 = 3/4$. Fraction spent on rent: $1/5 \\times 3/4 = 3/20$. Total spent: $1/4 + 3/20 = 5/20 + 3/20 = 8/20 = 2/5$. Fraction left: $1 - 2/5 = 3/5$."
+    },
+    {
+      "id": "MATHS_2009_18",
+      "text": "Find the amount of $\\text{N}5,000$ after 2 years at $10\\%$ per annum, compounded annually.",
+      "image": "",
+      "options": [
+        "$\\text{N}5,500$",
+        "$\\text{N}6,000$",
+        "$\\text{N}6,050$",
+        "$\\text{N}7,000$"
+      ],
+      "answer": "$\\text{N}6,050$",
+      "explanation": "Amount $A = P(1 + R/100)^n$. $A = 5000(1 + 10/100)^2 = 5000(1.1)^2 = 5000(1.21) = 6050$. The amount is $\\text{N}6,050$."
+    },
+    {
+      "id": "MATHS_2009_19",
+      "text": "Find the area of a sector of a circle with radius $7 \\text{ cm}$ and angle $90^\\circ$. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a circle sector with angle 90 degrees]",
+      "options": [
+        "$38.5 \\text{ cm}^2$",
+        "$77 \\text{ cm}^2$",
+        "$154 \\text{ cm}^2$",
+        "$44 \\text{ cm}^2$"
+      ],
+      "answer": "$38.5 \\text{ cm}^2$",
+      "explanation": "Area of sector $A = \\frac{\\theta}{360} \\times \\pi r^2$. $A = \\frac{90}{360} \\times \\frac{22}{7} \\times 7^2 = \\frac{1}{4} \\times \\frac{22}{7} \\times 49 = \\frac{1}{4} \\times 22 \\times 7 = \\frac{154}{4} = 38.5 \\text{ cm}^2$."
+    },
+    {
+      "id": "MATHS_2009_20",
+      "text": "A cylinder has radius $3 \\text{ cm}$ and height $7 \\text{ cm}$. Find its volume. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a cylinder with radius 3cm and height 7cm]",
+      "options": [
+        "$66 \\text{ cm}^3$",
+        "$132 \\text{ cm}^3$",
+        "$198 \\text{ cm}^3$",
+        "$396 \\text{ cm}^3$"
+      ],
+      "answer": "$198 \\text{ cm}^3$",
+      "explanation": "Volume of cylinder $V = \\pi r^2 h$. $V = \\frac{22}{7} \\times 3^2 \\times 7 = 22 \\times 9 = 198 \\text{ cm}^3$."
+    },
+    {
+      "id": "MATHS_2009_21",
+      "text": "In a circle, a chord of length $12 \\text{ cm}$ is $8 \\text{ cm}$ from the center. Find the radius of the circle.",
+      "image": "[Right-angled triangle formed by the radius, half-chord, and distance to the center]",
+      "options": [
+        "$10 \\text{ cm}$",
+        "$\\sqrt{208} \\text{ cm}$",
+        "$12 \\text{ cm}$",
+        "$14 \\text{ cm}$"
+      ],
+      "answer": "$10 \\text{ cm}$",
+      "explanation": "The radius ($r$) is the hypotenuse of a right-angled triangle formed by the distance from the center ($8 \\text{ cm}$) and half the chord length ($12/2 = 6 \\text{ cm}$). $r^2 = 8^2 + 6^2 = 64 + 36 = 100$. $r = \\sqrt{100} = 10 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2009_22",
+      "text": "Find the sum of the interior angles of a pentagon.",
+      "image": "[Diagram of a pentagon showing its interior angles]",
+      "options": [
+        "$360^\\circ$",
+        "$540^\\circ$",
+        "$720^\\circ$",
+        "$900^\\circ$"
+      ],
+      "answer": "$540^\\circ$",
+      "explanation": "The sum of the interior angles of a polygon with $n$ sides is $(n-2) \\times 180^\\circ$. For a pentagon, $n=5$. Sum $ = (5 - 2) \\times 180^\\circ = 3 \\times 180^\\circ = 540^\\circ$."
+    },
+    {
+      "id": "MATHS_2009_23",
+      "text": "The locus of a point equidistant from two fixed points is a:",
+      "image": "[Diagram showing the perpendicular bisector of a line segment]",
+      "options": [
+        "Circle",
+        "Perpendicular bisector of the line segment joining the points",
+        "Straight line through the two points",
+        "Parabola"
+      ],
+      "answer": "Perpendicular bisector of the line segment joining the points",
+      "explanation": "The locus of a point equidistant from two fixed points is the perpendicular bisector of the line segment connecting the two points."
+    },
+    {
+      "id": "MATHS_2009_24",
+      "text": "Find the midpoint of the line segment joining $A(5, -2)$ and $B(-1, 4)$.",
+      "image": "[Coordinate plane showing points A and B and their midpoint]",
+      "options": [
+        "$(2, 1)$",
+        "$(3, 3)$",
+        "$(4, 2)$",
+        "$(1, 2)$"
+      ],
+      "answer": "$(2, 1)$",
+      "explanation": "Midpoint $M = (\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$. $M = (\\frac{5 + (-1)}{2}, \\frac{-2 + 4}{2}) = (\\frac{4}{2}, \\frac{2}{2}) = (2, 1)$."
+    },
+    {
+      "id": "MATHS_2009_25",
+      "text": "Find the equation of the line passing through $(2, 3)$ with a gradient of $1/2$.",
+      "image": "[Graph of the line y - 3 = 1/2 (x - 2)]",
+      "options": [
+        "$2y = x + 4$",
+        "$2y = x - 4$",
+        "$y = 2x - 1$",
+        "$y = 1/2 x + 2$"
+      ],
+      "answer": "$2y = x + 4$",
+      "explanation": "Use the point-slope form $y - y_1 = m(x - x_1)$: $y - 3 = \\frac{1}{2}(x - 2)$. Multiply by 2: $2(y - 3) = x - 2$. $2y - 6 = x - 2$. $2y = x - 2 + 6$. $2y = x + 4$."
+    },
+    {
+      "id": "MATHS_2009_26",
+      "text": "If $\\cos \\theta = 4/5$, where $\\theta$ is acute, find the value of $\\tan \\theta$.",
+      "image": "[Right-angled triangle with adjacent 4 and hypotenuse 5]",
+      "options": [
+        "$3/4$",
+        "$4/3$",
+        "$3/5$",
+        "$5/3$"
+      ],
+      "answer": "$3/4$",
+      "explanation": "Using Pythagoras theorem: $\\text{Opposite}^2 = 5^2 - 4^2 = 25 - 16 = 9$. Opposite $= 3$. $\\tan \\theta = \\text{Opposite}/\\text{Adjacent} = 3/4$."
+    },
+    {
+      "id": "MATHS_2009_27",
+      "text": "Evaluate $\\cos 60^\\circ + \\sin 30^\\circ$.",
+      "image": "",
+      "options": [
+        "$1/2$",
+        "$\\sqrt{3}/2$",
+        "$1$",
+        "$3/2$"
+      ],
+      "answer": "$1$",
+      "explanation": "Recall standard trigonometric values: $\\cos 60^\\circ = 1/2$ and $\\sin 30^\\circ = 1/2$. Sum $= 1/2 + 1/2 = 1$."
+    },
+    {
+      "id": "MATHS_2009_28",
+      "text": "A ladder $10 \\text{ m}$ long leans against a wall. If the foot of the ladder is $6 \\text{ m}$ from the wall, find the angle the ladder makes with the ground.",
+      "image": "[Right-angled triangle showing ladder, wall, and ground]",
+      "options": [
+        "$36.87^\\circ$",
+        "$45.0^\\circ$",
+        "$53.13^\\circ$",
+        "$60.0^\\circ$"
+      ],
+      "answer": "$53.13^\\circ$",
+      "explanation": "Let $\\theta$ be the angle with the ground. $\\cos \\theta = \\text{Adjacent}/\\text{Hypotenuse} = 6/10 = 0.6$. $\\theta = \\arccos(0.6) \\approx 53.13^\\circ$."
+    },
+    {
+      "id": "MATHS_2009_29",
+      "text": "Find the derivative of $y = (2x - 3)^4$ with respect to $x$.",
+      "image": "",
+      "options": [
+        "$4(2x - 3)^3$",
+        "$8(2x - 3)^3$",
+        "$2(2x - 3)^4$",
+        "$1/5 (2x - 3)^5$"
+      ],
+      "answer": "$8(2x - 3)^3$",
+      "explanation": "Using the chain rule, $\\frac{dy}{dx} = \\frac{d}{du}(u^4) \\cdot \\frac{d}{dx}(2x - 3)$, where $u = 2x - 3$. $\\frac{dy}{dx} = 4u^3 \\cdot 2 = 8u^3$. Substituting $u$ back: $\\frac{dy}{dx} = 8(2x - 3)^3$."
+    },
+    {
+      "id": "MATHS_2009_30",
+      "text": "Evaluate $\\int_0^1 (3x^2 - 2x) dx$.",
+      "image": "[Graph showing the area under the curve 3x^2 - 2x from x=0 to x=1]",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "$0$",
+      "explanation": "Integrate: $\\int (3x^2 - 2x) dx = x^3 - x^2 + C$. Evaluate: $[x^3 - x^2]_0^1 = (1^3 - 1^2) - (0^3 - 0^2) = (1 - 1) - 0 = 0$."
+    },
+    {
+      "id": "MATHS_2009_31",
+      "text": "Find the mean of the set of numbers $1, 3, 5, 7, 9$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "answer": "$5$",
+      "explanation": "Mean $\\bar{x} = \\frac{\\sum x}{N} = \\frac{1 + 3 + 5 + 7 + 9}{5} = \\frac{25}{5} = 5$."
+    },
+    {
+      "id": "MATHS_2009_32",
+      "text": "Find the mode of the following set of numbers: $2, 4, 7, 4, 8, 4, 3, 9$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$4$",
+        "$7$",
+        "$9$"
+      ],
+      "answer": "$4$",
+      "explanation": "The mode is the number that appears most frequently in the set. The number 4 appears three times, more than any other number."
+    },
+    {
+      "id": "MATHS_2009_33",
+      "text": "In a class of 40 students, 25 read Physics and 20 read Chemistry. If every student reads at least one subject, how many read both?",
+      "image": "[Venn Diagram for two intersecting sets P and C]",
+      "options": [
+        "$5$",
+        "$10$",
+        "$15$",
+        "$20$"
+      ],
+      "answer": "$5$",
+      "explanation": "Let $P$ be Physics and $C$ be Chemistry. $N(\\mathcal{E}) = 40$. $N(P) = 25$, $N(C) = 20$. Since every student reads at least one, $N(P \\cup C) = 40$. $N(P \\cap C) = N(P) + N(C) - N(P \\cup C) = 25 + 20 - 40 = 45 - 40 = 5$."
+    },
+    {
+      "id": "MATHS_2009_34",
+      "text": "Two fair dice are rolled. What is the probability of getting a sum of 7?",
+      "image": "[Table showing all possible outcomes (36) of rolling two dice]",
+      "options": [
+        "$1/36$",
+        "$1/12$",
+        "$1/6$",
+        "$1/4$"
+      ],
+      "answer": "$1/6$",
+      "explanation": "Total possible outcomes: $6 \\times 6 = 36$. Favorable outcomes (sum of 7): $\\{(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)\\}$ (Total = 6). Probability $P(7) = 6/36 = 1/6$."
+    },
+    {
+      "id": "MATHS_2009_35",
+      "text": "If $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ and $B = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$, find the matrix product $BA$.",
+      "image": "",
+      "options": [
+        "$\\begin{pmatrix} 3 & 4 \\\\ 1 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & 2 \\\\ 3 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 3 & 4 \\\\ 1 & 2 \\end{pmatrix}$",
+      "explanation": "$BA = \\begin{pmatrix} (0)(1) + (1)(3) & (0)(2) + (1)(4) \\\\ (1)(1) + (0)(3) & (1)(2) + (0)(4) \\end{pmatrix} = \\begin{pmatrix} 0 + 3 & 0 + 4 \\\\ 1 + 0 & 2 + 0 \\end{pmatrix} = \\begin{pmatrix} 3 & 4 \\\\ 1 & 2 \\end{pmatrix}$."
+    },
+    {
+      "id": "MATHS_2009_36",
+      "text": "Find the value of $x$ for which the determinant of $M = \\begin{pmatrix} x & 4 \\\\ 3 & 2 \\end{pmatrix}$ is $10$.",
+      "image": "",
+      "options": [
+        "$11$",
+        "$5$",
+        "$2$",
+        "$8$"
+      ],
+      "answer": "$11$",
+      "explanation": "Determinant $D = (x)(2) - (4)(3) = 2x - 12$. Set $D = 10$: $2x - 12 = 10$. $2x = 22$. $x = 11$."
+    },
+    {
+      "id": "MATHS_2009_37",
+      "text": "If $\\mathbf{v} = -3\\mathbf{i} + 4\\mathbf{j}$, find the unit vector in the direction of $\\mathbf{v}$.",
+      "image": "",
+      "options": [
+        "$-3/5\\mathbf{i} + 4/5\\mathbf{j}$",
+        "$3/5\\mathbf{i} - 4/5\\mathbf{j}$",
+        "$-3\\mathbf{i} + 4\\mathbf{j}$",
+        "$5\\mathbf{i} - 5\\mathbf{j}$"
+      ],
+      "answer": "$-3/5\\mathbf{i} + 4/5\\mathbf{j}$",
+      "explanation": "First, find the magnitude of $\\mathbf{v}$: $|\\mathbf{v}| = \\sqrt{(-3)^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$. The unit vector $\\hat{\\mathbf{v}} = \\frac{\\mathbf{v}}{|\\mathbf{v}|} = \\frac{1}{5}(-3\\mathbf{i} + 4\\mathbf{j}) = -3/5\\mathbf{i} + 4/5\\mathbf{j}$."
+    },
+    {
+      "id": "MATHS_2009_38",
+      "text": "If $\\mathbf{a} = \\mathbf{i} + 2\\mathbf{j}$ and $\\mathbf{b} = 2\\mathbf{i} - \\mathbf{j}$, find the value of the scalar product $\\mathbf{a} \\cdot \\mathbf{b}$.",
+      "image": "[Diagram showing two non-parallel vectors a and b]",
+      "options": [
+        "$0$",
+        "$4$",
+        "$-4$",
+        "$5$"
+      ],
+      "answer": "$0$",
+      "explanation": "The scalar (dot) product is $\\mathbf{a} \\cdot \\mathbf{b} = (a_1 b_1 + a_2 b_2)$. $\\mathbf{a} \\cdot \\mathbf{b} = (1)(2) + (2)(-1) = 2 - 2 = 0$. Since the dot product is zero, the vectors are perpendicular."
+    },
+    {
+      "id": "MATHS_2009_39",
+      "text": "If $f(x) = x^2$ and $g(x) = x + 3$, find the composite function $g(f(x))$.",
+      "image": "",
+      "options": [
+        "$x^2 + 3$",
+        "$(x + 3)^2$",
+        "$x^3 + 3x^2$",
+        "$x^2 + x + 3$"
+      ],
+      "answer": "$x^2 + 3$",
+      "explanation": "To find $g(f(x))$, substitute $f(x)$ into $g(x)$. $g(f(x)) = g(x^2) = (x^2) + 3 = x^2 + 3$."
+    },
+    {
+      "id": "MATHS_2009_40",
+      "text": "If $A = \\frac{1}{2} (a+b)h$, make $h$ the subject of the formula.",
+      "image": "[Diagram of a trapezium with parallel sides a and b, and height h]",
+      "options": [
+        "$h = \\frac{2A}{a+b}$",
+        "$h = 2A - a - b$",
+        "$h = \\frac{A}{2(a+b)}$",
+        "$h = \\frac{A - a - b}{2}$"
+      ],
+      "answer": "$h = \\frac{2A}{a+b}$",
+      "explanation": "Multiply both sides by 2: $2A = (a+b)h$. Divide both sides by $(a+b)$: $h = \\frac{2A}{a+b}$."
+    }
+  ]

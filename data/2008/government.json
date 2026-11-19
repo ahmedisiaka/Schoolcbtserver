@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G561",
+        "text": "The $\\textbf{Troubled Asset Relief Program (TARP)}$ was a $700 billion federal program created to stabilize the financial system in 2008. This large-scale spending action by Congress and the President is categorized as:",
+        "image": "",
+        "options": [
+            "Monetary Policy",
+            "Judicial Review",
+            "Fiscal Policy",
+            "Executive Privilege"
+        ],
+        "answer": "Fiscal Policy",
+        "explanation": "Fiscal policy involves the use of government spending (like TARP) and taxation to influence the economy."
+    },
+    {
+        "id": "G562",
+        "text": "The primary constitutional justification for Congress to authorize the $\\textbf{TARP}$ bailout, citing the interconnectedness of national markets, was the $\\textbf{enumerated power}$ to regulate:",
+        "image": "",
+        "options": [
+            "The Post Office",
+            "The militia",
+            "Commerce among the several states",
+            "Naturalization laws"
+        ],
+        "answer": "Commerce among the several states",
+        "explanation": "The Commerce Clause (Article I, Section 8) is broadly interpreted to allow Congress to regulate activities affecting interstate economic activity."
+    },
+    {
+        "id": "G563",
+        "text": "Once passed by Congress, the $\\textbf{TARP}$ legislation was primarily implemented and managed by the $\\textbf{Executive Branch}$, specifically the:",
+        "image": "",
+        "options": [
+            "Department of Defense",
+            "Federal Reserve (The Fed)",
+            "Department of the Treasury",
+            "Government Accountability Office (GAO)"
+        ],
+        "answer": "Department of the Treasury",
+        "explanation": "The Treasury Department is responsible for managing federal finances and implementing major economic stability programs."
+    },
+    {
+        "id": "G564",
+        "text": "Congress immediately established a $\\textbf{Congressional Oversight Panel (COP)}$ to monitor the use of TARP funds, fulfilling its duty of $\\textbf{Checks and Balances}$ over the:",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "State Governments",
+            "Executive Branch",
+            "Media"
+        ],
+        "answer": "Executive Branch",
+        "explanation": "Congressional oversight is the power of Congress to monitor and supervise the implementation of laws by the executive branch."
+    },
+    {
+        "id": "G565",
+        "text": "In response to the 2008 crisis, the $\\textbf{Federal Reserve}$ employed $\\textbf{Monetary Policy}$ tools, most notably by aggressively cutting the $\\textbf{Federal Funds Rate}$ to influence:",
+        "image": "",
+        "options": [
+            "Tax revenue",
+            "Campaign contributions",
+            "Long-term interest rates and bank lending",
+            "Congressional committee assignments"
+        ],
+        "answer": "Long-term interest rates and bank lending",
+        "explanation": "The Fed manipulates interest rates and the money supply to manage inflation and economic growth."
+    },
+    {
+        "id": "G566",
+        "text": "In the 2008 Presidential Election, candidates campaigned across the country, but their ultimate focus was on winning $\\textbf{Swing States}$ to secure a majority in the:",
+        "image": "",
+        "options": [
+            "Popular Vote",
+            "Electoral College",
+            "Supreme Court",
+            "U.S. House of Representatives"
+        ],
+        "answer": "Electoral College",
+        "explanation": "The presidency is won by securing a majority of electoral votes, not necessarily the national popular vote."
+    },
+    {
+        "id": "G567",
+        "text": "The 2008 election reaffirmed that most states use the $\\textbf{Winner-Take-All}$ system for distributing $\\textbf{Electoral Votes}$, meaning the popular vote winner in the state gets:",
+        "image": "",
+        "options": [
+            "Proportional representation",
+            "All of the state's electoral votes",
+            "Only the vote of the state capital",
+            "No votes if the margin is less than 1\\%"
+        ],
+        "answer": "All of the state's electoral votes",
+        "explanation": "The winner-take-all system (used in 48 states) disproportionately focuses campaign resources on a few competitive states."
+    },
+    {
+        "id": "G568",
+        "text": "The $\\textbf{Bipartisan Campaign Reform Act (BCRA)}$ of 2002 was still in effect during the 2008 election, regulating $\\textbf{soft money}$ and $\\textbf{issue advocacy}$ ads. BCRA attempted to limit the influence of:",
+        "image": "",
+        "options": [
+            "Media Polls",
+            "Political Action Committees (PACs)",
+            "The Vice President's role",
+            "Federal court jurisdiction"
+        ],
+        "answer": "Political Action Committees (PACs)",
+        "explanation": "BCRA (McCain-Feingold) aimed to curb the use of unregulated soft money donations to political parties."
+    },
+    {
+        "id": "G569",
+        "text": "The 2008 Democratic primary saw intense competition, requiring candidates to perform well in both $\\textbf{primaries}$ (direct state elections) and $\\textbf{caucuses}$ (local meetings), which are methods of:",
+        "image": "",
+        "options": [
+            "Judicial appointment",
+            "Nomination and delegate selection",
+            "Treaty ratification",
+            "Cabinet confirmation"
+        ],
+        "answer": "Nomination and delegate selection",
+        "explanation": "Primaries and caucuses are the primary mechanisms states use to select delegates for the national conventions."
+    },
+    {
+        "id": "G570",
+        "text": "The crisis exposed weaknesses in financial regulation, leading to debate over whether state or federal governments should have more regulatory power. This dynamic is a core feature of $\\textbf{American}$:",
+        "image": "",
+        "options": [
+            "Pluralism",
+            "Federalism",
+            "Judicial Restraint",
+            "Mercantilism"
+        ],
+        "answer": "Federalism",
+        "explanation": "Federalism is the division of powers between the national and state governments."
+    },
+    {
+        "id": "G571",
+        "text": "When the financial crisis required immediate action, President Bush and President-elect Obama cooperated during the transition period. The Constitution outlines the President's term and the procedures for a presidential:",
+        "image": "",
+        "options": [
+            "Pardon",
+            "Veto",
+            "Succession and transition",
+            "Impeachment"
+        ],
+        "answer": "Succession and transition",
+        "explanation": "The 20th Amendment sets the dates for the start of the presidential term, governing the transition."
+    },
+    {
+        "id": "G572",
+        "text": "The final version of the TARP bill required a $\\textbf{Conference Committee}$ to reconcile the different versions passed by the House and the Senate, ensuring the bill sent to the President was:",
+        "image": "",
+        "options": [
+            "Subject to judicial review",
+            "Veto-proof",
+            "Identical in both chambers",
+            "Approved by all state governors"
+        ],
+        "answer": "Identical in both chambers",
+        "explanation": "A conference committee resolves differences to create a unified bill text."
+    },
+    {
+        "id": "G573",
+        "text": "The $\\textbf{House of Representatives}$ has the exclusive power to originate $\\textbf{revenue bills}$ (like the one that would authorize tax funding for a future bailout), as mandated by:",
+        "image": "",
+        "options": [
+            "The Tenth Amendment",
+            "Article I, Section 7 of the Constitution",
+            "The Fifth Amendment",
+            "The Supremacy Clause"
+        ],
+        "answer": "Article I, Section 7 of the Constitution",
+        "explanation": "This provision is known as the 'Origination Clause'."
+    },
+    {
+        "id": "G574",
+        "text": "Debate in the $\\textbf{Senate}$ over the TARP bill was intense. If opponents had chosen to $\\textbf{filibuster}$, the supporters would have needed $\\textbf{cloture}$—a vote requiring a supermajority of:",
+        "image": "",
+        "options": [
+            "51 Senators",
+            "60 Senators",
+            "Two-thirds of the House",
+            "Three-fourths of state legislatures"
+        ],
+        "answer": "60 Senators",
+        "explanation": "Cloture is the procedural mechanism to end debate and prevent a filibuster in the Senate."
+    },
+    {
+        "id": "G575",
+        "text": "President Bush used the $\\textbf{Veto Power}$ sparingly, but it remains the Executive Branch's key legislative $\\textbf{check}$ on the power of:",
+        "image": "",
+        "options": [
+            "The Judiciary",
+            "State Governors",
+            "Congress",
+            "The Federal Reserve"
+        ],
+        "answer": "Congress",
+        "explanation": "The veto is the President's most powerful tool for influencing the legislative process."
+    },
+    {
+        "id": "G576",
+        "text": "As $\\textbf{Commander-in-Chief}$, the President's constitutional power to direct military operations in Iraq and Afghanistan was significant, though Congress retains the $\\textbf{enumerated power}$ to:",
+        "image": "",
+        "options": [
+            "Appoint Ambassadors",
+            "Declare War",
+            "Confirm Cabinet Secretaries",
+            "Regulate bankruptcy"
+        ],
+        "answer": "Declare War",
+        "explanation": "The Constitution divides war powers, giving the President operational control and Congress the formal declaration power."
+    },
+    {
+        "id": "G577",
+        "text": "The $\\textbf{2008 election}$ campaigns often featured debates over which type of Supreme Court Justice the candidates would appoint: those favoring $\\textbf{Judicial Restraint}$ or those favoring $\\textbf{Judicial Activism}$, reflecting different judicial:",
+        "image": "",
+        "options": [
+            "Salaries",
+            "Philosophies",
+            "Districts",
+            "Term Limits"
+        ],
+        "answer": "Philosophies",
+        "explanation": "Judicial philosophy dictates how judges interpret the Constitution (e.g., originalism vs. a living constitution)."
+    },
+    {
+        "id": "G578",
+        "text": "During the election, the $\\textbf{media}$ decided which candidate stories and policy issues received significant airtime, fulfilling their role as a $\\textbf{media}$:",
+        "image": "",
+        "options": [
+            "Lobbyist",
+            "Gatekeeper",
+            "Electoral College Member",
+            "Bureaucrat"
+        ],
+        "answer": "Gatekeeper",
+        "explanation": "The gatekeeper function refers to the media's power to select which issues and personalities are brought to public attention."
+    },
+    {
+        "id": "G579",
+        "text": "The $\\textbf{Democratic and Republican}$ candidates ran on distinct sets of policy proposals, formally outlined in their $\\textbf{Party}$:",
+        "image": "",
+        "options": [
+            "Pardons",
+            "Warrants",
+            "Platforms",
+            "Amicus Curiae Briefs"
+        ],
+        "answer": "Platforms",
+        "explanation": "A party platform is the formal statement of a political party's basic principles, goals, and positions on major issues."
+    },
+    {
+        "id": "G580",
+        "text": "The crisis led to various lawsuits challenging federal overreach. The Supreme Court's authority to rule on the constitutionality of a federal law (like TARP) is known as $\\textbf{Judicial Review}$, established in:",
+        "image": "",
+        "options": [
+            "The Bill of Rights",
+            "Article II of the Constitution",
+            "Marbury v. Madison (1803)",
+            "McCulloch v. Maryland (1819)"
+        ],
+        "answer": "Marbury v. Madison (1803)",
+        "explanation": "This landmark case established the Supreme Court's power to strike down unconstitutional laws."
+    },
+    {
+        "id": "G581",
+        "text": "The President's $\\textbf{Cabinet}$, especially the Secretary of the Treasury, advises the President in their role as:",
+        "image": "",
+        "options": [
+            "Chief of Party",
+            "Chief Diplomat",
+            "Chief of State",
+            "Chief Executive"
+        ],
+        "answer": "Chief Executive",
+        "explanation": "The Cabinet helps the President administer the laws and manage the executive branch."
+    },
+    {
+        "id": "G582",
+        "text": "The President may issue an $\\textbf{Executive Order}$ to manage the operations of the federal government. The authority for this order must be rooted in the Constitution or:",
+        "image": "",
+        "options": [
+            "A majority vote of state legislatures",
+            "A decision by the Chief Justice",
+            "A Supreme Court precedent",
+            "A specific Act of Congress"
+        ],
+        "answer": "A specific Act of Congress",
+        "explanation": "Executive Orders must derive authority from existing law or constitutional powers."
+    },
+    {
+        "id": "G583",
+        "text": "The $\\textbf{First Amendment}$ guaranteed the press the right to investigate and publish reports on the financial crisis and election campaign without prior restraint, upholding the principle of:",
+        "image": "",
+        "options": [
+            "Sovereign Immunity",
+            "Freedom of the Press",
+            "The Takings Clause",
+            "Habeas Corpus"
+        ],
+        "answer": "Freedom of the Press",
+        "explanation": "The First Amendment protects the media's essential role in a democracy."
+    },
+    {
+        "id": "G584",
+        "text": "The $\\textbf{Fourth Amendment}$ protects against $\\textbf{unreasonable searches and seizures}$, requiring law enforcement to obtain a $\\textbf{Warrant}$ supported by:",
+        "image": "",
+        "options": [
+            "Popular vote",
+            "A Presidential Proclamation",
+            "Probable cause",
+            "A two-thirds vote of Congress"
+        ],
+        "answer": "Probable cause",
+        "explanation": "Probable cause is the minimum legal standard required for police to conduct a search or obtain a warrant."
+    },
+    {
+        "id": "G585",
+        "text": "The $\\textbf{Fifth Amendment}$ states that private property cannot be taken for public use without just compensation ($\textbf{Eminent Domain}$), often referred to as the:",
+        "image": "",
+        "options": [
+            "Establishment Clause",
+            "Necessary and Proper Clause",
+            "Supremacy Clause",
+            "Takings Clause"
+        ],
+        "answer": "Takings Clause",
+        "explanation": "The Takings Clause protects property rights from federal government seizure without fair payment."
+    },
+    {
+        "id": "G586",
+        "text": "The $\\textbf{Fourteenth Amendment}$'s $\\textbf{Equal Protection Clause}$ requires states to apply laws equally to all citizens, including laws pertaining to $\\textbf{voting}$ and $\\textbf{ballot access}$ during the 2008 election.",
+        "image": "",
+        "options": [
+            "Twelfth Amendment",
+            "Fourteenth Amendment (Equal Protection Clause)",
+            "Tenth Amendment",
+            "Sixth Amendment"
+        ],
+        "answer": "Fourteenth Amendment (Equal Protection Clause)",
+        "explanation": "The Equal Protection Clause is the foundation for anti-discrimination law, including protecting voting rights."
+    },
+    {
+        "id": "G587",
+        "text": "The President's power to appoint federal judges is a major check on the Judiciary, but it is itself checked by the $\\textbf{Senate's}$ power of:",
+        "image": "",
+        "options": [
+            "Impeachment",
+            "Advice and Consent",
+            "Appropriations",
+            "The Writ of Certiorari"
+        ],
+        "answer": "Advice and Consent",
+        "explanation": "The Senate must approve the President's judicial appointments by a majority vote."
+    },
+    {
+        "id": "G588",
+        "text": "During the financial crisis, major banks and financial firms engaged in intense $\\textbf{lobbying}$ of Congress and the Treasury Department to influence the terms of the TARP bailout. These entities are known as:",
+        "image": "",
+        "options": [
+            "Political Action Committees (PACs)",
+            "Interest Groups",
+            "The Federal Reserve Board",
+            "State Legislatures"
+        ],
+        "answer": "Interest Groups",
+        "explanation": "Interest groups try to influence government policy on behalf of a specific cause or industry."
+    },
+    {
+        "id": "G589",
+        "text": "Federal agencies like the $\\textbf{Securities and Exchange Commission (SEC)}$ were criticized for failing to adequately regulate financial institutions before the crisis. These agencies are part of the $\\textbf{Federal}$:",
+        "image": "",
+        "options": [
+            "Judiciary",
+            "Bureaucracy",
+            "Electoral College",
+            "Lame-Duck Session"
+        ],
+        "answer": "Bureaucracy",
+        "explanation": "The bureaucracy consists of the non-elected government employees who carry out the rules and regulations of the executive branch."
+    },
+    {
+        "id": "G590",
+        "text": "The broad interpretation of the $\\textbf{Necessary and Proper Clause}$ ($\textbf{Elastic Clause}$) was essential for Congress to justify the expansive, $\\textbf{implied powers}$ needed to implement the TARP program, even though financial bailouts aren't an $\\textbf{enumerated}$ power.",
+        "image": "",
+        "options": [
+            "Article VII",
+            "The Supremacy Clause",
+            "The Tenth Amendment",
+            "The Necessary and Proper Clause"
+        ],
+        "answer": "The Necessary and Proper Clause",
+        "explanation": "This clause allows Congress to make laws deemed 'necessary and proper' to carry out its enumerated powers, enabling a broad scope of action."
+    },
+    {
+        "id": "G591",
+        "text": "The $\\textbf{Speaker of the House}$ holds significant power, including controlling the $\\textbf{House agenda}$ and influencing the vote count, making their leadership critical in narrowly passing the first vote on the TARP bill.",
+        "image": "",
+        "options": [
+            "Chief Diplomat",
+            "Speaker of the House",
+            "President of the Senate",
+            "Chief Justice"
+        ],
+        "answer": "Speaker of the House",
+        "explanation": "The Speaker is the most powerful member of the House and leader of the majority party."
+    },
+    {
+        "id": "G592",
+        "text": "The 2008 election saw high voter turnout, fueled by various state-level efforts to improve $\\textbf{voter access}$. Under the constitutional principle of $\\textbf{Federalism}$, the power to conduct elections is primarily reserved to the:",
+        "image": "",
+        "options": [
+            "Federal Election Commission (FEC)",
+            "States",
+            "Supreme Court",
+            "Department of Justice"
+        ],
+        "answer": "States",
+        "explanation": "States have the primary responsibility for running elections under the Constitution."
+    },
+    {
+        "id": "G593",
+        "text": "The $\\textbf{Supremacy Clause}$ dictates that in the event of a conflict between a state law and a properly enacted federal law (such as TARP), the $\\textbf{Federal}$ law must:",
+        "image": "",
+        "options": [
+            "Be overturned by a state court",
+            "Prevail",
+            "Be subject to a presidential pardon",
+            "Require a national referendum"
+        ],
+        "answer": "Prevail",
+        "explanation": "The Supremacy Clause (Article VI) establishes the Constitution and federal laws as the 'supreme Law of the Land'."
+    },
+    {
+        "id": "G594",
+        "text": "Proposals to amend the Constitution to change the $\\textbf{Electoral College}$ were frequently debated after the 2008 election. The first step in proposing a constitutional amendment requires a $\\textbf{vote}$ of:",
+        "image": "",
+        "options": [
+            "A simple majority of Congress",
+            "Two-thirds of both houses of Congress",
+            "Three-fourths of state legislatures",
+            "The entire Supreme Court"
+        ],
+        "answer": "Two-thirds of both houses of Congress",
+        "explanation": "This is the most common method for proposing an amendment, followed by ratification by the states."
+    },
+    {
+        "id": "G595",
+        "text": "The initial $\\textbf{TARP}$ proposal faced constitutional scrutiny regarding the broad power it gave to the $\\textbf{Treasury Secretary}$, emphasizing the need to maintain the $\\textbf{Separation of Powers}$ between the three branches.",
+        "image": "",
+        "options": [
+            "The Bill of Attainder Clause",
+            "The Ex Post Facto Clause",
+            "Separation of Powers",
+            "The Privileges and Immunities Clause"
+        ],
+        "answer": "Separation of Powers",
+        "explanation": "The Constitution distributes government power among the Legislative, Executive, and Judicial branches to prevent tyranny."
+    },
+    {
+        "id": "G596",
+        "text": "The Vice President's role in the 2008 election included advising the presidential nominee, and their constitutional duty is to $\\textbf{preside}$ over the Senate and to assume the $\\textbf{Presidency}$ if the office becomes:",
+        "image": "",
+        "options": [
+            "Vacant",
+            "Impeached",
+            "Subject to Judicial Review",
+            "Unable to pass a bill"
+        ],
+        "answer": "Vacant",
+        "explanation": "The 25th Amendment formalizes the process of presidential succession."
+    },
+    {
+        "id": "G597",
+        "text": "During the election, the President served as the face of his political party, fundraising, endorsing candidates, and uniting the party faithful, fulfilling the role of $\\textbf{Chief}$:",
+        "image": "",
+        "options": [
+            "Chief Jurist",
+            "Chief of Party",
+            "Chief Administrator",
+            "Chief Legislator"
+        ],
+        "answer": "Chief of Party",
+        "explanation": "The President is the symbolic and functional leader of their political party."
+    },
+    {
+        "id": "G598",
+        "text": "The campaigns heavily relied on $\\textbf{public opinion polling}$ to track voter sentiment and guide strategy, which is a key way the government and campaigns gauge the:",
+        "image": "",
+        "options": [
+            "Rule of Law",
+            "Will of the people",
+            "Necessary and Proper Clause",
+            "Establishment Clause"
+        ],
+        "answer": "Will of the people",
+        "explanation": "Polling is a primary mechanism for measuring public opinion and directing democratic accountability."
+    },
+    {
+        "id": "G599",
+        "text": "The $\\textbf{TARP}$ program and other crisis spending significantly increased the $\\textbf{National Debt}$, requiring the government to rely more heavily on $\\textbf{borrowing}$ to fund $\\textbf{Discretionary}$ and $\\textbf{Mandatory}$ spending.",
+        "image": "",
+        "options": [
+            "Balanced Budget Amendment",
+            "Deficit Spending",
+            "Judicial Restraint",
+            "The Full Faith and Credit Clause"
+        ],
+        "answer": "Deficit Spending",
+        "explanation": "When government spending exceeds revenue in a given fiscal year, it results in deficit spending, which adds to the national debt."
+    },
+    {
+        "id": "G600",
+        "text": "The $\\textbf{President's}$ power to grant $\\textbf{pardons}$ for federal offenses is an absolute check on the judicial branch, rooted in Article II of the Constitution and often used near the $\\textbf{end}$ of a term.",
+        "image": "",
+        "options": [
+            "Issue Warrants",
+            "Impeach Judges",
+            "Grant Pardons",
+            "Regulate Interstate Commerce"
+        ],
+        "answer": "Grant Pardons",
+        "explanation": "The pardon power is a constitutional authority of the President to forgive individuals for federal crimes."
+    }
+]

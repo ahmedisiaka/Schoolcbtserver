@@ -1,0 +1,523 @@
+[
+    {
+        "id": "G81",
+        "text": "The $\\textbf{Tenth Amendment}$ reserves powers not delegated to the federal government nor prohibited to the states, which was a key argument in the $\\text{Dobbs v. Jackson}$ (2022) decision to return the authority to regulate abortion to:",
+        "image": "",
+        "options": [
+            "The Supreme Court for judicial review",
+            "The individual state legislatures",
+            "The President via executive order",
+            "The House of Representatives"
+        ],
+        "answer": "The individual state legislatures",
+        "explanation": "The 2022 *Dobbs* ruling cited the Tenth Amendment, stating the Constitution does not confer a right to abortion, and thus the power to regulate it is reserved to the states or the people."
+    },
+    {
+        "id": "G82",
+        "text": "Which clause of the Constitution was primarily used by the Supreme Court in $\\text{Roe v. Wade}$ (1973) to establish a right to privacy, which was later overturned in $\\text{Dobbs}$ (2022)?",
+        "image": "",
+        "options": [
+            "The Necessary and Proper Clause",
+            "The Equal Protection Clause of the 14th Amendment",
+            "The Due Process Clause of the 14th Amendment",
+            "The Commerce Clause"
+        ],
+        "answer": "The Due Process Clause of the 14th Amendment",
+        "explanation": "The right to privacy, though not explicitly stated, was found to be a fundamental liberty protected by the Due Process Clause (*substantive due process*). *Dobbs* argued this interpretation was flawed."
+    },
+    {
+        "id": "G83",
+        "text": "The principle of $\\textbf{stare decisis}$ (precedent) refers to the judicial practice of:",
+        "image": "",
+        "options": [
+            "Appointing lifetime judges",
+            "Following established legal principles set by prior court decisions",
+            "The power of judicial review over Congress",
+            "Hearing a case for the first time (original jurisdiction)"
+        ],
+        "answer": "Following established legal principles set by prior court decisions",
+        "explanation": "Latin for 'to stand by things decided.' The decision in *Dobbs* to overturn *Roe* was highly contentious because it rejected nearly 50 years of established precedent."
+    },
+    {
+        "id": "G84",
+        "text": "When a federal court declares a law passed by Congress or a state legislature to be unconstitutional, this is an exercise of the power of:",
+        "image": "",
+        "options": [
+            "Writ of certiorari",
+            "Habeas corpus",
+            "Judicial review",
+            "Executive privilege"
+        ],
+        "answer": "Judicial review",
+        "explanation": "Established in $\\text{Marbury v. Madison}$ (1803), judicial review is the Supreme Court's most powerful check on the legislative and executive branches."
+    },
+    {
+        "id": "G85",
+        "text": "Which constitutional provision gives Congress the authority to regulate the use of firearms, often cited in major gun control debates and legal challenges?",
+        "image": "",
+        "options": [
+            "The Second Amendment",
+            "The Equal Protection Clause",
+            "The Commerce Clause",
+            "The Full Faith and Credit Clause"
+        ],
+        "answer": "The Commerce Clause",
+        "explanation": "Federal gun legislation, like the Gun-Free School Zones Act, has often been challenged, but Congress uses its broad authority under the Commerce Clause to justify regulation."
+    },
+    {
+        "id": "G86",
+        "text": "The 2022 Supreme Court case $\\text{New York State Rifle & Pistol Association v. Bruen}$ ruled that New York's restrictive gun licensing laws were unconstitutional under the:",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Fifth Amendment's Due Process Clause",
+            "Second Amendment",
+            "First Amendment's right to assembly"
+        ],
+        "answer": "Second Amendment",
+        "explanation": "The *Bruen* case established a new, more stringent standard for gun regulation, requiring restrictions to align with the nation's historical tradition of firearm regulation."
+    },
+    {
+        "id": "G87",
+        "text": "The $\\textbf{establishment clause}$ of the First Amendment was at the center of the $\\text{Kennedy v. Bremerton School District}$ (2022) ruling, which concerned:",
+        "image": "",
+        "options": [
+            "A ban on religious schools receiving federal funds",
+            "Prayer in public schools led by a coach",
+            "The printing of Bibles in government buildings",
+            "The constitutionality of the Lemon Test"
+        ],
+        "answer": "Prayer in public schools led by a coach",
+        "explanation": "The Court ruled that the coach's post-game prayer was protected under the Free Exercise and Free Speech Clauses, finding that the school's actions violated his rights under the First Amendment."
+    },
+    {
+        "id": "G88",
+        "text": "The concept of $\\textbf{civil liberties}$ refers to:",
+        "image": "",
+        "options": [
+            "Positive acts of government to protect against discrimination",
+            "Legal and constitutional protections against government infringement on personal freedoms",
+            "The power of the states to legislate on matters of health and safety",
+            "The right to vote in all federal elections"
+        ],
+        "answer": "Legal and constitutional protections against government infringement on personal freedoms",
+        "explanation": "Civil liberties are fundamental freedoms like speech, press, and religion, safeguarded primarily by the Bill of Rights."
+    },
+    {
+        "id": "G89",
+        "text": "The $\\textbf{incorporation doctrine}$ is a constitutional doctrine that applies the Bill of Rights to the states through which amendment?",
+        "image": "",
+        "options": [
+            "The First Amendment",
+            "The Tenth Amendment",
+            "The Fourteenth Amendment",
+            "The Twenty-Second Amendment"
+        ],
+        "answer": "The Fourteenth Amendment",
+        "explanation": "Selective incorporation uses the 14th Amendment's Due Process Clause to require states to protect most of the rights guaranteed in the Bill of Rights."
+    },
+    {
+        "id": "G90",
+        "text": "Which type of unprotected speech involves intentionally making false statements that harm a person's reputation?",
+        "image": "",
+        "options": [
+            "Symbolic speech",
+            "Slander (spoken) or Libel (written)",
+            "Hate speech",
+            "Prior restraint"
+        ],
+        "answer": "Slander (spoken) or Libel (written)",
+        "explanation": "These are two forms of defamation—a category of speech that receives limited or no First Amendment protection."
+    },
+    {
+        "id": "G91",
+        "text": "The Senate's role in providing $\\textbf{advice and consent}$ is most publicly visible during the process of:",
+        "image": "",
+        "options": [
+            "Negotiating treaties with foreign nations",
+            "Approving presidential appointments, such as federal judges and Cabinet secretaries",
+            "Debating and passing the federal budget",
+            "Initiating articles of impeachment against a President"
+        ],
+        "answer": "Approving presidential appointments, such as federal judges and Cabinet secretaries",
+        "explanation": "The Senate must approve treaties and key appointments (including Supreme Court justices like Ketanji Brown Jackson, confirmed in 2022)."
+    },
+    {
+        "id": "G92",
+        "text": "A $\\textbf{writ of certiorari}$ is:",
+        "image": "",
+        "options": [
+            "A court order requiring a prisoner to be brought before a judge",
+            "A formal request to the Supreme Court to hear a case on appeal",
+            "A judicial order to stop a government action",
+            "The final decision of a court of appeals"
+        ],
+        "answer": "A formal request to the Supreme Court to hear a case on appeal",
+        "explanation": "The Supreme Court grants 'cert' when four of the nine justices agree to hear a case, adhering to the 'Rule of Four'."
+    },
+    {
+        "id": "G93",
+        "text": "How many federal judicial districts are there in the United States, which serve as the trial courts of general federal jurisdiction?",
+        "image": "",
+        "options": [
+            "13 (one for each Court of Appeals)",
+            "50 (one for each state)",
+            "94",
+            "3"
+        ],
+        "answer": "94",
+        "explanation": "There are 94 U.S. District Courts (trial courts), organized into 12 regional Circuit Courts of Appeals (plus the Federal Circuit)."
+    },
+    {
+        "id": "G94",
+        "text": "A justice who believes the Constitution should be interpreted according to the framers' original intent is often described as practicing:",
+        "image": "",
+        "options": [
+            "Judicial activism",
+            "Originalism or textualism",
+            "Substantive due process",
+            "Living constitutionalism"
+        ],
+        "answer": "Originalism or textualism",
+        "explanation": "This judicial philosophy contrasts with 'living constitutionalism,' which views the Constitution as evolving to meet modern needs."
+    },
+    {
+        "id": "G95",
+        "text": "The judicial check on the executive branch is the ability to:",
+        "image": "",
+        "options": [
+            "Veto presidential appointments",
+            "Declare presidential acts or executive orders unconstitutional",
+            "Impeach and remove the President",
+            "Control the budget for executive agencies"
+        ]
+        ,
+        "answer": "Declare presidential acts or executive orders unconstitutional",
+        "explanation": "This falls under the general power of judicial review, which applies to actions taken by the executive branch."
+    },
+    {
+        "id": "G96",
+        "text": "During the 2022 Congressional committee investigations (like the January 6th Committee), Congress exercised its power of:",
+        "image": "",
+        "options": [
+            "Oversight",
+            "Ratification",
+            "Impeachment",
+            "Appropriations"
+        ],
+        "answer": "Oversight",
+        "explanation": "Congressional oversight involves reviewing and monitoring the activities of the executive branch and its agencies, often through investigative hearings."
+    },
+    {
+        "id": "G97",
+        "text": "The term $\\textbf{gerrymandering}$ refers to the practice of:",
+        "image": "",
+        "options": [
+            "Voting in more than one state",
+            "Redrawing congressional district lines to favor one political party or group",
+            "A temporary shift in party loyalty by voters",
+            "The process of a bill becoming law"
+        ],
+        "answer": "Redrawing congressional district lines to favor one political party or group",
+        "explanation": "Gerrymandering is a persistent issue, impacting the competitiveness of the 2022 midterm elections by creating 'safe' districts."
+    },
+    {
+        "id": "G98",
+        "text": "Which committee in the House of Representatives is responsible for setting the terms for debate on a bill, including time limits and whether amendments are allowed?",
+        "image": "",
+        "options": [
+            "The Ways and Means Committee",
+            "The Rules Committee",
+            "The Appropriations Committee",
+            "The House Intelligence Committee"
+        ],
+        "answer": "The Rules Committee",
+        "explanation": "Often called the 'traffic cop' of the House, the Rules Committee is extremely powerful in controlling the flow of legislation."
+    },
+    {
+        "id": "G99",
+        "text": "Which action by the President requires a $\\textbf{two-thirds vote}$ in the Senate to be finalized?",
+        "image": "",
+        "options": [
+            "Issuing an executive order",
+            "Appointing a Supreme Court Justice",
+            "Vetoing a bill",
+            "Ratifying a treaty"
+        ],
+        "answer": "Ratifying a treaty",
+        "explanation": "The President negotiates the treaty, but Article II, Section 2 requires the Senate to approve it by a supermajority vote."
+    },
+    {
+        "id": "G100",
+        "text": "The $\\textbf{filibuster}$ is a procedural tactic unique to the Senate that allows a single senator, or a minority of senators, to:",
+        "image": "",
+        "options": [
+            "Introduce a money bill",
+            "Delay or block a vote on a bill through prolonged debate",
+            "Override a presidential veto",
+            "Approve a treaty"
+        ],
+        "answer": "Delay or block a vote on a bill through prolonged debate",
+        "explanation": "The filibuster can only be ended by a cloture vote, requiring 60 senators."
+    },
+    {
+        "id": "G101",
+        "text": "The President's constitutional power to recognize a foreign government or sever diplomatic relations is part of the role as:",
+        "image": "",
+        "options": [
+            "Chief Legislator",
+            "Commander-in-Chief",
+            "Chief Diplomat",
+            "Chief Executive"
+        ],
+        "answer": "Chief Diplomat",
+        "explanation": "As Chief Diplomat, the President guides foreign policy, negotiates treaties, and establishes diplomatic relations."
+    },
+    {
+        "id": "G102",
+        "text": "The $\\textbf{War Powers Resolution}$ (1973) requires the President to notify Congress within 48 hours of committing armed forces to military action and prohibits forces from remaining for more than 60 days without:",
+        "image": "",
+        "options": [
+            "An advisory opinion from the Supreme Court",
+            "A declaration of war or a specific authorization from Congress",
+            "The approval of the Cabinet",
+            "A majority vote of the nation's governors"
+        ],
+        "answer": "A declaration of war or a specific authorization from Congress",
+        "explanation": "This resolution was passed to limit the President's power as Commander-in-Chief and assert Congressional authority over war-making."
+    },
+    {
+        "id": "G103",
+        "text": "Federal agencies often write detailed rules and regulations to carry out laws passed by Congress. This process is known as:",
+        "image": "",
+        "options": [
+            "Legislative oversight",
+            "Appropriations",
+            "Rule-making or regulation",
+            "Judicial activism"
+        ],
+        "answer": "Rule-making or regulation",
+        "explanation": "This is a key function of the federal bureaucracy, utilizing the power of administrative discretion to fill in the details of broad legislation."
+    },
+    {
+        "id": "G104",
+        "text": "An $\\textbf{Iron Triangle}$ describes the close relationship between which three components in policy-making?",
+        "image": "",
+        "options": [
+            "The President, the Supreme Court, and Congress",
+            "A bureaucratic agency, a congressional committee, and an interest group",
+            "State governors, the federal executive branch, and the judicial branch",
+            "Democrats, Republicans, and Independent voters"
+        ],
+        "answer": "A bureaucratic agency, a congressional committee, and an interest group",
+        "explanation": "These three groups cooperate to create and enforce policies beneficial to their shared goals, often with little outside influence."
+    },
+    {
+        "id": "G105",
+        "text": "The $\\textbf{Office of Management and Budget (OMB)}$ is the main agency responsible for:",
+        "image": "",
+        "options": [
+            "Managing diplomatic relations with foreign countries",
+            "Formulating and submitting the President's annual budget proposal to Congress",
+            "Printing money and regulating the Federal Reserve",
+            "Resolving disputes between bureaucratic agencies"
+        ],
+        "answer": "Formulating and submitting the President's annual budget proposal to Congress",
+        "explanation": "The OMB is the largest office within the Executive Office of the President and is essential for setting executive branch fiscal priorities."
+    },
+    {
+        "id": "G106",
+        "text": "Which election cycle typically features the highest voter turnout in the United States?",
+        "image": "",
+        "options": [
+            "Local municipal elections",
+            "Midterm elections (like 2022)",
+            "Presidential elections",
+            "Primary elections"
+        ],
+        "answer": "Presidential elections",
+        "explanation": "Turnout is historically highest in presidential years, though turnout in recent midterm elections, including 2022, has been relatively high."
+    },
+    {
+        "id": "G107",
+        "text": "The $\\textbf{Electoral College}$ was designed by the Founders primarily to:",
+        "image": "",
+        "options": [
+            "Ensure the President is chosen by a direct popular vote",
+            "Give disproportionate influence to large population states",
+            "Balance the popular vote with the constitutional power of the states",
+            "Eliminate the need for political parties"
+        ],
+        "answer": "Balance the popular vote with the constitutional power of the states",
+        "explanation": "It balances the desire for popular participation with the need for state representation in the election of the President."
+    },
+    {
+        "id": "G108",
+        "text": "The $\\textbf{motor voter law}$ (National Voter Registration Act of 1993) was designed to:",
+        "image": "",
+        "options": [
+            "Require voters to show photo ID at the polls",
+            "Allow citizens to register to vote when applying for a driver's license",
+            "Restrict the use of mail-in ballots",
+            "Ban the use of electronic voting machines"
+        ],
+        "answer": "Allow citizens to register to vote when applying for a driver's license",
+        "explanation": "The law aimed to increase voter registration rates by making the process more convenient."
+    },
+    {
+        "id": "G109",
+        "text": "In a presidential campaign, the states that are considered the most competitive and receive the most attention from candidates are known as:",
+        "image": "",
+        "options": [
+            "Safe states",
+            "Red states",
+            "Swing states or battleground states",
+            "Territories"
+        ],
+        "answer": "Swing states or battleground states",
+        "explanation": "These states have electorates that are closely divided between the major parties and can swing the result of the Electoral College."
+    },
+    {
+        "id": "G110",
+        "text": "In the United States, citizens are generally protected from government censorship before publication by the rule against $\\textbf{prior restraint}$, as established in:",
+        "image": "",
+        "options": [
+            "Gideon v. Wainwright (1963)",
+            "Tinker v. Des Moines (1969)",
+            "New York Times Co. v. United States (1971)",
+            "Schenck v. United States (1919)"
+        ],
+        "answer": "New York Times Co. v. United States (1971)",
+        "explanation": "The Pentagon Papers case affirmed the heavy presumption against prior restraint, meaning the government almost never has the power to stop publication beforehand."
+    },
+    {
+        "id": "G111",
+        "text": "A key difference between $\\textbf{political parties}$ and $\\textbf{interest groups}$ is that interest groups primarily seek to:",
+        "image": "",
+        "options": [
+            "Win elections and control the government",
+            "Influence specific public policies",
+            "Draft legislation and ratify treaties",
+            "Determine the rules for campaign finance"
+        ],
+        "answer": "Influence specific public policies",
+        "explanation": "Parties seek to govern by electing candidates; interest groups seek to influence those who govern on particular issues."
+    },
+    {
+        "id": "G112",
+        "text": "The practice of $\\textbf{logrolling}$ in Congress refers to:",
+        "image": "",
+        "options": [
+            "A Senate procedure to end a filibuster",
+            "A legislator trading their vote on one bill for a colleague's vote on a different bill",
+            "The process of submitting a bill to a committee",
+            "A form of political protest against government spending"
+        ],
+        "answer": "A legislator trading their vote on one bill for a colleague's vote on a different bill",
+        "explanation": "Logrolling is a form of political negotiation used to get controversial bills passed by combining support among diverse interests."
+    },
+    {
+        "id": "G113",
+        "text": "The $\\text{Citizens United v. FEC}$ (2010) Supreme Court decision dramatically increased the role of $\\textbf{independent expenditures}$ by ruling that corporations and unions have the First Amendment right to:",
+        "image": "",
+        "options": [
+            "Coordinate directly with political candidates",
+            "Spend unlimited amounts of money on political advertising",
+            "Receive unlimited donations from foreign governments",
+            "Refuse to disclose their donor lists"
+        ],
+        "answer": "Spend unlimited amounts of money on political advertising",
+        "explanation": "The Court equated money with speech, allowing unlimited independent spending (leading to the rise of Super PACs) as long as it is not coordinated with the candidate's campaign."
+    },
+    {
+        "id": "G114",
+        "text": "The $\\textbf{pluralist theory}$ of democracy holds that political power is:",
+        "image": "",
+        "options": [
+            "Concentrated in the hands of a few wealthy elites",
+            "Widely dispersed among many competing interest groups",
+            "Reserved exclusively to the President and the Cabinet",
+            "Held only by those who run for office"
+        ],
+        "answer": "Widely dispersed among many competing interest groups",
+        "explanation": "Pluralism suggests that policy outcomes are the result of continuous bargaining and compromise among various interest groups."
+    },
+    {
+        "id": "G115",
+        "text": "The shift of white southern Democrats to the Republican Party following the 1960s civil rights legislation is a classic example of:",
+        "image": "",
+        "options": [
+            "Ticket-splitting",
+            "Party realignment",
+            "Dealignment",
+            "Divided government"
+        ],
+        "answer": "Party realignment",
+        "explanation": "This was a major shift in the demographic basis of political support, fundamentally changing the composition and dominance of the two major parties."
+    },
+    {
+        "id": "G116",
+        "text": "When the government uses taxation and spending policies to influence the economy (e.g., passing legislation like the Inflation Reduction Act), it is exercising:",
+        "image": "",
+        "options": [
+            "Monetary policy",
+            "Fiscal policy",
+            "Trade policy",
+            "Regulatory policy"
+        ],
+        "answer": "Fiscal policy",
+        "explanation": "Fiscal policy involves the use of government spending and revenue collection (taxation) to influence the economy."
+    },
+    {
+        "id": "G117",
+        "text": "The $\\textbf{Federal Reserve Board}$ primarily manages $\\textbf{monetary policy}$ by:",
+        "image": "",
+        "options": [
+            "Setting federal tax rates",
+            "Controlling the money supply and adjusting interest rates",
+            "Authorizing government debt",
+            "Establishing the federal budget"
+        ],
+        "answer": "Controlling the money supply and adjusting interest rates",
+        "explanation": "The Federal Reserve is independent of Congress and the President and is responsible for setting interest rates and managing inflation/employment (monetary policy)."
+    },
+    {
+        "id": "G118",
+        "text": "The largest portion of the federal government's $\\textbf{mandatory spending}$ goes toward:",
+        "image": "",
+        "options": [
+            "National defense and foreign aid",
+            "Infrastructure and education",
+            "Social Security, Medicare, and Medicaid",
+            "Interest payments on the national debt"
+        ],
+        "answer": "Social Security, Medicare, and Medicaid",
+        "explanation": "These entitlement programs are mandated by law and make up the largest share of the federal budget, often limiting Congress's ability to fund discretionary programs."
+    },
+    {
+        "id": "G119",
+        "text": "The $\\textbf{Twenty-Fifth Amendment}$ deals with:",
+        "image": "",
+        "options": [
+            "Abolishing the poll tax",
+            "Presidential disability and succession",
+            "Lowering the voting age to 18",
+            "Limiting the President to two terms"
+        ],
+        "answer": "Presidential disability and succession",
+        "explanation": "It clarifies that the Vice President becomes President if the office is vacant and sets procedures for dealing with presidential disability."
+    },
+    {
+        "id": "G120",
+        "text": "Which of the following describes $\\textbf{cooperative federalism}$ (or 'marble cake federalism')?",
+        "image": "",
+        "options": [
+            "States acting entirely independent of the federal government",
+            "The federal government controlling all state policy decisions",
+            "A system where national, state, and local governments share policy responsibilities",
+            "A clear division of powers with no overlap"
+        ],
+        "answer": "A system where national, state, and local governments share policy responsibilities",
+        "explanation": "Cooperative federalism describes the blending of responsibilities, where the federal government provides money (often via grants) and standards, and the states administer the programs."
+    }
+]

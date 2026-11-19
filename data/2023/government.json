@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G41",
+        "text": "The arguments presented in $\\textbf{Federalist No. 10}$ primarily advocated for a large republic to prevent the dangers of:",
+        "image": "",
+        "options": [
+            "Excessive judicial power",
+            "Tyranny of the minority",
+            "Factions",
+            "A weak executive"
+        ],
+        "answer": "Factions",
+        "explanation": "James Madison argued that a large republic, with many competing factions, would make it less likely for any single faction to dominate the government and suppress the rights of others."
+    },
+    {
+        "id": "G42",
+        "text": "The Anti-Federalist concern expressed in $\\textbf{Brutus No. 1}$ centered on the belief that:",
+        "image": "",
+        "options": [
+            "The executive branch would become too weak",
+            "The necessary and proper clause and the supremacy clause would grant the federal government excessive, uncontrollable power",
+            "The Bill of Rights was unnecessary",
+            "State courts should have appellate jurisdiction over federal courts"
+        ],
+        "answer": "The necessary and proper clause and the supremacy clause would grant the federal government excessive, uncontrollable power",
+        "explanation": "Brutus worried that the expansive powers given to the federal government, particularly through the Elastic and Supremacy Clauses, would eventually lead to the destruction of state sovereignty."
+    },
+    {
+        "id": "G43",
+        "text": "Which landmark Supreme Court case established the principle of $\\textbf{implied powers}$ of the national government using the Necessary and Proper Clause?",
+        "image": "",
+        "options": [
+            "Gibbons v. Ogden (1824)",
+            "McCulloch v. Maryland (1819)",
+            "Lochner v. New York (1905)",
+            "Marbury v. Madison (1803)"
+        ],
+        "answer": "McCulloch v. Maryland (1819)",
+        "explanation": "This case affirmed the constitutionality of a national bank, establishing that Congress can use implied powers to carry out its expressed constitutional duties."
+    },
+    {
+        "id": "G44",
+        "text": "The $\\textbf{Commerce Clause}$ has been a key constitutional basis for federal legislation in which area?",
+        "image": "",
+        "options": [
+            "Regulating international treaties",
+            "Expanding civil rights protections",
+            "Appointing federal judges",
+            "Establishing state educational standards"
+        ],
+        "answer": "Expanding civil rights protections",
+        "explanation": "Cases like *Heart of Atlanta Motel v. United States* (1964) used the Commerce Clause to ban racial discrimination in public accommodations, arguing that it affects interstate commerce."
+    },
+    {
+        "id": "G45",
+        "text": "A $\\textbf{categorical grant}$ from the federal government to a state government is characterized by:",
+        "image": "",
+        "options": [
+            "Broad discretion for the state on how to spend the money",
+            "Specific instructions and conditions on how the money must be spent",
+            "A complete absence of federal oversight",
+            "Being reserved only for national defense expenditures"
+        ],
+        "answer": "Specific instructions and conditions on how the money must be spent",
+        "explanation": "Categorical grants are the main source of federal aid to states for specific purposes, often with strict rules, fostering a cooperative federalism approach."
+    },
+    {
+        "id": "G46",
+        "text": "The $\\textbf{delegate model}$ of representation holds that legislators should:",
+        "image": "",
+        "options": [
+            "Act as independent experts, ignoring constituent opinions",
+            "Prioritize the national good over local interests",
+            "Vote according to the clearly expressed wishes of their constituents",
+            "Follow the directions of the party leadership exclusively"
+        ],
+        "answer": "Vote according to the clearly expressed wishes of their constituents",
+        "explanation": "The delegate model sees the representative as an agent of the voters who elected them, bound to vote based on constituent sentiment."
+    },
+    {
+        "id": "G47",
+        "text": "The power of $\\textbf{cloture}$ in the Senate is used to:",
+        "image": "",
+        "options": [
+            "Confirm presidential nominations",
+            "End a filibuster and bring a bill to a vote",
+            "Override a presidential veto",
+            "Determine the annual federal budget"
+        ],
+        "answer": "End a filibuster and bring a bill to a vote",
+        "explanation": "Cloture requires the vote of three-fifths (currently 60) of the Senate and is the formal procedure to break a filibuster."
+    },
+    {
+        "id": "G48",
+        "text": "The primary difference between $\\textbf{mandatory spending}$ and $\\textbf{discretionary spending}$ is that mandatory spending:",
+        "image": "",
+        "options": [
+            "Requires an annual approval vote by Congress",
+            "Is only used for military expenditures",
+            "Is required by existing laws and accounts for the largest share of the federal budget",
+            "Can be easily cut during budget negotiations"
+        ],
+        "answer": "Is required by existing laws and accounts for the largest share of the federal budget",
+        "explanation": "Mandatory spending (e.g., Social Security, Medicare) is required by law and must be funded unless Congress changes the underlying law. Discretionary spending (e.g., defense, education) is subject to annual appropriation."
+    },
+    {
+        "id": "G49",
+        "text": "The $\\textbf{Twenty-Second Amendment}$ (1951) places which limit on the presidency?",
+        "image": "",
+        "options": [
+            "Limits the President to two terms of office",
+            "Allows the Vice President to fill a presidential vacancy",
+            "Requires the President to be a natural-born citizen",
+            "Allows Congress to override an executive order"
+        ],
+        "answer": "Limits the President to two terms of office",
+        "explanation": "The 22nd Amendment was passed after Franklin D. Roosevelt won four terms, formalizing the two-term tradition."
+    },
+    {
+        "id": "G50",
+        "text": "The $\\textbf{Cabinet}$ departments are primarily responsible for:",
+        "image": "",
+        "options": [
+            "Writing judicial opinions for the Supreme Court",
+            "Serving as the President's informal advisory body and carrying out the duties of their respective policy areas",
+            "Approving presidential treaties with a two-thirds vote",
+            "Resolving legislative disputes between the House and Senate"
+        ],
+        "answer": "Serving as the President's informal advisory body and carrying out the duties of their respective policy areas",
+        "explanation": "Cabinet secretaries head major federal departments (like Defense or State) and both advise the President and implement policy."
+    },
+    {
+        "id": "G51",
+        "text": "A President entering into an agreement with a foreign leader that does $\\textbf{not}$ require Senate approval is making a(n):",
+        "image": "",
+        "options": [
+            "Treaty",
+            "Executive Agreement",
+            "Executive Order",
+            "Joint Resolution"
+        ],
+        "answer": "Executive Agreement",
+        "explanation": "Unlike treaties, executive agreements are non-binding agreements between the President and a foreign head of state, which do not need Senate ratification."
+    },
+    {
+        "id": "G52",
+        "text": "The power of $\\textbf{appellate jurisdiction}$ means a court has the authority to:",
+        "image": "",
+        "options": [
+            "Hear a case for the first time",
+            "Issue advisory opinions to Congress",
+            "Review decisions made by lower courts",
+            "Declare a law unconstitutional"
+        ],
+        "answer": "Review decisions made by lower courts",
+        "explanation": "Appellate jurisdiction is the power of a higher court to review decisions and change outcomes of decisions of lower courts. The Supreme Court is primarily an appellate court."
+    },
+    {
+        "id": "G53",
+        "text": "A judge who practices $\\textbf{judicial restraint}$ would most likely:",
+        "image": "",
+        "options": [
+            "Actively overturn precedents and strike down laws",
+            "Defer policy-making decisions to the elected legislative and executive branches",
+            "Rule only on cases involving the federal government",
+            "Prioritize international law over U.S. law"
+        ],
+        "answer": "Defer policy-making decisions to the elected legislative and executive branches",
+        "explanation": "Judicial restraint is a theory that encourages judges to limit the exercise of their own power and avoid overturning established laws or precedents unless absolutely necessary."
+    },
+    {
+        "id": "G54",
+        "text": "Which action is an example of the President utilizing the power of the $\\textbf{bully pulpit}$?",
+        "image": "",
+        "options": [
+            "Issuing a formal veto of a bill",
+            "Giving a nationally televised speech to gain support for a policy initiative",
+            "Appointing a new Cabinet Secretary",
+            "Signing a treaty with a foreign nation"
+        ],
+        "answer": "Giving a nationally televised speech to gain support for a policy initiative",
+        "explanation": "The bully pulpit is the President's ability to use the office's prestige and visibility to guide or influence the American public."
+    },
+    {
+        "id": "G55",
+        "text": "The primary means by which $\\textbf{selective incorporation}$ applies the Bill of Rights to the states is through the:",
+        "image": "",
+        "options": [
+            "First Amendment's Free Exercise Clause",
+            "Tenth Amendment's Reserved Powers Clause",
+            "Fourteenth Amendment's Due Process Clause",
+            "Commerce Clause"
+        ],
+        "answer": "Fourteenth Amendment's Due Process Clause",
+        "explanation": "The Due Process Clause has been used case-by-case (selectively) to declare that state governments must also guarantee specific rights found in the Bill of Rights."
+    },
+    {
+        "id": "G56",
+        "text": "The $\\textbf{Lemon Test}$, established in $\\text{Lemon v. Kurtzman}$ (1971), is used by the Supreme Court to determine if a practice violates the:",
+        "image": "",
+        "options": [
+            "Free Exercise Clause",
+            "Establishment Clause",
+            "Freedom of Speech",
+            "Right to Assembly"
+        ],
+        "answer": "Establishment Clause",
+        "explanation": "The Lemon Test requires government action to have a secular purpose, neither advance nor inhibit religion, and not foster excessive government entanglement with religion."
+    },
+    {
+        "id": "G57",
+        "text": "In $\\text{Tinker v. Des Moines}$ (1969), the Supreme Court ruled that students' wearing of armbands was protected by the First Amendment because it constituted $\\textbf{symbolic speech}$, which means:",
+        "image": "",
+        "options": [
+            "Speech that advocates the overthrow of the government",
+            "Nonverbal communication that expresses an opinion",
+            "Speech delivered with visual aids",
+            "Speech that encourages illegal activity"
+        ],
+        "answer": "Nonverbal communication that expresses an opinion",
+        "explanation": "Symbolic speech is conduct that is intended to communicate a particular message, which the Court recognized as protected under the First Amendment."
+    },
+    {
+        "id": "G58",
+        "text": "The $\\textbf{exclusionary rule}$, derived from the Fourth Amendment, holds that:",
+        "image": "",
+        "options": [
+            "All testimony must be recorded verbatim",
+            "Evidence obtained illegally cannot be used in a criminal trial",
+            "The government must exclude foreign aid from the budget",
+            "Juries must exclude all circumstantial evidence"
+        ],
+        "answer": "Evidence obtained illegally cannot be used in a criminal trial",
+        "explanation": "The exclusionary rule is a judicial remedy, first applied to the states in $\\text{Mapp v. Ohio}$ (1961), preventing the use of illegally seized evidence."
+    },
+    {
+        "id": "G59",
+        "text": "The Supreme Court case of $\\text{Roe v. Wade}$ (1973), which established a woman's right to an abortion, was primarily based on the implied constitutional right to:",
+        "image": "",
+        "options": [
+            "Equal protection",
+            "Privacy",
+            "Due process of law",
+            "Freedom of religion"
+        ],
+        "answer": "Privacy",
+        "explanation": "The Court found the right to an abortion within the zone of privacy protected by the Due Process Clause of the Fourteenth Amendment."
+    },
+    {
+        "id": "G60",
+        "text": "Which court decision significantly altered the landscape of abortion law, especially concerning the viability standard established in $\\text{Roe}$?",
+        "image": "",
+        "options": [
+            "Baker v. Carr (1962)",
+            "Miranda v. Arizona (1966)",
+            "Planned Parenthood v. Casey (1992)",
+            "Regents of Univ. of California v. Bakke (1978)"
+        ],
+        "answer": "Planned Parenthood v. Casey (1992)",
+        "explanation": "While $\\text{Casey}$ affirmed the core right, it replaced the strict trimester framework with the 'undue burden' standard, allowing states greater regulatory power before viability."
+    },
+    {
+        "id": "G61",
+        "text": "The $\\textbf{Civil Rights Act of 1964}$ addressed which practice through the use of the Commerce Clause?",
+        "image": "",
+        "options": [
+            "Voter registration drives",
+            "Segregation in private businesses and public accommodations",
+            "Affirmative action in higher education",
+            "Prayer in public schools"
+        ],
+        "answer": "Segregation in private businesses and public accommodations",
+        "explanation": "The Act used the federal government's power to regulate interstate commerce to prohibit racial segregation in restaurants, hotels, and other public places."
+    },
+    {
+        "id": "G62",
+        "text": "The $\\textbf{Voting Rights Act of 1965}$ primarily aimed to eliminate which electoral hurdle?",
+        "image": "",
+        "options": [
+            "The poll tax (already banned by the 24th Amendment)",
+            "Literacy tests and other discriminatory voting practices",
+            "Voter identification requirements",
+            "The Electoral College"
+        ],
+        "answer": "Literacy tests and other discriminatory voting practices",
+        "explanation": "The VRA 1965 banned literacy tests and provided for federal oversight of voter registration in areas with a history of discrimination."
+    },
+    {
+        "id": "G63",
+        "text": "The phenomenon of $\\textbf{party realignment}$ is best described as:",
+        "image": "",
+        "options": [
+            "A temporary drop in voter turnout",
+            "A shift of voters from one major party to the other, often resulting in a new majority party",
+            "The process of redrawing Congressional districts",
+            "The formal organization of a political party's convention"
+        ],
+        "answer": "A shift of voters from one major party to the other, often resulting in a new majority party",
+        "explanation": "Realignment refers to a dramatic change in the political system, where the groups that support the political parties fundamentally shift, leading to a new era of dominance."
+    },
+    {
+        "id": "G64",
+        "text": "Which demographic group has historically had the highest voter turnout rate in U.S. presidential elections?",
+        "image": "",
+        "options": [
+            "Young adults (18-25)",
+            "Citizens with only a high school education",
+            "Citizens 65 and older",
+            "Minority groups"
+        ],
+        "answer": "Citizens 65 and older",
+        "explanation": "Older Americans consistently exhibit the highest levels of voter registration and turnout compared to other age demographics."
+    },
+    {
+        "id": "G65",
+        "text": "A political campaign organization that pools campaign contributions from members and donates those funds to campaign for or against candidates is known as a(n):",
+        "image": "",
+        "options": [
+            "527 Organization",
+            "Political Action Committee (PAC)",
+            "Lobbying Firm",
+            "Issue Advocacy Group"
+        ],
+        "answer": "Political Action Committee (PAC)",
+        "explanation": "PACs are regulated organizations that can donate directly to candidates, subject to limits defined by the Federal Election Commission (FEC)."
+    },
+    {
+        "id": "G66",
+        "text": "In the context of the federal bureaucracy, the power of $\\textbf{administrative discretion}$ refers to:",
+        "image": "",
+        "options": [
+            "The President's power to fire civil servants",
+            "The judiciary's power to review agency decisions",
+            "The authority of unelected bureaucrats to choose how to implement broad congressional mandates",
+            "Congress's power to pass legislative vetoes"
+        ],
+        "answer": "The authority of unelected bureaucrats to choose how to implement broad congressional mandates",
+        "explanation": "Congress often passes broad laws, leaving the details and specific rule-making (implementation) up to the expert bureaucratic agencies."
+    },
+    {
+        "id": "G67",
+        "text": "Congressional oversight of the bureaucracy is primarily accomplished through which two mechanisms?",
+        "image": "",
+        "options": [
+            "Veto power and treaty ratification",
+            "Executive orders and judicial review",
+            "Committee hearings and the power of the purse (budget control)",
+            "Filibusters and cloture votes"
+        ],
+        "answer": "Committee hearings and the power of the purse (budget control)",
+        "explanation": "Oversight includes monitoring agency implementation of policy through hearings, investigations, and, most importantly, controlling their funding."
+    },
+    {
+        "id": "G68",
+        "text": "The primary objective of a $\\textbf{Super PAC}$ is to:",
+        "image": "",
+        "options": [
+            "Directly coordinate campaign strategy with a candidate's campaign",
+            "Spend unlimited amounts of money on political advertising, independent of the candidate",
+            "Donate directly to political candidates and parties up to federal limits",
+            "File legal challenges against campaign finance laws"
+        ],
+        "answer": "Spend unlimited amounts of money on political advertising, independent of the candidate",
+        "explanation": "Super PACs, created after the $\\text{Citizens United}$ ruling, can accept unlimited contributions and spend unlimited sums on independent expenditures, but they cannot directly coordinate with the campaigns they support."
+    },
+    {
+        "id": "G69",
+        "text": "The $\\textbf{Twenty-Fourth Amendment}$ (1964) prohibited which discriminatory voting practice?",
+        "image": "",
+        "options": [
+            "Grandfather clauses",
+            "White primaries",
+            "The poll tax",
+            "Gerrymandering"
+        ],
+        "answer": "The poll tax",
+        "explanation": "The amendment banned the use of poll taxes in federal elections, which were historically used in the South to suppress the vote of poor and minority citizens."
+    },
+    {
+        "id": "G70",
+        "text": "A $\\textbf{closed primary}$ differs from an open primary in that:",
+        "image": "",
+        "options": [
+            "In a closed primary, only registered party members may vote",
+            "In a closed primary, voters do not have to register with a party",
+            "A closed primary only allows independents to vote",
+            "A closed primary has higher campaign spending limits"
+        ],
+        "answer": "In a closed primary, only registered party members may vote",
+        "explanation": "Closed primaries require voters to be officially registered with the political party whose primary they are voting in."
+    },
+    {
+        "id": "G71",
+        "text": "Which amendment lowered the national voting age to 18?",
+        "image": "",
+        "options": [
+            "Nineteenth Amendment",
+            "Twenty-Second Amendment",
+            "Twenty-Fourth Amendment",
+            "Twenty-Sixth Amendment"
+        ],
+        "answer": "Twenty-Sixth Amendment",
+        "explanation": "The 26th Amendment was ratified in 1971 in response to the Vietnam War, where 18-year-olds were being drafted but could not vote."
+    },
+    {
+        "id": "G72",
+        "text": "The concept of $\\textbf{pork barrel spending}$ refers to:",
+        "image": "",
+        "options": [
+            "Federal spending that is audited by the GAO",
+            "Legislation that primarily benefits a single district or state, often secured by a legislator for local political gain",
+            "Mandatory spending for social security",
+            "The appropriation of funds for national defense"
+        ],
+        "answer": "Legislation that primarily benefits a single district or state, often secured by a legislator for local political gain",
+        "explanation": "Pork barrel legislation is often secured through logrolling (vote trading) and brings money and jobs to the home district of the sponsoring representative."
+    },
+    {
+        "id": "G73",
+        "text": "The media's role in $\\textbf{gatekeeping}$ refers to its ability to:",
+        "image": "",
+        "options": [
+            "Investigate corruption in the government (watchdog)",
+            "Influence what topics become subjects of public debate and policy",
+            "Provide balanced coverage of all political parties",
+            "Act as a direct conduit for presidential messages"
+        ],
+        "answer": "Influence what topics become subjects of public debate and policy",
+        "explanation": "Gatekeeping (or agenda-setting) is the power of the media to decide which issues and events receive public attention and which are ignored."
+    },
+    {
+        "id": "G74",
+        "text": "The constitutional provision requiring states to recognize the public acts, records, and judicial proceedings of every other state is the:",
+        "image": "",
+        "options": [
+            "Privileges and Immunities Clause",
+            "Supremacy Clause",
+            "Full Faith and Credit Clause",
+            "Necessary and Proper Clause"
+        ],
+        "answer": "Full Faith and Credit Clause",
+        "explanation": "This clause, found in Article IV, ensures that legal decisions and contracts made in one state are honored in all others."
+    },
+    {
+        "id": "G75",
+        "text": "Which executive official has the constitutional duty to preside over the Senate and vote in the event of a tie?",
+        "image": "",
+        "options": [
+            "The Speaker of the House",
+            "The Senate Majority Leader",
+            "The President Pro Tempore",
+            "The Vice President"
+        ],
+        "answer": "The Vice President",
+        "explanation": "Article I, Section 3 designates the Vice President as the President of the Senate, with the power to cast a tie-breaking vote."
+    },
+    {
+        "id": "G76",
+        "text": "The concept of $\\textbf{dual federalism}$ (or 'layer cake federalism') is characterized by:",
+        "image": "",
+        "options": [
+            "The national government taking over most state functions",
+            "Clear delineation of authority between the national and state governments",
+            "The use of federal mandates without financial assistance",
+            "A flexible, mixing of governmental responsibilities across levels"
+        ],
+        "answer": "Clear delineation of authority between the national and state governments",
+        "explanation": "Dual federalism was the dominant approach in the early U.S., holding that the federal and state governments operate in separate, clearly defined spheres of authority."
+    },
+    {
+        "id": "G77",
+        "text": "The $\\textbf{free exercise clause}$ of the First Amendment grants individuals the right to:",
+        "image": "",
+        "options": [
+            "Use inflammatory language without consequence",
+            "Practice or not practice any religion, so long as it does not violate general laws",
+            "Petition the government for redress of grievances",
+            "Create religious schools that receive government funding"
+        ],
+        "answer": "Practice or not practice any religion, so long as it does not violate general laws",
+        "explanation": "The Free Exercise Clause protects religious belief and the ability to act on that belief, though religious practices can be restricted if they conflict with valid, neutral laws."
+    },
+    {
+        "id": "G78",
+        "text": "In the Federalist system, the power to $\\textbf{tax}$ is considered a $\\textbf{concurrent power}$ because:",
+        "image": "",
+        "options": [
+            "Only the federal government can levy income taxes",
+            "Only the states can levy sales taxes",
+            "Both the national and state governments possess this authority",
+            "Taxing power is reserved exclusively to the people"
+        ],
+        "answer": "Both the national and state governments possess this authority",
+        "explanation": "Concurrent powers are those shared by both the federal and state governments, such as the power to tax, borrow money, and establish courts."
+    },
+    {
+        "id": "G79",
+        "text": "A court case that challenges the constitutionality of $\\textbf{affirmative action}$ typically requires the court to apply which standard of review under the Equal Protection Clause?",
+        "image": "",
+        "options": [
+            "Rational basis test",
+            "Undue burden test",
+            "Strict scrutiny test",
+            "Clear and present danger test"
+        ],
+        "answer": "Strict scrutiny test",
+        "explanation": "Strict scrutiny is applied when a law or action involves a suspect classification (like race or national origin) and requires the government to show a compelling interest and that the policy is narrowly tailored."
+    },
+    {
+        "id": "G80",
+        "text": "A $\\textbf{dissenting opinion}$ written by a Supreme Court justice is:",
+        "image": "",
+        "options": [
+            "The official legal reasoning for the Court's ruling",
+            "An opinion written by a justice who disagrees with the majority's conclusion and reasoning",
+            "A decision issued by a lower court that the Supreme Court overturns",
+            "A preliminary, non-binding statement on a case"
+        ],
+        "answer": "An opinion written by a justice who disagrees with the majority's conclusion and reasoning",
+        "explanation": "A dissenting opinion has no legal force but can be important in articulating arguments that may one day become the majority view."
+    }
+]

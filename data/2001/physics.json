@@ -1,0 +1,652 @@
+[
+    {
+        "id": "JAMB_P_091",
+        "text": "The $\\textbf{fundamental}$ $\\textbf{unit}$ of $\\textbf{current}$ is the:",
+        "image": "",
+        "options": [
+            "Coulomb.",
+            "Volt.",
+            "Ampere.",
+            "Ohm."
+        ],
+        "answer": "Ampere.",
+        "explanation": "The $\\textbf{Ampere}$ (A) is the S.I. base unit for electric $\\textbf{current}$. The Coulomb (C) is the unit of charge, Volt (V) for potential difference, and Ohm ($\\Omega$) for resistance."
+    },
+    {
+        "id": "JAMB_P_092",
+        "text": "A body starts from rest and accelerates uniformly at $2\\text{ m/s}^2$ for $5\\text{ s}$. The $\\textbf{distance}$ covered by the body is:",
+        "image": "",
+        "options": [
+            "$5\\text{ m}$.",
+            "$10\\text{ m}$.",
+            "$15\\text{ m}$.",
+            "$25\\text{ m}$."
+        ],
+        "answer": "$25\\text{ m}$.",
+        "explanation": "Use the equation of motion $S = ut + \\frac{1}{2}at^2$. Since $u=0$: $S = 0 + \\frac{1}{2}(2\\text{ m/s}^2)(5\\text{ s})^2 = 1 \\times 25 = 25\\text{ m}$."
+    },
+    {
+        "id": "JAMB_P_093",
+        "text": "The ratio of $\\textbf{weight}$ to $\\textbf{mass}$ is equal to:",
+        "image": "",
+        "options": [
+            "density.",
+            "velocity.",
+            "acceleration due to gravity ($g$).",
+            "impulse."
+        ],
+        "answer": "acceleration due to gravity ($g$).",
+        "explanation": "Weight ($W$) is given by $W = mg$. Therefore, $\\frac{\\text{Weight}}{\\text{Mass}} = \\frac{mg}{m} = g$, the $\\textbf{acceleration}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{gravity}$."
+    },
+    {
+        "id": "JAMB_P_094",
+        "text": "A machine has a $\\textbf{velocity}$ $\\textbf{ratio}$ of $5$. If a load of $500\\text{ N}$ is lifted by an effort of $150\\text{ N}$, the $\\textbf{efficiency}$ of the machine is:",
+        "image": "",
+        "options": [
+            "$33.3\\%$.",
+            "$60\\%$.",
+            "$66.7\\%$.",
+            "$80\\%$."
+        ],
+        "answer": "$66.7\\%$.",
+        "explanation": "Mechanical Advantage ($M.A.) = \\frac{\\text{Load}}{\\text{Effort}} = \\frac{500\\text{ N}}{150\\text{ N}} = 3.33$. Efficiency $(\\eta) = \\frac{M.A.}{V.R.} \\times 100\\%$. $\\eta = \\frac{3.33}{5} \\times 100\\% = 0.666... \\times 100\\% \\approx 66.7\\%$. [Image of a lever or pulley system illustrating mechanical advantage]"
+    },
+    {
+        "id": "JAMB_P_095",
+        "text": "The $\\textbf{center}$ $\\textbf{of}$ $\\textbf{gravity}$ of a body is the point at which:",
+        "image": "",
+        "options": [
+            "the mass is concentrated.",
+            "the weight of the body acts.",
+            "the density is highest.",
+            "the body is always stable."
+        ],
+        "answer": "the weight of the body acts.",
+        "explanation": "The $\\textbf{center}$ $\\textbf{of}$ $\\textbf{gravity}$ ($\text{CG}$) is the imaginary point through which the $\\textbf{entire}$ $\\textbf{weight}$ of the body can be considered to act, regardless of the body's orientation."
+    },
+    {
+        "id": "JAMB_P_096",
+        "text": "Which of the following determines the $\\textbf{kinetic}$ $\\textbf{energy}$ of a body?",
+        "image": "",
+        "options": [
+            "Mass and height.",
+            "Weight and velocity.",
+            "Mass and velocity.",
+            "Volume and speed."
+        ],
+        "answer": "Mass and velocity.",
+        "explanation": "Kinetic energy ($\text{KE}$) is the energy of motion, defined by the formula $\\text{KE} = \\frac{1}{2}mv^2$, where $m$ is $\\textbf{mass}$ and $v$ is $\\textbf{velocity}$ (or speed squared)."
+    },
+    {
+        "id": "JAMB_P_097",
+        "text": "A liquid is heated from $30^\\circ\\text{C}$ to $90^\\circ\\text{C}$. If the specific heat capacity is $4000\\text{ J/kg}\\cdot\\text{K}$, how much $\\textbf{heat}$ is absorbed by $2\\text{ kg}$ of the liquid?",
+        "image": "",
+        "options": [
+            "$240,000\\text{ J}$.",
+            "$480,000\\text{ J}$.",
+            "$360,000\\text{ J}$.",
+            "$720,000\\text{ J}$."
+        ],
+        "answer": "$480,000\\text{ J}$.",
+        "explanation": "Heat absorbed $Q = mc\\Delta\\theta$. $\\Delta\\theta = 90^\\circ\\text{C} - 30^\\circ\\text{C} = 60\\text{ K}$. $Q = (2\\text{ kg})(4000\\text{ J/kg}\\cdot\\text{K})(60\\text{ K}) = 8000 \\times 60 = 480,000\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_098",
+        "text": "The phenomenon used to $\\textbf{separate}$ mixtures of $\\textbf{colored}$ $\\textbf{dyes}$ is:",
+        "image": "",
+        "options": [
+            "Diffusion.",
+            "Chromatography.",
+            "Osmosis.",
+            "Sublimation."
+        ],
+        "answer": "Chromatography.",
+        "explanation": "$\\textbf{Chromatography}$ is a technique used to $\\textbf{separate}$ the components of a mixture (like dyes in ink) based on the differential distribution of the components between a stationary phase and a mobile phase."
+    },
+    {
+        "id": "JAMB_P_099",
+        "text": "If the $\\textbf{pressure}$ of a fixed mass of gas is $\\textbf{doubled}$ at $\\textbf{constant}$ $\\textbf{volume}$, the $\\textbf{absolute}$ $\\textbf{temperature}$ will:",
+        "image": "",
+        "options": [
+            "be halved.",
+            "remain unchanged.",
+            "be doubled.",
+            "be quadrupled."
+        ],
+        "answer": "be doubled.",
+        "explanation": "According to $\\textbf{Gay-Lussac's Law}$ (or the General Gas Law $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ at constant $V$), $\\textbf{pressure}$ is $\\textbf{directly}$ $\\textbf{proportional}$ to $\\textbf{absolute}$ $\\textbf{temperature}$. If $P$ is doubled, $T$ must also be doubled."
+    },
+    {
+        "id": "JAMB_P_100",
+        "text": "Which of the following $\\textbf{increases}$ the $\\textbf{boiling}$ $\\textbf{point}$ of a liquid?",
+        "image": "",
+        "options": [
+            "Decreasing the atmospheric pressure.",
+            "Increasing the surface area.",
+            "Adding impurities.",
+            "Increasing the ventilation."
+        ],
+        "answer": "Adding impurities.",
+        "explanation": "The addition of $\\textbf{non-volatile}$ $\\textbf{impurities}$ (like salt to water) $\\textbf{elevates}$ the boiling point of the liquid. Decreasing pressure lowers the boiling point."
+    },
+    {
+        "id": "JAMB_P_101",
+        "text": "A converging lens of focal length $10\\text{ cm}$ forms a $\\textbf{real}$ $\\textbf{image}$ $40\\text{ cm}$ from the lens. What is the $\\textbf{magnification}$?",
+        "image": "",
+        "options": [
+            "$0.25$.",
+            "$0.5$.",
+            "$2.0$.",
+            "$4.0$."
+        ],
+        "answer": "$3.0$.",
+        "explanation": "Use lens formula: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$. $u = 13.33\\text{ cm}$. $M = \\frac{v}{u} = \\frac{40}{13.33} = 3.0$."
+    },
+    {
+        "id": "JAMB_P_102",
+        "text": "If a wave travels through a medium, the $\\textbf{frequency}$ of the wave is:",
+        "image": "",
+        "options": [
+            "dependent on the medium.",
+            "equal to the amplitude.",
+            "always constant.",
+            "dependent on the source."
+        ],
+        "answer": "dependent on the source.",
+        "explanation": "The $\\textbf{frequency}$ of a wave is determined $\\textbf{only}$ by the $\\textbf{source}$ that created it and $\\textbf{does}$ $\\textbf{not}$ change when the wave passes into a different medium (only speed and wavelength change)."
+    },
+    {
+        "id": "JAMB_P_103",
+        "text": "Which of the following is $\\textbf{responsible}$ for $\\textbf{total}$ $\\textbf{internal}$ $\\textbf{reflection}$?",
+        "image": "",
+        "options": [
+            "Light traveling from an optically dense to a less dense medium.",
+            "Light traveling from an optically less dense to a more dense medium.",
+            "The angle of incidence being less than the critical angle.",
+            "The angle of refraction being $90^\\circ$."
+        ],
+        "answer": "Light traveling from an optically dense to a less dense medium.",
+        "explanation": "Total internal reflection (TIR) occurs when light moves from a $\\textbf{denser}$ medium to a $\\textbf{less}$ $\\textbf{dense}$ medium, and the angle of incidence is $\\textbf{greater}$ than the critical angle ($i > i_c$). [Image of total internal reflection ray diagram]"
+    },
+    {
+        "id": "JAMB_P_104",
+        "text": "If the $\\textbf{speed}$ of sound in air is $330\\text{ m/s}$, what is the $\\textbf{wavelength}$ of a sound wave with a period of $0.01\\text{ s}$?",
+        "image": "",
+        "options": [
+            "$0.33\\text{ m}$.",
+            "$3.3\\text{ m}$.",
+            "$33.0\\text{ m}$.",
+            "$330.0\\text{ m}$."
+        ],
+        "answer": "$3.3\\text{ m}$.",
+        "explanation": "Frequency $f = \\frac{1}{\\text{Period}} = \\frac{1}{0.01\\text{ s}} = 100\\text{ Hz}$. Wavelength $\\lambda = \\frac{v}{f} = \\frac{330\\text{ m/s}}{100\\text{ Hz}} = 3.3\\text{ m}$."
+    },
+    {
+        "id": "JAMB_P_105",
+        "text": "The $\\textbf{unit}$ of $\\textbf{energy}$ consumption commonly used by electric power companies is the:",
+        "image": "",
+        "options": [
+            "Joule.",
+            "Watt-hour.",
+            "Kilowatt-hour ($\\text{kWh}$).",
+            "Ampere-hour."
+        ],
+        "answer": "Kilowatt-hour ($\\text{kWh}$).",
+        "explanation": "The $\\textbf{Kilowatt-hour}$ ($\text{kWh}$) is the commercial unit of $\\textbf{electrical}$ $\\textbf{energy}$ $\\textbf{consumption}$. $1\\text{ kWh}$ is the energy consumed by a $1\\text{ kW}$ appliance running for $1\\text{ hour}$."
+    },
+    {
+        "id": "JAMB_P_106",
+        "text": "Two resistors of $6\\text{ }\\Omega$ and $12\\text{ }\\Omega$ are connected in $\\textbf{parallel}$. Their $\\textbf{total}$ $\\textbf{resistance}$ is:",
+        "image": "",
+        "options": [
+            "$4\\text{ }\\Omega$.",
+            "$6\\text{ }\\Omega$.",
+            "$18\\text{ }\\Omega$.",
+            "$24\\text{ }\\Omega$."
+        ],
+        "answer": "$4\\text{ }\\Omega$.",
+        "explanation": "For parallel connection: $\\frac{1}{R_{\\text{eq}}} = \\frac{1}{R_1} + \\frac{1}{R_2} = \\frac{1}{6} + \\frac{1}{12} = \\frac{2+1}{12} = \\frac{3}{12} = \\frac{1}{4}$. $R_{\\text{eq}} = 4\\text{ }\\Omega$. [Image of two parallel resistors circuit diagram]"
+    },
+    {
+        "id": "JAMB_P_107",
+        "text": "The $\\textbf{potential}$ $\\textbf{difference}$ between the terminals of a cell is its $\\textbf{e.m.f}$ when:",
+        "image": "",
+        "options": [
+            "a large current is flowing.",
+            "the cell is being charged.",
+            "the external resistance is very high.",
+            "no current is flowing."
+        ],
+        "answer": "no current is flowing.",
+        "explanation": "The $\\textbf{e.m.f}$ is the potential difference across the terminals when the cell is on $\\textbf{open}$ $\\textbf{circuit}$, meaning $\\textbf{no}$ $\\textbf{current}$ is flowing and there is no voltage drop due to internal resistance."
+    },
+    {
+        "id": "JAMB_P_108",
+        "text": "The process of charging a conductor by bringing a $\\textbf{charged}$ $\\textbf{object}$ near it $\\textbf{without}$ $\\textbf{touching}$ is called:",
+        "image": "",
+        "options": [
+            "Conduction.",
+            "Induction.",
+            "Polarization.",
+            "Convection."
+        ],
+        "answer": "Induction.",
+        "explanation": "Electrostatic $\\textbf{induction}$ is the $\\textbf{redistribution}$ of electric charge in a conductor caused by the presence of a nearby $\\textbf{charged}$ $\\textbf{object}$."
+    },
+    {
+        "id": "JAMB_P_109",
+        "text": "In a $\\textbf{transformer}$, the $\\textbf{ratio}$ of the $\\textbf{primary}$ $\\textbf{voltage}$ to the $\\textbf{secondary}$ $\\textbf{voltage}$ is equal to the ratio of the:",
+        "image": "",
+        "options": [
+            "currents.",
+            "power.",
+            "number of turns.",
+            "frequencies."
+        ],
+        "answer": "number of turns.",
+        "explanation": "For an ideal transformer, $\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$, where $N_p$ and $N_s$ are the number of turns in the primary and secondary coils, respectively. [Image of a transformer circuit diagram]"
+    },
+    {
+        "id": "JAMB_P_110",
+        "text": "The $\\textbf{magnetic}$ $\\textbf{flux}$ $\\textbf{density}$ is measured in:",
+        "image": "",
+        "options": [
+            "Weber ($\\text{Wb}$).",
+            "Tesla ($\\text{T}$).",
+            "Henry ($\\text{H}$).",
+            "Weber per meter ($\\text{Wb/m}$)."
+        ],
+        "answer": "Tesla ($\\text{T}$).",
+        "explanation": "Magnetic flux density ($B$) is measured in $\\textbf{Tesla}$ ($\text{T}$). Magnetic flux ($\\Phi$) is measured in $\\textbf{Weber}$ ($\text{Wb}$)."
+    },
+    {
+        "id": "JAMB_P_111",
+        "text": "Which of the following can $\\textbf{NOT}$ be obtained using a $\\textbf{p-n}$ $\\textbf{junction}$ $\\textbf{diode}$?",
+        "image": "",
+        "options": [
+            "Rectification.",
+            "Amplification.",
+            "Switching.",
+            "Detection."
+        ],
+        "answer": "Amplification.",
+        "explanation": "Diodes are used for $\\textbf{rectification}$ (converting $\\text{AC}$ to $\\text{DC}$), $\\textbf{switching}$ (on/off action), and $\\textbf{detection}$ ($\text{AM}$ radio). $\\textbf{Amplification}$ is the function of a $\\textbf{transistor}$."
+    },
+    {
+        "id": "JAMB_P_112",
+        "text": "The $\\textbf{half-life}$ of a radioactive substance is the time taken for:",
+        "image": "",
+        "options": [
+            "all the atoms to decay.",
+            "half the total energy to be released.",
+            "half the original number of atoms to decay.",
+            "the decay constant to be halved."
+        ],
+        "answer": "half the original number of atoms to decay.",
+        "explanation": "The $\\textbf{half-life}$ ($T_{1/2}$) is the time required for $\\textbf{half}$ of the $\\textbf{radioactive}$ $\\textbf{nuclei}$ in a sample to undergo decay."
+    },
+    {
+        "id": "JAMB_P_113",
+        "text": "Which of the following $\\textbf{electromagnetic}$ $\\textbf{waves}$ has the $\\textbf{highest}$ $\\textbf{frequency}$?",
+        "image": "",
+        "options": [
+            "Infrared radiation.",
+            "Ultraviolet radiation.",
+            "Microwaves.",
+            "Radio waves."
+        ],
+        "answer": "Ultraviolet radiation.",
+        "explanation": "In the EM spectrum, frequency $\\textbf{increases}$ in the order: Radio $\\rightarrow$ Microwave $\\rightarrow$ Infrared $\\rightarrow$ $\\textbf{Visible}$ $\\rightarrow$ $\\textbf{Ultraviolet}$ $\\rightarrow$ X-rays $\\rightarrow$ Gamma rays. $\\textbf{Ultraviolet}$ has the highest frequency among the given options."
+    },
+    {
+        "id": "JAMB_P_114",
+        "text": "If the $\\textbf{force}$ applied to a wire is $\\textbf{doubled}$, the $\\textbf{strain}$ produced is:",
+        "image": "",
+        "options": [
+            "halved.",
+            "doubled.",
+            "quadrupled.",
+            "unchanged."
+        ],
+        "answer": "doubled.",
+        "explanation": "According to $\\textbf{Hooke's Law}$ (within the elastic limit), $\\textbf{Stress}$ is $\\textbf{proportional}$ to $\\textbf{Strain}$. Since $\\text{Stress} = F/A$ and $F$ is doubled, the stress is doubled. Therefore, the $\\textbf{strain}$ (extension) is also $\\textbf{doubled}$."
+    },
+    {
+        "id": "JAMB_P_115",
+        "text": "The $\\textbf{pressure}$ exerted by a liquid at a depth $h$ is $\\textbf{directly}$ $\\textbf{proportional}$ to its:",
+        "image": "",
+        "options": [
+            "surface area.",
+            "volume.",
+            "density.",
+            "mass."
+        ],
+        "answer": "density.",
+        "explanation": "Liquid pressure $P = \\rho gh$. Pressure is $\\textbf{directly}$ proportional to the $\\textbf{density}$ ($\rho$), acceleration due to gravity ($g$), and depth ($h$)."
+    },
+    {
+        "id": "JAMB_P_116",
+        "text": "A block of wood floats on water with two-fifths of its $\\textbf{volume}$ submerged. The $\\textbf{relative}$ $\\textbf{density}$ of the wood is:",
+        "image": "",
+        "options": [
+            "$0.4$.",
+            "$0.6$.",
+            "$1.5$.",
+            "$2.5$."
+        ],
+        "answer": "$0.4$.",
+        "explanation": "By the Principle of Flotation, $\\text{Weight of floating object} = \\text{Weight of fluid displaced}$. $\\text{Relative Density} (d_r) = \\frac{\\text{Volume submerged}}{\\text{Total volume}}$. $d_r = \\frac{2}{5} = 0.4$. "
+    },
+    {
+        "id": "JAMB_P_117",
+        "text": "A motor rated $1000\\text{ W}$ lifts a load of $200\\text{ kg}$ through a vertical height of $4\\text{ m}$. The $\\textbf{time}$ taken is: (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$0.8\\text{ s}$.",
+            "$2.0\\text{ s}$.",
+            "$5.0\\text{ s}$.",
+            "$8.0\\text{ s}$."
+        ],
+        "answer": "$8.0\\text{ s}$.",
+        "explanation": "Work done $W = \\text{Force} \\times \\text{Distance} = mgh = (200\\text{ kg})(10\\text{ m/s}^2)(4\\text{ m}) = 8000\\text{ J}$. Power $P = \\frac{W}{t}$. Time $t = \\frac{W}{P} = \\frac{8000\\text{ J}}{1000\\text{ W}} = 8.0\\text{ s}$."
+    },
+    {
+        "id": "JAMB_P_118",
+        "text": "A ball of mass $0.5\\text{ kg}$ is dropped from a height of $10\\text{ m}$. What is its $\\textbf{velocity}$ just before hitting the ground? (Neglect air resistance and take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$10\\text{ m/s}$.",
+            "$14.1\\text{ m/s}$.",
+            "$20\\text{ m/s}$.",
+            "$40\\text{ m/s}$."
+        ],
+        "answer": "$14.1\\text{ m/s}$.",
+        "explanation": "Using conservation of energy: $\\text{PE}_{\\text{top}} = \\text{KE}_{\\text{bottom}}$. $mgh = \\frac{1}{2}mv^2$. $v = \\sqrt{2gh} = \\sqrt{2(10\\text{ m/s}^2)(10\\text{ m})} = \\sqrt{200} \\approx 14.14\\text{ m/s}$."
+    },
+    {
+        "id": "JAMB_P_119",
+        "text": "The $\\textbf{period}$ of oscillation of a simple pendulum is $\\textbf{independent}$ of the:",
+        "image": "",
+        "options": [
+            "length of the string.",
+            "mass of the bob.",
+            "acceleration due to gravity.",
+            "location of the experiment."
+        ],
+        "answer": "mass of the bob.",
+        "explanation": "The formula for the period is $T = 2\\pi \\sqrt{\\frac{L}{g}}$. It depends on length ($L$) and gravity ($g$), but is $\\textbf{independent}$ of the $\\textbf{mass}$ ($m$) of the bob (for small angles)."
+    },
+    {
+        "id": "JAMB_P_120",
+        "text": "$\\textbf{Latent}$ $\\textbf{heat}$ of $\\textbf{fusion}$ is the heat required to change a unit mass of a substance from:",
+        "image": "",
+        "options": [
+            "liquid to gas at boiling point.",
+            "solid to liquid at melting point.",
+            "liquid to solid at freezing point.",
+            "solid to gas at any temperature."
+        ],
+        "answer": "solid to liquid at melting point.",
+        "explanation": "Latent heat of $\\textbf{fusion}$ ($L_f$) is the heat absorbed to change a substance from $\\textbf{solid}$ to $\\textbf{liquid}$ ($\textbf{melting}$) without a change in temperature (at the melting point). "
+    },
+    {
+        "id": "JAMB_P_121",
+        "text": "A ray of light traveling from air to glass is refracted towards the normal. This indicates that:",
+        "image": "",
+        "options": [
+            "the speed of light increases in the glass.",
+            "the refractive index of air is greater than glass.",
+            "the glass is optically denser than air.",
+            "the angle of incidence is less than the critical angle."
+        ],
+        "answer": "the glass is optically denser than air.",
+        "explanation": "When light travels from a $\\textbf{less}$ $\\textbf{dense}$ medium ($\text{air}$) to a $\\textbf{denser}$ medium ($\text{glass}$), its speed $\\textbf{decreases}$, causing it to bend $\\textbf{towards}$ the $\\textbf{normal}$."
+    },
+    {
+        "id": "JAMB_P_122",
+        "text": "Which of the following is $\\textbf{NOT}$ a characteristic of $\\textbf{sound}$ $\\textbf{waves}$?",
+        "image": "",
+        "options": [
+            "Diffraction.",
+            "Interference.",
+            "Polarization.",
+            "Reflection."
+        ],
+        "answer": "Polarization.",
+        "explanation": "Sound waves are $\\textbf{longitudinal}$ mechanical waves and cannot be $\\textbf{polarized}$. Diffraction, interference, and reflection are properties of $\\textbf{all}$ waves."
+    },
+    {
+        "id": "JAMB_P_123",
+        "text": "A vibrating string produces a note of frequency $250\\text{ Hz}$. If the tension is $\\textbf{quadrupled}$ (made four times), the new fundamental frequency will be:",
+        "image": "",
+        "options": [
+            "$125\\text{ Hz}$.",
+            "$250\\text{ Hz}$.",
+            "$500\\text{ Hz}$.",
+            "$1000\\text{ Hz}$."
+        ],
+        "answer": "$500\\text{ Hz}$.",
+        "explanation": "The frequency ($f$) of a vibrating string is proportional to the square root of the tension ($T$): $f \\propto \\sqrt{T}$. If $T$ is quadrupled ($4T$), the frequency is $\\sqrt{4}$ times the original, or $\\textbf{doubled}$. New $f = 2 \\times 250\\text{ Hz} = 500\\text{ Hz}$."
+    },
+    {
+        "id": "JAMB_P_124",
+        "text": "The $\\textbf{drift}$ $\\textbf{velocity}$ of electrons in a conductor is $\\textbf{generally}$ $\\textbf{very}$ $\\textbf{small}$ because:",
+        "image": "",
+        "options": [
+            "electrons collide frequently with the metal ions.",
+            "the power supply is weak.",
+            "the temperature of the conductor is low.",
+            "the conductor has high resistance."
+        ],
+        "answer": "electrons collide frequently with the metal ions.",
+        "explanation": "Free electrons move randomly at high speeds, but when a voltage is applied, they acquire a slow $\\textbf{net}$ $\\textbf{drift}$ $\\textbf{velocity}$ due to the frequent $\\textbf{collisions}$ with the fixed positive $\\textbf{ions}$ in the metal lattice. "
+    },
+    {
+        "id": "JAMB_P_125",
+        "text": "A $6\\text{ V}$ battery has an internal resistance of $0.5\\text{ }\\Omega$. If a current of $1.0\\text{ A}$ flows when connected to an external resistor, the $\\textbf{terminal}$ $\\textbf{potential}$ $\\textbf{difference}$ is:",
+        "image": "",
+        "options": [
+            "$5.5\\text{ V}$.",
+            "$6.0\\text{ V}$.",
+            "$6.5\\text{ V}$.",
+            "$7.0\\text{ V}$."
+        ],
+        "answer": "$5.5\\text{ V}$.",
+        "explanation": "Terminal $\\text{P.D.} (V) = \\text{e.m.f.} (E) - \\text{Lost Volts} (Ir)$. $V = 6\\text{ V} - (1.0\\text{ A} \\times 0.5\\text{ }\\Omega) = 6\\text{ V} - 0.5\\text{ V} = 5.5\\text{ V}$."
+    },
+    {
+        "id": "JAMB_P_126",
+        "text": "Which of the following materials is generally used as the $\\textbf{core}$ in an $\\textbf{electromagnet}$?",
+        "image": "",
+        "options": [
+            "Copper.",
+            "Soft iron.",
+            "Steel.",
+            "Brass."
+        ],
+        "answer": "Soft iron.",
+        "explanation": "$\\textbf{Soft}$ $\\textbf{iron}$ is used because it is a $\\textbf{ferromagnetic}$ material that is $\\textbf{easily}$ $\\textbf{magnetized}$ and $\\textbf{easily}$ $\\textbf{demagnetized}$ (low retentivity and coercivity), which is essential for a temporary magnet like an electromagnet."
+    },
+    {
+        "id": "JAMB_P_127",
+        "text": "The $\\textbf{process}$ of adding impurities to a semiconductor to control its conductivity is called:",
+        "image": "",
+        "options": [
+            "Doping.",
+            "Rectification.",
+            "Stabilization.",
+            "Junctioning."
+        ],
+        "answer": "Doping.",
+        "explanation": "$\\textbf{Doping}$ is the intentional $\\textbf{introduction}$ of $\\textbf{impurities}$ (like Boron or Phosphorus) into an intrinsic semiconductor to change its electrical properties, creating $\\textbf{n-type}$ or $\\textbf{p-type}$ material."
+    },
+    {
+        "id": "JAMB_P_128",
+        "text": "The $\\textbf{energy}$ equivalent of mass $m$ is given by:",
+        "image": "",
+        "options": [
+            "$E = hf$.",
+            "$E = mc^2$.",
+            "$E = \\frac{1}{2}mv^2$.",
+            "$E = mgh$."
+        ],
+        "answer": "$E = mc^2$.",
+        "explanation": "This is Einstein's famous mass-energy equivalence relation, $E = mc^2$, where $c$ is the speed of light."
+    },
+    {
+        "id": "JAMB_P_129",
+        "text": "The function of the $\\textbf{control}$ $\\textbf{rods}$ in a $\\textbf{nuclear}$ $\\textbf{reactor}$ is to:",
+        "image": "",
+        "options": [
+            "produce the nuclear fuel.",
+            "absorb excess neutrons.",
+            "accelerate the fission process.",
+            "increase the temperature of the core."
+        ],
+        "answer": "absorb excess neutrons.",
+        "explanation": "Control rods (usually made of Cadmium or Boron) are used to $\\textbf{control}$ the rate of the $\\textbf{chain}$ $\\textbf{reaction}$ by $\\textbf{absorbing}$ $\\textbf{excess}$ $\\textbf{neutrons}$, preventing the reactor from overheating or becoming supercritical. "
+    },
+    {
+        "id": "JAMB_P_130",
+        "text": "The $\\textbf{least}$ $\\textbf{count}$ of a $\\textbf{micrometer}$ $\\textbf{screw}$ $\\textbf{gauge}$ is typically:",
+        "image": "",
+        "options": [
+            "$1.0\\text{ mm}$.",
+            "$0.1\\text{ mm}$.",
+            "$0.01\\text{ mm}$.",
+            "$0.001\\text{ mm}$."
+        ],
+        "answer": "$0.01\\text{ mm}$.",
+        "explanation": "A standard micrometer screw gauge has a pitch of $0.5\\text{ mm}$ or $1\\text{ mm}$ and a thimble scale divided into $50$ or $100$ parts. The least count is usually $\\frac{0.5\\text{ mm}}{50} = 0.01\\text{ mm}$ or $\\frac{1\\text{ mm}}{100} = 0.01\\text{ mm}$."
+    },
+    {
+        "id": "JAMB_P_131",
+        "text": "A body is projected $\\textbf{vertically}$ $\\textbf{upwards}$ with a velocity of $30\\text{ m/s}$. The $\\textbf{time}$ taken to reach the $\\textbf{maximum}$ $\\textbf{height}$ is: (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$1.5\\text{ s}$.",
+            "$3.0\\text{ s}$.",
+            "$4.5\\text{ s}$.",
+            "$6.0\\text{ s}$."
+        ],
+        "answer": "$3.0\\text{ s}$.",
+        "explanation": "At maximum height, the final velocity $v=0$. Use $v = u - gt$. $0 = 30\\text{ m/s} - (10\\text{ m/s}^2)t$. $t = \\frac{30}{10} = 3.0\\text{ s}$."
+    },
+    {
+        "id": "JAMB_P_132",
+        "text": "If the angle between two $\\textbf{forces}$ $3\\text{ N}$ and $4\\text{ N}$ is $90^\\circ$, the $\\textbf{magnitude}$ of the $\\textbf{resultant}$ force is:",
+        "image": "",
+        "options": [
+            "$1\\text{ N}$.",
+            "$5\\text{ N}$.",
+            "$7\\text{ N}$.",
+            "$25\\text{ N}$."
+        ],
+        "answer": "$5\\text{ N}$.",
+        "explanation": "Since the forces are $\\textbf{perpendicular}$, use Pythagoras' theorem: $R = \\sqrt{F_1^2 + F_2^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5\\text{ N}$."
+    },
+    {
+        "id": "JAMB_P_133",
+        "text": "A quantity of $2\\text{ kg}$ of ice melts at $0^\\circ\\text{C}$. If the $\\textbf{specific}$ $\\textbf{latent}$ $\\textbf{heat}$ of $\\textbf{fusion}$ of ice is $3.36 \\times 10^5\\text{ J/kg}$, the heat required is:",
+        "image": "",
+        "options": [
+            "$1.68 \\times 10^5\\text{ J}$.",
+            "$3.36 \\times 10^5\\text{ J}$.",
+            "$6.72 \\times 10^5\\text{ J}$.",
+            "$13.44 \\times 10^5\\text{ J}$."
+        ],
+        "answer": "$6.72 \\times 10^5\\text{ J}$.",
+        "explanation": "Heat required $Q = mL_f$. $Q = (2\\text{ kg}) \\times (3.36 \\times 10^5\\text{ J/kg}) = 6.72 \\times 10^5\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_134",
+        "text": "A $200\\text{ }\\text{kg}$ block is held at rest on a rough horizontal surface by a horizontal force of $100\\text{ N}$. The $\\textbf{coefficient}$ of $\\textbf{static}$ $\\textbf{friction}$ is at least: (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$0.05$.",
+            "$0.1$.",
+            "$0.5$.",
+            "$1.0$."
+        ],
+        "answer": "$0.05$.",
+        "explanation": "For the block to be at rest, the $\\textbf{static}$ $\\textbf{friction}$ force ($f_s$) must be equal to the applied force ($100\\text{ N}$). Maximum static friction $f_{s,\\text{max}} = \\mu_s R$. Normal Reaction $R = mg = 200\\text{ kg} \\times 10\\text{ m/s}^2 = 2000\\text{ N}$. For minimum $\\mu_s$, $f_{s,\\text{max}} = 100\\text{ N}$. $\\mu_s = \\frac{f_{s,\\text{max}}}{R} = \\frac{100\\text{ N}}{2000\\text{ N}} = 0.05$."
+    },
+    {
+        "id": "JAMB_P_135",
+        "text": "The $\\textbf{process}$ by which electrons are released from a $\\textbf{heated}$ $\\textbf{metal}$ $\\textbf{surface}$ is called:",
+        "image": "",
+        "options": [
+            "Photoelectric emission.",
+            "Thermionic emission.",
+            "Secondary emission.",
+            "Ionization."
+        ],
+        "answer": "Thermionic emission.",
+        "explanation": "$\\textbf{Thermionic}$ $\\textbf{emission}$ is the flow of electrons from a $\\textbf{heated}$ $\\textbf{metal}$ $\\textbf{surface}$ (like the cathode in a $\\text{CRO}$), where thermal energy overcomes the work function."
+    },
+    {
+        "id": "JAMB_P_136",
+        "text": "The $\\textbf{focal}$ $\\textbf{length}$ of a $\\textbf{plane}$ $\\textbf{mirror}$ is:",
+        "image": "",
+        "options": [
+            "zero.",
+            "infinity.",
+            "equal to its radius of curvature.",
+            "half its radius of curvature."
+        ],
+        "answer": "infinity.",
+        "explanation": "A plane mirror can be considered a section of a spherical mirror with an $\\textbf{infinite}$ $\\textbf{radius}$ $\\textbf{of}$ $\\textbf{curvature}$ ($R = \\infty$). Since $f = R/2$, the focal length $f$ is also $\\textbf{infinity}$."
+    },
+    {
+        "id": "JAMB_P_137",
+        "text": "If a current of $2.0\\text{ A}$ flows through a $10\\text{ }\\Omega$ resistor for $5\\text{ seconds}$, the $\\textbf{heat}$ $\\textbf{generated}$ is:",
+        "image": "",
+        "options": [
+            "$20\\text{ J}$.",
+            "$100\\text{ J}$.",
+            "$200\\text{ J}$.",
+            "$400\\text{ J}$."
+        ],
+        "answer": "$200\\text{ J}$.",
+        "explanation": "Heat generated $H = I^2Rt$. $H = (2.0\\text{ A})^2 \\times 10\\text{ }\\Omega \\times 5\\text{ s} = 4 \\times 10 \\times 5 = 200\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_138",
+        "text": "The $\\textbf{maximum}$ $\\textbf{kinetic}$ $\\textbf{energy}$ of photoelectrons is $\\textbf{independent}$ of the:",
+        "image": "",
+        "options": [
+            "frequency of the incident light.",
+            "work function of the metal.",
+            "speed of light.",
+            "intensity of the incident light."
+        ],
+        "answer": "intensity of the incident light.",
+        "explanation": "Einstein's photoelectric equation is $\\text{KE}_{\\text{max}} = hf - W$. $\\text{KE}_{\\text{max}}$ depends on the $\\textbf{frequency}$ ($f$) and the $\\textbf{work}$ $\\textbf{function}$ ($W$), but $\\textbf{not}$ on the $\\textbf{intensity}$ of the incident radiation."
+    },
+    {
+        "id": "JAMB_P_139",
+        "text": "A gas has a volume of $100\\text{ cm}^3$ at a pressure of $100\\text{ Pa}$. If the pressure is reduced to $50\\text{ Pa}$ at $\\textbf{constant}$ $\\textbf{temperature}$, the new $\\textbf{volume}$ will be:",
+        "image": "",
+        "options": [
+            "$50\\text{ cm}^3$.",
+            "$100\\text{ cm}^3$.",
+            "$200\\text{ cm}^3$.",
+            "$400\\text{ cm}^3$."
+        ],
+        "answer": "$200\\text{ cm}^3$.",
+        "explanation": "Use Boyle's Law: $P_1V_1 = P_2V_2$. $(100\\text{ Pa})(100\\text{ cm}^3) = (50\\text{ Pa})V_2$. $V_2 = \\frac{100 \\times 100}{50} = 2 \\times 100 = 200\\text{ cm}^3$."
+    },
+    {
+        "id": "JAMB_P_140",
+        "text": "Which of the following describes the nature of $\\textbf{X-rays}$?",
+        "image": "",
+        "options": [
+            "Longitudinal mechanical waves.",
+            "Transverse electromagnetic waves.",
+            "Transverse mechanical waves.",
+            "Longitudinal electromagnetic waves."
+        ],
+        "answer": "Transverse electromagnetic waves.",
+        "explanation": "X-rays are part of the $\\textbf{electromagnetic}$ $\\textbf{spectrum}$, making them $\\textbf{transverse}$ waves that do $\\textbf{not}$ require a medium for propagation."
+    }
+]

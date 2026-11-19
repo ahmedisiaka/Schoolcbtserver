@@ -1,0 +1,522 @@
+[
+    {
+      "id": "U2018_1",
+      "text": "The year 2018 was largely defined by an escalation in $\\textbf{geopolitical}$ $\\textbf{tensions}$, notably the beginning of a $\\textbf{protracted}$ $\\textbf{trade}$ $\\textbf{conflict}$ between major world economies. (Comprehension Passage Snippet 1)\n\nWhat notable geopolitical tension began to escalate in 2018?",
+      "image": "",
+      "options": [
+        "A shift toward globalization",
+        "A major trade conflict between world economies",
+        "A global pandemic announcement",
+        "The formation of a new currency bloc"
+      ],
+      "answer": "A major trade conflict between world economies",
+      "explanation": "The text states 'notably the beginning of a protracted trade conflict between major world economies'."
+    },
+    {
+      "id": "U2018_2",
+      "text": "The year 2018 was largely defined by an escalation in geopolitical tensions, notably the beginning of a $\\textbf{protracted}$ trade conflict between major world economies. (Comprehension Passage Snippet 1)\n\nChoose the word that is closest in meaning to $\\textbf{protracted}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Swift and sudden",
+        "Lasting for a long time or longer than expected",
+        "Temporary",
+        "Easy to resolve"
+      ],
+      "answer": "Lasting for a long time or longer than expected",
+      "explanation": "Protracted means lasting for a long time or longer than expected; drawn out."
+    },
+    {
+      "id": "U2018_3",
+      "text": "A key regulatory milestone was the $\\textbf{implementation}$ of the $\\textbf{GDPR}$ (General Data Protection Regulation) in the EU, $\\textbf{fundamentally}$ altering how companies could handle consumer data globally. (Comprehension Passage Snippet 2)\n\nWhat major regulatory change fundamentally altered how companies handled consumer data globally in 2018?",
+      "image": "",
+      "options": [
+        "New environmental standards",
+        "The implementation of the GDPR in the EU",
+        "Relaxation of banking rules",
+        "A global tax reduction agreement"
+      ],
+      "answer": "The implementation of the GDPR in the EU",
+      "explanation": "The text identifies this key milestone as the 'implementation of the GDPR (General Data Protection Regulation) in the EU'."
+    },
+    {
+      "id": "U2018_4",
+      "text": "A key regulatory milestone was the implementation of the GDPR (General Data Protection Regulation) in the EU, fundamentally $\\textbf{altering}$ how companies could handle consumer data globally. (Comprehension Passage Snippet 2)\n\nChoose the word that is **opposite** in meaning to $\\textbf{altering}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Modifying",
+        "Transforming",
+        "Maintaining or keeping the same",
+        "Changing drastically"
+      ],
+      "answer": "Maintaining or keeping the same",
+      "explanation": "To alter means to change or make different. The opposite is to maintain or keep the same."
+    },
+    {
+      "id": "U2018_5",
+      "text": "The manager $\\textbf{called}$ $\\textbf{off}$ the meeting due to a lack of preparation by the team.\n\nChoose the option that best explains the phrasal verb **called off**.",
+      "image": "",
+      "options": [
+        "To start something new",
+        "To delay or postpone an event",
+        "To cancel something that was scheduled",
+        "To shout out loudly"
+      ],
+      "answer": "To cancel something that was scheduled",
+      "explanation": "To 'call off' means to cancel something."
+    },
+    {
+      "id": "U2018_6",
+      "text": "His $\\textbf{tenuous}$ $\\textbf{grasp}$ of the subject meant his presentation was disorganized.\n\nChoose the word that is closest in meaning to the word $\\textbf{tenuous}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Strong and firm",
+        "Very weak or slight",
+        "Detailed and thorough",
+        "Comprehensive"
+      ],
+      "answer": "Very weak or slight",
+      "explanation": "Tenuous means very weak or slight, often referring to a connection or position."
+    },
+    {
+      "id": "U2018_7",
+      "text": "The board unanimously $\\textbf{(voted/was voting)}$ to approve the new privacy policy.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "voted",
+        "was voting",
+        "is voting",
+        "will vote"
+      ],
+      "answer": "voted",
+      "explanation": "The simple past tense 'voted' is used to describe a single, completed action in the past."
+    },
+    {
+      "id": "U2018_8",
+      "text": "The word $\\textbf{'regulate'}$ (as a verb).\n\nIdentify the syllable that carries the primary stress in the word **regulate**.",
+      "image": "",
+      "options": [
+        "re",
+        "gu",
+        "late"
+      ],
+      "answer": "re",
+      "explanation": "The primary stress in the verb 'regulate' /ˈrɛɡjʊleɪt/ falls on the first syllable, 're'."
+    },
+    {
+      "id": "U2018_9",
+      "text": "Tech developments saw a rise in the $\\textbf{adoption}$ of $\\textbf{Augmented}$ $\\textbf{Reality}$ (AR) features in mainstream smartphone applications, $\\textbf{blurring}$ the line between the digital and physical worlds. (Comprehension Passage Snippet 3)\n\nWhat technology saw a rise in adoption in mainstream smartphone applications in 2018?",
+      "image": "",
+      "options": [
+        "Monochrome displays",
+        "Dial-up internet access",
+        "Augmented Reality (AR) features",
+        "Floppy disks"
+      ],
+      "answer": "Augmented Reality (AR) features",
+      "explanation": "The text highlights 'a rise in the adoption of Augmented Reality (AR) features in mainstream smartphone applications'."
+    },
+    {
+      "id": "U2018_10",
+      "text": "Tech developments saw a rise in the adoption of Augmented Reality (AR) features in mainstream smartphone applications, $\\textbf{blurring}$ the line between the digital and physical worlds. (Comprehension Passage Snippet 3)\n\nChoose the word that is closest in meaning to $\\textbf{blurring}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Sharpening or defining clearly",
+        "Making distinct",
+        "Making or becoming less clear or distinct",
+        "Separating entirely"
+      ],
+      "answer": "Making or becoming less clear or distinct",
+      "explanation": "Blurring means making or becoming less distinct or clear, suggesting the two realms were harder to separate."
+    },
+    {
+      "id": "U2018_11",
+      "text": "The $\\textbf{recalcitrant}$ $\\textbf{student}$ refused to follow the instructions of the headmaster.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{recalcitrant}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Stubbornly uncooperative",
+        "Easily managed or obedient",
+        "Defiant",
+        "Resistant"
+      ],
+      "answer": "Easily managed or obedient",
+      "explanation": "Recalcitrant means having an obstinately uncooperative attitude. The opposite is 'easily managed or obedient'."
+    },
+    {
+      "id": "U2018_12",
+      "text": "She has a $\\textbf{predilection}$ $\\textbf{(for/to)}$ classical music over contemporary pop.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "for",
+        "to",
+        "with",
+        "by"
+      ],
+      "answer": "for",
+      "explanation": "The noun 'predilection' (a preference or special liking) is commonly followed by the preposition 'for' (predilection *for* something)."
+    },
+    {
+      "id": "U2018_13",
+      "text": "If the company $\\textbf{(didn't expand/wouldn't expand)}$ its market share, it would have faced financial trouble.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "didn't expand",
+        "wouldn't expand",
+        "hadn't expanded",
+        "hasn't expanded"
+      ],
+      "answer": "hadn't expanded",
+      "explanation": "This is a Third Conditional sentence. The main clause ('it would have faced...') requires the past perfect in the 'if' clause: 'If + past perfect (hadn't expanded), ... would have + past participle'."
+    },
+    {
+      "id": "U2018_14",
+      "text": "The word $\\textbf{'privacy'}$ $\\textbf{p r i v a c y}$.\n\nIdentify the syllable that carries the primary stress in the word **privacy**.",
+      "image": "",
+      "options": [
+        "pri",
+        "va",
+        "cy"
+      ],
+      "answer": "pri",
+      "explanation": "The primary stress in 'privacy' /ˈprɪvəsi/ (or /ˈpraɪvəsi/) falls on the first syllable, 'pri'."
+    },
+    {
+      "id": "U2018_15",
+      "text": "The word $\\textbf{'great'}$ $\\textbf{g r e a t}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **great**?",
+      "image": "",
+      "options": [
+        "Meet",
+        "Bait",
+        "Gate",
+        "Bit"
+      ],
+      "answer": "Gate",
+      "explanation": "The vowel sound in 'great' is /eɪ/ (the long 'a' sound). The vowel sound in 'Gate' is also /eɪ/."
+    },
+    {
+      "id": "U2018_16",
+      "text": "Amidst the $\\textbf{disruption}$, major social media platforms faced intense public $\\textbf{scrutiny}$ over data leaks and their $\\textbf{role}$ in spreading misinformation and political influence. (Comprehension Passage Snippet 4)\n\nWhat were social media platforms primarily facing scrutiny over in 2018?",
+      "image": "",
+      "options": [
+        "Their inability to generate profit",
+        "Data leaks and their role in spreading misinformation",
+        "Their lack of user growth",
+        "The introduction of new advertising methods"
+      ],
+      "answer": "Data leaks and their role in spreading misinformation",
+      "explanation": "The text states they faced scrutiny over 'data leaks and their role in spreading misinformation and political influence'."
+    },
+    {
+      "id": "U2018_17",
+      "text": "Amidst the disruption, major social media platforms faced intense public $\\textbf{scrutiny}$ over data leaks and their role in spreading misinformation and political influence. (Comprehension Passage Snippet 4)\n\nChoose the word that is closest in meaning to $\\textbf{scrutiny}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Praise or acclaim",
+        "Critical observation or examination",
+        "Complete disregard",
+        "Friendly assistance"
+      ],
+      "answer": "Critical observation or examination",
+      "explanation": "Scrutiny means critical observation or examination."
+    },
+    {
+      "id": "U2018_18",
+      "text": "The $\\textbf{contingent}$ $\\textbf{plan}$ was activated immediately when the primary system failed.\n\nChoose the word that is closest in meaning to the word $\\textbf{contingent}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Uncertain",
+        "Certain to happen",
+        "Dependent on a condition or event; provisional",
+        "Unrelated"
+      ],
+      "answer": "Dependent on a condition or event; provisional",
+      "explanation": "Contingent means subject to chance; dependent on or conditioned by something else."
+    },
+    {
+      "id": "U2018_19",
+      "text": "The $\\textbf{ephemeral}$ $\\textbf{nature}$ of social media trends means they fade quickly.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{ephemeral}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Short-lived",
+        "Lasting for a very short time",
+        "Permanent or perpetual",
+        "Transient"
+      ],
+      "answer": "Permanent or perpetual",
+      "explanation": "Ephemeral means lasting for a very short time. The opposite is 'permanent' or 'perpetual'."
+    },
+    {
+      "id": "U2018_20",
+      "text": "The word $\\textbf{'geopolitical'}$ $\\textbf{g e o p o l i t i c a l}$.\n\nIdentify the syllable that carries the primary stress in the word **geopolitical**.",
+      "image": "",
+      "options": [
+        "ge",
+        "o",
+        "po",
+        "lit",
+        "i",
+        "cal"
+      ],
+      "answer": "lit",
+      "explanation": "The primary stress in 'geopolitical' /ˌdʒiː.oʊ.pəˈlɪt.ɪ.kəl/ falls on the fourth syllable, 'lit'."
+    },
+    {
+      "id": "U2018_21",
+      "text": "The word $\\textbf{'foot'}$ $\\textbf{f o o t}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **foot**?",
+      "image": "",
+      "options": [
+        "Food",
+        "Boot",
+        "Put",
+        "Flute"
+      ],
+      "answer": "Put",
+      "explanation": "The vowel sound in 'foot' is /ʊ/ (the short 'oo' sound). The vowel sound in 'Put' is also /ʊ/."
+    },
+    {
+      "id": "U2018_22",
+      "text": "The $\\textbf{data}$ $\\textbf{that}$ $\\textbf{we}$ $\\textbf{collected}$ was $\\textbf{used}$ to $\\textbf{create}$ the $\\textbf{report}$.\n\nWhich of the words is a $\\textbf{relative}$ $\\textbf{pronoun}$?",
+      "image": "",
+      "options": [
+        "Data",
+        "That",
+        "We",
+        "Report"
+      ],
+      "answer": "That",
+      "explanation": "'That' introduces the relative clause ('that we collected') and refers back to 'data', making it a relative pronoun."
+    },
+    {
+      "id": "U2018_23",
+      "text": "The $\\textbf{flock}$ $\\textbf{of}$ $\\textbf{birds}$ $\\textbf{flew}$ $\\textbf{south}$ for the winter.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Birds",
+        "Flew",
+        "South",
+        "Flock"
+      ],
+      "answer": "Flock",
+      "explanation": "A 'flock' is a collective noun, referring to a group of birds."
+    },
+    {
+      "id": "U2018_24",
+      "text": "They were $\\textbf{accused}$ $\\textbf{(of/with)}$ breaching the new data regulations.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "of",
+        "with",
+        "for",
+        "by"
+      ],
+      "answer": "of",
+      "explanation": "The verb 'accuse' is always followed by the preposition 'of' when specifying the crime or fault (accused *of* something)."
+    },
+    {
+      "id": "U2018_25",
+      "text": "The diplomat was known for his $\\textbf{impeccable}$ $\\textbf{manner}$ and sophisticated conversation.\n\nChoose the word that is closest in meaning to the word $\\textbf{impeccable}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Flawed",
+        "Faultless or perfect",
+        "Questionable",
+        "Rough"
+      ],
+      "answer": "Faultless or perfect",
+      "explanation": "Impeccable means in accordance with the highest standards of propriety; faultless."
+    },
+    {
+      "id": "U2018_26",
+      "text": "He suggested $\\textbf{(to delay/delaying)}$ the announcement until the GDPR audit was complete.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "to delay",
+        "delaying",
+        "delayed",
+        "to be delayed"
+      ],
+      "answer": "delaying",
+      "explanation": "The verb 'suggest' is typically followed by the gerund form of a verb (V-ing) when suggesting an activity ('suggest delaying')."
+    },
+    {
+      "id": "U2018_27",
+      "text": "The company decided to **bury the hatchet** after years of legal conflict over data patents.\n\nChoose the option that best explains the idiom **bury the hatchet**.",
+      "image": "",
+      "options": [
+        "To start a conflict",
+        "To end a quarrel or conflict",
+        "To hide important documents",
+        "To aggressively seek revenge"
+      ],
+      "answer": "To end a quarrel or conflict",
+      "explanation": "The idiom 'bury the hatchet' means to end a quarrel or conflict and make peace."
+    },
+    {
+      "id": "U2018_28",
+      "text": "Identify the word where the sound represented by the letters 'th' is pronounced /ð/ (voiced).",
+      "image": "",
+      "options": [
+        "Thick",
+        "Through",
+        "Thought",
+        "Therefore"
+      ],
+      "answer": "Therefore",
+      "explanation": "In 'Therefore' /ˈðeərfɔːr/, 'th' is pronounced /ð/. In the others, it is pronounced /θ/ (unvoiced)."
+    },
+    {
+      "id": "U2018_29",
+      "text": "The word $\\textbf{'implementation'}$ $\\textbf{i m p l e m e n t a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **implementation**.",
+      "image": "",
+      "options": [
+        "im",
+        "ple",
+        "men",
+        "ta",
+        "tion"
+      ],
+      "answer": "ta",
+      "explanation": "The primary stress in 'implementation' /ˌɪm.plɪ.mɛnˈteɪ.ʃən/ falls on the fourth syllable, 'ta'."
+    },
+    {
+      "id": "U2018_30",
+      "text": "The $\\textbf{nefarious}$ $\\textbf{plot}$ to steal customer data was uncovered by internal security.\n\nChoose the word that is closest in meaning to the word $\\textbf{nefarious}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Highly moral",
+        "Extremely wicked or criminal",
+        "Well-intentioned",
+        "Innocent"
+      ],
+      "answer": "Extremely wicked or criminal",
+      "explanation": "Nefarious means (typically of an action or activity) wicked or criminal."
+    },
+    {
+      "id": "U2018_31",
+      "text": "The security team $\\textbf{put}$ $\\textbf{out}$ a $\\textbf{statement}$ confirming the data breach.\n\nChoose the option that best explains the phrasal verb **put out**.",
+      "image": "",
+      "options": [
+        "To extinguish (a fire)",
+        "To publish or issue (a statement or information)",
+        "To annoy or inconvenience",
+        "To place outside"
+      ],
+      "answer": "To publish or issue (a statement or information)",
+      "explanation": "To 'put out' information or a statement means to publish or issue it."
+    },
+    {
+      "id": "U2018_32",
+      "text": "The word $\\textbf{'pool'}$ $\\textbf{p o o l}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **pool**?",
+      "image": "",
+      "options": [
+        "Poul",
+        "Pill",
+        "Pull",
+        "Cool"
+      ],
+      "answer": "Cool",
+      "explanation": "The vowel sound in 'pool' is /uː/ (the long 'oo' sound). The vowel sound in 'Cool' is also /uː/."
+    },
+    {
+      "id": "U2018_33",
+      "text": "The $\\textbf{perfunctory}$ $\\textbf{check}$ of the security systems was insufficient to prevent the leak.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{perfunctory}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Carried out with minimum effort",
+        "Thorough and detailed",
+        "Superficial",
+        "Casual"
+      ],
+      "answer": "Thorough and detailed",
+      "explanation": "Perfunctory means carried out with a minimum of effort or reflection. The opposite is 'thorough and detailed'."
+    },
+    {
+      "id": "U2018_34",
+      "text": "The $\\textbf{chief}$ $\\textbf{analyst}$ $\\textbf{immediately}$ $\\textbf{presented}$ $\\textbf{her}$ $\\textbf{findings}$ to the $\\textbf{board}$.\n\nIdentify the $\\textbf{adverb}$ in the sentence.",
+      "image": "",
+      "options": [
+        "Chief",
+        "Analyst",
+        "Immediately",
+        "Findings"
+      ],
+      "answer": "Immediately",
+      "explanation": "'Immediately' modifies the verb 'presented', describing when the action took place, making it an adverb."
+    },
+    {
+      "id": "U2018_35",
+      "text": "The $\\textbf{CEO}$ $\\textbf{must}$ $\\textbf{have}$ $\\textbf{overlooked}$ the $\\textbf{warning}$ in the report.\n\nWhich of the words is the $\\textbf{modal}$ $\\textbf{verb}$?",
+      "image": "",
+      "options": [
+        "CEO",
+        "must",
+        "have",
+        "overlooked"
+      ],
+      "answer": "must",
+      "explanation": "'Must' is the modal verb, expressing high probability or certainty in the past when followed by 'have + past participle'."
+    },
+    {
+      "id": "U2018_36",
+      "text": "The word $\\textbf{'contract'}$ (as a noun, meaning an agreement).\n\nIdentify the syllable that carries the primary stress in the word **contract** (noun).",
+      "image": "",
+      "options": [
+        "con",
+        "tract"
+      ],
+      "answer": "con",
+      "explanation": "The primary stress in the noun 'contract' /ˈkɒntrækt/ falls on the first syllable, 'con'. (Compare to the verb 'contract' /kənˈtrækt/ where the stress is on the second syllable)."
+    },
+    {
+      "id": "U2018_37",
+      "text": "The word $\\textbf{'head'}$ $\\textbf{h e a d}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **head**?",
+      "image": "",
+      "options": [
+        "Hide",
+        "Hate",
+        "Said",
+        "Heed"
+      ],
+      "answer": "Said",
+      "explanation": "The vowel sound in 'head' is /e/ (the short 'e' sound). The vowel sound in 'Said' is also /e/."
+    },
+    {
+      "id": "U2018_38",
+      "text": "The whole team was $\\textbf{at}$ $\\textbf{loggerheads}$ $\\textbf{over}$ the new marketing strategy.\n\nChoose the option that best explains the idiom **at loggerheads**.",
+      "image": "",
+      "options": [
+        "In complete agreement",
+        "In violent dispute or disagreement",
+        "Working together efficiently",
+        "Lost and confused"
+      ],
+      "answer": "In violent dispute or disagreement",
+      "explanation": "The idiom 'at loggerheads' means in violent dispute or disagreement."
+    },
+    {
+      "id": "U2018_39",
+      "text": "The company's rapid growth was $\\textbf{anomalous}$ in the otherwise sluggish economic climate.\n\nChoose the word that is closest in meaning to the word $\\textbf{anomalous}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Normal or typical",
+        "Conforming to a standard rule",
+        "Deviating from what is standard, normal, or expected",
+        "Predictable"
+      ]
+      ,
+      "answer": "Deviating from what is standard, normal, or expected",
+      "explanation": "Anomalous means deviating from what is standard, normal, or expected."
+    },
+    {
+      "id": "U2018_40",
+      "text": "Neither the new policy nor the old $\\textbf{(has/have)}$ managed to curtail data abuse yet.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "has",
+        "have",
+        "is having",
+        "are having"
+      ],
+      "answer": "has",
+      "explanation": "When 'neither... nor' connects two singular subjects ('policy', 'old [policy]'), the verb agrees with the subject closest to it, which results in the singular verb 'has'."
+    }
+  ]

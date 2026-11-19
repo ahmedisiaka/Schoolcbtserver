@@ -1,0 +1,526 @@
+[
+    {
+      "id": "JAMB_C_001",
+      "text": "Which of the following is a chemical change?",
+      "image": "",
+      "options": [
+        "Melting of ice.",
+        "Evaporation of water.",
+        "Rusting of iron.",
+        "Dissolving sugar in water."
+      ],
+      "answer": "Rusting of iron.",
+      "explanation": "Rusting forms new substances (iron oxides), indicating a chemical change."
+    },
+    {
+      "id": "JAMB_C_002",
+      "text": "Which of the following gases relights a glowing splint?",
+      "image": "",
+      "options": [
+        "Carbon dioxide.",
+        "Nitrogen.",
+        "Oxygen.",
+        "Chlorine."
+      ],
+      "answer": "Oxygen.",
+      "explanation": "Oxygen supports combustion and relights a glowing splint."
+    },
+    {
+      "id": "JAMB_C_003",
+      "text": "A mixture of ammonium chloride and common salt can be separated by:",
+      "image": "",
+      "options": [
+        "Crystallization.",
+        "Filtration.",
+        "Sublimation.",
+        "Fractional distillation."
+      ],
+      "answer": "Sublimation.",
+      "explanation": "Ammonium chloride sublimes on heating while sodium chloride does not."
+    },
+    {
+      "id": "JAMB_C_004",
+      "text": "The atomic number of an element is 17. How many electrons are in its outermost shell?",
+      "image": "",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "17"
+      ],
+      "answer": "7",
+      "explanation": "The electron configuration of chlorine (Z = 17) is \\(1s^2 2s^2 2p^6 3s^2 3p^5\\), giving 7 valence electrons."
+    },
+    {
+      "id": "JAMB_C_005",
+      "text": "What is the oxidation number of sulphur in \\(H_2SO_4\\)?",
+      "image": "",
+      "options": [
+        "+2",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "answer": "+6",
+      "explanation": "Using oxidation rules, sulphur in \\(H_2SO_4\\) has oxidation number +6."
+    },
+    {
+      "id": "JAMB_C_006",
+      "text": "Which of the following is an example of an alkali?",
+      "image": "",
+      "options": [
+        "\\(CaCO_3\\)",
+        "\\(NaOH\\)",
+        "\\(CuO\\)",
+        "\\(Al_2O_3\\)"
+      ],
+      "answer": "\\(NaOH\\)",
+      "explanation": "An alkali is a soluble base; sodium hydroxide is a soluble base."
+    },
+    {
+      "id": "JAMB_C_007",
+      "text": "A solution with pH 2 is best described as:",
+      "image": "",
+      "options": [
+        "Neutral.",
+        "Weakly acidic.",
+        "Strongly acidic.",
+        "Strongly basic."
+      ],
+      "answer": "Strongly acidic.",
+      "explanation": "pH less than 3 indicates a strong acid."
+    },
+    {
+      "id": "JAMB_C_008",
+      "text": "The molar volume of a gas at STP is:",
+      "image": "",
+      "options": [
+        "11.2 L",
+        "22.4 L",
+        "24.0 L",
+        "44.8 L"
+      ],
+      "answer": "22.4 L",
+      "explanation": "One mole of any ideal gas occupies 22.4 dm\\(^3\\) at STP."
+    },
+    {
+      "id": "JAMB_C_009",
+      "text": "Which of the following elements has the highest electronegativity?",
+      "image": "",
+      "options": [
+        "Carbon.",
+        "Fluorine.",
+        "Oxygen.",
+        "Chlorine."
+      ],
+      "answer": "Fluorine.",
+      "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+      "id": "JAMB_C_010",
+      "text": "Which of the following is a noble gas?",
+      "image": "",
+      "options": [
+        "Nitrogen.",
+        "Neon.",
+        "Hydrogen.",
+        "Oxygen."
+      ],
+      "answer": "Neon.",
+      "explanation": "Neon belongs to Group 18, the noble gases."
+    },
+  
+    {
+      "id": "JAMB_C_011",
+      "text": "The ratio of atoms in aluminium trichloride is:",
+      "image": "",
+      "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "3:1"
+      ],
+      "answer": "1:3",
+      "explanation": "Chemical formula \\(AlCl_3\\) has one Al atom and three Cl atoms."
+    },
+    {
+      "id": "JAMB_C_012",
+      "text": "Which of the following is an endothermic process?",
+      "image": "",
+      "options": [
+        "Combustion.",
+        "Neutralization.",
+        "Photosynthesis.",
+        "Respiration."
+      ],
+      "answer": "Photosynthesis.",
+      "explanation": "Photosynthesis absorbs sunlight, making it endothermic."
+    },
+    {
+      "id": "JAMB_C_013",
+      "text": "The SI unit of amount of substance is:",
+      "image": "",
+      "options": [
+        "Kilogram.",
+        "Mole.",
+        "Litres.",
+        "Gram."
+      ],
+      "answer": "Mole.",
+      "explanation": "The mole is the SI unit for amount of substance."
+    },
+    {
+      "id": "JAMB_C_014",
+      "text": "Which of the following substances will turn blue litmus red?",
+      "image": "",
+      "options": [
+        "Ammonia solution.",
+        "Sodium hydroxide.",
+        "Hydrochloric acid.",
+        "Potassium oxide."
+      ],
+      "answer": "Hydrochloric acid.",
+      "explanation": "Acids turn blue litmus paper red."
+    },
+    {
+      "id": "JAMB_C_015",
+      "text": "What type of bond is formed when two atoms share electrons?",
+      "image": "",
+      "options": [
+        "Ionic bond.",
+        "Metallic bond.",
+        "Covalent bond.",
+        "Hydrogen bond."
+      ],
+      "answer": "Covalent bond.",
+      "explanation": "Covalent bonding involves sharing of electrons."
+    },
+    {
+      "id": "JAMB_C_016",
+      "text": "Which quantity is conserved in all chemical reactions?",
+      "image": "",
+      "options": [
+        "Volume.",
+        "Mass.",
+        "Temperature.",
+        "Pressure."
+      ],
+      "answer": "Mass.",
+      "explanation": "Law of conservation of mass states that mass is neither created nor destroyed."
+    },
+    {
+      "id": "JAMB_C_017",
+      "text": "The process of converting a liquid to gas at all temperatures is called:",
+      "image": "",
+      "options": [
+        "Boiling.",
+        "Evaporation.",
+        "Condensation.",
+        "Sublimation."
+      ],
+      "answer": "Evaporation.",
+      "explanation": "Evaporation occurs at all temperatures, unlike boiling."
+    },
+    {
+      "id": "JAMB_C_018",
+      "text": "Which of the following is a reducing agent?",
+      "image": "",
+      "options": [
+        "\\(Cl_2\\)",
+        "\\(H_2\\)",
+        "\\(O_2\\)",
+        "\\(HNO_3\\)"
+      ],
+      "answer": "\\(H_2\\)",
+      "explanation": "Hydrogen donates electrons, reducing other substances."
+    },
+    {
+      "id": "JAMB_C_019",
+      "text": "The electron configuration of sodium is:",
+      "image": "",
+      "options": [
+        "\\(1s^2 2s^2 2p^6 3s^1\\)",
+        "\\(1s^2 2s^2 2p^5\\)",
+        "\\(1s^2 2s^2 2p^6\\)",
+        "\\(1s^2 2s^2 2p^6 3s^2\\)"
+      ],
+      "answer": "\\(1s^2 2s^2 2p^6 3s^1\\)",
+      "explanation": "Na has atomic number 11, giving this configuration."
+    },
+    {
+      "id": "JAMB_C_020",
+      "text": "A catalyst increases the rate of reaction by:",
+      "image": "",
+      "options": [
+        "Increasing activation energy.",
+        "Providing an alternative pathway.",
+        "Raising the temperature.",
+        "Increasing pressure."
+      ],
+      "answer": "Providing an alternative pathway.",
+      "explanation": "Catalysts lower the activation energy of reactions."
+    },
+  
+    {
+      "id": "JAMB_C_021",
+      "text": "Which of the following is a property of metals?",
+      "image": "",
+      "options": [
+        "Brittleness.",
+        "Poor conductivity.",
+        "Malleability.",
+        "Low densities."
+      ],
+      "answer": "Malleability.",
+      "explanation": "Metals can be hammered into sheets, showing malleability."
+    },
+    {
+      "id": "JAMB_C_022",
+      "text": "The shape of the water molecule is:",
+      "image": "",
+      "options": [
+        "Linear.",
+        "Bent.",
+        "Trigonal planar.",
+        "Tetrahedral."
+      ],
+      "answer": "Bent.",
+      "explanation": "Water has two lone pairs, giving a bent shape."
+    },
+    {
+      "id": "JAMB_C_023",
+      "text": "Which of the following consists only of hydrocarbons?",
+      "image": "",
+      "options": [
+        "Ethanol.",
+        "Benzene.",
+        "Carbon monoxide.",
+        "Chloroform."
+      ],
+      "answer": "Benzene.",
+      "explanation": "Hydrocarbons contain only carbon and hydrogen atoms."
+    },
+    {
+      "id": "JAMB_C_024",
+      "text": "The gas used to fill electric bulbs is:",
+      "image": "",
+      "options": [
+        "Oxygen.",
+        "Nitrogen.",
+        "Argon.",
+        "Chlorine."
+      ],
+      "answer": "Argon.",
+      "explanation": "Argon is inert and prevents filament oxidation."
+    },
+    {
+      "id": "JAMB_C_025",
+      "text": "A solution that resists change in pH is called:",
+      "image": "",
+      "options": [
+        "Indicator.",
+        "Electrolyte.",
+        "Buffer.",
+        "Salt."
+      ],
+      "answer": "Buffer.",
+      "explanation": "Buffers maintain nearly constant pH."
+    },
+    {
+      "id": "JAMB_C_026",
+      "text": "Which of the following is a strong electrolyte?",
+      "image": "",
+      "options": [
+        "Acetic acid.",
+        "Ammonia solution.",
+        "Sodium chloride solution.",
+        "Sugar solution."
+      ],
+      "answer": "Sodium chloride solution.",
+      "explanation": "Ionic salts dissociate completely in water."
+    },
+    {
+      "id": "JAMB_C_027",
+      "text": "The chemical formula of washing soda is:",
+      "image": "",
+      "options": [
+        "\\(Na_2CO_3\\)",
+        "\\(NaHCO_3\\)",
+        "\\(Na_2CO_3 \\cdot 10H_2O\\)",
+        "\\(NaCl\\)"
+      ],
+      "answer": "\\(Na_2CO_3 \\cdot 10H_2O\\)",
+      "explanation": "Washing soda is hydrated sodium trioxocarbonate (IV)."
+    },
+    {
+      "id": "JAMB_C_028",
+      "text": "The process of removing hardness from water by adding washing soda is called:",
+      "image": "",
+      "options": [
+        "Distillation.",
+        "Ion exchange.",
+        "Precipitation.",
+        "Aeration."
+      ],
+      "answer": "Precipitation.",
+      "explanation": "Washing soda precipitates calcium as insoluble carbonate."
+    },
+    {
+      "id": "JAMB_C_029",
+      "text": "Which of the following is not an alloy?",
+      "image": "",
+      "options": [
+        "Bronze.",
+        "Brass.",
+        "Steel.",
+        "Graphite."
+      ],
+      "answer": "Graphite.",
+      "explanation": "Graphite is a pure form of carbon, not an alloy."
+    },
+    {
+      "id": "JAMB_C_030",
+      "text": "Which gas is responsible for the souring of rainwater?",
+      "image": "",
+      "options": [
+        "Oxygen.",
+        "Nitrogen.",
+        "Carbon dioxide.",
+        "Hydrogen."
+      ],
+      "answer": "Carbon dioxide.",
+      "explanation": "CO\\(_2\\) dissolves in rain to form weak carbonic acid."
+    },
+  
+    {
+      "id": "JAMB_C_031",
+      "text": "The mass of one mole of \\(CaCO_3\\) is:",
+      "image": "",
+      "options": [
+        "50 g.",
+        "70 g.",
+        "100 g.",
+        "140 g."
+      ],
+      "answer": "100 g.",
+      "explanation": "Molar mass: \\(40 + 12 + 3(16) = 100\\) g/mol."
+    },
+    {
+      "id": "JAMB_C_032",
+      "text": "A covalent compound is generally:",
+      "image": "",
+      "options": [
+        "Soluble in water.",
+        "Good conductor of electricity.",
+        "Insoluble in organic solvents.",
+        "Low melting and boiling."
+      ],
+      "answer": "Low melting and boiling.",
+      "explanation": "Covalent compounds have weak intermolecular forces."
+    },
+    {
+      "id": "JAMB_C_033",
+      "text": "Which of the following is a property of transition metals?",
+      "image": "",
+      "options": [
+        "They are radioactive.",
+        "They form coloured ions.",
+        "They have low densities.",
+        "They cannot act as catalysts."
+      ],
+      "answer": "They form coloured ions.",
+      "explanation": "Transition metals show variable oxidation states and coloured ions."
+    },
+    {
+      "id": "JAMB_C_034",
+      "text": "Which of the following gases is the least dense?",
+      "image": "",
+      "options": [
+        "Oxygen.",
+        "Nitrogen.",
+        "Hydrogen.",
+        "Chlorine."
+      ],
+      "answer": "Hydrogen.",
+      "explanation": "Hydrogen is the lightest gas known."
+    },
+    {
+      "id": "JAMB_C_035",
+      "text": "The law that states that equal volumes of gases contain equal numbers of molecules is:",
+      "image": "",
+      "options": [
+        "Dalton's law.",
+        "Avogadro's law.",
+        "Boyle's law.",
+        "Charles' law."
+      ],
+      "answer": "Avogadro's law.",
+      "explanation": "Avogadro's law relates gas volume to number of molecules."
+    },
+    {
+      "id": "JAMB_C_036",
+      "text": "Which salt is formed when hydrochloric acid reacts with sodium hydroxide?",
+      "image": "",
+      "options": [
+        "Sodium trioxonitrate (V).",
+        "Sodium sulphate.",
+        "Sodium chloride.",
+        "Sodium carbonate."
+      ],
+      "answer": "Sodium chloride.",
+      "explanation": "Neutralization produces NaCl and water."
+    },
+    {
+      "id": "JAMB_C_037",
+      "text": "Which of the following is a monobasic acid?",
+      "image": "",
+      "options": [
+        "Sulphuric acid.",
+        "Phosphoric acid.",
+        "Nitric acid.",
+        "Carbonic acid."
+      ],
+      "answer": "Nitric acid.",
+      "explanation": "Monobasic acids donate only one hydrogen ion."
+    },
+    {
+      "id": "JAMB_C_038",
+      "text": "What is the colour of phenolphthalein in alkaline solution?",
+      "image": "",
+      "options": [
+        "Red.",
+        "Blue.",
+        "Pink.",
+        "Colourless."
+      ],
+      "answer": "Pink.",
+      "explanation": "Phenolphthalein turns pink in basic solutions."
+    },
+    {
+      "id": "JAMB_C_039",
+      "text": "The major constituent of natural gas is:",
+      "image": "",
+      "options": [
+        "Ethane.",
+        "Methane.",
+        "Propane.",
+        "Butane."
+      ],
+      "answer": "Methane.",
+      "explanation": "Natural gas contains over 80% methane."
+    },
+    {
+      "id": "JAMB_C_040",
+      "text": "Which isotope of hydrogen contains one neutron?",
+      "image": "",
+      "options": [
+        "Protium.",
+        "Deuterium.",
+        "Tritium.",
+        "Hydronium."
+      ],
+      "answer": "Deuterium.",
+      "explanation": "Deuterium has one proton and one neutron."
+    }
+  ]
+  

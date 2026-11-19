@@ -1,0 +1,587 @@
+[
+    {
+        "id": "P01",
+        "text": "Which of the following units is the $\\text{SI}$ unit of momentum?",
+        "image": "",
+        "options": [
+            "$\\text{N}\\cdot\\text{m}$",
+            "$\\text{kg}\\cdot\\text{m/s}$",
+            "$\\text{N/s}$",
+            "$\\text{kg}\\cdot\\text{m/s}^2$"
+        ],
+        "answer": "$\\text{kg}\\cdot\\text{m/s}$",
+        "explanation": "Momentum ($p$) is defined as mass ($m$) times velocity ($v$), so $p=mv$. The $\\text{SI}$ unit for mass is $\\text{kg}$ and the $\\text{SI}$ unit for velocity is $\\text{m/s}$. Thus, the unit for momentum is $\\text{kg}\\cdot\\text{m/s}$."
+    },
+    {
+        "id": "P02",
+        "text": "A simple pendulum of length $1.5 \\text{ m}$ has a period of oscillation of $2.4 \\text{ s}$. Calculate the acceleration of free fall ($g$). (Use $\\pi \\approx 3.14$)",
+        "image": "",
+        "options": [
+            "$9.8 \\text{ m/s}^2$",
+            "$10.2 \\text{ m/s}^2$",
+            "$9.1 \\text{ m/s}^2$",
+            "$10.8 \\text{ m/s}^2$"
+        ],
+        "answer": "$10.2 \\text{ m/s}^2$",
+        "explanation": "The period ($T$) of a simple pendulum is given by $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Rearranging for $g$: $g = \\frac{4\\pi^2 L}{T^2}$. Substituting the values $L=1.5\\text{ m}$ and $T=2.4\\text{ s}$: $g = \\frac{4 \\times (3.14)^2 \\times 1.5}{(2.4)^2} \\approx 10.27 \\text{ m/s}^2$. The closest option is $10.2 \\text{ m/s}^2$."
+    },
+    {
+        "id": "P03",
+        "text": "The phenomenon where a ray of light bends as it passes from air into glass is called:",
+        "image": "",
+        "options": [
+            "Reflection",
+            "Diffraction",
+            "Refraction",
+            "Interference"
+        ],
+        "answer": "Refraction",
+        "explanation": "Refraction is the change in direction of a wave (like light) passing from one medium to another (e.g., from air to glass) caused by its change in speed."
+    },
+    {
+        "id": "P04",
+        "text": "A magnet is moved rapidly through a coil of wire. This action primarily demonstrates $\\textbf{Faraday's Law of Electromagnetic Induction}$. Which of the following quantities is induced in the coil?",
+        "image": "",
+        "options": [
+            "Magnetic Field Strength",
+            "Magnetic Flux",
+            "Electric Current",
+            "Magnetic Permeability"
+        ],
+        "answer": "Electric Current",
+        "explanation": "Faraday's Law states that a changing magnetic flux (by moving a magnet) through a coil of wire induces an electromotive force (e.m.f.), which in turn drives an $\\textbf{Electric Current}$ if the circuit is complete."
+    },
+    {
+        "id": "P05",
+        "text": "If the $\\textbf{half-life}$ of a radioactive element is $8 \\text{ days}$, what fraction of the original sample will remain after $24 \\text{ days}$?",
+        "image": "",
+        "options": [
+            "$\\frac{1}{2}$",
+            "$\\frac{1}{4}$",
+            "$\\frac{1}{8}$",
+            "$\\frac{1}{16}$"
+        ],
+        "answer": "$\\frac{1}{8}$",
+        "explanation": "The number of half-lives ($n$) is $n = \\frac{\\text{Total Time}}{\\text{Half-life}} = \\frac{24\\text{ days}}{8\\text{ days}} = 3$. The fraction remaining is $\\left(\\frac{1}{2}\\right)^n = \\left(\\frac{1}{2}\right)^3 = \\frac{1}{8}$."
+    },
+    {
+        "id": "P06",
+        "text": "The work done in pushing a body through a distance of $4 \\text{ m}$ with a force of $12 \\text{ N}$ inclined at an angle of $60^{\\circ}$ to the direction of motion is:",
+        "image": "",
+        "options": [
+            "$24 \\text{ J}$",
+            "$48 \\text{ J}$",
+            "$20.8 \\text{ J}$",
+            "$41.6 \\text{ J}$"
+        ],
+        "answer": "$24 \\text{ J}$",
+        "explanation": "Work done ($W$) is given by $W = Fd \\cos(\\theta)$. $W = (12 \\text{ N})(4 \\text{ m}) \\cos(60^{\\circ})$. Since $\\cos(60^{\\circ}) = 0.5$, $W = 48 \\times 0.5 = 24 \\text{ J}$."
+    },
+    {
+        "id": "P07",
+        "text": "A body starts from rest and accelerates uniformly at $2 \\text{ m/s}^2$ for $5 \\text{ s}$. Calculate the distance covered.",
+        "image": "",
+        "options": [
+            "$10 \\text{ m}$",
+            "$20 \\text{ m}$",
+            "$25 \\text{ m}$",
+            "$50 \\text{ m}$"
+        ],
+        "answer": "$25 \\text{ m}$",
+        "explanation": "Using the equation of motion $s = ut + \\frac{1}{2}at^2$. Since the body starts from rest ($u=0$), $s = 0 + \\frac{1}{2} (2 \\text{ m/s}^2) (5 \\text{ s})^2 = 25 \\text{ m}$."
+    },
+    {
+        "id": "P08",
+        "text": "What is the pressure at a depth of $10 \\text{ m}$ in water, if the density of water is $\\rho = 1000 \\text{ kg/m}^3$ and $g = 10 \\text{ m/s}^2$?",
+        "image": "",
+        "options": [
+            "$1000 \\text{ Pa}$",
+            "$10000 \\text{ Pa}$",
+            "$100000 \\text{ Pa}$",
+            "$1000000 \\text{ Pa}$"
+        ],
+        "answer": "$100000 \\text{ Pa}$",
+        "explanation": "Pressure ($P$) in a liquid is calculated using $P = \\rho gh$. $P = (1000 \\text{ kg/m}^3) \\times (10 \\text{ m/s}^2) \\times (10 \\text{ m}) = 100,000 \\text{ Pa}$."
+    },
+    {
+        "id": "P09",
+        "text": "Which of the following describes the relationship between an object and its image in a plane mirror?",
+        "image": "",
+        "options": [
+            "Real, inverted, same size",
+            "Virtual, erect, same size",
+            "Real, erect, magnified",
+            "Virtual, inverted, diminished"
+        ],
+        "answer": "Virtual, erect, same size",
+        "explanation": "A plane mirror always forms an image that is $\\textbf{Virtual}$ (cannot be projected onto a screen), $\\textbf{Erect}$ (upright), and the $\\textbf{Same Size}$ as the object."
+    },
+    {
+        "id": "P10",
+        "text": "An electric heater rated $2000 \\text{ W}$ is used for $3 \\text{ hours}$. If the cost of electricity is $\\text{N}10$ per unit ($\\text{kWh}$), calculate the total cost.",
+        "image": "",
+        "options": [
+            "$\\text{N}60$",
+            "$\\text{N}6$",
+            "$\\text{N}10$",
+            "$\\text{N}30$"
+        ],
+        "answer": "$\\text{N}60$",
+        "explanation": "Energy consumed in $\\text{kWh}$ is $E = P(\\text{kW}) \\times t(\\text{h})$. Power $P = 2000 \\text{ W} = 2 \\text{ kW}$. $E = 2 \\text{ kW} \\times 3 \\text{ h} = 6 \\text{ kWh}$. Total Cost = $6 \\times \\text{N}10 = \\text{N}60$."
+    },
+    {
+        "id": "P11",
+        "text": "When a gas is heated at constant volume, the pressure increases because:",
+        "image": "",
+        "options": [
+            "The molecules become larger.",
+            "The molecules move faster and hit the walls more frequently.",
+            "The number of molecules increases.",
+            "The intermolecular forces become stronger."
+        ],
+        "answer": "The molecules move faster and hit the walls more frequently.",
+        "explanation": "Increased temperature increases the kinetic energy of gas molecules, causing them to move faster and collide with the container walls more frequently and forcefully, leading to higher pressure (Pressure Law)."
+    },
+    {
+        "id": "P12",
+        "text": "A machine has a $\\textbf{velocity ratio (VR)}$ of $5$ and an $\\textbf{efficiency ($\\eta$)}$ of $80\\%$. What is its $\\textbf{mechanical advantage (MA)}$?",
+        "image": "",
+        "options": [
+            "$4.0$",
+            "$6.25$",
+            "$0.16$",
+            "$5.8$"
+        ],
+        "answer": "$4.0$",
+        "explanation": "Efficiency is given by $\\eta = \\frac{\\text{MA}}{\\text{VR}} \\times 100\\%$. Rearranging gives $\\text{MA} = \\eta \\times \\text{VR}$. $\\text{MA} = 0.80 \\times 5 = 4.0$."
+    },
+    {
+        "id": "P13",
+        "text": "Which of the following is not an electromagnetic wave?",
+        "image": "",
+        "options": [
+            "Gamma rays",
+            "Infrared radiation",
+            "Sound waves",
+            "Radio waves"
+        ],
+        "answer": "Sound waves",
+        "explanation": "Sound waves are mechanical waves that require a material medium to propagate. The others are types of electromagnetic waves that can travel through a vacuum."
+    },
+    {
+        "id": "P14",
+        "text": "The potential difference across a $5 \\text{ } \\Omega$ resistor is $12 \\text{ V}$. What is the current flowing through the resistor?",
+        "image": "",
+        "options": [
+            "$2.4 \\text{ A}$",
+            "$0.42 \\text{ A}$",
+            "$60 \\text{ A}$",
+            "$1.2 \\text{ A}$"
+        ],
+        "answer": "$2.4 \\text{ A}$",
+        "explanation": "Using $\\textbf{Ohm's Law}$, $V = IR$. The current ($I$) is $I = \\frac{V}{R} = \\frac{12 \\text{ V}}{5 \\text{ } \\Omega} = 2.4 \\text{ A}$."
+    },
+    {
+        "id": "P15",
+        "text": "A projectile is launched horizontally from a height $h$. If air resistance is negligible, the time of flight depends on:",
+        "image": "",
+        "options": [
+            "The initial horizontal velocity only",
+            "Both initial velocity and height",
+            "The height and acceleration due to gravity only",
+            "The mass of the projectile only"
+        ],
+        "answer": "The height and acceleration due to gravity only",
+        "explanation": "The time of flight ($t$) for a horizontally launched projectile is determined by the vertical motion only, where $h = \\frac{1}{2}gt^2$. Thus, $t = \\sqrt{\\frac{2h}{g}}$. It is independent of the horizontal velocity."
+    },
+    {
+        "id": "P16",
+        "text": "A force of $10 \\text{ N}$ causes a spring to extend by $0.02 \\text{ m}$. What is the spring constant ($k$)?",
+        "image": "",
+        "options": [
+            "$500 \\text{ N/m}$",
+            "$200 \\text{ N/m}$",
+            "$50 \\text{ N/m}$",
+            "$20 \\text{ N/m}$"
+        ],
+        "answer": "$500 \\text{ N/m}$",
+        "explanation": "Using $\\textbf{Hooke's Law}$, $F = ke$. The spring constant $k = \\frac{F}{e} = \\frac{10 \\text{ N}}{0.02 \\text{ m}} = 500 \\text{ N/m}$."
+    },
+    {
+        "id": "P17",
+        "text": "The energy of a photon is directly proportional to its:",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Velocity",
+            "Frequency",
+            "Amplitude"
+        ],
+        "answer": "Frequency",
+        "explanation": "The energy ($E$) of a photon is given by $\\textbf{Planck's equation}$, $E = hf$, where $h$ is Planck's constant and $f$ is frequency. Thus, energy is directly proportional to frequency."
+    },
+    {
+        "id": "P18",
+        "text": "The process by which heat is transferred through a fluid (liquid or gas) due to the actual movement of the fluid particles is called:",
+        "image": "",
+        "options": [
+            "Conduction",
+            "Radiation",
+            "Convection",
+            "Insulation"
+        ],
+        "answer": "Convection",
+        "explanation": "Convection is the transfer of heat by the movement of heated particles of a fluid (liquid or gas)."
+    },
+    {
+        "id": "P19",
+        "text": "In $\\textbf{nuclear fusion}$, light nuclei combine to form a heavier nucleus. This process:",
+        "image": "",
+        "options": [
+            "Absorbs large amounts of energy",
+            "Releases large amounts of energy",
+            "Creates new elements without energy change",
+            "Only occurs at low temperatures"
+        ],
+        "answer": "Releases large amounts of energy",
+        "explanation": "Nuclear fusion is the process that powers stars, where the combination of light nuclei into a heavier one results in a loss of mass (mass defect) that is converted into a large amount of energy according to $E=mc^2$."
+    },
+    {
+        "id": "P20",
+        "text": "A concave mirror has a focal length of $15 \\text{ cm}$. An object is placed $20 \\text{ cm}$ from the mirror. Calculate the image distance ($v$).",
+        "image": "",
+        "options": [
+            "$12 \\text{ cm}$",
+            "$30 \\text{ cm}$",
+            "$60 \\text{ cm}$",
+            "$35 \\text{ cm}$"
+        ],
+        "answer": "$60 \\text{ cm}$",
+        "explanation": "Using the $\\textbf{mirror formula}$: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$. Given $f = 15 \\text{ cm}$ and $u = 20 \\text{ cm}$: $\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = \\frac{1}{15} - \\frac{1}{20} = \\frac{4-3}{60} = \\frac{1}{60}$. Therefore, $v = 60 \\text{ cm}$."
+    },
+    {
+        "id": "P21",
+        "text": "The $\\textbf{SI}$ unit of electric charge is the:",
+        "image": "",
+        "options": [
+            "Volt ($\\text{V}$)",
+            "Ampere ($\\text{A}$)",
+            "Ohm ($\\Omega$)",
+            "Coulomb ($\\text{C}$)"
+        ],
+        "answer": "Coulomb ($\\text{C}$)",
+        "explanation": "The Coulomb ($\\text{C}$) is the $\\text{SI}$ unit of electric charge."
+    },
+    {
+        "id": "P22",
+        "text": "A car moving at $20 \\text{ m/s}$ is brought to rest in $5 \\text{ s}$ by applying the brakes. Calculate the deceleration.",
+        "image": "",
+        "options": [
+            "$4 \\text{ m/s}^2$",
+            "$0.25 \\text{ m/s}^2$",
+            "$100 \\text{ m/s}^2$",
+            "$15 \\text{ m/s}^2$"
+        ],
+        "answer": "$4 \\text{ m/s}^2$",
+        "explanation": "Using the equation $v = u + at$. Rearranging for acceleration ($a$): $a = \\frac{v-u}{t}$. Here, $u = 20 \\text{ m/s}$, $v = 0 \\text{ m/s}$, $t = 5 \\text{ s}$. $a = \\frac{0 - 20}{5} = -4 \\text{ m/s}^2$. The deceleration is $4 \\text{ m/s}^2$."
+    },
+    {
+        "id": "P23",
+        "text": "Which property of a wave is independent of the medium it travels through?",
+        "image": "",
+        "options": [
+            "Wavelength ($\\lambda$)",
+            "Velocity ($v$)",
+            "Frequency ($f$)",
+            "Amplitude ($A$)"
+        ],
+        "answer": "Frequency ($f$)",
+        "explanation": "The frequency ($f$) of a wave is determined by the source that produced it and remains constant when the wave passes from one medium to another. Wavelength and velocity change."
+    },
+    {
+        "id": "P24",
+        "text": "A wire of resistance $4 \\text{ } \\Omega$ is doubled up (folded in half). What is the new resistance?",
+        "image": "",
+        "options": [
+            "$1 \\text{ } \\Omega$",
+            "$2 \\text{ } \\Omega$",
+            "$8 \\text{ } \\Omega$",
+            "$16 \\text{ } \\Omega$"
+        ],
+        "answer": "$1 \\text{ } \\Omega$",
+        "explanation": "When the wire is doubled, the length ($L$) is halved ($L' = L/2$) and the cross-sectional area ($A$) is doubled ($A' = 2A$). The resistance formula is $R = \\frac{\\rho L}{A}$. The new resistance is $R' = \\frac{\\rho (L/2)}{(2A)} = \\frac{1}{4} \\frac{\\rho L}{A} = \\frac{1}{4}R$. $R' = \\frac{1}{4} (4 \\text{ } \\Omega) = 1 \\text{ } \\Omega$."
+    },
+    {
+        "id": "P25",
+        "text": "The temperature at which the saturated vapour pressure of a liquid is equal to the external atmospheric pressure is the:",
+        "image": "",
+        "options": [
+            "Melting point",
+            "Critical temperature",
+            "Boiling point",
+            "Triple point"
+        ],
+        "answer": "Boiling point",
+        "explanation": "The boiling point is defined as the temperature at which the saturated vapour pressure of the liquid equals the external pressure exerted on the liquid (usually atmospheric pressure)."
+    },
+    {
+        "id": "P26",
+        "text": "The linear expansivity of a solid is $\\alpha$. What is its superficial (area) expansivity ($\\beta$)?",
+        "image": "",
+        "options": [
+            "$\\alpha$",
+            "$2\\alpha$",
+            "$\\alpha^2$",
+            "$\\frac{\\alpha}{2}$"
+        ],
+        "answer": "$2\\alpha$",
+        "explanation": "For small temperature changes, the relationship between linear expansivity ($\\alpha$) and superficial (area) expansivity ($\\beta$) is $\\beta \\approx 2\\alpha$."
+    },
+    {
+        "id": "P27",
+        "text": "In a series $RLC$ circuit, resonance occurs when:",
+        "image": "",
+        "options": [
+            "Inductive reactance is zero",
+            "Capacitive reactance is infinite",
+            "Inductive reactance equals capacitive reactance",
+            "Resistance equals impedance"
+        ],
+        "answer": "Inductive reactance equals capacitive reactance",
+        "explanation": "Resonance in an $\\textbf{RLC}$ circuit occurs when the $\\textbf{Inductive reactance}$ ($X_L$) is equal to the $\\textbf{Capacitive reactance}$ ($X_C$), causing the impedance ($Z$) to be minimum and equal to the resistance ($R$)."
+    },
+    {
+        "id": "P28",
+        "text": "The unit of electromotive force (e.m.f) is the $\\textbf{Volt}$. This is equivalent to:",
+        "image": "",
+        "options": [
+            "$\\text{J/C}$",
+            "$\\text{N/C}$",
+            "$\\text{J}\\cdot\\text{s}$",
+            "$\\text{W/s}$"
+        ],
+        "answer": "$\\text{J/C}$",
+        "explanation": "Voltage or e.m.f. is defined as energy or work done per unit charge, $V = \\frac{W}{Q}$. The $\\text{SI}$ units are $\\text{Joules per Coulomb}$ ($\\text{J/C}$), which is defined as the Volt ($\\text{V}$)."
+    },
+    {
+        "id": "P29",
+        "text": "The phenomenon of $\\textbf{total internal reflection}$ is best applied in the operation of a:",
+        "image": "",
+        "options": [
+            "Concave lens",
+            "Microscope",
+            "Periscope using mirrors",
+            "Optical fibre"
+        ],
+        "answer": "Optical fibre",
+        "explanation": "Optical fibres transmit light over long distances by continuously reflecting the light off the internal walls (cladding) based on the principle of $\\textbf{total internal reflection}$."
+    },
+    {
+        "id": "P30",
+        "text": "The $\\textbf{de Broglie wavelength}$ ($\\lambda$) of a particle with momentum ($p$) is given by the formula:",
+        "image": "",
+        "options": [
+            "$\\lambda = \\frac{p}{h}$",
+            "$\\lambda = \\frac{h}{p}$",
+            "$\\lambda = h\\cdot p$",
+            "$\\lambda = m\\cdot c^2$"
+        ],
+        "answer": "$\\lambda = \\frac{h}{p}$",
+        "explanation": "The de Broglie hypothesis relates the wave properties and particle properties of matter. The de Broglie wavelength is $\\lambda = \\frac{h}{p}$, where $h$ is Planck's constant and $p$ is the momentum of the particle."
+    },
+    {
+        "id": "P31",
+        "text": "Calculate the $\\textbf{power}$ supplied by a force of $50 \\text{ N}$ that moves a body at a constant velocity of $4 \\text{ m/s}$.",
+        "image": "",
+        "options": [
+            "$200 \\text{ W}$",
+            "$12.5 \\text{ W}$",
+            "$54 \\text{ W}$",
+            "$46 \\text{ W}$"
+        ],
+        "answer": "$200 \\text{ W}$",
+        "explanation": "Power ($P$) is the rate of doing work, and can be calculated as the product of force ($F$) and velocity ($v$): $P = Fv$. $P = 50 \\text{ N} \\times 4 \\text{ m/s} = 200 \\text{ W}$."
+    },
+    {
+        "id": "P32",
+        "text": "A mass of $10 \\text{ kg}$ is suspended from a rigid support by a string. If the system is in equilibrium, what is the tension in the string? (Take $g = 10 \\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$10 \\text{ N}$",
+            "$100 \\text{ N}$",
+            "$1 \\text{ N}$",
+            "$0 \\text{ N}$"
+        ],
+        "answer": "$100 \\text{ N}$",
+        "explanation": "Since the system is in equilibrium, the tension ($T$) in the string must be equal to the weight ($W$) of the mass. $W = mg = (10 \\text{ kg}) \\times (10 \\text{ m/s}^2) = 100 \\text{ N}$. Thus, $T = 100 \\text{ N}$."
+    },
+    {
+        "id": "P33",
+        "text": "Which of the following describes the nature of images formed by a diverging (convex) lens?",
+        "image": "",
+        "options": [
+            "Real, inverted, and magnified",
+            "Virtual, erect, and magnified",
+            "Virtual, erect, and diminished",
+            "Real, inverted, and diminished"
+        ],
+        "answer": "Virtual, erect, and diminished",
+        "explanation": "A diverging (convex) lens always forms a $\\textbf{Virtual}$, $\\textbf{Erect}$, and $\\textbf{Diminished}$ image, regardless of the object's position."
+    },
+    {
+        "id": "P34",
+        "text": "The process of using a magnetic field to separate different isotopes of an element relies on the difference in their:",
+        "image": "",
+        "options": [
+            "Electric charge",
+            "Atomic number",
+            "Mass",
+            "Number of electrons"
+        ],
+        "answer": "Mass",
+        "explanation": "In a mass spectrometer, ions of different $\\textbf{masses}$ travel in circular paths of different radii when subjected to the same magnetic field, allowing for their separation."
+    },
+    {
+        "id": "P35",
+        "text": "What is the total resistance when a $3 \\text{ } \\Omega$, a $6 \\text{ } \\Omega$, and a $9 \\text{ } \\Omega$ resistor are connected in $\\textbf{series}$?",
+        "image": "",
+        "options": [
+            "$18 \\text{ } \\Omega$",
+            "$1.64 \\text{ } \\Omega$",
+            "$3.6 \\text{ } \\Omega$",
+            "$9 \\text{ } \\Omega$"
+        ],
+        "answer": "$18 \\text{ } \\Omega$",
+        "explanation": "For resistors in $\\textbf{series}$, the total resistance ($R_T$) is the sum of the individual resistances: $R_T = R_1 + R_2 + R_3$. $R_T = 3 \\text{ } \\Omega + 6 \\text{ } \\Omega + 9 \\text{ } \\Omega = 18 \\text{ } \\Omega$."
+    },
+    {
+        "id": "P36",
+        "text": "The $\\textbf{critical angle}$ is the angle of incidence in the denser medium for which the angle of refraction in the less dense medium is:",
+        "image": "",
+        "options": [
+            "$0^{\\circ}$",
+            "$30^{\\circ}$",
+            "$45^{\\circ}$",
+            "$90^{\\circ}$"
+        ],
+        "answer": "$90^{\\circ}$",
+        "explanation": "The critical angle ($\\theta_c$) is the angle of incidence in the denser medium that results in an angle of refraction of $90^{\\circ}$ in the less dense medium."
+    },
+    {
+        "id": "P37",
+        "text": "A metal rod expands from $2.000 \\text{ m}$ to $2.005 \\text{ m}$ when heated from $20^{\\circ}\\text{C}$ to $100^{\\circ}\\text{C}$. Calculate its $\\textbf{linear expansivity}$ ($\\alpha$).",
+        "image": "",
+        "options": [
+            "$3.1 \\times 10^{-5} \\text{ K}^{-1}$",
+            "$6.25 \\times 10^{-5} \\text{ K}^{-1}$",
+            "$8.0 \\times 10^{-5} \\text{ K}^{-1}$",
+            "$1.0 \\times 10^{-4} \\text{ K}^{-1}$"
+        ],
+        "answer": "$3.1 \\times 10^{-5} \\text{ K}^{-1}$",
+        "explanation": "The change in length $\\Delta L = 2.005 - 2.000 = 0.005 \\text{ m}$. The change in temperature $\\Delta \\theta = 100 - 20 = 80^{\\circ}\\text{C}$. $\\alpha = \\frac{\\Delta L}{L_0 \\Delta \\theta} = \\frac{0.005 \\text{ m}}{(2.000 \\text{ m})(80^{\\circ}\\text{C})} \\approx 3.125 \\times 10^{-5} \\text{ K}^{-1}$."
+    },
+    {
+        "id": "P38",
+        "text": "The magnetic flux ($\\Phi$) linked with a coil is given by $\\Phi = 2t^2 + 5t + 1$. Calculate the $\\textbf{induced e.m.f}$ at $t = 2 \\text{ s}$.",
+        "image": "",
+        "options": [
+            "$13 \\text{ V}$",
+            "$8 \\text{ V}$",
+            "$4 \\text{ V}$",
+            "$6 \\text{ V}$"
+        ],
+        "answer": "$13 \\text{ V}$",
+        "explanation": "The induced e.m.f. ($\\varepsilon$) is given by $\\textbf{Faraday's Law}$: $\\varepsilon = -\\frac{d\\Phi}{dt}$. $\\frac{d\\Phi}{dt} = \\frac{d}{dt}(2t^2 + 5t + 1) = 4t + 5$. At $t = 2 \\text{ s}$: $\\varepsilon = 4(2) + 5 = 8 + 5 = 13 \\text{ V}$. (We use the magnitude)."
+    },
+    {
+        "id": "P39",
+        "text": "Which of the following is an example of a $\\textbf{scalar quantity}$?",
+        "image": "",
+        "options": [
+            "Force",
+            "Velocity",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": "Energy",
+        "explanation": "Energy is a $\\textbf{scalar quantity}$ as it has magnitude only. Force, velocity, and momentum are $\\textbf{vector quantities}$ (having both magnitude and direction)."
+    },
+    {
+        "id": "P40",
+        "text": "The principle of $\\textbf{conservation of linear momentum}$ states that when two or more bodies collide in an isolated system, the total momentum:",
+        "image": "",
+        "options": [
+            "Always increases",
+            "Always decreases",
+            "Remains constant",
+            "Is converted into kinetic energy"
+        ],
+        "answer": "Remains constant",
+        "explanation": "The $\\textbf{Law of Conservation of Linear Momentum}$ states that for a system where no external forces act, the total vector momentum remains constant."
+    },
+    {
+        "id": "P41",
+        "text": "A converging lens forms an image that is $\\textbf{three times}$ the size of the object. If the object distance ($u$) is $20 \\text{ cm}$, what is the $\\textbf{focal length}$ ($f$)?",
+        "image": "",
+        "options": [
+            "$15 \\text{ cm}$",
+            "$30 \\text{ cm}$",
+            "$10 \\text{ cm}$",
+            "$60 \\text{ cm}$"
+        ],
+        "answer": "$15 \\text{ cm}$",
+        "explanation": "Magnification $m = 3$ (since the image is real and magnified, $m = -3$ in sign convention). $m = \\frac{v}{u}$. Since $m=3$ and $u=20 \\text{ cm}$, $v=60 \\text{ cm}$. Using the $\\textbf{lens formula}$: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v} = \\frac{1}{20} + \\frac{1}{60} = \\frac{3+1}{60} = \\frac{4}{60} = \\frac{1}{15}$. Thus, $f = 15 \\text{ cm}$."
+    },
+    {
+        "id": "P42",
+        "text": "The $\\textbf{photoelectric effect}$ demonstrates the $\\textbf{particle}$ nature of light because it shows that light energy is absorbed in discrete packets called:",
+        "image": "",
+        "options": [
+            "Electrons",
+            "Protons",
+            "Neutrinos",
+            "Photons"
+        ],
+        "answer": "Photons",
+        "explanation": "The photoelectric effect, explained by Einstein, shows that light consists of discrete energy packets called $\\textbf{photons}$, each carrying energy $E=hf$."
+    },
+    {
+        "id": "P43",
+        "text": "Which part of a $\\textbf{cathode ray oscilloscope (CRO)}$ controls the $\\textbf{brightness}$ of the spot on the screen?",
+        "image": "",
+        "options": [
+            "Y-plates",
+            "Anode",
+            "Control grid",
+            "X-plates"
+        ],
+        "answer": "Control grid",
+        "explanation": "The $\\textbf{control grid}$ controls the number of electrons reaching the screen (the current), thereby controlling the $\\textbf{brightness}$ of the trace."
+    },
+    {
+        "id": "P44",
+        "text": "If a gas expands such that no heat enters or leaves the system, the process is called:",
+        "image": "",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": "Adiabatic",
+        "explanation": "An $\\textbf{adiabatic process}$ is one where no heat is exchanged between the system and its surroundings ($\\Delta Q = 0$)."
+    },
+    {
+        "id": "P45",
+        "text": "The purpose of the $\\textbf{step-up transformer}$ is to:",
+        "image": "",
+        "options": [
+            "Increase the current and decrease the voltage",
+            "Decrease the power without changing voltage",
+            "Increase the voltage and decrease the current",
+            "Keep both voltage and current constant"
+        ],
+        "answer": "Increase the voltage and decrease the current",
+        "explanation": "A $\\textbf{step-up transformer}$ has more turns in the secondary coil than the primary coil. It $\\textbf{increases the voltage}$ (steps up the voltage) while $\\textbf{decreasing the current}$, keeping the power (ideally) constant ($\\text{Power} = V I$)."
+    }
+]

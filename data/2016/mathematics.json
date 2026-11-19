@@ -1,0 +1,522 @@
+[
+    {
+      "id": "M16_1",
+      "topic": "Number Bases",
+      "text": "Convert $10111_2$ to base 10.",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "31"
+      ],
+      "answer": "23",
+      "explanation": "Expand in powers of 2: $(1 \\times 2^4) + (0 \\times 2^3) + (1 \\times 2^2) + (1 \\times 2^1) + (1 \\times 2^0) = 16 + 0 + 4 + 2 + 1 = 23_{10}$."
+    },
+    {
+      "id": "M16_2",
+      "topic": "Surds",
+      "text": "Simplify $\\frac{\\sqrt{75} - \\sqrt{12}}{\\sqrt{3}}$.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "Rewrite the expression: $\\frac{\\sqrt{25 \\times 3} - \\sqrt{4 \\times 3}}{\\sqrt{3}} = \\frac{5\\sqrt{3} - 2\\sqrt{3}}{\\sqrt{3}} = \\frac{3\\sqrt{3}}{\\sqrt{3}} = 3$."
+    },
+    {
+      "id": "M16_3",
+      "topic": "Indices",
+      "text": "Evaluate $(27)^{-2/3}$.",
+      "options": [
+        "$1/9$",
+        "$1/3$",
+        "3",
+        "9"
+      ],
+      "answer": "$1/9$",
+      "explanation": "$(27)^{-2/3} = \\frac{1}{(27)^{2/3}} = \\frac{1}{(\\sqrt[3]{27})^2} = \\frac{1}{(3)^2} = \\frac{1}{9}$."
+    },
+    {
+      "id": "M16_4",
+      "topic": "Logarithms",
+      "text": "If $\\log_{10} 2 = 0.3010$, find $\\log_{10} 40$.",
+      "options": [
+        "1.3010",
+        "1.6020",
+        "2.3010",
+        "4.0000"
+      ],
+      "answer": "1.6020",
+      "explanation": "$\\log_{10} 40 = \\log_{10} (4 \\times 10) = \\log_{10} 4 + \\log_{10} 10 = \\log_{10} 2^2 + 1 = 2\\log_{10} 2 + 1$. $2(0.3010) + 1 = 0.6020 + 1 = 1.6020$."
+    },
+    {
+      "id": "M16_5",
+      "topic": "Set Theory",
+      "text": "In a class of $40$ students, $25$ play football and $20$ play tennis. If $5$ play neither, how many play both?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": "10",
+      "explanation": "Total playing at least one sport: $40 - 5 = 35$. $n(F \\cap T) = n(F) + n(T) - n(F \\cup T) = 25 + 20 - 35 = 45 - 35 = 10$."
+    },
+    {
+      "id": "M16_6",
+      "topic": "Factorization",
+      "text": "Factorize $4x^2 - 16y^2$.",
+      "options": [
+        "$4(x-4y)(x+4y)$",
+        "$4(x-2y)(x+2y)$",
+        "$(2x-4y)(2x+4y)$",
+        "$(4x-16y)(x+y)$"
+      ],
+      "answer": "$4(x-2y)(x+2y)$",
+      "explanation": "Factor out 4: $4(x^2 - 4y^2)$. Apply difference of two squares: $4(x - 2y)(x + 2y)$."
+    },
+    {
+      "id": "M16_7",
+      "topic": "Simultaneous Equations",
+      "text": "Solve the equations: $3x - y = 8$ and $x + y = 4$.",
+      "options": [
+        "$x=3, y=1$",
+        "$x=2, y=2$",
+        "$x=4, y=0$",
+        "$x=1, y=3$"
+      ],
+      "answer": "$x=3, y=1$",
+      "explanation": "Add the two equations: $(3x - y) + (x + y) = 8 + 4 \\implies 4x = 12 \\implies x = 3$. Substitute $x=3$ into the second equation: $3 + y = 4 \\implies y = 1$."
+    },
+    {
+      "id": "M16_8",
+      "topic": "Inequalities",
+      "text": "Find the range of values of $x$ for which $5x - 3 < 2x + 9$.",
+      "options": [
+        "$x < 4$",
+        "$x > 4$",
+        "$x < 3$",
+        "$x > 3$"
+      ],
+      "answer": "$x < 4$",
+      "explanation": "Gather $x$ terms: $5x - 2x < 9 + 3 \\implies 3x < 12$. Divide by 3: $x < 4$."
+    },
+    {
+      "id": "M16_9",
+      "topic": "Quadratic Equations",
+      "text": "Find the quadratic equation whose roots are $2$ and $-3$.",
+      "options": [
+        "$x^2 - 5x + 6 = 0$",
+        "$x^2 + x - 6 = 0$",
+        "$x^2 - x - 6 = 0$",
+        "$x^2 + 5x - 6 = 0$"
+      ],
+      "answer": "$x^2 + x - 6 = 0$",
+      "explanation": "Sum of roots $S = 2 + (-3) = -1$. Product of roots $P = 2 \\times (-3) = -6$. The equation is $x^2 - Sx + P = 0$. $x^2 - (-1)x + (-6) = 0 \\implies x^2 + x - 6 = 0$."
+    },
+    {
+      "id": "M16_10",
+      "topic": "Proportion and Variation",
+      "text": "If $p$ is directly proportional to $q$, and $p = 10$ when $q = 2$, find $p$ when $q = 5$.",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "answer": "25",
+      "explanation": "Variation equation: $p = kq$. Use initial values to find $k$: $10 = k(2) \\implies k = 5$. Now find $p$ when $q = 5$: $p = 5(5) = 25$."
+    },
+    {
+      "id": "M16_11",
+      "topic": "Sequences and Series (GP)",
+      "text": "The first term of a GP is 3 and the common ratio is 2. Find the $5^{\\text{th}}$ term.",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "64"
+      ],
+      "answer": "48",
+      "explanation": "General term $T_n = ar^{n-1}$. $T_5 = 3 \\times 2^{5-1} = 3 \\times 2^4 = 3 \\times 16 = 48$."
+    },
+    {
+      "id": "M16_12",
+      "topic": "Sequences and Series (AP)",
+      "text": "Find the sum of the first $10$ terms of the AP $2, 5, 8, \\ldots$",
+      "options": [
+        "140",
+        "155",
+        "160",
+        "175"
+      ],
+      "answer": "155",
+      "explanation": "First term $a=2$. Common difference $d = 5 - 2 = 3$. Sum $S_n = \\frac{n}{2}[2a + (n-1)d]$. $S_{10} = \\frac{10}{2}[2(2) + (10-1)3] = 5[4 + 9(3)] = 5[4 + 27] = 5(31) = 155$."
+    },
+    {
+      "id": "M16_13",
+      "topic": "Trigonometry",
+      "text": "If $\\sin \\theta = \\frac{3}{5}$, and $\\theta$ is obtuse, find $\\cos \\theta$.",
+      "options": [
+        "$4/5$",
+        "$-4/5$",
+        "$3/4$",
+        "$-3/4$"
+      ],
+      "answer": "$-4/5$",
+      "explanation": "For an obtuse angle, $\\theta$ is in the 2nd quadrant, where $\\cos \\theta$ is negative. Adjacent side $a = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = 4$. $\\cos \\theta = -\\frac{\\text{Adjacent}}{\\text{Hypotenuse}} = -\\frac{4}{5}$."
+    },
+    {
+      "id": "M16_14",
+      "topic": "Differentiation",
+      "text": "If $y = x^3 + 2x^2 - x$, find $\\frac{dy}{dx}$ at $x=1$.",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "Differentiate: $\\frac{dy}{dx} = 3x^2 + 4x - 1$. Substitute $x=1$: $\\frac{dy}{dx} = 3(1)^2 + 4(1) - 1 = 3 + 4 - 1 = 6$."
+    },
+    {
+      "id": "M16_15",
+      "topic": "Integration",
+      "text": "Evaluate $\\int (4x^3 - 3x^2) dx$.",
+      "options": [
+        "$x^4 - x^3 + c$",
+        "$x^4 - 3x^3 + c$",
+        "$4x^4 - 3x^3 + c$",
+        "$12x^2 - 6x + c$"
+      ],
+      "answer": "$x^4 - x^3 + c$",
+      "explanation": "Integrate term by term: $\\int 4x^3 dx = 4\\frac{x^{3+1}}{4} = x^4$. $\\int -3x^2 dx = -3\\frac{x^{2+1}}{3} = -x^3$. Result: $x^4 - x^3 + c$."
+    },
+    {
+      "id": "M16_16",
+      "topic": "Probability",
+      "text": "Two fair dice are thrown once. What is the probability that the sum of the scores is 7?",
+      "options": [
+        "$1/36$",
+        "$1/12$",
+        "$1/6$",
+        "$1/4$"
+      ],
+      "answer": "$1/6$",
+      "explanation": "Total outcomes $= 6 \\times 6 = 36$. Favorable outcomes (sum=7): $(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)$ (6 outcomes). Probability $P(S=7) = \\frac{6}{36} = \\frac{1}{6}$."
+    },
+    {
+      "id": "M16_17",
+      "topic": "Statistics (Mean)",
+      "text": "Find the mean of the scores $10, 15, 12, 18, 5$.",
+      "options": [
+        "10",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "Mean $\\bar{x} = \\frac{\\sum x}{n}$. $\\bar{x} = \\frac{10 + 15 + 12 + 18 + 5}{5} = \\frac{60}{5} = 12$."
+    },
+    {
+      "id": "M16_18",
+      "topic": "Statistics (Mode)",
+      "text": "Find the mode of the data set: $2, 4, 7, 4, 8, 4, 10, 2$.",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "10"
+      ],
+      "answer": "4",
+      "explanation": "The mode is the value that appears most frequently in the data set. The number 4 appears three times, which is more than any other number."
+    },
+    {
+      "id": "M16_19",
+      "topic": "Financial Arithmetic (Percentage Error)",
+      "text": "A student measures a distance as $45.0 \\text{ m}$ instead of the actual distance of $44.5 \\text{ m}$. Find the percentage error.",
+      "options": [
+        "$1.12\\%$",
+        "$0.50\\%$",
+        "$1.21\\%$",
+        "$1.05\\%$"
+      ],
+      "answer": "$1.12\\%$",
+      "explanation": "Error $= |45.0 - 44.5| = 0.5 \\text{ m}$. Percentage Error $= \\frac{\\text{Error}}{\\text{Actual}} \\times 100\\% = \\frac{0.5}{44.5} \\times 100\\% \\approx 1.12\\%$."
+    },
+    {
+      "id": "M16_20",
+      "topic": "Algebraic Fractions",
+      "text": "Simplify $\\frac{x^2 - 1}{x^2 + 2x + 1}$.",
+      "options": [
+        "$\\frac{x-1}{x+1}$",
+        "$\\frac{x+1}{x-1}$",
+        "$x - 1$",
+        "$x + 1$"
+      ],
+      "answer": "$\\frac{x-1}{x+1}$",
+      "explanation": "Numerator (Difference of two squares): $x^2 - 1 = (x - 1)(x + 1)$. Denominator (Perfect square): $x^2 + 2x + 1 = (x + 1)^2$. Simplify: $\\frac{(x - 1)(x + 1)}{(x + 1)(x + 1)} = \\frac{x - 1}{x + 1}$."
+    },
+    {
+      "id": "M16_21",
+      "topic": "Matrices",
+      "text": "If $B = \\begin{pmatrix} 3 & 1 \\\\ -2 & 0 \\end{pmatrix}$, find $2B$.",
+      "options": [
+        "$\\begin{pmatrix} 6 & 2 \\\\ -4 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 5 & 3 \\\\ 0 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 6 & 1 \\\\ -2 & 0 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 6 & 2 \\\\ 4 & 0 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 6 & 2 \\\\ -4 & 0 \\end{pmatrix}$",
+      "explanation": "Scalar multiplication means multiplying every element by 2: $2B = \\begin{pmatrix} 2\\times3 & 2\\times1 \\\\ 2\\times(-2) & 2\\times0 \\end{pmatrix} = \\begin{pmatrix} 6 & 2 \\\\ -4 & 0 \\end{pmatrix}$."
+    },
+    {
+      "id": "M16_22",
+      "topic": "Coordinate Geometry (Midpoint)",
+      "text": "Find the midpoint of the line segment joining $P(5, -3)$ and $Q(1, 7)$.",
+      "options": [
+        "$(3, 2)$",
+        "$(2, 5)$",
+        "$(4, -10)$",
+        "$(3, 5)$"
+      ],
+      "answer": "$(3, 2)$",
+      "explanation": "Midpoint $M = (\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$. $M = (\\frac{5 + 1}{2}, \\frac{-3 + 7}{2}) = (\\frac{6}{2}, \\frac{4}{2}) = (3, 2)$."
+    },
+    {
+      "id": "M16_23",
+      "topic": "Coordinate Geometry (Gradient)",
+      "text": "Find the gradient (slope) of the line passing through points $(2, 5)$ and $(-1, 1)$.",
+      "options": [
+        "$4/3$",
+        "$3/4$",
+        "$5/2$",
+        "2"
+      ],
+      "answer": "$4/3$",
+      "explanation": "Gradient $m = \\frac{y_2 - y_1}{x_2 - x_1}$. $m = \\frac{1 - 5}{-1 - 2} = \\frac{-4}{-3} = \\frac{4}{3}$."
+    },
+    {
+      "id": "M16_24",
+      "topic": "Mensuration (Perimeter of Sector)",
+      "text": "A sector of a circle of radius $7 \\text{ cm}$ has an angle of $90^{\\circ}$. Find the perimeter of the sector. (Take $\\pi = 22/7$)",
+      "options": [
+        "$11 \\text{ cm}$",
+        "$25 \\text{ cm}$",
+        "$32 \\text{ cm}$",
+        "$39 \\text{ cm}$"
+      ],
+      "answer": "$25 \\text{ cm}$",
+      "explanation": "Arc length $L = \\frac{\\theta}{360} \\times 2\\pi r$. $L = \\frac{90}{360} \\times 2 \\times \\frac{22}{7} \\times 7 = \\frac{1}{4} \\times 44 = 11 \\text{ cm}$. Perimeter $P = L + 2r = 11 + 2(7) = 11 + 14 = 25 \\text{ cm}$."
+    },
+    {
+      "id": "M16_25",
+      "topic": "Mensuration (Volume of Cone)",
+      "text": "The volume of a cone is $308 \\text{ cm}^3$. If the height is $6 \\text{ cm}$, find the radius of the base. (Take $\\pi = 22/7$)",
+      "options": [
+        "$7 \\text{ cm}$",
+        "$14 \\text{ cm}$",
+        "$10 \\text{ cm}$",
+        "$5 \\text{ cm}$"
+      ],
+      "answer": "$7 \\text{ cm}$",
+      "explanation": "Volume of cone $V = \\frac{1}{3}\\pi r^2 h$. $308 = \\frac{1}{3} \\times \\frac{22}{7} \\times r^2 \\times 6$. $308 = 2 \\times \\frac{22}{7} \\times r^2 = \\frac{44}{7} r^2$. $r^2 = \\frac{308 \\times 7}{44} = 7 \\times 7 = 49$. $r = \\sqrt{49} = 7 \\text{ cm}$."
+    },
+    {
+      "id": "M16_26",
+      "topic": "Trigonometric Identities",
+      "text": "Simplify $\\frac{1 - \\cos^2 \\theta}{\\sin \\theta}$.",
+      "options": [
+        "$\\cos \\theta$",
+        "$\\sin \\theta$",
+        "$\\tan \\theta$",
+        "$\\sec \\theta$"
+      ],
+      "answer": "$\\sin \\theta$",
+      "explanation": "Using the identity $\\sin^2 \\theta + \\cos^2 \\theta = 1$, we have $1 - \\cos^2 \\theta = \\sin^2 \\theta$. The expression becomes $\\frac{\\sin^2 \\theta}{\\sin \\theta} = \\sin \\theta$."
+    },
+    {
+      "id": "M16_27",
+      "topic": "Trigonometry (Sine Rule)",
+      "text": "In $\\triangle \\text{ABC}$, if $a = 10 \\text{ cm}$, $\\angle A = 30^{\\circ}$ and $\\angle B = 45^{\\circ}$, find $b$ to one decimal place.",
+      "options": [
+        "$14.1 \\text{ cm}$",
+        "$7.1 \\text{ cm}$",
+        "$17.3 \\text{ cm}$",
+        "$12.2 \\text{ cm}$"
+      ],
+      "answer": "$14.1 \\text{ cm}$",
+      "explanation": "Use the Sine Rule: $\\frac{a}{\\sin A} = \\frac{b}{\\sin B}$. $\\frac{10}{\\sin 30^{\\circ}} = \\frac{b}{\\sin 45^{\\circ}}$. $\\frac{10}{0.5} = \\frac{b}{0.7071}$. $20 = \\frac{b}{0.7071}$. $b = 20 \\times 0.7071 = 14.142 \\approx 14.1 \\text{ cm}$."
+    },
+    {
+      "id": "M16_28",
+      "topic": "Permutations and Combinations",
+      "text": "In how many ways can the letters of the word 'BOOK' be arranged?",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "24"
+      ],
+      "answer": "12",
+      "explanation": "There are $n=4$ letters in total. The letter 'O' is repeated $p=2$ times. Number of arrangements $= \\frac{n!}{p!} = \\frac{4!}{2!} = \\frac{24}{2} = 12$."
+    },
+    {
+      "id": "M16_29",
+      "topic": "Probability",
+      "text": "A bag contains $4$ red balls and $6$ blue balls. If two balls are selected without replacement, what is the probability that both are red?",
+      "options": [
+        "$2/15$",
+        "$4/25$",
+        "$1/3$",
+        "$3/5$"
+      ],
+      "answer": "$2/15$",
+      "explanation": "Total balls $= 10$. $P(\\text{1st is Red}) = 4/10$. $P(\\text{2nd is Red } | \\text{ 1st is Red}) = 3/9$. $P(\\text{Both Red}) = \\frac{4}{10} \\times \\frac{3}{9} = \\frac{2}{5} \\times \\frac{1}{3} = \\frac{2}{15}$."
+    },
+    {
+      "id": "M16_30",
+      "topic": "Statistics (Grouped Data)",
+      "text": "The class mark of the class interval $10 - 14$ is:",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "Class mark $= \\frac{\\text{Lower class limit} + \\text{Upper class limit}}{2} = \\frac{10 + 14}{2} = \\frac{24}{2} = 12$."
+    },
+    {
+      "id": "M16_31",
+      "topic": "Geometry (Polygons)",
+      "text": "How many sides has a regular polygon if its exterior angle is $40^{\\circ}$?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9",
+      "explanation": "The sum of the exterior angles of any polygon is $360^{\\circ}$. Number of sides $n = \\frac{360^{\\circ}}{\\text{Exterior Angle}} = \\frac{360^{\\circ}}{40^{\\circ}} = 9$."
+    },
+    {
+      "id": "M16_32",
+      "topic": "Circle Geometry",
+      "text": "In a circle with center $\\text{O}$, if the angle subtended by a chord at the center is $120^{\\circ}$ and the radius is $6 \\text{ cm}$, find the length of the chord.",
+      "options": [
+        "$6\\sqrt{3} \\text{ cm}$",
+        "$12 \\text{ cm}$",
+        "$6 \\text{ cm}$",
+        "$3\\sqrt{3} \\text{ cm}$"
+      ],
+      "answer": "$6\\sqrt{3} \\text{ cm}$",
+      "explanation": "Draw a line from $\\text{O}$ perpendicular to the chord, dividing the $120^{\\circ}$ angle into two $60^{\\circ}$ angles and the chord into two equal halves, $x$. $\\sin 60^{\\circ} = \\frac{x}{6}$. $x = 6 \\sin 60^{\\circ} = 6 \\times \\frac{\\sqrt{3}}{2} = 3\\sqrt{3}$. Chord length $= 2x = 6\\sqrt{3} \\text{ cm}$."
+    },
+    {
+      "id": "M16_33",
+      "topic": "Locus",
+      "text": "The locus of a point $P$ which moves such that it is equidistant from two points $A$ and $B$ is the:",
+      "options": [
+        "Angle bisector of $\\angle APB$",
+        "Perpendicular bisector of the line segment $AB$",
+        "Circle with diameter $AB$",
+        "Straight line passing through $A$ and $B$"
+      ],
+      "answer": "Perpendicular bisector of the line segment $AB$",
+      "explanation": "The set of all points equidistant from two fixed points forms the perpendicular bisector of the line segment joining the two points. "
+    },
+    {
+      "id": "M16_34",
+      "topic": "Bearing and Distance",
+      "text": "Town $A$ is $10 \\text{ km}$ due North of $B$. Town $C$ is $10 \\text{ km}$ due East of $B$. Find the bearing of $C$ from $A$.",
+      "options": [
+        "$045^{\\circ}$",
+        "$135^{\\circ}$",
+        "$225^{\\circ}$",
+        "$315^{\\circ}$"
+      ],
+      "answer": "$135^{\\circ}$",
+      "explanation": "$\triangle ABC$ is a right-angled isosceles triangle with $\\angle B = 90^{\\circ}$ and $\\angle BAC = 45^{\\circ}$. The bearing of $C$ from $A$ is $180^{\\circ} - 45^{\\circ} = 135^{\\circ}$."
+    },
+    {
+      "id": "M16_35",
+      "topic": "Calculus (Rate of Change)",
+      "text": "If the velocity $v$ of a particle is given by $v = 3t^2 - 4t$, find its acceleration after $3$ seconds.",
+      "options": [
+        "10 m/s^2",
+        "14 m/s^2",
+        "18 m/s^2",
+        "22 m/s^2"
+      ],
+      "answer": "14 m/s^2",
+      "explanation": "Acceleration $a = \\frac{dv}{dt}$. $a = 6t - 4$. Substitute $t=3$: $a = 6(3) - 4 = 18 - 4 = 14 \\text{ m/s}^2$."
+    },
+    {
+      "id": "M16_36",
+      "topic": "Calculus (Turning Point)",
+      "text": "Find the $x$-coordinate of the turning point of the curve $y = x^2 - 4x + 3$.",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "1",
+        "2"
+      ],
+      "answer": "2",
+      "explanation": "At the turning point, $\\frac{dy}{dx} = 0$. $\\frac{dy}{dx} = 2x - 4$. Set $2x - 4 = 0 \\implies 2x = 4 \\implies x = 2$."
+    },
+    {
+      "id": "M16_37",
+      "topic": "Functions",
+      "text": "If $g(x) = 2x - 3$, find the inverse function $g^{-1}(x)$.",
+      "options": [
+        "$\\frac{x+3}{2}$",
+        "$\\frac{x-3}{2}$",
+        "$3 - 2x$",
+        "$2x + 3$"
+      ],
+      "answer": "$\\frac{x+3}{2}$",
+      "explanation": "Let $y = 2x - 3$. Swap $x$ and $y$: $x = 2y - 3$. Solve for $y$: $2y = x + 3 \\implies y = \\frac{x+3}{2}$. Thus, $g^{-1}(x) = \\frac{x+3}{2}$."
+    },
+    {
+      "id": "M16_38",
+      "topic": "Binary Operations",
+      "text": "The operation $\\ast$ is defined by $a \\ast b = 2a + b$. Find $(3 \\ast 4) \\ast 5$.",
+      "options": [
+        "15",
+        "16",
+        "21",
+        "25"
+      ],
+      "answer": "21",
+      "explanation": "First, solve $3 \\ast 4$: $3 \\ast 4 = 2(3) + 4 = 6 + 4 = 10$. Then, solve $(3 \\ast 4) \\ast 5$, which is $10 \\ast 5$: $10 \\ast 5 = 2(10) + 5 = 20 + 5 = 25$."
+    },
+    {
+      "id": "M16_39",
+      "topic": "Logic",
+      "text": "The contrapositive of the implication 'If $p$, then $q$' is:",
+      "options": [
+        "'If not $p$, then not $q$'",
+        "'If $q$, then $p$'",
+        "'If not $q$, then not $p$'",
+        "'If not $q$, then $p$'"
+      ],
+      "answer": "'If not $q$, then not $p$'",
+      "explanation": "The contrapositive of $p \\implies q$ is the negation of the conclusion implies the negation of the premise, $\\sim q \\implies \\sim p$."
+    },
+    {
+      "id": "M16_40",
+      "topic": "Matrices",
+      "text": "If $A = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$, what is $A^2$?",
+      "options": [
+        "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 & 1 \\\\ 1 & 1 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$",
+      "explanation": "$A$ is the identity matrix $I$. $I^2 = I$. $A^2 = A \\times A = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix} \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix} = \\begin{pmatrix} 1\\times1+0\\times0 & 1\\times0+0\\times1 \\\\ 0\\times1+1\\times0 & 0\\times0+1\\times1 \\end{pmatrix} = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}$."
+    }
+  ]

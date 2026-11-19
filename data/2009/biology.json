@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2009_01",
+      "text": "Which of the following organisms exhibits $\\text{Tissues}$, but lacks true $\\text{Organs}$?",
+      "image": "[Diagram of Hydra or Jellyfish]",
+      "options": [
+        "Paramecium",
+        "Earthworm",
+        "Hydra",
+        "Man"
+      ],
+      "answer": "Hydra",
+      "explanation": "$\\text{Hydra}$ belongs to the phylum $\\text{Cnidaria}$, which is $\\text{Diploblastic}$ and organized at the $\\text{Tissue}$ level, meaning they have true tissues (like $\\text{Epithelium}$ and $\\text{Nerve}$ $\\text{Nets}$), but lack complex organ systems."
+    },
+    {
+      "id": "BIO_2009_02",
+      "text": "The major function of the $\\text{Guard}$ $\\text{Cells}$ in a plant leaf is to:",
+      "image": "[Microscopic image of an open Stoma with Guard Cells]",
+      "options": [
+        "Transport water to the $\\text{Epidermis}$",
+        "Produce $\\text{Chlorophyll}$ for $\\text{Photosynthesis}$",
+        "Control the opening and closing of the $\\text{Stomata}$",
+        "Protect the inner tissues of the leaf"
+      ],
+      "answer": "Control the opening and closing of the $\\text{Stomata}$",
+      "explanation": "The $\\text{Guard}$ $\\text{Cells}$ regulate the size of the $\\text{Stomatal}$ $\\text{Pore}$. This controls the rates of $\\text{Gaseous}$ $\\text{Exchange}$ ($\\text{CO}_2$ and $\\text{O}_2$) and $\\text{Transpiration}$ (water loss)."
+    },
+    {
+      "id": "BIO_2009_03",
+      "text": "The substance that gives the $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ (Erythrocytes) their characteristic red colour is:",
+      "image": "[Molecular structure of Hemoglobin]",
+      "options": [
+        "Plasma",
+        "Fibrinogen",
+        "Globulin",
+        "Haemoglobin"
+      ],
+      "answer": "Haemoglobin",
+      "explanation": "$\\text{Haemoglobin}$ is an iron-containing protein in $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ that binds $\\text{Oxygen}$ for transport and contains the $\\text{Heme}$ group responsible for the red colour."
+    },
+    {
+      "id": "BIO_2009_04",
+      "text": "Which chamber of the $\\text{Heart}$ pumps oxygenated blood to all parts of the body?",
+      "image": "[Diagram of the human heart showing all four chambers]",
+      "options": [
+        "Right $\\text{Atrium}$",
+        "Right $\\text{Ventricle}$",
+        "Left $\\text{Atrium}$",
+        "Left $\\text{Ventricle}$"
+      ],
+      "answer": "Left $\\text{Ventricle}$",
+      "explanation": "The $\\text{Left}$ $\\text{Ventricle}$ receives oxygenated blood from the $\\text{Left}$ $\\text{Atrium}$ and pumps it out, via the $\\text{Aorta}$, into the $\\text{Systemic}$ $\\text{Circulation}$ to supply the rest of the body."
+    },
+    {
+      "id": "BIO_2009_05",
+      "text": "The removal of the $\\text{Anther}$ from a flower bud before it opens is an ecological technique known as:",
+      "image": "",
+      "options": [
+        "Pollination",
+        "Emasculation",
+        "Hybridization",
+        "Pruning"
+      ],
+      "answer": "Emasculation",
+      "explanation": "$\\text{Emasculation}$ is the removal of the male reproductive part (the $\\text{Anther}$) from a flower to prevent $\\text{Self}$-$\\text{Pollination}$. It is a critical step in controlled plant $\\text{Breeding}$ and $\\text{Hybridization}$ experiments."
+    },
+    {
+      "id": "BIO_2009_06",
+      "text": "Which process is responsible for the uptake of mineral salts from the soil into plant roots against a concentration gradient?",
+      "image": "[Diagram illustrating Active Transport across a cell membrane]",
+      "options": [
+        "Osmosis",
+        "Diffusion",
+        "Active $\\text{Transport}$",
+        "Capillarity"
+      ],
+      "answer": "Active $\\text{Transport}$",
+      "explanation": "Since the concentration of $\\text{Mineral}$ $\\text{Salts}$ is usually $\\text{Higher}$ inside the root cells than in the soil water, their uptake requires $\\text{Energy}$ ($\\text{ATP}$) to move them against their $\\text{Concentration}$ $\\text{Gradient}$, a process known as $\\text{Active}$ $\\text{Transport}$."
+    },
+    {
+      "id": "BIO_2009_07",
+      "text": "In the $\\text{Human}$ $\\text{Kidney}$, the re-absorption of useful substances like $\\text{Glucose}$ and $\\text{Amino}$ $\\text{Acids}$ occurs mainly in the:",
+      "image": "[Diagram of a Nephron showing tubules]",
+      "options": [
+        "Bowman's capsule",
+        "Loop of $\\text{Henle}$",
+        "Distal convoluted $\\text{Tubule}$",
+        "Proximal convoluted $\\text{Tubule}$"
+      ],
+      "answer": "Proximal convoluted $\\text{Tubule}$",
+      "explanation": "The $\\text{Proximal}$ $\\text{Convoluted}$ $\\text{Tubule}$ (PCT) is where the majority ($\\sim 65\\%$) of filtered water, $\\text{Electrolytes}$, and all necessary organic nutrients (like $\\text{Glucose}$ and $\\text{Amino}$ $\\text{Acids}$) are $\\text{Re}$-$\\text{absorbed}$ back into the blood."
+    },
+    {
+      "id": "BIO_2009_08",
+      "text": "The substance that lowers the surface tension of fats and oils in the $\\text{Small}$ $\\text{Intestine}$ to allow effective digestion is:",
+      "image": "[Diagram illustrating the Emulsification of fat droplets by Bile]",
+      "options": [
+        "Saliva",
+        "Hydrochloric $\\text{Acid}$",
+        "Bile",
+        "Pancreatic $\\text{Amylase}$"
+      ],
+      "answer": "Bile",
+      "explanation": "$\\text{Bile}$ (produced by the $\\text{Liver}$) contains $\\text{Bile}$ $\\text{Salts}$ that emulsify large fat globules into tiny droplets, $\\text{Increasing}$ the $\\text{Surface}$ $\\text{Area}$ for the action of $\\text{Lipase}$ enzyme."
+    },
+    {
+      "id": "BIO_2009_09",
+      "text": "In a flowering plant, fusion of the male $\\text{Gamete}$ with the $\\text{Egg}$ $\\text{Nucleus}$ is known as:",
+      "image": "[Diagram of Double Fertilization in Angiosperms]",
+      "options": [
+        "Triple $\\text{Fusion}$",
+        "Fertilization",
+        "Pollination",
+        "Plasmogamy"
+      ],
+      "answer": "Fertilization",
+      "explanation": "$\\text{Fertilization}$ in plants is specifically the fusion of the $\\text{Male}$ $\\text{Gamete}$ $\\text{Nucleus}$ with the $\\text{Female}$ $\\text{Egg}$ $\\text{Nucleus}$, resulting in the $\\text{Diploid}$ $\\text{Zygote}$ (the embryo). $\\text{Angiosperms}$ also undergo $\\text{Double}$ $\\text{Fertilization}$."
+    },
+    {
+      "id": "BIO_2009_10",
+      "text": "In an ecosystem, which of the following organisms are $\\text{Decomposers}$?",
+      "image": "[Food Web diagram highlighting the role of Fungi and Bacteria]",
+      "options": [
+        "Grass and Trees",
+        "Lions and Eagles",
+        "Bacteria and Fungi",
+        "Rabbits and Goats"
+      ],
+      "answer": "Bacteria and Fungi",
+      "explanation": "$\\text{Decomposers}$ ($\\text{Saprotrophs}$) like $\\text{Bacteria}$ and $\\text{Fungi}$ obtain nutrients by breaking down $\\text{Dead}$ $\\text{Organic}$ $\\text{Matter}$. They are vital for $\\text{Nutrient}$ $\\text{Cycling}$."
+    },
+    {
+      "id": "BIO_2009_11",
+      "text": "The $\\text{Islets}$ $\\text{of}$ $\\text{Langerhans}$ in the $\\text{Pancreas}$ are responsible for the secretion of:",
+      "image": "[Microscopic view of pancreatic tissue showing Islets of Langerhans]",
+      "options": [
+        "Bile and $\\text{Glucagon}$",
+        "Pancreatic $\\text{Juice}$ and $\\text{Insulin}$",
+        "Insulin and $\\text{Glucagon}$",
+        "Thyroxine and $\\text{Adrenaline}$"
+      ],
+      "answer": "Insulin and $\\text{Glucagon}$",
+      "explanation": "The $\\text{Islets}$ $\\text{of}$ $\\text{Langerhans}$ are endocrine clusters in the $\\text{Pancreas}$ that produce the hormones $\\text{Insulin}$ (lowers blood sugar) and $\\text{Glucagon}$ (raises blood sugar)."
+    },
+    {
+      "id": "BIO_2009_12",
+      "text": "The $\\text{Nitrogen}$ $\\text{Cycle}$ is initiated by the process of:",
+      "image": "[Diagram of the Nitrogen Cycle]",
+      "options": [
+        "Denitrification",
+        "Nitrification",
+        "Assimilation",
+        "Nitrogen $\\text{Fixation}$"
+      ],
+      "answer": "Nitrogen $\\text{Fixation}$",
+      "explanation": "The cycle begins with $\\text{Nitrogen}$ $\\text{Fixation}$, where atmospheric nitrogen gas ($\\text{N}_2$) is converted into usable forms, such as $\\text{Ammonia}$, primarily by $\\text{Nitrogen}$-$\\text{Fixing}$ $\\text{Bacteria}$."
+    },
+    {
+      "id": "BIO_2009_13",
+      "text": "In $\\text{Mendel's}$ experiment, crossing a $\\text{Tall}$ $\\text{Plant}$ (TT) with a $\\text{Short}$ $\\text{Plant}$ (tt) resulted in all $\\text{Tall}$ plants in the $\\text{F}_1$ generation. This illustrates the law of:",
+      "image": "[Punnett square for a Monohybrid Cross (TT x tt)]",
+      "options": [
+        "Segregation",
+        "Independent $\\text{Assortment}$",
+        "Dominance",
+        "Purity of $\\text{Gametes}$"
+      ],
+      "answer": "Dominance",
+      "explanation": "The $\\text{F}_1$ generation were all $\\text{Heterozygous}$ ($\\text{Tt}$), but expressed only the $\\text{Tall}$ trait, demonstrating the $\\text{Law}$ $\\text{of}$ $\\text{Dominance}$ (the dominant allele masks the expression of the recessive allele)."
+    },
+    {
+      "id": "BIO_2009_14",
+      "text": "Which of these is $\\text{NOT}$ a characteristic of $\\text{Insects}$?",
+      "image": "[Diagram of an Insect structure]",
+      "options": [
+        "Three pairs of $\\text{Legs}$",
+        "Two pairs of $\\text{Wings}$",
+        "One pair of $\\text{Antennae}$",
+        "Two $\\text{Body}$ $\\text{Segments}$ (Cephalothorax and Abdomen)"
+      ],
+      "answer": "Two $\\text{Body}$ $\\text{Segments}$ (Cephalothorax and Abdomen)",
+      "explanation": "Insects have $\\text{Three}$ $\\text{Body}$ $\\text{Segments}$: $\\text{Head}$, $\\text{Thorax}$, and $\\text{Abdomen}$. $\\text{Two}$ $\\text{Body}$ $\\text{Segments}$ (Cephalothorax and Abdomen) are characteristic of $\\text{Arachnids}$ and $\\text{Crustaceans}$."
+    },
+    {
+      "id": "BIO_2009_15",
+      "text": "Lack of $\\text{Iron}$ in the diet can lead to a deficiency disease called:",
+      "image": "[Image illustrating symptoms of Anaemia]",
+      "options": [
+        "Goitre",
+        "Kwashiorkor",
+        "Scurvy",
+        "Anaemia"
+      ],
+      "answer": "Anaemia",
+      "explanation": "$\\text{Iron}$ is an essential component of $\\text{Haemoglobin}$. A deficiency results in $\\text{Anaemia}$, characterized by reduced $\\text{Oxygen}$-carrying capacity of the blood."
+    },
+    {
+      "id": "BIO_2009_16",
+      "text": "The major consequence of $\\text{Eutrophication}$ in an aquatic ecosystem is:",
+      "image": "[Diagram illustrating Eutrophication and subsequent Oxygen depletion]",
+      "options": [
+        "Increased $\\text{Water}$ $\\text{Transparency}$",
+        "Increased $\\text{Oxygen}$ $\\text{Levels}$",
+        "Reduced $\\text{Biodiversity}$ and $\\text{Oxygen}$ $\\text{Depletion}$",
+        "Increased $\\text{Fish}$ $\\text{Population}$"
+      ],
+      "answer": "Reduced $\\text{Biodiversity}$ and $\\text{Oxygen}$ $\\text{Depletion}$",
+      "explanation": "$\\text{Eutrophication}$ (nutrient enrichment) causes excessive algal growth ($\\text{Algal}$ $\\text{Bloom}$). When the algae die, $\\text{Decomposers}$ use up the dissolved $\\text{Oxygen}$ during respiration, leading to the death of $\\text{Fish}$ and other aquatic organisms."
+    },
+    {
+      "id": "BIO_2009_17",
+      "text": "The initial breakdown of $\\text{Starch}$ in the human digestive system occurs in the:",
+      "image": "[Diagram of the human digestive tract, focusing on the mouth]",
+      "options": [
+        "Stomach",
+        "Small $\\text{Intestine}$",
+        "Mouth",
+        "Oesophagus"
+      ],
+      "answer": "Mouth",
+      "explanation": "The $\\text{Mouth}$ contains $\\text{Salivary}$ $\\text{Amylase}$ ($\\text{Ptyalin}$), an enzyme that begins the $\\text{Hydrolysis}$ of cooked $\\text{Starch}$ into simpler sugars ($\\text{Maltose}$). This process stops in the highly $\\text{Acidic}$ $\\text{Stomach}$."
+    },
+    {
+      "id": "BIO_2009_18",
+      "text": "The part of the $\\text{Brain}$ that connects the $\\text{Cerebrum}$ to the $\\text{Spinal}$ $\\text{Cord}$ and controls involuntary actions like breathing and heartbeat is the:",
+      "image": "[Diagram of the Brainstem (Medulla Oblongata)]",
+      "options": [
+        "Cerebellum",
+        "Hypothalamus",
+        "Medulla $\\text{Oblongata}$",
+        "Thalamus"
+      ],
+      "answer": "Medulla $\\text{Oblongata}$",
+      "explanation": "The $\\text{Medulla}$ $\\text{Oblongata}$ is part of the $\\text{Brainstem}$. It regulates vital, $\\text{Involuntary}$ $\\text{Autonomic}$ functions such as $\\text{Respiration}$, $\\text{Heart}$ $\\text{Rate}$, and $\\text{Blood}$ $\\text{Pressure}$."
+    },
+    {
+      "id": "BIO_2009_19",
+      "text": "The type of $\\text{Placenta}$ found in $\\text{Marsupials}$ (like kangaroos) where the young is born premature is:",
+      "image": "",
+      "options": [
+        "Chorionic $\\text{Placenta}$",
+        "Allantoic $\\text{Placenta}$",
+        "Yolk $\\text{Sac}$ $\\text{Placenta}$",
+        "Discoidal $\\text{Placenta}$"
+      ],
+      "answer": "Yolk $\\text{Sac}$ $\\text{Placenta}$",
+      "explanation": "$\\text{Marsupials}$ initially rely on a primitive $\\text{Yolk}$ $\\text{Sac}$ $\\text{Placenta}$ for limited nutrient exchange. Due to the lack of efficient exchange, gestation is very short, and the young complete development in an external pouch."
+    },
+    {
+      "id": "BIO_2009_20",
+      "text": "The $\\text{Cerebrum}$ is the part of the brain that controls:",
+      "image": "[Diagram of the human brain highlighting the Cerebrum]",
+      "options": [
+        "Reflex $\\text{Actions}$",
+        "Voluntary $\\text{Actions}$ and $\\text{Intelligence}$",
+        "Equilibrium and $\\text{Posture}$",
+        "Body $\\text{Temperature}$"
+      ],
+      "answer": "Voluntary $\\text{Actions}$ and $\\text{Intelligence}$",
+      "explanation": "The $\\text{Cerebrum}$ is the largest part of the brain and is responsible for higher brain functions, including $\\text{Thought}$, $\\text{Memory}$, $\\text{Learning}$, $\\text{Reasoning}$, and the control of all $\\text{Voluntary}$ $\\text{Muscular}$ $\\text{Activities}$."
+    },
+    {
+      "id": "BIO_2009_21",
+      "text": "The organism that possesses $\\text{Cell}$ $\\text{Walls}$ but lacks $\\text{Chlorophyll}$ is a:",
+      "image": "[Microscopic image of Fungi (Hyphae)]",
+      "options": [
+        "Alga",
+        "Fungus",
+        "Bacterium",
+        "Flowering $\\text{Plant}$"
+      ],
+      "answer": "Fungus",
+      "explanation": "$\\text{Fungi}$ have rigid $\\text{Cell}$ $\\text{Walls}$ made of $\\text{Chitin}$, similar to plants and algae (which have $\\text{Cellulose}$ walls). However, unlike plants and algae, fungi are $\\text{Heterotrophic}$ and lack $\\text{Chlorophyll}$."
+    },
+    {
+      "id": "BIO_2009_22",
+      "text": "Which plant hormone is responsible for the ripening of fruits?",
+      "image": "[Image illustrating the effects of Ethylene gas on fruit ripening]",
+      "options": [
+        "Auxins",
+        "Cytokinins",
+        "Ethylene",
+        "Gibberellins"
+      ],
+      "answer": "Ethylene",
+      "explanation": "$\\text{Ethylene}$ is a gaseous plant hormone that promotes the $\\text{Ripening}$ of climacteric fruits (e.g., bananas, tomatoes) and also contributes to $\\text{Senescence}$ (aging)."
+    },
+    {
+      "id": "BIO_2009_23",
+      "text": "A plant with $\\text{Reduced}$ $\\text{Leaves}$ and a $\\text{Sunken}$ $\\text{Stomata}$ is an $\\text{Adaptation}$ to a $\\text{Habitat}$ that is:",
+      "image": "[Cross-section of a Xerophytic leaf]",
+      "options": [
+        "Aquatic",
+        "Damp and $\\text{Shady}$",
+        "Dry and $\\text{Arid}$",
+        "Temperate"
+      ],
+      "answer": "Dry and $\\text{Arid}$",
+      "explanation": "These features are characteristic of $\\text{Xerophytes}$ (plants adapted to dry conditions). $\\text{Reduced}$ $\\text{Leaves}$ (or $\\text{Spines}$) and $\\text{Sunken}$ $\\text{Stomata}$ both minimize $\\text{Water}$ $\\text{Loss}$ through $\\text{Transpiration}$."
+    },
+    {
+      "id": "BIO_2009_24",
+      "text": "In $\\text{Human}$ $\\text{Blood}$ $\\text{Group}$ inheritance, the alleles $\\text{I}^A$ and $\\text{I}^B$ are an example of:",
+      "image": "[Diagram illustrating Codominance in ABO blood groups]",
+      "options": [
+        "Incomplete $\\text{Dominance}$",
+        "Multiple $\\text{Alleles}$",
+        "Codominance",
+        "Polygenic $\\text{Inheritance}$"
+      ],
+      "answer": "Codominance",
+      "explanation": "In $\\text{Blood}$ $\\text{Group}$ $\\text{AB}$, both $\\text{I}^A$ and $\\text{I}^B$ alleles are $\\text{Expressed}$ $\\text{Equally}$ in the phenotype, which is the definition of $\\text{Codominance}$. $\\text{ABO}$ blood groups also involve $\\text{Multiple}$ $\\text{Alleles}$ ($\\text{I}^A, \\text{I}^B, \\text{I}^O$)."
+    },
+    {
+      "id": "BIO_2009_25",
+      "text": "A $\\text{Parasite}$ that lives $\\text{Outside}$ the body of its host is known as an:",
+      "image": "",
+      "options": [
+        "Ectoparasite",
+        "Endoparasite",
+        "Symbiont",
+        "Commensal"
+      ],
+      "answer": "Ectoparasite",
+      "explanation": "An $\\text{Ectoparasite}$ (like a $\\text{Louse}$ or $\\text{Tick}$) lives on the $\\text{Exterior}$ of the host's body and feeds on its tissues or blood. An $\\text{Endoparasite}$ lives $\\text{Inside}$ the host."
+    },
+    {
+      "id": "BIO_2009_26",
+      "text": "The total number of species and their relative abundance in a particular area is referred to as:",
+      "image": "[Diagram illustrating Species Richness and Species Evenness]",
+      "options": [
+        "Population $\\text{Density}$",
+        "Species $\\text{Richness}$",
+        "Biodiversity",
+        "Carrying $\\text{Capacity}$"
+      ],
+      "answer": "Biodiversity",
+      "explanation": "$\\text{Biodiversity}$ (Biological $\\text{Diversity}$) encompasses the variety of life on $\\text{Earth}$ at all levels. $\\text{Species}$ $\\text{Richness}$ (number of species) and $\\text{Species}$ $\\text{Evenness}$ (relative abundance) are key components of $\\text{Community}$ $\\text{Diversity}$."
+    },
+    {
+      "id": "BIO_2009_27",
+      "text": "Which of the following processes in $\\text{Ecology}$ does $\\text{NOT}$ involve $\\text{Bacteria}$?",
+      "image": "",
+      "options": [
+        "Nitrogen $\\text{Fixation}$",
+        "Nitrification",
+        "Decomposition",
+        "Transpiration"
+      ],
+      "answer": "Transpiration",
+      "explanation": "$\\text{Transpiration}$ is the process of $\\text{Water}$ $\\text{Loss}$ as $\\text{Vapour}$ from the $\\text{Aerial}$ $\\text{Parts}$ of plants, primarily through the $\\text{Stomata}$. It is a physical process and does $\\text{NOT}$ involve $\\text{Bacteria}$."
+    },
+    {
+      "id": "BIO_2009_28",
+      "text": "The $\\text{Ovary}$ of a flower develops into the $\\text{Fruit}$ after fertilization, while the $\\text{Ovule}$ develops into the:",
+      "image": "[Diagram of a flower showing Ovary and Ovule before and after Fertilization]",
+      "options": [
+        "Seed",
+        "Stigma",
+        "Pericarp",
+        "Plumule"
+      ],
+      "answer": "Seed",
+      "explanation": "After $\\text{Fertilization}$, the $\\text{Ovary}$ wall thickens to become the $\\text{Pericarp}$ (fruit wall), and the $\\text{Ovule}$ develops into the $\\text{Seed}$, which contains the $\\text{Embryo}$ (formed from the $\\text{Zygote}$)."
+    },
+    {
+      "id": "BIO_2009_29",
+      "text": "The function of the $\\text{Ribosomes}$ in a cell is:",
+      "image": "[Diagram of a Ribosome synthesizing a Protein Chain]",
+      "options": [
+        "Storage of $\\text{Genetic}$ $\\text{Material}$",
+        "Energy $\\text{Production}$",
+        "Synthesis of $\\text{Proteins}$",
+        "Detoxification of $\\text{Drugs}$"
+      ],
+      "answer": "Synthesis of $\\text{Proteins}$",
+      "explanation": "$\\text{Ribosomes}$ are the site of $\\text{Protein}$ $\\text{Synthesis}$ (Translation), where the genetic code carried by $\\text{mRNA}$ is used to assemble $\\text{Amino}$ $\\text{Acids}$ into polypeptide chains."
+    },
+    {
+      "id": "BIO_2009_30",
+      "text": "The sudden increase in the population of $\\text{Rats}$ in an area may be due to the disappearance of their natural $\\text{Predators}$. This illustrates the effect of a $\\text{Density}$-$\\text{Dependent}$ $\\text{Factor}$ known as:",
+      "image": "",
+      "options": [
+        "Emigration",
+        "Catastrophe",
+        "Predation",
+        "Interspecific $\\text{Competition}$"
+      ],
+      "answer": "Predation",
+      "explanation": "$\\text{Predation}$ is a $\\text{Density}$-$\\text{Dependent}$ $\\text{Factor}$ because its impact on the prey population depends on the population $\\text{Size}$ of both the $\\text{Predator}$ and the $\\text{Prey}$. The removal of predators leads to an increase in prey population."
+    },
+    {
+      "id": "BIO_2009_31",
+      "text": "A test cross involves crossing an individual of unknown $\\text{Genotype}$ with a:",
+      "image": "[Punnett square showing a Test Cross (B? x bb)]",
+      "options": [
+        "Heterozygous $\\text{Dominant}$ $\\text{Individual}$",
+        "Homozygous $\\text{Dominant}$ $\\text{Individual}$",
+        "Homozygous $\\text{Recessive}$ $\\text{Individual}$",
+        "Individual with $\\text{Unknown}$ $\\text{Phenotype}$"
+      ],
+      "answer": "Homozygous $\\text{Recessive}$ $\\text{Individual}$",
+      "explanation": "A $\\text{Test}$ $\\text{Cross}$ uses a $\\text{Homozygous}$ $\\text{Recessive}$ individual to determine the $\\text{Genotype}$ of an organism expressing the $\\text{Dominant}$ $\\text{Phenotype}$. If any recessive offspring appear, the unknown parent must be $\\text{Heterozygous}$."
+    },
+    {
+      "id": "BIO_2009_32",
+      "text": "The $\\text{Light}$-independent stage of $\\text{Photosynthesis}$ takes place in the:",
+      "image": "[Diagram of a Chloroplast indicating the Stroma]",
+      "options": [
+        "Grana",
+        "Cytoplasm",
+        "Stroma",
+        "Mitochondria"
+      ],
+      "answer": "Stroma",
+      "explanation": "The $\\text{Light}$-independent reactions (Calvin $\\text{Cycle}$) use the $\\text{ATP}$ and $\\text{NADPH}$ produced in the $\\text{Grana}$ to convert $\\text{Carbon}$ $\\text{Dioxide}$ into $\\text{Glucose}$. This process occurs in the $\\text{Stroma}$ (the fluid-filled space) of the $\\text{Chloroplast}$."
+    },
+    {
+      "id": "BIO_2009_33",
+      "text": "The functional unit of the $\\text{Nervous}$ $\\text{System}$ is the:",
+      "image": "[Diagram of a Neuron structure]",
+      "options": [
+        "Nephron",
+        "Axon",
+        "Dendrite",
+        "Neuron"
+      ],
+      "answer": "Neuron",
+      "explanation": "The $\\text{Neuron}$ ($\\text{Nerve}$ $\\text{Cell}$) is the basic structural and $\\text{Functional}$ $\\text{Unit}$ of the $\\text{Nervous}$ $\\text{System}$. The $\\text{Nephron}$ is the functional unit of the $\\text{Kidney}$."
+    },
+    {
+      "id": "BIO_2009_34",
+      "text": "The use of living organisms to clean up environmental pollutants is known as:",
+      "image": "[Image illustrating Bioremediation of an oil spill]",
+      "options": [
+        "Eutrophication",
+        "Bioremediation",
+        "Biomagnification",
+        "Biological $\\text{Control}$"
+      ],
+      "answer": "Bioremediation",
+      "explanation": "$\\text{Bioremediation}$ is the use of $\\text{Microorganisms}$ (or sometimes plants) to $\\text{Degrade}$ or $\\text{Remove}$ $\\text{Contaminants}$ and $\\text{Pollutants}$ from the environment."
+    },
+    {
+      "id": "BIO_2009_35",
+      "text": "A sudden, involuntary, and protective response to a stimulus that does $\\text{NOT}$ involve the $\\text{Brain}$ is a:",
+      "image": "[Diagram of a Reflex Arc]",
+      "options": [
+        "Learned $\\text{Action}$",
+        "Voluntary $\\text{Action}$",
+        "Reflex $\\text{Action}$",
+        "Conditioned $\\text{Reflex}$"
+      ],
+      "answer": "Reflex $\\text{Action}$",
+      "explanation": "A $\\text{Reflex}$ $\\text{Action}$ is an $\\text{Innate}$ $\\text{Involuntary}$ response mediated by the $\\text{Spinal}$ $\\text{Cord}$ ($\\text{Reflex}$ $\\text{Arc}$) for speed, though the brain is informed later."
+    },
+    {
+      "id": "BIO_2009_36",
+      "text": "The $\\text{Fusion}$ of $\\text{Gametes}$ outside the body of the female is characteristic of $\\text{Animals}$ with:",
+      "image": "[Image illustrating External Fertilization in fish or frogs]",
+      "options": [
+        "Internal $\\text{Fertilization}$",
+        "External $\\text{Fertilization}$",
+        "Asexual $\\text{Reproduction}$",
+        "Viviparity"
+      ],
+      "answer": "External $\\text{Fertilization}$",
+      "explanation": "$\\text{External}$ $\\text{Fertilization}$ is common in aquatic animals (most $\\text{Fish}$ and $\\text{Amphibians}$), where both $\\text{Eggs}$ and $\\text{Sperm}$ are released into the water for $\\text{Fusion}$."
+    },
+    {
+      "id": "BIO_2009_37",
+      "text": "The tissue responsible for the $\\text{Lateral}$ $\\text{Growth}$ (increase in girth) of a plant stem and root is the:",
+      "image": "[Cross-section of a Dicot Stem showing the Vascular Cambium]",
+      "options": [
+        "Apical $\\text{Meristem}$",
+        "Vascular $\\text{Cambium}$",
+        "Epidermis",
+        "Cortex"
+      ],
+      "answer": "Vascular $\\text{Cambium}$",
+      "explanation": "The $\\text{Vascular}$ $\\text{Cambium}$ is a $\\text{Lateral}$ $\\text{Meristem}$ that produces secondary $\\text{Xylem}$ and secondary $\\text{Phloem}$, leading to $\\text{Secondary}$ $\\text{Growth}$ or an increase in the $\\text{Diameter}$ (girth) of the plant."
+    },
+    {
+      "id": "BIO_2009_38",
+      "text": "Which of the following cellular structures is common to $\\text{Both}$ $\\text{Plant}$ $\\text{Cells}$ and $\\text{Animal}$ $\\text{Cells}$?",
+      "image": "[Comparison diagram of Plant and Animal Cells]",
+      "options": [
+        "Chloroplast",
+        "Cell $\\text{Wall}$",
+        "Cell $\\text{Membrane}$",
+        "Large $\\text{Central}$ $\\text{Vacuole}$"
+      ],
+      "answer": "Cell $\\text{Membrane}$",
+      "explanation": "The $\\text{Cell}$ $\\text{Membrane}$ (or $\\text{Plasma}$ $\\text{Membrane}$) is a fundamental component of all $\\text{Cells}$ ($\\text{Prokaryotic}$ and $\\text{Eukaryotic}$), separating the cytoplasm from the external environment. The other options are either specific to plants or much more prominent in plants."
+    },
+    {
+      "id": "BIO_2009_39",
+      "text": "In a food chain, the position occupied by $\\text{Omnivores}$ (organisms that eat both plants and animals) is:",
+      "image": "[Food Pyramid showing multiple trophic levels]",
+      "options": [
+        "Producer",
+        "Primary $\\text{Consumer}$ only",
+        "Secondary $\\text{Consumer}$ only",
+        "Primary and $\\text{Secondary}$ $\\text{Consumers}$"
+      ],
+      "answer": "Primary and $\\text{Secondary}$ $\\text{Consumers}$",
+      "explanation": "$\\text{Omnivores}$ feed on $\\text{Producers}$ (making them $\\text{Primary}$ $\\text{Consumers}$) and also feed on $\\text{Primary}$ $\\text{Consumers}$ (making them $\\text{Secondary}$ $\\text{Consumers}$). They occupy $\\text{Multiple}$ $\\text{Trophic}$ $\\text{Levels}$."
+    },
+    {
+      "id": "BIO_2009_40",
+      "text": "Which part of the $\\text{Human}$ $\\text{Ear}$ is responsible for the sense of $\\text{Balance}$ and $\\text{Equilibrium}$?",
+      "image": "[Diagram of the inner ear showing the Semicircular Canals]",
+      "options": [
+        "Pinna",
+        "Cochlea",
+        "Tympanic $\\text{Membrane}$",
+        "Semicircular $\\text{Canals}$"
+      ],
+      "answer": "Semicircular $\\text{Canals}$",
+      "explanation": "The $\\text{Semicircular}$ $\\text{Canals}$ (and the $\\text{Otolith}$ $\\text{Organs}$ like the $\\text{Utricle}$ and $\\text{Saccule}$) in the $\\text{Inner}$ $\\text{Ear}$ are responsible for maintaining $\\text{Balance}$ and detecting the position and movement of the head."
+    }
+  ]

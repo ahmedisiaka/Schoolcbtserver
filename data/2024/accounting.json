@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC01",
+        "text": "The $\\textbf{Accounting Equation}$ states that $\\textbf{Assets}$ must always equal the sum of $\\textbf{Liabilities}$ and $\\textbf{Owner's Equity}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Expenses",
+            "Owner's Equity",
+            "Dividends"
+        ],
+        "answer": "Owner's Equity",
+        "explanation": "This is the fundamental principle of double-entry accounting: $\\textbf{Assets} = \\textbf{Liabilities} + \\textbf{Equity}$."
+    },
+    {
+        "id": "ACC02",
+        "text": "Under the $\\textbf{Accrual Basis}$ of accounting (standard for $\\textbf{GAAP}$ and $\\textbf{IFRS}$), revenues are recognized when they are $\\textbf{Earned}$, regardless of when cash is received.",
+        "image": "",
+        "options": [
+            "Collected",
+            "Billed",
+            "Earned",
+            "Budgeted"
+        ],
+        "answer": "Earned",
+        "explanation": "The revenue recognition principle dictates that revenue is recognized when the performance obligation is satisfied."
+    },
+    {
+        "id": "ACC03",
+        "text": "The accounting standard for recognizing revenue from contracts with customers, effective in 2024, follows a $\\textbf{Five-Step Model}$ under $\\textbf{ASC 606}$ (and $\\textbf{IFRS 15}$).",
+        "image": "",
+        "options": [
+            "Three-Step Model",
+            "Four-Step Model",
+            "Five-Step Model",
+            "Ten-Step Model"
+        ],
+        "answer": "Five-Step Model",
+        "explanation": "The model requires identifying the contract, identifying performance obligations, determining the transaction price, allocating the price, and recognizing revenue."
+    },
+    {
+        "id": "ACC04",
+        "text": "$\textbf{Depreciation}$ is the systematic allocation of the $\\textbf{Cost}$ of a tangible asset over its useful $\\textbf{Life}$.",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Salvage Value",
+            "Cost",
+            "Replacement Cost"
+        ],
+        "answer": "Cost",
+        "explanation": "Depreciation matches the expense of the asset's cost to the periods in which it generates revenue (the matching principle)."
+    },
+    {
+        "id": "ACC05",
+        "text": "The $\\textbf{Current Ratio}$ is a liquidity metric calculated by dividing $\\textbf{Current Assets}$ by $\\textbf{Current Liabilities}$.",
+        "image": "",
+        "options": [
+            "Current Assets",
+            "Total Assets",
+            "Long-term Assets",
+            "Intangible Assets"
+        ],
+        "answer": "Current Assets",
+        "explanation": "A current ratio measures a company's ability to pay short-term obligations; a ratio above 1:1 is generally desirable."
+    },
+    {
+        "id": "ACC06",
+        "text": "The $\\textbf{Statement of Cash Flows}$ is divided into three main activities: Operating, Investing, and $\\textbf{Financing}$ activities.",
+        "image": "",
+        "options": [
+            "Selling",
+            "Buying",
+            "Financing",
+            "Budgeting"
+        ],
+        "answer": "Financing",
+        "explanation": "Financing activities include transactions involving debt, equity, and dividends."
+    },
+    {
+        "id": "ACC07",
+        "text": "$\textbf{FOB Shipping Point}$ dictates that the buyer records inventory when the goods $\\textbf{Leave the Seller's Dock}$.",
+        "image": "",
+        "options": [
+            "Arrive at the Buyer's Dock",
+            "Leave the Seller's Dock",
+            "Are Paid For",
+            "Are Delivered to the Carrier"
+        ],
+        "answer": "Leave the Seller's Dock",
+        "explanation": "Under FOB Shipping Point, title passes to the buyer at the shipping point, meaning the buyer bears the risk and records the asset immediately."
+    },
+    {
+        "id": "ACC08",
+        "text": "The $\\textbf{LIFO}$ (Last-In, First-Out) inventory costing method is generally $\\textbf{Prohibited}$ under $\\textbf{International Financial Reporting Standards}$ ($\\,\\textbf{IFRS}$).",
+        "image": "",
+        "options": [
+            "Required",
+            "Preferred",
+            "Permitted",
+            "Prohibited"
+        ],
+        "answer": "Prohibited",
+        "explanation": "IFRS (specifically IAS 2) requires the use of FIFO or weighted-average cost, considering LIFO does not accurately reflect economic reality."
+    },
+    {
+        "id": "ACC09",
+        "text": "A $\\textbf{Contingent Liability}$ is disclosed in the footnotes of the financial statements if the probability of payment is reasonably possible but not $\\textbf{Probable}$.",
+        "image": "",
+        "options": [
+            "Remote",
+            "Certain",
+            "Possible",
+            "Probable"
+        ],
+        "answer": "Probable",
+        "explanation": "If the outcome is probable AND the amount can be reasonably estimated, the liability is accrued (recorded in the statements)."
+    },
+    {
+        "id": "ACC10",
+        "text": "$\\textbf{Goodwill}$ is an $\\textbf{Intangible Asset}$ that represents the excess of the purchase price over the $\\textbf{Fair Value}$ of the net identifiable assets acquired.",
+        "image": "",
+        "options": [
+            "Current Asset",
+            "Fixed Asset",
+            "Intangible Asset",
+            "Financial Asset"
+        ],
+        "answer": "Intangible Asset",
+        "explanation": "Goodwill is tested annually for impairment and is not typically amortized under GAAP/IFRS."
+    },
+    {
+        "id": "ACC11",
+        "text": "A $\\textbf{Capital Lease}$ (or Finance Lease under IFRS 16) must be recorded on the $\\textbf{Balance Sheet}$ as both an asset and a $\\textbf{Liability}$.",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "Statement of Equity",
+            "Balance Sheet",
+            "Cash Flow Statement"
+        ],
+        "answer": "Balance Sheet",
+        "explanation": "IFRS 16 and ASC 842 largely eliminated 'operating leases' for lessees, requiring almost all leases to be capitalized on the balance sheet."
+    },
+    {
+        "id": "ACC12",
+        "text": "The $\\textbf{Discount Rate}$ used to calculate the present value of future $\\textbf{Cash Flows}$ from a bond is the $\\textbf{Market Interest Rate}$ at the time of issuance.",
+        "image": "",
+        "options": [
+            "Coupon Rate",
+            "Stated Rate",
+            "Tax Rate",
+            "Market Interest Rate"
+        ],
+        "answer": "Market Interest Rate",
+        "explanation": "The market rate (effective interest rate) is used to determine the bond's issue price and subsequent interest expense."
+    },
+    {
+        "id": "ACC13",
+        "text": "The $\\textbf{Lower of Cost or Net Realizable Value}$ (LCNRV) rule applies to the valuation of $\\textbf{Inventory}$ under $\\textbf{IFRS}$ and $\\textbf{GAAP}$.",
+        "image": "",
+        "options": [
+            "Fixed Assets",
+            "Inventory",
+            "Accounts Receivable",
+            "Goodwill"
+        ],
+        "answer": "Inventory",
+        "explanation": "This conservatism principle ensures that assets are not overstated; if the value of inventory declines below cost, it must be written down."
+    },
+    {
+        "id": "ACC14",
+        "text": "$\textbf{Earnings Per Share}$ ($\\,\\textbf{EPS}$) is calculated by dividing $\\textbf{Net Income}$ available to common shareholders by the $\\textbf{Weighted Average}$ number of common shares outstanding.",
+        "image": "",
+        "options": [
+            "Total Revenue",
+            "Gross Profit",
+            "Net Income",
+            "EBIT"
+        ],
+        "answer": "Net Income",
+        "explanation": "EPS is a critical measure of a company's profitability reported on the Income Statement."
+    },
+    {
+        "id": "ACC15",
+        "text": "The $\\textbf{Cash Basis}$ of accounting recognizes revenue when $\\textbf{Cash is Received}$ and expenses when $\\textbf{Cash is Paid}$.",
+        "image": "",
+        "options": [
+            "Billed",
+            "Incurred",
+            "Cash is Received",
+            "Earned"
+        ],
+        "answer": "Cash is Received",
+        "explanation": "This method is simpler but violates GAAP/IFRS because it does not follow the matching or revenue recognition principles."
+    },
+    {
+        "id": "ACC16",
+        "text": "In $\\textbf{Managerial Accounting}$, a $\\textbf{Sunk Cost}$ is a cost that has $\\textbf{Already Been Incurred}$ and cannot be $\\textbf{Recovered}$.",
+        "image": "",
+        "options": [
+            "Fixed Cost",
+            "Variable Cost",
+            "Opportunity Cost",
+            "Sunk Cost"
+        ],
+        "answer": "Sunk Cost",
+        "explanation": "Sunk costs are irrelevant to future decisions because they cannot be changed by any future course of action."
+    },
+    {
+        "id": "ACC17",
+        "text": "A $\\textbf{Budgetary Variance}$ is the difference between the $\\textbf{Actual Result}$ and the $\\textbf{Budgeted Amount}$.",
+        "image": "",
+        "options": [
+            "Standard Cost",
+            "Actual Result",
+            "Estimated Cost",
+            "Historical Cost"
+        ],
+        "answer": "Actual Result",
+        "explanation": "Variances help management pinpoint areas where actual performance deviates from plan, enabling corrective action."
+    },
+    {
+        "id": "ACC18",
+        "text": "The $\\textbf{Contribution Margin}$ is calculated as $\\textbf{Sales Revenue}$ minus $\\textbf{Variable Costs}$.",
+        "image": "",
+        "options": [
+            "Fixed Costs",
+            "Operating Expenses",
+            "Variable Costs",
+            "Total Costs"
+        ],
+        "answer": "Variable Costs",
+        "explanation": "Contribution Margin represents the amount of revenue remaining after covering variable costs, available to cover fixed costs and contribute to profit."
+    },
+    {
+        "id": "ACC19",
+        "text": "The $\\textbf{Break-Even Point}$ in units is found by dividing total $\\textbf{Fixed Costs}$ by the $\\textbf{Unit Contribution Margin}$.",
+        "image": "",
+        "options": [
+            "Sales Revenue",
+            "Variable Costs",
+            "Fixed Costs",
+            "Net Income"
+        ],
+        "answer": "Fixed Costs",
+        "explanation": "At the break-even point, total revenue equals total costs, resulting in zero profit."
+    },
+    {
+        "id": "ACC20",
+        "text": "$\textbf{Activity-Based Costing}$ ($\\,\\textbf{ABC}$) allocates manufacturing $\\textbf{Overhead}$ costs to products based on the $\\textbf{Activities}$ that cause the costs.",
+        "image": "",
+        "options": [
+            "Direct Labor Hours",
+            "Machine Hours",
+            "Activities",
+            "Units Produced"
+        ],
+        "answer": "Activities",
+        "explanation": "ABC provides a more accurate cost allocation than traditional methods by using multiple cost pools and cost drivers."
+    },
+    {
+        "id": "ACC21",
+        "text": "The primary objective of $\\textbf{Financial Accounting}$ is to provide financial information to $\\textbf{External Stakeholders}$ (investors, creditors, regulators).",
+        "image": "",
+        "options": [
+            "Internal Management",
+            "Production Managers",
+            "External Stakeholders",
+            "Sales Teams"
+        ],
+        "answer": "External Stakeholders",
+        "explanation": "Financial reports must adhere to GAAP/IFRS and are primarily focused on historical, verifiable information."
+    },
+    {
+        "id": "ACC22",
+        "text": "In $\\textbf{Capital Budgeting}$, the technique that considers the $\\textbf{Time Value of Money}$ is $\\textbf{Net Present Value}$ ($\\,\\textbf{NPV}$).",
+        "image": "",
+        "options": [
+            "Payback Period",
+            "Accounting Rate of Return",
+            "Net Present Value",
+            "Average Rate of Return"
+        ],
+        "answer": "Net Present Value",
+        "explanation": "NPV discounts future cash flows back to their present value, providing a theoretically superior decision metric."
+    },
+    {
+        "id": "ACC23",
+        "text": "A $\\textbf{Flexible Budget}$ adjusts budgeted revenues and expenses to the $\\textbf{Actual Output Level}$ achieved by the company.",
+        "image": "",
+        "options": [
+            "Expected Output Level",
+            "Maximum Capacity",
+            "Actual Output Level",
+            "Prior Year's Output"
+        ],
+        "answer": "Actual Output Level",
+        "explanation": "Flexible budgets help evaluate efficiency by comparing actual costs to what costs $\\textit{should}$ have been for the actual volume of activity."
+    },
+    {
+        "id": "ACC24",
+        "text": "The $\\textbf{Weighted Average Cost of Capital}$ ($\\,\\textbf{WACC}$) is used in $\\textbf{Capital Budgeting}$ as the minimum $\\textbf{Required Rate of Return}$ for a project.",
+        "image": "",
+        "options": [
+            "Internal Rate of Return",
+            "Required Rate of Return",
+            "Risk-Free Rate",
+            "Inflation Rate"
+        ],
+        "answer": "Required Rate of Return",
+        "explanation": "WACC represents the average cost a company pays to finance its assets, considering debt and equity."
+    },
+    {
+        "id": "ACC25",
+        "text": "In $\\textbf{Cost Accounting}$, a $\\textbf{Direct Cost}$ is any cost that can be $\\textbf{Traced}$ easily and economically to a specific $\\textbf{Cost Object}$.",
+        "image": "",
+        "options": [
+            "Labor",
+            "Manufacturing Overhead",
+            "Indirect Material",
+            "Period Cost"
+        ],
+        "answer": "Labor",
+        "explanation": "Examples include direct materials and direct labor. Manufacturing overhead is typically an indirect cost."
+    },
+    {
+        "id": "ACC26",
+        "text": "$\\textbf{ESG Reporting}$ (Environmental, Social, and Governance), a major 2024 focus, primarily aims to inform $\\textbf{Stakeholders}$ about a company's $\\textbf{Sustainability}$ risks and performance.",
+        "image": "",
+        "options": [
+            "Tax Compliance",
+            "Internal Audits",
+            "Sustainability",
+            "Fixed Asset Turnover"
+        ],
+        "answer": "Sustainability",
+        "explanation": "ESG reporting goes beyond traditional financial data to evaluate a company's non-financial, long-term value creation."
+    },
+    {
+        "id": "ACC27",
+        "text": "The $\\textbf{IFRS Foundation}$ established the $\\textbf{International Sustainability Standards Board}$ ($\\,\\textbf{ISSB}$) to create a global baseline for $\\textbf{ESG}$ disclosure.",
+        "image": "",
+        "options": [
+            "FASB",
+            "PCAOB",
+            "ISSB",
+            "SEC"
+        ],
+        "answer": "ISSB",
+        "explanation": "The ISSB published its first two standards, IFRS S1 and IFRS S2, in 2023, setting a foundation for global sustainability reporting in 2024."
+    },
+    {
+        "id": "ACC28",
+        "text": "Under $\\textbf{US GAAP}$ (2024 guidance), most $\\textbf{Digital Assets}$ (cryptocurrencies) are typically classified and accounted for as $\\textbf{Intangible Assets}$ subject to $\\textbf{Impairment}$.",
+        "image": "",
+        "options": [
+            "Cash Equivalents",
+            "Fixed Assets",
+            "Intangible Assets",
+            "Inventory"
+        ],
+        "answer": "Intangible Assets",
+        "explanation": "Due to their lack of physical form and indefinite useful life, they are carried at cost and must be written down if their fair value falls below cost (impairment)."
+    },
+    {
+        "id": "ACC29",
+        "text": "A key challenge for auditors examining blockchain-based $\\textbf{Transactions}$ (a 2024 issue) is verifying the $\\textbf{Ownership}$ and control of the private $\\textbf{Keys}$ associated with the digital assets.",
+        "image": "",
+        "options": [
+            "Transaction Speed",
+            "Network Stability",
+            "Ownership",
+            "Mining Difficulty"
+        ],
+        "answer": "Ownership",
+        "explanation": "Control over the private key is equivalent to ownership of the cryptocurrency, which auditors must confirm to verify the asset's existence."
+    },
+    {
+        "id": "ACC30",
+        "text": "The $\\textbf{SEC}$ (Securities and Exchange Commission) in the US proposed rules in 2024 requiring companies to disclose climate-related $\\textbf{Risks}$ and $\\textbf{Emissions}$ ($\\,\\textbf{Scope 1, 2, and 3}$).",
+        "image": "",
+        "options": [
+            "Labor Practices",
+            "Cybersecurity Breaches",
+            "Emissions",
+            "Productivity Metrics"
+        ],
+        "answer": "Emissions",
+        "explanation": "This mandate forces financial accountants to integrate non-financial environmental data into their reporting mechanisms."
+    },
+    {
+        "id": "ACC31",
+        "text": "The $\\textbf{Double-Entry}$ accounting system ensures that for every $\\textbf{Debit}$ entry made, an equal and opposite $\\textbf{Credit}$ entry is made.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Debit",
+            "Expense",
+            "Asset"
+        ],
+        "answer": "Debit",
+        "explanation": "This maintains the integrity of the accounting equation ($A = L + E$) and is the backbone of modern bookkeeping."
+    },
+    {
+        "id": "ACC32",
+        "text": "The $\\textbf{Sarbanes-Oxley Act}$ ($\\,\\textbf{SOX}$), especially $\\textbf{Section 404}$, mandates that management must assess and report on the effectiveness of $\\textbf{Internal Controls}$ over financial reporting.",
+        "image": "",
+        "options": [
+            "Cost Efficiency",
+            "Marketing Strategy",
+            "Internal Controls",
+            "Product Development"
+        ],
+        "answer": "Internal Controls",
+        "explanation": "SOX 404 requires documentation and annual testing of internal controls, primarily overseen by accounting and auditing functions."
+    },
+    {
+        "id": "ACC33",
+        "text": "The $\\textbf{Net Income}$ reported on the $\\textbf{Income Statement}$ is carried forward to the $\\textbf{Statement of Retained Earnings}$.",
+        "image": "",
+        "options": [
+            "Balance Sheet",
+            "Statement of Retained Earnings",
+            "Cash Flow Statement",
+            "Statement of Comprehensive Income"
+        ],
+        "answer": "Statement of Retained Earnings",
+        "explanation": "Net income increases retained earnings, while dividends decrease it."
+    },
+    {
+        "id": "ACC34",
+        "text": "A common $\\textbf{Revenue Fraud}$ scheme that auditors look for is the premature recognition of revenue, known as $\\textbf{Channel Stuffing}$.",
+        "image": "",
+        "options": [
+            "Lapping",
+            "Kiting",
+            "Channel Stuffing",
+            "Impairment"
+        ],
+        "answer": "Channel Stuffing",
+        "explanation": "This involves inducing customers to buy products they don't need, artificially boosting sales at the end of a reporting period."
+    },
+    {
+        "id": "ACC35",
+        "text": "In $\\textbf{Auditing}$, $\\textbf{Materiality}$ refers to the magnitude of an omission or misstatement that would likely influence the decisions of a $\\textbf{Reasonable User}$ of financial statements.",
+        "image": "",
+        "options": [
+            "Auditor",
+            "Regulator",
+            "Internal Manager",
+            "Reasonable User"
+        ],
+        "answer": "Reasonable User",
+        "explanation": "Materiality is a threshold set by the auditor to determine which misstatements are significant enough to warrant correction."
+    },
+    {
+        "id": "ACC36",
+        "text": "The $\\textbf{Internal Rate of Return}$ ($\\,\\textbf{IRR}$) is the discount rate that makes the $\\textbf{Net Present Value}$ ($\\,\\textbf{NPV}$) of all cash flows from a particular project equal to $\\textbf{Zero}$.",
+        "image": "",
+        "options": [
+            "One",
+            "Zero",
+            "The Risk-Free Rate",
+            "The Cost of Debt"
+        ],
+        "answer": "Zero",
+        "explanation": "If the IRR is greater than the company's required rate of return (WACC), the project is typically accepted."
+    },
+    {
+        "id": "ACC37",
+        "text": "The $\\textbf{FIFO}$ (First-In, First-Out) inventory costing method assumes that the $\\textbf{Oldest}$ inventory items are sold $\\textbf{First}$.",
+        "image": "",
+        "options": [
+            "Newest",
+            "Most Expensive",
+            "Oldest",
+            "Lowest Quality"
+        ],
+        "answer": "Oldest",
+        "explanation": "Under FIFO, the ending inventory closely reflects current market prices, making it preferred under IFRS."
+    },
+    {
+        "id": "ACC38",
+        "text": "A $\\textbf{Zero-Based Budgeting}$ approach (relevant for 2024 strategic planning) requires that all expenses must be $\\textbf{Justified}$ for each new $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Historical Cost",
+            "Last Year's Budget",
+            "Justified",
+            "Fixed Amount"
+        ],
+        "answer": "Justified",
+        "explanation": "Instead of starting from the previous budget, ZBB forces managers to analyze and justify every line item from scratch."
+    },
+    {
+        "id": "ACC39",
+        "text": "The $\\textbf{Return on Equity}$ ($\\,\\textbf{ROE}$) financial ratio is calculated by dividing $\\textbf{Net Income}$ by $\\textbf{Average Shareholder's Equity}$.",
+        "image": "",
+        "options": [
+            "Total Assets",
+            "Total Liabilities",
+            "Average Shareholder's Equity",
+            "Total Revenue"
+        ],
+        "answer": "Average Shareholder's Equity",
+        "explanation": "ROE measures how much profit a company generates for each dollar invested by shareholders."
+    },
+    {
+        "id": "ACC40",
+        "text": "The $\\textbf{Going Concern}$ assumption in accounting posits that a business entity will continue to operate for the $\\textbf{Foreseeable Future}$.",
+        "image": "",
+        "options": [
+            "Next Fiscal Year Only",
+            "Foreseeable Future",
+            "Until Liquidation",
+            "For Five Years"
+        ],
+        "answer": "Foreseeable Future",
+        "explanation": "This assumption justifies the use of historical cost over liquidation value for asset reporting."
+    }
+]

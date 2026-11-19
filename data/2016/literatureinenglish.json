@@ -1,0 +1,522 @@
+[
+    {
+        "id": "L901",
+        "text": "In Alex Agyei-Agyiri's $\\textbf{Unexpected Joy at Dawn}$, the character $\\textbf{Mama Orojo}$ travels to Ghana primarily to search for her $\\textbf{Brother}$, whom she lost contact with years ago.",
+        "image": "",
+        "options": [
+            "Father",
+            "Husband",
+            "Brother",
+            "Son"
+        ],
+        "answer": "Brother",
+        "explanation": "Her quest to find Nii Tackie is the driving force of her journey."
+    },
+    {
+        "id": "L902",
+        "text": "The literary device used in the expression 'The $\\textbf{kettle}$ is boiling' is $\\textbf{Metonymy}$, where the container represents the $\\textbf{Contained}$ (the water).",
+        "image": "",
+        "options": [
+            "Synecdoche",
+            "Metonymy",
+            "Irony",
+            "Personification"
+        ],
+        "answer": "Metonymy",
+        "explanation": "Metonymy substitutes the name of an object with something closely associated with it."
+    },
+    {
+        "id": "L903",
+        "text": "In Buchi Emecheta's $\\textbf{Second Class Citizen}$, Adah is punished as a child for going to $\\textbf{School}$ because her family believes education is only for $\\textbf{Boys}$.",
+        "image": "",
+        "options": [
+            "Church",
+            "Market",
+            "School",
+            "Party"
+        ],
+        "answer": "School",
+        "explanation": "She sneaks into the Methodist School, leading to her mother being punished for it."
+    },
+    {
+        "id": "L904",
+        "text": "The poem '$\\textbf{The Leader and the Led}$' warns against leadership based on $\\textbf{Fear}$ and intimidation, symbolized by the $\\textbf{Lion}$'s pounce.",
+        "image": "",
+        "options": [
+            "Wisdom",
+            "Fear",
+            "Love",
+            "Wealth"
+        ],
+        "answer": "Fear",
+        "explanation": "The poem argues for a leader who is a hybrid of strength and compassion (a mixture of Lion and Lamb)."
+    },
+    {
+        "id": "L905",
+        "text": "In August Wilson's $\\textbf{Fences}$, Troy Maxson's relationship with his son $\\textbf{Cory}$ deteriorates because Troy refuses to sign the permission slip for $\\textbf{Football}$.",
+        "image": "",
+        "options": [
+            "Baseball",
+            "Basketball",
+            "Football",
+            "Soccer"
+        ],
+        "answer": "Football",
+        "explanation": "Troy sees sports as a dead end for black men, blocking Cory's potential college scholarship."
+    },
+    {
+        "id": "L906",
+        "text": "A poem consisting of $\\textbf{Three}$ quatrains and a final $\\textbf{Couplet}$ is a $\\textbf{Shakespearean Sonnet}$.",
+        "image": "",
+        "options": [
+            "Petrarchan Sonnet",
+            "Shakespearean Sonnet",
+            "Villanelle",
+            "Sestina"
+        ],
+        "answer": "Shakespearean Sonnet",
+        "explanation": "Its rhyme scheme is usually abab cdcd efef gg."
+    },
+    {
+        "id": "L907",
+        "text": "In John Osborne's $\\textbf{Look Back in Anger}$, Jimmy Porter's anger is fueled by his sense of being an $\\textbf{Outsider}$ in the British $\\textbf{Class System}$.",
+        "image": "",
+        "options": [
+            "Insider",
+            "Outsider",
+            "Leader",
+            "Soldier"
+        ],
+        "answer": "Outsider",
+        "explanation": "His working-class background clashes with his wife's upper-middle-class origins."
+    },
+    {
+        "id": "L908",
+        "text": "In Wole Soyinka's $\\textbf{The Lion and the Jewel}$, the '$\\textbf{Lion}$' represents $\\textbf{Baroka}$ and traditional $\\textbf{Power}$.",
+        "image": "",
+        "options": [
+            "Lakunle",
+            "Baroka",
+            "Sidi",
+            "Sadiku"
+        ],
+        "answer": "Baroka",
+        "explanation": "He is the Bale of Ilujinle, strong and cunning like a lion."
+    },
+    {
+        "id": "L909",
+        "text": "The introduction of the characters, setting, and basic situation at the beginning of a story is the $\\textbf{Exposition}$.",
+        "image": "",
+        "options": [
+            "Climax",
+            "Resolution",
+            "Exposition",
+            "Falling Action"
+        ],
+        "answer": "Exposition",
+        "explanation": "It sets the stage for the conflict."
+    },
+    {
+        "id": "L910",
+        "text": "In $\\textbf{Invisible Man}$, the narrator's grandfather advises him to '$\\textbf{Agree}$' with the white man to death, a tactic the narrator finds confusing.",
+        "image": "",
+        "options": [
+            "Fight",
+            "Agree",
+            "Ignore",
+            "Cheat"
+        ],
+        "answer": "Agree",
+        "explanation": "The strategy is to be so submissive ('yes' them to death) that it undermines their authority."
+    },
+    {
+        "id": "L911",
+        "text": "The poem '$\\textbf{The Panic of Growing Older}$' uses the image of a $\\textbf{Copybook}$ with 'yearly filled' pages to represent the passage of $\\textbf{Time}$.",
+        "image": "",
+        "options": [
+            "Calendar",
+            "Clock",
+            "Copybook",
+            "River"
+        ],
+        "answer": "Copybook",
+        "explanation": "Life is compared to a book where hopes are written but the reality of aging fills the pages."
+    },
+    {
+        "id": "L912",
+        "text": "In $\\textbf{Wuthering Heights}$, Heathcliff seeks revenge on $\\textbf{Hindley}$ for mistreating him as a child by taking control of the $\\textbf{Earnshaw}$ estate.",
+        "image": "",
+        "options": [
+            "Edgar",
+            "Hindley",
+            "Joseph",
+            "Lockwood"
+        ],
+        "answer": "Hindley",
+        "explanation": "He gambles with Hindley to win ownership of Wuthering Heights."
+    },
+    {
+        "id": "L913",
+        "text": "The use of words that are opposite to what is meant, often for humorous or sarcastic effect, is $\\textbf{Verbal Irony}$.",
+        "image": "",
+        "options": [
+            "Dramatic Irony",
+            "Verbal Irony",
+            "Situational Irony",
+            "Cosmic Irony"
+        ],
+        "answer": "Verbal Irony",
+        "explanation": "Example: Saying 'What lovely weather' during a storm."
+    },
+    {
+        "id": "L914",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah moves to the $\\textbf{UK}$ to join her husband Francis, hoping for a better life and $\\textbf{Education}$.",
+        "image": "",
+        "options": [
+            "USA",
+            "Canada",
+            "UK",
+            "Germany"
+        ],
+        "answer": "UK",
+        "explanation": "The 'United Kingdom' was seen as the land of opportunity for Nigerians in the post-colonial era."
+    },
+    {
+        "id": "L915",
+        "text": "A comparison without using 'like' or 'as' is a $\\textbf{Metaphor}$.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Metaphor",
+            "Symbol",
+            "Alliteration"
+        ],
+        "answer": "Metaphor",
+        "explanation": "It states that one thing is another (e.g., 'The world is a stage')."
+    },
+    {
+        "id": "L916",
+        "text": "In $\\textbf{Fences}$, the character $\\textbf{Gabriel}$ was institutionalized because Troy signed the papers, feeling he could no longer $\\textbf{Care}$ for him.",
+        "image": "",
+        "options": [
+            "Hated him",
+            "Wanted his money",
+            "Care",
+            "Feared him"
+        ],
+        "answer": "Care",
+        "explanation": "This decision haunts Troy, as it also means the government takes half of Gabe's check."
+    },
+    {
+        "id": "L917",
+        "text": "A long speech by one character in a play is a $\\textbf{Monologue}$.",
+        "image": "",
+        "options": [
+            "Soliloquy",
+            "Aside",
+            "Monologue",
+            "Dialogue"
+        ],
+        "answer": "Monologue",
+        "explanation": "Unlike a soliloquy, a monologue is addressed to other characters."
+    },
+    {
+        "id": "L918",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, the '$\\textbf{Visa}$' serves as a symbol of freedom and the ability to cross $\\textbf{Borders}$ legally.",
+        "image": "",
+        "options": [
+            "Money",
+            "Visa",
+            "Gun",
+            "Map"
+        ],
+        "answer": "Visa",
+        "explanation": "The struggle to obtain travel documents highlights the artificial barriers between African nations."
+    },
+    {
+        "id": "L919",
+        "text": "The $\\textbf{Resolution}$ is the part of the plot where the conflict is resolved and the story concludes.",
+        "image": "",
+        "options": [
+            "Climax",
+            "Exposition",
+            "Resolution",
+            "Rising Action"
+        ],
+        "answer": "Resolution",
+        "explanation": "Also called the denouement."
+    },
+    {
+        "id": "L920",
+        "text": "The poem '$\\textbf{A Government Driver on his Retirement}$' celebrates the driver's years of $\\textbf{Faithful Service}$ to his country before his tragic end.",
+        "image": "",
+        "options": [
+            "Rebellion",
+            "Faithful Service",
+            "Corruption",
+            "Laziness"
+        ],
+        "answer": "Faithful Service",
+        "explanation": "He is depicted as a dedicated servant who finally gets his freedom."
+    },
+    {
+        "id": "L921",
+        "text": "In $\\textbf{Look Back in Anger}$, Jimmy operates a $\\textbf{Sweet Stall}$ in the market, despite his university education.",
+        "image": "",
+        "options": [
+            "Pub",
+            "Sweet Stall",
+            "Bookshop",
+            "Garage"
+        ],
+        "answer": "Sweet Stall",
+        "explanation": "This underemployment is a source of his frustration with society."
+    },
+    {
+        "id": "L922",
+        "text": "The use of an object or action to mean something more than its literal meaning is $\\textbf{Symbolism}$.",
+        "image": "",
+        "options": [
+            "Imagery",
+            "Symbolism",
+            "Irony",
+            "Metaphor"
+        ],
+        "answer": "Symbolism",
+        "explanation": "Example: A chain representing bondage."
+    },
+    {
+        "id": "L923",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah realizes she is a 'second class citizen' not just because of her race, but because of her $\\textbf{Gender}$.",
+        "image": "",
+        "options": [
+            "Height",
+            "Gender",
+            "Age",
+            "Religion"
+        ],
+        "answer": "Gender",
+        "explanation": "She faces discrimination from British society for being black and from her husband for being a woman."
+    },
+    {
+        "id": "L924",
+        "text": "The repetition of vowel sounds within words is $\\textbf{Assonance}$.",
+        "image": "",
+        "options": [
+            "Consonance",
+            "Assonance",
+            "Alliteration",
+            "Rhyme"
+        ],
+        "answer": "Assonance",
+        "explanation": "Example: 'The rain in Spain'."
+    },
+    {
+        "id": "L925",
+        "text": "In $\\textbf{Invisible Man}$, the narrator meets $\\textbf{Tod Clifton}$, a charismatic youth leader in the Brotherhood who eventually leaves the organization.",
+        "image": "",
+        "options": [
+            "Ras the Exhorter",
+            "Tod Clifton",
+            "Brother Jack",
+            "Mr. Norton"
+        ],
+        "answer": "Tod Clifton",
+        "explanation": "Clifton's fall from grace and death by police are pivotal moments for the narrator."
+    },
+    {
+        "id": "L926",
+        "text": "A statement that appears to be self-contradictory but may include a latent truth is a $\\textbf{Paradox}$.",
+        "image": "",
+        "options": [
+            "Hyperbole",
+            "Paradox",
+            "Simile",
+            "Oxymoron"
+        ],
+        "answer": "Paradox",
+        "explanation": "Example: 'I can resist anything except temptation'."
+    },
+    {
+        "id": "L927",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, Nii Tackie is identified by his $\\textbf{Tribal Marks}$, which mark him as an 'alien' in Ghana.",
+        "image": "",
+        "options": [
+            "Clothes",
+            "Tribal Marks",
+            "Hair",
+            "Shoes"
+        ],
+        "answer": "Tribal Marks",
+        "explanation": "These marks are a physical manifestation of his heritage that he cannot hide."
+    },
+    {
+        "id": "L928",
+        "text": "Unrhymed poetry written in iambic pentameter is called $\\textbf{Blank Verse}$.",
+        "image": "",
+        "options": [
+            "Free Verse",
+            "Blank Verse",
+            "Haiku",
+            "Limerick"
+        ],
+        "answer": "Blank Verse",
+        "explanation": "Commonly used by Shakespeare and Milton."
+    },
+    {
+        "id": "L929",
+        "text": "In $\\textbf{The Lion and the Jewel}$, Baroka stops the $\\textbf{Railroad}$ from being built through the village to preserve his $\\textbf{Tradition}$ and power.",
+        "image": "",
+        "options": [
+            "School",
+            "Railroad",
+            "Church",
+            "Hospital"
+        ],
+        "answer": "Railroad",
+        "explanation": "He bribed the surveyor, showing his resistance to modernization that threatens his control."
+    },
+    {
+        "id": "L930",
+        "text": "The feeling created in the reader by a literary work is the $\\textbf{Mood}$.",
+        "image": "",
+        "options": [
+            "Tone",
+            "Mood",
+            "Theme",
+            "Setting"
+        ],
+        "answer": "Mood",
+        "explanation": "Tone is the author's attitude; mood is the reader's emotional response."
+    },
+    {
+        "id": "L931",
+        "text": "In $\\textbf{Wuthering Heights}$, the narrator $\\textbf{Lockwood}$ rents Thrushcross Grange to escape $\\textbf{Society}$.",
+        "image": "",
+        "options": [
+            "Work",
+            "Family",
+            "Society",
+            "War"
+        ],
+        "answer": "Society",
+        "explanation": "He seeks solitude but finds himself embroiled in the drama of the Heights."
+    },
+    {
+        "id": "L932",
+        "text": "The attribution of human characteristics to non-human things is $\\textbf{Personification}$.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Personification",
+            "Metaphor",
+            "Hyperbole"
+        ],
+        "answer": "Personification",
+        "explanation": "Example: 'The wind whispered'."
+    },
+    {
+        "id": "L933",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah's first child is named $\\textbf{Vicky}$, and he nearly dies of $\\textbf{Meningitis}$ due to their poor housing.",
+        "image": "",
+        "options": [
+            "Titi",
+            "Vicky",
+            "Bubu",
+            "Dada"
+        ],
+        "answer": "Vicky",
+        "explanation": "The illness highlights the struggles of immigrants in substandard living conditions."
+    },
+    {
+        "id": "L934",
+        "text": "Dramatic irony occurs when the $\\textbf{Audience}$ knows something that the $\\textbf{Characters}$ do not.",
+        "image": "",
+        "options": [
+            "Reader",
+            "Audience",
+            "Author",
+            "Narrator"
+        ],
+        "answer": "Audience",
+        "explanation": "It creates suspense and tension."
+    },
+    {
+        "id": "L935",
+        "text": "In $\\textbf{Look Back in Anger}$, Alison's father, $\\textbf{Colonel Redfern}$, represents the $\\textbf{Edwardian}$ era that has passed away.",
+        "image": "",
+        "options": [
+            "Victorian",
+            "Edwardian",
+            "Modern",
+            "Future"
+        ],
+        "answer": "Edwardian",
+        "explanation": "He is a symbol of the old empire that Jimmy mocks."
+    },
+    {
+        "id": "L936",
+        "text": "A brief reference to a person, place, or event from history or literature is an $\\textbf{Allusion}$.",
+        "image": "",
+        "options": [
+            "Illusion",
+            "Allusion",
+            "Allegory",
+            "Metaphor"
+        ],
+        "answer": "Allusion",
+        "explanation": "It adds depth by connecting the text to a wider context."
+    },
+    {
+        "id": "L937",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, $\\textbf{Mama Orojo}$ is a successful business woman who deals in $\\textbf{Gold}$ and jewelry.",
+        "image": "",
+        "options": [
+            "Textiles",
+            "Gold",
+            "Food",
+            "Cars"
+        ],
+        "answer": "Gold",
+        "explanation": "Her wealth contrasts with Nii's poverty."
+    },
+    {
+        "id": "L938",
+        "text": "The poem '$\\textbf{The Song of the Women of my Land}$' reflects on how the $\\textbf{Songs}$ of the past preserved the $\\textbf{History}$ of the people.",
+        "image": "",
+        "options": [
+            "Dances",
+            "Songs",
+            "Books",
+            "Paintings"
+        ],
+        "answer": "Songs",
+        "explanation": "Oral tradition was the primary method of recording history."
+    },
+    {
+        "id": "L939",
+        "text": "In $\\textbf{Fences}$, the fence symbolizes both $\\textbf{Protection}$ (keeping family in) and $\\textbf{Exclusion}$ (keeping the world out).",
+        "image": "",
+        "options": [
+            "Wealth",
+            "Protection",
+            "Beauty",
+            "Nature"
+        ],
+        "answer": "Protection",
+        "explanation": "Different characters view the fence differently."
+    },
+    {
+        "id": "L940",
+        "text": "A literary work that ridicules human vices or follies is a $\\textbf{Satire}$.",
+        "image": "",
+        "options": [
+            "Comedy",
+            "Satire",
+            "Tragedy",
+            "Romance"
+        ],
+        "answer": "Satire",
+        "explanation": "Satire aims to inspire change through humor and criticism."
+    }
+]

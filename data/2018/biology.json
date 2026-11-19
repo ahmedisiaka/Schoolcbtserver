@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2018_01",
+      "text": "Which of the following is $\\text{NOT}$ a $\\text{Characteristics}$ of $\\text{Living}$ $\\text{Organisms}$?",
+      "image": "",
+      "options": [
+        "Movement",
+        "Reproduction",
+        "Locomotion",
+        "Excretion"
+      ],
+      "answer": "Locomotion",
+      "explanation": "$\\text{Locomotion}$ is the $\\text{Movement}$ of an $\\text{Organism}$ from $\\text{One}$ $\\text{Place}$ to $\\text{Another}$. While all living organisms exhibit $\\text{Movement}$ (internal or external), not all undergo $\\text{Locomotion}$ (e.g., $\\text{Sessile}$ $\\text{Plants}$). All living things exhibit $\\text{Respiration}$, $\\text{Growth}$, $\\text{Excretion}$, $\\text{Irritability}$, $\\text{Nutrition}$, and $\\text{Reproduction}$."
+    },
+    {
+      "id": "BIO_2018_02",
+      "text": "The $\\text{Cell}$ $\\text{Wall}$ in $\\text{Plants}$ is $\\text{Mainly}$ $\\text{Composed}$ of:",
+      "image": "[Diagram of a plant cell highlighting the cell wall]",
+      "options": [
+        "Lipids",
+        "Chitin",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "answer": "Cellulose",
+      "explanation": "The $\\text{Plant}$ $\\text{Cell}$ $\\text{Wall}$ is a $\\text{Rigid}$ $\\text{Layer}$ $\\text{Lying}$ $\\text{Outside}$ the $\\text{Cell}$ $\\text{Membrane}$ and is $\\text{Primarily}$ $\\text{Made}$ of $\\text{Cellulose}$, a $\\text{Polysaccharide}$."
+    },
+    {
+      "id": "BIO_2018_03",
+      "text": "Which part of the $\\text{Tooth}$ contains $\\text{Nerves}$ and $\\text{Blood}$ $\\text{Vessels}$?",
+      "image": "[Cross-section of a mammalian tooth]",
+      "options": [
+        "Enamel",
+        "Dentine",
+        "Pulp $\\text{Cavity}$",
+        "Cement"
+      ],
+      "answer": "Pulp $\\text{Cavity}$",
+      "explanation": "The $\\text{Pulp}$ $\\text{Cavity}$ is the $\\text{Central}$ $\\text{Part}$ of the $\\text{Tooth}$ that is $\\text{Filled}$ with $\\text{Connective}$ $\\text{Tissue}$, $\\text{Blood}$ $\\text{Vessels}$, and $\\text{Nerves}$, which $\\text{Maintain}$ the $\\text{Vitality}$ of the $\\text{Tooth}$."
+    },
+    {
+      "id": "BIO_2018_04",
+      "text": "The $\\text{Enzyme}$ $\\text{Ptyalin}$ is $\\text{Responsible}$ for the $\\text{Digestion}$ of:",
+      "image": "",
+      "options": [
+        "Fats",
+        "Proteins",
+        "Starch",
+        "Sucrose"
+      ],
+      "answer": "Starch",
+      "explanation": "$\\text{Ptyalin}$, also known as $\\text{Salivary}$ $\\text{Amylase}$, is an $\\text{Enzyme}$ found in $\\text{Saliva}$ that $\\text{Begins}$ the $\\text{Hydrolysis}$ of $\\text{Starch}$ (a $\\text{Carbohydrate}$) into simpler sugars."
+    },
+    {
+      "id": "BIO_2018_05",
+      "text": "The $\\text{Process}$ of $\\text{Conversion}$ of $\\text{Glucose}$ to $\\text{Glycogen}$ in the $\\text{Liver}$ is called:",
+      "image": "",
+      "options": [
+        "Glycolysis",
+        "Glycogenesis",
+        "Glycogenolysis",
+        "Gluconeogenesis"
+      ],
+      "answer": "Glycogenesis",
+      "explanation": "$\\text{Glycogenesis}$ is the $\\text{Metabolic}$ $\\text{Pathway}$ that $\\text{Results}$ in the $\\text{Formation}$ of $\\text{Glycogen}$ from $\\text{Glucose}$, primarily in the $\\text{Liver}$ and $\\text{Muscle}$ $\\text{Tissues}$."
+    },
+    {
+      "id": "BIO_2018_06",
+      "text": "In $\\text{Plants}$, $\\text{Water}$ is $\\text{Transported}$ from the $\\text{Roots}$ to the $\\text{Leaves}$ through the:",
+      "image": "[Cross-section of a plant stem showing xylem and phloem]",
+      "options": [
+        "Phloem",
+        "Cortex",
+        "Xylem",
+        "Cambium"
+      ],
+      "answer": "Xylem",
+      "explanation": "$\\text{Xylem}$ $\\text{Vessels}$ are $\\text{Specialized}$ $\\text{Tissues}$ that $\\text{Conduct}$ $\\text{Water}$ and $\\text{Dissolved}$ $\\text{Mineral}$ $\\text{Salts}$ $\\text{Upwards}$ from the $\\text{Roots}$ to the $\\text{Rest}$ of the $\\text{Plant}$."
+    },
+    {
+      "id": "BIO_2018_07",
+      "text": "The $\\text{Movement}$ of $\\text{Food}$ $\\text{Material}$ in the $\\text{Phloem}$ is $\\text{Referred}$ to as:",
+      "image": "",
+      "options": [
+        "Absorption",
+        "Diffusion",
+        "Translocation",
+        "Transpiration"
+      ],
+      "answer": "Translocation",
+      "explanation": "$\\text{Translocation}$ is the $\\text{Movement}$ of $\\text{Sugars}$ (mainly $\\text{Sucrose}$) and $\\text{Amino}$ $\\text{Acids}$ from the $\\text{Sites}$ of $\\text{Production}$ ($\text{Leaves}$) to the $\\text{Sites}$ of $\\text{Storage}$ or $\\text{Use}$ ($\text{Roots}$, $\\text{Fruits}$), $\\text{Occurring}$ in the $\\text{Phloem}$."
+    },
+    {
+      "id": "BIO_2018_08",
+      "text": "Which of these $\\text{Organs}$ $\\text{Detoxifies}$ the $\\text{Blood}$ and $\\text{Breaks}$ $\\text{Down}$ $\\text{Old}$ $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$?",
+      "image": "[Diagram of the human liver]",
+      "options": [
+        "Kidney",
+        "Spleen",
+        "Heart",
+        "Liver"
+      ],
+      "answer": "Liver",
+      "explanation": "The $\\text{Liver}$ plays a $\\text{Major}$ $\\text{Role}$ in $\\text{Detoxification}$ of $\\text{Harmful}$ $\\text{Substances}$ in the $\\text{Blood}$. It is also $\\text{Involved}$ in $\\text{Breaking}$ $\\text{Down}$ $\\text{Old}$ $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ and $\\text{Converting}$ the $\\text{Haemoglobin}$ into $\\text{Bile}$ $\\text{Pigments}$."
+    },
+    {
+      "id": "BIO_2018_09",
+      "text": "The $\\text{Waste}$ $\\text{Product}$ of $\\text{Protein}$ $\\text{Metabolism}$ in $\\text{Mammals}$ that is $\\text{Excreted}$ as $\\text{Urine}$ is:",
+      "image": "",
+      "options": [
+        "Carbon $\\text{Dioxide}$",
+        "Urea",
+        "Bile",
+        "Lactic $\\text{Acid}$"
+      ],
+      "answer": "Urea",
+      "explanation": "$\\text{Excess}$ $\\text{Amino}$ $\\text{Acids}$ from $\\text{Protein}$ $\\text{Breakdown}$ are $\\text{Deaminated}$ in the $\\text{Liver}$, $\\text{Forming}$ $\\text{Ammonia}$, which is then $\\text{Converted}$ to the $\\text{Less}$ $\\text{Toxic}$ $\\text{Urea}$ in the $\\text{Urea}$ $\\text{Cycle}$. $\\text{Urea}$ is the $\\text{Main}$ $\\text{Nitrogenous}$ $\\text{Waste}$ $\\text{Excreted}$ in $\\text{Mammalian}$ $\\text{Urine}$."
+    },
+    {
+      "id": "BIO_2018_10",
+      "text": "Which $\\text{Layer}$ of the $\\text{Skin}$ $\\text{Contains}$ $\\text{Fat}$ for $\\text{Insulation}$ and $\\text{Energy}$ $\\text{Storage}$?",
+      "image": "[Cross-section of the human skin showing layers]",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutaneous $\\text{Layer}$ (Hypodermis)",
+        "Stratum $\\text{Corneum}$"
+      ],
+      "answer": "Subcutaneous $\\text{Layer}$ (Hypodermis)",
+      "explanation": "The $\\text{Subcutaneous}$ $\\text{Layer}$ ($\text{Hypodermis}$) $\\text{Lies}$ $\\text{Beneath}$ the $\\text{Dermis}$ and is $\\text{Rich}$ in $\\text{Adipose}$ $\\text{Tissue}$ ($\text{Fat}$), $\\text{Serving}$ as an $\\text{Insulator}$ and a $\\text{Major}$ $\\text{Energy}$ $\\text{Reserve}$."
+    },
+    {
+      "id": "BIO_2018_11",
+      "text": "The $\\text{Part}$ of the $\\text{Eye}$ that $\\text{Controls}$ the $\\text{Amount}$ of $\\text{Light}$ $\\text{Entering}$ the $\\text{Eye}$ is the:",
+      "image": "[Diagram of the human eye highlighting the iris and pupil]",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Lens",
+        "Iris"
+      ],
+      "answer": "Iris",
+      "explanation": "The $\\text{Iris}$ is the $\\text{Colored}$ $\\text{Part}$ of the $\\text{Eye}$. It $\\text{Contains}$ $\\text{Muscles}$ that $\\text{Contract}$ or $\\text{Relax}$ to $\\text{Adjust}$ the $\\text{Size}$ of the $\\text{Pupil}$, thereby $\\text{Controlling}$ the $\\text{Amount}$ of $\\text{Light}$ $\\text{Reaching}$ the $\\text{Retina}$."
+    },
+    {
+      "id": "BIO_2018_12",
+      "text": "Which of the following $\\text{Hormones}$ is $\\text{Associated}$ with the $\\text{Fight}$-or-$\\text{Flight}$ $\\text{Response}$?",
+      "image": "",
+      "options": [
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline (Epinephrine)",
+        "Oestrogen"
+      ],
+      "answer": "Adrenaline (Epinephrine)",
+      "explanation": "$\\text{Adrenaline}$ (Epinephrine) is $\\text{Secreted}$ by the $\\text{Adrenal}$ $\\text{Glands}$ in $\\text{Response}$ to $\\text{Stress}$ or $\\text{Danger}$. It $\\text{Prepares}$ the $\\text{Body}$ for $\\text{Intense}$ $\\text{Physical}$ $\\text{Activity}$ ($\text{Fight}$ or $\\text{Flight}$)."
+    },
+    {
+      "id": "BIO_2018_13",
+      "text": "The $\\text{Growth}$ $\\text{Movement}$ of a $\\text{Plant}$ $\\text{Part}$ in $\\text{Response}$ to $\\text{Water}$ is called:",
+      "image": "",
+      "options": [
+        "Geotropism",
+        "Phototropism",
+        "Hydrotropism",
+        "Thigmotropism"
+      ],
+      "answer": "Hydrotropism",
+      "explanation": "$\\text{Hydrotropism}$ is the $\\text{Growth}$ or $\\text{Turning}$ $\\text{Movement}$ of a $\\text{Plant}$ $\\text{Part}$ in $\\text{Response}$ to the $\\text{Stimulus}$ of $\\text{Water}$ $\\text{Concentration}$ ($\text{Hydro}$). $\\text{Roots}$ typically show $\\text{Positive}$ $\\text{Hydrotropism}$."
+    },
+    {
+      "id": "BIO_2018_14",
+      "text": "The $\\text{Process}$ of $\\text{Fusing}$ the $\\text{Male}$ and $\\text{Female}$ $\\text{Gametes}$ in $\\text{Sexual}$ $\\text{Reproduction}$ is called:",
+      "image": "[Diagram illustrating sperm meeting an egg]",
+      "options": [
+        "Pollination",
+        "Fertilization",
+        "Germination",
+        "Copulation"
+      ],
+      "answer": "Fertilization",
+      "explanation": "$\\text{Fertilization}$ is the $\\text{Union}$ of the $\\text{Male}$ $\\text{Gamete}$ ($\text{Sperm}$ or $\\text{Pollen}$ $\\text{Nucleus}$) and the $\\text{Female}$ $\\text{Gamete}$ ($\text{Egg}$ $\\text{Cell}$) to $\\text{Form}$ a $\\text{Zygote}$."
+    },
+    {
+      "id": "BIO_2018_15",
+      "text": "The $\\text{Stage}$ of $\\text{Development}$ in $\\text{Insects}$ characterized by $\\text{Major}$ $\\text{Body}$ $\\text{Reorganization}$ is the:",
+      "image": "[Life cycle diagram of a butterfly showing the pupa stage]",
+      "options": [
+        "Larva",
+        "Nymph",
+        "Pupa",
+        "Adult"
+      ],
+      "answer": "Pupa",
+      "explanation": "In $\\text{Insects}$ that $\\text{Undergo}$ $\\text{Complete}$ $\\text{Metamorphosis}$ ($\text{Holometabolism}$), the $\\text{Pupa}$ $\\text{Stage}$ is a $\\text{Non}$-$\\text{Feeding}$, $\\text{Quiescent}$ $\\text{Stage}$ where $\\text{Tissues}$ are $\\text{Broken}$ $\\text{Down}$ and $\\text{Reformed}$ into the $\\text{Adult}$ $\\text{Form}$."
+    },
+    {
+      "id": "BIO_2018_16",
+      "text": "The $\\text{Inheritance}$ of $\\text{Sex}$ in $\\text{Humans}$ is $\\text{Determined}$ by the $\\text{Chromosome}$ $\\text{Contributed}$ by the:",
+      "image": "[Punnett square illustrating sex determination (XX x XY)]",
+      "options": [
+        "Mother $\\text{Only}$",
+        "Father $\\text{Only}$",
+        "Both $\\text{Parents}$ $\\text{Equally}$",
+        "Grandparents"
+      ],
+      "answer": "Father $\\text{Only}$",
+      "explanation": "Females have $\\text{XX}$ sex chromosomes ($\text{Contribute}$ $\\text{X}$). $\\text{Males}$ have $\\text{XY}$ sex chromosomes ($\text{Contribute}$ $\\text{X}$ or $\\text{Y}$). The $\\text{Father's}$ $\\text{Sperm}$ ($\text{X}$ or $\\text{Y}$) $\\text{Determines}$ the $\\text{Sex}$ of the $\\text{Child}$ ($\text{XX}$ = $\\text{Female}$, $\\text{XY}$ = $\\text{Male}$)."
+    },
+    {
+      "id": "BIO_2018_17",
+      "text": "If a $\\text{Tall}$ $\\text{Plant}$ ($\text{TT}$) is $\\text{Crossed}$ with a $\\text{Dwarf}$ $\\text{Plant}$ ($\text{tt}$), the $\\text{Genotype}$ of the $\\text{F1}$ $\\text{Generation}$ is:",
+      "image": "",
+      "options": [
+        "$\text{TT}$",
+        "$\text{tt}$",
+        "$\text{Tt}$",
+        "$\text{TT}$ and $\\text{tt}$"
+      ],
+      "answer": "$\text{Tt}$",
+      "explanation": "A cross between $\\text{TT}$ and $\\text{tt}$ yields $\\text{100\\%}$ $\\text{Tt}$ $\\text{Genotype}$ in the $\\text{F1}$ $\\text{Generation}$. The $\\text{Offspring}$ are all $\\text{Heterozygous}$."
+    },
+    {
+      "id": "BIO_2018_18",
+      "text": "The $\\text{Evolutionary}$ $\\text{Theory}$ that states that $\\text{Acquired}$ $\\text{Characteristics}$ are $\\text{Inherited}$ is $\\text{Associated}$ with:",
+      "image": "",
+      "options": [
+        "Charles $\\text{Darwin}$",
+        "Gregor $\\text{Mendel}$",
+        "Jean-Baptiste $\\text{Lamarck}$",
+        "Alfred $\\text{Wallace}$"
+      ],
+      "answer": "Jean-Baptiste $\\text{Lamarck}$",
+      "explanation": "$\\text{Lamarckism}$, or the $\\text{Inheritance}$ of $\\text{Acquired}$ $\\text{Characteristics}$, was $\\text{Proposed}$ by $\\text{Jean}$-$\\text{Baptiste}$ $\\text{Lamarck}$. This $\\text{Theory}$ is $\\text{Now}$ $\\text{Discredited}$ in $\\text{Favor}$ of $\\text{Darwin's}$ $\\text{Natural}$ $\\text{Selection}$."
+    },
+    {
+      "id": "BIO_2018_19",
+      "text": "The $\\text{Absence}$ of a $\\text{Nucleus}$ in $\\text{Mature}$ $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ is an $\\text{Adaptation}$ for:",
+      "image": "[Microscopic image of red blood cells]",
+      "options": [
+        "Faster $\\text{Movement}$",
+        "Preventing $\\text{Infection}$",
+        "Carrying $\\text{More}$ $\\text{Oxygen}$",
+        "Producing $\\text{Haemoglobin}$"
+      ],
+      "answer": "Carrying $\\text{More}$ $\\text{Oxygen}$",
+      "explanation": "The $\\text{Lack}$ of a $\\text{Nucleus}$ and $\\text{Other}$ $\\text{Organelles}$ $\\text{Maximizes}$ the $\\text{Internal}$ $\\text{Space}$ $\\text{Available}$ for $\\text{Haemoglobin}$, thus $\\text{Increasing}$ the $\\text{Oxygen}$-$\\text{Carrying}$ $\\text{Capacity}$ of the $\\text{Cell}$."
+    },
+    {
+      "id": "BIO_2018_20",
+      "text": "Which of these $\\text{Diseases}$ is $\\text{Caused}$ by a $\\text{Fungus}$?",
+      "image": "",
+      "options": [
+        "Malaria",
+        "Tuberculosis",
+        "Ringworm",
+        "Typhoid"
+      ],
+      "answer": "Ringworm",
+      "explanation": "$\\text{Ringworm}$ is a $\\text{Common}$ $\\text{Fungal}$ $\\text{Infection}$ of the $\\text{Skin}$ ($\text{Tinea}$ $\\text{Species}$). $\\text{Malaria}$ is $\\text{Protozoan}$, $\\text{Tuberculosis}$ and $\\text{Typhoid}$ are $\\text{Bacterial}$."
+    },
+    {
+      "id": "BIO_2018_21",
+      "text": "The $\\text{Habitat}$ $\\text{Where}$ $\\text{Annelids}$ ($\text{Earthworms}$) are $\\text{Most}$ $\\text{Commonly}$ $\\text{Found}$ is:",
+      "image": "",
+      "options": [
+        "Freshwater $\\text{Bodies}$",
+        "Dry $\\text{Sandy}$ $\\text{Soil}$",
+        "Moist $\\text{Loamy}$ $\\text{Soil}$",
+        "Saline $\\text{Water}$"
+      ],
+      "answer": "Moist $\\text{Loamy}$ $\\text{Soil}$",
+      "explanation": "$\\text{Earthworms}$ ($\text{Annelids}$) $\\text{Thrive}$ in $\\text{Moist}$, $\\text{Organic}$-$\\text{Rich}$ $\\text{Soil}$ ($\text{Loam}$) as it $\\text{Provides}$ $\\text{Food}$ and $\\text{Ease}$ of $\\text{Movement}$."
+    },
+    {
+      "id": "BIO_2018_22",
+      "text": "The $\\text{Tissues}$ $\\text{Responsible}$ for $\\text{Secondary}$ $\\text{Growth}$ in $\\text{Plants}$ is the:",
+      "image": "[Cross-section of a dicot stem showing vascular and cork cambium]",
+      "options": [
+        "Apical $\\text{Meristem}$",
+        "Parenchyma",
+        "Lateral $\\text{Meristem}$ ($\text{Cambium}$)",
+        "Collenchyma"
+      ],
+      "answer": "Lateral $\\text{Meristem}$ ($\text{Cambium}$)",
+      "explanation": "$\\text{Secondary}$ $\\text{Growth}$ (increase in $\\text{Girth}$) is $\\text{Caused}$ by $\\text{Activity}$ in the $\\text{Lateral}$ $\\text{Meristems}$, $\\text{Specifically}$ the $\\text{Vascular}$ $\\text{Cambium}$ and $\\text{Cork}$ $\\text{Cambium}$."
+    },
+    {
+      "id": "BIO_2018_23",
+      "text": "In the $\\text{Nitrogen}$ $\\text{Cycle}$, the $\\text{Conversion}$ of $\\text{Atmospheric}$ $\\text{Nitrogen}$ to $\\text{Nitrates}$ is $\\text{Achieved}$ by:",
+      "image": "[Diagram of the Nitrogen Cycle]",
+      "options": [
+        "Denitrifying $\\text{Bacteria}$",
+        "Nitrifying $\\text{Bacteria}$",
+        "Nitrogen-Fixing $\\text{Bacteria}$",
+        "Decomposers"
+      ],
+      "answer": "Nitrogen-Fixing $\\text{Bacteria}$",
+      "explanation": "$\\text{Nitrogen}$-$\\text{Fixing}$ $\\text{Bacteria}$ (e.g., $\\text{Rhizobium}$) $\\text{Convert}$ $\\text{Atmospheric}$ $\\text{Nitrogen}$ ($\text{N}_2$) into $\\text{Ammonia}$ ($\text{NH}_3$). This is then $\\text{Converted}$ to $\\text{Nitrates}$ by $\\text{Nitrifying}$ $\\text{Bacteria}$ in a $\\text{Subsequent}$ $\\text{Stage}$ ($\text{Nitrification}$). $\\text{Nitrogen}$-$\\text{fixing}$ $\\text{Bacteria}$ is the $\\text{Initial}$ $\\text{Step}$ required to $\\text{Bring}$ $\\text{Atmospheric}$ $\\text{Nitrogen}$ into a $\\text{Form}$ usable by $\\text{Plants}$."
+    },
+    {
+      "id": "BIO_2018_24",
+      "text": "The $\\text{Instrument}$ $\\text{Used}$ to $\\text{Measure}$ $\\text{Wind}$ $\\text{Speed}$ is the:",
+      "image": "",
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "answer": "Anemometer",
+      "explanation": "An $\\text{Anemometer}$ is a $\\text{Device}$ $\\text{Used}$ for $\\text{Measuring}$ $\\text{Wind}$ $\\text{Speed}$ or the $\\text{Velocity}$ of $\\text{Gas}$ $\\text{Flow}$."
+    },
+    {
+      "id": "BIO_2018_25",
+      "text": "In a $\\text{Food}$ $\\text{Chain}$, $\\text{Producers}$ are $\\text{Organisms}$ that $\\text{Feed}$ on:",
+      "image": "[Diagram of a simple food chain]",
+      "options": [
+        "Consumers",
+        "Decomposers",
+        "Sunlight $\\text{Energy}$ $\\text{and}$ $\\text{Inorganic}$ $\\text{Matter}$",
+        "Other $\\text{Producers}$"
+      ],
+      "answer": "Sunlight $\\text{Energy}$ $\\text{and}$ $\\text{Inorganic}$ $\\text{Matter}$",
+      "explanation": "$\\text{Producers}$ ($\text{Autotrophs}$), $\\text{Mainly}$ $\\text{Green}$ $\\text{Plants}$, $\\text{Manufacture}$ their $\\text{Own}$ $\\text{Food}$ $\\text{Using}$ $\\text{Energy}$ ($\text{Sunlight}$) and $\\text{Inorganic}$ $\\text{Materials}$ ($\text{Water}$ and $\\text{Carbon}$ $\\text{Dioxide}$ $\\text{via}$ $\\text{Photosynthesis}$)."
+    },
+    {
+      "id": "BIO_2018_26",
+      "text": "Which of the following $\\text{Organisms}$ $\\text{Belongs}$ to the $\\text{Phylum}$ $\\text{Arthropoda}$?",
+      "image": "",
+      "options": [
+        "Starfish",
+        "Centipede",
+        "Snail",
+        "Jellyfish"
+      ],
+      "answer": "Centipede",
+      "explanation": "The $\\text{Phylum}$ $\\text{Arthropoda}$ includes $\\text{Insects}$, $\\text{Spiders}$, $\\text{Crustaceans}$, and $\\text{Myriapods}$ ($\text{Centipedes}$ and $\\text{Millipedes}$). They are $\\text{Characterized}$ by $\\text{Jointed}$ $\\text{Legs}$ and an $\\text{Exoskeleton}$."
+    },
+    {
+      "id": "BIO_2018_27",
+      "text": "The $\\text{Type}$ of $\\text{Joint}$ found at the $\\text{Hip}$ and $\\text{Shoulder}$ is a:",
+      "image": "[Diagram of a ball-and-socket joint]",
+      "options": [
+        "Pivot $\\text{Joint}$",
+        "Hinge $\\text{Joint}$",
+        "Ball-and-Socket $\\text{Joint}$",
+        "Gliding $\\text{Joint}$"
+      ],
+      "answer": "Ball-and-Socket $\\text{Joint}$",
+      "explanation": "A $\\text{Ball}$-$\\text{and}$-$\\text{Socket}$ $\\text{Joint}$ ($\text{Hip}$ and $\\text{Shoulder}$) $\\text{Allows}$ for $\\text{Movement}$ in $\\text{Many}$ $\\text{Planes}$ ($\text{Rotation}$, $\\text{Flexion}$, $\\text{Extension}$, $\\text{Abduction}$, $\\text{Adduction}$)."
+    },
+    {
+      "id": "BIO_2018_28",
+      "text": "The $\\text{Major}$ $\\text{Cause}$ of $\\text{Desertification}$ is:",
+      "image": "[Satellite image illustrating desertification/land degradation]",
+      "options": [
+        "Increased $\\text{Rainfall}$",
+        "Excessive $\\text{Irrigation}$",
+        "Overgrazing $\\text{and}$ $\\text{Deforestation}$",
+        "Industrial $\\text{Pollution}$"
+      ],
+      "answer": "Overgrazing $\\text{and}$ $\\text{Deforestation}$",
+      "explanation": "$\\text{Desertification}$ is the $\\text{Process}$ of $\\text{Fertile}$ $\\text{Land}$ $\\text{Becoming}$ $\\text{Desert}$, typically as a $\\text{Result}$ of $\\text{Drought}$, $\\text{Deforestation}$, or $\\text{Inappropriate}$ $\\text{Agriculture}$ $\\text{Practices}$ ($\text{Overgrazing}$)."
+    },
+    {
+      "id": "BIO_2018_29",
+      "text": "Which $\\text{Gas}$ is $\\text{Given}$ $\\text{Off}$ when a $\\text{Plant}$ $\\text{Respires}$ in the $\\text{Dark}$?",
+      "image": "",
+      "options": [
+        "Oxygen",
+        "Carbon $\\text{Dioxide}$",
+        "Nitrogen",
+        "Water $\\text{Vapour}$ $\\text{Only}$"
+      ],
+      "answer": "Carbon $\\text{Dioxide}$",
+      "explanation": "$\\text{Respiration}$ $\\text{Occurs}$ $\\text{Continuously}$ ($\text{Day}$ and $\\text{Night}$) and $\\text{Involves}$ the $\\text{Uptake}$ of $\\text{Oxygen}$ and the $\\text{Release}$ of $\\text{Carbon}$ $\\text{Dioxide}$. In the $\\text{Dark}$, $\\text{Photosynthesis}$ does $\\text{Not}$ $\\text{Occur}$, so only the $\\text{Carbon}$ $\\text{Dioxide}$ from $\\text{Respiration}$ is $\\text{Released}$."
+    },
+    {
+      "id": "BIO_2018_30",
+      "text": "The $\\text{Organism}$ that $\\text{Causes}$ $\\text{Tuberculosis}$ ($\text{TB}$) is a:",
+      "image": "[Microscopic image of Mycobacterium tuberculosis bacteria]",
+      "options": [
+        "Virus",
+        "Fungus",
+        "Bacterium",
+        "Protozoan"
+      ],
+      "answer": "Bacterium",
+      "explanation": "$\\text{Tuberculosis}$ ($\text{TB}$) is $\\text{Caused}$ by the $\\text{Bacterium}$ $\\text{Mycobacterium}$ $\\text{Tuberculosis}$."
+    },
+    {
+      "id": "BIO_2018_31",
+      "text": "The $\\text{Specialized}$ $\\text{Cells}$ in the $\\text{Nervous}$ $\\text{System}$ $\\text{Responsible}$ for $\\text{Transmitting}$ $\\text{Impulses}$ are:",
+      "image": "[Diagram of a neuron (nerve cell)]",
+      "options": [
+        "Hormones",
+        "Axons",
+        "Neurons (Nerve $\\text{Cells}$)",
+        "Neuroglia"
+      ],
+      "answer": "Neurons (Nerve $\\text{Cells}$)",
+      "explanation": "$\\text{Neurons}$ are the $\\text{Basic}$ $\\text{Functional}$ $\\text{Units}$ of the $\\text{Nervous}$ $\\text{System}$. They $\\text{Generate}$ and $\\text{Conduct}$ $\\text{Electrical}$ $\\text{Impulses}$ ($\text{Action}$ $\\text{Potentials}$)."
+    },
+    {
+      "id": "BIO_2018_32",
+      "text": "Which of the following $\\text{Adaptations}$ $\\text{Helps}$ a $\\text{Desert}$ $\\text{Plant}$ $\\text{Reduce}$ $\\text{Water}$ $\\text{Loss}$?",
+      "image": "",
+      "options": [
+        "Large $\\text{Leaf}$ $\\text{Surface}$ $\\text{Area}$",
+        "Numerous $\\text{Stomata}$",
+        "Thick, $\\text{Waxy}$ $\\text{Cuticle}$ and $\\text{Spines}$",
+        "Shallow $\\text{Root}$ $\\text{System}$"
+      ],
+      "answer": "Thick, $\\text{Waxy}$ $\\text{Cuticle}$ and $\\text{Spines}$",
+      "explanation": "A $\\text{Thick}$ $\\text{Waxy}$ $\\text{Cuticle}$ $\\text{Minimizes}$ $\\text{Cuticular}$ $\\text{Transpiration}$. $\\text{Spines}$ ($\text{Modified}$ $\\text{Leaves}$) $\\text{Reduce}$ the $\\text{Surface}$ $\\text{Area}$ for $\\text{Transpiration}$."
+    },
+    {
+      "id": "BIO_2018_33",
+      "text": "The $\\text{Process}$ of $\\text{Blood}$ $\\text{Clotting}$ $\\text{Requires}$ the $\\text{Presence}$ of $\\text{Which}$ $\\text{Mineral}$ $\\text{Ion}$?",
+      "image": "",
+      "options": [
+        "Sodium ($\text{Na}^+$)",
+        "Potassium ($\text{K}^+$)",
+        "Calcium ($\text{Ca}^{2+}$)",
+        "Iron ($\text{Fe}^{2+}$)"
+      ],
+      "answer": "Calcium ($\text{Ca}^{2+}$)",
+      "explanation": "$\\text{Calcium}$ $\\text{Ions}$ ($\text{Ca}^{2+}$) are $\\text{Essential}$ $\\text{Co-factors}$ in the $\\text{Cascade}$ of $\\text{Enzymatic}$ $\\text{Reactions}$ that $\\text{Lead}$ to the $\\text{Formation}$ of a $\\text{Fibrin}$ $\\text{Clot}$."
+    },
+    {
+      "id": "BIO_2018_34",
+      "text": "A $\\text{Community}$ in $\\text{Ecology}$ is $\\text{Defined}$ as:",
+      "image": "[Image illustrating a biological community with various species interacting]",
+      "options": [
+        "Individuals of the $\\text{Same}$ $\\text{Species}$ in an $\\text{Area}$",
+        "All the $\\text{Biotic}$ $\\text{Components}$ in an $\\text{Ecosystem}$",
+        "All the $\\text{Abiotic}$ $\\text{Components}$ in an $\\text{Area}$",
+        "The $\\text{Living}$ $\\text{Organisms}$ and their $\\text{Physical}$ $\\text{Environment}$"
+      ],
+      "answer": "All the $\\text{Biotic}$ $\\text{Components}$ in an $\\text{Ecosystem}$",
+      "explanation": "An $\\text{Ecology}$ $\\text{Community}$ is the $\\text{Assemblage}$ of $\\text{All}$ $\\text{Populations}$ ($\text{Different}$ $\\text{Species}$) $\\text{Living}$ and $\\text{Interacting}$ $\\text{Within}$ a $\\text{Given}$ $\\text{Area}$ (i.e., the $\\text{Biotic}$ $\\text{Components}$). If the $\\text{Physical}$ $\\text{Environment}$ ($\text{Abiotic}$ $\\text{Factors}$) is $\\text{Included}$, it is an $\\text{Ecosystem}$."
+    },
+    {
+      "id": "BIO_2018_35",
+      "text": "Which of the following $\\text{Substances}$ is $\\text{Reabsorbed}$ in the $\\text{Kidney}$ $\\text{Tubules}$ $\\text{by}$ $\\text{Active}$ $\\text{Transport}$?",
+      "image": "[Diagram of a nephron highlighting reabsorption]",
+      "options": [
+        "Urea",
+        "Water",
+        "Glucose",
+        "Sodium $\\text{Chloride}$"
+      ],
+      "answer": "Glucose",
+      "explanation": "In the $\\text{Proximal}$ $\\text{Convoluted}$ $\\text{Tubule}$, $\\text{Essential}$ $\\text{Nutrients}$ like $\\text{Glucose}$ and $\\text{Amino}$ $\\text{Acids}$ are $\\text{Completely}$ $\\text{Reabsorbed}$ back into the $\\text{Blood}$ $\\text{Stream}$ $\\text{Against}$ a $\\text{Concentration}$ $\\text{Gradient}$ $\\text{Via}$ $\\text{Active}$ $\\text{Transport}$."
+    },
+    {
+      "id": "BIO_2018_36",
+      "text": "The $\\text{Smallest}$ $\\text{Structural}$ and $\\text{Functional}$ $\\text{Unit}$ of the $\\text{Nervous}$ $\\text{System}$ is the:",
+      "image": "",
+      "options": [
+        "Axon",
+        "Dendrite",
+        "Synapse",
+        "Neuron"
+      ],
+      "answer": "Neuron",
+      "explanation": "The $\\text{Neuron}$ ($\text{Nerve}$ $\\text{Cell}$) is the $\\text{Basic}$ $\\text{Unit}$ of the $\\text{Nervous}$ $\\text{System}$, $\\text{Specialized}$ to $\\text{Transmit}$ $\\text{Information}$ ($\text{Nerve}$ $\\text{Impulses}$). The $\\text{Other}$ $\\text{Options}$ are $\\text{Parts}$ of a $\\text{Neuron}$ or a $\\text{Junction}$."
+    },
+    {
+      "id": "BIO_2018_37",
+      "text": "Which of these $\\text{Features}$ $\\text{Distinguishes}$ a $\\text{Plant}$ $\\text{Cell}$ from an $\\text{Animal}$ $\\text{Cell}$?",
+      "image": "[Diagram comparing plant and animal cells]",
+      "options": [
+        "Cell $\\text{Membrane}$",
+        "Cytoplasm",
+        "Presence of $\\text{Cell}$ $\\text{Wall}$ and $\\text{Chloroplasts}$",
+        "Mitochondria"
+      ],
+      "answer": "Presence of $\\text{Cell}$ $\\text{Wall}$ and $\\text{Chloroplasts}$",
+      "explanation": "$\\text{Plant}$ $\\text{Cells}$ typically $\\text{Have}$ a $\\text{Cell}$ $\\text{Wall}$ ($\text{Absent}$ in $\\text{Animal}$ $\\text{Cells}$) and $\\text{Chloroplasts}$ ($\text{Required}$ for $\\text{Photosynthesis}$, $\\text{Absent}$ in $\\text{Animal}$ $\\text{Cells}$)."
+    },
+    {
+      "id": "BIO_2018_38",
+      "text": "The $\\text{Process}$ by which $\\text{Oxygen}$ is $\\text{Transported}$ from the $\\text{Lungs}$ to the $\\text{Body}$ $\\text{Tissues}$ is $\\text{Mainly}$ by:",
+      "image": "",
+      "options": [
+        "Plasma",
+        "White $\\text{Blood}$ $\\text{Cells}$",
+        "Platelets",
+        "Red $\\text{Blood}$ $\\text{Cells}$ ($\text{Haemoglobin}$)"
+      ],
+      "answer": "Red $\\text{Blood}$ $\\text{Cells}$ ($\text{Haemoglobin}$)",
+      "explanation": "Over $\\text{98\\%}$ of $\\text{Oxygen}$ is $\\text{Bound}$ to $\\text{Haemoglobin}$ in $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ for $\\text{Transport}$ from the $\\text{Lungs}$ to the $\\text{Body}$ $\\text{Tissues}$."
+    },
+    {
+      "id": "BIO_2018_39",
+      "text": "The $\\text{Most}$ $\\text{Effective}$ $\\text{Method}$ of $\\text{Controlling}$ $\\text{Malaria}$ $\\text{in}$ an $\\text{Area}$ is to:",
+      "image": "",
+      "options": [
+        "Treat $\\text{Sick}$ $\\text{People}$ $\\text{Only}$",
+        "Drain $\\text{Stagnant}$ $\\text{Water}$ $\\text{Bodies}$",
+        "Use $\\text{Insecticides}$ $\\text{Indiscriminately}$",
+        "Plant $\\text{More}$ $\\text{Trees}$"
+      ],
+      "answer": "Drain $\\text{Stagnant}$ $\\text{Water}$ $\\text{Bodies}$",
+      "explanation": "$\\text{Malaria}$ is $\\text{Transmitted}$ by the $\\text{Anopheles}$ $\\text{Mosquito}$, which $\\text{Breeds}$ in $\\text{Stagnant}$ $\\text{Water}$. $\\text{Controlling}$ the $\\text{Mosquito}$ $\\text{Population}$ by $\\text{Eliminating}$ $\\text{Breeding}$ $\\text{Sites}$ ($\text{Drainage}$) is the $\\text{Most}$ $\\text{Effective}$ and $\\text{Sustainable}$ $\\text{Control}$ $\\text{Measure}$."
+    },
+    {
+      "id": "BIO_2018_40",
+      "text": "The $\\text{Maximum}$ $\\text{Number}$ of $\\text{Organisms}$ an $\\text{Environment}$ can $\\text{Sustain}$ $\\text{Indefinitely}$ is $\\text{Called}$ the:",
+      "image": "[Graph illustrating population growth leveling off at carrying capacity]",
+      "options": [
+        "Biotic $\\text{Potential}$",
+        "Population $\\text{Density}$",
+        "Carrying $\\text{Capacity}$",
+        "Limiting $\\text{Factor}$"
+      ],
+      "answer": "Carrying $\\text{Capacity}$",
+      "explanation": "$\\text{Carrying}$ $\\text{Capacity}$ ($\text{K}$) is the $\\text{Maximum}$ $\\text{Population}$ $\\text{Size}$ of a $\\text{Species}$ that the $\\text{Environment}$ can $\\text{Sustain}$ $\\text{Indefinitely}$, $\\text{Given}$ the $\\text{Food}$, $\\text{Habitat}$, $\\text{Water}$, and $\\text{Other}$ $\\text{Necessities}$ $\\text{Available}$."
+    }
+  ]

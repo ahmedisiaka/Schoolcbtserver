@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G01",
+        "text": "Which is the largest country in the world by $\\textbf{land area}$?",
+        "image": "",
+        "options": [
+            "China",
+            "United States",
+            "Canada",
+            "Russia"
+        ],
+        "answer": "Russia",
+        "explanation": "Russia covers over 17 million square kilometers, making it the largest country by far."
+    },
+    {
+        "id": "G02",
+        "text": "The $\\textbf{Great Barrier Reef}$ is located off the coast of which country?",
+        "image": "",
+        "options": [
+            "South Africa",
+            "Australia",
+            "Brazil",
+            "Indonesia"
+        ],
+        "answer": "Australia",
+        "explanation": "It is the world's largest coral reef system, located in the Coral Sea off the coast of Queensland."
+    },
+    {
+        "id": "G03",
+        "text": "What is the capital city of $\\textbf{Canada}$?",
+        "image": "",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": "Ottawa",
+        "explanation": "Ottawa was chosen as the capital by Queen Victoria in 1857."
+    },
+    {
+        "id": "G04",
+        "text": "Which river flows through the city of $\\textbf{London}$?",
+        "image": "",
+        "options": [
+            "The Seine",
+            "The Danube",
+            "The Thames",
+            "The Rhine"
+        ],
+        "answer": "The Thames",
+        "explanation": "The River Thames flows through southern England and directly through London."
+    },
+    {
+        "id": "G05",
+        "text": "Which continent is home to the $\\textbf{Sahara Desert}$?",
+        "image": "",
+        "options": [
+            "Asia",
+            "South America",
+            "Africa",
+            "Australia"
+        ],
+        "answer": "Africa",
+        "explanation": "The Sahara is the largest hot desert in the world and covers much of North Africa."
+    },
+    {
+        "id": "G06",
+        "text": "The country of $\\textbf{Turkey}$ spans which two continents?",
+        "image": "",
+        "options": [
+            "Europe and Africa",
+            "Asia and Africa",
+            "Europe and Asia",
+            "Europe and North America"
+        ],
+        "answer": "Europe and Asia",
+        "explanation": "Turkey is a transcontinental country, with a small portion in Southeastern Europe and the majority in Western Asia."
+    },
+    {
+        "id": "G07",
+        "text": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+        "image": "",
+        "options": [
+            "The Rockies",
+            "The Andes",
+            "The Alps",
+            "The Himalayas"
+        ],
+        "answer": "The Himalayas",
+        "explanation": "The Himalayas contain many of Earth's highest peaks, including Mount Everest."
+    },
+    {
+        "id": "G08",
+        "text": "What is the smallest country in the world by both population and area?",
+        "image": "",
+        "options": [
+            "Monaco",
+            "Nauru",
+            "Vatican City",
+            "San Marino"
+        ],
+        "answer": "Vatican City",
+        "explanation": "Vatican City is an independent city-state enclaved within Rome, Italy."
+    },
+    {
+        "id": "G09",
+        "text": "Which South American country is home to the majority of the $\\textbf{Amazon Rainforest}$?",
+        "image": "",
+        "options": [
+            "Peru",
+            "Colombia",
+            "Brazil",
+            "Venezuela"
+        ],
+        "answer": "Brazil",
+        "explanation": "Approximately 60% of the Amazon Rainforest is contained within Brazil."
+    },
+    {
+        "id": "G10",
+        "text": "The $\\textbf{Strait of Gibraltar}$ connects the Atlantic Ocean to which body of water?",
+        "image": "",
+        "options": [
+            "The Red Sea",
+            "The Mediterranean Sea",
+            "The Black Sea",
+            "The Baltic Sea"
+        ],
+        "answer": "The Mediterranean Sea",
+        "explanation": "It separates the Iberian Peninsula in Europe from Morocco in Africa."
+    },
+    {
+        "id": "G11",
+        "text": "What is the capital city of $\\textbf{Australia}$?",
+        "image": "",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra",
+        "explanation": "Canberra was selected as the capital in 1908 as a compromise between rivals Sydney and Melbourne."
+    },
+    {
+        "id": "G12",
+        "text": "Which country has the longest $\\textbf{coastline}$ in the world?",
+        "image": "",
+        "options": [
+            "Russia",
+            "Indonesia",
+            "Australia",
+            "Canada"
+        ],
+        "answer": "Canada",
+        "explanation": "Canada's coastline is the world's longest, measuring approximately 243,042 kilometers."
+    },
+    {
+        "id": "G13",
+        "text": "Mount $\\textbf{Kilimanjaro}$ is the highest peak on which continent?",
+        "image": "",
+        "options": [
+            "Asia",
+            "South America",
+            "Africa",
+            "Europe"
+        ],
+        "answer": "Africa",
+        "explanation": "Kilimanjaro is a dormant volcano in Tanzania and the highest mountain in Africa."
+    },
+    {
+        "id": "G14",
+        "text": "Which U.S. state is an archipelago?",
+        "image": "",
+        "options": [
+            "Alaska",
+            "Florida",
+            "Hawaii",
+            "Rhode Island"
+        ],
+        "answer": "Hawaii",
+        "explanation": "Hawaii is the only U.S. state located outside North America and is entirely an archipelago."
+    },
+    {
+        "id": "G15",
+        "text": "The $\\textbf{Nile River}$ flows into which sea?",
+        "image": "",
+        "options": [
+            "The Red Sea",
+            "The Mediterranean Sea",
+            "The Dead Sea",
+            "The Caspian Sea"
+        ],
+        "answer": "The Mediterranean Sea",
+        "explanation": "The Nile flows north through northeastern Africa to drain into the Mediterranean Sea."
+    },
+    {
+        "id": "G16",
+        "text": "Which country is known as the $\\textbf{Land of the Rising Sun}$?",
+        "image": "",
+        "options": [
+            "China",
+            "South Korea",
+            "Thailand",
+            "Japan"
+        ],
+        "answer": "Japan",
+        "explanation": "The name comes from the Japanese characters for the country's name, which mean 'sun origin'."
+    },
+    {
+        "id": "G17",
+        "text": "What is the largest island in the world (excluding continental landmasses)?",
+        "image": "",
+        "options": [
+            "Madagascar",
+            "Borneo",
+            "New Guinea",
+            "Greenland"
+        ],
+        "answer": "Greenland",
+        "explanation": "Greenland is the world's largest non-continental island, located between the Arctic and Atlantic oceans."
+    },
+    {
+        "id": "G18",
+        "text": "Which European city is known for its canals and gondolas?",
+        "image": "",
+        "options": [
+            "Amsterdam",
+            "Venice",
+            "Bruges",
+            "Stockholm"
+        ],
+        "answer": "Venice",
+        "explanation": "Venice, Italy, is built on a group of 118 small islands separated by canals and linked by bridges."
+    },
+    {
+        "id": "G19",
+        "text": "The $\\textbf{Andes Mountains}$ run along the western edge of which continent?",
+        "image": "",
+        "options": [
+            "North America",
+            "Africa",
+            "South America",
+            "Australia"
+        ],
+        "answer": "South America",
+        "explanation": "The Andes is the longest continental mountain range in the world."
+    },
+    {
+        "id": "G20",
+        "text": "What is the capital of $\\textbf{Brazil}$?",
+        "image": "",
+        "options": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Brasília",
+            "Salvador"
+        ],
+        "answer": "Brasília",
+        "explanation": "Brasília was founded in 1960 to move the capital from Rio de Janeiro to a more central location."
+    },
+    {
+        "id": "G21",
+        "text": "Which desert is the driest non-polar desert in the world?",
+        "image": "",
+        "options": [
+            "Gobi Desert",
+            "Sahara Desert",
+            "Atacama Desert",
+            "Kalahari Desert"
+        ],
+        "answer": "Atacama Desert",
+        "explanation": "Located in Chile, the Atacama Desert is known for its extreme aridity."
+    },
+    {
+        "id": "G22",
+        "text": "The $\\textbf{Panama Canal}$ connects the Atlantic Ocean with the:",
+        "image": "",
+        "options": [
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Southern Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "The canal cuts across the Isthmus of Panama and is a key conduit for international maritime trade."
+    },
+    {
+        "id": "G23",
+        "text": "Which country possesses the most $\\textbf{time zones}$ (including overseas territories)?",
+        "image": "",
+        "options": [
+            "Russia",
+            "United States",
+            "France",
+            "China"
+        ],
+        "answer": "France",
+        "explanation": "Due to its numerous overseas territories, France uses 12 different time zones."
+    },
+    {
+        "id": "G24",
+        "text": "The lowest point on dry land on Earth is the shore of the:",
+        "image": "",
+        "options": [
+            "Caspian Sea",
+            "Dead Sea",
+            "Lake Assal",
+            "Death Valley"
+        ],
+        "answer": "Dead Sea",
+        "explanation": "The shores of the Dead Sea are more than 400 meters below sea level."
+    },
+    {
+        "id": "G25",
+        "text": "Which U.S. state is home to the $\\textbf{Grand Canyon}$?",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Colorado",
+            "Utah",
+            "Arizona"
+        ],
+        "answer": "Arizona",
+        "explanation": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona."
+    },
+    {
+        "id": "G26",
+        "text": "What is the name of the supercontinent that existed approximately 335 million years ago?",
+        "image": "",
+        "options": [
+            "Gondwana",
+            "Laurasia",
+            "Pangaea",
+            "Rodinia"
+        ],
+        "answer": "Pangaea",
+        "explanation": "Pangaea was a supercontinent that existed during the late Paleozoic and early Mesozoic eras."
+    },
+    {
+        "id": "G27",
+        "text": "Which African country has the largest population?",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Ethiopia",
+            "South Africa",
+            "Nigeria"
+        ],
+        "answer": "Nigeria",
+        "explanation": "Nigeria is the most populous country in Africa and one of the most populous in the world."
+    },
+    {
+        "id": "G28",
+        "text": "The $\\textbf{Urals}$ are a mountain range generally considered the boundary between:",
+        "image": "",
+        "options": [
+            "Europe and Africa",
+            "Europe and Asia",
+            "Asia and Africa",
+            "North and South America"
+        ],
+        "answer": "Europe and Asia",
+        "explanation": "The Ural Mountains run through western Russia and form a natural boundary between the continents."
+    },
+    {
+        "id": "G29",
+        "text": "Which city is known as the $\\textbf{Big Apple}$?",
+        "image": "",
+        "options": [
+            "Los Angeles",
+            "Chicago",
+            "New York City",
+            "London"
+        ],
+        "answer": "New York City",
+        "explanation": "The nickname 'Big Apple' was popularized in the 1920s by sports writer John J. Fitz Gerald."
+    },
+    {
+        "id": "G30",
+        "text": "What is the largest lake in Africa?",
+        "image": "",
+        "options": [
+            "Lake Tanganyika",
+            "Lake Malawi",
+            "Lake Victoria",
+            "Lake Chad"
+        ],
+        "answer": "Lake Victoria",
+        "explanation": "Lake Victoria is the largest lake in Africa by area and the second-largest freshwater lake in the world."
+    },
+    {
+        "id": "G31",
+        "text": "Which country is home to the ancient ruins of $\\textbf{Petra}$?",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Jordan",
+            "Greece",
+            "Turkey"
+        ],
+        "answer": "Jordan",
+        "explanation": "Petra is a historical and archaeological city in southern Jordan, famous for its rock-cut architecture."
+    },
+    {
+        "id": "G32",
+        "text": "The $\\textbf{Bering Strait}$ separates which two countries?",
+        "image": "",
+        "options": [
+            "USA and Canada",
+            "USA and Russia",
+            "UK and France",
+            "Australia and New Zealand"
+        ],
+        "answer": "USA and Russia",
+        "explanation": "The strait separates the Chukchi Peninsula of the Russian Far East from the Seward Peninsula of Alaska."
+    },
+    {
+        "id": "G33",
+        "text": "Which is the only continent with land in all four hemispheres (North, South, East, and West)?",
+        "image": "",
+        "options": [
+            "Asia",
+            "Europe",
+            "Africa",
+            "South America"
+        ],
+        "answer": "Africa",
+        "explanation": "Africa is crossed by both the Equator and the Prime Meridian."
+    },
+    {
+        "id": "G34",
+        "text": "What is the capital of $\\textbf{India}$?",
+        "image": "",
+        "options": [
+            "Mumbai",
+            "Kolkata",
+            "New Delhi",
+            "Chennai"
+        ],
+        "answer": "New Delhi",
+        "explanation": "New Delhi serves as the capital of India and the seat of all three branches of the Government of India."
+    },
+    {
+        "id": "G35",
+        "text": "The $\\textbf{Danube River}$ flows into which body of water?",
+        "image": "",
+        "options": [
+            "The North Sea",
+            "The Mediterranean Sea",
+            "The Baltic Sea",
+            "The Black Sea"
+        ],
+        "answer": "The Black Sea",
+        "explanation": "The Danube is Europe's second-longest river and flows through 10 countries before emptying into the Black Sea."
+    },
+    {
+        "id": "G36",
+        "text": "Which country is often called the $\\textbf{Emerald Isle}$?",
+        "image": "",
+        "options": [
+            "Iceland",
+            "Ireland",
+            "New Zealand",
+            "Scotland"
+        ],
+        "answer": "Ireland",
+        "explanation": "Ireland is known as the Emerald Isle because of its lush green countryside."
+    },
+    {
+        "id": "G37",
+        "text": "What is the highest waterfall in the world?",
+        "image": "",
+        "options": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Angel Falls",
+            "Iguazu Falls"
+        ],
+        "answer": "Angel Falls",
+        "explanation": "Located in Venezuela, Angel Falls has a height of 979 meters (3,212 ft)."
+    },
+    {
+        "id": "G38",
+        "text": "Which country occupies the southern end of the $\\textbf{Korean Peninsula}$?",
+        "image": "",
+        "options": [
+            "North Korea",
+            "South Korea",
+            "Japan",
+            "Vietnam"
+        ],
+        "answer": "South Korea",
+        "explanation": "South Korea (Republic of Korea) is located in the southern part of the peninsula."
+    },
+    {
+        "id": "G39",
+        "text": "The $\\textbf{Ring of Fire}$ is a major area in the basin of which ocean where many earthquakes and volcanic eruptions occur?",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "The Ring of Fire is a horseshoe-shaped area around the Pacific Ocean associated with tectonic activity."
+    },
+    {
+        "id": "G40",
+        "text": "Which European country is shaped like a $\\textbf{boot}$?",
+        "image": "",
+        "options": [
+            "Greece",
+            "Spain",
+            "Italy",
+            "Portugal"
+        ],
+        "answer": "Italy",
+        "explanation": "Italy's peninsula has a distinct boot-like shape, including a 'heel' and a 'toe'."
+    }
+]

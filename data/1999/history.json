@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Rosetta Stone}$, discovered in 1799, was the key to deciphering which ancient writing system?",
+        "image": "",
+        "options": [
+            "Cuneiform",
+            "Sanskrit",
+            "Mayan Glyphs",
+            "Egyptian Hieroglyphs"
+        ],
+        "answer": "Egyptian Hieroglyphs",
+        "explanation": "The stone featured the same decree written in three scripts: Greek, Demotic, and Hieroglyphic, allowing scholars to crack the code."
+    },
+    {
+        "id": "H02",
+        "text": "Which Chinese philosopher is known for his teachings on ethics, family loyalty, and ancestor worship?",
+        "image": "",
+        "options": [
+            "Laozi",
+            "Sun Tzu",
+            "Confucius",
+            "Qin Shi Huang"
+        ],
+        "answer": "Confucius",
+        "explanation": "Confucius (551–479 BC) established a system of social and ethical philosophy that deeply influenced Chinese culture."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Peloponnesian War}$ was a long conflict fought between which two Greek powers?",
+        "image": "",
+        "options": [
+            "Athens and Sparta",
+            "Troy and Mycenae",
+            "Thebes and Corinth",
+            "Rome and Carthage"
+        ],
+        "answer": "Athens and Sparta",
+        "explanation": "Fought from 431 to 404 BC, the war ended the Golden Age of Athens and shifted power to Sparta."
+    },
+    {
+        "id": "H04",
+        "text": "Which Carthaginian general is famous for crossing the Alps with $\\textbf{elephants}$ to attack Rome?",
+        "image": "",
+        "options": [
+            "Scipio Africanus",
+            "Hannibal",
+            "Hamilcar Barca",
+            "Pyrrhus"
+        ],
+        "answer": "Hannibal",
+        "explanation": "Hannibal's crossing during the Second Punic War (218 BC) is considered one of the greatest military feats in history."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Pax Romana}$ refers to a long period of relative peace and stability within the Roman Empire, begun by:",
+        "image": "",
+        "options": [
+            "Julius Caesar",
+            "Nero",
+            "Augustus",
+            "Constantine"
+        ],
+        "answer": "Augustus",
+        "explanation": "Augustus, the first Emperor, initiated this era which lasted for approximately 200 years."
+    },
+    {
+        "id": "H06",
+        "text": "Which Byzantine Emperor is responsible for the codification of Roman law (Corpus Juris Civilis)?",
+        "image": "",
+        "options": [
+            "Constantine",
+            "Justinian I",
+            "Theodosius",
+            "Heraclius"
+        ],
+        "answer": "Justinian I",
+        "explanation": "Justinian's Code became the foundation for legal systems in many modern European countries."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{First Crusade}$ was launched in 1095 following a call to arms by:",
+        "image": "",
+        "options": [
+            "Pope Urban II",
+            "King Richard I",
+            "Charlemagne",
+            "Saladin"
+        ],
+        "answer": "Pope Urban II",
+        "explanation": "His sermon at the Council of Clermont urged Christians to aid the Byzantine Empire and capture Jerusalem."
+    },
+    {
+        "id": "H08",
+        "text": "Who was the Venetian merchant whose travels introduced Europeans to the culture of Central Asia and China?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Marco Polo",
+            "Vasco da Gama"
+        ],
+        "answer": "Marco Polo",
+        "explanation": "Polo traveled along the Silk Road in the late 13th century and served at the court of Kublai Khan."
+    },
+    {
+        "id": "H09",
+        "text": "Which Florentine sculptor created the famous bronze statue of $\\textbf{David}$ (the first free-standing nude since antiquity)?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Donatello",
+            "Raphael"
+        ],
+        "answer": "Donatello",
+        "explanation": "Created in the 1440s, Donatello's David preceded Michelangelo's marble version by several decades."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Columbian Exchange}$ refers to the widespread transfer of:",
+        "image": "",
+        "options": [
+            "Gold and Silver only",
+            "Plants, animals, and diseases between the Americas and the Old World",
+            "Slaves from Africa to Europe",
+            "Spices from India to China"
+        ],
+        "answer": "Plants, animals, and diseases between the Americas and the Old World",
+        "explanation": "Following Columbus's voyages, this exchange dramatically altered global agriculture, population, and ecology."
+    },
+    {
+        "id": "H11",
+        "text": "Who conquered the $\\textbf{Aztec Empire}$ in modern-day Mexico?",
+        "image": "",
+        "options": [
+            "Francisco Pizarro",
+            "Hernán Cortés",
+            "Juan Ponce de León",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Hernán Cortés",
+        "explanation": "Cortés and his indigenous allies defeated the Aztec capital Tenochtitlan in 1521."
+    },
+    {
+        "id": "H12",
+        "text": "Who proposed the $\\textbf{Heliocentric}$ model of the universe, placing the Sun at the center?",
+        "image": "",
+        "options": [
+            "Ptolemy",
+            "Aristotle",
+            "Nicolaus Copernicus",
+            "Isaac Newton"
+        ],
+        "answer": "Nicolaus Copernicus",
+        "explanation": "His theory challenged the Earth-centered view of the universe held by the Church and ancient scholars."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Thirty Years' War}$ (1618–1648) was primarily fought in:",
+        "image": "",
+        "options": [
+            "England",
+            "France",
+            "Central Europe (Germany)",
+            "Spain"
+        ],
+        "answer": "Central Europe (Germany)",
+        "explanation": "Ending with the Peace of Westphalia, it was one of the most destructive conflicts in European history."
+    },
+    {
+        "id": "H14",
+        "text": "Which French monarch was known as the $\\textbf{'Sun King'}$ and built the Palace of Versailles?",
+        "image": "",
+        "options": [
+            "Louis XIV",
+            "Louis XVI",
+            "Napoleon Bonaparte",
+            "Charlemagne"
+        ],
+        "answer": "Louis XIV",
+        "explanation": "He reigned for 72 years and is the ultimate example of an absolute monarch in Europe."
+    },
+    {
+        "id": "H15",
+        "text": "Which Russian Tsar is credited with $\\textbf{Westernizing}$ Russia and founding St. Petersburg?",
+        "image": "",
+        "options": [
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Nicholas II",
+            "Alexander II"
+        ],
+        "answer": "Peter the Great",
+        "explanation": "Peter I modernized the Russian military, government, and culture based on Western European models."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Age of Enlightenment}$ emphasized:",
+        "image": "",
+        "options": [
+            "Religious dogma",
+            "Reason, individualism, and science",
+            "Feudal loyalty",
+            "Military conquest"
+        ],
+        "answer": "Reason, individualism, and science",
+        "explanation": "Philosophers like Locke, Voltaire, and Rousseau challenged traditional authority during the 17th and 18th centuries."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Boston Tea Party}$ (1773) was a protest against:",
+        "image": "",
+        "options": [
+            "The Stamp Act",
+            "The Tea Act",
+            "The Quartering Act",
+            "The Sugar Act"
+        ],
+        "answer": "The Tea Act",
+        "explanation": "Colonists dumped British tea into the harbor to protest taxation without representation."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Louisiana Purchase}$ of 1803 doubled the size of the United States. Which country sold the land?",
+        "image": "",
+        "options": [
+            "Spain",
+            "Great Britain",
+            "France",
+            "Russia"
+        ],
+        "answer": "France",
+        "explanation": "Napoleon sold the territory to the US for $15 million to fund his wars in Europe."
+    },
+    {
+        "id": "H19",
+        "text": "Who was the Venezuelan leader known as $\\textbf{'The Liberator'}$ for his role in Latin American independence?",
+        "image": "",
+        "options": [
+            "Che Guevara",
+            "Simon Bolivar",
+            "Fidel Castro",
+            "Pancho Villa"
+        ],
+        "answer": "Simon Bolivar",
+        "explanation": "Bolivar led the independence movements of Venezuela, Colombia, Ecuador, Peru, and Bolivia against Spanish rule."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Monroe Doctrine}$ (1823) warned European powers against:",
+        "image": "",
+        "options": [
+            "Trading with Asia",
+            "Interfering in the Western Hemisphere",
+            "Colonizing Africa",
+            "Building a navy"
+        ],
+        "answer": "Interfering in the Western Hemisphere",
+        "explanation": "It stated that the Americas were no longer open to European colonization."
+    },
+    {
+        "id": "H21",
+        "text": "Queen Victoria's reign in the United Kingdom is associated with which major historical era?",
+        "image": "",
+        "options": [
+            "The Renaissance",
+            "The Industrial Revolution and Imperial Expansion",
+            "The Reformation",
+            "The Great Depression"
+        ],
+        "answer": "The Industrial Revolution and Imperial Expansion",
+        "explanation": "The Victorian Era (1837–1901) was a time of immense industrial, cultural, and political change."
+    },
+    {
+        "id": "H22",
+        "text": "Who wrote $\\textbf{The Communist Manifesto}$ in 1848?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Joseph Stalin",
+            "Friedrich Nietzsche"
+        ],
+        "answer": "Karl Marx",
+        "explanation": "Written with Friedrich Engels, it outlines the theory of class struggle and the goals of communism."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Scramble for Africa}$ was formalized at which conference in 1884–1885?",
+        "image": "",
+        "options": [
+            "The Treaty of Versailles",
+            "The Berlin Conference",
+            "The Yalta Conference",
+            "The Congress of Vienna"
+        ],
+        "answer": "The Berlin Conference",
+        "explanation": "European powers met to regulate colonization and trade in Africa, arbitrarily dividing the continent."
+    },
+    {
+        "id": "H24",
+        "text": "The explosion of the $\\textbf{USS Maine}$ in Havana Harbor triggered which war?",
+        "image": "",
+        "options": [
+            "The Civil War",
+            "The Spanish-American War",
+            "World War I",
+            "The Mexican-American War"
+        ],
+        "answer": "The Spanish-American War",
+        "explanation": "Occurring in 1898, the event led to the US intervention in the Cuban War of Independence."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Panama Canal}$ connects which two oceans?",
+        "image": "",
+        "options": [
+            "Atlantic and Indian",
+            "Pacific and Indian",
+            "Atlantic and Pacific",
+            "Arctic and Atlantic"
+        ],
+        "answer": "Atlantic and Pacific",
+        "explanation": "Completed in 1914, it allows ships to cross between the Atlantic and Pacific without navigating around South America."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) officially ended which conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Boer War"
+        ],
+        "answer": "World War I",
+        "explanation": "It imposed harsh reparations and territorial losses on Germany, reshaping the map of Europe."
+    },
+    {
+        "id": "H27",
+        "text": "Who established the $\\textbf{Fascist Party}$ in Italy and ruled as a dictator?",
+        "image": "",
+        "options": [
+            "Adolf Hitler",
+            "Francisco Franco",
+            "Benito Mussolini",
+            "Joseph Stalin"
+        ],
+        "answer": "Benito Mussolini",
+        "explanation": "Mussolini came to power in 1922 and allied Italy with Nazi Germany during WWII."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Spanish Civil War}$ (1936–1939) served as a testing ground for WWII and was won by:",
+        "image": "",
+        "options": [
+            "The Republicans",
+            "The Nationalists (Franco)",
+            "The Communists",
+            "The Monarchists"
+        ],
+        "answer": "The Nationalists (Franco)",
+        "explanation": "General Francisco Franco established a dictatorship that lasted until 1975."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Manhattan Project}$ was the code name for:",
+        "image": "",
+        "options": [
+            "The D-Day Invasion",
+            "The development of the atomic bomb",
+            "The moon landing",
+            "The construction of the Pentagon"
+        ],
+        "answer": "The development of the atomic bomb",
+        "explanation": "Led by the US during WWII, it resulted in the first nuclear weapons."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{United Nations}$ was founded in 1945 to replace which failed organization?",
+        "image": "",
+        "options": [
+            "The League of Nations",
+            "The Allied Powers",
+            "The Warsaw Pact",
+            "NATO"
+        ],
+        "answer": "The League of Nations",
+        "explanation": "The League had failed to prevent WWII, leading to the creation of the UN to maintain international peace."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Marshall Plan}$ was a US initiative to help rebuild:",
+        "image": "",
+        "options": [
+            "Japan",
+            "Western Europe",
+            "The Soviet Union",
+            "China"
+        ],
+        "answer": "Western Europe",
+        "explanation": "Enacted in 1948, it provided over $12 billion in economic assistance to help rebuild Western European economies."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Korean War}$ (1950–1953) resulted in:",
+        "image": "",
+        "options": [
+            "A unified Korea",
+            "A continued division at the 38th Parallel",
+            "Chinese annexation of Korea",
+            "US annexation of Korea"
+        ],
+        "answer": "A continued division at the 38th Parallel",
+        "explanation": "The war ended in an armistice, creating a Demilitarized Zone (DMZ) between North and South."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Cuban Missile Crisis}$ (1962) was a confrontation between the US and:",
+        "image": "",
+        "options": [
+            "China",
+            "The Soviet Union",
+            "Vietnam",
+            "North Korea"
+        ],
+        "answer": "The Soviet Union",
+        "explanation": "It was the closest the Cold War came to escalating into a full-scale nuclear war."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Tet Offensive}$ was a major turning point in which war?",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Vietnam War",
+            "The Korean War",
+            "The Gulf War"
+        ],
+        "answer": "The Vietnam War",
+        "explanation": "Launched in 1968 by North Vietnamese forces, it weakened US public support for the war."
+    },
+    {
+        "id": "H35",
+        "text": "Who initiated the $\\textbf{Cultural Revolution}$ in China?",
+        "image": "",
+        "options": [
+            "Sun Yat-sen",
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao launched the movement in 1966 to preserve Communist ideology and purge traditional elements."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Chernobyl Disaster}$ (1986) occurred in which modern-day country?",
+        "image": "",
+        "options": [
+            "Russia",
+            "Belarus",
+            "Ukraine",
+            "Poland"
+        ],
+        "answer": "Ukraine",
+        "explanation": "It was a catastrophic nuclear accident at the Chernobyl Nuclear Power Plant in the Ukrainian SSR."
+    },
+    {
+        "id": "H37",
+        "text": "Who invented the $\\textbf{World Wide Web}$ in 1989?",
+        "image": "",
+        "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Tim Berners-Lee",
+            "Al Gore"
+        ],
+        "answer": "Tim Berners-Lee",
+        "explanation": "He proposed the system while working at CERN to help scientists share information."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Rwandan Genocide}$ of 1994 involved conflict between which two groups?",
+        "image": "",
+        "options": [
+            "Hutus and Tutsis",
+            "Sunnis and Shias",
+            "Serbs and Croats",
+            "Zulus and Boers"
+        ],
+        "answer": "Hutus and Tutsis",
+        "explanation": "Extremist Hutus targeted the Tutsi minority, killing approximately 800,000 people."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Panama Canal}$ was officially transferred from US to Panamanian control in:",
+        "image": "",
+        "options": [
+            "1979",
+            "1989",
+            "1999",
+            "2009"
+        ],
+        "answer": "1999",
+        "explanation": "The transfer was the result of the Torrijos-Carter Treaties signed in 1977."
+    },
+    {
+        "id": "H40",
+        "text": "Who was the first woman to win a Nobel Prize and remains the only person to win in two different scientific fields?",
+        "image": "",
+        "options": [
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Marie Curie",
+            "Jane Goodall"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "Curie won for Physics (1903) and Chemistry (1911) for her work on radioactivity."
+    }
+]

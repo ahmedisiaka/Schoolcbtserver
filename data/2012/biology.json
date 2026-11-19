@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2012_01",
+      "text": "The $\\text{Plasma}$ $\\text{Membrane}$ is described as being $\\text{Selectively}$ $\\text{Permeable}$ because it:",
+      "image": "[Diagram of Fluid Mosaic Model of Cell Membrane]",
+      "options": [
+        "Allows $\\text{All}$ $\\text{Substances}$ to pass through $\\text{Freely}$",
+        "Is $\\text{Impermeable}$ to $\\text{All}$ $\\text{Solutes}$",
+        "Controls the passage of $\\text{Specific}$ $\\text{Molecules}$ in and out of the cell",
+        "Is composed mainly of $\\text{Cellulose}$"
+      ],
+      "answer": "Controls the passage of $\\text{Specific}$ $\\text{Molecules}$ in and out of the cell",
+      "explanation": "A $\\text{Selectively}$ $\\text{Permeable}$ membrane regulates which molecules enter or leave the cell, maintaining the internal cellular environment ($\text{Homeostasis}$)."
+    },
+    {
+      "id": "BIO_2012_02",
+      "text": "Which of the following processes requires the direct use of $\\text{Energy}$ ($\\text{ATP}$)?",
+      "image": "[Diagram comparing Active Transport and Passive Transport]",
+      "options": [
+        "Osmosis",
+        "Diffusion",
+        "Active $\\text{Transport}$",
+        "Facilitated $\\text{Diffusion}$"
+      ],
+      "answer": "Active $\\text{Transport}$",
+      "explanation": "$\\text{Active}$ $\\text{Transport}$ moves substances against their $\\text{Concentration}$ $\\text{Gradient}$ (from low to high concentration) and therefore requires energy in the form of $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2012_03",
+      "text": "The simplest $\\text{Living}$ $\\text{Organism}$ that lacks a true $\\text{Nucleus}$ and $\\text{Membrane}$-$\\text{bound}$ $\\text{Organelles}$ belongs to the Kingdom:",
+      "image": "[Diagram comparing Prokaryotic and Eukaryotic Cells]",
+      "options": [
+        "Protista",
+        "Monera",
+        "Fungi",
+        "Animalia"
+      ],
+      "answer": "Monera",
+      "explanation": "The $\\text{Kingdom}$ $\\text{Monera}$ (now often classified into $\\text{Archaea}$ and $\\text{Bacteria}$) contains $\\text{Prokaryotic}$ $\\text{Organisms}$ which lack a nuclear membrane and other membrane-bound organelles."
+    },
+    {
+      "id": "BIO_2012_04",
+      "text": "The structure in the eye that controls the amount of $\\text{Light}$ entering the eye is the:",
+      "image": "[Diagram of the human eye showing the Iris and Pupil]",
+      "options": [
+        "Retina",
+        "Cornea",
+        "Lens",
+        "Iris"
+      ],
+      "answer": "Iris",
+      "explanation": "The $\\text{Iris}$ is the $\\text{Muscular}$, pigmented part of the eye that expands or contracts to regulate the size of the $\\text{Pupil}$, thereby controlling light entry."
+    },
+    {
+      "id": "BIO_2012_05",
+      "text": "In mammals, the exchange of $\\text{Gases}$ between the blood and the $\\text{Tissues}$ occurs in the:",
+      "image": "[Diagram of the Capillary network in tissue]",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Aorta"
+      ],
+      "answer": "Capillaries",
+      "explanation": "$\\text{Capillaries}$ have very $\\text{Thin}$ walls (one cell thick) which facilitates the $\\text{Diffusion}$ of $\\text{Oxygen}$, $\\text{Nutrients}$, $\\text{Carbon}$ $\\text{Dioxide}$, and $\\text{Wastes}$ between the blood and the surrounding tissues."
+    },
+    {
+      "id": "BIO_2012_06",
+      "text": "The most appropriate method for measuring the rate of $\\text{Transpiration}$ in a leafy shoot is by using a:",
+      "image": "[Diagram of a Potometer apparatus]",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Potometer",
+        "Hydrometer"
+      ],
+      "answer": "Potometer",
+      "explanation": "A $\\text{Potometer}$ measures the rate of $\\text{Water}$ $\\text{Uptake}$ by a leafy shoot, which is a close approximation of the rate of $\\text{Transpiration}$ (water loss)."
+    },
+    {
+      "id": "BIO_2012_07",
+      "text": "What is the primary function of $\\text{Fungi}$ (e.g., $\\text{Mushrooms}$ and $\\text{Moulds}$) in an ecosystem?",
+      "image": "[Diagram of a fungus breaking down dead wood]",
+      "options": [
+        "Production of $\\text{Food}$ through $\\text{Photosynthesis}$",
+        "Primary $\\text{Consumption}$ of $\\text{Plant}$ $\\text{Matter}$",
+        "Decomposition of $\\text{Organic}$ $\\text{Matter}$",
+        "Nitrogen $\\text{Fixation}$"
+      ],
+      "answer": "Decomposition of $\\text{Organic}$ $\\text{Matter}$",
+      "explanation": "$\\text{Fungi}$ are heterotrophic $\\text{Decomposers}$ that secrete $\\text{Enzymes}$ externally to break down dead organic materials, recycling essential nutrients back into the soil."
+    },
+    {
+      "id": "BIO_2012_08",
+      "text": "The process where $\\text{Similar}$ $\\text{Organisms}$ $\\text{Compete}$ for a limited resource in an ecosystem is called:",
+      "image": "[Graph showing competitive exclusion between two similar species]",
+      "options": [
+        "Interspecific $\\text{Competition}$",
+        "Intraspecific $\\text{Competition}$",
+        "Predation",
+        "Commensalism"
+      ],
+      "answer": "Intraspecific $\\text{Competition}$",
+      "explanation": "$\\text{Intraspecific}$ $\\text{Competition}$ occurs among members of the $\\text{Same}$ $\\text{Species}$ (intra = within) for resources like food, mates, or territory."
+    },
+    {
+      "id": "BIO_2012_09",
+      "text": "Which enzyme acts in the $\\text{Acidic}$ $\\text{Medium}$ of the $\\text{Stomach}$?",
+      "image": "[Diagram of the stomach lining showing release of Pepsin and HCl]",
+      "options": [
+        "Amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": "Pepsin",
+      "explanation": "$\\text{Pepsin}$ is a $\\text{Protease}$ enzyme that begins $\\text{Protein}$ $\\text{Digestion}$ and is only active in the $\\text{Highly}$ $\\text{Acidic}$ environment (low $\\text{pH}$) provided by $\\text{Hydrochloric}$ $\\text{Acid}$ in the $\\text{Stomach}$."
+    },
+    {
+      "id": "BIO_2012_10",
+      "text": "A physical structure or behavioural trait that enables an organism to survive and reproduce in its environment is called an:",
+      "image": "[Image showing camouflage adaptation in a chameleon]",
+      "options": [
+        "Ecology",
+        "Adaptation",
+        "Mutation",
+        "Variation"
+      ],
+      "answer": "Adaptation",
+      "explanation": "An $\\text{Adaptation}$ is a feature that has evolved by $\\text{Natural}$ $\\text{Selection}$ to increase an organism's $\\text{Fitness}$ (survival and reproductive success) in its specific habitat."
+    },
+    {
+      "id": "BIO_2012_11",
+      "text": "The $\\text{Autotrophs}$ in an aquatic environment are mainly the:",
+      "image": "",
+      "options": [
+        "Zooplankton",
+        "Fishes",
+        "Phytoplankton",
+        "Bacteria"
+      ],
+      "answer": "Phytoplankton",
+      "explanation": "$\\text{Phytoplankton}$ are microscopic $\\text{Algae}$ and $\\text{Cyanobacteria}$ that are capable of $\\text{Photosynthesis}$ (producing their own food), making them the primary $\\text{Producers}$ (autotrophs) in aquatic food chains."
+    },
+    {
+      "id": "BIO_2012_12",
+      "text": "In the $\\text{Human}$ $\\text{Body}$, the synthesis of $\\text{Urea}$ mainly takes place in the:",
+      "image": "[Diagram showing the Liver's role in the Urea Cycle]",
+      "options": [
+        "Kidneys",
+        "Spleen",
+        "Liver",
+        "Pancreas"
+      ],
+      "answer": "Liver",
+      "explanation": "The $\\text{Liver}$ converts $\\text{Toxic}$ $\\text{Ammonia}$ (from $\\text{Amino}$ $\\text{Acid}$ $\\text{Deamination}$) into the less toxic $\\text{Urea}$ via the $\\text{Urea}$ $\\text{Cycle}$. The $\\text{Kidneys}$ then filter the urea out of the blood."
+    },
+    {
+      "id": "BIO_2012_13",
+      "text": "Which type of $\\text{Reproduction}$ involves the fusion of $\\text{Gametes}$?",
+      "image": "[Diagram illustrating fertilization (fusion of gametes)]",
+      "options": [
+        "Budding",
+        "Binary $\\text{Fission}$",
+        "Sexual $\\text{Reproduction}$",
+        "Vegetative $\\text{Propagation}$"
+      ],
+      "answer": "Sexual $\\text{Reproduction}$",
+      "explanation": "$\\text{Sexual}$ $\\text{Reproduction}$ is characterized by the production of $\\text{Haploid}$ $\\text{Gametes}$ (sex cells) and their $\\text{Fusion}$ ($\text{Fertilization}$) to form a $\\text{Diploid}$ $\\text{Zygote}$."
+    },
+    {
+      "id": "BIO_2012_14",
+      "text": "The $\\text{Waste}$ $\\text{Product}$ of the $\\text{Photosynthesis}$ reaction that is released into the atmosphere is:",
+      "image": "[Chemical equation for Photosynthesis]",
+      "options": [
+        "Carbon $\\text{Dioxide}$",
+        "Glucose",
+        "Water",
+        "Oxygen"
+      ],
+      "answer": "Oxygen",
+      "explanation": "The overall equation for $\\text{Photosynthesis}$ is $6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2$. $\\text{Oxygen}$ ($\text{O}_2$) is released from the splitting of water in the light reaction."
+    },
+    {
+      "id": "BIO_2012_15",
+      "text": "The part of the flower that receives the $\\text{Pollen}$ grain during $\\text{Pollination}$ is the:",
+      "image": "[Diagram of a flower pistil showing Stigma, Style, and Ovary]",
+      "options": [
+        "Ovary",
+        "Style",
+        "Stigma",
+        "Anther"
+      ],
+      "answer": "Stigma",
+      "explanation": "The $\\text{Stigma}$ is the receptive $\\text{Tip}$ of the $\\text{Pistil}$ (carpel) where pollen grains land and germinate."
+    },
+    {
+      "id": "BIO_2012_16",
+      "text": "In a $\\text{Dihybrid}$ $\\text{Cross}$, crossing two double $\\text{Heterozygotes}$ ($\text{AaBb}$ $\\text{x}$ $\\text{AaBb}$), the expected $\\text{Phenotypic}$ $\\text{Ratio}$ in the $\\text{Offspring}$ is:",
+      "image": "[Punnett square for a typical dihybrid cross (9:3:3:1)]",
+      "options": [
+        "$1:1$",
+        "$3:1$",
+        "$1:2:1$",
+        "$9:3:3:1$"
+      ],
+      "answer": "$9:3:3:1$",
+      "explanation": "The $\\text{9:3:3:1}$ ratio represents the four possible $\\text{Phenotypes}$ (Dominant/Dominant, Dominant/Recessive, Recessive/Dominant, Recessive/Recessive) when two individuals heterozygous for two traits are crossed, assuming $\\text{Independent}$ $\\text{Assortment}$."
+    },
+    {
+      "id": "BIO_2012_17",
+      "text": "The function of the $\\text{Cerebellum}$ in the $\\text{Human}$ $\\text{Brain}$ is mainly concerned with:",
+      "image": "[Diagram of the human brain highlighting the Cerebellum]",
+      "options": [
+        "Memory and $\\text{Learning}$",
+        "Regulation of $\\text{Heart}$ $\\text{Rate}$ and $\\text{Breathing}$",
+        "Coordination of $\\text{Movement}$ and $\\text{Balance}$",
+        "Interpretation of $\\text{Vision}$"
+      ],
+      "answer": "Coordination of $\\text{Movement}$ and $\\text{Balance}$",
+      "explanation": "The $\\text{Cerebellum}$ (located below the $\\text{Cerebrum}$) integrates sensory information and coordinates $\\text{Voluntary}$ movements, posture, and balance."
+    },
+    {
+      "id": "BIO_2012_18",
+      "text": "An organism that possesses both $\\text{Male}$ and $\\text{Female}$ $\\text{Reproductive}$ $\\text{Organs}$ is known as a:",
+      "image": "",
+      "options": [
+        "Unisexual $\\text{Organism}$",
+        "Dioecious $\\text{Organism}$",
+        "Hermaphrodite",
+        "Parasite"
+      ],
+      "answer": "Hermaphrodite",
+      "explanation": "A $\\text{Hermaphrodite}$ is an organism (e.g., $\\text{Earthworm}$, $\\text{Snail}$, many plants) that has both $\\text{Testes}$ and $\\text{Ovaries}$ (or equivalents) in the same individual."
+    },
+    {
+      "id": "BIO_2012_19",
+      "text": "The $\\text{Vector}$ for the pathogen that causes $\\text{Malaria}$ is the:",
+      "image": "",
+      "options": [
+        "Housefly",
+        "Tsetse $\\text{Fly}$",
+        "Female $\\text{Anopheles}$ $\\text{Mosquito}$",
+        "Blackfly"
+      ],
+      "answer": "Female $\\text{Anopheles}$ $\\text{Mosquito}$",
+      "explanation": "The $\\text{Female}$ $\\text{Anopheles}$ $\\text{Mosquito}$ is the definitive host and $\\text{Vector}$ for the $\\text{Plasmodium}$ $\\text{Protozoan}$ which causes $\\text{Malaria}$."
+    },
+    {
+      "id": "BIO_2012_20",
+      "text": "The $\\text{Root}$ $\\text{Cap}$ is important to a plant root because it:",
+      "image": "[Diagram of a root tip showing the Root Cap]",
+      "options": [
+        "Absorbs $\\text{Water}$ and $\\text{Minerals}$",
+        "Protects the $\\text{Growing}$ $\\text{Point}$",
+        "Produces $\\text{Auxin}$",
+        "Aids in $\\text{Gas}$ $\\text{Exchange}$"
+      ],
+      "answer": "Protects the $\\text{Growing}$ $\\text{Point}$",
+      "explanation": "The $\\text{Root}$ $\\text{Cap}$ is a protective layer of cells covering the $\\text{Apical}$ $\\text{Meristem}$ (growing tip) to shield it from $\\text{Damage}$ as it pushes through the soil."
+    },
+    {
+      "id": "BIO_2012_21",
+      "text": "During $\\text{Respiration}$, the $\\text{Energy}$ released from the breakdown of $\\text{Glucose}$ is stored in the form of:",
+      "image": "[Diagram illustrating the structure of an ATP molecule]",
+      "options": [
+        "Glucose",
+        "Water",
+        "Adenosine $\\text{Triphosphate}$ ($\\text{ATP}$)",
+        "Carbon $\\text{Dioxide}$"
+      ],
+      "answer": "Adenosine $\\text{Triphosphate}$ ($\\text{ATP}$)",
+      "explanation": "$\\text{ATP}$ is the universal energy $\\text{Currency}$ of the cell. The energy from $\\text{Glucose}$ oxidation is trapped and stored in the $\\text{High}$-$\\text{Energy}$ $\\text{Phosphate}$ bonds of $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2012_22",
+      "text": "The $\\text{Skeletal}$ $\\text{Muscles}$ that cause movement in opposite directions (e.g., $\\text{Biceps}$ and $\\text{Triceps}$) are known as:",
+      "image": "[Diagram showing Biceps and Triceps acting as antagonistic muscles]",
+      "options": [
+        "Synergistic $\\text{Muscles}$",
+        "Antagonistic $\\text{Muscles}$",
+        "Cardiac $\\text{Muscles}$",
+        "Smooth $\\text{Muscles}$"
+      ],
+      "answer": "Antagonistic $\\text{Muscles}$",
+      "explanation": "$\\text{Antagonistic}$ $\\text{Muscles}$ work in $\\text{Opposing}$ $\\text{Pairs}$. When one contracts (the $\\text{Agonist}$), the other relaxes (the $\\text{Antagonist}$) to produce movement."
+    },
+    {
+      "id": "BIO_2012_23",
+      "text": "Which part of a seed contains the $\\text{Embryo}$ and the $\\text{Food}$ $\\text{Supply}$ for germination?",
+      "image": "[Diagram of a Dicot seed showing Cotyledon and Embryo]",
+      "options": [
+        "Testa",
+        "Micropyle",
+        "Hilum",
+        "Cotyledon"
+      ],
+      "answer": "Cotyledon",
+      "explanation": "The $\\text{Cotyledons}$ are the seed leaves, which store $\\text{Food}$ ($\text{Starch}$, $\\text{Protein}$, $\\text{Lipids}$) and, in some cases, form the first photosynthetic leaves of the seedling."
+    },
+    {
+      "id": "BIO_2012_24",
+      "text": "The $\\text{Hormone}$ that regulates the concentration of $\\text{Glucose}$ in the blood is:",
+      "image": "[Diagram showing Insulin and Glucagon regulation loop]",
+      "options": [
+        "Adrenaline",
+        "Thyroxine",
+        "Insulin",
+        "Testosterone"
+      ],
+      "answer": "Insulin",
+      "explanation": "$\\text{Insulin}$, secreted by the $\\text{Pancreas}$, $\\text{Lowers}$ $\\text{Blood}$ $\\text{Glucose}$ levels by prompting cells (especially $\\text{Muscle}$ and $\\text{Liver}$ cells) to take up glucose from the blood."
+    },
+    {
+      "id": "BIO_2012_25",
+      "text": "In the $\\text{Lungs}$, $\\text{Oxygen}$ moves from the $\\text{Alveoli}$ to the $\\text{Blood}$ in the capillaries by the process of:",
+      "image": "[Diagram of gas exchange in the Alveoli]",
+      "options": [
+        "Active $\\text{Transport}$",
+        "Diffusion",
+        "Osmosis",
+        "Filtration"
+      ],
+      "answer": "Diffusion",
+      "explanation": "Gas exchange occurs by $\\text{Simple}$ $\\text{Diffusion}$ across the thin $\\text{Alveolar}$ and $\\text{Capillary}$ walls, moving from an area of $\\text{High}$ $\\text{Partial}$ $\\text{Pressure}$ to $\\text{Low}$ $\\text{Partial}$ $\\text{Pressure}$."
+    },
+    {
+      "id": "BIO_2012_26",
+      "text": "Which of the following describes $\\text{Homologous}$ $\\text{Structures}$ in $\\text{Evolution}$?",
+      "image": "[Diagram comparing the forelimbs of a human, bat, and whale]",
+      "options": [
+        "Structures with $\\text{Different}$ $\\text{Origin}$ but $\\text{Similar}$ $\\text{Function}$",
+        "Structures with $\\text{Similar}$ $\\text{Origin}$ but $\\text{Different}$ $\\text{Function}$",
+        "Structures with $\\text{No}$ $\\text{Functional}$ $\\text{Similarity}$",
+        "Structures found in $\\text{Different}$ $\\text{Phyla}$"
+      ],
+      "answer": "Structures with $\\text{Similar}$ $\\text{Origin}$ but $\\text{Different}$ $\\text{Function}$",
+      "explanation": "$\\text{Homologous}$ $\\text{Structures}$ (e.g., the forelimbs of mammals) indicate a $\\text{Common}$ $\\text{Ancestry}$ ($\text{Similar}$ $\\text{Origin}$), but they have been modified to serve different functions ($\text{Divergent}$ $\\text{Evolution}$)."
+    },
+    {
+      "id": "BIO_2012_27",
+      "text": "The simplest $\\text{Excretory}$ $\\text{Organ}$ found in the $\\text{Flatworm}$ ($\text{Platyhelminthes}$) is the:",
+      "image": "[Diagram of a Flatworm showing a Protonephridium/Flame Cell]",
+      "options": [
+        "Malpighian $\\text{Tubule}$",
+        "Kidney",
+        "Nephridium",
+        "Flame $\\text{Cell}$ ($\text{Protonephridium}$)"
+      ],
+      "answer": "Flame $\\text{Cell}$ ($\text{Protonephridium}$)",
+      "explanation": "$\\text{Flatworms}$ use $\\text{Flame}$ $\\text{Cells}$ and their associated tubules ($\text{Protonephridia}$) for $\\text{Osmoregulation}$ and $\\text{Excretion}$."
+    },
+    {
+      "id": "BIO_2012_28",
+      "text": "The $\\text{Cell}$ $\\text{Component}$ that contains $\\text{Digestive}$ $\\text{Enzymes}$ and is involved in breaking down worn-out cell parts is the:",
+      "image": "[Diagram of a Lysosome fusing with a food vacuole]",
+      "options": [
+        "Mitochondrion",
+        "Ribosome",
+        "Lysosome",
+        "Vacuole"
+      ],
+      "answer": "Lysosome",
+      "explanation": "$\\text{Lysosomes}$ are vesicles containing $\\text{Hydrolytic}$ $\\text{Enzymes}$ that break down excess or worn-out cell parts, as well as invading viruses or bacteria ($\text{Autophagy}$ and $\\text{Phagocytosis}$)."
+    },
+    {
+      "id": "BIO_2012_29",
+      "text": "Which of the following is an example of a $\\text{Conditioned}$ $\\text{Reflex}$ $\\text{Action}$?",
+      "image": "",
+      "options": [
+        "Knee-jerk $\\text{Response}$",
+        "Salivation at the $\\text{Sight}$ of $\\text{Food}$",
+        "Withdrawal of the $\\text{Hand}$ from a $\\text{Hot}$ $\\text{Object}$",
+        "Coughing"
+      ],
+      "answer": "Salivation at the $\\text{Sight}$ of $\\text{Food}$",
+      "explanation": "A $\\text{Conditioned}$ $\\text{Reflex}$ is a learned response developed through $\\text{Association}$, famously demonstrated by $\\text{Pavlov}$ (e.g., salivating to a sound or sight associated with food). The others are $\\text{Unconditioned}$ (innate) reflexes."
+    },
+    {
+      "id": "BIO_2012_30",
+      "text": "The $\\text{Translocation}$ of $\\text{Manufactured}$ $\\text{Food}$ in a plant occurs mainly in the:",
+      "image": "[Cross-section of a plant stem showing Phloem tissue]",
+      "options": [
+        "Xylem",
+        "Pith",
+        "Phloem",
+        "Cortex"
+      ],
+      "answer": "Phloem",
+      "explanation": "The $\\text{Phloem}$ tissue, specifically the $\\text{Sieve}$ $\\text{Tubes}$, is responsible for transporting $\\text{Sugars}$ (manufactured food, mainly $\\text{Sucrose}$) from the leaves ($\text{Source}$) to other parts of the plant ($\text{Sink}$)."
+    },
+    {
+      "id": "BIO_2012_31",
+      "text": "A disease caused by a $\\text{Deficiency}$ of $\\text{Vitamin}$ $\\text{C}$ is:",
+      "image": "",
+      "options": [
+        "Beriberi",
+        "Rickets",
+        "Scurvy",
+        "Pellagra"
+      ],
+      "answer": "Scurvy",
+      "explanation": "$\\text{Scurvy}$ is characterized by bleeding gums and poor wound healing due to a lack of $\\text{Ascorbic}$ $\\text{Acid}$ ($\text{Vitamin}$ $\\text{C}$), which is vital for $\\text{Collagen}$ synthesis."
+    },
+    {
+      "id": "BIO_2012_32",
+      "text": "The function of $\\text{Nucleic}$ $\\text{Acids}$ ($\\text{DNA}$ and $\\text{RNA}$) is primarily:",
+      "image": "[Diagram of DNA double helix structure]",
+      "options": [
+        "To catalyze $\\text{Chemical}$ $\\text{Reactions}$",
+        "To provide $\\text{Structural}$ $\\text{Support}$ to the $\\text{Cell}$",
+        "To store and transmit $\\text{Genetic}$ $\\text{Information}$",
+        "To act as $\\text{Hormones}$"
+      ],
+      "answer": "To store and transmit $\\text{Genetic}$ $\\text{Information}$",
+      "explanation": "$\\text{DNA}$ stores the $\\text{Genetic}$ $\\text{Code}$, while $\\text{RNA}$ is involved in carrying that information and executing $\\text{Protein}$ $\\text{Synthesis}$ (gene expression)."
+    },
+    {
+      "id": "BIO_2012_33",
+      "text": "Which of the following features is $\\text{Common}$ to both $\\text{Insects}$ and $\\text{Spiders}$?",
+      "image": "[Diagram comparing an Insect (3 body parts) and an Arachnid (2 body parts)]",
+      "options": [
+        "Presence of $\\text{Three}$ $\\text{Body}$ $\\text{Segments}$",
+        "Possession of $\\text{Compound}$ $\\text{Eyes}$",
+        "Jointed $\\text{Appendages}$ and $\\text{Exoskeleton}$",
+        "Having $\\text{Three}$ $\\text{Pairs}$ of $\\text{Legs}$"
+      ],
+      "answer": "Jointed $\\text{Appendages}$ and $\\text{Exoskeleton}$",
+      "explanation": "Both $\\text{Insects}$ and $\\text{Spiders}$ belong to the $\\text{Phylum}$ $\\text{Arthropoda}$, characterized by a $\\text{Chitinous}$ $\\text{Exoskeleton}$ and $\\text{Jointed}$ $\\text{Appendages}$. Insects have 3 body segments and 3 pairs of legs; spiders have 2 body segments and 4 pairs of legs."
+    },
+    {
+      "id": "BIO_2012_34",
+      "text": "The type of $\\text{Placenta}$ found in mammals where the $\\text{Foetal}$ and $\\text{Maternal}$ $\\text{Blood}$ $\\text{Vessels}$ are in $\\text{Close}$ $\\text{Contact}$ but do not $\\text{Mix}$ is called:",
+      "image": "[Microscopic view of Villi in the Placenta]",
+      "options": [
+        "Amnion",
+        "Chorion",
+        "Allantois",
+        "Haemochorial $\\text{Placenta}$"
+      ],
+      "answer": "Haemochorial $\\text{Placenta}$",
+      "explanation": "The $\\text{Human}$ $\\text{Placenta}$ is $\\text{Haemochorial}$, meaning the $\\text{Foetal}$ $\\text{Chorionic}$ $\\text{Villi}$ are bathed directly in $\\text{Maternal}$ $\\text{Blood}$ $\\text{Sinuses}$. This arrangement facilitates highly efficient exchange of substances but keeps the bloodstreams separate."
+    },
+    {
+      "id": "BIO_2012_35",
+      "text": "$\\text{Biological}$ $\\text{Control}$ of $\\text{Pests}$ involves the use of:",
+      "image": "",
+      "options": [
+        "Chemical $\\text{Pesticides}$",
+        "Natural $\\text{Enemies}$ of the $\\text{Pest}$",
+        "Sterile $\\text{Male}$ $\\text{Technique}$ $\\text{Only}$",
+        "Burning $\\text{Infected}$ $\\text{Crops}$"
+      ],
+      "answer": "Natural $\\text{Enemies}$ of the $\\text{Pest}$",
+      "explanation": "$\\text{Biological}$ $\\text{Control}$ is the use of one organism's $\\text{Natural}$ $\\text{Predator}$, $\\text{Parasite}$, or $\\text{Pathogen}$ to $\\text{Reduce}$ the population of another (the $\\text{Pest}$)."
+    },
+    {
+      "id": "BIO_2012_36",
+      "text": "The $\\text{Sense}$ $\\text{Organ}$ responsible for detecting the $\\text{Position}$ and $\\text{Movement}$ of the $\\text{Head}$ in mammals is the:",
+      "image": "[Diagram of the human ear showing the Semicircular Canals]",
+      "options": [
+        "Cochlea",
+        "Eardrum",
+        "Semicircular $\\text{Canals}$",
+        "Auditory $\\text{Nerve}$"
+      ],
+      "answer": "Semicircular $\\text{Canals}$",
+      "explanation": "The three $\\text{Semicircular}$ $\\text{Canals}$ in the $\\text{Inner}$ $\\text{Ear}$ are filled with fluid and contain sensory hairs. They detect $\\text{Rotational}$ $\\text{Movement}$ of the head, contributing to the sense of $\\text{Balance}$ ($\text{Equilibrium}$)."
+    },
+    {
+      "id": "BIO_2012_37",
+      "text": "Which of the following is $\\text{NOT}$ a major cause of $\\text{Loss}$ of $\\text{Biodiversity}$?",
+      "image": "",
+      "options": [
+        "Habitat $\\text{Destruction}$",
+        "Introduction of $\\text{Exotic}$ $\\text{Species}$",
+        "Over-exploitation",
+        "Conservation $\\text{Efforts}$"
+      ],
+      "answer": "Conservation $\\text{Efforts}$",
+      "explanation": "$\\text{Conservation}$ $\\text{Efforts}$ (e.g., establishing national parks, captive breeding) are aimed at $\\text{Preserving}$ and $\\text{Increasing}$ $\\text{Biodiversity}$, not causing its loss. The others are major threats."
+    },
+    {
+      "id": "BIO_2012_38",
+      "text": "The simplest form of $\\text{Skeletal}$ $\\text{Structure}$ found in animals like the $\\text{Earthworm}$ is the:",
+      "image": "[Diagram illustrating hydrostatic skeleton in an earthworm]",
+      "options": [
+        "Exoskeleton",
+        "Endoskeleton",
+        "Hydrostatic $\\text{Skeleton}$",
+        "Cartilage $\\text{Skeleton}$"
+      ],
+      "answer": "Hydrostatic $\\text{Skeleton}$",
+      "explanation": "A $\\text{Hydrostatic}$ $\\text{Skeleton}$ uses the $\\text{Pressure}$ of $\\text{Fluid}$ (water or coelomic fluid) contained within a body cavity to support the body and facilitate movement, typical of $\\text{Earthworms}$ and $\\text{Jellyfish}$."
+    },
+    {
+      "id": "BIO_2012_39",
+      "text": "The $\\text{Cell}$ $\\text{Wall}$ of a $\\text{Plant}$ $\\text{Cell}$ is primarily made up of the polysaccharide:",
+      "image": "[Molecular structure of Cellulose chains]",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": "Cellulose",
+      "explanation": "$\\text{Cellulose}$ is a major structural component of the $\\text{Cell}$ $\\text{Wall}$ in $\\text{Green}$ $\\text{Plants}$ and is responsible for providing $\\text{Rigidity}$ and $\\text{Strength}$."
+    },
+    {
+      "id": "BIO_2012_40",
+      "text": "Which of the following is the final product of $\\text{Anaerobic}$ $\\text{Respiration}$ in $\\text{Yeast}$?",
+      "image": "[Chemical equation for Alcoholic Fermentation]",
+      "options": [
+        "Lactic $\\text{Acid}$ and $\\text{Oxygen}$",
+        "Alcohol ($\\text{Ethanol}$) and $\\text{Carbon}$ $\\text{Dioxide}$",
+        "Water and $\\text{Carbon}$ $\\text{Dioxide}$",
+        "Glucose"
+      ],
+      "answer": "Alcohol ($\\text{Ethanol}$) and $\\text{Carbon}$ $\\text{Dioxide}$",
+      "explanation": "$\\text{Anaerobic}$ $\\text{Respiration}$ ($\text{Fermentation}$) in $\\text{Yeast}$ produces $\\text{Ethanol}$ ($\text{C}_2\\text{H}_5\\text{OH}$) and $\\text{Carbon}$ $\\text{Dioxide}$ ($\text{CO}_2$) through the process of $\\text{Alcoholic}$ $\\text{Fermentation}$."
+    }
+  ]

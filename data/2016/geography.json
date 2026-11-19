@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G01",
+        "text": "What is the largest ocean on Earth by surface area?",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean covers about 46% of Earth's water surface and is larger than all of Earth's land area combined."
+    },
+    {
+        "id": "G02",
+        "text": "The $\\textbf{Eiffel Tower}$ is a landmark located in which European capital city?",
+        "image": "",
+        "options": [
+            "London",
+            "Berlin",
+            "Rome",
+            "Paris"
+        ],
+        "answer": "Paris",
+        "explanation": "Located on the Champ de Mars in Paris, France, it is one of the most recognizable structures in the world."
+    },
+    {
+        "id": "G03",
+        "text": "Which country has the most natural $\\textbf{lakes}$ in the world?",
+        "image": "",
+        "options": [
+            "United States",
+            "Canada",
+            "Russia",
+            "Brazil"
+        ],
+        "answer": "Canada",
+        "explanation": "Canada has more lakes than the rest of the world's countries combined."
+    },
+    {
+        "id": "G04",
+        "text": "What is the capital city of $\\textbf{Japan}$?",
+        "image": "",
+        "options": [
+            "Kyoto",
+            "Osaka",
+            "Tokyo",
+            "Hiroshima"
+        ],
+        "answer": "Tokyo",
+        "explanation": "Tokyo is the political and economic center of Japan and the seat of the Emperor."
+    },
+    {
+        "id": "G05",
+        "text": "Which river carries the largest volume of water in the world?",
+        "image": "",
+        "options": [
+            "The Nile",
+            "The Mississippi",
+            "The Amazon",
+            "The Yangtze"
+        ],
+        "answer": "The Amazon",
+        "explanation": "The Amazon River in South America discharges more water than the next seven largest rivers combined."
+    },
+    {
+        "id": "G06",
+        "text": "The $\\textbf{Galápagos Islands}$, famous for their biodiversity, belong to which country?",
+        "image": "",
+        "options": [
+            "Peru",
+            "Colombia",
+            "Ecuador",
+            "Chile"
+        ],
+        "answer": "Ecuador",
+        "explanation": "This archipelago is located in the Pacific Ocean, about 906 km west of continental Ecuador."
+    },
+    {
+        "id": "G07",
+        "text": "Which European country is known as the $\\textbf{Land of Fire and Ice}$ due to its volcanoes and glaciers?",
+        "image": "",
+        "options": [
+            "Norway",
+            "Iceland",
+            "Finland",
+            "Greenland"
+        ],
+        "answer": "Iceland",
+        "explanation": "Iceland is geologically active with many volcanoes, yet also has massive glaciers like Vatnajökull."
+    },
+    {
+        "id": "G08",
+        "text": "What is the capital city of $\\textbf{China}$?",
+        "image": "",
+        "options": [
+            "Shanghai",
+            "Hong Kong",
+            "Beijing",
+            "Shenzhen"
+        ],
+        "answer": "Beijing",
+        "explanation": "Beijing has been the capital of China for centuries and is known for the Forbidden City."
+    },
+    {
+        "id": "G09",
+        "text": "The $\\textbf{Suez Canal}$ connects the Mediterranean Sea to the:",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+        ],
+        "answer": "Red Sea",
+        "explanation": "Located in Egypt, it provides the shortest maritime route between Europe and the lands lying around the Indian and western Pacific oceans."
+    },
+    {
+        "id": "G10",
+        "text": "Which continent is the $\\textbf{coldest, driest, and windiest}$ on Earth?",
+        "image": "",
+        "options": [
+            "Europe",
+            "Asia",
+            "North America",
+            "Antarctica"
+        ],
+        "answer": "Antarctica",
+        "explanation": "Antarctica is almost entirely covered by ice and holds the record for the lowest temperature ever recorded on Earth."
+    },
+    {
+        "id": "G11",
+        "text": "What is the deepest lake in the world?",
+        "image": "",
+        "options": [
+            "Lake Superior",
+            "Lake Victoria",
+            "Lake Baikal",
+            "Lake Tanganyika"
+        ],
+        "answer": "Lake Baikal",
+        "explanation": "Located in Siberia, Russia, Lake Baikal is the deepest and oldest freshwater lake in the world."
+    },
+    {
+        "id": "G12",
+        "text": "Which country is home to the $\\textbf{Acropolis}$ of Athens?",
+        "image": "",
+        "options": [
+            "Italy",
+            "Turkey",
+            "Greece",
+            "Egypt"
+        ],
+        "answer": "Greece",
+        "explanation": "The Acropolis is an ancient citadel located on a rocky outcrop above the city of Athens."
+    },
+    {
+        "id": "G13",
+        "text": "The $\\textbf{English Channel}$ separates the United Kingdom from which country?",
+        "image": "",
+        "options": [
+            "Belgium",
+            "France",
+            "Ireland",
+            "Netherlands"
+        ],
+        "answer": "France",
+        "explanation": "At its narrowest point, the Strait of Dover, the distance is only about 34 kilometers (21 miles)."
+    },
+    {
+        "id": "G14",
+        "text": "What is the capital city of $\\textbf{Egypt}$?",
+        "image": "",
+        "options": [
+            "Alexandria",
+            "Giza",
+            "Cairo",
+            "Luxor"
+        ],
+        "answer": "Cairo",
+        "explanation": "Cairo is the largest city in the Arab world and is located near the Nile Delta."
+    },
+    {
+        "id": "G15",
+        "text": "Which mountain range stretches across Italy from north to south?",
+        "image": "",
+        "options": [
+            "The Alps",
+            "The Pyrenees",
+            "The Apennines",
+            "The Carpathians"
+        ],
+        "answer": "The Apennines",
+        "explanation": "The Apennines form the backbone of the Italian peninsula."
+    },
+    {
+        "id": "G16",
+        "text": "Which country possesses the territory of $\\textbf{Greenland}$?",
+        "image": "",
+        "options": [
+            "Canada",
+            "Norway",
+            "United States",
+            "Denmark"
+        ],
+        "answer": "Denmark",
+        "explanation": "Greenland is an autonomous territory within the Kingdom of Denmark."
+    },
+    {
+        "id": "G17",
+        "text": "The $\\textbf{Mississippi River}$ empties into which body of water?",
+        "image": "",
+        "options": [
+            "The Pacific Ocean",
+            "The Great Lakes",
+            "The Gulf of Mexico",
+            "The Hudson Bay"
+        ],
+        "answer": "The Gulf of Mexico",
+        "explanation": "It flows south through the central United States to the Gulf of Mexico."
+    },
+    {
+        "id": "G18",
+        "text": "What is the capital of $\\textbf{Germany}$?",
+        "image": "",
+        "options": [
+            "Munich",
+            "Frankfurt",
+            "Hamburg",
+            "Berlin"
+        ],
+        "answer": "Berlin",
+        "explanation": "Berlin was reinstated as the capital of Germany following the reunification in 1990."
+    },
+    {
+        "id": "G19",
+        "text": "Which country is known as the $\\textbf{Land of a Thousand Lakes}$?",
+        "image": "",
+        "options": [
+            "Sweden",
+            "Norway",
+            "Finland",
+            "Switzerland"
+        ],
+        "answer": "Finland",
+        "explanation": "Finland actually has over 180,000 lakes."
+    },
+    {
+        "id": "G20",
+        "text": "The $\\textbf{Strait of Malacca}$ is a major shipping lane located between Malaysia and which Indonesian island?",
+        "image": "",
+        "options": [
+            "Java",
+            "Borneo",
+            "Sumatra",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "It is one of the most important shipping channels in the world."
+    },
+    {
+        "id": "G21",
+        "text": "Which South American country is long and narrow, stretching along the Pacific coast?",
+        "image": "",
+        "options": [
+            "Argentina",
+            "Peru",
+            "Chile",
+            "Brazil"
+        ],
+        "answer": "Chile",
+        "explanation": "Chile averages only 177 km wide but is over 4,200 km long."
+    },
+    {
+        "id": "G22",
+        "text": "What is the capital of $\\textbf{Russia}$?",
+        "image": "",
+        "options": [
+            "St. Petersburg",
+            "Moscow",
+            "Novosibirsk",
+            "Kazan"
+        ],
+        "answer": "Moscow",
+        "explanation": "Moscow is the political, economic, and cultural center of Russia."
+    },
+    {
+        "id": "G23",
+        "text": "The $\\textbf{Alps}$ mountain range does NOT pass through which of these countries?",
+        "image": "",
+        "options": [
+            "France",
+            "Switzerland",
+            "Austria",
+            "Spain"
+        ],
+        "answer": "Spain",
+        "explanation": "The Alps are in Central Europe; Spain is separated from France by the Pyrenees."
+    },
+    {
+        "id": "G24",
+        "text": "Which country is located on the $\\textbf{Anatolian Peninsula}$?",
+        "image": "",
+        "options": [
+            "Greece",
+            "Saudi Arabia",
+            "Turkey",
+            "Iran"
+        ],
+        "answer": "Turkey",
+        "explanation": "Anatolia, also known as Asia Minor, makes up the majority of modern-day Turkey."
+    },
+    {
+        "id": "G25",
+        "text": "What is the largest $\\textbf{desert}$ in the world (including polar deserts)?",
+        "image": "",
+        "options": [
+            "Sahara Desert",
+            "Antarctic Desert",
+            "Gobi Desert",
+            "Arabian Desert"
+        ],
+        "answer": "Antarctic Desert",
+        "explanation": "A desert is defined by precipitation, and Antarctica is the largest area with very low precipitation."
+    },
+    {
+        "id": "G26",
+        "text": "Which city is famous for its $\\textbf{Golden Gate Bridge}$?",
+        "image": "",
+        "options": [
+            "Los Angeles",
+            "Seattle",
+            "San Diego",
+            "San Francisco"
+        ],
+        "answer": "San Francisco",
+        "explanation": "The bridge spans the Golden Gate strait, the one-mile-wide channel connecting San Francisco Bay and the Pacific Ocean."
+    },
+    {
+        "id": "G27",
+        "text": "What is the capital of $\\textbf{Spain}$?",
+        "image": "",
+        "options": [
+            "Barcelona",
+            "Valencia",
+            "Seville",
+            "Madrid"
+        ],
+        "answer": "Madrid",
+        "explanation": "Madrid is located in the center of the Iberian Peninsula."
+    },
+    {
+        "id": "G28",
+        "text": "Which is the highest capital city in the world?",
+        "image": "",
+        "options": [
+            "Quito",
+            "Kathmandu",
+            "Bogotá",
+            "La Paz"
+        ],
+        "answer": "La Paz",
+        "explanation": "La Paz, Bolivia, sits at an elevation of roughly 3,650 meters (11,975 ft) above sea level."
+    },
+    {
+        "id": "G29",
+        "text": "The $\\textbf{Caspian Sea}$ is traditionally classified as the world's largest:",
+        "image": "",
+        "options": [
+            "Ocean",
+            "Lake",
+            "Bay",
+            "Gulf"
+        ],
+        "answer": "Lake",
+        "explanation": "Although called a sea due to its size and salinity, it is technically an endorheic basin (lake)."
+    },
+    {
+        "id": "G30",
+        "text": "Which country has $\\textbf{three}$ capital cities (Pretoria, Cape Town, Bloemfontein)?",
+        "image": "",
+        "options": [
+            "Nigeria",
+            "South Africa",
+            "Kenya",
+            "Tanzania"
+        ],
+        "answer": "South Africa",
+        "explanation": "Pretoria is the executive capital, Cape Town the legislative, and Bloemfontein the judicial."
+    },
+    {
+        "id": "G31",
+        "text": "The $\\textbf{Seine River}$ flows through which major city?",
+        "image": "",
+        "options": [
+            "London",
+            "Berlin",
+            "Brussels",
+            "Paris"
+        ],
+        "answer": "Paris",
+        "explanation": "The Seine divides Paris into the Left Bank and the Right Bank."
+    },
+    {
+        "id": "G32",
+        "text": "Which U.S. state is the largest by $\\textbf{land area}$?",
+        "image": "",
+        "options": [
+            "Texas",
+            "California",
+            "Montana",
+            "Alaska"
+        ],
+        "answer": "Alaska",
+        "explanation": "Alaska is more than twice the size of Texas, the next largest state."
+    },
+    {
+        "id": "G33",
+        "text": "What is the capital of $\\textbf{New Zealand}$?",
+        "image": "",
+        "options": [
+            "Auckland",
+            "Christchurch",
+            "Wellington",
+            "Hamilton"
+        ],
+        "answer": "Wellington",
+        "explanation": "Wellington is the southernmost capital of a sovereign state in the world."
+    },
+    {
+        "id": "G34",
+        "text": "Which island nation is located off the southeast coast of $\\textbf{India}$?",
+        "image": "",
+        "options": [
+            "Madagascar",
+            "Sri Lanka",
+            "Maldives",
+            "Indonesia"
+        ],
+        "answer": "Sri Lanka",
+        "explanation": "Sri Lanka is separated from India by the Palk Strait."
+    },
+    {
+        "id": "G35",
+        "text": "The $\\textbf{Rocky Mountains}$ are a major mountain range in:",
+        "image": "",
+        "options": [
+            "South America",
+            "Europe",
+            "North America",
+            "Australia"
+        ],
+        "answer": "North America",
+        "explanation": "The Rockies stretch some 3,000 miles from British Columbia in Canada to New Mexico in the US."
+    },
+    {
+        "id": "G36",
+        "text": "Which country is the world's largest producer of $\\textbf{coffee}$?",
+        "image": "",
+        "options": [
+            "Colombia",
+            "Vietnam",
+            "Ethiopia",
+            "Brazil"
+        ],
+        "answer": "Brazil",
+        "explanation": "Brazil has been the world's largest coffee producer for over 150 years."
+    },
+    {
+        "id": "G37",
+        "text": "What is the capital of $\\textbf{Argentina}$?",
+        "image": "",
+        "options": [
+            "Santiago",
+            "Montevideo",
+            "Buenos Aires",
+            "Lima"
+        ],
+        "answer": "Buenos Aires",
+        "explanation": "Buenos Aires is located on the western shore of the Rio de la Plata estuary."
+    },
+    {
+        "id": "G38",
+        "text": "The $\\textbf{Pyrenees}$ mountains form a natural border between France and which country?",
+        "image": "",
+        "options": [
+            "Italy",
+            "Germany",
+            "Switzerland",
+            "Spain"
+        ],
+        "answer": "Spain",
+        "explanation": "The Pyrenees stretch from the Bay of Biscay to the Mediterranean Sea."
+    },
+    {
+        "id": "G39",
+        "text": "Which Asian country was formerly known as $\\textbf{Siam}$?",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Cambodia",
+            "Thailand",
+            "Myanmar"
+        ],
+        "answer": "Thailand",
+        "explanation": "The country officially changed its name to Thailand in 1939."
+    },
+    {
+        "id": "G40",
+        "text": "What is the capital of $\\textbf{Italy}$?",
+        "image": "",
+        "options": [
+            "Milan",
+            "Venice",
+            "Florence",
+            "Rome"
+        ],
+        "answer": "Rome",
+        "explanation": "Rome is known as the 'Eternal City' and has been the capital since the unification of Italy."
+    }
+]

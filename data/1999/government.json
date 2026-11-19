@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G921",
+        "text": "The $\\textbf{Senate}$ trial for the impeachment of President Bill $\\textbf{Clinton}$ concluded in February $\\textbf{1999}$, with the President being $\\textbf{Acquitted}$ on both articles of impeachment.",
+        "image": "",
+        "options": [
+            "House of Representatives",
+            "Supreme Court",
+            "Senate",
+            "Federal Court of Appeals"
+        ],
+        "answer": "Senate",
+        "explanation": "According to the Constitution, the Senate has the sole power to try all impeachments. A two-thirds vote is required for conviction."
+    },
+    {
+        "id": "G922",
+        "text": "The primary $\\textbf{Constitutional}$ grounds for impeachment, as specified in $\\textbf{Article II, Section 4}$, are $\\textbf{Treason, Bribery}$, or other $\\textbf{High}$ $\\textbf{Crimes}$ and $\\textbf{Misdemeanors}$.",
+        "image": "",
+        "options": [
+            "Malpractice and incompetence",
+            "Abuse of executive privilege",
+            "Treason, Bribery, or other high Crimes and Misdemeanors",
+            "Failure to execute the laws"
+        ],
+        "answer": "Treason, Bribery, or other high Crimes and Misdemeanors",
+        "explanation": "This is the explicit language from Article II, Section 4 of the U.S. Constitution."
+    },
+    {
+        "id": "G923",
+        "text": "The two articles of impeachment against President Clinton passed by the House were $\\textbf{Perjury}$ and $\\textbf{Obstruction}$ of $\\textbf{Justice}$.",
+        "image": "",
+        "options": [
+            "Maladministration and abuse of power",
+            "Perjury and obstruction of justice",
+            "Violation of the War Powers Resolution",
+            "Misuse of federal funds"
+        ],
+        "answer": "Perjury and obstruction of justice",
+        "explanation": "These two charges were related to his testimony regarding a civil suit and his attempts to influence that testimony."
+    },
+    {
+        "id": "G924",
+        "text": "During a presidential impeachment trial in the Senate, the $\\textbf{Chief}$ $\\textbf{Justice}$ of the $\\textbf{Supreme}$ $\\textbf{Court}$ presides.",
+        "image": "",
+        "options": [
+            "Vice President",
+            "Speaker of the House",
+            "Chief Justice of the Supreme Court",
+            "Senate Majority Leader"
+        ],
+        "answer": "Chief Justice of the Supreme Court",
+        "explanation": "When the President is tried, the Chief Justice presides to maintain impartiality, as the Vice President has a vested political interest."
+    },
+    {
+        "id": "G925",
+        "text": "For a conviction on an article of impeachment, the Constitution requires a $\\textbf{Two-Thirds}$ $\\textbf{Majority}$ vote of the $\\textbf{Senators}$ present.",
+        "image": "",
+        "options": [
+            "Simple majority (51 votes)",
+            "Two-thirds majority",
+            "Three-fifths majority",
+            "Unanimous vote"
+        ],
+        "answer": "Two-thirds majority",
+        "explanation": "Article I, Section 3 requires concurrence of two thirds of the members present for conviction and removal from office."
+    },
+    {
+        "id": "G926",
+        "text": "The $\\textbf{House of Representatives}$ has the $\\textbf{Sole}$ $\\textbf{Power}$ of $\\textbf{Impeachment}$, acting as a $\\textbf{Grand}$ $\\textbf{Jury}$ to determine if charges should be brought.",
+        "image": "",
+        "options": [
+            "Sole power to try impeachments",
+            "Sole power to appoint the Chief Justice",
+            "Sole power of impeachment",
+            "Sole power to determine guilt"
+        ],
+        "answer": "Sole power of impeachment",
+        "explanation": "Article I, Section 2 grants the House this authority."
+    },
+    {
+        "id": "G927",
+        "text": "President Clinton's $\\textbf{Acquittal}$ in the Senate meant that he $\\textbf{Remained}$ in $\\textbf{Office}$, and the $\\textbf{Judicial}$ $\\textbf{Penalty}$ of $\\textbf{Removal}$ was $\\textbf{Not}$ $\\textbf{Applied}$.",
+        "image": "",
+        "options": [
+            "Removed from office immediately",
+            "Remained in office",
+            "Had to call a new election",
+            "Could not run for a second term"
+        ],
+        "answer": "Remained in office",
+        "explanation": "Acquittal means the Senate failed to convict, and therefore the penalty of removal from office was not imposed."
+    },
+    {
+        "id": "G928",
+        "text": "In $\\textbf{March 1999}$, the $\\textbf{United States}$ led the $\\textbf{NATO}$ bombing campaign in $\\textbf{Kosovo}$, raising major $\\textbf{Constitutional}$ issues regarding $\\textbf{Presidential}$ $\\textbf{War}$ $\\textbf{Powers}$ without a $\\textbf{Congressional}$ $\\textbf{Declaration}$.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Kosovo",
+            "Grenada",
+            "Panama"
+        ],
+        "answer": "Kosovo",
+        "explanation": "The NATO intervention over Serbian actions in Kosovo marked a major foreign policy event that sparked renewed debate over the War Powers Resolution."
+    },
+    {
+        "id": "G929",
+        "text": "The $\\textbf{War Powers Resolution}$ of $\\textbf{1973}$ requires the $\\textbf{President}$ to $\\textbf{Notify}$ $\\textbf{Congress}$ within $\\textbf{48}$ $\\textbf{Hours}$ of committing $\\textbf{Armed}$ $\\textbf{Forces}$ to $\\textbf{Military}$ $\\textbf{Action}$.",
+        "image": "",
+        "options": [
+            "Selective Service Act",
+            "Espionage Act",
+            "War Powers Resolution",
+            "Treaty of Versailles"
+        ],
+        "answer": "War Powers Resolution",
+        "explanation": "The War Powers Resolution limits the President’s ability to initiate or escalate military conflicts without congressional approval."
+    },
+    {
+        "id": "G930",
+        "text": "Critics of the $\\textbf{Kosovo}$ intervention argued that President Clinton violated the $\\textbf{War Powers Resolution}$ because U.S. forces $\\textbf{Remained}$ in $\\textbf{Hostile}$ $\\textbf{Situations}$ beyond the $\\textbf{60-Day}$ $\\textbf{Limit}$ without a $\\textbf{Congressional}$ $\\textbf{Authorization}$.",
+        "image": "",
+        "options": [
+            "Failed to notify the United Nations",
+            "Violated the War Powers Resolution",
+            "Interfered with international commerce",
+            "Used chemical weapons"
+        ],
+        "answer": "Violated the War Powers Resolution",
+        "explanation": "The resolution requires troop withdrawal within 60-90 days unless Congress authorizes continued action."
+    },
+    {
+        "id": "G931",
+        "text": "As $\\textbf{Commander-in-Chief}$, the $\\textbf{President}$ has the constitutional $\\textbf{Authority}$ to $\\textbf{Direct}$ the $\\textbf{Military}$ and $\\textbf{Deploy}$ $\\textbf{Troops}$, a power often at odds with $\\textbf{Congressional}$ $\\textbf{War}$ $\\textbf{Declarations}$.",
+        "image": "",
+        "options": [
+            "Chief Executive",
+            "Chief Diplomat",
+            "Commander-in-Chief",
+            "Chief Legislator"
+        ],
+        "answer": "Commander-in-Chief",
+        "explanation": "This title, found in Article II of the Constitution, gives the President the authority to lead the nation’s armed forces."
+    },
+    {
+        "id": "G932",
+        "text": "The $\\textbf{April 1999}$ $\\textbf{Columbine}$ $\\textbf{High}$ $\\textbf{School}$ $\\textbf{Massacre}$ immediately led to nationwide $\\textbf{Debates}$ and $\\textbf{Policy}$ $\\textbf{Pushes}$ concerning $\\textbf{Gun}$ $\\textbf{Control}$ and $\\textbf{School}$ $\\textbf{Safety}$ measures.",
+        "image": "",
+        "options": [
+            "Oklahoma City bombing",
+            "Waco siege",
+            "Columbine High School Massacre",
+            "Unabomber arrest"
+        ],
+        "answer": "Columbine High School Massacre",
+        "explanation": "This tragedy galvanized public opinion and led to state and federal legislative efforts regarding background checks and juvenile crime."
+    },
+    {
+        "id": "G933",
+        "text": "In response to $\\textbf{Columbine}$, many $\\textbf{State}$ and $\\textbf{Local}$ $\\textbf{Governments}$ implemented stricter $\\textbf{Security}$ measures, including $\\textbf{Metal}$ $\\textbf{Detectors}$ and increased $\\textbf{Police}$ presence ($\\textbf{School}$ $\\textbf{Resource}$ $\\textbf{Officers}$).",
+        "image": "",
+        "options": [
+            "Reduced school funding",
+            "Implementation of metal detectors and security cameras",
+            "Mandatory school uniforms",
+            "Extended summer vacations"
+        ],
+        "answer": "Implementation of metal detectors and security cameras",
+        "explanation": "The immediate policy response focused heavily on hardening schools as targets and increasing visible security measures."
+    },
+    {
+        "id": "G934",
+        "text": "The legislative debate in $\\textbf{1999}$ focused on extending $\\textbf{Background}$ $\\textbf{Checks}$ for $\\textbf{Firearm}$ $\\textbf{Purchases}$ at $\\textbf{Gun}$ $\\textbf{Shows}$, attempting to close what was termed the $\\textbf{Gun}$ $\\textbf{Show}$ $\\textbf{Loophole}$.",
+        "image": "",
+        "options": [
+            "Open-carry permits",
+            "Background checks for gun show purchases",
+            "Abolishing the ATF",
+            "Mandatory gun registration"
+        ],
+        "answer": "Background checks for gun show purchases",
+        "explanation": "This was the major legislative priority for gun control advocates immediately following Columbine."
+    },
+    {
+        "id": "G935",
+        "text": "The $\\textbf{Tenth Amendment}$ was often cited by $\\textbf{Opponents}$ of $\\textbf{Federal}$ $\\textbf{Gun}$ $\\textbf{Control}$ $\\textbf{Measures}$, arguing that $\\textbf{Regulating}$ firearms is a $\\textbf{Power}$ reserved to the $\\textbf{States}$ or the $\\textbf{People}$.",
+        "image": "",
+        "options": [
+            "Ninth Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment",
+            "First Amendment"
+        ],
+        "answer": "Tenth Amendment",
+        "explanation": "The Tenth Amendment reserves powers not delegated to the federal government to the states or the people, forming the basis for states' rights arguments against federal mandates."
+    },
+    {
+        "id": "G936",
+        "text": "The $\\textbf{Brady Handgun Violence Prevention Act}$ requires federal $\\textbf{Background}$ $\\textbf{Checks}$ for $\\textbf{Firearm}$ $\\textbf{Purchases}$ from $\\textbf{Licensed}$ $\\textbf{Dealers}$.",
+        "image": "",
+        "options": [
+            "National Firearms Act",
+            "Brady Handgun Violence Prevention Act",
+            "Firearm Owners' Protection Act",
+            "Assault Weapons Ban"
+        ],
+        "answer": "Brady Handgun Violence Prevention Act",
+        "explanation": "Passed in 1993, the Brady Act was the foundational law that was being debated for expansion in 1999."
+    },
+    {
+        "id": "G937",
+        "text": "The $\\textbf{Supreme Court}$ case $\\textbf{Printz v. United States}$ (1997) ruled that the $\\textbf{Federal}$ $\\textbf{Government}$ $\\textbf{Cannot}$ compel $\\textbf{State}$ $\\textbf{Law}$ $\\textbf{Enforcement}$ officers to perform federal $\\textbf{Background}$ $\\textbf{Check}$ duties, illustrating $\\textbf{Federalism}$ $\\textbf{Limits}$.",
+        "image": "",
+        "options": [
+            "Establishment Clause",
+            "Necessary and Proper Clause",
+            "Commerce Clause",
+            "Tenth Amendment and Federalism"
+        ],
+        "answer": "Tenth Amendment and Federalism",
+        "explanation": "Printz established a key anti-commandeering principle of federalism, which remained relevant to gun debates in 1999."
+    },
+    {
+        "id": "G938",
+        "text": "The constitutional principle of $\\textbf{Separation}$ of $\\textbf{Powers}$ was rigorously tested during the $\\textbf{Impeachment}$ $\\textbf{Trial}$, as the $\\textbf{Legislative}$ $\\textbf{Branch}$ exercised its $\\textbf{Check}$ on the $\\textbf{Executive}$ $\\textbf{Branch}$.",
+        "image": "",
+        "options": [
+            "Judicial Review",
+            "Federalism",
+            "Separation of Powers",
+            "Popular Sovereignty"
+        ],
+        "answer": "Separation of Powers",
+        "explanation": "Impeachment is the ultimate constitutional check by the legislative branch (Congress) over the executive branch (President)."
+    },
+    {
+        "id": "G939",
+        "text": "The $\\textbf{House Managers}$ are members of the $\\textbf{House of Representatives}$ appointed to $\\textbf{Act}$ as the $\\textbf{Prosecutors}$ during the $\\textbf{Senate}$ $\\textbf{Impeachment}$ $\\textbf{Trial}$.",
+        "image": "",
+        "options": [
+            "Vice President's staff",
+            "White House legal counsel",
+            "House Managers",
+            "Supreme Court clerks"
+        ],
+        "answer": "House Managers",
+        "explanation": "They formally present the articles of impeachment and the evidence to the Senate."
+    },
+    {
+        "id": "G940",
+        "text": "President Clinton's defense team during the Senate trial was primarily focused on arguing that the alleged offenses did $\\textbf{Not}$ meet the constitutional $\\textbf{Threshold}$ of $\\textbf{'High}$ $\\textbf{Crimes}$ and $\\textbf{Misdemeanors}$' required for $\\textbf{Removal}$.",
+        "image": "",
+        "options": [
+            "Lack of due process",
+            "Violation of the First Amendment",
+            "Failure to meet the high crimes and misdemeanors standard",
+            "Unconstitutionality of the Senate rules"
+        ],
+        "answer": "Failure to meet the high crimes and misdemeanors standard",
+        "explanation": "The core defense argument was that the charges, while potentially immoral or illegal, did not constitute an abuse of presidential power that warrants removal."
+    },
+    {
+        "id": "G941",
+        "text": "The $\\textbf{Twenty-Second}$ $\\textbf{Amendment}$ imposes a $\\textbf{Two-Term}$ $\\textbf{Limit}$ on the $\\textbf{Presidency}$, meaning a $\\textbf{Convicted}$ and $\\textbf{Removed}$ President could $\\textbf{Not}$ run $\\textbf{Again}$ for $\\textbf{President}$.",
+        "image": "",
+        "options": [
+            "Twentieth Amendment",
+            "Twenty-Second Amendment",
+            "Twenty-Third Amendment",
+            "Twenty-Fifth Amendment"
+        ],
+        "answer": "Twenty-Second Amendment",
+        "explanation": "This amendment, ratified after FDR's four terms, limits a person to two elected terms."
+    },
+    {
+        "id": "G942",
+        "text": "If a President is $\\textbf{Convicted}$ and $\\textbf{Removed}$ by the $\\textbf{Senate}$, the $\\textbf{Only}$ $\\textbf{Other}$ $\\textbf{Penalty}$ Congress can $\\textbf{Impose}$ is $\\textbf{Disqualification}$ from $\\textbf{Holding}$ any $\\textbf{Future}$ $\\textbf{Office}$ of $\\textbf{Trust}$ or $\\textbf{Honor}$ under the $\\textbf{U.S}$.",
+        "image": "",
+        "options": [
+            "A monetary fine",
+            "Disqualification from holding future office",
+            "Imprisonment",
+            "Loss of citizenship"
+        ],
+        "answer": "Disqualification from holding future office",
+        "explanation": "Article I, Section 3 states that judgment shall not extend further than removal from office and disqualification to hold any future office."
+    },
+    {
+        "id": "G943",
+        "text": "The $\\textbf{Interstate}$ $\\textbf{Commerce}$ $\\textbf{Clause}$ (Article I, Section 8) is the $\\textbf{Primary}$ $\\textbf{Constitutional}$ $\\textbf{Basis}$ used by $\\textbf{Congress}$ to $\\textbf{Pass}$ $\\textbf{Federal}$ $\\textbf{Gun}$ $\\textbf{Control}$ $\\textbf{Legislation}$.",
+        "image": "",
+        "options": [
+            "Supremacy Clause",
+            "Interstate Commerce Clause",
+            "Necessary and Proper Clause",
+            "Full Faith and Credit Clause"
+        ],
+        "answer": "Interstate Commerce Clause",
+        "explanation": "Congress often regulates the sale and transfer of firearms by arguing that these transactions involve goods crossing state lines."
+    },
+    {
+        "id": "G944",
+        "text": "The $\\textbf{Y2K}$ issue, while $\\textbf{Technical}$, involved $\\textbf{Massive}$ $\\textbf{Coordination}$ between $\\textbf{Federal}$ $\\textbf{Agencies}$ and $\\textbf{State}$ $\\textbf{Governments}$ to ensure $\\textbf{Infrastructure}$ (like $\\textbf{Power}$ $\\textbf{Grids}$) $\\textbf{Did}$ $\\textbf{Not}$ $\\textbf{Fail}$.",
+        "image": "",
+        "options": [
+            "Department of Education",
+            "Internal Revenue Service",
+            "Federal Emergency Management Agency (FEMA)",
+            "U.S. Postal Service"
+        ],
+        "answer": "Federal Emergency Management Agency (FEMA)",
+        "explanation": "FEMA played a major role in coordinating state and local emergency responses for potential infrastructure failure caused by Y2K."
+    },
+    {
+        "id": "G945",
+        "text": "The $\\textbf{Kosovo}$ campaign was an example of a $\\textbf{Limited}$ $\\textbf{War}$ or '$\\textbf{Police}$ $\\textbf{Action}$' initiated by the $\\textbf{Executive}$ $\\textbf{Branch}$ without a $\\textbf{Formal}$ $\\textbf{Declaration}$ of $\\textbf{War}$ by $\\textbf{Congress}$.",
+        "image": "",
+        "options": [
+            "Police Action",
+            "War of Attrition",
+            "Full-Scale War",
+            "Nuclear Deterrence"
+        ],
+        "answer": "Police Action",
+        "explanation": "The term 'police action' is often used to describe military conflicts that fall short of a full-scale declared war."
+    },
+    {
+        "id": "G946",
+        "text": "The power to $\\textbf{Declare}$ $\\textbf{War}$ is exclusively reserved to $\\textbf{Congress}$ in $\\textbf{Article I, Section 8}$ of the $\\textbf{Constitution}$.",
+        "image": "",
+        "options": [
+            "President",
+            "Secretary of Defense",
+            "Joint Chiefs of Staff",
+            "Congress"
+        ],
+        "answer": "Congress",
+        "explanation": "This is one of the key checks and balances on the President's power as Commander-in-Chief."
+    },
+    {
+        "id": "G947",
+        "text": "The $\\textbf{Supreme Court}$ case $\\textbf{Tinker v. Des Moines}$ (1969), relevant to $\\textbf{1999}$ school $\\textbf{Safety}$ $\\textbf{Debates}$, ruled that students $\\textbf{Do}$ $\\textbf{Not}$ $\\textbf{Shed}$ their $\\textbf{First}$ $\\textbf{Amendment}$ $\\textbf{Rights}$ at the $\\textbf{Schoolhouse}$ $\\textbf{Gate}$.",
+        "image": "",
+        "options": [
+            "Hazelwood v. Kuhlmeier",
+            "Tinker v. Des Moines",
+            "New Jersey v. T.L.O.",
+            "Morse v. Frederick"
+        ],
+        "answer": "Tinker v. Des Moines",
+        "explanation": "While schools sought more authority post-Columbine, this case remained the standard for student free speech rights."
+    },
+    {
+        "id": "G948",
+        "text": "The $\\textbf{Fourth Amendment}$'s protection against $\\textbf{Unreasonable}$ $\\textbf{Search}$ and $\\textbf{Seizure}$ became a $\\textbf{Civics}$ $\\textbf{Issue}$ in $\\textbf{1999}$ as $\\textbf{Schools}$ considered more $\\textbf{Intrusive}$ $\\textbf{Measures}$ like $\\textbf{Random}$ $\\textbf{Locker}$ $\\textbf{Searches}$.",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Fourth Amendment",
+            "Fifth Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "Fourth Amendment",
+        "explanation": "Increased security measures often came into conflict with students' rights against unwarranted searches."
+    },
+    {
+        "id": "G949",
+        "text": "The impeachment process is an example of the $\\textbf{Checks}$ and $\\textbf{Balances}$ system, where one $\\textbf{Branch}$ limits the $\\textbf{Power}$ of $\\textbf{Another}$.",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Popular Sovereignty",
+            "Checks and Balances",
+            "Judicial Review"
+        ],
+        "answer": "Checks and Balances",
+        "explanation": "The framers designed this system to prevent any single branch from becoming too powerful."
+    },
+    {
+        "id": "G950",
+        "text": "The $\\textbf{Senate}$ serves as the $\\textbf{Jury}$ in an impeachment trial, tasked with $\\textbf{Hearing}$ the $\\textbf{Evidence}$ and $\\textbf{Deciding}$ $\\textbf{Guilt}$ or $\\textbf{Innocence}$.",
+        "image": "",
+        "options": [
+            "Prosecutor",
+            "Defense Attorney",
+            "Judge",
+            "Jury"
+        ],
+        "answer": "Jury",
+        "explanation": "The Senate's role is to determine whether the impeached official should be convicted and removed from office."
+    },
+    {
+        "id": "G951",
+        "text": "The $\\textbf{Supremacy}$ $\\textbf{Clause}$ (Article $\\textbf{VI}$) ensures that the $\\textbf{Constitution}$ and $\\textbf{Federal}$ $\\textbf{Laws}$ are the $\\textbf{Supreme}$ $\\textbf{Law}$ of the $\\textbf{Land}$, a principle $\\textbf{Underlying}$ $\\textbf{Federal}$ $\\textbf{Authority}$ over $\\textbf{State}$ $\\textbf{Gun}$ $\\textbf{Laws}$.",
+        "image": "",
+        "options": [
+            "Necessary and Proper Clause",
+            "Supremacy Clause",
+            "Establishment Clause",
+            "Privileges and Immunities Clause"
+        ],
+        "answer": "Supremacy Clause",
+        "explanation": "If Congress passes a gun control law under the Commerce Clause, the Supremacy Clause ensures that states cannot override it."
+    },
+    {
+        "id": "G952",
+        "text": "In $\\textbf{1999}$, the $\\textbf{Debate}$ over $\\textbf{Universal}$ $\\textbf{Health}$ $\\textbf{Care}$ had $\\textbf{Temporarily}$ $\\textbf{Subsided}$, allowing $\\textbf{Congress}$ and the $\\textbf{Executive}$ to $\\textbf{Focus}$ on $\\textbf{Social}$ $\\textbf{Security}$ and $\\textbf{Medicare}$ $\\textbf{Reform}$.",
+        "image": "",
+        "options": [
+            "Tax increases",
+            "Social Security and Medicare reform",
+            "Universal health care",
+            "Immigration reform"
+        ],
+        "answer": "Social Security and Medicare reform",
+        "explanation": "With a budget surplus, debates in the late 1990s often centered on how to 'save' these entitlement programs."
+    },
+    {
+        "id": "G953",
+        "text": "The $\\textbf{Fifth Amendment}$'s $\\textbf{Due}$ $\\textbf{Process}$ $\\textbf{Clause}$ was a $\\textbf{Factor}$ in $\\textbf{Post-Columbine}$ debates over $\\textbf{Zero-Tolerance}$ $\\textbf{Policies}$ in $\\textbf{Schools}$, which often $\\textbf{Resulted}$ in $\\textbf{Harsh}$ $\\textbf{Punishments}$ without $\\textbf{Adequate}$ $\\textbf{Hearings}$.",
+        "image": "",
+        "options": [
+            "Cruel and unusual punishment",
+            "Double jeopardy",
+            "Due Process Clause",
+            "Right to counsel"
+        ],
+        "answer": "Due Process Clause",
+        "explanation": "Due process ensures fair procedures before life, liberty, or property are taken. Students facing severe suspension or expulsion argued zero-tolerance policies violated this right."
+    },
+    {
+        "id": "G954",
+        "text": "The $\\textbf{Role}$ of $\\textbf{Media}$ in the $\\textbf{Impeachment}$ $\\textbf{Trial}$ and the $\\textbf{Columbine}$ aftermath highlighted $\\textbf{First}$ $\\textbf{Amendment}$ issues concerning $\\textbf{Freedom}$ of $\\textbf{the}$ $\\textbf{Press}$ and the $\\textbf{Balance}$ between $\\textbf{Public}$ $\\textbf{Interest}$ and $\\textbf{Privacy}$.",
+        "image": "",
+        "options": [
+            "Second Amendment",
+            "First Amendment",
+            "Sixth Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "First Amendment",
+        "explanation": "Media coverage of both the political and tragic events raised questions about their right to report and the impact of sensationalism."
+    },
+    {
+        "id": "G955",
+        "text": "The $\\textbf{Commander-in-Chief}$ $\\textbf{Power}$ is a $\\textbf{Delegated}$ $\\textbf{Power}$ explicitly granted to the $\\textbf{President}$ by the $\\textbf{Constitution}$.",
+        "image": "",
+        "options": [
+            "Implied Power",
+            "Reserved Power",
+            "Concurrent Power",
+            "Delegated Power"
+        ],
+        "answer": "Delegated Power",
+        "explanation": "Delegated powers are those specifically listed in the Constitution as belonging to the national government, such as the power to command the military."
+    },
+    {
+        "id": "G956",
+        "text": "The $\\textbf{Formal}$ act of $\\textbf{Impeachment}$ by the $\\textbf{House}$ requires only a $\\textbf{Simple}$ $\\textbf{Majority}$ vote of the members $\\textbf{Present}$.",
+        "image": "",
+        "options": [
+            "Two-thirds majority",
+            "Three-fifths majority",
+            "Simple majority",
+            "Unanimous vote"
+        ],
+        "answer": "Simple majority",
+        "explanation": "While conviction requires two-thirds in the Senate, the House needs only a simple majority to approve the articles of impeachment."
+    },
+    {
+        "id": "G957",
+        "text": "The $\\textbf{Bill of Rights}$ was originally intended to $\\textbf{Limit}$ the $\\textbf{Power}$ of the $\\textbf{Federal}$ $\\textbf{Government}$ and $\\textbf{Protect}$ $\\textbf{Individual}$ $\\textbf{Liberties}$.",
+        "image": "",
+        "options": [
+            "State governments",
+            "Federal government",
+            "Foreign governments",
+            "The Executive Branch only"
+        ],
+        "answer": "Federal government",
+        "explanation": "It wasn't until the 14th Amendment and selective incorporation that the Bill of Rights began to apply to the states."
+    },
+    {
+        "id": "G958",
+        "text": "The use of $\\textbf{Congressional}$ $\\textbf{Hearings}$ and $\\textbf{Oversight}$ to investigate the $\\textbf{Kosovo}$ $\\textbf{Conflict}$ and the $\\textbf{Impeachment}$ $\\textbf{Matters}$ demonstrated the $\\textbf{Legislative}$ $\\textbf{Branch}$'s power of $\\textbf{Investigative}$ $\\textbf{Authority}$.",
+        "image": "",
+        "options": [
+            "Judicial Review",
+            "Power of the Purse",
+            "Investigative Authority",
+            "Implied Power of Taxation"
+        ],
+        "answer": "Investigative Authority",
+        "explanation": "This implied power is essential for Congress to gather information needed to legislate and to exercise oversight over the other branches."
+    },
+    {
+        "id": "G959",
+        "text": "The $\\textbf{Second Amendment}$ protects the $\\textbf{Right}$ to $\\textbf{Keep}$ and $\\textbf{Bear}$ $\\textbf{Arms}$, the $\\textbf{Constitutional}$ $\\textbf{Basis}$ of all $\\textbf{Gun}$ $\\textbf{Rights}$ $\\textbf{Advocacy}$ and $\\textbf{Litigation}$ in $\\textbf{1999}$.",
+        "image": "",
+        "options": [
+            "Fifth Amendment",
+            "Second Amendment",
+            "Ninth Amendment",
+            "First Amendment"
+        ],
+        "answer": "Second Amendment",
+        "explanation": "This amendment is the core of the constitutional debate over the extent of gun regulation."
+    },
+    {
+        "id": "G960",
+        "text": "A $\\textbf{Concurrent}$ $\\textbf{Resolution}$ of $\\textbf{Congress}$ was $\\textbf{Proposed}$ in $\\textbf{1999}$ that would have $\\textbf{Required}$ the $\\textbf{President}$ to $\\textbf{Obtain}$ $\\textbf{Authority}$ from $\\textbf{Congress}$ before $\\textbf{Deploying}$ $\\textbf{Ground}$ $\\textbf{Troops}$ to $\\textbf{Yugoslavia}$ ($\\textbf{Kosovo}$), but it did $\\textbf{Not}$ $\\textbf{Pass}$.",
+        "image": "",
+        "options": [
+            "Joint Resolution",
+            "Simple Resolution",
+            "Concurrent Resolution",
+            "Executive Order"
+        ],
+        "answer": "Concurrent Resolution",
+        "explanation": "A concurrent resolution is generally used to settle procedural matters between the two houses of Congress, but it does not have the force of law and is not sent to the President for signature."
+    }
+]

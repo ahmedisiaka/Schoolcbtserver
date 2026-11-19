@@ -1,0 +1,511 @@
+[
+    {
+      "id": "U2005_1",
+      "text": "$\\textbf{Hurricane}$ $\\textbf{Katrina}$, a devastating Category 5 $\\textbf{storm}$, made $\\textbf{landfall}$ in August 2005, causing catastrophic $\\textbf{flooding}$ and widespread $\\textbf{destruction}$ along the US Gulf Coast, particularly in $\\textbf{New}$ $\\textbf{Orleans}$. (Comprehension Passage Snippet 1)\n\nWhich US city suffered catastrophic flooding due to the storm, according to the text?",
+      "image": "",
+      "options": [
+        "Miami",
+        "Houston",
+        "New Orleans",
+        "Charleston"
+      ],
+      "answer": "New Orleans",
+      "explanation": "The text explicitly mentions the destruction along the Gulf Coast, 'particularly in New Orleans'."
+    },
+    {
+      "id": "U2005_2",
+      "text": "The storm was $\\textbf{devastating}$ to the coastal region.\n\nChoose the word that is closest in meaning to $\\textbf{devastating}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Mildly inconvenient",
+        "Extremely destructive",
+        "Surprisingly calm",
+        "Economically beneficial"
+      ],
+      "answer": "Extremely destructive",
+      "explanation": "Devastating means causing severe and overwhelming damage."
+    },
+    {
+      "id": "U2005_3",
+      "text": "Rescue efforts $\\textbf{(began/had begun)}$ even before the floodwaters receded.\n\nChoose the correct verb form for a single action completed in the past.",
+      "image": "",
+      "options": [
+        "began",
+        "had begun",
+        "is beginning",
+        "will begin"
+      ],
+      "answer": "began",
+      "explanation": "The Simple Past ('began') is the correct tense for a single, completed action in the past."
+    },
+    {
+      "id": "U2005_4",
+      "text": "The word $\\textbf{'catastrophe'}$ $\\textbf{c a t a s t r o p h e}$.\n\nIdentify the syllable that carries the primary stress in the word **catastrophe**.",
+      "image": "",
+      "options": [
+        "ca",
+        "tas",
+        "tro",
+        "phe"
+      ],
+      "answer": "tas",
+      "explanation": "The primary stress in 'catastrophe' /kəˈtæ.strə.fi/ falls on the second syllable, 'tas'."
+    },
+    {
+      "id": "U2005_5",
+      "text": "On July 7, 2005, a series of $\\textbf{coordinated}$ $\\textbf{suicide}$ $\\textbf{bombings}$ struck London's public transport system, $\\textbf{targeting}$ $\\textbf{underground}$ $\\textbf{trains}$ and a $\\textbf{bus}$. The attacks led to the deaths of 52 $\\textbf{civilians}$. (Comprehension Passage Snippet 2)\n\nWhat was the primary target of the 7/7 bombings?",
+      "image": "",
+      "options": [
+        "Government buildings",
+        "London's public transport",
+        "Financial institutions",
+        "Major sports stadiums"
+      ],
+      "answer": "London's public transport",
+      "explanation": "The text states the bombings 'struck London's public transport system'."
+    },
+    {
+      "id": "U2005_6",
+      "text": "The attacks were described as highly $\\textbf{coordinated}$.\n\nChoose the word that is closest in meaning to $\\textbf{coordinated}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Randomly executed",
+        "Organized or planned together",
+        "Publicly announced",
+        "Easily avoided"
+      ],
+      "answer": "Organized or planned together",
+      "explanation": "Coordinated means organized or arranged so that different parts work together."
+    },
+    {
+      "id": "U2005_7",
+      "text": "The transport system $\\textbf{(was shut down/shut down)}$ immediately after the blasts.\n\nChoose the correct verb form to indicate that the system was the recipient of the action (Passive Voice).",
+      "image": "",
+      "options": [
+        "was shut down",
+        "shut down",
+        "has shut down",
+        "is shutting down"
+      ],
+      "answer": "was shut down",
+      "explanation": "The Passive Voice ('was shut down') is necessary because the system is the object being acted upon."
+    },
+    {
+      "id": "U2005_8",
+      "text": "The word $\\textbf{'terrorism'}$ $\\textbf{t e r r o r i s m}$.\n\nIdentify the syllable that carries the primary stress in the word **terrorism**.",
+      "image": "",
+      "options": [
+        "ter",
+        "ror",
+        "ism"
+      ],
+      "answer": "ter",
+      "explanation": "The primary stress in 'terrorism' /ˈter.ər.ɪ.zəm/ falls on the first syllable, 'ter'."
+    },
+    {
+      "id": "U2005_9",
+      "text": "The $\\textbf{online}$ $\\textbf{video}$-sharing platform $\\textbf{YouTube}$ was $\\textbf{launched}$ in February 2005, and by the end of the year, it was already $\\textbf{vastly}$ $\\textbf{changing}$ the way people $\\textbf{consumed}$ and $\\textbf{shared}$ content. (Comprehension Passage Snippet 3)\n\nWhat type of content did YouTube primarily allow users to share?",
+      "image": "",
+      "options": [
+        "Text documents",
+        "Audio podcasts",
+        "Online videos",
+        "Computer code"
+      ],
+      "answer": "Online videos",
+      "explanation": "The text describes YouTube as an 'online video-sharing platform'."
+    },
+    {
+      "id": "U2005_10",
+      "text": "YouTube $\\textbf{vastly}$ changed how people $\\textbf{consumed}$ content.\n\nChoose the word that is closest in meaning to $\\textbf{consumed}$ as used in this context.",
+      "image": "",
+      "options": [
+        "Destroyed",
+        "Ignored",
+        "Bought",
+        "Watched or absorbed"
+      ],
+      "answer": "Watched or absorbed",
+      "explanation": "To 'consume' content means to watch, read, or absorb it."
+    },
+    {
+      "id": "U2005_11",
+      "text": "By 2006, the site $\\textbf{(would become/will become)}$ one of the world's most popular websites.\n\nChoose the correct modal verb phrase to describe a future event relative to a past point in time (2005).",
+      "image": "",
+      "options": [
+        "would become",
+        "will become",
+        "becomes",
+        "is becoming"
+      ],
+      "answer": "would become",
+      "explanation": "'Would become' is the future in the past, appropriate for describing what happened after 2005 from the perspective of 2005."
+    },
+    {
+      "id": "U2005_12",
+      "text": "The word $\\textbf{'video'}$ $\\textbf{v i d e o}$.\n\nIdentify the syllable that carries the primary stress in the word **video**.",
+      "image": "",
+      "options": [
+        "vi",
+        "de",
+        "o"
+      ],
+      "answer": "vi",
+      "explanation": "The primary stress in 'video' /ˈvɪd.i.əʊ/ falls on the first syllable, 'vi'."
+    },
+    {
+      "id": "U2005_13",
+      "text": "The $\\textbf{Kyoto}$ $\\textbf{Protocol}$, an international treaty aimed at $\\textbf{reducing}$ $\\textbf{greenhouse}$ $\\textbf{gas}$ $\\textbf{emissions}$, officially $\\textbf{entered}$ $\\textbf{into}$ $\\textbf{force}$ in February 2005, seven years after it was $\\textbf{adopted}$. (Comprehension Passage Snippet 4)\n\nWhat is the main objective of the Kyoto Protocol, according to the text?",
+      "image": "",
+      "options": [
+        "Increasing global trade",
+        "Reducing greenhouse gas emissions",
+        "Promoting space exploration",
+        "Regulating international finance"
+      ],
+      "answer": "Reducing greenhouse gas emissions",
+      "explanation": "The text states it is 'aimed at reducing greenhouse gas emissions'."
+    },
+    {
+      "id": "U2005_14",
+      "text": "The treaty $\\textbf{entered}$ $\\textbf{into}$ $\\textbf{force}$ in 2005.\n\nChoose the word or phrase that is closest in meaning to $\\textbf{entered}$ $\\textbf{into}$ $\\textbf{force}$.",
+      "image": "",
+      "options": [
+        "Was discarded",
+        "Was renegotiated",
+        "Was heavily criticized",
+        "Became legally operative"
+      ],
+      "answer": "Became legally operative",
+      "explanation": "To 'enter into force' means a law or treaty becomes active and binding."
+    },
+    {
+      "id": "U2005_15",
+      "text": "If member nations $\\textbf{(had adhered/adhered)}$ to the targets, pollution levels $\\textbf{(would have lowered/would lower)}$.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had adhered / would have lowered",
+        "adhered / would lower",
+        "adhered / have lowered",
+        "will adhere / would lower"
+      ],
+      "answer": "had adhered / would have lowered",
+      "explanation": "The Third Conditional structure is 'If + Past Perfect, would have + Past Participle'."
+    },
+    {
+      "id": "U2005_16",
+      "text": "The word $\\textbf{'protocol'}$ $\\textbf{p r o t o c o l}$.\n\nIdentify the syllable that carries the primary stress in the word **protocol**.",
+      "image": "",
+      "options": [
+        "pro",
+        "to",
+        "col"
+      ],
+      "answer": "pro",
+      "explanation": "The primary stress in 'protocol' /ˈprəʊ.tə.kɒl/ falls on the first syllable, 'pro'."
+    },
+    {
+      "id": "U2005_17",
+      "text": "In November 2005, $\\textbf{Angela}$ $\\textbf{Merkel}$ became the first $\\textbf{female}$ $\\textbf{Chancellor}$ of $\\textbf{Germany}$, marking a $\\textbf{pioneering}$ moment in European $\\textbf{politics}$. She went on to hold the office for 16 years. (Comprehension Passage Snippet 5)\n\nWhat historical distinction did Angela Merkel achieve in 2005?",
+      "image": "",
+      "options": [
+        "She became the President of the EU",
+        "She became the Foreign Minister of Germany",
+        "She became Germany's first female Chancellor",
+        "She won the Nobel Peace Prize"
+      ],
+      "answer": "She became Germany's first female Chancellor",
+      "explanation": "The text states she 'became the first female Chancellor of Germany'."
+    },
+    {
+      "id": "U2005_18",
+      "text": "This was a $\\textbf{pioneering}$ moment in the country's history.\n\nChoose the word that is closest in meaning to $\\textbf{pioneering}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Traditional",
+        "Involving new methods or first steps",
+        "Unimportant",
+        "Controversial"
+      ],
+      "answer": "Involving new methods or first steps",
+      "explanation": "Pioneering refers to being among the first to explore or open up a new area."
+    },
+    {
+      "id": "U2005_19",
+      "text": "The Chancellor and her cabinet $\\textbf{(was/were)}$ sworn into office shortly after the election.\n\nChoose the correct form of the verb 'to be' to agree with the compound plural subject 'The Chancellor and her cabinet'.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "be"
+      ],
+      "answer": "were",
+      "explanation": "A compound subject joined by 'and' takes a plural verb ('were')."
+    },
+    {
+      "id": "U2005_20",
+      "text": "The word $\\textbf{'chancellor'}$ $\\textbf{c h a n c e l l o r}$.\n\nIdentify the syllable that carries the primary stress in the word **chancellor**.",
+      "image": "",
+      "options": [
+        "chan",
+        "cel",
+        "lor"
+      ],
+      "answer": "chan",
+      "explanation": "The primary stress in 'chancellor' /ˈtʃɑːn.səl.ər/ falls on the first syllable, 'chan'."
+    },
+    {
+      "id": "U2005_21",
+      "text": "Pope $\\textbf{John}$ $\\textbf{Paul}$ $\\textbf{II}$ died in April 2005, bringing an end to his long $\\textbf{pontificate}$. He was immediately $\\textbf{succeeded}$ by $\\textbf{Cardinal}$ $\\textbf{Joseph}$ $\\textbf{Ratzinger}$, who became Pope $\\textbf{Benedict}$ $\\textbf{XVI}$. (Comprehension Passage Snippet 6)\n\nWho immediately succeeded Pope John Paul II?",
+      "image": "",
+      "options": [
+        "Pope Francis",
+        "Cardinal Joseph Ratzinger",
+        "Cardinal Angelo Sodano",
+        "Pope Pius XII"
+      ],
+      "answer": "Cardinal Joseph Ratzinger",
+      "explanation": "The text states he was 'immediately succeeded by Cardinal Joseph Ratzinger'."
+    },
+    {
+      "id": "U2005_22",
+      "text": "He died at the end of his long $\\textbf{pontificate}$.\n\nChoose the word that is closest in meaning to $\\textbf{pontificate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Life story",
+        "Journey",
+        "The office or term of office of a Pope",
+        "Childhood"
+      ],
+      "answer": "The office or term of office of a Pope",
+      "explanation": "A pontificate is the period during which a pope holds office."
+    },
+    {
+      "id": "U2005_23",
+      "text": "The cardinals $\\textbf{(met/had met)}$ in a conclave after the death $\\textbf{(occurred/had occurred)}$.\n\nChoose the correct Simple Past forms for actions in sequential order.",
+      "image": "",
+      "options": [
+        "met / occurred",
+        "had met / occurred",
+        "met / had occurred",
+        "are meeting / occurs"
+      ],
+      "answer": "met / occurred",
+      "explanation": "For two sequential actions in the past (death, then meeting), the Simple Past ('met' and 'occurred') is generally used."
+    },
+    {
+      "id": "U2005_24",
+      "text": "The word $\\textbf{'successor'}$ $\\textbf{s u c c e s s o r}$.\n\nIdentify the syllable that carries the primary stress in the word **successor**.",
+      "image": "",
+      "options": [
+        "suc",
+        "ces",
+        "sor"
+      ],
+      "answer": "ces",
+      "explanation": "The primary stress in 'successor' /səkˈses.ər/ falls on the second syllable, 'ces'."
+    },
+    {
+      "id": "U2005_25",
+      "text": "In 2005, the $\\textbf{price}$ of $\\textbf{crude}$ $\\textbf{oil}$ $\\textbf{surpassed}$ $\\textbf{\\$60}$ a $\\textbf{barrel}$ for the first time, driven by $\\textbf{geopolitical}$ $\\textbf{instability}$ and rising global $\\textbf{demand}$, signaling increased $\\textbf{volatility}$ in the energy market. (Comprehension Passage Snippet 7)\n\nWhat specific price milestone did crude oil reach for the first time in 2005?",
+      "image": "",
+      "options": [
+        "Exceeded $100 a barrel",
+        "Fell below $20 a barrel",
+        "Surpassed $60 a barrel",
+        "Remained stagnant at $40 a barrel"
+      ],
+      "answer": "Surpassed $60 a barrel",
+      "explanation": "The text states the price 'surpassed $60 a barrel for the first time'."
+    },
+    {
+      "id": "U2005_26",
+      "text": "The price $\\textbf{surpassed}$ the $60 mark for the first time.\n\nChoose the word that is closest in meaning to $\\textbf{surpassed}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Failed to reach",
+        "Reached exactly",
+        "Exceeded or went beyond",
+        "Returned to"
+      ],
+      "answer": "Exceeded or went beyond",
+      "explanation": "To surpass means to exceed or be greater than (a quantity)."
+    },
+    {
+      "id": "U2005_27",
+      "text": "This price was $\\textbf{(higher/highest)}$ than any price recorded in the previous decade.\n\nChoose the correct adjective form for comparing two things (the price vs. the previous decade's prices).",
+      "image": "",
+      "options": [
+        "higher",
+        "highest",
+        "high",
+        "more high"
+      ],
+      "answer": "higher",
+      "explanation": "The comparative form ('higher') is used because the sentence compares the 2005 price to *all* other prices in the previous decade."
+    },
+    {
+      "id": "U2005_28",
+      "text": "The word $\\textbf{'crude'}$ $\\textbf{c r u d e}$.\n\nIdentify the syllable that carries the primary stress in the word crude.",
+      "image": "",
+      "options": [
+        "cr","u","de"
+      ],
+      "answer": "crude",
+      "explanation": "The word 'crude' /kruːd/ is a single syllable."
+    },
+    {
+      "id": "U2005_29",
+      "text": "The $\\textbf{Airbus}$ $\\textbf{A380}$, the world's $\\textbf{largest}$ $\\textbf{passenger}$ $\\textbf{airliner}$, completed its $\\textbf{maiden}$ $\\textbf{flight}$ in April 2005. Its $\\textbf{development}$ represented a major $\\textbf{achievement}$ in $\\textbf{aeronautics}$ and European $\\textbf{engineering}$. (Comprehension Passage Snippet 8)\n\nWhat record does the Airbus A380 hold among commercial aircraft?",
+      "image": "",
+      "options": [
+        "Fastest military jet",
+        "World's largest passenger airliner",
+        "Most fuel-efficient cargo plane",
+        "Smallest private jet"
+      ],
+      "answer": "World's largest passenger airliner",
+      "explanation": "The text states it is 'the world's largest passenger airliner'."
+    },
+    {
+      "id": "U2005_30",
+      "text": "The aircraft successfully completed its $\\textbf{maiden}$ flight.\n\nChoose the word that is closest in meaning to $\\textbf{maiden}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Longest",
+        "Most challenging",
+        "First of its kind",
+        "Unmanned"
+      ],
+      "answer": "First of its kind",
+      "explanation": "A 'maiden flight' is the first flight of an aircraft or spacecraft."
+    },
+    {
+      "id": "U2005_31",
+      "text": "The test pilot $\\textbf{(carefully/careful)}$ navigated the aircraft through the sky.\n\nChoose the correct word form to modify the verb 'navigated'.",
+      "image": "",
+      "options": [
+        "carefully",
+        "careful",
+        "most careful",
+        "carefulness"
+      ],
+      "answer": "carefully",
+      "explanation": "An adverb ('carefully') is required to modify the verb 'navigated'."
+    },
+    {
+      "id": "U2005_32",
+      "text": "The word $\\textbf{'aeronautics'}$ $\\textbf{a e r o n a u t i c s}$.\n\nIdentify the syllable that carries the primary stress in the word **aeronautics**.",
+      "image": "",
+      "options": [
+        "ae",
+        "ro",
+        "nau",
+        "tics"
+      ],
+      "answer": "nau",
+      "explanation": "The primary stress in 'aeronautics' /ˌeə.rəˈnɔː.tɪks/ falls on the third syllable, 'nau'."
+    },
+    {
+      "id": "U2005_33",
+      "text": "$\\textbf{Microsoft}$ $\\textbf{launched}$ the $\\textbf{Xbox}$ $\\textbf{360}$ in November 2005, one year $\\textbf{ahead}$ of its main $\\textbf{competitors}$, the $\\textbf{PlayStation}$ $\\textbf{3}$ and $\\textbf{Nintendo}$ $\\textbf{Wii}$. It was the $\\textbf{successor}$ to the original Xbox. (Comprehension Passage Snippet 9)\n\nWhich of its competitors did the Xbox 360 launch one year before?",
+      "image": "",
+      "options": [
+        "Sega Dreamcast",
+        "PlayStation 2 and GameCube",
+        "PlayStation 3 and Nintendo Wii",
+        "PC Gaming"
+      ],
+      "answer": "PlayStation 3 and Nintendo Wii",
+      "explanation": "The text states it launched one year ahead of 'the PlayStation 3 and Nintendo Wii'."
+    },
+    {
+      "id": "U2005_34",
+      "text": "The Xbox 360 was the $\\textbf{successor}$ to the original Xbox.\n\nChoose the word that is closest in meaning to $\\textbf{successor}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A failed experiment",
+        "The previous model",
+        "A person or thing that takes a place previously occupied by another",
+        "An unexpected competitor"
+      ],
+      "answer": "A person or thing that takes a place previously occupied by another",
+      "explanation": "A successor is a person or thing that comes after and takes the place of another."
+    },
+    {
+      "id": "U2005_35",
+      "text": "The original Xbox $\\textbf{(had paved/has paved)}$ the way for the new console’s success.\n\nChoose the correct verb form to describe an action that was completed before a specific time in the past (the launch).",
+      "image": "",
+      "options": [
+        "had paved",
+        "has paved",
+        "is paving",
+        "will pave"
+      ],
+      "answer": "had paved",
+      "explanation": "The Past Perfect ('had paved') is used to describe an action that happened before another action in the past (the 360's launch)."
+    },
+    {
+      "id": "U2005_36",
+      "text": "The word $\\textbf{'console'}$ $\\textbf{c o n s o l e}$.\n\nIdentify the syllable that carries the primary stress in the word **console** (noun, meaning game device).",
+      "image": "",
+      "options": [
+        "con",
+        "sole"
+      ],
+      "answer": "con",
+      "explanation": "The primary stress in the noun 'console' /ˈkɒn.səʊl/ falls on the first syllable, 'con'."
+    },
+    {
+      "id": "U2005_37",
+      "text": "*$\\textbf{Star}$ $\\textbf{Wars}$: $\\textbf{Episode}$ $\\textbf{III}$ - $\\textbf{Revenge}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{Sith}$* was released in May 2005. It served as the $\\textbf{culmination}$ of the $\\textbf{prequel}$ $\\textbf{trilogy}$ and filled in the gap leading directly into the original 1977 film. (Comprehension Passage Snippet 10)\n\nWhat part of the Star Wars saga did *Revenge of the Sith* conclude?",
+      "image": "",
+      "options": [
+        "The original trilogy",
+        "The sequel trilogy",
+        "The spin-off films",
+        "The prequel trilogy"
+      ],
+      "answer": "The prequel trilogy",
+      "explanation": "The text states it served as the 'culmination of the prequel trilogy'."
+    },
+    {
+      "id": "U2005_38",
+      "text": "The film was the $\\textbf{culmination}$ of the entire prequel story arc.\n\nChoose the word that is closest in meaning to $\\textbf{culmination}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "The beginning",
+        "The middle chapter",
+        "The highest point or end of a sequence of events",
+        "A failed attempt"
+      ],
+      "answer": "The highest point or end of a sequence of events",
+      "explanation": "Culmination means the final stage or highest point."
+    },
+    {
+      "id": "U2005_39",
+      "text": "The film, $\\textbf{(which/who)}$ broke several box office records, was the highest-grossing film of the year.\n\nChoose the correct relative pronoun to refer to the film.",
+      "image": "",
+      "options": [
+        "which",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "'Which' is the correct relative pronoun for non-human subjects like 'the film'."
+    },
+    {
+      "id": "U2005_40",
+      "text": "The word $\\textbf{'trilogy'}$ $\\textbf{t r i l o g y}$.\n\nIdentify the syllable that carries the primary stress in the word **trilogy**.",
+      "image": "",
+      "options": [
+        "tri",
+        "lo",
+        "gy"
+      ],
+      "answer": "tri",
+      "explanation": "The primary stress in 'trilogy' /ˈtrɪl.ə.dʒi/ falls on the first syllable, 'tri'."
+    }
+  ]

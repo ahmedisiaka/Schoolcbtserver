@@ -1,0 +1,2602 @@
+[
+    {
+        "id": "A001",
+        "text": "The accounting concept which states that business must be treated as separate and distinct from its owner is the $\\textbf{Business Entity}$ concept.",
+        "image": "",
+        "options": [
+            "Going Concern",
+            "Monetary Unit",
+            "Business Entity",
+            "Prudence"
+        ],
+        "answer": "Business Entity",
+        "explanation": "This principle ensures the owner's personal transactions are kept separate from the business records."
+    },
+    {
+        "id": "A002",
+        "text": "Assets are equal to Liabilities plus $\\textbf{Owner's Equity}$ (Capital), according to the $\\textbf{Accounting Equation}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Drawings",
+            "Owner's Equity",
+            "Expenses"
+        ],
+        "answer": "Owner's Equity",
+        "explanation": "The fundamental accounting equation is Assets = Liabilities + Owner's Equity."
+    },
+    {
+        "id": "A003",
+        "text": "The book of original entry where credit purchases of goods are first recorded is the $\\textbf{Purchases Journal}$ (or Day Book).",
+        "image": "",
+        "options": [
+            "Sales Journal",
+            "Cash Book",
+            "Purchases Journal",
+            "General Journal"
+        ],
+        "answer": "Purchases Journal",
+        "explanation": "The Purchases Journal is used exclusively to record goods bought on credit."
+    },
+    {
+        "id": "A004",
+        "text": "A reduction in the selling price of goods given to encourage prompt payment is called $\\textbf{Cash Discount}$.",
+        "image": "",
+        "options": [
+            "Trade Discount",
+            "Quantity Discount",
+            "Cash Discount",
+            "Rebate"
+        ],
+        "answer": "Cash Discount",
+        "explanation": "Cash discount is granted to debtors who settle their accounts within a specified time."
+    },
+    {
+        "id": "A005",
+        "text": "Depreciation is recorded in the accounts to match the $\\textbf{Cost of Asset}$ use with the revenue earned in the same period (Matching Principle).",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Replacement Cost",
+            "Cost of Asset",
+            "Liquidation Value"
+        ],
+        "answer": "Cost of Asset",
+        "explanation": "Depreciation systematically allocates the historical cost of a fixed asset over its useful life."
+    },
+    {
+        "id": "A006",
+        "text": "In the double-entry system, when cash is received, the $\\textbf{Cash Account}$ is debited and the corresponding account is $\\textbf{Credited}$.",
+        "image": "",
+        "options": [
+            "Credited",
+            "Debited",
+            "Balance Forwarded",
+            "Crossed Out"
+        ],
+        "answer": "Cash Account",
+        "explanation": "Cash is an asset; an increase in assets is a debit."
+    },
+    {
+        "id": "A007",
+        "text": "An expense that has been incurred but not yet paid for is known as an $\\textbf{Accrued Expense}$ (or Outstanding Expense).",
+        "image": "",
+        "options": [
+            "Prepaid Expense",
+            "Accrued Expense",
+            "Suspense Account",
+            "Bad Debt"
+        ],
+        "answer": "Accrued Expense",
+        "explanation": "Accrued expenses are liabilities recognized before cash payment is made."
+    },
+    {
+        "id": "A008",
+        "text": "The main purpose of preparing a $\\textbf{Trial Balance}$ is to check the $\\textbf{Arithmetical Accuracy}$ of the double entry postings.",
+        "image": "",
+        "options": [
+            "Profitability",
+            "Liquidity",
+            "Arithmetical Accuracy",
+            "Solvency"
+        ],
+        "answer": "Arithmetical Accuracy",
+        "explanation": "If the total debits equal total credits, the trial balance proves arithmetic accuracy, though not necessarily that there are no errors."
+    },
+    {
+        "id": "A009",
+        "text": "Which of these is a $\\textbf{Current Liability}$?",
+        "image": "",
+        "options": [
+            "Mortgage Loan",
+            "Creditors (Accounts Payable)",
+            "Plant and Machinery",
+            "Owner's Capital"
+        ],
+        "answer": "Creditors (Accounts Payable)",
+        "explanation": "Current liabilities are debts due for payment within one year."
+    },
+    {
+        "id": "A010",
+        "text": "The formula for $\\textbf{Gross Profit}$ is $\\textbf{Net Sales}$ minus $\\textbf{Cost of Goods Sold}$ (COGS).",
+        "image": "",
+        "options": [
+            "Operating Expenses",
+            "Cost of Goods Sold",
+            "Net Profit",
+            "Owner's Draw"
+        ],
+        "answer": "Cost of Goods Sold",
+        "explanation": "Gross Profit = Sales Revenue - COGS."
+    },
+    {
+        "id": "A011",
+        "text": "If a debtor cannot pay his debt, the amount is written off as $\\textbf{Bad Debt}$.",
+        "image": "",
+        "options": [
+            "Depreciation",
+            "Bad Debt",
+            "Discount Allowed",
+            "Provision for Doubtful Debts"
+        ],
+        "answer": "Bad Debt",
+        "explanation": "Bad debts are recorded as an expense in the Profit and Loss Account."
+    },
+    {
+        "id": "A012",
+        "text": "The $\\textbf{Prudence}$ (or Conservatism) concept states that profits should not be $\\textbf{Anticipated}$, but losses should be provided for.",
+        "image": "",
+        "options": [
+            "Anticipated",
+            "Ignored",
+            "Inflated",
+            "Calculated"
+        ],
+        "answer": "Anticipated",
+        "explanation": "Prudence dictates caution in recording revenue and assets, ensuring they are not overstated."
+    },
+    {
+        "id": "A013",
+        "text": "The $\\textbf{Working Capital}$ (Net Current Assets) is calculated as $\\textbf{Current Assets}$ minus $\\textbf{Current Liabilities}$.",
+        "image": "",
+        "options": [
+            "Fixed Assets",
+            "Long-Term Liabilities",
+            "Current Assets",
+            "Owner's Equity"
+        ],
+        "answer": "Current Assets",
+        "explanation": "Working Capital measures the short-term liquidity of a business."
+    },
+    {
+        "id": "A014",
+        "text": "The method of depreciation where a fixed percentage of the $\\textbf{Reducing Balance}$ (Book Value) is charged annually is the Reducing Balance Method.",
+        "image": "",
+        "options": [
+            "Straight Line Method",
+            "Revaluation Method",
+            "Reducing Balance Method",
+            "Sum-of-the-Years'-Digits Method"
+        ],
+        "answer": "Reducing Balance Method",
+        "explanation": "This method charges higher depreciation in the early years of the asset's life."
+    },
+    {
+        "id": "A015",
+        "text": "The ledger account used to record all assets, liabilities, and capital is the $\\textbf{General Ledger}$.",
+        "image": "",
+        "options": [
+            "Nominal Ledger",
+            "Sales Ledger",
+            "Purchases Ledger",
+            "General Ledger"
+        ],
+        "answer": "General Ledger",
+        "explanation": "The General Ledger is the master set of accounts for a business."
+    },
+    {
+        "id": "A016",
+        "text": "The $\\textbf{Cash Book}$ serves as both a book of original entry and a $\\textbf{Ledger Account}$.",
+        "image": "",
+        "options": [
+            "Journal",
+            "Ledger Account",
+            "Trial Balance",
+            "Voucher"
+        ],
+        "answer": "Ledger Account",
+        "explanation": "The Cash Book functions as a journal for cash/bank transactions and as the T-account for Cash/Bank."
+    },
+    {
+        "id": "A017",
+        "text": "Which financial statement reports the financial position of a business at a $\\textbf{Specific Date}$?",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Statement of Financial Position (Balance Sheet)",
+            "Trading Account"
+        ],
+        "answer": "Statement of Financial Position (Balance Sheet)",
+        "explanation": "The Balance Sheet provides a snapshot of assets, liabilities, and equity at a particular moment."
+    },
+    {
+        "id": "A018",
+        "text": "The cost of goods available for sale is $\\textbf{Opening Stock}$ plus $\\textbf{Net Purchases}$.",
+        "image": "",
+        "options": [
+            "Closing Stock",
+            "Net Sales",
+            "Opening Stock",
+            "Gross Profit"
+        ],
+        "answer": "Opening Stock",
+        "explanation": "Cost of Goods Available for Sale = Opening Inventory + Purchases - Returns Outwards."
+    },
+    {
+        "id": "A019",
+        "text": "The accounting concept that assumes the business will continue operating indefinitely is the $\\textbf{Going Concern}$ concept.",
+        "image": "",
+        "options": [
+            "Accrual",
+            "Going Concern",
+            "Materiality",
+            "Consistency"
+        ],
+        "answer": "Going Concern",
+        "explanation": "This assumption justifies valuing assets at cost rather than liquidation value."
+    },
+    {
+        "id": "A020",
+        "text": "The entry to record a rent payment of $\\$500$ involves $\\textbf{Debit}$ Rent Account and $\\textbf{Credit}$ Cash/Bank Account.",
+        "image": "",
+        "options": [
+            "Credit",
+            "Debit",
+            "Balance",
+            "Transfer"
+        ],
+        "answer": "Debit",
+        "explanation": "Rent is an expense (increase is a debit). Cash/Bank is an asset (decrease is a credit)."
+    },
+    {
+        "id": "A021",
+        "text": "An error where an entry is completely omitted from the books is an $\\textbf{Error of Omission}$.",
+        "image": "",
+        "options": [
+            "Error of Commission",
+            "Error of Principle",
+            "Compensating Error",
+            "Error of Omission"
+        ],
+        "answer": "Error of Omission",
+        "explanation": "This error affects both debit and credit entries equally, so the trial balance will still balance."
+    },
+    {
+        "id": "A022",
+        "text": "The ratio calculated as $\\textbf{Quick Assets}$ divided by $\\textbf{Current Liabilities}$ is the $\\textbf{Acid Test Ratio}$ (or Quick Ratio).",
+        "image": "",
+        "options": [
+            "Gross Profit Margin",
+            "Current Ratio",
+            "Acid Test Ratio",
+            "Stock Turnover Rate"
+        ],
+        "answer": "Acid Test Ratio",
+        "explanation": "Quick Assets exclude inventory, making this a stricter measure of liquidity."
+    },
+    {
+        "id": "A023",
+        "text": "The principle that requires accounting methods to remain the same from one period to another is the $\\textbf{Consistency}$ concept.",
+        "image": "",
+        "options": [
+            "Materiality",
+            "Prudence",
+            "Consistency",
+            "Accrual"
+        ],
+        "answer": "Consistency",
+        "explanation": "Consistency ensures that financial statements can be reliably compared over time."
+    },
+    {
+        "id": "A024",
+        "text": "The $\\textbf{Cost of Goods Sold}$ is calculated by $\\textbf{Opening Stock} + \\text{Purchases} - \\textbf{Closing Stock}$.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Purchases",
+            "Opening Stock",
+            "Expenses"
+        ],
+        "answer": "Opening Stock",
+        "explanation": "COGS reflects the cost directly attributable to the goods sold during the period."
+    },
+    {
+        "id": "A025",
+        "text": "The document sent by the seller to the buyer to confirm the terms of a credit transaction is an $\\textbf{Invoice}$.",
+        "image": "",
+        "options": [
+            "Receipt",
+            "Cheque",
+            "Invoice",
+            "Credit Note"
+        ],
+        "answer": "Invoice",
+        "explanation": "An invoice details the goods supplied, quantities, prices, and terms of payment."
+    },
+    {
+        "id": "A026",
+        "text": "The sum of all expenses incurred in the operation of the business is known as $\\textbf{Operating Expenses}$.",
+        "image": "",
+        "options": [
+            "Cost of Goods Sold",
+            "Fixed Assets",
+            "Operating Expenses",
+            "Capital Expenditure"
+        ],
+        "answer": "Operating Expenses",
+        "explanation": "Includes rent, salaries, utilities, and other administrative and selling costs."
+    },
+    {
+        "id": "A027",
+        "text": "The $\\textbf{Straight Line Method}$ of depreciation charges an equal amount of depreciation each year over the asset's useful life.",
+        "image": "",
+        "options": [
+            "Reducing Balance Method",
+            "Revaluation Method",
+            "Straight Line Method",
+            "Annuity Method"
+        ],
+        "answer": "Straight Line Method",
+        "explanation": "Depreciation = (Cost - Residual Value) / Useful Life."
+    },
+    {
+        "id": "A028",
+        "text": "The $\\textbf{Purchases Ledger}$ contains the personal accounts of the business's $\\textbf{Creditors}$ (Suppliers).",
+        "image": "",
+        "options": [
+            "Debtors",
+            "Creditors",
+            "Customers",
+            "Shareholders"
+        ],
+        "answer": "Creditors",
+        "explanation": "The Purchases Ledger tracks the amounts owed to suppliers for goods purchased on credit."
+    },
+    {
+        "id": "A029",
+        "text": "The maximum amount of capital a company is legally permitted to issue is the $\\textbf{Authorized Capital}$.",
+        "image": "",
+        "options": [
+            "Issued Capital",
+            "Called-Up Capital",
+            "Paid-Up Capital",
+            "Authorized Capital"
+        ],
+        "answer": "Authorized Capital",
+        "explanation": "Also known as Nominal Capital or Registered Capital."
+    },
+    {
+        "id": "A030",
+        "text": "The primary objective of a $\\textbf{Manufacturing Account}$ is to determine the $\\textbf{Cost of Goods Produced}$.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Net Profit",
+            "Cost of Goods Produced",
+            "Capital Employed"
+        ],
+        "answer": "Cost of Goods Produced",
+        "explanation": "The Manufacturing Account calculates the total cost incurred to convert raw materials into finished goods."
+    },
+    {
+        "id": "A031",
+        "text": "In partnership accounting, the $\\textbf{Current Account}$ is used to record partners' salaries, interest on capital, and drawings.",
+        "image": "",
+        "options": [
+            "Capital Account",
+            "Drawings Account",
+            "Current Account",
+            "Loan Account"
+        ],
+        "answer": "Current Account",
+        "explanation": "The Current Account records daily transactions that fluctuate, leaving the Capital Account fixed."
+    },
+    {
+        "id": "A032",
+        "text": "The difference between the bank statement balance and the cash book balance is reconciled using a $\\textbf{Bank Reconciliation Statement}$.",
+        "image": "",
+        "options": [
+            "Trial Balance",
+            "Cash Book",
+            "Bank Reconciliation Statement",
+            "General Ledger"
+        ],
+        "answer": "Bank Reconciliation Statement",
+        "explanation": "This statement identifies discrepancies due to timing differences (e.g., unpresented cheques) or errors."
+    },
+    {
+        "id": "A033",
+        "text": "A business transaction that affects only $\\textbf{One}$ side of the T-account (e.g., incorrect totaling) will cause the $\\textbf{Trial Balance}$ to disagree.",
+        "image": "",
+        "options": [
+            "Cash Book",
+            "Journal",
+            "Trial Balance",
+            "Income Statement"
+        ],
+        "answer": "Trial Balance",
+        "explanation": "If only one side of the ledger is affected, the total debits will not equal the total credits."
+    },
+    {
+        "id": "A034",
+        "text": "The $\\textbf{Materiality}$ concept allows items of low value (e.g., pen, stapler) to be treated as $\\textbf{Expenses}$ rather than assets.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Expenses",
+            "Capital"
+        ],
+        "answer": "Expenses",
+        "explanation": "Materiality focuses on the importance of items; trivial items can be simplified."
+    },
+    {
+        "id": "A035",
+        "text": "The ratio calculated as $\\textbf{Net Profit}$ divided by $\\textbf{Sales Revenue}$ is the $\\textbf{Net Profit Margin}$.",
+        "image": "",
+        "options": [
+            "Gross Profit Margin",
+            "Return on Capital Employed",
+            "Net Profit Margin",
+            "Current Ratio"
+        ],
+        "answer": "Net Profit Margin",
+        "explanation": "This ratio measures the percentage of revenue remaining after all operating expenses, interest, and taxes are deducted."
+    },
+    {
+        "id": "A036",
+        "text": "The process of transferring entries from the journals (Books of Original Entry) to the ledger accounts is called $\\textbf{Posting}$.",
+        "image": "",
+        "options": [
+            "Journalizing",
+            "Balancing",
+            "Posting",
+            "Trial Balancing"
+        ],
+        "answer": "Posting",
+        "explanation": "Posting is the second stage of the accounting cycle, after journalizing."
+    },
+    {
+        "id": "A037",
+        "text": "Expenditure that results in the acquisition of a $\\textbf{Fixed Asset}$ or improvement of an existing one is $\\textbf{Capital Expenditure}$.",
+        "image": "",
+        "options": [
+            "Revenue Expenditure",
+            "Capital Expenditure",
+            "Deferred Revenue",
+            "Drawings"
+        ],
+        "answer": "Capital Expenditure",
+        "explanation": "Capital expenditure provides a benefit for more than one accounting period."
+    },
+    {
+        "id": "A038",
+        "text": "A reserve created to cover a specific, known liability (e.g., warranties) is a $\\textbf{Provision}$.",
+        "image": "",
+        "options": [
+            "General Reserve",
+            "Revenue Reserve",
+            "Capital Reserve",
+            "Provision"
+        ],
+        "answer": "Provision",
+        "explanation": "Provisions are liabilities of uncertain timing or amount, but a reliable estimate can be made."
+    },
+    {
+        "id": "A039",
+        "text": "The $\\textbf{Imprest System}$ is commonly used for managing the $\\textbf{Petty Cash}$ fund.",
+        "image": "",
+        "options": [
+            "Sales Ledger",
+            "General Ledger",
+            "Petty Cash",
+            "Cash Book"
+        ],
+        "answer": "Petty Cash",
+        "explanation": "The fund is restored to a fixed amount at the end of every period after expenses are accounted for."
+    },
+    {
+        "id": "A040",
+        "text": "The financial statement that shows the flow of cash in and out of the business over a period is the $\\textbf{Cash Flow Statement}$.",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "Statement of Financial Position",
+            "Cash Flow Statement",
+            "Trial Balance"
+        ],
+        "answer": "Cash Flow Statement",
+        "explanation": "It classifies cash flows into operating, investing, and financing activities."
+    },
+    {
+        "id": "A041",
+        "text": "An entry made to correct a posting error where an amount was posted to the correct side but the wrong account is an $\\textbf{Error of Commission}$.",
+        "image": "",
+        "options": [
+            "Error of Principle",
+            "Error of Original Entry",
+            "Error of Commission",
+            "Compensating Error"
+        ],
+        "answer": "Error of Commission",
+        "explanation": "Error of Commission involves correctly recording the nature of the transaction but posting it to the wrong personal account (e.g., Debit A instead of B)."
+    },
+    {
+        "id": "A042",
+        "text": "The primary $\\textbf{Source Document}$ for recording cash sales is the $\\textbf{Cash Register Tape}$ or Till Roll.",
+        "image": "",
+        "options": [
+            "Invoice",
+            "Credit Note",
+            "Cash Register Tape",
+            "Cheque Counterfoil"
+        ],
+        "answer": "Cash Register Tape",
+        "explanation": "The till roll provides a sequential record of all cash sales transactions."
+    },
+    {
+        "id": "A043",
+        "text": "The $\\textbf{Matching Concept}$ dictates that $\\textbf{Revenues}$ and the expenses incurred to generate them must be recognized in the same accounting period.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Revenues",
+            "Drawings"
+        ],
+        "answer": "Revenues",
+        "explanation": "The Matching Concept underlies the accrual basis of accounting, ensuring profit is accurately measured."
+    },
+    {
+        "id": "A044",
+        "text": "The value of goods taken by the owner for personal use is recorded as $\\textbf{Drawings}$.",
+        "image": "",
+        "options": [
+            "Salary",
+            "Commission",
+            "Drawings",
+            "Loan"
+        ],
+        "answer": "Drawings",
+        "explanation": "Drawings reduce the owner's capital."
+    },
+    {
+        "id": "A045",
+        "text": "The ratio that measures a company's ability to pay off its short-term liabilities using only its most liquid assets is the $\\textbf{Acid Test Ratio}$.",
+        "image": "",
+        "options": [
+            "Current Ratio",
+            "Stock Turnover Ratio",
+            "Acid Test Ratio",
+            "Debtor's Turnover Ratio"
+        ],
+        "answer": "Acid Test Ratio",
+        "explanation": "The Acid Test Ratio (Quick Ratio) excludes inventory from current assets because inventory is often difficult to convert to cash quickly."
+    },
+    {
+        "id": "A046",
+        "text": "The $\\textbf{Bank Statement}$ shows the account balance from the bank's point of view, where deposits are $\\textbf{Credits}$.",
+        "image": "",
+        "options": [
+            "Debits",
+            "Credits",
+            "Charges",
+            "Overdrafts"
+        ],
+        "answer": "Credits",
+        "explanation": "The bank views the customer's balance as a liability; liabilities increase with a credit."
+    },
+    {
+        "id": "A047",
+        "text": "The type of expenditure used to acquire items that provide a benefit for only $\\textbf{One}$ accounting period is $\\textbf{Revenue Expenditure}$.",
+        "image": "",
+        "options": [
+            "Capital Expenditure",
+            "Deferred Revenue",
+            "Revenue Expenditure",
+            "Capital Reserve"
+        ],
+        "answer": "Revenue Expenditure",
+        "explanation": "Revenue expenditure maintains assets and is charged directly to the Income Statement (e.g., minor repairs)."
+    },
+    {
+        "id": "A048",
+        "text": "In partnership accounting, the account used to record partners' permanent contribution to the business is the $\\textbf{Capital Account}$.",
+        "image": "",
+        "options": [
+            "Current Account",
+            "Drawings Account",
+            "Revenue Account",
+            "Capital Account"
+        ],
+        "answer": "Capital Account",
+        "explanation": "This account usually remains fixed unless there is an agreement to change the capital structure."
+    },
+    {
+        "id": "A049",
+        "text": "The $\\textbf{General Journal}$ is used to record $\\textbf{Opening Entries}$ or transactions that cannot be entered in any other specialized journal.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Cash",
+            "Opening Entries",
+            "Purchases"
+        ],
+        "answer": "Opening Entries",
+        "explanation": "The General Journal (or Journal Proper) handles complex entries like corrections, year-end adjustments, and non-routine transactions."
+    },
+    {
+        "id": "A050",
+        "text": "If a fixed asset is sold for $\\$10,000$ and its net book value is $\\$8,000$, the result is a $\\textbf{Profit on Sale}$ of $\\$2,000$.",
+        "image": "",
+        "options": [
+            "Loss on Sale",
+            "Profit on Sale",
+            "Depreciation Charge",
+            "Revenue Expenditure"
+        ],
+        "answer": "Profit on Sale",
+        "explanation": "Profit on Sale = Selling Price - Net Book Value: $10,000 - 8,000 = 2,000$."
+    },
+    {
+        "id": "A051",
+        "text": "The accounting concept that all business transactions must be recorded in $\\textbf{Monetary}$ terms is the $\\textbf{Monetary Unit}$ concept.",
+        "image": "",
+        "options": [
+            "Historical Cost",
+            "Monetary Unit",
+            "Going Concern",
+            "Dual Aspect"
+        ],
+        "answer": "Monetary Unit",
+        "explanation": "This means qualitative information that cannot be expressed financially is often ignored."
+    },
+    {
+        "id": "A052",
+        "text": "The $\\textbf{Trade Discount}$ is a reduction in the list price given to the buyer at the time of $\\textbf{Sale}$ or purchase.",
+        "image": "",
+        "options": [
+            "Payment",
+            "Sale",
+            "Delivery",
+            "Return"
+        ],
+        "answer": "Sale",
+        "explanation": "Trade discount is calculated before the invoice is issued and is not recorded in the accounts."
+    },
+    {
+        "id": "A053",
+        "text": "The $\\textbf{Gross Profit Margin}$ is the ratio of $\\textbf{Gross Profit}$ to $\\textbf{Net Sales}$ (Revenue).",
+        "image": "",
+        "options": [
+            "Net Profit",
+            "Operating Expenses",
+            "Gross Profit",
+            "Capital"
+        ],
+        "answer": "Gross Profit",
+        "explanation": "Gross Profit Margin measures the percentage of revenue remaining after deducting the Cost of Goods Sold."
+    },
+    {
+        "id": "A054",
+        "text": "The book of original entry used to record $\\textbf{Credit Sales}$ of goods is the $\\textbf{Sales Journal}$.",
+        "image": "",
+        "options": [
+            "Purchases Journal",
+            "Cash Book",
+            "Sales Journal",
+            "Returns Outwards Journal"
+        ],
+        "answer": "Sales Journal",
+        "explanation": "The Sales Journal is specifically for recording goods sold on credit."
+    },
+    {
+        "id": "A055",
+        "text": "The $\\textbf{Current Ratio}$ is calculated as $\\textbf{Current Assets}$ divided by $\\textbf{Current Liabilities}$.",
+        "image": "",
+        "options": [
+            "Quick Assets",
+            "Fixed Assets",
+            "Current Assets",
+            "Working Capital"
+        ],
+        "answer": "Current Assets",
+        "explanation": "The Current Ratio measures the ability of a business to pay short-term obligations."
+    },
+    {
+        "id": "A056",
+        "text": "When a firm receives a $\\textbf{Cheque}$ from a debtor, the $\\textbf{Bank Account}$ in the Cash Book is $\\textbf{Debited}$.",
+        "image": "",
+        "options": [
+            "Credited",
+            "Debited",
+            "Closed",
+            "Transferred"
+        ],
+        "answer": "Bank Account",
+        "explanation": "A cheque increases the asset balance in the Bank column (Debit)."
+    },
+    {
+        "id": "A057",
+        "text": "The accounting concept that revenue should be recognized when earned, regardless of when cash is received, is the $\\textbf{Accrual}$ concept.",
+        "image": "",
+        "options": [
+            "Cash Basis",
+            "Accrual",
+            "Realization",
+            "Consistency"
+        ],
+        "answer": "Accrual",
+        "explanation": "The Accrual basis of accounting is required by most accounting standards for measuring profitability."
+    },
+    {
+        "id": "A058",
+        "text": "The $\\textbf{Depreciation}$ method that is most appropriate for assets that rapidly decline in value, such as $\\textbf{Computers}$, is the Reducing Balance Method.",
+        "image": "",
+        "options": [
+            "Buildings",
+            "Land",
+            "Computers",
+            "Furniture"
+        ],
+        "answer": "Computers",
+        "explanation": "The Reducing Balance method charges more depreciation earlier, reflecting the faster obsolescence of high-tech assets."
+    },
+    {
+        "id": "A059",
+        "text": "The $\\textbf{Suspense Account}$ is a temporary account opened when the $\\textbf{Trial Balance}$ fails to balance.",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "General Ledger",
+            "Suspense Account",
+            "Journal Proper"
+        ],
+        "answer": "Suspense Account",
+        "explanation": "The difference between the Debit and Credit totals is temporarily placed in the Suspense Account until the error(s) are discovered."
+    },
+    {
+        "id": "A060",
+        "text": "The term $\\textbf{Overdraft}$ refers to a $\\textbf{Current Liability}$ when a bank allows a customer to withdraw more money than is in their account.",
+        "image": "",
+        "options": [
+            "Current Asset",
+            "Fixed Asset",
+            "Current Liability",
+            "Capital"
+        ],
+        "answer": "Current Liability",
+        "explanation": "A bank overdraft represents a short-term debt and is classified as a current liability."
+    },
+    {
+        "id": "A061",
+        "text": "An error where $\\textbf{Capital Expenditure}$ is wrongly treated as $\\textbf{Revenue Expenditure}$ (e.g., buying a machine debited to repairs) is an $\\textbf{Error of Principle}$.",
+        "image": "",
+        "options": [
+            "Error of Omission",
+            "Error of Commission",
+            "Error of Principle",
+            "Compensating Error"
+        ],
+        "answer": "Error of Principle",
+        "explanation": "This error violates a fundamental accounting concept but the trial balance will still balance."
+    },
+    {
+        "id": "A062",
+        "text": "The $\\textbf{Sales Ledger}$ contains the personal accounts of a business's $\\textbf{Debtors}$ (Customers).",
+        "image": "",
+        "options": [
+            "Creditors",
+            "Debtors",
+            "Suppliers",
+            "Investors"
+        ],
+        "answer": "Debtors",
+        "explanation": "The Sales Ledger records all transactions with customers who owe the business money."
+    },
+    {
+        "id": "A063",
+        "text": "The $\\textbf{Monetary Unit}$ concept assumes that the value of money is $\\textbf{Stable}$ over time, ignoring inflation.",
+        "image": "",
+        "options": [
+            "Volatile",
+            "Stable",
+            "Decreasing",
+            "Increasing"
+        ],
+        "answer": "Stable",
+        "explanation": "This limitation means financial reports based on historical cost may not reflect current economic realities."
+    },
+    {
+        "id": "A064",
+        "text": "The $\\textbf{Book Value}$ of an asset is its $\\textbf{Cost}$ minus $\\textbf{Accumulated Depreciation}$.",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Cost",
+            "Salvage Value",
+            "Replacement Cost"
+        ],
+        "answer": "Cost",
+        "explanation": "Book Value (or Net Book Value) is the value of the asset recorded in the balance sheet."
+    },
+    {
+        "id": "A065",
+        "text": "The $\\textbf{Nominal Accounts}$ (or Revenue Accounts) relate to $\\textbf{Income}$ and $\\textbf{Expenses}$ and are closed to the Income Statement at year-end.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Income",
+            "Capital"
+        ],
+        "answer": "Income",
+        "explanation": "Nominal Accounts record the transactions that affect the profit or loss of the business."
+    },
+    {
+        "id": "A066",
+        "text": "The document received from a supplier when goods previously purchased on credit are returned is a $\\textbf{Credit Note}$.",
+        "image": "",
+        "options": [
+            "Invoice",
+            "Debit Note",
+            "Credit Note",
+            "Receipt"
+        ],
+        "answer": "Credit Note",
+        "explanation": "The Credit Note reduces the amount the buyer owes to the supplier."
+    },
+    {
+        "id": "A067",
+        "text": "The $\\textbf{Profit and Loss Account}$ calculates the $\\textbf{Net Profit}$ by deducting operating expenses and adding other income to the Gross Profit.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Net Profit",
+            "Total Revenue",
+            "Cost of Sales"
+        ],
+        "answer": "Net Profit",
+        "explanation": "The Profit and Loss section determines the final profitability of the business."
+    },
+    {
+        "id": "A068",
+        "text": "The difference between the $\\textbf{Total Assets}$ and the $\\textbf{Total Liabilities}$ of a business is the Owner's Equity (Capital).",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Owner's Equity",
+            "Fixed Assets",
+            "Current Liabilities"
+        ],
+        "answer": "Owner's Equity",
+        "explanation": "This reflects the owner's claim on the assets of the business ($A - L = E$)."
+    },
+    {
+        "id": "A069",
+        "text": "The $\\textbf{Return on Capital Employed (ROCE)}$ measures the profitability of the business in relation to the $\\textbf{Long-Term Funds}$ invested.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Current Assets",
+            "Long-Term Funds",
+            "Cash"
+        ],
+        "answer": "Long-Term Funds",
+        "explanation": "Capital Employed = Owner's Equity + Non-Current Liabilities. ROCE = (Net Profit / Capital Employed) $\\times 100$."
+    },
+    {
+        "id": "A070",
+        "text": "The $\\textbf{Liquidity}$ of a business is its ability to meet its $\\textbf{Short-Term Debts}$ when they fall due.",
+        "image": "",
+        "options": [
+            "Long-Term Debts",
+            "Short-Term Debts",
+            "Capital",
+            "Profitability"
+        ],
+        "answer": "Short-Term Debts",
+        "explanation": "Liquidity is measured by ratios like the Current Ratio and Acid Test Ratio."
+    },
+    {
+        "id": "A071",
+        "text": "An error where a transaction is completely debited or credited to the correct accounts but with the $\\textbf{Wrong Amount}$ is an $\\textbf{Error of Original Entry}$.",
+        "image": "",
+        "options": [
+            "Error of Principle",
+            "Error of Original Entry",
+            "Compensating Error",
+            "Error of Commission"
+        ],
+        "answer": "Error of Original Entry",
+        "explanation": "The incorrect amount is first recorded in the journal and then posted to the ledger accounts, causing the trial balance to balance, but with the wrong figures."
+    },
+    {
+        "id": "A072",
+        "text": "The $\\textbf{Historical Cost}$ concept requires that assets be recorded at their original $\\textbf{Acquisition Price}$ (cost) rather than their current market value.",
+        "image": "",
+        "options": [
+            "Market Price",
+            "Replacement Price",
+            "Acquisition Price",
+            "Selling Price"
+        ],
+        "answer": "Acquisition Price",
+        "explanation": "This provides objective and verifiable evidence for transactions."
+    },
+    {
+        "id": "A073",
+        "text": "The account used to record the expenses and revenue related to non-trading activities, such as renting out a property, is the $\\textbf{Nominal}$ account.",
+        "image": "",
+        "options": [
+            "Real",
+            "Personal",
+            "Nominal",
+            "Capital"
+        ],
+        "answer": "Nominal",
+        "explanation": "Nominal accounts (or expense/revenue accounts) record items that affect the period's profit or loss."
+    },
+    {
+        "id": "A074",
+        "text": "A reduction in the list price given by the seller at the point of sale, regardless of payment terms, is a $\\textbf{Trade Discount}$.",
+        "image": "",
+        "options": [
+            "Cash Discount",
+            "Trade Discount",
+            "Quantity Discount",
+            "Settlement Discount"
+        ],
+        "answer": "Trade Discount",
+        "explanation": "Trade discounts are not recorded in the double-entry system; only the net amount is recorded."
+    },
+    {
+        "id": "A075",
+        "text": "The $\\textbf{Returns Outwards Journal}$ is used to record goods returned to $\\textbf{Suppliers}$ (Creditors).",
+        "image": "",
+        "options": [
+            "Customers",
+            "Employees",
+            "Suppliers",
+            "Banks"
+        ],
+        "answer": "Suppliers",
+        "explanation": "Also known as the Purchases Returns Journal."
+    },
+    {
+        "id": "A076",
+        "text": "The $\\textbf{Ledger}$ is the principal book where accounts are summarized, classified, and used to prepare the Trial Balance.",
+        "image": "",
+        "options": [
+            "Journal",
+            "Ledger",
+            "Voucher",
+            "Cash Book"
+        ],
+        "answer": "Ledger",
+        "explanation": "The Ledger contains the collection of all T-accounts, representing the final destination of all transactions."
+    },
+    {
+        "id": "A077",
+        "text": "The concept that requires transactions to be recorded when they occur, not when cash is exchanged, is the $\\textbf{Accrual}$ concept.",
+        "image": "",
+        "options": [
+            "Cash Basis",
+            "Consistency",
+            "Accrual",
+            "Going Concern"
+        ],
+        "answer": "Accrual",
+        "explanation": "Accrual forms the basis for recognizing revenue (Revenue Recognition Principle) and expenses (Matching Principle)."
+    },
+    {
+        "id": "A078",
+        "text": "The $\\textbf{Debtors}$ (Accounts Receivable) are typically found in the $\\textbf{Sales Ledger}$.",
+        "image": "",
+        "options": [
+            "Purchases Ledger",
+            "Sales Ledger",
+            "General Ledger",
+            "Nominal Ledger"
+        ],
+        "answer": "Sales Ledger",
+        "explanation": "The Sales Ledger is a subsidiary ledger that details the accounts of individual customers who owe money."
+    },
+    {
+        "id": "A079",
+        "text": "Expenditure incurred to $\\textbf{Maintain}$ the existing earning capacity of an asset (e.g., repairs) is $\\textbf{Revenue Expenditure}$.",
+        "image": "",
+        "options": [
+            "Capital Expenditure",
+            "Revenue Expenditure",
+            "Fixed Expenditure",
+            "Liability"
+        ],
+        "answer": "Revenue Expenditure",
+        "explanation": "Revenue expenditure benefits only the current accounting period and is expensed immediately."
+    },
+    {
+        "id": "A080",
+        "text": "The $\\textbf{Suspense Account}$ is closed when $\\textbf{All}$ the errors causing the imbalance in the Trial Balance are corrected.",
+        "image": "",
+        "options": [
+            "Half",
+            "Some",
+            "All",
+            "None"
+        ],
+        "answer": "All",
+        "explanation": "The remaining balance in the Suspense Account should be zero after all balancing errors are identified and rectified."
+    },
+    {
+        "id": "A081",
+        "text": "The $\\textbf{Credit Note}$ is the document issued by the seller to the buyer confirming a reduction in the amount owed, often due to $\\textbf{Goods Returned}$.",
+        "image": "",
+        "options": [
+            "Payment Made",
+            "Goods Delivered",
+            "Goods Returned",
+            "Credit Granted"
+        ],
+        "answer": "Goods Returned",
+        "explanation": "A credit note signals a reduction in the customer's debt (Accounts Receivable)."
+    },
+    {
+        "id": "A082",
+        "text": "The $\\textbf{Discount Allowed}$ account is a $\\textbf{Nominal}$ account classified as an $\\textbf{Expense}$ in the Income Statement.",
+        "image": "",
+        "options": [
+            "Asset",
+            "Liability",
+            "Expense",
+            "Revenue"
+        ],
+        "answer": "Expense",
+        "explanation": "Discount Allowed is a loss to the business as it reduces the revenue realized from sales."
+    },
+    {
+        "id": "A083",
+        "text": "In a Manufacturing Account, the sum of $\\textbf{Direct Materials}$, $\\textbf{Direct Labour}$, and $\\textbf{Direct Expenses}$ equals $\\textbf{Prime Cost}$.",
+        "image": "",
+        "options": [
+            "Total Production Cost",
+            "Prime Cost",
+            "Factory Overhead",
+            "Cost of Goods Sold"
+        ],
+        "answer": "Prime Cost",
+        "explanation": "Prime Cost represents the direct costs associated with manufacturing a product."
+    },
+    {
+        "id": "A084",
+        "text": "The $\\textbf{Consistency}$ concept ensures that an accounting method (e.g., depreciation method) used in one year is $\\textbf{Maintained}$ in the next.",
+        "image": "",
+        "options": [
+            "Changed",
+            "Ignored",
+            "Maintained",
+            "Reviewed"
+        ],
+        "answer": "Maintained",
+        "explanation": "This aids in comparability of financial statements across different periods."
+    },
+    {
+        "id": "A085",
+        "text": "The ratio that measures the number of times inventory (stock) is sold and replaced during a period is the $\\textbf{Stock Turnover Ratio}$.",
+        "image": "",
+        "options": [
+            "Current Ratio",
+            "Stock Turnover Ratio",
+            "Debtor's Turnover Ratio",
+            "Asset Turnover Ratio"
+        ],
+        "answer": "Stock Turnover Ratio",
+        "explanation": "Stock Turnover Ratio = COGS / Average Stock. A higher ratio generally indicates efficient inventory management."
+    },
+    {
+        "id": "A086",
+        "text": "The $\\textbf{Sales Ledger}$ is a $\\textbf{Subsidiary Ledger}$ that supports the $\\textbf{Trade Receivables}$ (Debtors) balance in the General Ledger.",
+        "image": "",
+        "options": [
+            "Primary Ledger",
+            "General Ledger",
+            "Subsidiary Ledger",
+            "Nominal Ledger"
+        ],
+        "answer": "Subsidiary Ledger",
+        "explanation": "Subsidiary ledgers contain the detailed breakdown of a control account (e.g., Accounts Receivable Control Account) in the General Ledger."
+    },
+    {
+        "id": "A087",
+        "text": "When the $\\textbf{Bank Statement}$ shows a credit balance, it means the business has money $\\textbf{In Deposit}$ (an asset).",
+        "image": "",
+        "options": [
+            "An Overdraft",
+            "A Loan",
+            "In Deposit",
+            "A Charge"
+        ],
+        "answer": "In Deposit",
+        "explanation": "The bank views this as a liability (money owed to the customer), hence it's a credit balance on the bank statement."
+    },
+    {
+        "id": "A088",
+        "text": "The formula for calculating the $\\textbf{Rate of Stock Turnover}$ is $\\textbf{Cost of Goods Sold}$ divided by $\\textbf{Average Stock}$.",
+        "image": "",
+        "options": [
+            "Sales Revenue",
+            "Gross Profit",
+            "Cost of Goods Sold",
+            "Net Profit"
+        ],
+        "answer": "Cost of Goods Sold",
+        "explanation": "Using COGS instead of Sales Revenue ensures the ratio compares costs with costs."
+    },
+    {
+        "id": "A089",
+        "text": "A $\\textbf{Provision for Doubtful Debts}$ is created based on the $\\textbf{Prudence}$ concept to avoid overstating expected revenue.",
+        "image": "",
+        "options": [
+            "Consistency",
+            "Prudence",
+            "Materiality",
+            "Accrual"
+        ],
+        "answer": "Prudence",
+        "explanation": "Providing for anticipated losses (bad debts) is a key application of the prudence/conservatism principle."
+    },
+    {
+        "id": "A090",
+        "text": "The $\\textbf{Dual Aspect}$ (or Duality) concept is the foundation of the $\\textbf{Double Entry}$ bookkeeping system.",
+        "image": "",
+        "options": [
+            "Single Entry",
+            "Cash Basis",
+            "Double Entry",
+            "Accrual Basis"
+        ],
+        "answer": "Double Entry",
+        "explanation": "The dual aspect concept states that every transaction has two sides: a debit and a corresponding credit."
+    },
+    {
+        "id": "A091",
+        "text": "The type of error that involves substituting a correct account for another account of the $\\textbf{Same Class}$ (e.g., debiting Salaries instead of Wages) is an $\\textbf{Error of Classification}$.",
+        "image": "",
+        "options": [
+            "Error of Omission",
+            "Error of Principle",
+            "Error of Classification",
+            "Compensating Error"
+        ],
+        "answer": "Error of Classification",
+        "explanation": "Since both Salaries and Wages are Nominal accounts (Expenses), the trial balance remains correct, making it an error that does not affect balancing."
+    },
+    {
+        "id": "A092",
+        "text": "The $\\textbf{Nominal Accounts}$ include all accounts that are ultimately transferred to the $\\textbf{Income Statement}$ (Trading and Profit & Loss Accounts).",
+        "image": "",
+        "options": [
+            "Balance Sheet",
+            "Cash Flow Statement",
+            "Income Statement",
+            "Trial Balance"
+        ],
+        "answer": "Income Statement",
+        "explanation": "Nominal Accounts record the temporary elements: revenues, gains, expenses, and losses."
+    },
+    {
+        "id": "A093",
+        "text": "The $\\textbf{Carriage Inwards}$ cost (transportation cost for purchased goods) is included in the calculation of the $\\textbf{Cost of Goods Sold}$.",
+        "image": "",
+        "options": [
+            "Operating Expenses",
+            "Carriage Outwards",
+            "Cost of Goods Sold",
+            "Capital Expenditure"
+        ],
+        "answer": "Cost of Goods Sold",
+        "explanation": "Carriage Inwards is a direct cost that adds to the cost of purchasing the goods."
+    },
+    {
+        "id": "A094",
+        "text": "The $\\textbf{Debtors Turnover Ratio}$ measures the efficiency of a firm in collecting $\\textbf{Money Owed}$ by customers.",
+        "image": "",
+        "options": [
+            "Paying Suppliers",
+            "Selling Goods",
+            "Money Owed",
+            "Inventory Management"
+        ],
+        "answer": "Money Owed",
+        "explanation": "This ratio indicates how quickly a business converts credit sales into cash."
+    },
+    {
+        "id": "A095",
+        "text": "In the $\\textbf{Manufacturing Account}$, the calculation of the $\\textbf{Total Cost of Production}$ includes factory overheads.",
+        "image": "",
+        "options": [
+            "Prime Cost",
+            "Cost of Goods Sold",
+            "Total Cost of Production",
+            "Gross Profit"
+        ],
+        "answer": "Total Cost of Production",
+        "explanation": "Total Cost of Production = Prime Cost + Factory Overheads (Indirect Manufacturing Costs)."
+    },
+    {
+        "id": "A096",
+        "text": "The $\\textbf{Prepaid Expense}$ (e.g., rent paid in advance) is classified as a $\\textbf{Current Asset}$.",
+        "image": "",
+        "options": [
+            "Current Liability",
+            "Current Asset",
+            "Fixed Asset",
+            "Owner's Equity"
+        ],
+        "answer": "Current Asset",
+        "explanation": "A prepaid expense represents a future benefit or service yet to be consumed by the business."
+    },
+    {
+        "id": "A097",
+        "text": "The $\\textbf{Provision for Depreciation}$ account is always maintained with a $\\textbf{Credit}$ balance.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Zero",
+            "Adjusted"
+        ],
+        "answer": "Credit",
+        "explanation": "It is a contra-asset account, increasing the total credit side of the Balance Sheet (reducing asset value)."
+    },
+    {
+        "id": "A098",
+        "text": "The term $\\textbf{Capital Employed}$ refers to the $\\textbf{Total}$ long-term funds invested in the business, including equity and non-current liabilities.",
+        "image": "",
+        "options": [
+            "Current",
+            "Liquid",
+            "Total",
+            "Borrowed"
+        ],
+        "answer": "Total",
+        "explanation": "Capital Employed is the total value of assets used to generate profit."
+    },
+    {
+        "id": "A099",
+        "text": "An error where the wrong type of account is debited or credited (e.g., debiting Capital for Drawings) is an $\\textbf{Error of Principle}$.",
+        "image": "",
+        "options": [
+            "Error of Commission",
+            "Error of Omission",
+            "Error of Principle",
+            "Compensating Error"
+        ],
+        "answer": "Error of Principle",
+        "explanation": "This error violates fundamental rules of accounting but often does not cause the trial balance to disagree."
+    },
+    {
+        "id": "A100",
+        "text": "The $\\textbf{Partnership Deed}$ (or Agreement) is the legal document that outlines the $\\textbf{Rights and Responsibilities}$ of each partner.",
+        "image": "",
+        "options": [
+            "Debts",
+            "Assets",
+            "Rights and Responsibilities",
+            "Customers"
+        ],
+        "answer": "Rights and Responsibilities",
+        "explanation": "It dictates profit sharing ratio, capital contributions, salaries, and interest on drawings/capital."
+    },
+    {
+        "id": "A101",
+        "text": "The $\\textbf{Bank Charges}$ appearing only in the Bank Statement require a $\\textbf{Credit}$ entry in the Cash Book to reconcile the balances.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Transfer",
+            "Balance"
+        ],
+        "answer": "Credit",
+        "explanation": "Bank charges decrease the bank balance (an asset), requiring a Credit entry in the Cash Book."
+    },
+    {
+        "id": "A102",
+        "text": "The principle that revenue should be recognized when the earning process is complete, usually at the point of sale, is the $\\textbf{Revenue Recognition}$ principle.",
+        "image": "",
+        "options": [
+            "Matching",
+            "Consistency",
+            "Revenue Recognition",
+            "Prudence"
+        ],
+        "answer": "Revenue Recognition",
+        "explanation": "This determines when sales can be officially recorded as earned revenue."
+    },
+    {
+        "id": "A103",
+        "text": "The $\\textbf{Trading Account}$ determines the $\\textbf{Gross Profit}$ or Gross Loss from the core buying and selling activities.",
+        "image": "",
+        "options": [
+            "Net Profit",
+            "Gross Profit",
+            "Operating Profit",
+            "Retained Earnings"
+        ],
+        "answer": "Gross Profit",
+        "explanation": "The Trading Account is the first section of the Income Statement."
+    },
+    {
+        "id": "A104",
+        "text": "The $\\textbf{Final Accounts}$ (Income Statement and Balance Sheet) are prepared from the balances extracted in the $\\textbf{Trial Balance}$.",
+        "image": "",
+        "options": [
+            "Journals",
+            "Ledgers",
+            "Trial Balance",
+            "Petty Cash Book"
+        ],
+        "answer": "Trial Balance",
+        "explanation": "The Trial Balance provides the raw, categorized financial data needed for final reporting."
+    },
+    {
+        "id": "A105",
+        "text": "The $\\textbf{Capital Account}$ (in sole proprietorship) represents the owner's $\\textbf{Net Worth}$ in the business.",
+        "image": "",
+        "options": [
+            "Total Revenue",
+            "Total Expenses",
+            "Net Worth",
+            "Loan Balance"
+        ],
+        "answer": "Net Worth",
+        "explanation": "Capital is the residual interest in the assets after deducting liabilities."
+    },
+    {
+        "id": "A106",
+        "text": "The $\\textbf{Sales Returns Journal}$ is used to record goods returned by $\\textbf{Customers}$ (Debtors).",
+        "image": "",
+        "options": [
+            "Suppliers",
+            "Customers",
+            "Creditors",
+            "Shareholders"
+        ],
+        "answer": "Customers",
+        "explanation": "Also known as the Returns Inwards Journal."
+    },
+    {
+        "id": "A107",
+        "text": "An error where the debit and credit sides of a transaction are both affected by the same incorrect amount is a $\\textbf{Compensating Error}$.",
+        "image": "",
+        "options": [
+            "Error of Omission",
+            "Error of Commission",
+            "Compensating Error",
+            "Error of Principle"
+        ],
+        "answer": "Compensating Error",
+        "explanation": "Compensating errors offset each other, meaning the Trial Balance still balances, hiding the mistakes."
+    },
+    {
+        "id": "A108",
+        "text": "The $\\textbf{Amortization}$ of intangible assets (e.g., patents, goodwill) is conceptually similar to the $\\textbf{Depreciation}$ of tangible assets.",
+        "image": "",
+        "options": [
+            "Revaluation",
+            "Depreciation",
+            "Appreciation",
+            "Restatement"
+        ],
+        "answer": "Depreciation",
+        "explanation": "Amortization systematically reduces the value of the intangible asset over its useful life."
+    },
+    {
+        "id": "A109",
+        "text": "The $\\textbf{Inventory}$ (Stock) is valued at the $\\textbf{Lower}$ of cost and net realizable value (Prudence Concept).",
+        "image": "",
+        "options": [
+            "Higher",
+            "Lower",
+            "Average",
+            "Market"
+        ],
+        "answer": "Lower",
+        "explanation": "This ensures assets are not overstated and adheres to the conservatism principle."
+    },
+    {
+        "id": "A110",
+        "text": "The document used to authorize a withdrawal of cash from the bank is a $\\textbf{Cheque}$.",
+        "image": "",
+        "options": [
+            "Invoice",
+            "Receipt",
+            "Cheque",
+            "Credit Note"
+        ],
+        "answer": "Cheque",
+        "explanation": "A cheque is a bill of exchange written by the drawer directing the bank to pay a specific amount to the payee."
+    },
+    {
+        "id": "A111",
+        "text": "The $\\textbf{Return on Capital Employed (ROCE)}$ is a profitability ratio used to evaluate how efficiently $\\textbf{Management}$ utilizes the funds invested.",
+        "image": "",
+        "options": [
+            "Shareholders",
+            "Creditors",
+            "Management",
+            "Customers"
+        ],
+        "answer": "Management",
+        "explanation": "ROCE measures the return generated by the core business activities using long-term capital."
+    },
+    {
+        "id": "A112",
+        "text": "The $\\textbf{Bank Overdraft}$ is recorded on the $\\textbf{Credit}$ side of the Cash Book.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Balance",
+            "Transfer"
+        ],
+        "answer": "Credit",
+        "explanation": "An overdraft is a liability, so it is recorded as a negative balance (Credit) in the bank column of the Cash Book."
+    },
+    {
+        "id": "A113",
+        "text": "The $\\textbf{Provision for Bad Debts}$ is calculated as a percentage of $\\textbf{Trade Receivables}$ (Debtors).",
+        "image": "",
+        "options": [
+            "Sales Revenue",
+            "Trade Receivables",
+            "Purchases",
+            "Capital"
+        ],
+        "answer": "Trade Receivables",
+        "explanation": "The provision estimates the amount of current receivables that might not be collected."
+    },
+    {
+        "id": "A114",
+        "text": "The $\\textbf{Final Accounts}$ (Income Statement and Balance Sheet) are prepared at the end of the $\\textbf{Accounting Period}$ (usually annually).",
+        "image": "",
+        "options": [
+            "Month",
+            "Quarter",
+            "Accounting Period",
+            "Day"
+        ],
+        "answer": "Accounting Period",
+        "explanation": "The accounting period principle dictates that the life of the business is divided into specific time frames for reporting."
+    },
+    {
+        "id": "A115",
+        "text": "The $\\textbf{Fixed Capital Account}$ method in partnership accounting keeps the initial capital contributions $\\textbf{Constant}$ (fixed).",
+        "image": "",
+        "options": [
+            "Variable",
+            "Adjusted",
+            "Constant",
+            "Revalued"
+        ],
+        "answer": "Constant",
+        "explanation": "All periodic adjustments (profit share, drawings, salary) are recorded in the Current Account."
+    },
+    {
+        "id": "A116",
+        "text": "The $\\textbf{Balance Sheet}$ should always adhere to the equation: $\\textbf{Assets} = \\textbf{Liabilities} + \\textbf{Equity}$.",
+        "image": "",
+        "options": [
+            "Income = Expenses",
+            "Assets = Liabilities + Equity",
+            "Sales = COGS",
+            "Capital = Assets - Debt"
+        ],
+        "answer": "Assets = Liabilities + Equity",
+        "explanation": "This is the fundamental accounting equation, which is the basis for the Balance Sheet."
+    },
+    {
+        "id": "A117",
+        "text": "The $\\textbf{Materiality}$ concept suggests that small, irrelevant errors can be $\\textbf{Ignored}$ as they do not affect the financial decisions of users.",
+        "image": "",
+        "options": [
+            "Included",
+            "Ignored",
+            "Corrected Immediately",
+            "Reported"
+        ],
+        "answer": "Ignored",
+        "explanation": "Materiality focuses on the relative importance of an item or error; if it's immaterial, strict accounting treatment can be relaxed."
+    },
+    {
+        "id": "A118",
+        "text": "The journal used to record the return of goods purchased on credit is the $\\textbf{Returns Outwards Journal}$.",
+        "image": "",
+        "options": [
+            "Sales Journal",
+            "Purchases Journal",
+            "Returns Outwards Journal",
+            "General Journal"
+        ],
+        "answer": "Returns Outwards Journal",
+        "explanation": "Also called the Purchases Returns Journal, it records returns to suppliers (creditors)."
+    },
+    {
+        "id": "A119",
+        "text": "The $\\textbf{Discount Received}$ account is a $\\textbf{Nominal}$ account classified as a $\\textbf{Revenue}$ (or Income) item.",
+        "image": "",
+        "options": [
+            "Expense",
+            "Liability",
+            "Revenue",
+            "Asset"
+        ],
+        "answer": "Revenue",
+        "explanation": "Discount Received increases the business's profit and is shown on the credit side of the Profit and Loss Account."
+    },
+    {
+        "id": "A120",
+        "text": "The purpose of calculating $\\textbf{Depreciation}$ is to allocate the cost of the asset to the periods benefiting from its $\\textbf{Use}$.",
+        "image": "",
+        "options": [
+            "Sale",
+            "Use",
+            "Purchase",
+            "Maintenance"
+        ],
+        "answer": "Use",
+        "explanation": "Depreciation is an application of the matching concept."
+    },
+    {
+        "id": "A121",
+        "text": "When a cheque deposited by the business is $\\textbf{Dishonored}$ (or bounced) by the bank, the $\\textbf{Bank Account}$ in the Cash Book must be $\\textbf{Credited}$.",
+        "image": "",
+        "options": [
+            "Debited",
+            "Credited",
+            "Ignored",
+            "Transferred"
+        ],
+        "answer": "Credited",
+        "explanation": "The asset (Bank balance) was previously increased (debited) when the cheque was received, so it must be reduced (credited) when the cheque bounces."
+    },
+    {
+        "id": "A122",
+        "text": "The $\\textbf{Average Stock}$ for a period is calculated as $(\\textbf{Opening Stock} + \\textbf{Closing Stock}) / 2$.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Purchases",
+            "Opening Stock",
+            "COGS"
+        ],
+        "answer": "Opening Stock",
+        "explanation": "Average stock is used in calculating the Stock Turnover Ratio."
+    },
+    {
+        "id": "A123",
+        "text": "In the $\\textbf{Reducing Balance}$ method, the depreciation charge $\\textbf{Decreases}$ over the life of the asset.",
+        "image": "",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains Constant",
+            "Fluctuates"
+        ],
+        "answer": "Decreases",
+        "explanation": "The depreciation rate is applied to the Net Book Value, which decreases each year."
+    },
+    {
+        "id": "A124",
+        "text": "The $\\textbf{Real Accounts}$ relate to the $\\textbf{Assets}$ and $\\textbf{Liabilities}$ of the business (except Debtors/Creditors) and are carried forward to the next period.",
+        "image": "",
+        "options": [
+            "Income",
+            "Expenses",
+            "Assets",
+            "Drawings"
+        ],
+        "answer": "Assets",
+        "explanation": "Real Accounts represent tangible and intangible possessions/obligations (e.g., Buildings, Cash, Loan)."
+    },
+    {
+        "id": "A125",
+        "text": "The $\\textbf{Debtors}$ (Accounts Receivable) are classified as a $\\textbf{Current Asset}$.",
+        "image": "",
+        "options": [
+            "Fixed Asset",
+            "Current Asset",
+            "Current Liability",
+            "Long-Term Liability"
+        ],
+        "answer": "Current Asset",
+        "explanation": "Debtors represent amounts expected to be converted into cash within one year."
+    },
+    {
+        "id": "A126",
+        "text": "The $\\textbf{Capital Account}$ of a sole trader will have a $\\textbf{Credit}$ balance, as it represents the owner's liability to the business.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Zero",
+            "Adjusted"
+        ],
+        "answer": "Credit",
+        "explanation": "Capital is a source of funds (a liability from the business entity perspective), so it increases with credits."
+    },
+    {
+        "id": "A127",
+        "text": "The $\\textbf{Net Realizable Value (NRV)}$ of inventory is the $\\textbf{Estimated Selling Price}$ minus estimated costs to complete and sell.",
+        "image": "",
+        "options": [
+            "Original Cost",
+            "Replacement Cost",
+            "Estimated Selling Price",
+            "Book Value"
+        ],
+        "answer": "Estimated Selling Price",
+        "explanation": "Inventory must be valued at the lower of Cost or NRV (Prudence Concept)."
+    },
+    {
+        "id": "A128",
+        "text": "The journal used to record $\\textbf{Goods Returned}$ by $\\textbf{Customers}$ is the $\\textbf{Returns Inwards Journal}$.",
+        "image": "",
+        "options": [
+            "Sales Journal",
+            "Purchases Journal",
+            "Returns Outwards Journal",
+            "Returns Inwards Journal"
+        ],
+        "answer": "Returns Inwards Journal",
+        "explanation": "Also known as the Sales Returns Journal."
+    },
+    {
+        "id": "A129",
+        "text": "The $\\textbf{Net Profit}$ is transferred from the $\\textbf{Profit and Loss Account}$ to the $\\textbf{Capital Account}$ (or Retained Earnings).",
+        "image": "",
+        "options": [
+            "Bank Account",
+            "Drawings Account",
+            "Capital Account",
+            "Sales Account"
+        ],
+        "answer": "Capital Account",
+        "explanation": "Net Profit increases the owner's equity (Capital)."
+    },
+    {
+        "id": "A130",
+        "text": "In a Manufacturing Account, $\\textbf{Factory Overheads}$ (or Indirect Costs) include $\\textbf{Factory Rent}$ and $\\textbf{Indirect Wages}$.",
+        "image": "",
+        "options": [
+            "Direct Materials",
+            "Direct Labour",
+            "Factory Rent",
+            "Sales Expenses"
+        ],
+        "answer": "Factory Rent",
+        "explanation": "Factory overheads are the indirect costs required to run the manufacturing facility."
+    },
+    {
+        "id": "A131",
+        "text": "The $\\textbf{Cost of Sales}$ for a non-manufacturing firm is $\\textbf{Opening Stock} + \\text{Purchases} - \\textbf{Closing Stock}$.",
+        "image": "",
+        "options": [
+            "Sales",
+            "Gross Profit",
+            "Closing Stock",
+            "Expenses"
+        ],
+        "answer": "Closing Stock",
+        "explanation": "Closing stock is the unsold inventory at the end of the period, subtracted from goods available for sale."
+    },
+    {
+        "id": "A132",
+        "text": "The $\\textbf{Current Liability}$ that represents the interest owed on a long-term loan due within the next year is the $\\textbf{Current Portion}$ of the long-term debt.",
+        "image": "",
+        "options": [
+            "Owner's Equity",
+            "Fixed Asset",
+            "Current Portion",
+            "Accrued Revenue"
+        ],
+        "answer": "Current Portion",
+        "explanation": "The portion of a long-term liability (principal) due within 12 months is reclassified as current."
+    },
+    {
+        "id": "A133",
+        "text": "The $\\textbf{Suspense Account}$ should theoretically always $\\textbf{Balance}$ to zero after all errors causing the initial imbalance are rectified.",
+        "image": "",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Balance",
+            "Flucuate"
+        ],
+        "answer": "Balance",
+        "explanation": "The purpose of the suspense account is temporary; correction entries eliminate its balance."
+    },
+    {
+        "id": "A134",
+        "text": "An error of $\\textbf{Original Entry}$ occurs when the amount recorded in the book of first entry (journal) is $\\textbf{Incorrect}$.",
+        "image": "",
+        "options": [
+            "Correct",
+            "Incorrect",
+            "Missing",
+            "Transferred"
+        ],
+        "answer": "Incorrect",
+        "explanation": "If the original amount is wrong (e.g., $90$ written as $900$), all subsequent ledger entries will be wrong, but the trial balance still balances."
+    },
+    {
+        "id": "A135",
+        "text": "The $\\textbf{Accrual}$ concept is crucial for determining the $\\textbf{True}$ profitability of a business for a given period.",
+        "image": "",
+        "options": [
+            "Cash",
+            "True",
+            "Temporary",
+            "Estimated"
+        ],
+        "answer": "True",
+        "explanation": "The accrual concept ensures all revenues and costs associated with the period are recognized, giving the true net profit."
+    },
+    {
+        "id": "A136",
+        "text": "The $\\textbf{Historical Cost}$ concept is valued because it provides $\\textbf{Objective}$ (verifiable) evidence for asset valuation.",
+        "image": "",
+        "options": [
+            "Subjective",
+            "Objective",
+            "Estimated",
+            "Inflated"
+        ],
+        "answer": "Objective",
+        "explanation": "The price paid is verifiable through documents (invoices), enhancing reliability."
+    },
+    {
+        "id": "A137",
+        "text": "The total of the $\\textbf{Sales Journal}$ column is posted periodically to the $\\textbf{Credit}$ side of the $\\textbf{Sales Account}$ in the General Ledger.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Transfer",
+            "Balance"
+        ],
+        "answer": "Credit",
+        "explanation": "Sales is a revenue account, and revenue increases with a credit."
+    },
+    {
+        "id": "A138",
+        "text": "The $\\textbf{Liquidity}$ ratio that is considered too conservative because it includes $\\textbf{Inventory}$ (Stock) is the $\\textbf{Current Ratio}$.",
+        "image": "",
+        "options": [
+            "Acid Test Ratio",
+            "Current Ratio",
+            "Cash Ratio",
+            "Gearing Ratio"
+        ],
+        "answer": "Current Ratio",
+        "explanation": "Inventory is often the least liquid current asset, hence its exclusion in the Acid Test Ratio."
+    },
+    {
+        "id": "A139",
+        "text": "In partnership accounting, the $\\textbf{Fixed Capital}$ method requires $\\textbf{Two}$ accounts (Capital and Current) for each partner.",
+        "image": "",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two",
+        "explanation": "The capital account stays fixed; the current account handles fluctuations like drawings and profit share."
+    },
+    {
+        "id": "A140",
+        "text": "The statement of $\\textbf{Financial Position}$ (Balance Sheet) is prepared after the $\\textbf{Income Statement}$ has been completed, as the net profit/loss is required.",
+        "image": "",
+        "options": [
+            "Trial Balance",
+            "Cash Book",
+            "Income Statement",
+            "General Journal"
+        ],
+        "answer": "Income Statement",
+        "explanation": "The final profit/loss calculated in the Income Statement is needed to update the Capital/Equity balance in the Balance Sheet."
+    },
+    {
+        "id": "A141",
+        "text": "The $\\textbf{Suspense Account}$ balance may represent a number of $\\textbf{Unidentified}$ errors that must be corrected.",
+        "image": "",
+        "options": [
+            "Identified",
+            "Unidentified",
+            "Finalized",
+            "Transferable"
+        ],
+        "answer": "Unidentified",
+        "explanation": "The suspense account holds the mathematical error difference until the specific ledger errors are located."
+    },
+    {
+        "id": "A142",
+        "text": "The term $\\textbf{Stock (Inventory)}$ refers to goods held by the business for $\\textbf{Resale}$.",
+        "image": "",
+        "options": [
+            "Use",
+            "Resale",
+            "Rental",
+            "Disposal"
+        ],
+        "answer": "Resale",
+        "explanation": "Inventory is considered a current asset, expected to be converted to cash within one year."
+    },
+    {
+        "id": "A143",
+        "text": "The $\\textbf{Book of Original Entry}$ used to record $\\textbf{Credit Purchases}$ of goods is the $\\textbf{Purchases Day Book}$.",
+        "image": "",
+        "options": [
+            "Sales Day Book",
+            "Cash Book",
+            "Purchases Day Book",
+            "Journal Proper"
+        ],
+        "answer": "Purchases Day Book",
+        "explanation": "It records the details from the supplier invoices before posting to the Purchases Ledger."
+    },
+    {
+        "id": "A144",
+        "text": "The $\\textbf{Provision for Bad Debts}$ is created to reduce the value of $\\textbf{Debtors}$ (Trade Receivables) to their $\\textbf{Estimated Realizable Value}$.",
+        "image": "",
+        "options": [
+            "Cash",
+            "Debtors",
+            "Creditors",
+            "Sales"
+        ],
+        "answer": "Debtors",
+        "explanation": "It ensures that assets (Debtors) are not overstated, aligning with the prudence concept."
+    },
+    {
+        "id": "A145",
+        "text": "The total of $\\textbf{Returns Inwards}$ (Sales Returns) is transferred to the $\\textbf{Debit}$ side of the Trading Account.",
+        "image": "",
+        "options": [
+            "Credit",
+            "Debit",
+            "Balance",
+            "Transfer"
+        ],
+        "answer": "Debit",
+        "explanation": "Returns Inwards reduces Sales Revenue, and Sales Revenue is traditionally credited, so the reduction is debited."
+    },
+    {
+        "id": "A146",
+        "text": "In the $\\textbf{Straight Line}$ method, depreciation is calculated based on the $\\textbf{Original Cost}$ of the asset.",
+        "image": "",
+        "options": [
+            "Reducing Balance",
+            "Market Value",
+            "Original Cost",
+            "Replaced Cost"
+        ],
+        "answer": "Original Cost",
+        "explanation": "The cost remains the base for calculation each year, unlike the reducing balance method."
+    },
+    {
+        "id": "A147",
+        "text": "The $\\textbf{Accrued Revenue}$ (Income Receivable) is classified as a $\\textbf{Current Asset}$.",
+        "image": "",
+        "options": [
+            "Current Liability",
+            "Current Asset",
+            "Fixed Asset",
+            "Owner's Equity"
+        ],
+        "answer": "Current Asset",
+        "explanation": "This represents revenue earned but not yet received in cash."
+    },
+    {
+        "id": "A148",
+        "text": "The $\\textbf{General Reserve}$ is created out of $\\textbf{Profits}$ for future growth or unforeseen circumstances.",
+        "image": "",
+        "options": [
+            "Loans",
+            "Assets",
+            "Profits",
+            "Liabilities"
+        ],
+        "answer": "Profits",
+        "explanation": "It is a revenue reserve, a form of appropriated profit."
+    },
+    {
+        "id": "A149",
+        "text": "The $\\textbf{Issued Capital}$ is the portion of the authorized capital that has been offered to and $\\textbf{Subscribed}$ by the public.",
+        "image": "",
+        "options": [
+            "Reserved",
+            "Unpaid",
+            "Subscribed",
+            "Cancelled"
+        ],
+        "answer": "Subscribed",
+        "explanation": "Issued Capital is the capital actually sold or issued to shareholders."
+    },
+    {
+        "id": "A150",
+        "text": "The $\\textbf{Bad Debt}$ written off during the year is deducted from the $\\textbf{Trade Receivables}$ (Debtors) in the Balance Sheet.",
+        "image": "",
+        "options": [
+            "Cash",
+            "Trade Receivables",
+            "Sales Revenue",
+            "Creditors"
+        ],
+        "answer": "Trade Receivables",
+        "explanation": "Writing off bad debt directly reduces the asset balance of debtors."
+    },
+    {
+        "id": "A151",
+        "text": "The final account that determines the $\\textbf{Cost of Goods Produced}$ is the $\\textbf{Manufacturing Account}$.",
+        "image": "",
+        "options": [
+            "Trading Account",
+            "Profit and Loss Account",
+            "Manufacturing Account",
+            "Appropriation Account"
+        ],
+        "answer": "Manufacturing Account",
+        "explanation": "This account calculates the production costs before the goods are sold."
+    },
+    {
+        "id": "A152",
+        "text": "The $\\textbf{Drawings}$ account is ultimately closed by transferring its balance to the $\\textbf{Capital Account}$ (or Current Account) at the end of the period.",
+        "image": "",
+        "options": [
+            "Cash Book",
+            "Sales Account",
+            "Capital Account",
+            "Suspense Account"
+        ],
+        "answer": "Capital Account",
+        "explanation": "Drawings reduce the owner's equity."
+    },
+    {
+        "id": "A153",
+        "text": "The $\\textbf{Capital Expenditure}$ provides a benefit that spans $\\textbf{More Than One}$ accounting period.",
+        "image": "",
+        "options": [
+            "Less Than One",
+            "Exactly One",
+            "More Than One",
+            "Zero"
+        ],
+        "answer": "More Than One",
+        "explanation": "This is the main characteristic distinguishing it from Revenue Expenditure."
+    },
+    {
+        "id": "A154",
+        "text": "The $\\textbf{Cash Discount}$ is only recorded if the debtor pays within the $\\textbf{Stated Time}$ (e.g., 2/10, net 30).",
+        "image": "",
+        "options": [
+            "Any Time",
+            "Stated Time",
+            "Beginning of Period",
+            "End of Period"
+        ],
+        "answer": "Stated Time",
+        "explanation": "It is offered specifically to incentivize prompt settlement."
+    },
+    {
+        "id": "A155",
+        "text": "The $\\textbf{Quick Assets}$ used in the Acid Test Ratio exclude $\\textbf{Inventory}$ (Stock).",
+        "image": "",
+        "options": [
+            "Cash",
+            "Debtors",
+            "Inventory",
+            "Bank"
+        ],
+        "answer": "Inventory",
+        "explanation": "Inventory is considered non-quick due to the time needed to sell it."
+    },
+    {
+        "id": "A156",
+        "text": "The $\\textbf{Current Ratio}$ is a measure of $\\textbf{Short-Term Liquidity}$.",
+        "image": "",
+        "options": [
+            "Long-Term Solvency",
+            "Short-Term Liquidity",
+            "Profitability",
+            "Efficiency"
+        ],
+        "answer": "Short-Term Liquidity",
+        "explanation": "It tests the ability to cover current liabilities with current assets."
+    },
+    {
+        "id": "A157",
+        "text": "The $\\textbf{Bank Reconciliation Statement}$ is prepared to bring the balances of the Cash Book and the $\\textbf{Bank Statement}$ into agreement.",
+        "image": "",
+        "options": [
+            "Trial Balance",
+            "General Ledger",
+            "Bank Statement",
+            "Income Statement"
+        ],
+        "answer": "Bank Statement",
+        "explanation": "It explains the differences between the two records."
+    },
+    {
+        "id": "A158",
+        "text": "The term $\\textbf{Unpresented Cheque}$ refers to a cheque paid $\\textbf{Out}$ by the business but not yet cleared by the bank.",
+        "image": "",
+        "options": [
+            "In",
+            "Out",
+            "Canceled",
+            "Deposited"
+        ],
+        "answer": "Out",
+        "explanation": "It reduces the Cash Book balance but not yet the Bank Statement balance."
+    },
+    {
+        "id": "A159",
+        "text": "The $\\textbf{Closing Stock}$ (Inventory) is shown as a $\\textbf{Current Asset}$ in the Statement of Financial Position.",
+        "image": "",
+        "options": [
+            "Fixed Asset",
+            "Current Asset",
+            "Liability",
+            "Equity"
+        ],
+        "answer": "Current Asset",
+        "explanation": "It is expected to be sold within the next operating cycle."
+    },
+    {
+        "id": "A160",
+        "text": "The $\\textbf{Matching}$ concept is directly related to the calculation of $\\textbf{Net Profit}$ for a specific period.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Net Profit",
+            "Sales"
+        ],
+        "answer": "Net Profit",
+        "explanation": "Matching ensures all expenses are matched with the revenue they generated."
+    },
+    {
+        "id": "A161",
+        "text": "The $\\textbf{Book of Original Entry}$ used to record $\\textbf{All}$ cash transactions is the $\\textbf{Cash Book}$.",
+        "image": "",
+        "options": [
+            "Sales Journal",
+            "Purchases Journal",
+            "General Journal",
+            "Cash Book"
+        ],
+        "answer": "Cash Book",
+        "explanation": "The Cash Book records all inflows (Receipts) and outflows (Payments) involving cash or bank transactions."
+    },
+    {
+        "id": "A162",
+        "text": "The $\\textbf{Dual Aspect}$ concept states that for every $\\textbf{Debit}$ entry, there must be a corresponding $\\textbf{Credit}$ entry.",
+        "image": "",
+        "options": [
+            "Asset",
+            "Liability",
+            "Debit",
+            "Equity"
+        ],
+        "answer": "Debit",
+        "explanation": "This principle ensures the accounting equation remains balanced ($A=L+E$)."
+    },
+    {
+        "id": "A163",
+        "text": "The $\\textbf{Proprietorship Fund}$ (Capital) of a sole trader is calculated as Total Assets minus $\\textbf{Total Liabilities}$.",
+        "image": "",
+        "options": [
+            "Total Revenue",
+            "Total Expenses",
+            "Total Liabilities",
+            "Gross Profit"
+        ],
+        "answer": "Total Liabilities",
+        "explanation": "The owner's equity is the residual claim on the business assets."
+    },
+    {
+        "id": "A164",
+        "text": "The $\\textbf{Discount Allowed}$ account is debited because it represents a $\\textbf{Loss}$ to the business.",
+        "image": "",
+        "options": [
+            "Gain",
+            "Revenue",
+            "Loss",
+            "Liability"
+        ],
+        "answer": "Loss",
+        "explanation": "Losses/Expenses are generally debited in the Nominal accounts."
+    },
+    {
+        "id": "A165",
+        "text": "The $\\textbf{Historical Cost}$ principle requires that $\\textbf{Fixed Assets}$ are valued at their original purchase price.",
+        "image": "",
+        "options": [
+            "Current Assets",
+            "Fixed Assets",
+            "Liabilities",
+            "Revenue"
+        ],
+        "answer": "Fixed Assets",
+        "explanation": "Fixed Assets (long-term) are typically recorded at cost, adjusted for depreciation."
+    },
+    {
+        "id": "A166",
+        "text": "In a $\\textbf{Partnership}$, the $\\textbf{Profit Sharing Ratio}$ (PSR) dictates how profit/loss is distributed among partners.",
+        "image": "",
+        "options": [
+            "Salary",
+            "Drawings",
+            "Profit Sharing Ratio",
+            "Interest on Capital"
+        ],
+        "answer": "Profit Sharing Ratio",
+        "explanation": "If the Partnership Deed is silent, the law dictates that profits/losses must be shared equally."
+    },
+    {
+        "id": "A167",
+        "text": "The $\\textbf{Gross Profit Margin}$ indicates the profitability of the business's $\\textbf{Core Trading Activity}$ before operating expenses.",
+        "image": "",
+        "options": [
+            "Financing",
+            "Investing",
+            "Core Trading Activity",
+            "Non-Operating Income"
+        ],
+        "answer": "Core Trading Activity",
+        "explanation": "Gross Profit is derived solely from sales minus the direct cost of those sales (COGS)."
+    },
+    {
+        "id": "A168",
+        "text": "The $\\textbf{Bank Reconciliation Statement}$ is prepared by the $\\textbf{Business}$ (Company) and not the Bank.",
+        "image": "",
+        "options": [
+            "Auditor",
+            "Bank",
+            "Government",
+            "Business"
+        ],
+        "answer": "Business",
+        "explanation": "The business prepares it to compare and explain discrepancies between its Cash Book and the Bank Statement."
+    },
+    {
+        "id": "A169",
+        "text": "The $\\textbf{Debtors Turnover Ratio}$ measures the efficiency of a firm in converting $\\textbf{Credit Sales}$ into $\\textbf{Cash}$.",
+        "image": "",
+        "options": [
+            "Cash Sales",
+            "Total Sales",
+            "Credit Sales",
+            "Purchases"
+        ],
+        "answer": "Credit Sales",
+        "explanation": "Debtors arise only from sales made on credit."
+    },
+    {
+        "id": "A170",
+        "text": "An error where a transaction is entered on the $\\textbf{Wrong Side}$ of two correct accounts (e.g., debiting Sales and crediting Cash for a cash sale) is an $\\textbf{Error of Reversal}$.",
+        "image": "",
+        "options": [
+            "Wrong Amount",
+            "Wrong Side",
+            "Wrong Account",
+            "Missing Entry"
+        ],
+        "answer": "Wrong Side",
+        "explanation": "Error of Reversal debits when it should credit and vice-versa, causing the Trial Balance to still balance."
+    },
+    {
+        "id": "A171",
+        "text": "The account that is $\\textbf{Debited}$ when Bad Debts are written off is the $\\textbf{Bad Debts Account}$.",
+        "image": "",
+        "options": [
+            "Debtors Control",
+            "Cash Account",
+            "Bad Debts Account",
+            "Provision for Bad Debts"
+        ],
+        "answer": "Bad Debts Account",
+        "explanation": "Bad Debts is an expense account (Nominal Account), and expenses are debited."
+    },
+    {
+        "id": "A172",
+        "text": "The $\\textbf{Returns Inwards Journal}$ (Sales Returns) is the book of original entry for $\\textbf{Goods Returned}$ by customers.",
+        "image": "",
+        "options": [
+            "Goods Sold",
+            "Goods Purchased",
+            "Goods Returned",
+            "Cash Received"
+        ],
+        "answer": "Goods Returned",
+        "explanation": "It records the details from credit notes issued to customers."
+    },
+    {
+        "id": "A173",
+        "text": "The $\\textbf{Depreciation}$ method calculated as $(\\text{Cost} - \\text{Residual Value}) / \\text{Useful Life}$ is the $\\textbf{Straight Line Method}$.",
+        "image": "",
+        "options": [
+            "Reducing Balance",
+            "Annuity",
+            "Straight Line Method",
+            "Sum-of-the-Years'-Digits"
+        ],
+        "answer": "Straight Line Method",
+        "explanation": "This provides a constant depreciation expense over the life of the asset."
+    },
+    {
+        "id": "A174",
+        "text": "The $\\textbf{Monetary Unit}$ concept is compromised during periods of high $\\textbf{Inflation}$, as the purchasing power of money changes.",
+        "image": "",
+        "options": [
+            "Deflation",
+            "Inflation",
+            "Stabilization",
+            "Recession"
+        ],
+        "answer": "Inflation",
+        "explanation": "Inflation makes historical cost values unrealistic, violating the assumption of a stable currency."
+    },
+    {
+        "id": "A175",
+        "text": "The $\\textbf{Creditors}$ (Accounts Payable) are generally found in the $\\textbf{Purchases Ledger}$.",
+        "image": "",
+        "options": [
+            "Sales Ledger",
+            "Purchases Ledger",
+            "General Ledger",
+            "Nominal Ledger"
+        ],
+        "answer": "Purchases Ledger",
+        "explanation": "The Purchases Ledger tracks the detailed accounts of suppliers (creditors)."
+    },
+    {
+        "id": "A176",
+        "text": "The $\\textbf{Current Account}$ in a partnership can have a $\\textbf{Debit}$ or $\\textbf{Credit}$ balance, depending on profits, drawings, and interest.",
+        "image": "",
+        "options": [
+            "Only Credit",
+            "Only Debit",
+            "Debit or Credit",
+            "Zero"
+        ],
+        "answer": "Debit or Credit",
+        "explanation": "A credit balance means the partner is owed money; a debit balance means the partner owes the business."
+    },
+    {
+        "id": "A177",
+        "text": "The $\\textbf{Gross Profit}$ of a trading firm is transferred to the $\\textbf{Credit}$ side of the $\\textbf{Profit and Loss Account}$.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Balance",
+            "Transfer"
+        ],
+        "answer": "Credit",
+        "explanation": "Gross Profit is a revenue, increasing the business's profit, hence it is credited."
+    },
+    {
+        "id": "A178",
+        "text": "The difference between the $\\textbf{Bank Balance}$ and $\\textbf{Cash Balance}$ due to unpresented cheques is a $\\textbf{Timing Difference}$.",
+        "image": "",
+        "options": [
+            "Bank Error",
+            "Timing Difference",
+            "Fraud",
+            "Cashier Error"
+        ],
+        "answer": "Timing Difference",
+        "explanation": "The difference is temporary and will correct itself when the cheque clears the bank."
+    },
+    {
+        "id": "A179",
+        "text": "The $\\textbf{Capital}$ of a limited company is divided into $\\textbf{Shares}$ that can be traded on a stock exchange.",
+        "image": "",
+        "options": [
+            "Bonds",
+            "Shares",
+            "Debts",
+            "Assets"
+        ],
+        "answer": "Shares",
+        "explanation": "Shares represent fractional ownership in the company."
+    },
+    {
+        "id": "A180",
+        "text": "The concept that requires transactions to be recorded at the price paid for them is the $\\textbf{Historical Cost}$ concept.",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Replacement Cost",
+            "Historical Cost",
+            "Net Realizable Value"
+        ],
+        "answer": "Historical Cost",
+        "explanation": "This ensures objectivity and verification of the recorded amounts."
+    },
+    {
+        "id": "A181",
+        "text": "The main purpose of the $\\textbf{Trading Account}$ is to show the $\\textbf{Gross Profit}$ earned from core business activities.",
+        "image": "",
+        "options": [
+            "Net Profit",
+            "Gross Profit",
+            "Total Assets",
+            "Cash Flow"
+        ],
+        "answer": "Gross Profit",
+        "explanation": "It compares revenue from sales with the direct cost of those sales (COGS)."
+    },
+    {
+        "id": "A182",
+        "text": "An error where a transaction is correctly debited and credited, but to the $\\textbf{Wrong Accounts}$ (e.g., debiting Cash and crediting Sales instead of Debtors), is an $\\textbf{Error of Principle}$.",
+        "image": "",
+        "options": [
+            "Error of Omission",
+            "Error of Commission",
+            "Error of Principle",
+            "Compensating Error"
+        ],
+        "answer": "Error of Principle",
+        "explanation": "Using a Real Account (Cash) instead of a Personal Account (Debtor) violates a fundamental principle."
+    },
+    {
+        "id": "A183",
+        "text": "The $\\textbf{Provision for Bad Debts}$ is a $\\textbf{Contra-Asset}$ account which reduces the value of Trade Receivables.",
+        "image": "",
+        "options": [
+            "Liability",
+            "Revenue",
+            "Contra-Asset",
+            "Expense"
+        ],
+        "answer": "Contra-Asset",
+        "explanation": "It has a credit balance and is deducted from Debtors on the Balance Sheet."
+    },
+    {
+        "id": "A184",
+        "text": "The $\\textbf{Imprest System}$ is used for $\\textbf{Petty Cash}$ where the fund is replenished at the end of the period to the fixed $\\textbf{Float}$ amount.",
+        "image": "",
+        "options": [
+            "Debit",
+            "Credit",
+            "Float",
+            "Balance"
+        ],
+        "answer": "Float",
+        "explanation": "The amount reimbursed equals the total expenditure, restoring the fund to its fixed limit."
+    },
+    {
+        "id": "A185",
+        "text": "The concept of $\\textbf{Dual Aspect}$ ensures that the total $\\textbf{Debits}$ always equal the total $\\textbf{Credits}$ in the ledger.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Debits",
+            "Equity"
+        ],
+        "answer": "Debits",
+        "explanation": "This equality is checked by the Trial Balance."
+    },
+    {
+        "id": "A186",
+        "text": "In $\\textbf{Partnership}$ accounts, the profit/loss is distributed in the $\\textbf{Appropriation Account}$.",
+        "image": "",
+        "options": [
+            "Trading Account",
+            "Profit and Loss Account",
+            "Appropriation Account",
+            "Balance Sheet"
+        ],
+        "answer": "Appropriation Account",
+        "explanation": "This account distributes the Net Profit among the partners based on the PSR."
+    },
+    {
+        "id": "A187",
+        "text": "The $\\textbf{Carriage Outwards}$ cost (delivery expense for goods sold) is treated as an $\\textbf{Operating Expense}$ in the Profit and Loss Account.",
+        "image": "",
+        "options": [
+            "Cost of Goods Sold",
+            "Capital Expenditure",
+            "Operating Expense",
+            "Direct Cost"
+        ],
+        "answer": "Operating Expense",
+        "explanation": "It is a selling/distribution cost, not a direct cost of acquiring the goods."
+    },
+    {
+        "id": "A188",
+        "text": "The $\\textbf{Acid Test Ratio}$ excludes $\\textbf{Inventory}$ because it is the $\\textbf{Least Liquid}$ current asset.",
+        "image": "",
+        "options": [
+            "Most Liquid",
+            "Least Liquid",
+            "Most Expensive",
+            "Least Valuable"
+        ],
+        "answer": "Least Liquid",
+        "explanation": "The Acid Test is a stricter test of immediate liquidity."
+    },
+    {
+        "id": "A189",
+        "text": "A $\\textbf{Prepaid Expense}$ is classified as a $\\textbf{Current Asset}$ because it represents a future benefit.",
+        "image": "",
+        "options": [
+            "Liability",
+            "Revenue",
+            "Current Asset",
+            "Fixed Asset"
+        ],
+        "answer": "Current Asset",
+        "explanation": "It will be used up or turned into an expense in the next period."
+    },
+    {
+        "id": "A190",
+        "text": "The $\\textbf{Provision}$ for a liability is created when the amount cannot be determined with $\\textbf{Certainty}$, but the liability is probable.",
+        "image": "",
+        "options": [
+            "Accuracy",
+            "Certainty",
+            "Estimate",
+            "Precision"
+        ],
+        "answer": "Certainty",
+        "explanation": "If the amount were certain, it would be recorded as a standard liability (e.g., Accounts Payable)."
+    },
+    {
+        "id": "A191",
+        "text": "The $\\textbf{Trade Receivables}$ (Debtors) represent the amount owed to the business from $\\textbf{Credit Sales}$ of goods or services.",
+        "image": "",
+        "options": [
+            "Cash Sales",
+            "Credit Sales",
+            "Loans",
+            "Capital"
+        ],
+        "answer": "Credit Sales",
+        "explanation": "Accounts Receivable tracks money due from customers who bought on credit."
+    },
+    {
+        "id": "A192",
+        "text": "The $\\textbf{Cash Book}$ is known as a $\\textbf{Book of Original Entry}$ because cash transactions are first recorded here.",
+        "image": "",
+        "options": [
+            "Final Entry",
+            "Original Entry",
+            "Subsidiary",
+            "Memorandum"
+        ],
+        "answer": "Original Entry",
+        "explanation": "It records transactions directly from source documents before posting to the general ledger."
+    },
+    {
+        "id": "A193",
+        "text": "The $\\textbf{Trial Balance}$ is prepared at the end of the accounting period to confirm the mathematical equality of $\\textbf{Debits}$ and $\\textbf{Credits}$.",
+        "image": "",
+        "options": [
+            "Assets",
+            "Liabilities",
+            "Debits",
+            "Revenue"
+        ],
+        "answer": "Debits",
+        "explanation": "It lists all ledger account balances to check for arithmetic errors."
+    },
+    {
+        "id": "A194",
+        "text": "The $\\textbf{Final Accounts}$ (Trading, P&L, Balance Sheet) are required to inform $\\textbf{Stakeholders}$ about the business's performance and position.",
+        "image": "",
+        "options": [
+            "Employees",
+            "Stakeholders",
+            "Competitors",
+            "Customers"
+        ],
+        "answer": "Stakeholders",
+        "explanation": "Including owners, investors, creditors, and government."
+    },
+    {
+        "id": "A195",
+        "text": "The $\\textbf{Nominal}$ accounts are temporary accounts that are closed off to the $\\textbf{Income Statement}$ at the end of the year.",
+        "image": "",
+        "options": [
+            "Permanent",
+            "Real",
+            "Nominal",
+            "Personal"
+        ],
+        "answer": "Nominal",
+        "explanation": "They record expenses and revenues for a specific period."
+    },
+    {
+        "id": "A196",
+        "text": "The maximum amount of shares a company can issue is the $\\textbf{Authorized Capital}$.",
+        "image": "",
+        "options": [
+            "Issued Capital",
+            "Paid-Up Capital",
+            "Authorized Capital",
+            "Reserve Capital"
+        ],
+        "answer": "Authorized Capital",
+        "explanation": "The maximum allowed by the Memorandum of Association."
+    },
+    {
+        "id": "A197",
+        "text": "The $\\textbf{Straight Line Method}$ of depreciation results in a $\\textbf{Lower}$ depreciation expense in the early years compared to the Reducing Balance Method.",
+        "image": "",
+        "options": [
+            "Higher",
+            "Lower",
+            "Equal",
+            "Fluctuating"
+        ],
+        "answer": "Lower",
+        "explanation": "SLM spreads the cost evenly, while RBM front-loads the expense."
+    },
+    {
+        "id": "A198",
+        "text": "The $\\textbf{Liquidity}$ ratio benchmark often considered acceptable is a $\\textbf{Current Ratio}$ of $2:1$ and an $\\textbf{Acid Test Ratio}$ of $1:1$.",
+        "image": "",
+        "options": [
+            "3:1",
+            "2:1",
+            "1:2",
+            "5:1"
+        ],
+        "answer": "2:1",
+        "explanation": "A 2:1 Current Ratio suggests the business has twice the current assets to cover current liabilities."
+    },
+    {
+        "id": "A199",
+        "text": "In $\\textbf{Partnership}$ accounts, the $\\textbf{Fixed Capital}$ method requires that the Capital Account can only change when $\\textbf{New Capital}$ is introduced or withdrawn permanently.",
+        "image": "",
+        "options": [
+            "Profit Share",
+            "Drawings",
+            "Salary",
+            "New Capital"
+        ],
+        "answer": "New Capital",
+        "explanation": "It remains fixed for profit and loss distribution."
+    },
+    {
+        "id": "A200",
+        "text": "The $\\textbf{Business Entity}$ concept ensures that the owner's $\\textbf{Personal}$ assets and liabilities are kept separate from the business books.",
+        "image": "",
+        "options": [
+            "Business",
+            "Personal",
+            "Shareholder",
+            "Employee"
+        ],
+        "answer": "Personal",
+        "explanation": "This separation is fundamental to accounting measurement."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "BIO_2024_01",
+      "text": "Which organelle is primarily responsible for the modification, sorting, and packaging of proteins and lipids for secretion or delivery to other organelles?",
+      "image": "[Diagram of a Golgi Apparatus]",
+      "options": ["Mitochondrion", "Ribosome", "Golgi apparatus (Complex)", "Lysosome"],
+      "answer": "Golgi apparatus (Complex)",
+      "explanation": "The Golgi apparatus, or Golgi complex, receives products from the endoplasmic reticulum and processes them for distribution."
+    },
+    {
+      "id": "BIO_2024_02",
+      "text": "In genetics, the expected phenotypic ratio of a dihybrid cross involving two unlinked genes, where both parents are heterozygous for both traits, is:",
+      "image": "[Punnett square for a 9:3:3:1 ratio]",
+      "options": ["$3:1$", "$1:1:1:1$", "$9:3:3:1$", "$1:2:1$"],
+      "answer": "$9:3:3:1$",
+      "explanation": "This classic ratio results from the independent assortment of alleles during meiosis when two heterozygous individuals are crossed (e.g., $\\text{RrYy} \\times \\text{RrYy}$)."
+    },
+    {
+      "id": "BIO_2024_03",
+      "text": "The functional unit in ecology that includes all living organisms (biotic factors) and their non-living environment (abiotic factors) is the:",
+      "image": "[Diagram illustrating biotic and abiotic factors in an ecosystem]",
+      "options": ["Community", "Population", "Habitat", "Ecosystem"],
+      "answer": "Ecosystem",
+      "explanation": "An ecosystem is defined by the interaction between the living community and its non-living physical environment."
+    },
+    {
+      "id": "BIO_2024_04",
+      "text": "The main force responsible for the movement of water and dissolved minerals from the roots up to the leaves of tall trees is:",
+      "image": "[Diagram of water transport in xylem, highlighting cohesive force]",
+      "options": ["Root pressure", "Capillarity", "Osmosis", "Transpiration pull"],
+      "answer": "Transpiration pull",
+      "explanation": "Transpiration pull, created by the evaporation of water from the leaves, is the dominant mechanism, drawing water up through the xylem by cohesion and adhesion."
+    },
+    {
+      "id": "BIO_2024_05",
+      "text": "Homeostasis of blood glucose concentration in humans is primarily regulated by the hormones insulin and glucagon, which are secreted by the:",
+      "image": "[Diagram of the Pancreas and Islets of Langerhans]",
+      "options": ["Thyroid gland", "Adrenal gland", "Pituitary gland", "Pancreas"],
+      "answer": "Pancreas",
+      "explanation": "The Islets of Langerhans in the pancreas produce insulin (which lowers blood sugar) and glucagon (which raises it)."
+    },
+    {
+      "id": "BIO_2024_06",
+      "text": "Which major blood vessel carries deoxygenated blood from all parts of the body (except the lungs) back to the right atrium of the heart?",
+      "image": "[Diagram of the human heart and major blood vessels]",
+      "options": ["Aorta", "Pulmonary artery", "Pulmonary vein", "Vena Cava"],
+      "answer": "Vena Cava",
+      "explanation": "The Superior and Inferior Vena Cava collect deoxygenated blood and return it to the heart."
+    },
+    {
+      "id": "BIO_2024_07",
+      "text": "In mammals, the structure responsible for the exchange of nutrients, gases, and waste products between the mother and the developing foetus is the:",
+      "image": "[Diagram of the Placenta and umbilical cord]",
+      "options": ["Amnion", "Umbilical cord", "Placenta", "Ovary"],
+      "answer": "Placenta",
+      "explanation": "The placenta acts as a temporary organ that facilitates all exchange between the maternal and foetal bloodstreams."
+    },
+    {
+      "id": "BIO_2024_08",
+      "text": "The phylum that includes organisms with a segmented body, jointed appendages, and a hard exoskeleton is:",
+      "image": "[Examples of organisms in Phylum Arthropoda]",
+      "options": ["Annelida", "Chordata", "Mollusca", "Arthropoda"],
+      "answer": "Arthropoda",
+      "explanation": "Arthropods (insects, crustaceans, arachnids) are characterized by these three features, making them the largest phylum."
+    },
+    {
+      "id": "BIO_2024_09",
+      "text": "The main site of gaseous exchange ($\\text{CO}_2$ and $\\text{O}_2$) in the leaf of a plant is the:",
+      "image": "[Microscopic view of a leaf cross-section showing stomata]",
+      "options": ["Cuticle", "Epidermis", "Vascular bundle", "Stomata"],
+      "answer": "Stomata",
+      "explanation": "Stomata are tiny pores, usually on the lower epidermis, that open and close to regulate the exchange of gases."
+    },
+    {
+      "id": "BIO_2024_10",
+      "text": "The study of the geographical distribution of plants and animals is termed:",
+      "image": "",
+      "options": ["Palaeontology", "Ecology", "Biogeography", "Genetics"],
+      "answer": "Biogeography",
+      "explanation": "Biogeography examines why different species live where they do, often providing evidence for continental drift and evolution."
+    },
+    {
+      "id": "BIO_2024_11",
+      "text": "What is the primary function of bile, produced by the liver and stored in the gallbladder, in the small intestine?",
+      "image": "[Diagram of the liver, gallbladder, and small intestine]",
+      "options": ["To hydrolyze starch", "To emulsify fats", "To digest proteins", "To neutralize stomach acid"],
+      "answer": "To emulsify fats",
+      "explanation": "Bile breaks down large fat globules into smaller droplets, increasing the surface area for the enzyme lipase to act."
+    },
+    {
+      "id": "BIO_2024_12",
+      "text": "Which of the following is a characteristic feature of all viruses?",
+      "image": "[Diagram of a typical viral structure]",
+      "options": ["Possess a nucleus and organelles", "Reproduce only outside a host cell", "Contain only $\\text{DNA}$ as genetic material", "Possess a nucleic acid core ($\text{DNA}$ or $\\text{RNA}$) surrounded by a protein coat"],
+      "answer": "Possess a nucleic acid core ($\text{DNA}$ or $\\text{RNA}$) surrounded by a protein coat",
+      "explanation": "The core of $\\text{DNA}$ or $\\text{RNA}$ (genome) and the protein coat (capsid) are the defining features of a virus."
+    },
+    {
+      "id": "BIO_2024_13",
+      "text": "The tube that transports urine from the kidney's pelvis to the urinary bladder is the:",
+      "image": "[Diagram of the human urinary system]",
+      "options": ["Urethra", "Nephron", "Ureter", "Renal artery"],
+      "answer": "Ureter",
+      "explanation": "The ureters are muscular tubes that propel urine from the kidneys to the bladder for storage."
+    },
+    {
+      "id": "BIO_2024_14",
+      "text": "The property of the cell surface membrane that allows it to control which substances pass in and out of the cell is known as:",
+      "image": "[Diagram of the fluid mosaic model showing transport proteins]",
+      "options": ["Immutability", "Permeability", "Fluidity", "Selectively permeable (Semi-permeable)"],
+      "answer": "Selectively permeable (Semi-permeable)",
+      "explanation": "The membrane is selectively permeable, meaning it chooses which small molecules can cross freely and uses channels or pumps for others."
+    },
+    {
+      "id": "BIO_2024_15",
+      "text": "A gene carried on one of the sex chromosomes ($\text{X}$ or $\text{Y}$) is referred to as:",
+      "image": "[Diagram showing $\text{X}$ and $\text{Y}$ chromosomes]",
+      "options": ["Autosomal", "Lethal", "Sex-linked", "Multiple allele"],
+      "answer": "Sex-linked",
+      "explanation": "Sex-linked traits, like colour blindness or haemophilia, are determined by genes located on the sex chromosomes."
+    },
+    {
+      "id": "BIO_2024_16",
+      "text": "In a food web, an organism that produces its own food using energy from the sun or chemicals is classified as a:",
+      "image": "[Diagram of trophic levels]",
+      "options": ["Primary consumer", "Secondary consumer", "Decomposer", "Producer"],
+      "answer": "Producer",
+      "explanation": "Producers (autotrophs) form the base of the food web, creating organic matter from inorganic substances."
+    },
+    {
+      "id": "BIO_2024_17",
+      "text": "The adaptation of a plant for water conservation in arid environments is referred to as:",
+      "image": "",
+      "options": ["Hydrophytism", "Halophytism", "Xerophytism", "Epiphytism"],
+      "answer": "Xerophytism",
+      "explanation": "Xerophytes are plants adapted to survive in environments with little available water, such as deserts."
+    },
+    {
+      "id": "BIO_2024_18",
+      "text": "The sheet of muscle that plays a crucial role in breathing by separating the thoracic cavity from the abdominal cavity is the:",
+      "image": "[Diagram of the human torso showing the diaphragm]",
+      "options": ["Intercostal muscle", "Pectoral muscle", "Diaphragm", "Abdominal muscle"],
+      "answer": "Diaphragm",
+      "explanation": "Contraction of the diaphragm causes it to flatten, increasing the volume of the chest cavity and causing inhalation."
+    },
+    {
+      "id": "BIO_2024_19",
+      "text": "Which structure in the human body is a tough, non-elastic connective tissue that connects muscle to bone?",
+      "image": "[Diagram showing a tendon connecting muscle to bone]",
+      "options": ["Ligament", "Cartilage", "Tendon", "Joint capsule"],
+      "answer": "Tendon",
+      "explanation": "Tendons transmit the force generated by muscle contraction to the bone, causing movement. Ligaments connect bone to bone."
+    },
+    {
+      "id": "BIO_2024_20",
+      "text": "Fungi obtain their energy by releasing digestive enzymes onto dead or decaying matter and then absorbing the soluble nutrients. This mode of feeding is called:",
+      "image": "",
+      "options": ["Parasitism", "Holophytic nutrition", "Chemosynthesis", "Saprophytism"],
+      "answer": "Saprophytism",
+      "explanation": "Saprophytes are heterotrophs that externally digest dead organic matter."
+    },
+    {
+      "id": "BIO_2024_21",
+      "text": "Which of the following characteristics is unique and defining for all members of the Class Mammalia?",
+      "image": "",
+      "options": ["Presence of hair or fur", "Warm-bloodedness", "Giving birth to live young", "Presence of mammary glands (for milk production)"],
+      "answer": "Presence of mammary glands (for milk production)",
+      "explanation": "While most mammals have hair and are warm-blooded, the presence of mammary glands to feed the young is the definitive feature."
+    },
+    {
+      "id": "BIO_2024_22",
+      "text": "The end products of anaerobic respiration (fermentation) in yeast cells are:",
+      "image": "[Chemical equation for alcoholic fermentation]",
+      "options": ["Lactic acid and energy", "Ethanol, $\\text{CO}_2$, and energy", "Pyruvic acid and $\\text{H}_2\text{O}$", "Oxygen and water"],
+      "answer": "Ethanol, $\\text{CO}_2$, and energy",
+      "explanation": "Yeast performs alcoholic fermentation, converting glucose into ethanol, carbon dioxide, and a net gain of 2 $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2024_23",
+      "text": "The development of similar structures (analogous structures) in organisms that do not share a recent common ancestor, often due to similar environmental pressures, is known as:",
+      "image": "[Image illustrating homologous vs. analogous structures]",
+      "options": ["Divergent evolution", "Adaptive radiation", "Lamarckism", "Convergent evolution"],
+      "answer": "Convergent evolution",
+      "explanation": "Convergent evolution is the process where unrelated species evolve similar traits (e.g., wings in birds and insects)."
+    },
+    {
+      "id": "BIO_2024_24",
+      "text": "The component of a balanced diet that is primarily non-digestible but essential for stimulating peristalsis and preventing constipation is:",
+      "image": "",
+      "options": ["Protein", "Vitamins", "Fats", "Roughage (Fibre)"],
+      "answer": "Roughage (Fibre)",
+      "explanation": "Roughage (or dietary fibre) is the indigestible plant material that adds bulk to food, aiding in the movement of materials through the digestive tract."
+    },
+    {
+      "id": "BIO_2024_25",
+      "text": "Which of the following is an example of an involuntary action controlled by the autonomic nervous system?",
+      "image": "",
+      "options": ["Walking", "Writing", "Salivation (production of saliva)", "Talking"],
+      "answer": "Salivation (production of saliva)",
+      "explanation": "Involuntary actions, like heartbeat, breathing, digestion, and glandular secretions (salivation), are controlled without conscious thought by the autonomic nervous system."
+    },
+    {
+      "id": "BIO_2024_26",
+      "text": "Which plant hormone is responsible for apical dominance and is widely used for rooting plant cuttings?",
+      "image": "",
+      "options": ["Ethylene", "Gibberellin", "Auxin", "Abscisic acid"],
+      "answer": "Auxin",
+      "explanation": "Auxins are powerful growth hormones that promote cell elongation and division, regulating phototropism, gravitropism, and root initiation."
+    },
+    {
+      "id": "BIO_2024_27",
+      "text": "Where is the site of implantation of a fertilized ovum in the human female reproductive system?",
+      "image": "[Diagram of the female reproductive system showing the uterus]",
+      "options": ["Vagina", "Ovary", "Fallopian tube (Oviduct)", "Uterus"],
+      "answer": "Uterus",
+      "explanation": "Implantation is the process where the blastocyst attaches to the uterine wall (endometrium)."
+    },
+    {
+      "id": "BIO_2024_28",
+      "text": "The breakdown of dead organic matter by decomposers such as bacteria and fungi, returning nutrients to the soil, is a critical part of the:",
+      "image": "[Diagram of the Nitrogen or Carbon Cycle]",
+      "options": ["Water cycle", "Energy flow", "Trophic pyramid", "Nutrient cycle (e.g., Carbon or Nitrogen cycle)"],
+      "answer": "Nutrient cycle (e.g., Carbon or Nitrogen cycle)",
+      "explanation": "Decomposition ensures the recycling of essential elements from organic to inorganic forms, making them available to producers."
+    },
+    {
+      "id": "BIO_2024_29",
+      "text": "In the kidney, which process involves the non-selective filtration of blood components (except large proteins and cells) from the glomerulus into the Bowman's capsule?",
+      "image": "[Diagram of a nephron showing filtration]",
+      "options": ["Tubular secretion", "Selective reabsorption", "Osmosis", "Ultrafiltration"],
+      "answer": "Ultrafiltration",
+      "explanation": "Ultrafiltration is the initial step in urine formation, driven by blood pressure, where fluid and small solutes pass into the capsule."
+    },
+    {
+      "id": "BIO_2024_30",
+      "text": "The layer of the atmosphere where the ozone layer is mainly concentrated, protecting life on Earth from harmful ultraviolet ($\text{UV}$) radiation, is the:",
+      "image": "",
+      "options": ["Troposphere", "Mesosphere", "Thermosphere", "Stratosphere"],
+      "answer": "Stratosphere",
+      "explanation": "The ozone layer ($\text{O}_3$) is primarily found in the lower portion of the stratosphere."
+    },
+    {
+      "id": "BIO_2024_31",
+      "text": "Which part of a seed contains the food store, necessary to nourish the embryo during germination?",
+      "image": "[Diagram of a monocot or dicot seed]",
+      "options": ["Radicle", "Plumule", "Testa (Seed coat)", "Cotyledon or Endosperm"],
+      "answer": "Cotyledon or Endosperm",
+      "explanation": "Depending on the seed type, the food reserve is stored in the cotyledons (dicots) or the endosperm (monocots like maize)."
+    },
+    {
+      "id": "BIO_2024_32",
+      "text": "The smallest blood vessels, which allow for the exchange of substances (oxygen, nutrients, waste) between the blood and the body tissues, are the:",
+      "image": "[Diagram showing the network of capillaries]",
+      "options": ["Arteries", "Veins", "Arterioles", "Capillaries"],
+      "answer": "Capillaries",
+      "explanation": "Capillaries have walls only one cell thick, which facilitates rapid diffusion and exchange."
+    },
+    {
+      "id": "BIO_2024_33",
+      "text": "The junction between two consecutive nerve cells (neurons) across which impulses are chemically transmitted is called a:",
+      "image": "[Diagram of a Synapse]",
+      "options": ["Dendrite", "Axon", "Synapse", "Ganglion"],
+      "answer": "Synapse",
+      "explanation": "Neurotransmitters are released into the synaptic cleft to transmit the signal from one neuron to the next."
+    },
+    {
+      "id": "BIO_2024_34",
+      "text": "Which disease is transmitted from person to person through sexual contact?",
+      "image": "",
+      "options": ["Tuberculosis", "Typhoid fever", "Malaria", "Gonorrhea"],
+      "answer": "Gonorrhea",
+      "explanation": "Gonorrhea is a common sexually transmitted infection ($\\text{STI}$) caused by the bacterium *Neisseria gonorrhoeae*."
+    },
+    {
+      "id": "BIO_2024_35",
+      "text": "The net gain of Adenosine Triphosphate ($\text{ATP}$) molecules produced directly from the glycolysis of one glucose molecule is:",
+      "image": "[Flowchart of Glycolysis]",
+      "options": ["38 $\\text{ATP}$", "4 $\\text{ATP}$", "2 $\\text{ATP}$", "34 $\\text{ATP}$"],
+      "answer": "2 $\\text{ATP}$",
+      "explanation": "Glycolysis produces 4 $\\text{ATP}$ but consumes 2 $\\text{ATP}$ at the start, yielding a net gain of 2 $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2024_36",
+      "text": "The process where organisms better adapted to their environment tend to survive and produce more offspring is the core principle of:",
+      "image": "[Diagram illustrating the process of Natural Selection]",
+      "options": ["Lamarckism", "Genetic drift", "Mutation", "Natural selection"],
+      "answer": "Natural selection",
+      "explanation": "Natural selection, proposed by Charles Darwin, is the main mechanism of evolution."
+    },
+    {
+      "id": "BIO_2024_37",
+      "text": "Which of the following is an example of an insect-pollinated (entomophilous) flower adaptation?",
+      "image": "",
+      "options": ["Dull colours and scentless petals", "Long, pendulous filaments and stigmas", "Brightly coloured and scented petals", "Production of large amounts of lightweight pollen"],
+      "answer": "Brightly coloured and scented petals",
+      "explanation": "These features attract insects, which carry pollen from one flower to another."
+    },
+    {
+      "id": "BIO_2024_38",
+      "text": "Which structure in a typical plant cell is responsible for regulating turgor pressure and storing water and dissolved substances?",
+      "image": "[Diagram of a plant cell showing the vacuole]",
+      "options": ["Cell wall", "Chloroplast", "Cytoplasm", "Central Vacuole"],
+      "answer": "Central Vacuole",
+      "explanation": "The large central vacuole contains cell sap and pushes the cytoplasm against the cell wall, generating turgor pressure."
+    },
+    {
+      "id": "BIO_2024_39",
+      "text": "In ecology, the maximum population size of a species that an environment can sustain indefinitely, given the available resources, is termed the:",
+      "image": "[Graph of population growth showing carrying capacity]",
+      "options": ["Population density", "Biotic potential", "Limiting factor", "Carrying capacity"],
+      "answer": "Carrying capacity",
+      "explanation": "Carrying capacity ($\text{K}$) is determined by environmental factors that limit growth, such as food, water, and space."
+    },
+    {
+      "id": "BIO_2024_40",
+      "text": "The term used to describe a change in the genetic material ($\\text{DNA}$) of an organism, which can be inherited, is a:",
+      "image": "[Diagram of a point mutation in a DNA strand]",
+      "options": ["Variation", "Recombination", "Mutation", "Adaptation"],
+      "answer": "Mutation",
+      "explanation": "A mutation is a spontaneous change in the nucleotide sequence of the genome, providing the raw material for evolution."
+    }
+]

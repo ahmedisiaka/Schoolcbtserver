@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G701",
+        "text": "The earth revolves around the sun in an elliptical orbit once every $\\textbf{365 1/4 days}$, causing the $\\textbf{Seasons}$.",
+        "image": "",
+        "options": [
+            "Tides",
+            "Day and Night",
+            "Seasons",
+            "Eclipses"
+        ],
+        "answer": "Seasons",
+        "explanation": "Revolution combined with the tilt of the earth's axis creates the four seasons."
+    },
+    {
+        "id": "G702",
+        "text": "Basalt is a fine-grained, dark-colored rock that belongs to the class of $\\textbf{Igneous}$ rocks.",
+        "image": "",
+        "options": [
+            "Sedimentary",
+            "Igneous",
+            "Metamorphic",
+            "Organic"
+        ],
+        "answer": "Igneous",
+        "explanation": "Basalt is an extrusive volcanic rock formed from the rapid cooling of lava."
+    },
+    {
+        "id": "G703",
+        "text": "The climate characterized by high temperatures and heavy rainfall throughout the year is the $\\textbf{Equatorial}$ climate.",
+        "image": "",
+        "options": [
+            "Tropical Continental",
+            "Mediterranean",
+            "Equatorial",
+            "Desert"
+        ],
+        "answer": "Equatorial",
+        "explanation": "Found near the equator, it has no distinct dry season."
+    },
+    {
+        "id": "G704",
+        "text": "On a map, the angular difference between Magnetic North and True North is called $\\textbf{Magnetic Variation}$ (or Declination).",
+        "image": "",
+        "options": [
+            "Grid Reference",
+            "Magnetic Variation",
+            "Bearing",
+            "Scale"
+        ],
+        "answer": "Magnetic Variation",
+        "explanation": "This angle changes over time and location."
+    },
+    {
+        "id": "G705",
+        "text": "A triangular-shaped feature formed where a river splits into several channels before entering the sea is a $\\textbf{Delta}$.",
+        "image": "",
+        "options": [
+            "Estuary",
+            "Delta",
+            "Confluence",
+            "Source"
+        ],
+        "answer": "Delta",
+        "explanation": "Examples include the Niger Delta and the Nile Delta."
+    },
+    {
+        "id": "G706",
+        "text": "The number of people living per unit area of land is known as $\\textbf{Population Density}$.",
+        "image": "",
+        "options": [
+            "Census",
+            "Population Density",
+            "Birth Rate",
+            "Migration"
+        ],
+        "answer": "Population Density",
+        "explanation": "It is calculated by dividing the total population by the total land area."
+    },
+    {
+        "id": "G707",
+        "text": "Which type of industry is concerned with processing raw materials into finished goods? $\\textbf{Secondary}$ industry.",
+        "image": "",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Secondary",
+        "explanation": "Manufacturing and construction are key examples of secondary industries."
+    },
+    {
+        "id": "G708",
+        "text": "A large farm specializing in the production of one crop for export is a $\\textbf{Plantation}$.",
+        "image": "",
+        "options": [
+            "Market Garden",
+            "Plantation",
+            "Mixed Farm",
+            "Subsistence Farm"
+        ],
+        "answer": "Plantation",
+        "explanation": "Plantations are capital-intensive and often grow crops like rubber, cocoa, or tea."
+    },
+    {
+        "id": "G709",
+        "text": "The removal of the top layer of soil by the action of wind or water is $\\textbf{Soil Erosion}$.",
+        "image": "",
+        "options": [
+            "Leaching",
+            "Soil Erosion",
+            "Laterization",
+            "Weathering"
+        ],
+        "answer": "Soil Erosion",
+        "explanation": "It degrades land productivity and can lead to desertification."
+    },
+    {
+        "id": "G710",
+        "text": "Water transport is often the cheapest method for moving $\\textbf{Bulky}$ and heavy goods over long distances.",
+        "image": "",
+        "options": [
+            "Perishable",
+            "Bulky",
+            "Fragile",
+            "Urgent"
+        ],
+        "answer": "Bulky",
+        "explanation": "Ships can carry massive cargo loads at a lower cost per unit than planes or trucks."
+    },
+    {
+        "id": "G711",
+        "text": "A settlement where buildings are spread out over a wide area, often associated with farmland, is $\\textbf{Dispersed}$.",
+        "image": "",
+        "options": [
+            "Nucleated",
+            "Linear",
+            "Dispersed",
+            "Urban"
+        ],
+        "answer": "Dispersed",
+        "explanation": "Farmers live on their individual plots of land rather than in a central village."
+    },
+    {
+        "id": "G712",
+        "text": "The instrument used to measure the $\\textbf{Relative Humidity}$ of the atmosphere is the $\\textbf{Hygrometer}$.",
+        "image": "",
+        "options": [
+            "Barometer",
+            "Thermometer",
+            "Hygrometer",
+            "Anemometer"
+        ],
+        "answer": "Hygrometer",
+        "explanation": "It typically consists of wet and dry bulb thermometers."
+    },
+    {
+        "id": "G713",
+        "text": "A deep, steep-sided valley formed by glacial erosion is a $\\textbf{U-shaped Valley}$ (or Trough).",
+        "image": "",
+        "options": [
+            "V-shaped Valley",
+            "U-shaped Valley",
+            "Gorge",
+            "Rift Valley"
+        ],
+        "answer": "U-shaped Valley",
+        "explanation": "Glaciers widen and deepen pre-existing river valleys."
+    },
+    {
+        "id": "G714",
+        "text": "Fold mountains are caused by $\\textbf{Compressional}$ forces in the earth's crust.",
+        "image": "",
+        "options": [
+            "Tensional",
+            "Compressional",
+            "Gravitational",
+            "Shear"
+        ],
+        "answer": "Compressional",
+        "explanation": "When tectonic plates collide, rock layers buckle and fold upwards."
+    },
+    {
+        "id": "G715",
+        "text": "The funnel-shaped mouth of a volcano at the summit is called a $\\textbf{Crater}$.",
+        "image": "",
+        "options": [
+            "Vent",
+            "Crater",
+            "Cone",
+            "Dyke"
+        ],
+        "answer": "Crater",
+        "explanation": "If the crater collapses and widens significantly, it is called a caldera."
+    },
+    {
+        "id": "G716",
+        "text": "Which type of forest consists of trees that shed their leaves during the dry season? $\\textbf{Deciduous}$.",
+        "image": "",
+        "options": [
+            "Evergreen",
+            "Coniferous",
+            "Deciduous",
+            "Mangrove"
+        ],
+        "answer": "Deciduous",
+        "explanation": "Shedding leaves helps reduce water loss through transpiration during dry periods."
+    },
+    {
+        "id": "G717",
+        "text": "The washing down of soil nutrients from the topsoil to the subsoil by heavy rain is called $\\textbf{Leaching}$.",
+        "image": "",
+        "options": [
+            "Erosion",
+            "Leaching",
+            "Capillary Action",
+            "Humification"
+        ],
+        "answer": "Leaching",
+        "explanation": "This process often makes tropical soils infertile despite lush vegetation."
+    },
+    {
+        "id": "G718",
+        "text": "On a map, a $\\textbf{Spur}$ is represented by V-shaped contours pointing away from high ground.",
+        "image": "",
+        "options": [
+            "Valley",
+            "Spur",
+            "Ridge",
+            "Col"
+        ],
+        "answer": "Spur",
+        "explanation": "A valley's V-shapes point towards the high ground (upstream), whereas a spur points downhill."
+    },
+    {
+        "id": "G719",
+        "text": "The difference in value between a country's visible imports and visible exports is the $\\textbf{Balance of Trade}$.",
+        "image": "",
+        "options": [
+            "Balance of Payments",
+            "Balance of Trade",
+            "Gross Domestic Product",
+            "Terms of Trade"
+        ],
+        "answer": "Balance of Trade",
+        "explanation": "If exports exceed imports, it is a favorable balance."
+    },
+    {
+        "id": "G720",
+        "text": "Which of the following is a physical requirement for the development of $\\textbf{Hydro-Electric Power}$ (HEP)?",
+        "image": "",
+        "options": [
+            "Flat land",
+            "Steep gradient/Waterfall",
+            "Dry climate",
+            "Small river volume"
+        ],
+        "answer": "Steep gradient/Waterfall",
+        "explanation": "A steep drop creates the necessary force to turn turbines."
+    },
+    {
+        "id": "G721",
+        "text": "The regular rise and fall of the ocean surface caused by the moon's gravity is called $\\textbf{Tides}$.",
+        "image": "",
+        "options": [
+            "Currents",
+            "Waves",
+            "Tides",
+            "Tsunamis"
+        ],
+        "answer": "Tides",
+        "explanation": "Tides occur twice a day in most places due to the gravitational pull of the moon and sun."
+    },
+    {
+        "id": "G722",
+        "text": "A desert landform consisting of a hard rock lying on top of a soft rock, shaped by wind abrasion, is a $\\textbf{Zeugen}$.",
+        "image": "",
+        "options": [
+            "Barchan",
+            "Zeugen",
+            "Seif Dune",
+            "Playa"
+        ],
+        "answer": "Zeugen",
+        "explanation": "Wind erodes the softer rock faster, leaving the hard cap rock on a ridge."
+    },
+    {
+        "id": "G723",
+        "text": "A surface depression in a limestone region formed by the solution of rock is a $\\textbf{Swallow Hole}$ (or Sinkhole).",
+        "image": "",
+        "options": [
+            "Stalagmite",
+            "Swallow Hole",
+            "Gorge",
+            "Pillar"
+        ],
+        "answer": "Swallow Hole",
+        "explanation": "Rivers often disappear underground through these holes."
+    },
+    {
+        "id": "G724",
+        "text": "The outermost solid layer of the earth is known as the $\\textbf{Crust}$ (or Lithosphere).",
+        "image": "",
+        "options": [
+            "Mantle",
+            "Core",
+            "Crust",
+            "Asthenosphere"
+        ],
+        "answer": "Crust",
+        "explanation": "It is composed of continental (Sial) and oceanic (Sima) plates."
+    },
+    {
+        "id": "G725",
+        "text": "If it is 12:00 noon at Greenwich (0°), what time is it at a place located $\\textbf{15° East}$?",
+        "image": "",
+        "options": [
+            "11:00 am",
+            "1:00 pm",
+            "12:00 midnight",
+            "10:00 am"
+        ],
+        "answer": "1:00 pm",
+        "explanation": "The earth rotates 15 degrees per hour. Places to the East are ahead in time."
+    },
+    {
+        "id": "G726",
+        "text": "The chemical reaction of rain water with limestone to form calcium bicarbonate is called $\\textbf{Carbonation}$.",
+        "image": "",
+        "options": [
+            "Oxidation",
+            "Hydration",
+            "Carbonation",
+            "Hydrolysis"
+        ],
+        "answer": "Carbonation",
+        "explanation": "This is the primary process behind karst landscapes."
+    },
+    {
+        "id": "G727",
+        "text": "The boundary line separating two river basins is called a $\\textbf{Watershed}$ (or Divide).",
+        "image": "",
+        "options": [
+            "Confluence",
+            "Watershed",
+            "Source",
+            "Mouth"
+        ],
+        "answer": "Watershed",
+        "explanation": "It is typically a ridge of high land."
+    },
+    {
+        "id": "G728",
+        "text": "Which industry is $\\textbf{Labor Intensive}$?",
+        "image": "",
+        "options": [
+            "Oil Refining",
+            "Textile Manufacturing",
+            "Automated Assembly",
+            "Nuclear Power"
+        ],
+        "answer": "Textile Manufacturing",
+        "explanation": "Textile and garment industries typically require a large workforce."
+    },
+    {
+        "id": "G729",
+        "text": "Factors that force people to leave their home region are called $\\textbf{Push Factors}$.",
+        "image": "",
+        "options": [
+            "Pull Factors",
+            "Push Factors",
+            "Attraction Factors",
+            "Neutral Factors"
+        ],
+        "answer": "Push Factors",
+        "explanation": "Examples include war, famine, and unemployment."
+    },
+    {
+        "id": "G730",
+        "text": "The $\\textbf{Linear}$ settlement pattern is most likely to develop along a $\\textbf{Road}$ or river.",
+        "image": "",
+        "options": [
+            "Mountain top",
+            "Road",
+            "Dense forest",
+            "Desert"
+        ],
+        "answer": "Road",
+        "explanation": "Accessibility drives this elongated pattern."
+    },
+    {
+        "id": "G731",
+        "text": "A farming system where a plot of land is cultivated for a few years and then left to rest (fallow) is $\\textbf{Shifting Cultivation}$.",
+        "image": "",
+        "options": [
+            "Monoculture",
+            "Mixed Farming",
+            "Shifting Cultivation",
+            "Terracing"
+        ],
+        "answer": "Shifting Cultivation",
+        "explanation": "Also known as slash-and-burn, it allows the soil to recover nutrients naturally."
+    },
+    {
+        "id": "G732",
+        "text": "The rate at which temperature decreases with increasing altitude is the $\\textbf{Lapse Rate}$.",
+        "image": "",
+        "options": [
+            "Inversion",
+            "Lapse Rate",
+            "Radiation",
+            "Convection"
+        ],
+        "answer": "Lapse Rate",
+        "explanation": "The normal lapse rate is approximately 6.5°C per 1000 meters."
+    },
+    {
+        "id": "G733",
+        "text": "An extensive area of flat or gently undulating land situated at a high altitude is a $\\textbf{Plateau}$.",
+        "image": "",
+        "options": [
+            "Plain",
+            "Mountain",
+            "Plateau",
+            "Valley"
+        ],
+        "answer": "Plateau",
+        "explanation": "Often called a tableland (e.g., Jos Plateau)."
+    },
+    {
+        "id": "G734",
+        "text": "The shallow part of the ocean floor extending outwards from the coast is the $\\textbf{Continental Shelf}$.",
+        "image": "",
+        "options": [
+            "Continental Slope",
+            "Continental Shelf",
+            "Ocean Deep",
+            "Abyssal Plain"
+        ],
+        "answer": "Continental Shelf",
+        "explanation": "It is biologically rich and important for fishing and oil exploration."
+    },
+    {
+        "id": "G735",
+        "text": "Tourism contributes to the economy primarily by generating $\\textbf{Foreign Exchange}$.",
+        "image": "",
+        "options": [
+            "Pollution",
+            "Foreign Exchange",
+            "Traffic",
+            "Imports"
+        ],
+        "answer": "Foreign Exchange",
+        "explanation": "International tourists bring foreign currency into the host country."
+    },
+    {
+        "id": "G736",
+        "text": "Which of the following is a $\\textbf{Renewable}$ resource?",
+        "image": "",
+        "options": [
+            "Coal",
+            "Natural Gas",
+            "Wind",
+            "Copper"
+        ],
+        "answer": "Wind",
+        "explanation": "Wind is naturally replenished and will not run out."
+    },
+    {
+        "id": "G737",
+        "text": "The layer of gas in the stratosphere that protects the earth from harmful ultraviolet radiation is $\\textbf{Ozone}$.",
+        "image": "",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Ozone",
+            "Carbon Dioxide"
+        ],
+        "answer": "Ozone",
+        "explanation": "The ozone layer filters UV rays which can cause skin cancer."
+    },
+    {
+        "id": "G738",
+        "text": "On a map, water bodies are conventionally colored $\\textbf{Blue}$.",
+        "image": "",
+        "options": [
+            "Green",
+            "Brown",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "Blue",
+        "explanation": "Green is used for vegetation/lowlands, brown for high altitudes/contours."
+    },
+    {
+        "id": "G739",
+        "text": "The instrument used to detect and record earthquake waves is a $\\textbf{Seismograph}$.",
+        "image": "",
+        "options": [
+            "Barometer",
+            "Seismograph",
+            "Richter Scale",
+            "Anemometer"
+        ],
+        "answer": "Seismograph",
+        "explanation": "The Richter scale measures magnitude, but the seismograph is the instrument."
+    },
+    {
+        "id": "G740",
+        "text": "Coffee and Cocoa are examples of $\\textbf{Beverage}$ crops grown in plantations.",
+        "image": "",
+        "options": [
+            "Cereal",
+            "Beverage",
+            "Root",
+            "Legume"
+        ],
+        "answer": "Beverage",
+        "explanation": "They are processed into drinks and are major exports for tropical countries."
+    }
+]

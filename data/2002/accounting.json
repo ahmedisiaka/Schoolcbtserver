@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_401",
+      "text": "The accounting standard that provides comprehensive guidance on accounting for leases, requiring most leases to be capitalized on the balance sheet, is:",
+      "image": "ACCO_2023_401.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IFRS 16 (Leases)",
+        "IAS 37 (Provisions)",
+        "IFRS 9 (Financial Instruments)"
+      ],
+      "answer": "IFRS 16 (Leases)",
+      "explanation": "IFRS 16 introduced significant changes by requiring virtually all leases (for the lessee) to be recognized as a 'right-of-use' asset and a lease liability on the Statement of Financial Position."
+    },
+    {
+      "id": "ACCO_2023_402",
+      "text": "The ethical principle that requires a professional accountant to respect the confidentiality of information acquired as a result of professional and business relationships is:",
+      "image": "ACCO_2023_402.png",
+      "options": [
+        "Integrity",
+        "Confidentiality",
+        "Objectivity",
+        "Professional Behaviour"
+      ],
+      "answer": "Confidentiality",
+      "explanation": "Confidentiality means not disclosing information to third parties without proper and specific authority, unless there is a legal or professional right or duty to disclose."
+    },
+    {
+      "id": "ACCO_2023_403",
+      "text": "The total amount of cash collected from a consignee upon the submission of the Account Sales is recorded in the Consignor's books by debiting the:",
+      "image": "ACCO_2023_403.png",
+      "options": [
+        "Consignee's Account",
+        "Consignment Account",
+        "Bank Account",
+        "Goods Sent on Consignment Account"
+      ],
+      "answer": "Bank Account",
+      "explanation": "The receipt of cash increases the Consignor's Bank balance (Debit) and reduces the amount owed by the Consignee (Credit Consignee's Account)."
+    },
+    {
+      "id": "ACCO_2023_404",
+      "text": "The ratio that measures the market value of a share relative to its intrinsic book value is the:",
+      "image": "ACCO_2023_404.png",
+      "options": [
+        "Earnings Yield",
+        "P/E Ratio",
+        "Dividend Yield",
+        "Market-to-Book Ratio"
+      ],
+      "answer": "Market-to-Book Ratio",
+      "explanation": "Market-to-Book Ratio = Market Price per Share / Book Value per Share. It indicates how the market values the company relative to its accounting value."
+    },
+    {
+      "id": "ACCO_2023_405",
+      "text": "In Cost Accounting, the treatment of overtime premium paid to direct labor is usually as a:",
+      "image": "ACCO_2023_405.png",
+      "options": [
+        "Direct Labour Cost",
+        "Factory Overhead (if due to general capacity constraint)",
+        "Administrative Overhead",
+        "Selling Overhead"
+      ],
+      "answer": "Factory Overhead (if due to general capacity constraint)",
+      "explanation": "Overtime premium is generally treated as an indirect cost (overhead), unless the overtime was specifically requested by a customer for a particular job, in which case it is direct."
+    },
+    {
+      "id": "ACCO_2023_406",
+      "text": "The formula (Total Liabilities / Total Equity) calculates the:",
+      "image": "ACCO_2023_406.png",
+      "options": [
+        "Debt-to-Assets Ratio",
+        "Equity Multiplier",
+        "Debt-to-Equity Ratio",
+        "Return on Capital Employed"
+      ],
+      "answer": "Debt-to-Equity Ratio",
+      "explanation": "This ratio indicates the level of financial gearing (leverage) by comparing the funds provided by creditors (Liabilities) to the funds provided by owners (Equity)."
+    },
+    {
+      "id": "ACCO_2023_407",
+      "text": "The main ethical threat arising when an accountant promotes a client's position in a dispute to the extent that objectivity is compromised is the:",
+      "image": "ACCO_2023_407.png",
+      "options": [
+        "Self-Review threat",
+        "Advocacy threat",
+        "Familiarity threat",
+        "Self-interest threat"
+      ],
+      "answer": "Advocacy threat",
+      "explanation": "The Advocacy threat occurs when an accountant promotes a client or employer's position to the point that their objectivity or integrity is impaired."
+    },
+    {
+      "id": "ACCO_2023_408",
+      "text": "The total amount of credit purchases for a period can be determined under the Single Entry System by preparing the:",
+      "image": "ACCO_2023_408.png",
+      "options": [
+        "Statement of Affairs",
+        "Total Debtors Account",
+        "Total Creditors Account (or Creditors Control Account)",
+        "Cash Book"
+      ],
+      "answer": "Total Creditors Account (or Creditors Control Account)",
+      "explanation": "The Total Creditors Account is reconstructed using opening/closing balances, cash payments, and other relevant figures, with the missing figure typically being the credit purchases for the period."
+    },
+    {
+      "id": "ACCO_2023_409",
+      "text": "The ratio (Annual Dividends per Share / Market Price per Share) $\\times$ 100 calculates the:",
+      "image": "ACCO_2023_409.png",
+      "options": [
+        "Dividend Payout Ratio",
+        "Earnings Yield",
+        "Dividend Yield",
+        "Price-Earnings Ratio"
+      ],
+      "answer": "Dividend Yield",
+      "explanation": "Dividend Yield measures the return on an investment in a share, based only on the cash dividends paid, relative to the market price."
+    },
+    {
+      "id": "ACCO_2023_410",
+      "text": "In a partnership dissolution, if a partner's capital account has a debit balance (deficiency), the solvent partners share the loss in their:",
+      "image": "ACCO_2023_410.png",
+      "options": [
+        "Profit Sharing Ratio",
+        "Sacrificing Ratio",
+        "Gaining Ratio",
+        "Capital Ratio (Rule in Garnier v. Murray)"
+      ],
+      "answer": "Capital Ratio (Rule in Garnier v. Murray)",
+      "explanation": "If the rule in Garnier v. Murray is applied, the capital deficiency of an insolvent partner is treated as a loss and borne by the solvent partners in their respective capital contribution ratios."
+    },
+    {
+      "id": "ACCO_2023_411",
+      "text": "The accounting standard that deals with the preparation of consolidated financial statements for a parent and its subsidiaries is:",
+      "image": "ACCO_2023_411.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IFRS 10 (Consolidated Financial Statements)",
+        "IAS 28 (Investments in Associates)",
+        "IFRS 3 (Business Combinations)"
+      ],
+      "answer": "IFRS 10 (Consolidated Financial Statements)",
+      "explanation": "IFRS 10 establishes principles for the presentation and preparation of consolidated financial statements when an entity controls one or more other entities."
+    },
+    {
+      "id": "ACCO_2023_412",
+      "text": "In Cost Accounting, the costs that are allocated to a cost centre or cost unit on a rational and equitable basis are known as:",
+      "image": "ACCO_2023_412.png",
+      "options": [
+        "Direct Costs",
+        "Allocated Costs",
+        "Apportioned Overheads",
+        "Fixed Costs"
+      ],
+      "answer": "Apportioned Overheads",
+      "explanation": "Apportionment is the process of sharing overheads (indirect costs) among two or more cost centres using a fair base (e.g., floor area for rent)."
+    },
+    {
+      "id": "ACCO_2023_413",
+      "text": "The formula (Cost of Goods Sold / Average Inventory) calculates the:",
+      "image": "ACCO_2023_413.png",
+      "options": [
+        "Debtors Turnover Ratio",
+        "Creditors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Inventory Turnover Ratio",
+      "explanation": "The Inventory Turnover Ratio measures how quickly inventory is bought and sold during a period."
+    },
+    {
+      "id": "ACCO_2023_414",
+      "text": "The cost of goods sent to the Consignee is recorded in the Consignor's ledger by crediting the:",
+      "image": "ACCO_2023_414.png",
+      "options": [
+        "Consignee's Account",
+        "Goods Sent on Consignment Account",
+        "Purchases Account",
+        "General Profit and Loss Account"
+      ],
+      "answer": "Goods Sent on Consignment Account",
+      "explanation": "The entry is: Debit Consignment Account, Credit Goods Sent on Consignment Account. The latter account is closed by transferring its balance to the Trading Account."
+    },
+    {
+      "id": "ACCO_2023_415",
+      "text": "The main ethical threat arising when an accountant has a significant financial interest in the outcome of a client engagement is the:",
+      "image": "ACCO_2023_415.png",
+      "options": [
+        "Advocacy threat",
+        "Intimidation threat",
+        "Self-interest threat",
+        "Familiarity threat"
+      ],
+      "answer": "Self-interest threat",
+      "explanation": "A financial interest, such as holding shares in the client company or depending heavily on the client for fees, creates a self-interest threat."
+    },
+    {
+      "id": "ACCO_2023_416",
+      "text": "The total cash payments to trade creditors during the year can be determined under the Single Entry System by preparing the:",
+      "image": "ACCO_2023_416.png",
+      "options": [
+        "Statement of Affairs",
+        "Total Debtors Account",
+        "Cash Book",
+        "Total Creditors Account"
+      ],
+      "answer": "Total Creditors Account",
+      "explanation": "When Total Creditors Account is reconstructed, cash paid is often the balancing figure needed to satisfy the opening balance, credit purchases, and closing balance."
+    },
+    {
+      "id": "ACCO_2023_417",
+      "text": "The ratio that measures the rate of return earned on the funds provided by the ordinary shareholders is the:",
+      "image": "ACCO_2023_417.png",
+      "options": [
+        "Return on Assets (ROA)",
+        "Return on Equity (ROE)",
+        "Gross Profit Margin",
+        "Interest Cover Ratio"
+      ],
+      "answer": "Return on Equity (ROE)",
+      "explanation": "ROE = (Net Income / Total Equity) $\\times$ 100. It is a key measure of management effectiveness from the owners' perspective."
+    },
+    {
+      "id": "ACCO_2023_418",
+      "text": "The principle that requires all relevant information to be included in the financial statements, even if not explicitly required by a standard, is the:",
+      "image": "ACCO_2023_418.png",
+      "options": [
+        "Consistency concept",
+        "Prudence concept",
+        "Full Disclosure principle",
+        "Objectivity principle"
+      ],
+      "answer": "Full Disclosure principle",
+      "explanation": "This principle ensures that the statements provide a true and fair view of the entity's financial position and performance, often necessitating explanatory notes."
+    },
+    {
+      "id": "ACCO_2023_419",
+      "text": "The legal document that outlines the conditions under which a company borrows money, secured by its assets, is the:",
+      "image": "ACCO_2023_419.png",
+      "options": [
+        "Articles of Association",
+        "Debenture Trust Deed",
+        "Share Certificate",
+        "Prospectus"
+      ],
+      "answer": "Debenture Trust Deed",
+      "explanation": "The Debenture Trust Deed is a legal agreement between the company and the debenture trustees, detailing the terms of the loan, interest rate, repayment schedule, and security provided."
+    },
+    {
+      "id": "ACCO_2023_420",
+      "text": "The main component of an independent branch's final account that is used to reconcile with the Head Office books is the:",
+      "image": "ACCO_2023_420.png",
+      "options": [
+        "Branch Profit and Loss Account",
+        "Head Office Account (in Branch Books)",
+        "Branch Debtors Account",
+        "Branch Fixed Assets Account"
+      ],
+      "answer": "Head Office Account (in Branch Books)",
+      "explanation": "The Head Office Account in the branch's ledger represents the reciprocal of the Branch Account in the Head Office's ledger and is used for reconciliation."
+    },
+    {
+      "id": "ACCO_2023_421",
+      "text": "The accounting standard dealing with the presentation of provisions, contingent liabilities, and contingent assets is:",
+      "image": "ACCO_2023_421.png",
+      "options": [
+        "IAS 1 (Presentation)",
+        "IAS 37 (Provisions, Contingent Liabilities and Contingent Assets)",
+        "IFRS 15 (Revenue)",
+        "IAS 23 (Borrowing Costs)"
+      ],
+      "answer": "IAS 37 (Provisions, Contingent Liabilities and Contingent Assets)",
+      "explanation": "IAS 37 defines and prescribes the criteria for recognition and the measurement bases for provisions, and requires disclosures about contingent liabilities and contingent assets."
+    },
+    {
+      "id": "ACCO_2023_422",
+      "text": "In a partnership, the profit/loss on realization is transferred to partners' capital accounts in their:",
+      "image": "ACCO_2023_422.png",
+      "options": [
+        "Capital Ratio",
+        "Gaining Ratio",
+        "Profit Sharing Ratio",
+        "Sacrificing Ratio"
+      ],
+      "answer": "Profit Sharing Ratio",
+      "explanation": "Profit or loss on the realization of assets and liabilities during dissolution is a trading result of the winding-up process and must be shared according to the agreed profit-sharing ratio."
+    },
+    {
+      "id": "ACCO_2023_423",
+      "text": "The main ethical threat arising when an accountant receives a gift from a client that could influence their judgment is the:",
+      "image": "ACCO_2023_423.png",
+      "options": [
+        "Familiarity threat",
+        "Self-interest threat",
+        "Advocacy threat",
+        "Intimidation threat"
+      ],
+      "answer": "Self-interest threat",
+      "explanation": "Receiving gifts or excessive hospitality creates a self-interest threat by potentially biasing the accountant in favor of the client."
+    },
+    {
+      "id": "ACCO_2023_424",
+      "text": "The cost of goods available for sale is calculated as:",
+      "image": "ACCO_2023_424.png",
+      "options": [
+        "Sales - Gross Profit",
+        "Opening Inventory + Purchases",
+        "Purchases - Closing Inventory",
+        "Cost of Goods Sold + Closing Inventory"
+      ],
+      "answer": "Opening Inventory + Purchases",
+      "explanation": "This figure represents the total cost of all inventory units the business had during the period, available either to be sold or held as closing inventory."
+    },
+    {
+      "id": "ACCO_2023_425",
+      "text": "The method of inventory valuation that assumes the average cost of all units determines the cost of goods sold and the closing inventory is the:",
+      "image": "ACCO_2023_425.png",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "Weighted Average Cost",
+        "Specific Identification"
+      ],
+      "answer": "Weighted Average Cost",
+      "explanation": "The Weighted Average Cost method smooths out price fluctuations by calculating a new average cost per unit after each purchase, which is then applied to all units sold and remaining."
+    },
+    {
+      "id": "ACCO_2023_426",
+      "text": "The ratio (Total Revenue - Cost of Goods Sold) / Total Revenue calculates the:",
+      "image": "ACCO_2023_426.png",
+      "options": [
+        "Net Profit Margin",
+        "Gross Profit Margin",
+        "Operating Profit Margin",
+        "Return on Equity"
+      ],
+      "answer": "Gross Profit Margin",
+      "explanation": "Total Revenue - Cost of Goods Sold = Gross Profit. Gross Profit / Total Revenue = Gross Profit Margin."
+    },
+    {
+      "id": "ACCO_2023_427",
+      "text": "The document that summarizes the total cash payments to all creditors during the year is the:",
+      "image": "ACCO_2023_427.png",
+      "options": [
+        "Total Debtors Account",
+        "Cash Book (Credit/Payments Side)",
+        "Purchases Journal",
+        "Total Creditors Account"
+      ],
+      "answer": "Cash Book (Credit/Payments Side)",
+      "explanation": "The Cash Book (specifically the credit or payments side) provides the summary of all cash and bank outflows, including payments to creditors."
+    },
+    {
+      "id": "ACCO_2023_428",
+      "text": "The accounting standard that provides principles for accounting for research and development (R&D) costs is:",
+      "image": "ACCO_2023_428.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IFRS 3 (Business Combinations)",
+        "IAS 38 (Intangible Assets)",
+        "IAS 2 (Inventory)"
+      ],
+      "answer": "IAS 38 (Intangible Assets)",
+      "explanation": "IAS 38 dictates that research costs must be expensed immediately, while development costs can sometimes be capitalized if strict criteria for probable future economic benefits are met."
+    },
+    {
+      "id": "ACCO_2023_429",
+      "text": "The type of cost that is constant in total and irrelevant for marginal costing decisions within the relevant range is the:",
+      "image": "ACCO_2023_429.png",
+      "options": [
+        "Variable Cost",
+        "Fixed Cost",
+        "Marginal Cost",
+        "Prime Cost"
+      ],
+      "answer": "Fixed Cost",
+      "explanation": "Marginal costing focuses only on variable costs because fixed costs do not change when deciding whether to produce one more unit."
+    },
+    {
+      "id": "ACCO_2023_430",
+      "text": "The maximum number of partners allowed in a non-professional firm (e.g., trading or manufacturing) is often limited by law to:",
+      "image": "ACCO_2023_430.png",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "No limit"
+      ],
+      "answer": "20",
+      "explanation": "Historically, and in many jurisdictions, the maximum number of partners in a general trading firm is 20, though professional firms often have exceptions."
+    },
+    {
+      "id": "ACCO_2023_431",
+      "text": "In a partnership, the journal entry to write off goodwill existing in the books upon admission of a new partner is to credit the:",
+      "image": "ACCO_2023_431.png",
+      "options": [
+        "Goodwill Account and Debit Old Partners' Capital Accounts",
+        "New Partner's Capital Account and Credit Goodwill Account",
+        "Old Partners' Capital Accounts and Debit Goodwill Account",
+        "Realization Account and Credit Goodwill Account"
+      ],
+      "answer": "Goodwill Account and Debit Old Partners' Capital Accounts",
+      "explanation": "To write off an existing goodwill asset, the Goodwill Account is credited, and the loss is borne by the old partners in their old profit sharing ratio (Debit Old Partners' Capital Accounts)."
+    },
+    {
+      "id": "ACCO_2023_432",
+      "text": "The ethical threat arising when an accountant feels pressured to agree with a supervisor or director due to fear of losing their job is the:",
+      "image": "ACCO_2023_432.png",
+      "options": [
+        "Self-Review threat",
+        "Familiarity threat",
+        "Intimidation threat",
+        "Advocacy threat"
+      ],
+      "answer": "Intimidation threat",
+      "explanation": "The Intimidation threat arises when a professional is deterred from acting objectively by actual or perceived threats, such as job security."
+    },
+    {
+      "id": "ACCO_2023_433",
+      "text": "The formula (Market Price per Share / Earnings Per Share) calculates the:",
+      "image": "ACCO_2023_433.png",
+      "options": [
+        "Dividend Yield",
+        "Price-Earnings (P/E) Ratio",
+        "Book Value per Share",
+        "Earnings Yield"
+      ],
+      "answer": "Price-Earnings (P/E) Ratio",
+      "explanation": "The P/E ratio is a valuation multiple that reflects market expectations of a company's future earnings."
+    },
+    {
+      "id": "ACCO_2023_434",
+      "text": "The maximum loss a shareholder can incur in a limited company is typically the:",
+      "image": "ACCO_2023_434.png",
+      "options": [
+        "Total assets of the company",
+        "Amount of their personal wealth",
+        "Unpaid amount on their shares (if any)",
+        "Total nominal value of shares held"
+      ],
+      "answer": "Unpaid amount on their shares (if any)",
+      "explanation": "Limited liability means the shareholder is only liable for the nominal value of shares subscribed, and if fully paid, their maximum loss is the amount invested in the shares."
+    },
+    {
+      "id": "ACCO_2023_435",
+      "text": "The principle that requires accounting methods to be chosen such that profit and assets are not overstated is the:",
+      "image": "ACCO_2023_435.png",
+      "options": [
+        "Realization principle",
+        "Prudence concept (Conservatism)",
+        "Consistency concept",
+        "Matching concept"
+      ],
+      "answer": "Prudence concept (Conservatism)",
+      "explanation": "Prudence mandates caution, especially when uncertainty exists, ensuring that the financial position is not presented too optimistically."
+    },
+    {
+      "id": "ACCO_2023_436",
+      "text": "The main objective of preparing a Memorandum Trading Account in a dependent branch system is to find the:",
+      "image": "ACCO_2023_436.png",
+      "options": [
+        "Net Profit of the Head Office",
+        "Gross Profit of the Branch",
+        "Total Sales Revenue",
+        "Cost of Goods Manufactured"
+      ],
+      "answer": "Gross Profit of the Branch",
+      "explanation": "A Memorandum Trading Account is often prepared to estimate the Branch's Gross Profit, which is then used by the Head Office to adjust the Branch Account for profit/loss."
+    },
+    {
+      "id": "ACCO_2023_437",
+      "text": "The ratio (Fixed Cost / Contribution per Unit) calculates the:",
+      "image": "ACCO_2023_437.png",
+      "options": [
+        "Margin of Safety",
+        "Profit Volume Ratio",
+        "Break-Even Point (in units)",
+        "Return on Capital Employed"
+      ],
+      "answer": "Break-Even Point (in units)",
+      "explanation": "The Break-Even Point is the level of sales where Total Revenue equals Total Cost, resulting in zero profit. In units, it's calculated as Fixed Costs divided by the Contribution per Unit."
+    },
+    {
+      "id": "ACCO_2023_438",
+      "text": "The document prepared by the Consignee to show the breakdown of the final remittance due to the Consignor is the:",
+      "image": "ACCO_2023_438.png",
+      "options": [
+        "Proforma Invoice",
+        "Invoice",
+        "Debit Note",
+        "Account Sales"
+      ],
+      "answer": "Account Sales",
+      "explanation": "The Account Sales is the statement of transactions sent by the consignee, detailing sales, expenses, commission, and the net balance due to the consignor."
+    },
+    {
+      "id": "ACCO_2023_439",
+      "text": "The cost of developing an internal-use software that meets all capitalization criteria (IAS 38) is treated as:",
+      "image": "ACCO_2023_439.png",
+      "options": [
+        "Revenue Expense",
+        "Impairment Loss",
+        "Intangible Asset",
+        "Deferred Revenue Expenditure"
+      ],
+      "answer": "Intangible Asset",
+      "explanation": "If the development costs meet the rigorous criteria of IAS 38 (Intangible Assets), they must be capitalized and amortized over the software's useful life."
+    },
+    {
+      "id": "ACCO_2023_440",
+      "text": "The method of calculating depreciation that ensures a constant total charge to the Profit and Loss Account (Depreciation + Annual Repairs) over the asset's life is the:",
+      "image": "ACCO_2023_440.png",
+      "options": [
+        "Straight-Line Method",
+        "Reducing Balance Method",
+        "Annuity Method",
+        "Units of Production Method"
+      ],
+      "answer": "Reducing Balance Method",
+      "explanation": "The Reducing Balance Method is preferred because it leads to high depreciation in the early years (when repairs are low) and low depreciation later (when repairs are high), balancing the total expense."
+    }
+  ]

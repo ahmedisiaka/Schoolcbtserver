@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_P_2017_01",
+      "text": "Which of the following is a derived unit?",
+      "image": "",
+      "options": ["Kilogram", "Ampere", "Joule", "Second"],
+      "answer": "Joule",
+      "explanation": "Derived units are combinations of fundamental units. The Joule ($J$), the unit of energy or work, is defined as $kg \\text{ m}^2/\\text{s}^2$ ($Nm$). Kilogram, Ampere, and Second are fundamental (base) units."
+    },
+    {
+      "id": "JAMB_P_2017_02",
+      "text": "The mass of a body is $50 \\text{ kg}$. If the body is taken to a planet where the acceleration due to gravity is $2 \\text{ m/s}^2$, what is its weight on the planet?",
+      "image": "",
+      "options": ["$25 \\text{ N}$", "$50 \\text{ N}$", "$100 \\text{ N}$", "$250 \\text{ N}$"],
+      "answer": "$100 \\text{ N}$",
+      "explanation": "Weight ($W$) is given by the formula $W = m g$. $W = 50 \\text{ kg} \\times 2 \\text{ m/s}^2 = 100 \\text{ N}$."
+    },
+    {
+      "id": "JAMB_P_2017_03",
+      "text": "A body is accelerating uniformly at $5 \\text{ m/s}^2$. If its initial velocity is $20 \\text{ m/s}$, calculate the distance covered in $4 \\text{ s}$.",
+      "image": "[Image illustrating uniform acceleration]",
+      "options": ["$80 \\text{ m}$", "$120 \\text{ m}$", "$160 \\text{ m}$", "$200 \\text{ m}$"],
+      "answer": "$120 \\text{ m}$",
+      "explanation": "Using the equation of motion $s = ut + 1/2at^2$: $s = (20 \\text{ m/s})(4 \\text{ s}) + 1/2 (5 \\text{ m/s}^2)(4 \\text{ s})^2$. $s = 80 \\text{ m} + 1/2 (5 \\text{ m/s}^2)(16 \\text{ s}^2) = 80 \\text{ m} + 40 \\text{ m} = 120 \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2017_04",
+      "text": "The instrument used to measure the thickness of a thin wire accurately is the:",
+      "image": "[Image of a micrometer screw gauge]",
+      "options": ["Metre rule", "Vernier caliper", "Micrometer screw gauge", "Travelling microscope"],
+      "answer": "Micrometer screw gauge",
+      "explanation": "The micrometer screw gauge is used for measuring small distances and thicknesses (up to $0.01 \\text{ mm}$ accuracy), making it more accurate than a Vernier caliper ($0.1 \\text{ mm}$ or $0.02 \\text{ mm}$ accuracy)."
+    },
+    {
+      "id": "JAMB_P_2017_05",
+      "text": "Which of the following is NOT a characteristic of a liquid in simple terms?",
+      "image": "",
+      "options": ["Fixed volume", "Takes the shape of its container", "Fixed shape", "Particles are close but move randomly"],
+      "answer": "Fixed shape",
+      "explanation": "Liquids have a fixed volume but take the shape of their container. Only solids have a fixed shape."
+    },
+    {
+      "id": "JAMB_P_2017_06",
+      "text": "The pressure on a gas increases as the volume decreases, provided the temperature remains constant. This statement is known as:",
+      "image": "[Image illustrating Boyle's law with constant temperature]",
+      "options": ["Charles's Law", "Boyle's Law", "Dalton's Law", "Pressure Law"],
+      "answer": "Boyle's Law",
+      "explanation": "Boyle's Law states that for a fixed mass of gas at constant temperature, the pressure ($P$) is inversely proportional to the volume ($V$), i.e., $PV = \text{constant}$."
+    },
+    {
+      "id": "JAMB_P_2017_07",
+      "text": "The most effective method of heat transfer in a fluid is:",
+      "image": "[Image illustrating convection current]",
+      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "answer": "Convection",
+      "explanation": "Convection is the transfer of heat by the actual movement of the fluid (liquid or gas) itself, creating currents. Conduction is slow, and radiation does not require a medium."
+    },
+    {
+      "id": "JAMB_P_2017_08",
+      "text": "The specific latent heat of fusion of a substance is the heat required to change a unit mass of the substance from:",
+      "image": "[Image showing phase change from solid to liquid]",
+      "options": ["Solid to liquid at constant temperature", "Liquid to solid at boiling point", "Solid to gas at constant temperature", "Liquid to gas at boiling point"],
+      "answer": "Solid to liquid at constant temperature",
+      "explanation": "Specific latent heat of fusion is the energy required to change $1 \\text{ kg}$ of a solid into a liquid at its melting point (constant temperature). Change from liquid to gas is the specific latent heat of vaporization."
+    },
+    {
+      "id": "JAMB_P_2017_09",
+      "text": "An echo is heard $3 \\text{ s}$ after the sound is produced. If the speed of sound in air is $330 \\text{ m/s}$, calculate the distance of the reflecting surface from the source.",
+      "image": "[Image illustrating sound reflection and echo distance calculation]",
+      "options": ["$110 \\text{ m}$", "$165 \\text{ m}$", "$495 \\text{ m}$", "$990 \\text{ m}$"],
+      "answer": "$495 \\text{ m}$",
+      "explanation": "The distance covered by the sound is $2d$ (to the wall and back). Distance = Speed $\\times$ Time. $2d = 330 \\text{ m/s} \\times 3 \\text{ s} = 990 \\text{ m}$. Therefore, $d = 990 \\text{ m} / 2 = 495 \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2017_10",
+      "text": "The image formed by a plane mirror is:",
+      "image": "[Image showing virtual, erect image formed by a plane mirror]",
+      "options": ["Real, inverted, same size", "Virtual, erect, magnified", "Virtual, erect, same size", "Real, inverted, diminished"],
+      "answer": "Virtual, erect, same size",
+      "explanation": "Plane mirrors always form images that are virtual (cannot be caught on a screen), upright (erect), and the same size as the object. The image is also laterally inverted."
+    },
+    {
+      "id": "JAMB_P_2017_11",
+      "text": "A converging lens has a focal length of $10 \\text{ cm}$. What is the power of the lens?",
+      "image": "[Image of a converging (convex) lens]",
+      "options": ["$+10 \\text{ Diopters}$", "$+0.1 \\text{ Diopters}$", "$+1.0 \\text{ Diopters}$", "$+100 \\text{ Diopters}$"],
+      "answer": "$+10 \\text{ Diopters}$",
+      "explanation": "Power ($P$) is the reciprocal of the focal length ($f$) in meters. $f = 10 \\text{ cm} = 0.1 \\text{ m}$. $P = 1/f = 1/0.1 = 10 \\text{ D}$ (Diopters). Converging lenses have positive power."
+    },
+    {
+      "id": "JAMB_P_2017_12",
+      "text": "The unit of electromotive force (e.m.f.) is the:",
+      "image": "",
+      "options": ["Joule", "Watt", "Ohm", "Volt"],
+      "answer": "Volt",
+      "explanation": "The electromotive force (e.m.f.) is the energy per unit charge supplied by a source, and its SI unit is the Volt ($V$). $1 \\text{ Volt} = 1 \\text{ Joule per Coulomb}$."
+    },
+    {
+      "id": "JAMB_P_2017_13",
+      "text": "The internal resistance of a cell is the resistance offered by the:",
+      "image": "[Image of a simple circuit diagram including internal resistance 'r']",
+      "options": ["External circuit only", "Electrolyte and electrodes", "Connecting wires", "Ammeter in the circuit"],
+      "answer": "Electrolyte and electrodes",
+      "explanation": "Internal resistance ($r$) is the opposition to the flow of current offered by the chemicals (electrolyte) and the plates (electrodes) within the cell itself. It causes a drop in the terminal voltage when current is drawn."
+    },
+    {
+      "id": "JAMB_P_2017_14",
+      "text": "Which of the following is produced when a current-carrying conductor is placed in a magnetic field?",
+      "image": "[Image illustrating Fleming's Left-Hand Rule and the resulting force]",
+      "options": ["Potential difference", "Electromotive force", "Mechanical force", "Heat energy"],
+      "answer": "Mechanical force",
+      "explanation": "When a current-carrying conductor (which generates its own magnetic field) is placed in an external magnetic field, the interaction of the two fields results in a mechanical force (Motor Effect). This principle is described by Fleming's Left-Hand Rule."
+    },
+    {
+      "id": "JAMB_P_2017_15",
+      "text": "A transformer with $500$ turns in the primary coil and $100$ turns in the secondary coil is connected to a $240 \\text{ V}$ A.C. source. The secondary voltage is:",
+      "image": "[Image of a step-down transformer]",
+      "options": ["$48 \\text{ V}$", "$1200 \\text{ V}$", "$2400 \\text{ V}$", "$24 \\text{ V}$"],
+      "answer": "$48 \\text{ V}$",
+      "explanation": "The transformer equation is $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$. $V_s = V_p \\times \\frac{N_s}{N_p} = 240 \\text{ V} \\times \\frac{100}{500} = 240 \\text{ V} \\times 1/5 = 48 \\text{ V}$. Since $N_s < N_p$, it is a step-down transformer."
+    },
+    {
+      "id": "JAMB_P_2017_16",
+      "text": "The instrument used to measure the rate of absorption of moisture by the atmosphere is the:",
+      "image": "",
+      "options": ["Anemometer", "Hygrometer", "Barometer", "Rain gauge"],
+      "answer": "Hygrometer",
+      "explanation": "The hygrometer measures humidity, which is the measure of the amount of water vapor in the atmosphere. High humidity means low rate of moisture absorption (evaporation)."
+    },
+    {
+      "id": "JAMB_P_2017_17",
+      "text": "Which of the following colors of light is deviated least when passing through a triangular glass prism?",
+      "image": "[Image illustrating dispersion of white light by a prism (VIBGYOR)]",
+      "options": ["Violet", "Blue", "Green", "Red"],
+      "answer": "Red",
+      "explanation": "Dispersion occurs because the refractive index of glass is different for different colors. Red light has the longest wavelength and travels fastest in the glass, resulting in the least refraction and therefore the least deviation. (Remember the order: ROYGBIV, Red deviates least, Violet most)."
+    },
+    {
+      "id": "JAMB_P_2017_18",
+      "text": "The phenomenon responsible for the formation of the rainbow is:",
+      "image": "[Image of a rainbow showing refraction and internal reflection in water droplets]",
+      "options": ["Diffraction", "Interference", "Dispersion", "Polarization"],
+      "answer": "Dispersion",
+      "explanation": "A rainbow is formed when sunlight is dispersed (separated into its component colors) by water droplets in the atmosphere. The dispersion is caused by a combination of refraction, total internal reflection, and a second refraction."
+    },
+    {
+      "id": "JAMB_P_2017_19",
+      "text": "The principle of operation of the optical fiber is based on:",
+      "image": "[Image illustrating total internal reflection within an optical fiber]",
+      "options": ["Refraction", "Interference", "Total internal reflection", "Diffraction"],
+      "answer": "Total internal reflection",
+      "explanation": "Optical fibers transmit light signals over long distances by continuously reflecting the light off the internal walls of the fiber (core-cladding interface). This continuous bouncing is achieved through total internal reflection."
+    },
+    {
+      "id": "JAMB_P_2017_20",
+      "text": "The maximum kinetic energy of the photoelectrons emitted from a metal surface is dependent on the:",
+      "image": "[Image of photoelectric effect graph showing KEmax vs. frequency]",
+      "options": ["Intensity of the light", "Frequency of the incident radiation", "Time of exposure", "Type of light source"],
+      "answer": "Frequency of the incident radiation",
+      "explanation": "The maximum kinetic energy ($KE_{max}$) is linearly dependent on the frequency ($f$) of the incident radiation, according to $KE_{max} = hf - \\Phi$ (Einstein's Photoelectric Equation). It is independent of intensity."
+    },
+    {
+      "id": "JAMB_P_2017_21",
+      "text": "The energy radiated per second by a body is proportional to the fourth power of its absolute temperature. This is known as:",
+      "image": "",
+      "options": ["Newton's Law of Cooling", "Wien's Displacement Law", "Stefan-Boltzmann Law", "Kirchhoff's Law of Radiation"],
+      "answer": "Stefan-Boltzmann Law",
+      "explanation": "The Stefan-Boltzmann Law states that the total energy radiated per unit surface area of a black body across all wavelengths per unit time (radiant exitance, $j$) is directly proportional to the fourth power of the black body's absolute temperature ($T$): $j = \\sigma T^4$."
+    },
+    {
+      "id": "JAMB_P_2017_22",
+      "text": "Radio waves travel through a vacuum at a speed of:",
+      "image": "",
+      "options": ["$3.0 \\times 10^7 \\text{ m/s}$", "$3.0 \\times 10^8 \\text{ m/s}$", "$3.0 \\times 10^9 \\text{ m/s}$", "$3.0 \\times 10^{10} \\text{ m/s}$"],
+      "answer": "$3.0 \\times 10^8 \\text{ m/s}$",
+      "explanation": "Radio waves are a type of electromagnetic wave. All electromagnetic waves (including light, X-rays, and Gamma rays) travel through a vacuum at the speed of light, $c = 3.0 \\times 10^8 \\text{ m/s}$."
+    },
+    {
+      "id": "JAMB_P_2017_23",
+      "text": "Which of the following is characteristic of nuclear fusion?",
+      "image": "[Image illustrating nuclear fusion of Deuterium and Tritium]",
+      "options": ["The splitting of a heavy nucleus", "Requires very high temperature and pressure", "The process is easily controllable", "Used in nuclear power plants for electricity"],
+      "answer": "Requires very high temperature and pressure",
+      "explanation": "Nuclear fusion (the combining of light nuclei) requires extremely high temperatures (millions of Kelvin) and pressures to overcome the electrostatic repulsion between the positively charged nuclei and force them together."
+    },
+    {
+      "id": "JAMB_P_2017_24",
+      "text": "The difference between an X-ray and a Gamma ray is in their:",
+      "image": "",
+      "options": ["Speed", "Wavelength", "Charge", "Source of origin"],
+      "answer": "Source of origin",
+      "explanation": "Both X-rays and Gamma rays are high-energy electromagnetic waves with similar wavelengths and the same speed ($c$). X-rays originate from the electron shells of atoms (e.g., electronic transitions or deceleration), while Gamma rays originate from the nucleus of an atom during radioactive decay."
+    },
+    {
+      "id": "JAMB_P_2017_25",
+      "text": "If the amplitude of a wave is doubled, its intensity is:",
+      "image": "[Image showing wave intensity being proportional to the square of amplitude]",
+      "options": ["Halved", "Doubled", "Quadrupled", "Unchanged"],
+      "answer": "Quadrupled",
+      "explanation": "The intensity ($I$) of a wave (sound, light, water waves) is proportional to the square of its amplitude ($A$): $I \\propto A^2$. If $A$ is doubled ($2A$), $I$ becomes $(2A)^2 = 4A^2$, meaning the intensity is quadrupled."
+    },
+    {
+      "id": "JAMB_P_2017_26",
+      "text": "A metal block of mass $2 \\text{ kg}$ is pulled across a horizontal surface by a force of $10 \\text{ N}$. If the coefficient of kinetic friction between the surfaces is $0.2$, calculate the acceleration of the block. (Take $g = 10 \\text{ m/s}^2$)",
+      "image": "[Image of a block being pulled by a force F, showing friction force f and normal force N]",
+      "options": ["$3.0 \\text{ m/s}^2$", "$4.0 \\text{ m/s}^2$", "$5.0 \\text{ m/s}^2$", "$6.0 \\text{ m/s}^2$"],
+      "answer": "$4.0 \\text{ m/s}^2$",
+      "explanation": "Applied Force ($F_A$) $= 10 \\text{ N}$. Friction Force ($F_f$) $= \\mu_k N = \\mu_k m g$. $F_f = 0.2 \\times 2 \\text{ kg} \\times 10 \\text{ m/s}^2 = 4 \\text{ N}$. Net Force ($F_{net}$) $= F_A - F_f = 10 \\text{ N} - 4 \\text{ N} = 6 \\text{ N}$. Acceleration ($a$) $= F_{net}/m = 6 \\text{ N} / 2 \\text{ kg} = 3.0 \\text{ m/s}^2$."
+    },
+    {
+      "id": "JAMB_P_2017_27",
+      "text": "When a spring is compressed by $0.02 \\text{ m}$, a force of $5 \\text{ N}$ is required. What is the force required to compress it by $0.05 \\text{ m}$?",
+      "image": "[Image illustrating Hooke's Law (Force vs. Extension graph)]",
+      "options": ["$10.0 \\text{ N}$", "$12.5 \\text{ N}$", "$25.0 \\text{ N}$", "$50.0 \\text{ N}$"],
+      "answer": "$12.5 \\text{ N}$",
+      "explanation": "According to Hooke's Law, $F = kx$. First find the force constant ($k$): $k = F/x = 5 \\text{ N} / 0.02 \\text{ m} = 250 \\text{ N/m}$. Then find the new force ($F'$): $F' = kx' = 250 \\text{ N/m} \\times 0.05 \\text{ m} = 12.5 \\text{ N}$."
+    },
+    {
+      "id": "JAMB_P_2017_28",
+      "text": "The linear expansivity of a solid is $2.0 \\times 10^{-5} \\text{ K}^{-1}$. Calculate its volume expansivity.",
+      "image": "",
+      "options": ["$2.0 \\times 10^{-5} \\text{ K}^{-1}$", "$4.0 \\times 10^{-5} \\text{ K}^{-1}$", "$6.0 \\times 10^{-5} \\text{ K}^{-1}$", "$8.0 \\times 10^{-5} \\text{ K}^{-1}$"],
+      "answer": "$6.0 \\times 10^{-5} \\text{ K}^{-1}$",
+      "explanation": "The relationship between linear expansivity ($\\alpha$) and volume expansivity ($\\gamma$) is $\\gamma = 3\\alpha$. $\\gamma = 3 \\times (2.0 \\times 10^{-5} \\text{ K}^{-1}) = 6.0 \\times 10^{-5} \\text{ K}^{-1}$."
+    },
+    {
+      "id": "JAMB_P_2017_29",
+      "text": "If the temperature of a gas is doubled at constant volume, the pressure will be:",
+      "image": "[Image illustrating the Pressure Law (Gay-Lussac's Law)]",
+      "options": ["Halved", "Doubled", "Quadrupled", "Unchanged"],
+      "answer": "Doubled",
+      "explanation": "According to the Pressure Law ($P \\propto T$ at constant volume), if the absolute temperature ($T$) of a fixed mass of gas is doubled, the pressure ($P$) will also be doubled."
+    },
+    {
+      "id": "JAMB_P_2017_30",
+      "text": "A galvanometer can be converted to an ammeter by connecting a:",
+      "image": "[Image illustrating a galvanometer converted to an ammeter using a shunt resistor]",
+      "options": ["High resistance in series", "Low resistance in series", "High resistance in parallel", "Low resistance in parallel (shunt)"],
+      "answer": "Low resistance in parallel (shunt)",
+      "explanation": "An ammeter must have a very low resistance and must be connected in series. To convert a high-resistance galvanometer to a low-resistance ammeter, a small resistance, called a shunt, is connected in parallel with the galvanometer coil to bypass most of the current."
+    },
+    {
+      "id": "JAMB_P_2017_31",
+      "text": "The force experienced by a unit North pole placed at a point in a magnetic field is called:",
+      "image": "",
+      "options": ["Magnetic flux", "Magnetic flux density", "Magnetic field strength", "Magnetic moment"],
+      "answer": "Magnetic field strength",
+      "explanation": "Magnetic field strength ($H$) or Magnetic intensity is defined as the force experienced by a unit North pole (unit pole) placed at that point. It is measured in Newtons per Weber or Ampere-turns per meter."
+    },
+    {
+      "id": "JAMB_P_2017_32",
+      "text": "Capacitors are used in electrical circuits to:",
+      "image": "",
+      "options": ["Increase resistance", "Store electric charge", "Step up voltage", "Measure current"],
+      "answer": "Store electric charge",
+      "explanation": "The primary function of a capacitor is to store electrical energy in the form of an electric field between its plates (store electric charge)."
+    },
+    {
+      "id": "JAMB_P_2017_33",
+      "text": "If the relative density of a substance is $0.8$, its density in $kg/m^3$ is: (Density of water $= 1000 \\text{ kg/m}^3$)",
+      "image": "",
+      "options": ["$80 \\text{ kg/m}^3$", "$800 \\text{ kg/m}^3$", "$1000 \\text{ kg/m}^3$", "$8000 \\text{ kg/m}^3$"],
+      "answer": "$800 \\text{ kg/m}^3$",
+      "explanation": "Relative density ($RD$) = $\\frac{\\text{Density of substance}}{\\text{Density of water}}$. Density of substance = $RD \\times \\text{Density of water} = 0.8 \\times 1000 \\text{ kg/m}^3 = 800 \\text{ kg/m}^3$."
+    },
+    {
+      "id": "JAMB_P_2017_34",
+      "text": "The principle of moments states that for a body in equilibrium, the sum of the clockwise moments about a point is equal to the sum of the:",
+      "image": "[Image illustrating principle of moments on a seesaw (lever in equilibrium)]",
+      "options": ["Forces", "Anticlockwise forces", "Anticlockwise moments", "Velocities"],
+      "answer": "Anticlockwise moments",
+      "explanation": "The Principle of Moments is the condition for rotational equilibrium: $\\text{Sum of Clockwise Moments} = \\text{Sum of Anticlockwise Moments}$ about the same pivot point."
+    },
+    {
+      "id": "JAMB_P_2017_35",
+      "text": "Which of the following describes the nature of the image formed by a concave lens?",
+      "image": "[Image showing ray diagram for a concave lens forming a virtual, erect, diminished image]",
+      "options": ["Always real and inverted", "Always virtual, erect, and magnified", "Always virtual, erect, and diminished", "Real or virtual depending on object position"],
+      "answer": "Always virtual, erect, and diminished",
+      "explanation": "A concave (diverging) lens always produces a virtual, upright (erect), and smaller (diminished) image, regardless of the object's position."
+    },
+    {
+      "id": "JAMB_P_2017_36",
+      "text": "A projectile is fired at an angle $\\theta$ to the horizontal. The maximum range is achieved when $\\theta$ is:",
+      "image": "[Image showing projectile trajectories at different angles, highlighting the 45-degree trajectory]",
+      "options": ["$30^{\\circ}$", "$45^{\\circ}$", "$60^{\\circ}$", "$90^{\\circ}$"],
+      "answer": "$45^{\\circ}$",
+      "explanation": "The maximum horizontal range for a projectile launched with a fixed initial speed occurs when the angle of projection is $45^{\\circ}$. The range formula is $R = \\frac{u^2 \\sin(2\\theta)}{g}$, and $\\sin(2\\theta)$ is maximum (equal to 1) when $2\\theta = 90^{\\circ}$, so $\\theta = 45^{\\circ}$."
+    },
+    {
+      "id": "JAMB_P_2017_37",
+      "text": "The emission of electrons from a metal surface when illuminated by light of suitable frequency is called:",
+      "image": "",
+      "options": ["Thermionic emission", "Secondary emission", "Field emission", "Photoelectric emission"],
+      "answer": "Photoelectric emission",
+      "explanation": "Photoelectric emission is the process of emitting electrons (photoelectrons) from a metal surface when light (electromagnetic radiation) with a frequency greater than the threshold frequency is incident upon it."
+    },
+    {
+      "id": "JAMB_P_2017_38",
+      "text": "Which part of a cathode ray oscilloscope (CRO) controls the brightness of the spot on the screen?",
+      "image": "",
+      "options": ["X-plates", "Y-plates", "Anode", "Grid"],
+      "answer": "Grid",
+      "explanation": "The grid (or control grid) voltage determines the number of electrons reaching the screen, thereby controlling the intensity (brightness) of the spot or trace."
+    },
+    {
+      "id": "JAMB_P_2017_39",
+      "text": "The half-life of a radioactive element is $10 \\text{ years}$. What fraction of the original sample will remain after $40 \\text{ years}$?",
+      "image": "[Image illustrating radioactive decay and half-life]",
+      "options": ["$1/2$", "$1/4$", "$1/8$", "$1/16$"],
+      "answer": "$1/16$",
+      "explanation": "Number of half-lives ($n$) = $\\frac{\\text{Total time}}{\\text{Half-life}} = \\frac{40 \\text{ years}}{10 \\text{ years}} = 4$. The fraction remaining ($N/N_0$) is given by $N/N_0 = (1/2)^n$. $N/N_0 = (1/2)^4 = 1/16$."
+    },
+    {
+      "id": "JAMB_P_2017_40",
+      "text": "The process by which pure semi-conductors are modified to increase their conductivity is called:",
+      "image": "[Image illustrating doping of a semiconductor (e.g., Silicon with Boron or Phosphorus)]",
+      "options": ["Annealing", "Doping", "Rectification", "Modulation"],
+      "answer": "Doping",
+      "explanation": "Doping is the intentional introduction of impurities (dopants like Boron or Phosphorus) into an intrinsic (pure) semiconductor to change its electrical properties and increase its conductivity."
+    }
+  ]

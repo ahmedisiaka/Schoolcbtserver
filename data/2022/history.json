@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Treaty of Tordesillas}$ (1494) divided the newly discovered lands outside Europe between which two nations?",
+        "image": "",
+        "options": [
+            "England and France",
+            "Spain and Portugal",
+            "Spain and England",
+            "Portugal and France"
+        ],
+        "answer": "Spain and Portugal",
+        "explanation": "The treaty established a line of demarcation, allocating lands to the east to Portugal and lands to the west to Spain."
+    },
+    {
+        "id": "H02",
+        "text": "Which ancient civilization constructed the $\\textbf{Pyramids of Giza}$?",
+        "image": "",
+        "options": [
+            "The Babylonians",
+            "The Egyptians",
+            "The Persians",
+            "The Greeks"
+        ],
+        "answer": "The Egyptians",
+        "explanation": "Built during the Old Kingdom of Egypt, they served as tombs for pharaohs."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Glorious Revolution}$ of 1688 resulted in the deposition of which English monarch?",
+        "image": "",
+        "options": [
+            "Charles I",
+            "James II",
+            "Henry VIII",
+            "Mary I"
+        ],
+        "answer": "James II",
+        "explanation": "James II was overthrown by his daughter Mary II and her husband William III of Orange, establishing a constitutional monarchy."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the leader of the $\\textbf{Soviet Union}$ during the Cuban Missile Crisis?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Nikita Khrushchev",
+            "Mikhail Gorbachev"
+        ],
+        "answer": "Nikita Khrushchev",
+        "explanation": "Khrushchev led the Soviet Union during the height of the Cold War and the confrontation over missiles in Cuba."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Battle of Thermopylae}$ involved a small Greek force led by Sparta holding off a massive invasion by:",
+        "image": "",
+        "options": [
+            "The Roman Empire",
+            "The Persian Empire",
+            "The Carthaginian Empire",
+            "The Macedonian Empire"
+        ],
+        "answer": "The Persian Empire",
+        "explanation": "Led by King Leonidas I, 300 Spartans and their allies fought the Persian army of Xerxes I in 480 BCE."
+    },
+    {
+        "id": "H06",
+        "text": "Which document, signed in 1948, established fundamental human rights to be universally protected?",
+        "image": "",
+        "options": [
+            "The Geneva Conventions",
+            "The Universal Declaration of Human Rights",
+            "The Magna Carta",
+            "The Treaty of Versailles"
+        ],
+        "answer": "The Universal Declaration of Human Rights",
+        "explanation": "Adopted by the UN General Assembly, it was the first global expression of rights to which all human beings are inherently entitled."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Louisiana Purchase}$ of 1803 doubled the size of the United States. Which country sold this territory?",
+        "image": "",
+        "options": [
+            "Spain",
+            "Great Britain",
+            "France",
+            "Russia"
+        ],
+        "answer": "France",
+        "explanation": "The US acquired the territory from France, under Napoleon Bonaparte, for $15 million."
+    },
+    {
+        "id": "H08",
+        "text": "Who is credited with discovering $\\textbf{Penicillin}$ in 1928?",
+        "image": "",
+        "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Joseph Lister"
+        ],
+        "answer": "Alexander Fleming",
+        "explanation": "Fleming's discovery of the antibiotic substance marked a turning point in medicine."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Taiping Rebellion}$ was a massive civil war in which country during the 19th century?",
+        "image": "",
+        "options": [
+            "Japan",
+            "India",
+            "China",
+            "Korea"
+        ],
+        "answer": "China",
+        "explanation": "Fought between the Qing dynasty and the Taiping Heavenly Kingdom, it was one of the deadliest conflicts in history."
+    },
+    {
+        "id": "H10",
+        "text": "Which city was the capital of the $\\textbf{Eastern Roman Empire}$ (Byzantine Empire)?",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Constantinople",
+            "Alexandria"
+        ],
+        "answer": "Constantinople",
+        "explanation": "Named after Emperor Constantine, it remained the capital until its fall to the Ottomans in 1453."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Mayflower Compact}$ was signed by Pilgrims in 1620 to:",
+        "image": "",
+        "options": [
+            "Declare war on Native Americans",
+            "Establish a self-governing colony",
+            "Request aid from England",
+            "Map the New England coast"
+        ],
+        "answer": "Establish a self-governing colony",
+        "explanation": "It was the first agreement for self-government to be created and enforced in America."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "image": "",
+        "options": [
+            "Amelia Earhart",
+            "Bessie Coleman",
+            "Harriet Quimby",
+            "Jacqueline Cochran"
+        ],
+        "answer": "Amelia Earhart",
+        "explanation": "Earhart completed the flight in 1932, becoming a pioneer in aviation."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Battle of Gettysburg}$ is considered the turning point of which war?",
+        "image": "",
+        "options": [
+            "The Revolutionary War",
+            "The War of 1812",
+            "The American Civil War",
+            "The Mexican-American War"
+        ],
+        "answer": "The American Civil War",
+        "explanation": "Fought in 1863, it halted General Robert E. Lee's invasion of the North."
+    },
+    {
+        "id": "H14",
+        "text": "Which Renaissance artist painted the ceiling of the $\\textbf{Sistine Chapel}$?",
+        "image": "",
+        "options": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Michelangelo",
+            "Donatello"
+        ],
+        "answer": "Michelangelo",
+        "explanation": "He spent four years (1508–1512) painting the intricate scenes from Genesis."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Russian Revolution}$ of 1905 was triggered by which event?",
+        "image": "",
+        "options": [
+            "Bloody Sunday",
+            "The assassination of Rasputin",
+            "The October Manifesto",
+            "World War I"
+        ],
+        "answer": "Bloody Sunday",
+        "explanation": "Peaceful demonstrators were fired upon by Imperial Guard troops, sparking widespread unrest."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Hundred Years' War}$ was fought between which two kingdoms?",
+        "image": "",
+        "options": [
+            "England and Scotland",
+            "Spain and Portugal",
+            "England and France",
+            "France and Germany"
+        ],
+        "answer": "England and France",
+        "explanation": "A series of conflicts waged from 1337 to 1453 over the right to rule the Kingdom of France."
+    },
+    {
+        "id": "H17",
+        "text": "Which civilization developed the concept of $\\textbf{Zero}$ as a number?",
+        "image": "",
+        "options": [
+            "The Romans",
+            "The Greeks",
+            "The Gupta Empire (India)",
+            "The Egyptians"
+        ],
+        "answer": "The Gupta Empire (India)",
+        "explanation": "Indian mathematicians made significant strides, including the use of zero as a placeholder and a number."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Watergate Scandal}$ led to the resignation of which US President?",
+        "image": "",
+        "options": [
+            "Lyndon B. Johnson",
+            "Richard Nixon",
+            "Gerald Ford",
+            "Jimmy Carter"
+        ],
+        "answer": "Richard Nixon",
+        "explanation": "Nixon resigned in 1974 following the revelation of his administration's involvement in the break-in at the DNC headquarters."
+    },
+    {
+        "id": "H19",
+        "text": "Who was the primary leader of the $\\textbf{Civil Rights Movement}$ in the United States during the 1950s and 60s?",
+        "image": "",
+        "options": [
+            "Malcolm X",
+            "Martin Luther King Jr.",
+            "Rosa Parks",
+            "Thurgood Marshall"
+        ],
+        "answer": "Martin Luther King Jr.",
+        "explanation": "Dr. King advocated for civil rights through nonviolence and civil disobedience."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Black Death}$ originated in:",
+        "image": "",
+        "options": [
+            "Europe",
+            "Central Asia",
+            "North Africa",
+            "South America"
+        ],
+        "answer": "Central Asia",
+        "explanation": "It traveled along the Silk Road, reaching the Crimea by 1343 before spreading to Europe."
+    },
+    {
+        "id": "H21",
+        "text": "Which war ended with the $\\textbf{Armistice of November 11, 1918}$?",
+        "image": "",
+        "options": [
+            "The Boer War",
+            "World War I",
+            "The Russo-Japanese War",
+            "World War II"
+        ],
+        "answer": "World War I",
+        "explanation": "The armistice ended the fighting on land, sea, and air between the Allies and Germany."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Spanish Inquisition}$ was established to enforce:",
+        "image": "",
+        "options": [
+            "Religious tolerance",
+            "Catholic orthodoxy",
+            "Islamic law",
+            "Feudalism"
+        ],
+        "answer": "Catholic orthodoxy",
+        "explanation": "Established in 1478 by Ferdinand and Isabella, it aimed to maintain Catholic unity in their kingdoms."
+    },
+    {
+        "id": "H23",
+        "text": "Who was the first man to orbit the Earth?",
+        "image": "",
+        "options": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "answer": "Yuri Gagarin",
+        "explanation": "The Soviet cosmonaut completed an orbit of the Earth in his Vostok 1 spacecraft in 1961."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Age of Enlightenment}$ emphasized:",
+        "image": "",
+        "options": [
+            "Religious dogma",
+            "Reason and individualism",
+            "Absolute monarchy",
+            "Military conquest"
+        ],
+        "answer": "Reason and individualism",
+        "explanation": "This intellectual movement in 17th and 18th century Europe challenged traditional authority."
+    },
+    {
+        "id": "H25",
+        "text": "Which battle marked the final defeat of $\\textbf{Napoleon Bonaparte}$?",
+        "image": "",
+        "options": [
+            "Battle of Austerlitz",
+            "Battle of Leipzig",
+            "Battle of Trafalgar",
+            "Battle of Waterloo"
+        ],
+        "answer": "Battle of Waterloo",
+        "explanation": "Fought in 1815, it ended the Napoleonic Wars."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Panama Canal}$ officially opened in which year?",
+        "image": "",
+        "options": [
+            "1904",
+            "1914",
+            "1924",
+            "1934"
+        ],
+        "answer": "1914",
+        "explanation": "The canal connects the Atlantic and Pacific Oceans, greatly reducing travel time for ships."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the Queen of France executed during the $\\textbf{French Revolution}$?",
+        "image": "",
+        "options": [
+            "Mary, Queen of Scots",
+            "Marie Antoinette",
+            "Catherine the Great",
+            "Isabella of Spain"
+        ],
+        "answer": "Marie Antoinette",
+        "explanation": "She was convicted of treason and guillotined in October 1793."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Dust Bowl}$ was a severe environmental disaster in the 1930s affecting:",
+        "image": "",
+        "options": [
+            "The Amazon Rainforest",
+            "The Great Plains of the US",
+            "The Australian Outback",
+            "The Sahara Desert"
+        ],
+        "answer": "The Great Plains of the US",
+        "explanation": "Severe drought and poor farming practices led to massive dust storms that devastated agriculture."
+    },
+    {
+        "id": "H29",
+        "text": "Which civilization is known for the $\\textbf{Terracotta Army}$?",
+        "image": "",
+        "options": [
+            "Ancient China",
+            "Ancient Japan",
+            "The Mongols",
+            "The Khmer Empire"
+        ],
+        "answer": "Ancient China",
+        "explanation": "The army was buried with the first Emperor of China, Qin Shi Huang, to protect him in the afterlife."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Camp David Accords}$ (1978) were peace agreements between:",
+        "image": "",
+        "options": [
+            "US and USSR",
+            "Egypt and Israel",
+            "North and South Korea",
+            "India and Pakistan"
+        ],
+        "answer": "Egypt and Israel",
+        "explanation": "Brokered by US President Jimmy Carter, the accords led to a peace treaty between Egypt and Israel."
+    },
+    {
+        "id": "H31",
+        "text": "Who wrote $\\textbf{Common Sense}$, a pamphlet that advocated for American independence?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "Thomas Paine",
+            "John Adams"
+        ],
+        "answer": "Thomas Paine",
+        "explanation": "Published in 1776, it presented persuasive arguments for independence from British rule."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Vikings}$ were seafaring people originally from:",
+        "image": "",
+        "options": [
+            "Scandinavia",
+            "The British Isles",
+            "Normandy",
+            "Iceland"
+        ],
+        "answer": "Scandinavia",
+        "explanation": "Between the 8th and 11th centuries, they raided, traded, and settled in wide areas of Europe."
+    },
+    {
+        "id": "H33",
+        "text": "Which event in 1912 resulted in the loss of over 1,500 lives in the North Atlantic?",
+        "image": "",
+        "options": [
+            "The explosion of the USS Maine",
+            "The sinking of the Lusitania",
+            "The sinking of the Titanic",
+            "The Battle of Jutland"
+        ],
+        "answer": "The sinking of the Titanic",
+        "explanation": "The RMS Titanic hit an iceberg on its maiden voyage and sank."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Apartheid}$ system was legally enforced racial segregation in:",
+        "image": "",
+        "options": [
+            "The United States",
+            "South Africa",
+            "Australia",
+            "Brazil"
+        ],
+        "answer": "South Africa",
+        "explanation": "It was enforced by the National Party government from 1948 until the early 1990s."
+    },
+    {
+        "id": "H35",
+        "text": "Which ancient city was destroyed by the eruption of $\\textbf{Mount Vesuvius}$ in 79 AD?",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Pompeii",
+            "Carthage"
+        ],
+        "answer": "Pompeii",
+        "explanation": "The city was buried under volcanic ash, preserving it for centuries."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Manchurian Incident}$ (1931) served as a pretext for the Japanese invasion of:",
+        "image": "",
+        "options": [
+            "Korea",
+            "Northeast China",
+            "The Philippines",
+            "Vietnam"
+        ],
+        "answer": "Northeast China",
+        "explanation": "Japanese military personnel staged an explosion on a railway line to justify the invasion of Manchuria."
+    },
+    {
+        "id": "H37",
+        "text": "Who was the founder of $\\textbf{Islam}$?",
+        "image": "",
+        "options": [
+            "Moses",
+            "Jesus",
+            "Muhammad",
+            "Abraham"
+        ],
+        "answer": "Muhammad",
+        "explanation": "Muhammad was a prophet and religious leader who founded Islam in the 7th century."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Warsaw Pact}$ was a collective defense treaty among:",
+        "image": "",
+        "options": [
+            "Western European nations",
+            "The Soviet Union and its satellite states",
+            "North American countries",
+            "Asian nations"
+        ],
+        "answer": "The Soviet Union and its satellite states",
+        "explanation": "Created in 1955, it was the Soviet response to the integration of West Germany into NATO."
+    },
+    {
+        "id": "H39",
+        "text": "Which US state was formerly an independent republic before joining the Union?",
+        "image": "",
+        "options": [
+            "California",
+            "Florida",
+            "Texas",
+            "Alaska"
+        ],
+        "answer": "Texas",
+        "explanation": "The Republic of Texas existed as a sovereign state from 1836 to 1846."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Great Schism}$ of 1054 divided Christianity into:",
+        "image": "",
+        "options": [
+            "Catholicism and Protestantism",
+            "Roman Catholic and Eastern Orthodox",
+            "Sunni and Shia",
+            "Lutheran and Calvinist"
+        ],
+        "answer": "Roman Catholic and Eastern Orthodox",
+        "explanation": "The split was caused by theological and political differences between the East (Constantinople) and West (Rome)."
+    }
+]

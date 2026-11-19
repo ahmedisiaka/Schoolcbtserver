@@ -1,0 +1,523 @@
+[
+    {
+        "id": "JAMB_H_001",
+        "text": "Which of the following describes the $\\textbf{fundamental}$ $\\textbf{problem}$ of economics?",
+        "image": "",
+        "options": [
+            "How to maximize profit.",
+            "The unlimited nature of human wants versus the scarcity of resources.",
+            "The efficient distribution of goods and services.",
+            "Controlling inflation and unemployment."
+        ],
+        "answer": "The unlimited nature of human wants versus the scarcity of resources.",
+        "explanation": "Scarcity of resources relative to unlimited human wants is the fundamental economic problem from which all other economic concepts and questions arise."
+    },
+    {
+        "id": "JAMB_H_002",
+        "text": "A movement $\\textbf{along}$ the $\\textbf{demand}$ $\\textbf{curve}$ for a good is caused by a change in the:",
+        "image": "",
+        "options": [
+            "price of the good.",
+            "income of the consumer.",
+            "price of a substitute good.",
+            "taste of the consumer."
+        ],
+        "answer": "price of the good.",
+        "explanation": "A change in the price of the good itself causes a movement along the curve (a change in quantity demanded). Changes in non-price factors (income, taste, substitutes) cause the curve to shift. "
+    },
+    {
+        "id": "JAMB_H_003",
+        "text": "The major reason why the $\\textbf{average}$ $\\textbf{cost}$ $\\textbf{curve}$ is $\\textbf{U-shaped}$ is the influence of the:",
+        "image": "",
+        "options": [
+            "Law of Demand.",
+            "Law of Supply.",
+            "Law of Diminishing Returns.",
+            "Law of Comparative Advantage."
+        ],
+        "answer": "Law of Diminishing Returns.",
+        "explanation": "In the short run, the Average Cost (AC) curve is U-shaped because of the Law of Diminishing Returns. Initially, AC falls due to specialization (increasing returns), but eventually, AC rises as diminishing returns set in. "
+    },
+    {
+        "id": "JAMB_H_004",
+        "text": "The $\\textbf{supply}$ of $\\textbf{money}$ in an economy primarily consists of:",
+        "image": "",
+        "options": [
+            "gold and foreign reserves.",
+            "currency outside banks and demand deposits.",
+            "government bonds and treasury bills.",
+            "commercial bank loans and advances."
+        ],
+        "answer": "currency outside banks and demand deposits.",
+        "explanation": "The narrowest and most common definition of money supply ($\text{M}1$) is currency in circulation (outside the banking system) plus demand (current account) deposits."
+    },
+    {
+        "id": "JAMB_H_005",
+        "text": "A firm in $\\textbf{perfect}$ $\\textbf{competition}$ is a $\\textbf{price}$ $\\textbf{taker}$ because:",
+        "image": "",
+        "options": [
+            "it sells differentiated products.",
+            "it has low marginal cost.",
+            "it produces a large share of the total output.",
+            "it is too small to influence the market price."
+        ],
+        "answer": "it is too small to influence the market price.",
+        "explanation": "There are many small firms in perfect competition, each producing an identical product. No single firm is large enough to affect the overall market price."
+    },
+    {
+        "id": "JAMB_H_006",
+        "text": "The $\\textbf{major}$ $\\textbf{aim}$ of $\\textbf{economic}$ $\\textbf{development}$ is to achieve:",
+        "image": "",
+        "options": [
+            "higher GDP growth rate.",
+            "improved quality of life and human welfare.",
+            "political stability.",
+            "a zero rate of unemployment."
+        ],
+        "answer": "improved quality of life and human welfare.",
+        "explanation": "While GDP growth is part of economic development, the ultimate goal is the holistic improvement of living standards, including education, health, and reduced poverty (human welfare)."
+    },
+    {
+        "id": "JAMB_H_007",
+        "text": "The $\\textbf{most}$ $\\textbf{liquid}$ $\\textbf{asset}$ held by a commercial bank is:",
+        "image": "",
+        "options": [
+            "loans and advances.",
+            "cash and reserves with the Central Bank.",
+            "fixed assets.",
+            "investments in long-term government bonds."
+        ],
+        "answer": "cash and reserves with the Central Bank.",
+        "explanation": "These reserves are immediately available to meet withdrawal demands, making them the most liquid component of the bank's assets."
+    },
+    {
+        "id": "JAMB_H_008",
+        "text": "If a country has a $\\textbf{high}$ $\\textbf{Marginal}$ $\\textbf{Propensity}$ $\\textbf{to}$ $\\textbf{Import}$ (MPI), its $\\textbf{multiplier}$ $\\textbf{value}$ will be:",
+        "image": "",
+        "options": [
+            "high.",
+            "zero.",
+            "low.",
+            "undefined."
+        ],
+        "answer": "low.",
+        "explanation": "Imports are a leakage from the circular flow of income. A high MPI means a larger fraction of any extra income is spent on imports, weakening the multiplier effect, leading to a lower multiplier value."
+    },
+    {
+        "id": "JAMB_H_009",
+        "text": "The $\\textbf{major}$ $\\textbf{function}$ of the $\\textbf{World}$ $\\textbf{Bank}$ is to:",
+        "image": "",
+        "options": [
+            "promote global trade and settle trade disputes.",
+            "maintain international financial stability and manage exchange rates.",
+            "provide long-term loans for development projects.",
+            "provide short-term loans to governments facing a balance of payments crisis."
+        ],
+        "answer": "provide long-term loans for development projects.",
+        "explanation": "The World Bank (IBRD and IDA) focuses on long-term capital investment and development projects in developing countries."
+    },
+    {
+        "id": "JAMB_H_010",
+        "text": "If the $\\textbf{price}$ of a good $\\textbf{doubles}$ and the $\\textbf{quantity}$ $\\textbf{demanded}$ $\\textbf{halves}$, the price elasticity of demand is:",
+        "image": "",
+        "options": [
+            "zero (perfectly inelastic).",
+            "greater than one (elastic).",
+            "less than one (inelastic).",
+            "equal to one (unitary elastic)."
+        ],
+        "answer": "equal to one (unitary elastic).",
+        "explanation": "The percentage change in price (100% increase) is equal to the percentage change in quantity demanded (100% decrease), so $E_d = 1$. $\\text{Elasticity} = (\\%\\Delta Q_d) / (\\%\\Delta P)$."
+    },
+    {
+        "id": "JAMB_H_011",
+        "text": "Which of the following is $\\textbf{not}$ a method of $\\textbf{measuring}$ $\\textbf{National}$ $\\textbf{Income}$?",
+        "image": "",
+        "options": [
+            "Income Method.",
+            "Expenditure Method.",
+            "Inventory Method.",
+            "Output/Product Method."
+        ],
+        "answer": "Inventory Method.",
+        "explanation": "The three standard methods for measuring National Income are the Income, Expenditure, and Output (or Product) methods. The Inventory Method is not a recognized measure."
+    },
+    {
+        "id": "JAMB_H_012",
+        "text": "The $\\textbf{major}$ $\\textbf{problem}$ associated with the $\\textbf{reliance}$ on $\\textbf{agricultural}$ $\\textbf{exports}$ by developing countries is:",
+        "image": "",
+        "options": [
+            "the high cost of farm inputs.",
+            "limited market for agricultural produce.",
+            "unfavorable and fluctuating terms of trade.",
+            "low yield per hectare."
+        ],
+        "answer": "unfavorable and fluctuating terms of trade.",
+        "explanation": "The prices of primary commodities (agricultural exports) tend to be volatile and generally decline over time relative to the prices of manufactured imports, leading to unstable and unfavorable terms of trade."
+    },
+    {
+        "id": "JAMB_H_013",
+        "text": "The $\\textbf{short-run}$ $\\textbf{equilibrium}$ for a $\\textbf{monopolist}$ occurs where:",
+        "image": "",
+        "options": [
+            "Price equals Average Total Cost ($P = ATC$).",
+            "Marginal Revenue equals Marginal Cost ($MR = MC$).",
+            "Price equals Marginal Cost ($P = MC$).",
+            "Total Revenue is maximized."
+        ],
+        "answer": "Marginal Revenue equals Marginal Cost ($MR = MC$).",
+        "explanation": "All profit-maximizing firms, including monopolists, produce at the output level where the additional revenue from the last unit sold equals the additional cost of producing it."
+    },
+    {
+        "id": "JAMB_H_014",
+        "text": "A situation where resources are shifted from the private sector to the public sector to finance government projects is called:",
+        "image": "",
+        "options": [
+            "deflation.",
+            "disinflation.",
+            "crowding-out.",
+            "privatization."
+        ],
+        "answer": "crowding-out.",
+        "explanation": "Crowding out typically occurs when increased government borrowing (to finance a deficit) raises interest rates, thereby discouraging (or crowding out) private investment and consumption."
+    },
+    {
+        "id": "JAMB_H_015",
+        "text": "The $\\textbf{primary}$ $\\textbf{function}$ of $\\textbf{money}$ is its role as a:",
+        "image": "",
+        "options": [
+            "store of value.",
+            "medium of exchange.",
+            "standard of deferred payment.",
+            "unit of account."
+        ],
+        "answer": "medium of exchange.",
+        "explanation": "The most important function is the medium of exchange, as it eliminates the need for the double coincidence of wants inherent in a barter system."
+    },
+    {
+        "id": "JAMB_H_016",
+        "text": "When the government decides to $\\textbf{reduce}$ the $\\textbf{money}$ $\\textbf{supply}$ to $\\textbf{combat}$ $\\textbf{inflation}$, it is employing:",
+        "image": "",
+        "options": [
+            "Expansionary Fiscal Policy.",
+            "Contractionary Fiscal Policy.",
+            "Expansionary Monetary Policy.",
+            "Contractionary Monetary Policy."
+        ],
+        "answer": "Contractionary Monetary Policy.",
+        "explanation": "Contractionary (or restrictive) monetary policy aims to decrease the money supply and raise interest rates, thereby slowing down aggregate demand and reducing inflationary pressure."
+    },
+    {
+        "id": "JAMB_H_017",
+        "text": "Which factor of production is $\\textbf{mobile}$ $\\textbf{in}$ $\\textbf{both}$ $\\textbf{space}$ $\\textbf{and}$ $\\textbf{occupation}$?",
+        "image": "",
+        "options": [
+            "Land.",
+            "Labour.",
+            "Capital.",
+            "Entrepreneurship."
+        ],
+        "answer": "Labour.",
+        "explanation": "Labour can move geographically (space) and can move between different types of jobs (occupation). Capital and Land are less mobile in at least one dimension."
+    },
+    {
+        "id": "JAMB_H_018",
+        "text": "If the $\\textbf{cross-elasticity}$ $\\textbf{of}$ $\\textbf{demand}$ for Good X with respect to the price of Good Y is $\\textbf{negative}$, then X and Y are:",
+        "image": "",
+        "options": [
+            "substitutes.",
+            "independent goods.",
+            "normal goods.",
+            "complementary goods."
+        ],
+        "answer": "complementary goods.",
+        "explanation": "A negative cross-elasticity means an increase in the price of Y leads to a decrease in the demand for X (they are consumed together, e.g., cars and fuel)."
+    },
+    {
+        "id": "JAMB_H_019",
+        "text": "The $\\textbf{difference}$ between $\\textbf{Total}$ $\\textbf{Revenue}$ and $\\textbf{Total}$ $\\textbf{Explicit}$ $\\textbf{Cost}$ is known as:",
+        "image": "",
+        "options": [
+            "Economic Profit.",
+            "Normal Profit.",
+            "Accounting Profit.",
+            "Economic Rent."
+        ],
+        "answer": "Accounting Profit.",
+        "explanation": "Accounting profit only considers explicit, measurable costs. Economic profit deducts both explicit and implicit (opportunity) costs from total revenue."
+    },
+    {
+        "id": "JAMB_H_020",
+        "text": "The major $\\textbf{objective}$ of $\\textbf{privatization}$ of public enterprises is to:",
+        "image": "",
+        "options": [
+            "increase government control.",
+            "reduce foreign investment.",
+            "increase efficiency and productivity.",
+            "increase government debt."
+        ],
+        "answer": "increase efficiency and productivity.",
+        "explanation": "It is argued that transferring ownership to the private sector subjects the enterprises to market competition, thereby increasing their efficiency and productivity."
+    },
+    {
+        "id": "JAMB_H_021",
+        "text": "The term $\\textbf{disguised}$ $\\textbf{unemployment}$ is most often associated with the $\\textbf{economic}$ $\\textbf{sector}$ of:",
+        "image": "",
+        "options": [
+            "Manufacturing.",
+            "Banking.",
+            "Agriculture.",
+            "Petroleum."
+        ],
+        "answer": "Agriculture.",
+        "explanation": "Disguised unemployment occurs when many people are working in an area (typically farming) but the marginal productivity of some of the workers is zero or near zero. Removing them does not affect output."
+    },
+    {
+        "id": "JAMB_H_022",
+        "text": "In a $\\textbf{Free}$ $\\textbf{Market}$ $\\textbf{Economy}$, the problem of $\\textbf{For}$ $\\textbf{Whom}$ $\\textbf{to}$ $\\textbf{Produce}$ is solved by the:",
+        "image": "",
+        "options": [
+            "government.",
+            "distribution of income and wealth.",
+            "producer's discretion.",
+            "trade unions."
+        ],
+        "answer": "distribution of income and wealth.",
+        "explanation": "In a free market, goods go to those who can afford and are willing to pay for them, which is dictated by the existing distribution of income."
+    },
+    {
+        "id": "JAMB_H_023",
+        "text": "A rise in the $\\textbf{price}$ of a commodity, with no change in quantity supplied, results in $\\textbf{supply}$ that is:",
+        "image": "",
+        "options": [
+            "perfectly elastic.",
+            "unitary elastic.",
+            "perfectly inelastic.",
+            "relatively elastic."
+        ],
+        "answer": "perfectly inelastic.",
+        "explanation": "If the quantity supplied does not change at all, regardless of the price change, the supply elasticity is zero, which is perfectly inelastic. The supply curve is vertical."
+    },
+    {
+        "id": "JAMB_H_024",
+        "text": "The $\\textbf{major}$ $\\textbf{difference}$ between $\\textbf{inflation}$ and $\\textbf{deflation}$ is:",
+        "image": "",
+        "options": [
+            "inflation is bad, and deflation is good.",
+            "inflation is a rise in general prices; deflation is a fall in general prices.",
+            "inflation occurs in developed countries, deflation in developing countries.",
+            "inflation is caused by demand; deflation by supply."
+        ],
+        "answer": "inflation is a rise in general prices; deflation is a fall in general prices.",
+        "explanation": "Inflation is a persistent rise in the general price level, whereas deflation is a persistent fall in the general price level."
+    },
+    {
+        "id": "JAMB_H_025",
+        "text": "Which of the following is an example of an $\\textbf{indirect}$ $\\textbf{tax}$?",
+        "image": "",
+        "options": [
+            "Personal Income Tax.",
+            "Company Income Tax.",
+            "Value Added Tax (VAT).",
+            "Capital Gains Tax."
+        ],
+        "answer": "Value Added Tax (VAT).",
+        "explanation": "Indirect taxes are levied on goods and services, not directly on income, and are often shifted to the final consumer (VAT, sales tax, excise duties)."
+    },
+    {
+        "id": "JAMB_H_026",
+        "text": "If Country A is currently producing at a point $\\textbf{inside}$ its $\\textbf{PPC}$, it means the country is facing:",
+        "image": "",
+        "options": [
+            "economic growth.",
+            "full employment.",
+            "inefficiency and unemployment.",
+            "a decline in technology."
+        ],
+        "answer": "inefficiency and unemployment.",
+        "explanation": "A point inside the PPC indicates that the country is not using all its resources efficiently or fully. "
+    },
+    {
+        "id": "JAMB_H_027",
+        "text": "The major function of the $\\textbf{International}$ $\\textbf{Monetary}$ $\\textbf{Fund}$ (IMF) is to:",
+        "image": "",
+        "options": [
+            "provide long-term development loans.",
+            "ensure global financial stability and aid countries with $\\textbf{Balance}$ $\\textbf{of}$ $\\textbf{Payments}$ problems.",
+            "regulate international trade agreements.",
+            "promote military cooperation among nations."
+        ],
+        "answer": "ensure global financial stability and aid countries with $\\textbf{Balance}$ $\\textbf{of}$ $\\textbf{Payments}$ problems.",
+        "explanation": "The IMF provides short-term financial assistance to countries facing difficulties in meeting their international payment obligations."
+    },
+    {
+        "id": "JAMB_H_028",
+        "text": "The $\\textbf{Terms}$ $\\textbf{of}$ $\\textbf{Trade}$ is calculated as the ratio of:",
+        "image": "",
+        "options": [
+            "Total Exports to Total Imports.",
+            "Price Index of Exports to Price Index of Imports.",
+            "Value of Invisibles to Value of Visibles.",
+            "Capital Inflow to Capital Outflow."
+        ],
+        "answer": "Price Index of Exports to Price Index of Imports.",
+        "explanation": "Terms of Trade (TOT) = (Export Price Index / Import Price Index) $\\times$ 100. It measures the volume of imports an economy can receive per unit of exports."
+    },
+    {
+        "id": "JAMB_H_029",
+        "text": "The $\\textbf{population}$ $\\textbf{structure}$ of a country with a $\\textbf{high}$ $\\textbf{birth}$ $\\textbf{rate}$ and $\\textbf{high}$ $\\textbf{death}$ $\\textbf{rate}$ is likely to have a:",
+        "image": "",
+        "options": [
+            "narrow base and broad top.",
+            "broad base and narrow top.",
+            "uniform shape.",
+            "zero population growth rate."
+        ],
+        "answer": "broad base and narrow top.",
+        "explanation": "High birth rates result in a large proportion of young people (broad base), while high death rates mean fewer people survive to old age (narrow top), characteristic of many developing nations. "
+    },
+    {
+        "id": "JAMB_H_030",
+        "text": "The formula for the $\\textbf{Average}$ $\\textbf{Propensity}$ $\\textbf{to}$ $\\textbf{Save}$ (APS) is:",
+        "image": "",
+        "options": [
+            "$\\Delta S / \\Delta Y$",
+            "$C / Y$",
+            "$S / Y$",
+            "$1 - MPC$"
+        ],
+        "answer": "$S / Y$",
+        "explanation": "APS is the fraction of total income (Y) that is saved (S). $\\Delta S / \\Delta Y$ is the Marginal Propensity to Save (MPS)."
+    },
+    {
+        "id": "JAMB_H_031",
+        "text": "A situation where a firm's $\\textbf{price}$ is $\\textbf{equal}$ to its $\\textbf{Average}$ $\\textbf{Variable}$ $\\textbf{Cost}$ ($P = AVC$) marks the:",
+        "image": "",
+        "options": [
+            "break-even point.",
+            "shut-down point.",
+            "optimum output.",
+            "point of maximum profit."
+        ],
+        "answer": "shut-down point.",
+        "explanation": "If the price falls below AVC, the firm is not even covering its variable costs (e.g., labor, raw materials) and will minimize its losses by shutting down immediately."
+    },
+    {
+        "id": "JAMB_H_032",
+        "text": "Which of the following is a $\\textbf{leakage}$ from the $\\textbf{circular}$ $\\textbf{flow}$ $\\textbf{of}$ $\\textbf{income}$?",
+        "image": "",
+        "options": [
+            "Government Spending.",
+            "Exports.",
+            "Taxes.",
+            "Investment."
+        ],
+        "answer": "Taxes.",
+        "explanation": "Leakages (withdrawals) are income not passed on in the circular flow (Savings, Taxes, Imports). Injections are additions (Investment, Government Spending, Exports)."
+    },
+    {
+        "id": "JAMB_H_033",
+        "text": "The $\\textbf{concept}$ $\\textbf{of}$ $\\textbf{normal}$ $\\textbf{profit}$ is defined as the:",
+        "image": "",
+        "options": [
+            "profit needed to cover all explicit costs.",
+            "minimum profit required to keep the entrepreneur in business.",
+            "profit made by a monopolist.",
+            "excess of total revenue over total cost."
+        ],
+        "answer": "minimum profit required to keep the entrepreneur in business.",
+        "explanation": "Normal profit is the opportunity cost of the entrepreneur's time and capital; it is the minimum reward necessary to prevent the entrepreneur from switching to an alternative activity."
+    },
+    {
+        "id": "JAMB_H_034",
+        "text": "The $\\textbf{policy}$ $\\textbf{of}$ $\\textbf{devaluation}$ of a currency is an attempt to correct a persistent $\\textbf{deficit}$ in the:",
+        "image": "",
+        "options": [
+            "national budget.",
+            "balance of payments (BOP).",
+            "domestic money supply.",
+            "national debt."
+        ],
+        "answer": "balance of payments (BOP).",
+        "explanation": "Devaluation, a formal reduction in the value of a currency under a fixed exchange rate, makes exports cheaper and imports more expensive, improving the BOP deficit."
+    },
+    {
+        "id": "JAMB_H_035",
+        "text": "The $\\textbf{utility}$ a consumer derives from a commodity is the $\\textbf{same}$ as:",
+        "image": "",
+        "options": [
+            "the money spent on it.",
+            "its usefulness or satisfaction.",
+            "the cost of production.",
+            "its market price."
+        ]
+        ,
+        "answer": "its usefulness or satisfaction.",
+        "explanation": "Utility is the satisfaction or benefit derived by consuming a product; it is a subjective measure of usefulness."
+    },
+    {
+        "id": "JAMB_H_036",
+        "text": "In Nigeria, $\\textbf{monetary}$ $\\textbf{policy}$ is primarily formulated and executed by the:",
+        "image": "",
+        "options": [
+            "Federal Ministry of Finance.",
+            "Central Bank of Nigeria (CBN).",
+            "Nigerian Stock Exchange (NSE).",
+            "National Assembly."
+        ],
+        "answer": "Central Bank of Nigeria (CBN).",
+        "explanation": "The CBN is the apex monetary authority and is responsible for regulating the supply of money and credit to achieve economic stability."
+    },
+    {
+        "id": "JAMB_H_037",
+        "text": "If the $\\textbf{average}$ $\\textbf{fixed}$ $\\textbf{cost}$ of a firm is $\\$10$ and its $\\textbf{average}$ $\\textbf{variable}$ $\\textbf{cost}$ is $\\$20$, the $\\textbf{average}$ $\\textbf{total}$ $\\textbf{cost}$ is:",
+        "image": "",
+        "options": [
+            "$\\$10.",
+            "$\\$20.",
+            "$\\$30.",
+            "$\\$40."
+        ],
+        "answer": "$\\$30.",
+        "explanation": "Average Total Cost ($ATC$) is the sum of Average Fixed Cost ($AFC$) and Average Variable Cost ($AVC$): $ATC = AFC + AVC = \\$10 + \\$20 = \\$30$."
+    },
+    {
+        "id": "JAMB_H_038",
+        "text": "The $\\textbf{theory}$ of $\\textbf{Comparative}$ $\\textbf{Advantage}$ suggests that trade is mutually beneficial if countries specialize in goods with the $\\textbf{lowest}$:",
+        "image": "",
+        "options": [
+            "total cost.",
+            "labor cost.",
+            "opportunity cost.",
+            "transport cost."
+        ],
+        "answer": "opportunity cost.",
+        "explanation": "Comparative advantage is based on the ability to produce a good at a lower opportunity cost (the value of the next best thing given up) than another country."
+    },
+    {
+        "id": "JAMB_H_039",
+        "text": "Which of the following is a $\\textbf{measure}$ to $\\textbf{control}$ $\\textbf{high}$ $\\textbf{population}$ $\\textbf{growth}$ in developing countries?",
+        "image": "",
+        "options": [
+            "Reducing the compulsory school leaving age.",
+            "Encouraging polygamy.",
+            "Implementing family planning and birth control education.",
+            "Reducing access to healthcare."
+        ],
+        "answer": "Implementing family planning and birth control education.",
+        "explanation": "Family planning and education help couples make informed decisions about the number and spacing of children, thereby controlling the birth rate."
+    },
+    {
+        "id": "JAMB_H_040",
+        "text": "The $\\textbf{primary}$ $\\textbf{role}$ of the $\\textbf{entrepreneur}$ in the economy is to:",
+        "image": "",
+        "options": [
+            "provide capital for production.",
+            "bear risk and combine other factors of production.",
+            "provide labor.",
+            "determine the market price."
+        ],
+        "answer": "bear risk and combine other factors of production.",
+        "explanation": "The entrepreneur organizes the other three factors (land, labor, capital) and is the ultimate risk-taker who makes the crucial production decisions."
+    }
+]

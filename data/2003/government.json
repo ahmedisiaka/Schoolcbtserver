@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G761",
+        "text": "The 2003 invasion of Iraq was initiated based on a Congressional joint resolution (Authorization for Use of Military Force Against Iraq), but $\\textbf{not}$ a formal $\\textbf{Declaration of War}$, illustrating the expansive nature of the $\\textbf{President}$'s powers as $\\textbf{Commander-in-Chief}$.",
+        "image": "",
+        "options": [
+            "Executive Order",
+            "Joint Resolution",
+            "Treaty Ratification",
+            "Formal Declaration of War"
+        ],
+        "answer": "Formal Declaration of War",
+        "explanation": "Article I, Section 8 of the Constitution grants Congress the exclusive power to formally declare war, which has not been done since World War II."
+    },
+    {
+        "id": "G762",
+        "text": "In the lead-up to the war, the President extensively used the $\\textbf{Bully Pulpit}$—his visibility and access to the $\\textbf{Media}$—to shape $\\textbf{Public Opinion}$ and build support for military action.",
+        "image": "",
+        "options": [
+            "Executive Order",
+            "Line-Item Veto",
+            "Bully Pulpit",
+            "Pardon Power"
+        ],
+        "answer": "Bully Pulpit",
+        "explanation": "The Bully Pulpit is the term for the President's platform to advocate an agenda to the public."
+    },
+    {
+        "id": "G763",
+        "text": "Concerns over the invasion's compliance with the $\\textbf{War Powers Resolution}$ (1973) centered on the $\\textbf{President}$'s requirement to notify $\\textbf{Congress}$ within $\\textbf{48 hours}$ and withdraw forces after 60 days without $\\textbf{Congressional}$ approval.",
+        "image": "",
+        "options": [
+            "24 hours",
+            "48 hours",
+            "1 week",
+            "30 days"
+        ],
+        "answer": "48 hours",
+        "explanation": "The WPR mandates that the President inform Congress within 48 hours of deploying troops into hostile environments."
+    },
+    {
+        "id": "G764",
+        "text": "The debate over $\\textbf{intelligence}$ prior to the war highlighted the challenge of $\\textbf{Congressional Oversight}$ in monitoring the $\\textbf{Federal Bureaucracy}$'s actions, particularly within the $\\textbf{Intelligence}$ agencies.",
+        "image": "",
+        "options": [
+            "Judicial Review",
+            "Executive Privilege",
+            "Congressional Oversight",
+            "Cooperative Federalism"
+        ],
+        "answer": "Congressional Oversight",
+        "explanation": "Oversight is Congress's review and monitoring of the executive branch to ensure laws are implemented correctly and agencies are functioning efficiently."
+    },
+    {
+        "id": "G765",
+        "text": "The $\\textbf{Department of Homeland Security (DHS)}$ was fully established in 2003, consolidating 22 existing $\\textbf{Federal}$ agencies in a massive example of $\\textbf{Bureaucratic}$ restructuring.",
+        "image": "",
+        "options": [
+            "Independent Regulatory Agency",
+            "Executive Department",
+            "Government Corporation",
+            "Independent Executive Agency"
+        ],
+        "answer": "Executive Department",
+        "explanation": "DHS is a cabinet-level department, illustrating a large-scale consolidation of bureaucratic power under the Executive Branch."
+    },
+    {
+        "id": "G766",
+        "text": "The diplomatic efforts to gain United Nations support before the invasion focused on securing a binding resolution from the $\\textbf{Security Council}$, where the U.S. holds $\\textbf{Veto}$ power.",
+        "image": "",
+        "options": [
+            "General Assembly",
+            "Security Council",
+            "International Court of Justice",
+            "Economic and Social Council"
+        ],
+        "answer": "Security Council",
+        "explanation": "The Security Council is the UN body responsible for international peace and security and has the power to authorize military action."
+    },
+    {
+        "id": "G767",
+        "text": "The funding for the war required frequent $\\textbf{Supplemental Appropriations}$ bills passed by $\\textbf{Congress}$, demonstrating its $\\textbf{Power of the Purse}$ over the $\\textbf{President}$'s foreign policy actions.",
+        "image": "",
+        "options": [
+            "Power to Pardon",
+            "Power to Declare War",
+            "Power of the Purse",
+            "Power to Regulate Commerce"
+        ],
+        "answer": "Power of the Purse",
+        "explanation": "Congress's constitutional authority to tax and spend, giving it control over funding military operations."
+    },
+    {
+        "id": "G768",
+        "text": "Presidential approval ratings saw a significant spike following the initial invasion (the $\\textbf{Rally 'Round the Flag}$ effect), illustrating the public's tendency to support the $\\textbf{Commander-in-Chief}$ in times of international $\\textbf{crisis}$.",
+        "image": "",
+        "options": [
+            "Political Socialization",
+            "Gender Gap",
+            "Rally 'Round the Flag",
+            "Political Efficacy"
+        ],
+        "answer": "Rally 'Round the Flag",
+        "explanation": "This is a concept describing increased short-run popular support for the President during periods of international crisis or war."
+    },
+    {
+        "id": "G769",
+        "text": "Opponents of the war argued that the United States acted $\\textbf{Unilaterally}$ rather than relying on $\\textbf{Multilateralism}$ and international $\\textbf{Coalitions}$ for legitimacy.",
+        "image": "",
+        "options": [
+            "Unilaterally",
+            "Bipartisanly",
+            "In Isolationism",
+            "Through Isolationism"
+        ],
+        "answer": "Unilaterally",
+        "explanation": "Unilateral action means acting alone or without the support of the majority of the international community or major allies."
+    },
+    {
+        "id": "G770",
+        "text": "The $\\textbf{Framers}$ divided war powers between the $\\textbf{Executive}$ (Commander-in-Chief) and $\\textbf{Legislative}$ (Declare War, Fund Army) Branches to ensure $\\textbf{Checks and Balances}$ and prevent concentration of power.",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Judicial Review",
+            "Checks and Balances",
+            "Stare Decisis"
+        ],
+        "answer": "Checks and Balances",
+        "explanation": "Dividing the responsibility for waging war was a key method used by the Framers to limit the power of any single branch."
+    },
+    {
+        "id": "G771",
+        "text": "The establishment of $\\textbf{DHS}$ involved integrating many $\\textbf{Street-Level Bureaucrats}$ (e.g., airport security, border patrol) into a single, massive $\\textbf{Executive}$ department.",
+        "image": "",
+        "options": [
+            "Iron Triangle",
+            "Rule-Making",
+            "Street-Level Bureaucrats",
+            "Judicial Activism"
+        ],
+        "answer": "Street-Level Bureaucrats",
+        "explanation": "These are bureaucrats who are in constant contact with the public and have considerable administrative discretion."
+    },
+    {
+        "id": "G772",
+        "text": "Congress's ultimate check on the President's authority in the war involved its $\\textbf{Appropriation}$ power—the ability to refuse to $\\textbf{fund}$ the ongoing $\\textbf{military}$ operation.",
+        "image": "",
+        "options": [
+            "Ratification",
+            "Appropriation",
+            "Oversight",
+            "Treaty-making"
+        ],
+        "answer": "Appropriation",
+        "explanation": "The power of appropriation (funding) is Congress's most powerful tool for influencing executive policy."
+    },
+    {
+        "id": "G773",
+        "text": "The President's address to the nation announcing the start of the war is an example of the use of $\\textbf{Informal}$ power to influence the $\\textbf{Legislative}$ and $\\textbf{Judicial}$ branches.",
+        "image": "",
+        "options": [
+            "Formal Power",
+            "Inherent Power",
+            "Informal Power",
+            "Delegated Power"
+        ],
+        "answer": "Informal Power",
+        "explanation": "Informal powers are derived from the President's public position and political influence, such as the ability to persuade the public and Congress."
+    },
+    {
+        "id": "G774",
+        "text": "The claim of $\\textbf{Executive Privilege}$ was sometimes used by the administration to withhold documents and communication regarding the $\\textbf{intelligence}$ utilized to justify the $\\textbf{invasion}$.",
+        "image": "",
+        "options": [
+            "Habeas Corpus",
+            "Writ of Certiorari",
+            "Executive Privilege",
+            "Stare Decisis"
+        ],
+        "answer": "Executive Privilege",
+        "explanation": "The claim that the President has the right to withhold information from Congress or the courts to protect the confidentiality of executive branch communications."
+    },
+    {
+        "id": "G775",
+        "text": "The shift of focus toward $\\textbf{Homeland Security}$ led to a substantial increase in $\\textbf{Discretionary Spending}$ on security-related $\\textbf{Programs}$ within the federal budget.",
+        "image": "",
+        "options": [
+            "Mandatory Spending",
+            "Discretionary Spending",
+            "Entitlement Programs",
+            "Foreign Aid"
+        ],
+        "answer": "Discretionary Spending",
+        "explanation": "Discretionary spending is the portion of the budget that Congress controls through annual appropriation bills, including defense and homeland security."
+    },
+    {
+        "id": "G776",
+        "text": "The $\\textbf{Media}$'s role as a $\\textbf{Watchdog}$ became critical in 2003 by scrutinizing the $\\textbf{accuracy}$ of the intelligence and the $\\textbf{justification}$ for the war.",
+        "image": "",
+        "options": [
+            "Gatekeeper",
+            "Scorekeeper",
+            "Watchdog",
+            "Propagandist"
+        ],
+        "answer": "Watchdog",
+        "explanation": "The watchdog role involves keeping a close eye on the government and exposing corruption or mistakes."
+    },
+    {
+        "id": "G777",
+        "text": "The process of nation-building and governance in post-invasion Iraq placed a massive strain on the $\\textbf{Federal Bureaucracy}$'s capacity for $\\textbf{Implementation}$ of foreign policy.",
+        "image": "",
+        "options": [
+            "Adjudication",
+            "Rule-Making",
+            "Implementation",
+            "Veto Override"
+        ],
+        "answer": "Implementation",
+        "explanation": "Implementation is the process of putting a decision or law into effect by the bureaucracy."
+    },
+    {
+        "id": "G778",
+        "text": "The $\\textbf{Judicial Branch}$ was initially slow to interfere with the $\\textbf{Executive}$'s war powers, often adhering to the $\\textbf{Political Question Doctrine}$, which advises courts to avoid resolving disputes best left to the $\\textbf{Legislative}$ or $\\textbf{Executive}$ branches.",
+        "image": "",
+        "options": [
+            "Political Question Doctrine",
+            "Judicial Activism",
+            "Stare Decisis",
+            "Judicial Restraint"
+        ],
+        "answer": "Political Question Doctrine",
+        "explanation": "The Political Question Doctrine suggests that some issues are better resolved by the elected branches of government, allowing the judiciary to defer on matters of war."
+    },
+    {
+        "id": "G779",
+        "text": "The decision to go to war, supported by a significant percentage of the public, reflects the power of $\\textbf{Political Parties}$ to influence voter attitudes through $\\textbf{Partisan Polarization}$ on $\\textbf{foreign}$ policy.",
+        "image": "",
+        "options": [
+            "Mass Mobilization",
+            "Partisan Polarization",
+            "Ticket Splitting",
+            "Voter Efficacy"
+        ],
+        "answer": "Partisan Polarization",
+        "explanation": "Polarization refers to the increasingly stark division between the two major parties, influencing how the public views policy."
+    },
+    {
+        "id": "G780",
+        "text": "The $\\textbf{Tenth Amendment}$ was $\\textbf{not}$ applicable to the decision to invade Iraq because $\\textbf{Foreign Policy}$ and $\\textbf{War}$ are $\\textbf{Exclusive Powers}$ of the $\\textbf{Federal}$ government.",
+        "image": "",
+        "options": [
+            "Concurrent Powers",
+            "Implied Powers",
+            "Exclusive Powers",
+            "Reserved Powers"
+        ],
+        "answer": "Exclusive Powers",
+        "explanation": "The power to conduct foreign affairs and wage war is explicitly delegated to the national government, excluding state involvement."
+    },
+    {
+        "id": "G781",
+        "text": "The $\\textbf{Media}$'s decision to focus heavily on the war effectively acted as a $\\textbf{Gatekeeper}$ by determining which $\\textbf{International}$ events received the most $\\textbf{Public}$ attention.",
+        "image": "",
+        "options": [
+            "Watchdog",
+            "Gatekeeper",
+            "Scorekeeper",
+            "Propagandist"
+        ],
+        "answer": "Gatekeeper",
+        "explanation": "The gatekeeper role involves controlling what topics become subjects of public discourse and what information is shared."
+    },
+    {
+        "id": "G782",
+        "text": "The creation of $\\textbf{DHS}$ was intended to improve $\\textbf{Inter-Agency}$ coordination, thereby reducing $\\textbf{Bureaucratic Fragmentation}$ that was identified as a failure point prior to $\\textbf{9/11}$.",
+        "image": "",
+        "options": [
+            "Devolution",
+            "Deregulation",
+            "Bureaucratic Fragmentation",
+            "Judicial Activism"
+        ],
+        "answer": "Bureaucratic Fragmentation",
+        "explanation": "Fragmentation occurs when government agencies are separated, leading to poor communication and coordination—a key reason DHS was created."
+    },
+    {
+        "id": "G783",
+        "text": "The President's decision to enter a conflict based on the threat of Weapons of Mass Destruction (WMDs) is an example of using the $\\textbf{Inherent Powers}$ of the $\\textbf{Executive}$ branch.",
+        "image": "",
+        "options": [
+            "Enumerated Powers",
+            "Inherent Powers",
+            "Implied Powers",
+            "Reserved Powers"
+        ],
+        "answer": "Inherent Powers",
+        "explanation": "Inherent powers are those delegated to the national government, especially the President, that are not specifically spelled out in the Constitution but are necessary for the job, particularly in foreign affairs."
+    },
+    {
+        "id": "G784",
+        "text": "The absence of $\\textbf{WMDs}$ became a focus of $\\textbf{Congressional Hearings}$, illustrating the $\\textbf{Legislative}$ branch's ongoing $\\textbf{Oversight}$ function after the fact.",
+        "image": "",
+        "options": [
+            "Veto Override",
+            "Appropriations",
+            "Congressional Hearings",
+            "Judicial Review"
+        ],
+        "answer": "Congressional Hearings",
+        "explanation": "Hearings are a primary mechanism for Congress to investigate and scrutinize the executive branch."
+    },
+    {
+        "id": "G785",
+        "text": "The invasion led to the $\\textbf{Detention}$ of thousands of $\\textbf{Enemy Combatants}$, sparking legal challenges regarding the applicability of the $\\textbf{Geneva Conventions}$ and $\\textbf{Constitutional}$ rights.",
+        "image": "",
+        "options": [
+            "Executive Order 9066",
+            "Habeas Corpus",
+            "Executive Clemency",
+            "Judicial Activism"
+        ],
+        "answer": "Habeas Corpus",
+        "explanation": "Habeas corpus is the legal principle requiring that a detained person be brought before a court to determine if their detention is lawful, a right challenged by the detentions."
+    },
+    {
+        "id": "G786",
+        "text": "The $\\textbf{Media}$'s increased reliance on $\\textbf{Embedded}$ journalists during the initial invasion provided the public with an up-close perspective but also raised concerns about a lack of $\\textbf{Objectivity}$ and $\\textbf{critical}$ reporting.",
+        "image": "",
+        "options": [
+            "Muckraking",
+            "Punditry",
+            "Embedded",
+            "Leaked"
+        ],
+        "answer": "Embedded",
+        "explanation": "Embedded journalists travel with and report on military units, which can lead to favorable coverage and limited scope of reporting."
+    },
+    {
+        "id": "G787",
+        "text": "The President's use of a $\\textbf{Signing Statement}$ when enacting the joint resolution on the use of force was a way to interpret the $\\textbf{Law}$ and assert his view of the $\\textbf{Executive}$'s constitutional $\\textbf{prerogatives}$.",
+        "image": "",
+        "options": [
+            "Veto Message",
+            "Executive Order",
+            "Signing Statement",
+            "Executive Agreement"
+        ],
+        "answer": "Signing Statement",
+        "explanation": "A signing statement is a written pronouncement issued by the President when signing a bill into law, often used to offer the executive's interpretation."
+    },
+    {
+        "id": "G788",
+        "text": "The $\\textbf{Judicial}$ concept of $\\textbf{Standing}$—the requirement that a party must have suffered an actual injury—was a barrier for initial legal challenges to the $\\textbf{War}$ by $\\textbf{private citizens}$.",
+        "image": "",
+        "options": [
+            "Stare Decisis",
+            "Judicial Review",
+            "Standing",
+            "Amicus Curiae"
+        ],
+        "answer": "Standing",
+        "explanation": "A party must demonstrate that they have suffered or will imminently suffer an injury to bring a case to court."
+    },
+    {
+        "id": "G789",
+        "text": "The lack of robust United Nations support prior to the invasion exemplified a reliance on $\\textbf{Realism}$ in foreign policy, prioritizing $\\textbf{National Interest}$ and $\\textbf{Power}$ over $\\textbf{International Norms}$.",
+        "image": "",
+        "options": [
+            "Idealism",
+            "Realism",
+            "Containment",
+            "Détente"
+        ],
+        "answer": "Realism",
+        "explanation": "Realism is a theory of international relations that emphasizes the pursuit of national interests and power over moral considerations or international cooperation."
+    },
+    {
+        "id": "G790",
+        "text": "The debate over the war's justification became a major $\\textbf{Cleavage}$ in the American electorate, influencing $\\textbf{Voter}$ turnout and $\\textbf{Party}$ identification in the following $\\textbf{election}$.",
+        "image": "",
+        "options": [
+            "Socialization",
+            "Cleavage",
+            "Efficacy",
+            "Lobbying"
+        ],
+        "answer": "Cleavage",
+        "explanation": "A cleavage is a deep and long-lasting division of society that impacts the political system, often based on ideology, religion, or region."
+    },
+    {
+        "id": "G791",
+        "text": "The increased power given to the $\\textbf{Executive}$ Branch during this crisis raised concerns about the balance of $\\textbf{War Powers}$ and the potential for an $\\textbf{Imperial Presidency}$.",
+        "image": "",
+        "options": [
+            "Imperial Congress",
+            "Imperial Presidency",
+            "Activist Judiciary",
+            "Devolution"
+        ],
+        "answer": "Imperial Presidency",
+        "explanation": "A term used to describe a presidency that has seized too much power, particularly in foreign policy and war."
+    },
+    {
+        "id": "G792",
+        "text": "The $\\textbf{Patriot Act}$'s expansion of $\\textbf{Surveillance}$ powers (passed in 2001, heavily debated and implemented in 2003) raised significant $\\textbf{Constitutional}$ issues under the $\\textbf{Fourth Amendment}$.",
+        "image": "",
+        "options": [
+            "Fifth Amendment",
+            "Sixth Amendment",
+            "Fourth Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "Fourth Amendment",
+        "explanation": "The Fourth Amendment protects against unreasonable searches and seizures, the core concern regarding expanded surveillance."
+    },
+    {
+        "id": "G793",
+        "text": "The $\\textbf{Military-Industrial Complex}$ was heavily involved in the planning and execution of the invasion, illustrating the enduring influence of $\\textbf{Interest Groups}$ on $\\textbf{Defense}$ policy.",
+        "image": "",
+        "options": [
+            "Iron Triangle",
+            "Military-Industrial Complex",
+            "Issue Network",
+            "Federalism"
+        ],
+        "answer": "Military-Industrial Complex",
+        "explanation": "The close relationship between government agencies (military), defense contractors (industry), and politicians (Congress)."
+    },
+    {
+        "id": "G794",
+        "text": "The President's address to Congress to secure the resolution for force is an example of the President acting as $\\textbf{Chief Legislator}$, attempting to guide $\\textbf{Congressional}$ action.",
+        "image": "",
+        "options": [
+            "Chief Diplomat",
+            "Chief Executive",
+            "Chief of State",
+            "Chief Legislator"
+        ],
+        "answer": "Chief Legislator",
+        "explanation": "In this role, the President attempts to influence the legislative agenda of Congress."
+    },
+    {
+        "id": "G795",
+        "text": "The $\\textbf{Judiciary}$'s $\\textbf{Restraint}$ in early 2003 contrasts with its later $\\textbf{Activism}$ in 2004 (e.g., Hamdi v. Rumsfeld), where it asserted $\\textbf{Civil Liberties}$ protections.",
+        "image": "",
+        "options": [
+            "Judicial Review",
+            "Judicial Activism",
+            "Judicial Restraint",
+            "Stare Decisis"
+        ],
+        "answer": "Judicial Restraint",
+        "explanation": "Judicial restraint encourages judges to limit the exercise of their own power and to defer to the elected branches when possible."
+    },
+    {
+        "id": "G796",
+        "text": "The rapid initial military success in 2003 was used by the administration to reinforce the $\\textbf{Effectiveness}$ and $\\textbf{Efficiency}$ of the $\\textbf{Executive}$ branch's $\\textbf{decision-making}$ process.",
+        "image": "",
+        "options": [
+            "Judicial Precedent",
+            "Executive Efficiency",
+            "Congressional Gridlock",
+            "Federal Mandate"
+        ],
+        "answer": "Executive Efficiency",
+        "explanation": "The Executive Branch, unlike Congress, is designed for swift, unified action, a necessary trait in military operations."
+    },
+    {
+        "id": "G797",
+        "text": "The debate over the war's cost and national debt relates to $\\textbf{Fiscal Policy}$, which is primarily controlled by $\\textbf{Congress}$ and the $\\textbf{President}$ through $\\textbf{Taxing}$ and $\\textbf{Spending}$.",
+        "image": "",
+        "options": [
+            "Monetary Policy",
+            "Fiscal Policy",
+            "Regulatory Policy",
+            "Trade Policy"
+        ],
+        "answer": "Fiscal Policy",
+        "explanation": "Fiscal policy involves the government's use of spending and taxation to influence the economy."
+    },
+    {
+        "id": "G798",
+        "text": "The $\\textbf{Federal Bureaucracy}$’s role in $\\textbf{Post-Conflict Stabilization}$ and $\\textbf{Reconstruction}$ in Iraq involved massive $\\textbf{Cooperation}$ between the $\\textbf{Departments}$ of Defense and State.",
+        "image": "",
+        "options": [
+            "Inter-Agency Cooperation",
+            "Interstate Commerce",
+            "Iron Triangle Formation",
+            "Devolution"
+        ],
+        "answer": "Inter-Agency Cooperation",
+        "explanation": "Large-scale foreign policy implementation requires significant coordination across multiple government departments."
+    },
+    {
+        "id": "G799",
+        "text": "The administration's communication strategy around the war was an example of $\\textbf{Agenda Setting}$, successfully forcing the $\\textbf{Media}$ and $\\textbf{Public}$ to focus on $\\textbf{Threats}$ and $\\textbf{Security}$ issues.",
+        "image": "",
+        "options": [
+            "Issue Framing",
+            "Agenda Setting",
+            "Political Socialization",
+            "Policy Evaluation"
+        ],
+        "answer": "Agenda Setting",
+        "explanation": "Agenda setting is the process of influencing the issues the public and policymakers consider important."
+    },
+    {
+        "id": "G800",
+        "text": "The lack of UN authorization prior to the invasion challenged the principle of $\\textbf{International Law}$, potentially undermining $\\textbf{America}$'s position as a $\\textbf{Global}$ leader relying on $\\textbf{treaties}$ and $\\textbf{norms}$.",
+        "image": "",
+        "options": [
+            "Treaty Ratification",
+            "International Law",
+            "Executive Agreement",
+            "Judicial Precedent"
+        ],
+        "answer": "International Law",
+        "explanation": "International law comprises treaties, conventions, and established customs that govern the relations between sovereign states."
+    }
+]

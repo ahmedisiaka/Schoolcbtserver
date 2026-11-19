@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G01",
+        "text": "The principle of $\\textbf{popular sovereignty}$ is best reflected in which constitutional mechanism?",
+        "image": "",
+        "options": [
+            "The amendment process",
+            "Judicial review",
+            "The election of representatives",
+            "The separation of powers"
+        ],
+        "answer": "The election of representatives",
+        "explanation": "Popular sovereignty is the principle that the authority of a state and its government is created and sustained by the consent of its people, through their elected representatives."
+    },
+    {
+        "id": "G02",
+        "text": "Which clause of the U.S. Constitution has been used most often to expand the power of the national government relative to the states?",
+        "image": "",
+        "options": [
+            "The Necessary and Proper Clause",
+            "The Full Faith and Credit Clause",
+            "The Supremacy Clause",
+            "The Privileges and Immunities Clause"
+        ],
+        "answer": "The Necessary and Proper Clause",
+        "explanation": "Also known as the Elastic Clause, it grants Congress the power to pass all laws necessary and proper for carrying out its enumerated powers, dramatically expanding federal authority."
+    },
+    {
+        "id": "G03",
+        "text": "The concept of $\\textbf{devolution}$ in U.S. politics refers to:",
+        "image": "",
+        "options": [
+            "The transfer of powers from the federal government to state governments",
+            "The Supreme Court's power to strike down federal laws",
+            "The decline in voter participation over time",
+            "The process of ratifying a Constitutional amendment"
+        ],
+        "answer": "The transfer of powers from the federal government to state governments",
+        "explanation": "Devolution is the statutory delegation of powers from the central government of a sovereign state to govern at a sub-national level, often state or local governments."
+    },
+    {
+        "id": "G04",
+        "text": "The $\\textbf{Establishment Clause}$ of the First Amendment primarily deals with:",
+        "image": "",
+        "options": [
+            "The right to practice any religion",
+            "The government prohibiting the free exercise of religion",
+            "The government endorsing or supporting a national religion",
+            "The separation of church and state in public schools only"
+        ],
+        "answer": "The government endorsing or supporting a national religion",
+        "explanation": "The Establishment Clause states that Congress shall make no law respecting an establishment of religion, meaning the government cannot create or officially support a church or religion."
+    },
+    {
+        "id": "G05",
+        "text": "Which amendment protects an individual's right to confront witnesses, compel favorable witnesses to testify, and be represented by counsel?",
+        "image": "",
+        "options": [
+            "Fourth Amendment",
+            "Fifth Amendment",
+            "Sixth Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "Sixth Amendment",
+        "explanation": "The Sixth Amendment guarantees the rights necessary to a fair trial, including the right to a speedy and public trial, and the right to counsel (established by *Gideon v. Wainwright*)."
+    },
+    {
+        "id": "G06",
+        "text": "The primary purpose of the $\\textbf{Electoral College}$ is to:",
+        "image": "",
+        "options": [
+            "Select the Vice President",
+            "Formalize the election of the President and Vice President",
+            "Apportion representation in the House of Representatives",
+            "Elect U.S. Senators"
+        ],
+        "answer": "Formalize the election of the President and Vice President",
+        "explanation": "The Electoral College is a body of electors established by the U.S. Constitution, which forms every four years for the sole purpose of electing the President and Vice President."
+    },
+    {
+        "id": "G07",
+        "text": "How is the number of electors each state receives in the Electoral College determined?",
+        "image": "",
+        "options": [
+            "Based solely on the state's population",
+            "Based on the number of votes cast in the previous election",
+            "Equal to the sum of the state's Senators and Representatives in Congress",
+            "Set at a fixed number of ten for all states"
+        ],
+        "answer": "Equal to the sum of the state's Senators and Representatives in Congress",
+        "explanation": "A state's electoral votes equal its total number of members in the U.S. House of Representatives (based on population) plus its two Senators."
+    },
+    {
+        "id": "G08",
+        "text": "The term $\\textbf{filibuster}$ is most commonly associated with which chamber of the U.S. Congress?",
+        "image": "",
+        "options": [
+            "The House of Representatives",
+            "The Senate",
+            "The Executive Branch",
+            "The Supreme Court"
+        ],
+        "answer": "The Senate",
+        "explanation": "A filibuster is an action (such as prolonged speechmaking) that obstructs progress in a legislative assembly while not technically contravening the required procedures. It is only possible in the Senate."
+    },
+    {
+        "id": "G09",
+        "text": "The primary role of a $\\textbf{conference committee}$ in Congress is to:",
+        "image": "",
+        "options": [
+            "Hold hearings on controversial topics",
+            "Reconcile differences between House and Senate versions of a bill",
+            "Appoint committee chairpersons",
+            "Review nominations made by the President"
+        ],
+        "answer": "Reconcile differences between House and Senate versions of a bill",
+        "explanation": "Conference committees are temporary, joint committees formed to iron out the differences in a bill passed by both chambers of Congress before it is sent to the President."
+    },
+    {
+        "id": "G10",
+        "text": "Which of the following powers is explicitly granted to the President in Article II of the Constitution?",
+        "image": "",
+        "options": [
+            "Declaring war",
+            "The power to veto legislation",
+            "Creating cabinet departments",
+            "Setting the federal budget"
+        ],
+        "answer": "The power to veto legislation",
+        "explanation": "The veto power (the power to reject a bill passed by Congress) is an explicit check and balance established in Article I, Section 7, which deals with how a bill becomes law."
+    },
+    {
+        "id": "G11",
+        "text": "An $\\textbf{executive order}$ is best described as:",
+        "image": "",
+        "options": [
+            "A formal agreement negotiated with a foreign nation, requiring Senate approval",
+            "A law passed by Congress that deals with foreign policy",
+            "A rule or regulation issued by the President that has the effect and status of law",
+            "A formal charge of misconduct against the President"
+        ],
+        "answer": "A rule or regulation issued by the President that has the effect and status of law",
+        "explanation": "Executive orders are legally binding orders given by the President, acting as the head of the Executive Branch, to federal agencies."
+    },
+    {
+        "id": "G12",
+        "text": "The $\\textbf{War Powers Resolution}$ (1973) sought to limit the power of the President in which area?",
+        "image": "",
+        "options": [
+            "Negotiating treaties with foreign nations",
+            "Deploying U.S. armed forces abroad",
+            "Appointing ambassadors",
+            "Vetoing bills related to national security"
+        ],
+        "answer": "Deploying U.S. armed forces abroad",
+        "explanation": "The Resolution requires the President to notify Congress within 48 hours of deploying troops and limits troop commitment to 60 days without Congressional authorization."
+    },
+    {
+        "id": "G13",
+        "text": "The Supreme Court case of $\\textbf{Marbury v. Madison}$ (1803) established the principle of:",
+        "image": "",
+        "options": [
+            "Separate but equal",
+            "Judicial review",
+            "Federal supremacy",
+            "The exclusionary rule"
+        ],
+        "answer": "Judicial review",
+        "explanation": "Judicial review is the power of the courts to determine whether acts of Congress and the executive branch are consistent with the Constitution."
+    },
+    {
+        "id": "G14",
+        "text": "The Supreme Court case of $\\textbf{Gideon v. Wainwright}$ (1963) affirmed the right to:",
+        "image": "",
+        "options": [
+            "Remain silent during police questioning",
+            "An attorney in felony cases, even if one cannot afford one",
+            "Freedom of speech in schools",
+            "Freedom from unreasonable searches and seizures"
+        ],
+        "answer": "An attorney in felony cases, even if one cannot afford one",
+        "explanation": "This case incorporated the Sixth Amendment's guarantee of counsel to the states via the Due Process Clause of the Fourteenth Amendment."
+    },
+    {
+        "id": "G15",
+        "text": "The majority of cases heard by the Supreme Court reach the Court through a request for a(n):",
+        "image": "",
+        "options": [
+            "Writ of Mandamus",
+            "Amicus Curiae brief",
+            "Writ of Habeas Corpus",
+            "Writ of Certiorari"
+        ],
+        "answer": "Writ of Certiorari",
+        "explanation": "A 'cert' is a formal request from an appellant to have the Supreme Court review a case decided by a lower court."
+    },
+    {
+        "id": "G16",
+        "text": "The $\\textbf{bureaucracy}$ is often referred to as the 'fourth branch' of government because:",
+        "image": "",
+        "options": [
+            "It is established in the Constitution's Article IV",
+            "Its heads are elected directly by the public",
+            "It implements and enforces laws, giving it substantial policy-making power",
+            "It has the power to impeach the President"
+        ],
+        "answer": "It implements and enforces laws, giving it substantial policy-making power",
+        "explanation": "Bureaucracies execute the laws and policies decided by Congress and the President. Their rule-making and administrative discretion gives them considerable, often unelected, power."
+    },
+    {
+        "id": "G17",
+        "text": "The process by which the Supreme Court has applied the Bill of Rights to the states is known as:",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Incorporation doctrine",
+            "Checks and balances",
+            "Judicial activism"
+        ],
+        "answer": "Incorporation doctrine",
+        "explanation": "The incorporation doctrine uses the Due Process Clause of the $\\textbf{Fourteenth Amendment}$ to apply most of the Bill of Rights to the states."
+    },
+    {
+        "id": "G18",
+        "text": "The primary goal of $\\textbf{lobbying}$ is to:",
+        "image": "",
+        "options": [
+            "Raise money for presidential campaigns",
+            "Influence government policy making decisions",
+            "Encourage citizens to vote in elections",
+            "File *amicus curiae* briefs with the Supreme Court"
+        ],
+        "answer": "Influence government policy making decisions",
+        "explanation": "Lobbying is the act of attempting to influence decisions made by officials in the government, most often legislators or members of regulatory agencies."
+    },
+    {
+        "id": "G19",
+        "text": "Which characteristic best distinguishes an $\\textbf{interest group}$ from a political party?",
+        "image": "",
+        "options": [
+            "Interest groups have a larger membership base",
+            "Interest groups seek to influence policy, not to win elections",
+            "Political parties are exempt from federal regulation",
+            "Interest groups must register with the Federal Election Commission (FEC)"
+        ],
+        "answer": "Interest groups seek to influence policy, not to win elections",
+        "explanation": "Political parties nominate candidates and seek to control government. Interest groups focus on specific policy areas and try to influence those who are already in power."
+    },
+    {
+        "id": "G20",
+        "text": "The $\\textbf{Iron Triangle}$ refers to the relationship between:",
+        "image": "",
+        "options": [
+            "The President, Congress, and the Supreme Court",
+            "A Congressional committee, a bureaucratic agency, and an interest group",
+            "The House, the Senate, and the White House staff",
+            "State, local, and federal governments"
+        ],
+        "answer": "A Congressional committee, a bureaucratic agency, and an interest group",
+        "explanation": "This forms a powerful three-way relationship (often seen in specific policy areas) where these groups work together to create favorable policy."
+    },
+    {
+        "id": "G21",
+        "text": "Which method of political participation has the lowest threshold (requires the least effort or time commitment)?",
+        "image": "",
+        "options": [
+            "Running for local office",
+            "Donating money to a political campaign",
+            "Writing a letter to a Senator",
+            "Voting in a presidential election"
+        ],
+        "answer": "Voting in a presidential election",
+        "explanation": "Voting is generally considered the most common and lowest-effort form of political participation for the general population."
+    },
+    {
+        "id": "G22",
+        "text": "The $\\textbf{Equal Protection Clause}$ is found in which amendment?",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Thirteenth Amendment",
+            "Fourteenth Amendment",
+            "Nineteenth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Fourteenth Amendment guarantees that states cannot deny any person within its jurisdiction the equal protection of the laws."
+    },
+    {
+        "id": "G23",
+        "text": "A $\\textbf{reserved power}$ is a power held by:",
+        "image": "",
+        "options": [
+            "The federal government alone",
+            "The state governments alone",
+            "Both federal and state governments concurrently",
+            "The judicial branch only"
+        ],
+        "answer": "The state governments alone",
+        "explanation": "The Tenth Amendment reserves powers not specifically granted to the federal government, nor withheld from the states, to the state governments or the people."
+    },
+    {
+        "id": "G24",
+        "text": "The primary function of the $\\textbf{Whip}$ in both the House and the Senate is to:",
+        "image": "",
+        "options": [
+            "Preside over the chamber in the absence of the Speaker or Vice President",
+            "Negotiate treaties with foreign nations",
+            "Ensure party members vote in accordance with the party leadership's wishes",
+            "Chair the powerful Ways and Means Committee"
+        ],
+        "answer": "Ensure party members vote in accordance with the party leadership's wishes",
+        "explanation": "Whips are responsible for counting votes and communicating the party's position on legislation to rank-and-file members."
+    },
+    {
+        "id": "G25",
+        "text": "Which type of Congressional committee is $\\textbf{permanent}$ and deals with broad areas of legislation (e.g., Appropriations, Judiciary)?",
+        "image": "",
+        "options": [
+            "Select committee",
+            "Conference committee",
+            "Standing committee",
+            "Joint committee"
+        ],
+        "answer": "Standing committee",
+        "explanation": "Standing committees are the permanent legislative panels established by the House and Senate rules that consider and report on bills in specific subject areas."
+    },
+    {
+        "id": "G26",
+        "text": "The primary goal of $\\textbf{gerrymandering}$ is to:",
+        "image": "",
+        "options": [
+            "Ensure proportional representation for all political parties",
+            "Draw electoral districts to maximize the influence of a particular party or group",
+            "Determine the number of Congressional seats for each state",
+            "Hold public hearings on proposed legislation"
+        ],
+        "answer": "Draw electoral districts to maximize the influence of a particular party or group",
+        "explanation": "Gerrymandering is the practice of manipulating district boundaries to create an advantage for one political party or demographic group."
+    },
+    {
+        "id": "G27",
+        "text": "In a presidential election, a state that does not consistently vote for one party or the other and is critical to the outcome is known as a:",
+        "image": "",
+        "options": [
+            "Safe state",
+            "Swing state (or battleground state)",
+            "Closed primary state",
+            "Majority-minority district"
+        ],
+        "answer": "Swing state (or battleground state)",
+        "explanation": "Swing states are characterized by high political volatility and are the primary targets of campaign resources because their outcome is uncertain."
+    },
+    {
+        "id": "G28",
+        "text": "The $\\textbf{Miranda rule}$ states that suspects must be informed of their constitutional rights, stemming from which two amendments?",
+        "image": "",
+        "options": [
+            "First and Second Amendments",
+            "Fourth and Eighth Amendments",
+            "Fifth and Sixth Amendments",
+            "Ninth and Tenth Amendments"
+        ],
+        "answer": "Fifth and Sixth Amendments",
+        "explanation": "The Miranda warnings cover the right to silence (Fifth Amendment) and the right to counsel (Sixth Amendment)."
+    },
+    {
+        "id": "G29",
+        "text": "In a $\\textbf{federal system}$ of government, power is distributed:",
+        "image": "",
+        "options": [
+            "Only among the three branches of the national government",
+            "Between the national government and state governments",
+            "Only within the legislative branch (House and Senate)",
+            "Between the President and the Cabinet"
+        ],
+        "answer": "Between the national government and state governments",
+        "explanation": "Federalism is a system where power is constitutionally divided between a central national government and sub-national governmental units (like states or provinces)."
+    },
+    {
+        "id": "G30",
+        "text": "The $\\textbf{Due Process Clause}$ of the Fourteenth Amendment guarantees:",
+        "image": "",
+        "options": [
+            "The right to an attorney in all criminal cases",
+            "That states must respect all legal rights owed to a person",
+            "The separation of church and state",
+            "The right to vote for all citizens aged 18 and older"
+        ],
+        "answer": "That states must respect all legal rights owed to a person",
+        "explanation": "The clause mandates that the government cannot deprive any person of life, liberty, or property without due process of law. It has two facets: procedural and substantive."
+    },
+    {
+        "id": "G31",
+        "text": "What is the primary power of the $\\textbf{House Rules Committee}$?",
+        "image": "",
+        "options": [
+            "Overseeing all impeachment proceedings",
+            "Determining the debate rules and amendment process for bills in the House",
+            "Setting the federal budget for the fiscal year",
+            "Confirming presidential appointments"
+        ],
+        "answer": "Determining the debate rules and amendment process for bills in the House",
+        "explanation": "The Rules Committee is extremely powerful; it decides when a bill will be debated and under what conditions (e.g., open, closed, or restricted rule for amendments)."
+    },
+    {
+        "id": "G32",
+        "text": "A $\\textbf{pocket veto}$ is a special legislative power used by the President only when:",
+        "image": "",
+        "options": [
+            "The bill is related to national security",
+            "Congress is adjourned within ten days of sending the bill",
+            "The Supreme Court declares the bill unconstitutional",
+            "The House and Senate pass different versions of the bill"
+        ],
+        "answer": "Congress is adjourned within ten days of sending the bill",
+        "explanation": "If Congress adjourns during the ten-day period, the President can choose to take no action, which effectively kills the bill without a formal veto message."
+    },
+    {
+        "id": "G33",
+        "text": "The $\\textbf{Federal Reserve Board}$ (the Fed) is primarily responsible for:",
+        "image": "",
+        "options": [
+            "Managing international diplomacy and foreign aid",
+            "Setting the nation's monetary policy (e.g., interest rates and money supply)",
+            "Collecting federal income taxes",
+            "Approving the annual budget resolution"
+        ],
+        "answer": "Setting the nation's monetary policy (e.g., interest rates and money supply)",
+        "explanation": "The Fed is the central bank of the U.S. and uses tools like the federal funds rate and reserve requirements to control the money supply and credit conditions."
+    },
+    {
+        "id": "G34",
+        "text": "The constitutional requirement that the President must recommend to Congress 'such measures as he shall judge necessary and expedient' is generally fulfilled by the:",
+        "image": "",
+        "options": [
+            "Signing Statement",
+            "State of the Union Address",
+            "Issuance of an Executive Order",
+            "Confirmation hearing process"
+        ],
+        "answer": "State of the Union Address",
+        "explanation": "The State of the Union Address is the President's formal annual report to Congress, outlining the nation's condition and the legislative agenda for the coming year."
+    },
+    {
+        "id": "G35",
+        "text": "The $\\textbf{principle of stare decisis}$ is most closely associated with the:",
+        "image": "",
+        "options": [
+            "Executive Branch's use of precedents",
+            "Supreme Court's reliance on past judicial decisions (precedents)",
+            "Congressional tradition of seniority",
+            "Electoral College's winner-take-all tradition"
+        ],
+        "answer": "Supreme Court's reliance on past judicial decisions (precedents)",
+        "explanation": "Stare decisis ('to stand by things decided') is the doctrine that courts will adhere to legal precedent established in prior cases."
+    },
+    {
+        "id": "G36",
+        "text": "Which action represents a key check by the $\\textbf{Legislative Branch}$ on the $\\textbf{Judicial Branch}$?",
+        "image": "",
+        "options": [
+            "The ability to declare presidential actions unconstitutional",
+            "The power to appoint federal judges",
+            "The power to determine the size of the Supreme Court and establish lower federal courts",
+            "The power to veto a Supreme Court ruling"
+        ],
+        "answer": "The power to determine the size of the Supreme Court and establish lower federal courts",
+        "explanation": "Congress holds constitutional power to create the structure of the federal judiciary below the Supreme Court and to set the number of Justices."
+    },
+    {
+        "id": "G37",
+        "text": "The most significant consequence of the $\\textbf{Bipartisan Campaign Reform Act}$ (BCRA) of 2002 (McCain-Feingold) was the regulation of:",
+        "image": "",
+        "options": [
+            "The use of attack ads in media",
+            "The total amount of money a candidate could spend",
+            "Soft money donations to political parties",
+            "The use of presidential debates"
+        ],
+        "answer": "Soft money donations to political parties",
+        "explanation": "BCRA banned unlimited contributions to political parties (soft money) for use in federal election activities."
+    },
+    {
+        "id": "G38",
+        "text": "The $\\textbf{Tenth Amendment}$ is instrumental in defining which relationship?",
+        "image": "",
+        "options": [
+            "President vs. Congress",
+            "Federal government vs. State governments",
+            "House vs. Senate",
+            "Interest groups vs. Political parties"
+        ],
+        "answer": "Federal government vs. State governments",
+        "explanation": "The Tenth Amendment reinforces the principle of federalism by reserving powers not delegated to the U.S. by the Constitution to the states or the people."
+    },
+    {
+        "id": "G39",
+        "text": "The $\\textbf{primary}$ election process is designed to:",
+        "image": "",
+        "options": [
+            "Elect the President directly",
+            "Determine which candidates will represent the political parties in the general election",
+            "Confirm the validity of the Electoral College votes",
+            "Decide the structure of Congressional committees"
+        ],
+        "answer": "Determine which candidates will represent the political parties in the general election",
+        "explanation": "Primaries and caucuses are used by political parties to select nominees who will compete against other parties' nominees in the general election."
+    },
+    {
+        "id": "G40",
+        "text": "The constitutional safeguard that ensures no person may be imprisoned or held indefinitely without being formally charged with a crime is called a $\\textbf{writ of:}$",
+        "image": "",
+        "options": [
+            "Attainder",
+            "Habeas Corpus",
+            "Certiorari",
+            "Mandamus"
+        ],
+        "answer": "Habeas Corpus",
+        "explanation": "The privilege of the writ of Habeas Corpus ('You shall have the body') protects against illegal imprisonment and is explicitly mentioned in Article I, Section 9 of the Constitution."
+    }
+]

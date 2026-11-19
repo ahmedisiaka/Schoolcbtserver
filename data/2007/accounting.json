@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC161",
+        "text": "The $\\textbf{Modified Accelerated Cost Recovery System}$ ($\\,\\textbf{MACRS}$) depreciation method is classified as an $\\textbf{Accelerated}$ method because it recognizes more $\\textbf{Expense}$ earlier in the asset's $\\textbf{Life}$.",
+        "image": "",
+        "options": [
+            "Straight-Line",
+            "Units-of-Production",
+            "Accelerated",
+            "Amortization"
+        ],
+        "answer": "Accelerated",
+        "explanation": "Accelerated depreciation methods are favored for tax purposes as they reduce taxable income sooner."
+    },
+    {
+        "id": "ACC162",
+        "text": "In the $\\textbf{Statement of Cash Flows}$, the payment of $\\textbf{Dividends}$ is classified as a $\\textbf{Financing Activity}$.",
+        "image": "",
+        "options": [
+            "Operating Activity",
+            "Investing Activity",
+            "Financing Activity",
+            "Non-Cash Activity"
+        ],
+        "answer": "Financing Activity",
+        "explanation": "Financing activities include cash flows with owners (dividends, stock issuance) and creditors (debt issuance, debt repayment)."
+    },
+    {
+        "id": "ACC163",
+        "text": "A $\\textbf{Trade Discount}$ offered to customers is $\\textbf{Not Recorded}$ in the accounting system; revenue is simply recorded at the $\\textbf{Net}$ amount.",
+        "image": "",
+        "options": [
+            "Recognized as an expense",
+            "Recorded as a reduction of revenue",
+            "Recorded as a contra-asset",
+            "Not Recorded"
+        ],
+        "answer": "Not Recorded",
+        "explanation": "Trade discounts determine the actual selling price, so only the net price is considered revenue."
+    },
+    {
+        "id": "ACC164",
+        "text": "The $\\textbf{Inventory}$ account is classified as a $\\textbf{Current Asset}$ because it is expected to be converted into cash within the $\\textbf{Next Year}$ or operating cycle.",
+        "image": "",
+        "options": [
+            "Fixed Asset",
+            "Intangible Asset",
+            "Current Asset",
+            "Non-Current Asset"
+        ],
+        "answer": "Current Asset",
+        "explanation": "Current assets are those expected to be consumed, sold, or converted into cash within one year."
+    },
+    {
+        "id": "ACC165",
+        "text": "The $\\textbf{Debt-to-Asset Ratio}$ measures the percentage of a company's total assets financed by $\\textbf{Creditors}$.",
+        "image": "",
+        "options": [
+            "Shareholders",
+            "Creditors",
+            "Management",
+            "Employees"
+        ],
+        "answer": "Creditors",
+        "explanation": "Calculated as $\\textbf{Total Liabilities} / \\textbf{Total Assets}$, it is a key solvency ratio."
+    },
+    {
+        "id": "ACC166",
+        "text": "The $\\textbf{Vertical Analysis}$ of the $\\textbf{Balance Sheet}$ expresses every line item as a percentage of $\\textbf{Total Assets}$.",
+        "image": "",
+        "options": [
+            "Net Sales",
+            "Net Income",
+            "Total Assets",
+            "Total Equity"
+        ],
+        "answer": "Total Assets",
+        "explanation": "This technique facilitates comparisons of financial structures between companies of different sizes."
+    },
+    {
+        "id": "ACC167",
+        "text": "The $\\textbf{Auditor's Report}$ expresses an opinion on the $\\textbf{Fairness}$ of the financial statements, not a $\\textbf{Guarantee}$ of their absolute accuracy.",
+        "image": "",
+        "options": [
+            "Guarantee",
+            "Absolute Accuracy",
+            "Fairness",
+            "Profitability"
+        ],
+        "answer": "Fairness",
+        "explanation": "The auditor provides reasonable assurance that the statements are free from material misstatement, not 100% certainty."
+    },
+    {
+        "id": "ACC168",
+        "text": "The $\\textbf{Completeness}$ assertion in auditing is primarily tested by tracing $\\textbf{Source Documents}$ to the $\\textbf{General Ledger}$.",
+        "image": "",
+        "options": [
+            "General Ledger to Source Documents",
+            "Source Documents to General Ledger",
+            "Inventory Count to Ledger",
+            "Bank Reconciliation"
+        ],
+        "answer": "Source Documents to General Ledger",
+        "explanation": "Tracing forward ensures that all transactions that occurred (source documents) were actually recorded (ledger)."
+    },
+    {
+        "id": "ACC169",
+        "text": "The $\\textbf{Indirect Method}$ of cash flow reporting highlights the differences between net income and cash flow from operations due to $\\textbf{Accruals}$ and $\\textbf{Deferrals}$.",
+        "image": "",
+        "options": [
+            "Financing",
+            "Investing",
+            "Accruals",
+            "Taxes"
+        ],
+        "answer": "Accruals",
+        "explanation": "Accruals (non-cash revenues/expenses) are the primary reason Net Income differs from Operating Cash Flow."
+    },
+    {
+        "id": "ACC170",
+        "text": "The $\\textbf{Payback Period}$ decision rule accepts a project if the recovery time is $\\textbf{Less}$ than the maximum $\\textbf{Required Payback}$ time set by management.",
+        "image": "",
+        "options": [
+            "Greater than",
+            "Equal to",
+            "Less",
+            "Unrelated to"
+        ],
+        "answer": "Less",
+        "explanation": "The payback method is a crude measure, but it is useful for projects where speed of cash recovery is a major concern (e.g., highly volatile markets)."
+    },
+    {
+        "id": "ACC171",
+        "text": "The $\\textbf{Profitability Index}$ ($\\,\\textbf{PI}$) is a ratio that measures the $\\textbf{Present Value}$ return generated per dollar of $\\textbf{Initial Investment}$.",
+        "image": "",
+        "options": [
+            "Future Value",
+            "Internal Rate of Return",
+            "Present Value",
+            "Accounting Profit"
+        ],
+        "answer": "Present Value",
+        "explanation": "PI is calculated as $\\textbf{PV of future cash flows} / \\textbf{Initial Investment}$. A PI $> 1.0$ is acceptable."
+    },
+    {
+        "id": "ACC172",
+        "text": "The $\\textbf{Capital Asset Pricing Model}$ ($\\,\\textbf{CAPM}$) determines the required rate of return for a project based on the $\\textbf{Risk-Free Rate}$, $\\textbf{Market Risk Premium}$, and $\\textbf{Beta}$.",
+        "image": "",
+        "options": [
+            "Fixed Rate",
+            "Risk-Free Rate",
+            "Inflation Rate",
+            "Discount Rate"
+        ],
+        "answer": "Risk-Free Rate",
+        "explanation": "CAPM is used to determine the cost of equity financing."
+    },
+    {
+        "id": "ACC173",
+        "text": "The $\\textbf{Materials Purchase Budget}$ is driven by the $\\textbf{Production Budget}$ and the desired ending inventory level of $\\textbf{Raw Materials}$.",
+        "image": "",
+        "options": [
+            "Sales Budget",
+            "Cash Budget",
+            "Production Budget",
+            "Selling Expense Budget"
+        ],
+        "answer": "Production Budget",
+        "explanation": "The amount of materials needed for production dictates the quantity of materials that must be purchased."
+    },
+    {
+        "id": "ACC174",
+        "text": "The $\\textbf{FIFO}$ method in $\\textbf{Process Costing}$ assumes that the $\\textbf{Beginning Inventory}$ is $\\textbf{Completed}$ before any new units are started.",
+        "image": "",
+        "options": [
+            "Beginning Inventory",
+            "New Units Started",
+            "Scrapped Units",
+            "Ending Inventory"
+        ],
+        "answer": "Beginning Inventory",
+        "explanation": "FIFO separates the cost and work performed on beginning work in process from the work performed in the current period."
+    },
+    {
+        "id": "ACC175",
+        "text": "In the $\\textbf{Balanced Scorecard}$, the $\\textbf{Customer}$ perspective focuses on performance measures such as market share and customer $\\textbf{Satisfaction}$.",
+        "image": "",
+        "options": [
+            "Financial",
+            "Internal Process",
+            "Customer",
+            "Learning and Growth"
+        ],
+        "answer": "Customer",
+        "explanation": "This perspective addresses how the company should appear to its customers to achieve its vision."
+    },
+    {
+        "id": "ACC176",
+        "text": "The $\\textbf{Diluted Earnings Per Share}$ ($\\,\\textbf{Diluted EPS}$) calculation is based on the assumption that all $\\textbf{Potentially Dilutive Securities}$ are $\\textbf{Converted}$.",
+        "image": "",
+        "options": [
+            "Cash Equivalents",
+            "Non-Convertible Debt",
+            "Potentially Dilutive Securities",
+            "Treasury Stock"
+        ],
+        "answer": "Potentially Dilutive Securities",
+        "explanation": "This includes stock options, warrants, and convertible bonds/preferred stock."
+    },
+    {
+        "id": "ACC177",
+        "text": "The $\\textbf{Effective Interest Method}$ of bond amortization results in a $\\textbf{Constant}$ effective $\\textbf{Interest Rate}$ over the life of the bond.",
+        "image": "",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Variable"
+        ],
+        "answer": "Constant",
+        "explanation": "While the interest expense amount changes each period, the rate used ($\textbf{Market Rate}$) remains constant."
+    },
+    {
+        "id": "ACC178",
+        "text": "The $\\textbf{Allowance Method}$ (required by $\\textbf{GAAP}$ and $\\textbf{IFRS}$) uses the $\\textbf{Estimate}$ of uncollectible accounts to achieve the $\\textbf{Matching Principle}$.",
+        "image": "",
+        "options": [
+            "Cash Basis",
+            "Direct Write-Off",
+            "Allowance Method",
+            "Factoring Method"
+        ],
+        "answer": "Allowance Method",
+        "explanation": "By estimating and recording bad debt expense in the period of the sale, it properly matches revenues and expenses."
+    },
+    {
+        "id": "ACC179",
+        "text": "The $\\textbf{Return on Equity}$ ($\\,\\textbf{ROE}$) measures the return generated for $\\textbf{Shareholders}$, and a high ROE can be driven by high $\\textbf{Financial Leverage}$.",
+        "image": "",
+        "options": [
+            "Creditors",
+            "Suppliers",
+            "Shareholders",
+            "Management"
+        ],
+        "answer": "Shareholders",
+        "explanation": "ROE is the ultimate measure of the profitability of the owner's investment."
+    },
+    {
+        "id": "ACC180",
+        "text": "The $\\textbf{Economic Value Added}$ ($\\,\\textbf{EVA}$) metric is superior to $\\textbf{Net Income}$ for measuring management performance because it explicitly deducts the $\\textbf{Cost of Capital}$.",
+        "image": "",
+        "options": [
+            "Variable Costs",
+            "Fixed Costs",
+            "Cost of Capital",
+            "Sunk Costs"
+        ],
+        "answer": "Cost of Capital",
+        "explanation": "EVA determines if the company created wealth above the minimum return expected by investors/creditors."
+    },
+    {
+        "id": "ACC181",
+        "text": "The $\\textbf{Current Ratio}$ is a measure of $\\textbf{Liquidity}$ that determines if a company has enough $\\textbf{Current Assets}$ to cover its $\\textbf{Current Liabilities}$.",
+        "image": "",
+        "options": [
+            "Solvency",
+            "Profitability",
+            "Liquidity",
+            "Efficiency"
+        ],
+        "answer": "Liquidity",
+        "explanation": "The current ratio assesses short-term financial health and ability to pay immediate debts."
+    },
+    {
+        "id": "ACC182",
+        "text": "The $\\textbf{Inventory Turnover}$ ratio helps determine the average number of $\\textbf{Days Sales in Inventory}$ by dividing $\\textbf{365}$ by the turnover ratio.",
+        "image": "",
+        "options": [
+            "90",
+            "180",
+            "365",
+            "52"
+        ],
+        "answer": "365",
+        "explanation": "Days Sales in Inventory shows how long, on average, a company holds inventory before selling it."
+    },
+    {
+        "id": "ACC183",
+        "text": "The $\\textbf{Operating Cycle}$ for a merchandising company is the time it takes to purchase $\\textbf{Inventory}$, sell it, and collect $\\textbf{Cash}$ from the $\\textbf{Sale}$.",
+        "image": "",
+        "options": [
+            "Debt",
+            "Equity",
+            "Cash",
+            "Revenue"
+        ],
+        "answer": "Cash",
+        "explanation": "The length of the operating cycle is important for classifying assets and liabilities as current or non-current."
+    },
+    {
+        "id": "ACC184",
+        "text": "The $\\textbf{Bank Reconciliation}$ process is performed to reconcile the $\\textbf{Cash Balance}$ per the bank statement with the $\\textbf{Cash Balance}$ per the company's $\\textbf{Books}$.",
+        "image": "",
+        "options": [
+            "Accounts Receivable",
+            "Cash Balance",
+            "Accounts Payable",
+            "Inventory"
+        ],
+        "answer": "Cash Balance",
+        "explanation": "Differences arise due to timing issues (e.g., checks outstanding, deposits in transit) and errors."
+    },
+    {
+        "id": "ACC185",
+        "text": "The $\\textbf{Percentage-of-Sales}$ method for estimating $\\textbf{Bad Debt Expense}$ emphasizes the $\\textbf{Matching Principle}$ over the $\\textbf{Net Realizable Value}$ of receivables.",
+        "image": "",
+        "options": [
+            "Conservatism",
+            "Net Realizable Value",
+            "Matching Principle",
+            "Historical Cost"
+        ],
+        "answer": "Matching Principle",
+        "explanation": "It focuses on matching the expense to the current period's revenue, whereas the aging method focuses on the balance sheet's net realizable value."
+    },
+    {
+        "id": "ACC186",
+        "text": "The $\\textbf{Statement of Comprehensive Income}$ includes $\\textbf{Net Income}$ and $\\textbf{OCI}$ ($\textbf{Other Comprehensive Income}$), totaling $\\textbf{Comprehensive Income}$.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Retained Earnings",
+            "OCI",
+            "Dividends"
+        ],
+        "answer": "OCI",
+        "explanation": "OCI includes revenues, expenses, gains, and losses that are explicitly excluded from net income by GAAP/IFRS (e.g., certain hedging adjustments)."
+    },
+    {
+        "id": "ACC187",
+        "text": "The $\\textbf{Par Value}$ of common stock is the $\\textbf{Minimum Legal}$ amount per share that must be recorded as $\\textbf{Contributed Capital}$.",
+        "image": "",
+        "options": [
+            "Market Price",
+            "Minimum Legal",
+            "Book Value",
+            "Liquidation Value"
+        ],
+        "answer": "Minimum Legal",
+        "explanation": "Par value is typically a nominal amount and has little relationship to the stock's market price."
+    },
+    {
+        "id": "ACC188",
+        "text": "In $\\textbf{Activity-Based Costing}$ ($\\,\\textbf{ABC}$), a $\\textbf{Cost Driver}$ is any factor that causes a change in the $\\textbf{Cost}$ of an $\\textbf{Activity}$.",
+        "image": "",
+        "options": [
+            "Revenue Stream",
+            "Fixed Cost",
+            "Cost Driver",
+            "Sunk Cost"
+        ],
+        "answer": "Cost Driver",
+        "explanation": "Cost drivers (e.g., number of setups, inspection hours) are used to allocate overhead costs more accurately in ABC."
+    },
+    {
+        "id": "ACC189",
+        "text": "The $\\textbf{Budgetary Control}$ process involves comparing $\\textbf{Actual}$ results with $\\textbf{Budgeted}$ amounts to determine $\\textbf{Variances}$.",
+        "image": "",
+        "options": [
+            "Planned",
+            "Historical",
+            "Actual",
+            "Forecasted"
+        ],
+        "answer": "Actual",
+        "explanation": "This is a key phase of the planning and control cycle in managerial accounting."
+    },
+    {
+        "id": "ACC190",
+        "text": "The $\\textbf{Internal Rate of Return}$ ($\\,\\textbf{IRR}$) decision rule requires that the IRR must be $\\textbf{Greater}$ than the company's $\\textbf{Cost of Capital}$ for a project to be acceptable.",
+        "image": "",
+        "options": [
+            "Equal to",
+            "Less than",
+            "Greater",
+            "Zero"
+        ],
+        "answer": "Greater",
+        "explanation": "If the IRR is greater than the cost of capital, it means the project generates a return above the minimum required rate."
+    },
+    {
+        "id": "ACC191",
+        "text": "The $\\textbf{Acid-Test Ratio}$ (Quick Ratio) is always $\\textbf{Less}$ than the $\\textbf{Current Ratio}$, unless a company has no $\\textbf{Inventory}$ or $\\textbf{Prepaid Expenses}$.",
+        "image": "",
+        "options": [
+            "Greater than",
+            "Less",
+            "Equal to",
+            "Unrelated to"
+        ],
+        "answer": "Less",
+        "explanation": "Since the Acid-Test Ratio subtracts inventory and prepaid expenses from the numerator (current assets), the resulting ratio will almost always be smaller."
+    },
+    {
+        "id": "ACC192",
+        "text": "The $\\textbf{Tax Cuts and Jobs Act}$ (2017) created a new $\\textbf{Permanent Difference}$ by limiting the deductibility of executive $\\textbf{Compensation}$ above $\\$1 million.",
+        "image": "",
+        "options": [
+            "Interest Expense",
+            "R&D Costs",
+            "Executive Compensation",
+            "Depreciation"
+        ],
+        "answer": "Executive Compensation",
+        "explanation": "Compensation above this limit is no longer deductible for federal income tax purposes."
+    },
+    {
+        "id": "ACC193",
+        "text": "The $\\textbf{Inventory}$ costing method that results in the highest $\\textbf{COGS}$ ($\textbf{Cost of Goods Sold}$) during a period of $\\textbf{Rising}$ prices is $\\textbf{LIFO}$.",
+        "image": "",
+        "options": [
+            "FIFO",
+            "Weighted-Average",
+            "LIFO",
+            "Specific Identification"
+        ],
+        "answer": "LIFO",
+        "explanation": "LIFO assumes the newest (most expensive) inventory is sold first, increasing COGS and minimizing taxable income."
+    },
+    {
+        "id": "ACC194",
+        "text": "The $\\textbf{Purchases Budget}$ determines the quantity of $\\textbf{Merchandise}$ a retailer must buy to meet sales needs and maintain desired $\\textbf{Ending Inventory}$.",
+        "image": "",
+        "options": [
+            "Raw Materials",
+            "Finished Goods",
+            "Merchandise",
+            "Work in Process"
+        ],
+        "answer": "Merchandise",
+        "explanation": "This budget is crucial for merchandising companies (retailers/wholesalers) that do not manufacture their own goods."
+    },
+    {
+        "id": "ACC195",
+        "text": "The $\\textbf{Profit Margin}$ component of the DuPont Analysis is calculated by dividing $\\textbf{Net Income}$ by $\\textbf{Net Sales}$.",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "EBITDA",
+            "Net Income",
+            "Operating Income"
+        ],
+        "answer": "Net Income",
+        "explanation": "Profit margin measures how much of each dollar of sales revenue translates into profit."
+    },
+    {
+        "id": "ACC196",
+        "text": "The $\\textbf{Capital Expenditures}$ ($\\,\\textbf{CapEx}$) budget details the planned $\\textbf{Investment}$ in $\\textbf{Long-Term Assets}$ (PPE).",
+        "image": "",
+        "options": [
+            "Current Assets",
+            "Short-Term Debt",
+            "Long-Term Assets",
+            "Intangible Assets"
+        ],
+        "answer": "Long-Term Assets",
+        "explanation": "This budget is strategic and usually prepared after the operating budgets are finalized."
+    },
+    {
+        "id": "ACC197",
+        "text": "The $\\textbf{Cost of Goods Sold}$ ($\\,\\textbf{COGS}$) is the total cost of $\\textbf{Inventory}$ that was $\\textbf{Sold}$ during a specific period.",
+        "image": "",
+        "options": [
+            "Purchased",
+            "Produced",
+            "Sold",
+            "Remaining"
+        ],
+        "answer": "Sold",
+        "explanation": "COGS is the largest expense for merchandising and manufacturing firms and is reported on the Income Statement."
+    },
+    {
+        "id": "ACC198",
+        "text": "The $\\textbf{Par Value}$ of a stock is a fixed nominal value that represents the $\\textbf{Legal Capital}$ required to be retained by the $\\textbf{Corporation}$.",
+        "image": "",
+        "options": [
+            "Market Price",
+            "Book Value",
+            "Legal Capital",
+            "Liquidation Value"
+        ],
+        "answer": "Legal Capital",
+        "explanation": "Any proceeds received above the par value are credited to the Paid-in Capital in Excess of Par account."
+    },
+    {
+        "id": "ACC199",
+        "text": "The $\\textbf{Statement of Owner's Equity}$ is replaced by the $\\textbf{Statement of Partners' Capital}$ in a partnership business structure.",
+        "image": "",
+        "options": [
+            "Sole Proprietorship",
+            "Corporation",
+            "Partnership",
+            "LLC"
+        ],
+        "answer": "Partnership",
+        "explanation": "Each partner's capital account is tracked, showing contributions, drawings, and share of income/loss."
+    },
+    {
+        "id": "ACC200",
+        "text": "The $\\textbf{Accounting Information System}$ ($\\,\\textbf{AIS}$), relying increasingly on $\\textbf{AI}$ in 2021, converts raw $\\textbf{Data}$ from transactions into $\\textbf{Information}$ for decision-making.",
+        "image": "",
+        "options": [
+            "Output",
+            "Information",
+            "Input",
+            "Process"
+        ],
+        "answer": "Information",
+        "explanation": "The primary goal of an AIS is transforming transactional data into useful financial reports."
+    }
+]

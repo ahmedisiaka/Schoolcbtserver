@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "The $\\textbf{2000 Summer Olympics}$ were held in $\\textbf{Sydney}$, the most populous city in $\\textbf{Australia}$, showcasing the iconic Opera House and Harbour Bridge.",
+        "image": "",
+        "options": [
+            "Melbourne",
+            "Sydney",
+            "Brisbane",
+            "Perth"
+        ],
+        "answer": "Sydney",
+        "explanation": "It was the second time Australia hosted the Olympics, the first being Melbourne in 1956."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Oresund Bridge}$ opened in 2000, creating a direct rail and road link between $\\textbf{Copenhagen}$, Denmark, and $\\textbf{Malmö}$, $\\textbf{Sweden}$.",
+        "image": "",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Germany",
+            "Finland"
+        ],
+        "answer": "Sweden",
+        "explanation": "The bridge spans the Oresund strait and created a combined metropolitan region known as the Oresund Region."
+    },
+    {
+        "id": "GEO03",
+        "text": "On December 31, 1999, just hours before 2000 began, the $\\textbf{Panama Canal}$ was fully transferred from the $\\textbf{United States}$ to $\\textbf{Panama}$.",
+        "image": "",
+        "options": [
+            "United Kingdom",
+            "United States",
+            "France",
+            "Spain"
+        ],
+        "answer": "United States",
+        "explanation": "This ended nearly a century of American jurisdiction over the strategic waterway."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{International Space Station}$ (ISS) received its first long-term resident crew (Expedition 1) in 2000, orbiting 400 km above the $\\textbf{Earth}$.",
+        "image": "",
+        "options": [
+            "Moon",
+            "Mars",
+            "Earth",
+            "Sun"
+        ],
+        "answer": "Earth",
+        "explanation": "This marked the beginning of uninterrupted human presence in low Earth orbit."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Kursk}$ submarine disaster occurred in the $\\textbf{Barents Sea}$ off the coast of $\\textbf{Russia}$ in August 2000.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Baltic Sea",
+            "Barents Sea",
+            "Caspian Sea"
+        ],
+        "answer": "Barents Sea",
+        "explanation": "The tragedy involved the loss of all 118 personnel on board during a naval exercise."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{London Eye}$, a giant observation wheel on the South Bank of the $\\textbf{River Thames}$, officially opened to the public in March 2000.",
+        "image": "",
+        "options": [
+            "Seine",
+            "Thames",
+            "Danube",
+            "Rhine"
+        ],
+        "answer": "Thames",
+        "explanation": "It was built to celebrate the new millennium and offers panoramic views of London."
+    },
+    {
+        "id": "GEO07",
+        "text": "Devastating floods struck $\\textbf{Mozambique}$ in 2000, caused by a cyclone and rising levels in the $\\textbf{Limpopo River}$.",
+        "image": "",
+        "options": [
+            "Nile River",
+            "Congo River",
+            "Limpopo River",
+            "Niger River"
+        ],
+        "answer": "Limpopo River",
+        "explanation": "The floods displaced hundreds of thousands and highlighted the vulnerability of the region to climate extremes."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{USS Cole}$ was bombed by terrorists while refueling in the port of $\\textbf{Aden}$ in $\\textbf{Yemen}$.",
+        "image": "",
+        "options": [
+            "Oman",
+            "Yemen",
+            "Saudi Arabia",
+            "Kuwait"
+        ],
+        "answer": "Yemen",
+        "explanation": "Aden is a strategic port city located near the entrance to the Red Sea."
+    },
+    {
+        "id": "GEO09",
+        "text": "Mount $\\textbf{Usu}$ in $\\textbf{Hokkaido}$, $\\textbf{Japan}$, erupted in 2000, forcing the evacuation of thousands of residents and tourists.",
+        "image": "",
+        "options": [
+            "Honshu",
+            "Kyushu",
+            "Hokkaido",
+            "Shikoku"
+        ],
+        "answer": "Hokkaido",
+        "explanation": "Japan sits on the Pacific Ring of Fire and frequently experiences volcanic activity."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{Tate Modern}$ art gallery opened in 2000, housed in the former Bankside Power Station in $\\textbf{London}$.",
+        "image": "",
+        "options": [
+            "Paris",
+            "New York",
+            "London",
+            "Berlin"
+        ],
+        "answer": "London",
+        "explanation": "It became one of the most visited modern art galleries in the world."
+    },
+    {
+        "id": "GEO11",
+        "text": "Israel withdrew its troops from southern $\\textbf{Lebanon}$ in 2000, ending an 18-year occupation of the security zone.",
+        "image": "",
+        "options": [
+            "Syria",
+            "Jordan",
+            "Egypt",
+            "Lebanon"
+        ],
+        "answer": "Lebanon",
+        "explanation": "The withdrawal was certified by the UN, establishing the 'Blue Line' boundary."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Millennium Dome}$ (now The O2) was built on the Greenwich Peninsula in London, located precisely on the $\\textbf{Prime Meridian}$.",
+        "image": "",
+        "options": [
+            "Equator",
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "International Date Line"
+        ],
+        "answer": "Prime Meridian",
+        "explanation": "It was constructed to house a major exhibition celebrating the beginning of the third millennium."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Chernobyl}$ nuclear power plant in $\\textbf{Ukraine}$ was permanently shut down in 2000 with the closure of the last reactor.",
+        "image": "",
+        "options": [
+            "Belarus",
+            "Russia",
+            "Ukraine",
+            "Poland"
+        ],
+        "answer": "Ukraine",
+        "explanation": "The plant had continued to operate partially for years after the 1986 disaster."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Second Intifada}$ began in late 2000, intensifying conflict in the $\\textbf{West Bank}$ and $\\textbf{Gaza Strip}$.",
+        "image": "",
+        "options": [
+            "Sinai Peninsula",
+            "Golan Heights",
+            "West Bank",
+            "Negev Desert"
+        ],
+        "answer": "West Bank",
+        "explanation": "The uprising was triggered after a controversial visit to the Temple Mount in Jerusalem."
+    },
+    {
+        "id": "GEO15",
+        "text": "Vicente Fox was elected president of $\\textbf{Mexico}$ in 2000, ending 71 years of rule by the $\\textbf{PRI}$ party.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Mexico",
+            "Colombia"
+        ],
+        "answer": "Mexico",
+        "explanation": "It was a landmark event in the democratization of Latin America's second-largest economy."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Concorde}$ supersonic jet crashed in Gonesse, $\\textbf{France}$, shortly after takeoff from Paris in July 2000.",
+        "image": "",
+        "options": [
+            "United Kingdom",
+            "Germany",
+            "France",
+            "Spain"
+        ],
+        "answer": "France",
+        "explanation": "The tragedy marked the beginning of the end for commercial supersonic flight."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Eritrea-Ethiopia War}$ concluded in 2000 with the Algiers Agreement, settling the border dispute in the $\\textbf{Horn of Africa}$.",
+        "image": "",
+        "options": [
+            "Sahel",
+            "Maghreb",
+            "Horn of Africa",
+            "Great Lakes"
+        ],
+        "answer": "Horn of Africa",
+        "explanation": "The war was fought over the border town of Badme."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Belgrade}$ protests in 2000 led to the resignation of Slobodan Milošević, ending his rule over the Federal Republic of $\\textbf{Yugoslavia}$.",
+        "image": "",
+        "options": [
+            "Croatia",
+            "Slovenia",
+            "Yugoslavia",
+            "Bosnia"
+        ],
+        "answer": "Yugoslavia",
+        "explanation": "The 'Bulldozer Revolution' paved the way for democratic transition in Serbia."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Hekla}$ volcano in $\\textbf{Iceland}$, often called the 'Gateway to Hell', erupted in February 2000.",
+        "image": "",
+        "options": [
+            "Greenland",
+            "Iceland",
+            "Norway",
+            "Ireland"
+        ],
+        "answer": "Iceland",
+        "explanation": "It is one of Iceland's most active volcanoes."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{US Census 2000}$ confirmed a population shift toward the $\\textbf{South}$ and $\\textbf{West}$ regions of the country.",
+        "image": "",
+        "options": [
+            "Northeast",
+            "Midwest",
+            "South",
+            "New England"
+        ],
+        "answer": "South",
+        "explanation": "States like Nevada, Arizona, and Georgia saw massive growth."
+    },
+    {
+        "id": "GEO21",
+        "text": "British forces intervened in $\\textbf{Sierra Leone}$ in 2000 (Operation Palliser) to support the government during the civil war.",
+        "image": "",
+        "options": [
+            "Liberia",
+            "Sierra Leone",
+            "Nigeria",
+            "Ghana"
+        ],
+        "answer": "Sierra Leone",
+        "explanation": "The intervention helped secure the capital, Freetown, and bring an end to the conflict."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Hafez al-Assad}$ era ended in $\\textbf{Syria}$ in 2000 with his death, leading to the succession of his son, Bashar al-Assad.",
+        "image": "",
+        "options": [
+            "Iraq",
+            "Jordan",
+            "Syria",
+            "Lebanon"
+        ],
+        "answer": "Syria",
+        "explanation": "This transition of power maintained the Ba'ath Party's control over the country."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Maasvlakte}$ extension of the Port of $\\textbf{Rotterdam}$ in the $\\textbf{Netherlands}$ continued to be a major engineering project in 2000.",
+        "image": "",
+        "options": [
+            "Belgium",
+            "Germany",
+            "Netherlands",
+            "Denmark"
+        ],
+        "answer": "Netherlands",
+        "explanation": "Rotterdam was the world's busiest port at the time (by tonnage)."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Plan Colombia}$ was initiated in 2000, a US-funded aid plan aimed at combating drug cartels in $\\textbf{Colombia}$.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Bolivia",
+            "Colombia",
+            "Venezuela"
+        ],
+        "answer": "Colombia",
+        "explanation": "The plan focused on the cultivation of coca and the conflict with FARC rebels."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Three Gorges Dam}$ construction in $\\textbf{China}$ required the forced relocation of over 1 million people along the $\\textbf{Yangtze River}$.",
+        "image": "",
+        "options": [
+            "Yellow River",
+            "Mekong River",
+            "Yangtze River",
+            "Pearl River"
+        ],
+        "answer": "Yangtze River",
+        "explanation": "By 2000, the dam was heavily under construction, transforming the geography of the region."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Great Barrier Reef}$ suffered a significant bleaching event, raising early alarms about ocean warming off the coast of $\\textbf{Australia}$.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "Indonesia",
+            "Australia",
+            "Fiji"
+        ],
+        "answer": "Australia",
+        "explanation": "Coral bleaching is caused by thermal stress, expelling the symbiotic algae."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Amazon Rainforest}$ deforestation rate in $\\textbf{Brazil}$ remained a critical global environmental issue in 2000.",
+        "image": "",
+        "options": [
+            "Argentina",
+            "Chile",
+            "Brazil",
+            "Peru"
+        ],
+        "answer": "Brazil",
+        "explanation": "The Amazon is the world's largest tropical rainforest and a vital carbon sink."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Antarctic Ozone Hole}$ reached a record size of 29.9 million square kilometers in September 2000.",
+        "image": "",
+        "options": [
+            "Arctic",
+            "Antarctic",
+            "Equatorial",
+            "Mid-latitude"
+        ],
+        "answer": "Antarctic",
+        "explanation": "The hole forms annually over the South Pole due to CFCs and unique atmospheric conditions."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Diavik Diamond Mine}$ began construction in 2000 in the remote Northwest Territories of $\\textbf{Canada}$.",
+        "image": "",
+        "options": [
+            "Russia",
+            "South Africa",
+            "Canada",
+            "Australia"
+        ],
+        "answer": "Canada",
+        "explanation": "Located on an island in Lac de Gras, it is accessible by an ice road in winter."
+    },
+    {
+        "id": "GEO30",
+        "text": "Chen Shui-bian was elected president of $\\textbf{Taiwan}$ in 2000, ending more than 50 years of KMT rule on the island.",
+        "image": "",
+        "options": [
+            "China",
+            "Taiwan",
+            "Hong Kong",
+            "Macau"
+        ],
+        "answer": "Taiwan",
+        "explanation": "This marked the first democratic transfer of power between parties in Taiwan's history."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Resurgent Russia}$ under Vladimir Putin, elected in 2000, began consolidating power and dealing with the conflict in $\\textbf{Chechnya}$.",
+        "image": "",
+        "options": [
+            "Dagestan",
+            "Tatarstan",
+            "Chechnya",
+            "Crimea"
+        ],
+        "answer": "Chechnya",
+        "explanation": "The Second Chechen War was a major focus of Putin's early presidency."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Aral Sea}$ continued its rapid shrinkage in 2000, splitting into North and South Aral Seas between $\\textbf{Kazakhstan}$ and Uzbekistan.",
+        "image": "",
+        "options": [
+            "Russia",
+            "Kazakhstan",
+            "Turkmenistan",
+            "Kyrgyzstan"
+        ],
+        "answer": "Kazakhstan",
+        "explanation": "Once the fourth largest lake, it is a symbol of environmental mismanagement."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Euro}$ existed as an accounting currency in 2000, with the $\\textbf{European Central Bank}$ located in $\\textbf{Frankfurt}$, Germany.",
+        "image": "",
+        "options": [
+            "Brussels",
+            "London",
+            "Frankfurt",
+            "Paris"
+        ],
+        "answer": "Frankfurt",
+        "explanation": "The ECB sets monetary policy for the Eurozone."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Millau Viaduct}$, planned to be the tallest bridge in the world, was in the early construction phases in $\\textbf{France}$ in 2000.",
+        "image": "",
+        "options": [
+            "Italy",
+            "Spain",
+            "France",
+            "Switzerland"
+        ],
+        "answer": "France",
+        "explanation": "It spans the valley of the River Tarn near Millau."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Camp David Summit}$ in 2000 attempted to negotiate a final status agreement between $\\textbf{Israel}$ and the $\\textbf{Palestinian Authority}$.",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Jordan",
+            "Israel",
+            "Lebanon"
+        ],
+        "answer": "Israel",
+        "explanation": "The failure of the summit was a precursor to the Second Intifada."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Kilauea}$ volcano in $\\textbf{Hawaii}$ continued its long-term eruption in 2000, adding new land to the Big Island.",
+        "image": "",
+        "options": [
+            "Maui",
+            "Oahu",
+            "Hawaii",
+            "Kauai"
+        ],
+        "answer": "Hawaii",
+        "explanation": "It is one of the most active volcanoes on Earth."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Mekong River}$ Commission continued efforts in 2000 to manage shared water resources in $\\textbf{Southeast Asia}$.",
+        "image": "",
+        "options": [
+            "South Asia",
+            "East Asia",
+            "Southeast Asia",
+            "Central Asia"
+        ],
+        "answer": "Southeast Asia",
+        "explanation": "The river flows through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Bosphorus Bridge}$ in $\\textbf{Istanbul}$ is a vital link between Europe and Asia, crossing the Bosphorus Strait.",
+        "image": "",
+        "options": [
+            "Ankara",
+            "Istanbul",
+            "Izmir",
+            "Bursa"
+        ],
+        "answer": "Istanbul",
+        "explanation": "Istanbul is the only major city located on two continents."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Strait of Malacca}$ remained the world's busiest shipping lane in 2000, connecting the $\\textbf{Indian Ocean}$ and the Pacific Ocean.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Indian Ocean",
+        "explanation": "It is a critical chokepoint for global oil transport."
+    },
+    {
+        "id": "GEO40",
+        "text": "Political crisis in $\\textbf{Peru}$ in 2000 led to the resignation of President Alberto Fujimori, who fled to $\\textbf{Japan}$.",
+        "image": "",
+        "options": [
+            "USA",
+            "Japan",
+            "Spain",
+            "Brazil"
+        ],
+        "answer": "Japan",
+        "explanation": "The crisis was triggered by corruption scandals involving intelligence chief Vladimiro Montesinos."
+    }
+]

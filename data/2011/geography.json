@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G1101",
+        "text": "The earth is often described as a $\\textbf{Geoid}$, which means it is $\\textbf{Flattened}$ at the poles and bulging at the equator.",
+        "image": "",
+        "options": [
+            "Perfect Sphere",
+            "Cube",
+            "Geoid",
+            "Pyramid"
+        ],
+        "answer": "Geoid",
+        "explanation": "The centrifugal force of rotation causes the earth to oblate (flatten) at the poles."
+    },
+    {
+        "id": "G1102",
+        "text": "The $\\textbf{Core}$ of the earth is composed primarily of heavy metals, specifically $\\textbf{Iron}$ and $\\textbf{Nickel}$.",
+        "image": "",
+        "options": [
+            "Silicon and Aluminum",
+            "Iron and Nickel",
+            "Magnesium and Silicon",
+            "Gold and Silver"
+        ],
+        "answer": "Iron and Nickel",
+        "explanation": "These heavy metals sank to the center during the earth's formation (NIFE layer)."
+    },
+    {
+        "id": "G1103",
+        "text": "Rocks that are formed from the cooling and solidification of $\\textbf{Magma}$ or lava are classified as $\\textbf{Igneous}$ rocks.",
+        "image": "",
+        "options": [
+            "Sedimentary",
+            "Metamorphic",
+            "Igneous",
+            "Plutonic"
+        ],
+        "answer": "Igneous",
+        "explanation": "Igneous means 'fire-made'. Examples include Granite and Basalt."
+    },
+    {
+        "id": "G1104",
+        "text": "The instrument used to measure $\\textbf{Atmospheric Pressure}$ is the $\\textbf{Barometer}$.",
+        "image": "",
+        "options": [
+            "Thermometer",
+            "Anemometer",
+            "Barometer",
+            "Hygrometer"
+        ],
+        "answer": "Barometer",
+        "explanation": "Barometers measure air pressure, typically in millibars."
+    },
+    {
+        "id": "G1105",
+        "text": "The imaginary lines running from $\\textbf{North}$ to $\\textbf{South}$ on a globe are called $\\textbf{Longitude}$ or Meridians.",
+        "image": "",
+        "options": [
+            "Latitude",
+            "Longitude",
+            "Equator",
+            "Tropic of Cancer"
+        ],
+        "answer": "Longitude",
+        "explanation": "Longitudes converge at the poles and measure distance east or west of the Prime Meridian."
+    },
+    {
+        "id": "G1106",
+        "text": "The process by which rocks are broken down in situ (in place) by weather elements is called $\\textbf{Weathering}$.",
+        "image": "",
+        "options": [
+            "Erosion",
+            "Transportation",
+            "Weathering",
+            "Deposition"
+        ],
+        "answer": "Weathering",
+        "explanation": "Unlike erosion, weathering involves no movement of the broken material."
+    },
+    {
+        "id": "G1107",
+        "text": "A $\\textbf{Rift Valley}$ is formed by the process of $\\textbf{Faulting}$, where a block of land slips down between parallel faults.",
+        "image": "",
+        "options": [
+            "Folding",
+            "Faulting",
+            "Volcanicity",
+            "Erosion"
+        ],
+        "answer": "Faulting",
+        "explanation": "The East African Rift Valley is a classic example of this tectonic feature."
+    },
+    {
+        "id": "G1108",
+        "text": "The $\\textbf{River Niger}$ enters the sea through a massive $\\textbf{Delta}$, characterized by numerous distributaries and swampy land.",
+        "image": "",
+        "options": [
+            "Estuary",
+            "Delta",
+            "Lagoon",
+            "Fjord"
+        ],
+        "answer": "Delta",
+        "explanation": "A delta forms when a river slows down entering a standing body of water and deposits its load."
+    },
+    {
+        "id": "G1109",
+        "text": "The vegetation belt characterized by tall grasses and scattered trees is known as the $\\textbf{Savanna}$.",
+        "image": "",
+        "options": [
+            "Rainforest",
+            "Desert",
+            "Savanna",
+            "Tundra"
+        ],
+        "answer": "Savanna",
+        "explanation": "The Savanna lies between the rainforest and the desert."
+    },
+    {
+        "id": "G1110",
+        "text": "Limestone regions characterized by underground drainage and caves are known as $\\textbf{Karst}$ scenery.",
+        "image": "",
+        "options": [
+            "Volcanic",
+            "Karst",
+            "Glacial",
+            "Arid"
+        ],
+        "answer": "Karst",
+        "explanation": "Karst topography is formed by the dissolution of soluble rocks like limestone."
+    },
+    {
+        "id": "G1111",
+        "text": "The ratio between a distance on a map and the corresponding distance on the ground is called the $\\textbf{Scale}$.",
+        "image": "",
+        "options": [
+            "Legend",
+            "Key",
+            "Scale",
+            "Compass"
+        ],
+        "answer": "Scale",
+        "explanation": "Scale can be represented as a statement, a linear bar, or a representative fraction (RF)."
+    },
+    {
+        "id": "G1112",
+        "text": "Which of the following is an example of a $\\textbf{Metamorphic}$ rock formed from limestone?",
+        "image": "",
+        "options": [
+            "Slate",
+            "Marble",
+            "Quartzite",
+            "Gneiss"
+        ],
+        "answer": "Marble",
+        "explanation": "Limestone creates Marble when subjected to intense heat and pressure."
+    },
+    {
+        "id": "G1113",
+        "text": "The actual amount of water vapor present in the air is known as $\\textbf{Absolute Humidity}$.",
+        "image": "",
+        "options": [
+            "Relative Humidity",
+            "Absolute Humidity",
+            "Dew Point",
+            "Saturation"
+        ],
+        "answer": "Absolute Humidity",
+        "explanation": "Relative humidity is the percentage, while absolute is the actual mass."
+    },
+    {
+        "id": "G1114",
+        "text": "The $\\textbf{Harmattan}$ is a dry, dusty trade wind that blows from the $\\textbf{Sahara Desert}$ across West Africa.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Sahara Desert",
+            "Kalahari Desert",
+            "Mediterranean Sea"
+        ],
+        "answer": "Sahara Desert",
+        "explanation": "It is a North-East Trade Wind associated with the dry season."
+    },
+    {
+        "id": "G1115",
+        "text": "Lines on a map joining places of equal height above sea level are called $\\textbf{Contours}$.",
+        "image": "",
+        "options": [
+            "Isobars",
+            "Isotherms",
+            "Contours",
+            "Isohyets"
+        ],
+        "answer": "Contours",
+        "explanation": "Contours help visualize the relief or topography of the land."
+    },
+    {
+        "id": "G1116",
+        "text": "The movement of people from rural areas to urban centers is called $\\textbf{Rural-Urban Migration}$.",
+        "image": "",
+        "options": [
+            "Urbanization",
+            "Rural-Urban Migration",
+            "Counter-Urbanization",
+            "Emigration"
+        ],
+        "answer": "Rural-Urban Migration",
+        "explanation": "This is a major cause of the rapid growth of cities in developing countries."
+    },
+    {
+        "id": "G1117",
+        "text": "A narrow strip of land connecting two larger landmasses is called an $\\textbf{Isthmus}$.",
+        "image": "",
+        "options": [
+            "Strait",
+            "Isthmus",
+            "Peninsula",
+            "Island"
+        ],
+        "answer": "Isthmus",
+        "explanation": "Example: The Isthmus of Panama."
+    },
+    {
+        "id": "G1118",
+        "text": "Which of the following soil types is most suitable for growing $\\textbf{Cotton}$?",
+        "image": "",
+        "options": [
+            "Laterite Soil",
+            "Black Cotton Soil (Loam)",
+            "Sandy Soil",
+            "Peat Soil"
+        ],
+        "answer": "Black Cotton Soil (Loam)",
+        "explanation": "Also known as Chernozem or Regur, it retains moisture well."
+    },
+    {
+        "id": "G1119",
+        "text": "The $\\textbf{Kainji Dam}$ in Nigeria is located on the $\\textbf{River Niger}$.",
+        "image": "",
+        "options": [
+            "River Benue",
+            "River Niger",
+            "River Kaduna",
+            "Cross River"
+        ],
+        "answer": "River Niger",
+        "explanation": "It is a major source of hydroelectric power for the country."
+    },
+    {
+        "id": "G1120",
+        "text": "A settlement pattern where houses are clustered around a central point like a market or church is $\\textbf{Nucleated}$.",
+        "image": "",
+        "options": [
+            "Dispersed",
+            "Linear",
+            "Nucleated",
+            "Isolated"
+        ],
+        "answer": "Nucleated",
+        "explanation": "Nucleated settlements are compact and clustered."
+    },
+    {
+        "id": "G1121",
+        "text": "The peeling off of the outer layers of rocks due to sudden temperature changes is called $\\textbf{Exfoliation}$.",
+        "image": "",
+        "options": [
+            "Carbonation",
+            "Oxidation",
+            "Exfoliation",
+            "Frost Action"
+        ],
+        "answer": "Exfoliation",
+        "explanation": "Common in deserts, giving rocks a rounded, onion-skin appearance."
+    },
+    {
+        "id": "G1122",
+        "text": "The study of human population statistics such as birth rate, death rate, and migration is $\\textbf{Demography}$.",
+        "image": "",
+        "options": [
+            "Cartography",
+            "Demography",
+            "Geomorphology",
+            "Climatology"
+        ],
+        "answer": "Demography",
+        "explanation": "Demography analyzes population dynamics."
+    },
+    {
+        "id": "G1123",
+        "text": "The $\\textbf{Confluence}$ town where the River Niger and River Benue meet is $\\textbf{Lokoja}$.",
+        "image": "",
+        "options": [
+            "Onitsha",
+            "Lokoja",
+            "Makurdi",
+            "Jebba"
+        ],
+        "answer": "Lokoja",
+        "explanation": "Lokoja is strategically important as the confluence point."
+    },
+    {
+        "id": "G1124",
+        "text": "Which planet in the solar system is known as the $\\textbf{Red Planet}$?",
+        "image": "",
+        "options": [
+            "Venus",
+            "Jupiter",
+            "Mars",
+            "Saturn"
+        ],
+        "answer": "Mars",
+        "explanation": "Mars appears red due to iron oxide on its surface."
+    },
+    {
+        "id": "G1125",
+        "text": "The type of rainfall caused by the meeting of two air masses of different temperatures is $\\textbf{Cyclonic}$ (or Frontal) rainfall.",
+        "image": "",
+        "options": [
+            "Convectional",
+            "Orographic",
+            "Cyclonic",
+            "Relief"
+        ],
+        "answer": "Cyclonic",
+        "explanation": "It occurs when warm air rises over cold air at a front."
+    },
+    {
+        "id": "G1126",
+        "text": "The main cash crop grown in the $\\textbf{Geochronological}$ zones of Ghana and Ivory Coast is $\\textbf{Cocoa}$.",
+        "image": "",
+        "options": [
+            "Cotton",
+            "Cocoa",
+            "Groundnut",
+            "Tea"
+        ],
+        "answer": "Cocoa",
+        "explanation": "These nations are the world's leading producers of cocoa."
+    },
+    {
+        "id": "G1127",
+        "text": "A piece of land surrounded by water on three sides is a $\\textbf{Peninsula}$.",
+        "image": "",
+        "options": [
+            "Island",
+            "Peninsula",
+            "Isthmus",
+            "Delta"
+        ],
+        "answer": "Peninsula",
+        "explanation": "Examples include Florida or Italy."
+    },
+    {
+        "id": "G1128",
+        "text": "The standard time of a place is determined by its $\\textbf{Longitude}$.",
+        "image": "",
+        "options": [
+            "Latitude",
+            "Altitude",
+            "Longitude",
+            "Temperature"
+        ],
+        "answer": "Longitude",
+        "explanation": "For every 15 degrees of longitude, time changes by one hour."
+    },
+    {
+        "id": "G1129",
+        "text": "The largest ocean in the world is the $\\textbf{Pacific Ocean}$.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "It covers more area than all the earth's landmasses combined."
+    },
+    {
+        "id": "G1130",
+        "text": "The layer of the atmosphere where weather takes place is the $\\textbf{Troposphere}$.",
+        "image": "",
+        "options": [
+            "Stratosphere",
+            "Mesosphere",
+            "Troposphere",
+            "Thermosphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "It is the lowest layer containing most of the atmosphere's mass and water vapor."
+    },
+    {
+        "id": "G1131",
+        "text": "Which of the following is a $\\textbf{Non-Renewable}$ resource?",
+        "image": "",
+        "options": [
+            "Solar Energy",
+            "Wind",
+            "Petroleum",
+            "Water"
+        ],
+        "answer": "Petroleum",
+        "explanation": "Fossil fuels take millions of years to form and cannot be replenished quickly."
+    },
+    {
+        "id": "G1132",
+        "text": "The practice of growing crops and raising animals on the same farm is called $\\textbf{Mixed Farming}$.",
+        "image": "",
+        "options": [
+            "Mixed Farming",
+            "Pastoral Farming",
+            "Arable Farming",
+            "Crop Rotation"
+        ],
+        "answer": "Mixed Farming",
+        "explanation": "It reduces risk and allows for symbiotic use of resources (manure/fodder)."
+    },
+    {
+        "id": "G1133",
+        "text": "The steep slope on the outer bend of a river meander is called a $\\textbf{River Cliff}$.",
+        "image": "",
+        "options": [
+            "Slip-off Slope",
+            "River Cliff",
+            "Ox-bow Lake",
+            "Levee"
+        ],
+        "answer": "River Cliff",
+        "explanation": "Erosion occurs on the outer bend where the water flows fastest."
+    },
+    {
+        "id": "G1134",
+        "text": "The graph that shows both temperature and rainfall distribution over a year is a $\\textbf{Climograph}$.",
+        "image": "",
+        "options": [
+            "Bar Graph",
+            "Pie Chart",
+            "Climograph",
+            "Line Graph"
+        ],
+        "answer": "Climograph",
+        "explanation": "Usually combines a line graph for temperature and bar chart for rainfall."
+    },
+    {
+        "id": "G1135",
+        "text": "The $\\textbf{Meridian}$ marked 0 degrees is the $\\textbf{Greenwich Meridian}$ (Prime Meridian).",
+        "image": "",
+        "options": [
+            "International Date Line",
+            "Equator",
+            "Greenwich Meridian",
+            "Tropic of Capricorn"
+        ],
+        "answer": "Greenwich Meridian",
+        "explanation": "It passes through Greenwich, London, and serves as the reference for time zones."
+    },
+    {
+        "id": "G1136",
+        "text": "Which mode of transport is best suited for bulky goods over long distances on land?",
+        "image": "",
+        "options": [
+            "Road",
+            "Rail",
+            "Pipeline",
+            "Air"
+        ],
+        "answer": "Rail",
+        "explanation": "Trains can carry large volumes of heavy goods (coal, ore) efficiently."
+    },
+    {
+        "id": "G1137",
+        "text": "The wearing away of the land surface by agents such as water, wind, and ice is $\\textbf{Erosion}$.",
+        "image": "",
+        "options": [
+            "Weathering",
+            "Erosion",
+            "Mass Wasting",
+            "Deposition"
+        ],
+        "answer": "Erosion",
+        "explanation": "Erosion involves the movement or transport of the weathered material."
+    },
+    {
+        "id": "G1138",
+        "text": "The point underground where an earthquake originates is the $\\textbf{Focus}$ (Hypocenter).",
+        "image": "",
+        "options": [
+            "Epicenter",
+            "Focus",
+            "Fault",
+            "Crater"
+        ],
+        "answer": "Focus",
+        "explanation": "The epicenter is the point directly above the focus on the surface."
+    },
+    {
+        "id": "G1139",
+        "text": "The major environmental problem associated with the Sahel region of West Africa is $\\textbf{Desertification}$.",
+        "image": "",
+        "options": [
+            "Flooding",
+            "Desertification",
+            "Earthquakes",
+            "Acid Rain"
+        ],
+        "answer": "Desertification",
+        "explanation": "The encroachment of the desert due to climate change and overgrazing."
+    },
+    {
+        "id": "G1140",
+        "text": "A $\\textbf{Representative Fraction}$ (RF) of 1:50,000 on a map means 1 unit on the map represents $\\textbf{50,000}$ units on the ground.",
+        "image": "",
+        "options": [
+            "500",
+            "5,000",
+            "50,000",
+            "500,000"
+        ],
+        "answer": "50,000",
+        "explanation": "This scale indicates that 1 cm on the map equals 50,000 cm (0.5 km) on the ground."
+    }
+]

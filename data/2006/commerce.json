@@ -1,0 +1,522 @@
+[
+    {
+      "id": "COMM_2023_81",
+      "text": "The fundamental principle of insurance that states the insured must be restored to their financial position immediately before the loss occurred is:",
+      "image": "COMM_2023_81.png",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Proximate Cause",
+        "Insurable Interest"
+      ],
+      "answer": "Indemnity",
+      "explanation": "Indemnity means the insurer compensates the insured for the financial loss but ensures the insured does not make a profit from the event."
+    },
+    {
+      "id": "COMM_2023_82",
+      "text": "The section of a country's Balance of Payments that records all visible (tangible) trade transactions is the:",
+      "image": "COMM_2023_82.png",
+      "options": [
+        "Capital Account",
+        "Current Account (Balance of Trade)",
+        "Financial Account",
+        "Unilateral Transfers"
+      ],
+      "answer": "Current Account (Balance of Trade)",
+      "explanation": "The Balance of Trade specifically focuses on the import and export of goods (visible trade). The Current Account also includes services (invisible trade)."
+    },
+    {
+      "id": "COMM_2023_83",
+      "text": "A partner who contributes capital and shares profits but whose association is unknown to the public is a:",
+      "image": "COMM_2023_83.png",
+      "options": [
+        "Nominal Partner",
+        "Active Partner",
+        "Sleeping (or Dormant) Partner",
+        "Secret Partner"
+      ],
+      "answer": "Secret Partner",
+      "explanation": "A secret partner takes an active part in the business but conceals their identity from the outside world. A sleeping partner is known but takes no active part in management."
+    },
+    {
+      "id": "COMM_2023_84",
+      "text": "The main instrument used by the Central Bank to reduce the amount of credit available in the economy is:",
+      "image": "COMM_2023_84.png",
+      "options": [
+        "Decreasing the Cash Reserve Ratio (CRR)",
+        "Selling government securities (Open Market Operations)",
+        "Lowering the Discount Rate",
+        "Increasing government expenditure"
+      ],
+      "answer": "Selling government securities (Open Market Operations)",
+      "explanation": "Selling securities drains money from commercial banks, forcing them to reduce their lending, thereby tightening the money supply."
+    },
+    {
+      "id": "COMM_2023_85",
+      "text": "The legal document that allows a Public Limited Company to invite the public to subscribe for its shares is the:",
+      "image": "COMM_2023_85.png",
+      "options": [
+        "Certificate of Incorporation",
+        "Articles of Association",
+        "Memorandum of Association",
+        "Prospectus"
+      ],
+      "answer": "Prospectus",
+      "explanation": "The prospectus is a mandatory detailed document issued by a PLC when it offers its securities for sale to the public."
+    },
+    {
+      "id": "COMM_2023_86",
+      "text": "The difference between Total Revenue and Total Cost in marketing terms is the:",
+      "image": "COMM_2023_86.png",
+      "options": [
+        "Sales",
+        "Profit (or Loss)",
+        "Cost of Goods Sold",
+        "Breakeven Point"
+      ],
+      "answer": "Profit (or Loss)",
+      "explanation": "Profit is the reward for business risks and is calculated by subtracting all costs (both production and operating) from total revenue."
+    },
+    {
+      "id": "COMM_2023_87",
+      "text": "The major barrier to trade eliminated by banking services is that of:",
+      "image": "COMM_2023_87.png",
+      "options": [
+        "Distance",
+        "Risk",
+        "Finance (or Payment)",
+        "Time"
+      ],
+      "answer": "Finance (or Payment)",
+      "explanation": "Banks facilitate payments, provide credit, and manage foreign exchange, solving the financial barrier to transactions."
+    },
+    {
+      "id": "COMM_2023_88",
+      "text": "A system of marketing where the producer sells goods to an authorized dealer in a specific geographical area, prohibiting other dealers from entering, is called:",
+      "image": "COMM_2023_88.png",
+      "options": [
+        "Intensive Distribution",
+        "Exclusive Distribution",
+        "Selective Distribution",
+        "Direct Marketing"
+      ],
+      "answer": "Exclusive Distribution",
+      "explanation": "Exclusive distribution is often used for high-end, specialty products where the seller wants strong control over the dealer's service level and image."
+    },
+    {
+      "id": "COMM_2023_89",
+      "text": "The principle of insurance that holds that the insured must fully disclose all material facts to the insurer is:",
+      "image": "COMM_2023_89.png",
+      "options": [
+        "Subrogation",
+        "Indemnity",
+        "Utmost Good Faith (Uberrimae Fidei)",
+        "Proximate Cause"
+      ],
+      "answer": "Utmost Good Faith (Uberrimae Fidei)",
+      "explanation": "The contract is voidable if either party conceals or misrepresents a material fact during the formation of the contract."
+    },
+    {
+      "id": "COMM_2023_90",
+      "text": "The document issued by the carrier acknowledging receipt of goods for transportation by road or rail is the:",
+      "image": "COMM_2023_90.png",
+      "options": [
+        "Bill of Lading",
+        "Waybill (or Consignment Note)",
+        "Manifest",
+        "Airway Bill"
+      ],
+      "answer": "Waybill (or Consignment Note)",
+      "explanation": "A waybill serves as a contract of carriage and receipt, used for land transport. The Bill of Lading is similar but specifically for sea transport and represents title to the goods."
+    },
+    {
+      "id": "COMM_2023_91",
+      "text": "The legal obligation of a shareholder in a Private Limited Company (LTD) is restricted to:",
+      "image": "COMM_2023_91.png",
+      "options": [
+        "The value of all company assets",
+        "The unpaid amount on their shares",
+        "Their personal wealth",
+        "The total debt of the company"
+      ],
+      "answer": "The unpaid amount on their shares",
+      "explanation": "Limited liability is a core feature; once the shares are fully paid up, the shareholder has no further financial obligation, even if the company fails."
+    },
+    {
+      "id": "COMM_2023_92",
+      "text": "The marketing mix element dealing with how the product is communicated to the target audience (e.g., advertising, sales promotion) is:",
+      "image": "COMM_2023_92.png",
+      "options": [
+        "Product",
+        "Place",
+        "Promotion",
+        "Price"
+      ],
+      "answer": "Promotion",
+      "explanation": "Promotion encompasses all communication tools used to persuade customers to buy the product or service."
+    },
+    {
+      "id": "COMM_2023_93",
+      "text": "The type of retail outlet characterized by low overheads, selling only necessity goods, and often operating from stalls is the:",
+      "image": "COMM_2023_93.png",
+      "options": [
+        "Departmental Store",
+        "Supermarket",
+        "Open Market Stall (or Hawker)",
+        "Chain Store"
+      ],
+      "answer": "Open Market Stall (or Hawker)",
+      "explanation": "This represents traditional, small-scale retailing with minimal fixed infrastructure, focusing on convenience and basic necessities."
+    },
+    {
+      "id": "COMM_2023_94",
+      "text": "The main disadvantage of the sole proprietorship structure is its:",
+      "image": "COMM_2023_94.png",
+      "options": [
+        "High rate of taxation",
+        "Difficulty in decision-making",
+        "Unlimited liability",
+        "Lack of direct ownership control"
+      ],
+      "answer": "Unlimited liability",
+      "explanation": "This exposes the owner's personal assets to the business's debts, representing the highest level of risk."
+    },
+    {
+      "id": "COMM_2023_95",
+      "text": "A factor influencing business location that focuses on the availability of amenities like schools, hospitals, and housing is a:",
+      "image": "COMM_2023_95.png",
+      "options": [
+        "Economic factor",
+        "Social factor (or Community Services)",
+        "Fiscal factor",
+        "Geographical factor"
+      ],
+      "answer": "Social factor (or Community Services)",
+      "explanation": "Social factors are important for attracting and retaining qualified personnel, as they relate to the quality of life in the area."
+    },
+    {
+      "id": "COMM_2023_96",
+      "text": "The type of account a commercial bank offers that has no restriction on the number of withdrawals but does not earn interest is the:",
+      "image": "COMM_2023_96.png",
+      "options": [
+        "Savings Account",
+        "Fixed Deposit Account",
+        "Current Account (or Checking Account)",
+        "Investment Account"
+      ],
+      "answer": "Current Account (or Checking Account)",
+      "explanation": "Current accounts are designed for daily transactional needs and typically offer easy access to funds via cheques or debit cards, often in exchange for foregoing interest."
+    },
+    {
+      "id": "COMM_2023_97",
+      "text": "The law of insurance that implies that the cause of a loss must be covered by the policy is:",
+      "image": "COMM_2023_97.png",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Proximate Cause",
+        "Insurable Interest"
+      ],
+      "answer": "Proximate Cause",
+      "explanation": "The Proximate Cause is the dominant, effective, or immediate cause of the loss. The insurer only pays if the proximate cause is an insured peril."
+    },
+    {
+      "id": "COMM_2023_98",
+      "text": "The document that confirms that goods have been received by the buyer in good condition is the:",
+      "image": "COMM_2023_98.png",
+      "options": [
+        "Invoice",
+        "Goods Received Note (GRN)",
+        "Purchase Order",
+        "Delivery Note"
+      ],
+      "answer": "Goods Received Note (GRN)",
+      "explanation": "The GRN is an internal document generated by the receiving department, confirming the quantity and condition of goods delivered against the purchase order."
+    },
+    {
+      "id": "COMM_2023_99",
+      "text": "The stock exchange activity where speculators buy shares hoping to sell them quickly at a profit before the contract date is known as:",
+      "image": "COMM_2023_99.png",
+      "options": [
+        "Bulls",
+        "Bears",
+        "Stags",
+        "Jobbers"
+      ],
+      "answer": "Stags",
+      "explanation": "Stags are speculators who apply for shares in new issues (Primary Market) expecting to sell them immediately for a profit when trading begins (Secondary Market)."
+    },
+    {
+      "id": "COMM_2023_100",
+      "text": "The type of warehouse used by manufacturers for their raw materials, work-in-progress, and finished goods is a:",
+      "image": "COMM_2023_100.png",
+      "options": [
+        "Public Warehouse",
+        "Bonded Warehouse",
+        "Private Warehouse",
+        "Retail Warehouse"
+      ],
+      "answer": "Private Warehouse",
+      "explanation": "A private warehouse is owned and operated by a company to store its own goods, providing greater control and dedicated space."
+    },
+    {
+      "id": "COMM_2023_101",
+      "text": "The term for a country where its total value of imports exceeds its total value of exports is:",
+      "image": "COMM_2023_101.png",
+      "options": [
+        "Balance of Payments Surplus",
+        "Favourable Balance of Trade",
+        "Unfavourable (or Deficit) Balance of Trade",
+        "Equilibrium Balance"
+      ],
+      "answer": "Unfavourable (or Deficit) Balance of Trade",
+      "explanation": "A deficit occurs when the monetary value of imports of visible goods is greater than the monetary value of exports of visible goods."
+    },
+    {
+      "id": "COMM_2023_102",
+      "text": "Sales promotion techniques primarily target:",
+      "image": "COMM_2023_102.png",
+      "options": [
+        "Building long-term brand equity",
+        "Achieving immediate, short-term sales objectives",
+        "Providing detailed product information",
+        "Improving public image"
+      ],
+      "answer": "Achieving immediate, short-term sales objectives",
+      "explanation": "Sales promotions (e.g., coupons, discounts, free samples) are short-term incentives designed to stimulate faster or greater purchase of a product."
+    },
+    {
+      "id": "COMM_2023_103",
+      "text": "The document that serves as the final evidence of the formation of a limited liability company is the:",
+      "image": "COMM_2023_103.png",
+      "options": [
+        "Prospectus",
+        "Memorandum of Association",
+        "Certificate of Incorporation",
+        "Certificate of Trading"
+      ],
+      "answer": "Certificate of Incorporation",
+      "explanation": "This certificate is issued by the Registrar of Companies and officially brings the company into legal existence as a separate legal entity."
+    },
+    {
+      "id": "COMM_2023_104",
+      "text": "The process of selling a country's nationalized industries back to private investors is called:",
+      "image": "COMM_2023_104.png",
+      "options": [
+        "Nationalization",
+        "Privatization",
+        "Commercialization",
+        "Deregulation"
+      ],
+      "answer": "Privatization",
+      "explanation": "Privatization involves transferring ownership and control of government-owned assets or services to the private sector."
+    },
+    {
+      "id": "COMM_2023_105",
+      "text": "The negotiable instrument where an unconditional order is made by one person to another, requiring the latter to pay a fixed sum is a:",
+      "image": "COMM_2023_105.png",
+      "options": [
+        "Cheque",
+        "Promissory Note",
+        "Bill of Exchange",
+        "Money Order"
+      ],
+      "answer": "Bill of Exchange",
+      "explanation": "A Bill of Exchange is a three-party instrument (Drawer, Drawee, Payee) where the Drawer orders the Drawee to pay a sum to the Payee."
+    },
+    {
+      "id": "COMM_2023_106",
+      "text": "The term used for the total number of shareholders allowed in a Private Limited Company is usually limited to:",
+      "image": "COMM_2023_106.png",
+      "options": [
+        "7",
+        "10",
+        "20",
+        "50"
+      ],
+      "answer": "50",
+      "explanation": "The maximum number of non-employee shareholders is generally restricted to 50 in many jurisdictions (e.g., as per Nigeria's CAMA)."
+    },
+    {
+      "id": "COMM_2023_107",
+      "text": "The major function of the wholesaler that benefits the producer is:",
+      "image": "COMM_2023_107.png",
+      "options": [
+        "Providing credit to consumers",
+        "Financing by bulk purchase",
+        "Offering wide range of products",
+        "Direct marketing to consumers"
+      ],
+      "answer": "Financing by bulk purchase",
+      "explanation": "Wholesalers relieve producers of the need to finance large stocks by buying large quantities immediately, thus providing financial aid to the manufacturer."
+    },
+    {
+      "id": "COMM_2023_108",
+      "text": "The main purpose of a tariff barrier in international trade is:",
+      "image": "COMM_2023_108.png",
+      "options": [
+        "To restrict the quantity of imports",
+        "To increase the price of imported goods (protection and revenue)",
+        "To simplify customs procedures",
+        "To fund infrastructure in exporting countries"
+      ],
+      "answer": "To increase the price of imported goods (protection and revenue)",
+      "explanation": "A tariff is a tax on imports, designed to raise revenue and make imports less competitive against domestic goods."
+    },
+    {
+      "id": "COMM_2023_109",
+      "text": "A specialized type of transport best suited for carrying crude oil and natural gas over land is:",
+      "image": "COMM_2023_109.png",
+      "options": [
+        "Rail transport",
+        "Pipeline transport",
+        "Water transport",
+        "Air transport"
+      ],
+      "answer": "Pipeline transport",
+      "explanation": "Pipelines offer continuous, reliable, and cost-effective transportation for fluids and gases, especially over long distances."
+    },
+    {
+      "id": "COMM_2023_110",
+      "text": "The marketing function that involves assigning quality or class characteristics to products is:",
+      "image": "COMM_2023_110.png",
+      "options": [
+        "Branding",
+        "Packaging",
+        "Grading",
+        "Labeling"
+      ],
+      "answer": "Grading",
+      "explanation": "Grading sorts products into categories or classes (e.g., Grade A, B, C) based on predetermined standards, usually for primary or homogeneous products."
+    },
+    {
+      "id": "COMM_2023_111",
+      "text": "The term for a business owned and operated by the government is a:",
+      "image": "COMM_2023_111.png",
+      "options": [
+        "Public Limited Company",
+        "Sole Proprietorship",
+        "Public Corporation (or State-Owned Enterprise)",
+        "Partnership"
+      ],
+      "answer": "Public Corporation (or State-Owned Enterprise)",
+      "explanation": "These enterprises are established by statute, funded by the government, and managed by appointed boards to provide essential public goods or services."
+    },
+    {
+      "id": "COMM_2023_112",
+      "text": "The main instrument of fiscal policy used by the government to control inflation (too much money chasing too few goods) is:",
+      "image": "COMM_2023_112.png",
+      "options": [
+        "Decreasing taxation",
+        "Increasing government expenditure",
+        "Increasing taxation",
+        "Decreasing the Cash Reserve Ratio"
+      ],
+      "answer": "Increasing taxation",
+      "explanation": "Increasing taxes reduces disposable income, thereby decreasing consumer demand and pressure on prices (demand-pull inflation)."
+    },
+    {
+      "id": "COMM_2023_113",
+      "text": "The function of the stock exchange that provides a continuous market for securities is:",
+      "image": "COMM_2023_113.png",
+      "options": [
+        "Raising new capital",
+        "Facilitating trade (liquidity)",
+        "Protecting investors",
+        "Determining the price of securities"
+      ],
+      "answer": "Facilitating trade (liquidity)",
+      "explanation": "The secondary market (stock exchange) provides liquidity by enabling investors to easily sell their securities at any time, which in turn encourages long-term investment in the primary market."
+    },
+    {
+      "id": "COMM_2023_114",
+      "text": "The legal term used to describe the transfer of an insurance policy from the insured to a creditor is:",
+      "image": "COMM_2023_114.png",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Assignment",
+        "Proximate Cause"
+      ],
+      "answer": "Assignment",
+      "explanation": "Assignment transfers the rights (benefits) of the policy, often as collateral, particularly in the case of life assurance policies."
+    },
+    {
+      "id": "COMM_2023_115",
+      "text": "The term used for a large sum of money or property left to an organization in a will is a:",
+      "image": "COMM_2023_115.png",
+      "options": [
+        "Subscription",
+        "Donation",
+        "Legacy (or Endowment)",
+        "Grant"
+      ],
+      "answer": "Legacy (or Endowment)",
+      "explanation": "Legacies are non-recurring, capital receipts for non-profit organizations, derived from a deceased person's estate."
+    },
+    {
+      "id": "COMM_2023_116",
+      "text": "A cooperative society primarily concerned with granting loans to members is a:",
+      "image": "COMM_2023_116.png",
+      "options": [
+        "Producer Cooperative",
+        "Consumer Cooperative",
+        "Credit and Thrift Cooperative (or Co-op Bank)",
+        "Housing Cooperative"
+      ],
+      "answer": "Credit and Thrift Cooperative (or Co-op Bank)",
+      "explanation": "These societies encourage savings and provide affordable loans to members, operating as mutual financial institutions."
+    },
+    {
+      "id": "COMM_2023_117",
+      "text": "The document issued by the seller when goods are sent on a 'sale or return' basis is a:",
+      "image": "COMM_2023_117.png",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Proforma Invoice (or Delivery Note)",
+        "Credit Note"
+      ],
+      "answer": "Proforma Invoice (or Delivery Note)",
+      "explanation": "Since the sale is not final, a Proforma Invoice or Delivery Note is issued, not a full Invoice, as ownership has not yet passed."
+    },
+    {
+      "id": "COMM_2023_118",
+      "text": "The most appropriate method for transporting highly perishable goods like fresh fish or flowers over long distances is:",
+      "image": "COMM_2023_118.png",
+      "options": [
+        "Rail transport",
+        "Water transport",
+        "Air transport",
+        "Pipeline transport"
+      ],
+      "answer": "Air transport",
+      "explanation": "Air transport, despite its high cost, is necessary for high-value, time-sensitive, and highly perishable goods due to its speed."
+    },
+    {
+      "id": "COMM_2023_119",
+      "text": "The person who undertakes to pay the Bill of Exchange on the due date is the:",
+      "image": "COMM_2023_119.png",
+      "options": [
+        "Drawer",
+        "Payee",
+        "Drawee (or Acceptor)",
+        "Endorser"
+      ],
+      "answer": "Drawee (or Acceptor)",
+      "explanation": "The Drawee is the party who is ordered to pay. Once the Drawee signs the Bill, they become the Acceptor and are legally obliged to pay."
+    },
+    {
+      "id": "COMM_2023_120",
+      "text": "The major economic activity that links production to consumption is:",
+      "image": "COMM_2023_120.png",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "Commerce",
+        "Mining"
+      ],
+      "answer": "Commerce",
+      "explanation": "Commerce encompasses trade and aids to trade, covering all activities necessary for the transfer of goods and services from the manufacturer to the final consumer."
+    }
+  ]

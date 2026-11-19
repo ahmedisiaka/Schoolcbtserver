@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Magna Carta}$, signed in 1215, was significant because it:",
+        "image": "",
+        "options": [
+            "Established the Church of England",
+            "Limited the power of the English monarch",
+            "Declared war on France",
+            "Abolished serfdom in England"
+        ],
+        "answer": "Limited the power of the English monarch",
+        "explanation": "The Magna Carta established the principle that everyone is subject to the law, even the king, and guarantees the rights of individuals, the right to justice, and the right to a fair trial."
+    },
+    {
+        "id": "H02",
+        "text": "Which civilization built the city of $\\textbf{Tenochtitlán}$ on an island in Lake Texcoco?",
+        "image": "",
+        "options": [
+            "The Maya",
+            "The Inca",
+            "The Aztec",
+            "The Olmec"
+        ],
+        "answer": "The Aztec",
+        "explanation": "Tenochtitlán was the capital city of the Aztec Empire, founded in 1325, and is the site of modern-day Mexico City."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Fall of the Berlin Wall}$ in 1989 symbolized the end of which geopolitical era?",
+        "image": "",
+        "options": [
+            "The Great Depression",
+            "The Cold War",
+            "The Industrial Revolution",
+            "The Colonial Era"
+        ],
+        "answer": "The Cold War",
+        "explanation": "The fall of the wall symbolized the collapse of communism in Eastern Europe and the beginning of the end of the Cold War."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first emperor of the $\\textbf{Roman Empire}$?",
+        "image": "",
+        "options": [
+            "Julius Caesar",
+            "Augustus",
+            "Nero",
+            "Constantine"
+        ],
+        "answer": "Augustus",
+        "explanation": "While Julius Caesar laid the groundwork, his adopted son Octavian took the title Augustus and became the first official emperor in 27 BCE."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Bolshevik Revolution}$ of 1917 led to the establishment of which nation?",
+        "image": "",
+        "options": [
+            "The Russian Federation",
+            "The Soviet Union (USSR)",
+            "Poland",
+            "Czechoslovakia"
+        ],
+        "answer": "The Soviet Union (USSR)",
+        "explanation": "Led by Vladimir Lenin, the Bolsheviks overthrew the provisional government, leading to the creation of the world's first communist state."
+    },
+    {
+        "id": "H06",
+        "text": "Which trade route connected the East and West, facilitating the exchange of goods like silk and spices?",
+        "image": "",
+        "options": [
+            "The Trans-Saharan Route",
+            "The Silk Road",
+            "The Amber Road",
+            "The Incense Route"
+        ],
+        "answer": "The Silk Road",
+        "explanation": "The Silk Road was a network of trade routes connecting China and the Far East with the Middle East and Europe."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Protestant Reformation}$ was sparked by Martin Luther's publication of:",
+        "image": "",
+        "options": [
+            "The 95 Theses",
+            "The Communist Manifesto",
+            "The Prince",
+            "Utopia"
+        ],
+        "answer": "The 95 Theses",
+        "explanation": "In 1517, Martin Luther nailed his 95 Theses to the door of the Castle Church in Wittenberg, criticizing the Catholic Church's sale of indulgences."
+    },
+    {
+        "id": "H08",
+        "text": "Which war is associated with the term $\\textbf{Blitzkrieg}$?",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Korean War",
+            "The Vietnam War"
+        ],
+        "answer": "World War II",
+        "explanation": "Blitzkrieg, or 'lightning war', was a military tactic calculated to create psychological shock and resultant disorganization in enemy forces through the employment of surprise, speed, and superior firepower, used by Germany in WWII."
+    },
+    {
+        "id": "H09",
+        "text": "Who was the leader of the struggle against $\\textbf{Apartheid}$ in South Africa and became its first black president?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Kwame Nkrumah",
+            "Nelson Mandela",
+            "Jomo Kenyatta"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Nelson Mandela spent 27 years in prison for his anti-apartheid activities before being released and elected president in 1994."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Battle of Waterloo}$ (1815) marked the final defeat of:",
+        "image": "",
+        "options": [
+            "Napoleon Bonaparte",
+            "King Louis XVI",
+            "Kaiser Wilhelm II",
+            "Adolf Hitler"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Napoleon was defeated by a coalition of British and Prussian forces, ending his rule as Emperor of the French."
+    },
+    {
+        "id": "H11",
+        "text": "Which civilization developed the first known system of writing called $\\textbf{Cuneiform}$?",
+        "image": "",
+        "options": [
+            "Egyptians",
+            "Sumerians",
+            "Phoenicians",
+            "Harappans"
+        ],
+        "answer": "Sumerians",
+        "explanation": "The Sumerians of Mesopotamia developed cuneiform around 3400 BCE, using wedge-shaped marks on clay tablets."
+    },
+    {
+        "id": "H12",
+        "text": "The $\\textbf{Meiji Restoration}$ in Japan was primarily focused on:",
+        "image": "",
+        "options": [
+            "Returning to isolationism",
+            "Modernization and industrialization",
+            "Expanding the samurai class",
+            "Adopting Christianity"
+        ],
+        "answer": "Modernization and industrialization",
+        "explanation": "Beginning in 1868, the Meiji Restoration returned imperial rule to Japan and accelerated its transition into a modern, industrialized nation."
+    },
+    {
+        "id": "H13",
+        "text": "Who wrote the $\\textbf{Declaration of Independence}$ for the United States?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "answer": "Thomas Jefferson",
+        "explanation": "Thomas Jefferson was the primary author of the document, which was adopted on July 4, 1776."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Black Death}$ that devastated Europe in the 14th century was caused by:",
+        "image": "",
+        "options": [
+            "Influenza",
+            "Smallpox",
+            "Bubonic Plague",
+            "Cholera"
+        ],
+        "answer": "Bubonic Plague",
+        "explanation": "The plague is estimated to have killed 30% to 60% of Europe's population between 1347 and 1351."
+    },
+    {
+        "id": "H15",
+        "text": "Which empire was ruled by $\\textbf{Mansa Musa}$, considered one of the wealthiest individuals in history?",
+        "image": "",
+        "options": [
+            "The Songhai Empire",
+            "The Mali Empire",
+            "The Ghana Empire",
+            "The Kingdom of Kush"
+        ],
+        "answer": "The Mali Empire",
+        "explanation": "Mansa Musa was the ruler of the Mali Empire in the 14th century and is famous for his wealthy pilgrimage to Mecca."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{French Revolution}$ began with the storming of which structure?",
+        "image": "",
+        "options": [
+            "The Palace of Versailles",
+            "The Bastille",
+            "The Tuileries",
+            "Notre Dame Cathedral"
+        ],
+        "answer": "The Bastille",
+        "explanation": "On July 14, 1789, revolutionaries stormed the Bastille, a medieval fortress used as a prison, signaling the start of the revolution."
+    },
+    {
+        "id": "H17",
+        "text": "Which 1962 event brought the world to the brink of nuclear war?",
+        "image": "",
+        "options": [
+            "The Bay of Pigs Invasion",
+            "The Cuban Missile Crisis",
+            "The Berlin Blockade",
+            "The Korean War"
+        ],
+        "answer": "The Cuban Missile Crisis",
+        "explanation": "The confrontation between the US and the Soviet Union over Soviet ballistic missiles deployed in Cuba is considered the closest the Cold War came to escalating into a full-scale nuclear war."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Renaissance}$ began in which modern-day country?",
+        "image": "",
+        "options": [
+            "France",
+            "England",
+            "Italy",
+            "Spain"
+        ],
+        "answer": "Italy",
+        "explanation": "The Renaissance began in the city-states of Italy, such as Florence, in the 14th century before spreading to the rest of Europe."
+    },
+    {
+        "id": "H19",
+        "text": "Which explorer is credited with the first circumnavigation of the Earth, although he died during the voyage?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Ferdinand Magellan",
+            "Francis Drake"
+        ],
+        "answer": "Ferdinand Magellan",
+        "explanation": "Magellan led the expedition that first circumnavigated the globe, though he was killed in the Philippines; Juan Sebastián Elcano completed the voyage."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Code of Hammurabi}$ is one of the earliest examples of:",
+        "image": "",
+        "options": [
+            "A written constitution",
+            "A codified set of laws",
+            "A religious text",
+            "A navigational chart"
+        ],
+        "answer": "A codified set of laws",
+        "explanation": "The Code of Hammurabi is a well-preserved Babylonian code of law of ancient Mesopotamia, dating back to about 1754 BCE."
+    },
+    {
+        "id": "H21",
+        "text": "Which war officially ended with the $\\textbf{Treaty of Versailles}$?",
+        "image": "",
+        "options": [
+            "World War I",
+            "The Franco-Prussian War",
+            "The Crimean War",
+            "World War II"
+        ],
+        "answer": "World War I",
+        "explanation": "The Treaty of Versailles imposed harsh reparations and territorial losses on Germany after WWI."
+    },
+    {
+        "id": "H22",
+        "text": "Who was the leader of the Indian independence movement known for his philosophy of $\\textbf{nonviolent resistance}$?",
+        "image": "",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah",
+            "Indira Gandhi"
+        ],
+        "answer": "Mahatma Gandhi",
+        "explanation": "Gandhi led India to independence from British rule and inspired movements for civil rights and freedom across the world."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Byzantine Empire}$ was the continuation of which empire in the East?",
+        "image": "",
+        "options": [
+            "The Ottoman Empire",
+            "The Roman Empire",
+            "The Persian Empire",
+            "The Holy Roman Empire"
+        ],
+        "answer": "The Roman Empire",
+        "explanation": "After the Western Roman Empire fell, the Eastern Roman Empire (Byzantine Empire) continued for another thousand years."
+    },
+    {
+        "id": "H24",
+        "text": "The invention of the $\\textbf{Printing Press}$ by Johannes Gutenberg occurred in which century?",
+        "image": "",
+        "options": [
+            "14th Century",
+            "15th Century",
+            "16th Century",
+            "17th Century"
+        ],
+        "answer": "15th Century",
+        "explanation": "Gutenberg introduced the movable type printing press to Europe around 1440."
+    },
+    {
+        "id": "H25",
+        "text": "Which US President issued the $\\textbf{Emancipation Proclamation}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Issued in 1863 during the Civil War, it declared that all persons held as slaves within the rebellious states are, and henceforward shall be free."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Opium Wars}$ were fought between China and which country?",
+        "image": "",
+        "options": [
+            "France",
+            "United States",
+            "Great Britain",
+            "Japan"
+        ],
+        "answer": "Great Britain",
+        "explanation": "The Opium Wars (1839–1860) were disputes over British trade in China and China's sovereignty."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the primary author of $\\textbf{The Communist Manifesto}$?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Joseph Stalin",
+            "Friedrich Engels"
+        ],
+        "answer": "Karl Marx",
+        "explanation": "Karl Marx, with assistance from Friedrich Engels, wrote the manifesto in 1848, outlining the theories of communism."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Great Depression}$ began with the stock market crash in which year?",
+        "image": "",
+        "options": [
+            "1919",
+            "1929",
+            "1939",
+            "1945"
+        ],
+        "answer": "1929",
+        "explanation": "The crash of October 1929 (Black Tuesday) signaled the beginning of the Great Depression."
+    },
+    {
+        "id": "H29",
+        "text": "Which ancient wonder was located in $\\textbf{Alexandria}$, Egypt?",
+        "image": "",
+        "options": [
+            "The Hanging Gardens",
+            "The Colossus",
+            "The Lighthouse (Pharos)",
+            "The Temple of Artemis"
+        ],
+        "answer": "The Lighthouse (Pharos)",
+        "explanation": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Manhattan Project}$ was the code name for the development of:",
+        "image": "",
+        "options": [
+            "The Internet",
+            "The Atomic Bomb",
+            "Space Travel",
+            "Radar Technology"
+        ],
+        "answer": "The Atomic Bomb",
+        "explanation": "The Manhattan Project was a research and development undertaking during World War II that produced the first nuclear weapons."
+    },
+    {
+        "id": "H31",
+        "text": "Simon Bolivar is known as 'The Liberator' for his role in independence movements in:",
+        "image": "",
+        "options": [
+            "Southeast Asia",
+            "South America",
+            "Africa",
+            "Eastern Europe"
+        ],
+        "answer": "South America",
+        "explanation": "Bolivar played a key role in Latin America's successful struggle for independence from the Spanish Empire."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Partition of India}$ in 1947 created which two independent nations?",
+        "image": "",
+        "options": [
+            "India and Bangladesh",
+            "India and Pakistan",
+            "India and Sri Lanka",
+            "Pakistan and Afghanistan"
+        ],
+        "answer": "India and Pakistan",
+        "explanation": "The partition divided British India into two independent dominions: India and Pakistan."
+    },
+    {
+        "id": "H33",
+        "text": "Which civilization is known for constructing the $\\textbf{Great Wall}$ to protect against northern invasions?",
+        "image": "",
+        "options": [
+            "Ancient China",
+            "The Mongols",
+            "The Romans",
+            "The Persians"
+        ],
+        "answer": "Ancient China",
+        "explanation": "Several walls were built from as early as the 7th century BC, later joined together by Qin Shi Huang, the first Emperor of China."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 resulted in the conquest of England by:",
+        "image": "",
+        "options": [
+            "The Vikings",
+            "The Normans",
+            "The Saxons",
+            "The Romans"
+        ],
+        "answer": "The Normans",
+        "explanation": "William the Conqueror led the Norman-French army to victory over the English king Harold Godwinson."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Scientific Revolution}$ is traditionally said to have started with the publication of 'On the Revolutions of the Heavenly Spheres' by:",
+        "image": "",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Johannes Kepler"
+        ],
+        "answer": "Nicolaus Copernicus",
+        "explanation": "Copernicus formulated a model of the universe that placed the Sun rather than Earth at the center of the universe."
+    },
+    {
+        "id": "H36",
+        "text": "Which political organization was founded in 1945 to promote international cooperation?",
+        "image": "",
+        "options": [
+            "The League of Nations",
+            "The United Nations",
+            "NATO",
+            "The European Union"
+        ],
+        "answer": "The United Nations",
+        "explanation": "The UN was established after World War II to prevent another such conflict."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Tudor Dynasty}$ ruled which country from 1485 to 1603?",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "England",
+            "Scotland"
+        ],
+        "answer": "England",
+        "explanation": "The Tudors include famous monarchs like Henry VIII and Elizabeth I."
+    },
+    {
+        "id": "H38",
+        "text": "Who was the dictator of Germany during the $\\textbf{Third Reich}$?",
+        "image": "",
+        "options": [
+            "Benito Mussolini",
+            "Adolf Hitler",
+            "Joseph Stalin",
+            "Francisco Franco"
+        ],
+        "answer": "Adolf Hitler",
+        "explanation": "Hitler initiated World War II in Europe and was central to the Holocaust."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Columbian Exchange}$ refers to:",
+        "image": "",
+        "options": [
+            "The trade of spices for gold",
+            "The transfer of plants, animals, culture, and diseases between the Americas and the Old World",
+            "The purchase of land in Columbia",
+            "A peace treaty between Spain and Portugal"
+        ],
+        "answer": "The transfer of plants, animals, culture, and diseases between the Americas and the Old World",
+        "explanation": "Following Christopher Columbus's voyages, this widespread exchange significantly altered the history of the world."
+    },
+    {
+        "id": "H40",
+        "text": "Which empire was known as the $\\textbf{'Sick Man of Europe'}$ in the 19th and early 20th centuries?",
+        "image": "",
+        "options": [
+            "The Austro-Hungarian Empire",
+            "The Ottoman Empire",
+            "The Russian Empire",
+            "The Spanish Empire"
+        ],
+        "answer": "The Ottoman Empire",
+        "explanation": "The term was used to describe the declining power and stability of the Ottoman Empire before its dissolution after WWI."
+    }
+]

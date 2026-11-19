@@ -1,0 +1,522 @@
+[
+    {
+      "id": "Q41",
+      "topic": "States of Matter",
+      "text": "Which of the following is true about the particles in a liquid state?",
+      "options": [
+        "They are held by very strong forces and vibrate about fixed positions.",
+        "They are far apart and move randomly in all directions.",
+        "They are closely packed but can slide past one another.",
+        "They possess the maximum amount of kinetic energy."
+      ],
+      "answer": "They are closely packed but can slide past one another.",
+      "explanation": "Liquid particles are close together (closely packed) but the forces between them are weak enough to allow them to move relative to each other (slide past one another), giving liquids a definite volume but no definite shape."
+    },
+    {
+      "id": "Q42",
+      "topic": "Mixtures and Separation",
+      "text": "The best method for separating a mixture of powdered iron and sulphur is:",
+      "options": [
+        "Sublimation",
+        "Fractional distillation",
+        "Using a suitable solvent",
+        "Using a magnet"
+      ],
+      "answer": "Using a magnet",
+      "explanation": "Iron is ferromagnetic and will be attracted by a magnet, while sulfur is not. This difference in magnetic property allows for simple physical separation."
+    },
+    {
+      "id": "Q43",
+      "topic": "Atomic Structure",
+      "text": "An element $\\text{Z}$ has the atomic number 17. The ion formed by $\\text{Z}$ is most likely to be:",
+      "options": [
+        "$\\text{Z}^+$",
+        "$\\text{Z}^{2+}$",
+        "$\\text{Z}^-$",
+        "$\\text{Z}^{2-}$"
+      ],
+      "answer": "$\\text{Z}^-$",
+      "explanation": "Atomic number 17 means the element has the electronic configuration $2, 8, 7$ (Group 17, Halogens). To attain a stable octet, it needs to gain one electron, forming a singly charged negative ion ($\\text{Z}^-$)."
+    },
+    {
+      "id": "Q44",
+      "topic": "Stoichiometry (Mole Concept)",
+      "text": "Calculate the mass of $0.4 \\text{ moles}$ of Sodium Trioxonitrate (V) ($\\text{NaNO}_3$). [$\\text{Na}=23, \\text{N}=14, \\text{O}=16$].",
+      "options": [
+        "$34.0 \\text{ g}$",
+        "$85.0 \\text{ g}$",
+        "$3.40 \\text{ g}$",
+        "$34.0 \\text{ g}$"
+      ],
+      "answer": "34.0 g",
+      "explanation": "Molar mass of $\\text{NaNO}_3 = 23 + 14 + 3(16) = 85 \\text{ g/mol}$. Mass = Moles $\\times$ Molar mass $= 0.4 \\text{ mol} \\times 85 \\text{ g/mol} = 34.0 \\text{ g}$."
+    },
+    {
+      "id": "Q45",
+      "topic": "Periodic Table",
+      "text": "Which of the following properties decreases across the period in the periodic table?",
+      "options": [
+        "Atomic radius",
+        "Electronegativity",
+        "Ionization energy",
+        "Non-metallic character"
+      ],
+      "answer": "Atomic radius",
+      "explanation": "Across a period, the effective nuclear charge increases, pulling the outer electrons closer to the nucleus, thus decreasing the atomic radius. Electronegativity and Ionization energy generally increase."
+    },
+    {
+      "id": "Q46",
+      "topic": "Chemical Bonding",
+      "text": "The type of bond in the carbon (II) oxide ($\\text{CO}$) molecule is:",
+      "options": [
+        "Ionic",
+        "Dative covalent and covalent",
+        "Metallic",
+        "Hydrogen bond"
+      ],
+      "answer": "Dative covalent and covalent",
+      "explanation": "The $\\text{CO}$ molecule has two normal covalent bonds and one dative (coordinate) covalent bond, where one atom (Oxygen) contributes both electrons to the shared pair."
+    },
+    {
+      "id": "Q47",
+      "topic": "Gas Laws (Combined)",
+      "text": "A given mass of gas occupies $200 \\text{ cm}^3$ at $20 \\text{ \u00b0C}$ and $700 \\text{ mmHg}$. What is the volume at $40 \\text{ \u00b0C}$ and $760 \\text{ mmHg}$?",
+      "options": [
+        "$211.7 \\text{ cm}^3$",
+        "$188.4 \\text{ cm}^3$",
+        "$200.0 \\text{ cm}^3$",
+        "$225.5 \\text{ cm}^3$"
+      ],
+      "answer": "211.7 cm^3",
+      "explanation": "Use the General Gas Equation: $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$. $T_1 = 20 + 273 = 293 \\text{ K}$, $T_2 = 40 + 273 = 313 \\text{ K}$. $V_2 = V_1 \\times \\frac{P_1}{P_2} \\times \\frac{T_2}{T_1} = 200 \\times \\frac{700}{760} \\times \\frac{313}{293} \\approx 211.7 \\text{ cm}^3$."
+    },
+    {
+      "id": "Q48",
+      "topic": "Solutions",
+      "text": "The boiling point of a solvent is increased when a non-volatile solute is added. This phenomenon is known as:",
+      "options": [
+        "Osmosis",
+        "Vapour pressure lowering",
+        "Ebullioscopy (Boiling point elevation)",
+        "Freezing point depression"
+      ],
+      "answer": "Ebullioscopy (Boiling point elevation)",
+      "explanation": "The addition of a non-volatile solute lowers the vapour pressure of the solution, requiring a higher temperature to reach the external pressure (boiling point). This is a colligative property."
+    },
+    {
+      "id": "Q49",
+      "topic": "Rates of Reaction",
+      "text": "In a chemical reaction, the rate is often expressed in terms of the change in concentration of the reactant or product per unit time. The unit is typically:",
+      "options": [
+        "$\\text{mol/dm}^3$",
+        "$\\text{dm}^3/\\text{mol}$",
+        "$\\text{mol/dm}^3\\text{s}$",
+        "$\\text{mol}\\text{ s}$"
+      ],
+      "answer": "$\\text{mol/dm}^3\\text{s}$",
+      "explanation": "Rate of reaction = $\\frac{\\text{Change in concentration}}{\\text{Change in time}}$. Concentration unit is $\\text{mol/dm}^3$ and time unit is $\\text{s}$, giving $\\text{mol/dm}^3\\text{s}$."
+    },
+    {
+      "id": "Q50",
+      "topic": "Redox Reactions",
+      "text": "Which of the following substances acts as an oxidizing agent in the reaction: $\\text{H}_2\\text{S} + \\text{Cl}_2 \\to 2\\text{HCl} + \\text{S}$?",
+      "options": [
+        "$\\text{H}_2\\text{S}$",
+        "$\\text{Cl}_2$",
+        "$\\text{HCl}$",
+        "$\\text{S}$"
+      ],
+      "answer": "$\\text{Cl}_2$",
+      "explanation": "Chlorine ($\\text{Cl}_2$) is reduced (oxidation state changes from $0$ to $-1$ in $\\text{HCl}$), meaning it causes oxidation in another species and is therefore the oxidizing agent."
+    },
+    {
+      "id": "Q51",
+      "topic": "Chemical Equilibrium",
+      "text": "For the system $\\text{PCl}_5(\\text{g}) \\rightleftharpoons \\text{PCl}_3(\\text{g}) + \\text{Cl}_2(\\text{g})$, the expression for the equilibrium constant $K_c$ is:",
+      "options": [
+        "$\\frac{[\\text{PCl}_5]}{[\\text{PCl}_3][\\text{Cl}_2]}$",
+        "$\\frac{[\\text{PCl}_3][\\text{Cl}_2]}{[\\text{PCl}_5]}$",
+        "$\\frac{[\\text{PCl}_3]}{[\\text{PCl}_5][\\text{Cl}_2]}$",
+        "$\\frac{[\\text{PCl}_3] + [\\text{Cl}_2]}{[\\text{PCl}_5]}$"
+      ],
+      "answer": "$\\frac{[\\text{PCl}_3][\\text{Cl}_2]}{[\\text{PCl}_5]}$",
+      "explanation": "The equilibrium constant $K_c$ is the ratio of the product of the concentrations of the products to the product of the concentrations of the reactants, each raised to the power of their stoichiometric coefficients."
+    },
+    {
+      "id": "Q52",
+      "topic": "Electrochemistry",
+      "text": "The process of coating one metal with another using electrolysis is called:",
+      "options": [
+        "Anodizing",
+        "Electrowinning",
+        "Electroplating",
+        "Electrolysis"
+      ],
+      "answer": "Electroplating",
+      "explanation": "Electroplating is specifically the process of depositing a thin layer of metal onto a conductive surface using an electric current in an electrochemical cell."
+    },
+    {
+      "id": "Q53",
+      "topic": "Acids and Bases",
+      "text": "According to the Bronsted-Lowry theory, an acid is a substance that:",
+      "options": [
+        "Dissociates to produce $\\text{OH}^-$ ions.",
+        "Accepts a pair of electrons.",
+        "Donates a proton ($\\text{H}^+$).",
+        "Accepts a proton ($\\text{H}^+$)."
+      ],
+      "answer": "Donates a proton ($\\text{H}^+$).",
+      "explanation": "A Bronsted-Lowry acid is a proton ($\\text{H}^+$) donor, while a base is a proton acceptor."
+    },
+    {
+      "id": "Q54",
+      "topic": "Industrial Chemistry (Haber Process)",
+      "text": "Which of the following conditions is most favourable for the industrial production of ammonia via the Haber process?",
+      "options": [
+        "High temperature and low pressure.",
+        "Low temperature and low pressure.",
+        "High temperature and high pressure.",
+        "Low temperature and high pressure."
+      ],
+      "answer": "Low temperature and high pressure.",
+      "explanation": "The Haber process is $\\text{N}_2 + 3\\text{H}_2 \\rightleftharpoons 2\\text{NH}_3, \\Delta H = -92 \\text{ kJ}$. An exothermic reaction is favored by low temperature, and the reaction producing fewer moles of gas is favored by high pressure (though in practice, a compromise high temperature is used for kinetic reasons)."
+    },
+    {
+      "id": "Q55",
+      "topic": "Organic Chemistry (Nomenclature)",
+      "text": "What is the $\\text{IUPAC}$ name for the compound $\\text{CH}_3\\text{CH}_2\\text{COOCH}_3$?",
+      "options": [
+        "Propyl ethanoate",
+        "Methyl propanoate",
+        "Ethyl methanoate",
+        "Butyl ethanoate"
+      ],
+      "answer": "Methyl propanoate",
+      "explanation": "This is an ester. The alkyl group from the alcohol part is 'methyl' ($\\text{CH}_3$), and the acid part has three carbons (Propanoic acid), making it 'propanoate'. Thus, the name is Methyl propanoate."
+    },
+    {
+      "id": "Q56",
+      "topic": "Metals",
+      "text": "Duralumin, an alloy of Aluminium, is preferred in aircraft construction primarily because it is:",
+      "options": [
+        "Highly malleable and ductile",
+        "A good conductor of electricity",
+        "Hard and light",
+        "Resistant to rust and high temperature"
+      ],
+      "answer": "Hard and light",
+      "explanation": "Duralumin offers a good combination of high strength (hardness) and low density (lightness), which are crucial requirements for aircraft components."
+    },
+    {
+      "id": "Q57",
+      "topic": "Radioactivity",
+      "text": "If the half-life of a radioactive element is $5$ minutes, how long will it take for $\\frac{7}{8}$ of the sample to decay?",
+      "options": [
+        "$5 \\text{ minutes}$",
+        "$10 \\text{ minutes}$",
+        "$15 \\text{ minutes}$",
+        "$20 \\text{ minutes}$"
+      ],
+      "answer": "15 minutes",
+      "explanation": "If $\\frac{7}{8}$ decays, the fraction remaining is $1 - \\frac{7}{8} = \\frac{1}{8}$. $\\frac{1}{8} = (\\frac{1}{2})^3$. Thus, 3 half-lives are required. Time $= 3 \\times 5 \\text{ minutes} = 15 \\text{ minutes}$."
+    },
+    {
+      "id": "Q58",
+      "topic": "Separation Techniques",
+      "text": "Fractional distillation is used to separate components of a mixture that:",
+      "options": [
+        "Have the same boiling points.",
+        "Are immiscible liquids.",
+        "Have close, but different, boiling points.",
+        "Are non-volatile solids."
+      ],
+      "answer": "Have close, but different, boiling points.",
+      "explanation": "Fractional distillation is a refinement of distillation used to separate miscible liquids whose boiling points are close to each other, like the components of crude oil or ethanol and water."
+    },
+    {
+      "id": "Q59",
+      "topic": "Water and Environment",
+      "text": "The reagent used to test for the presence of temporary hardness in water is:",
+      "options": [
+        "Dilute $\\text{HCl}$",
+        "A solution of $\\text{NaOH}$",
+        "Soap solution",
+        "Ammonium chloride"
+      ],
+      "answer": "Soap solution",
+      "explanation": "Hard water (temporary or permanent) reacts with soap solution to form a precipitate (scum) before lathering. Soap solution is the general test for water hardness."
+    },
+    {
+      "id": "Q60",
+      "topic": "Solubility and Energy",
+      "text": "When solid $\\text{KNO}_3$ dissolves in water, the test tube feels cold. This indicates that the dissolving process is:",
+      "options": [
+        "Exothermic",
+        "Endothermic",
+        "Neutral",
+        "Isothermal"
+      ],
+      "answer": "Endothermic",
+      "explanation": "If the surrounding (the test tube) loses heat and feels cold, the heat is being absorbed by the dissolving process, meaning the enthalpy change of solution ($\\Delta H_{\\text{sol}}$) is positive (endothermic)."
+    },
+    {
+      "id": "Q61",
+      "topic": "Environmental Chemistry",
+      "text": "Which of the following pollutants is responsible for the corrosion of limestone buildings in industrial areas?",
+      "options": [
+        "Carbon (II) oxide",
+        "Sulphur (IV) oxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "answer": "Sulphur (IV) oxide",
+      "explanation": "Sulphur (IV) oxide ($\\text{SO}_2$) dissolves in rainwater to form sulphuric acid, a component of acid rain, which actively corrodes calcareous (limestone/marble) structures."
+    },
+    {
+      "id": "Q62",
+      "topic": "Nomenclature (Inorganic)",
+      "text": "The systematic name for $\\text{FeSO}_4 \\cdot 7\\text{H}_2\\text{O}$ is:",
+      "options": [
+        "Iron (III) sulphate heptahydrate",
+        "Iron (II) sulphide heptahydrate",
+        "Iron (II) tetraoxosulphate (VI) heptahydrate",
+        "Iron (III) tetraoxosulphate (VI) heptahydrate"
+      ],
+      "answer": "Iron (II) tetraoxosulphate (VI) heptahydrate",
+      "explanation": "The iron is in the $+2$ oxidation state ($\text{Fe}^{2+}$), the polyatomic anion is the tetraoxosulphate (VI) ion ($\text{SO}_4^{2-}$), and there are seven molecules of water of crystallization (heptahydrate)."
+    },
+    {
+      "id": "Q63",
+      "topic": "Organic Functional Groups",
+      "text": "The functional group that characterizes the alkanols (alcohols) is the:",
+      "options": [
+        "Carboxyl group",
+        "Hydroxyl group",
+        "Carbonyl group",
+        "Ether linkage"
+      ],
+      "answer": "Hydroxyl group",
+      "explanation": "The hydroxyl group ($\text{-OH}$) is the functional group found in all alkanols."
+    },
+    {
+      "id": "Q64",
+      "topic": "Volumetric Analysis",
+      "text": "A standard solution is a solution whose concentration:",
+      "options": [
+        "Is approximately known.",
+        "Has been calculated before use.",
+        "Changes rapidly over time.",
+        "Is accurately known."
+      ],
+      "answer": "Is accurately known.",
+      "explanation": "A standard solution is precisely prepared so that its concentration is known to a high degree of accuracy, which is essential for titrations."
+    },
+    {
+      "id": "Q65",
+      "topic": "Chemical Bonding",
+      "text": "Which of the following compounds will conduct electricity in the molten state but not in the solid state?",
+      "options": [
+        "Sugar",
+        "Sulphur",
+        "Potassium chloride",
+        "Graphite"
+      ],
+      "answer": "Potassium chloride",
+      "explanation": "Potassium chloride ($\text{KCl}$) is an ionic compound. In the solid state, its ions are fixed and cannot move, but when molten, the ions are free to move and conduct electricity."
+    },
+    {
+      "id": "Q66",
+      "topic": "Calculations",
+      "text": "What is the volume of gas produced at S.T.P. when $10 \\text{ g}$ of $\\text{CaCO}_3$ reacts completely with dilute acid? [Molar volume at S.T.P. = $22.4 \\text{ dm}^3$]",
+      "options": [
+        "$2.24 \\text{ dm}^3$",
+        "$4.48 \\text{ dm}^3$",
+        "$22.4 \\text{ dm}^3$",
+        "$1.12 \\text{ dm}^3$"
+      ],
+      "answer": "$2.24 \\text{ dm}^3$",
+      "explanation": "Reaction: $\\text{CaCO}_3 + 2\\text{HCl} \\to \\text{CaCl}_2 + \\text{H}_2\\text{O} + \\text{CO}_2$. Molar mass of $\\text{CaCO}_3 = 100 \\text{ g/mol}$. Moles of $\\text{CaCO}_3 = \\frac{10}{100} = 0.1 \\text{ mol}$. Molar ratio $\\text{CaCO}_3 : \\text{CO}_2 = 1:1$. Moles of $\\text{CO}_2 = 0.1 \\text{ mol}$. Volume of $\\text{CO}_2 = 0.1 \\times 22.4 \\text{ dm}^3 = 2.24 \\text{ dm}^3$."
+    },
+    {
+      "id": "Q67",
+      "topic": "Thermal Decomposition",
+      "text": "Which of the following metal nitrates decomposes on heating to produce the metal, Nitrogen (IV) oxide, and Oxygen gas?",
+      "options": [
+        "Sodium nitrate",
+        "Calcium nitrate",
+        "Copper (II) nitrate",
+        "Silver nitrate"
+      ],
+      "answer": "Silver nitrate",
+      "explanation": "Only the nitrates of the least reactive metals (below Copper in the reactivity series, like Silver and Mercury) decompose directly into the metal, $\\text{NO}_2$, and $\\text{O}_2$. Other nitrates decompose to form the metal oxide."
+    },
+    {
+      "id": "Q68",
+      "topic": "Periodic Law",
+      "text": "The Modern Periodic Law is based on the:",
+      "options": [
+        "Atomic weight of elements",
+        "Isotopic mass of elements",
+        "Atomic number of elements",
+        "Relative molecular mass of elements"
+      ],
+      "answer": "Atomic number of elements",
+      "explanation": "Moseley's work showed that the properties of elements vary periodically with their atomic number, not their atomic mass, leading to the Modern Periodic Law."
+    },
+    {
+      "id": "Q69",
+      "topic": "Alkanes",
+      "text": "The complete combustion of an alkane produces:",
+      "options": [
+        "Carbon (II) oxide and water",
+        "Carbon and hydrogen",
+        "Carbon (IV) oxide and hydrogen",
+        "Carbon (IV) oxide and water"
+      ],
+      "answer": "Carbon (IV) oxide and water",
+      "explanation": "Alkanes react with excess oxygen to produce carbon dioxide ($\text{CO}_2$) and water ($\text{H}_2\text{O}$). $\\text{C}_n\\text{H}_{2n+2} + \\frac{3n+1}{2}\\text{O}_2 \\to n\\text{CO}_2 + (n+1)\\text{H}_2\\text{O}$."
+    },
+    {
+      "id": "Q70",
+      "topic": "Separation Techniques",
+      "text": "The separation technique that relies on the difference in density between two immiscible liquids is:",
+      "options": [
+        "Decantation",
+        "Centrifugation",
+        "Separating funnel",
+        "Sieving"
+      ],
+      "answer": "Separating funnel",
+      "explanation": "A separating funnel is specifically designed to separate immiscible liquids (like oil and water). The denser liquid is run off from the bottom layer."
+    },
+    {
+      "id": "Q71",
+      "topic": "Acids, Bases, and Salts",
+      "text": "Which of the following salts is acidic?",
+      "options": [
+        "Sodium chloride ($\text{NaCl}$)",
+        "Ammonium chloride ($\text{NH}_4\\text{Cl}$)",
+        "Sodium carbonate ($\text{Na}_2\\text{CO}_3$)",
+        "Potassium nitrate ($\text{KNO}_3$)"
+      ],
+      "answer": "Ammonium chloride ($\text{NH}_4\\text{Cl}$)",
+      "explanation": "Ammonium chloride is formed from a weak base ($\text{NH}_3$) and a strong acid ($\text{HCl}$). Its solution will be acidic due to the hydrolysis of the ammonium ion."
+    },
+    {
+      "id": "Q72",
+      "topic": "Reactivity Series",
+      "text": "Which element in the reactivity series can displace hydrogen from dilute acids?",
+      "options": [
+        "Copper",
+        "Silver",
+        "Zinc",
+        "Gold"
+      ],
+      "answer": "Zinc",
+      "explanation": "Only metals that are above hydrogen in the electrochemical/reactivity series can displace hydrogen from dilute acids. Zinc is above hydrogen, while Copper, Silver, and Gold are below."
+    },
+    {
+      "id": "Q73",
+      "topic": "Kinetic Theory",
+      "text": "Which assumption of the Kinetic Theory of Gases is primarily responsible for Boyle's Law?",
+      "options": [
+        "Gas molecules have negligible volume.",
+        "Collisions are perfectly elastic.",
+        "The average kinetic energy is proportional to temperature.",
+        "There are no forces of attraction or repulsion between molecules."
+      ],
+      "answer": "Gas molecules have negligible volume.",
+      "explanation": "Boyle's Law ($P \\propto 1/V$) describes the relationship between pressure and volume. When pressure increases, volume decreases, which is only possible if the volume occupied by the molecules themselves is negligible compared to the total volume."
+    },
+    {
+      "id": "Q74",
+      "topic": "Chemical Calculations",
+      "text": "Calculate the percentage by mass of oxygen in $\\text{NaOH}$. [$\\text{Na}=23, \\text{O}=16, \\text{H}=1$].",
+      "options": [
+        "$16\\%$",
+        "$40\\%$",
+        "$60\\%$",
+        "$23\\%$"
+      ],
+      "answer": "40%",
+      "explanation": "Molar mass of $\\text{NaOH} = 23 + 16 + 1 = 40 \\text{ g/mol}$. Mass of $\\text{O} = 16 \\text{ g}$. Percentage of $\\text{O} = \\frac{16}{40} \\times 100\\% = 40\\%$."
+    },
+    {
+      "id": "Q75",
+      "topic": "Organic Reactions",
+      "text": "The reaction between an alkanoic acid and an alkanol in the presence of a mineral acid catalyst is called:",
+      "options": [
+        "Polymerization",
+        "Hydrogenation",
+        "Saponification",
+        "Esterification"
+      ],
+      "answer": "Esterification",
+      "explanation": "The reaction between an acid and an alcohol to form an ester and water is known as esterification (or condensation)."
+    },
+    {
+      "id": "Q76",
+      "topic": "Oxidation Numbers",
+      "text": "What is the oxidation state of Sulphur in the tetraoxosulphate (VI) ion, $\\text{SO}_4^{2-}$?",
+      "options": [
+        "$+2$",
+        "$+4$",
+        "$+6$",
+        "$+8$"
+      ],
+      "answer": "+6",
+      "explanation": "Let the oxidation state of Sulphur be $x$. $x + 4(-2) = -2$ (net charge). $x - 8 = -2$. $x = +6$."
+    },
+    {
+      "id": "Q77",
+      "topic": "Electrochemistry (Redox)",
+      "text": "In the electrochemical cell, $\\text{Zn}(\\text{s}) | \\text{Zn}^{2+}(\\text{aq}) || \\text{Cu}^{2+}(\\text{aq}) | \\text{Cu}(\\text{s})$, the overall reaction involves:",
+      "options": [
+        "Oxidation at the cathode.",
+        "Reduction of $\\text{Zn}^{2+}$ ions.",
+        "The flow of electrons from $\\text{Cu}$ to $\\text{Zn}$.",
+        "Oxidation of $\\text{Zn}$ metal."
+      ],
+      "answer": "Oxidation of $\\text{Zn}$ metal.",
+      "explanation": "The Zinc electrode is the anode, where oxidation occurs: $\\text{Zn} \\to \\text{Zn}^{2+} + 2\\text{e}^-$. The copper electrode is the cathode, where reduction occurs: $\\text{Cu}^{2+} + 2\\text{e}^- \\to \\text{Cu}$. [Image of the Daniell Cell showing electron flow]"
+    },
+    {
+      "id": "Q78",
+      "topic": "Isomerism",
+      "text": "The minimum number of carbon atoms required for a straight-chain alkane to exhibit structural isomerism is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "explanation": "Methane, ethane, and propane ($\text{C}_1 - \\text{C}_3$) have only one possible structure. Butane ($\text{C}_4\\text{H}_{10}$) has two isomers: $n$-butane and 2-methylpropane (isobutane). [Image of the isomers of Butane]"
+    },
+    {
+      "id": "Q79",
+      "topic": "Inorganic Chemistry (Group 17)",
+      "text": "Which of the following halogens is a liquid at room temperature and pressure?",
+      "options": [
+        "Fluorine ($\text{F}_2$)",
+        "Chlorine ($\text{Cl}_2$)",
+        "Bromine ($\text{Br}_2$)",
+        "Iodine ($\text{I}_2$)"
+      ],
+      "answer": "Bromine ($\text{Br}_2$)",
+      "explanation": "At room temperature, Fluorine and Chlorine are gases, Bromine is a liquid, and Iodine is a solid. This trend follows the increasing strength of van der Waals forces down the group."
+    },
+    {
+      "id": "Q80",
+      "topic": "Polymers",
+      "text": "The process by which small organic molecules (monomers) join together to form a large molecule (polymer) is known as:",
+      "options": [
+        "Cracking",
+        "Distillation",
+        "Polymerization",
+        "Vulcanization"
+      ],
+      "answer": "Polymerization",
+      "explanation": "Polymerization is the reaction in which monomer units link together to form a very large, repeating chain molecule called a polymer."
+    }
+  ]

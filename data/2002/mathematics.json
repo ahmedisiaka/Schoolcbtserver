@@ -1,0 +1,522 @@
+[
+    {
+      "id": "MATHS_2002_01",
+      "text": "Convert the number $11011_2$ to a number in base 10.",
+      "image": "",
+      "options": [
+        "$25$",
+        "$27$",
+        "$29$",
+        "$31$"
+      ],
+      "answer": "$27$",
+      "explanation": "To convert from base 2 to base 10: $1 \\times 2^4 + 1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 16 + 8 + 0 + 2 + 1 = 27$."
+    },
+    {
+      "id": "MATHS_2002_02",
+      "text": "Simplify $\\frac{2}{3} + \\frac{1}{4} - \\frac{1}{2}$.",
+      "image": "",
+      "options": [
+        "$1/3$",
+        "$5/12$",
+        "$7/12$",
+        "$1/2$"
+      ],
+      "answer": "$5/12$",
+      "explanation": "Find the L.C.M. of 3, 4, and 2, which is 12. $\\frac{2(4)}{12} + \\frac{1(3)}{12} - \\frac{1(6)}{12} = \\frac{8 + 3 - 6}{12} = \\frac{5}{12}$."
+    },
+    {
+      "id": "MATHS_2002_03",
+      "text": "Evaluate $(0.000064)^{1/3}$.",
+      "image": "",
+      "options": [
+        "$0.08$",
+        "$0.4$",
+        "$0.04$",
+        "$0.004$"
+      ],
+      "answer": "$0.04$",
+      "explanation": "$(0.000064)^{1/3} = (64 \\times 10^{-6})^{1/3} = 64^{1/3} \\times (10^{-6})^{1/3} = 4 \\times 10^{-2} = 0.04$."
+    },
+    {
+      "id": "MATHS_2002_04",
+      "text": "If $\\log_{10} 2 = 0.3010$, find the value of $\\log_{10} 8$.",
+      "image": "",
+      "options": [
+        "$0.6020$",
+        "$0.9030$",
+        "$1.2040$",
+        "$1.5050$"
+      ],
+      "answer": "$0.9030$",
+      "explanation": "Use the power rule of logarithms: $\\log_{10} 8 = \\log_{10} 2^3 = 3 \\log_{10} 2$. $3 \\times 0.3010 = 0.9030$."
+    },
+    {
+      "id": "MATHS_2002_05",
+      "text": "Rationalize the denominator of $\\frac{1}{\\sqrt{5} + 2}$.",
+      "image": "",
+      "options": [
+        "$\\frac{\\sqrt{5} - 2}{3}$",
+        "$\\sqrt{5} + 2$",
+        "$\\sqrt{5} - 2$",
+        "$\\frac{\\sqrt{5} + 2}{9}$"
+      ],
+      "answer": "$\\sqrt{5} - 2$",
+      "explanation": "Multiply by the conjugate $\\sqrt{5} - 2$: $\\frac{1}{\\sqrt{5} + 2} \\times \\frac{\\sqrt{5} - 2}{\\sqrt{5} - 2} = \\frac{\\sqrt{5} - 2}{(\\sqrt{5})^2 - 2^2} = \\frac{\\sqrt{5} - 2}{5 - 4} = \\sqrt{5} - 2$."
+    },
+    {
+      "id": "MATHS_2002_06",
+      "text": "A man earns $\\text{N}20,000$ per month and saves $15\\%$ of it. How much does he save annually?",
+      "image": "",
+      "options": [
+        "$\\text{N}3,000$",
+        "$\\text{N}30,000$",
+        "$\\text{N}36,000$",
+        "$\\text{N}42,000$"
+      ],
+      "answer": "$\\text{N}36,000$",
+      "explanation": "Monthly saving $= 15\\% \\times 20,000 = \\frac{15}{100} \\times 20,000 = \\text{N}3,000$. Annual saving $= 3,000 \\times 12 = \\text{N}36,000$."
+    },
+    {
+      "id": "MATHS_2002_07",
+      "text": "Factorize the quadratic expression $x^2 - 4x - 12$.",
+      "image": "",
+      "options": [
+        "$(x - 6)(x - 2)$",
+        "$(x + 6)(x - 2)$",
+        "$(x - 6)(x + 2)$",
+        "$(x + 6)(x + 2)$"
+      ],
+      "answer": "$(x - 6)(x + 2)$",
+      "explanation": "Find two numbers that multiply to $-12$ and sum to $-4$. The numbers are $-6$ and $2$. Thus, $x^2 - 4x - 12 = (x - 6)(x + 2)$."
+    },
+    {
+      "id": "MATHS_2002_08",
+      "text": "Solve for $x$ in the equation: $3(x - 1) = 5(2 - x)$.",
+      "image": "",
+      "options": [
+        "$13/2$",
+        "$13/5$",
+        "$13/8$",
+        "$7/5$"
+      ],
+      "answer": "$13/8$",
+      "explanation": "Expand: $3x - 3 = 10 - 5x$. Collect terms: $3x + 5x = 10 + 3$. $8x = 13$. $x = 13/8$."
+    },
+    {
+      "id": "MATHS_2002_09",
+      "text": "Solve the inequality $\\frac{x}{3} + 1 < 2$.",
+      "image": "",
+      "options": [
+        "$x < 1$",
+        "$x < 3$",
+        "$x > 1$",
+        "$x > 3$"
+      ],
+      "answer": "$x < 3$",
+      "explanation": "Subtract 1 from both sides: $\\frac{x}{3} < 2 - 1$. $\\frac{x}{3} < 1$. Multiply by 3: $x < 3$."
+    },
+    {
+      "id": "MATHS_2002_10",
+      "text": "If $y$ is inversely proportional to $x$, and $y=4$ when $x=3$, find $y$ when $x=6$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$4$",
+        "$6$",
+        "$8$"
+      ],
+      "answer": "$2$",
+      "explanation": "The relationship is $y = k/x$. Find $k$: $4 = k/3 \\Rightarrow k = 12$. The equation is $y = 12/x$. When $x=6$, $y = 12/6 = 2$."
+    },
+    {
+      "id": "MATHS_2002_11",
+      "text": "If $P = \\{x: 1 \\le x \\le 5\\}$ and $Q = \\{x: 3 < x \\le 7\\}$ where $x$ is an integer, find $P \\cap Q$.",
+      "image": "",
+      "options": [
+        "$\\left\\{3, 4, 5\\right\\}$",
+        "$\\left\\{4, 5\\right\\}$",
+        "$\\left\\{3, 4, 5, 6, 7\\right\\}$",
+        "$\\left\\{1, 2, 3, 4, 5, 6, 7\\right\\}$"
+      ],
+      "answer": "$\\left\\{4, 5\\right\\}$",
+      "explanation": "The sets in list form are $P = \\{1, 2, 3, 4, 5\\}$ and $Q = \\{4, 5, 6, 7\\}$. The intersection $P \\cap Q$ contains elements common to both: $\\left\\{4, 5\\right\\}$."
+    },
+    {
+      "id": "MATHS_2002_12",
+      "text": "The binary operation $\\triangle$ is defined by $a \\triangle b = a^2 - b^2$. Find $4 \\triangle 2$.",
+      "image": "",
+      "options": [
+        "$8$",
+        "$12$",
+        "$16$",
+        "$20$"
+      ],
+      "answer": "$12$",
+      "explanation": "Substitute $a=4$ and $b=2$: $4 \\triangle 2 = 4^2 - 2^2 = 16 - 4 = 12$."
+    },
+    {
+      "id": "MATHS_2002_13",
+      "text": "Find the product of the roots of the quadratic equation $3x^2 - 7x + 2 = 0$.",
+      "image": "",
+      "options": [
+        "$-7/3$",
+        "$7/3$",
+        "$2/3$",
+        "$-2/3$"
+      ],
+      "answer": "$2/3$",
+      "explanation": "For $ax^2 + bx + c = 0$, the product of the roots is $c/a$. Product $= 2/3$."
+    },
+    {
+      "id": "MATHS_2002_14",
+      "text": "The first term of a Geometric Progression (G.P.) is $3$ and the common ratio is $2$. Find the sum of the first 4 terms.",
+      "image": "",
+      "options": [
+        "$24$",
+        "$36$",
+        "$45$",
+        "$54$"
+      ],
+      "answer": "$45$",
+      "explanation": "The sum of $n$ terms of a G.P. is $S_n = \\frac{a(r^n - 1)}{r - 1}$. $S_4 = \\frac{3(2^4 - 1)}{2 - 1} = \\frac{3(16 - 1)}{1} = 3(15) = 45$."
+    },
+    {
+      "id": "MATHS_2002_15",
+      "text": "Find the common difference of the Arithmetic Progression (A.P.) whose $3^{rd}$ term is $10$ and $7^{th}$ term is $22$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$6$"
+      ],
+      "answer": "$3$",
+      "explanation": "The difference between the $7^{th}$ and $3^{rd}$ terms is $4d$. $T_7 - T_3 = 4d$. $22 - 10 = 12$. $4d = 12$, so $d = 3$."
+    },
+    {
+      "id": "MATHS_2002_16",
+      "text": "The sides of a right-angled triangle are $x, x+1, x+2$. Find the value of $x$.",
+      "image": "[Diagram of a right-angled triangle with sides x, x+1, x+2]",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "answer": "$3$",
+      "explanation": "By Pythagoras theorem, $x^2 + (x+1)^2 = (x+2)^2$. $x^2 + x^2 + 2x + 1 = x^2 + 4x + 4$. $x^2 - 2x - 3 = 0$. $(x-3)(x+1) = 0$. Since $x$ must be positive, $x=3$."
+    },
+    {
+      "id": "MATHS_2002_17",
+      "text": "Find the sum of the exterior angles of a hexagon.",
+      "image": "",
+      "options": [
+        "$180^\\circ$",
+        "$360^\\circ$",
+        "$720^\\circ$",
+        "$1080^\\circ$"
+      ],
+      "answer": "$360^\\circ$",
+      "explanation": "The sum of the exterior angles of any convex polygon (regardless of the number of sides) is always $360^\\circ$."
+    },
+    {
+      "id": "MATHS_2002_18",
+      "text": "Find the equation of the straight line passing through the points $(1, 3)$ and $(4, 9)$.",
+      "image": "",
+      "options": [
+        "$y = 2x + 1$",
+        "$y = 3x$",
+        "$2x - y + 1 = 0$",
+        "$3x - y = 0$"
+      ],
+      "answer": "$2x - y + 1 = 0$",
+      "explanation": "Gradient $m = \\frac{9 - 3}{4 - 1} = \\frac{6}{3} = 2$. Using $y - y_1 = m(x - x_1)$: $y - 3 = 2(x - 1)$. $y - 3 = 2x - 2$. $2x - y + 1 = 0$."
+    },
+    {
+      "id": "MATHS_2002_19",
+      "text": "Calculate the distance between the points $(-2, 3)$ and $(4, -5)$.",
+      "image": "",
+      "options": [
+        "$8$",
+        "$\\sqrt{80}$",
+        "$10$",
+        "$\\sqrt{120}$"
+      ],
+      "answer": "$10$",
+      "explanation": "Distance $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. $d = \\sqrt{(4 - (-2))^2 + (-5 - 3)^2} = \\sqrt{6^2 + (-8)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$."
+    },
+    {
+      "id": "MATHS_2002_20",
+      "text": "The area of a circle is $154 \\text{ cm}^2$. Find its radius. (Take $\\pi = 22/7$)",
+      "image": "",
+      "options": [
+        "$7 \\text{ cm}$",
+        "$14 \\text{ cm}$",
+        "$49 \\text{ cm}$",
+        "$21 \\text{ cm}$"
+      ],
+      "answer": "$7 \\text{ cm}$",
+      "explanation": "Area $A = \\pi r^2$. $154 = \\frac{22}{7} r^2$. $r^2 = 154 \\times \\frac{7}{22} = 7 \\times 7 = 49$. $r = 7 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2002_21",
+      "text": "Find the perimeter of a semi-circle of diameter $14 \\text{ cm}$. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a semi-circle with diameter and curved arc]",
+      "options": [
+        "$22 \\text{ cm}$",
+        "$29 \\text{ cm}$",
+        "$36 \\text{ cm}$",
+        "$44 \\text{ cm}$"
+      ],
+      "answer": "$36 \\text{ cm}$",
+      "explanation": "Radius $r = 14/2 = 7 \\text{ cm}$. Perimeter $= \\text{Arc length} + \\text{Diameter} = \\pi r + d$. Perimeter $= \\frac{22}{7}(7) + 14 = 22 + 14 = 36 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2002_22",
+      "text": "A cone has a base radius of $5 \\text{ cm}$ and a slant height of $13 \\text{ cm}$. Find its perpendicular height.",
+      "image": "[Diagram of a cone with radius, height, and slant height labeled]",
+      "options": [
+        "$8 \\text{ cm}$",
+        "$10 \\text{ cm}$",
+        "$12 \\text{ cm}$",
+        "$13 \\text{ cm}$"
+      ],
+      "answer": "$12 \\text{ cm}$",
+      "explanation": "The radius ($r$), height ($h$), and slant height ($l$) form a right triangle: $r^2 + h^2 = l^2$. $5^2 + h^2 = 13^2$. $25 + h^2 = 169$. $h^2 = 144$. $h = 12 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2002_23",
+      "text": "A flagpole casts a shadow $15 \\text{ m}$ long when the angle of elevation of the sun is $30^\\circ$. Find the height of the flagpole.",
+      "image": "[Trigonometry diagram showing angle of elevation, flagpole, and shadow]",
+      "options": [
+        "$15\\sqrt{3} \\text{ m}$",
+        "$5\\sqrt{3} \\text{ m}$",
+        "$\\frac{15\\sqrt{3}}{2} \\text{ m}$",
+        "$15 \\text{ m}$"
+      ],
+      "answer": "$5\\sqrt{3} \\text{ m}$",
+      "explanation": "Let $h$ be the height. $\\tan 30^\\circ = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{h}{15}$. $h = 15 \\tan 30^\\circ = 15 \\times \\frac{1}{\\sqrt{3}} = \\frac{15\\sqrt{3}}{3} = 5\\sqrt{3} \\text{ m}$."
+    },
+    {
+      "id": "MATHS_2002_24",
+      "text": "If $\\sin A = 3/5$ and $A$ is an acute angle, find $\\cos A$.",
+      "image": "[Right-angled triangle with sides 3, 4, 5 and angle A]",
+      "options": [
+        "$3/5$",
+        "$4/5$",
+        "$5/4$",
+        "$1$"
+      ],
+      "answer": "$4/5$",
+      "explanation": "Using $\\cos A = \\sqrt{1 - \\sin^2 A}$: $\\cos A = \\sqrt{1 - (3/5)^2} = \\sqrt{1 - 9/25} = \\sqrt{16/25} = 4/5$."
+    },
+    {
+      "id": "MATHS_2002_25",
+      "text": "Find $\\frac{dy}{dx}$ if $y = 5x^4 - 3x^2 + 1$.",
+      "image": "",
+      "options": [
+        "$20x^3 - 6x + 1$",
+        "$4x^3 - 6x$",
+        "$20x^3 - 6x$",
+        "$5x^3 - 3x$"
+      ],
+      "answer": "$20x^3 - 6x$",
+      "explanation": "Differentiate term by term using $\\frac{d}{dx}(ax^n) = anx^{n-1}$: $\\frac{dy}{dx} = 4(5)x^{4-1} - 2(3)x^{2-1} + 0 = 20x^3 - 6x$."
+    },
+    {
+      "id": "MATHS_2002_26",
+      "text": "Differentiate $y = (3x + 2)^2$ with respect to $x$.",
+      "image": "",
+      "options": [
+        "$6x + 4$",
+        "$18x + 12$",
+        "$9x + 6$",
+        "$3x + 2$"
+      ],
+      "answer": "$18x + 12$",
+      "explanation": "Expand first: $y = (3x)^2 + 2(3x)(2) + 2^2 = 9x^2 + 12x + 4$. Differentiate: $\\frac{dy}{dx} = 18x + 12$."
+    },
+    {
+      "id": "MATHS_2002_27",
+      "text": "Evaluate the definite integral $\\int_1^2 (2x + 3) dx$.",
+      "image": "",
+      "options": [
+        "$4$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "answer": "$6$",
+      "explanation": "Integrate: $\\int (2x + 3) dx = x^2 + 3x$. Evaluate: $[x^2 + 3x]_1^2 = (2^2 + 3(2)) - (1^2 + 3(1)) = (4+6) - (1+3) = 10 - 4 = 6$."
+    },
+    {
+      "id": "MATHS_2002_28",
+      "text": "Find the determinant of the matrix $M = \\begin{pmatrix} 4 & 5 \\\\ 2 & 3 \\end{pmatrix}$.",
+      "image": "",
+      "options": [
+        "$-2$",
+        "$2$",
+        "$7$",
+        "$22$"
+      ],
+      "answer": "$2$",
+      "explanation": "Determinant $= ad - bc$. $D = (4)(3) - (5)(2) = 12 - 10 = 2$."
+    },
+    {
+      "id": "MATHS_2002_29",
+      "text": "If $A = \\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}$, find the transpose of $A$, $A^T$.",
+      "image": "",
+      "options": [
+        "$\\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 2 & 0 \\\\ 1 & 3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} -2 & -1 \\\\ 0 & -3 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 3 & 0 \\\\ 1 & 2 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 2 & 0 \\\\ 1 & 3 \\end{pmatrix}$",
+      "explanation": "The transpose is found by swapping the rows and columns. Row 1 becomes Column 1 and Row 2 becomes Column 2."
+    },
+    {
+      "id": "MATHS_2002_30",
+      "text": "Given the sets $P = \\{2, 3, 4\\}$ and $Q = \\{4, 5, 6\\}$, find the union $P \\cup Q$.",
+      "image": "",
+      "options": [
+        "$\\left\\{4\\right\\}$",
+        "$\\left\\{2, 3, 4, 5, 6\\right\\}$",
+        "$\\left\\{2, 3, 5, 6\\right\\}$",
+        "$\\emptyset$"
+      ],
+      "answer": "$\\left\\{2, 3, 4, 5, 6\\right\\}$",
+      "explanation": "The union $P \\cup Q$ is the set of all elements in $P$, or in $Q$, or in both, without repetition."
+    },
+    {
+      "id": "MATHS_2002_31",
+      "text": "In a class of 40 students, 25 speak English ($E$) and 16 speak French ($F$). If 5 students speak neither, how many students speak both subjects?",
+      "image": "[Venn diagram for two overlapping sets E and F within a universal set]",
+      "options": [
+        "$4$",
+        "$6$",
+        "$8$",
+        "$10$"
+      ],
+      "answer": "$6$",
+      "explanation": "Number who speak at least one language: $n(E \\cup F) = 40 - 5 = 35$. $n(E \\cap F) = n(E) + n(F) - n(E \\cup F)$. $n(E \\cap F) = 25 + 16 - 35 = 41 - 35 = 6$."
+    },
+    {
+      "id": "MATHS_2002_32",
+      "text": "Find the range of the set of numbers $2, 8, 4, 9, 1, 6$.",
+      "image": "",
+      "options": [
+        "$6$",
+        "$7$",
+        "$8$",
+        "$9$"
+      ],
+      "answer": "$8$",
+      "explanation": "Range is the difference between the maximum and minimum values. Maximum $= 9$, Minimum $= 1$. Range $= 9 - 1 = 8$."
+    },
+    {
+      "id": "MATHS_2002_33",
+      "text": "Find the median of the data set $1, 2, 3, 5, 6, 8, 9$.",
+      "image": "",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$"
+      ],
+      "answer": "$5$",
+      "explanation": "The data is already ordered. Since there are 7 terms (odd number), the median is the middle term: $\\frac{7+1}{2} = 4^{th}$ term, which is 5."
+    },
+    {
+      "id": "MATHS_2002_34",
+      "text": "Calculate the variance of the numbers $2, 4, 6$.",
+      "image": "",
+      "options": [
+        "$2/3$",
+        "$4/3$",
+        "$8/3$",
+        "$2$"
+      ],
+      "answer": "$8/3$",
+      "explanation": "Mean $\\bar{x} = (2+4+6)/3 = 4$. Variance $\\sigma^2 = \\frac{\\sum(x - \\bar{x})^2}{N} = \\frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{3} = \\frac{4 + 0 + 4}{3} = 8/3$."
+    },
+    {
+      "id": "MATHS_2002_35",
+      "text": "The heights of 10 students are recorded. The sum of their heights is $1500 \\text{ cm}$. Find the mean height.",
+      "image": "",
+      "options": [
+        "$150 \\text{ cm}$",
+        "$15 \\text{ cm}$",
+        "$1500 \\text{ cm}$",
+        "$10 \\text{ cm}$"
+      ],
+      "answer": "$150 \\text{ cm}$",
+      "explanation": "Mean $= \\frac{\\text{Sum of heights}}{\\text{Number of students}} = \\frac{1500}{10} = 150 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2002_36",
+      "text": "A letter is chosen at random from the word 'MATHEMATICS'. What is the probability that it is a vowel?",
+      "image": "",
+      "options": [
+        "$1/11$",
+        "$4/11$",
+        "$7/11$",
+        "$1/4$"
+      ],
+      "answer": "$4/11$",
+      "explanation": "Total letters = 11. Vowels are M**A**TH**E**M**A**T**I**CS (A, E, A, I). Number of vowels = 4. Probability $= 4/11$."
+    },
+    {
+      "id": "MATHS_2002_37",
+      "text": "A bag contains 3 red and 5 blue balls. If a ball is drawn at random, what is the probability that it is blue?",
+      "image": "",
+      "options": [
+        "$3/8$",
+        "$5/8$",
+        "$1/2$",
+        "$1$"
+      ],
+      "answer": "$5/8$",
+      "explanation": "Total balls $= 3 + 5 = 8$. Favorable outcomes (blue balls) $= 5$. Probability $= 5/8$."
+    },
+    {
+      "id": "MATHS_2002_38",
+      "text": "If $T = \\frac{2a + b}{3}$, make $b$ the subject of the formula.",
+      "image": "",
+      "options": [
+        "$b = 3T + 2a$",
+        "$b = 3T - 2a$",
+        "$b = 3(T - 2a)$",
+        "$b = \\frac{T - 2a}{3}$"
+      ],
+      "answer": "$b = 3T - 2a$",
+      "explanation": "Multiply by 3: $3T = 2a + b$. Subtract $2a$ from both sides: $b = 3T - 2a$."
+    },
+    {
+      "id": "MATHS_2002_39",
+      "text": "Find the maximum value of the function $y = 1 - 2x - 3x^2$.",
+      "image": "[Graph of a downward-opening parabola]",
+      "options": [
+        "$1/3$",
+        "$2/3$",
+        "$4/3$",
+        "$5/3$"
+      ],
+      "answer": "$4/3$",
+      "explanation": "The maximum occurs where $\\frac{dy}{dx} = 0$. $\\frac{dy}{dx} = -2 - 6x$. Setting to zero: $-2 - 6x = 0 \\Rightarrow x = -1/3$. Substitute $x=-1/3$ into $y$: $y = 1 - 2(-1/3) - 3(-1/3)^2 = 1 + 2/3 - 3(1/9) = 1 + 2/3 - 1/3 = 1 + 1/3 = 4/3$."
+    },
+    {
+      "id": "MATHS_2002_40",
+      "text": "Find the equation of the locus of a point $P(x, y)$ which is equidistant from the points $A(1, 0)$ and $B(0, 1)$.",
+      "image": "[Diagram showing a perpendicular bisector of a line segment]",
+      "options": [
+        "$x + y = 1$",
+        "$x = y$",
+        "$x^2 + y^2 = 1$",
+        "$y = -x$"
+      ],
+      "answer": "$x = y$",
+      "explanation": "Equidistant means $PA^2 = PB^2$. $(x-1)^2 + (y-0)^2 = (x-0)^2 + (y-1)^2$. $x^2 - 2x + 1 + y^2 = x^2 + y^2 - 2y + 1$. Simplifying gives $-2x = -2y$, so $x = y$."
+    }
+  ]

@@ -1,0 +1,526 @@
+[
+    {
+      "id": "JAMB_C_001",
+      "text": "Which of the following is a mixture?",
+      "image": "",
+      "options": [
+        "Distilled water.",
+        "Oxygen.",
+        "Air.",
+        "Carbon(IV) oxide."
+      ],
+      "answer": "Air.",
+      "explanation": "Air is a physical mixture of gases such as nitrogen, oxygen, and noble gases."
+    },
+    {
+      "id": "JAMB_C_002",
+      "text": "The relative atomic mass of chlorine is 35.5. This is because chlorine:",
+      "image": "",
+      "options": [
+        "Has two isotopes.",
+        "Is a gas.",
+        "Has a high electronegativity.",
+        "Forms ionic compounds."
+      ],
+      "answer": "Has two isotopes.",
+      "explanation": "Chlorine exists mainly as \\(^{35}Cl\\) and \\(^{37}Cl\\); the average gives 35.5."
+    },
+    {
+      "id": "JAMB_C_003",
+      "text": "Which of the following methods can be used to separate sand from salt solution?",
+      "image": "",
+      "options": [
+        "Evaporation.",
+        "Filtration.",
+        "Crystallization.",
+        "Sublimation."
+      ],
+      "answer": "Filtration.",
+      "explanation": "Sand is insoluble and can be separated by filtration."
+    },
+    {
+      "id": "JAMB_C_004",
+      "text": "The number of molecules in 11.2 dm\\(^3\\) of a gas at STP is:",
+      "image": "",
+      "options": [
+        "\\(6.02 \\times 10^{23}\\)",
+        "\\(3.01 \\times 10^{23}\\)",
+        "\\(2.50 \\times 10^{23}\\)",
+        "\\(1.50 \\times 10^{23}\\)"
+      ],
+      "answer": "\\(3.01 \\times 10^{23}\\)",
+      "explanation": "11.2 dm\\(^3\\) is half of molar volume (22.4 dm\\(^3\\)), so molecules = half of \\(6.02 \\times 10^{23}\\)."
+    },
+    {
+      "id": "JAMB_C_005",
+      "text": "Which of these is the correct electronic configuration of \\(Mg^{2+}\\)?",
+      "image": "",
+      "options": [
+        "\\(1s^2 2s^2 2p^4\\)",
+        "\\(1s^2 2s^2 2p^6\\)",
+        "\\(1s^2 2s^2 2p^6 3s^2\\)",
+        "\\(1s^2 2s^2 2p^5\\)"
+      ],
+      "answer": "\\(1s^2 2s^2 2p^6\\)",
+      "explanation": "Magnesium loses two electrons to form \\(Mg^{2+}\\), leaving 10 electrons."
+    },
+    {
+      "id": "JAMB_C_006",
+      "text": "The percentage of nitrogen in ammonium nitrate (\\(NH_4NO_3\\)) is:",
+      "image": "",
+      "options": [
+        "17.5\\%",
+        "35.0\\%",
+        "52.5\\%",
+        "70.0\\%"
+      ],
+      "answer": "35.0\\%",
+      "explanation": "Molar mass = 80 g (N total = 28 g). Percentage = \\( \\frac{28}{80} \\times 100 = 35\\% \\)."
+    },
+    {
+      "id": "JAMB_C_007",
+      "text": "The bond formed between sodium and chlorine in \\(NaCl\\) is:",
+      "image": "",
+      "options": [
+        "Covalent.",
+        "Hydrogen.",
+        "Ionic.",
+        "Metallic."
+      ],
+      "answer": "Ionic.",
+      "explanation": "Sodium transfers an electron to chlorine forming ions held by electrostatic attraction."
+    },
+    {
+      "id": "JAMB_C_008",
+      "text": "Which of the following is true of catalysts?",
+      "image": "",
+      "options": [
+        "They increase activation energy.",
+        "They are used up in reactions.",
+        "They provide an alternative pathway.",
+        "They decrease collision frequency."
+      ],
+      "answer": "They provide an alternative pathway.",
+      "explanation": "Catalysts lower activation energy by providing another reaction route."
+    },
+    {
+      "id": "JAMB_C_009",
+      "text": "Which of the following pollutants causes acid rain?",
+      "image": "",
+      "options": [
+        "Oxygen.",
+        "Nitrogen gas.",
+        "Sulphur(IV) oxide.",
+        "Helium."
+      ],
+      "answer": "Sulphur(IV) oxide.",
+      "explanation": "SO\\(_2\\) combines with water in the atmosphere to form sulphurous acid."
+    },
+    {
+      "id": "JAMB_C_010",
+      "text": "Which of the following is a property of transition metals?",
+      "image": "",
+      "options": [
+        "They are radioactive.",
+        "They form coloured ions.",
+        "They have low melting points.",
+        "They are poor conductors."
+      ],
+      "answer": "They form coloured ions.",
+      "explanation": "Transition metals have variable oxidation states and form coloured compounds."
+    },
+  
+    {
+      "id": "JAMB_C_011",
+      "text": "When zinc reacts with dilute HCl, the gas evolved is:",
+      "image": "",
+      "options": [
+        "Hydrogen.",
+        "Chlorine.",
+        "Oxygen.",
+        "Nitrogen."
+      ],
+      "answer": "Hydrogen.",
+      "explanation": "A metal + acid produces salt and hydrogen gas."
+    },
+    {
+      "id": "JAMB_C_012",
+      "text": "The colour of anhydrous copper(II) sulphate is:",
+      "image": "",
+      "options": [
+        "Blue.",
+        "White.",
+        "Green.",
+        "Pink."
+      ],
+      "answer": "White.",
+      "explanation": "Anhydrous CuSO\\(_4\\) is white; it turns blue on hydration."
+    },
+    {
+      "id": "JAMB_C_013",
+      "text": "Which of the following processes is exothermic?",
+      "image": "",
+      "options": [
+        "Melting of ice.",
+        "Evaporation of water.",
+        "Freezing of water.",
+        "Sublimation of iodine."
+      ],
+      "answer": "Freezing of water.",
+      "explanation": "Heat is released when a liquid solidifies."
+    },
+    {
+      "id": "JAMB_C_014",
+      "text": "Which gas is used in the manufacture of ammonia by the Haber process?",
+      "image": "",
+      "options": [
+        "Methane.",
+        "Nitrogen.",
+        "Carbon dioxide.",
+        "Ozone."
+      ],
+      "answer": "Nitrogen.",
+      "explanation": "Ammonia is formed from nitrogen and hydrogen: \\(N_2 + 3H_2 \\rightarrow 2NH_3\\)."
+    },
+    {
+      "id": "JAMB_C_015",
+      "text": "The shape of a methane molecule is:",
+      "image": "",
+      "options": [
+        "Linear.",
+        "Tetrahedral.",
+        "Trigonal planar.",
+        "Bent."
+      ],
+      "answer": "Tetrahedral.",
+      "explanation": "Methane (\\(CH_4\\)) has four bonding pairs arranged tetrahedrally."
+    },
+    {
+      "id": "JAMB_C_016",
+      "text": "The oxidation number of carbon in \\(CO_2\\) is:",
+      "image": "",
+      "options": [
+        "+2",
+        "+4",
+        "-2",
+        "-4"
+      ],
+      "answer": "+4",
+      "explanation": "Oxygen is -2; total for two oxygens is -4, so carbon must be +4."
+    },
+    {
+      "id": "JAMB_C_017",
+      "text": "Which of the following is not an acid?",
+      "image": "",
+      "options": [
+        "\\(H_2SO_4\\)",
+        "\\(HCl\\)",
+        "\\(NaOH\\)",
+        "\\(HNO_3\\)"
+      ],
+      "answer": "\\(NaOH\\)",
+      "explanation": "Sodium hydroxide is a base."
+    },
+    {
+      "id": "JAMB_C_018",
+      "text": "Which substance will turn red litmus paper blue?",
+      "image": "",
+      "options": [
+        "Hydrochloric acid.",
+        "Carbon(IV) oxide solution.",
+        "Ammonia solution.",
+        "Ethanol."
+      ],
+      "answer": "Ammonia solution.",
+      "explanation": "Ammonia is a base and turns red litmus blue."
+    },
+    {
+      "id": "JAMB_C_019",
+      "text": "A covalent compound generally:",
+      "image": "",
+      "options": [
+        "Conducts electricity.",
+        "Has high melting point.",
+        "Is insoluble in water.",
+        "Is ionic."
+      ],
+      "answer": "Is insoluble in water.",
+      "explanation": "Covalent compounds typically dissolve in organic solvents, not water."
+    },
+    {
+      "id": "JAMB_C_020",
+      "text": "In the reaction \\(CaCO_3 \\rightarrow CaO + CO_2\\), the process involved is:",
+      "image": "",
+      "options": [
+        "Neutralization.",
+        "Decomposition.",
+        "Oxidation.",
+        "Reduction."
+      ],
+      "answer": "Decomposition.",
+      "explanation": "One compound breaks down into simpler substances."
+    },
+  
+    {
+      "id": "JAMB_C_021",
+      "text": "Which of the following is a strong acid?",
+      "image": "",
+      "options": [
+        "Ethanoic acid.",
+        "Citric acid.",
+        "Hydrochloric acid.",
+        "Carbonic acid."
+      ],
+      "answer": "Hydrochloric acid.",
+      "explanation": "Strong acids completely ionize in water."
+    },
+    {
+      "id": "JAMB_C_022",
+      "text": "Which salt is formed when sodium hydroxide reacts with sulphuric acid?",
+      "image": "",
+      "options": [
+        "Sodium chloride.",
+        "Sodium trioxocarbonate(IV).",
+        "Sodium sulphate.",
+        "Sodium nitrate."
+      ],
+      "answer": "Sodium sulphate.",
+      "explanation": "Reaction: \\(2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + 2H_2O\\)."
+    },
+    {
+      "id": "JAMB_C_023",
+      "text": "The product formed during the complete combustion of methane is:",
+      "image": "",
+      "options": [
+        "Carbon monoxide.",
+        "Carbon.",
+        "Carbon dioxide.",
+        "Hydrogen."
+      ],
+      "answer": "Carbon dioxide.",
+      "explanation": "Complete combustion gives \\(CO_2\\) and water."
+    },
+    {
+      "id": "JAMB_C_024",
+      "text": "Temporary hardness of water can be removed by:",
+      "image": "",
+      "options": [
+        "Boiling.",
+        "Adding limewater.",
+        "Using zeolite.",
+        "Chlorination."
+      ],
+      "answer": "Boiling.",
+      "explanation": "Boiling removes bicarbonate hardness."
+    },
+    {
+      "id": "JAMB_C_025",
+      "text": "The indicator that is colourless in acid and pink in base is:",
+      "image": "",
+      "options": [
+        "Methyl orange.",
+        "Phenolphthalein.",
+        "Litmus.",
+        "Universal indicator."
+      ],
+      "answer": "Phenolphthalein.",
+      "explanation": "Phenolphthalein is colourless in acid and pink in alkaline solutions."
+    },
+    {
+      "id": "JAMB_C_026",
+      "text": "Which gas is collected over water because it is insoluble in water?",
+      "image": "",
+      "options": [
+        "Ammonia.",
+        "Hydrogen chloride.",
+        "Hydrogen.",
+        "Sulphur(IV) oxide."
+      ],
+      "answer": "Hydrogen.",
+      "explanation": "Hydrogen is practically insoluble in water."
+    },
+    {
+      "id": "JAMB_C_027",
+      "text": "Which of the following is an alloy?",
+      "image": "",
+      "options": [
+        "Brass.",
+        "Carbon.",
+        "Argon.",
+        "Sulphur."
+      ],
+      "answer": "Brass.",
+      "explanation": "Brass is an alloy of copper and zinc."
+    },
+    {
+      "id": "JAMB_C_028",
+      "text": "Which of the following is used as a drying agent?",
+      "image": "",
+      "options": [
+        "Conc. \\(H_2SO_4\\).",
+        "Water.",
+        "Ethanol.",
+        "Hydrochloric acid."
+      ],
+      "answer": "Conc. \\(H_2SO_4\\).",
+      "explanation": "Concentrated sulphuric acid is a powerful dehydrating agent."
+    },
+    {
+      "id": "JAMB_C_029",
+      "text": "An element with atomic number 20 belongs to which group?",
+      "image": "",
+      "options": [
+        "Group I.",
+        "Group II.",
+        "Group III.",
+        "Group IV."
+      ],
+      "answer": "Group II.",
+      "explanation": "Calcium (Z = 20) is in Group II, the alkaline earth metals."
+    },
+    {
+      "id": "JAMB_C_030",
+      "text": "Which of the following is used in fire extinguishers?",
+      "image": "",
+      "options": [
+        "Carbon dioxide.",
+        "Oxygen.",
+        "Hydrogen.",
+        "Nitrogen."
+      ],
+      "answer": "Carbon dioxide.",
+      "explanation": "CO\\(_2\\) displaces oxygen and smothers flames."
+    },
+  
+    {
+      "id": "JAMB_C_031",
+      "text": "The process of converting starch to sugar in plants is:",
+      "image": "",
+      "options": [
+        "Oxidation.",
+        "Denaturation.",
+        "Hydrolysis.",
+        "Polymerization."
+      ],
+      "answer": "Hydrolysis.",
+      "explanation": "Starch breaks down to glucose through enzymatic hydrolysis."
+    },
+    {
+      "id": "JAMB_C_032",
+      "text": "Which of these compounds is organic?",
+      "image": "",
+      "options": [
+        "\\(NaCl\\)",
+        "\\(CaCO_3\\)",
+        "Methane.",
+        "Quartz."
+      ],
+      "answer": "Methane.",
+      "explanation": "Organic compounds contain carbon-hydrogen bonds."
+    },
+    {
+      "id": "JAMB_C_033",
+      "text": "A solution that resists change in pH is known as:",
+      "image": "",
+      "options": [
+        "Indicator.",
+        "Buffer.",
+        "Salt.",
+        "Electrolyte."
+      ],
+      "answer": "Buffer.",
+      "explanation": "Buffers maintain constant pH upon addition of small amounts of acid or base."
+    },
+    {
+      "id": "JAMB_C_034",
+      "text": "The major component of natural gas is:",
+      "image": "",
+      "options": [
+        "Ethane.",
+        "Propane.",
+        "Methane.",
+        "Butane."
+      ],
+      "answer": "Methane.",
+      "explanation": "Natural gas is composed largely of methane (CH\\(_4\\))."
+    },
+    {
+      "id": "JAMB_C_035",
+      "text": "The gas evolved when dilute HCl reacts with marble chips is:",
+      "image": "",
+      "options": [
+        "CO\\(_2\\).",
+        "H\\(_2\\).",
+        "O\\(_2\\).",
+        "Cl\\(_2\\)."
+      ],
+      "answer": "CO\\(_2\\).",
+      "explanation": "Reaction: \\(CaCO_3 + 2HCl \\rightarrow CaCl_2 + CO_2 + H_2O\\)."
+    },
+    {
+      "id": "JAMB_C_036",
+      "text": "Which of the following is a monobasic acid?",
+      "image": "",
+      "options": [
+        "Sulphuric acid.",
+        "Nitric acid.",
+        "Phosphoric acid.",
+        "Carbonic acid."
+      ],
+      "answer": "Nitric acid.",
+      "explanation": "Monobasic acids donate only one proton per molecule."
+    },
+    {
+      "id": "JAMB_C_037",
+      "text": "Which of the following substances is deliquescent?",
+      "image": "",
+      "options": [
+        "Common salt.",
+        "Copper(II) oxide.",
+        "Calcium chloride.",
+        "Sand."
+      ],
+      "answer": "Calcium chloride.",
+      "explanation": "Deliquescent substances absorb moisture and dissolve in it."
+    },
+    {
+      "id": "JAMB_C_038",
+      "text": "Which of these is a property of covalent compounds?",
+      "image": "",
+      "options": [
+        "High conductivity.",
+        "High melting point.",
+        "Low melting point.",
+        "Ionic bonding."
+      ],
+      "answer": "Low melting point.",
+      "explanation": "Covalent compounds have weak intermolecular forces."
+    },
+    {
+      "id": "JAMB_C_039",
+      "text": "Which ion is responsible for the hardness of water?",
+      "image": "",
+      "options": [
+        "\\(Na^+\\)",
+        "\\(Ca^{2+}\\)",
+        "\\(K^+\\)",
+        "\\(NH_4^+\\)"
+      ],
+      "answer": "\\(Ca^{2+}\\)",
+      "explanation": "Calcium ions cause both temporary and permanent hardness."
+    },
+    {
+      "id": "JAMB_C_040",
+      "text": "The gas that turns limewater milky is:",
+      "image": "",
+      "options": [
+        "Hydrogen.",
+        "Carbon dioxide.",
+        "Oxygen.",
+        "Nitrogen."
+      ],
+      "answer": "Carbon dioxide.",
+      "explanation": "CO\\(_2\\) forms calcium carbonate, turning limewater milky."
+    }
+  ]
+  

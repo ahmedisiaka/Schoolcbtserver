@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Code of Justinian}$ was a collection of laws and legal interpretations developed under the sponsorship of which empire?",
+        "image": "",
+        "options": [
+            "The Roman Empire",
+            "The Byzantine Empire",
+            "The Ottoman Empire",
+            "The Holy Roman Empire"
+        ],
+        "answer": "The Byzantine Empire",
+        "explanation": "Emperor Justinian I codified Roman law in the 6th century, which became the foundation for many modern legal systems."
+    },
+    {
+        "id": "H02",
+        "text": "Which battle in 480 BC famously featured $\\textbf{300 Spartans}$ holding off a massive Persian army?",
+        "image": "",
+        "options": [
+            "Battle of Marathon",
+            "Battle of Salamis",
+            "Battle of Thermopylae",
+            "Battle of Plataea"
+        ],
+        "answer": "Battle of Thermopylae",
+        "explanation": "King Leonidas led a small Greek force to block the Persian advance, becoming a symbol of courage against overwhelming odds."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of Tours}$ in 732 AD is credited with stopping the advance of which forces into Western Europe?",
+        "image": "",
+        "options": [
+            "The Vikings",
+            "The Mongols",
+            "The Umayyad Caliphate (Muslims)",
+            "The Huns"
+        ],
+        "answer": "The Umayyad Caliphate (Muslims)",
+        "explanation": "Frankish leader Charles Martel defeated the invading forces, preserving Christianity as the dominant religion in Europe."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first European to set foot in North America, around the year 1000?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Leif Erikson",
+            "Marco Polo",
+            "Amerigo Vespucci"
+        ],
+        "answer": "Leif Erikson",
+        "explanation": "The Norse explorer established a settlement at Vinland (modern-day Newfoundland) centuries before Columbus."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Domesday Book}$ was a manuscript record of the 'Great Survey' of England completed in 1086 by order of:",
+        "image": "",
+        "options": [
+            "King Arthur",
+            "Alfred the Great",
+            "William the Conqueror",
+            "Richard the Lionheart"
+        ],
+        "answer": "William the Conqueror",
+        "explanation": "It was created to determine the extent of the land and resources owned in England for taxation purposes."
+    },
+    {
+        "id": "H06",
+        "text": "The $\\textbf{Silk Road}$ was a network of trade routes connecting the East and West, famously traveled by:",
+        "image": "",
+        "options": [
+            "Alexander the Great",
+            "Genghis Khan",
+            "Marco Polo",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Marco Polo",
+        "explanation": "Polo's travels in the late 13th century introduced Europeans to the culture and wealth of Central Asia and China."
+    },
+    {
+        "id": "H07",
+        "text": "Who is known as the 'Renaissance Man' for his expertise in painting, engineering, and anatomy?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Donatello",
+            "Leonardo da Vinci"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Leonardo's notebooks reveal a spirit of scientific inquiry and mechanical inventiveness that was centuries ahead of his time."
+    },
+    {
+        "id": "H08",
+        "text": "Which English monarch broke away from the Catholic Church to create the $\\textbf{Church of England}$?",
+        "image": "",
+        "options": [
+            "Henry VIII",
+            "Edward VI",
+            "Mary I",
+            "Elizabeth I"
+        ],
+        "answer": "Henry VIII",
+        "explanation": "The split allowed Henry to annul his marriage to Catherine of Aragon and marry Anne Boleyn."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Mayflower Compact}$ was the first governing document of the:",
+        "image": "",
+        "options": [
+            "Jamestown Colony",
+            "Plymouth Colony",
+            "Massachusetts Bay Colony",
+            "Roanoke Colony"
+        ],
+        "answer": "Plymouth Colony",
+        "explanation": "Signed in 1620 by the Pilgrims, it established a form of self-government based on majority rule."
+    },
+    {
+        "id": "H10",
+        "text": "Who formulated the heliocentric model of the universe, placing the $\\textbf{Sun at the center}$?",
+        "image": "",
+        "options": [
+            "Ptolemy",
+            "Aristotle",
+            "Nicolaus Copernicus",
+            "Isaac Newton"
+        ],
+        "answer": "Nicolaus Copernicus",
+        "explanation": "His theory challenged the long-held geocentric view that the Earth was the center of the universe."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{United States Constitution}$ replaced which earlier document?",
+        "image": "",
+        "options": [
+            "The Declaration of Independence",
+            "The Bill of Rights",
+            "The Articles of Confederation",
+            "The Federalist Papers"
+        ],
+        "answer": "The Articles of Confederation",
+        "explanation": "The Articles provided a weak central government, prompting the Constitutional Convention of 1787."
+    },
+    {
+        "id": "H12",
+        "text": "The $\\textbf{War of 1812}$ was fought between the United States and:",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "Great Britain",
+            "Mexico"
+        ],
+        "answer": "Great Britain",
+        "explanation": "Issues included trade restrictions, impressment of sailors, and British support for Native American raids."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Congress of Vienna}$ was held in 1814–1815 to reorganize Europe after the downfall of:",
+        "image": "",
+        "options": [
+            "Louis XVI",
+            "Napoleon Bonaparte",
+            "Robespierre",
+            "Charlemagne"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "The goal was to establish a long-term peace plan for Europe by settling critical issues arising from the French Revolutionary Wars."
+    },
+    {
+        "id": "H14",
+        "text": "Who invented the practical incandescent $\\textbf{light bulb}$?",
+        "image": "",
+        "options": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Benjamin Franklin"
+        ],
+        "answer": "Thomas Edison",
+        "explanation": "Edison developed a long-lasting, practical electric light bulb in 1879."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Gettysburg Address}$, a defining speech in American history, was delivered by:",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "In 1863, Lincoln redefined the Civil War as a struggle not just for the Union, but for the principle of human equality."
+    },
+    {
+        "id": "H16",
+        "text": "Who revolutionized the automobile industry with the introduction of the $\\textbf{Model T}$?",
+        "image": "",
+        "options": [
+            "Karl Benz",
+            "Gottlieb Daimler",
+            "Henry Ford",
+            "Louis Chevrolet"
+        ],
+        "answer": "Henry Ford",
+        "explanation": "Ford introduced the assembly line technique, making cars affordable for the middle class."
+    },
+    {
+        "id": "H17",
+        "text": "The sinking of which ship by a German U-boat in 1915 turned public opinion against Germany in WWI?",
+        "image": "",
+        "options": [
+            "The Titanic",
+            "The Lusitania",
+            "The Bismarck",
+            "The Maine"
+        ],
+        "answer": "The Lusitania",
+        "explanation": "The death of 1,198 passengers, including 128 Americans, contributed to the US entry into the war."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Soviet Union}$ was officially established in 1922 following which conflict?",
+        "image": "",
+        "options": [
+            "The Russian Civil War",
+            "World War I",
+            "The Russo-Japanese War",
+            "The Crimean War"
+        ],
+        "answer": "The Russian Civil War",
+        "explanation": "The Bolsheviks defeated the White Army and other opponents to consolidate power."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{New Deal}$ was a series of programs enacted by Franklin D. Roosevelt to combat:",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Great Depression",
+            "The Cold War",
+            "Prohibition"
+        ],
+        "answer": "The Great Depression",
+        "explanation": "It focused on the '3 Rs': Relief for the unemployed, Recovery of the economy, and Reform of the financial system."
+    },
+    {
+        "id": "H20",
+        "text": "The systematic state-sponsored persecution and murder of six million Jews by the Nazi regime is known as:",
+        "image": "",
+        "options": [
+            "The Inquisition",
+            "The Holocaust",
+            "The Great Purge",
+            "The Armenian Genocide"
+        ],
+        "answer": "The Holocaust",
+        "explanation": "This genocide occurred during World War II across German-occupied Europe."
+    },
+    {
+        "id": "H21",
+        "text": "The United States dropped atomic bombs on $\\textbf{Hiroshima and Nagasaki}$ in which year?",
+        "image": "",
+        "options": [
+            "1943",
+            "1944",
+            "1945",
+            "1946"
+        ],
+        "answer": "1945",
+        "explanation": "The bombings in August 1945 led to Japan's unconditional surrender, ending World War II."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Battle of Midway}$ is considered a turning point in the Pacific Theater of WWII because:",
+        "image": "",
+        "options": [
+            "Japan lost four aircraft carriers",
+            "The US lost its entire fleet",
+            "Germany surrendered",
+            "China entered the war"
+        ],
+        "answer": "Japan lost four aircraft carriers",
+        "explanation": "The US Navy inflicted irreparable damage on the Imperial Japanese Navy, halting its expansion."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Korean War}$ (1950–1953) ended with:",
+        "image": "",
+        "options": [
+            "A peace treaty",
+            "A nuclear attack",
+            "An armistice",
+            "Total victory for the South"
+        ],
+        "answer": "An armistice",
+        "explanation": "The fighting ended with an armistice that established the Korean Demilitarized Zone, but no peace treaty was signed."
+    },
+    {
+        "id": "H24",
+        "text": "Which artificial satellite launched by the Soviet Union in 1957 triggered the $\\textbf{Space Race}$?",
+        "image": "",
+        "options": [
+            "Apollo 11",
+            "Vostok 1",
+            "Sputnik 1",
+            "Explorer 1"
+        ],
+        "answer": "Sputnik 1",
+        "explanation": "It was the first artificial Earth satellite, shocking the Western world and spurring US investment in space technology."
+    },
+    {
+        "id": "H25",
+        "text": "The term $\\textbf{'Iron Curtain'}$ refers to the division of Europe into:",
+        "image": "",
+        "options": [
+            "North and South",
+            "Rich and Poor",
+            "Democratic West and Communist East",
+            "Catholic and Protestant"
+        ],
+        "answer": "Democratic West and Communist East",
+        "explanation": "Coined by Winston Churchill, it described the boundary dividing Europe from the end of WWII until the end of the Cold War."
+    },
+    {
+        "id": "H26",
+        "text": "The landmark Supreme Court case $\\textbf{Brown v. Board of Education}$ (1954) declared that:",
+        "image": "",
+        "options": [
+            "Slavery was illegal",
+            "Separate public schools for black and white students were unconstitutional",
+            "Women had the right to vote",
+            "The draft was legal"
+        ],
+        "answer": "Separate public schools for black and white students were unconstitutional",
+        "explanation": "It overturned the 'separate but equal' doctrine established by Plessy v. Ferguson."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the first black president of $\\textbf{South Africa}$, elected in 1994?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Steve Biko",
+            "Thabo Mbeki",
+            "Nelson Mandela"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "After 27 years in prison, Mandela led the negotiations to end apartheid and establish multiracial elections."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Suez Canal}$, completed in 1869, connects the Mediterranean Sea to the:",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+        ],
+        "answer": "Red Sea",
+        "explanation": "It allows ships to travel between Europe and South Asia without navigating around Africa."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Spanish Flu}$ pandemic of 1918 occurred immediately following which major war?",
+        "image": "",
+        "options": [
+            "The Civil War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "The movement of troops helped spread the virus worldwide, infecting one-third of the global population."
+    },
+    {
+        "id": "H30",
+        "text": "Which Pope commissioned Michelangelo to paint the ceiling of the $\\textbf{Sistine Chapel}$?",
+        "image": "",
+        "options": [
+            "Pope Leo X",
+            "Pope Julius II",
+            "Pope Paul III",
+            "Pope Alexander VI"
+        ],
+        "answer": "Pope Julius II",
+        "explanation": "Completed between 1508 and 1512, it is one of the most famous artworks of the High Renaissance."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Colossus of Rhodes}$ was a giant statue of the Greek god:",
+        "image": "",
+        "options": [
+            "Zeus",
+            "Poseidon",
+            "Helios",
+            "Apollo"
+        ],
+        "answer": "Helios",
+        "explanation": "It was one of the Seven Wonders of the Ancient World, standing at the entrance to the harbor of Rhodes."
+    },
+    {
+        "id": "H32",
+        "text": "Who was the leader of the $\\textbf{Huns}$ known as the 'Scourge of God'?",
+        "image": "",
+        "options": [
+            "Genghis Khan",
+            "Attila",
+            "Alaric",
+            "Hannibal"
+        ],
+        "answer": "Attila",
+        "explanation": "Attila ruled the Huns from 434 to 453 and frequently invaded the Roman Empire."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Watergate Scandal}$ led to the resignation of which US President?",
+        "image": "",
+        "options": [
+            "Lyndon B. Johnson",
+            "Richard Nixon",
+            "Gerald Ford",
+            "Jimmy Carter"
+        ],
+        "answer": "Richard Nixon",
+        "explanation": "Facing almost certain impeachment for obstruction of justice, Nixon resigned in 1974."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Boxer Rebellion}$ in China was an uprising against:",
+        "image": "",
+        "options": [
+            "The Emperor",
+            "Foreign influence and Christianity",
+            "Communism",
+            "Japanese invasion"
+        ],
+        "answer": "Foreign influence and Christianity",
+        "explanation": "Taking place around 1900, the 'Boxers' fought to expel foreigners from China."
+    },
+    {
+        "id": "H35",
+        "text": "Who discovered $\\textbf{penicillin}$ in 1928?",
+        "image": "",
+        "options": [
+            "Louis Pasteur",
+            "Marie Curie",
+            "Alexander Fleming",
+            "Joseph Lister"
+        ],
+        "answer": "Alexander Fleming",
+        "explanation": "Fleming's accidental discovery revolutionized medicine by introducing the first true antibiotic."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 resulted in the conquest of England by:",
+        "image": "",
+        "options": [
+            "The Vikings",
+            "The Normans",
+            "The Saxons",
+            "The Romans"
+        ],
+        "answer": "The Normans",
+        "explanation": "William the Conqueror defeated King Harold II, changing the course of English history."
+    },
+    {
+        "id": "H37",
+        "text": "Which civilization built the city of $\\textbf{Tenochtitlán}$?",
+        "image": "",
+        "options": [
+            "The Maya",
+            "The Inca",
+            "The Aztec",
+            "The Olmec"
+        ],
+        "answer": "The Aztec",
+        "explanation": "Founded in 1325, it was the capital of the Aztec Empire and is now the site of Mexico City."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) officially ended which war?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "The treaty imposed harsh reparations and territorial losses on Germany."
+    },
+    {
+        "id": "H39",
+        "text": "Who was the first female $\\textbf{Prime Minister of the United Kingdom}$?",
+        "image": "",
+        "options": [
+            "Indira Gandhi",
+            "Margaret Thatcher",
+            "Theresa May",
+            "Golda Meir"
+        ],
+        "answer": "Margaret Thatcher",
+        "explanation": "Known as the 'Iron Lady', Thatcher served from 1979 to 1990."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Taj Mahal}$ is a mausoleum located in which country?",
+        "image": "",
+        "options": [
+            "Turkey",
+            "Iran",
+            "India",
+            "Pakistan"
+        ],
+        "answer": "India",
+        "explanation": "It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife."
+    }
+]

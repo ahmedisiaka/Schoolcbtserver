@@ -1,0 +1,520 @@
+[
+    {
+      "id": "U2021_1",
+      "text": "The year 2021 was characterized by the global effort to $\\textbf{inoculate}$ populations against the virus, marking a tentative but significant step toward $\\textbf{normality}$. (Comprehension Passage Snippet 1)\n\nWhat did the global effort to inoculate populations represent?",
+      "image": "",
+      "options": [
+        "A retreat from modern medicine",
+        "A significant step toward normality",
+        "The start of an economic recession",
+        "An increase in travel restrictions"
+      ],
+      "answer": "A significant step toward normality",
+      "explanation": "The text states it marked 'a tentative but significant step toward normality'."
+    },
+    {
+      "id": "U2021_2",
+      "text": "The year 2021 was characterized by the global effort to $\\textbf{inoculate}$ populations against the virus, marking a tentative but significant step toward normality. (Comprehension Passage Snippet 1)\n\nChoose the word that is closest in meaning to $\\textbf{inoculate}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Quarantine",
+        "Vaccinate or immunize",
+        "Isolate",
+        "Test"
+      ],
+      "answer": "Vaccinate or immunize",
+      "explanation": "To 'inoculate' means to treat a person or animal with a vaccine to produce immunity against a disease."
+    },
+    {
+      "id": "U2021_3",
+      "text": "However, the rapid $\\textbf{resurgence}$ of demand, coupled with $\\textbf{lockdowns}$ and transport capacity constraints, led to severe global supply chain $\\textbf{bottlenecks}$. (Comprehension Passage Snippet 2)\n\nWhat caused the global supply chain bottlenecks in 2021?",
+      "image": "",
+      "options": [
+        "Reduced consumer spending",
+        "A collapse in global trade",
+        "Rapid demand resurgence and capacity constraints",
+        "Excessive shipping container availability"
+      ],
+      "answer": "Rapid demand resurgence and capacity constraints",
+      "explanation": "The text cites 'rapid resurgence of demand, coupled with lockdowns and transport capacity constraints' as the cause."
+    },
+    {
+      "id": "U2021_4",
+      "text": "However, the rapid resurgence of demand, coupled with lockdowns and transport capacity constraints, led to severe global supply chain $\\textbf{bottlenecks}$. (Comprehension Passage Snippet 2)\n\nChoose the word that is closest in meaning to $\\textbf{bottlenecks}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Smooth flow",
+        "Efficiency",
+        "Congestion or delay at a stage in a process",
+        "Rapid distribution"
+      ],
+      "answer": "Congestion or delay at a stage in a process",
+      "explanation": "A 'bottleneck' in this context means a point of congestion or obstruction that causes delays in the supply chain."
+    },
+    {
+      "id": "U2021_5",
+      "text": "The meeting was $\\textbf{called}$ $\\textbf{off}$ when the main speaker suddenly became ill.\n\nChoose the option that best explains the phrasal verb **call off**.",
+      "image": "",
+      "options": [
+        "Shouted loudly",
+        "Started promptly",
+        "Cancelled or postponed indefinitely",
+        "Called attention to"
+      ],
+      "answer": "Cancelled or postponed indefinitely",
+      "explanation": "To 'call off' means to cancel an event or activity."
+    },
+    {
+      "id": "U2021_6",
+      "text": "The $\\textbf{tenuous}$ $\\textbf{hold}$ of the government on power was exposed during the confidence vote.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{tenuous}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Flimsy",
+        "Strong or substantial",
+        "Weak",
+        "Vague"
+      ],
+      "answer": "Strong or substantial",
+      "explanation": "Tenuous means very weak or slight. The opposite is 'strong' or 'substantial'."
+    },
+    {
+      "id": "U2021_7",
+      "text": "Either John or his brothers $\\textbf{(is/are)}$ responsible for cleaning the entire house.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "answer": "are",
+      "explanation": "When 'either... or' connects two subjects, the verb agrees with the subject closest to it. Since 'brothers' (plural) is closest, the plural verb 'are' is correct."
+    },
+    {
+      "id": "U2021_8",
+      "text": "The word $\\textbf{'compromise'}$ $\\textbf{c o m p r o m i s e}$.\n\nIdentify the syllable that carries the primary stress in the word **compromise**.",
+      "image": "",
+      "options": [
+        "com",
+        "pro",
+        "mise"
+      ],
+      "answer": "com",
+      "explanation": "The primary stress in 'compromise' /ˈkɒmprəmaɪz/ falls on the first syllable, 'com'."
+    },
+    {
+      "id": "U2021_9",
+      "text": "Another $\\textbf{salient}$ $\\textbf{feature}$ of the year was the normalization of the 'work from home' model, which led to a $\\textbf{structural}$ $\\textbf{shift}$ in commercial real estate demand. (Comprehension Passage Snippet 3)\n\nWhat did the normalization of 'work from home' lead to?",
+      "image": "",
+      "options": [
+        "A surge in urban migration",
+        "A structural shift in commercial real estate demand",
+        "A decrease in housing prices",
+        "A return to traditional office work"
+      ],
+      "answer": "A structural shift in commercial real estate demand",
+      "explanation": "The text states it led to 'a structural shift in commercial real estate demand'."
+    },
+    {
+      "id": "U2021_10",
+      "text": "Another $\\textbf{salient}$ feature of the year was the normalization of the 'work from home' model, which led to a structural shift in commercial real estate demand. (Comprehension Passage Snippet 3)\n\nChoose the word that is closest in meaning to $\\textbf{salient}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Hidden",
+        "Unimportant",
+        "Most noticeable or important",
+        "Minor"
+      ],
+      "answer": "Most noticeable or important",
+      "explanation": "Salient means most noticeable or important."
+    },
+    {
+      "id": "U2021_11",
+      "text": "His $\\textbf{candid}$ $\\textbf{remarks}$ about the project's failure surprised everyone.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{candid}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Frank",
+        "Sincere",
+        "Deceptive or reserved",
+        "Truthful"
+      ],
+      "answer": "Deceptive or reserved",
+      "explanation": "Candid means truthful and straightforward. The opposite is 'deceptive' or 'reserved'."
+    },
+    {
+      "id": "U2021_12",
+      "text": "She has a real $\\textbf{aptitude}$ $\\textbf{(at/for)}$ mathematics and science subjects.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "at",
+        "for",
+        "to",
+        "in"
+      ],
+      "answer": "for",
+      "explanation": "The noun 'aptitude' (a natural ability) typically takes the preposition 'for' when referring to a subject or skill."
+    },
+    {
+      "id": "U2021_13",
+      "text": "We would have gone to the concert if we $\\textbf{(had bought/bought)}$ the tickets in time.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had bought",
+        "bought",
+        "have bought",
+        "buy"
+      ],
+      "answer": "had bought",
+      "explanation": "This is a Third Conditional sentence. The structure requires the past perfect in the 'if' clause: 'If + past perfect (had bought), ... would have + past participle'."
+    },
+    {
+      "id": "U2021_14",
+      "text": "The word $\\textbf{'authority'}$ $\\textbf{a u t h o r i t y}$.\n\nIdentify the syllable that carries the primary stress in the word **authority**.",
+      "image": "",
+      "options": [
+        "au",
+        "thor",
+        "i",
+        "ty"
+      ],
+      "answer": "thor",
+      "explanation": "The primary stress in 'authority' /ɔːˈθɒrəti/ falls on the second syllable, 'thor'."
+    },
+    {
+      "id": "U2021_15",
+      "text": "The word $\\textbf{'rough'}$ $\\textbf{r o u g h}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **rough**?",
+      "image": "",
+      "options": [
+        "Cough",
+        "Through",
+        "Pouch",
+        "Up"
+      ],
+      "answer": "Up",
+      "explanation": "The vowel sound in 'rough' is /ʌ/ (the short 'u' sound). The vowel sound in 'Up' is also /ʌ/."
+    },
+    {
+      "id": "U2021_16",
+      "text": "The rise of cryptocurrencies and NFTs also reached a $\\textbf{fever}$ $\\textbf{pitch}$ in 2021, creating a $\\textbf{speculative}$ $\\textbf{mania}$ that drew global attention. (Comprehension Passage Snippet 4)\n\nWhat defined the interest in cryptocurrencies and NFTs in 2021?",
+      "image": "",
+      "options": [
+        "Stable, institutional investment",
+        "A conservative, cautious approach",
+        "A speculative mania",
+        "Declining public awareness"
+      ],
+      "answer": "A speculative mania",
+      "explanation": "The text describes it as creating a 'speculative mania'."
+    },
+    {
+      "id": "U2021_17",
+      "text": "The rise of cryptocurrencies and NFTs also reached a fever pitch in 2021, creating a $\\textbf{speculative}$ $\\textbf{mania}$ that drew global attention. (Comprehension Passage Snippet 4)\n\nChoose the word that is closest in meaning to $\\textbf{mania}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Calmness",
+        "A period of extreme enthusiasm or excitement",
+        "A sudden drop in interest",
+        "Slow development"
+      ],
+      "answer": "A period of extreme enthusiasm or excitement",
+      "explanation": "Mania means mental illness marked by periods of great excitement or euphoria, or, as used here, an excessive enthusiasm or desire."
+    },
+    {
+      "id": "U2021_18",
+      "text": "The sudden $\\textbf{cessation}$ of the rain allowed the game to resume.\n\nChoose the word that is closest in meaning to the word $\\textbf{cessation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Continuation",
+        "Beginning",
+        "A pause or ending",
+        "Acceleration"
+      ],
+      "answer": "A pause or ending",
+      "explanation": "Cessation means the fact or process of ending or being brought to an end."
+    },
+    {
+      "id": "U2021_19",
+      "text": "The team's $\\textbf{unwavering}$ $\\textbf{loyalty}$ to the coach was evident throughout the season.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{unwavering}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Steadfast",
+        "Firm",
+        "Hesitant or fluctuating",
+        "Constant"
+      ],
+      "answer": "Hesitant or fluctuating",
+      "explanation": "Unwavering means steady or resolute (not wavering). The opposite is 'hesitant' or 'fluctuating'."
+    },
+    {
+      "id": "U2021_20",
+      "text": "The word $\\textbf{'economy'}$ $\\textbf{e c o n o m y}$.\n\nIdentify the syllable that carries the primary stress in the word **economy**.",
+      "image": "",
+      "options": [
+        "e",
+        "co",
+        "no",
+        "my"
+      ],
+      "answer": "no",
+      "explanation": "The primary stress in 'economy' /ɪˈkɒnəmi/ falls on the third syllable, 'no'."
+    },
+    {
+      "id": "U2021_21",
+      "text": "The word $\\textbf{'measure'}$ $\\textbf{m e a s u r e}$.\n\nWhich of the following words has the same consonant sound as the 's' in **measure**?",
+      "image": "",
+      "options": [
+        "Pass",
+        "Pressure",
+        "Pleasant",
+        "Casual"
+      ],
+      "answer": "Casual",
+      "explanation": "The 's' in 'measure' is pronounced /ʒ/. The 's' in 'Casual' (/ˈkæʒuəl/) is also pronounced /ʒ/."
+    },
+    {
+      "id": "U2021_22",
+      "text": "The $\\textbf{students}$ $\\textbf{who}$ $\\textbf{were}$ $\\textbf{late}$ were $\\textbf{sent}$ $\\textbf{to}$ the principal.\n\nWhich of the words is a $\\textbf{relative}$ $\\textbf{pronoun}$?",
+      "image": "",
+      "options": [
+        "Students",
+        "Who",
+        "Late",
+        "Principal"
+      ],
+      "answer": "Who",
+      "explanation": "'Who' introduces the relative clause 'who were late' and refers back to the antecedent 'students', making it a relative pronoun."
+    },
+    {
+      "id": "U2021_23",
+      "text": "The $\\textbf{flock}$ of $\\textbf{sheep}$ grazed peacefully in the meadow.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Sheep",
+        "Grazed",
+        "Peacefully",
+        "Flock"
+      ],
+      "answer": "Flock",
+      "explanation": "A 'flock' is a collective noun, referring to a group of sheep or birds."
+    },
+    {
+      "id": "U2021_24",
+      "text": "He always complains $\\textbf{(of/about)}$ the high cost of living in the city.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "of",
+        "about",
+        "on",
+        "with"
+      ],
+      "answer": "about",
+      "explanation": "When expressing dissatisfaction or annoyance, the verb 'complain' is typically followed by the preposition 'about' (complain *about* something)."
+    },
+    {
+      "id": "U2021_25",
+      "text": "The politician tried to $\\textbf{pander}$ $\\textbf{to}$ the extreme factions of his party.\n\nChoose the word that is closest in meaning to the verb $\\textbf{pander}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "To oppose strongly",
+        "To challenge openly",
+        "To gratify or indulge a questionable desire",
+        "To ignore completely"
+      ],
+      "answer": "To gratify or indulge a questionable desire",
+      "explanation": "To 'pander' means to gratify or indulge an immoral or distasteful desire, need, or habit (of a person or group)."
+    },
+    {
+      "id": "U2021_26",
+      "text": "If I $\\textbf{(were/was)}$ the prime minister, I would reform the entire tax system.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "were",
+        "was",
+        "am",
+        "have been"
+      ],
+      "answer": "were",
+      "explanation": "This is a Second Conditional sentence expressing an unreal or hypothetical present situation. The subjunctive 'were' is used for all subjects in the 'if' clause in formal style."
+    },
+    {
+      "id": "U2021_27",
+      "text": "The manager's attempt to fix the problem was like **putting a square peg in a round hole**.\n\nChoose the option that best explains the expression **putting a square peg in a round hole**.",
+      "image": "",
+      "options": [
+        "Solving a problem easily",
+        "Finding a perfect solution",
+        "Trying to fit someone or something into an unsuitable situation",
+        "Making an existing solution better"
+      ],
+      "answer": "Trying to fit someone or something into an unsuitable situation",
+      "explanation": "The idiom means attempting to accomplish something in a way that is wrong or unsuitable."
+    },
+    {
+      "id": "U2021_28",
+      "text": "Identify the word where the sound represented by the letters 'th' is pronounced /ð/ (the $\\textbf{voiced}$ sound).",
+      "image": "",
+      "options": [
+        "Thin",
+        "Theme",
+        "Brother",
+        "Thistle"
+      ],
+      "answer": "Brother",
+      "explanation": "In 'Brother', 'th' is pronounced /ð/ (voiced). In 'Thin', 'Theme', and 'Thistle' it is pronounced /θ/ (unvoiced)."
+    },
+    {
+      "id": "U2021_29",
+      "text": "The word $\\textbf{'environmental'}$ $\\textbf{e n v i r o n m e n t a l}$.\n\nIdentify the syllable that carries the primary stress in the word **environmental**.",
+      "image": "",
+      "options": [
+        "en",
+        "vi",
+        "ron",
+        "men",
+        "tal"
+      ],
+      "answer": "men",
+      "explanation": "The primary stress in 'environmental' /ɪnˌvaɪrənˈmɛntəl/ falls on the fourth syllable, 'men'."
+    },
+    {
+      "id": "U2021_30",
+      "text": "The new manager's policies were $\\textbf{antithetical}$ to the company's long-held values.\n\nChoose the word that is closest in meaning to the word $\\textbf{antithetical}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Supportive",
+        "In direct opposition or contrast to",
+        "Similar",
+        "Neutral"
+      ],
+      "answer": "In direct opposition or contrast to",
+      "explanation": "Antithetical means directly opposed or contrasted; mutually incompatible."
+    },
+    {
+      "id": "U2021_31",
+      "text": "The research team $\\textbf{came}$ $\\textbf{up}$ $\\textbf{with}$ a brilliant new solution to the problem.\n\nChoose the option that best explains the phrasal verb **came up with**.",
+      "image": "",
+      "options": [
+        "Finished working on",
+        "Discovered or produced (an idea or solution)",
+        "Discussed briefly",
+        "Criticized severely"
+      ],
+      "answer": "Discovered or produced (an idea or solution)",
+      "explanation": "To 'come up with' means to produce or find (an idea or answer)."
+    },
+    {
+      "id": "U2021_32",
+      "text": "The word $\\textbf{'pull'}$ $\\textbf{p u l l}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **pull**?",
+      "image": "",
+      "options": [
+        "Pool",
+        "Put",
+        "Pill",
+        "Pale"
+      ],
+      "answer": "Put",
+      "explanation": "The vowel sound in 'pull' is /ʊ/ (the short 'oo' sound). The vowel sound in 'Put' is also /ʊ/."
+    },
+    {
+      "id": "U2021_33",
+      "text": "The novel was criticized for its $\\textbf{pedestrian}$ $\\textbf{plot}$ and dull characters.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{pedestrian}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Mundane",
+        "Exciting or imaginative",
+        "Ordinary",
+        "Walkable"
+      ],
+      "answer": "Exciting or imaginative",
+      "explanation": "Pedestrian means lacking inspiration or excitement; dull or ordinary. The opposite is 'exciting' or 'imaginative'."
+    },
+    {
+      "id": "U2021_34",
+      "text": "The speaker addressed $\\textbf{her}$ $\\textbf{audience}$ $\\textbf{with}$ $\\textbf{great}$ $\\textbf{passion}$.\n\nIdentify the part of speech of the word **with** in the sentence.",
+      "image": "",
+      "options": [
+        "Adverb",
+        "Verb",
+        "Preposition",
+        "Conjunction"
+      ],
+      "answer": "Preposition",
+      "explanation": "'With' connects the verb phrase to the object 'great passion', showing manner, and is a preposition."
+    },
+    {
+      "id": "U2021_35",
+      "text": "The $\\textbf{boy}$ $\\textbf{who}$ $\\textbf{won}$ the $\\textbf{race}$ $\\textbf{is}$ $\\textbf{a}$ $\\textbf{star}$ $\\textbf{athlete}$.\n\nIdentify the $\\textbf{main}$ $\\textbf{verb}$ of the entire sentence.",
+      "image": "",
+      "options": [
+        "won",
+        "is",
+        "race",
+        "athlete"
+      ],
+      "answer": "is",
+      "explanation": "'Is' is the main verb connecting the subject ('The boy who won the race') to the subject complement ('a star athlete'). 'Won' is the verb in the relative clause."
+    },
+    {
+      "id": "U2021_36",
+      "text": "The word $\\textbf{'increase'}$ (as a noun).\n\nIdentify the syllable that carries the primary stress in the word **increase** (noun).",
+      "image": "",
+      "options": [
+        "in",
+        "crease"
+      ],
+      "answer": "in",
+      "explanation": "The primary stress in the noun 'increase' /ˈɪnkriːs/ falls on the first syllable, 'in'. (Compare to the verb 'increase' /ɪnˈkriːs/ where the stress is on the second syllable)."
+    },
+    {
+      "id": "U2021_37",
+      "text": "The word $\\textbf{'fear'}$ $\\textbf{f e a r}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **fear**?",
+      "image": "",
+      "options": [
+        "Fair",
+        "Peer",
+        "Far",
+        "For"
+      ],
+      "answer": "Peer",
+      "explanation": "The vowel sound in 'fear' is /ɪə/ (a diphthong). The vowel sound in 'Peer' is also /ɪə/."
+    },
+    {
+      "id": "U2021_38",
+      "text": "The new employee seemed **eager beaver** during her first week.\n\nChoose the option that best explains the idiom **eager beaver**.",
+      "image": "",
+      "options": [
+        "Someone who is lazy and unwilling to work",
+        "Someone who is hardworking and enthusiastic",
+        "Someone who causes trouble for others",
+        "Someone who is always late"
+      ],
+      "answer": "Someone who is hardworking and enthusiastic",
+      "explanation": "An 'eager beaver' is an idiom for a person who is extremely enthusiastic and hardworking."
+    },
+    {
+      "id": "U2021_39",
+      "text": "The evidence presented in court was $\\textbf{incontrovertible}$.\n\nChoose the word that is closest in meaning to the word $\\textbf{incontrovertible}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Doubtful",
+        "Contestable",
+        "Indisputable or certain",
+        "Weak"
+      ],
+      "answer": "Indisputable or certain",
+      "explanation": "Incontrovertible means not able to be denied or disputed; undeniable."
+    },
+    {
+      "id": "U2021_40",
+      "text": "Everyone except the children $\\textbf{(was/were)}$ allowed to leave the premises immediately.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "have been",
+        "are"
+      ],
+      "answer": "was",
+      "explanation": "The subject of the sentence is 'Everyone,' which is a singular indefinite pronoun. The verb must therefore be singular: 'was'."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Great Sphinx}$ of Giza is a limestone statue with the body of a lion and the head of a:",
+        "image": "",
+        "options": [
+            "Eagle",
+            "Human (Pharaoh)",
+            "Bull",
+            "Ram"
+        ],
+        "answer": "Human (Pharaoh)",
+        "explanation": "It is generally believed to represent the Pharaoh Khafre and stands on the Giza Plateau."
+    },
+    {
+        "id": "H02",
+        "text": "Which ancient city was destroyed by the volcanic eruption of $\\textbf{Mount Vesuvius}$ in 79 AD?",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Pompeii",
+            "Carthage"
+        ],
+        "answer": "Pompeii",
+        "explanation": "The eruption buried the Roman city of Pompeii under a thick layer of volcanic ash, preserving it for centuries."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Parthenon}$ was a temple dedicated to which Greek goddess?",
+        "image": "",
+        "options": [
+            "Hera",
+            "Aphrodite",
+            "Athena",
+            "Artemis"
+        ],
+        "answer": "Athena",
+        "explanation": "Located on the Acropolis of Athens, it is considered the zenith of the Doric order."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first $\\textbf{Christian Emperor}$ of Rome?",
+        "image": "",
+        "options": [
+            "Nero",
+            "Augustus",
+            "Constantine the Great",
+            "Trajan"
+        ],
+        "answer": "Constantine the Great",
+        "explanation": "Constantine issued the Edict of Milan, which legalized Christianity, and later converted to the faith."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 resulted in the coronation of:",
+        "image": "",
+        "options": [
+            "King Harold II",
+            "William the Conqueror",
+            "Richard the Lionheart",
+            "Charlemagne"
+        ],
+        "answer": "William the Conqueror",
+        "explanation": "The Norman Duke defeated the Anglo-Saxon King Harold II, beginning the Norman conquest of England."
+    },
+    {
+        "id": "H06",
+        "text": "Which document, signed by King John in 1215, limited the power of the English monarch?",
+        "image": "",
+        "options": [
+            "The Domesday Book",
+            "The Magna Carta",
+            "The Petition of Right",
+            "The Bill of Rights"
+        ],
+        "answer": "The Magna Carta",
+        "explanation": "It established the principle that everyone, including the king, was subject to the law."
+    },
+    {
+        "id": "H07",
+        "text": "Who was the Venetian merchant who traveled the $\\textbf{Silk Road}$ to China in the 13th century?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Marco Polo",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+        ],
+        "answer": "Marco Polo",
+        "explanation": "His travels are recorded in 'The Travels of Marco Polo', introducing Europeans to the culture of Central Asia and China."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Gutenberg Bible}$ was the first major book printed using mass-produced:",
+        "image": "",
+        "options": [
+            "Woodblocks",
+            "Movable Metal Type",
+            "Lithography",
+            "Handwriting"
+        ],
+        "answer": "Movable Metal Type",
+        "explanation": "Johannes Gutenberg's invention in the 1450s started the Printing Revolution in Europe."
+    },
+    {
+        "id": "H09",
+        "text": "Which Italian artist painted the ceiling of the $\\textbf{Sistine Chapel}$?",
+        "image": "",
+        "options": [
+            "Leonardo da Vinci",
+            "Raphael",
+            "Michelangelo",
+            "Donatello"
+        ],
+        "answer": "Michelangelo",
+        "explanation": "Painted between 1508 and 1512, it is a cornerstone work of High Renaissance art."
+    },
+    {
+        "id": "H10",
+        "text": "King $\\textbf{Henry VIII}$ is famous for having how many wives?",
+        "image": "",
+        "options": [
+            "Four",
+            "Six",
+            "Eight",
+            "Two"
+        ],
+        "answer": "Six",
+        "explanation": "His desire to annul his first marriage led to the separation of the Church of England from papal authority."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Spanish Armada}$ was a fleet sent to invade England in 1588 but was defeated by:",
+        "image": "",
+        "options": [
+            "The French Navy",
+            "The Dutch Navy",
+            "The English Navy",
+            "A storm"
+        ],
+        "answer": "The English Navy",
+        "explanation": "The English fleet, led by Drake and Howard, along with favorable winds, defeated the Spanish invasion force."
+    },
+    {
+        "id": "H12",
+        "text": "Who established the first permanent English settlement in North America at $\\textbf{Jamestown}$?",
+        "image": "",
+        "options": [
+            "The Pilgrims",
+            "The Virginia Company",
+            "Sir Walter Raleigh",
+            "The Puritans"
+        ],
+        "answer": "The Virginia Company",
+        "explanation": "Jamestown was founded in 1607 in the Colony of Virginia."
+    },
+    {
+        "id": "H13",
+        "text": "Which astronomer was put on trial by the Inquisition for supporting $\\textbf{Heliocentrism}$?",
+        "image": "",
+        "options": [
+            "Nicolaus Copernicus",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler"
+        ],
+        "answer": "Galileo Galilei",
+        "explanation": "He was tried in 1633 and spent the rest of his life under house arrest for teaching that the Earth revolves around the Sun."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Mayflower Compact}$ was signed by the Pilgrims in:",
+        "image": "",
+        "options": [
+            "1492",
+            "1620",
+            "1776",
+            "1812"
+        ],
+        "answer": "1620",
+        "explanation": "It was the first governing document of the Plymouth Colony."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Boston Tea Party}$ was a political protest against:",
+        "image": "",
+        "options": [
+            "British taxation without representation",
+            "French trade policies",
+            "Native American raids",
+            "Spanish tariffs"
+        ],
+        "answer": "British taxation without representation",
+        "explanation": "Colonists dumped 342 chests of tea into Boston Harbor in 1773."
+    },
+    {
+        "id": "H16",
+        "text": "Who was the Commander-in-Chief of the $\\textbf{Continental Army}$ during the American Revolution?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "George Washington",
+            "John Adams"
+        ],
+        "answer": "George Washington",
+        "explanation": "Washington led the colonial forces to victory and became the first US President."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Louisiana Purchase}$ of 1803 involved the US acquiring land from:",
+        "image": "",
+        "options": [
+            "Spain",
+            "Great Britain",
+            "France",
+            "Russia"
+        ],
+        "answer": "France",
+        "explanation": "Napoleon sold the territory to the US for $15 million, doubling the size of the country."
+    },
+    {
+        "id": "H18",
+        "text": "Who was the South American general known as $\\textbf{'El Libertador'}$?",
+        "image": "",
+        "options": [
+            "Che Guevara",
+            "Simon Bolivar",
+            "Fidel Castro",
+            "Eva Peron"
+        ],
+        "answer": "Simon Bolivar",
+        "explanation": "Bolivar led the independence movements of Venezuela, Colombia, Ecuador, Peru, and Bolivia against Spanish rule."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Industrial Revolution}$ began in Great Britain in the late 18th century, focusing first on:",
+        "image": "",
+        "options": [
+            "Steel production",
+            "Textiles",
+            "Automobiles",
+            "Electronics"
+        ],
+        "answer": "Textiles",
+        "explanation": "Innovations like the Spinning Jenny revolutionized the production of cotton and wool."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Battle of Gettysburg}$ is considered the turning point of which war?",
+        "image": "",
+        "options": [
+            "The War of 1812",
+            "The American Civil War",
+            "The Revolutionary War",
+            "The Mexican-American War"
+        ],
+        "answer": "The American Civil War",
+        "explanation": "Fought in 1863, the Union victory ended General Lee's invasion of the North."
+    },
+    {
+        "id": "H21",
+        "text": "Who invented the practical incandescent $\\textbf{light bulb}$?",
+        "image": "",
+        "options": [
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Benjamin Franklin"
+        ],
+        "answer": "Thomas Edison",
+        "explanation": "Edison patented the commercially viable electric light bulb in 1879."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Panama Canal}$ connects which two oceans?",
+        "image": "",
+        "options": [
+            "Atlantic and Indian",
+            "Pacific and Indian",
+            "Atlantic and Pacific",
+            "Arctic and Atlantic"
+        ],
+        "answer": "Atlantic and Pacific",
+        "explanation": "Completed in 1914, it allows ships to cross between the Atlantic and Pacific without navigating around South America."
+    },
+    {
+        "id": "H23",
+        "text": "The sinking of which ship in 1915 helped turn American public opinion against Germany in WWI?",
+        "image": "",
+        "options": [
+            "The Titanic",
+            "The Lusitania",
+            "The Bismarck",
+            "The Maine"
+        ],
+        "answer": "The Lusitania",
+        "explanation": "A German U-boat torpedoed the British liner, killing nearly 1,200 people, including 128 Americans."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) officially ended which conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "The treaty imposed harsh reparations and territorial losses on Germany."
+    },
+    {
+        "id": "H25",
+        "text": "Who became the Chancellor of Germany in 1933?",
+        "image": "",
+        "options": [
+            "Kaiser Wilhelm II",
+            "Adolf Hitler",
+            "Joseph Goebbels",
+            "Paul von Hindenburg"
+        ],
+        "answer": "Adolf Hitler",
+        "explanation": "Hitler's rise to power marked the end of the Weimar Republic and the beginning of the Third Reich."
+    },
+    {
+        "id": "H26",
+        "text": "The attack on $\\textbf{Pearl Harbor}$ occurred on:",
+        "image": "",
+        "options": [
+            "September 1, 1939",
+            "December 7, 1941",
+            "June 6, 1944",
+            "August 6, 1945"
+        ],
+        "answer": "December 7, 1941",
+        "explanation": "The surprise attack by Japan led the United States to enter World War II."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{D-Day}$ landings in 1944 took place on the beaches of:",
+        "image": "",
+        "options": [
+            "Normandy, France",
+            "Sicily, Italy",
+            "Okinawa, Japan",
+            "Dunkirk, France"
+        ],
+        "answer": "Normandy, France",
+        "explanation": "It was the largest seaborne invasion in history and began the liberation of Western Europe."
+    },
+    {
+        "id": "H28",
+        "text": "The systematic persecution and genocide of Jewish people by the Nazi regime is known as:",
+        "image": "",
+        "options": [
+            "The Inquisition",
+            "The Holocaust",
+            "The Great Purge",
+            "The Pogroms"
+        ],
+        "answer": "The Holocaust",
+        "explanation": "Six million Jews and millions of others were murdered during World War II."
+    },
+    {
+        "id": "H29",
+        "text": "Who led the $\\textbf{Indian Independence Movement}$ using nonviolent civil disobedience?",
+        "image": "",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Indira Gandhi",
+            "Subhas Chandra Bose"
+        ],
+        "answer": "Mahatma Gandhi",
+        "explanation": "Gandhi's philosophy of Satyagraha was instrumental in India gaining independence from Britain in 1947."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Sputnik 1}$ satellite launched in 1957 marked the beginning of:",
+        "image": "",
+        "options": [
+            "The Nuclear Age",
+            "The Space Race",
+            "The Internet Era",
+            "The Cold War"
+        ],
+        "answer": "The Space Race",
+        "explanation": "Launched by the Soviet Union, it was the first artificial Earth satellite."
+    },
+    {
+        "id": "H31",
+        "text": "Who assassinated President $\\textbf{John F. Kennedy}$ in 1963?",
+        "image": "",
+        "options": [
+            "John Wilkes Booth",
+            "Lee Harvey Oswald",
+            "Sirhan Sirhan",
+            "James Earl Ray"
+        ],
+        "answer": "Lee Harvey Oswald",
+        "explanation": "Kennedy was shot in Dallas, Texas; Oswald was arrested but killed by Jack Ruby shortly after."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Marshall Plan}$ was a US initiative to help rebuild:",
+        "image": "",
+        "options": [
+            "Japan",
+            "Western Europe",
+            "South America",
+            "Eastern Europe"
+        ],
+        "answer": "Western Europe",
+        "explanation": "Enacted in 1948, it provided economic support to help rebuild European economies after WWII."
+    },
+    {
+        "id": "H33",
+        "text": "Who was the leader of the $\\textbf{Communist Revolution}$ in China?",
+        "image": "",
+        "options": [
+            "Sun Yat-sen",
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao founded the People's Republic of China in 1949."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Korean War}$ resulted in the division of Korea along the:",
+        "image": "",
+        "options": [
+            "17th Parallel",
+            "38th Parallel",
+            "Berlin Wall",
+            "Yalu River"
+        ],
+        "answer": "38th Parallel",
+        "explanation": "The war ended in an armistice in 1953, creating a demilitarized zone near the 38th parallel."
+    },
+    {
+        "id": "H35",
+        "text": "Who refused to give up her bus seat in Montgomery, Alabama, sparking a famous boycott?",
+        "image": "",
+        "options": [
+            "Harriet Tubman",
+            "Sojourner Truth",
+            "Rosa Parks",
+            "Coretta Scott King"
+        ],
+        "answer": "Rosa Parks",
+        "explanation": "Her arrest in 1955 was a pivotal moment in the Civil Rights Movement."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Apollo 11}$ mission in 1969 achieved the first:",
+        "image": "",
+        "options": [
+            "Space walk",
+            "Satellite launch",
+            "Moon landing",
+            "Mars rover landing"
+        ],
+        "answer": "Moon landing",
+        "explanation": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Chernobyl Disaster}$ (1986) was a catastrophic accident at a:",
+        "image": "",
+        "options": [
+            "Chemical plant",
+            "Nuclear power plant",
+            "Oil refinery",
+            "Dam"
+        ],
+        "answer": "Nuclear power plant",
+        "explanation": "Located in Ukraine (USSR), it is considered the worst nuclear power plant accident in history."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Fall of the Berlin Wall}$ in 1989 symbolized the end of:",
+        "image": "",
+        "options": [
+            "The European Union",
+            "The Cold War",
+            "World War II",
+            "The Vietnam War"
+        ],
+        "answer": "The Cold War",
+        "explanation": "The wall had separated East and West Berlin since 1961."
+    },
+    {
+        "id": "H39",
+        "text": "Who was the South African leader imprisoned for 27 years for fighting $\\textbf{Apartheid}$?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Steve Biko",
+            "F.W. de Klerk"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela was released in 1990 and elected President of South Africa in 1994."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{September 11 Attacks}$ in 2001 targeted the World Trade Center and:",
+        "image": "",
+        "options": [
+            "The White House",
+            "The Pentagon",
+            "The Statue of Liberty",
+            "The Empire State Building"
+        ],
+        "answer": "The Pentagon",
+        "explanation": "Terrorists hijacked planes, crashing them into the Twin Towers and the Pentagon."
+    }
+]

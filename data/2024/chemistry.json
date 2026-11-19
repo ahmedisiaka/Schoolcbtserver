@@ -1,0 +1,522 @@
+[
+    {
+      "id": "Q1",
+      "topic": "Particulate Nature of Matter",
+      "text": "Which of the following processes involves a decrease in entropy?",
+      "options": [
+        "Sublimation of iodine",
+        "Dissolving sugar in water",
+        "Condensation of steam to water",
+        "Decomposition of $\\text{CaCO}_3$"
+      ],
+      "answer": "Condensation of steam to water",
+      "explanation": "Entropy is a measure of disorder. Condensation (gas to liquid) involves particles becoming more ordered, hence a decrease in entropy."
+    },
+    {
+      "id": "Q2",
+      "topic": "Stoichiometry",
+      "text": "What is the mass of $\\text{CO}_2$ produced when $10.0 \\text{ g}$ of $\\text{CaCO}_3$ is completely decomposed? [$\\text{Ca}=40, \\text{C}=12, \\text{O}=16$]",
+      "options": [
+        "$4.4 \\text{ g}$",
+        "$10.0 \\text{ g}$",
+        "$22.0 \\text{ g}$",
+        "$44.0 \\text{ g}$"
+      ],
+      "answer": "4.4 g",
+      "explanation": "Reaction: $\\text{CaCO}_3 \\to \\text{CaO} + \\text{CO}_2$. Molar mass $\\text{CaCO}_3 = 100 \\text{ g/mol}$, $\\text{CO}_2 = 44 \\text{ g/mol}$. From the equation, $100 \\text{ g}$ of $\\text{CaCO}_3$ yields $44 \\text{ g}$ of $\\text{CO}_2$. Thus, $10.0 \\text{ g}$ yields $\\frac{44}{100} \\times 10.0 = 4.4 \\text{ g}$."
+    },
+    {
+      "id": "Q3",
+      "topic": "Atomic Structure",
+      "text": "The isotopes of an element differ in the number of:",
+      "options": [
+        "Protons",
+        "Electrons",
+        "Neutrons",
+        "Valence electrons"
+      ],
+      "answer": "Neutrons",
+      "explanation": "Isotopes are atoms of the same element (same atomic number/protons) that have different numbers of neutrons, leading to different mass numbers."
+    },
+    {
+      "id": "Q4",
+      "topic": "Gas Laws",
+      "text": "A given mass of gas occupies $400 \\text{ cm}^3$ at $27 \\text{ \u00b0C}$. At what temperature will its volume double, assuming constant pressure?",
+      "options": [
+        "$54 \\text{ \u00b0C}$",
+        "$136.5 \\text{ \u00b0C}$",
+        "$300 \\text{ \u00b0C}$",
+        "$327 \\text{ \u00b0C}$"
+      ],
+      "answer": "327 \u00b0C",
+      "explanation": "Use Charles' Law: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$. $V_1 = 400 \\text{ cm}^3$, $T_1 = 27 + 273 = 300 \\text{ K}$. $V_2 = 800 \\text{ cm}^3$. $T_2 = \\frac{V_2 T_1}{V_1} = \\frac{800 \\times 300}{400} = 600 \\text{ K}$. Temperature in $\\text{ \u00b0C}$ is $600 - 273 = 327 \\text{ \u00b0C}$."
+    },
+    {
+      "id": "Q5",
+      "topic": "Chemical Bonding",
+      "text": "Which type of bond is responsible for the high boiling point of water?",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "answer": "Hydrogen bond",
+      "explanation": "Hydrogen bonds are strong intermolecular forces that exist between water molecules, requiring significant energy to break, thus leading to a high boiling point."
+    },
+    {
+      "id": "Q6",
+      "topic": "Separation Techniques",
+      "text": "The most appropriate method for obtaining pure water from salt water is:",
+      "options": [
+        "Decantation",
+        "Fractional distillation",
+        "Simple distillation",
+        "Filtration"
+      ],
+      "answer": "Simple distillation",
+      "explanation": "Distillation separates the volatile liquid (water) from the non-volatile solute (salt). Simple distillation is sufficient when separating a liquid from a dissolved solid."
+    },
+    {
+      "id": "Q7",
+      "topic": "Acids, Bases, and Salts",
+      "text": "According to the Br\u00f8nsted-Lowry theory, a base is a substance that:",
+      "options": [
+        "Produces $\\text{OH}^-$ ions in water.",
+        "Accepts a proton ($\\text{H}^+$).",
+        "Donates a proton ($\\text{H}^+$).",
+        "Accepts an electron pair."
+      ],
+      "answer": "Accepts a proton ($\\text{H}^+$).",
+      "explanation": "Br\u00f8nsted-Lowry bases are proton acceptors, while Br\u00f8nsted-Lowry acids are proton donors."
+    },
+    {
+      "id": "Q8",
+      "topic": "Rates of Reaction",
+      "text": "Increasing the concentration of reactants increases the rate of reaction because:",
+      "options": [
+        "The activation energy is lowered.",
+        "The collision frequency increases.",
+        "The volume of the reaction mixture decreases.",
+        "The reaction becomes more exothermic."
+      ],
+      "answer": "The collision frequency increases.",
+      "explanation": "Higher concentration means more reactant particles per unit volume, leading to a greater number of collisions per second, and thus a higher rate of reaction."
+    },
+    {
+      "id": "Q9",
+      "topic": "Redox Reactions",
+      "text": "In the reaction $2\\text{Fe}^{3+} + 2\\text{I}^- \\to 2\\text{Fe}^{2+} + \\text{I}_2$, the reducing agent is:",
+      "options": [
+        "$\\text{Fe}^{3+}$",
+        "$\\text{I}^-$",
+        "$\\text{Fe}^{2+}$",
+        "$\\text{I}_2$"
+      ],
+      "answer": "$\\text{I}^-$",
+      "explanation": "The reducing agent is the species that is oxidized (loses electrons). Iodine changes its oxidation state from $-1$ in $\\text{I}^-$ to $0$ in $\\text{I}_2$ (oxidation), making $\\text{I}^-$ the reducing agent."
+    },
+    {
+      "id": "Q10",
+      "topic": "Chemical Equilibrium",
+      "text": "For the reaction $\\text{PCl}_5(\\text{g}) \\rightleftharpoons \\text{PCl}_3(\\text{g}) + \\text{Cl}_2(\\text{g})$, increasing the pressure will:",
+      "options": [
+        "Shift the equilibrium to the right.",
+        "Shift the equilibrium to the left.",
+        "Not affect the equilibrium.",
+        "Increase the value of the equilibrium constant."
+      ],
+      "answer": "Shift the equilibrium to the left.",
+      "explanation": "The products side has 2 moles of gas, and the reactants side has 1 mole. Increasing pressure favors the side with fewer moles of gas (Le Chatelier's Principle), which is the reactants side (left)."
+    },
+    {
+      "id": "Q11",
+      "topic": "Electrochemistry",
+      "text": "Which of the following half-reactions occurs at the cathode during the electrolysis of molten $\\text{NaCl}$?",
+      "options": [
+        "$2\\text{Cl}^- \\to \\text{Cl}_2 + 2\\text{e}^-$",
+        "$\\text{Na}^+ + \\text{e}^- \\to \\text{Na}$",
+        "$2\\text{H}_2\\text{O} \\to \\text{O}_2 + 4\\text{H}^+ + 4\\text{e}^-$",
+        "$2\\text{H}^+ + 2\\text{e}^- \\to \\text{H}_2$"
+      ],
+      "answer": "$\\text{Na}^+ + \\text{e}^- \\to \\text{Na}$",
+      "explanation": "The cathode is where reduction occurs (gain of electrons). In molten $\\text{NaCl}$, only $\\text{Na}^+$ ions are available for reduction."
+    },
+    {
+      "id": "Q12",
+      "topic": "Organic Chemistry (Nomenclature)",
+      "text": "What is the correct $\\text{IUPAC}$ name for the compound $\\text{CH}_3\\text{CH}(\\text{CH}_3)\\text{CH}_2\\text{CH}_3$?",
+      "options": [
+        "Pentane",
+        "2-Methylbutane",
+        "3-Methylbutane",
+        "2,2-Dimethylpropane"
+      ],
+      "answer": "2-Methylbutane",
+      "explanation": "The longest continuous carbon chain has four carbons (Butane). The methyl group ($\\text{CH}_3$) is attached to the second carbon. "
+    },
+    {
+      "id": "Q13",
+      "topic": "Industrial Chemistry",
+      "text": "The function of concentrated $\\text{H}_2\\text{SO}_4$ in the preparation of $\\text{HCl}$ gas is primarily as a:",
+      "options": [
+        "Catalyst",
+        "Cooling agent",
+        "Dehydrating agent",
+        "Oxidizing agent"
+      ],
+      "answer": "Dehydrating agent",
+      "explanation": "In the reaction $\\text{NaCl} + \\text{H}_2\\text{SO}_4 \\to \\text{NaHSO}_4 + \\text{HCl}$, the $\\text{H}_2\\text{SO}_4$ acts as a non-volatile acid that displaces the volatile $\\text{HCl}$. However, it is primarily used to dry the $\\text{HCl}$ gas as a strong dehydrating agent."
+    },
+    {
+      "id": "Q14",
+      "topic": "Solutions and Colligative Properties",
+      "text": "Adding salt to water elevates the boiling point because the salt:",
+      "options": [
+        "Increases the external pressure.",
+        "Increases the vapour pressure of water.",
+        "Decreases the vapour pressure of water.",
+        "Decreases the surface tension."
+      ],
+      "answer": "Decreases the vapour pressure of water.",
+      "explanation": "Non-volatile solutes (like salt) decrease the vapour pressure of the solvent. A lower vapour pressure means a higher temperature is required to reach the external pressure (boiling point elevation)."
+    },
+    {
+      "id": "Q15",
+      "topic": "Quantitative Analysis (Molarity)",
+      "text": "What mass of $\\text{NaOH}$ is required to prepare $500 \\text{ cm}^3$ of a $0.50 \\text{ mol/dm}^3$ solution? [$\\text{Na}=23, \\text{O}=16, \\text{H}=1$]",
+      "options": [
+        "$5.0 \\text{ g}$",
+        "$10.0 \\text{ g}$",
+        "$20.0 \\text{ g}$",
+        "$40.0 \\text{ g}$"
+      ],
+      "answer": "10.0 g",
+      "explanation": "Molar mass of $\\text{NaOH} = 40 \\text{ g/mol}$. Moles required = Molarity $\\times$ Volume in $\\text{dm}^3 = 0.50 \\times \\frac{500}{1000} = 0.25 \\text{ moles}$. Mass = Moles $\\times$ Molar Mass = $0.25 \\times 40 = 10.0 \\text{ g}$."
+    },
+    {
+      "id": "Q16",
+      "topic": "Periodic Table",
+      "text": "Which of the following is the most electronegative element?",
+      "options": [
+        "Carbon (C)",
+        "Nitrogen (N)",
+        "Oxygen (O)",
+        "Fluorine (F)"
+      ],
+      "answer": "Fluorine (F)",
+      "explanation": "Electronegativity generally increases across a period and decreases down a group. Fluorine is the most electronegative element."
+    },
+    {
+      "id": "Q17",
+      "topic": "Chemical Calculations",
+      "text": "If $0.5 \\text{ mole}$ of an element weighs $8.0 \\text{ g}$, what is its Relative Atomic Mass?",
+      "options": [
+        "4.0",
+        "8.0",
+        "16.0",
+        "32.0"
+      ],
+      "answer": "16.0",
+      "explanation": "Relative Atomic Mass (Molar Mass) = Mass / Moles. Molar Mass $= \\frac{8.0 \\text{ g}}{0.5 \\text{ mol}} = 16.0 \\text{ g/mol}$. The relative atomic mass is $16.0$."
+    },
+    {
+      "id": "Q18",
+      "topic": "Environmental Chemistry",
+      "text": "The primary cause of the greenhouse effect and global warming is the excessive atmospheric concentration of:",
+      "options": [
+        "Ozone ($\\text{O}_3$)",
+        "Sulphur (IV) oxide ($\\text{SO}_2$)",
+        "Carbon (IV) oxide ($\\text{CO}_2$)",
+        "Nitrogen ($\\text{N}_2$)"
+      ],
+      "answer": "Carbon (IV) oxide ($\\text{CO}_2$)",
+      "explanation": "Carbon dioxide is the most significant anthropogenic greenhouse gas, trapping heat in the atmosphere."
+    },
+    {
+      "id": "Q19",
+      "topic": "Group Chemistry (Halogens)",
+      "text": "The oxidizing power of the halogens decreases in the order:",
+      "options": [
+        "$\\text{F}_2 > \\text{Cl}_2 > \\text{Br}_2 > \\text{I}_2$",
+        "$\\text{I}_2 > \\text{Br}_2 > \\text{Cl}_2 > \\text{F}_2$",
+        "$\\text{Cl}_2 > \\text{F}_2 > \\text{Br}_2 > \\text{I}_2$",
+        "$\\text{F}_2 > \\text{I}_2 > \\text{Br}_2 > \\text{Cl}_2$"
+      ],
+      "answer": "$\\text{F}_2 > \\text{Cl}_2 > \\text{Br}_2 > \\text{I}_2$",
+      "explanation": "Oxidizing power decreases down Group 17 as electronegativity decreases and the ease of reduction decreases."
+    },
+    {
+      "id": "Q20",
+      "topic": "Thermodynamics",
+      "text": "The energy change that accompanies the addition of an electron to a neutral gaseous atom is called:",
+      "options": [
+        "Ionization energy",
+        "Electronegativity",
+        "Electron affinity",
+        "Standard enthalpy of formation"
+      ],
+      "answer": "Electron affinity",
+      "explanation": "Electron affinity is the energy change when an electron is added to an atom to form a negative ion."
+    },
+    {
+      "id": "Q21",
+      "topic": "Organic Chemistry (Alkanols)",
+      "text": "Which of the following classes of organic compounds reacts with sodium metal to evolve hydrogen gas?",
+      "options": [
+        "Alkanes",
+        "Alkenes",
+        "Alkanals",
+        "Alkanols"
+      ],
+      "answer": "Alkanols",
+      "explanation": "Alkanols ($\\text{ROH}$) react with reactive metals like sodium, displacing hydrogen to form an alkoxide: $2\\text{ROH} + 2\\text{Na} \\to 2\\text{RONa} + \\text{H}_2$."
+    },
+    {
+      "id": "Q22",
+      "topic": "Metals and Metallurgy",
+      "text": "Why is the $\\text{Hall-H\u00e9roult}$ process for the extraction of Aluminium carried out using cryolite ($\\text{Na}_3\\text{AlF}_6$)?",
+      "options": [
+        "To act as a catalyst.",
+        "To lower the melting point of alumina.",
+        "To oxidize the aluminium ore.",
+        "To react with impurities in the bauxite."
+      ],
+      "answer": "To lower the melting point of alumina.",
+      "explanation": "Alumina ($\\text{Al}_2\\text{O}_3$) has a melting point of over $2000 \\text{ \u00b0C}$. Cryolite dissolves alumina and lowers the operating temperature to about $950 \\text{ \u00b0C}$, saving energy. "
+    },
+    {
+      "id": "Q23",
+      "topic": "Formulae and Equations",
+      "text": "An oxide of Nitrogen contains $30.4\\%$ Nitrogen by mass. What is its empirical formula? [$\\text{N}=14, \\text{O}=16$]",
+      "options": [
+        "$\\text{NO}$",
+        "$\\text{N}_2\\text{O}_5$",
+        "$\\text{NO}_2$",
+        "$\\text{N}_2\\text{O}$"
+      ],
+      "answer": "$\\text{NO}_2$",
+      "explanation": "Percentage $\\text{N} = 30.4\\%$, Percentage $\\text{O} = 100 - 30.4 = 69.6\\%$. Moles $\\text{N} = \\frac{30.4}{14} \\approx 2.17$. Moles $\\text{O} = \\frac{69.6}{16} \\approx 4.35$. Divide by smallest: $\\text{N}: \\frac{2.17}{2.17} = 1$; $\\text{O}: \\frac{4.35}{2.17} \\approx 2$. Empirical formula is $\\text{NO}_2$."
+    },
+    {
+      "id": "Q24",
+      "topic": "Water and Solutions",
+      "text": "Temporary hardness of water can be removed by:",
+      "options": [
+        "Adding $\\text{NaOH}$",
+        "Adding $\\text{Na}_2\\text{CO}_3$",
+        "Boiling",
+        "Passing it through an ion-exchange column"
+      ],
+      "answer": "Boiling",
+      "explanation": "Boiling causes the decomposition of the soluble calcium and magnesium hydrogen trioxocarbonates (bicarbonates) into insoluble trioxocarbonates (carbonates), which precipitate out."
+    },
+    {
+      "id": "Q25",
+      "topic": "Chemical Bonding",
+      "text": "The structure of diamond is:",
+      "options": [
+        "Layered structure with weak van der Waals forces.",
+        "Giant molecular structure with tetrahedral arrangement.",
+        "Simple molecular structure with low melting point.",
+        "Giant metallic lattice."
+      ],
+      "answer": "Giant molecular structure with tetrahedral arrangement.",
+      "explanation": "Each carbon atom in diamond is covalently bonded to four other carbon atoms in a rigid, three-dimensional tetrahedral lattice, resulting in its extreme hardness and high melting point."
+    },
+    {
+      "id": "Q26",
+      "topic": "Organic Reactions (Addition)",
+      "text": "Which reagent can be used to distinguish between ethane and ethene?",
+      "options": [
+        "Acidified potassium tetraoxomanganate (VII)",
+        "Dilute $\\text{HCl}$",
+        "Conc. $\\text{H}_2\\text{SO}_4$",
+        "Sulphuric acid"
+      ],
+      "answer": "Acidified potassium tetraoxomanganate (VII)",
+      "explanation": "Ethene (alkene, unsaturated) will decolourize the purple acidified potassium tetraoxomanganate (VII) solution (Baeyer's Test) due to an addition reaction, while ethane (alkane, saturated) will not."
+    },
+    {
+      "id": "Q27",
+      "topic": "Air and Combustion",
+      "text": "Air is a mixture and not a compound because:",
+      "options": [
+        "It contains oxygen and nitrogen.",
+        "Its components are chemically combined.",
+        "Its components retain their individual properties.",
+        "It has a constant boiling point."
+      ],
+      "answer": "Its components retain their individual properties.",
+      "explanation": "In a mixture, the components are not chemically combined and retain their characteristic properties, unlike a compound."
+    },
+    {
+      "id": "Q28",
+      "topic": "Hydrolysis",
+      "text": "When $\\text{Na}_2\\text{CO}_3$ is dissolved in water, the solution turns alkaline due to:",
+      "options": [
+        "Dissociation",
+        "Neutralization",
+        "Hydrolysis",
+        "Displacement"
+      ],
+      "answer": "Hydrolysis",
+      "explanation": "Sodium trioxocarbonate (IV) is a salt of a strong base ($\\text{NaOH}$) and a weak acid ($\\text{H}_2\\text{CO}_3$). The carbonate ion ($\\text{CO}_3^{2-}$) hydrolyzes water to produce $\\text{OH}^-$ ions, making the solution alkaline: $\\text{CO}_3^{2-} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCO}_3^- + \\text{OH}^-$."
+    },
+    {
+      "id": "Q29",
+      "topic": "Electrochemistry (Faraday's Laws)",
+      "text": "If the same quantity of electricity is passed through solutions of $\\text{AgNO}_3$ and $\\text{CuSO}_4$, the ratio of the moles of $\\text{Ag}$ to $\\text{Cu}$ deposited is:",
+      "options": [
+        "$1:1$",
+        "$1:2$",
+        "$2:1$",
+        "$3:1$"
+      ],
+      "answer": "$2:1$",
+      "explanation": "From Faraday's second law: $\\text{Ag}^+ + \\text{e}^- \\to \\text{Ag}$ (1 mole of $\\text{e}^-$). $\\text{Cu}^{2+} + 2\\text{e}^- \\to \\text{Cu}$ (2 moles of $\\text{e}^-$). For the same charge, $2 \\text{ moles}$ of $\\text{Ag}$ are deposited for every $1 \\text{ mole}$ of $\\text{Cu}$. Ratio $\\text{Ag}:\\text{Cu} = 2:1$."
+    },
+    {
+      "id": "Q30",
+      "topic": "Organic Chemistry (Isomerism)",
+      "text": "The existence of $cis$- and $trans$-isomers in but-2-ene is due to:",
+      "options": [
+        "Restricted rotation around the single bond.",
+        "Free rotation around the double bond.",
+        "Restricted rotation around the double bond.",
+        "The presence of a chiral centre."
+      ],
+      "answer": "Restricted rotation around the double bond.",
+      "explanation": "Geometrical (cis-trans) isomerism occurs in alkenes because rotation around the carbon-carbon double bond is restricted. [Image of cis and trans isomers of but-2-ene]"
+    },
+    {
+      "id": "Q31",
+      "topic": "Gas Laws (Dalton's Law)",
+      "text": "A mixture of $\\text{He}$ and $\\text{Ar}$ gases has a total pressure of $1.5 \\text{ atm}$. If the partial pressure of $\\text{He}$ is $0.9 \\text{ atm}$, the mole fraction of $\\text{Ar}$ is:",
+      "options": [
+        "$0.4$",
+        "$0.6$",
+        "$0.8$",
+        "$1.5$"
+      ],
+      "answer": "0.4",
+      "explanation": "Partial pressure of $\\text{Ar} = P_{\\text{Total}} - P_{\\text{He}} = 1.5 - 0.9 = 0.6 \\text{ atm}$. Mole fraction of $\\text{Ar} = \\frac{P_{\\text{Ar}}}{P_{\\text{Total}}} = \\frac{0.6}{1.5} = 0.4$."
+    },
+    {
+      "id": "Q32",
+      "topic": "Metals (Alloys)",
+      "text": "Bronze is an alloy of Copper and:",
+      "options": [
+        "Zinc",
+        "Tin",
+        "Nickel",
+        "Aluminium"
+      ],
+      "answer": "Tin",
+      "explanation": "Bronze is primarily an alloy of Copper ($\\text{Cu}$) and Tin ($\\text{Sn}$). Brass is an alloy of Copper and Zinc ($\\text{Zn}$)."
+    },
+    {
+      "id": "Q33",
+      "topic": "Acid-Base Titration",
+      "text": "Which indicator is most suitable for the titration of a strong acid with a strong base?",
+      "options": [
+        "Methyl orange ($\\text{pH}$ range $3.1-4.4$)",
+        "Phenolphthalein ($\\text{pH}$ range $8.3-10.0$)",
+        "Universal indicator",
+        "Any of the above can be used"
+      ],
+      "answer": "Any of the above can be used",
+      "explanation": "For strong acid/strong base titrations, the equivalence point is exactly at $\\text{pH} 7$. The $\\text{pH}$ changes very sharply around this point, so both Methyl orange and Phenolphthalein will provide an accurate end point."
+    },
+    {
+      "id": "Q34",
+      "topic": "Periodicity",
+      "text": "The element with the highest ionization energy in the second period (Li to Ne) is:",
+      "options": [
+        "Lithium (Li)",
+        "Carbon (C)",
+        "Nitrogen (N)",
+        "Neon (Ne)"
+      ],
+      "answer": "Neon (Ne)",
+      "explanation": "Ionization energy generally increases across a period due to increasing nuclear charge and decreasing atomic radius. Neon, a noble gas with a full valence shell, has the highest ionization energy."
+    },
+    {
+      "id": "Q35",
+      "topic": "Organic Reactions (Substitution)",
+      "text": "The major product formed when ethane is reacted with excess chlorine in the presence of sunlight is:",
+      "options": [
+        "Chloroethane",
+        "Ethene",
+        "Carbon tetrachloride",
+        "Hexachloroethane"
+      ],
+      "answer": "Hexachloroethane",
+      "explanation": "The reaction is a free-radical substitution. With excess chlorine and sunlight, all hydrogen atoms on the ethane ($\\text{C}_2\\text{H}_6$) molecule will be successively replaced by chlorine atoms, leading to Hexachloroethane ($\\text{C}_2\\text{Cl}_6$)."
+    },
+    {
+      "id": "Q36",
+      "topic": "Non-Metals",
+      "text": "Which of the following is the final product formed when $\\text{SO}_2$ gas is passed through water during the contact process?",
+      "options": [
+        "Oleum",
+        "Sulphurous acid",
+        "Dilute tetraoxosulphate (VI) acid",
+        "Sulphuric acid"
+      ],
+      "answer": "Sulphuric acid",
+      "explanation": "In the contact process, $\\text{SO}_3$ (not $\\text{SO}_2$) is absorbed into concentrated $\\text{H}_2\\text{SO}_4$ to form oleum ($\text{H}_2\\text{S}_2\\text{O}_7$), which is then diluted with water to produce Sulphuric acid ($\text{H}_2\\text{SO}_4$)."
+    },
+    {
+      "id": "Q37",
+      "topic": "Polymers",
+      "text": "Proteins are natural polymers of:",
+      "options": [
+        "Alkenes",
+        "Amino acids",
+        "Glucose",
+        "Esters"
+      ],
+      "answer": "Amino acids",
+      "explanation": "Proteins are formed by the polymerization (condensation) of amino acid monomers, linked by peptide bonds."
+    },
+    {
+      "id": "Q38",
+      "topic": "Chemical Calculations (Empirical Formula)",
+      "text": "A $10.0 \\text{ g}$ sample of a hydrate salt $\\text{MgSO}_4 \\cdot x\\text{H}_2\\text{O}$ was heated to drive off the water, leaving $4.88 \\text{ g}$ of anhydrous $\\text{MgSO}_4$. What is the value of $x$? [$\\text{MgSO}_4=120, \\text{H}_2\\text{O}=18$]",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "answer": "7",
+      "explanation": "Mass of $\\text{H}_2\\text{O} = 10.0 - 4.88 = 5.12 \\text{ g}$. Moles $\\text{MgSO}_4 = \\frac{4.88}{120} \\approx 0.0407$. Moles $\\text{H}_2\\text{O} = \\frac{5.12}{18} \\approx 0.2844$. Mole ratio $x = \\frac{0.2844}{0.0407} \\approx 7$. The value of $x$ is 7."
+    },
+    {
+      "id": "Q39",
+      "topic": "Qualitative Analysis",
+      "text": "The gas produced when copper is reacted with hot, concentrated $\\text{HNO}_3$ is:",
+      "options": [
+        "Hydrogen ($\\text{H}_2$)",
+        "Nitrogen ($\\text{N}_2$)",
+        "Nitrogen (IV) oxide ($\\text{NO}_2$)",
+        "Dinitrogen oxide ($\\text{N}_2\\text{O}$)"
+      ],
+      "answer": "Nitrogen (IV) oxide ($\\text{NO}_2$)",
+      "explanation": "Concentrated nitric acid is a strong oxidizing agent. The reaction is $\\text{Cu} + 4\\text{HNO}_3 \\to \\text{Cu}(\\text{NO}_3)_2 + 2\\text{NO}_2 + 2\\text{H}_2\\text{O}$, producing brown $\\text{NO}_2$ gas."
+    },
+    {
+      "id": "Q40",
+      "topic": "Laboratory Procedures",
+      "text": "What is the correct apparatus setup for purifying an organic liquid by fractional distillation?",
+      "options": [
+        "A flask and a condenser connected directly.",
+        "A flask, fractionating column, and a condenser.",
+        "A crucible and a beaker.",
+        "A pipette and a burette."
+      ],
+      "answer": "A flask, fractionating column, and a condenser.",
+      "explanation": "Fractional distillation, used to separate liquids with close boiling points, requires a fractionating column to provide a large surface area for repeated vaporization and condensation. [Image of fractional distillation apparatus]"
+    }
+  ]

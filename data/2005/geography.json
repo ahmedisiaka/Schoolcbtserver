@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G501",
+        "text": "The $\\textbf{Solar Eclipse}$ occurs when the $\\textbf{Moon}$ passes between the Sun and the Earth, casting a shadow on the Earth.",
+        "image": "",
+        "options": [
+            "Lunar Eclipse",
+            "Solar Eclipse",
+            "Equinox",
+            "Solstice"
+        ],
+        "answer": "Solar Eclipse",
+        "explanation": "This alignment blocks the sun's light from reaching specific areas on Earth."
+    },
+    {
+        "id": "G502",
+        "text": "Rocks that have been changed in structure and appearance by intense heat and pressure are called $\\textbf{Metamorphic}$ rocks.",
+        "image": "",
+        "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Stratified"
+        ],
+        "answer": "Metamorphic",
+        "explanation": "Examples include marble (from limestone) and slate (from shale)."
+    },
+    {
+        "id": "G503",
+        "text": "The instrument used to measure the amount of $\\textbf{Rainfall}$ is the $\\textbf{Rain Gauge}$.",
+        "image": "",
+        "options": [
+            "Barometer",
+            "Thermometer",
+            "Rain Gauge",
+            "Hygrometer"
+        ],
+        "answer": "Rain Gauge",
+        "explanation": "It collects precipitation which is then measured in millimeters or inches."
+    },
+    {
+        "id": "G504",
+        "text": "The zero degree (0°) latitude is known as the $\\textbf{Equator}$.",
+        "image": "",
+        "options": [
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Equator",
+            "Arctic Circle"
+        ],
+        "answer": "Equator",
+        "explanation": "It divides the earth into the Northern and Southern hemispheres."
+    },
+    {
+        "id": "G505",
+        "text": "A feature formed by the vertical erosion of a river in its upper course is a $\\textbf{V-shaped Valley}$.",
+        "image": "",
+        "options": [
+            "Ox-bow Lake",
+            "Delta",
+            "V-shaped Valley",
+            "Floodplain"
+        ],
+        "answer": "V-shaped Valley",
+        "explanation": "Vertical erosion cuts deep into the riverbed, creating steep sides."
+    },
+    {
+        "id": "G506",
+        "text": "The number of live births per 1,000 people in a year is called the $\\textbf{Birth Rate}$.",
+        "image": "",
+        "options": [
+            "Death Rate",
+            "Growth Rate",
+            "Birth Rate",
+            "Fertility Rate"
+        ],
+        "answer": "Birth Rate",
+        "explanation": "It is a key indicator of population growth."
+    },
+    {
+        "id": "G507",
+        "text": "Which of the following is a $\\textbf{Primary}$ economic activity?",
+        "image": "",
+        "options": [
+            "Banking",
+            "Manufacturing",
+            "Fishing",
+            "Teaching"
+        ],
+        "answer": "Fishing",
+        "explanation": "Primary activities involve the extraction of raw materials directly from nature."
+    },
+    {
+        "id": "G508",
+        "text": "The dominant vegetation type in areas with hot, dry climates is $\\textbf{Desert Scrub}$.",
+        "image": "",
+        "options": [
+            "Rainforest",
+            "Desert Scrub",
+            "Deciduous Forest",
+            "Tundra"
+        ],
+        "answer": "Desert Scrub",
+        "explanation": "Plants here are adapted to conserve water (xerophytes)."
+    },
+    {
+        "id": "G509",
+        "text": "The movement of goods and services from producers to consumers is known as $\\textbf{Trade}$.",
+        "image": "",
+        "options": [
+            "Manufacturing",
+            "Trade",
+            "Mining",
+            "Farming"
+        ],
+        "answer": "Trade",
+        "explanation": "Trade facilitates the exchange of commodities."
+    },
+    {
+        "id": "G510",
+        "text": "Which mode of transport is the fastest for traveling long distances?",
+        "image": "",
+        "options": [
+            "Road",
+            "Rail",
+            "Water",
+            "Air"
+        ],
+        "answer": "Air",
+        "explanation": "Air transport is time-efficient for intercontinental travel."
+    },
+    {
+        "id": "G511",
+        "text": "Large-scale movement of people from one country to another is called $\\textbf{International Migration}$.",
+        "image": "",
+        "options": [
+            "Internal Migration",
+            "International Migration",
+            "Urbanization",
+            "Commuting"
+        ],
+        "answer": "International Migration",
+        "explanation": "It involves crossing national borders."
+    },
+    {
+        "id": "G512",
+        "text": "The layer of the atmosphere closest to the earth's surface is the $\\textbf{Troposphere}$.",
+        "image": "",
+        "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "This is where most weather phenomena occur."
+    },
+    {
+        "id": "G513",
+        "text": "Limestone rocks are generally $\\textbf{Permeable}$, allowing water to pass through joints and cracks.",
+        "image": "",
+        "options": [
+            "Impermeable",
+            "Permeable",
+            "Volcanic",
+            "Metamorphic"
+        ],
+        "answer": "Permeable",
+        "explanation": "This permeability leads to the formation of caves and underground rivers."
+    },
+    {
+        "id": "G514",
+        "text": "A mountain formed by the accumulation of lava and ash is a $\\textbf{Volcanic Mountain}$.",
+        "image": "",
+        "options": [
+            "Fold Mountain",
+            "Block Mountain",
+            "Volcanic Mountain",
+            "Residual Mountain"
+        ],
+        "answer": "Volcanic Mountain",
+        "explanation": "Also known as a mountain of accumulation (e.g., Mt. Kilimanjaro)."
+    },
+    {
+        "id": "G515",
+        "text": "The direction 'North-East' corresponds to a bearing of $\\textbf{045°}$.",
+        "image": "",
+        "options": [
+            "090°",
+            "135°",
+            "045°",
+            "225°"
+        ],
+        "answer": "045°",
+        "explanation": "North is 000°/360°, East is 090°; North-East is exactly halfway."
+    },
+    {
+        "id": "G516",
+        "text": "Soils that are red in color due to high iron oxide content are called $\\textbf{Laterite}$ soils.",
+        "image": "",
+        "options": [
+            "Loam",
+            "Clay",
+            "Laterite",
+            "Alluvial"
+        ],
+        "answer": "Laterite",
+        "explanation": "Common in tropical areas where heavy rainfall leaches silica, leaving iron and aluminum."
+    },
+    {
+        "id": "G517",
+        "text": "A crescent-shaped sand dune in a desert is called a $\\textbf{Barchan}$.",
+        "image": "",
+        "options": [
+            "Seif",
+            "Barchan",
+            "Loess",
+            "Erg"
+        ],
+        "answer": "Barchan",
+        "explanation": "The horns of the crescent point downwind."
+    },
+    {
+        "id": "G518",
+        "text": "The continuous movement of water between the earth and the atmosphere is the $\\textbf{Hydrological Cycle}$.",
+        "image": "",
+        "options": [
+            "Carbon Cycle",
+            "Rock Cycle",
+            "Hydrological Cycle",
+            "Nitrogen Cycle"
+        ],
+        "answer": "Hydrological Cycle",
+        "explanation": "It involves evaporation, condensation, precipitation, and runoff."
+    },
+    {
+        "id": "G519",
+        "text": "Which of the following is a major problem of urban settlements? $\\textbf{Congestion}$.",
+        "image": "",
+        "options": [
+            "Abundant land",
+            "Congestion",
+            "Clean air",
+            "Quiet environment"
+        ],
+        "answer": "Congestion",
+        "explanation": "Overcrowding leads to traffic jams and housing shortages."
+    },
+    {
+        "id": "G520",
+        "text": "Coal is a $\\textbf{Sedimentary}$ rock formed from the remains of plants buried millions of years ago.",
+        "image": "",
+        "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary",
+            "Volcanic"
+        ],
+        "answer": "Sedimentary",
+        "explanation": "It is an organic sedimentary rock used as a fuel."
+    },
+    {
+        "id": "G521",
+        "text": "A line on a map joining places with the same temperature is an $\\textbf{Isotherm}$.",
+        "image": "",
+        "options": [
+            "Isobar",
+            "Isohyet",
+            "Isotherm",
+            "Contour"
+        ],
+        "answer": "Isotherm",
+        "explanation": "'Iso' means equal, 'therm' relates to heat."
+    },
+    {
+        "id": "G522",
+        "text": "The main river in West Africa is the $\\textbf{River Niger}$.",
+        "image": "",
+        "options": [
+            "River Nile",
+            "River Niger",
+            "River Congo",
+            "River Zambezi"
+        ],
+        "answer": "River Niger",
+        "explanation": "It curves through Guinea, Mali, Niger, and Nigeria."
+    },
+    {
+        "id": "G523",
+        "text": "Limestone pillars formed by the joining of stalactites and stalagmites are found in $\\textbf{Caves}$.",
+        "image": "",
+        "options": [
+            "Deserts",
+            "Caves",
+            "Mountains",
+            "Oceans"
+        ],
+        "answer": "Caves",
+        "explanation": "These are features of underground karst landscapes."
+    },
+    {
+        "id": "G524",
+        "text": "The dense core of the earth is known as the $\\textbf{Barysphere}$.",
+        "image": "",
+        "options": [
+            "Lithosphere",
+            "Atmosphere",
+            "Barysphere",
+            "Hydrosphere"
+        ],
+        "answer": "Barysphere",
+        "explanation": "Refers to the heavy interior zone (NIFE)."
+    },
+    {
+        "id": "G525",
+        "text": "The time difference between Greenwich (0°) and a place at 45° West is $\\textbf{3 hours}$.",
+        "image": "",
+        "options": [
+            "1 hour",
+            "3 hours",
+            "5 hours",
+            "2 hours"
+        ],
+        "answer": "3 hours",
+        "explanation": "45 divided by 15 equals 3. West is behind in time."
+    },
+    {
+        "id": "G526",
+        "text": "Chemical weathering involving the reaction of minerals with oxygen is called $\\textbf{Oxidation}$.",
+        "image": "",
+        "options": [
+            "Carbonation",
+            "Solution",
+            "Oxidation",
+            "Hydration"
+        ],
+        "answer": "Oxidation",
+        "explanation": "This often causes rocks containing iron to rust."
+    },
+    {
+        "id": "G527",
+        "text": "A drainage pattern resembling the branches of a tree is called $\\textbf{Dendritic}$.",
+        "image": "",
+        "options": [
+            "Trellis",
+            "Radial",
+            "Dendritic",
+            "Centripetal"
+        ],
+        "answer": "Dendritic",
+        "explanation": "It usually forms on uniform rock structures."
+    },
+    {
+        "id": "G528",
+        "text": "Industries located near the market to reduce distribution costs are $\\textbf{Market Oriented}$.",
+        "image": "",
+        "options": [
+            "Raw Material Oriented",
+            "Power Oriented",
+            "Market Oriented",
+            "Footloose"
+        ],
+        "answer": "Market Oriented",
+        "explanation": "Common for fragile goods or goods that gain weight/bulk during production (e.g., bottling)."
+    },
+    {
+        "id": "G529",
+        "text": "Factors that attract people to a new location are called $\\textbf{Pull Factors}$.",
+        "image": "",
+        "options": [
+            "Push Factors",
+            "Pull Factors",
+            "Deterrents",
+            "Barriers"
+        ],
+        "answer": "Pull Factors",
+        "explanation": "Examples include better jobs, education, and safety."
+    },
+    {
+        "id": "G530",
+        "text": "A settlement pattern where houses are scattered over a wide area is $\\textbf{Dispersed}$.",
+        "image": "",
+        "options": [
+            "Nucleated",
+            "Linear",
+            "Dispersed",
+            "Urban"
+        ],
+        "answer": "Dispersed",
+        "explanation": "Typical of rural farming communities with large land plots."
+    },
+    {
+        "id": "G531",
+        "text": "Subsistence farming involves producing crops mainly for $\\textbf{Family Consumption}$.",
+        "image": "",
+        "options": [
+            "Export",
+            "Industrial Use",
+            "Family Consumption",
+            "Scientific Research"
+        ],
+        "answer": "Family Consumption",
+        "explanation": "Little to no surplus is sold."
+    },
+    {
+        "id": "G532",
+        "text": "Lines connecting points of equal atmospheric pressure are $\\textbf{Isobars}$.",
+        "image": "",
+        "options": [
+            "Isohyets",
+            "Isotherms",
+            "Isobars",
+            "Contours"
+        ],
+        "answer": "Isobars",
+        "explanation": "Used on weather maps to identify high and low pressure systems."
+    },
+    {
+        "id": "G533",
+        "text": "An elevated piece of land with a flat top and steep sides is a $\\textbf{Mesa}$ (or Plateau).",
+        "image": "",
+        "options": [
+            "Fold Mountain",
+            "Mesa",
+            "Basin",
+            "Plain"
+        ],
+        "answer": "Mesa",
+        "explanation": "Smaller than a plateau, larger than a butte."
+    },
+    {
+        "id": "G534",
+        "text": "The deepest part of the ocean floor is called a $\\textbf{Trench}$.",
+        "image": "",
+        "options": [
+            "Ridge",
+            "Shelf",
+            "Trench",
+            "Slope"
+        ],
+        "answer": "Trench",
+        "explanation": "Examples include the Mariana Trench."
+    },
+    {
+        "id": "G535",
+        "text": "Tourism based on experiencing the history and lifestyle of a people is $\\textbf{Cultural Tourism}$.",
+        "image": "",
+        "options": [
+            "Ecotourism",
+            "Adventure Tourism",
+            "Cultural Tourism",
+            "Business Tourism"
+        ],
+        "answer": "Cultural Tourism",
+        "explanation": "Visiting museums, festivals, and historical sites."
+    },
+    {
+        "id": "G536",
+        "text": "Resources that cannot be replenished once used are $\\textbf{Non-Renewable}$.",
+        "image": "",
+        "options": [
+            "Renewable",
+            "Non-Renewable",
+            "Sustainable",
+            "Infinite"
+        ],
+        "answer": "Non-Renewable",
+        "explanation": "Fossil fuels and minerals fall into this category."
+    },
+    {
+        "id": "G537",
+        "text": "The $\\textbf{Stratosphere}$ is the layer of the atmosphere containing the Ozone layer.",
+        "image": "",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "answer": "Stratosphere",
+        "explanation": "It lies immediately above the troposphere."
+    },
+    {
+        "id": "G538",
+        "text": "A scale drawn as a line divided into equal parts is a $\\textbf{Linear Scale}$.",
+        "image": "",
+        "options": [
+            "Statement Scale",
+            "Linear Scale",
+            "Representative Fraction",
+            "Verbal Scale"
+        ],
+        "answer": "Linear Scale",
+        "explanation": "Allows direct measurement of distance on the map."
+    },
+    {
+        "id": "G539",
+        "text": "Sudden vibrations of the earth's crust are called $\\textbf{Earthquakes}$.",
+        "image": "",
+        "options": [
+            "Volcanoes",
+            "Earthquakes",
+            "Landslides",
+            "Tsunamis"
+        ],
+        "answer": "Earthquakes",
+        "explanation": "Caused by the release of energy along faults."
+    },
+    {
+        "id": "G540",
+        "text": "Which cash crop is tapped to produce latex? $\\textbf{Rubber}$.",
+        "image": "",
+        "options": [
+            "Cocoa",
+            "Coffee",
+            "Rubber",
+            "Cotton"
+        ],
+        "answer": "Rubber",
+        "explanation": "Latex is the milky fluid from the Hevea brasiliensis tree."
+    }
+]

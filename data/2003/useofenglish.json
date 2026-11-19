@@ -1,0 +1,518 @@
+[
+    {
+      "id": "U2003_1",
+      "text": "The $\textbf{2003}$ $\textbf{invasion}$ $\textbf{of}$ $\textbf{Iraq}$ began on March 20, involving a $\textbf{coalition}$ $\textbf{of}$ $\textbf{the}$ $\textbf{willing}$ led by the United $\textbf{States}$. The goal was the $\textbf{removal}$ of Saddam $\textbf{Hussein's}$ $\textbf{regime}$ and the destruction of alleged weapons of mass $\textbf{destruction}$. (Comprehension Passage Snippet 1)\n\nWhat country primarily led the coalition forces during the 2003 invasion?",
+      "image": "",
+      "options": [
+        "France",
+        "United Kingdom",
+        "United States",
+        "Germany"
+      ],
+      "answer": "United States",
+      "explanation": "The text states the coalition was 'led by the United States'."
+    },
+    {
+      "id": "U2003_2",
+      "text": "The goal was the $\textbf{removal}$ of Saddam Hussein's regime.\n\nChoose the word that is closest in meaning to $\\textbf{removal}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Installation",
+        "Rebuilding",
+        "Ousting/Elimination",
+        "Support"
+      ],
+      "answer": "Ousting/Elimination",
+      "explanation": "'Removal' here means the act of taking the regime out of power."
+    },
+    {
+      "id": "U2003_3",
+      "text": "The war $\textbf{(started/was started)}$ in March 2003, concluding the initial combat operations quickly.\n\nChoose the correct verb form for the event.",
+      "image": "",
+      "options": [
+        "started",
+        "was started",
+        "has started",
+        "is starting"
+      ],
+      "answer": "started",
+      "explanation": "The Simple Past ('started') is the correct form, treating 'the war' as the active subject of the event."
+    },
+    {
+      "id": "U2003_4",
+      "text": "The word $\\textbf{'coalition'}$ $\\textbf{c o a l i t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **coalition**.",
+      "image": "",
+      "options": [
+        "co",
+        "a",
+        "lit",
+        "ion"
+      ],
+      "answer": "lit",
+      "explanation": "The primary stress in 'coalition' /ˌkəʊ.əˈlɪʃ.ən/ falls on the third syllable, 'lit'."
+    },
+    {
+      "id": "U2003_5",
+      "text": "The $\textbf{(number/amount)}$ of countries involved in the coalition was public knowledge.\n\nChoose the correct quantifier for the countable noun 'countries'.",
+      "image": "",
+      "options": [
+        "number",
+        "amount",
+        "much",
+        "less"
+      ],
+      "answer": "number",
+      "explanation": "'Number' is used with countable nouns like 'countries'."
+    },
+    {
+      "id": "U2003_6",
+      "text": "The Space $\textbf{Shuttle}$ $\textbf{Columbia}$ $\textbf{disaster}$ occurred on February 1, 2003, when the shuttle $\textbf{disintegrated}$ during $\textbf{reentry}$ into the Earth's $\textbf{atmosphere}$. The $\textbf{catastrophe}$ $\textbf{was}$ $\textbf{traced}$ to damage sustained on $\textbf{liftoff}$ from a piece of $\textbf{insulating}$ $\textbf{foam}$. (Comprehension Passage Snippet 2)\n\nWhat was the cause of the damage that led to the Columbia disaster?",
+      "image": "",
+      "options": [
+        "Engine failure during flight",
+        "Collision with space debris",
+        "Damage from insulating foam on liftoff",
+        "Pilot error during landing"
+      ],
+      "answer": "Damage from insulating foam on liftoff",
+      "explanation": "The text states the catastrophe 'was traced to damage sustained on liftoff from a piece of insulating foam'."
+    },
+    {
+      "id": "U2003_7",
+      "text": "The shuttle $\textbf{disintegrated}$ during reentry.\n\nChoose the word that is closest in meaning to $\\textbf{disintegrated}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Reunited",
+        "Broke apart/Shattered",
+        "Accelerated",
+        "Landed smoothly"
+      ],
+      "answer": "Broke apart/Shattered",
+      "explanation": "To disintegrate means to break up into small parts as a result of impact or decay."
+    },
+    {
+      "id": "U2003_8",
+      "text": "The crew $\textbf{(were unaware/had been unaware)}$ of the severity of the damage until the final minutes.\n\nChoose the best verb form to describe a state that existed up to the point of the disaster.",
+      "image": "",
+      "options": [
+        "were unaware",
+        "had been unaware",
+        "are unaware",
+        "will be unaware"
+      ],
+      "answer": "had been unaware",
+      "explanation": "The Past Perfect Continuous emphasizes the prolonged state of being unaware up until the time of the event."
+    },
+    {
+      "id": "U2003_9",
+      "text": "The word $\\textbf{'catastrophe'}$ $\\textbf{c a t a s t r o p h e}$.\n\nIdentify the syllable that carries the primary stress in the word **catastrophe**.",
+      "image": "",
+      "options": [
+        "ca",
+        "tas",
+        "tro",
+        "phe"
+      ],
+      "answer": "tro",
+      "explanation": "The primary stress in 'catastrophe' /kəˈtæs.trə.fi/ falls on the third syllable, 'tro'."
+    },
+    {
+      "id": "U2003_10",
+      "text": "The loss of seven $\textbf{(life/lives)}$ was a tragic consequence of the accident.\n\nChoose the correct plural form of the noun.",
+      "image": "",
+      "options": [
+        "life",
+        "lives",
+        "lifes",
+        "life's"
+      ],
+      "answer": "lives",
+      "explanation": "The plural of 'life' is 'lives'."
+    },
+    {
+      "id": "U2003_11",
+      "text": "The $\textbf{Human}$ $\textbf{Genome}$ $\textbf{Project}$ was officially declared $\textbf{complete}$ in April 2003, with 99% of the $\textbf{human}$ $\textbf{genome}$ $\textbf{sequenced}$ to 99.99% $\textbf{accuracy}$. This $\textbf{monumental}$ $\textbf{achievement}$ paved the way for $\textbf{significant}$ advances in $\textbf{medicine}$ and $\textbf{biology}$. (Comprehension Passage Snippet 3)\n\nWhat scientific field was expected to benefit most from the completion of the project?",
+      "image": "",
+      "options": [
+        "Astrophysics",
+        "Medicine and biology",
+        "Archaeology",
+        "Geology"
+      ],
+      "answer": "Medicine and biology",
+      "explanation": "The text mentions it 'paved the way for significant advances in medicine and biology'."
+    },
+    {
+      "id": "U2003_12",
+      "text": "This $\textbf{monumental}$ $\textbf{achievement}$ paved the way for advances.\n\nChoose the word that is closest in meaning to $\\textbf{monumental}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Insignificant",
+        "Small",
+        "Very important/Huge",
+        "Quick"
+      ],
+      "answer": "Very important/Huge",
+      "explanation": "'Monumental' means massive, great in importance, or significant."
+    },
+    {
+      "id": "U2003_13",
+      "text": "If the project $\textbf{(had not succeeded/did not succeed)}$, scientific understanding $\textbf{(would not have been/would not be)}$ this advanced today.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had not succeeded / would not have been",
+        "did not succeed / would not be",
+        "has not succeeded / is not",
+        "was not succeeding / would not be"
+      ],
+      "answer": "had not succeeded / would not have been",
+      "explanation": "The structure 'If + Past Perfect, would have + Past Participle' (Third Conditional) is used for hypothetical situations in the past."
+    },
+    {
+      "id": "U2003_14",
+      "text": "The word $\\textbf{'sequenced'}$ $\\textbf{s e q u e n c e d}$.\n\nIdentify the syllable that carries the primary stress in the word **sequenced**.",
+      "image": "",
+      "options": [
+        "se",
+        "quenced"
+      ],
+      "answer": "se",
+      "explanation": "The primary stress in 'sequenced' /ˈsiː.kwənsd/ falls on the first syllable, 'se'."
+    },
+    {
+      "id": "U2003_15",
+      "text": "The accuracy level $\textbf{(was/were)}$ the highest recorded for such a project.\n\nChoose the correct form of the verb 'to be' to agree with the singular noun subject 'level'.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "be"
+      ],
+      "answer": "was",
+      "explanation": "The subject is 'The accuracy level' (singular), requiring the singular verb 'was'."
+    },
+    {
+      "id": "U2003_16",
+      "text": "The Severe $\textbf{Acute}$ $\textbf{Respiratory}$ $\textbf{Syndrome}$ ($\textbf{SARS}$) $\textbf{epidemic}$ spread rapidly across $\textbf{Asia}$ and into other continents in 2003, causing $\textbf{worldwide}$ $\textbf{alarm}$. The $\textbf{highly}$ $\textbf{contagious}$ $\textbf{disease}$ necessitated $\textbf{strict}$ $\textbf{quarantine}$ $\textbf{measures}$ to contain the $\textbf{transmission}$. (Comprehension Passage Snippet 4)\n\nWhat was required to contain the transmission of SARS?",
+      "image": "",
+      "options": [
+        "Global travel bans",
+        "Mandatory vaccinations",
+        "Strict quarantine measures",
+        "Open borders"
+      ],
+      "answer": "Strict quarantine measures",
+      "explanation": "The text states the disease 'necessitated strict quarantine measures to contain the transmission'."
+    },
+    {
+      "id": "U2003_17",
+      "text": "The disease was $\textbf{highly}$ $\textbf{contagious}$.\n\nChoose the word that is closest in meaning to $\\textbf{contagious}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Harmless",
+        "Infectious/Catching",
+        "Isolated",
+        "Curable"
+      ],
+      "answer": "Infectious/Catching",
+      "explanation": "Contagious means spread from one person or organism to another by direct or indirect contact."
+    },
+    {
+      "id": "U2003_18",
+      "text": "Governments $\textbf{(who/which)}$ acted quickly saved $\textbf{(much/many)}$ lives.\n\nChoose the correct relative pronoun and the correct quantifier.",
+      "image": "",
+      "options": [
+        "who / much",
+        "which / many",
+        "who / many",
+        "which / much"
+      ],
+      "answer": "which / many",
+      "explanation": "'Which' is used for non-human subjects like 'Governments' (as an institution), and 'many' is used for the countable noun 'lives'."
+    },
+    {
+      "id": "U2003_19",
+      "text": "The word $\\textbf{'epidemic'}$ $\\textbf{e p i d e m i c}$.\n\nIdentify the syllable that carries the primary stress in the word **epidemic**.",
+      "image": "",
+      "options": [
+        "e",
+        "pi",
+        "dem",
+        "ic"
+      ],
+      "answer": "dem",
+      "explanation": "The primary stress in 'epidemic' /ˌep.ɪˈdem.ɪk/ falls on the third syllable, 'dem'."
+    },
+    {
+      "id": "U2003_20",
+      "text": "The number of new cases $\textbf{(was/were)}$ slowly declining by the summer.\n\nChoose the correct form of the verb 'to be' to agree with the singular noun subject 'number'.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "be"
+      ],
+      "answer": "was",
+      "explanation": "The subject is 'The number' (singular), requiring the singular verb 'was'."
+    },
+    {
+      "id": "U2003_21",
+      "text": "The $\textbf{Northeast}$ $\textbf{Blackout}$ of August 2003 was a $\textbf{massive}$ $\textbf{power}$ $\textbf{outage}$ that $\textbf{affected}$ 55 million $\textbf{people}$ across eight US $\textbf{states}$ and Ontario, $\textbf{Canada}$. It was the $\textbf{largest}$ $\textbf{blackout}$ in $\textbf{North}$ $\textbf{American}$ $\textbf{history}$, caused by a $\textbf{software}$ $\textbf{alarm}$ $\textbf{failure}$. (Comprehension Passage Snippet 5)\n\nWhat was the reported cause of the largest blackout in North American history?",
+      "image": "",
+      "options": [
+        "A massive thunderstorm",
+        "A software alarm failure",
+        "An intentional act of sabotage",
+        "Insufficient fuel supply"
+      ],
+      "answer": "A software alarm failure",
+      "explanation": "The text states it was 'caused by a software alarm failure'."
+    },
+    {
+      "id": "U2003_22",
+      "text": "The massive power $\textbf{outage}$ affected 55 million people.\n\nChoose the word that is closest in meaning to $\\textbf{outage}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Surge/Increase",
+        "Failure/Breakdown",
+        "Success",
+        "Recovery"
+      ],
+      "answer": "Failure/Breakdown",
+      "explanation": "An 'outage' is a period when a service, such as power, is interrupted."
+    },
+    {
+      "id": "U2003_23",
+      "text": "If the alarm $\textbf{(had worked/worked)}$, the blackout $\textbf{(would have been avoided/would be avoided)}$.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had worked / would have been avoided",
+        "worked / would be avoided",
+        "works / will be avoided",
+        "has worked / was avoided"
+      ],
+      "answer": "had worked / would have been avoided",
+      "explanation": "The Third Conditional structure is used for hypothetical past events: 'If + Past Perfect, would have + Past Participle'."
+    },
+    {
+      "id": "U2003_24",
+      "text": "The word $\\textbf{'software'}$ $\\textbf{s o f t w a r e}$.\n\nIdentify the syllable that carries the primary stress in the word **software**.",
+      "image": "",
+      "options": [
+        "soft",
+        "ware"
+      ],
+      "answer": "soft",
+      "explanation": "The primary stress in 'software' /ˈsɒft.weər/ falls on the first syllable, 'soft'."
+    },
+    {
+      "id": "U2003_25",
+      "text": "The power was off for $\textbf{(less/fewer)}$ than four days in most areas.\n\nChoose the correct word for a countable time period (days).",
+      "image": "",
+      "options": [
+        "less",
+        "fewer",
+        "little",
+        "least"
+      ],
+      "answer": "fewer",
+      "explanation": "'Fewer' is used for countable nouns like 'days'."
+    },
+    {
+      "id": "U2003_26",
+      "text": "In 2003, $\textbf{Apple}$ introduced the third-generation $\textbf{iPod}$ and launched the $\textbf{iTunes}$ $\textbf{Music}$ $\textbf{Store}$. This combination $\textbf{revolutionized}$ the music $\textbf{industry}$, $\textbf{making}$ digital music $\textbf{downloads}$ legal, $\textbf{accessible}$, and $\textbf{affordable}$ to the $\textbf{masses}$ for the first $\textbf{time}$. (Comprehension Passage Snippet 6)\n\nAccording to the text, what made digital music downloads revolutionary in 2003?",
+      "image": "",
+      "options": [
+        "They were encrypted and private.",
+        "They became legal, accessible, and affordable.",
+        "They eliminated the need for computers.",
+        "They only featured classical music."
+      ],
+      "answer": "They became legal, accessible, and affordable.",
+      "explanation": "The text highlights that the iTunes store made them 'legal, accessible, and affordable'."
+    },
+    {
+      "id": "U2003_27",
+      "text": "This combination $\textbf{revolutionized}$ the music industry.\n\nChoose the word that is closest in meaning to $\\textbf{revolutionized}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Left unchanged",
+        "Completely changed/Transformed",
+        "Gradually improved",
+        "Slightly modified"
+      ],
+      "answer": "Completely changed/Transformed",
+      "explanation": "To revolutionize means to change something fundamentally or completely."
+    },
+    {
+      "id": "U2003_28",
+      "text": "The technology $\textbf{(that/who)}$ changed everything was the iPod.\n\nChoose the correct relative pronoun to refer to the technology.",
+      "image": "",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "'That' (or 'which') is the correct relative pronoun for non-human nouns like 'technology'."
+    },
+    {
+      "id": "U2003_29",
+      "text": "The word $\\textbf{'accessible'}$ $\\textbf{a c c e s s i b l e}$.\n\nIdentify the syllable that carries the primary stress in the word **accessible**.",
+      "image": "",
+      "options": [
+        "ac",
+        "ces",
+        "si",
+        "ble"
+      ],
+      "answer": "ces",
+      "explanation": "The primary stress in 'accessible' /əkˈses.ə.bəl/ falls on the second syllable, 'ces'."
+    },
+    {
+      "id": "U2003_30",
+      "text": "People $\textbf{(used to/would)}$ buy physical CDs before this digital shift.\n\nChoose the best expression to describe a past habit or state.",
+      "image": "",
+      "options": [
+        "used to",
+        "will",
+        "are used to",
+        "would"
+      ],
+      "answer": "used to",
+      "explanation": "'Used to' is the best expression to describe a discontinued past habit or state."
+    },
+    {
+      "id": "U2003_31",
+      "text": "The $\textbf{era}$ of $\textbf{supersonic}$ $\textbf{commercial}$ $\textbf{flight}$ officially $\textbf{ended}$ in October 2003 with the $\textbf{final}$ $\textbf{flight}$ of the $\textbf{Concorde}$. The $\textbf{iconic}$ $\textbf{jet}$, known for its high-speed $\textbf{transatlantic}$ $\textbf{journeys}$, $\textbf{was}$ $\textbf{retired}$ due to rising $\textbf{operating}$ $\textbf{costs}$ and safety concerns. (Comprehension Passage Snippet 7)\n\nWhat type of flight ended with the Concorde's final journey in 2003?",
+      "image": "",
+      "options": [
+        "Subsonic cargo flight",
+        "Hypersonic military flight",
+        "Suborbital space flight",
+        "Supersonic commercial flight"
+      ],
+      "answer": "Supersonic commercial flight",
+      "explanation": "The text states the event marked the end of the 'era of supersonic commercial flight'."
+    },
+    {
+      "id": "U2003_32",
+      "text": "The iconic jet was $\textbf{retired}$ in 2003.\n\nChoose the word that is closest in meaning to $\\textbf{retired}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Refurbished",
+        "Taken out of service",
+        "Modernized",
+        "Re-engineered"
+      ],
+      "answer": "Taken out of service",
+      "explanation": "When referring to a vehicle or machine, 'retired' means permanently withdrawn from use."
+    },
+    {
+      "id": "U2003_33",
+      "text": "The plane $\textbf{(could/must)}$ fly at twice the speed of sound.\n\nChoose the correct modal verb to express past ability.",
+      "image": "",
+      "options": [
+        "could",
+        "must",
+        "should",
+        "might"
+      ],
+      "answer": "could",
+      "explanation": "'Could' is used to express ability in the past."
+    },
+    {
+      "id": "U2003_34",
+      "text": "The word $\\textbf{'supersonic'}$ $\\textbf{s u p e r s o n i c}$.\n\nIdentify the syllable that carries the primary stress in the word **supersonic**.",
+      "image": "",
+      "options": [
+        "su",
+        "per",
+        "son",
+        "ic"
+      ],
+      "answer": "son",
+      "explanation": "The primary stress in 'supersonic' /ˌsuː.pəˈsɒn.ɪk/ falls on the third syllable, 'son'."
+    },
+    {
+      "id": "U2003_35",
+      "text": "None of the passengers $\textbf{(was/were)}$ disappointed to be on the final flight.\n\nChoose the correct form of the verb 'to be' to agree with 'None' when referring to a group of people (formal agreement).",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "answer": "was",
+      "explanation": "Though often used interchangeably with 'were', 'was' is the formally correct singular agreement with the indefinite pronoun 'None'."
+    },
+    {
+      "id": "U2003_36",
+      "text": "In a highly $\textbf{publicized}$ $\textbf{recall}$ $\textbf{election}$ in October 2003, $\textbf{actor}$ $\textbf{Arnold}$ $\textbf{Schwarzenegger}$ was elected $\textbf{Governor}$ of $\textbf{California}$. His victory $\textbf{marked}$ a $\textbf{significant}$ and $\textbf{unusual}$ $\textbf{transition}$ from a Hollywood $\textbf{career}$ to $\textbf{major}$ $\textbf{political}$ $\textbf{office}$. (Comprehension Passage Snippet 8)\n\nWhat kind of election was Arnold Schwarzenegger's 2003 victory in California?",
+      "image": "",
+      "options": [
+        "A primary election",
+        "A presidential election",
+        "A recall election",
+        "A special senatorial election"
+      ],
+      "answer": "A recall election",
+      "explanation": "The text states he was elected in a 'highly publicized recall election'."
+    },
+    {
+      "id": "U2003_37",
+      "text": "The election was highly $\textbf{publicized}$.\n\nChoose the word that is closest in meaning to $\\textbf{publicized}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Secret",
+        "Hidden",
+        "Widely known/Promoted",
+        "Minor"
+      ],
+      "answer": "Widely known/Promoted",
+      "explanation": "To be publicized means to be made widely known."
+    },
+    {
+      "id": "U2003_38",
+      "text": "He was $\textbf{(such/so)}$ a popular figure that he won easily.\n\nChoose the correct intensifier used before an adjective and a singular countable noun ('a popular figure').",
+      "image": "",
+      "options": [
+        "such",
+        "so",
+        "too",
+        "very"
+      ],
+      "answer": "such",
+      "explanation": "'Such' is used before (a/an) + adjective + singular countable noun (such a popular figure), while 'so' is used before an adjective alone (so popular)."
+    },
+    {
+      "id": "U2003_39",
+      "text": "The word $\\textbf{'political'}$ $\\textbf{p o l i t i c a l}$.\n\nIdentify the syllable that carries the primary stress in the word **political**.",
+      "image": "",
+      "options": [
+        "po",
+        "lit",
+        "i",
+        "cal"
+      ],
+      "answer": "lit",
+      "explanation": "The primary stress in 'political' /pəˈlɪt.ɪ.kəl/ falls on the second syllable, 'lit'."
+    },
+    {
+      "id": "U2003_40",
+      "text": "It was the first time $\textbf{(when/that)}$ he ran for a major office.\n\nChoose the best word to introduce a defining clause after 'the first time'.",
+      "image": "",
+      "options": [
+        "when",
+        "that",
+        "how",
+        "where"
+      ],
+      "answer": "that",
+      "explanation": "'That' is the most idiomatic and common way to introduce a clause defining 'the first time' (or second, third, etc.). 'When' is also possible but 'that' is often preferred here."
+    }
+  ]

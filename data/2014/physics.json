@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_P_2014_01",
+      "text": "Which of the following physical quantities is a scalar?",
+      "image": "",
+      "options": ["Velocity", "Displacement", "Momentum", "Work"],
+      "answer": "Work",
+      "explanation": "Work is a scalar quantity as it only has magnitude, while the others are vectors."
+    },
+    {
+      "id": "JAMB_P_2014_02",
+      "text": "A body starts from rest and accelerates uniformly at 2 m/s² for 5 seconds. What is its final velocity?",
+      "image": "",
+      "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+      "answer": "10 m/s",
+      "explanation": "Using $v = u + at$: $v = 0 + (2 \times 5) = 10 \\text{ m/s}$."
+    },
+    {
+      "id": "JAMB_P_2014_03",
+      "text": "The rate of change of momentum is proportional to the applied force. This is a statement of:",
+      "image": "",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Energy"],
+      "answer": "Newton's Second Law",
+      "explanation": "Newton's Second Law states that $F = \\frac{\\Delta p}{\\Delta t}$, where $p$ is momentum."
+    },
+    {
+      "id": "JAMB_P_2014_04",
+      "text": "If a simple pendulum is taken to the moon, what happens to its period of oscillation?",
+      "image": "",
+      "options": ["It increases", "It decreases", "It remains the same", "It becomes zero"],
+      "answer": "It increases",
+      "explanation": "The period $T = 2\\pi\\sqrt{\\frac{L}{g}}$. Since $g_{\\text{moon}} < g_{\\text{earth}}$, the period $T$ increases."
+    },
+    {
+      "id": "JAMB_P_2014_05",
+      "text": "A force of 50 N is used to pull a box through a distance of 4 m along a smooth horizontal floor. What is the work done?",
+      "image": "",
+      "options": ["12.5 J", "46 J", "54 J", "200 J"],
+      "answer": "200 J",
+      "explanation": "Work done $W = Fd = 50 \\text{ N} \\times 4 \\text{ m} = 200 \\text{ J}$."
+    },
+    {
+      "id": "JAMB_P_2014_06",
+      "text": "What is the force of attraction between two masses $M_1$ and $M_2$ separated by a distance $r$?",
+      "image": "",
+      "options": ["$G\\frac{M_1 M_2}{r}$", "$G\\frac{M_1 M_2}{r^2}$", "$G\\frac{M_1 M_2}{r^3}$", "$G\\sqrt{M_1 M_2}/r$"],
+      "answer": "$G\\frac{M_1 M_2}{r^2}$",
+      "explanation": "This is Newton's Law of Universal Gravitation."
+    },
+    {
+      "id": "JAMB_P_2014_07",
+      "text": "In a liquid, the pressure at a point depends on:",
+      "image": "",
+      "options": ["Area of the liquid surface", "Shape of the container", "Depth below the surface", "Mass of the liquid"],
+      "answer": "Depth below the surface",
+      "explanation": "Pressure in a liquid is given by $P = \\rho g h$, where $h$ is the depth."
+    },
+    {
+      "id": "JAMB_P_2014_08",
+      "text": "The efficiency of a machine is defined as the ratio of:",
+      "image": "",
+      "options": ["Work output to work input", "Work input to work output", "Load to effort", "Velocity ratio to mechanical advantage"],
+      "answer": "Work output to work input",
+      "explanation": "Efficiency is $\\frac{\\text{Work Output}}{\\text{Work Input}} \\times 100\\%$."
+    },
+    {
+      "id": "JAMB_P_2014_09",
+      "text": "Which of the following is the condition for a body to be in rotational equilibrium?",
+      "image": "",
+      "options": ["Net force is zero", "Net velocity is zero", "Net momentum is zero", "Net torque (moment) is zero"],
+      "answer": "Net torque (moment) is zero",
+      "explanation": "Rotational equilibrium occurs when the sum of clockwise moments equals the sum of anti-clockwise moments, i.e., net torque is zero."
+    },
+    {
+      "id": "JAMB_P_2014_10",
+      "text": "A passenger jumps out of a moving train. He should jump:",
+      "image": "",
+      "options": ["At an angle to the direction of motion", "Perpendicular to the direction of motion", "Backward against the direction of motion", "Forward in the direction of motion"],
+      "answer": "Forward in the direction of motion",
+      "explanation": "To conserve momentum and minimize the relative velocity, he should jump in the direction of the train's motion."
+    },
+    {
+      "id": "JAMB_P_2014_11",
+      "text": "The instrument used to measure relative humidity is the:",
+      "image": "",
+      "options": ["Barometer", "Manometer", "Hygrometer", "Thermometer"],
+      "answer": "Hygrometer",
+      "explanation": "A hygrometer measures the amount of water vapor in the atmosphere."
+    },
+    {
+      "id": "JAMB_P_2014_12",
+      "text": "In the kinetic theory of gases, the pressure of a gas is primarily due to:",
+      "image": "",
+      "options": ["Intermolecular forces", "Collisions of molecules with the container walls", "The size of the molecules", "The gravitational force on the molecules"],
+      "answer": "Collisions of molecules with the container walls",
+      "explanation": "Pressure is the total force exerted by molecules per unit area due to collisions with the walls."
+    },
+    {
+      "id": "JAMB_P_2014_13",
+      "text": "What is the relationship between the linear expansion ($\\alpha$) and the volume expansion ($\\gamma$) coefficients of a solid?",
+      "image": "",
+      "options": ["$\\gamma = \\alpha$", "$\\gamma = 2\\alpha$", "$\\gamma = 3\\alpha$", "$\\gamma = \\alpha^3$"],
+      "answer": "$\\gamma = 3\\alpha$",
+      "explanation": "For isotropic materials, the coefficient of volume expansion is approximately three times the coefficient of linear expansion."
+    },
+    {
+      "id": "JAMB_P_2014_14",
+      "text": "The most efficient way to transfer heat in a fluid is by:",
+      "image": "",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "answer": "Convection",
+      "explanation": "Convection is the transfer of heat by the movement of the fluid itself, which is the most effective method in fluids."
+    },
+    {
+      "id": "JAMB_P_2014_15",
+      "text": "Latent heat of fusion is the heat required to change a unit mass of a substance from:",
+      "image": "",
+      "options": ["Liquid to gas at boiling point", "Solid to liquid at melting point", "Liquid to solid at freezing point", "Solid to gas at sublimation point"],
+      "answer": "Solid to liquid at melting point",
+      "explanation": "Latent heat of fusion is the energy needed for the phase change between solid and liquid."
+    },
+    {
+      "id": "JAMB_P_2014_16",
+      "text": "Which of the following describes the relationship between the velocity ($v$), frequency ($f$), and wavelength ($\\lambda$) of a wave?",
+      "image": "",
+      "options": ["$v = f / \\lambda$", "$v = \\lambda / f$", "$v = f \\lambda$", "$v = f + \\lambda$"],
+      "answer": "$v = f \\lambda$",
+      "explanation": "The wave equation is $v = f\\lambda$, where $v$ is velocity, $f$ is frequency, and $\\lambda$ is wavelength."
+    },
+    {
+      "id": "JAMB_P_2014_17",
+      "text": "A vibrating tuning fork causes a nearby object to vibrate with the same natural frequency. This phenomenon is called:",
+      "image": "",
+      "options": ["Diffraction", "Refraction", "Interference", "Resonance"],
+      "answer": "Resonance",
+      "explanation": "Resonance occurs when an external driving frequency matches the natural frequency of an object."
+    },
+    {
+      "id": "JAMB_P_2014_18",
+      "text": "Which property of light is responsible for the formation of a rainbow?",
+      "image": "",
+      "options": ["Reflection", "Dispersion", "Polarization", "Interference"],
+      "answer": "Dispersion",
+      "explanation": "Dispersion is the separation of white light into its component colors (spectrum) when passing through a prism or water droplets."
+    },
+    {
+      "id": "JAMB_P_2014_19",
+      "text": "If the angle of incidence is $45^{\\circ}$ and the angle of refraction is $30^{\\circ}$, what is the refractive index of the medium?",
+      "image": "",
+      "options": ["$\\sqrt{2}$", "$1.5$", "$2$", "$0.5$"],
+      "answer": "$\\sqrt{2}$",
+      "explanation": "Snell's Law: $n = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{1/\\sqrt{2}}{1/2} = \\frac{2}{\\sqrt{2}} = \\sqrt{2}$."
+    },
+    {
+      "id": "JAMB_P_2014_20",
+      "text": "The image formed by a convex mirror is always:",
+      "image": "",
+      "options": ["Real, inverted, and magnified", "Virtual, erect, and magnified", "Virtual, erect, and diminished", "Real, inverted, and diminished"],
+      "answer": "Virtual, erect, and diminished",
+      "explanation": "A convex mirror always forms a virtual, erect, and diminished image behind the mirror."
+    },
+    {
+      "id": "JAMB_P_2014_21",
+      "text": "Which type of mirror is used as a driving mirror in cars?",
+      "image": "",
+      "options": ["Concave mirror", "Plane mirror", "Convex mirror", "Parabolic mirror"],
+      "answer": "Convex mirror",
+      "explanation": "Convex mirrors provide a wide field of view and always form erect images."
+    },
+    {
+      "id": "JAMB_P_2014_22",
+      "text": "The phenomenon that accounts for the ability to hear sounds around a corner is:",
+      "image": "",
+      "options": ["Interference", "Refraction", "Polarization", "Diffraction"],
+      "answer": "Diffraction",
+      "explanation": "Diffraction is the spreading of waves as they pass through an opening or around an obstacle."
+    },
+    {
+      "id": "JAMB_P_2014_23",
+      "text": "Which part of the electromagnetic spectrum is used in sterilizing surgical equipment?",
+      "image": "",
+      "options": ["Infrared rays", "Ultraviolet rays", "Radio waves", "Microwaves"],
+      "answer": "Ultraviolet rays",
+      "explanation": "UV rays have enough energy to kill bacteria and viruses (germicidal properties)."
+    },
+    {
+      "id": "JAMB_P_2014_24",
+      "text": "If a farsighted person wears glasses, the lens used must be:",
+      "image": "",
+      "options": ["Concave", "Convex", "Cylindrical", "Plano-concave"],
+      "answer": "Convex",
+      "explanation": "Farsightedness (Hypermetropia) is corrected using a converging (convex) lens."
+    },
+    {
+      "id": "JAMB_P_2014_25",
+      "text": "A characteristic of sound waves that is affected by the pitch of the sound is its:",
+      "image": "",
+      "options": ["Amplitude", "Speed", "Wavelength", "Frequency"],
+      "answer": "Frequency",
+      "explanation": "Pitch is determined by the frequency of the sound wave. Higher frequency means higher pitch."
+    },
+    {
+      "id": "JAMB_P_2014_26",
+      "text": "The instrument used for converting mechanical energy into electrical energy is a:",
+      "image": "",
+      "options": ["Transformer", "Motor", "Rectifier", "Generator (Dynamo)"],
+      "answer": "Generator (Dynamo)",
+      "explanation": "A generator converts mechanical energy (rotation) into electrical energy (current) via electromagnetic induction."
+    },
+    {
+      "id": "JAMB_P_2014_27",
+      "text": "Three resistors of $3 \\Omega$, $6 \\Omega$, and $9 \\Omega$ are connected in series. What is the equivalent resistance?",
+      "image": "",
+      "options": ["1.64 \\Omega", "18 \\Omega", "9 \\Omega", "6 \\Omega"],
+      "answer": "18 \\Omega",
+      "explanation": "For series connection, $R_{\\text{eq}} = R_1 + R_2 + R_3 = 3 + 6 + 9 = 18 \\Omega$."
+    },
+    {
+      "id": "JAMB_P_2014_28",
+      "text": "The principle of operation of the moving-coil galvanometer is based on:",
+      "image": "",
+      "options": ["Electrostatic force", "Heating effect of current", "Magnetic effect of current", "Electromagnetic induction"],
+      "answer": "Magnetic effect of current",
+      "explanation": "The current in the coil interacts with the magnetic field, producing a turning moment (torque)."
+    },
+    {
+      "id": "JAMB_P_2014_29",
+      "text": "If the length of a wire is doubled and its cross-sectional area is halved, the resistance is:",
+      "image": "",
+      "options": ["Doubled", "Halved", "Quadrupled", "Unchanged"],
+      "answer": "Quadrupled",
+      "explanation": "Resistance $R = \\rho \\frac{L}{A}$. New resistance $R' = \\rho \\frac{2L}{A/2} = 4 \\rho \\frac{L}{A} = 4R$."
+    },
+    {
+      "id": "JAMB_P_2014_30",
+      "text": "Lenz's law is a consequence of the conservation of:",
+      "image": "",
+      "options": ["Momentum", "Charge", "Energy", "Magnetic flux"],
+      "answer": "Energy",
+      "explanation": "Lenz's law states that the induced current's direction opposes the change causing it, which is consistent with the conservation of energy."
+    },
+    {
+      "id": "JAMB_P_2014_31",
+      "text": "In a series $RLC$ circuit at resonance, the phase angle between voltage and current is:",
+      "image": "",
+      "options": ["$90^{\\circ}$", "$45^{\\circ}$", "$0^{\\circ}$", "$180^{\\circ}$"],
+      "answer": "$0^{\\circ}$",
+      "explanation": "At resonance, the inductive reactance equals the capacitive reactance, making the circuit purely resistive, so the voltage and current are in phase."
+    },
+    {
+      "id": "JAMB_P_2014_32",
+      "text": "Which of the following materials is suitable for making a permanent magnet?",
+      "image": "",
+      "options": ["Soft iron", "Steel", "Copper", "Aluminum"],
+      "answer": "Steel",
+      "explanation": "Steel has high retentivity and coercivity, making it suitable for permanent magnets. Soft iron is used for temporary magnets."
+    },
+    {
+      "id": "JAMB_P_2014_33",
+      "text": "The unit of capacitance is the:",
+      "image": "",
+      "options": ["Coulomb", "Volt", "Farad", "Henry"],
+      "answer": "Farad",
+      "explanation": "Capacitance ($C$) is measured in Farads (F)."
+    },
+    {
+      "id": "JAMB_P_2014_34",
+      "text": "A step-up transformer has a turns ratio of $1:10$. If the input voltage is $20 \\text{ V}$, the output voltage is:",
+      "image": "",
+      "options": ["2 V", "20 V", "200 V", "2000 V"],
+      "answer": "200 V",
+      "explanation": "For a transformer: $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$. $V_s = V_p \\times \\frac{N_s}{N_p} = 20 \\text{ V} \\times 10 = 200 \\text{ V}$."
+    },
+    {
+      "id": "JAMB_P_2014_35",
+      "text": "The force on a current-carrying conductor placed in a magnetic field is maximum when the conductor is:",
+      "image": "",
+      "options": ["Parallel to the field", "Perpendicular to the field", "At $45^{\\circ}$ to the field", "At $60^{\\circ}$ to the field"],
+      "answer": "Perpendicular to the field",
+      "explanation": "The magnetic force $F = BIL \\sin\\theta$. $F$ is maximum when $\\sin\\theta = 1$, i.e., $\\theta = 90^{\\circ}$ (perpendicular)."
+    },
+    {
+      "id": "JAMB_P_2014_36",
+      "text": "Which of the following is an $\\alpha$-particle?",
+      "image": "",
+      "options": ["Fast moving electron", "Electromagnetic radiation", "Helium nucleus", "Hydrogen nucleus"],
+      "answer": "Helium nucleus",
+      "explanation": "An $\\alpha$-particle consists of two protons and two neutrons, identical to the nucleus of a helium atom ($^4_2\\text{He}$)."
+    },
+    {
+      "id": "JAMB_P_2014_37",
+      "text": "The half-life of a radioactive substance is 5 days. What fraction of the original sample will remain after 20 days?",
+      "image": "",
+      "options": ["$1/2$", "$1/4$", "$1/8$", "$1/16$"],
+      "answer": "$1/16$",
+      "explanation": "Number of half-lives $n = \\frac{20}{5} = 4$. Fraction remaining $= (1/2)^n = (1/2)^4 = 1/16$."
+    },
+    {
+      "id": "JAMB_P_2014_38",
+      "text": "The process of converting AC to DC is known as:",
+      "image": "",
+      "options": ["Amplification", "Rectification", "Modulation", "Demodulation"],
+      "answer": "Rectification",
+      "explanation": "Rectification uses diodes to convert Alternating Current (AC) into Direct Current (DC)."
+    },
+    {
+      "id": "JAMB_P_2014_39",
+      "text": "The minimum energy required to cause an electron to be emitted from a metal surface is called the:",
+      "image": "",
+      "options": ["Kinetic energy", "Threshold energy", "Work function", "Potential energy"],
+      "answer": "Work function",
+      "explanation": "The Work Function ($\\phi$) is the minimum energy required for photoelectric emission."
+    },
+    {
+      "id": "JAMB_P_2014_40",
+      "text": "Which of the following is based on the principle of nuclear fusion?",
+      "image": "",
+      "options": ["Nuclear reactor", "X-ray tube", "Atomic bomb", "Sun's energy source"],
+      "answer": "Sun's energy source",
+      "explanation": "The Sun generates energy by fusing hydrogen nuclei into helium nuclei."
+    }
+  ]

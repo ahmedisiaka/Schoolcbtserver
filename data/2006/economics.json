@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E6001",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ $\\textbf{ended}$ its $\\textbf{two}$-$\\textbf{year}$ $\\textbf{rate}$ $\\textbf{hike}$ $\\textbf{cycle}$ in $\\textbf{June}$ $\\textbf{2006}$, $\\textbf{setting}$ $\\textbf{the}$ $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{target}$ at **5.25%**.",
+        "image": "",
+        "options": [
+            "4.00%",
+            "5.25%",
+            "6.00%",
+            "3.50%"
+        ],
+        "answer": "5.25%",
+        "explanation": "The Fed hiked rates twice more in 2006 (January and June) before pausing, ending the cycle that had begun in June 2004."
+    },
+    {
+        "id": "E6002",
+        "text": "The $\\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{Inversion}$ occurred $\\textbf{when}$ the $\\textbf{yield}$ on $\\textbf{short}$-$\\textbf{term}$ $\\textbf{Treasuries}$ $\\textbf{(2-year)}$ $\\textbf{rose}$ $\\textbf{above}$ $\\textbf{the}$ $\\textbf{yield}$ on $\\textbf{long}$-$\\textbf{term}$ $\\textbf{Treasuries}$ $\\textbf{(10-year)}$, $\\textbf{which}$ $\\textbf{is}$ $\\textbf{a}$ $\\textbf{classic}$ $\\textbf{signal}$ $\\textbf{of}$ $\\textbf{an}$ $\\textbf{impending}$ $\\textbf{recession}$.",
+        "image": "",
+        "options": [
+            "Steepening",
+            "Normalization",
+            "Yield Curve Inversion",
+            "Quantitative Easing"
+        ],
+        "answer": "Yield Curve Inversion",
+        "explanation": "The 10-year minus 2-year spread went negative in early 2006, as short-term rates were pushed up by the Fed's hikes while long-term rates remained low (Greenspan's Conundrum)."
+    },
+    {
+        "id": "E6003",
+        "text": "The $\\textbf{national}$ $\\textbf{Housing}$ $\\textbf{Market}$ $\\textbf{began}$ $\\textbf{its}$ $\\textbf{definitive}$ $\\textbf{decline}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{marked}$ $\\textbf{by}$ $\\textbf{a}$ $\\textbf{drop}$ $\\textbf{in}$ $\\textbf{home}$ $\\textbf{sales}$ $\\textbf{and}$ $\\textbf{rising}$ $\\textbf{inventory}$ $\\textbf{levels}$.",
+        "image": "",
+        "options": [
+            "Continued rapid growth",
+            "Definitive decline",
+            "A shift to commercial property",
+            "A new wave of government subsidies"
+        ],
+        "answer": "Definitive decline",
+        "explanation": "Sales peaked in 2005, and 2006 saw the first sustained national drop in both sales volume and eventually, prices."
+    },
+    {
+        "id": "E6004",
+        "text": "$\\textbf{Ben}$ $\\textbf{S.}$ $\\textbf{Bernanke}$ $\\textbf{succeeded}$ $\\textbf{Alan}$ $\\textbf{Greenspan}$ as $\\textbf{Chairman}$ of $\\textbf{the}$ $\\textbf{Federal}$ $\\textbf{Reserve}$ in **February 2006**.",
+        "image": "",
+        "options": [
+            "Paul Volcker",
+            "Janet Yellen",
+            "Ben S. Bernanke",
+            "Jerome Powell"
+        ],
+        "answer": "Ben S. Bernanke",
+        "explanation": "Bernanke took the helm just as the housing market began to crack and the yield curve inverted."
+    },
+    {
+        "id": "E6005",
+        "text": "The $\\textbf{main}$ $\\textbf{driver}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{sharp}$ $\\textbf{increase}$ $\\textbf{in}$ $\\textbf{mortgage}$ $\\textbf{defaults}$ $\\textbf{in}$ $\\textbf{2006}$ was $\\textbf{the}$ $\\textbf{wave}$ $\\textbf{of}$ $\\textbf{initial}$ $\\textbf{low}$-$\\textbf{rate}$ $\\textbf{Adjustable}$-$\\textbf{Rate}$ $\\textbf{Mortgages}$ $\\textbf{(ARMs)}$ $\\textbf{resetting}$ $\\textbf{to}$ $\\textbf{higher}$ $\\textbf{interest}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Falling oil prices",
+            "Wave of ARM resets",
+            "Massive unemployment spike",
+            "Increased personal savings"
+        ],
+        "answer": "Wave of ARM resets",
+        "explanation": "The low 'teaser' rates on ARMs (especially subprime) expired, causing monthly payments to spike, often by 50% or more."
+    },
+    {
+        "id": "E6006",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Stock}$ $\\textbf{Market}$ $\\textbf{(S&P}$ $\\textbf{500)}$ $\\textbf{posted}$ $\\textbf{strong}$ $\\textbf{gains}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{largely}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{strong}$ $\\textbf{corporate}$ $\\textbf{earnings}$ $\\textbf{and}$ $\\textbf{cheap}$ $\\textbf{credit}$ $\\textbf{for}$ $\\textbf{buybacks}$ $\\textbf{and}$ $\\textbf{mergers}$.",
+        "image": "",
+        "options": [
+            "Sharp decline due to recession",
+            "Strong gains",
+            "Stagnation due to inflation",
+            "A full market crash"
+        ],
+        "answer": "Strong gains",
+        "explanation": "The economy, outside of housing, was still robust, and easy credit conditions supported equity prices, masking the underlying rot."
+    },
+    {
+        "id": "E6007",
+        "text": "$\\textbf{WTI}$ $\\textbf{Crude}$ $\\textbf{Oil}$ $\\textbf{prices}$ $\\textbf{briefly}$ $\\textbf{hit}$ $\\textbf{a}$ $\\textbf{historic}$ $\\textbf{high}$ $\\textbf{of}$ $\\textbf{over}$ $\\textbf{\\$78}$ $\\textbf{per}$ $\\textbf{barrel}$ $\\textbf{in}$ $\\textbf{mid-2006}$, $\\textbf{contributing}$ $\\textbf{to}$ $\\textbf{headline}$ $\\textbf{inflationary}$ $\\textbf{pressures}$.",
+        "image": "",
+        "options": [
+            "Above $78 per barrel",
+            "Below $30 per barrel",
+            "Near $50 per barrel",
+            "Near $10 per barrel"
+        ],
+        "answer": "Above $78 per barrel",
+        "explanation": "Geopolitical tensions and robust global demand fueled the oil price surge, pushing up gas prices for consumers."
+    },
+    {
+        "id": "E6008",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Current}$ $\\textbf{Account}$ $\\textbf{Deficit}$ $\\textbf{(Trade}$ $\\textbf{Deficit)}$ **hit its absolute peak** in $\\textbf{2006}$ $\\textbf{(nearly}$ $\\textbf{6.5\\%}$ $\\textbf{of}$ $\\textbf{GDP)}$ $\\textbf{before}$ $\\textbf{finally}$ $\\textbf{beginning}$ $\\textbf{to}$ $\\textbf{narrow}$.",
+        "image": "",
+        "options": [
+            "Hit its absolute peak",
+            "Narrowed dramatically",
+            "Turned into a surplus",
+            "Was eliminated by tariffs"
+        ],
+        "answer": "Hit its absolute peak",
+        "explanation": "Fueled by consumer spending financed by housing equity, imports continued to far outpace exports."
+    },
+    {
+        "id": "E6009",
+        "text": "The $\\textbf{primary}$ $\\textbf{economic}$ $\\textbf{argument}$ $\\textbf{against}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{stopping}$ $\\textbf{rate}$ $\\textbf{hikes}$ $\\textbf{in}$ $\\textbf{June}$ $\\textbf{2006}$ was $\\textbf{that}$ $\\textbf{core}$ $\\textbf{inflation}$ $\\textbf{was}$ $\\textbf{still}$ $\\textbf{above}$ $\\textbf{the}$ $\\textbf{implied}$ $\\textbf{2\\%}$ $\\textbf{target}$.",
+        "image": "",
+        "options": [
+            "The stock market was falling",
+            "Unemployment was too high",
+            "Core inflation was still above the implied 2% target",
+            "The dollar was too strong"
+        ],
+        "answer": "Core inflation was still above the implied 2% target",
+        "explanation": "Inflation, though moderate, was the stated reason for the pause, making some economists nervous that the Fed stopped too early."
+    },
+    {
+        "id": "E6010",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ **remained low (near 4.5%)** throughout $\\textbf{2006}$, $\\textbf{suggesting}$ $\\textbf{the}$ $\\textbf{recessionary}$ $\\textbf{pressures}$ $\\textbf{were}$ $\\textbf{still}$ $\\textbf{concentrated}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{and}$ $\\textbf{housing}$ $\\textbf{sectors}$.",
+        "image": "",
+        "options": [
+            "Spiked to 6.5%",
+            "Remained low (near 4.5%)",
+            "Fell to a 30-year low",
+            "Turned negative"
+        ],
+        "answer": "Remained low (near 4.5%)",
+        "explanation": "The strong labor market meant that the economic weakness was not yet widespread, leading many policymakers to dismiss the yield curve inversion."
+    },
+    {
+        "id": "E6011",
+        "text": "The $\\textbf{Home}$ $\\textbf{Equity}$ $\\textbf{Withdrawal}$ $\\textbf{that}$ $\\textbf{had}$ $\\textbf{fueled}$ $\\textbf{consumption}$ $\\textbf{in}$ $\\textbf{prior}$ $\\textbf{years}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{slow}$ $\\textbf{dramatically}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{as}$ $\\textbf{home}$ $\\textbf{prices}$ $\\textbf{stagnated}$ $\\textbf{or}$ $\\textbf{declined}$.",
+        "image": "",
+        "options": [
+            "Accelerated",
+            "Slowed dramatically",
+            "Remained unchanged",
+            "Shifted to commercial property"
+        ],
+        "answer": "Slowed dramatically",
+        "explanation": "With falling house values, consumers could no longer easily extract cash via refinancing or Home Equity Lines of Credit (HELOCs)."
+    },
+    {
+        "id": "E6012",
+        "text": "The $\\textbf{key}$ $\\textbf{reason}$ $\\textbf{Alan}$ $\\textbf{Greenspan's}$ $\\textbf{Conundrum}$ $\\textbf{persisted}$ $\\textbf{in}$ $\\textbf{2006}$ was $\\textbf{the}$ $\\textbf{massive}$ $\\textbf{inflow}$ $\\textbf{of}$ $\\textbf{capital}$ $\\textbf{from}$ $\\textbf{China}$ $\\textbf{and}$ $\\textbf{other}$ $\\textbf{Asian}$ $\\textbf{central}$ $\\textbf{banks}$ $\\textbf{purchasing}$ $\\textbf{Treasury}$ $\\textbf{securities}$.",
+        "image": "",
+        "options": [
+            "U.S. budget surplus",
+            "Massive capital inflow from Asia",
+            "The collapse of the Yen",
+            "A spike in domestic savings"
+        ],
+        "answer": "Massive capital inflow from Asia",
+        "explanation": "Foreign reserves recycling surpluses into U.S. debt was the dominant force keeping long-term yields low."
+    },
+    {
+        "id": "E6013",
+        "text": "The $\\textbf{Personal}$ $\\textbf{Savings}$ $\\textbf{Rate}$ $\\textbf{remained}$ $\\textbf{near}$ $\\textbf{zero}$ $\\textbf{or}$ $\\textbf{negative}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{as}$ $\\textbf{consumers}$ $\\textbf{continued}$ $\\textbf{to}$ $\\textbf{fund}$ $\\textbf{consumption}$ $\\textbf{through}$ $\\textbf{debt}$ $\\textbf{until}$ $\\textbf{the}$ $\\textbf{credit}$ $\\textbf{contraction}$ $\\textbf{forced}$ $\\textbf{them}$ $\\textbf{to}$ $\\textbf{save}$.",
+        "image": "",
+        "options": [
+            "Rose sharply to 8%",
+            "Remained near zero or negative",
+            "Was subsidized by the government",
+            "Turned into investment"
+        ],
+        "answer": "Remained near zero or negative",
+        "explanation": "The consumption boom continued into 2006, supported by high debt and low home equity withdrawal (though slowing)."
+    },
+    {
+        "id": "E6014",
+        "text": "The $\\textbf{segment}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{mortgage}$ $\\textbf{market}$ $\\textbf{that}$ $\\textbf{experienced}$ $\\textbf{the}$ $\\textbf{most}$ $\\textbf{acute}$ $\\textbf{defaults}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{subprime}$ $\\textbf{segment}$, $\\textbf{characterized}$ $\\textbf{by}$ $\\textbf{low}$ $\\textbf{credit}$ $\\textbf{scores}$ $\\textbf{and}$ $\\textbf{risky}$ $\\textbf{loan}$ $\\textbf{features}$.",
+        "image": "",
+        "options": [
+            "Prime fixed-rate mortgages",
+            "FHA loans",
+            "Subprime mortgages",
+            "Jumbo loans"
+        ],
+        "answer": "Subprime mortgages",
+        "explanation": "These loans were overwhelmingly ARMs, and the borrowers were most susceptible to the payment shock of the resets."
+    },
+    {
+        "id": "E6015",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Government}$ $\\textbf{Budget}$ $\\textbf{Deficit}$ **narrowed significantly** in $\\textbf{2006}$, $\\textbf{due}$ $\\textbf{to}$ $\\textbf{robust}$ $\\textbf{economic}$ $\\textbf{growth}$ $\\textbf{and}$ $\\textbf{record}$ $\\textbf{corporate}$ $\\textbf{tax}$ $\\textbf{receipts}$.",
+        "image": "",
+        "options": [
+            "Widened dramatically",
+            "Narrowed significantly",
+            "Turned into a surplus",
+            "Was balanced by foreign aid"
+        ],
+        "answer": "Narrowed significantly",
+        "explanation": "Strong corporate profits translated into high tax revenues, temporarily improving the fiscal situation."
+    },
+    {
+        "id": "E6016",
+        "text": "The $\\textbf{Fed}$ $\\textbf{Chair}$ $\\textbf{Ben}$ $\\textbf{Bernanke}$ $\\textbf{was}$ $\\textbf{known}$ $\\textbf{as}$ $\\textbf{a}$ $\\textbf{scholar}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{Great}$ $\\textbf{Depression}$, $\\textbf{which}$ $\\textbf{informed}$ $\\textbf{his}$ $\\textbf{later}$ $\\textbf{actions}$ $\\textbf{during}$ $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{crisis}$.",
+        "image": "",
+        "options": [
+            "Monetary policy in the 1970s",
+            "The Great Depression",
+            "Fiscal stimulus effects",
+            "The impact of tariffs"
+        ],
+        "answer": "The Great Depression",
+        "explanation": "His expertise on the systemic failures of the 1930s influenced his aggressive, non-traditional responses to the 2008 crisis."
+    },
+    {
+        "id": "E6017",
+        "text": "$\\textbf{Housing}$ $\\textbf{Starts}$ $\\textbf{(new}$ $\\textbf{residential}$ $\\textbf{construction)}$ $\\textbf{fell}$ $\\textbf{sharply}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{as}$ $\\textbf{demand}$ $\\textbf{collapsed}$ $\\textbf{and}$ $\\textbf{inventory}$ $\\textbf{levels}$ $\\textbf{soared}$.",
+        "image": "",
+        "options": [
+            "Rose to a new record high",
+            "Fell sharply",
+            "Were banned by the government",
+            "Remained stable"
+        ],
+        "answer": "Fell sharply",
+        "explanation": "Residential investment became a major drag on GDP growth for the first time in years."
+    },
+    {
+        "id": "E6018",
+        "text": "The $\\textbf{Term}$ $\\textbf{Spread}$ $\\textbf{inversion}$ $\\textbf{(10yr-2yr)}$ is $\\textbf{believed}$ $\\textbf{to}$ $\\textbf{predict}$ $\\textbf{a}$ $\\textbf{recession}$ $\\textbf{because}$ $\\textbf{it}$ $\\textbf{reflects}$ $\\textbf{the}$ $\\textbf{market's}$ $\\textbf{expectation}$ $\\textbf{that}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{will}$ $\\textbf{be}$ $\\textbf{forced}$ $\\textbf{to}$ $\\textbf{cut}$ $\\textbf{short}$-$\\textbf{term}$ $\\textbf{rates}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{future}$.",
+        "image": "",
+        "options": [
+            "The Fed will raise rates higher",
+            "The dollar will devalue",
+            "The Fed will be forced to cut short-term rates in the future",
+            "Commodity prices will crash"
+        ],
+        "answer": "The Fed will be forced to cut short-term rates in the future",
+        "explanation": "When the long end is lower than the short end, it signals bond investors expect a future downturn that requires lower rates."
+    },
+    {
+        "id": "E6019",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Growth}$ $\\textbf{Rate}$ $\\textbf{slowed}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{primarily}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{contraction}$ $\\textbf{in}$ $\\textbf{residential}$ $\\textbf{investment}$ $\\textbf{as}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{market}$ $\\textbf{retreated}$.",
+        "image": "",
+        "options": [
+            "Strong acceleration",
+            "Contraction in residential investment",
+            "Record government spending",
+            "Surge in exports"
+        ],
+        "answer": "Contraction in residential investment",
+        "explanation": "This sector's decline began dragging down overall economic performance, though consumption remained strong."
+    },
+    {
+        "id": "E6020",
+        "text": "The $\\textbf{type}$ $\\textbf{of}$ $\\textbf{derivative}$ $\\textbf{security}$ $\\textbf{that}$ $\\textbf{insures}$ $\\textbf{against}$ $\\textbf{the}$ $\\textbf{default}$ $\\textbf{of}$ $\\textbf{a}$ $\\textbf{bond}$ $\\textbf{or}$ $\\textbf{loan}$ $\\textbf{and}$ $\\textbf{saw}$ $\\textbf{rapid}$ $\\textbf{growth}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{Credit}$ $\\textbf{Default}$ $\\textbf{Swap}$ $\\textbf{(CDS)}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "Future contracts",
+            "Credit Default Swaps (CDS)",
+            "Options contracts",
+            "Interest-only strips"
+        ],
+        "answer": "Credit Default Swaps (CDS)",
+        "explanation": "CDS allowed investors to bet against the performance of mortgage-backed securities, adding a layer of risk to the financial system."
+    },
+    {
+        "id": "E6021",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ $\\textbf{hovered}$ $\\textbf{at}$ $\\textbf{its}$ $\\textbf{lowest}$ $\\textbf{level}$ $\\textbf{(around}$ $\\textbf{4.4\\%)}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{since}$ $\\textbf{2001}$, $\\textbf{leading}$ $\\textbf{some}$ $\\textbf{policymakers}$ $\\textbf{to}$ $\\textbf{fear}$ $\\textbf{an}$ $\\textbf{overheating}$ $\\textbf{labor}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "10%",
+            "4.4%",
+            "7%",
+            "2%"
+        ],
+        "answer": "4.4%",
+        "explanation": "The economy was still producing jobs at a respectable clip, contradicting the recession signal from the inverted yield curve."
+    },
+    {
+        "id": "E6022",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(CPI)}$ $\\textbf{was}$ $\\textbf{pushed}$ $\\textbf{up}$ $\\textbf{sharply}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{by}$ $\\textbf{high}$ $\\textbf{oil}$ $\\textbf{and}$ $\\textbf{gasoline}$ $\\textbf{prices}$, $\\textbf{causing}$ $\\textbf{headline}$ $\\textbf{inflation}$ $\\textbf{to}$ $\\textbf{temporarily}$ $\\textbf{exceed}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{comfort}$ $\\textbf{zone}$.",
+        "image": "",
+        "options": [
+            "Housing starts",
+            "Wages",
+            "Oil and gasoline prices",
+            "Exchange rates"
+        ],
+        "answer": "Oil and gasoline prices",
+        "explanation": "The summer surge in WTI crude directly impacted headline CPI, creating a tricky situation for the newly installed Bernanke Fed."
+    },
+    {
+        "id": "E6023",
+        "text": "The $\\textbf{financial}$ $\\textbf{institution}$ $\\textbf{most}$ $\\textbf{exposed}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{initial}$ $\\textbf{defaults}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{subprime}$ $\\textbf{market}$ $\\textbf{were}$ $\\textbf{the}$ $\\textbf{Mortgage}$ $\\textbf{Originators}$ $\\textbf{and}$ $\\textbf{specialized}$ $\\textbf{lenders}$, $\\textbf{many}$ $\\textbf{of}$ $\\textbf{which}$ $\\textbf{faced}$ $\\textbf{bankruptcy}$ $\\textbf{in}$ $\\textbf{2006}$.",
+        "image": "",
+        "options": [
+            "Federal Reserve Banks",
+            "Commercial banks (JP Morgan, Citi)",
+            "Mortgage Originators and specialized lenders",
+            "Foreign central banks"
+        ],
+        "answer": "Mortgage Originators and specialized lenders",
+        "explanation": "Lenders like Ownit Mortgage and New Century Financial were among the first casualties, going bankrupt or severely curtailing operations in 2006."
+    },
+    {
+        "id": "E6024",
+        "text": "The $\\textbf{Fed's}$ $\\textbf{decision}$ $\\textbf{to}$ $\\textbf{pause}$ $\\textbf{rate}$ $\\textbf{hikes}$ $\\textbf{in}$ $\\textbf{June}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{a}$ $\\textbf{reaction}$ $\\textbf{to}$ $\\textbf{evidence}$ $\\textbf{that}$ $\\textbf{the}$ $\\textbf{economy}$ $\\textbf{was}$ $\\textbf{slowing}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{rising}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{rates}$ $\\textbf{and}$ $\\textbf{the}$ $\\textbf{slump}$ $\\textbf{in}$ $\\textbf{housing}$.",
+        "image": "",
+        "options": [
+            "Rising long-term rates and the slump in housing",
+            "Massive foreign trade surplus",
+            "Hyperinflationary fears",
+            "Complete lack of job growth"
+        ],
+        "answer": "Rising long-term rates and the slump in housing",
+        "explanation": "The Fed determined that 5.25% was a 'restrictive' (tightening) level and opted to wait for evidence that inflation would moderate."
+    },
+    {
+        "id": "E6025",
+        "text": "The $\\textbf{GDP}$ $\\textbf{component}$ $\\textbf{that}$ $\\textbf{suffered}$ $\\textbf{the}$ $\\textbf{largest}$ $\\textbf{and}$ $\\textbf{most}$ $\\textbf{sustained}$ $\\textbf{decline}$ $\\textbf{throughout}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{Residential}$ $\\textbf{Fixed}$ $\\textbf{Investment}$ $\\textbf{(new}$ $\\textbf{housing}$ $\\textbf{construction)}$.",
+        "image": "",
+        "options": [
+            "Government Spending",
+            "Net Exports",
+            "Residential Fixed Investment",
+            "Durable Goods Consumption"
+        ],
+        "answer": "Residential Fixed Investment",
+        "explanation": "As the housing market cooled, this sector began its steep multi-year decline, dragging down overall GDP."
+    },
+    {
+        "id": "E6026",
+        "text": "The $\\textbf{Housing}$ $\\textbf{Affordability}$ $\\textbf{Index}$ $\\textbf{fell}$ $\\textbf{to}$ $\\textbf{its}$ $\\textbf{lowest}$ $\\textbf{level}$ $\\textbf{since}$ $\\textbf{1989}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{making}$ $\\textbf{it}$ $\\textbf{difficult}$ $\\textbf{for}$ $\\textbf{first}$-$\\textbf{time}$ $\\textbf{buyers}$ $\\textbf{to}$ $\\textbf{enter}$ $\\textbf{the}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "Highest level ever",
+            "Lowest level since 1989",
+            "Remained stable",
+            "Became negative"
+        ],
+        "answer": "Lowest level since 1989",
+        "explanation": "The combination of high prices (before the crash) and rising mortgage rates crushed affordability."
+    },
+    {
+        "id": "E6027",
+        "text": "The $\\textbf{primary}$ $\\textbf{concern}$ $\\textbf{for}$ $\\textbf{automakers}$ $\\textbf{like}$ $\\textbf{GM}$ $\\textbf{and}$ $\\textbf{Ford}$ $\\textbf{in}$ $\\textbf{2006}$ was $\\textbf{the}$ $\\textbf{soaring}$ $\\textbf{cost}$ $\\textbf{of}$ $\\textbf{oil}$ $\\textbf{and}$ $\\textbf{gasoline}$ $\\textbf{which}$ $\\textbf{reduced}$ $\\textbf{demand}$ $\\textbf{for}$ $\\textbf{their}$ $\\textbf{high}$-$\\textbf{profit}$ $\\textbf{trucks}$ $\\textbf{and}$ $\\textbf{SUVs}$.",
+        "image": "",
+        "options": [
+            "Falling steel prices",
+            "Soaring cost of oil and gasoline",
+            "Lack of available credit",
+            "Strong Euro exchange rate"
+        ],
+        "answer": "Soaring cost of oil and gasoline",
+        "explanation": "High gas prices drove consumers toward smaller, more fuel-efficient cars, where U.S. manufacturers struggled to compete."
+    },
+    {
+        "id": "E6028",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{policy}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{characterized}$ $\\textbf{by}$ $\\textbf{a}$ $\\textbf{continued}$ $\\textbf{high}$ $\\textbf{level}$ $\\textbf{of}$ $\\textbf{government}$ $\\textbf{spending}$ $\\textbf{on}$ $\\textbf{the}$ $\\textbf{wars}$ $\\textbf{in}$ $\\textbf{Iraq}$ $\\textbf{and}$ $\\textbf{Afghanistan}$, $\\textbf{acting}$ $\\textbf{as}$ $\\textbf{a}$ $\\textbf{fiscal}$ $\\textbf{stimulus}$.",
+        "image": "",
+        "options": [
+            "Massive tax increases",
+            "Cuts to all defense spending",
+            "Continued high spending on wars",
+            "A balanced budget amendment"
+        ],
+        "answer": "Continued high spending on wars",
+        "explanation": "The military operations continued to provide a substantial injection of fiscal stimulus into the economy."
+    },
+    {
+        "id": "E6029",
+        "text": "The $\\textbf{process}$ $\\textbf{of}$ $\\textbf{bundling}$ $\\textbf{individual}$ $\\textbf{mortgages}$ $\\textbf{into}$ $\\textbf{securities}$ $\\textbf{that}$ $\\textbf{are}$ $\\textbf{sold}$ $\\textbf{to}$ $\\textbf{investors}$ $\\textbf{is}$ $\\textbf{called}$ $\\textbf{Securitization}$ $\\textbf{and}$ $\\textbf{was}$ $\\textbf{central}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{pre}$-$\\textbf{crisis}$ $\\textbf{housing}$ $\\textbf{boom}$.",
+        "image": "",
+        "options": [
+            "Insurance",
+            "Securitization",
+            "Disintermediation",
+            "Nationalization"
+        ],
+        "answer": "Securitization",
+        "explanation": "Securitization allowed lenders to offload risk and continue originating loans with little accountability."
+    },
+    {
+        "id": "E6030",
+        "text": "$\\textbf{Core}$ $\\textbf{Inflation}$ $\\textbf{(CPI}$ $\\textbf{excluding}$ $\\textbf{food}$ $\\textbf{and}$ $\\textbf{energy)}$ $\\textbf{peaked}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{leading}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{to}$ $\\textbf{express}$ $\\textbf{concern}$ $\\textbf{about}$ $\\textbf{its}$ $\\textbf{perceived}$ $\\textbf{stickiness}$.",
+        "image": "",
+        "options": [
+            "Fell to zero",
+            "Was negative",
+            "Peaked",
+            "Was higher than headline inflation"
+        ],
+        "answer": "Peaked",
+        "explanation": "Core CPI rose above 2.5% in 2006, leading Bernanke to call it 'uncomfortably high' just before the final rate hike."
+    },
+    {
+        "id": "E6031",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{target}$ of $\\textbf{5.25\\%}$ $\\textbf{established}$ $\\textbf{in}$ $\\textbf{June}$ $\\textbf{2006}$ $\\textbf{was}$ $\\textbf{considered}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{to}$ $\\textbf{be}$ $\\textbf{a}$ $\\textbf{Restrictive}$ $\\textbf{(tightening)}$ $\\textbf{level}$ $\\textbf{of}$ $\\textbf{monetary}$ $\\textbf{policy}$.",
+        "image": "",
+        "options": [
+            "Stimulative",
+            "Neutral",
+            "Restrictive (tightening)",
+            "Accommodative"
+        ],
+        "answer": "Restrictive (tightening)",
+        "explanation": "The Fed's goal was to bring rates above the estimated neutral rate to slow the economy and curb inflation."
+    },
+    {
+        "id": "E6032",
+        "text": "The $\\textbf{Financial}$ $\\textbf{Industry}$ $\\textbf{Regulatory}$ $\\textbf{Authority}$ $\\textbf{(FINRA)}$ $\\textbf{is}$ $\\textbf{the}$ $\\textbf{organization}$ $\\textbf{responsible}$ $\\textbf{for}$ $\\textbf{overseeing}$ $\\textbf{brokerage}$ $\\textbf{firms}$ $\\textbf{and}$ $\\textbf{protecting}$ $\\textbf{investors}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{U.S}$.",
+        "image": "",
+        "options": [
+            "IMF",
+            "FINRA",
+            "World Bank",
+            "European Central Bank"
+        ],
+        "answer": "FINRA",
+        "explanation": "FINRA is the largest independent regulator for all brokerage firms doing business in the U.S."
+    },
+    {
+        "id": "E6033",
+        "text": "The $\\textbf{Trade}$ $\\textbf{Deficit}$ $\\textbf{with}$ $\\textbf{China}$ $\\textbf{continued}$ $\\textbf{to}$ $\\textbf{widen}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{making}$ $\\textbf{it}$ $\\textbf{a}$ $\\textbf{major}$ $\\textbf{political}$ $\\textbf{and}$ $\\textbf{economic}$ $\\textbf{issue}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{Bush}$ $\\textbf{administration}$.",
+        "image": "",
+        "options": [
+            "The European Union",
+            "China",
+            "Mexico",
+            "Canada"
+        ],
+        "answer": "China",
+        "explanation": "The deficit with China hit record highs, fueled by high consumer demand for manufactured goods."
+    },
+    {
+        "id": "E6034",
+        "text": "The $\\textbf{Wealth}$ $\\textbf{Effect}$ $\\textbf{refers}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{increase}$ $\\textbf{in}$ $\\textbf{consumer}$ $\\textbf{spending}$ $\\textbf{that}$ $\\textbf{results}$ $\\textbf{from}$ $\\textbf{an}$ $\\textbf{increase}$ $\\textbf{in}$ $\\textbf{perceived}$ $\\textbf{wealth}$ $\\textbf{($\\textit{e.g.}$,}$ $\\textbf{rising}$ $\\textbf{stock}$ $\\textbf{or}$ $\\textbf{home}$ $\\textbf{prices)}$, $\\textbf{which}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{reverse}$ $\\textbf{in}$ $\\textbf{2006}$.",
+        "image": "",
+        "options": [
+            "The Multiplier Effect",
+            "The Substitution Effect",
+            "The Wealth Effect",
+            "The Income Effect"
+        ],
+        "answer": "The Wealth Effect",
+        "explanation": "The housing wealth effect, which had driven consumption, began to dissipate as home values stalled."
+    },
+    {
+        "id": "E6035",
+        "text": "$\\textbf{Fannie}$ $\\textbf{Mae}$ $\\textbf{and}$ $\\textbf{Freddie}$ $\\textbf{Mac}$ $\\textbf{are}$ $\\textbf{Government}$-$\\textbf{Sponsored}$ $\\textbf{Enterprises}$ $\\textbf{(GSEs)}$ $\\textbf{that}$ $\\textbf{purchase}$ $\\textbf{and}$ $\\textbf{securitize}$ $\\textbf{mortgages}$, $\\textbf{but}$ $\\textbf{mostly}$ $\\textbf{avoided}$ $\\textbf{the}$ $\\textbf{riskiest}$ $\\textbf{subprime}$ $\\textbf{loans}$ $\\textbf{in}$ $\\textbf{2006}$.",
+        "image": "",
+        "options": [
+            "Investment banks",
+            "Commercial banks",
+            "Government-Sponsored Enterprises (GSEs)",
+            "Hedge funds"
+        ],
+        "answer": "Government-Sponsored Enterprises (GSEs)",
+        "explanation": "While they held some bad loans, the GSEs were initially shielded from the worst of the subprime crisis, which was concentrated among private lenders."
+    },
+    {
+        "id": "E6036",
+        "text": "The $\\textbf{Congressional}$ $\\textbf{Midterm}$ $\\textbf{Elections}$ $\\textbf{in}$ $\\textbf{November}$ $\\textbf{2006}$ $\\textbf{resulted}$ $\\textbf{in}$ $\\textbf{a}$ $\\textbf{shift}$ $\\textbf{of}$ $\\textbf{power}$ $\\textbf{in}$ $\\textbf{both}$ $\\textbf{the}$ $\\textbf{House}$ $\\textbf{and}$ $\\textbf{Senate}$, $\\textbf{often}$ $\\textbf{cited}$ $\\textbf{as}$ $\\textbf{a}$ $\\textbf{response}$ $\\textbf{to}$ $\\textbf{public}$ $\\textbf{dissatisfaction}$ $\\textbf{with}$ $\\textbf{the}$ $\\textbf{Iraq}$ $\\textbf{War}$ $\\textbf{and}$ $\\textbf{economic}$ $\\textbf{uncertainty}$.",
+        "image": "",
+        "options": [
+            "Presidential election",
+            "Congressional Midterm Elections",
+            "State gubernatorial elections",
+            "European Parliament elections"
+        ],
+        "answer": "Congressional Midterm Elections",
+        "explanation": "These elections saw the Democratic Party take control of both chambers of Congress."
+    },
+    {
+        "id": "E6037",
+        "text": "The $\\textbf{Monetary}$ $\\textbf{Policy}$ $\\textbf{tool}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{was}$ $\\textbf{using}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{to}$ $\\textbf{control}$ $\\textbf{the}$ $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{was}$ $\\textbf{Open}$ $\\textbf{Market}$ $\\textbf{Operations}$ $\\textbf{(OMOs)}$ $\\textbf{involving}$ $\\textbf{the}$ $\\textbf{sale}$ $\\textbf{or}$ $\\textbf{purchase}$ $\\textbf{of}$ $\\textbf{Treasuries}$.",
+        "image": "",
+        "options": [
+            "Setting the discount rate",
+            "Changing the reserve requirement",
+            "Quantitative Easing (QE)",
+            "Open Market Operations (OMOs)"
+        ],
+        "answer": "Open Market Operations (OMOs)",
+        "explanation": "OMOs remain the primary tool for conventional interest rate policy."
+    },
+    {
+        "id": "E6038",
+        "text": "The $\\textbf{annualized}$ $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{productivity}$ $\\textbf{growth}$ $\\textbf{(Output}$ $\\textbf{per}$ $\\textbf{hour)}$ $\\textbf{slowed}$ $\\textbf{in}$ $\\textbf{2006}$, $\\textbf{suggesting}$ $\\textbf{the}$ $\\textbf{gains}$ $\\textbf{from}$ $\\textbf{the}$ $\\textbf{late}$-$\\textbf{90s}$ $\\textbf{technology}$ $\\textbf{boom}$ $\\textbf{were}$ $\\textbf{tapering}$.",
+        "image": "",
+        "options": [
+            "Accelerated sharply",
+            "Was negative",
+            "Slowed",
+            "Reached an all-time record"
+        ],
+        "answer": "Slowed",
+        "explanation": "Lower productivity growth puts upward pressure on unit labor costs, making it harder for companies to absorb costs without raising prices."
+    },
+    {
+        "id": "E6039",
+        "text": "The $\\textbf{Dollar}$ $\\textbf{Exchange}$ $\\textbf{Rate}$ **weakened significantly** $\\textbf{against}$ $\\textbf{the}$ $\\textbf{Euro}$ $\\textbf{in}$ $\\textbf{2006}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{pause}$ $\\textbf{on}$ $\\textbf{rate}$ $\\textbf{hikes}$ $\\textbf{and}$ $\\textbf{growing}$ $\\textbf{concerns}$ $\\textbf{about}$ $\\textbf{the}$ $\\textbf{U.S.}$ $\\textbf{housing}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "Strengthened significantly",
+            "Weakened significantly",
+            "Remained stable",
+            "Was pegged to gold"
+        ],
+        "answer": "Weakened significantly",
+        "explanation": "The pause in rate hikes reduced the interest rate differential supporting the dollar, and economic uncertainty drove capital out."
+    },
+    {
+        "id": "E6040",
+        "text": "The $\\textbf{economic}$ $\\textbf{model}$ $\\textbf{used}$ $\\textbf{by}$ $\\textbf{many}$ $\\textbf{economists}$ $\\textbf{to}$ $\\textbf{predict}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{target}$ $\\textbf{rate}$ $\\textbf{based}$ $\\textbf{on}$ $\\textbf{inflation}$ $\\textbf{and}$ $\\textbf{the}$ $\\textbf{output}$ $\\textbf{gap}$ $\\textbf{is}$ $\\textbf{the}$ $\\textbf{Taylor}$ $\\textbf{Rule}$.",
+        "image": "",
+        "options": [
+            "The Phillips Curve",
+            "The Laffer Curve",
+            "The Taylor Rule",
+            "The Mundell-Fleming Model"
+        ],
+        "answer": "The Taylor Rule",
+        "explanation": "The Taylor Rule provides a framework for setting the Federal Funds Rate based on economic conditions."
+    }
+]

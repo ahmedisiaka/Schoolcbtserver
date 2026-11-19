@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Code of Hammurabi}$ is one of the earliest and most complete written legal codes, originating in:",
+        "image": "",
+        "options": [
+            "Ancient Egypt",
+            "Ancient Greece",
+            "Babylon (Mesopotamia)",
+            "The Indus Valley"
+        ],
+        "answer": "Babylon (Mesopotamia)",
+        "explanation": "King Hammurabi established this code around 1754 BC, famous for its principle of 'an eye for an eye'."
+    },
+    {
+        "id": "H02",
+        "text": "Which Greek city-state is credited with introducing the concept of $\\textbf{Democracy}$?",
+        "image": "",
+        "options": [
+            "Sparta",
+            "Athens",
+            "Corinth",
+            "Thebes"
+        ],
+        "answer": "Athens",
+        "explanation": "In the 5th century BC, Athens developed a system where citizens could directly vote on legislation and executive bills."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Ides of March}$ (March 15, 44 BC) is famous for the assassination of:",
+        "image": "",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Julius Caesar",
+            "Cicero"
+        ],
+        "answer": "Julius Caesar",
+        "explanation": "Caesar was stabbed to death by a group of Roman senators who feared his growing power would end the Republic."
+    },
+    {
+        "id": "H04",
+        "text": "Emperor Constantine the Great is best known for:",
+        "image": "",
+        "options": [
+            "Building the Colosseum",
+            "Legalizing Christianity in the Roman Empire",
+            "Burning Rome",
+            "Conquering Britain"
+        ],
+        "answer": "Legalizing Christianity in the Roman Empire",
+        "explanation": "The Edict of Milan (313 AD) granted religious freedom, and he later moved the capital to Constantinople."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Magna Carta}$, signed in 1215, limited the powers of which English King?",
+        "image": "",
+        "options": [
+            "King Richard I",
+            "King John",
+            "King Henry VIII",
+            "King Edward I"
+        ],
+        "answer": "King John",
+        "explanation": "It established the principle that everyone, including the king, was subject to the law."
+    },
+    {
+        "id": "H06",
+        "text": "Who is credited with inventing the movable-type $\\textbf{Printing Press}$ in Europe around 1440?",
+        "image": "",
+        "options": [
+            "Leonardo da Vinci",
+            "Johannes Gutenberg",
+            "Martin Luther",
+            "Galileo Galilei"
+        ],
+        "answer": "Johannes Gutenberg",
+        "explanation": "His invention revolutionized the spread of information, fueling the Renaissance and the Reformation."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Columbian Exchange}$ refers to the widespread transfer of:",
+        "image": "",
+        "options": [
+            "Gold and Silver only",
+            "Plants, animals, culture, and diseases between the Americas and the Old World",
+            "Slaves from Africa to America",
+            "Spices from India to Europe"
+        ],
+        "answer": "Plants, animals, culture, and diseases between the Americas and the Old World",
+        "explanation": "Following Columbus's voyages, this exchange dramatically altered agriculture, diets, and populations globally."
+    },
+    {
+        "id": "H08",
+        "text": "Which Spanish Conquistador defeated the $\\textbf{Aztec Empire}$?",
+        "image": "",
+        "options": [
+            "Francisco Pizarro",
+            "Hernán Cortés",
+            "Christopher Columbus",
+            "Ponce de León"
+        ],
+        "answer": "Hernán Cortés",
+        "explanation": "Cortés and his men, aided by indigenous allies and disease, conquered the Aztec capital Tenochtitlán in 1521."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Spanish Armada}$ was a fleet sent to invade England in 1588 during the reign of:",
+        "image": "",
+        "options": [
+            "Henry VIII",
+            "Mary I",
+            "Elizabeth I",
+            "James I"
+        ],
+        "answer": "Elizabeth I",
+        "explanation": "The defeat of the Armada was a major victory for England and boosted Elizabeth's popularity."
+    },
+    {
+        "id": "H10",
+        "text": "Who formulated the $\\textbf{Laws of Motion}$ and the Law of Universal Gravitation?",
+        "image": "",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Nikola Tesla",
+            "Charles Darwin"
+        ],
+        "answer": "Isaac Newton",
+        "explanation": "Published in 1687, his work 'Principia Mathematica' laid the groundwork for classical mechanics."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Storming of the Bastille}$ on July 14, 1789, is considered the start of:",
+        "image": "",
+        "options": [
+            "The American Revolution",
+            "The Russian Revolution",
+            "The French Revolution",
+            "The Haitian Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "Revolutionaries stormed the medieval fortress-prison in Paris, a symbol of royal tyranny."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the Venezuelan military leader known as $\\textbf{'El Libertador'}$ for helping Latin American countries gain independence?",
+        "image": "",
+        "options": [
+            "Che Guevara",
+            "Simon Bolivar",
+            "Fidel Castro",
+            "Eva Peron"
+        ],
+        "answer": "Simon Bolivar",
+        "explanation": "Bolivar played a key role in the independence of Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spanish rule."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Industrial Revolution}$ began in Great Britain with major developments in which industry?",
+        "image": "",
+        "options": [
+            "Steel",
+            "Textiles",
+            "Oil",
+            "Automobiles"
+        ],
+        "answer": "Textiles",
+        "explanation": "Mechanized spinning and weaving of cotton were among the first innovations of the era."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Battle of Waterloo}$ (1815) marked the final defeat of:",
+        "image": "",
+        "options": [
+            "King George III",
+            "Tsar Alexander I",
+            "Napoleon Bonaparte",
+            "Otto von Bismarck"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Defeated by the Duke of Wellington and Gebhard Leberecht von Blücher, Napoleon was exiled to Saint Helena."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Opium Wars}$ were fought in the mid-19th century between:",
+        "image": "",
+        "options": [
+            "China and Japan",
+            "China and Great Britain",
+            "India and Britain",
+            "The US and Spain"
+        ],
+        "answer": "China and Great Britain",
+        "explanation": "The wars arose from China's attempts to suppress the opium trade and resulted in unequal treaties."
+    },
+    {
+        "id": "H16",
+        "text": "Which Japanese era is known for the rapid modernization and industrialization of the country starting in 1868?",
+        "image": "",
+        "options": [
+            "Edo Period",
+            "Meiji Restoration",
+            "Heian Period",
+            "Showa Period"
+        ],
+        "answer": "Meiji Restoration",
+        "explanation": "It returned imperial rule to Japan and transformed it from a feudal society into a modern great power."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Scramble for Africa}$ was formalized at which conference in 1884–1885?",
+        "image": "",
+        "options": [
+            "The Treaty of Versailles",
+            "The Yalta Conference",
+            "The Berlin Conference",
+            "The Congress of Vienna"
+        ],
+        "answer": "The Berlin Conference",
+        "explanation": "European powers regulated European colonization and trade in Africa, dividing the continent."
+    },
+    {
+        "id": "H18",
+        "text": "Which ship famously sank on its maiden voyage in 1912 after hitting an iceberg?",
+        "image": "",
+        "options": [
+            "RMS Lusitania",
+            "RMS Titanic",
+            "HMS Victory",
+            "USS Maine"
+        ],
+        "answer": "RMS Titanic",
+        "explanation": "The disaster resulted in the deaths of more than 1,500 people."
+    },
+    {
+        "id": "H19",
+        "text": "The assassination of $\\textbf{Archduke Franz Ferdinand}$ triggered which major conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "His assassination in Sarajevo in 1914 set off a chain of alliances that led to global war."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Bolshevik Revolution}$ in 1917 was led by:",
+        "image": "",
+        "options": [
+            "Joseph Stalin",
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Mikhail Gorbachev"
+        ],
+        "answer": "Vladimir Lenin",
+        "explanation": "It overthrew the provisional government and established the world's first communist state."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{League of Nations}$ was established after World War I to:",
+        "image": "",
+        "options": [
+            "Punish Germany",
+            "Promote international cooperation and peace",
+            "Create a global currency",
+            "Manage colonial territories"
+        ],
+        "answer": "Promote international cooperation and peace",
+        "explanation": "Proposed by Woodrow Wilson, it was the first international organization whose principal mission was to maintain world peace."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Stock Market Crash of 1929}$ signaled the beginning of:",
+        "image": "",
+        "options": [
+            "The Roaring Twenties",
+            "The Great Depression",
+            "The Cold War",
+            "The Industrial Revolution"
+        ],
+        "answer": "The Great Depression",
+        "explanation": "It was the most severe economic downturn in the history of the industrialized world."
+    },
+    {
+        "id": "H23",
+        "text": "Which scientist is the only person to win Nobel Prizes in two different scientific fields (Physics and Chemistry)?",
+        "image": "",
+        "options": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Louis Pasteur",
+            "Alexander Fleming"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "She won for her work on radiation (Physics) and for discovering radium and polonium (Chemistry)."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Manhattan Project}$ was the US government's secret program to develop:",
+        "image": "",
+        "options": [
+            "The Internet",
+            "The Atomic Bomb",
+            "Space Travel",
+            "Stealth Aircraft"
+        ],
+        "answer": "The Atomic Bomb",
+        "explanation": "Led by J. Robert Oppenheimer, it resulted in the bombs dropped on Hiroshima and Nagasaki."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Marshall Plan}$ was a US initiative to help rebuild which region after World War II?",
+        "image": "",
+        "options": [
+            "Southeast Asia",
+            "Western Europe",
+            "Eastern Europe",
+            "Latin America"
+        ],
+        "answer": "Western Europe",
+        "explanation": "The US provided over $12 billion in economic assistance to help rebuild European economies."
+    },
+    {
+        "id": "H26",
+        "text": "Who led the $\\textbf{Communist Party of China}$ to victory in the Chinese Civil War in 1949?",
+        "image": "",
+        "options": [
+            "Sun Yat-sen",
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao proclaimed the founding of the People's Republic of China on October 1, 1949."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Cuban Missile Crisis}$ of 1962 involved a confrontation between the US and:",
+        "image": "",
+        "options": [
+            "China",
+            "The Soviet Union",
+            "North Korea",
+            "Vietnam"
+        ],
+        "answer": "The Soviet Union",
+        "explanation": "The discovery of Soviet nuclear missiles in Cuba brought the world to the brink of nuclear war."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Apollo 11}$ mission in 1969 resulted in the first humans walking on:",
+        "image": "",
+        "options": [
+            "Mars",
+            "The Moon",
+            "An Asteroid",
+            "Venus"
+        ],
+        "answer": "The Moon",
+        "explanation": "Neil Armstrong and Buzz Aldrin became the first humans to land on the lunar surface."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Fall of the Berlin Wall}$ in 1989 symbolized the end of:",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Cold War",
+            "Apartheid",
+            "The Vietnam War"
+        ],
+        "answer": "The Cold War",
+        "explanation": "The wall had divided East and West Berlin since 1961, serving as a potent symbol of the Iron Curtain."
+    },
+    {
+        "id": "H30",
+        "text": "Which terrorist organization was responsible for the $\\textbf{September 11 Attacks}$ in 2001?",
+        "image": "",
+        "options": [
+            "ISIS",
+            "Taliban",
+            "Al-Qaeda",
+            "Hezbollah"
+        ],
+        "answer": "Al-Qaeda",
+        "explanation": "The attacks on the World Trade Center and the Pentagon led to the US War on Terror."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Wright Brothers}$ are credited with inventing and building the first successful:",
+        "image": "",
+        "options": [
+            "Automobile",
+            "Telephone",
+            "Airplane",
+            "Radio"
+        ],
+        "answer": "Airplane",
+        "explanation": "They made the first controlled, sustained flight of a powered, heavier-than-air aircraft in 1903."
+    },
+    {
+        "id": "H32",
+        "text": "Who developed the first successful $\\textbf{Polio Vaccine}$ in the 1950s?",
+        "image": "",
+        "options": [
+            "Louis Pasteur",
+            "Jonas Salk",
+            "Edward Jenner",
+            "Alexander Fleming"
+        ],
+        "answer": "Jonas Salk",
+        "explanation": "Salk's vaccine was instrumental in eradicating polio in most of the world."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Arab Spring}$, a series of anti-government protests, began in 2010 in which country?",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Tunisia",
+            "Syria",
+            "Libya"
+        ],
+        "answer": "Tunisia",
+        "explanation": "The protests started in Tunisia and spread across the Arab world, toppling several governments."
+    },
+    {
+        "id": "H34",
+        "text": "Who was the first female $\\textbf{Prime Minister of the United Kingdom}$?",
+        "image": "",
+        "options": [
+            "Theresa May",
+            "Margaret Thatcher",
+            "Angela Merkel",
+            "Indira Gandhi"
+        ],
+        "answer": "Margaret Thatcher",
+        "explanation": "Known as the 'Iron Lady', Thatcher served from 1979 to 1990."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) placed full blame for World War I on:",
+        "image": "",
+        "options": [
+            "Austria-Hungary",
+            "The Ottoman Empire",
+            "Germany",
+            "Russia"
+        ],
+        "answer": "Germany",
+        "explanation": "The 'War Guilt Clause' forced Germany to disarm, make territorial concessions, and pay reparations."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Battle of Midway}$ (1942) was a turning point in the Pacific Theater of:",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Korean War",
+            "The Vietnam War"
+        ],
+        "answer": "World War II",
+        "explanation": "The US Navy defeated an attacking fleet of the Imperial Japanese Navy, inflicting irreparable damage."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Thirty Years' War}$ (1618–1648) was primarily fought in:",
+        "image": "",
+        "options": [
+            "England",
+            "France",
+            "Central Europe (Germany)",
+            "Spain"
+        ],
+        "answer": "Central Europe (Germany)",
+        "explanation": "It was one of the longest and most destructive conflicts in European history, initially a religious war."
+    },
+    {
+        "id": "H38",
+        "text": "Who wrote the $\\textbf{Declaration of Independence}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "answer": "Thomas Jefferson",
+        "explanation": "Jefferson was the principal author of the document adopted by the Second Continental Congress in 1776."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Monroe Doctrine}$ (1823) warned European nations against:",
+        "image": "",
+        "options": [
+            "Trading with Asia",
+            "Interfering in the Western Hemisphere (Americas)",
+            "Colonizing Africa",
+            "Building navies"
+        ],
+        "answer": "Interfering in the Western Hemisphere (Americas)",
+        "explanation": "It stated that the US would view any European intervention in the Americas as a hostile act."
+    },
+    {
+        "id": "H40",
+        "text": "Which civilization built the ancient city of $\\textbf{Machu Picchu}$?",
+        "image": "",
+        "options": [
+            "The Aztec",
+            "The Maya",
+            "The Inca",
+            "The Olmec"
+        ],
+        "answer": "The Inca",
+        "explanation": "Built in the 15th century high in the Andes Mountains, it is the most famous icon of Inca civilization."
+    }
+]

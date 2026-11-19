@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In March 2021, the container ship $\\textbf{Ever Given}$ ran aground in the $\\textbf{Suez Canal}$, blocking one of the world's most vital maritime $\\textbf{Trade Routes}$ for six days.",
+        "image": "",
+        "options": [
+            "Panama Canal",
+            "Suez Canal",
+            "Strait of Hormuz",
+            "English Channel"
+        ],
+        "answer": "Suez Canal",
+        "explanation": "The blockage disrupted global supply chains, costing billions of dollars in delayed trade and highlighting the fragility of this chokepoint."
+    },
+    {
+        "id": "GEO02",
+        "text": "In June 2021, the $\\textbf{National Geographic Society}$ officially recognized the $\\textbf{Southern Ocean}$ as the world's $\\textbf{Fifth Ocean}$, encircling Antarctica.",
+        "image": "",
+        "options": [
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Southern Ocean",
+            "Antarctic Sea"
+        ],
+        "answer": "Southern Ocean",
+        "explanation": "While scientists had long recognized it, this official declaration standardized maps to show the unique body of water defined by the Antarctic Circumpolar Current."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Cumbre Vieja}$ volcano erupted in late 2021 on the island of $\\textbf{La Palma}$, part of the $\\textbf{Canary Islands}$ archipelago belonging to $\\textbf{Spain}$.",
+        "image": "",
+        "options": [
+            "Azores",
+            "Canary Islands",
+            "Madeira",
+            "Cape Verde"
+        ],
+        "answer": "Canary Islands",
+        "explanation": "The eruption lasted for 85 days, destroying thousands of buildings and altering the island's geography with new lava flows."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Pacific Northwest}$ Heat Dome of 2021 caused record-breaking temperatures, contributing to a devastating wildfire that destroyed the village of $\\textbf{Lytton}$ in $\\textbf{British Columbia}$.",
+        "image": "",
+        "options": [
+            "Alberta",
+            "British Columbia",
+            "Washington",
+            "Oregon"
+        ],
+        "answer": "British Columbia",
+        "explanation": "Lytton set a Canadian national heat record of 49.6°C (121.3°F) just days before the fire occurred."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{COP26}$ climate summit was held in $\\textbf{Glasgow}$, the largest city in $\\textbf{Scotland}$, to negotiate global efforts to limit warming to 1.5 degrees Celsius.",
+        "image": "",
+        "options": [
+            "Edinburgh",
+            "London",
+            "Glasgow",
+            "Belfast"
+        ],
+        "answer": "Glasgow",
+        "explanation": "Glasgow is situated on the River Clyde and has a history as a major industrial and port city."
+    },
+    {
+        "id": "GEO06",
+        "text": "For the first time on record, in August 2021, $\\textbf{Rain}$ fell at the summit of the $\\textbf{Greenland Ice Sheet}$, a location that normally only experiences $\\textbf{Snow}$.",
+        "image": "",
+        "options": [
+            "Hail",
+            "Rain",
+            "Sleet",
+            "Ash"
+        ],
+        "answer": "Rain",
+        "explanation": "This alarmed climate scientists as it indicated significant warming in the Arctic region, accelerating ice melt."
+    },
+    {
+        "id": "GEO07",
+        "text": "In 2021, the Caribbean nation of $\\textbf{Barbados}$ officially became a $\\textbf{Republic}$, removing Queen Elizabeth II as head of state and electing its first $\\textbf{President}$.",
+        "image": "",
+        "options": [
+            "Jamaica",
+            "Bahamas",
+            "Barbados",
+            "Saint Lucia"
+        ],
+        "answer": "Barbados",
+        "explanation": "This transition marked a significant shift in the political geography of the Caribbean Commonwealth nations."
+    },
+    {
+        "id": "GEO08",
+        "text": "Hurricane $\\textbf{Ida}$ made landfall in $\\textbf{Louisiana}$ as a Category 4 storm in 2021, exactly 16 years after Hurricane $\\textbf{Katrina}$ devastated the same region.",
+        "image": "",
+        "options": [
+            "Texas",
+            "Florida",
+            "Louisiana",
+            "Alabama"
+        ],
+        "answer": "Louisiana",
+        "explanation": "Ida caused catastrophic damage to the power grid and significant flooding, later causing remnants to flood New York City."
+    },
+    {
+        "id": "GEO09",
+        "text": "The $\\textbf{La Soufrière}$ volcano erupted explosively in April 2021, blanketing the Caribbean island of $\\textbf{Saint Vincent}$ in heavy ash.",
+        "image": "",
+        "options": [
+            "Martinique",
+            "Saint Vincent",
+            "Montserrat",
+            "Grenada"
+        ],
+        "answer": "Saint Vincent",
+        "explanation": "The eruption forced the evacuation of the northern part of the island (Saint Vincent and the Grenadines)."
+    },
+    {
+        "id": "GEO10",
+        "text": "Severe winter storms in February 2021 caused a massive failure of the power grid in $\\textbf{Texas}$, exposing the vulnerability of its independent $\\textbf{Energy Infrastructure}$.",
+        "image": "",
+        "options": [
+            "California",
+            "Texas",
+            "New York",
+            "Florida"
+        ],
+        "answer": "Texas",
+        "explanation": "The 'Texas Freeze' brought record low temperatures to a region ill-equipped for such extreme cold."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Danube River}$ flows through $\\textbf{Budapest}$, the capital of $\\textbf{Hungary}$, separating the historic districts of Buda and Pest.",
+        "image": "",
+        "options": [
+            "Vienna",
+            "Belgrade",
+            "Budapest",
+            "Bratislava"
+        ],
+        "answer": "Budapest",
+        "explanation": "The river is a central feature of the city's geography and history."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Great Green Wall}$ is an African initiative intended to combat $\\textbf{Desertification}$ in the $\\textbf{Sahel}$ region by planting a wall of trees across the continent.",
+        "image": "",
+        "options": [
+            "Deforestation",
+            "Desertification",
+            "Flooding",
+            "Urbanization"
+        ],
+        "answer": "Desertification",
+        "explanation": "The project aims to restore degraded landscapes and prevent the southward expansion of the Sahara Desert."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Colorado River}$ flows through the $\\textbf{Grand Canyon}$ in Arizona, carving the massive geological structure over millions of years.",
+        "image": "",
+        "options": [
+            "Rio Grande",
+            "Mississippi River",
+            "Colorado River",
+            "Columbia River"
+        ],
+        "answer": "Colorado River",
+        "explanation": "The river is a crucial water source for the US Southwest, though it faces severe drought challenges."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Strait of Malacca}$ connects the $\\textbf{Andaman Sea}$ (Indian Ocean) to the $\\textbf{South China Sea}$ (Pacific Ocean).",
+        "image": "",
+        "options": [
+            "Java Sea",
+            "South China Sea",
+            "Philippine Sea",
+            "Yellow Sea"
+        ],
+        "answer": "South China Sea",
+        "explanation": "It is one of the busiest shipping lanes in the world."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Nullarbor Plain}$ is a vast, arid, almost treeless area of limestone bedrock in southern $\\textbf{Australia}$.",
+        "image": "",
+        "options": [
+            "South Africa",
+            "Argentina",
+            "Australia",
+            "United States"
+        ],
+        "answer": "Australia",
+        "explanation": "The name comes from the Latin 'nullus' (no) and 'arbor' (tree)."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Pamir Mountains}$, known as the 'Roof of the World', are located primarily in $\\textbf{Tajikistan}$, at the junction of the Himalayas and other ranges.",
+        "image": "",
+        "options": [
+            "Afghanistan",
+            "Tajikistan",
+            "Kyrgyzstan",
+            "Pakistan"
+        ],
+        "answer": "Tajikistan",
+        "explanation": "They are among the world's highest mountains."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Okavango Delta}$ in $\\textbf{Botswana}$ is a unique inland delta where the river terminates in the $\\textbf{Kalahari Desert}$ rather than flowing into the sea.",
+        "image": "",
+        "options": [
+            "Namibia",
+            "Zimbabwe",
+            "Botswana",
+            "Angola"
+        ],
+        "answer": "Botswana",
+        "explanation": "This seasonal flooding creates a lush habitat for wildlife in the middle of a desert."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Bosphorus Strait}$ in $\\textbf{Istanbul}$ connects the $\\textbf{Black Sea}$ to the $\\textbf{Sea of Marmara}$.",
+        "image": "",
+        "options": [
+            "Aegean Sea",
+            "Sea of Marmara",
+            "Mediterranean Sea",
+            "Caspian Sea"
+        ],
+        "answer": "Sea of Marmara",
+        "explanation": "It marks part of the continental boundary between Europe and Asia."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Patagonian Desert}$ is the largest desert in the Americas, located primarily in $\\textbf{Argentina}$ and bounded by the $\\textbf{Andes}$ to the west.",
+        "image": "",
+        "options": [
+            "Chile",
+            "Brazil",
+            "Argentina",
+            "Peru"
+        ],
+        "answer": "Argentina",
+        "explanation": "It is a cold desert formed by the rain shadow of the Andes Mountains."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Sargasso Sea}$ is the only sea in the world without a $\\textbf{Land Boundary}$, defined instead by $\\textbf{Ocean Currents}$ in the North Atlantic.",
+        "image": "",
+        "options": [
+            "Coral Sea",
+            "Sargasso Sea",
+            "Bering Sea",
+            "Arabian Sea"
+        ],
+        "answer": "Sargasso Sea",
+        "explanation": "It is bounded by four currents: the Gulf Stream, North Atlantic Current, Canary Current, and North Equatorial Current."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Tigris River}$ flows south from the mountains of southeastern Turkey through $\\textbf{Iraq}$ and empties into the $\\textbf{Persian Gulf}$.",
+        "image": "",
+        "options": [
+            "Syria",
+            "Iraq",
+            "Iran",
+            "Jordan"
+        ],
+        "answer": "Iraq",
+        "explanation": "Along with the Euphrates, it defines the historical region of Mesopotamia."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Apennine Mountains}$ form the physical backbone of peninsular $\\textbf{Italy}$, running from the north to the south.",
+        "image": "",
+        "options": [
+            "Spain",
+            "Greece",
+            "Italy",
+            "Turkey"
+        ],
+        "answer": "Italy",
+        "explanation": "They stretch about 1,200 km along the length of the Italian peninsula."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Lake Victoria}$ is the largest lake in $\\textbf{Africa}$ by area and the second-largest freshwater lake in the world.",
+        "image": "",
+        "options": [
+            "Lake Tanganyika",
+            "Lake Malawi",
+            "Lake Victoria",
+            "Lake Chad"
+        ],
+        "answer": "Lake Victoria",
+        "explanation": "It is shared by three countries: Kenya, Uganda, and Tanzania."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Strait of Gibraltar}$ is the entry point to the $\\textbf{Mediterranean Sea}$ from the Atlantic Ocean, bordered by $\\textbf{Spain}$ and $\\textbf{Morocco}$.",
+        "image": "",
+        "options": [
+            "Portugal",
+            "Spain",
+            "France",
+            "Italy"
+        ],
+        "answer": "Spain",
+        "explanation": "The Rock of Gibraltar (UK territory) overlooks this strategic strait."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Karakoram Range}$, which spans the borders of Pakistan, India, and China, contains $\\textbf{K2}$, the second-highest peak in the world.",
+        "image": "",
+        "options": [
+            "Himalayas",
+            "Karakoram",
+            "Hindu Kush",
+            "Pamirs"
+        ],
+        "answer": "Karakoram",
+        "explanation": "This range is known for its high concentration of peaks over 8,000 meters."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Arctic Circle}$ is the parallel of latitude that runs approximately 66.5° North of the $\\textbf{Equator}$.",
+        "image": "",
+        "options": [
+            "Tropic of Cancer",
+            "Equator",
+            "Arctic Circle",
+            "Antarctic Circle"
+        ],
+        "answer": "Arctic Circle",
+        "explanation": "It marks the southern limit of the area where the sun does not set on the summer solstice."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Sierra Nevada}$ is a mountain range in the Western United States, primarily located in the state of $\\textbf{California}$.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "California",
+            "Colorado",
+            "Utah"
+        ],
+        "answer": "California",
+        "explanation": "It is home to Yosemite National Park and Lake Tahoe."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Orinoco River}$ is a major river system in South America, flowing mostly through $\\textbf{Venezuela}$ and part of Colombia.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Venezuela",
+            "Peru"
+        ],
+        "answer": "Venezuela",
+        "explanation": "It is one of the longest rivers in South America."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Great Basin Desert}$ covers much of the state of $\\textbf{Nevada}$ and is known for its cold winters and basin-and-range topography.",
+        "image": "",
+        "options": [
+            "Arizona",
+            "Nevada",
+            "New Mexico",
+            "Texas"
+        ],
+        "answer": "Nevada",
+        "explanation": "It is the largest desert in the United States."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Severn River}$ is the longest river in the $\\textbf{United Kingdom}$, rising in Wales and flowing into the Bristol Channel.",
+        "image": "",
+        "options": [
+            "Thames",
+            "Severn",
+            "Trent",
+            "Clyde"
+        ],
+        "answer": "Severn",
+        "explanation": "It is slightly longer than the River Thames."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Isle of Man}$ is a self-governing British Crown Dependency located in the $\\textbf{Irish Sea}$ between Great Britain and Ireland.",
+        "image": "",
+        "options": [
+            "North Sea",
+            "Irish Sea",
+            "English Channel",
+            "Celtic Sea"
+        ],
+        "answer": "Irish Sea",
+        "explanation": "It is not part of the United Kingdom but is a possession of the Crown."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Mekong River}$ forms a major part of the border between $\\textbf{Laos}$ and $\\textbf{Thailand}$ before flowing into Cambodia and Vietnam.",
+        "image": "",
+        "options": [
+            "Myanmar",
+            "Thailand",
+            "China",
+            "Malaysia"
+        ],
+        "answer": "Thailand",
+        "explanation": "It is the lifeblood of Southeast Asia, supporting millions with fishing and agriculture."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Atlas Mountains}$ stretch across northwestern Africa, extending through Morocco, $\\textbf{Algeria}$, and Tunisia.",
+        "image": "",
+        "options": [
+            "Libya",
+            "Egypt",
+            "Algeria",
+            "Mali"
+        ],
+        "answer": "Algeria",
+        "explanation": "They separate the Mediterranean and Atlantic coastlines from the Sahara Desert."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Bay of Bengal}$ is the largest bay in the world, located in the northeastern part of the $\\textbf{Indian Ocean}$.",
+        "image": "",
+        "options": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Indian Ocean",
+        "explanation": "It is bordered by India, Bangladesh, Myanmar, and Sri Lanka."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Drakensberg}$ is the highest mountain range in $\\textbf{Southern Africa}$, rising to 3,482 meters in Lesotho and South Africa.",
+        "image": "",
+        "options": [
+            "East Africa",
+            "West Africa",
+            "Southern Africa",
+            "North Africa"
+        ],
+        "answer": "Southern Africa",
+        "explanation": "The name means 'Dragon Mountains' in Afrikaans."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Aral Sea}$, once one of the world's largest lakes, has shrunk dramatically due to Soviet irrigation projects diverting rivers in $\\textbf{Central Asia}$.",
+        "image": "",
+        "options": [
+            "South Asia",
+            "Central Asia",
+            "East Asia",
+            "Southeast Asia"
+        ],
+        "answer": "Central Asia",
+        "explanation": "It lies between Kazakhstan and Uzbekistan and is considered one of the worst environmental disasters."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Tasman Island}$ is located off the southeastern coast of $\\textbf{Tasmania}$, which itself is an island state of Australia.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "Tasmania",
+            "Victoria",
+            "New South Wales"
+        ],
+        "answer": "Tasmania",
+        "explanation": "It is known for its rugged sea cliffs."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Rub' al Khali}$, or Empty Quarter, is the largest continuous sand desert in the world, covering much of the $\\textbf{Arabian Peninsula}$.",
+        "image": "",
+        "options": [
+            "Sinai Peninsula",
+            "Arabian Peninsula",
+            "Anatolian Peninsula",
+            "Iberian Peninsula"
+        ],
+        "answer": "Arabian Peninsula",
+        "explanation": "It occupies parts of Saudi Arabia, Oman, the UAE, and Yemen."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Mackenzie River}$ is the longest river system in $\\textbf{Canada}$, flowing north into the Arctic Ocean.",
+        "image": "",
+        "options": [
+            "United States",
+            "Canada",
+            "Russia",
+            "Norway"
+        ],
+        "answer": "Canada",
+        "explanation": "It drains a vast area of the Canadian North."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Mount Kilimanjaro}$ in $\\textbf{Tanzania}$ is the highest free-standing mountain in the world and the tallest in Africa.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Uganda",
+            "Ethiopia"
+        ],
+        "answer": "Tanzania",
+        "explanation": "It is a dormant volcano with three volcanic cones: Kibo, Mawenzi, and Shira."
+    }
+]

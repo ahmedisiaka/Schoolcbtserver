@@ -1,0 +1,522 @@
+[
+  {
+      "id": "P1301",
+      "text": "A stone is dropped from a height $h$. If air resistance is ignored, its acceleration is $\\textbf{Constant}$ and equal to $g$ (acceleration due to gravity).",
+      "image": "",
+      "options": [
+          "Increases",
+          "Decreases",
+          "Constant",
+          "Zero"
+      ],
+      "answer": "Constant",
+      "explanation": "In free fall, neglecting air resistance, the acceleration is always $g$ (approx. $9.8 \\text{ m/s}^2$ or $10 \\text{ m/s}^2$) downwards, which is constant."
+  },
+  {
+      "id": "P1302",
+      "text": "The $\\textbf{S.I. unit}$ of pressure is the $\\textbf{Pascal}$ (Pa).",
+      "image": "",
+      "options": [
+          "Newton",
+          "Joule",
+          "Pascal",
+          "Watt"
+      ],
+      "answer": "Pascal",
+      "explanation": "Pressure is force per unit area, $1 \\text{ Pa} = 1 \\text{ N/m}^2$."
+  },
+  {
+      "id": "P1303",
+      "text": "Calculate the work done by a machine if it applies a force of $400 \\text{ N}$ to lift a load by $0.5 \\text{ m}$.",
+      "image": "",
+      "options": [
+          "20 $\\text{J}$",
+          "200 $\\text{J}$",
+          "800 $\\text{J}$",
+          "400 $\\text{J}$"
+      ],
+      "answer": "200 $\\text{J}$",
+      "explanation": "Work Done $W = \\text{Force} \\times \\text{Distance} = 400 \\text{ N} \\times 0.5 \\text{ m} = 200 \\text{ J}$."
+  },
+  {
+      "id": "P1304",
+      "text": "According to $\\textbf{Newton's First Law}$ of motion, an object maintains its state of rest or uniform motion unless acted upon by an $\\textbf{External Force}$.",
+      "image": "",
+      "options": [
+          "Internal Force",
+          "Frictional Force",
+          "External Force",
+          "Normal Force"
+      ],
+      "answer": "External Force",
+      "explanation": "This law is often called the law of inertia."
+  },
+  {
+      "id": "P1305",
+      "text": "If a metal has a density of $8000 \\text{ kg/m}^3$, what is the mass of a $0.05 \\text{ m}^3$ sample?",
+      "image": "",
+      "options": [
+          "400 $\\text{kg}$",
+          "160 $\\text{kg}$",
+          "40 $\\text{kg}$",
+          "16 $\\text{kg}$"
+      ],
+      "answer": "400 $\\text{kg}$",
+      "explanation": "Mass $M = \\text{Density} \\times \\text{Volume} = 8000 \\text{ kg/m}^3 \\times 0.05 \\text{ m}^3 = 400 \\text{ kg}$."
+  },
+  {
+      "id": "P1306",
+      "text": "The $\\textbf{S.I. unit}$ of energy is the $\\textbf{Joule}$ (J).",
+      "image": "",
+      "options": [
+          "Newton",
+          "Joule",
+          "Watt",
+          "Volt"
+      ],
+      "answer": "Joule",
+      "explanation": "The Joule is defined as $1 \\text{ N}\\cdot\\text{m}$ (work done or energy transferred)."
+  },
+  {
+      "id": "P1307",
+      "text": "Which temperature scale has $0^\\circ$ representing the freezing point of pure water?",
+      "image": "",
+      "options": [
+          "Fahrenheit",
+          "Kelvin",
+          "Celsius",
+          "Rankine"
+      ],
+      "answer": "Celsius",
+      "explanation": "The Celsius scale sets the freezing point of water at $0^\\circ\\text{C}$ and the boiling point at $100^\\circ\\text{C}$."
+  },
+  {
+      "id": "P1308",
+      "text": "The amount of heat required to raise the temperature of a substance by $1 \\text{ K}$ is the $\\textbf{Heat Capacity}$ ($C$).",
+      "image": "",
+      "options": [
+          "Specific Heat Capacity",
+          "Latent Heat",
+          "Heat Energy",
+          "Heat Capacity"
+      ],
+      "answer": "Heat Capacity",
+      "explanation": "Heat Capacity $C$ is measured in $\\text{J/K}$ and is dependent on the mass of the object."
+  },
+  {
+      "id": "P1309",
+      "text": "A good conductor of heat and electricity among the following is $\\textbf{Copper}$.",
+      "image": "",
+      "options": [
+          "Glass",
+          "Rubber",
+          "Copper",
+          "Air"
+      ],
+      "answer": "Copper",
+      "explanation": "Metals like copper have free electrons that allow easy conduction of heat and electricity."
+  },
+  {
+      "id": "P1310",
+      "text": "The pressure law (Gay-Lussac's law) states that for a fixed mass of gas at constant volume, pressure is directly proportional to its $\\textbf{Absolute Temperature}$.",
+      "image": "",
+      "options": [
+          "Volume",
+          "Density",
+          "Mass",
+          "Absolute Temperature"
+      ],
+      "answer": "Absolute Temperature",
+      "explanation": "The relationship is $P \\propto T$ (where $T$ is in Kelvin)."
+  },
+  {
+      "id": "P1311",
+      "text": "Sound waves are typically classified as $\\textbf{Longitudinal}$ and mechanical waves.",
+      "image": "",
+      "options": [
+          "Transverse",
+          "Longitudinal",
+          "Electromagnetic",
+          "Static"
+      ],
+      "answer": "Longitudinal",
+      "explanation": "In a longitudinal wave, the vibration of particles is parallel to the direction of wave travel."
+  },
+  {
+      "id": "P1312",
+      "text": "If a wave has a frequency of $20 \\text{ Hz}$ and a wavelength of $1.5 \\text{ m}$, what is its speed?",
+      "image": "",
+      "options": [
+          "13.3 $\\text{m/s}$",
+          "21.5 $\\text{m/s}$",
+          "30.0 $\\text{m/s}$",
+          "40.0 $\\text{m/s}$"
+      ],
+      "answer": "30.0 $\\text{m/s}$",
+      "explanation": "Speed $v = f \\lambda = 20 \\text{ Hz} \\times 1.5 \\text{ m} = 30.0 \\text{ m/s}$."
+  },
+  {
+      "id": "P1313",
+      "text": "When light passes from glass (denser) to air (less dense), and the angle of incidence is greater than the critical angle, what phenomenon occurs?",
+      "image": "",
+      "options": [
+          "Refraction",
+          "Dispersion",
+          "Total Internal Reflection",
+          "Diffraction"
+      ],
+      "answer": "Total Internal Reflection",
+      "explanation": "Total internal reflection (TIR) occurs when the angle of incidence exceeds the critical angle in the denser medium."
+  },
+  {
+      "id": "P1314",
+      "text": "The reciprocal of the focal length of a lens (measured in meters) is the $\\textbf{Power}$ of the lens.",
+      "image": "",
+      "options": [
+          "Magnification",
+          "Refractive Index",
+          "Power",
+          "Radius of Curvature"
+      ],
+      "answer": "Power",
+      "explanation": "Power $P = 1/f$ and is measured in dioptres (D)."
+  },
+  {
+      "id": "P1315",
+      "text": "The $\\textbf{S.I. unit}$ of electric charge is the $\\textbf{Coulomb}$ (C).",
+      "image": "",
+      "options": [
+          "Volt",
+          "Ampere",
+          "Ohm",
+          "Coulomb"
+      ],
+      "answer": "Coulomb",
+      "explanation": "Charge is measured in Coulombs."
+  },
+  {
+      "id": "P1316",
+      "text": "If the resistance of a wire is $10\\Omega$ and the current flowing is $2\\text{A}$, what is the potential difference ($V$) across the wire?",
+      "image": "",
+      "options": [
+          "5 $\\text{V}$",
+          "12 $\\text{V}$",
+          "20 $\\text{V}$",
+          "100 $\\text{V}$"
+      ],
+      "answer": "20 $\\text{V}$",
+      "explanation": "Using Ohm's Law: $V = IR = 2\\text{A} \\times 10\\Omega = 20\\text{ V}$."
+  },
+  {
+      "id": "P1317",
+      "text": "In a parallel circuit, which quantity is the $\\textbf{same}$ across all parallel components?",
+      "image": "",
+      "options": [
+          "Current",
+          "Resistance",
+          "Voltage",
+          "Power"
+      ],
+      "answer": "Voltage",
+      "explanation": "Components connected in parallel share the same potential difference (voltage)."
+  },
+  {
+      "id": "P1318",
+      "text": "The device that converts electrical energy into mechanical energy is the $\\textbf{Electric Motor}$.",
+      "image": "",
+      "options": [
+          "Generator",
+          "Transformer",
+          "Electric Motor",
+          "Rectifier"
+      ],
+      "answer": "Electric Motor",
+      "explanation": "Motors work on the principle that a current-carrying conductor experiences a force in a magnetic field."
+  },
+  {
+      "id": "P1319",
+      "text": "The particle in the nucleus of an atom that has $\\textbf{No Electrical Charge}$ is the $\\textbf{Neutron}$.",
+      "image": "",
+      "options": [
+          "Electron",
+          "Proton",
+          "Neutron",
+          "Nucleon"
+      ],
+      "answer": "Neutron",
+      "explanation": "Neutrons are neutral; protons are positive; electrons are negative."
+  },
+  {
+      "id": "P1320",
+      "text": "Which type of radiation is stopped by a thick sheet of paper or a few centimeters of air?",
+      "image": "",
+      "options": [
+          "Alpha ($\\,\\alpha$)",
+          "Beta ($\\,\\beta$)",
+          "Gamma ($\\,\\gamma$)",
+          "X-ray"
+      ],
+      "answer": "Alpha ($\\,\\alpha$)",
+      "explanation": "Alpha particles are the least penetrating of the three main types of nuclear radiation."
+  },
+  {
+      "id": "P1321",
+      "text": "The energy possessed by a body due to its position or state is $\\textbf{Potential Energy}$.",
+      "image": "",
+      "options": [
+          "Kinetic Energy",
+          "Mechanical Energy",
+          "Potential Energy",
+          "Chemical Energy"
+      ],
+      "answer": "Potential Energy",
+      "explanation": "Gravitational potential energy ($mgh$) is a common example."
+  },
+  {
+      "id": "P1322",
+      "text": "The product of force and distance moved in the direction of the force is $\\textbf{Work Done}$.",
+      "image": "",
+      "options": [
+          "Power",
+          "Work Done",
+          "Momentum",
+          "Impulse"
+      ],
+      "answer": "Work Done",
+      "explanation": "Work is measured in Joules (J)."
+  },
+  {
+      "id": "P1323",
+      "text": "The $\\textbf{S.I. unit}$ for the moment of a force (torque) is the $\\textbf{Newton-meter}$ (N$\\cdot$m).",
+      "image": "",
+      "options": [
+          "Joule",
+          "Newton",
+          "Newton-meter",
+          "Watt"
+      ],
+      "answer": "Newton-meter",
+      "explanation": "Moment $M = F \\times d$."
+  },
+  {
+      "id": "P1324",
+      "text": "The concept that the total momentum of a closed system is conserved is the $\\textbf{Principle of Conservation of Momentum}$.",
+      "image": "",
+      "options": [
+          "Conservation of Energy",
+          "Conservation of Charge",
+          "Conservation of Momentum",
+          "Archimedes' Principle"
+      ],
+      "answer": "Principle of Conservation of Momentum",
+      "explanation": "This principle applies when no external forces act on the system."
+  },
+  {
+      "id": "P1325",
+      "text": "The phenomenon where a wave changes direction upon meeting a narrow opening or edge is called $\\textbf{Diffraction}$.",
+      "image": "",
+      "options": [
+          "Reflection",
+          "Refraction",
+          "Diffraction",
+          "Interference"
+      ],
+      "answer": "Diffraction",
+      "explanation": "Diffraction is more pronounced when the size of the opening is similar to the wavelength."
+  },
+  {
+      "id": "P1326",
+      "text": "If $2000 \\text{ J}$ of heat energy is applied to $2 \\text{ kg}$ of a substance, resulting in a temperature rise of $10 \\text{ K}$, what is its specific heat capacity ($c$)?",
+      "image": "",
+      "options": [
+          "100 $\\text{J/kg}\\cdot\\text{K}$",
+          "200 $\\text{J/kg}\\cdot\\text{K}$",
+          "500 $\\text{J/kg}\\cdot\\text{K}$",
+          "1000 $\\text{J/kg}\\cdot\\text{K}$"
+      ],
+      "answer": "100 $\\text{J/kg}\\cdot\\text{K}$",
+      "explanation": "$Q = mc\\Delta T$. $c = Q / (m\\Delta T) = 2000\\text{ J} / (2\\text{ kg} \\times 10\\text{ K}) = 2000 / 20 = 100\\text{ J/kg}\\cdot\\text{K}$."
+  },
+  {
+      "id": "P1327",
+      "text": "Which method of heat transfer is responsible for the heat felt from the sun?",
+      "image": "",
+      "options": [
+          "Conduction",
+          "Convection",
+          "Radiation",
+          "Vibration"
+      ],
+      "answer": "Radiation",
+      "explanation": "Radiation travels through the vacuum of space via electromagnetic waves."
+  },
+  {
+      "id": "P1328",
+      "text": "The image formed by a plane mirror is always $\\textbf{Virtual}$, erect, and the same size as the object.",
+      "image": "",
+      "options": [
+          "Real and Inverted",
+          "Virtual and Inverted",
+          "Real and Erect",
+          "Virtual and Erect"
+      ],
+      "answer": "Virtual and Erect",
+      "explanation": "Virtual images are formed where light rays appear to meet (behind the mirror)."
+  },
+  {
+      "id": "P1329",
+      "text": "A $\\textbf{Step-up Transformer}$ is used to $\\textbf{Increase}$ the voltage and decrease the current for efficient transmission over long distances.",
+      "image": "",
+      "options": [
+          "Decrease the voltage",
+          "Increase the current",
+          "Increase the voltage",
+          "Convert AC to DC"
+      ],
+      "answer": "Increase the voltage",
+      "explanation": "Step-up transformers have more turns on the secondary coil than the primary."
+  },
+  {
+      "id": "P1330",
+      "text": "The $\\textbf{Magnetic Field}$ around a current-carrying straight wire is characterized by concentric circles around the wire.",
+      "image": "",
+      "options": [
+          "Electric Field",
+          "Gravitational Field",
+          "Magnetic Field",
+          "Nuclear Field"
+      ],
+      "answer": "Magnetic Field",
+      "explanation": "The direction is given by the Right-Hand Grip Rule."
+  },
+  {
+      "id": "P1331",
+      "text": "A machine has a Mechanical Advantage (M.A.) of 5 and a Velocity Ratio (V.R.) of 6. Calculate its $\\textbf{Efficiency}$.",
+      "image": "",
+      "options": [
+          "120\\%",
+          "83.3\\%",
+          "60\\%",
+          "50\\%"
+      ],
+      "answer": "83.3\\%",
+      "explanation": "Efficiency $\\eta = (\\text{M.A.} / \\text{V.R.}) \\times 100\\% = (5/6) \\times 100\\% \\approx 83.3\\%$."
+  },
+  {
+      "id": "P1332",
+      "text": "The property of a body to resist changes in its state of motion or rest is called $\\textbf{Inertia}$.",
+      "image": "",
+      "options": [
+          "Momentum",
+          "Inertia",
+          "Force",
+          "Work"
+      ],
+      "answer": "Inertia",
+      "explanation": "Inertia is proportional to mass (Newton's First Law)."
+  },
+  {
+      "id": "P1333",
+      "text": "The $\\textbf{S.I. unit}$ of mass is the $\\textbf{Kilogram}$ (kg).",
+      "image": "",
+      "options": [
+          "Gram",
+          "Newton",
+          "Pound",
+          "Kilogram"
+      ],
+      "answer": "Kilogram",
+      "explanation": "The kilogram is a base S.I. unit."
+  },
+  {
+      "id": "P1334",
+      "text": "When a force causes an extension in a spring, the energy stored is called $\\textbf{Elastic Potential Energy}$.",
+      "image": "",
+      "options": [
+          "Kinetic Energy",
+          "Gravitational Potential Energy",
+          "Heat Energy",
+          "Elastic Potential Energy"
+      ],
+      "answer": "Elastic Potential Energy",
+      "explanation": "Stored energy is calculated as $PE_{\\text{elastic}} = \\frac{1}{2} k x^2$ (Hooke's Law)."
+  },
+  {
+      "id": "P1335",
+      "text": "The $\\textbf{Frequency}$ of an electromagnetic wave determines its color (for visible light) or type (e.g., radio, X-ray).",
+      "image": "",
+      "options": [
+          "Amplitude",
+          "Velocity",
+          "Frequency",
+          "Intensity"
+      ],
+      "answer": "Frequency",
+      "explanation": "Higher frequency means higher energy (bluer light, X-rays); lower frequency means lower energy (redder light, radio waves)."
+  },
+  {
+      "id": "P1336",
+      "text": "In a sound wave, the regions where particles are most spread out are called $\\textbf{Rarefactions}$.",
+      "image": "",
+      "options": [
+          "Compressions",
+          "Troughs",
+          "Rarefactions",
+          "Nodes"
+      ],
+      "answer": "Rarefactions",
+      "explanation": "Rarefactions have lower density and pressure, while compressions have higher density and pressure."
+  },
+  {
+      "id": "P1337",
+      "text": "What is the purpose of the $\\textbf{Fuse}$ in an electric circuit?",
+      "image": "",
+      "options": [
+          "Measure Current",
+          "Measure Voltage",
+          "Protect the Circuit",
+          "Increase Power"
+      ],
+      "answer": "Protect the Circuit",
+      "explanation": "A fuse is a safety device that melts and breaks the circuit if the current exceeds a safe limit."
+  },
+  {
+      "id": "P1338",
+      "text": "The process of charging a body by touching it with a charged object is $\\textbf{Conduction}$.",
+      "image": "",
+      "options": [
+          "Induction",
+          "Friction",
+          "Conduction",
+          "Polarization"
+      ],
+      "answer": "Conduction",
+      "explanation": "Charge is transferred directly upon contact."
+  },
+  {
+      "id": "P1339",
+      "text": "The $\\textbf{Half-life}$ of a radioactive substance is $\\textbf{Independent}$ of external factors like temperature and pressure.",
+      "image": "",
+      "options": [
+          "Dependent on temperature",
+          "Dependent on pressure",
+          "Dependent on chemical state",
+          "Independent"
+      ],
+      "answer": "Independent",
+      "explanation": "Radioactive decay is a purely nuclear process and is unaffected by external physical or chemical conditions."
+  },
+  {
+      "id": "P1340",
+      "text": "The energy released when mass is destroyed is described by $\\textbf{Einstein's Mass-Energy Equivalence}$ ($E = mc^2$).",
+      "image": "",
+      "options": [
+          "Newton's Law",
+          "Planck's Equation",
+          "Einstein's Mass-Energy Equivalence",
+          "Boyle's Law"
+      ],
+      "answer": "Einstein's Mass-Energy Equivalence",
+      "explanation": "This fundamental relationship explains the enormous energy yield in nuclear reactions."
+  }
+]

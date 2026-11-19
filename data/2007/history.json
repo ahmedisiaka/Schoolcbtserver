@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The discovery of the tomb of $\\textbf{Tutankhamun}$ in 1922 was a major archaeological find by:",
+        "image": "",
+        "options": [
+            "Howard Carter",
+            "Indiana Jones",
+            "Hiram Bingham",
+            "Heinrich Schliemann"
+        ],
+        "answer": "Howard Carter",
+        "explanation": "Carter discovered the nearly intact tomb in the Valley of the Kings, sparking a global interest in ancient Egypt."
+    },
+    {
+        "id": "H02",
+        "text": "Which Carthaginian general is famous for crossing the Alps with $\\textbf{elephants}$ to attack Rome?",
+        "image": "",
+        "options": [
+            "Scipio Africanus",
+            "Hannibal",
+            "Hamilcar Barca",
+            "Pyrrhus"
+        ],
+        "answer": "Hannibal",
+        "explanation": "Hannibal's crossing during the Second Punic War is considered one of the greatest military feats in history."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Pantheon}$ in Rome is famous for its massive unreinforced concrete:",
+        "image": "",
+        "options": [
+            "Arch",
+            "Column",
+            "Dome",
+            "Spire"
+        ],
+        "answer": "Dome",
+        "explanation": "Completed around 126 AD, it remains the world's largest unreinforced concrete dome."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first European explorer to reach the island of $\\textbf{San Salvador}$ in 1492?",
+        "image": "",
+        "options": [
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "Amerigo Vespucci",
+            "Leif Erikson"
+        ],
+        "answer": "Christopher Columbus",
+        "explanation": "Columbus's arrival in the Bahamas marked the beginning of permanent European colonization of the Americas."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{War of the Roses}$ was a series of civil wars fought for control of the throne of:",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "England",
+            "Scotland"
+        ],
+        "answer": "England",
+        "explanation": "Fought between the House of Lancaster and the House of York, it ended with the establishment of the Tudor dynasty."
+    },
+    {
+        "id": "H06",
+        "text": "Which playwright is associated with the $\\textbf{Globe Theatre}$ in London?",
+        "image": "",
+        "options": [
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "William Shakespeare",
+            "Molière"
+        ],
+        "answer": "William Shakespeare",
+        "explanation": "Many of Shakespeare's plays were first performed at the Globe, built by his playing company in 1599."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Scientific Method}$ was popularized in the 17th century by philosophers like:",
+        "image": "",
+        "options": [
+            "Francis Bacon",
+            "Plato",
+            "Karl Marx",
+            "Sigmund Freud"
+        ],
+        "answer": "Francis Bacon",
+        "explanation": "Bacon argued for the possibility of scientific knowledge based only upon inductive reasoning and careful observation."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Quartering Act}$ of 1765 required American colonists to:",
+        "image": "",
+        "options": [
+            "Pay a tax on tea",
+            "House and feed British soldiers",
+            "Surrender their weapons",
+            "Stop trading with France"
+        ],
+        "answer": "House and feed British soldiers",
+        "explanation": "This act was a major source of tension between the colonies and Britain leading up to the Revolution."
+    },
+    {
+        "id": "H09",
+        "text": "Who was the primary leader of the $\\textbf{Jacobins}$ during the French Revolution?",
+        "image": "",
+        "options": [
+            "Napoleon Bonaparte",
+            "Maximilien Robespierre",
+            "Louis XVI",
+            "Marquis de Lafayette"
+        ],
+        "answer": "Maximilien Robespierre",
+        "explanation": "Robespierre was a radical leader who dominated the Committee of Public Safety during the Reign of Terror."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Erie Canal}$, completed in 1825, connected the Atlantic Ocean to:",
+        "image": "",
+        "options": [
+            "The Great Lakes",
+            "The Mississippi River",
+            "The Gulf of Mexico",
+            "The Pacific Ocean"
+        ],
+        "answer": "The Great Lakes",
+        "explanation": "The canal was a feat of engineering that transformed New York City into a major commercial hub."
+    },
+    {
+        "id": "H11",
+        "text": "Who revolutionized the automobile industry with the introduction of the $\\textbf{Model T}$ and the assembly line?",
+        "image": "",
+        "options": [
+            "Karl Benz",
+            "Henry Ford",
+            "Enzo Ferrari",
+            "Louis Chevrolet"
+        ],
+        "answer": "Henry Ford",
+        "explanation": "Ford made cars affordable for the average American, changing the landscape of transportation."
+    },
+    {
+        "id": "H12",
+        "text": "The $\\textbf{Battle of the Somme}$ (1916) was one of the largest battles of which war?",
+        "image": "",
+        "options": [
+            "The Crimean War",
+            "World War I",
+            "World War II",
+            "The Boer War"
+        ],
+        "answer": "World War I",
+        "explanation": "Fought by the armies of the British and French empires against the German Empire, it resulted in over one million casualties."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Blitz}$ refers to the sustained bombing of Britain by:",
+        "image": "",
+        "options": [
+            "The Soviet Union",
+            "Nazi Germany",
+            "Italy",
+            "Japan"
+        ],
+        "answer": "Nazi Germany",
+        "explanation": "Occurring during WWII (1940-1941), the Blitz targeted London and other industrial cities."
+    },
+    {
+        "id": "H14",
+        "text": "Which B-29 Superfortress dropped the first atomic bomb on $\\textbf{Hiroshima}$?",
+        "image": "",
+        "options": [
+            "Memphis Belle",
+            "Enola Gay",
+            "Bockscar",
+            "Spirit of St. Louis"
+        ],
+        "answer": "Enola Gay",
+        "explanation": "Piloted by Paul Tibbets, the Enola Gay dropped the 'Little Boy' bomb on August 6, 1945."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{United Nations}$ was officially established in 1945 to replace:",
+        "image": "",
+        "options": [
+            "The League of Nations",
+            "The Allied Powers",
+            "The Warsaw Pact",
+            "NATO"
+        ],
+        "answer": "The League of Nations",
+        "explanation": "The UN was founded to prevent future conflicts and promote international cooperation."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Freedom Riders}$ were civil rights activists who rode interstate buses into the segregated South in:",
+        "image": "",
+        "options": [
+            "1921",
+            "1941",
+            "1961",
+            "1981"
+        ],
+        "answer": "1961",
+        "explanation": "They challenged the non-enforcement of Supreme Court decisions ruling that segregated public buses were unconstitutional."
+    },
+    {
+        "id": "H17",
+        "text": "$\\textbf{Checkpoint Charlie}$ was the most famous crossing point between:",
+        "image": "",
+        "options": [
+            "North and South Korea",
+            "East and West Berlin",
+            "US and Mexico",
+            "India and Pakistan"
+        ],
+        "answer": "East and West Berlin",
+        "explanation": "It became a symbol of the Cold War and the division of Berlin."
+    },
+    {
+        "id": "H18",
+        "text": "Which band's arrival in the US in 1964 sparked the $\\textbf{'British Invasion'}$ of music?",
+        "image": "",
+        "options": [
+            "The Rolling Stones",
+            "The Who",
+            "The Beatles",
+            "Led Zeppelin"
+        ],
+        "answer": "The Beatles",
+        "explanation": "Their appearance on The Ed Sullivan Show drew a record-breaking audience."
+    },
+    {
+        "id": "H19",
+        "text": "The predecessor to the internet, developed by the US Department of Defense, was called:",
+        "image": "",
+        "options": [
+            "SKYNET",
+            "ARPANET",
+            "ETHERNET",
+            "UNIX"
+        ],
+        "answer": "ARPANET",
+        "explanation": "Established in 1969, it was the first network to implement the TCP/IP protocol suite."
+    },
+    {
+        "id": "H20",
+        "text": "Which hurricane caused catastrophic damage to $\\textbf{New Orleans}$ in 2005?",
+        "image": "",
+        "options": [
+            "Hurricane Andrew",
+            "Hurricane Katrina",
+            "Hurricane Sandy",
+            "Hurricane Harvey"
+        ],
+        "answer": "Hurricane Katrina",
+        "explanation": "The failure of the levee system led to widespread flooding and loss of life."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Great Sphinx}$ of Giza has the body of a lion and the head of a:",
+        "image": "",
+        "options": [
+            "Eagle",
+            "Human (Pharaoh)",
+            "Bull",
+            "Ram"
+        ],
+        "answer": "Human (Pharaoh)",
+        "explanation": "It is generally believed to represent the Pharaoh Khafre."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Oracle of Delphi}$ was the most important shrine in ancient Greece dedicated to:",
+        "image": "",
+        "options": [
+            "Zeus",
+            "Apollo",
+            "Athena",
+            "Poseidon"
+        ],
+        "answer": "Apollo",
+        "explanation": "People traveled from all over the ancient world to consult the Pythia (priestess) for prophecies."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Great Wall of China}$ was primarily built to protect against invasions from:",
+        "image": "",
+        "options": [
+            "The Mongols and nomadic tribes from the north",
+            "The Japanese from the east",
+            "The Indians from the south",
+            "The Romans from the west"
+        ],
+        "answer": "The Mongols and nomadic tribes from the north",
+        "explanation": "Various walls were built over centuries, with the most famous sections constructed by the Ming Dynasty."
+    },
+    {
+        "id": "H24",
+        "text": "The code of honor followed by the $\\textbf{Samurai}$ of Japan is known as:",
+        "image": "",
+        "options": [
+            "Chivalry",
+            "Bushido",
+            "Zen",
+            "Shinto"
+        ],
+        "answer": "Bushido",
+        "explanation": "Bushido ('the way of the warrior') emphasized frugality, loyalty, martial arts mastery, and honor unto death."
+    },
+    {
+        "id": "H25",
+        "text": "Which bacterium was responsible for the $\\textbf{Black Death}$?",
+        "image": "",
+        "options": [
+            "E. coli",
+            "Yersinia pestis",
+            "Salmonella",
+            "Staphylococcus"
+        ],
+        "answer": "Yersinia pestis",
+        "explanation": "The bacteria were carried by fleas on rats, causing the plague that devastated Europe in the 14th century."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Borgia Family}$ became prominent during the Renaissance in:",
+        "image": "",
+        "options": [
+            "England",
+            "France",
+            "Italy (Rome)",
+            "Germany"
+        ],
+        "answer": "Italy (Rome)",
+        "explanation": "They produced two Popes and were infamous for their suspected crimes, including poisoning and incest."
+    },
+    {
+        "id": "H27",
+        "text": "Which English explorer founded the $\\textbf{Roanoke Colony}$, which famously disappeared?",
+        "image": "",
+        "options": [
+            "Francis Drake",
+            "Walter Raleigh",
+            "James Cook",
+            "John Smith"
+        ],
+        "answer": "Walter Raleigh",
+        "explanation": "Raleigh sponsored the expedition, but the settlers vanished, leaving behind only the word 'Croatoan'."
+    },
+    {
+        "id": "H28",
+        "text": "The Pilgrims landed at which famous rock in 1620?",
+        "image": "",
+        "options": [
+            "Gibraltar Rock",
+            "Plymouth Rock",
+            "Rock of Ages",
+            "Castle Rock"
+        ],
+        "answer": "Plymouth Rock",
+        "explanation": "Plymouth Rock is the traditional site of disembarkation of the Mayflower Pilgrims."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Liberty Bell}$ is an iconic symbol of American independence located in:",
+        "image": "",
+        "options": [
+            "Washington, D.C.",
+            "Boston",
+            "Philadelphia",
+            "New York City"
+        ],
+        "answer": "Philadelphia",
+        "explanation": "It famously cracked and was last rung for George Washington's birthday in 1846."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Sons of Liberty}$ were a secret organization created to fight:",
+        "image": "",
+        "options": [
+            "French invaders",
+            "British taxation",
+            "Native American tribes",
+            "Spanish pirates"
+        ],
+        "answer": "British taxation",
+        "explanation": "They played a major role in battling the Stamp Act and organizing the Boston Tea Party."
+    },
+    {
+        "id": "H31",
+        "text": "Davy Crockett and Jim Bowie were famous defenders of:",
+        "image": "",
+        "options": [
+            "Fort Sumter",
+            "The Alamo",
+            "Bunker Hill",
+            "Fort Knox"
+        ],
+        "answer": "The Alamo",
+        "explanation": "They died defending the mission in San Antonio against the Mexican army in 1836."
+    },
+    {
+        "id": "H32",
+        "text": "Which famous abolitionist was born into slavery and became a leading intellectual of his time?",
+        "image": "",
+        "options": [
+            "Nat Turner",
+            "Frederick Douglass",
+            "Dred Scott",
+            "John Brown"
+        ],
+        "answer": "Frederick Douglass",
+        "explanation": "Douglass escaped slavery and became a powerful orator and writer for the abolitionist cause."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Gettysburg Address}$ begins with the famous phrase:",
+        "image": "",
+        "options": [
+            "We the People",
+            "Four score and seven years ago",
+            "I have a dream",
+            "When in the Course of human events"
+        ],
+        "answer": "Four score and seven years ago",
+        "explanation": "Lincoln delivered the short but historic speech at the dedication of the Soldiers' National Cemetery in 1863."
+    },
+    {
+        "id": "H34",
+        "text": "Which island served as the primary immigration inspection station for the US from 1892 to 1954?",
+        "image": "",
+        "options": [
+            "Alcatraz Island",
+            "Ellis Island",
+            "Staten Island",
+            "Long Island"
+        ],
+        "answer": "Ellis Island",
+        "explanation": "Millions of immigrants passed through Ellis Island to enter the United States."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Hoover Dam}$ was constructed during the Great Depression on which river?",
+        "image": "",
+        "options": [
+            "The Mississippi River",
+            "The Colorado River",
+            "The Nile River",
+            "The Amazon River"
+        ],
+        "answer": "The Colorado River",
+        "explanation": "It was a massive public works project that provided jobs and hydroelectric power."
+    },
+    {
+        "id": "H36",
+        "text": "Who was the first pilot to fly solo across the Atlantic Ocean?",
+        "image": "",
+        "options": [
+            "Amelia Earhart",
+            "Charles Lindbergh",
+            "Howard Hughes",
+            "Chuck Yeager"
+        ],
+        "answer": "Charles Lindbergh",
+        "explanation": "Lindbergh made the flight in 1927 in his plane, the Spirit of St. Louis."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Tuskegee Airmen}$ were the first African American military aviators in:",
+        "image": "",
+        "options": [
+            "The US Armed Forces",
+            "The British Royal Air Force",
+            "The French Air Force",
+            "The Soviet Air Force"
+        ],
+        "answer": "The US Armed Forces",
+        "explanation": "They fought in World War II, overcoming segregation and prejudice to become one of the most respected fighter groups."
+    },
+    {
+        "id": "H38",
+        "text": "The boundary between North and South Korea is known as the:",
+        "image": "",
+        "options": [
+            "17th Parallel",
+            "38th Parallel",
+            "Berlin Wall",
+            "Maginot Line"
+        ],
+        "answer": "38th Parallel",
+        "explanation": "The Demilitarized Zone (DMZ) roughly follows this latitude line."
+    },
+    {
+        "id": "H39",
+        "text": "Which space telescope was launched into orbit in 1990?",
+        "image": "",
+        "options": [
+            "James Webb",
+            "Hubble",
+            "Kepler",
+            "Spitzer"
+        ],
+        "answer": "Hubble",
+        "explanation": "The Hubble Space Telescope has provided some of the most detailed images of the universe."
+    },
+    {
+        "id": "H40",
+        "text": "Which currency was introduced in physical form in 2002, replacing many national currencies in Europe?",
+        "image": "",
+        "options": [
+            "The Pound",
+            "The Franc",
+            "The Euro",
+            "The Mark"
+        ],
+        "answer": "The Euro",
+        "explanation": "The Euro is the official currency of the Eurozone, used by 20 of the 27 member states of the EU."
+    }
+]

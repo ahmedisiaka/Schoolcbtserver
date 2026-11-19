@@ -1,0 +1,522 @@
+[
+    {
+        "id": "C41",
+        "text": "The $\\textbf{Double Entry System}$ of accounting states that every transaction affects at least:",
+        "image": "",
+        "options": [
+            "One account, once",
+            "Two accounts, twice",
+            "Two accounts, in opposite directions",
+            "Three accounts, equally"
+        ],
+        "answer": "Two accounts, in opposite directions",
+        "explanation": "Every business transaction has two aspects: a debit and a credit of equal amounts, ensuring the accounting equation remains balanced."
+    },
+    {
+        "id": "C42",
+        "text": "What is $\\textbf{Arbitrage}$ in financial markets?",
+        "image": "",
+        "options": [
+            "Buying high and selling low to minimize tax",
+            "Simultaneously buying and selling an asset in different markets to profit from a price difference",
+            "The process of valuing a company's shares",
+            "A strategy of long-term investment in stable stocks"
+        ],
+        "answer": "Simultaneously buying and selling an asset in different markets to profit from a price difference",
+        "explanation": "Arbitrage is the instantaneous purchase and sale of an asset to exploit temporary price discrepancies between two or more markets."
+    },
+    {
+        "id": "C43",
+        "text": "A $\\textbf{Patent}$ grants an inventor exclusive rights to their invention for a fixed period, which is an example of:",
+        "image": "",
+        "options": [
+            "Fixed Asset",
+            "Tangible Asset",
+            "Current Asset",
+            "Intangible Asset"
+        ],
+        "answer": "Intangible Asset",
+        "explanation": "A patent is a non-physical asset that represents a legal right to an invention."
+    },
+    {
+        "id": "C44",
+        "text": "Which leadership style involves the leader making decisions alone without consulting subordinates?",
+        "image": "",
+        "options": [
+            "Democratic",
+            "Laissez-faire",
+            "Authoritarian (Autocratic)",
+            "Participative"
+        ],
+        "answer": "Authoritarian (Autocratic)",
+        "explanation": "An authoritarian leader dictates policies and procedures, decides what goals are to be achieved, and directs all activities without meaningful participation by subordinates."
+    },
+    {
+        "id": "C45",
+        "text": "A $\\textbf{Letter of Credit (LC)}$ in international trade primarily protects:",
+        "image": "",
+        "options": [
+            "The exporter (seller)",
+            "The importer (buyer)",
+            "The shipping company",
+            "The customs authority"
+        ],
+        "answer": "The exporter (seller)",
+        "explanation": "An LC is a bank's guarantee on behalf of the buyer to pay the seller a specified amount, ensuring the seller gets paid once goods are shipped and documents are presented."
+    },
+    {
+        "id": "C46",
+        "text": "Which economic indicator is used to measure the $\\textbf{total value of all finished goods and services}$ produced within a country's borders in a specific time period?",
+        "image": "",
+        "options": [
+            "Gross National Product (GNP)",
+            "Net National Product (NNP)",
+            "Gross Domestic Product (GDP)",
+            "Per Capita Income (PCI)"
+        ],
+        "answer": "Gross Domestic Product (GDP)",
+        "explanation": "GDP is the most widely used measure of national economic activity and output."
+    },
+    {
+        "id": "C47",
+        "text": "In marketing, $\\textbf{Market Segmentation}$ involves dividing the market into distinct groups based on all of the following $\\textbf{EXCEPT}$:",
+        "image": "",
+        "options": [
+            "Demographics (Age, Gender)",
+            "Psychographics (Lifestyle, Values)",
+            "Geographics (Region, Climate)",
+            "The number of competitors"
+        ],
+        "answer": "The number of competitors",
+        "explanation": "Market segmentation focuses on dividing the *customer* base into similar groups; the number of competitors is an external environmental factor."
+    },
+    {
+        "id": "C48",
+        "text": "The accounting concept that assumes a business entity will continue to operate for an indefinitely long period is:",
+        "image": "",
+        "options": [
+            "Money Measurement Concept",
+            "Dual Aspect Concept",
+            "Going Concern Concept",
+            "Historical Cost Concept"
+        ],
+        "answer": "Going Concern Concept",
+        "explanation": "This fundamental assumption justifies the classification of assets and liabilities as long-term or short-term, and the use of depreciation."
+    },
+    {
+        "id": "C49",
+        "text": "The process of attracting, screening, and selecting qualified people for a job is known as:",
+        "image": "",
+        "options": [
+            "Training",
+            "Development",
+            "Recruitment and Selection",
+            "Performance Appraisal"
+        ],
+        "answer": "Recruitment and Selection",
+        "explanation": "Recruitment is finding candidates, and selection is choosing the best fit from that pool."
+    },
+    {
+        "id": "C50",
+        "text": "In a $\\textbf{Bear Market}$, investors typically expect:",
+        "image": "",
+        "options": [
+            "Stock prices to rise continuously",
+            "Stock prices to fall over time",
+            "Interest rates to remain stable",
+            "Government regulation to decrease"
+        ],
+        "answer": "Stock prices to fall over time",
+        "explanation": "A bear market is a condition where securities prices fall 20% or more from recent highs amid widespread pessimism."
+    },
+    {
+        "id": "C51",
+        "text": "Which form of business organization is easiest and cheapest to start, but offers no separate legal entity?",
+        "image": "",
+        "options": [
+            "Private Limited Company",
+            "Partnership",
+            "Sole Proprietorship",
+            "Public Limited Company"
+        ],
+        "answer": "Sole Proprietorship",
+        "explanation": "A sole proprietorship is owned and run by one person and there is no legal distinction between the owner and the business."
+    },
+    {
+        "id": "C52",
+        "text": "$\\textbf{Outsourcing}$ is the practice of:",
+        "image": "",
+        "options": [
+            "Selling products outside the country",
+            "Shifting production overseas",
+            "Contracting out non-core business activities to external providers",
+            "Hiring all employees as temporary staff"
+        ],
+        "answer": "Contracting out non-core business activities to external providers",
+        "explanation": "Outsourcing is the transfer of business functions, such as IT or accounting, to a third-party specialist."
+    },
+    {
+        "id": "C53",
+        "text": "Which of the following $\\textbf{money market instruments}$ is a short-term, unsecured promissory note issued by a large corporation?",
+        "image": "",
+        "options": [
+            "Treasury Bond",
+            "Commercial Paper",
+            "Equity Share",
+            "Mutual Fund"
+        ],
+        "answer": "Commercial Paper",
+        "explanation": "Commercial paper is an unsecured, short-term debt instrument issued by corporations, used to cover short-term liabilities like inventory and payroll."
+    },
+    {
+        "id": "C54",
+        "text": "The $\\textbf{Marketing Concept}$ holds that a company's success depends on:",
+        "image": "",
+        "options": [
+            "Producing goods at the lowest cost",
+            "Selling as much as possible",
+            "Satisfying customer needs and wants more effectively than competitors",
+            "Developing advanced technological products"
+        ],
+        "answer": "Satisfying customer needs and wants more effectively than competitors",
+        "explanation": "The Marketing Concept is a philosophy that focuses on the needs and wants of target markets and delivering superior value."
+    },
+    {
+        "id": "C55",
+        "text": "The ratio that measures a company's ability to cover its short-term debts with its most liquid assets (excluding inventory) is the:",
+        "image": "",
+        "options": [
+            "Current Ratio",
+            "Debt-Equity Ratio",
+            "Acid-Test Ratio (Quick Ratio)",
+            "Inventory Turnover Ratio"
+        ],
+        "answer": "Acid-Test Ratio (Quick Ratio)",
+        "explanation": "The Quick Ratio = (Cash + Marketable Securities + Accounts Receivable) / Current Liabilities. It is a stricter measure of liquidity than the Current Ratio."
+    },
+    {
+        "id": "C56",
+        "text": "The term $\\textbf{Horizontal Integration}$ refers to the merger of companies operating at the $\\textbf{same stage}$ of the production chain. A merger between a car manufacturer and a tire producer is an example of:",
+        "image": "",
+        "options": [
+            "Horizontal Integration",
+            "Vertical Integration",
+            "Conglomerate Merger",
+            "Lateral Integration"
+        ],
+        "answer": "Vertical Integration",
+        "explanation": "Vertical integration involves merging firms at different stages of the production process (e.g., raw material supplier and manufacturer)."
+    },
+    {
+        "id": "C57",
+        "text": "According to $\\textbf{Maslow's Hierarchy of Needs}$, which need level must be satisfied $\\textbf{before}$ esteem needs can be addressed?",
+        "image": "",
+        "options": [
+            "Self-actualization",
+            "Physiological needs",
+            "Safety needs and Social needs",
+            "Only Physiological needs"
+        ],
+        "answer": "Safety needs and Social needs",
+        "explanation": "The hierarchy (from base to top) is: Physiological, Safety, Love/Belonging (Social), Esteem, Self-actualization. Safety and Social needs come before Esteem needs."
+    },
+    {
+        "id": "C58",
+        "text": "The concept of $\\textbf{Demutualization}$ in stock exchanges involves converting from:",
+        "image": "",
+        "options": [
+            "A public company to a private company",
+            "A mutual, member-owned organization to a shareholder-owned company",
+            "A monopoly to an oligopoly",
+            "A national exchange to an international exchange"
+        ],
+        "answer": "A mutual, member-owned organization to a shareholder-owned company",
+        "explanation": "Demutualization is the process by which a mutual association is converted into a company limited by shares, giving it a corporate structure."
+    },
+    {
+        "id": "C59",
+        "text": "A $\\textbf{Bill of Lading}$ is a document used in shipping that serves all the following purposes $\\textbf{EXCEPT}$:",
+        "image": "",
+        "options": [
+            "A receipt for the goods",
+            "A contract of carriage",
+            "A document of title to the goods",
+            "An offer to sell the goods"
+        ],
+        "answer": "An offer to sell the goods",
+        "explanation": "A Bill of Lading acknowledges receipt of cargo for shipment and serves as documentary evidence of title to the goods."
+    },
+    {
+        "id": "C60",
+        "text": "In economics, a $\\textbf{Recession}$ is typically defined as two consecutive quarters of decline in:",
+        "image": "",
+        "options": [
+            "Unemployment Rate",
+            "Inflation Rate",
+            "Gross Domestic Product (GDP)",
+            "Stock Market Prices"
+        ],
+        "answer": "Gross Domestic Product (GDP)",
+        "explanation": "The common, though simplified, definition of a recession is two or more consecutive quarters of negative GDP growth."
+    },
+    {
+        "id": "C61",
+        "text": "The rule of $\\textbf{last-in, first-out (LIFO)}$ is a method used to value:",
+        "image": "",
+        "options": [
+            "Fixed Assets",
+            "Inventory",
+            "Share Capital",
+            "Long-Term Debt"
+        ],
+        "answer": "Inventory",
+        "explanation": "LIFO assumes that the last goods purchased or produced are the first to be sold, impacting the cost of goods sold and remaining inventory value."
+    },
+    {
+        "id": "C62",
+        "text": "What is the primary goal of $\\textbf{Six Sigma}$ methodology?",
+        "image": "",
+        "options": [
+            "To maximize advertising reach",
+            "To minimize defects and variation in processes",
+            "To increase employee bonuses",
+            "To implement aggressive pricing strategies"
+        ],
+        "answer": "To minimize defects and variation in processes",
+        "explanation": "Six Sigma is a set of techniques and tools for process improvement, aiming for near-perfection (3.4 defects per million opportunities)."
+    },
+    {
+        "id": "C63",
+        "text": "The term $\\textbf{Fiscal Deficit}$ represents the difference between the government's total expenditure and its total receipts $\\textbf{excluding}$:",
+        "image": "",
+        "options": [
+            "Tax Revenue",
+            "Non-Tax Revenue",
+            "Market Borrowings",
+            "Grants-in-aid"
+        ],
+        "answer": "Market Borrowings",
+        "explanation": "Fiscal deficit is a measure of the government's borrowing requirement—the extent to which its total spending exceeds its non-borrowing receipts."
+    },
+    {
+        "id": "C64",
+        "text": "Which type of capital refers to the funds that are permanently invested in the business, such as share capital and retained earnings?",
+        "image": "",
+        "options": [
+            "Current Capital",
+            "Fixed Capital",
+            "Floating Capital",
+            "Permanent Capital"
+        ],
+        "answer": "Permanent Capital",
+        "explanation": "Permanent capital (or net worth/equity) refers to the funds that are not subject to withdrawal or repayment obligations, forming the stable base of the business's financing."
+    },
+    {
+        "id": "C65",
+        "text": "A $\\textbf{Perishable Commodity}$ is best suited for which channel of distribution?",
+        "image": "",
+        "options": [
+            "Long channel with multiple intermediaries",
+            "Direct channel (producer to consumer)",
+            "Channel involving many storage points",
+            "Channel relying heavily on wholesalers"
+        ],
+        "answer": "Direct channel (producer to consumer)",
+        "explanation": "Perishable goods require the shortest possible distribution channel to minimize the time between production and consumption, reducing spoilage and loss."
+    },
+    {
+        "id": "C66",
+        "text": "The $\\textbf{Price Skimming}$ strategy is most effective when the product has:",
+        "image": "",
+        "options": [
+            "High price elasticity of demand",
+            "Many close substitutes",
+            "Low competition and a strong brand image",
+            "High production costs per unit"
+        ],
+        "answer": "Low competition and a strong brand image",
+        "explanation": "Price skimming involves setting a high initial price to 'skim' maximum revenue from early adopters before lowering the price. This works best when the product is unique and customers are less price-sensitive."
+    },
+    {
+        "id": "C67",
+        "text": "What is the term for a situation where the supply of a product or service $\\textbf{exceeds}$ the demand at a given price?",
+        "image": "",
+        "options": [
+            "Shortage",
+            "Equilibrium",
+            "Surplus",
+            "Scarcity"
+        ],
+        "answer": "Surplus",
+        "explanation": "A surplus (or excess supply) occurs when the quantity supplied is greater than the quantity demanded."
+    },
+    {
+        "id": "C68",
+        "text": "Which financial institution is responsible for regulating the stock market and protecting investor interests?",
+        "image": "",
+        "options": [
+            "The Central Bank",
+            "The World Bank",
+            "The Securities and Exchange Board (or equivalent regulatory body)",
+            "Commercial Banks"
+        ],
+        "answer": "The Securities and Exchange Board (or equivalent regulatory body)",
+        "explanation": "Regulatory bodies like the SEC (US) or SEBI (India) are established to protect investors and maintain orderly financial markets."
+    },
+    {
+        "id": "C69",
+        "text": "The $\\textbf{Time Value of Money}$ concept is based on the idea that:",
+        "image": "",
+        "options": [
+            "Money loses value due to inflation only",
+            "A dollar today is worth more than a dollar tomorrow",
+            "The future value of an investment is always higher than its present value",
+            "Money invested is always risk-free"
+        ],
+        "answer": "A dollar today is worth more than a dollar tomorrow",
+        "explanation": "This is due to the potential earning capacity of money through interest or investment returns."
+    },
+    {
+        "id": "C70",
+        "text": "A $\\textbf{Global Tender}$ is typically issued by a company when purchasing:",
+        "image": "",
+        "options": [
+            "Goods only from local suppliers",
+            "Raw materials from a single, pre-approved vendor",
+            "High-value items or services from international suppliers",
+            "Small office supplies"
+        ],
+        "answer": "High-value items or services from international suppliers",
+        "explanation": "A global tender invites bids from suppliers worldwide, ensuring the purchasing organization secures the best price and quality globally."
+    },
+    {
+        "id": "C71",
+        "text": "Which management principle emphasizes that each employee should receive orders from $\\textbf{only one superior}$?",
+        "image": "",
+        "options": [
+            "Unity of Direction",
+            "Unity of Command",
+            "Scalar Chain",
+            "Division of Work"
+        ],
+        "answer": "Unity of Command",
+        "explanation": "Part of Henri Fayol's 14 principles, this prevents conflicting orders and dual accountability."
+    },
+    {
+        "id": "C72",
+        "text": "A $\\textbf{Proprietary Fund}$ in accounting refers to the claims of:",
+        "image": "",
+        "options": [
+            "External lenders",
+            "The government",
+            "The owners/shareholders",
+            "The employees"
+        ],
+        "answer": "The owners/shareholders",
+        "explanation": "Proprietary funds, or owner's equity, represent the financial interest of the business owners in the firm's assets."
+    },
+    {
+        "id": "C73",
+        "text": "The $\\textbf{World Trade Organization (WTO)}$ primarily deals with:",
+        "image": "",
+        "options": [
+            "Providing development loans to poor countries",
+            "Settling trade disputes and promoting free trade agreements",
+            "Regulating global currency exchange rates",
+            "Protecting global intellectual property rights only"
+        ],
+        "answer": "Settling trade disputes and promoting free trade agreements",
+        "explanation": "The WTO is the only global international organization dealing with the rules of trade between nations."
+    },
+    {
+        "id": "C74",
+        "text": "Which business risk can be covered by insurance?",
+        "image": "",
+        "options": [
+            "Loss due to unfavorable market conditions",
+            "Loss due to changes in consumer preferences",
+            "Loss due to fire or theft",
+            "Loss due to inefficiency in management"
+        ],
+        "answer": "Loss due to fire or theft",
+        "explanation": "Insurance covers pure risks, which involve only the possibility of loss (e.g., natural disasters, theft), but not speculative risks (e.g., market changes, competition)."
+    },
+    {
+        "id": "C75",
+        "text": "A $\\textbf{Zero-Coupon Bond}$ pays interest:",
+        "image": "",
+        "options": [
+            "Semi-annually",
+            "Annually",
+            "At maturity only",
+            "Monthly"
+        ],
+        "answer": "At maturity only",
+        "explanation": "A zero-coupon bond is a debt security that does not pay interest but instead trades at a deep discount, accruing the full face value at maturity."
+    },
+    {
+        "id": "C76",
+        "text": "The concept of $\\textbf{Product Life Cycle (PLC)}$ includes all of the following stages $\\textbf{EXCEPT}$:",
+        "image": "",
+        "options": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Acquisition"
+        ],
+        "answer": "Acquisition",
+        "explanation": "The four main stages of the PLC are Introduction, Growth, Maturity, and Decline. Acquisition is a corporate strategy, not a natural stage of a product's life."
+    },
+    {
+        "id": "C77",
+        "text": "Which type of audit is conducted to ensure that the management policies are followed efficiently and effectively?",
+        "image": "",
+        "options": [
+            "Financial Audit",
+            "Statutory Audit",
+            "Cost Audit",
+            "Management Audit"
+        ],
+        "answer": "Management Audit",
+        "explanation": "A management audit is a systematic examination of the methods and policies of management in the use of organizational resources."
+    },
+    {
+        "id": "C78",
+        "text": "The $\\textbf{Span of Control}$ in an organization refers to:",
+        "image": "",
+        "options": [
+            "The geographical area a company covers",
+            "The number of subordinates a manager can effectively supervise",
+            "The range of products a company manufactures",
+            "The total number of employees in the company"
+        ],
+        "answer": "The number of subordinates a manager can effectively supervise",
+        "explanation": "A narrow span means fewer subordinates per manager (tall structure); a wide span means more subordinates (flat structure)."
+    },
+    {
+        "id": "C79",
+        "text": "What is the primary motive behind $\\textbf{Mergers and Acquisitions (M&A)}$?",
+        "image": "",
+        "options": [
+            "Increasing government regulation",
+            "Achieving synergy and increasing market power",
+            "Minimizing employee training costs",
+            "Focusing only on core competencies"
+        ],
+        "answer": "Achieving synergy and increasing market power",
+        "explanation": "Synergy means the combined entity can perform better than the sum of its independent parts ($2+2=5$). Increased market share is also a major driver."
+    },
+    {
+        "id": "C80",
+        "text": "The concept of $\\textbf{Social Marketing}$ focuses on selling products that are $\\textbf{both}$ desirable for the consumer and:",
+        "image": "",
+        "options": [
+            "Highly profitable for the company",
+            "Technologically innovative",
+            "Beneficial for the society's long-term well-being",
+            "Sold through e-commerce platforms"
+        ],
+        "answer": "Beneficial for the society's long-term well-being",
+        "explanation": "Social marketing takes the long-term interests of society into consideration, balancing consumer wants, company requirements, and societal welfare."
+    }
+]

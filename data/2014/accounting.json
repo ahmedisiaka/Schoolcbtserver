@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_161",
+      "text": "The minimum number of persons required to form a partnership business is:",
+      "image": "ACCO_2023_161.png",
+      "options": [
+        "One",
+        "Two",
+        "Five",
+        "Seven"
+      ],
+      "answer": "Two",
+      "explanation": "A partnership is legally defined as the relationship between persons who have agreed to share the profits of a business carried on by all or any of them acting for all, requiring a minimum of two partners."
+    },
+    {
+      "id": "ACCO_2023_162",
+      "text": "The difference between the Called-up Capital and the amount forfeited on shares is transferred to the:",
+      "image": "ACCO_2023_162.png",
+      "options": [
+        "Share Premium Account",
+        "Retained Earnings",
+        "Capital Reserve (or Forfeited Shares Account)",
+        "General Reserve"
+      ],
+      "answer": "Capital Reserve (or Forfeited Shares Account)",
+      "explanation": "The actual amount received and forfeited from the original shareholder is treated as a capital profit and is transferred to the Forfeited Shares Account, which forms part of Capital Reserve."
+    },
+    {
+      "id": "ACCO_2023_163",
+      "text": "The accounting concept that provides the basis for distinguishing between capital and revenue expenditure is the:",
+      "image": "ACCO_2023_163.png",
+      "options": [
+        "Materiality concept",
+        "Prudence concept",
+        "Going Concern concept",
+        "Consistency concept"
+      ],
+      "answer": "Going Concern concept",
+      "explanation": "If a business is assumed to operate indefinitely (Going Concern), assets can be amortized over their useful life, justifying treating some expenditures as Capital (long-term benefit) and others as Revenue (short-term benefit)."
+    },
+    {
+      "id": "ACCO_2023_164",
+      "text": "The account prepared by the Head Office to record the transactions of a branch that keeps its own set of books is the:",
+      "image": "ACCO_2023_164.png",
+      "options": [
+        "Branch Trading Account",
+        "Head Office Account",
+        "Branch Current Account",
+        "Branch Account"
+      ],
+      "answer": "Branch Account",
+      "explanation": "When a branch is independent (keeps its own books), the Head Office records its dealings with the branch in a 'Branch Account,' and the branch records its dealings with the Head Office in a 'Head Office Account.'"
+    },
+    {
+      "id": "ACCO_2023_165",
+      "text": "The formula (Total Assets - Total Liabilities) represents the:",
+      "image": "ACCO_2023_165.png",
+      "options": [
+        "Gross Profit",
+        "Working Capital",
+        "Owner's Equity (Capital)",
+        "Net Income"
+      ],
+      "answer": "Owner's Equity (Capital)",
+      "explanation": "This formula is a rearrangement of the accounting equation (Assets = Liabilities + Equity) and shows the residual claim of the owners on the assets of the business."
+    },
+    {
+      "id": "ACCO_2023_166",
+      "text": "The total cost of production plus opening work in progress minus closing work in progress equals the:",
+      "image": "ACCO_2023_166.png",
+      "options": [
+        "Prime Cost",
+        "Cost of Goods Sold",
+        "Cost of Goods Manufactured (or Works Cost)",
+        "Cost of Goods Available for Sale"
+      ],
+      "answer": "Cost of Goods Manufactured (or Works Cost)",
+      "explanation": "This calculation adjusts the period's production costs for the change in partially completed inventory (Work in Progress) to arrive at the cost of goods finished during the period."
+    },
+    {
+      "id": "ACCO_2023_167",
+      "text": "The primary objective of preparing departmental accounts is to:",
+      "image": "ACCO_2023_167.png",
+      "options": [
+        "Calculate the Gross Profit",
+        "Determine the profitability of each department separately",
+        "Control the total inventory of the business",
+        "Facilitate external audit"
+      ],
+      "answer": "Determine the profitability of each department separately",
+      "explanation": "Departmental accounts provide management with detailed insights into the performance of individual segments, aiding in decision-making regarding expansion or closure."
+    },
+    {
+      "id": "ACCO_2023_168",
+      "text": "The formula (Total Revenue / Working Capital) calculates the:",
+      "image": "ACCO_2023_168.png",
+      "options": [
+        "Working Capital Turnover Ratio",
+        "Net Profit Margin",
+        "Return on Equity",
+        "Acid Test Ratio"
+      ],
+      "answer": "Working Capital Turnover Ratio",
+      "explanation": "This ratio measures how effectively a company is using its working capital (current assets - current liabilities) to generate sales revenue."
+    },
+    {
+      "id": "ACCO_2023_169",
+      "text": "A debt that is considered a contingent liability is:",
+      "image": "ACCO_2023_169.png",
+      "options": [
+        "A long-term bank loan",
+        "Tax payable in 3 months",
+        "A potential future obligation dependent on a future event",
+        "Trade payables"
+      ],
+      "answer": "A potential future obligation dependent on a future event",
+      "explanation": "A contingent liability is a possible obligation that arises from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the entity."
+    },
+    {
+      "id": "ACCO_2023_170",
+      "text": "The accounting concept that prevents the overstatement of assets and understatement of liabilities is the:",
+      "image": "ACCO_2023_170.png",
+      "options": [
+        "Consistency concept",
+        "Matching concept",
+        "Prudence concept (Conservatism)",
+        "Historical Cost concept"
+      ],
+      "answer": "Prudence concept (Conservatism)",
+      "explanation": "Prudence requires caution when making judgments under conditions of uncertainty, leading accountants to recognize expenses/losses immediately but only recognize revenue/gains when realized."
+    },
+    {
+      "id": "ACCO_2023_171",
+      "text": "Which of these errors would lead to disagreement of the Trial Balance?",
+      "image": "ACCO_2023_171.png",
+      "options": [
+        "Error of principle",
+        "Error of complete omission",
+        "Single entry error",
+        "Compensating error"
+      ],
+      "answer": "Single entry error",
+      "explanation": "A single entry error (posting a transaction to only one account) violates the double-entry rule, directly causing the Trial Balance debit and credit totals to be unequal."
+    },
+    {
+      "id": "ACCO_2023_172",
+      "text": "The journal entry to close the Partner's Current Account (if it has a debit balance) upon dissolution of the firm is to:",
+      "image": "ACCO_2023_172.png",
+      "options": [
+        "Debit Realization Account",
+        "Credit Partner's Capital Account",
+        "Debit Partner's Capital Account",
+        "Credit Bank Account"
+      ],
+      "answer": "Debit Partner's Capital Account",
+      "explanation": "A debit balance in the Current Account is a debt owed by the partner to the firm. To close it, the Current Account is credited, and the debt is transferred by debiting the Partner's Capital Account."
+    },
+    {
+      "id": "ACCO_2023_173",
+      "text": "The formula (Total Assets - Intangible Assets - Current Liabilities) calculates:",
+      "image": "ACCO_2023_173.png",
+      "options": [
+        "Working Capital",
+        "Tangible Net Worth",
+        "Capital Employed",
+        "Quick Assets"
+      ],
+      "answer": "Tangible Net Worth",
+      "explanation": "Tangible Net Worth represents the owners' residual claim on the tangible assets of the business (Total Assets - Intangible Assets) after deducting all liabilities."
+    },
+    {
+      "id": "ACCO_2023_174",
+      "text": "When shares are issued at a price lower than their nominal value, it is called issue at a:",
+      "image": "ACCO_2023_174.png",
+      "options": [
+        "Premium",
+        "Discount",
+        "Par",
+        "Market Value"
+      ],
+      "answer": "Discount",
+      "explanation": "Issue at a discount is generally prohibited by law in many jurisdictions as it violates the principle of capital maintenance, although exceptions exist for reissued shares."
+    },
+    {
+      "id": "ACCO_2023_175",
+      "text": "The ratio that indicates the ability of the firm to pay its creditors in the short term, excluding inventory, is the:",
+      "image": "ACCO_2023_175.png",
+      "options": [
+        "Current Ratio",
+        "Debt Ratio",
+        "Acid Test Ratio (Quick Ratio)",
+        "Return on Investment"
+      ],
+      "answer": "Acid Test Ratio (Quick Ratio)",
+      "explanation": "The Quick Ratio focuses on the most liquid assets (Current Assets - Inventory) because inventory can often take time to sell and convert to cash."
+    },
+    {
+      "id": "ACCO_2023_176",
+      "text": "The legal document that allows a company to invite the public to subscribe for its shares or debentures is the:",
+      "image": "ACCO_2023_176.png",
+      "options": [
+        "Memorandum of Association",
+        "Prospectus",
+        "Certificate of Incorporation",
+        "Articles of Association"
+      ],
+      "answer": "Prospectus",
+      "explanation": "A Prospectus is a formal legal document required by and filed with a statutory body that provides details about an investment offering for sale to the public."
+    },
+    {
+      "id": "ACCO_2023_177",
+      "text": "The main purpose of preparing a Manufacturing Account is to ascertain the:",
+      "image": "ACCO_2023_177.png",
+      "options": [
+        "Net Profit for the year",
+        "Total Prime Cost",
+        "Cost of Goods Manufactured (Production)",
+        "Gross Profit on Trading"
+      ],
+      "answer": "Cost of Goods Manufactured (Production)",
+      "explanation": "The Manufacturing Account brings together all costs related to the production process (direct materials, direct labor, overheads) to find the total cost of finished goods."
+    },
+    {
+      "id": "ACCO_2023_178",
+      "text": "The payment of interest on debentures is treated in the Statement of Profit or Loss as a:",
+      "image": "ACCO_2023_178.png",
+      "options": [
+        "Direct Expense",
+        "Appropriation of Profit",
+        "Finance Cost",
+        "Capital Expenditure"
+      ],
+      "answer": "Finance Cost",
+      "explanation": "Interest on debentures is a cost of borrowing and is recorded as a Finance Cost (expense) before calculating Profit Before Tax, unlike dividends which are appropriations."
+    },
+    {
+      "id": "ACCO_2023_179",
+      "text": "The concept of 'substance over form' is most closely associated with the accounting principle of:",
+      "image": "ACCO_2023_179.png",
+      "options": [
+        "Historical Cost",
+        "Materiality",
+        "Accrual Basis",
+        "Prudence"
+      ],
+      "answer": "Accrual Basis",
+      "explanation": "The Accrual Basis, along with IFRS/GAAP principles, dictates that transactions should be accounted for based on their economic reality (substance) rather than merely their legal form."
+    },
+    {
+      "id": "ACCO_2023_180",
+      "text": "Which of the following is a direct cost in a service firm (e.g., a law firm)?",
+      "image": "ACCO_2023_180.png",
+      "options": [
+        "Rent of the office building",
+        "Salary of the managing partner",
+        "Fee paid to a specialized consultant for a specific client case",
+        "Depreciation of office computers"
+      ],
+      "answer": "Fee paid to a specialized consultant for a specific client case",
+      "explanation": "Direct costs in a service firm are those costs that can be specifically and economically traced to a particular service or client job, such as external consulting fees for that case."
+    },
+    {
+      "id": "ACCO_2023_181",
+      "text": "If a partner retires and their share of profit is taken up by the remaining partners, the ratio used to distribute the retiring partner's share is the:",
+      "image": "ACCO_2023_181.png",
+      "options": [
+        "Sacrificing Ratio",
+        "Gaining Ratio",
+        "Old Profit Sharing Ratio",
+        "Capital Ratio"
+      ],
+      "answer": "Gaining Ratio",
+      "explanation": "The Gaining Ratio represents the proportional increase in the profit share of the continuing partners."
+    },
+    {
+      "id": "ACCO_2023_182",
+      "text": "The ratio (Current Assets / Current Liabilities) is known as the:",
+      "image": "ACCO_2023_182.png",
+      "options": [
+        "Gearing Ratio",
+        "Asset Turnover Ratio",
+        "Current Ratio (Working Capital Ratio)",
+        "Profitability Ratio"
+      ],
+      "answer": "Current Ratio (Working Capital Ratio)",
+      "explanation": "The Current Ratio is a liquidity ratio that measures a company's ability to cover its short-term debts with its short-term assets."
+    },
+    {
+      "id": "ACCO_2023_183",
+      "text": "The part of the uncalled capital that a company decides not to call up except in the event of liquidation is known as:",
+      "image": "ACCO_2023_183.png",
+      "options": [
+        "Issued Capital",
+        "Authorized Capital",
+        "Reserve Capital",
+        "Forfeited Shares"
+      ],
+      "answer": "Reserve Capital",
+      "explanation": "Reserve Capital is a statutory measure where a portion of the uncalled capital is kept aside by special resolution, callable only during winding up."
+    },
+    {
+      "id": "ACCO_2023_184",
+      "text": "The term used for goods received on credit that are not yet recorded at the year-end is:",
+      "image": "ACCO_2023_184.png",
+      "options": [
+        "Goods in transit",
+        "Unrecorded purchases",
+        "Returns outwards",
+        "Consignment goods"
+      ],
+      "answer": "Unrecorded purchases",
+      "explanation": "Unrecorded purchases (omitted purchases) must be adjusted for at year-end to ensure the Purchases Account, Creditors, and Inventory are correctly stated (Matching concept)."
+    },
+    {
+      "id": "ACCO_2023_185",
+      "text": "The method of depreciation where the depreciation charge is highest in the first year and decreases annually is the:",
+      "image": "ACCO_2023_185.png",
+      "options": [
+        "Straight-Line Method",
+        "Revaluation Method",
+        "Reducing Balance Method",
+        "Sum-of-the-years' Digits Method"
+      ],
+      "answer": "Reducing Balance Method",
+      "explanation": "The Reducing Balance Method applies a constant percentage to a continually decreasing carrying amount (Net Book Value), resulting in higher initial depreciation."
+    },
+    {
+      "id": "ACCO_2023_186",
+      "text": "The total amount of cash paid to trade creditors during a period can be found in the:",
+      "image": "ACCO_2023_186.png",
+      "options": [
+        "Purchases Journal",
+        "Sales Ledger Control Account",
+        "Cash Book (Payments Side)",
+        "Statement of Financial Position"
+      ],
+      "answer": "Cash Book (Payments Side)",
+      "explanation": "The Cash Book records all cash outflows, and payments to creditors are a major outflow, recorded on the credit (payments) side."
+    },
+    {
+      "id": "ACCO_2023_187",
+      "text": "The main purpose of setting up a Provision for Discount Allowed is to comply with the:",
+      "image": "ACCO_2023_187.png",
+      "options": [
+        "Going Concern concept",
+        "Realization principle",
+        "Prudence concept",
+        "Consistency concept"
+      ],
+      "answer": "Prudence concept",
+      "explanation": "The Provision for Discount Allowed anticipates a potential future expense (discount to be given to debtors) and is set up due to the principle of prudence."
+    },
+    {
+      "id": "ACCO_2023_188",
+      "text": "The ratio (Net Profit / Sales Revenue) $\\times$ 100 calculates the:",
+      "image": "ACCO_2023_188.png",
+      "options": [
+        "Gross Profit Margin",
+        "Net Profit Margin",
+        "Return on Capital Employed",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Net Profit Margin",
+      "explanation": "The Net Profit Margin shows the percentage of sales revenue remaining after all costs and expenses (including financing costs and tax) have been deducted."
+    },
+    {
+      "id": "ACCO_2023_189",
+      "text": "A transfer of a partner's personal expenses from the firm's Cash Book to their Current Account is recorded in the:",
+      "image": "ACCO_2023_189.png",
+      "options": [
+        "Profit and Loss Account",
+        "Partner's Loan Account",
+        "Journal Proper",
+        "Realization Account"
+      ],
+      "answer": "Journal Proper",
+      "explanation": "This transfer is a non-routine adjustment and is typically done through the Journal Proper: Debit Partner's Current Account (Drawings) and Credit the appropriate expense/cash account."
+    },
+    {
+      "id": "ACCO_2023_190",
+      "text": "The accounting standard dealing with events that occur after the reporting period but before the financial statements are issued is:",
+      "image": "ACCO_2023_190.png",
+      "options": [
+        "IAS 10 (Events After the Reporting Period)",
+        "IAS 1 (Presentation)",
+        "IFRS 15 (Revenue)",
+        "IAS 7 (Cash Flows)"
+      ],
+      "answer": "IAS 10 (Events After the Reporting Period)",
+      "explanation": "IAS 10 dictates how entities should account for and disclose events that occur between the end of the reporting period and the date the financial statements are authorized for issue."
+    },
+    {
+      "id": "ACCO_2023_191",
+      "text": "When a company issues shares at a price above the nominal value, the excess amount is:",
+      "image": "ACCO_2023_191.png",
+      "options": [
+        "A revenue reserve",
+        "A capital reserve (Share Premium)",
+        "A current liability",
+        "Taxable income"
+      ],
+      "answer": "A capital reserve (Share Premium)",
+      "explanation": "The share premium is a capital reserve and is generally non-distributable, meaning it cannot be used to pay dividends."
+    },
+    {
+      "id": "ACCO_2023_192",
+      "text": "The term for a cost that remains constant in total regardless of the level of activity within a relevant range is:",
+      "image": "ACCO_2023_192.png",
+      "options": [
+        "Variable Cost",
+        "Fixed Cost",
+        "Prime Cost",
+        "Semi-Variable Cost"
+      ],
+      "answer": "Fixed Cost",
+      "explanation": "Fixed costs, such as rent or insurance, do not change in total amount as the volume of production changes."
+    },
+    {
+      "id": "ACCO_2023_193",
+      "text": "The total amount of depreciation for a non-current asset over its entire useful life is called the:",
+      "image": "ACCO_2023_193.png",
+      "options": [
+        "Net Book Value",
+        "Accumulated Depreciation",
+        "Depreciable Amount",
+        "Residual Value"
+      ],
+      "answer": "Depreciable Amount",
+      "explanation": "The Depreciable Amount is the cost of an asset (or other amount substituted for cost) less its residual value."
+    },
+    {
+      "id": "ACCO_2023_194",
+      "text": "The main disadvantage of unlimited liability in a partnership is that:",
+      "image": "ACCO_2023_194.png",
+      "options": [
+        "Profits must be shared equally",
+        "Partners' personal assets can be used to pay business debts",
+        "The business is difficult to dissolve",
+        "Capital contribution is fixed"
+      ],
+      "answer": "Partners' personal assets can be used to pay business debts",
+      "explanation": "Unlimited liability means the partners are personally responsible for the debts of the business, which is the key risk of this structure."
+    },
+    {
+      "id": "ACCO_2023_195",
+      "text": "An error that occurs when a transaction is completely omitted from the books but the two corresponding amounts are incorrectly recorded, thus balancing the Trial Balance, is known as:",
+      "image": "ACCO_2023_195.png",
+      "options": [
+        "Error of principle",
+        "Error of original entry",
+        "Error of omission",
+        "Error of commission"
+      ],
+      "answer": "Error of original entry",
+      "explanation": "An Error of Original Entry occurs when an amount is incorrectly entered in the book of prime entry, but this incorrect amount is then posted correctly (in terms of debit/credit) to both ledger accounts."
+    },
+    {
+      "id": "ACCO_2023_196",
+      "text": "The cost of labor used for maintenance and supervision in the factory is classified as:",
+      "image": "ACCO_2023_196.png",
+      "options": [
+        "Direct Labor",
+        "Selling Overhead",
+        "Indirect Labor (Manufacturing Overhead)",
+        "Prime Cost"
+      ],
+      "answer": "Indirect Labor (Manufacturing Overhead)",
+      "explanation": "Indirect labor costs are necessary for production but cannot be directly traced to a specific product unit."
+    },
+    {
+      "id": "ACCO_2023_197",
+      "text": "The maximum authorized capital of a company can be altered by a:",
+      "image": "ACCO_2023_197.png",
+      "options": [
+        "Board of Directors resolution",
+        "Ordinary resolution of shareholders",
+        "Special resolution and alteration of the Memorandum of Association",
+        "Approval of the Chief Accountant"
+      ],
+      "answer": "Special resolution and alteration of the Memorandum of Association",
+      "explanation": "Altering the Authorized Capital is a fundamental change to the company's constitution, requiring a special resolution and, in most cases, approval from the Companies Registrar."
+    },
+    {
+      "id": "ACCO_2023_198",
+      "text": "The document prepared by a dependent branch to periodically report its transactions to the Head Office is the:",
+      "image": "ACCO_2023_198.png",
+      "options": [
+        "Branch Profit and Loss Account",
+        "Petty Cash Book",
+        "Returns Inwards Journal",
+        "Summary of Transactions (or Daily Report)"
+      ],
+      "answer": "Summary of Transactions (or Daily Report)",
+      "explanation": "A dependent branch does not keep full books but sends periodic summaries (reports) to the Head Office for centralized recording."
+    },
+    {
+      "id": "ACCO_2023_199",
+      "text": "The ratio (EBIT / Interest Expense) calculates the:",
+      "image": "ACCO_2023_199.png",
+      "options": [
+        "Return on Equity",
+        "Interest Cover Ratio",
+        "Debt-to-Assets Ratio",
+        "Net Profit Margin"
+      ],
+      "answer": "Interest Cover Ratio",
+      "explanation": "The Interest Cover Ratio (Earnings Before Interest and Tax / Interest Expense) measures the company's ability to cover its interest obligations from its operating profits."
+    },
+    {
+      "id": "ACCO_2023_200",
+      "text": "The final stage in the life cycle of a partnership business is:",
+      "image": "ACCO_2023_200.png",
+      "options": [
+        "Admission of a new partner",
+        "Change in profit sharing ratio",
+        "Dissolution (Winding Up)",
+        "Preparation of final accounts"
+      ],
+      "answer": "Dissolution (Winding Up)",
+      "explanation": "Dissolution is the cessation of the relationship between all partners and leads to the winding up of the business's affairs."
+    }
+  ]

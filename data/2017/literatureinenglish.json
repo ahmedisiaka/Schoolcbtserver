@@ -1,0 +1,522 @@
+[
+    {
+        "id": "L801",
+        "text": "In Buchi Emecheta's $\\textbf{Second Class Citizen}$, Adah's husband $\\textbf{Francis}$ fails his $\\textbf{Accounting}$ exams repeatedly, blaming his failure on $\\textbf{Adah}$ and her noise.",
+        "image": "",
+        "options": [
+            "Law",
+            "Medical",
+            "Accounting",
+            "Engineering"
+        ],
+        "answer": "Accounting",
+        "explanation": "Francis's inability to pass his Cost and Works Accounting exams adds to his resentment toward Adah."
+    },
+    {
+        "id": "L802",
+        "text": "The literary device used in the phrase '$\textbf{All hands on deck}$' is $\\textbf{Synecdoche}$, where a part (hands) represents the $\\textbf{Whole}$ (sailors/people).",
+        "image": "",
+        "options": [
+            "Metonymy",
+            "Synecdoche",
+            "Metaphor",
+            "Simile"
+        ],
+        "answer": "Synecdoche",
+        "explanation": "Synecdoche is a specific type of metonymy where a part stands for the whole."
+    },
+    {
+        "id": "L803",
+        "text": "In Alex Agyei-Agyiri's $\\textbf{Unexpected Joy at Dawn}$, Nii Tackie works at the $\\textbf{Expense Bank}$ in Accra before he is forced to flee due to the $\\textbf{Alien Compliance Order}$.",
+        "image": "",
+        "options": [
+            "Central Bank",
+            "Expense Bank",
+            "National Bank",
+            "People's Bank"
+        ],
+        "answer": "Expense Bank",
+        "explanation": "Despite his respectable position as an assistant manager, his alien status threatens his livelihood."
+    },
+    {
+        "id": "L804",
+        "text": "In August Wilson's $\\textbf{Fences}$, Troy Maxson works as a $\\textbf{Garbage Collector}$, a job he fought to integrate so he could $\\textbf{Drive}$ the truck.",
+        "image": "",
+        "options": [
+            "Coal Miner",
+            "Factory Worker",
+            "Garbage Collector",
+            "Carpenter"
+        ],
+        "answer": "Garbage Collector",
+        "explanation": "Troy's promotion to driver is a significant victory, though it isolates him from his coworkers."
+    },
+    {
+        "id": "L805",
+        "text": "The poem '$\\textbf{Piano and Drums}$' by Gabriel Okara explores the $\\textbf{Cultural Conflict}$ between the $\\textbf{complexities}$ of the West and the $\\textbf{primal}$ nature of Africa.",
+        "image": "",
+        "options": [
+            "Musical Theory",
+            "Cultural Conflict",
+            "War and Peace",
+            "Childhood Memories"
+        ],
+        "answer": "Cultural Conflict",
+        "explanation": "The instruments symbolize the two differing cultures pulling at the poet's identity."
+    },
+    {
+        "id": "L806",
+        "text": "In John Osborne's $\\textbf{Look Back in Anger}$, Jimmy Porter often mocks his wife's brother, $\\textbf{Nigel}$, referring to him as the '$\\textbf{Chinless Wonder}$' of Parliament.",
+        "image": "",
+        "options": [
+            "Cliff",
+            "Hugh",
+            "Nigel",
+            "Webster"
+        ],
+        "answer": "Nigel",
+        "explanation": "Nigel represents the vague, ineffective political establishment that Jimmy despises."
+    },
+    {
+        "id": "L807",
+        "text": "In Wole Soyinka's $\\textbf{The Lion and the Jewel}$, Baroka seduces Sidi not with force, but with the promise of immortalizing her beauty on a $\\textbf{Postage Stamp}$.",
+        "image": "",
+        "options": [
+            "Magazine Cover",
+            "Postage Stamp",
+            "Billboard",
+            "Statue"
+        ],
+        "answer": "Postage Stamp",
+        "explanation": "This clever lie appeals to Sidi's vanity, allowing Baroka to win her over."
+    },
+    {
+        "id": "L808",
+        "text": "The point of highest tension in a narrative, which determines the outcome of the conflict, is the $\\textbf{Climax}$.",
+        "image": "",
+        "options": [
+            "Exposition",
+            "Climax",
+            "Resolution",
+            "Falling Action"
+        ],
+        "answer": "Climax",
+        "explanation": "It is the turning point of the story."
+    },
+    {
+        "id": "L809",
+        "text": "In $\\textbf{Invisible Man}$, the narrator works at $\\textbf{Liberty Paints}$ where he is told to add $\\textbf{10 drops}$ of a black liquid to make the paint $\\textbf{Optic White}$.",
+        "image": "",
+        "options": [
+            "5 drops",
+            "10 drops",
+            "20 drops",
+            "1 drop"
+        ],
+        "answer": "10 drops",
+        "explanation": "This serves as an allegory for how black labor is used to build white society while remaining invisible."
+    },
+    {
+        "id": "L810",
+        "text": "A speech in a play where a character speaks their thoughts aloud to the audience while alone on stage is a $\\textbf{Soliloquy}$.",
+        "image": "",
+        "options": [
+            "Monologue",
+            "Dialogue",
+            "Soliloquy",
+            "Aside"
+        ],
+        "answer": "Soliloquy",
+        "explanation": "Soliloquies reveal the internal state of the character (e.g., Macbeth's 'Is this a dagger')."
+    },
+    {
+        "id": "L811",
+        "text": "In $\\textbf{Wuthering Heights}$, the character $\\textbf{Joseph}$ is a religious servant who speaks in a thick $\\textbf{Yorkshire Dialect}$ and constantly judges the other characters.",
+        "image": "",
+        "options": [
+            "Nelly",
+            "Zillah",
+            "Joseph",
+            "Hareton"
+        ],
+        "answer": "Joseph",
+        "explanation": "His harsh, hypocritical piety serves as a critique of religious self-righteousness."
+    },
+    {
+        "id": "L812",
+        "text": "The poem '$\\textbf{The Panic of Growing Older}$' suggests that as one ages, the $\\textbf{Hopes}$ of youth are replaced by the $\\textbf{Reality}$ of survival.",
+        "image": "",
+        "options": [
+            "Dreams",
+            "Hopes",
+            "Fears",
+            "Joys"
+        ],
+        "answer": "Hopes",
+        "explanation": "The poem traces the transition from the ambition of youth to the domestic contentment or resignation of age."
+    },
+    {
+        "id": "L813",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah's daughter $\\textbf{Titi}$ is almost given away to a foster family because Francis says she 'talks too much' in $\\textbf{Yoruba}$.",
+        "image": "",
+        "options": [
+            "Igbo",
+            "Hausa",
+            "Yoruba",
+            "English"
+        ],
+        "answer": "Yoruba",
+        "explanation": "Francis tries to suppress their Nigerian identity to assimilate, forbidding the children from speaking their native tongue."
+    },
+    {
+        "id": "L814",
+        "text": "The repetition of the same consonant sound at the beginning of words in a line is called $\\textbf{Alliteration}$.",
+        "image": "",
+        "options": [
+            "Assonance",
+            "Alliteration",
+            "Consonance",
+            "Rhyme"
+        ],
+        "answer": "Alliteration",
+        "explanation": "Example: 'Peter Piper picked a peck...'"
+    },
+    {
+        "id": "L815",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, Mama Orojo's construction company is named '$\\textbf{Mama Orojo Construction}$', symbolizing her independence in a $\\textbf{Male-Dominated}$ field.",
+        "image": "",
+        "options": [
+            "Amen Construction",
+            "Orojo & Sons",
+            "Mama Orojo Construction",
+            "Accra Builders"
+        ],
+        "answer": "Mama Orojo Construction",
+        "explanation": "Her success is self-made, contrasting with the struggles of the male characters like Nii."
+    },
+    {
+        "id": "L816",
+        "text": "In $\\textbf{Fences}$, the character $\\textbf{Bono}$ stops coming around to drink with Troy after Troy betrays $\\textbf{Rose}$, signaling a loss of respect.",
+        "image": "",
+        "options": [
+            "Lyons",
+            "Cory",
+            "Bono",
+            "Gabriel"
+        ],
+        "answer": "Bono",
+        "explanation": "Bono's distancing marks the moral decline of Troy's character in the eyes of his peers."
+    },
+    {
+        "id": "L817",
+        "text": "A deliberate understatement, often used for ironic effect (e.g., calling a mortal wound a 'scratch'), is $\\textbf{Litotes}$.",
+        "image": "",
+        "options": [
+            "Hyperbole",
+            "Litotes",
+            "Metaphor",
+            "Simile"
+        ],
+        "answer": "Litotes",
+        "explanation": "Litotes affirms something by negating the opposite (e.g., 'Not bad')."
+    },
+    {
+        "id": "L818",
+        "text": "In $\\textbf{Look Back in Anger}$, Jimmy plays the $\\textbf{Trumpet}$ loudly to assert his presence and annoy the neighbors and his wife.",
+        "image": "",
+        "options": [
+            "Drums",
+            "Trumpet",
+            "Guitar",
+            "Piano"
+        ],
+        "answer": "Trumpet",
+        "explanation": "The jazz trumpet represents his rebellious spirit and desire to be heard."
+    },
+    {
+        "id": "L819",
+        "text": "In $\\textbf{The Lion and the Jewel}$, Lakunle refuses to pay the bride price because he considers it a '$\\textbf{Savage Custom}$' that turns a wife into $\\textbf{Property}$.",
+        "image": "",
+        "options": [
+            "Holy Ritual",
+            "Savage Custom",
+            "Necessary Evil",
+            "Small Fee"
+        ],
+        "answer": "Savage Custom",
+        "explanation": "Lakunle's rejection of tradition is based on his superficial understanding of Western modernity."
+    },
+    {
+        "id": "L820",
+        "text": "The central idea or message of a literary work is called the $\\textbf{Theme}$.",
+        "image": "",
+        "options": [
+            "Plot",
+            "Setting",
+            "Theme",
+            "Character"
+        ],
+        "answer": "Theme",
+        "explanation": "Themes are the universal concepts explored in the text."
+    },
+    {
+        "id": "L821",
+        "text": "In $\\textbf{Invisible Man}$, the narrator receives a scholarship from the white men at the Battle Royal to attend a $\\textbf{State College for Negroes}$.",
+        "image": "",
+        "options": [
+            "Ivy League School",
+            "State College for Negroes",
+            "Art School",
+            "Law School"
+        ],
+        "answer": "State College for Negroes",
+        "explanation": "The scholarship is granted only after he endures humiliation, symbolizing the cost of black advancement in that society."
+    },
+    {
+        "id": "L822",
+        "text": "The poem '$\\textbf{The Grieved Lands}$' by Agostinho Neto depicts the $\\textbf{Endurance}$ of Africa despite centuries of $\\textbf{Slavery}$ and colonization.",
+        "image": "",
+        "options": [
+            "Defeat",
+            "Endurance",
+            "Wealth",
+            "Happiness"
+        ],
+        "answer": "Endurance",
+        "explanation": "The 'grieved lands' are not defeated; they are alive with the 'imperishable particles' of the people."
+    },
+    {
+        "id": "L823",
+        "text": "In $\\textbf{Wuthering Heights}$, Catherine Earnshaw marries $\\textbf{Edgar Linton}$ instead of Heathcliff because she believes marrying Heathcliff would $\\textbf{Degrade}$ her socially.",
+        "image": "",
+        "options": [
+            "Save",
+            "Kill",
+            "Degrade",
+            "Honor"
+        ],
+        "answer": "Degrade",
+        "explanation": "This decision is the tragic mistake that drives the rest of the novel's conflict."
+    },
+    {
+        "id": "L824",
+        "text": "A narrative technique where the story begins in the middle of the action is called $\\textbf{In Medias Res}$.",
+        "image": "",
+        "options": [
+            "Ab Ovo",
+            "In Medias Res",
+            "Flashback",
+            "Foreshadowing"
+        ],
+        "answer": "In Medias Res",
+        "explanation": "Latin for 'in the midst of things', often used in epic poetry."
+    },
+    {
+        "id": "L825",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah is delivered of her third child, a boy named $\\textbf{Bubu}$, shortly after arriving in London.",
+        "image": "",
+        "options": [
+            "Titi",
+            "Vicky",
+            "Bubu",
+            "Dada"
+        ],
+        "answer": "Bubu",
+        "explanation": "The birth of her children marks the passage of time and the increasing burden on Adah."
+    },
+    {
+        "id": "L826",
+        "text": "The use of words to convey the opposite of their literal meaning is $\\textbf{Irony}$.",
+        "image": "",
+        "options": [
+            "Symbolism",
+            "Irony",
+            "Imagery",
+            "Tone"
+        ],
+        "answer": "Irony",
+        "explanation": "Specifically verbal irony."
+    },
+    {
+        "id": "L827",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, the character $\\textbf{Aaron}$ is a scientist who creates a formula called '$\\textbf{Ant Hill}$' meant to revolutionize construction.",
+        "image": "",
+        "options": [
+            "Gold Dust",
+            "Ant Hill",
+            "Cocoa Mix",
+            "Sand Stone"
+        ],
+        "answer": "Ant Hill",
+        "explanation": "His project fails to get funding due to corruption and lack of vision in the leadership."
+    },
+    {
+        "id": "L828",
+        "text": "The poem '$\\textbf{Crossing the Bar}$' is an extended metaphor for the poet's acceptance of $\\textbf{Death}$.",
+        "image": "",
+        "options": [
+            "Marriage",
+            "Birth",
+            "Death",
+            "Retirement"
+        ],
+        "answer": "Death",
+        "explanation": "Tennyson asks for 'no sadness of farewell' when he embarks on his final voyage."
+    },
+    {
+        "id": "L829",
+        "text": "In $\\textbf{Fences}$, the unfinished $\\textbf{Fence}$ in the backyard represents the unfinished business in $\\textbf{Troy}$'s life and relationships.",
+        "image": "",
+        "options": [
+            "Car",
+            "Roof",
+            "Fence",
+            "Porch"
+        ],
+        "answer": "Fence",
+        "explanation": "The play ends with the fence still playing a role in the family dynamic."
+    },
+    {
+        "id": "L830",
+        "text": "A comparison of two things using 'like' or 'as' is a $\\textbf{Simile}$.",
+        "image": "",
+        "options": [
+            "Metaphor",
+            "Simile",
+            "Personification",
+            "Hyperbole"
+        ],
+        "answer": "Simile",
+        "explanation": "Example: 'My love is like a red, red rose'."
+    },
+    {
+        "id": "L831",
+        "text": "In $\\textbf{Look Back in Anger}$, Alison's friend $\\textbf{Helena Charles}$ is an $\\textbf{Actress}$ who comes to stay, disrupting the household dynamic.",
+        "image": "",
+        "options": [
+            "Teacher",
+            "Nurse",
+            "Actress",
+            "Writer"
+        ],
+        "answer": "Actress",
+        "explanation": "Helena is a symbol of the establishment but finds herself drawn to Jimmy's raw energy."
+    },
+    {
+        "id": "L832",
+        "text": "In $\\textbf{Invisible Man}$, the narrator lives in a basement illuminated by $\\textbf{1,369}$ light bulbs, stealing power from $\\textbf{Monopolated Light & Power}$.",
+        "image": "",
+        "options": [
+            "100",
+            "500",
+            "1,369",
+            "2,000"
+        ],
+        "answer": "1,369",
+        "explanation": "The excessive light allows him to see himself and validate his existence against the darkness of invisibility."
+    },
+    {
+        "id": "L833",
+        "text": "The recurrence of similar vowel sounds in neighboring words is $\\textbf{Assonance}$.",
+        "image": "",
+        "options": [
+            "Consonance",
+            "Assonance",
+            "Alliteration",
+            "Rhyme"
+        ],
+        "answer": "Assonance",
+        "explanation": "Example: 'Try to light the fire'."
+    },
+    {
+        "id": "L834",
+        "text": "In $\\textbf{The Lion and the Jewel}$, $\\textbf{Sidi}$ is the village $\\textbf{Belle}$ (beauty) who is courted by both the schoolteacher and the chief.",
+        "image": "",
+        "options": [
+            "Queen",
+            "Belle",
+            "Witch",
+            "Trader"
+        ],
+        "answer": "Belle",
+        "explanation": "Her beauty is the central conflict of the play."
+    },
+    {
+        "id": "L835",
+        "text": "In $\\textbf{Wuthering Heights}$, the estate $\\textbf{Thrushcross Grange}$ is the home of the $\\textbf{Lintons}$, representing civilization and gentility.",
+        "image": "",
+        "options": [
+            "Earnshaws",
+            "Lintons",
+            "Heathcliffs",
+            "Lockwoods"
+        ],
+        "answer": "Lintons",
+        "explanation": "It contrasts with the wild, stormy nature of the Earnshaws' home."
+    },
+    {
+        "id": "L836",
+        "text": "A fourteen-line poem written in iambic pentameter is a $\\textbf{Sonnet}$.",
+        "image": "",
+        "options": [
+            "Ballad",
+            "Ode",
+            "Sonnet",
+            "Limerick"
+        ],
+        "answer": "Sonnet",
+        "explanation": "Often associated with Shakespeare and themes of love."
+    },
+    {
+        "id": "L837",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah finds solace in $\\textbf{Writing}$, eventually completing a manuscript called 'The Bride Price'.",
+        "image": "",
+        "options": [
+            "Cooking",
+            "Writing",
+            "Singing",
+            "Painting"
+        ],
+        "answer": "Writing",
+        "explanation": "Writing allows her to escape her reality and express her true self."
+    },
+    {
+        "id": "L838",
+        "text": "The poem '$\\textbf{The School Boy}$' by William Blake criticizes the way formal education strips children of their natural $\\textbf{Joy}$ and freedom.",
+        "image": "",
+        "options": [
+            "Ignorance",
+            "Joy",
+            "Wealth",
+            "Health"
+        ],
+        "answer": "Joy",
+        "explanation": "Blake compares the school boy to a bird in a cage."
+    },
+    {
+        "id": "L839",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, the reunion of Nii Tackie and Mama Orojo takes place in $\\textbf{Ghana}$ after many trials.",
+        "image": "",
+        "options": [
+            "Nigeria",
+            "Ghana",
+            "Togo",
+            "Benin"
+        ],
+        "answer": "Ghana",
+        "explanation": "The 'joy' of the title is realized in this final meeting."
+    },
+    {
+        "id": "L840",
+        "text": "A statement that seems self-contradictory but contains a possible truth is a $\\textbf{Paradox}$.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Paradox",
+            "Metaphor",
+            "Symbol"
+        ],
+        "answer": "Paradox",
+        "explanation": "Example: 'The beginning of the end'."
+    }
+]

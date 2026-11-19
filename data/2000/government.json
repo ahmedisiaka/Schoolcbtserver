@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G881",
+        "text": "The key constitutional issue in the $\\textbf{2000}$ election case, $\\textbf{Bush v. Gore}$, was the violation of the $\\textbf{Equal Protection Clause}$ by using $\\textbf{Differing}$ standards for $\\textbf{Counting}$ votes across $\\textbf{Florida}$ counties.",
+        "image": "",
+        "options": [
+            "Full Faith and Credit Clause",
+            "Establishment Clause",
+            "Equal Protection Clause",
+            "Necessary and Proper Clause"
+        ],
+        "answer": "Equal Protection Clause",
+        "explanation": "The Supreme Court ruled that manual recounts without consistent, statewide standards violated the Equal Protection Clause of the Fourteenth Amendment because some votes were valued differently than others."
+    },
+    {
+        "id": "G882",
+        "text": "The controversy surrounding the $\\textbf{2000}$ election primarily centered on the mandatory $\\textbf{Recount}$ of $\\textbf{Votes}$ in the state of $\\textbf{Florida}$ due to the extremely $\\textbf{Narrow}$ $\\textbf{Margin}$ of victory.",
+        "image": "",
+        "options": [
+            "Ohio",
+            "Pennsylvania",
+            "Florida",
+            "Texas"
+        ],
+        "answer": "Florida",
+        "explanation": "Florida’s 25 electoral votes were the deciding factor, and the margin was so small (under 0.5%) that it triggered an automatic recount."
+    },
+    {
+        "id": "G883",
+        "text": "The most famous $\\textbf{Ballot}$ issue during the Florida recount involved the $\\textbf{Punch-Card}$ system, where partially detached pieces of paper known as '$\\textbf{Hanging Chads}$' led to disputes over $\\textbf{Voter}$ $\\textbf{Intent}$.",
+        "image": "",
+        "options": [
+            "Butterfly Ballot",
+            "Absentee Ballot",
+            "Provisional Ballot",
+            "Hanging Chads"
+        ],
+        "answer": "Hanging Chads",
+        "explanation": "A 'chad' is the small piece punched out of a ballot. If it was 'hanging' or 'dimpled,' it was unclear whether the voter intended to cast a vote."
+    },
+    {
+        "id": "G884",
+        "text": "The $\\textbf{U.S. Supreme Court}$ ultimately halted the $\\textbf{Recount}$ in Florida, arguing that there was $\\textbf{Not}$ enough $\\textbf{Time}$ to implement a $\\textbf{Constitutional}$ recount procedure before the $\\textbf{Safe Harbor}$ deadline for electoral votes.",
+        "image": "",
+        "options": [
+            "Federal Election Commission",
+            "Florida State Supreme Court",
+            "U.S. Supreme Court",
+            "U.S. Court of Appeals for the 11th Circuit"
+        ],
+        "answer": "U.S. Supreme Court",
+        "explanation": "In Bush v. Gore, the Supreme Court ruled the lack of uniform standards was unconstitutional and, lacking time for a proper remedy, halted the recount permanently."
+    },
+    {
+        "id": "G885",
+        "text": "The $\\textbf{Due Process Clause}$ of the $\\textbf{Fourteenth Amendment}$ was also central to $\\textbf{Bush v. Gore}$, as $\\textbf{Unclear}$ and $\\textbf{Inconsistent}$ ballot $\\textbf{Counting}$ standards can deprive a citizen of their $\\textbf{Right}$ to $\\textbf{Vote}$ fairly.",
+        "image": "",
+        "options": [
+            "Free Speech Clause",
+            "Due Process Clause",
+            "Takings Clause",
+            "Establishment Clause"
+        ],
+        "answer": "Due Process Clause",
+        "explanation": "Due process ensures fair administration of the law. The Court argued that the constantly shifting and unclear standards for counting votes violated the voters' due process rights."
+    },
+    {
+        "id": "G886",
+        "text": "The $\\textbf{2000}$ election was the $\\textbf{Fourth}$ time in U.S. history that the $\\textbf{Winner}$ of the $\\textbf{Electoral Vote}$ did $\\textbf{Not}$ win the $\\textbf{Popular Vote}$ $\\textbf{Nationally}$.",
+        "image": "",
+        "options": [
+            "Second",
+            "Third",
+            "Fourth",
+            "Fifth"
+        ],
+        "answer": "Fourth",
+        "explanation": "This phenomenon, where the winner of the popular vote loses the presidency, has occurred five times: 1824, 1876, 1888, 2000, and 2016."
+    },
+    {
+        "id": "G887",
+        "text": "The $\\textbf{Electoral College}$ was designed by the $\\textbf{Founders}$ primarily to $\\textbf{Balance}$ the power between $\\textbf{States}$ with $\\textbf{Large}$ populations and $\\textbf{States}$ with $\\textbf{Small}$ populations.",
+        "image": "",
+        "options": [
+            "Encourage a multi-party system",
+            "Ensure a unified national popular vote",
+            "Balance the power of large and small states",
+            "Give the final decision to the House of Representatives"
+        ],
+        "answer": "Balance the power of large and small states",
+        "explanation": "The system gives every state at least three electoral votes (two senators, one representative), providing disproportionate power to smaller states."
+    },
+    {
+        "id": "G888",
+        "text": "A proposed $\\textbf{Constitutional Amendment}$ to eliminate the $\\textbf{Electoral College}$ would require $\\textbf{Approval}$ by $\\textbf{Two-Thirds}$ of $\\textbf{Both}$ $\\textbf{Houses}$ of $\\textbf{Congress}$ and $\\textbf{Three-Fourths}$ of the $\\textbf{State}$ $\\textbf{Legislatures}$.",
+        "image": "",
+        "options": [
+            "Simple majority in Congress and two-thirds of state legislatures",
+            "Two-thirds of both houses of Congress and three-fourths of state legislatures",
+            "Unanimous vote in the House and Senate",
+            "Popular vote majority across the states"
+        ],
+        "answer": "Two-thirds of both houses of Congress and three-fourths of state legislatures",
+        "explanation": "This is the standard procedure for amending the U.S. Constitution, as outlined in Article V."
+    },
+    {
+        "id": "G889",
+        "text": "The $\\textbf{Electoral Count Act}$ of $\\textbf{1887}$ sets the deadline, often referred to as $\\textbf{Safe Harbor}$, by which $\\textbf{States}$ must $\\textbf{Certify}$ their $\\textbf{Electoral}$ $\\textbf{Votes}$ to ensure they are $\\textbf{Given}$ $\\textbf{Full}$ $\\textbf{Weight}$ by $\\textbf{Congress}$.",
+        "image": "",
+        "options": [
+            "Writ of Certiorari",
+            "Safe Harbor",
+            "Writ of Mandamus",
+            "Stare Decisis"
+        ],
+        "answer": "Safe Harbor",
+        "explanation": "This deadline, which falls in December, was a key factor in the Supreme Court's decision to halt the recount, as they felt the deadline could not be met constitutionally."
+    },
+    {
+        "id": "G890",
+        "text": "The role of the $\\textbf{Faithless Elector}$—a member of the $\\textbf{Electoral College}$ who votes $\\textbf{Against}$ the $\\textbf{Popular}$ $\\textbf{Vote}$ of their state—became a minor but persistent $\\textbf{Constitutional}$ concern after $\\textbf{2000}$ (and $\\textbf{2016}$).",
+        "image": "",
+        "options": [
+            "Pocket Veto",
+            "Lame Duck",
+            "Faithless Elector",
+            "Dark Horse"
+        ],
+        "answer": "Faithless Elector",
+        "explanation": "While rare, the possibility of an Elector not voting for the pledged candidate highlights the unique structure of the presidential election system."
+    },
+    {
+        "id": "G891",
+        "text": "The $\\textbf{Majority Opinion}$ in $\\textbf{Bush v. Gore}$ focused on the concept that $\\textbf{All}$ $\\textbf{Ballots}$ cast in an election must be counted under $\\textbf{Precise}$, $\\textbf{Uniform}$ $\\textbf{Standards}$ to ensure $\\textbf{Equal}$ $\\textbf{Treatment}$ of $\\textbf{Voters}$.",
+        "image": "",
+        "options": [
+            "Separation of Powers",
+            "Uniform Standards of Counting",
+            "Interstate Commerce Clause",
+            "Supremacy of Federal Law"
+        ],
+        "answer": "Uniform Standards of Counting",
+        "explanation": "The core of the Equal Protection violation was that different counties used different, often vague, standards ('clear intent of the voter') for counting the same type of ballot."
+    },
+    {
+        "id": "G892",
+        "text": "Justice $\\textbf{Stevens}$' $\\textbf{Dissent}$ in $\\textbf{Bush v. Gore}$ argued that the $\\textbf{Court}$ should $\\textbf{Not}$ have intervened in the $\\textbf{Political}$ process, asserting that judicial involvement risked undermining the $\\textbf{Legitimacy}$ of the $\\textbf{Judiciary}$.",
+        "image": "",
+        "options": [
+            "Legislative Branch",
+            "Executive Branch",
+            "Judicial Branch",
+            "State Legislature"
+        ],
+        "answer": "Judicial Branch",
+        "explanation": "The dissenters believed the political question doctrine should apply and that intervening in an election undermined the public's perception of the Court's impartiality."
+    },
+    {
+        "id": "G893",
+        "text": "The $\\textbf{Supreme Court}$ invoked the $\\textbf{Equal Protection}$ clause, typically associated with civil rights and discrimination, to address a $\\textbf{Procedural}$ issue in the $\\textbf{Electoral}$ process.",
+        "image": "",
+        "options": [
+            "Procedural Issue",
+            "Substantive Issue",
+            "Federalism Issue",
+            "Foreign Policy Issue"
+        ],
+        "answer": "Procedural Issue",
+        "explanation": "The issue was not the denial of the right to vote, but the unequal procedure (the counting standards) used after the vote was cast."
+    },
+    {
+        "id": "G894",
+        "text": "The $\\textbf{Supreme Court}$'s decision was ultimately a $\\textbf{Per Curiam}$ opinion, meaning it was issued '$\\textbf{By the Court}$' rather than being $\\textbf{Authored}$ by a $\\textbf{Single}$ $\\textbf{Justice}$.",
+        "image": "",
+        "options": [
+            "Writ of Habeas Corpus",
+            "Stare Decisis",
+            "Per Curiam",
+            "Amicus Curiae"
+        ],
+        "answer": "Per Curiam",
+        "explanation": "A per curiam opinion is an unsigned opinion representing the entire Court, often used for decisions made quickly or under extreme time pressure."
+    },
+    {
+        "id": "G895",
+        "text": "In a presidential election, the $\\textbf{State Legislature}$ has the primary constitutional $\\textbf{Authority}$ to determine the $\\textbf{Manner}$ in which $\\textbf{Electors}$ are chosen.",
+        "image": "",
+        "options": [
+            "State Governor",
+            "State Supreme Court",
+            "U.S. Congress",
+            "State Legislature"
+        ],
+        "answer": "State Legislature",
+        "explanation": "Article II, Section 1, Clause 2 of the Constitution explicitly grants state legislatures this authority, a point emphasized in the Bush v. Gore case."
+    },
+    {
+        "id": "G896",
+        "text": "Critics of the $\\textbf{Bush v. Gore}$ decision argued that the $\\textbf{Majority}$ engaged in $\\textbf{Judicial Activism}$ by inserting the $\\textbf{Federal}$ $\\textbf{Judiciary}$ into a $\\textbf{State}$ $\\textbf{Election}$ dispute.",
+        "image": "",
+        "options": [
+            "Judicial Restraint",
+            "Judicial Review",
+            "Judicial Activism",
+            "Stare Decisis"
+        ],
+        "answer": "Judicial Activism",
+        "explanation": "Judicial activism is the practice of judges using their power to overturn or create policy. Critics saw the Court's intervention as an overreach into a political question."
+    },
+    {
+        "id": "G897",
+        "text": "Those who defended the $\\textbf{Supreme Court}$'s action argued it was a necessary exercise of $\\textbf{Judicial Review}$ to uphold the $\\textbf{Rule of Law}$ and $\\textbf{Protect}$ fundamental $\\textbf{Constitutional}$ $\\textbf{Rights}$.",
+        "image": "",
+        "options": [
+            "Lame Duck Period",
+            "Judicial Review",
+            "Executive Privilege",
+            "Lobbying"
+        ],
+        "answer": "Judicial Review",
+        "explanation": "The defense was that the Court was performing its core duty: reviewing a government action (the state recount) for constitutionality."
+    },
+    {
+        "id": "G898",
+        "text": "The $\\textbf{Precedent}$ set by $\\textbf{Bush v. Gore}$ was explicitly $\\textbf{Limited}$ by the $\\textbf{Court}$'s $\\textbf{Majority}$ opinion, stating it should $\\textbf{Not}$ be treated as a $\\textbf{Binding}$ guide for $\\textbf{Future}$ $\\textbf{Elections}$.",
+        "image": "",
+        "options": [
+            "Broadly applied to all future elections",
+            "Limited to only the facts of the 2000 election",
+            "Applied only to punch-card ballot systems",
+            "Limited to state supreme court decisions"
+        ],
+        "answer": "Limited to only the facts of the 2000 election",
+        "explanation": "The Court specifically included language to limit the case's use as precedent, likely to mitigate the appearance of overreach in a political matter."
+    },
+    {
+        "id": "G899",
+        "text": "The $\\textbf{Florida Supreme Court}$'s role in the crisis was to $\\textbf{Interpret}$ $\\textbf{State}$ $\\textbf{Election}$ law, specifically setting a $\\textbf{Later}$ $\\textbf{Deadline}$ for the $\\textbf{Certification}$ of $\\textbf{Results}$ before being $\\textbf{Overruled}$ by the $\\textbf{U.S. Supreme Court}$.",
+        "image": "",
+        "options": [
+            "Administering the recounts",
+            "Certifying the Electors",
+            "Interpreting state election law",
+            "Calling for a new election"
+        ],
+        "answer": "Interpreting state election law",
+        "explanation": "The Florida Supreme Court extended the deadline for the recount based on its interpretation of Florida statutes, which the U.S. Supreme Court then overturned."
+    },
+    {
+        "id": "G900",
+        "text": "The $\\textbf{Principle}$ of $\\textbf{Federalism}$ was highlighted when the $\\textbf{U.S. Supreme Court}$ intervened, raising the question of the $\\textbf{Balance}$ of $\\textbf{Power}$ between the $\\textbf{Federal}$ and $\\textbf{State}$ $\\textbf{Judiciaries}$.",
+        "image": "",
+        "options": [
+            "Checks and Balances",
+            "Separation of Powers",
+            "Popular Sovereignty",
+            "Federalism"
+        ],
+        "answer": "Federalism",
+        "explanation": "Federalism governs the division of power between the national and state governments. The case forced a confrontation between state and federal judicial authority over state election procedures."
+    },
+    {
+        "id": "G901",
+        "text": "The $\\textbf{Equal Protection Clause}$ is part of the $\\textbf{Fourteenth Amendment}$, which was primarily ratified after the $\\textbf{Civil War}$ to ensure $\\textbf{Equality}$ for $\\textbf{Newly}$ $\\textbf{Freed}$ $\\textbf{Slaves}$.",
+        "image": "",
+        "options": [
+            "Thirteenth Amendment",
+            "Fourteenth Amendment",
+            "Fifteenth Amendment",
+            "Nineteenth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Fourteenth Amendment was designed to grant citizenship and equal protection under the law to all persons born or naturalized in the United States."
+    },
+    {
+        "id": "G902",
+        "text": "The $\\textbf{Supreme Court}$ ultimately found that the $\\textbf{Remedy}$ proposed by the $\\textbf{Florida}$ Supreme Court—continuing $\\textbf{Manual}$ $\\textbf{Recounts}$—was $\\textbf{Not}$ $\\textbf{Feasible}$ due to the lack of $\\textbf{Time}$ to establish $\\textbf{Constitutional}$ $\\textbf{Standards}$.",
+        "image": "",
+        "options": [
+            "The method of ballot storage",
+            "The lack of time for a constitutional remedy",
+            "The unconstitutionality of punch-card machines",
+            "The use of absentee ballots"
+        ],
+        "answer": "The lack of time for a constitutional remedy",
+        "explanation": "The Court acknowledged the Equal Protection violation but ruled that there was not enough time to create and implement a legally sound, uniform standard across the state."
+    },
+    {
+        "id": "G903",
+        "text": "The $\\textbf{2000}$ election highlighted the political $\\textbf{Importance}$ of the $\\textbf{Secretary of State}$ in each state, as this $\\textbf{Official}$ is typically responsible for $\\textbf{Overseeing}$ $\\textbf{Elections}$ and $\\textbf{Certifying}$ the $\\textbf{Results}$.",
+        "image": "",
+        "options": [
+            "State Attorney General",
+            "State Treasurer",
+            "State Comptroller",
+            "Secretary of State"
+        ],
+        "answer": "Secretary of State",
+        "explanation": "In Florida, the Secretary of State, Katherine Harris, was a central figure responsible for issuing final certification of the results."
+    },
+    {
+        "id": "G904",
+        "text": "The phrase $\\textbf{'Clear Intent of the Voter}$' became the highly $\\textbf{Subjective}$ and $\\textbf{Vague}$ $\\textbf{Standard}$ used by different $\\textbf{Counties}$ during the $\\textbf{Manual}$ $\\textbf{Recounts}$ in $\\textbf{Florida}$.",
+        "image": "",
+        "options": [
+            "Valid Vote",
+            "Clear Intent of the Voter",
+            "Overvote/Undervote",
+            "Dimpled Chad"
+        ],
+        "answer": "Clear Intent of the Voter",
+        "explanation": "Because this standard was applied differently in different counties (some counted dimples, some didn't), the Supreme Court deemed it a violation of Equal Protection."
+    },
+    {
+        "id": "G905",
+        "text": "The $\\textbf{Dual Sovereignty}$ perspective holds that $\\textbf{State}$ and $\\textbf{Federal}$ governments are $\\textbf{Sovereign}$ in their $\\textbf{Own}$ $\\textbf{Spheres}$, but $\\textbf{Bush v. Gore}$ showed $\\textbf{Federal}$ $\\textbf{Judicial}$ supremacy in $\\textbf{Constitutional}$ $\\textbf{Matters}$.",
+        "image": "",
+        "options": [
+            "Cooperative Federalism",
+            "Devolution",
+            "Dual Sovereignty",
+            "Unfunded Mandate"
+        ],
+        "answer": "Dual Sovereignty",
+        "explanation": "While elections are primarily a state function (dual sovereignty), the Supreme Court's intervention demonstrated that when constitutional rights (Equal Protection) are at stake, federal authority is supreme."
+    },
+    {
+        "id": "G906",
+        "text": "The aftermath of the $\\textbf{2000}$ election led to the passage of the $\\textbf{Help America Vote Act (HAVA)}$ in $\\textbf{2002}$, which provided $\\textbf{Federal}$ $\\textbf{Funding}$ to $\\textbf{States}$ to $\\textbf{Upgrade}$ their $\\textbf{Voting}$ $\\textbf{Equipment}$.",
+        "image": "",
+        "options": [
+            "Bipartisan Campaign Reform Act",
+            "Motor Voter Act",
+            "Voting Rights Act",
+            "Help America Vote Act (HAVA)"
+        ],
+        "answer": "Help America Vote Act (HAVA)",
+        "explanation": "HAVA aimed to create more uniform voting procedures and replace error-prone punch-card systems nationwide."
+    },
+    {
+        "id": "G907",
+        "text": "The $\\textbf{Judicial Activism}$ label applied to $\\textbf{Bush v. Gore}$ by critics is often used to describe decisions where the $\\textbf{Court}$ is seen as $\\textbf{Substituting}$ its $\\textbf{Own}$ $\\textbf{Policy}$ $\\textbf{Preferences}$ for those of the $\\textbf{Elected}$ branches.",
+        "image": "",
+        "options": [
+            "Restrained decisions",
+            "Unanimous decisions",
+            "Dissenting opinions",
+            "Activist decisions"
+        ],
+        "answer": "Activist decisions",
+        "explanation": "The 5-4 conservative majority ruling was seen by many liberals as a politically motivated intervention rather than a purely legal one."
+    },
+    {
+        "id": "G908",
+        "text": "The $\\textbf{Twenty-Third Amendment}$ is $\\textbf{Not}$ relevant to the $\\textbf{2000}$ election, as it only grants $\\textbf{Electoral}$ $\\textbf{Votes}$ to $\\textbf{Washington, D.C.}$ in presidential elections.",
+        "image": "",
+        "options": [
+            "Twelfth Amendment",
+            "Seventeenth Amendment",
+            "Nineteenth Amendment",
+            "Twenty-Third Amendment"
+        ],
+        "answer": "Twenty-Third Amendment",
+        "explanation": "The 23rd Amendment gives D.C. electoral votes, but it had no bearing on the Florida dispute."
+    },
+    {
+        "id": "G909",
+        "text": "If $\\textbf{Neither}$ candidate receives a $\\textbf{Majority}$ of the $\\textbf{Electoral Votes}$, the $\\textbf{Twelfth Amendment}$ mandates that the $\\textbf{House of Representatives}$ elects the $\\textbf{President}$.",
+        "image": "",
+        "options": [
+            "Senate",
+            "Supreme Court",
+            "House of Representatives",
+            "Federal Election Commission"
+        ],
+        "answer": "House of Representatives",
+        "explanation": "The House votes for President, with each state delegation receiving one vote. The Senate then votes for the Vice President."
+    },
+    {
+        "id": "G910",
+        "text": "The $\\textbf{Safe Harbor}$ date set by the $\\textbf{Electoral Count Act}$ is primarily a $\\textbf{Matter}$ of $\\textbf{Federal}$ $\\textbf{Statute}$—a law passed by $\\textbf{Congress}$—and $\\textbf{Not}$ a direct $\\textbf{Constitutional}$ $\\textbf{Requirement}$.",
+        "image": "",
+        "options": [
+            "Constitutional Amendment",
+            "Executive Order",
+            "Federal Statute",
+            "Supreme Court Precedent"
+        ],
+        "answer": "Federal Statute",
+        "explanation": "The Electoral Count Act is a law passed by Congress, designed to clarify procedures for counting electoral votes, but it is not part of the Constitution itself."
+    },
+    {
+        "id": "G911",
+        "text": "The $\\textbf{2000}$ election showed the importance of $\\textbf{Local}$ election $\\textbf{Administrators}$ and the highly $\\textbf{Decentralized}$ nature of the $\\textbf{American}$ $\\textbf{Voting}$ $\\textbf{System}$.",
+        "image": "",
+        "options": [
+            "Centralized Federal Authority",
+            "Decentralized State Control",
+            "Unified National System",
+            "Judicial Supremacy"
+        ],
+        "answer": "Decentralized State Control",
+        "explanation": "The chaos stemmed from the fact that election procedures and equipment varied widely, not just between states, but between counties within a state."
+    },
+    {
+        "id": "G912",
+        "text": "The concept of $\\textbf{Political Question}$—where the $\\textbf{Judiciary}$ refuses to $\\textbf{Rule}$ on an issue best left to the $\\textbf{Elected}$ $\\textbf{Branches}$—was raised by the $\\textbf{Dissenting}$ $\\textbf{Justices}$ in $\\textbf{Bush v. Gore}$.",
+        "image": "",
+        "options": [
+            "Rule of Law",
+            "Political Question",
+            "Judicial Restraint",
+            "Judicial Independence"
+        ],
+        "answer": "Political Question",
+        "explanation": "The dissenters argued that the dispute was inherently political and should have been resolved by the state legislature or Congress, not the Supreme Court."
+    },
+    {
+        "id": "G913",
+        "text": "The $\\textbf{Florida}$ $\\textbf{Recount}$ involved the issue of $\\textbf{Undervotes}$, which are $\\textbf{Ballots}$ that the $\\textbf{Machine}$ $\\textbf{Does}$ $\\textbf{Not}$ $\\textbf{Register}$ as having a $\\textbf{Selection}$ for $\\textbf{President}$.",
+        "image": "",
+        "options": [
+            "Overvotes",
+            "Undervotes",
+            "Provisional Votes",
+            "Absentee Votes"
+        ],
+        "answer": "Undervotes",
+        "explanation": "Undervotes were the ballots that needed manual inspection, as the machine recorded no selection, often due to a hanging or dimpled chad."
+    },
+    {
+        "id": "G914",
+        "text": "The $\\textbf{Electoral College}$ is often criticized because it causes presidential candidates to focus their time and resources disproportionately on $\\textbf{Swing}$ $\\textbf{States}$ with $\\textbf{High}$ $\\textbf{Electoral}$ $\\textbf{Value}$.",
+        "image": "",
+        "options": [
+            "Small states only",
+            "All states equally",
+            "Swing states",
+            "States with low electoral value"
+        ],
+        "answer": "Swing states",
+        "explanation": "Candidates concentrate on swing states because winning them flips the entire block of electoral votes, maximizing the return on campaign investment."
+    },
+    {
+        "id": "G915",
+        "text": "The $\\textbf{Final}$ decision in $\\textbf{Bush v. Gore}$ hinged on the argument that the recount was $\\textbf{Proceeding}$ $\\textbf{Without}$ $\\textbf{Uniform}$ $\\textbf{Standards}$ and $\\textbf{Violating}$ the $\\textbf{Equal}$ $\\textbf{Protection}$ $\\textbf{Rights}$ of $\\textbf{Voters}$.",
+        "image": "",
+        "options": [
+            "The Vice President's role in counting the votes",
+            "The violation of the Tenth Amendment (States' Rights)",
+            "The violation of the Equal Protection Clause",
+            "The constitutionality of the punch-card machines"
+        ],
+        "answer": "The violation of the Equal Protection Clause",
+        "explanation": "This was the primary constitutional hook the majority used to justify halting the state recount."
+    },
+    {
+        "id": "G916",
+        "text": "The $\\textbf{Help America Vote Act (HAVA)}$ required states to establish $\\textbf{Statewide}$ $\\textbf{Voter}$ $\\textbf{Registration}$ $\\textbf{Databases}$ to prevent $\\textbf{Fraud}$ and $\\textbf{Inaccurate}$ $\\textbf{Registration}$.",
+        "image": "",
+        "options": [
+            "County-level databases",
+            "Statewide voter registration databases",
+            "Federal voter ID laws",
+            "Mandatory voting"
+        ],
+        "answer": "Statewide voter registration databases",
+        "explanation": "A key HAVA reform was mandating a centralized database to clean up voter rolls and improve accuracy."
+    },
+    {
+        "id": "G917",
+        "text": "The $\\textbf{Twelfth Amendment}$ was adopted after the $\\textbf{Election of 1800}$ to fix a flaw in the $\\textbf{Original}$ $\\textbf{Electoral}$ $\\textbf{System}$ by requiring $\\textbf{Separate}$ $\\textbf{Ballots}$ for $\\textbf{President}$ and $\\textbf{Vice}$ $\\textbf{President}$.",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Tenth Amendment",
+            "Twelfth Amendment",
+            "Twentieth Amendment"
+        ],
+        "answer": "Twelfth Amendment",
+        "explanation": "Before the 12th Amendment, electors cast two votes without specifying President or VP, leading to ties and the President and VP being from different parties."
+    },
+    {
+        "id": "G918",
+        "text": "The principle of $\\textbf{Stare Decisis}$—relying on $\\textbf{Precedent}$—was $\\textbf{Weakened}$ by the $\\textbf{Bush v. Gore}$ decision due to the $\\textbf{Court}$'s $\\textbf{Explicit}$ instruction that the $\\textbf{Case}$ $\\textbf{Should}$ $\\textbf{Not}$ be treated as $\\textbf{Precedent}$.",
+        "image": "",
+        "options": [
+            "Strengthened",
+            "Weakened",
+            "Irrelevant",
+            "Mandated"
+        ],
+        "answer": "Weakened",
+        "explanation": "The decision was seen by many legal scholars as an exception, violating the principle of consistency that stare decisis requires."
+    },
+    {
+        "id": "G919",
+        "text": "The $\\textbf{Electoral College}$ vote is ultimately counted and certified by the $\\textbf{Vice President}$ in a $\\textbf{Joint}$ $\\textbf{Session}$ of $\\textbf{Congress}$ on $\\textbf{January 6th}$ following the election.",
+        "image": "",
+        "options": [
+            "Speaker of the House",
+            "Chief Justice of the Supreme Court",
+            "Vice President",
+            "Senate Majority Leader"
+        ],
+        "answer": "Vice President",
+        "explanation": "The Vice President, in their role as President of the Senate, formally presides over the joint session of Congress that counts the votes."
+    },
+    {
+        "id": "G920",
+        "text": "The $\\textbf{2000}$ election reinforced the power of $\\textbf{Third-Party}$ $\\textbf{Candidates}$ to $\\textbf{Act}$ as $\\textbf{Spoilers}$, drawing $\\textbf{Enough}$ $\\textbf{Votes}$ in a $\\textbf{Key}$ $\\textbf{State}$ to $\\textbf{Change}$ the $\\textbf{Outcome}$ of the $\\textbf{Election}$ $\\textbf{Nationally}$.",
+        "image": "",
+        "options": [
+            "Major-party unity",
+            "Third-party candidates as spoilers",
+            "Lobbying influence",
+            "Media consolidation"
+        ],
+        "answer": "Third-party candidates as spoilers",
+        "explanation": "Ralph Nader, the Green Party candidate, drew enough votes in Florida to potentially shift the outcome of the state's popular vote."
+    }
+]

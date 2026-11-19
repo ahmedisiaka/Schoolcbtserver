@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E0041",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Federal}$ $\\textbf{Reserve}$ began its $\\textbf{balance}$ $\\textbf{sheet}$ $\\textbf{normalization}$ (quantitative tightening, $\\textbf{QT}$) program in $\\textbf{October}$ $\\textbf{2017}$ by $\\textbf{gradually}$ $\\textbf{ceasing}$ to $\\textbf{reinvest}$ the $\\textbf{maturing}$ $\\textbf{proceeds}$ of $\\textbf{bonds}$.",
+        "image": "",
+        "options": [
+            "January 2017",
+            "October 2017",
+            "March 2018",
+            "December 2016"
+        ],
+        "answer": "October 2017",
+        "explanation": "QT was the second major step in policy normalization, following the three interest rate hikes made in 2017 (March, June, December)."
+    },
+    {
+        "id": "E0042",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{economy}$ experienced its $\\textbf{strongest}$ $\textbf{growth}$ year since $\\textbf{2007}$ in $\\textbf{2017}$, driven by $\\textbf{low}$ $\\textbf{oil}$ $\\textbf{prices}$, $\\textbf{cheap}$ $\\textbf{money}$ (ECB QE), and $\\textbf{exports}$.",
+        "image": "",
+        "options": [
+            "A recession",
+            "Its strongest growth year since 2007",
+            "Massive deflation",
+            "Political collapse"
+        ],
+        "answer": "Its strongest growth year since 2007",
+        "explanation": "The synchronized global recovery finally lifted the Eurozone, allowing the ECB to begin signaling a slowdown in its QE program."
+    },
+    {
+        "id": "E0043",
+        "text": "The $\\textbf{Tax}$ $\textbf{Cuts}$ $\textbf{and}$ $\\textbf{Jobs}$ $\\textbf{Act}$ ($\\textbf{TCJA}$) was passed in $\\textbf{December}$ $\\textbf{2017}$, primarily reducing the $\\textbf{corporate}$ $\\textbf{tax}$ $\textbf{rate}$ from $\\textbf{35}\\%$ to $\\textbf{21}\\%$.",
+        "image": "",
+        "options": [
+            "The Affordable Care Act",
+            "The Dodd-Frank Act",
+            "The Tax Cuts and Jobs Act (TCJA)",
+            "The Infrastructure Investment Act"
+        ],
+        "answer": "The Tax Cuts and Jobs Act (TCJA)",
+        "explanation": "This was the most significant overhaul of the U.S. tax code in over 30 years, aiming to boost corporate investment and competitiveness."
+    },
+    {
+        "id": "E0044",
+        "text": "$\\textbf{Bitcoin}$ $\\textbf{futures}$ trading was $\\textbf{launched}$ by the $\\textbf{CME}$ and $\\textbf{CBOE}$ in $\\textbf{December}$ $\\textbf{2017}$, providing $\\textbf{institutional}$ $\textbf{investors}$ a way to $\\textbf{bet}$ on the $\\textbf{cryptocurrency}$'s $\\textbf{price}$.",
+        "image": "",
+        "options": [
+            "The U.S. Federal Reserve",
+            "The World Bank",
+            "The CME and CBOE",
+            "The Bank of Japan"
+        ],
+        "answer": "The CME and CBOE",
+        "explanation": "The launch of regulated futures contracts was a major step in legitimizing Bitcoin as an asset class, coinciding with its peak price near $20,000."
+    },
+    {
+        "id": "E0045",
+        "text": "The $\\textbf{Fed}$ increased the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{three}$ $\\textbf{times}$ in $\\textbf{2017}$ (March, June, and December), moving the target range to $\\textbf{1.25}\\%$-$\\textbf{1.50}\\%$.",
+        "image": "",
+        "options": [
+            "One time",
+            "Two times",
+            "Three times",
+            "Zero times"
+        ],
+        "answer": "Three times",
+        "explanation": "The steady path of rate hikes signaled the Fed's confidence in the U.S. economic expansion."
+    },
+    {
+        "id": "E0046",
+        "text": "The $\\textbf{ECB}$ announced in $\\textbf{October}$ $\\textbf{2017}$ that it would $\\textbf{reduce}$ the $\\textbf{monthly}$ $\\textbf{pace}$ of its $\\textbf{QE}$ purchases from $\\textbf{€60}$ $\\textbf{billion}$ to $\\textbf{€30}$ $\\textbf{billion}$ starting $\\textbf{January}$ $\\textbf{2018}$.",
+        "image": "",
+        "options": [
+            "Increase the monthly pace to €80 billion",
+            "Reduce the monthly pace to €30 billion",
+            "End QE immediately",
+            "Start buying U.S. assets"
+        ],
+        "answer": "Reduce the monthly pace to €30 billion",
+        "explanation": "This was the first formal step in winding down the program, known as 'tapering,' due to improving Eurozone economic performance."
+    },
+    {
+        "id": "E0047",
+        "text": "The $\\textbf{Tax}$ $\textbf{Cuts}$ $\textbf{and}$ $\\textbf{Jobs}$ $\\textbf{Act}$ adopted a $\\textbf{territorial}$ $\\textbf{tax}$ $\\textbf{system}$, meaning $\\textbf{U.S.}$ $\textbf{corporations}$ would $\\textbf{not}$ be $\\textbf{taxed}$ on $\\textbf{most}$ $\\textbf{foreign}$ $\\textbf{profits}$.",
+        "image": "",
+        "options": [
+            "A worldwide tax system",
+            "A single-payer tax system",
+            "A territorial tax system",
+            "A consumption tax system"
+        ],
+        "answer": "A territorial tax system",
+        "explanation": "This was a major shift from the previous worldwide system and was intended to incentivize U.S. multinationals to repatriate foreign earnings."
+    },
+    {
+        "id": "E0048",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{government}$ began a significant $\\textbf{crackdown}$ on $\\textbf{shadow}$ $\\textbf{banking}$ and $\\textbf{debt}$ $\\textbf{risks}$ in $\\textbf{2017}$, shifting its focus from $\\textbf{growth}$ $\\textbf{at}$ $\\textbf{all}$ $\\textbf{costs}$ to $\\textbf{financial}$ $\\textbf{stability}$.",
+        "image": "",
+        "options": [
+            "Increased infrastructure spending",
+            "A major crackdown on shadow banking and debt risks",
+            "A full currency devaluation",
+            "Unrestricted lending to local governments"
+        ],
+        "answer": "A major crackdown on shadow banking and debt risks",
+        "explanation": "After years of aggressive debt-fueled growth, Beijing pivoted to a deleveraging campaign to curb systemic risk."
+    },
+    {
+        "id": "E0049",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) was the $\\textbf{only}$ $\textbf{major}$ $\textbf{central}$ $\textbf{bank}$ that $\\textbf{did}$ $\\textbf{not}$ $\\textbf{move}$ to $\\textbf{normalize}$ $\\textbf{policy}$ in $\\textbf{2017}$, continuing $\\textbf{QQE}$ and $\\textbf{Yield}$ $\\textbf{Curve}$ $\\textbf{Control}$.",
+        "image": "",
+        "options": [
+            "U.S. Federal Reserve",
+            "European Central Bank (ECB)",
+            "Bank of England (BoE)",
+            "Bank of Japan (BoJ)"
+        ],
+        "answer": "Bank of Japan (BoJ)",
+        "explanation": "Despite strong global growth, Japanese inflation remained too low, forcing the BoJ to maintain its ultra-accommodative policy stance."
+    },
+    {
+        "id": "E0050",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Federal}$ $\\textbf{Reserve}$'s $\\textbf{QT}$ program in $\\textbf{2017}$ started with an initial $\\textbf{monthly}$ $\\textbf{cap}$ of $\\textbf{\\$10}$ $\\textbf{billion}$ on $\\textbf{maturing}$ $\\textbf{securities}$ that would $\\textbf{not}$ be $\\textbf{reinvested}$.",
+        "image": "",
+        "options": [
+            "$50 billion",
+            "$10 billion",
+            "$1 billion",
+            "Zero"
+        ],
+        "answer": "$10 billion",
+        "explanation": "The Fed designed the program to be extremely gradual and predictable, increasing the cap every three months until it reached $50 billion/month."
+    },
+    {
+        "id": "E0051",
+        "text": "The $\\textbf{Euro}$ $\\textbf{currency}$ saw a $\\textbf{major}$ $\\textbf{strengthening}$ against the $\\textbf{U.S.}$ $\textbf{Dollar}$ in $\\textbf{2017}$ as the $\\textbf{Eurozone}$ $\\textbf{economic}$ $\\textbf{outlook}$ improved and the $\\textbf{ECB}$ $\\textbf{signaled}$ $\\textbf{QE}$ $\\textbf{tapering}$.",
+        "image": "",
+        "options": [
+            "A major weakening",
+            "A major strengthening",
+            "No change",
+            "A fixed peg to the Yen"
+        ],
+        "answer": "A major strengthening",
+        "explanation": "The improving economy reduced the need for monetary stimulus, making the Euro more attractive to investors."
+    },
+    {
+        "id": "E0052",
+        "text": "A $\\textbf{key}$ $\textbf{provision}$ of the $\\textbf{TCJA}$ included a $\\textbf{one-time}$ $\textbf{repatriation}$ $\textbf{tax}$ on $\\textbf{corporate}$ $\textbf{foreign}$ $\\textbf{profits}$ at a $\\textbf{reduced}$ $\\textbf{rate}$, regardless of whether the funds were $\\textbf{brought}$ $\\textbf{home}$.",
+        "image": "",
+        "options": [
+            "Increased individual income taxes",
+            "A one-time repatriation tax on corporate foreign profits at a reduced rate",
+            "A national sales tax",
+            "Elimination of all energy subsidies"
+        ],
+        "answer": "A one-time repatriation tax on corporate foreign profits at a reduced rate",
+        "explanation": "This was designed to capture revenue from decades of foreign-held profits and encourage corporations to bring the funds back to the U.S."
+    },
+    {
+        "id": "E0053",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{England}$ ($\\textbf{BoE}$) delivered its $\\textbf{first}$ $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{hike}$ in $\\textbf{a}$ $\textbf{decade}$ in $\\textbf{November}$ $\\textbf{2017}$ to combat $\\textbf{inflation}$ caused by the $\\textbf{Pound}$'s $\\textbf{post-Brexit}$ $\\textbf{devaluation}$.",
+        "image": "",
+        "options": [
+            "To fight deflation",
+            "To combat inflation caused by the Pound's post-Brexit devaluation",
+            "To support the housing market",
+            "To fund government spending"
+        ],
+        "answer": "To combat inflation caused by the Pound's post-Brexit devaluation",
+        "explanation": "The BoE reversed its post-Brexit emergency rate cut as imported inflation surged due to the weak Pound."
+    },
+    {
+        "id": "E0054",
+        "text": "The $\\textbf{S&P}$ $\\textbf{500}$ had an $\\textbf{exceptionally}$ $\textbf{calm}$ year in $\\textbf{2017}$, characterized by $\\textbf{low}$ $\\textbf{volatility}$ and $\\textbf{zero}$ $\\textbf{drawdowns}$ of more than $\\textbf{3}\\%$.",
+        "image": "",
+        "options": [
+            "Extreme volatility",
+            "An exceptionally calm year, characterized by low volatility",
+            "A steep recession",
+            "A 50% drop in value"
+        ],
+        "answer": "An exceptionally calm year, characterized by low volatility",
+        "explanation": "The market's continuous rise with few dips was driven by strong corporate earnings and low interest rates globally."
+    },
+    {
+        "id": "E0055",
+        "text": "The $\\textbf{global}$ $\textbf{economic}$ $\\textbf{coherence}$ in $\\textbf{2017}$ was referred to as $\\textbf{synchronized}$ $\textbf{global}$ $\textbf{growth}$, as $\\textbf{all}$ $\\textbf{major}$ $\textbf{economies}$ (U.S., Eurozone, Japan, China) grew $\\textbf{simultaneously}$.",
+        "image": "",
+        "options": [
+            "A global trade war",
+            "Monetary policy divergence",
+            "Synchronized global growth",
+            "A housing crisis"
+        ],
+        "answer": "Synchronized global growth",
+        "explanation": "Unlike previous years where one region (like the U.S.) was driving growth, in 2017, all regions were expanding together."
+    },
+    {
+        "id": "E0056",
+        "text": "The $\\textbf{total}$ $\textbf{peak}$ $\\textbf{valuation}$ of $\\textbf{Bitcoin}$ in $\\textbf{December}$ $\\textbf{2017}$ reached $\\textbf{nearly}$ $\\textbf{\\$20,000}$ before $\\textbf{suffering}$ a $\\textbf{sharp}$ $\\textbf{correction}$ in $\\textbf{early}$ $\\textbf{2018}$.",
+        "image": "",
+        "options": [
+            "$1,000",
+            "$5,000",
+            "Nearly $20,000",
+            "$500"
+        ],
+        "answer": "Nearly $20,000",
+        "explanation": "The dramatic price movement was largely fueled by retail speculation and media attention."
+    },
+    {
+        "id": "E0057",
+        "text": "The $\\textbf{primary}$ $\textbf{goal}$ of the $\\textbf{Fed}$'s $\\textbf{QT}$ program in $\\textbf{2017}$ was to $\\textbf{reduce}$ the $\\textbf{size}$ of its $\\textbf{balance}$ $\\textbf{sheet}$ from $\\textbf{over}$ $\\textbf{\\$4.5}$ $\\textbf{trillion}$ to a $\\textbf{more}$ $\\textbf{normal}$ $\\textbf{level}$.",
+        "image": "",
+        "options": [
+            "To increase the money supply",
+            "To reduce the size of its balance sheet",
+            "To fund government spending",
+            "To fix the exchange rate"
+        ],
+        "answer": "To reduce the size of its balance sheet",
+        "explanation": "The Fed wanted to return to its pre-crisis reliance on the Federal Funds Rate as the primary policy tool."
+    },
+    {
+        "id": "E0058",
+        "text": "The $\\textbf{U.S.}$ $\textbf{budget}$ $\textbf{deficit}$ was expected to $\\textbf{increase}$ significantly as a $\\textbf{result}$ of the $\\textbf{TCJA}$ due to the large $\\textbf{reduction}$ in $\\textbf{corporate}$ and $\\textbf{individual}$ $\\textbf{tax}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Decrease significantly",
+            "Increase significantly",
+            "Remain zero",
+            "Only affect state budgets"
+        ],
+        "answer": "Increase significantly",
+        "explanation": "The tax cuts were projected to reduce government revenue by trillions over a decade."
+    },
+    {
+        "id": "E0059",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{tapering}$ announcement in $\\textbf{October}$ $\\textbf{2017}$ was tempered by the promise that $\\textbf{interest}$ $\\textbf{rates}$ would $\\textbf{not}$ $\\textbf{be}$ $\\textbf{raised}$ until $\\textbf{well}$ $\\textbf{after}$ the $\\textbf{QE}$ $\\textbf{program}$ $\\textbf{ended}$.",
+        "image": "",
+        "options": [
+            "Immediate rate hike",
+            "Interest rates would not be raised until well after the QE program ended",
+            "More bond buying was coming",
+            "The Euro would be devalued"
+        ],
+        "answer": "Interest rates would not be raised until well after the QE program ended",
+        "explanation": "The ECB maintained its forward guidance, separating the tapering decision from the ultimate rate hike decision to keep the market calm."
+    },
+    {
+        "id": "E0060",
+        "text": "The $\\textbf{China}$ $\\textbf{crackdown}$ on $\\textbf{debt}$ in $\\textbf{2017}$ led to a $\\textbf{slowdown}$ in $\\textbf{credit}$ $\\textbf{growth}$ and a $\\textbf{sharp}$ $\\textbf{correction}$ in the $\\textbf{local}$ $\\textbf{government}$ $\\textbf{infrastructure}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "A massive acceleration of credit growth",
+            "A sharp correction in local government infrastructure spending",
+            "A fixed peg of the Yuan to the Dollar",
+            "Nationalization of all private banks"
+        ],
+        "answer": "A sharp correction in local government infrastructure spending",
+        "explanation": "Local governments were the biggest users of off-balance sheet, shadow banking debt, which was targeted by regulators."
+    },
+    {
+        "id": "E0061",
+        "text": "The $\\textbf{primary}$ $\textbf{economic}$ $\textbf{debate}$ surrounding the $\\textbf{TCJA}$ in $\\textbf{2017}$ was whether the $\\textbf{corporate}$ $\\textbf{tax}$ $\\textbf{cuts}$ would be $\\textbf{used}$ for $\\textbf{capital}$ $\\textbf{investment}$ or $\\textbf{shareholder}$ $\\textbf{payouts}$ (buybacks).",
+        "image": "",
+        "options": [
+            "Currency devaluation",
+            "Monetary policy reform",
+            "Whether the corporate tax cuts would be used for capital investment or shareholder payouts",
+            "A global trade war"
+        ],
+        "answer": "Whether the corporate tax cuts would be used for capital investment or shareholder payouts",
+        "explanation": "Proponents argued it would lead to CapEx; critics argued it would mostly benefit wealthy shareholders."
+    },
+    {
+        "id": "E0062",
+        "text": "The $\\textbf{commodity}$ $\textbf{market}$ saw a $\\textbf{broad}$ $\textbf{rally}$ in $\\textbf{2017}$, driven by the $\\textbf{synchronized}$ $\textbf{global}$ $\textbf{growth}$ $\\textbf{narrative}$ and $\\textbf{strong}$ $\\textbf{demand}$ from $\\textbf{China}$.",
+        "image": "",
+        "options": [
+            "A sharp collapse in prices",
+            "A broad rally",
+            "No change in prices",
+            "Only agricultural goods performed well"
+        ],
+        "answer": "A broad rally",
+        "explanation": "The expanding global economy increased demand for raw materials like copper, iron ore, and oil."
+    },
+    {
+        "id": "E0063",
+        "text": "The $\\textbf{rise}$ of $\\textbf{Initial}$ $\\textbf{Coin}$ $\\textbf{Offerings}$ ($\\textbf{ICOs}$) in $\\textbf{2017}$ was a $\\textbf{major}$ $\\textbf{driver}$ of $\\textbf{cryptocurrency}$ $\\textbf{speculation}$, where startups $\\textbf{issued}$ their $\\textbf{own}$ $\\textbf{tokens}$ for $\\textbf{funding}$.",
+        "image": "",
+        "options": [
+            "A new central bank currency",
+            "Initial Coin Offerings (ICOs)",
+            "Quantitative Easing",
+            "A government bailout"
+        ],
+        "answer": "Initial Coin Offerings (ICOs)",
+        "explanation": "ICOs became a popular, largely unregulated way for tech projects to raise capital, often leading to speculative bubbles in altcoins."
+    },
+    {
+        "id": "E0064",
+        "text": "The $\\textbf{Fed}$ $\\textbf{chair}$ in $\\textbf{2017}$ who oversaw the start of $\\textbf{QT}$ and the three $\\textbf{rate}$ $\\textbf{hikes}$ was $\\textbf{Janet}$ $\\textbf{Yellen}$.",
+        "image": "",
+        "options": [
+            "Ben Bernanke",
+            "Jerome Powell",
+            "Janet Yellen",
+            "Alan Greenspan"
+        ],
+        "answer": "Janet Yellen",
+        "explanation": "Yellen's term ended in early 2018, so she guided the first year of the Fed's dual normalization path."
+    },
+    {
+        "id": "E0065",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{inflation}$ $\\textbf{rate}$ $\\textbf{rose}$ in $\\textbf{2017}$, but $\\textbf{remained}$ $\\textbf{below}$ the $\\textbf{ECB}$'s $\\textbf{target}$ of $\\textbf{close}$ to $\\textbf{but}$ $\\textbf{below}$ $\\textbf{2}\\%$, justifying the $\\textbf{slow}$ $\\textbf{tapering}$ process.",
+        "image": "",
+        "options": [
+            "Spiked above 5%",
+            "Remained near zero",
+            "Rose, but remained below the ECB's target of close to but below 2%",
+            "Was only positive in Germany"
+        ],
+        "answer": "Rose, but remained below the ECB's target of close to but below 2%",
+        "explanation": "The gradual nature of the inflation rise meant the ECB had to remain cautious about prematurely ending stimulus."
+    },
+    {
+        "id": "E0066",
+        "text": "The $\\textbf{International}$ $\\textbf{Monetary}$ $\\textbf{Fund}$ ($\\textbf{IMF}$) upgraded its $\\textbf{global}$ $\\textbf{growth}$ $\\textbf{forecasts}$ $\\textbf{multiple}$ $\\textbf{times}$ in $\\textbf{2017}$ due to the $\\textbf{improving}$ $\\textbf{economic}$ $\\textbf{outlooks}$ of $\\textbf{most}$ $\\textbf{regions}$.",
+        "image": "",
+        "options": [
+            "Downgraded its forecasts sharply",
+            "Upgraded its global growth forecasts multiple times",
+            "Predicted a new global recession",
+            "Only focused on U.S. growth"
+        ],
+        "answer": "Upgraded its global growth forecasts multiple times",
+        "explanation": "The IMF cited the broad-based cyclical upswing as the main reason for its optimism."
+    },
+    {
+        "id": "E0067",
+        "text": "The $\\textbf{Oil}$ $\textbf{Market}$ saw $\\textbf{stabilization}$ in $\\textbf{2017}$ with $\\textbf{Brent}$ $\\textbf{Crude}$ trading $\\textbf{above}$ $\\textbf{\\$50}$ $\\textbf{per}$ $\\textbf{barrel}$ for $\\textbf{most}$ of the $\\textbf{year}$, supported by $\\textbf{OPEC}$ $\\textbf{cuts}$.",
+        "image": "",
+        "options": [
+            "A collapse below $20/barrel",
+            "Stabilization with Brent Crude trading above $50/barrel",
+            "A return to $100/barrel",
+            "Massive volatility"
+        ],
+        "answer": "Stabilization with Brent Crude trading above $50/barrel",
+        "explanation": "The cooperation between OPEC and Russia helped drain the supply glut, balancing the market."
+    },
+    {
+        "id": "E0068",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Dollar}$ $\\textbf{Index}$ $\\textbf{weakened}$ in $\\textbf{2017}$ despite $\\textbf{Fed}$ $\\textbf{rate}$ $\\textbf{hikes}$, largely due to $\\textbf{economic}$ $\\textbf{improvement}$ in the $\\textbf{Eurozone}$ and $\\textbf{a}$ $\textbf{reduction}$ in $\\textbf{global}$ $\\textbf{risk}$ $\\textbf{aversion}$.",
+        "image": "",
+        "options": [
+            "A strong rally",
+            "Weakened",
+            "Remained flat",
+            "Was fixed by the IMF"
+        ],
+        "answer": "Weakened",
+        "explanation": "Stronger growth elsewhere meant that capital flowed out of safe-haven U.S. assets and into the recovering Eurozone and emerging markets."
+    },
+    {
+        "id": "E0069",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) faced $\\textbf{criticism}$ in $\\textbf{2017}$ for $\\textbf{owning}$ $\\textbf{a}$ $\textbf{large}$ $\textbf{percentage}$ of the $\\textbf{Japanese}$ $\textbf{ETF}$ $\\textbf{market}$ through its $\\textbf{QQE}$ program.",
+        "image": "",
+        "options": [
+            "Raising interest rates too quickly",
+            "Failing to buy any assets",
+            "Owning a large percentage of the Japanese ETF market",
+            "Devaluing the Yen too much"
+        ],
+        "answer": "Owning a large percentage of the Japanese ETF market",
+        "explanation": "The BoJ's purchase of equity-linked ETFs made it a major shareholder in Japan's stock market, raising questions about market distortion."
+    },
+    {
+        "id": "E0070",
+        "text": "The $\\textbf{Tax}$ $\textbf{Cuts}$ $\textbf{and}$ $\\textbf{Jobs}$ $\\textbf{Act}$ $\\textbf{eliminated}$ the $\\textbf{individual}$ $\textbf{mandate}$ penalty under the $\\textbf{Affordable}$ $\\textbf{Care}$ $\\textbf{Act}$ ($\\textbf{ACA}$) starting in $\\textbf{2019}$.",
+        "image": "",
+        "options": [
+            "Expanded Medicare coverage",
+            "Eliminated the individual mandate penalty under the ACA",
+            "Created a new government insurance option",
+            "Funded universal healthcare"
+        ],
+        "answer": "Eliminated the individual mandate penalty under the ACA",
+        "explanation": "This was a major provision that affected the healthcare system as part of the tax reform package."
+    },
+    {
+        "id": "E0071",
+        "text": "The $\\textbf{first}$ $\textbf{financial}$ $\textbf{institution}$ to launch a $\\textbf{Bitcoin}$ $\\textbf{futures}$ $\\textbf{contract}$ in $\\textbf{December}$ $\\textbf{2017}$ was the $\\textbf{Chicago}$ $\\textbf{Board}$ $\\textbf{Options}$ $\\textbf{Exchange}$ ($\\textbf{CBOE}$).",
+        "image": "",
+        "options": [
+            "New York Stock Exchange (NYSE)",
+            "Chicago Mercantile Exchange (CME)",
+            "Chicago Board Options Exchange (CBOE)",
+            "Goldman Sachs"
+        ],
+        "answer": "Chicago Board Options Exchange (CBOE)",
+        "explanation": "The CBOE beat its rival CME to launch the first major Bitcoin futures contract."
+    },
+    {
+        "id": "E0072",
+        "text": "The $\\textbf{Fed}$'s $\\textbf{QT}$ program increased the $\\textbf{supply}$ of $\\textbf{Treasury}$ $\\textbf{bonds}$ on the $\\textbf{market}$, which put $\\textbf{upward}$ $\\textbf{pressure}$ on $\\textbf{long-term}$ $\\textbf{interest}$ $\\textbf{rates}$ ($\\textbf{bond}$ $\\textbf{yields}$).",
+        "image": "",
+        "options": [
+            "Lowered long-term interest rates",
+            "Put upward pressure on long-term interest rates",
+            "Had no effect on bond yields",
+            "Only affected the stock market"
+        ],
+        "answer": "Put upward pressure on long-term interest rates",
+        "explanation": "When the Fed stops buying (or starts selling), the resulting increase in supply must be absorbed by the private market, requiring higher yields."
+    },
+    {
+        "id": "E0073",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{stock}$ $\\textbf{market}$ saw a $\\textbf{major}$ $\\textbf{divergence}$ in $\\textbf{2017}$, where $\\textbf{large-cap}$ $\\textbf{stocks}$ ($\\textbf{blue}$ $\\textbf{chips}$) $\\textbf{performed}$ $\\textbf{strongly}$ while $\\textbf{small-cap}$ $\\textbf{stocks}$ $\\textbf{languished}$.",
+        "image": "",
+        "options": [
+            "All stocks collapsed",
+            "Large-cap stocks performed strongly while small-cap stocks languished",
+            "Only technology stocks rose",
+            "The market was closed for the year"
+        ],
+        "answer": "Large-cap stocks performed strongly while small-cap stocks languished",
+        "explanation": "This reflected the government's deleveraging campaign, which made credit tighter and hurt smaller, more highly indebted firms."
+    },
+    {
+        "id": "E0074",
+        "text": "The $\\textbf{U.S.}$ $\textbf{unemployment}$ $\\textbf{rate}$ fell to $\\textbf{4.1}\\%$ by the $\\textbf{end}$ of $\\textbf{2017}$, its $\\textbf{lowest}$ $\\textbf{level}$ in $\\textbf{17}$ $\\textbf{years}$, providing a $\\textbf{strong}$ $\\textbf{signal}$ of $\\textbf{labor}$ $\\textbf{market}$ $\\textbf{tightness}$.",
+        "image": "",
+        "options": [
+            "5.5%",
+            "4.1%",
+            "6.8%",
+            "3.0%"
+        ],
+        "answer": "4.1%",
+        "explanation": "This was well below most estimates of the natural rate of unemployment, strengthening the case for Fed rate hikes."
+    },
+    {
+        "id": "E0075",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Canada}$ ($\\textbf{BoC}$) also $\\textbf{raised}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{twice}$ in $\\textbf{2017}$, marking the $\\textbf{first}$ $\\textbf{time}$ the $\\textbf{BoC}$ $\\textbf{hiked}$ in $\\textbf{seven}$ $\\textbf{years}$.",
+        "image": "",
+        "options": [
+            "Cut rates to zero",
+            "Raised interest rates twice",
+            "Started a major QE program",
+            "Fixed its currency to the US Dollar"
+        ],
+        "answer": "Raised interest rates twice",
+        "explanation": "The BoC was one of the few central banks to join the Fed in monetary tightening in 2017, due to strong domestic growth."
+    },
+    {
+        "id": "E0076",
+        "text": "The $\\textbf{TCJA}$ included a $\\textbf{temporary}$ $\textbf{provision}$ allowing for $\\textbf{100}\\%$ $\\textbf{immediate}$ $\\textbf{expensing}$ of $\\textbf{capital}$ $\\textbf{investments}$, which was designed to $\\textbf{boost}$ $\\textbf{corporate}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "A cap on all corporate spending",
+            "100% immediate expensing of capital investments",
+            "New tariffs on imports",
+            "A new minimum wage law"
+        ],
+        "answer": "100% immediate expensing of capital investments",
+        "explanation": "This policy allows companies to deduct the entire cost of new equipment and machinery in the year it's purchased."
+    },
+    {
+        "id": "E0077",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{political}$ $\textbf{risk}$ $\\textbf{receded}$ significantly in $\\textbf{2017}$ with the $\\textbf{electoral}$ $\textbf{defeat}$ of $\\textbf{far-right}$ $\\textbf{parties}$ in the $\\textbf{Dutch}$ and $\\textbf{French}$ $\\textbf{elections}$.",
+        "image": "",
+        "options": [
+            "A new Greek debt crisis",
+            "The electoral defeat of far-right parties in the Dutch and French elections",
+            "A sudden collapse of the Euro",
+            "The UK rejoining the EU"
+        ],
+        "answer": "The electoral defeat of far-right parties in the Dutch and French elections",
+        "explanation": "The victory of pro-EU candidates (Macron in France) eased fears of further Eurozone breakups following Brexit."
+    },
+    {
+        "id": "E0078",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Ten-Year}$ $\\textbf{Treasury}$ $\\textbf{yield}$ $\\textbf{remained}$ $\\textbf{relatively}$ $\textbf{stable}$ throughout $\\textbf{2017}$ despite $\\textbf{Fed}$ $\\textbf{rate}$ $\\textbf{hikes}$, a phenomenon known as the $\\textbf{long-end}$ $\\textbf{puzzle}$ or the $\\textbf{global}$ $\\textbf{savings}$ $\\textbf{glut}$.",
+        "image": "",
+        "options": [
+            "Rose sharply",
+            "Remained relatively stable",
+            "Fell to zero",
+            "Was nationalized"
+        ],
+        "answer": "Remained relatively stable",
+        "explanation": "Global demand for U.S. safe assets, particularly from foreign central banks and pension funds, kept long-term rates contained."
+    },
+    {
+        "id": "E0079",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{government}$ $\\textbf{continued}$ to $\\textbf{impose}$ $\\textbf{strict}$ $\\textbf{capital}$ $\\textbf{controls}$ in $\\textbf{2017}$ to $\\textbf{manage}$ the $\\textbf{flow}$ of $\\textbf{money}$ $\\textbf{out}$ of the $\\textbf{country}$ and $\\textbf{stabilize}$ the $\\textbf{Yuan}$.",
+        "image": "",
+        "options": [
+            "Lifted all capital controls",
+            "Continued to impose strict capital controls",
+            "Encouraged rapid capital outflow",
+            "Pegged the Yuan to gold"
+        ],
+        "answer": "Continued to impose strict capital controls",
+        "explanation": "Fears of a falling Yuan led to high capital flight pressure, which China actively resisted through regulatory means."
+    },
+    {
+        "id": "E0080",
+        "text": "The $\\textbf{final}$ $\textbf{corporate}$ $\\textbf{tax}$ $\\textbf{rate}$ under the $\\textbf{TCJA}$ was set at a $\\textbf{flat}$ $\\textbf{21}\\%$ rate, a $\\textbf{significant}$ $\textbf{reduction}$ from the $\\textbf{35}\\%$ $\\textbf{statutory}$ $\\textbf{rate}$.",
+        "image": "",
+        "options": [
+            "50%",
+            "30%",
+            "21%",
+            "15%"
+        ],
+        "answer": "21%",
+        "explanation": "This new flat rate was intended to make the U.S. corporate tax rate competitive with other OECD countries."
+    }
+]

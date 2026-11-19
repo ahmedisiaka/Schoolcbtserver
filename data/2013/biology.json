@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2013_01",
+      "text": "The $\\text{Organelle}$ primarily responsible for $\\text{Protein}$ $\\text{Synthesis}$ in a cell is the:",
+      "image": "[Diagram of a Ribosome on the Endoplasmic Reticulum]",
+      "options": [
+        "Mitochondrion",
+        "Golgi $\\text{Apparatus}$",
+        "Ribosome",
+        "Lysosome"
+      ],
+      "answer": "Ribosome",
+      "explanation": "$\\text{Ribosomes}$ are the site of $\\text{Translation}$, where $\\text{Messenger}$ $\\text{RNA}$ ($\text{mRNA}$) is read to synthesize $\\text{Polypeptide}$ chains (proteins)."
+    },
+    {
+      "id": "BIO_2013_02",
+      "text": "The major product of the $\\text{Light}$-$\\text{Dependent}$ $\\text{Reaction}$ of $\\text{Photosynthesis}$ that is used in the $\\text{Dark}$ $\\text{Reaction}$ is:",
+      "image": "[Diagram of Light and Dark Reactions of Photosynthesis]",
+      "options": [
+        "Water",
+        "Oxygen",
+        "Adenosine $\\text{Triphosphate}$ ($\\text{ATP}$)",
+        "Carbon $\\text{Dioxide}$"
+      ],
+      "answer": "Adenosine $\\text{Triphosphate}$ ($\\text{ATP}$)",
+      "explanation": "The $\\text{Light}$ $\\text{Reaction}$ converts light energy into chemical energy, producing $\\text{ATP}$ and $\\text{NADPH}$, both of which are essential energy carriers for fixing $\\text{Carbon}$ $\\text{Dioxide}$ in the $\\text{Calvin}$ $\\text{Cycle}$ (Dark Reaction)."
+    },
+    {
+      "id": "BIO_2013_03",
+      "text": "Which of the following classes of food is mainly digested in the $\\text{Duodenum}$?",
+      "image": "[Diagram of the small intestine showing the Duodenum]",
+      "options": [
+        "Vitamins and $\\text{Minerals}$",
+        "Starch and $\\text{Cellulose}$",
+        "Fats and $\\text{Oils}$ ($\\text{Lipids}$)",
+        "Water"
+      ],
+      "answer": "Fats and $\\text{Oils}$ ($\\text{Lipids}$)",
+      "explanation": "The $\\text{Duodenum}$ is where $\\text{Bile}$ (for $\\text{Emulsification}$) and pancreatic $\\text{Lipase}$ are introduced, making it the primary site for the $\\text{Digestion}$ of $\\text{Fats}$."
+    },
+    {
+      "id": "BIO_2013_04",
+      "text": "The process of maintaining a constant $\\text{Internal}$ $\\text{Body}$ $\\text{Temperature}$ in mammals is known as:",
+      "image": "[Diagram showing Homeostatic Thermoregulation]",
+      "options": [
+        "Osmoregulation",
+        "Thermoregulation",
+        "Excretion",
+        "Homeostasis"
+      ],
+      "answer": "Thermoregulation",
+      "explanation": "$\\text{Thermoregulation}$ is the specific aspect of $\\text{Homeostasis}$ (maintaining a stable internal environment) that deals with controlling $\\text{Body}$ $\\text{Temperature}$."
+    },
+    {
+      "id": "BIO_2013_05",
+      "text": "What is the primary role of the $\\text{Sclerenchyma}$ tissue in plants?",
+      "image": "[Microscopic view of Sclerenchyma fibers]",
+      "options": [
+        "Food $\\text{Storage}$",
+        "Photosynthesis",
+        "Mechanical $\\text{Support}$ and $\\text{Protection}$",
+        "Water $\\text{Transport}$"
+      ],
+      "answer": "Mechanical $\\text{Support}$ and $\\text{Protection}$",
+      "explanation": "$\\text{Sclerenchyma}$ cells have $\\text{Thick}$, $\\text{Lignified}$ $\\text{Secondary}$ $\\text{Walls}$ and are often dead at maturity, providing $\\text{Hardness}$ and $\\text{Strength}$ to the plant."
+    },
+    {
+      "id": "BIO_2013_06",
+      "text": "The loss of $\\text{Water}$ in $\\text{Liquid}$ form from the margins of plant leaves is called:",
+      "image": "[Image showing Guttation drops on a leaf margin]",
+      "options": [
+        "Transpiration",
+        "Evaporation",
+        "Guttation",
+        "Absorption"
+      ],
+      "answer": "Guttation",
+      "explanation": "$\\text{Guttation}$ is the exudation of $\\text{Xylem}$ $\\text{Sap}$ (water and solutes) through specialized pores ($\text{Hydathodes}$) at the leaf edges, often seen when $\\text{Transpiration}$ is low and $\\text{Root}$ $\\text{Pressure}$ is high."
+    },
+    {
+      "id": "BIO_2013_07",
+      "text": "The $\\text{Mouth}$ $\\text{Parts}$ of a $\\text{Mosquito}$ are adapted for:",
+      "image": "[Diagram of piercing-sucking mouthparts of a mosquito]",
+      "options": [
+        "Biting and $\\text{Chewing}$",
+        "Siphoning and $\\text{Lapping}$",
+        "Piercing and $\\text{Sucking}$",
+        "Sponging"
+      ],
+      "answer": "Piercing and $\\text{Sucking}$",
+      "explanation": "Mosquitoes (and other blood-feeders) have modified $\\text{Proboscis}$ (mouthparts) capable of $\\text{Piercing}$ the skin and $\\text{Sucking}$ fluids like blood or nectar."
+    },
+    {
+      "id": "BIO_2013_08",
+      "text": "A population of organisms is best defined as:",
+      "image": "",
+      "options": [
+        "All the $\\text{Plants}$ and $\\text{Animals}$ in a given area",
+        "All the organisms of the $\\text{Same}$ $\\text{Species}$ in a given area",
+        "All the $\\text{Different}$ $\\text{Species}$ in an ecosystem",
+        "The total number of organisms in the world"
+      ],
+      "answer": "All the organisms of the $\\text{Same}$ $\\text{Species}$ in a given area",
+      "explanation": "In $\\text{Ecology}$, a $\\text{Population}$ is a group of individuals belonging to the $\\text{Same}$ $\\text{Species}$ living in the same geographic area at the same time."
+    },
+    {
+      "id": "BIO_2013_09",
+      "text": "The phenomenon in which an $\\text{Organism}$ $\\text{Resembles}$ another $\\text{Species}$ for $\\text{Protection}$ or $\\text{Warning}$ is called:",
+      "image": "[Image comparing a non-poisonous snake mimicking a poisonous one (Batesian Mimicry)]",
+      "options": [
+        "Camouflage",
+        "Migration",
+        "Mimicry",
+        "Courtship"
+      ],
+      "answer": "Mimicry",
+      "explanation": "$\\text{Mimicry}$ is an evolutionary strategy where one species ($\text{The}$ $\\text{Mimic}$) has evolved to $\\text{Imitate}$ the appearance or characteristics of another species ($\text{The}$ $\\text{Model}$)."
+    },
+    {
+      "id": "BIO_2013_10",
+      "text": "In $\\text{Genetics}$, $\\text{Alleles}$ are best described as:",
+      "image": "[Diagram of Homologous Chromosomes showing Alleles at a Locus]",
+      "options": [
+        "Pairs of $\\text{Chromosomes}$",
+        "Alternative $\\text{Forms}$ of a $\\text{Gene}$",
+        "The $\\text{Physical}$ $\\text{Expression}$ of a $\\text{Trait}$",
+        "Units of $\\text{Inheritance}$ on $\\text{RNA}$"
+      ],
+      "answer": "Alternative $\\text{Forms}$ of a $\\text{Gene}$",
+      "explanation": "An $\\text{Allele}$ is one of two or more $\\text{Different}$ $\\text{Versions}$ of a $\\text{Gene}$. For example, the gene for eye color may have an allele for blue eyes and an allele for brown eyes."
+    },
+    {
+      "id": "BIO_2013_11",
+      "text": "The $\\text{Endocrine}$ $\\text{Gland}$ that is sometimes referred to as the $\\text{Master}$ $\\text{Gland}$ is the:",
+      "image": "[Diagram showing the location of the Pituitary Gland]",
+      "options": [
+        "Thyroid $\\text{Gland}$",
+        "Adrenal $\\text{Gland}$",
+        "Pituitary $\\text{Gland}$",
+        "Pancreas"
+      ],
+      "answer": "Pituitary $\\text{Gland}$",
+      "explanation": "The $\\text{Pituitary}$ $\\text{Gland}$ is called the $\\text{Master}$ $\\text{Gland}$ because it secretes hormones (like $\\text{TSH}$, $\\text{ACTH}$, $\\text{FSH}$, $\\text{LH}$) that $\\text{Control}$ the activity of most other $\\text{Endocrine}$ $\\text{Glands}$."
+    },
+    {
+      "id": "BIO_2013_12",
+      "text": "The conversion of $\\text{Ammonia}$ to $\\text{Nitrites}$ and then to $\\text{Nitrates}$ in the soil is known as:",
+      "image": "[Diagram illustrating the steps of the Nitrogen Cycle]",
+      "options": [
+        "Ammonification",
+        "Denitrification",
+        "Nitrogen $\\text{Fixation}$",
+        "Nitrification"
+      ],
+      "answer": "Nitrification",
+      "explanation": "$\\text{Nitrification}$ is a two-step process carried out by $\\text{Chemoautotrophic}$ bacteria (e.g., $\\text{Nitrosomonas}$ and $\\text{Nitrobacter}$) where ammonia is oxidized to $\\text{Nitrate}$, the form most usable by plants."
+    },
+    {
+      "id": "BIO_2013_13",
+      "text": "The specialized cells in the $\\text{Kidney}$ responsible for $\\text{Filtration}$ and $\\text{Urine}$ $\\text{Formation}$ are the:",
+      "image": "[Diagram of a single Nephron in the Kidney]",
+      "options": [
+        "Glomerulus",
+        "Nephrons",
+        "Renal $\\text{Medulla}$ $\\text{Cells}$",
+        "Collecting $\\text{Ducts}$"
+      ],
+      "answer": "Nephrons",
+      "explanation": "The $\\text{Nephron}$ is the $\\text{Structural}$ and $\\text{Functional}$ unit of the $\\text{Kidney}$. It consists of the $\\text{Glomerulus}$ and its associated tubule system, which filters blood and reabsorbs essential substances."
+    },
+    {
+      "id": "BIO_2013_14",
+      "text": "Which of the following is an example of an $\\text{Innate}$ $\\text{Behaviour}$ (unlearned)?",
+      "image": "",
+      "options": [
+        "Riding a $\\text{Bicycle}$",
+        "A $\\text{Spider}$ spinning a $\\text{Web}$",
+        "A $\\text{Dog}$ begging for $\\text{Food}$",
+        "A $\\text{Bird}$ singing a $\\text{Learned}$ $\\text{Song}$"
+      ],
+      "answer": "A $\\text{Spider}$ spinning a $\\text{Web}$",
+      "explanation": "$\\text{Innate}$ $\\text{Behaviour}$ (instinct) is $\\text{Genetically}$ $\\text{Determined}$ and performed without prior experience. Web spinning in a spider is a fixed action pattern, unlike learned behaviors like riding a bicycle."
+    },
+    {
+      "id": "BIO_2013_15",
+      "text": "The $\\text{Waxy}$ $\\text{Cuticle}$ on the epidermis of plant leaves primarily functions to:",
+      "image": "[Cross-section of a leaf showing the waxy cuticle]",
+      "options": [
+        "Increase $\\text{Gas}$ $\\text{Exchange}$",
+        "Prevent $\\text{Water}$ $\\text{Loss}$ by $\\text{Evaporation}$",
+        "Filter $\\text{Sunlight}$",
+        "Provide $\\text{Mechanical}$ $\\text{Support}$"
+      ],
+      "answer": "Prevent $\\text{Water}$ $\\text{Loss}$ by $\\text{Evaporation}$",
+      "explanation": "The $\\text{Cuticle}$ is a $\\text{Waterproof}$ layer secreted by the epidermal cells, and its main role is to $\\text{Reduce}$ $\\text{Water}$ $\\text{Loss}$ ($\text{Transpiration}$)."
+    },
+    {
+      "id": "BIO_2013_16",
+      "text": "If a parent with $\\text{Blood}$ $\\text{Group}$ $\\text{A}$ ($\text{Genotype}$ $\\text{I}^A\\text{I}^O$) and a parent with $\\text{Blood}$ $\\text{Group}$ $\\text{B}$ ($\text{Genotype}$ $\\text{I}^B\\text{I}^O$) have a child, what is the probability of the child having $\\text{Blood}$ $\\text{Group}$ $\\text{O}$?",
+      "image": "[Punnett square for I^A I^O x I^B I^O cross]",
+      "options": [
+        "$1/4$",
+        "$1/2$",
+        "$3/4$",
+        "$0$"
+      ],
+      "answer": "$1/4$",
+      "explanation": "Crossing $\\text{I}^A\\text{I}^O \\times \\text{I}^B\\text{I}^O$ yields $\\text{I}^A\\text{I}^B$ ($\text{AB}$), $\\text{I}^A\\text{I}^O$ ($\text{A}$), $\\text{I}^B\\text{I}^O$ ($\text{B}$), and $\\text{I}^O\\text{I}^O$ ($\text{O}$). The probability of $\\text{O}$ ($\text{I}^O\\text{I}^O$) is $1$ out of $4$, or $1/4$."
+    },
+    {
+      "id": "BIO_2013_17",
+      "text": "The $\\text{Part}$ of the $\\text{Sperm}$ cell that contains the $\\text{Enzymes}$ necessary to $\\text{Penetrate}$ the $\\text{Egg}$ is the:",
+      "image": "[Diagram of a human sperm cell showing the Acrosome]",
+      "options": [
+        "Tail (Flagellum)",
+        "Mitochondrial $\\text{Sheath}$",
+        "Nucleus",
+        "Acrosome"
+      ],
+      "answer": "Acrosome",
+      "explanation": "The $\\text{Acrosome}$ is a cap-like structure over the $\\text{Sperm}$ $\\text{Head}$ that contains $\\text{Hydrolytic}$ $\\text{Enzymes}$ (like $\\text{Hyaluronidase}$) released to break down the protective layers of the $\\text{Ovum}$."
+    },
+    {
+      "id": "BIO_2013_18",
+      "text": "Which of the following organisms exhibit $\\text{Incomplete}$ $\\text{Metamorphosis}$?",
+      "image": "[Life cycle diagram of a Grasshopper (Incomplete Metamorphosis)]",
+      "options": [
+        "Butterfly",
+        "Mosquito",
+        "Grasshopper",
+        "Beetle"
+      ],
+      "answer": "Grasshopper",
+      "explanation": "$\\text{Incomplete}$ $\\text{Metamorphosis}$ (Hemimetabolism) involves three stages: $\\text{Egg}$, $\\text{Nymph}$, and $\\text{Adult}$. The $\\text{Nymph}$ often resembles a smaller version of the adult, as seen in $\\text{Grasshoppers}$ and $\\text{Locusts}$."
+    },
+    {
+      "id": "BIO_2013_19",
+      "text": "The final electron acceptor in the $\\text{Electron}$ $\\text{Transport}$ $\\text{Chain}$ of $\\text{Aerobic}$ $\\text{Respiration}$ is:",
+      "image": "[Diagram of the Electron Transport Chain in the Mitochondrion]",
+      "options": [
+        "Carbon $\\text{Dioxide}$",
+        "Water",
+        "Oxygen",
+        "Glucose"
+      ],
+      "answer": "Oxygen",
+      "explanation": "$\\text{Oxygen}$ is the highly $\\text{Electronegative}$ $\\text{Molecule}$ that accepts the $\\text{Electrons}$ and $\\text{Protons}$ at the end of the $\\text{ETC}$ to form $\\text{Water}$ ($\text{H}_2\\text{O}$), making it the $\\text{Terminal}$ $\\text{Electron}$ $\\text{Acceptor}$."
+    },
+    {
+      "id": "BIO_2013_20",
+      "text": "A key difference between a $\\text{Plant}$ $\\text{Cell}$ and an $\\text{Animal}$ $\\text{Cell}$ is the presence of $\\text{Chloroplasts}$ in the plant cell and the absence of:",
+      "image": "[Diagram comparing Plant and Animal Cells]",
+      "options": [
+        "Ribosomes",
+        "Mitochondria",
+        "Cell $\\text{Wall}$",
+        "Centrioles"
+      ],
+      "answer": "Centrioles",
+      "explanation": "Plant cells (except for some lower forms) $\\text{Lack}$ $\\text{Centrioles}$, which are found in $\\text{Animal}$ $\\text{Cells}$ and are involved in cell division and the formation of cilia/flagella."
+    },
+    {
+      "id": "BIO_2013_21",
+      "text": "Which of the following blood components is responsible for $\\text{Blood}$ $\\text{Clotting}$?",
+      "image": "[Microscopic image of Blood Platelets]",
+      "options": [
+        "Erythrocytes (Red $\\text{Blood}$ $\\text{Cells}$)",
+        "Leukocytes (White $\\text{Blood}$ $\\text{Cells}$)",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": "Platelets",
+      "explanation": "$\\text{Platelets}$ (Thrombocytes) are cell fragments that $\\text{Initiate}$ the $\\text{Clotting}$ $\\text{Cascade}$ by releasing $\\text{Thromboplastin}$ upon injury."
+    },
+    {
+      "id": "BIO_2013_22",
+      "text": "The $\\text{Part}$ of the $\\text{Ear}$ that is responsible for $\\text{Hearing}$ is the:",
+      "image": "[Diagram of the human ear focusing on the Cochlea]",
+      "options": [
+        "Ossicles",
+        "Eardrum",
+        "Cochlea",
+        "Semicircular $\\text{Canals}$"
+      ],
+      "answer": "Cochlea",
+      "explanation": "The $\\text{Cochlea}$ (part of the $\\text{Inner}$ $\\text{Ear}$) contains the $\\text{Organ}$ of $\\text{Corti}$, which has sensory hair cells that $\\text{Convert}$ $\\text{Sound}$ $\\text{Vibrations}$ into $\\text{Nerve}$ $\\text{Impulses}$."
+    },
+    {
+      "id": "BIO_2013_23",
+      "text": "The major function of $\\text{Amoeba}$ $\\text{Contractile}$ $\\text{Vacuole}$ is:",
+      "image": "[Diagram of an Amoeba showing the Contractile Vacuole expelling water]",
+      "options": [
+        "Digestion of $\\text{Food}$",
+        "Osmoregulation (Water $\\text{Balance}$)",
+        "Locomotion",
+        "Gas $\\text{Exchange}$"
+      ],
+      "answer": "Osmoregulation (Water $\\text{Balance}$)",
+      "explanation": "In freshwater $\\text{Protozoa}$ like $\\text{Amoeba}$, the $\\text{Contractile}$ $\\text{Vacuole}$ actively $\\text{Collects}$ and $\\text{Expels}$ $\\text{Excess}$ $\\text{Water}$ that enters the cell by $\\text{Osmosis}$, preventing the cell from bursting."
+    },
+    {
+      "id": "BIO_2013_24",
+      "text": "The highest $\\text{Concentration}$ of $\\text{Glycogen}$ (animal $\\text{Starch}$) is typically found in the:",
+      "image": "[Diagram of the Liver receiving blood from the digestive system]",
+      "options": [
+        "Spleen",
+        "Kidney",
+        "Liver and $\\text{Muscle}$ $\\text{Cells}$",
+        "Brain"
+      ],
+      "answer": "Liver and $\\text{Muscle}$ $\\text{Cells}$",
+      "explanation": "The $\\text{Liver}$ stores $\\text{Glycogen}$ to maintain $\\text{Blood}$ $\\text{Glucose}$ levels, while $\\text{Muscle}$ $\\text{Cells}$ store it as a local energy reserve for rapid contraction."
+    },
+    {
+      "id": "BIO_2013_25",
+      "text": "The primary way $\\text{Nutrients}$ and $\\text{Wastes}$ are exchanged between a $\\text{Foetus}$ and the $\\text{Mother}$ is through the:",
+      "image": "[Diagram of the Placenta and Umbilical Cord]",
+      "options": [
+        "Oviduct",
+        "Amniotic $\\text{Fluid}$",
+        "Placenta",
+        "Uterus"
+      ],
+      "answer": "Placenta",
+      "explanation": "The $\\text{Placenta}$ is the temporary organ that $\\text{Connects}$ the mother and the foetus, facilitating the $\\text{Exchange}$ of $\\text{Gases}$, $\\text{Nutrients}$, and $\\text{Wastes}$ between their $\\text{Bloodstreams}$."
+    },
+    {
+      "id": "BIO_2013_26",
+      "text": "Which of the following is an example of $\\text{Discontinuous}$ $\\text{Variation}$?",
+      "image": "[Graph comparing height (continuous) vs. blood groups (discontinuous)]",
+      "options": [
+        "Human $\\text{Height}$",
+        "Human $\\text{Weight}$",
+        "Human $\\text{Blood}$ $\\text{Groups}$ ($\\text{A}$, $\\text{B}$, $\\text{AB}$, $\\text{O}$)",
+        "Leaf $\\text{Length}$ in a $\\text{Plant}$"
+      ],
+      "answer": "Human $\\text{Blood}$ $\\text{Groups}$ ($\\text{A}$, $\\text{B}$, $\\text{AB}$, $\\text{O}$)",
+      "explanation": "$\\text{Discontinuous}$ $\\text{Variation}$ refers to traits that fall into distinct categories (e.g., blood groups, eye color) and are usually controlled by $\\text{One}$ or a $\\text{Few}$ $\\text{Genes}$."
+    },
+    {
+      "id": "BIO_2013_27",
+      "text": "The $\\text{Part}$ of the $\\text{Brain}$ that acts as a $\\text{Relay}$ $\\text{Centre}$ for $\\text{Sensory}$ $\\text{Information}$ (excluding smell) entering the $\\text{Cerebrum}$ is the:",
+      "image": "[Diagram of the brain highlighting the Thalamus]",
+      "options": [
+        "Hypothalamus",
+        "Medulla $\\text{Oblongata}$",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "answer": "Thalamus",
+      "explanation": "The $\\text{Thalamus}$ processes and relays most $\\text{Incoming}$ $\\text{Sensory}$ $\\text{Signals}$ (visual, auditory, somatic) to the appropriate areas of the $\\text{Cerebral}$ $\\text{Cortex}$."
+    },
+    {
+      "id": "BIO_2013_28",
+      "text": "A major adaptation of $\\text{Xerophytes}$ (plants in dry habitats) is the possession of:",
+      "image": "",
+      "options": [
+        "Large $\\text{Surface}$ $\\text{Area}$ for $\\text{Leaves}$",
+        "Numerous $\\text{Stomata}$ on the $\\text{Upper}$ $\\text{Epidermis}$",
+        "Fleshy $\\text{Stems}$ for $\\text{Water}$ $\\text{Storage}$",
+        "Absence of $\\text{Cuticle}$"
+      ],
+      "answer": "Fleshy $\\text{Stems}$ for $\\text{Water}$ $\\text{Storage}$",
+      "explanation": "Xerophytes (like cacti and succulents) have adaptations to $\\text{Conserve}$ $\\text{Water}$, including $\\text{Thick}$ $\\text{Cuticles}$, $\\text{Sunken}$ $\\text{Stomata}$, and $\\text{Succulence}$ (fleshy parts for water storage)."
+    },
+    {
+      "id": "BIO_2013_29",
+      "text": "The causative $\\text{Organism}$ of $\\text{Typhoid}$ $\\text{Fever}$ is a:",
+      "image": "",
+      "options": [
+        "Virus",
+        "Fungus",
+        "Bacterium ($\text{Salmonella}$ $\\text{Typhi}$)",
+        "Protozoan"
+      ],
+      "answer": "Bacterium ($\text{Salmonella}$ $\\text{Typhi}$)",
+      "explanation": "$\\text{Typhoid}$ $\\text{Fever}$ is caused by the bacterium $\\text{Salmonella}$ $\\text{Typhi}$, usually spread through contaminated food or water."
+    },
+    {
+      "id": "BIO_2013_30",
+      "text": "Which of the following parts of the human $\\text{Skeleton}$ belongs to the $\\text{Axial}$ $\\text{Skeleton}$?",
+      "image": "[Diagram separating the Axial and Appendicular Skeletons]",
+      "options": [
+        "Pectoral $\\text{Girdle}$",
+        "Femur ($\\text{Thigh}$ $\\text{Bone}$)",
+        "Vertebral $\\text{Column}$ ($\\text{Backbone}$)",
+        "Clavicle ($\\text{Collarbone}$)"
+      ],
+      "answer": "Vertebral $\\text{Column}$ ($\\text{Backbone}$)",
+      "explanation": "The $\\text{Axial}$ $\\text{Skeleton}$ forms the central axis of the body and includes the $\\text{Skull}$, $\\text{Vertebral}$ $\\text{Column}$, $\\text{Ribs}$, and $\\text{Sternum}$."
+    },
+    {
+      "id": "BIO_2013_31",
+      "text": "The $\\text{Movement}$ of a $\\text{Whole}$ $\\text{Organism}$ in response to $\\text{Non}$-$\\text{Directional}$ $\\text{Stimulus}$ (e.g., light $\\text{Intensity}$) is termed:",
+      "image": "",
+      "options": [
+        "Taxis",
+        "Kinesis",
+        "Tropism",
+        "Nastic $\\text{Movement}$"
+      ],
+      "answer": "Kinesis",
+      "explanation": "$\\text{Kinesis}$ is a $\\text{Non}$-$\\text{Directional}$ $\\text{Movement}$ where the speed or rate of turning of an organism is $\\text{Dependent}$ on the $\\text{Intensity}$ of the stimulus, not its direction."
+    },
+    {
+      "id": "BIO_2013_32",
+      "text": "The $\\text{Vascular}$ $\\text{Bundle}$ ($\\text{Xylem}$ and $\\text{Phloem}$) is absent in the primary structure of a plant's:",
+      "image": "[Cross-section of a root tip]",
+      "options": [
+        "Stem",
+        "Root",
+        "Leaf",
+        "Root $\\text{Cap}$"
+      ],
+      "answer": "Root $\\text{Cap}$",
+      "explanation": "The $\\text{Root}$ $\\text{Cap}$ is a protective layer of $\\text{Parenchyma}$ cells covering the $\\text{Apical}$ $\\text{Meristem}$. It is $\\text{Non}$-$\\text{Vascular}$ and primarily involved in protection."
+    },
+    {
+      "id": "BIO_2013_33",
+      "text": "In $\\text{Ecological}$ $\\text{Pyramids}$, the $\\text{Biomass}$ of $\\text{Producers}$ (base of the pyramid) is generally:",
+      "image": "[Diagram of a Pyramid of Biomass (Terrestrial)]",
+      "options": [
+        "Equal to the $\\text{Primary}$ $\\text{Consumers}$",
+        "Less than the $\\text{Secondary}$ $\\text{Consumers}$",
+        "Much $\\text{Greater}$ than any $\\text{Other}$ $\\text{Trophic}$ $\\text{Level}$",
+        "Always $\\text{Inverted}$"
+      ],
+      "answer": "Much $\\text{Greater}$ than any $\\text{Other}$ $\\text{Trophic}$ $\\text{Level}$",
+      "explanation": "In a $\\text{Pyramid}$ of $\\text{Biomass}$ (especially $\\text{Terrestrial}$), the mass of $\\text{Producers}$ must be significantly larger to $\\text{Support}$ the energy needs of all the $\\text{Higher}$ $\\text{Trophic}$ $\\text{Levels}$."
+    },
+    {
+      "id": "BIO_2013_34",
+      "text": "The primary cause of $\\text{Acid}$ $\\text{Rain}$ is the emission of:",
+      "image": "[Diagram illustrating the formation of Acid Rain]",
+      "options": [
+        "Carbon $\\text{Dioxide}$ ($\text{CO}_2$)",
+        "Methane ($\text{CH}_4$)",
+        "Sulphur $\\text{Dioxide}$ ($\text{SO}_2$) and $\\text{Nitrogen}$ $\\text{Oxides}$ ($\text{NO}_x$)",
+        "Chlorofluorocarbons ($\text{CFCs}$)"
+      ],
+      "answer": "Sulphur $\\text{Dioxide}$ ($\text{SO}_2$) and $\\text{Nitrogen}$ $\\text{Oxides}$ ($\text{NO}_x$)",
+      "explanation": "Burning $\\text{Fossil}$ $\\text{Fuels}$ releases $\\text{SO}_2$ and $\\text{NO}_x$, which dissolve in atmospheric water to form $\\text{Sulphuric}$ and $\\text{Nitric}$ $\\text{Acids}$, leading to $\\text{Acid}$ $\\text{Rain}$."
+    },
+    {
+      "id": "BIO_2013_35",
+      "text": "An organism that feeds $\\text{Only}$ on $\\text{Dead}$ and $\\text{Decaying}$ $\\text{Organic}$ $\\text{Matter}$ is a:",
+      "image": "",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Saprophyte ($\text{Saprotroph}$)",
+        "Parasite"
+      ],
+      "answer": "Saprophyte ($\text{Saprotroph}$)",
+      "explanation": "$\\text{Saprophytes}$ (e.g., most $\\text{Fungi}$ and $\\text{Bacteria}$) are $\\text{Heterotrophs}$ that obtain nutrients by $\\text{Decomposing}$ dead organic material, a process also called $\\text{Saprotrophic}$ $\\text{Nutrition}$."
+    },
+    {
+      "id": "BIO_2013_36",
+      "text": "The $\\text{Movement}$ of $\\text{Genes}$ from one $\\text{Population}$ to another through $\\text{Migration}$ is termed:",
+      "image": "[Diagram illustrating Gene Flow between two populations]",
+      "options": [
+        "Genetic $\\text{Drift}$",
+        "Natural $\\text{Selection}$",
+        "Gene $\\text{Flow}$",
+        "Mutation"
+      ],
+      "answer": "Gene $\\text{Flow}$",
+      "explanation": "$\\text{Gene}$ $\\text{Flow}$ (or $\\text{Gene}$ $\\text{Migration}$) is the $\\text{Transfer}$ of genetic $\\text{Variation}$ from one population to another. $\\text{Drift}$ is random change, and $\\text{Selection}$ is differential survival."
+    },
+    {
+      "id": "BIO_2013_37",
+      "text": "Which of these blood vessels $\\text{Carries}$ $\\text{Deoxygenated}$ $\\text{Blood}$ $\\text{Away}$ from the $\\text{Heart}$?",
+      "image": "[Diagram of the heart and major blood vessels]",
+      "options": [
+        "Pulmonary $\\text{Artery}$",
+        "Pulmonary $\\text{Vein}$",
+        "Aorta",
+        "Vena $\\text{Cava}$"
+      ],
+      "answer": "Pulmonary $\\text{Artery}$",
+      "explanation": "$\\text{Arteries}$ carry blood $\\text{Away}$ from the heart. The $\\text{Pulmonary}$ $\\text{Artery}$ is the $\\text{Only}$ $\\text{Artery}$ in the adult body that carries $\\text{Deoxygenated}$ $\\text{Blood}$ (to the lungs)."
+    },
+    {
+      "id": "BIO_2013_38",
+      "text": "The $\\text{Joint}$ that allows $\\text{Movement}$ in $\\text{All}$ $\\text{Directions}$ ($\\text{Rotation}$, $\\text{Flexion}$, $\\text{Extension}$) is the:",
+      "image": "[Diagram of a Ball-and-Socket Joint (e.g., shoulder or hip)]",
+      "options": [
+        "Hinge $\\text{Joint}$ (e.g., $\\text{Elbow}$)",
+        "Pivot $\\text{Joint}$ (e.g., $\\text{Neck}$)",
+        "Gliding $\\text{Joint}$ (e.g., $\\text{Wrist}$)",
+        "Ball-and-Socket $\\text{Joint}$ (e.g., $\\text{Shoulder}$)"
+      ],
+      "answer": "Ball-and-Socket $\\text{Joint}$ (e.g., $\\text{Shoulder}$)",
+      "explanation": "The $\\text{Ball}$-$\\text{and}$-$\\text{Socket}$ $\\text{Joint}$ offers the $\\text{Widest}$ $\\text{Range}$ of motion, including $\\text{Circumduction}$ and $\\text{Rotation}$, due to the rounded head (ball) fitting into a cup-like depression (socket)."
+    },
+    {
+      "id": "BIO_2013_39",
+      "text": "Which of the following hormones is involved in the $\\text{Formation}$ of the $\\text{Corpus}$ $\\text{Luteum}$ in the $\\text{Menstrual}$ $\\text{Cycle}$?",
+      "image": "[Diagram of the Ovary showing Luteinizing Hormone (LH) action]",
+      "options": [
+        "Oestrogen",
+        "Follicle $\\text{Stimulating}$ $\\text{Hormone}$ ($\text{FSH}$)",
+        "Luteinizing $\\text{Hormone}$ ($\text{LH}$)",
+        "Progesterone"
+      ],
+      "answer": "Luteinizing $\\text{Hormone}$ ($\text{LH}$)",
+      "explanation": "The surge of $\\text{LH}$ from the $\\text{Pituitary}$ $\\text{Gland}$ triggers $\\text{Ovulation}$. After ovulation, $\\text{LH}$ causes the remaining follicular tissue to $\\text{Transform}$ into the $\\text{Corpus}$ $\\text{Luteum}$."
+    },
+    {
+      "id": "BIO_2013_40",
+      "text": "The $\\text{Systematic}$ $\\text{Grouping}$ of $\\text{Organisms}$ based on $\\text{Shared}$ $\\text{Characteristics}$ is known as:",
+      "image": "",
+      "options": [
+        "Evolution",
+        "Ecology",
+        "Taxonomy",
+        "Morphology"
+      ],
+      "answer": "Taxonomy",
+      "explanation": "$\\text{Taxonomy}$ is the $\\text{Science}$ of $\\text{Naming}$, $\\text{Describing}$, and $\\text{Classifying}$ organisms, which provides a universal system for studying $\\text{Biodiversity}$."
+    }
+  ]

@@ -1,0 +1,783 @@
+[
+    {
+        "id": "JAMB_P_141",
+        "text": "The $\\textbf{escape}$ $\\textbf{velocity}$ of a satellite from the Earth is independent of the satellite's:",
+        "image": "",
+        "options": [
+            "mass.",
+            "the gravitational constant, $\\text{G}$.",
+            "radius of the Earth.",
+            "density of the Earth."
+        ],
+        "answer": "mass.",
+        "explanation": "The $\\textbf{escape}$ $\\textbf{velocity}$ ($v_e$) is given by the formula $v_e = \\sqrt{\\frac{2GM}{R}}$, where $\\text{G}$ is the gravitational constant, $\\text{M}$ is the mass of the Earth, and $\\text{R}$ is the radius of the Earth. It is $\\textbf{independent}$ of the $\\textbf{mass}$ of the escaping body ($m$). "
+    },
+    {
+        "id": "JAMB_P_142",
+        "text": "A simple pendulum of length $0.4\\text{ m}$ has a period of $1.2\\text{ s}$. What is the acceleration of free fall ($g$)? (Take $\\pi = 3.14$)",
+        "image": "",
+        "options": [
+            "$9.8\\text{ m/s}^2$.",
+            "$10.9\\text{ m/s}^2$.",
+            "$12.1\\text{ m/s}^2$.",
+            "$14.0\\text{ m/s}^2$."
+        ],
+        "answer": "$10.9\\text{ m/s}^2$.",
+        "explanation": "The period $\\text{T}$ of a simple pendulum is $T = 2\\pi\\sqrt{\\frac{L}{g}}$. Squaring both sides: $T^2 = 4\\pi^2\\frac{L}{g}$. Rearranging for $g$: $g = \\frac{4\\pi^2 L}{T^2}$. $g = \\frac{4 \\times (3.14)^2 \\times 0.4}{(1.2)^2} = \\frac{4 \\times 9.8596 \\times 0.4}{1.44} \\approx 10.95\\text{ m/s}^2$. Rounded to $10.9\\text{ m/s}^2$."
+    },
+    {
+        "id": "JAMB_P_143",
+        "text": "An object of mass $5\\text{ kg}$ is pulled by a force of $20\\text{ N}$ along a $\\textbf{rough}$ $\\textbf{horizontal}$ $\\textbf{surface}$. If the $\\textbf{frictional}$ $\\textbf{force}$ is $4\\text{ N}$, the acceleration of the object is:",
+        "image": "",
+        "options": [
+            "$4.0\\text{ m/s}^2$.",
+            "$3.2\\text{ m/s}^2$.",
+            "$2.8\\text{ m/s}^2$.",
+            "$2.0\\text{ m/s}^2$."
+        ],
+        "answer": "$3.2\\text{ m/s}^2$.",
+        "explanation": "Newton's Second Law: $\\text{Net Force} = \\text{Mass} \\times \\text{Acceleration}$ ($\\text{F}_{net} = ma$). $\\text{F}_{net} = \\text{Applied Force} - \\text{Frictional Force}$. $\\text{F}_{net} = 20\\text{ N} - 4\\text{ N} = 16\\text{ N}$. $a = \\frac{\\text{F}_{net}}{m} = \\frac{16\\text{ N}}{5\\text{ kg}} = 3.2\\text{ m/s}^2$."
+    },
+    {
+        "id": "JAMB_P_144",
+        "text": "A man stands $2\\text{ m}$ in front of a $\\textbf{plane}$ $\\textbf{mirror}$. The distance between the man and his $\\textbf{image}$ is:",
+        "image": "",
+        "options": [
+            "$1\\text{ m}$.",
+            "$2\\text{ m}$.",
+            "$4\\text{ m}$.",
+            "$8\\text{ m}$."
+        ],
+        "answer": "$4\\text{ m}$.",
+        "explanation": "In a $\\textbf{plane}$ $\\textbf{mirror}$, the image distance ($\text{v}$) is $\\textbf{equal}$ to the object distance ($\text{u}$). Image distance $= 2\\text{ m}$. The distance between the man (object) and his image is $\\text{u} + v = 2\\text{ m} + 2\\text{ m} = 4\\text{ m}$. [Image of a man standing in front of a plane mirror with object and image distances labeled]"
+    },
+    {
+        "id": "JAMB_P_145",
+        "text": "Which of the following is $\\textbf{NOT}$ a vector quantity?",
+        "image": "",
+        "options": [
+            "Momentum.",
+            "Displacement.",
+            "Velocity.",
+            "Temperature."
+        ],
+        "answer": "Temperature.",
+        "explanation": "A $\\textbf{vector}$ $\\textbf{quantity}$ has both magnitude and direction ($\text{Momentum}, \\text{Displacement}, \\text{Velocity}$). $\\textbf{Temperature}$ is a $\\textbf{scalar}$ $\\textbf{quantity}$ as it has only magnitude."
+    },
+    {
+        "id": "JAMB_P_146",
+        "text": "The $\\textbf{unit}$ of $\\textbf{power}$ is the $\\textbf{watt}$ ($\text{W}$). This is equivalent to:",
+        "image": "",
+        "options": [
+            "$\\text{J/s}$.",
+            "$\\text{N/m}$.",
+            "$\\text{kg} \\cdot \\text{m/s}$.",
+            "$\\text{N} \\cdot \\text{m}^2$."
+        ],
+        "answer": "$\\text{J/s}$.",
+        "explanation": "$\\textbf{Power}$ is defined as the $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{doing}$ $\\textbf{work}$ or $\\textbf{transferring}$ $\\textbf{energy}$. Power $(\\text{P}) = \\frac{\\text{Work} (\\text{W})}{\\text{time} (t)}$. The unit of work/energy is the $\\text{Joule}$ ($\text{J}$), and the unit of time is the $\\text{second}$ ($\text{s}$). Thus, $1\\text{ Watt} = 1\\text{ Joule per second}$ ($\text{J/s}$)."
+    },
+    {
+        "id": "JAMB_P_147",
+        "text": "The $\\textbf{focal}$ $\\textbf{length}$ of a $\\textbf{concave}$ $\\textbf{mirror}$ is $20\\text{ cm}$. An object is placed $30\\text{ cm}$ from the mirror. Where is the $\\textbf{image}$ formed?",
+        "image": "",
+        "options": [
+            "$60\\text{ cm}$ behind the mirror.",
+            "$12\\text{ cm}$ in front of the mirror.",
+            "$60\\text{ cm}$ in front of the mirror.",
+            "$15\\text{ cm}$ behind the mirror."
+        ],
+        "answer": "$60\\text{ cm}$ in front of the mirror.",
+        "explanation": "Use the $\\textbf{mirror}$ $\\textbf{formula}$: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$. Here, $f = +20\\text{ cm}$ (concave), $u = +30\\text{ cm}$. $\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = \\frac{1}{20} - \\frac{1}{30} = \\frac{3-2}{60} = \\frac{1}{60}$. $v = 60\\text{ cm}$. Since $v$ is positive, the image is $\\textbf{real}$ and formed $\\textbf{in}$ $\\textbf{front}$ of the mirror."
+    },
+    {
+        "id": "JAMB_P_148",
+        "text": "Which of the following describes the nature of the $\\textbf{image}$ formed by a $\\textbf{plane}$ $\\textbf{mirror}$?",
+        "image": "",
+        "options": [
+            "Real, inverted, and magnified.",
+            "Virtual, inverted, and same size.",
+            "Real, upright, and diminished.",
+            "Virtual, upright, and same size."
+        ],
+        "answer": "Virtual, upright, and same size.",
+        "explanation": "A $\\textbf{plane}$ $\\textbf{mirror}$ always forms an image that is $\\textbf{Virtual}$, $\\textbf{Upright}$ (Erect), $\\textbf{Laterally}$ $\\textbf{Inverted}$, and the $\\textbf{Same}$ $\\textbf{Size}$ as the object."
+    },
+    {
+        "id": "JAMB_P_149",
+        "text": "A block of metal has a mass of $100\\text{ g}$ and occupies a volume of $25\\text{ cm}^3$. The $\\textbf{density}$ of the metal is:",
+        "image": "",
+        "options": [
+            "$4.0\\text{ g/cm}^3$.",
+            "$0.25\\text{ g/cm}^3$.",
+            "$2500\\text{ kg/m}^3$.",
+            "$100\\text{ g/cm}^3$."
+        ],
+        "answer": "$4.0\\text{ g/cm}^3$.",
+        "explanation": "$\\textbf{Density}$ ($\\rho$) is defined as $\\rho = \\frac{\\text{Mass} (m)}{\\text{Volume} (V)}$. $\\rho = \\frac{100\\text{ g}}{25\\text{ cm}^3} = 4.0\\text{ g/cm}^3$."
+    },
+    {
+        "id": "JAMB_P_150",
+        "text": "The $\\textbf{frequency}$ of a wave is $5\\text{ Hz}$ and its $\\textbf{wavelength}$ is $20\\text{ m}$. What is the $\\textbf{velocity}$ of the wave?",
+        "image": "",
+        "options": [
+            "$4\\text{ m/s}$.",
+            "$25\\text{ m/s}$.",
+            "$100\\text{ m/s}$.",
+            "$1000\\text{ m/s}$."
+        ],
+        "answer": "$100\\text{ m/s}$.",
+        "explanation": "The wave $\\textbf{velocity}$ ($v$) is related to $\\textbf{frequency}$ ($f$) and $\\textbf{wavelength}$ ($\\lambda$) by the equation $v = f\\lambda$. $v = 5\\text{ Hz} \\times 20\\text{ m} = 100\\text{ m/s}$."
+    },
+    {
+        "id": "JAMB_P_151",
+        "text": "The $\\textbf{force}$ experienced by a conductor carrying a current in a magnetic field is $\\textbf{maximum}$ when the conductor is:",
+        "image": "",
+        "options": [
+            "parallel to the field.",
+            "perpendicular to the field.",
+            "at an angle of $45^\\circ$ to the field.",
+            "at the center of the magnetic field."
+        ],
+        "answer": "perpendicular to the field.",
+        "explanation": "The magnetic force $\\text{F}$ is given by $\\text{F} = \\text{BIL}\\sin\\theta$, where $\\theta$ is the angle between the conductor and the magnetic field ($\text{B}$). The force is $\\textbf{maximum}$ when $\\sin\\theta = 1$, which occurs when $\\theta = 90^\\circ$ ($\\textbf{perpendicular}$)."
+    },
+    {
+        "id": "JAMB_P_152",
+        "text": "An electric heater has a $\\textbf{power}$ $\\textbf{rating}$ of $1000\\text{ W}$ when connected to a $200\\text{ V}$ $\\textbf{supply}$. The $\\textbf{resistance}$ of the heater element is:",
+        "image": "",
+        "options": [
+            "$20\\text{ }\\Omega$.",
+            "$40\\text{ }\\Omega$.",
+            "$80\\text{ }\\Omega$.",
+            "$200\\text{ }\\Omega$."
+        ],
+        "answer": "$40\\text{ }\\Omega$.",
+        "explanation": "The $\\textbf{power}$ ($\text{P}$) is related to $\\textbf{voltage}$ ($\text{V}$) and $\\textbf{resistance}$ ($\text{R}$) by the formula $P = \\frac{V^2}{R}$. Rearranging for $\text{R}$: $R = \\frac{V^2}{P}$. $R = \\frac{(200\\text{ V})^2}{1000\\text{ W}} = \\frac{40000}{1000} = 40\\text{ }\\Omega$."
+    },
+    {
+        "id": "JAMB_P_153",
+        "text": "The $\\textbf{pressure}$ $\\textbf{exerted}$ by a column of liquid is proportional to the liquid's:",
+        "image": "",
+        "options": [
+            "volume.",
+            "mass.",
+            "density.",
+            "surface tension."
+        ],
+        "answer": "density.",
+        "explanation": "The $\\textbf{pressure}$ ($\text{P}$) due to a liquid column is given by $\\text{P} = \\rho gh$, where $\\rho$ is the liquid $\\textbf{density}$, $g$ is the acceleration due to gravity, and $h$ is the depth/height. Thus, pressure is $\\textbf{directly}$ $\\textbf{proportional}$ to the liquid's $\\textbf{density}$."
+    },
+    {
+        "id": "JAMB_P_154",
+        "text": "If a metal rod is $\\textbf{heated}$, its $\\textbf{electrical}$ $\\textbf{resistance}$ will:",
+        "image": "",
+        "options": [
+            "decrease.",
+            "increase.",
+            "remain constant.",
+            "first increase, then decrease."
+        ],
+        "answer": "increase.",
+        "explanation": "In $\\textbf{metals}$, increasing the $\\textbf{temperature}$ causes the $\\textbf{atoms}$ to $\\textbf{vibrate}$ with greater $\\textbf{amplitude}$. This increases the frequency of $\\textbf{collision}$ between the conducting $\\textbf{electrons}$ and the atoms, which $\\textbf{impedes}$ the flow of charge and thus $\\textbf{increases}$ the $\\textbf{resistance}$."
+    },
+    {
+        "id": "JAMB_P_155",
+        "text": "The $\\textbf{period}$ of oscillation of a $\\textbf{loaded}$ $\\textbf{spring}$ is given by $\\text{T} = 2\\pi\\sqrt{\\frac{m}{k}}$, where $m$ is the mass and $k$ is the spring constant. If the mass is $\\textbf{quadrupled}$ ($4m$), the new period will be:",
+        "image": "",
+        "options": [
+            "$4\\text{T}$.",
+            "$2\\text{T}$.",
+            "$\\text{T}$.",
+            "$\\frac{\\text{T}}{2}$."
+        ],
+        "answer": "$2\\text{T}$.",
+        "explanation": "The period $\\text{T}$ is proportional to $\\sqrt{m}$ ($T \\propto \\sqrt{m}$). If the mass is changed to $m' = 4m$, the new period $T'$ will be: $T' \\propto \\sqrt{4m} \\propto 2\\sqrt{m}$. Therefore, $T' = 2T$. The period $\\textbf{doubles}$."
+    },
+    {
+        "id": "JAMB_P_156",
+        "text": "A ray of light $\\textbf{passes}$ from $\\textbf{air}$ into $\\textbf{water}$. Which of the following $\\textbf{properties}$ of the light $\\textbf{remains}$ $\\textbf{unchanged}$?",
+        "image": "",
+        "options": [
+            "Speed.",
+            "Wavelength.",
+            "Frequency.",
+            "Direction."
+        ],
+        "answer": "Frequency.",
+        "explanation": "When a wave $\\textbf{crosses}$ a $\\textbf{boundary}$ between two different media, its $\\textbf{speed}$ and $\\textbf{wavelength}$ change, causing $\\textbf{refraction}$ (change in direction). However, its $\\textbf{frequency}$ is determined by the $\\textbf{source}$ of the wave and $\\textbf{remains}$ $\\textbf{constant}$."
+    },
+    {
+        "id": "JAMB_P_157",
+        "text": "In a $\\textbf{transformer}$ with $200$ turns in the $\\textbf{primary}$ coil and $50$ turns in the $\\textbf{secondary}$ coil, if the $\\textbf{primary}$ $\\textbf{voltage}$ is $100\\text{ V}$, the $\\textbf{secondary}$ $\\textbf{voltage}$ is:",
+        "image": "",
+        "options": [
+            "$25\\text{ V}$.",
+            "$50\\text{ V}$.",
+            "$200\\text{ V}$.",
+            "$400\\text{ V}$."
+        ],
+        "answer": "$25\\text{ V}$.",
+        "explanation": "The $\\textbf{transformer}$ $\\textbf{ratio}$ is $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$. $V_s = V_p \\times \\frac{N_s}{N_p} = 100\\text{ V} \\times \\frac{50}{200} = 100\\text{ V} \\times \\frac{1}{4} = 25\\text{ V}$. This is a $\\textbf{step-down}$ $\\textbf{transformer}$. "
+    },
+    {
+        "id": "JAMB_P_158",
+        "text": "The $\\textbf{half-life}$ of a $\\textbf{radioactive}$ $\\textbf{element}$ is $4\\text{ days}$. What fraction of the original sample will $\\textbf{remain}$ $\\textbf{after}$ $12\\text{ days}$?",
+        "image": "",
+        "options": [
+            "$\\frac{1}{2}$.",
+            "$\\frac{1}{4}$.",
+            "$\\frac{1}{8}$.",
+            "$\\frac{1}{16}$."
+        ],
+        "answer": "$\\frac{1}{8}$.",
+        "explanation": "Number of half-lives ($n$) passed $= \\frac{\\text{Total Time}}{\\text{Half-life}} = \\frac{12\\text{ days}}{4\\text{ days}} = 3$. The $\\textbf{fraction}$ $\\textbf{remaining}$ is given by $(\\frac{1}{2})^n$. Fraction remaining $= (\\frac{1}{2})^3 = \\frac{1}{8}$."
+    },
+    {
+        "id": "JAMB_P_159",
+        "text": "$\\textbf{Heat}$ $\\textbf{transfer}$ by $\\textbf{convection}$ is mainly due to:",
+        "image": "",
+        "options": [
+            "vibrational motion of molecules.",
+            "movement of the medium itself.",
+            "electromagnetic waves.",
+            "transfer of energy through vacuum."
+        ],
+        "answer": "movement of the medium itself.",
+        "explanation": "$\\textbf{Convection}$ occurs in $\\textbf{fluids}$ (liquids and gases) when the $\\textbf{denser}$, $\\textbf{cooler}$ fluid sinks and the $\\textbf{less}$ $\\textbf{dense}$, $\\textbf{warmer}$ fluid rises, physically $\\textbf{transporting}$ $\\textbf{heat}$ through the $\\textbf{movement}$ of the $\\textbf{medium}$ $\\textbf{itself}$. [Image of a diagram illustrating convection current in a pot of water]"
+    },
+    {
+        "id": "JAMB_P_160",
+        "text": "Which of the following $\\textbf{waves}$ is $\\textbf{transverse}$?",
+        "image": "",
+        "options": [
+            "Sound waves.",
+            "Water waves.",
+            "Compression waves in a spring.",
+            "Seismic P-waves."
+        ],
+        "answer": "Water waves.",
+        "explanation": "In a $\\textbf{transverse}$ $\\textbf{wave}$, the particles of the medium $\\textbf{vibrate}$ $\\textbf{perpendicular}$ to the direction of wave propagation. $\\textbf{Water}$ $\\textbf{waves}$ (on the surface) and all $\\textbf{electromagnetic}$ $\\textbf{waves}$ (like light) are transverse. Sound waves are longitudinal."
+    },
+    {
+        "id": "JAMB_P_161",
+        "text": "The unit of $\\textbf{electric}$ $\\textbf{field}$ $\\textbf{strength}$ is:",
+        "image": "",
+        "options": [
+            "Volt-meter ($\\text{V}\\cdot\\text{m}$).",
+            "Ampere ($\\text{A}$).",
+            "Newton per Coulomb ($\\text{N/C}$).",
+            "Joule per second ($\\text{J/s}$)."
+        ],
+        "answer": "Newton per Coulomb ($\\text{N/C}$).",
+        "explanation": "$\\textbf{Electric}$ $\\textbf{field}$ $\\textbf{strength}$ ($\text{E}$) is defined as the $\\textbf{force}$ ($\text{F}$) per unit $\\textbf{charge}$ ($q$): $E = \\frac{F}{q}$. The unit is $\\text{Newton}$ ($\text{N}$) per $\\text{Coulomb}$ ($\text{C}$)."
+    },
+    {
+        "id": "JAMB_P_162",
+        "text": "A man starts from a point and walks $12\\text{ km}$ due $\\textbf{East}$, then $5\\text{ km}$ due $\\textbf{North}$. His $\\textbf{displacement}$ from the starting point is:",
+        "image": "",
+        "options": [
+            "$7\\text{ km}$.",
+            "$13\\text{ km}$.",
+            "$17\\text{ km}$.",
+            "$60\\text{ km}$."
+        ],
+        "answer": "$13\\text{ km}$.",
+        "explanation": "The path forms a $\\textbf{right-angled}$ $\\textbf{triangle}$. The $\\textbf{displacement}$ is the $\\textbf{hypotenuse}$. Using Pythagoras' theorem: $D^2 = (12\\text{ km})^2 + (5\\text{ km})^2 = 144 + 25 = 169$. $D = \\sqrt{169} = 13\\text{ km}$."
+    },
+    {
+        "id": "JAMB_P_163",
+        "text": "The $\\textbf{efficiency}$ of a machine is defined as the ratio of:",
+        "image": "",
+        "options": [
+            "input energy to output energy.",
+            "work output to work input.",
+            "velocity ratio to mechanical advantage.",
+            "total energy to useful energy."
+        ],
+        "answer": "work output to work input.",
+        "explanation": "$\\textbf{Efficiency}$ ($\\eta$) is the ratio of $\\textbf{useful}$ $\\textbf{work}$ $\\textbf{output}$ to the total $\\textbf{work}$ $\\textbf{input}$, expressed as a percentage: $\\eta = \\frac{\\text{Work Output}}{\\text{Work Input}} \\times 100\\%$."
+    },
+    {
+        "id": "JAMB_P_164",
+        "text": "In a $\\textbf{nuclear}$ $\\textbf{reactor}$, the function of the $\\textbf{control}$ $\\textbf{rods}$ (e.g., Cadmium or Boron) is to:",
+        "image": "",
+        "options": [
+            "speed up the reaction.",
+            "cool down the reactor core.",
+            "absorb excess $\\textbf{neutrons}$.",
+            "act as fuel for the reaction."
+        ],
+        "answer": "absorb excess $\\textbf{neutrons}$.",
+        "explanation": "$\\textbf{Control}$ $\\textbf{rods}$ are inserted into the reactor core to $\\textbf{absorb}$ $\\textbf{excess}$ $\\textbf{neutrons}$, thereby $\\textbf{regulating}$ the rate of the nuclear $\\textbf{fission}$ $\\textbf{chain}$ $\\textbf{reaction}$ to prevent overheating and meltdown. "
+    },
+    {
+        "id": "JAMB_P_165",
+        "text": "Which of the following describes the $\\textbf{motion}$ of an object moving in a $\\textbf{circle}$ at a $\\textbf{constant}$ $\\textbf{speed}$?",
+        "image": "",
+        "options": [
+            "Constant velocity and zero acceleration.",
+            "Constant velocity and constant acceleration.",
+            "Changing velocity and constant acceleration.",
+            "Changing velocity and changing acceleration."
+        ],
+        "answer": "Changing velocity and changing acceleration.",
+        "explanation": "Even though the $\\textbf{speed}$ is $\\textbf{constant}$, the $\\textbf{direction}$ of the object's motion is $\\textbf{continuously}$ $\\textbf{changing}$. Therefore, the $\\textbf{velocity}$ (a vector) is $\\textbf{changing}$. A change in velocity means there is an $\\textbf{acceleration}$ (centripetal acceleration), which is constantly directed towards the center, meaning its $\\textbf{direction}$ is also $\\textbf{changing}$."
+    },
+    {
+        "id": "JAMB_P_166",
+        "text": "A ray of light is $\\textbf{incident}$ on a glass block at an angle of $30^\\circ$. If the $\\textbf{refractive}$ $\\textbf{index}$ of the glass is $1.5$, the angle of $\\textbf{refraction}$ is approximately:",
+        "image": "",
+        "options": [
+            "$19.5^\\circ$.",
+            "$23.2^\\circ$.",
+            "$30.0^\\circ$.",
+            "$48.6^\\circ$."
+        ],
+        "answer": "$19.5^\\circ$.",
+        "explanation": "Use $\\textbf{Snell's}$ $\\textbf{Law}$: $n = \\frac{\\sin i}{\\sin r}$. $1.5 = \\frac{\\sin 30^\\circ}{\\sin r}$. $\\sin r = \\frac{\\sin 30^\\circ}{1.5} = \\frac{0.5}{1.5} = 0.3333$. $r = \\arcsin(0.3333) \\approx 19.47^\\circ$. Rounded to $19.5^\\circ$."
+    },
+    {
+        "id": "JAMB_P_167",
+        "text": "Which of the following $\\textbf{quantities}$ is measured in $\\textbf{Joules}$ ($\\text{J}$)?",
+        "image": "",
+        "options": [
+            "Force.",
+            "Momentum.",
+            "Work.",
+            "Power."
+        ],
+        "answer": "Work.",
+        "explanation": "The $\\text{Joule}$ ($\text{J}$) is the $\\text{SI}$ unit of $\\textbf{Work}$ and $\\textbf{Energy}$. Force is measured in $\\text{Newtons}$ ($\text{N}$), Momentum in $\\text{kg}\\cdot\\text{m/s}$, and Power in $\\text{Watts}$ ($\text{W}$ or $\\text{J/s}$)."
+    },
+    {
+        "id": "JAMB_P_168",
+        "text": "The $\\textbf{pitch}$ of a sound note depends on its:",
+        "image": "",
+        "options": [
+            "amplitude.",
+            "frequency.",
+            "velocity.",
+            "quality."
+        ],
+        "answer": "frequency.",
+        "explanation": "The $\\textbf{pitch}$ of a sound (how high or low it sounds) is determined solely by the $\\textbf{frequency}$ of the wave. A $\\textbf{higher}$ $\\textbf{frequency}$ corresponds to a $\\textbf{higher}$ $\\textbf{pitch}$."
+    },
+    {
+        "id": "JAMB_P_169",
+        "text": "The major reason for $\\textbf{lagging}$ a hot water pipe is to $\\textbf{reduce}$ $\\textbf{heat}$ $\\textbf{loss}$ by:",
+        "image": "",
+        "options": [
+            "conduction.",
+            "convection.",
+            "radiation.",
+            "all three methods."
+        ],
+        "answer": "all three methods.",
+        "explanation": "$\\textbf{Lagging}$ (insulating) a pipe uses materials that are $\\textbf{poor}$ $\\textbf{conductors}$ to reduce $\\textbf{conduction}$, traps air to reduce $\\textbf{convection}$, and often has a reflective or low-emissivity surface to reduce $\\textbf{radiation}$. Therefore, it reduces heat loss by $\\textbf{all}$ $\\textbf{three}$ $\\textbf{methods}$."
+    },
+    {
+        "id": "JAMB_P_170",
+        "text": "The $\\textbf{instrument}$ used to measure $\\textbf{electric}$ $\\textbf{current}$ is the:",
+        "image": "",
+        "options": [
+            "Voltmeter.",
+            "Ammeter.",
+            "Galvanometer.",
+            "Ohmmeter."
+        ],
+        "answer": "Ammeter.",
+        "explanation": "An $\\textbf{Ammeter}$ is connected in $\\textbf{series}$ in a circuit to measure the $\\textbf{electric}$ $\\textbf{current}$ ($\text{measured}$ in $\\text{Amperes}$). A $\\text{Voltmeter}$ measures $\\text{voltage}$, and an $\\text{Ohmmeter}$ measures $\\text{resistance}$."
+    },
+    {
+        "id": "JAMB_P_171",
+        "text": "The $\\textbf{capacitance}$ of a $\\textbf{parallel-plate}$ $\\textbf{capacitor}$ can be $\\textbf{increased}$ by:",
+        "image": "",
+        "options": [
+            "decreasing the area of the plates.",
+            "increasing the distance between the plates.",
+            "introducing a $\\textbf{dielectric}$ material between the plates.",
+            "connecting a resistor in series."
+        ],
+        "answer": "introducing a $\\textbf{dielectric}$ material between the plates.",
+        "explanation": "The $\\textbf{capacitance}$ ($\text{C}$) is given by $C = \\frac{\\epsilon A}{d}$, where $\\epsilon$ is the $\\textbf{permittivity}$ of the medium, $\text{A}$ is the area, and $\text{d}$ is the separation. Introducing a $\\textbf{dielectric}$ (insulating material) increases $\\epsilon$, thereby $\\textbf{increasing}$ the $\\textbf{capacitance}$."
+    },
+    {
+        "id": "JAMB_P_172",
+        "text": "The $\\textbf{mass}$ of a liquid in a container is $50\\text{ g}$ when empty and $120\\text{ g}$ when filled with $80\\text{ cm}^3$ of the liquid. The $\\textbf{density}$ of the liquid is:",
+        "image": "",
+        "options": [
+            "$0.875\\text{ g/cm}^3$.",
+            "$0.625\\text{ g/cm}^3$.",
+            "$1.5\\text{ g/cm}^3$.",
+            "$1.25\\text{ g/cm}^3$."
+        ],
+        "answer": "$0.875\\text{ g/cm}^3$.",
+        "explanation": "$\\text{Mass}$ of liquid ($m$) $= \\text{Mass}$ $\\text{filled} - \\text{Mass}$ $\\text{empty} = 120\\text{ g} - 50\\text{ g} = 70\\text{ g}$. $\\textbf{Density}$ ($\rho$) $= \\frac{m}{V} = \\frac{70\\text{ g}}{80\\text{ cm}^3} = 0.875\\text{ g/cm}^3$."
+    },
+    {
+        "id": "JAMB_P_173",
+        "text": "A ray of light incident normally on a $\\textbf{glass}$ $\\textbf{prism}$ will pass $\\textbf{through}$:",
+        "image": "",
+        "options": [
+            "undeviated.",
+            "refracted towards the normal.",
+            "refracted away from the normal.",
+            "totally internally reflected."
+        ],
+        "answer": "undeviated.",
+        "explanation": "When light is $\\textbf{incident}$ $\\textbf{normally}$ (at $90^\\circ$) to a surface, the $\\textbf{angle}$ $\\textbf{of}$ $\\textbf{incidence}$ ($i$) is $\\textbf{zero}$. According to Snell's Law, the $\\textbf{angle}$ $\\textbf{of}$ $\\textbf{refraction}$ ($r$) must also be $\\textbf{zero}$ ($\\sin r = \\frac{\\sin 0}{n} = 0$). Thus, the ray passes $\\textbf{straight}$ $\\textbf{through}$ ($\textbf{undeviated}$) at that boundary."
+    },
+    {
+        "id": "JAMB_P_174",
+        "text": "The $\\textbf{electromagnetic}$ $\\textbf{wave}$ with the $\\textbf{shortest}$ $\\textbf{wavelength}$ is:",
+        "image": "",
+        "options": [
+            "Radio waves.",
+            "Infrared radiation.",
+            "Gamma rays.",
+            "Visible light."
+        ]
+        ,
+        "answer": "Gamma rays.",
+        "explanation": "In the $\\textbf{electromagnetic}$ $\\textbf{spectrum}$, $\\textbf{wavelength}$ $\\textbf{decreases}$ and $\\textbf{frequency/energy}$ $\\textbf{increases}$ from radio waves to gamma rays. $\\textbf{Gamma}$ $\\textbf{rays}$ have the $\\textbf{shortest}$ $\\textbf{wavelength}$ and $\\textbf{highest}$ $\\textbf{energy}$. "
+    },
+    {
+        "id": "JAMB_P_175",
+        "text": "The $\\textbf{thermometric}$ $\\textbf{property}$ of a thermometer is the property that $\\textbf{changes}$ $\\textbf{measurably}$ with:",
+        "image": "",
+        "options": [
+            "mass.",
+            "pressure.",
+            "temperature.",
+            "volume."
+        ],
+        "answer": "temperature.",
+        "explanation": "A $\\textbf{thermometric}$ $\\textbf{property}$ is any physical property of a substance that $\\textbf{changes}$ $\\textbf{uniformly}$ and $\\textbf{measurably}$ with a change in $\\textbf{temperature}$, allowing it to be used for temperature measurement (e.g., volume of mercury, electrical resistance)."
+    },
+    {
+        "id": "JAMB_P_176",
+        "text": "An object accelerates uniformly from rest at a rate of $2\\text{ m/s}^2$. What is its $\\textbf{velocity}$ $\\textbf{after}$ $5\\text{ seconds}$?",
+        "image": "",
+        "options": [
+            "$2.5\\text{ m/s}$.",
+            "$5.0\\text{ m/s}$.",
+            "$10.0\\text{ m/s}$.",
+            "$20.0\\text{ m/s}$."
+        ],
+        "answer": "$10.0\\text{ m/s}$.",
+        "explanation": "Use the equation of motion: $v = u + at$. Since the object starts $\\textbf{from}$ $\\textbf{rest}$, $u = 0$. $v = 0 + (2\\text{ m/s}^2) \\times (5\\text{ s}) = 10\\text{ m/s}$."
+    },
+    {
+        "id": "JAMB_P_177",
+        "text": "The $\\textbf{unit}$ of $\\textbf{latent}$ $\\textbf{heat}$ is:",
+        "image": "",
+        "options": [
+            "$\\text{J}$.",
+            "$\\text{J/kg}$.",
+            "$\\text{J/kg}\\cdot\\text{K}$.",
+            "$\\text{J}\\cdot\\text{K}$."
+        ],
+        "answer": "$\\text{J/kg}$.",
+        "explanation": "$\\textbf{Latent}$ $\\textbf{heat}$ is the amount of $\\textbf{heat}$ $\\textbf{energy}$ ($\text{J}$) required to change the $\\textbf{state}$ of a $\\textbf{unit}$ $\\textbf{mass}$ ($\text{kg}$) of a substance $\\textbf{without}$ a change in temperature. The unit is $\\text{Joule}$ $\\textbf{per}$ $\\text{kilogram}$ ($\text{J/kg}$)."
+    },
+    {
+        "id": "JAMB_P_178",
+        "text": "The $\\textbf{nucleus}$ of an atom is composed of $\\textbf{protons}$ and:",
+        "image": "",
+        "options": [
+            "electrons.",
+            "neutrons.",
+            "photons.",
+            "alpha particles."
+        ],
+        "answer": "neutrons.",
+        "explanation": "The $\\textbf{nucleus}$ contains $\\textbf{nucleons}$: $\\textbf{protons}$ ($\text{positive}$ charge) and $\\textbf{neutrons}$ ($\text{no}$ $\\text{charge}$). The $\\textbf{electrons}$ ($\text{negative}$ charge) orbit the nucleus."
+    },
+    {
+        "id": "JAMB_P_179",
+        "text": "The $\\textbf{electromotive}$ $\\textbf{force}$ ($\text{e.m.f.}$) of a cell is $\\textbf{always}$ $\\textbf{greater}$ than the potential difference ($\text{p.d.}$) across its terminals when:",
+        "image": "",
+        "options": [
+            "the cell is disconnected.",
+            "the cell is supplying a $\\textbf{current}$.",
+            "the cell has infinite internal resistance.",
+            "the cell is being charged."
+        ],
+        "answer": "the cell is supplying a $\\textbf{current}$.",
+        "explanation": "When a cell supplies current ($\text{I}$), some voltage is $\\textbf{lost}$ across the $\\textbf{internal}$ $\\textbf{resistance}$ ($\text{r}$). The relationship is $\\text{e.m.f.} (E) = V + Ir$. Therefore, the $\\text{p.d.}$ ($\text{V}$) across the terminals is $\\textbf{less}$ than the $\\text{e.m.f.}$ due to the $\textbf{lost}$ $\textbf{volts}$ ($\text{Ir}$)."
+    },
+    {
+        "id": "JAMB_P_180",
+        "text": "When a $\\textbf{gas}$ is $\\textbf{compressed}$ at a $\\textbf{constant}$ $\\textbf{temperature}$, the gas pressure $\\textbf{increases}$ because:",
+        "image": "",
+        "options": [
+            "the molecules move faster.",
+            "the molecules collide more frequently with the walls.",
+            "the molecular mass increases.",
+            "the potential energy of the molecules increases."
+        ],
+        "answer": "the molecules collide more frequently with the walls.",
+        "explanation": "At $\\textbf{constant}$ $\\textbf{temperature}$ (Boyle's Law), the average molecular speed remains the same. Compressing the gas $\\textbf{reduces}$ the $\\textbf{volume}$, meaning the molecules have $\\textbf{less}$ $\\textbf{distance}$ to travel between collisions, leading to a $\\textbf{higher}$ $\\textbf{frequency}$ of $\\textbf{impacts}$ on the container walls, thus $\\textbf{increasing}$ the $\\textbf{pressure}$."
+    },
+    {
+        "id": "JAMB_P_181",
+        "text": "The $\\textbf{principle}$ $\\textbf{of}$ $\\textbf{conservation}$ $\\textbf{of}$ $\\textbf{linear}$ $\\textbf{momentum}$ states that total momentum is conserved in a closed system provided:",
+        "image": "",
+        "options": [
+            "the kinetic energy is conserved.",
+            "there are $\\textbf{no}$ $\\textbf{external}$ $\\textbf{forces}$ acting.",
+            "the system is isolated from heat.",
+            "the collision is elastic."
+        ],
+        "answer": "there are $\\textbf{no}$ $\\textbf{external}$ $\\textbf{forces}$ acting.",
+        "explanation": "The law states that for a $\\textbf{closed}$ $\\textbf{system}$ (a set of interacting bodies), the total linear momentum remains $\\textbf{constant}$ if $\\textbf{no}$ $\\textbf{net}$ $\\textbf{external}$ $\\textbf{force}$ acts on it. This is a direct consequence of Newton's second and third laws."
+    },
+    {
+        "id": "JAMB_P_182",
+        "text": "A $\\textbf{coulomb}$ is defined as the $\\textbf{quantity}$ $\\textbf{of}$ $\\textbf{charge}$ passing a point in a circuit when:",
+        "image": "",
+        "options": [
+            "$1\\text{ J}$ of energy is dissipated $\\text{per}$ $\\text{second}$.",
+            "a current of $1\\text{ A}$ flows for $1\\text{ second}$.",
+            "a potential difference of $1\\text{ V}$ is applied.",
+            "the resistance is $1\\text{ }\\Omega$."
+        ],
+        "answer": "a current of $1\\text{ A}$ flows for $1\\text{ second}$.",
+        "explanation": "The $\\textbf{Coulomb}$ ($\text{C}$) is the $\\text{SI}$ unit of $\\textbf{electric}$ $\\textbf{charge}$ ($\text{Q}$). It is defined using the relationship $\\text{Q} = It$. Thus, $1\\text{ Coulomb}$ is the charge transferred by a steady $\\textbf{current}$ of $\\textbf{one}$ $\\textbf{Ampere}$ ($\text{A}$) in $\\textbf{one}$ $\\textbf{second}$ ($\text{s}$). $1\\text{ C} = 1\\text{ A}\\cdot\\text{s}$."
+    },
+    {
+        "id": "JAMB_P_183",
+        "text": "The $\\textbf{motion}$ of a smoke particle in air is known as:",
+        "image": "",
+        "options": [
+            "Linear motion.",
+            "Rotational motion.",
+            "Brownian motion.",
+            "Random walk."
+        ],
+        "answer": "Brownian motion.",
+        "explanation": "$\\textbf{Brownian}$ $\\textbf{motion}$ is the $\\textbf{random}$ $\\textbf{motion}$ of particles (like smoke or pollen) suspended in a fluid (liquid or gas), resulting from their $\\textbf{bombardment}$ by the fast, randomly moving molecules of the surrounding medium."
+    },
+    {
+        "id": "JAMB_P_184",
+        "text": "The $\\textbf{SI}$ $\\textbf{unit}$ of $\\textbf{magnetic}$ $\\textbf{flux}$ $\\textbf{density}$ is the:",
+        "image": "",
+        "options": [
+            "Weber ($\\text{Wb}$).",
+            "Tesla ($\\text{T}$).",
+            "Henry ($\\text{H}$).",
+            "Farad ($\\text{F}$)."
+        ],
+        "answer": "Tesla ($\\text{T}$).",
+        "explanation": "$\\textbf{Magnetic}$ $\\textbf{flux}$ $\\textbf{density}$ ($\text{B}$) is measured in $\\textbf{Tesla}$ ($\text{T}$), which is equivalent to $\\text{Newton}$ $\\text{per}$ $\\text{Ampere}$ $\\text{per}$ $\\text{meter}$ ($\text{N}\\cdot\\text{A}^{-1}\\cdot\\text{m}^{-1}$). The $\\text{Weber}$ ($\text{Wb}$) is the unit of $\\textbf{magnetic}$ $\\textbf{flux}$ ($\\Phi$)."
+    },
+    {
+        "id": "JAMB_P_185",
+        "text": "The $\\textbf{wavelength}$ of the $\\textbf{fundamental}$ $\\textbf{note}$ of a closed pipe of length $L$ is:",
+        "image": "",
+        "options": [
+            "$L$.",
+            "$2L$.",
+            "$4L$.",
+            "$\\frac{L}{2}$."
+        ],
+        "answer": "$4L$.",
+        "explanation": "For a $\\textbf{closed}$ $\\textbf{pipe}$ (closed at one end, open at the other), the $\\textbf{fundamental}$ $\\textbf{note}$ (first harmonic) has a $\\textbf{node}$ at the closed end and an $\\textbf{antinode}$ at the open end. The length $\\text{L}$ corresponds to $\\textbf{one-quarter}$ $\\textbf{wavelength}$ ($\\frac{\\lambda}{4}$). Therefore, $\\lambda = 4L$. "
+    },
+    {
+        "id": "JAMB_P_186",
+        "text": "The $\\textbf{process}$ of $\\textbf{adding}$ $\\textbf{impurities}$ to a $\\textbf{semiconductor}$ to increase its conductivity is called:",
+        "image": "",
+        "options": [
+            "Conduction.",
+            "Ionization.",
+            "Doping.",
+            "Rectification."
+        ],
+        "answer": "Doping.",
+        "explanation": "$\\textbf{Doping}$ is the intentional $\\textbf{introduction}$ of $\\textbf{impurities}$ (like Phosphorus or Boron) into an intrinsic $\\textbf{semiconductor}$ (like Silicon) to change its electrical properties, creating $\\text{n-type}$ or $\\text{p-type}$ material and greatly $\\textbf{increasing}$ its $\\textbf{conductivity}$."
+    },
+    {
+        "id": "JAMB_P_187",
+        "text": "An $\\textbf{object}$ of $\\textbf{mass}$ $0.2\\text{ kg}$ is tied to a string and $\\textbf{whirled}$ in a $\\textbf{horizontal}$ $\\textbf{circle}$ of $\\textbf{radius}$ $0.5\\text{ m}$. If the speed is $4\\text{ m/s}$, the $\\textbf{tension}$ in the string is:",
+        "image": "",
+        "options": [
+            "$1.6\\text{ N}$.",
+            "$3.2\\text{ N}$.",
+            "$6.4\\text{ N}$.",
+            "$16.0\\text{ N}$."
+        ],
+        "answer": "$6.4\\text{ N}$.",
+        "explanation": "The $\\textbf{tension}$ ($\text{T}$) in the string provides the $\\textbf{centripetal}$ $\\textbf{force}$ ($\text{F}_c$). $T = F_c = \\frac{mv^2}{r}$. $T = \\frac{(0.2\\text{ kg}) \\times (4\\text{ m/s})^2}{0.5\\text{ m}} = \\frac{0.2 \\times 16}{0.5} = \\frac{3.2}{0.5} = 6.4\\text{ N}$."
+    },
+    {
+        "id": "JAMB_P_188",
+        "text": "The $\\textbf{force}$ that keeps the $\\textbf{nucleus}$ of an atom $\\textbf{intact}$ against the electrostatic repulsion of the protons is the:",
+        "image": "",
+        "options": [
+            "Gravitational force.",
+            "Weak nuclear force.",
+            "Strong nuclear force.",
+            "Electromagnetic force."
+        ],
+        "answer": "Strong nuclear force.",
+        "explanation": "The $\\textbf{strong}$ $\\textbf{nuclear}$ $\\textbf{force}$ is one of the four fundamental forces. It is the $\\textbf{strongest}$ of the four and acts over $\\textbf{very}$ $\\textbf{short}$ $\\textbf{distances}$ to $\\textbf{bind}$ the $\\textbf{protons}$ and $\\textbf{neutrons}$ ($\text{nucleons}$) together in the nucleus, overcoming the repulsive $\\textbf{electromagnetic}$ $\\textbf{force}$ between the protons."
+    },
+    {
+        "id": "JAMB_P_189",
+        "text": "If two $\\textbf{resistors}$ of $\\text{resistance}$ $2\\text{ }\\Omega$ and $4\\text{ }\\Omega$ are connected in $\\textbf{parallel}$, the $\\textbf{total}$ $\\textbf{resistance}$ is:",
+        "image": "",
+        "options": [
+            "$6\\text{ }\\Omega$.",
+            "$2.0\\text{ }\\Omega$.",
+            "$1.33\\text{ }\\Omega$.",
+            "$0.67\\text{ }\\Omega$."
+        ],
+        "answer": "$1.33\\text{ }\\Omega$.",
+        "explanation": "For $\\textbf{parallel}$ $\\textbf{resistors}$: $\\frac{1}{R_{total}} = \\frac{1}{R_1} + \\frac{1}{R_2}$. $\\frac{1}{R_{total}} = \\frac{1}{2} + \\frac{1}{4} = \\frac{2+1}{4} = \\frac{3}{4}$. $R_{total} = \\frac{4}{3} \\approx 1.33\\text{ }\\Omega$."
+    },
+    {
+        "id": "JAMB_P_190",
+        "text": "The $\\textbf{image}$ formed in a $\\textbf{projector}$ is usually:",
+        "image": "",
+        "options": [
+            "real, upright, and magnified.",
+            "virtual, inverted, and diminished.",
+            "real, inverted, and magnified.",
+            "virtual, upright, and diminished."
+        ],
+        "answer": "real, inverted, and magnified.",
+        "explanation": "A $\\textbf{projector}$ uses a $\\textbf{convex}$ $\\textbf{lens}$ (or concave mirror) to cast a large image onto a screen. For the image to be visible on a screen, it must be $\\textbf{real}$. It must be $\\textbf{magnified}$ to fill the screen, and $\\textbf{real}$ $\\textbf{images}$ formed by single lenses/mirrors are always $\\textbf{inverted}$ (hence the slide must be placed upside-down)."
+    },
+    {
+        "id": "JAMB_P_191",
+        "text": "The $\\textbf{range}$ of $\\textbf{frequencies}$ that a $\\textbf{normal}$ $\\textbf{human}$ $\\textbf{ear}$ can hear is approximately:",
+        "image": "",
+        "options": [
+            "$20\\text{ Hz}$ to $200\\text{ Hz}$.",
+            "$20\\text{ Hz}$ to $20,000\\text{ Hz}$.",
+            "$20\\text{ kHz}$ to $20\\text{ MHz}$.",
+            "$20\\text{ MHz}$ to $200\\text{ MHz}$."
+        ],
+        "answer": "$20\\text{ Hz}$ to $20,000\\text{ Hz}$.",
+        "explanation": "The human ear can typically perceive sound waves with frequencies between $\\textbf{20}$ $\\textbf{Hertz}$ ($\text{Hz}$) (lower limit) and $\\textbf{20,000}$ $\\textbf{Hertz}$ ($\text{20 kHz}$) (upper limit)."
+    },
+    {
+        "id": "JAMB_P_192",
+        "text": "A $\\textbf{rectifier}$ is a device used to convert:",
+        "image": "",
+        "options": [
+            "low voltage to high voltage.",
+            "alternating current ($\\text{AC}$) to direct current ($\\text{DC}$).",
+            "direct current ($\\text{DC}$) to alternating current ($\\text{AC}$).",
+            "electrical energy to mechanical energy."
+        ],
+        "answer": "alternating current ($\\text{AC}$) to direct current ($\\text{DC}$).",
+        "explanation": "A $\\textbf{rectifier}$, typically made of $\\textbf{diodes}$, allows current to flow in $\\textbf{only}$ $\\textbf{one}$ $\\textbf{direction}$, effectively converting $\\textbf{Alternating}$ $\\textbf{Current}$ ($\text{AC}$) into $\\textbf{Direct}$ $\\textbf{Current}$ ($\text{DC}$). [Image of a bridge rectifier circuit]"
+    },
+    {
+        "id": "JAMB_P_193",
+        "text": "A body is $\\textbf{projected}$ $\\textbf{horizontally}$ from a height of $20\\text{ m}$ with an initial velocity of $10\\text{ m/s}$. How long does it take to hit the ground? (Neglect air resistance and take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$1.0\\text{ s}$.",
+            "$2.0\\text{ s}$.",
+            "$4.0\\text{ s}$.",
+            "$5.0\\text{ s}$."
+        ],
+        "answer": "$2.0\\text{ s}$.",
+        "explanation": "The $\\textbf{time}$ of flight is determined $\\textbf{only}$ by the $\\textbf{vertical}$ $\\textbf{motion}$. Use $h = ut + \\frac{1}{2}gt^2$. Since $u_y = 0$: $h = \\frac{1}{2}gt^2$. $20\\text{ m} = \\frac{1}{2} \\times (10\\text{ m/s}^2) \\times t^2$. $20 = 5t^2$. $t^2 = 4$. $t = 2.0\\text{ s}$."
+    },
+    {
+        "id": "JAMB_P_194",
+        "text": "Which of the following $\\textbf{quantities}$ is the $\\textbf{product}$ of $\\textbf{mass}$ and $\\textbf{velocity}$?",
+        "image": "",
+        "options": [
+            "Force.",
+            "Acceleration.",
+            "Kinetic energy.",
+            "Momentum."
+        ],
+        "answer": "Momentum.",
+        "explanation": "$\\textbf{Momentum}$ ($\text{p}$) is defined as the $\\textbf{mass}$ ($\text{m}$) of an object multiplied by its $\\textbf{velocity}$ ($\text{v}$): $p = mv$. It is a $\\textbf{vector}$ quantity."
+    },
+    {
+        "id": "JAMB_P_195",
+        "text": "The $\\textbf{heat}$ $\\textbf{capacity}$ of a body is defined as the heat required to $\\textbf{raise}$ its:",
+        "image": "",
+        "options": [
+            "temperature by $1\\text{ K}$.",
+            "unit mass temperature by $1\\text{ K}$.",
+            "volume by unit amount.",
+            "specific latent heat by $1\\text{ J/kg}$."
+        ],
+        "answer": "temperature by $1\\text{ K}$.",
+        "explanation": "$\\textbf{Heat}$ $\\textbf{capacity}$ ($C$) is the amount of $\\textbf{heat}$ $\\textbf{required}$ to $\\textbf{raise}$ the $\\textbf{temperature}$ of the $\\textbf{entire}$ $\\textbf{body}$ by $\\textbf{one}$ $\\textbf{unit}$ (e.g., $1\\text{ K}$ or $1^\\circ\\text{C}$). The unit is $\\text{J/K}$. $\\textbf{Specific}$ $\\textbf{heat}$ $\\textbf{capacity}$ is for $\\textbf{unit}$ $\\textbf{mass}$."
+    },
+    {
+        "id": "JAMB_P_196",
+        "text": "The $\\textbf{photoelectric}$ $\\textbf{effect}$ demonstrates the $\\textbf{nature}$ of light as:",
+        "image": "",
+        "options": [
+            "a wave.",
+            "a particle.",
+            "both wave and particle.",
+            "neither wave nor particle."
+        ],
+        "answer": "a particle.",
+        "explanation": "The $\\textbf{photoelectric}$ $\\textbf{effect}$ (the emission of electrons when light strikes a material) is best explained by treating light as consisting of discrete energy packets called $\\textbf{photons}$ (Einstein's theory), thus demonstrating the $\\textbf{particle}$ $\\textbf{nature}$ of light."
+    },
+    {
+        "id": "JAMB_P_197",
+        "text": "An electric generator works on the principle of:",
+        "image": "",
+        "options": [
+            "Ohm's Law.",
+            "Lenz's Law.",
+            "Electromagnetic $\\textbf{induction}$.",
+            "Coulomb's Law."
+        ],
+        "answer": "Electromagnetic $\\textbf{induction}$.",
+        "explanation": "An $\\textbf{electric}$ $\\textbf{generator}$ converts $\\textbf{mechanical}$ $\\textbf{energy}$ into $\\textbf{electrical}$ $\\textbf{energy}$ by rotating a coil in a magnetic field, which induces an $\\text{e.m.f.}$ across the ends of the coil. This phenomenon is $\\textbf{electromagnetic}$ $\\textbf{induction}$ (Faraday's Law)."
+    },
+    {
+        "id": "JAMB_P_198",
+        "text": "If the $\\textbf{extension}$ of a spring is $2\\text{ cm}$ when a mass of $10\\text{ g}$ is hung on it, the $\\textbf{spring}$ $\\textbf{constant}$ ($k$) is: (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$5.0\\text{ N/m}$.",
+            "$0.5\\text{ N/m}$.",
+            "$500\\text{ N/m}$.",
+            "$50\\text{ N/m}$."
+        ],
+        "answer": "$5.0\\text{ N/m}$.",
+        "explanation": "Use $\\textbf{Hooke's}$ $\\textbf{Law}$: $\\text{F} = kx$. $\\text{F} = \\text{weight} = mg$. $\\text{F} = (0.01\\text{ kg}) \\times (10\\text{ m/s}^2) = 0.1\\text{ N}$. Extension $x = 2\\text{ cm} = 0.02\\text{ m}$. $k = \\frac{F}{x} = \\frac{0.1\\text{ N}}{0.02\\text{ m}} = 5\\text{ N/m}$."
+    },
+    {
+        "id": "JAMB_P_199",
+        "text": "A $\\textbf{rectilinear}$ $\\textbf{motion}$ is one in which the object moves:",
+        "image": "",
+        "options": [
+            "in a curved path.",
+            "in a $\\textbf{straight}$ $\\textbf{line}$.",
+            "back and forth.",
+            "around a circle."
+        ],
+        "answer": "in a $\\textbf{straight}$ $\\textbf{line}$.",
+        "explanation": "$\\textbf{Rectilinear}$ $\\textbf{motion}$ is motion in a $\\textbf{straight}$ $\\textbf{line}$ (one dimension). $\\text{Recti}$ means $\\textbf{straight}$."
+    },
+    {
+        "id": "JAMB_P_200",
+        "text": "The $\\textbf{pressure}$ in a fluid $\\textbf{at}$ $\\textbf{rest}$ is the same in all directions at a given depth. This is a statement of:",
+        "image": "",
+        "options": [
+            "Archimedes' Principle.",
+            "Pascal's Principle.",
+            "Bernoulli's Principle.",
+            "Newton's First Law."
+        ],
+        "answer": "Pascal's Principle.",
+        "explanation": "$\\textbf{Pascal's}$ $\\textbf{Principle}$ states that $\\textbf{pressure}$ applied to an $\\textbf{enclosed}$ $\\textbf{fluid}$ is $\\textbf{transmitted}$ $\\textbf{undiminished}$ to every portion of the fluid and the walls of the containing vessel. A consequence of this is that the pressure at any point in a fluid at rest is the $\\textbf{same}$ $\\textbf{in}$ $\\textbf{all}$ $\\textbf{directions}$."
+    }
+]

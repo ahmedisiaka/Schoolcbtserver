@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2025_01",
+      "text": "What is the oxidation number of sulfur in sulfuric acid ($H_2SO_4$)?",
+      "image": "",
+      "options": ["+2", "+4", "+6", "-2"],
+      "answer": "+6",
+      "explanation": "The oxidation number of hydrogen is +1 and oxygen is -2. $2(+1) + x + 4(-2) = 0 \\implies 2 + x - 8 = 0 \\implies x = +6$."
+    },
+    {
+      "id": "JAMB_C_2025_02",
+      "text": "Which of the following elements has the highest electronegativity?",
+      "image": "",
+      "options": ["Lithium (Li)", "Sodium (Na)", "Fluorine (F)", "Chlorine (Cl)"],
+      "answer": "Fluorine (F)",
+      "explanation": "Electronegativity generally increases across a period and decreases down a group. Fluorine is the most electronegative element."
+    },
+    {
+      "id": "JAMB_C_2025_03",
+      "text": "What is the general formula for an alkane?",
+      "image": "",
+      "options": ["$C_nH_{2n}$", "$C_nH_{2n-2}$", "$C_nH_{2n+2}$", "$C_nH_{2n+1}$"],
+      "answer": "$C_nH_{2n+2}$",
+      "explanation": "Alkanes are saturated hydrocarbons with the general molecular formula $C_nH_{2n+2}$."
+    },
+    {
+      "id": "JAMB_C_2025_04",
+      "text": "The process of adding a catalyst to a reaction primarily changes the:",
+      "image": "",
+      "options": ["Equilibrium position", "Enthalpy change ($\\Delta H$)", "Activation energy ($E_a$)", "Gibbs free energy ($\\Delta G$)"],
+      "answer": "Activation energy ($E_a$)",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy, thereby increasing the reaction rate without being consumed."
+    },
+    {
+      "id": "JAMB_C_2025_05",
+      "text": "Which acid is commonly found in vinegar?",
+      "image": "",
+      "options": ["Sulfuric acid", "Hydrochloric acid", "Acetic acid", "Citric acid"],
+      "answer": "Acetic acid",
+      "explanation": "Vinegar is a dilute aqueous solution of acetic acid (ethanoic acid, $CH_3COOH$)."
+    },
+    {
+      "id": "JAMB_C_2025_06",
+      "text": "What is the bond angle in a molecule with trigonal planar geometry, such as boron trifluoride ($BF_3$)?",
+      "image": "",
+      "options": ["$109.5^\\circ$", "$120^\\circ$", "$180^\\circ$", "$90^\\circ$"],
+      "answer": "$120^\\circ$",
+      "explanation": "According to VSEPR theory, a molecule with three electron domains and no lone pairs (like $BF_3$) adopts a trigonal planar geometry with $120^\\circ$ bond angles."
+    },
+    {
+      "id": "JAMB_C_2025_07",
+      "text": "The number of moles in 44 grams of carbon dioxide ($CO_2$), given that the molar mass is approximately $44 g/mol$, is:",
+      "image": "",
+      "options": ["0.5 mol", "1.0 mol", "2.0 mol", "4.0 mol"],
+      "answer": "1.0 mol",
+      "explanation": "Number of moles = Mass / Molar Mass = $44 g / 44 g/mol = 1.0 mol$."
+    },
+    {
+      "id": "JAMB_C_2025_08",
+      "text": "The principle that states that no two electrons in an atom can have the same set of four quantum numbers is:",
+      "image": "",
+      "options": ["Aufbau principle", "Hund's rule", "Pauli exclusion principle", "Heisenberg uncertainty principle"],
+      "answer": "Pauli exclusion principle",
+      "explanation": "The Pauli exclusion principle means that an atomic orbital can hold a maximum of two electrons, and they must have opposite spins."
+    },
+    {
+      "id": "JAMB_C_2025_09",
+      "text": "The reaction between an acid and a base is called:",
+      "image": "",
+      "options": ["Precipitation", "Reduction", "Neutralization", "Oxidation"],
+      "answer": "Neutralization",
+      "explanation": "A neutralization reaction is defined as the reaction between an acid and a base to produce a salt and water."
+    },
+    {
+      "id": "JAMB_C_2025_10",
+      "text": "Which state of matter has a fixed volume but no fixed shape?",
+      "image": "",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "answer": "Liquid",
+      "explanation": "Liquids take the shape of their container but maintain a constant volume."
+    },
+    {
+      "id": "JAMB_C_2025_11",
+      "text": "The half-life of a first-order reaction is independent of the:",
+      "image": "",
+      "options": ["Initial concentration of reactants", "Temperature", "Presence of a catalyst", "Pressure"],
+      "answer": "Initial concentration of reactants",
+      "explanation": "For a first-order reaction, the half-life ($t_{1/2}$) is constant: $t_{1/2} = 0.693 / k$, where $k$ is the rate constant."
+    },
+    {
+      "id": "JAMB_C_2025_12",
+      "text": "What type of intermolecular force is present in all molecular substances?",
+      "image": "",
+      "options": ["Dipole-dipole forces", "Hydrogen bonding", "London dispersion forces", "Ion-dipole forces"],
+      "answer": "London dispersion forces",
+      "explanation": "London dispersion forces (or van der Waals forces) arise from temporary, induced dipoles and are present between all atoms and molecules."
+    },
+    {
+      "id": "JAMB_C_2025_13",
+      "text": "The process of purifying an impure solid by dissolving it in a hot solvent and allowing it to cool is called:",
+      "image": "",
+      "options": ["Distillation", "Sublimation", "Chromatography", "Recrystallization"],
+      "answer": "Recrystallization",
+      "explanation": "Recrystallization separates a solid from impurities based on differences in solubility at high and low temperatures."
+    },
+    {
+      "id": "JAMB_C_2025_14",
+      "text": "What is the conjugate base of water ($H_2O$)?",
+      "image": "",
+      "options": ["Hydronium ion ($H_3O^+$)", "Hydroxide ion ($OH^-$)", "Hydrogen gas ($H_2$)", "Oxide ion ($O^{2-}$)"],
+      "answer": "Hydroxide ion ($OH^-$)",
+      "explanation": "A conjugate base is formed when an acid loses a proton ($H^+$). $H_2O$ acts as an acid to form $OH^-$."
+    },
+    {
+      "id": "JAMB_C_2025_15",
+      "text": "An isotope of an element is defined as having the:",
+      "image": "",
+      "options": ["Same number of protons but different number of neutrons", "Different number of protons but same number of neutrons", "Same number of neutrons but different number of electrons", "Same mass number"],
+      "answer": "Same number of protons but different number of neutrons",
+      "explanation": "Isotopes are atoms of the same element (same atomic number/protons) with different mass numbers (different number of neutrons)."
+    },
+    {
+      "id": "JAMB_C_2025_16",
+      "text": "The colour of the precipitate formed when aqueous sodium hydroxide is added to a solution of iron(II) sulfate is:",
+      "image": "",
+      "options": ["Brown", "Green", "White", "Blue"],
+      "answer": "Green",
+      "explanation": "The reaction is $FeSO_4(aq) + 2NaOH(aq) \\to Fe(OH)_2(s) + Na_2SO_4(aq)$. Iron(II) hydroxide ($Fe(OH)_2$) is a dirty green precipitate."
+    },
+    {
+      "id": "JAMB_C_2025_17",
+      "text": "The process of breaking down a large hydrocarbon molecule into smaller, more useful fragments by heating is known as:",
+      "image": "",
+      "options": ["Polymerization", "Cracking", "Saponification", "Hydrogenation"],
+      "answer": "Cracking",
+      "explanation": "Cracking is a thermal process used in the petroleum industry to convert long-chain hydrocarbons into smaller, commercially valuable molecules like gasoline and alkenes."
+    },
+    {
+      "id": "JAMB_C_2025_18",
+      "text": "According to Boyle's law, at constant temperature, the volume of a fixed mass of gas is inversely proportional to its:",
+      "image": "",
+      "options": ["Pressure", "Temperature", "Density", "Number of moles"],
+      "answer": "Pressure",
+      "explanation": "Boyle's Law states that for a fixed amount of gas at constant temperature, $P \\propto 1/V$ or $PV = constant$."
+    },
+    {
+      "id": "JAMB_C_2025_19",
+      "text": "What is the total number of valence electrons in a nitrogen atom (Atomic number 7)?",
+      "image": "",
+      "options": ["3", "5", "7", "10"],
+      "answer": "5",
+      "explanation": "The electron configuration of Nitrogen is $1s^2 2s^2 2p^3$. The valence electrons are in the outermost shell ($n=2$), totaling $2 + 3 = 5$ electrons."
+    },
+    {
+      "id": "JAMB_C_2025_20",
+      "text": "A solution with a $\\text{pH}$ of 8 is classified as:",
+      "image": "",
+      "options": ["Strongly acidic", "Weakly acidic", "Neutral", "Basic (Alkaline)"],
+      "answer": "Basic (Alkaline)",
+      "explanation": "A $\\text{pH}$ value greater than 7 indicates a basic (alkaline) solution."
+    },
+    {
+      "id": "JAMB_C_2025_21",
+      "text": "The major difference between an element and a compound is that:",
+      "image": "",
+      "options": ["Elements are homogeneous, compounds are heterogeneous", "Elements can be broken down chemically, compounds cannot", "Compounds have a fixed ratio of elements, elements do not", "Compounds are always gases, elements are not"],
+      "answer": "Compounds have a fixed ratio of elements, elements do not",
+      "explanation": "A compound is a substance formed when two or more elements are chemically bonded in a fixed, definite ratio. Elements cannot be broken down chemically."
+    },
+    {
+      "id": "JAMB_C_2025_22",
+      "text": "Which chemical species is primarily responsible for causing the temporary hardness of water?",
+      "image": "",
+      "options": ["Sodium chloride", "Potassium iodide", "Calcium hydrogencarbonate and magnesium hydrogencarbonate", "Lead(II) nitrate"],
+      "answer": "Calcium hydrogencarbonate and magnesium hydrogencarbonate",
+      "explanation": "Temporary hardness is caused by the presence of dissolved hydrogen carbonate salts, $Ca(HCO_3)_2$ and $Mg(HCO_3)_2$."
+    },
+    {
+      "id": "JAMB_C_2025_23",
+      "text": "In the electrochemical cell notation $Zn(s) | Zn^{2+}(aq) || Cu^{2+}(aq) | Cu(s)$, what does the symbol $||$ represent?",
+      "image": "",
+      "options": ["The phase boundary between solid and liquid", "The salt bridge", "The anode electrode", "The cathode electrode"],
+      "answer": "The salt bridge",
+      "explanation": "The double vertical line ($||$) represents the salt bridge, which maintains electrical neutrality between the two half-cells."
+    },
+    {
+      "id": "JAMB_C_2025_24",
+      "text": "The final product formed when ethanol is completely oxidized by an excess of acidified potassium manganate(VII) is:",
+      "image": "",
+      "options": ["Ethane", "Ethanal", "Ethanoic acid", "Ethene"],
+      "answer": "Ethanoic acid",
+      "explanation": "Primary alcohols (like ethanol) are oxidized first to aldehydes (ethanal) and then completely to carboxylic acids (ethanoic acid) by strong oxidizing agents."
+    },
+    {
+      "id": "JAMB_C_2025_25",
+      "text": "The law stating that the rate of diffusion of a gas is inversely proportional to the square root of its molar mass is known as:",
+      "image": "",
+      "options": ["Boyle's law", "Charles's law", "Dalton's law of partial pressures", "Graham's law of diffusion"],
+      "answer": "Graham's law of diffusion",
+      "explanation": "Graham's Law states that $Rate \\propto 1 / \\sqrt{Molar Mass}$."
+    },
+    {
+      "id": "JAMB_C_2025_26",
+      "text": "How many sigma ($\\sigma$) bonds and pi ($\\pi$) bonds are in a molecule of ethyne ($C_2H_2$)?",
+      "image": "",
+      "options": ["3 $\\sigma$, 2 $\\pi$", "2 $\\sigma$, 3 $\\pi$", "4 $\\sigma$, 1 $\\pi$", "1 $\\sigma$, 2 $\\pi$"],
+      "answer": "3 $\\sigma$, 2 $\\pi$",
+      "explanation": "Ethyne is $H-C\\equiv C-H$. This structure contains one $C-C$ $\\sigma$ bond, two $C-H$ $\\sigma$ bonds, and two $C-C$ $\\pi$ bonds within the triple bond. Total: 3 $\\sigma$, 2 $\\pi$."
+    },
+    {
+      "id": "JAMB_C_2025_27",
+      "text": "What is the name given to the energy required to remove one mole of electrons from one mole of gaseous atoms?",
+      "image": "",
+      "options": ["Electron affinity", "Electronegativity", "Ionization energy", "Enthalpy of atomization"],
+      "answer": "Ionization energy",
+      "explanation": "Ionization energy ($IE$) is the energy needed to convert a gaseous atom into a gaseous ion by removing an electron ($X(g) \\to X^+(g) + e^-$)."
+    },
+    {
+      "id": "JAMB_C_2025_28",
+      "text": "Which of the following is a transition element?",
+      "image": "",
+      "options": ["Calcium (Ca)", "Potassium (K)", "Copper (Cu)", "Sodium (Na)"],
+      "answer": "Copper (Cu)",
+      "explanation": "Transition elements are found in the d-block of the periodic table, generally Groups 3 to 12. Copper (Group 11) is a transition metal."
+    },
+    {
+      "id": "JAMB_C_2025_29",
+      "text": "The substance typically used as a desiccant to absorb moisture in a desiccator is:",
+      "image": "",
+      "options": ["Calcium carbonate", "Hydrated copper(II) sulfate", "Anhydrous calcium chloride", "Sodium chloride"],
+      "answer": "Anhydrous calcium chloride",
+      "explanation": "A desiccant is a hygroscopic substance used to induce or sustain a state of dryness (desiccation). Anhydrous $\\text{CaCl}_2$ is a common example."
+    },
+    {
+      "id": "JAMB_C_2025_30",
+      "text": "The number of occupied electron shells in an atom corresponds to its position in the periodic table's:",
+      "image": "",
+      "options": ["Group number", "Period number", "Valence electron number", "Atomic number"],
+      "answer": "Period number",
+      "explanation": "The period number (row) in the periodic table corresponds to the principal quantum number (or shell) of the outermost electrons."
+    },
+    {
+      "id": "JAMB_C_2025_31",
+      "text": "For the reversible reaction $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$ with $\\Delta H = -92 kJ/mol$, increasing the temperature will:",
+      "image": "",
+      "options": ["Increase the yield of $NH_3$", "Decrease the yield of $NH_3$", "Not affect the yield", "Increase the activation energy"],
+      "answer": "Decrease the yield of $NH_3$",
+      "explanation": "The reaction is exothermic (negative $\\Delta H$). According to Le Chatelier's principle, increasing the temperature will shift the equilibrium in the endothermic (reverse) direction, decreasing the yield of ammonia."
+    },
+    {
+      "id": "JAMB_C_2025_32",
+      "text": "The type of chemical bond formed by the electrostatic attraction between oppositely charged ions is called a:",
+      "image": "",
+      "options": ["Covalent bond", "Metallic bond", "Ionic bond", "Hydrogen bond"],
+      "answer": "Ionic bond",
+      "explanation": "Ionic bonds are formed when electrons are transferred between atoms, resulting in the formation of cations and anions which are then held together by electrostatic forces."
+    },
+    {
+      "id": "JAMB_C_2025_33",
+      "text": "What volume of $0.5 M$ $NaOH$ solution is required to completely neutralize $25 cm^3$ of $0.1 M$ $HCl$ solution?",
+      "image": "",
+      "options": ["$5 cm^3$", "$10 cm^3$", "$25 cm^3$", "$50 cm^3$"],
+      "answer": "$5 cm^3$",
+      "explanation": "Since the reaction $HCl + NaOH \\to NaCl + H_2O$ is $1:1$, we use the formula $M_1V_1 = M_2V_2$. $(0.1 M) \\times (25 cm^3) = (0.5 M) \\times V_2$. $V_2 = (0.1 \\times 25) / 0.5 = 2.5 / 0.5 = 5 cm^3$."
+    },
+    {
+      "id": "JAMB_C_2025_34",
+      "text": "A functional group characteristic of ketones is the:",
+      "image": "",
+      "options": ["Hydroxyl group ($-OH$)", "Carboxyl group ($-COOH$)", "Aldehyde group ($-CHO$)", "Carbonyl group ($>C=O$) in a non-terminal position"],
+      "answer": "Carbonyl group ($>C=O$) in a non-terminal position",
+      "explanation": "Ketones contain a carbonyl group ($>C=O$) where the carbon atom is bonded to two other carbon atoms (i.e., it is non-terminal)."
+    },
+    {
+      "id": "JAMB_C_2025_35",
+      "text": "The process of conversion of a solid directly into gas without passing through the liquid state is called:",
+      "image": "",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Crystallization"],
+      "answer": "Sublimation",
+      "explanation": "Sublimation is a phase transition that occurs below a substance's triple point, such as the conversion of dry ice ($CO_2(s)$) to $CO_2(g)$."
+    },
+    {
+      "id": "JAMB_C_2025_36",
+      "text": "The general name for the Group 1 elements (excluding Hydrogen) is:",
+      "image": "",
+      "options": ["Halogens", "Alkali metals", "Alkaline earth metals", "Noble gases"],
+      "answer": "Alkali metals",
+      "explanation": "Group 1 elements (Li, Na, K, Rb, Cs, Fr) are known as the Alkali Metals."
+    },
+    {
+      "id": "JAMB_C_2025_37",
+      "text": "Which compound is a structural isomer of butan-1-ol ($C_4H_{10}O$)?",
+      "image": "",
+      "options": ["Propane", "Ethanol", "Diethyl ether", "Butanone"],
+      "answer": "Diethyl ether",
+      "explanation": "Butan-1-ol is an alcohol with the formula $C_4H_{10}O$. Diethyl ether ($C_2H_5OC_2H_5$) is an ether with the same molecular formula, making it a functional group isomer."
+    },
+    {
+      "id": "JAMB_C_2025_38",
+      "text": "What is the correct chemical formula for the compound formed between $\\text{Aluminum}$ ($Al$) and $\\text{Oxygen}$ ($O$)?",
+      "image": "",
+      "options": ["$AlO$", "$Al_2O$", "$AlO_2$", "$Al_2O_3$"],
+      "answer": "$Al_2O_3$",
+      "explanation": "Aluminum forms an ion with a $3^+$ charge ($Al^{3+}$) and oxygen forms an ion with a $2^-$ charge ($O^{2-}$). The formula is determined by balancing the charges: $2 \\times (+3) + 3 \\times (-2) = 0$."
+    },
+    {
+      "id": "JAMB_C_2025_39",
+      "text": "A substance that resists large changes in $\\text{pH}$ when small amounts of a strong acid or base are added is called a:",
+      "image": "",
+      "options": ["Buffer solution", "Saturated solution", "Indicator", "Standard solution"],
+      "answer": "Buffer solution",
+      "explanation": "A buffer solution consists of a weak acid and its conjugate base, or a weak base and its conjugate acid, and is designed to resist $\\text{pH}$ changes."
+    },
+    {
+      "id": "JAMB_C_2025_40",
+      "text": "The process of heating a sulfide ore strongly in the presence of excess air to convert it into an oxide is called:",
+      "image": "",
+      "options": ["Smelting", "Reduction", "Roasting", "Calcination"],
+      "answer": "Roasting",
+      "explanation": "Roasting is a metallurgical process where sulfide ores are heated in air (oxygen) to convert them to oxides, e.g., $2ZnS + 3O_2 \\to 2ZnO + 2SO_2$."
+    }
+  ]

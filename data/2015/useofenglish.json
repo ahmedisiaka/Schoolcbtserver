@@ -1,0 +1,516 @@
+[
+    {
+      "id": "U2015_1",
+      "text": "The $\\textbf{Paris}$ $\\textbf{Agreement}$ was adopted at COP 21, marking a $\\textbf{pivotal}$ moment where nearly every nation $\\textbf{committed}$ to reducing greenhouse gas emissions. (Comprehension Passage Snippet 1)\n\nWhat global outcome was achieved at COP 21, based on the commitment of most nations?",
+      "image": "",
+      "options": [
+        "The establishment of the UN",
+        "The signing of the Paris Agreement",
+        "The abolition of nuclear weapons",
+        "The creation of a single global currency"
+      ],
+      "answer": "The signing of the Paris Agreement",
+      "explanation": "The text explicitly names the 'Paris Agreement' as the outcome of COP 21, focused on reducing emissions."
+    },
+    {
+      "id": "U2015_2",
+      "text": "The adoption of the Paris Agreement was a $\\textbf{pivotal}$ moment, demonstrating international $\\textbf{consensus}$ on climate change. (Comprehension Passage Snippet 1)\n\nChoose the word that is closest in meaning to $\\textbf{pivotal}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Minor or insignificant",
+        "Uninteresting",
+        "Crucial or central to success",
+        "Delayed"
+      ],
+      "answer": "Crucial or central to success",
+      "explanation": "Pivotal means of crucial importance in relation to the development or success of something else."
+    },
+    {
+      "id": "U2015_3",
+      "text": "The final terms of the international treaty were difficult to $\\textbf{hammer}$ $\\textbf{out}$ after months of intense negotiation.\n\nChoose the option that best explains the phrasal verb **hammer out**.",
+      "image": "",
+      "options": [
+        "To physically damage something",
+        "To forcefully reject an idea",
+        "To negotiate or finally agree on the details of something",
+        "To build something quickly"
+      ],
+      "answer": "To negotiate or finally agree on the details of something",
+      "explanation": "To 'hammer out' an agreement means to negotiate or work hard to reach a final decision or set of details."
+    },
+    {
+      "id": "U2015_4",
+      "text": "The $\\textbf{European}$ $\\textbf{Migrant}$ $\\textbf{Crisis}$ reached its $\\textbf{peak}$ in 2015, driven largely by the ongoing conflict in $\\textbf{Syria}$ and the surrounding regions. (Comprehension Passage Snippet 2)\n\nWhat two factors are named as the primary cause of the European Migrant Crisis reaching its peak in 2015?",
+      "image": "",
+      "options": [
+        "Global economic collapse and oil prices",
+        "Conflict in Syria and surrounding regions",
+        "Climate change and deforestation",
+        "The launch of Windows 10"
+      ],
+      "answer": "Conflict in Syria and surrounding regions",
+      "explanation": "The text states the crisis was 'driven largely by the ongoing conflict in Syria and the surrounding regions'."
+    },
+    {
+      "id": "U2015_5",
+      "text": "The European Migrant Crisis reached its $\\textbf{peak}$ in 2015, representing the highest point of arrivals.\n\nChoose the word that is **opposite** in meaning to $\\textbf{peak}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Summit",
+        "Trough or nadir",
+        "Elevation",
+        "Apex"
+      ],
+      "answer": "Trough or nadir",
+      "explanation": "Peak means the highest point. The opposite is the lowest point, or 'trough' / 'nadir'."
+    },
+    {
+      "id": "U2015_6",
+      "text": "A $\\textbf{stream}$ of refugees $\\textbf{(was/were)}$ crossing the border daily during the height of the crisis.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have been"
+      ],
+      "answer": "was",
+      "explanation": "The subject is the singular noun 'stream' (a collective noun treated as singular), so the singular verb 'was' is required."
+    },
+    {
+      "id": "U2015_7",
+      "text": "The launch of $\\textbf{Windows}$ $\\textbf{10}$ was promoted as a 'service,' $\\textbf{signaling}$ a $\\textbf{shift}$ in how software would be $\\textbf{delivered}$. (Comprehension Passage Snippet 3)\n\nWhat commercial shift did the launch of Windows 10 'signal' regarding software?",
+      "image": "",
+      "options": [
+        "The end of the personal computer",
+        "A shift toward treating software as a continuous service",
+        "An increase in hardware costs",
+        "A complete abandonment of desktop interfaces"
+      ],
+      "answer": "A shift toward treating software as a continuous service",
+      "explanation": "The text says it was promoted as a 'service,' signaling a 'shift' in how software would be delivered."
+    },
+    {
+      "id": "U2015_8",
+      "text": "The new operating system's features were $\\textbf{lauded}$ by most reviewers upon its release.\n\nChoose the word that is closest in meaning to $\\textbf{lauded}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Criticized or condemned",
+        "Ignored",
+        "Praised or highly acclaimed",
+        "Misunderstood"
+      ],
+      "answer": "Praised or highly acclaimed",
+      "explanation": "To 'laud' something means to praise it highly, especially in a public context."
+    },
+    {
+      "id": "U2015_9",
+      "text": "The word $\\textbf{'autonomous'}$ $\\textbf{a u t o n o m o u s}$.\n\nIdentify the syllable that carries the primary stress in the word **autonomous**.",
+      "image": "",
+      "options": [
+        "au",
+        "to",
+        "nom",
+        "ous"
+      ],
+      "answer": "nom",
+      "explanation": "The primary stress in 'autonomous' /ɔːˈtɒn.ə.məs/ falls on the third syllable, 'nom'."
+    },
+    {
+      "id": "U2015_10",
+      "text": "The team $\\textbf{that}$ $\\textbf{developed}$ the new operating system worked around the clock.\n\nWhich of the words is the $\\textbf{relative}$ $\\textbf{pronoun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Team",
+        "That",
+        "Developed",
+        "System"
+      ],
+      "answer": "That",
+      "explanation": "'That' introduces the relative clause ('that developed the new operating system') and refers back to 'team'."
+    },
+    {
+      "id": "U2015_11",
+      "text": "NASA's $\\textbf{New}$ $\\textbf{Horizons}$ spacecraft completed its historic $\\textbf{flyby}$ of $\\textbf{Pluto}$, providing the first close-up images of the dwarf planet. (Comprehension Passage Snippet 4)\n\nWhat space mission provided the first close-up images of Pluto in 2015?",
+      "image": "",
+      "options": [
+        "The Voyager 1 mission",
+        "The Cassini probe",
+        "The New Horizons mission",
+        "The Hubble telescope"
+      ],
+      "answer": "The New Horizons mission",
+      "explanation": "The text specifies that 'NASA's New Horizons spacecraft completed its historic flyby of Pluto'."
+    },
+    {
+      "id": "U2015_12",
+      "text": "The Pluto flyby was a $\\textbf{historic}$ $\\textbf{moment}$ for space exploration.\n\nChoose the word that is closest in meaning to the word $\\textbf{historic}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Ordinary",
+        "Forgotten",
+        "Momentous or landmark",
+        "Theoretical"
+      ],
+      "answer": "Momentous or landmark",
+      "explanation": "Historic means famous or important in history, suggesting it is momentous or landmark."
+    },
+    {
+      "id": "U2015_13",
+      "text": "If the New Horizons mission $\\textbf{(had failed/failed)}$ completely, scientists $\\textbf{would}$ $\\textbf{not}$ have obtained such detailed images.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had failed",
+        "failed",
+        "fails",
+        "was failing"
+      ],
+      "answer": "had failed",
+      "explanation": "This is a Third Conditional sentence (referring to a past hypothetical situation), requiring the past perfect tense ('had failed') in the 'if' clause."
+    },
+    {
+      "id": "U2015_14",
+      "text": "The November $\\textbf{Paris}$ $\\textbf{attacks}$ resulted in $\\textbf{global}$ $\\textbf{solidarity}$ and a renewed focus on $\\textbf{counter-terrorism}$ $\\textbf{measures}$. (Comprehension Passage Snippet 5)\n\nWhat was the primary global reaction to the November Paris attacks, according to the text?",
+      "image": "",
+      "options": [
+        "Widespread indifference",
+        "A decline in tourism",
+        "Global solidarity and a focus on counter-terrorism",
+        "A change in government policy"
+      ],
+      "answer": "Global solidarity and a focus on counter-terrorism",
+      "explanation": "The text states the attacks resulted in 'global solidarity and a renewed focus on counter-terrorism measures'."
+    },
+    {
+      "id": "U2015_15",
+      "text": "The tragic events were met with $\\textbf{solidarity}$ from the international community.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{solidarity}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Unity or agreement",
+        "Cooperation",
+        "Division or discord",
+        "Support"
+      ],
+      "answer": "Division or discord",
+      "explanation": "Solidarity means unity or agreement of feeling or action. The opposite is division or discord."
+    },
+    {
+      "id": "U2015_16",
+      "text": "Counter-terrorism efforts were $\\textbf{rapidly}$ $\\textbf{ramped}$ $\\textbf{up}$ across Europe.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Efforts",
+        "Rapidly",
+        "Ramped",
+        "Across"
+      ],
+      "answer": "Rapidly",
+      "explanation": "'Rapidly' modifies the verb 'ramped up', describing *how* the action took place, making it an adverb."
+    },
+    {
+      "id": "U2015_17",
+      "text": "The negotiations over the climate agreement were $\\textbf{down}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{wire}$ before the final signing.\n\nChoose the option that best explains the idiom **down to the wire**.",
+      "image": "",
+      "options": [
+        "To be certain of the outcome",
+        "To continue until the last possible moment",
+        "To be easily completed",
+        "To involve a lot of paperwork"
+      ],
+      "answer": "To continue until the last possible moment",
+      "explanation": "The idiom 'down to the wire' means that the outcome will not be decided until the very last moment."
+    },
+    {
+      "id": "U2015_18",
+      "text": "The committee $\\textbf{(complimented/complemented)}$ the new policy by adding necessary funds to its budget.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "complimented",
+        "complemented",
+        "completed",
+        "complained"
+      ],
+      "answer": "complemented",
+      "explanation": "To 'complement' means to add to (something) in a way that enhances or improves it. 'Compliment' means to praise."
+    },
+    {
+      "id": "U2015_19",
+      "text": "The $\\textbf{unprecedented}$ $\\textbf{nature}$ of the crisis caused great $\\textbf{concern}$ among world leaders.\n\nWhich of the words is the $\\textbf{noun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Unprecedented",
+        "Nature",
+        "Caused",
+        "Great"
+      ],
+      "answer": "Nature",
+      "explanation": "'Nature' is a noun referring to the essential qualities of something. 'Unprecedented' is the adjective modifying it."
+    },
+    {
+      "id": "U2015_20",
+      "text": "The word $\\textbf{'close'}$ $\\textbf{c l o s e}$ (verb, meaning to shut).\n\nWhich of the following words has the same vowel sound as the stressed syllable in **close** (verb)?",
+      "image": "",
+      "options": [
+        "Go",
+        "Lost",
+        "Foot",
+        "Mouse"
+      ],
+      "answer": "Go",
+      "explanation": "The vowel sound in 'close' (verb) /kləʊz/ is the diphthong /əʊ/. The vowel sound in 'Go' is also /əʊ/."
+    },
+    {
+      "id": "U2015_21",
+      "text": "The $\\textbf{promulgation}$ of the Sustainable Development Goals (SDGs) by the UN provided a new global roadmap for 2030.\n\nChoose the word that is closest in meaning to the word $\\textbf{promulgation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Secret discussion",
+        "The action of putting a law or decree into effect; official announcement",
+        "A cancellation",
+        "A lengthy debate"
+      ],
+      "answer": "The action of putting a law or decree into effect; official announcement",
+      "explanation": "Promulgation means to promote or make widely known, or the action of putting a law or decree into effect."
+    },
+    {
+      "id": "U2015_22",
+      "text": "He $\\textbf{(lay/laid)}$ the new report on the table before the meeting began.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "lay",
+        "laid",
+        "lain",
+        "lie"
+      ],
+      "answer": "laid",
+      "explanation": "'Laid' is the past tense of the transitive verb 'to lay' (to put or place something down, taking a direct object: 'the new report'). 'Lay' is the past tense of the intransitive verb 'to lie' (to recline, no direct object)."
+    },
+    {
+      "id": "U2015_23",
+      "text": "The company's $\\textbf{market}$ $\\textbf{valuation}$ was $\\textbf{subject}$ $\\textbf{to}$ $\\textbf{wild}$ $\\textbf{fluctuations}$ throughout the year.\n\nWhich of the words is an $\\textbf{adjective}$?",
+      "image": "",
+      "options": [
+        "Valuation",
+        "Fluctuations",
+        "Subject",
+        "Wild"
+      ],
+      "answer": "Wild",
+      "explanation": "'Wild' modifies the noun 'fluctuations', describing them as erratic or uncontrolled, making it an adjective."
+    },
+    {
+      "id": "U2015_24",
+      "text": "The word $\\textbf{'scandal'}$ $\\textbf{s c a n d a l}$.\n\nIdentify the syllable that carries the primary stress in the word **scandal**.",
+      "image": "",
+      "options": [
+        "scan",
+        "dal"
+      ],
+      "answer": "scan",
+      "explanation": "The primary stress in 'scandal' /ˈskæn.dəl/ falls on the first syllable, 'scan'."
+    },
+    {
+      "id": "U2015_25",
+      "text": "The $\\textbf{fallout}$ from the major corruption scandal was felt across the entire sporting industry.\n\nChoose the word that is closest in meaning to the word $\\textbf{fallout}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A lack of communication",
+        "The adverse side effects or results of a situation",
+        "A minor inconvenience",
+        "An unexpected success"
+      ],
+      "answer": "The adverse side effects or results of a situation",
+      "explanation": "'Fallout' means the adverse side effects or results of a situation or event."
+    },
+    {
+      "id": "U2015_26",
+      "text": "If the organization $\\textbf{had}$ $\\textbf{been}$ $\\textbf{more}$ $\\textbf{transparent}$, the crisis $\\textbf{(would}$ $\\textbf{not}$ $\\textbf{escalate/would}$ $\\textbf{not}$ $\\textbf{have}$ $\\textbf{escalated)}$ so quickly.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "would not escalate",
+        "would not have escalated",
+        "escalates",
+        "will not escalate"
+      ],
+      "answer": "would not have escalated",
+      "explanation": "The 'if' clause uses the Past Perfect ('had been'), indicating this is the Third Conditional, which requires 'would have + past participle' in the main clause."
+    },
+    {
+      "id": "U2015_27",
+      "text": "The global community was $\\textbf{divided}$ $\\textbf{(over/in)}$ the appropriate response to the refugee crisis.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "over",
+        "in",
+        "with",
+        "at"
+      ],
+      "answer": "over",
+      "explanation": "When expressing disagreement or division about a topic or issue, the preposition 'over' is generally used (divided *over* the issue)."
+    },
+    {
+      "id": "U2015_28",
+      "text": "The word $\\textbf{'consensus'}$ $\\textbf{c o n s e n s u s}$.\n\nIdentify the syllable that carries the primary stress in the word **consensus**.",
+      "image": "",
+      "options": [
+        "con",
+        "sen",
+        "sus"
+      ],
+      "answer": "sen",
+      "explanation": "The primary stress in 'consensus' /kənˈsɛn.səs/ falls on the second syllable, 'sen'."
+    },
+    {
+      "id": "U2015_29",
+      "text": "The launch of the new product was so successful that it $\\textbf{took}$ $\\textbf{the}$ $\\textbf{industry}$ $\\textbf{by}$ $\\textbf{storm}$.\n\nChoose the option that best explains the idiom **took the industry by storm**.",
+      "image": "",
+      "options": [
+        "The product was delayed by bad weather",
+        "The product was met with great and sudden success or excitement",
+        "The product caused minor disruption",
+        "The product was entirely forgotten"
+      ],
+      "answer": "The product was met with great and sudden success or excitement",
+      "explanation": "To 'take something by storm' means to be extremely or instantly successful or popular."
+    },
+    {
+      "id": "U2015_30",
+      "text": "The word $\\textbf{'refugee'}$ $\\textbf{r e f u g e e}$.\n\nIdentify the syllable that carries the primary stress in the word **refugee**.",
+      "image": "",
+      "options": [
+        "re",
+        "fu",
+        "gee"
+      ],
+      "answer": "gee",
+      "explanation": "The primary stress in 'refugee' /ˌrɛf.juˈdʒiː/ falls on the last syllable, 'gee'."
+    },
+    {
+      "id": "U2015_31",
+      "text": "The $\\textbf{imminent}$ $\\textbf{arrival}$ of the spacecraft was broadcast live across the world.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{imminent}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Forthcoming",
+        "Unlikely or distant in the future",
+        "Certain",
+        "Immediate"
+      ],
+      "answer": "Unlikely or distant in the future",
+      "explanation": "Imminent means about to happen. The opposite is unlikely or distant in the future."
+    },
+    {
+      "id": "U2015_32",
+      "text": "The word $\\textbf{'fear'}$ $\\textbf{f e a r}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **fear**?",
+      "image": "",
+      "options": [
+        "Here",
+        "Air",
+        "Far",
+        "Fit"
+      ],
+      "answer": "Here",
+      "explanation": "The vowel sound in 'fear' is /ɪər/. The vowel sound in 'Here' is also /ɪər/."
+    },
+    {
+      "id": "U2015_33",
+      "text": "The country experienced a severe $\\textbf{drought}$ that severely $\\textbf{crippled}$ its agricultural sector.\n\nChoose the word that is closest in meaning to the word $\\textbf{crippled}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Strengthened or revitalized",
+        "Seriously damaged or impaired its function",
+        "Temporarily halted",
+        "Slightly affected"
+      ],
+      "answer": "Seriously damaged or impaired its function",
+      "explanation": "To 'cripple' an industry means to cause a severe or disabling lack of function."
+    },
+    {
+      "id": "U2015_34",
+      "text": "The $\\textbf{recent}$ $\\textbf{outbreak}$ $\\textbf{was}$ $\\textbf{widely}$ $\\textbf{reported}$ in $\\textbf{the}$ $\\textbf{press}$.\n\nIdentify the $\\textbf{passive}$ $\\textbf{voice}$ verb form in the sentence.",
+      "image": "",
+      "options": [
+        "Recent",
+        "Outbreak",
+        "was widely reported",
+        "Press"
+      ],
+      "answer": "was widely reported",
+      "explanation": "The structure 'was + past participle (reported)' signifies the simple past passive voice."
+    },
+    {
+      "id": "U2015_35",
+      "text": "The government $\\textbf{would}$ $\\textbf{not}$ $\\textbf{have}$ $\\textbf{faced}$ $\\textbf{such}$ $\\textbf{criticism}$ $\\textbf{(if/unless)}$ it had been more communicative.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "if",
+        "unless",
+        "though",
+        "because"
+      ],
+      "answer": "if",
+      "explanation": "The main clause is a negative Third Conditional result, making the positive condition 'if' the appropriate conjunction (i.e., 'The government would not have faced criticism IF it had been communicative')."
+    },
+    {
+      "id": "U2015_36",
+      "text": "The word $\\textbf{'present'}$ (as a noun, meaning a gift or a time).\n\nIdentify the syllable that carries the primary stress in the word **present** (noun).",
+      "image": "",
+      "options": [
+        "pre",
+        "sent"
+      ],
+      "answer": "pre",
+      "explanation": "The primary stress in the noun 'present' /ˈprɛz.ənt/ falls on the first syllable, 'pre'."
+    },
+    {
+      "id": "U2015_37",
+      "text": "The $\\textbf{dearth}$ of available housing in the cities led to skyrocketing rents.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{dearth}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Scarcity or lack",
+        "A complete absence",
+        "An abundance or surplus",
+        "A hidden supply"
+      ],
+      "answer": "An abundance or surplus",
+      "explanation": "Dearth means a scarcity or lack of something. The opposite is an abundance or surplus."
+    },
+    {
+      "id": "U2015_38",
+      "text": "The $\\textbf{head}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{delegation}$, $\\textbf{accompanied}$ by the other delegates, $\\textbf{(is/are)}$ expected to arrive shortly.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been"
+      ],
+      "answer": "is",
+      "explanation": "The true subject of the sentence is the singular noun 'head'. The phrase 'accompanied by the other delegates' is a parenthetical phrase and does not affect the verb agreement, thus requiring the singular verb 'is'."
+    },
+    {
+      "id": "U2015_39",
+      "text": "The journalist decided to $\\textbf{shed}$ $\\textbf{light}$ $\\textbf{on}$ the corporate cover-up.\n\nChoose the option that best explains the idiom **shed light on**.",
+      "image": "",
+      "options": [
+        "To literally turn on a lamp",
+        "To obstruct or hide information",
+        "To provide information or clarification about something",
+        "To criticize harshly"
+      ],
+      "answer": "To provide information or clarification about something",
+      "explanation": "The idiom 'shed light on' means to clarify or explain something."
+    },
+    {
+      "id": "U2015_40",
+      "text": "The word $\\textbf{'house'}$ $\\textbf{h o u s e}$ (noun).\n\nIdentify the word where the sound represented by the letter 's' is pronounced /z/ (voiced).",
+      "image": "",
+      "options": [
+        "Crisis",
+        "House (verb)",
+        "Misinformation",
+        "Close (adjective)"
+      ],
+      "answer": "House (verb)",
+      "explanation": "In 'House' (verb) /haʊz/, the 's' is pronounced /z/. In 'House' (noun) /haʊs/ and the other options, it is pronounced /s/."
+    }
+  ]

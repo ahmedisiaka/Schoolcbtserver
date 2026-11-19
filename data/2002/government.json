@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G801",
+        "text": "The $\\textbf{Bipartisan Campaign Reform Act (BCRA)}$ of 2002, also known as $\\textbf{McCain-Feingold}$, primarily targeted the use of $\\textbf{Soft Money}$ in federal $\\textbf{elections}$.",
+        "image": "",
+        "options": [
+            "Hard Money",
+            "Soft Money",
+            "Individual Donations",
+            "PAC contributions"
+        ],
+        "answer": "Soft Money",
+        "explanation": "Soft money refers to virtually unregulated money given to political parties for 'party-building' activities, which BCRA sought to limit."
+    },
+    {
+        "id": "G802",
+        "text": "The $\\textbf{AUMF Against Iraq}$ (2002) was a $\\textbf{Joint Resolution}$ passed by $\\textbf{Congress}$ authorizing the $\\textbf{President}$ to use military force, thereby $\\textbf{Delegating}$ war power.",
+        "image": "",
+        "options": [
+            "Executive Order",
+            "Treaty Ratification",
+            "Joint Resolution",
+            "Veto Override"
+        ],
+        "answer": "Joint Resolution",
+        "explanation": "A joint resolution passed by both houses and signed by the president has the force of law, but it is not a formal Declaration of War."
+    },
+    {
+        "id": "G803",
+        "text": "The $\\textbf{No Child Left Behind Act (NCLB)}$ required states to administer standardized $\\textbf{tests}$ and report results, primarily utilizing $\\textbf{Categorical Grants}$ to enforce $\\textbf{Federal Mandates}$ on $\\textbf{State}$ education policy.",
+        "image": "",
+        "options": [
+            "Block Grants",
+            "Revenue Sharing",
+            "Categorical Grants",
+            "Federalism Vouchers"
+        ],
+        "answer": "Categorical Grants",
+        "explanation": "Categorical grants are grants given for specific purposes with conditions attached, allowing the federal government to influence state policy areas like education."
+    },
+    {
+        "id": "G804",
+        "text": "BCRA's ban on $\\textbf{Soft Money}$ contributions to $\\textbf{National Political Parties}$ was challenged in court, raising $\\textbf{First Amendment}$ concerns regarding $\\textbf{Political Speech}$.",
+        "image": "",
+        "options": [
+            "Fourth Amendment",
+            "Fifth Amendment",
+            "First Amendment",
+            "Tenth Amendment"
+        ],
+        "answer": "First Amendment",
+        "explanation": "Campaign finance regulations often involve restricting political spending, which the Supreme Court has generally equated with protected speech."
+    },
+    {
+        "id": "G805",
+        "text": "The $\\textbf{Authorization for Use of Military Force (AUMF)}$ in 2002 intensified the debate over whether the $\\textbf{War Powers Resolution}$ (1973) effectively limits the $\\textbf{Executive}$ branch's ability to engage in prolonged $\\textbf{conflict}$.",
+        "image": "",
+        "options": [
+            "Treaty Ratification Power",
+            "Appointment Power",
+            "Veto Power",
+            "War Powers Resolution"
+        ],
+        "answer": "War Powers Resolution",
+        "explanation": "The AUMF acts as the Congressional approval required by the WPR, but its broad language often weakens the WPR's intent to check the President."
+    },
+    {
+        "id": "G806",
+        "text": "NCLB is an example of $\\textbf{Coercive Federalism}$ because $\\textbf{States}$ that refused to comply with its $\\textbf{Accountability}$ standards risked losing $\\textbf{Federal}$ education $\\textbf{Funding}$ (conditions of aid).",
+        "image": "",
+        "options": [
+            "Dual Federalism",
+            "Cooperative Federalism",
+            "Coercive Federalism",
+            "New Federalism"
+        ],
+        "answer": "Coercive Federalism",
+        "explanation": "This describes a shift toward a system where the federal government issues mandates and heavily influences state policy, often by threatening to withhold funds."
+    },
+    {
+        "id": "G807",
+        "text": "BCRA also placed restrictions on $\\textbf{Issue Ads}$—advertisements that refer to a $\\textbf{Federal Candidate}$ but are not explicitly $\\textbf{election}$ focused—if run close to an $\\textbf{election}$.",
+        "image": "",
+        "options": [
+            "Candidate Ads",
+            "Issue Ads",
+            "Voter Registration Ads",
+            "Get Out the Vote Ads"
+        ],
+        "answer": "Issue Ads",
+        "explanation": "These ads were often used by interest groups to circumvent campaign finance laws by appearing to discuss policy, while clearly targeting a candidate."
+    },
+    {
+        "id": "G808",
+        "text": "A key criticism of the 2002 AUMF was that its language was too $\\textbf{Broad}$ and $\\textbf{Vague}$, effectively abdicating the $\\textbf{Legislature}$'s constitutional responsibility to control $\\textbf{War}$ initiation.",
+        "image": "",
+        "options": [
+            "Too Specific",
+            "Too Narrow",
+            "Too Broad",
+            "Too Restrictive"
+        ],
+        "answer": "Too Broad",
+        "explanation": "Critics argued the AUMF gave the President a blank check for military action, weakening Congressional checks."
+    },
+    {
+        "id": "G809",
+        "text": "The $\\textbf{Homeland Security Act}$ of 2002 involved a massive $\\textbf{Bureaucratic}$ restructuring, merging 22 different $\\textbf{Agencies}$ into one new $\\textbf{Cabinet}$ department.",
+        "image": "",
+        "options": [
+            "Independent Regulatory Agency",
+            "Executive Department",
+            "Government Corporation",
+            "Independent Executive Agency"
+        ],
+        "answer": "Executive Department",
+        "explanation": "The Department of Homeland Security (DHS) is a cabinet-level executive department."
+    },
+    {
+        "id": "G810",
+        "text": "NCLB required all states to achieve $\\textbf{Adequate Yearly Progress (AYP)}$, a federal $\\textbf{Benchmark}$ designed to ensure all student $\\textbf{Subgroups}$ were meeting performance goals.",
+        "image": "",
+        "options": [
+            "Local Control Initiatives",
+            "Charter School Establishment",
+            "Adequate Yearly Progress (AYP)",
+            "Teacher Certification Standards"
+        ],
+        "answer": "Adequate Yearly Progress (AYP)",
+        "explanation": "AYP was the central metric used by the federal government to measure school success and accountability under NCLB."
+    },
+    {
+        "id": "G811",
+        "text": "BCRA's regulation of $\\textbf{Independent Expenditures}$ was a major point of controversy, as these funds are spent by $\\textbf{Interest Groups}$ $\\textbf{without}$ coordination with a $\\textbf{Candidate}$'s campaign.",
+        "image": "",
+        "options": [
+            "PAC limitations",
+            "Coordinated Expenditures",
+            "Independent Expenditures",
+            "Hard Money Limits"
+        ],
+        "answer": "Independent Expenditures",
+        "explanation": "Independent expenditures are funds spent by outside groups that expressly advocate for or against a candidate but are not controlled by the candidate's committee."
+    },
+    {
+        "id": "G812",
+        "text": "The $\\textbf{Commander-in-Chief}$ role is the $\\textbf{President}$'s $\\textbf{Formal Power}$ used to execute the military action authorized by the $\\textbf{AUMF}$.",
+        "image": "",
+        "options": [
+            "Chief Diplomat",
+            "Chief Legislator",
+            "Chief of Party",
+            "Commander-in-Chief"
+        ],
+        "answer": "Commander-in-Chief",
+        "explanation": "This is the President's constitutional role as the supreme commander of the armed forces."
+    },
+    {
+        "id": "G813",
+        "text": "The $\\textbf{Devolution}$ of power to $\\textbf{States}$ was $\\textbf{reversed}$ by $\\textbf{NCLB}$ and $\\textbf{DHS}$ creation, as both involved greater $\\textbf{Federal}$ intervention and control.",
+        "image": "",
+        "options": [
+            "Devolution",
+            "Interstate Commerce",
+            "Mandatory Spending",
+            "Block Granting"
+        ],
+        "answer": "Devolution",
+        "explanation": "Devolution is the transfer of certain powers from the federal government back to the states; NCLB and DHS represented the opposite trend."
+    },
+    {
+        "id": "G814",
+        "text": "The $\\textbf{Supreme Court}$ case of $\\textbf{McConnell v. FEC}$ (2003, upholding BCRA) dealt with the balance between $\\textbf{Government Regulation}$ and $\\textbf{First Amendment}$ rights to $\\textbf{free speech}$.",
+        "image": "",
+        "options": [
+            "Gideon v. Wainwright",
+            "Marbury v. Madison",
+            "McConnell v. FEC",
+            "Tinker v. Des Moines"
+        ],
+        "answer": "McConnell v. FEC",
+        "explanation": "This case was the initial test of the constitutionality of the Bipartisan Campaign Reform Act (BCRA) passed in 2002."
+    },
+    {
+        "id": "G815",
+        "text": "The 2002 $\\textbf{AUMF}$ is an example of $\\textbf{Checks and Balances}$ because $\\textbf{Congress}$ used its power to $\\textbf{Authorize}$ force, thereby checking the $\\textbf{Executive}$ branch's initiation of war.",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Separation of Powers",
+            "Checks and Balances",
+            "Judicial Review"
+        ],
+        "answer": "Checks and Balances",
+        "explanation": "The AUMF required cooperation between the two branches: the President requested the authority, and Congress granted it."
+    },
+    {
+        "id": "G816",
+        "text": "NCLB's reliance on $\\textbf{Standardized Testing}$ and $\\textbf{Accountability}$ represents an attempt by the $\\textbf{Federal}$ government to reduce $\\textbf{Inequality}$ through $\\textbf{Policy}$ implementation.",
+        "image": "",
+        "options": [
+            "Block Grants",
+            "Standardized Testing",
+            "Curriculum Review",
+            "Local Bond Initiatives"
+        ],
+        "answer": "Standardized Testing",
+        "explanation": "Standardized testing was the primary mechanism NCLB used to measure student performance and school accountability."
+    },
+    {
+        "id": "G817",
+        "text": "BCRA increased the amount of $\\textbf{Hard Money}$ that individuals could contribute directly to $\\textbf{Federal Candidates}$ to offset the ban on $\\textbf{Soft Money}$.",
+        "image": "",
+        "options": [
+            "Independent Expenditures",
+            "Hard Money",
+            "Soft Money",
+            "Bundled Contributions"
+        ],
+        "answer": "Hard Money",
+        "explanation": "Hard money is federally regulated campaign money subject to limits and disclosure requirements."
+    },
+    {
+        "id": "G818",
+        "text": "The $\\textbf{Power of the Purse}$ is Congress's most significant control over the $\\textbf{Executive}$ Branch's use of force authorized by the $\\textbf{AUMF}$, as it can $\\textbf{Refuse}$ to $\\textbf{Fund}$ the $\\textbf{War}$.",
+        "image": "",
+        "options": [
+            "Treaty Power",
+            "Power of the Purse",
+            "Veto Power",
+            "Confirmation Power"
+        ],
+        "answer": "Power of the Purse",
+        "explanation": "Congress's ability to tax and spend is its ultimate check on any military operation."
+    },
+    {
+        "id": "G819",
+        "text": "The establishment of $\\textbf{DHS}$ was an attempt to reduce $\\textbf{Bureaucratic Fragmentation}$ by centralizing $\\textbf{Security}$ responsibilities, thereby improving $\\textbf{Inter-Agency}$ communication.",
+        "image": "",
+        "options": [
+            "Issue Networks",
+            "Iron Triangles",
+            "Bureaucratic Fragmentation",
+            "Government Corporations"
+        ],
+        "answer": "Bureaucratic Fragmentation",
+        "explanation": "Fragmentation occurs when overlapping jurisdictions and separated agencies hinder policy implementation, a problem DHS was designed to fix."
+    },
+    {
+        "id": "G820",
+        "text": "NCLB expanded the use of $\\textbf{Federal Mandates}$—rules that direct $\\textbf{States}$ to comply with $\\textbf{Federal}$ policy—in the previously $\\textbf{State-Controlled}$ domain of $\\textbf{Education}$.",
+        "image": "",
+        "options": [
+            "Block Grants",
+            "Interstate Compacts",
+            "Federal Mandates",
+            "Supremacy Clause"
+        ],
+        "answer": "Federal Mandates",
+        "explanation": "Mandates compel states to implement federal policies, regardless of funding, though NCLB was heavily tied to funding (conditions of aid)."
+    },
+    {
+        "id": "G821",
+        "text": "BCRA required greater $\\textbf{Disclosure}$ of campaign funding sources, primarily aimed at increasing $\\textbf{Transparency}$ in $\\textbf{Elections}$ and reducing the $\\textbf{Influence}$ of $\\textbf{Special Interests}$.",
+        "image": "",
+        "options": [
+            "Disclosure",
+            "Secrecy",
+            "Deregulation",
+            "Anonymity"
+        ],
+        "answer": "Disclosure",
+        "explanation": "Increased disclosure requirements force candidates and groups to reveal where their money comes from."
+    },
+    {
+        "id": "G822",
+        "text": "The $\\textbf{AUMF}$ represented a transfer of $\\textbf{Formal Power}$ from $\\textbf{Congress}$ to the $\\textbf{President}$, allowing him to initiate $\\textbf{Military}$ action based on his own $\\textbf{Judgment}$.",
+        "image": "",
+        "options": [
+            "Reserved Power",
+            "Implied Power",
+            "Concurrent Power",
+            "Formal Power"
+        ],
+        "answer": "Formal Power",
+        "explanation": "Formal (or enumerated) powers are explicitly granted by the Constitution. The AUMF allowed the President to use the formal power of Commander-in-Chief without a Declaration of War."
+    },
+    {
+        "id": "G823",
+        "text": "A major criticism of $\\textbf{NCLB}$'s accountability measures was that they forced $\\textbf{States}$ to narrow their $\\textbf{Curriculum}$ to focus only on $\\textbf{Tested}$ subjects.",
+        "image": "",
+        "options": [
+            "Curriculum Broadening",
+            "Teacher Certification",
+            "Curriculum Narrowing",
+            "School Choice Expansion"
+        ],
+        "answer": "Curriculum Narrowing",
+        "explanation": "The pressure to meet AYP led schools to focus resources and instruction almost exclusively on reading and math, the tested subjects."
+    },
+    {
+        "id": "G824",
+        "text": "The $\\textbf{BCRA}$'s restrictions on $\\textbf{Issue Ads}$ were designed to prevent $\\textbf{Interest Groups}$ from circumventing $\\textbf{Hard Money}$ limits by phrasing $\\textbf{Attack Ads}$ as policy $\\textbf{debates}$.",
+        "image": "",
+        "options": [
+            "Political Action Committees (PACs)",
+            "527 Groups",
+            "Political Parties",
+            "Candidate Committees"
+        ],
+        "answer": "527 Groups",
+        "explanation": "527s were often used by independent groups to run soft money-funded issue ads that BCRA attempted to regulate."
+    },
+    {
+        "id": "G825",
+        "text": "The $\\textbf{President}$'s use of the $\\textbf{Bully Pulpit}$ was crucial in 2002 to generate $\\textbf{Public Support}$ for both the $\\textbf{AUMF}$ and the large-scale reorganization that created $\\textbf{DHS}$.",
+        "image": "",
+        "options": [
+            "Pardon Power",
+            "Veto Power",
+            "Bully Pulpit",
+            "Appointment Power"
+        ],
+        "answer": "Bully Pulpit",
+        "explanation": "The Bully Pulpit refers to the President's unique ability to influence public opinion and the national agenda."
+    },
+    {
+        "id": "G826",
+        "text": "The $\\textbf{Supremacy Clause}$ ensures that $\\textbf{Federal Laws}$ like $\\textbf{NCLB}$ take precedence over $\\textbf{State Laws}$ when there is a $\\textbf{Conflict}$ between the $\\textbf{two}$.",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Supremacy Clause",
+            "Necessary and Proper Clause",
+            "Commerce Clause"
+        ],
+        "answer": "Supremacy Clause",
+        "explanation": "Article VI, Clause 2 of the Constitution, which makes federal law superior to state law when acting within its constitutional limits."
+    },
+    {
+        "id": "G827",
+        "text": "The $\\textbf{FECA}$ (Federal Election Campaign Act) of 1971, not BCRA, first established the limits on $\\textbf{Hard Money}$ contributions to $\\textbf{Candidates}$.",
+        "image": "",
+        "options": [
+            "Soft Money Disclosure",
+            "Hard Money Limits",
+            "Issue Ad Restrictions",
+            "Stand By Your Ad"
+        ],
+        "answer": "Hard Money Limits",
+        "explanation": "FECA established the core framework for campaign finance, including setting limits on hard money, which BCRA later increased."
+    },
+    {
+        "id": "G828",
+        "text": "The $\\textbf{Judiciary}$ was asked to exercise $\\textbf{Judicial Review}$ on the $\\textbf{AUMF}$'s constitutionality, but often deferred, adhering to the $\\textbf{Political Question Doctrine}$.",
+        "image": "",
+        "options": [
+            "Stare Decisis",
+            "Judicial Restraint",
+            "Judicial Review",
+            "Amicus Curiae"
+        ],
+        "answer": "Judicial Review",
+        "explanation": "Judicial review is the power of the courts to determine if a law or executive action is constitutional."
+    },
+    {
+        "id": "G829",
+        "text": "The creation of $\\textbf{DHS}$ involved a $\\textbf{Bureaucratic}$ reorganization, primarily affecting the $\\textbf{Executive}$ branch and increasing the number of $\\textbf{Cabinet}$ departments.",
+        "image": "",
+        "options": [
+            "Judicial Branch",
+            "Legislative Branch",
+            "Executive Branch",
+            "Independent Regulatory Agencies"
+        ],
+        "answer": "Executive Branch",
+        "explanation": "DHS is part of the executive branch and led by the Secretary of Homeland Security, a cabinet position."
+    },
+    {
+        "id": "G830",
+        "text": "A state seeking a $\\textbf{Waiver}$ from $\\textbf{NCLB}$'s strict requirements had to demonstrate that its own $\\textbf{Accountability}$ plan met the $\\textbf{Federal}$ goals for student $\\textbf{Performance}$.",
+        "image": "",
+        "options": [
+            "Appropriations",
+            "Waiver",
+            "Veto Override",
+            "Recess Appointment"
+        ],
+        "answer": "Waiver",
+        "explanation": "Waivers are exemptions granted by the executive branch (Department of Education) to states that meet certain criteria, offering flexibility from federal mandates."
+    },
+    {
+        "id": "G831",
+        "text": "The '$\textbf{Stand By Your Ad}$' provision of $\\textbf{BCRA}$ required a candidate to appear in or state approval of their $\\textbf{Campaign Ads}$, aiming to reduce $\\textbf{Negative}$ and $\\textbf{Anonymous}$ attacks.",
+        "image": "",
+        "options": [
+            "Soft Money Ban",
+            "Independent Expenditure Limits",
+            "'Stand By Your Ad'",
+            "Issue Ad Restrictions"
+        ],
+        "answer": "'Stand By Your Ad'",
+        "explanation": "This provision, often called the 'I'm [candidate name] and I approve this message' rule, was intended to increase accountability."
+    },
+    {
+        "id": "G832",
+        "text": "The $\\textbf{AUMF}$ is an example of an $\\textbf{Executive Agreement}$ in the domestic arena, in that it binds $\\textbf{Congress}$ and the $\\textbf{President}$ to a $\\textbf{Joint}$ policy $\\textbf{decision}$.",
+        "image": "",
+        "options": [
+            "Executive Order",
+            "Executive Agreement",
+            "Executive Privilege",
+            "Signing Statement"
+        ],
+        "answer": "Executive Agreement",
+        "explanation": "While typically used in foreign policy, the AUMF functions similarly by creating a legally binding, though not permanent, agreement on the use of power."
+    },
+    {
+        "id": "G833",
+        "text": "The $\\textbf{Tenth Amendment}$ was often cited by $\\textbf{States}$ arguing against $\\textbf{NCLB}$, asserting that $\\textbf{Education}$ is a $\\textbf{Reserved Power}$ belonging to $\\textbf{State}$ and $\\textbf{Local}$ governments.",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment",
+            "Fifteenth Amendment"
+        ],
+        "answer": "Tenth Amendment",
+        "explanation": "The Tenth Amendment reserves powers not delegated to the federal government to the states or the people."
+    },
+    {
+        "id": "G834",
+        "text": "A $\\textbf{Political Action Committee (PAC)}$ is restricted to giving $\\textbf{Hard Money}$ contributions to $\\textbf{Candidates}$ under $\\textbf{BCRA}$ and other $\\textbf{Election}$ laws.",
+        "image": "",
+        "options": [
+            "Soft Money",
+            "Hard Money",
+            "Issue Ads",
+            "Independent Expenditures"
+        ],
+        "answer": "Hard Money",
+        "explanation": "PACs can only give money that is limited and regulated (hard money) directly to federal candidates."
+    },
+    {
+        "id": "G835",
+        "text": "The $\\textbf{Joint Resolution}$ (AUMF) passed by $\\textbf{Congress}$ in 2002 essentially transferred the $\\textbf{Initiation}$ power of $\\textbf{War}$ to the $\\textbf{Executive}$ branch.",
+        "image": "",
+        "options": [
+            "Ratification",
+            "Investigation",
+            "Appropriation",
+            "Initiation"
+        ],
+        "answer": "Initiation",
+        "explanation": "By passing the AUMF, Congress authorized the President to decide when to start the military action."
+    },
+    {
+        "id": "G836",
+        "text": "The $\\textbf{Media}$'s intense focus on the $\\textbf{Threat}$ of $\\textbf{WMDs}$ in the run-up to the $\\textbf{AUMF}$ vote is an example of $\\textbf{Agenda Setting}$, shaping the $\\textbf{National}$ discussion.",
+        "image": "",
+        "options": [
+            "Scorekeeping",
+            "Gatekeeping",
+            "Agenda Setting",
+            "Muckraking"
+        ],
+        "answer": "Agenda Setting",
+        "explanation": "The media, by choosing what issues to cover heavily, shapes the public's perception of what is important."
+    },
+    {
+        "id": "G837",
+        "text": "The $\\textbf{Iron Triangle}$ consisting of $\\textbf{Defense Contractors}$, $\\textbf{Congressional Committees}$, and the $\\textbf{Department of Defense}$ was critical in generating support for the $\\textbf{AUMF}$ and subsequent $\\textbf{Funding}$.",
+        "image": "",
+        "options": [
+            "Issue Network",
+            "Iron Triangle",
+            "Interstate Compact",
+            "Fiscal Policy"
+        ],
+        "answer": "Iron Triangle",
+        "explanation": "A mutually beneficial, three-way relationship between an agency, a congressional committee, and an interest group."
+    },
+    {
+        "id": "G838",
+        "text": "NCLB expanded the use of $\\textbf{Discretionary Spending}$ to fund $\\textbf{Title I}$ and other $\\textbf{Federal}$ education $\\textbf{Programs}$, which $\\textbf{Congress}$ controls through $\\textbf{Annual}$ appropriations.",
+        "image": "",
+        "options": [
+            "Mandatory Spending",
+            "Discretionary Spending",
+            "Entitlement Spending",
+            "Debt Servicing"
+        ],
+        "answer": "Discretionary Spending",
+        "explanation": "NCLB programs are funded through discretionary spending, meaning Congress must approve the funding levels each year."
+    },
+    {
+        "id": "G839",
+        "text": "BCRA was later partially $\\textbf{Overturned}$ by the $\\textbf{Supreme Court}$ in $\\textbf{Citizens United v. FEC}$ (2010), which ruled that corporate $\\textbf{Independent Expenditures}$ are $\\textbf{Protected}$ speech.",
+        "image": "",
+        "options": [
+            "McCain v. FEC",
+            "Citizens United v. FEC",
+            "Buckley v. Valeo",
+            "Baker v. Carr"
+        ],
+        "answer": "Citizens United v. FEC",
+        "explanation": "This landmark 2010 decision severely curtailed BCRA's restrictions on independent political spending by corporations and unions."
+    },
+    {
+        "id": "G840",
+        "text": "The $\\textbf{Reorganization}$ required by the $\\textbf{Homeland Security Act}$ (2002) significantly increased the $\\textbf{Discretionary Power}$ of $\\textbf{Street-Level Bureaucrats}$ at $\\textbf{Border Control}$ and $\\textbf{TSA}$ checkpoints.",
+        "image": "",
+        "options": [
+            "Congressional Review",
+            "Judicial Oversight",
+            "Discretionary Power",
+            "Sunset Clauses"
+        ],
+        "answer": "Discretionary Power",
+        "explanation": "Street-level bureaucrats (like TSA or Border Patrol agents) have discretionary power to make decisions in implementing policy on a case-by-case basis."
+    }
+]

@@ -1,0 +1,718 @@
+[
+    {
+      "id": "JAMB_C_201",
+      "text": "Which of the following is the correct electron configuration for a neutral sodium atom (atomic number = 11)?",
+      "image": "",
+      "options": [
+        "1s² 2s² 2p⁶ 3s¹",
+        "1s² 2s² 2p⁶ 3p¹",
+        "1s² 2s² 2p⁵ 3s²",
+        "1s² 2s² 2p⁶"
+      ],
+      "answer": "1s² 2s² 2p⁶ 3s¹",
+      "explanation": "Sodium has 11 electrons: the first 10 fill the 1s, 2s, 2p orbitals (2 + 2 + 6), and the 11th goes into the 3s orbital."
+    },
+    {
+      "id": "JAMB_C_202",
+      "text": "A sample of gas occupies 2.0 L at 300 K. If the temperature is increased to 600 K (at constant pressure), what is the new volume according to Charles’s law?",
+      "image": "",
+      "options": [
+        "1.0 L",
+        "2.0 L",
+        "4.0 L",
+        "6.0 L"
+      ],
+      "answer": "4.0 L",
+      "explanation": "Charles’s law: \\(V₁/T₁ = V₂/T₂\\). So \\(V₂ = V₁ × (T₂/T₁) = 2.0 L × (600/300) = 4.0 L\\)."
+    },
+    {
+      "id": "JAMB_C_203",
+      "text": "Which substance is most likely to conduct electricity when solid?",
+      "image": "",
+      "options": [
+        "Sodium chloride (NaCl)",
+        "Diamond (carbon)",
+        "Sucrose (table sugar)",
+        "Silicon dioxide (SiO₂)"
+      ],
+      "answer": "Sodium chloride (NaCl)",
+      "explanation": "In the solid state, NaCl has mobile ions and can conduct when molten or in solution, but in its crystal lattice ions are fixed; however, of the options, NaCl is ionic and more likely to conduct in non‑ideal or defect situations than covalent network solids like diamond or SiO₂."
+    },
+    {
+      "id": "JAMB_C_204",
+      "text": "When 2 moles of hydrogen react with 1 mole of oxygen to form water, how many moles of water are produced?",
+      "image": "",
+      "options": [
+        "1 mole",
+        "2 moles",
+        "3 moles",
+        "4 moles"
+      ],
+      "answer": "2 moles",
+      "explanation": "Balanced equation: \\(2 H₂ + O₂ → 2 H₂O\\). So 2 moles of water are formed."
+    },
+    {
+      "id": "JAMB_C_205",
+      "text": "Which of the following correctly defines a mole?",
+      "image": "",
+      "options": [
+        "The mass of 1 molecule of a substance",
+        "6.02 × 10²³ particles of a substance",
+        "The mass of a substance in grams equal to its atomic number",
+        "The volume of a gas under standard conditions"
+      ],
+      "answer": "6.02 × 10²³ particles of a substance",
+      "explanation": "A mole is defined as Avogadro’s number, \\(6.022 × 10^{23}\\), of particles (atoms, molecules, ions, etc.)."
+    },
+    {
+      "id": "JAMB_C_206",
+      "text": "What is the empirical formula of a compound that is 40 % sulfur and 60 % oxygen by mass?",
+      "image": "",
+      "options": [
+        "SO₂",
+        "SO₃",
+        "S₂O₃",
+        "S₃O₂"
+      ],
+      "answer": "SO₃",
+      "explanation": "Assume 100 g: 40 g S (atomic mass ≈ 32) → 1.25 mol; 60 g O (atomic mass ≈ 16) → 3.75 mol. Ratio S:O = 1.25:3.75 = 1:3, so empirical formula is SO₃."
+    },
+    {
+      "id": "JAMB_C_207",
+      "text": "Which of these changes will shift the equilibrium of the reaction \\(N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\\) to the right (towards ammonia)?",
+      "image": "",
+      "options": [
+        "Decreasing the pressure",
+        "Increasing the pressure",
+        "Adding more hydrogen at constant volume",
+        "Removing nitrogen"
+      ],
+      "answer": "Increasing the pressure",
+      "explanation": "Le Chatelier’s principle: increasing pressure favors the side with fewer gas molecules (left side has 4 moles gas, right has 2), so equilibrium shifts to produce more NH₃."
+    },
+    {
+      "id": "JAMB_C_208",
+      "text": "What is the oxidation state of chromium in \\(K₂Cr₂O₇\\)?",
+      "image": "",
+      "options": [
+        "+3",
+        "+6",
+        "+4",
+        "+2"
+      ],
+      "answer": "+6",
+      "explanation": "Let oxidation state of Cr = x. Total for 2 Cr = 2x; O gives –2 × 7 = –14; K gives +1 × 2 = +2. So 2x + 2 – 14 = 0 → 2x = +12 → x = +6."
+    },
+    {
+      "id": "JAMB_C_209",
+      "text": "Which of the following is a Brønsted–Lowry base?",
+      "image": "",
+      "options": [
+        "HCl",
+        "NH₃",
+        "H₂O (acting as acid)",
+        "CH₃COOH"
+      ],
+      "answer": "NH₃",
+      "explanation": "A Brønsted–Lowry base is a proton (H⁺) acceptor. Ammonia (NH₃) accepts H⁺ to form NH₄⁺."
+    },
+    {
+      "id": "JAMB_C_210",
+      "text": "Which pair of substances will give a buffer solution when mixed?",
+      "image": "",
+      "options": [
+        "HCl + NaCl",
+        "CH₃COOH + CH₃COONa",
+        "H₂SO₄ + Na₂SO₄",
+        "HNO₃ + NaNO₃"
+      ],
+      "answer": "CH₃COOH + CH₃COONa",
+      "explanation": "A buffer is made from a weak acid and its conjugate base (or a weak base and its conjugate acid). Acetic acid + sodium acetate is a classic example."
+    },
+    {
+      "id": "JAMB_C_211",
+      "text": "In an endothermic reaction at equilibrium, increasing the temperature will: ",
+      "image": "",
+      "options": [
+        "Shift equilibrium to the left",
+        "Shift equilibrium to the right",
+        "Have no effect on equilibrium",
+        "Decrease the rate of both forward and backward reactions equally"
+      ],
+      "answer": "Shift equilibrium to the right",
+      "explanation": "For an endothermic reaction, heat is absorbed. Increasing temperature adds heat, so the system shifts to absorb it — i.e., shift to products (right)."
+    },
+    {
+      "id": "JAMB_C_212",
+      "text": "Which of the following has the highest first ionization energy?",
+      "image": "",
+      "options": [
+        "Lithium (Li)",
+        "Beryllium (Be)",
+        "Boron (B)",
+        "Carbon (C)"
+      ],
+      "answer": "Beryllium (Be)",
+      "explanation": "Ionization energy generally increases across a period; Be (with a filled 2s) is more stable than B (which has a higher energy 2p electron), so Be’s first ionization energy is higher."
+    },
+    {
+      "id": "JAMB_C_213",
+      "text": "Which of the following molecules is nonpolar?",
+      "image": "",
+      "options": [
+        "NH₃",
+        "H₂O",
+        "CO₂",
+        "HCl"
+      ],
+      "answer": "CO₂",
+      "explanation": "CO₂ is linear and symmetric, so the dipoles from the two C=O bonds cancel out, making the molecule nonpolar."
+    },
+    {
+      "id": "JAMB_C_214",
+      "text": "What volume will 1 mole of an ideal gas occupy at standard temperature and pressure (STP, 273 K and 1 atm)? (Use R = 0.0821 L·atm/mol·K)",
+      "image": "",
+      "options": [
+        "22.4 L",
+        "24.0 L",
+        "20.0 L",
+        "18.0 L"
+      ],
+      "answer": "22.4 L",
+      "explanation": "At STP (273 K, 1 atm), one mole of an ideal gas occupies approximately 22.4 L (derived from \\(V = nRT/P\\))."
+    },
+    {
+      "id": "JAMB_C_215",
+      "text": "Which of the following is NOT a colligative property of solutions?",
+      "image": "",
+      "options": [
+        "Freezing point depression",
+        "Boiling point elevation",
+        "Osmotic pressure",
+        "Density change"
+      ],
+      "answer": "Density change",
+      "explanation": "Colligative properties depend on the number of solute particles, not their identity. Density change depends on the nature and identity of solute, not just particle count."
+    },
+    {
+      "id": "JAMB_C_216",
+      "text": "When calcium carbonate (CaCO₃) decomposes upon heating, which gas is released?",
+      "image": "",
+      "options": [
+        "O₂",
+        "CO₂",
+        "H₂S",
+        "CH₄"
+      ],
+      "answer": "CO₂",
+      "explanation": "Thermal decomposition of calcium carbonate produces calcium oxide (CaO) and carbon dioxide gas: \\(CaCO₃ → CaO + CO₂\\)."
+    },
+    {
+      "id": "JAMB_C_217",
+      "text": "In electrolysis of molten lead(II) bromide, what is produced at the cathode?",
+      "image": "",
+      "options": [
+        "Lead metal",
+        "Bromine gas",
+        "Lead oxide",
+        "Hydrogen gas"
+      ],
+      "answer": "Lead metal",
+      "explanation": "At the cathode, Pb²⁺ ions gain electrons to form Pb(s)."
+    },
+    {
+      "id": "JAMB_C_218",
+      "text": "A chemical reaction has a rate constant \\(k\\) that doubles when the temperature is raised by 10 °C. Which of the following approximations is this an example of?",
+      "image": "",
+      "options": [
+        "Arrhenius rule",
+        "Avogadro’s law",
+        "Boyle’s law",
+        "Le Chatelier’s principle"
+      ],
+      "answer": "Arrhenius rule",
+      "explanation": "The Arrhenius equation implies that reaction rate increases with temperature. A rough rule of thumb is that rate doubles every 10 °C for many reactions (though not exact for all)."
+    },
+    {
+      "id": "JAMB_C_219",
+      "text": "Which of the following statements about catalysts is FALSE?",
+      "image": "",
+      "options": [
+        "They lower the activation energy",
+        "They are consumed by the reaction",
+        "They do not change the equilibrium position",
+        "They increase the rate of both forward and reverse reactions"
+      ],
+      "answer": "They are consumed by the reaction",
+      "explanation": "Catalysts are not consumed; they remain chemically unchanged at the end of the reaction."
+    },
+    {
+      "id": "JAMB_C_220",
+      "text": "What is the pH of a 0.001 M HCl solution?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "HCl is a strong acid and fully dissociates. [H⁺] = 0.001 M = \\(10^{-3}\\) M → pH = 3."
+    },
+    {
+      "id": "JAMB_C_221",
+      "text": "Which of these molecules contains a functional group called a carbonyl?",
+      "image": "",
+      "options": [
+        "Ethanol (CH₃CH₂OH)",
+        "Methane (CH₄)",
+        "Propanal (CH₃CH₂CHO)",
+        "Ethene (CH₂=CH₂)"
+      ],
+      "answer": "Propanal (CH₃CH₂CHO)",
+      "explanation": "Propanal has a carbonyl group (C=O) at the end of the chain (an aldehyde functional group)."
+    },
+    {
+      "id": "JAMB_C_222",
+      "text": "Which of the following is true for ideal solutions?",
+      "image": "",
+      "options": [
+        "Their vapor pressures are lower than predicted by Raoult’s law",
+        "They show a positive deviation from Raoult’s law",
+        "They follow Raoult’s law exactly",
+        "They form azeotropes"
+      ],
+      "answer": "They follow Raoult’s law exactly",
+      "explanation": "In ideal solutions, intermolecular forces are identical, so vapor pressure follows Raoult’s law exactly: \\(P_i = X_i P_i^0\\)."
+    },
+    {
+      "id": "JAMB_C_223",
+      "text": "Which of these oxides is acidic in nature?",
+      "image": "",
+      "options": [
+        "CaO",
+        "Na₂O",
+        "SO₂",
+        "MgO"
+      ],
+      "answer": "SO₂",
+      "explanation": "SO₂ is a non-metal oxide that dissolves in water to form sulfurous acid (H₂SO₃), making it acidic."
+    },
+    {
+      "id": "JAMB_C_224",
+      "text": "Which of the following statements best explains why water has a high boiling point compared to H₂S?",
+      "image": "",
+      "options": [
+        "Water has a larger molecular mass than H₂S",
+        "Water is a gas at room temperature",
+        "Hydrogen bonding between water molecules",
+        "H₂S is ionic"
+      ],
+      "answer": "Hydrogen bonding between water molecules",
+      "explanation": "Water molecules form hydrogen bonds, which require more energy to break, raising its boiling point relative to H₂S (which has weaker van der Waals forces)."
+    },
+    {
+      "id": "JAMB_C_225",
+      "text": "Which principle states that equal volumes of gases, at the same temperature and pressure, contain equal numbers of molecules?",
+      "image": "",
+      "options": [
+        "Gay-Lussac’s law",
+        "Charles’s law",
+        "Avogadro’s law",
+        "Dalton’s law"
+      ],
+      "answer": "Avogadro’s law",
+      "explanation": "Avogadro’s law asserts that equal volumes of different gases at the same T and P contain the same number of molecules."
+    },
+    {
+      "id": "JAMB_C_226",
+      "text": "In the reaction \\(2NO₂(g) ⇌ N₂O₄(g)\\), the volume is decreased. According to Le Chatelier’s principle, which way will the equilibrium shift?",
+      "image": "",
+      "options": [
+        "To the left (towards NO₂)",
+        "To the right (towards N₂O₄)",
+        "Remains unchanged",
+        "Equilibrium is broken"
+      ],
+      "answer": "To the right (towards N₂O₄)",
+      "explanation": "Reducing volume increases pressure, favoring the side with fewer gas molecules. NO₂ has 2, N₂O₄ has 1, so equilibrium shifts to make more N₂O₄."
+    },
+    {
+      "id": "JAMB_C_227",
+      "text": "Which of the following statements is correct about isotopes?",
+      "image": "",
+      "options": [
+        "They have different atomic numbers.",
+        "They have different chemical properties.",
+        "They have the same number of protons but different numbers of neutrons.",
+        "They have the same mass number."
+      ],
+      "answer": "They have the same number of protons but different numbers of neutrons.",
+      "explanation": "Isotopes are variants of the same element (same atomic number = same protons) but with different neutrons, so different mass numbers."
+    },
+    {
+      "id": "JAMB_C_228",
+      "text": "Which of these statements best describes a dynamic equilibrium?",
+      "image": "",
+      "options": [
+        "The concentrations of reactants and products are equal all the time.",
+        "The forward and reverse reaction rates are equal.",
+        "Only the forward reaction continues once equilibrium is reached.",
+        "No reaction occurs at equilibrium."
+      ],
+      "answer": "The forward and reverse reaction rates are equal.",
+      "explanation": "At dynamic equilibrium, although reactants and products may be present, their interconversion continues at equal rates, so macroscopic properties remain constant."
+    },
+    {
+      "id": "JAMB_C_229",
+      "text": "Which of the following elements has the greatest metallic character?",
+      "image": "",
+      "options": [
+        "Fluorine (F)",
+        "Nitrogen (N)",
+        "Sodium (Na)",
+        "Chlorine (Cl)"
+      ],
+      "answer": "Sodium (Na)",
+      "explanation": "Metallic character increases down a group and decreases across a period. Sodium is a metal, whereas F, N, Cl are non‑metals."
+    },
+    {
+      "id": "JAMB_C_230",
+      "text": "In the compound \\(CH₃CH₂COOH\\), which functional group is present?",
+      "image": "",
+      "options": [
+        "Alcohol",
+        "Aldehyde",
+        "Carboxylic acid",
+        "Amine"
+      ],
+      "answer": "Carboxylic acid",
+      "explanation": "The –COOH group is the carboxylic acid functional group, present in propanoic acid (CH₃CH₂COOH)."
+    },
+    {
+      "id": "JAMB_C_231",
+      "text": "Which of these is a halogen?",
+      "image": "",
+      "options": [
+        "Sodium (Na)",
+        "Oxygen (O₂)",
+        "Chlorine (Cl₂)",
+        "Phosphorus (P)"
+      ],
+      "answer": "Chlorine (Cl₂)",
+      "explanation": "Halogens are the Group 17 elements. Cl₂ is a diatomic molecule of chlorine, a halogen."
+    },
+    {
+      "id": "JAMB_C_232",
+      "text": "Which reagent is used to test for unsaturation (double bonds) in an organic compound?",
+      "image": "",
+      "options": [
+        "Br₂ in CCl₄ (bromine test)",
+        "AgNO₃ in NH₃ (Tollens’ reagent)",
+        "KMnO₄ (cold, dilute)",
+        "Both A and C"
+      ],
+      "answer": "Both A and C",
+      "explanation": "Both cold, dilute KMnO₄ and bromine in CCl₄ decolourize in presence of C=C double bonds, indicating unsaturation."
+    },
+    {
+      "id": "JAMB_C_233",
+      "text": "Which of the following statements is true of a buffer solution composed of a weak acid and its salt?",
+      "image": "",
+      "options": [
+        "It resists change in pH when small amounts of acid or base are added.",
+        "It maintains pH only when base is added.",
+        "It immediately neutralizes all added acid or base.",
+        "It gradually changes pH with addition of acid but not base."
+      ],
+      "answer": "It resists change in pH when small amounts of acid or base are added.",
+      "explanation": "A buffer works by neutralizing added H⁺ or OH⁻, minimizing pH change on addition of a small amount of acid or base."
+    },
+    {
+      "id": "JAMB_C_234",
+      "text": "Which gas is evolved when dilute hydrochloric acid reacts with zinc metal?",
+      "image": "",
+      "options": [
+        "O₂",
+        "H₂",
+        "Cl₂",
+        "CO₂"
+      ],
+      "answer": "H₂",
+      "explanation": "Zinc metal reacts with HCl to form zinc chloride and hydrogen gas: \\(Zn + 2HCl → ZnCl₂ + H₂\\)."
+    },
+    {
+      "id": "JAMB_C_235",
+      "text": "Which bond has the greatest difference in electronegativity, and so is most ionic in character?",
+      "image": "",
+      "options": [
+        "H–Cl",
+        "Na–Cl",
+        "C–H",
+        "O–H"
+      ],
+      "answer": "Na–Cl",
+      "explanation": "Sodium (Na) is a metal and chlorine (Cl) is a non‑metal; their electronegativities differ significantly, leading to a very ionic bond."
+    },
+    {
+      "id": "JAMB_C_236",
+      "text": "In the gas-phase reaction \\(2SO₂ + O₂ ⇌ 2SO₃\\), which condition will favor the forward reaction (to the right) according to Le Chatelier’s principle?",
+      "image": "",
+      "options": [
+        "Removal of O₂",
+        "Increase in temperature",
+        "Increase in pressure",
+        "Addition of inert gas at constant volume"
+      ],
+      "answer": "Increase in pressure",
+      "explanation": "There are fewer moles of gas on the right (3 moles left → 2 moles right), so increasing pressure shifts equilibrium to the right to produce more SO₃."
+    },
+    {
+      "id": "JAMB_C_237",
+      "text": "Which of the following is true for an exothermic reaction?",
+      "image": "",
+      "options": [
+        "Heat is absorbed by the system.",
+        "ΔH is positive.",
+        "Heat is released to the surroundings.",
+        "The reaction never reaches equilibrium."
+      ],
+      "answer": "Heat is released to the surroundings.",
+      "explanation": "An exothermic reaction releases heat, so the system gives off energy; ΔH < 0 for exothermic processes."
+    },
+    {
+      "id": "JAMB_C_238",
+      "text": "Which of the following describes the phenomenon where a liquid changes into a gas at the surface, below its boiling point?",
+      "image": "",
+      "options": [
+        "Condensation",
+        "Vaporization",
+        "Sublimation",
+        "Evaporation"
+      ],
+      "answer": "Evaporation",
+      "explanation": "Evaporation occurs at the surface of a liquid and can happen at any temperature below the boiling point."
+    },
+    {
+      "id": "JAMB_C_239",
+      "text": "What is the relative molecular mass (Mr) of glucose, C₆H₁₂O₆? (C = 12, H = 1, O = 16)",
+      "image": "",
+      "options": [
+        "180",
+        "162",
+        "150",
+        "200"
+      ],
+      "answer": "180",
+      "explanation": "Mr = (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180."
+    },
+    {
+      "id": "JAMB_C_240",
+      "text": "Which of the following is a physical change?",
+      "image": "",
+      "options": [
+        "Rusting of iron",
+        "Combustion of methane",
+        "Dissolving sugar in water",
+        "Neutralisation of acid and base"
+      ],
+      "answer": "Dissolving sugar in water",
+      "explanation": "Dissolving sugar in water changes the physical state but does not alter the chemical identity of sugar (no new chemical substance is formed)."
+    },
+    {
+      "id": "JAMB_C_241",
+      "text": "Which is the correct IUPAC name for the compound CH₃–CH₂–CH₂–OH?",
+      "image": "",
+      "options": [
+        "Propanol",
+        "1‑Propanol",
+        "2‑Propanol",
+        "Propan‑1‑ol"
+      ],
+      "answer": "Propan‑1‑ol",
+      "explanation": "The OH group is on the first carbon in a three‑carbon chain, so the correct IUPAC name is propan‑1‑ol."
+    },
+    {
+      "id": "JAMB_C_242",
+      "text": "Which of these is the major product when propene (CH₃CH=CH₂) burns completely in oxygen?",
+      "image": "",
+      "options": [
+        "CO + H₂O",
+        "CH₃CHO + H₂O",
+        "CO₂ + H₂O",
+        "C + H₂O"
+      ],
+      "answer": "CO₂ + H₂O",
+      "explanation": "Complete combustion (sufficient oxygen) of a hydrocarbon gives carbon dioxide (CO₂) and water (H₂O)."
+    },
+    {
+      "id": "JAMB_C_243",
+      "text": "Which reagent would you use to distinguish between an aldehyde and a ketone?",
+      "image": "",
+      "options": [
+        "Bromine in CCl₄",
+        "Br₂/H₂O (bromine water)",
+        "Tollens’ reagent (Ag⁺/NH₃)",
+        "Acidified KMnO₄"
+      ],
+      "answer": "Tollens’ reagent (Ag⁺/NH₃)",
+      "explanation": "Tollens’ reagent oxidizes aldehydes to carboxylates, producing a silver mirror, but does not oxidize most ketones."
+    },
+    {
+      "id": "JAMB_C_244",
+      "text": "Which of the following best describes the behavior of gases according to the kinetic molecular theory?",
+      "image": "",
+      "options": [
+        "Gas molecules move randomly and collide elastically.",
+        "Gas molecules are stationary and only vibrate in place.",
+        "Gas molecules have significant volume compared to the container.",
+        "Gas molecules attract each other strongly."
+      ],
+      "answer": "Gas molecules move randomly and collide elastically.",
+      "explanation": "One of the postulates of the kinetic molecular theory is that gas molecules move in random straight-line motion and collide elastically (no net loss of kinetic energy)."
+    },
+    {
+      "id": "JAMB_C_245",
+      "text": "Which of the following elements is a metalloid?",
+      "image": "",
+      "options": [
+        "Sodium (Na)",
+        "Silicon (Si)",
+        "Calcium (Ca)",
+        "Sulfur (S)"
+      ],
+      "answer": "Silicon (Si)",
+      "explanation": "Silicon exhibits properties intermediate between metals and nonmetals, making it a metalloid."
+    },
+    {
+      "id": "JAMB_C_246",
+      "text": "Which statement is correct about molecular orbitals in the hydrogen molecule (H₂)?",
+      "image": "",
+      "options": [
+        "The bonding molecular orbital is higher in energy than the antibonding orbital.",
+        "There is no antibonding orbital formed.",
+        "The bonding molecular orbital is lower in energy than the original atomic orbitals.",
+        "Electrons in H₂ occupy only antibonding orbitals."
+      ],
+      "answer": "The bonding molecular orbital is lower in energy than the original atomic orbitals.",
+      "explanation": "When two hydrogen 1s orbitals combine, the bonding orbital has lower energy (stable), and the antibonding orbital has higher energy."
+    },
+    {
+      "id": "JAMB_C_247",
+      "text": "Which of the following is most likely to be a reducing agent?",
+      "image": "",
+      "options": [
+        "KMnO₄ (in acidic solution)",
+        "Fe²⁺",
+        "H₂O₂ (hydrogen peroxide)",
+        "Cl₂ (chlorine gas)"
+      ],
+      "answer": "Fe²⁺",
+      "explanation": "A reducing agent donates electrons. Fe²⁺ can be oxidized to Fe³⁺, so it acts as a reducing agent."
+    },
+    {
+      "id": "JAMB_C_248",
+      "text": "What mass of water (H₂O) is produced when 8 g of hydrogen gas reacts with 64 g of oxygen gas? (Atomic mass: H = 1, O = 16)",
+      "image": "",
+      "options": [
+        "72 g",
+        "80 g",
+        "16 g",
+        "8 g"
+      ],
+      "answer": "72 g",
+      "explanation": "Balanced reaction: \\(2H₂ + O₂ → 2H₂O\\). 8 g H₂ is 4 mol; 64 g O₂ is 2 mol. H₂ is limiting (needs 1 O₂ for 2 H₂ but we have enough). 4 mol H₂ produce 4 mol H₂O, mass = 4 × (2×1 + 16) = 4 × 18 = 72 g."
+    },
+    {
+      "id": "JAMB_C_249",
+      "text": "Which is the strongest type of intermolecular force among the following molecules: NH₃, CH₄, H₂O, CO₂?",
+      "image": "",
+      "options": [
+        "Dispersion forces in CH₄",
+        "Dipole-dipole in CO₂",
+        "Hydrogen bonding in H₂O",
+        "Ionic bonding in NH₃"
+      ],
+      "answer": "Hydrogen bonding in H₂O",
+      "explanation": "Water (H₂O) molecules engage in hydrogen bonding, which is stronger than dispersion or dipole-dipole interactions in the other molecules listed."
+    },
+    {
+      "id": "JAMB_C_250",
+      "text": "Which of these describes a decomposition reaction?",
+      "image": "",
+      "options": [
+        "A + B → AB",
+        "AB → A + B",
+        "A + BC → AC + B",
+        "AB + C → A + BC"
+      ],
+      "answer": "AB → A + B",
+      "explanation": "A decomposition reaction involves a single compound breaking down into two or more simpler substances."
+    },
+    {
+      "id": "JAMB_C_251",
+      "text": "Which method would you use to separate a mixture of salt (NaCl) dissolved in water from sand (insoluble solid)?",
+      "image": "",
+      "options": [
+        "Filtration followed by evaporation",
+        "Distillation directly",
+        "Sublimation",
+        "Chromatography"
+      ],
+      "answer": "Filtration followed by evaporation",
+      "explanation": "First, filter to remove the sand (insoluble). Then evaporate the water to recover the salt."
+    },
+    {
+      "id": "JAMB_C_252",
+      "text": "Which of the following has the lowest boiling point?",
+      "image": "",
+      "options": [
+        "H₂O",
+        "NH₃",
+        "CH₄",
+        "H₂S"
+      ],
+      "answer": "CH₄",
+      "explanation": "Methane (CH₄) is nonpolar and has only weak London dispersion forces, giving it a very low boiling point compared to polar molecules like H₂O and NH₃."
+    },
+    {
+      "id": "JAMB_C_253",
+      "text": "Which element has the largest atomic radius in each of these: Li, Na, K, Rb?",
+      "image": "",
+      "options": [
+        "Li",
+        "Na",
+        "K",
+        "Rb"
+      ],
+      "answer": "Rb",
+      "explanation": "Atomic radius increases down a group. Rubidium (Rb) is the furthest down among the listed elements, so it has the largest radius."
+    },
+    {
+      "id": "JAMB_C_254",
+      "text": "Which of the following statements best describes the acid‑base theory of Lewis?",
+      "image": "",
+      "options": [
+        "Acids are proton donors, bases are proton acceptors.",
+        "Acids accept electron pairs, bases donate electron pairs.",
+        "Acids increase [H⁺], bases increase [OH⁻].",
+        "Acids release hydroxide ions, bases release hydronium ions."
+      ],
+      "answer": "Acids accept electron pairs, bases donate electron pairs.",
+      "explanation": "According to Lewis theory, acids are electron-pair acceptors, and bases are electron-pair donors."
+    },
+    {
+      "id": "JAMB_C_255",
+      "text": "In which of these processes does water act as both an acid and a base?",
+      "image": "",
+      "options": [
+        "When reacting with HCl (forming H₃O⁺ and Cl⁻)",
+        "When reacting with NH₃ (forming NH₄⁺ and OH⁻)",
+        "When reacting with itself (autoionization)",
+        "When reacting with NaOH"
+      ],
+      "answer": "When reacting with itself (autoionization)",
+      "explanation": "In the autoionization of water, one water molecule donates a proton (acts as acid) and another accepts a proton (acts as base): \\(2H₂O ⇌ H₃O⁺ + OH⁻\\)."
+    }
+  ]
+  

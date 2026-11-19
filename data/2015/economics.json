@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E9001",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Federal}$ $\\textbf{Reserve}$ made history in $\\textbf{December}$ $\\textbf{2015}$ by raising the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ for the $\\textbf{first}$ $\\textbf{time}$ since $\\textbf{2006}$.",
+        "image": "",
+        "options": [
+            "June 2015",
+            "December 2015",
+            "March 2016",
+            "October 2014"
+        ],
+        "answer": "December 2015",
+        "explanation": "This hike was the final step in exiting the zero-interest rate policy (ZIRP) that began during the 2008 Financial Crisis."
+    },
+    {
+        "id": "E9002",
+        "text": "The $\\textbf{magnitude}$ of the $\\textbf{first}$ $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{hike}$ in $\\textbf{December}$ $\\textbf{2015}$ was $\\textbf{25}$ $\\textbf{basis}$ $\\textbf{points}$ (0.25%), moving the target range to $\\textbf{0.25}\\%$-$\\textbf{0.50}\\%$.",
+        "image": "",
+        "options": [
+            "100 basis points (1.00%)",
+            "25 basis points (0.25%)",
+            "50 basis points (0.50%)",
+            "10 basis points (0.10%)"
+        ],
+        "answer": "25 basis points (0.25%)",
+        "explanation": "The modest increase was designed to signal a return to normalcy without shocking the economy."
+    },
+    {
+        "id": "E9003",
+        "text": "The $\\textbf{Greek}$ $\\textbf{Debt}$ $\\textbf{Crisis}$ reached a $\\textbf{boiling}$ $\\textbf{point}$ in $\\textbf{July}$ $\\textbf{2015}$ when Prime Minister $\\textbf{Alexis}$ $\\textbf{Tsipras}$ called a $\\textbf{referendum}$ on $\\textbf{austerity}$ $\\textbf{measures}$.",
+        "image": "",
+        "options": [
+            "A sudden spike in oil prices",
+            "The German election",
+            "Prime Minister Alexis Tsipras calling a referendum on austerity measures",
+            "The launch of the Euro"
+        ],
+        "answer": "Prime Minister Alexis Tsipras calling a referendum on austerity measures",
+        "explanation": "The 'OXI' (No) vote result created immense political tension with creditors and raised the specter of 'Grexit'."
+    },
+    {
+        "id": "E9004",
+        "text": "The $\\textbf{Shanghai}$ $\\textbf{Composite}$ $\\textbf{Index}$ suffered a massive $\\textbf{stock}$ $\\textbf{market}$ $\\textbf{crash}$ in $\\textbf{mid-2015}$, peaking in June and $\\textbf{losing}$ approximately $\\textbf{30}\\%$ of its value in three weeks.",
+        "image": "",
+        "options": [
+            "Tokyo Nikkei",
+            "London FTSE",
+            "Shanghai Composite Index",
+            "Frankfurt DAX"
+        ],
+        "answer": "Shanghai Composite Index",
+        "explanation": "The crash followed a year-long speculative bubble, threatening the savings of millions of retail investors."
+    },
+    {
+        "id": "E9005",
+        "text": "In $\\textbf{March}$ $\\textbf{2015}$, the $\\textbf{European}$ $\\textbf{Central}$ $\\textbf{Bank}$ ($\\textbf{ECB}$) finally launched its $\\textbf{full-scale}$ $\\textbf{Quantitative}$ $\\textbf{Easing}$ ($\\textbf{QE}$) program to fight $\\textbf{deflation}$.",
+        "image": "",
+        "options": [
+            "January 2014",
+            "March 2015",
+            "September 2016",
+            "December 2017"
+        ],
+        "answer": "March 2015",
+        "explanation": "The QE program was delayed compared to the U.S. and Japan due to political opposition, but deflationary pressures finally forced the action."
+    },
+    {
+        "id": "E9006",
+        "text": "The $\\textbf{primary}$ $\textbf{reason}$ the $\\textbf{Fed}$ cited for its $\\textbf{December}$ $\\textbf{2015}$ $\\textbf{rate}$ $\\textbf{hike}$ was the $\\textbf{continued}$ $\\textbf{improvement}$ in the $\\textbf{labor}$ $\\textbf{market}$, with the unemployment rate nearing $\\textbf{5}\\%$.",
+        "image": "",
+        "options": [
+            "The collapse of the housing market",
+            "The continued improvement in the labor market",
+            "A sudden spike in inflation",
+            "High commodity prices"
+        ],
+        "answer": "The continued improvement in the labor market",
+        "explanation": "The Fed deemed that the economy was finally strong enough to begin normalization, even though inflation remained low."
+    },
+    {
+        "id": "E9007",
+        "text": "Following the $\\textbf{referendum}$ vote, $\\textbf{Greece}$ introduced $\\textbf{capital}$ $\\textbf{controls}$, which limited $\\textbf{cash}$ $\\textbf{withdrawals}$ and $\\textbf{money}$ $\\textbf{transfers}$ abroad to prevent $\\textbf{bank}$ $\\textbf{runs}$.",
+        "image": "",
+        "options": [
+            "A currency devaluation",
+            "Capital controls",
+            "Nationalization of all industries",
+            "A trade surplus"
+        ],
+        "answer": "Capital controls",
+        "explanation": "The political uncertainty caused by the 'OXI' vote led to massive deposit withdrawals, forcing the government to restrict access to money."
+    },
+    {
+        "id": "E9008",
+        "text": "The $\\textbf{China}$ $\\textbf{stock}$ $\\textbf{market}$ $\\textbf{crash}$ was $\\textbf{exacerbated}$ by $\\textbf{leveraged}$ $\\textbf{investing}$ and high levels of **margin** $\\textbf{lending}$, making the market highly vulnerable to selling pressure.",
+        "image": "",
+        "options": [
+            "Lack of foreign investment",
+            "High levels of margin lending",
+            "Slow corporate profit growth",
+            "Low interest rates"
+        ],
+        "answer": "High levels of margin lending",
+        "explanation": "Many investors were borrowing money to buy stocks, and when prices dropped, margin calls forced mass selling."
+    },
+    {
+        "id": "E9009",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{initial}$ $\\textbf{monthly}$ $\\textbf{purchase}$ $\\textbf{target}$ for its $\\textbf{QE}$ program starting in $\\textbf{March}$ $\\textbf{2015}$ was **€60 billion** of public and private sector bonds.",
+        "image": "",
+        "options": [
+            "€10 billion",
+            "€60 billion",
+            "€100 billion",
+            "€250 billion"
+        ],
+        "answer": "€60 billion",
+        "explanation": "This was a massive stimulus package intended to last until September 2016, or until inflation was on a sustained path to 2%."
+    },
+    {
+        "id": "E9010",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Dollar}$ $\\textbf{Index}$ saw a $\\textbf{major}$ $\\textbf{strengthening}$ in $\\textbf{2015}$, primarily due to the $\\textbf{rate}$ $\\textbf{hike}$ and the $\\textbf{ECB}$'s $\\textbf{QE}$ and $\\textbf{negative}$ $\\textbf{rate}$ $\\textbf{policies}$.",
+        "image": "",
+        "options": [
+            "A major weakening",
+            "A major strengthening",
+            "No change",
+            "A fixed peg to the Euro"
+        ],
+        "answer": "A major strengthening",
+        "explanation": "Diverging monetary policies (tightening in the U.S., loosening in the Eurozone/Japan) made the dollar much more attractive globally."
+    },
+    {
+        "id": "E9011",
+        "text": "The $\\textbf{near}$ $\\textbf{Grexit}$ event in $\\textbf{2015}$ was resolved when $\\textbf{Greece}$ accepted a $\\textbf{third}$ $\\textbf{bailout}$ $\\textbf{package}$ from the Eurozone creditors worth approximately $\\textbf{€86}$ $\\textbf{billion}$.",
+        "image": "",
+        "options": [
+            "A trade deal with China",
+            "A full exit from the Eurozone",
+            "A third bailout package from the Eurozone creditors",
+            "The nationalization of all German banks"
+        ],
+        "answer": "A third bailout package from the Eurozone creditors",
+        "explanation": "Despite the referendum, Greece ultimately had to accept more austerity to stay in the currency union."
+    },
+    {
+        "id": "E9012",
+        "text": "China's $\\textbf{surprise}$ $\\textbf{devaluation}$ of the $\\textbf{Yuan}$ ($\\textbf{CNY}$) in $\\textbf{August}$ $\\textbf{2015}$ was widely interpreted as an attempt to $\\textbf{boost}$ $\\textbf{exports}$ amid a domestic $\\textbf{economic}$ $\\textbf{slowdown}$.",
+        "image": "",
+        "options": [
+            "To attract more foreign tourists",
+            "To boost exports amid a domestic economic slowdown",
+            "To combat hyperinflation",
+            "To fix its currency to the U.S. dollar"
+        ],
+        "answer": "To boost exports amid a domestic economic slowdown",
+        "explanation": "A weaker Yuan makes Chinese goods cheaper abroad, helping exporters at a time when industrial production was slowing."
+    },
+    {
+        "id": "E9013",
+        "text": "The $\\textbf{major}$ $\textbf{effect}$ of the $\\textbf{ECB}$'s $\\textbf{QE}$ on $\\textbf{Eurozone}$ $\\textbf{bond}$ $\\textbf{markets}$ was that $\\textbf{many}$ $\\textbf{sovereign}$ $\\textbf{bond}$ $\\textbf{yields}$ (like Germany's) turned $\\textbf{negative}$.",
+        "image": "",
+        "options": [
+            "Inflation spiked rapidly",
+            "Many sovereign bond yields turned negative",
+            "The Euro collapsed",
+            "Interest rates rose sharply"
+        ],
+        "answer": "Many sovereign bond yields turned negative",
+        "explanation": "The massive demand created by the ECB's buying spree pushed bond prices up and yields down, sometimes into negative territory."
+    },
+    {
+        "id": "E9014",
+        "text": "The $\\textbf{Fed}$'s $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{hike}$ in $\\textbf{2015}$ used $\\textbf{two}$ $\\textbf{primary}$ $\\textbf{tools}$ to target the Federal Funds Rate: the $\\textbf{Interest}$ $\\textbf{on}$ $\\textbf{Excess}$ $\\textbf{Reserves}$ ($\\textbf{IOER}$) and $\\textbf{Reverse}$ $\\textbf{Repo}$ $\\textbf{Operations}$.",
+        "image": "",
+        "options": [
+            "Only the discount rate",
+            "Only buying long-term bonds",
+            "The Interest on Excess Reserves (IOER) and Reverse Repo Operations",
+            "Changing reserve requirements"
+        ],
+        "answer": "The Interest on Excess Reserves (IOER) and Reverse Repo Operations",
+        "explanation": "Since the crisis, the Fed moved to a 'floor system' for managing rates, using IOER as the primary tool and reverse repos to drain excess liquidity."
+    },
+    {
+        "id": "E9015",
+        "text": "The $\\textbf{ECB}$ $\\textbf{limited}$ $\\textbf{Emergency}$ $\\textbf{Liquidity}$ $\\textbf{Assistance}$ ($\\textbf{ELA}$) to $\\textbf{Greek}$ $\\textbf{banks}$ in $\\textbf{July}$ $\\textbf{2015}$, which led directly to the imposition of $\\textbf{capital}$ $\\textbf{controls}$.",
+        "image": "",
+        "options": [
+            "Extended unlimited ELA",
+            "Limited Emergency Liquidity Assistance (ELA)",
+            "Bought Greek sovereign bonds",
+            "Fixed the exchange rate"
+        ],
+        "answer": "Limited Emergency Liquidity Assistance (ELA)",
+        "explanation": "By limiting the ELA, the ECB essentially forced the Greek government's hand to secure a new bailout or face bank collapse."
+    },
+    {
+        "id": "E9016",
+        "text": "The $\\textbf{Oil}$ $\\textbf{Price}$ $\\textbf{Collapse}$ that began in late 2014 $\\textbf{continued}$ through $\\textbf{2015}$, reaching $\\textbf{multi-year}$ $\\textbf{lows}$ near $\\textbf{\\$30}$ $\\textbf{per}$ $\\textbf{barrel}$ by year-end, driven by $\\textbf{oversupply}$.",
+      "image": "",
+        "options": [
+            "Increased dramatically to $150/barrel",
+            "Continued its collapse to multi-year lows",
+            "Stabilized around $90/barrel",
+            "Was nationalized by the U.S. government"
+        ],
+        "answer": "Continued its collapse to multi-year lows",
+        "explanation": "Despite the drop, OPEC (led by Saudi Arabia) continued to produce at high levels, keeping the market flooded."
+    },
+    {
+        "id": "E9017",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Corporate}$ $\textbf{Sector}$ faced $\\textbf{headwinds}$ in $\\textbf{2015}$ from the $\\textbf{stronger}$ $\\textbf{U.S.}$ $\\textbf{Dollar}$, which $\\textbf{reduced}$ the value of $\\textbf{foreign}$ $\\textbf{earnings}$ when $\\textbf{repatriated}$.",
+        "image": "",
+        "options": [
+            "Higher corporate taxes",
+            "The stronger U.S. Dollar",
+            "A major trade war",
+            "Falling labor costs"
+        ],
+        "answer": "The stronger U.S. Dollar",
+        "explanation": "A strong dollar makes U.S. exports more expensive and lowers the dollar-equivalent value of international sales, negatively impacting multinational earnings."
+    },
+    {
+    "id": "E9018",
+    "text": "In response to the $\\textbf{stock}$ $\\textbf{market}$ $\\textbf{crash}$, the $\\textbf{Chinese}$ $\\textbf{government}$ deployed $\\textbf{massive}$ $\\textbf{intervention}$ $\\textbf{measures}$, including $\\textbf{direct}$ $\\textbf{purchases}$ of shares and $\\textbf{banning}$ $\\textbf{short}$ $\\textbf{selling}$.",
+    "image": "",
+    "options": [
+        "A tax increase on wealthy investors",
+        "Direct purchases of shares and banning short selling",
+        "A full currency devaluation",
+        "Immediate interest rate hikes"
+    ],
+    "answer": "Direct purchases of shares and banning short selling",
+    "explanation": "These unprecedented actions aimed to restore market stability, but also raised questions about market freedom and transparency."
+    },
+    {
+        "id": "E9019",
+        "text": "The $\\textbf{strongest}$ $\textbf{argument}$ against the $\\textbf{Fed}$'s $\\textbf{rate}$ $\\textbf{hike}$ in $\\textbf{2015}$ was the persistent $\\textbf{low}$ $\\textbf{level}$ of $\\textbf{inflation}$, which remained well $\\textbf{below}$ the $\\textbf{2}\\%$ $\\textbf{target}$.",
+        "image": "",
+        "options": [
+            "High unemployment rate",
+            "Persistent low level of inflation",
+            "A booming housing market",
+            "The Eurozone collapse"
+        ],
+        "answer": "Persistent low level of inflation",
+        "explanation": "Critics argued that raising rates while inflation was so low risked choking off the recovery prematurely."
+    },
+    {
+        "id": "E9020",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{QE}$ program $\\textbf{differed}$ from the $\\textbf{Fed}$'s $\\textbf{QE}$ in that the $\\textbf{ECB}$ was legally $\\textbf{prohibited}$ from $\\textbf{buying}$ more than $\\textbf{one-third}$ ($\\textbf{33\\%}$) of any $\\textbf{single}$ $\\textbf{country}$'s $\\textbf{eligible}$ $\\textbf{debt}$.",
+        "image": "",
+        "options": [
+            "They only bought corporate bonds",
+            "It was legally prohibited from buying more than one-third (33%) of any single country's eligible debt",
+            "It was focused only on housing debt",
+            "It was fully backed by gold reserves"
+        ],
+        "answer": "It was legally prohibited from buying more than one-third (33%) of any single country's eligible debt",
+        "explanation": "This self-imposed limit was intended to maintain the pressure on member states to implement structural reforms."
+    },
+    {
+        "id": "E9021",
+        "text": "The $\\textbf{official}$ $\textbf{outcome}$ of the $\\textbf{Greek}$ $\\textbf{referendum}$ on $\\textbf{austerity}$ in $\\textbf{July}$ $\\textbf{2015}$ was a decisive $\\textbf{rejection}$ ($\\textbf{'OXI'}$ $\\textbf{vote}$) of the $\\textbf{creditors}$' $\\textbf{terms}$.",
+        "image": "",
+        "options": [
+            "A narrow acceptance of the terms",
+            "A decisive rejection ('OXI' vote) of the creditors' terms",
+            "A vote to leave the Eurozone",
+            "A tie vote"
+        ],
+        "answer": "A decisive rejection ('OXI' vote) of the creditors' terms",
+        "explanation": "Despite the mandate from the people, the Greek government ultimately returned to the negotiating table and accepted a more severe deal."
+    },
+    {
+        "id": "E9022",
+        "text": "The $\\textbf{Chinese}$ $\\textbf{Yuan}$ $\\textbf{devaluation}$ in $\\textbf{August}$ $\\textbf{2015}$ sparked global fears of a $\\textbf{currency}$ $\\textbf{war}$ and led to a sharp sell-off in $\\textbf{Emerging}$ $\\textbf{Market}$ $\\textbf{currencies}$.",
+        "image": "",
+        "options": [
+            "A global trade boom",
+            "Global fears of a currency war",
+            "A sharp rise in commodity prices",
+            "Massive investment in U.S. Treasury bonds"
+        ],
+        "answer": "Global fears of a currency war",
+        "explanation": "If China aggressively devalued its currency, other nations might follow suit to keep their exports competitive, sparking a damaging cycle of competitive devaluations."
+    },
+    {
+        "id": "E9023",
+        "text": "The $\\textbf{continued}$ $\textbf{oil}$ $\textbf{price}$ $\\textbf{decline}$ in $\\textbf{2015}$ $\\textbf{accelerated}$ $\\textbf{deflationary}$ $\\textbf{pressures}$ in the $\\textbf{Eurozone}$ and globally by $\\textbf{reducing}$ $\\textbf{energy}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Massively boosted global inflation",
+            "Accelerated deflationary pressures",
+            "Had no impact on global prices",
+            "Only affected U.S. prices"
+        ],
+        "answer": "Accelerated deflationary pressures",
+        "explanation": "The drop in oil prices translated directly into lower prices for transport and energy, pulling overall inflation lower and frustrating the ECB's goals."
+    },
+    {
+        "id": "E9024",
+        "text": "In $\\textbf{2015}$, $\\textbf{Janet}$ $\\textbf{Yellen}$ stressed that future $\\textbf{rate}$ $\\textbf{hikes}$ would be $\\textbf{data-dependent}$ and $\\textbf{gradual}$, a communications strategy aimed at minimizing $\\textbf{market}$ $\\textbf{volatility}$.",
+        "image": "",
+        "options": [
+            "Quick and sharp",
+            "Automatic and large",
+            "Data-dependent and gradual",
+            "Limited to the discount rate"
+        ],
+        "answer": "Data-dependent and gradual",
+        "explanation": "The Fed wanted to avoid the 'Taper Tantrum' reaction and ensure markets understood that policy would remain accommodative."
+    },
+    {
+        "id": "E9025",
+        "text": "The $\\textbf{Grexit}$ $\\textbf{crisis}$ caused $\\textbf{bond}$ $\\textbf{yields}$ in $\\textbf{peripheral}$ $\\textbf{Eurozone}$ countries (like $\\textbf{Italy}$ and $\\textbf{Spain}$) to $\\textbf{spike}$ briefly due to $\\textbf{contagion}$ $\\textbf{fears}$.",
+        "image": "",
+        "options": [
+            "Fall to negative territory",
+            "Spike briefly due to contagion fears",
+            "Remain completely stable",
+            "Trade only in gold"
+        ],
+        "answer": "Spike briefly due to contagion fears",
+        "explanation": "If Greece left the Euro, investors feared that other financially weak countries might be next, leading to a temporary sell-off in their bonds."
+    },
+    {
+        "id": "E9026",
+        "text": "The $\\textbf{U.S.}$ $\textbf{budget}$ $\textbf{deficit}$ as a $\\textbf{percentage}$ of $\\textbf{GDP}$ continued to $\\textbf{shrink}$ in $\\textbf{2015}$, reaching its $\\textbf{lowest}$ $\\textbf{level}$ since $\\textbf{2007}$.",
+        "image": "",
+        "options": [
+            "Expand to record levels",
+            "Shrink to its lowest level since 2007",
+            "Was zero",
+            "Was larger than the national debt"
+        ],
+        "answer": "Shrink to its lowest level since 2007",
+        "explanation": "Increased tax revenues from a strengthening economy and continued fiscal restraint kept the deficit declining."
+    },
+    {
+        "id": "E9027",
+        "text": "The $\\textbf{ECB}$'s $\\textbf{QE}$ program primarily purchased $\\textbf{government}$ $\\textbf{bonds}$ (Public Sector Purchase Programme, PSPP) from $\\textbf{Eurozone}$ $\\textbf{member}$ $\\textbf{states}$.",
+        "image": "",
+        "options": [
+            "Corporate stock only",
+            "U.S. Treasury bonds",
+            "Government bonds (Public Sector Purchase Programme, PSPP)",
+            "Gold futures"
+        ],
+        "answer": "Government bonds (Public Sector Purchase Programme, PSPP)",
+        "explanation": "While it also bought some private assets, the vast majority of the purchases were public debt."
+    },
+    {
+        "id": "E9028",
+        "text": "The $\\textbf{economic}$ $\textbf{effect}$ of the $\\textbf{oil}$ $\\textbf{price}$ $\\textbf{decline}$ in $\\textbf{2015}$ on the $\\textbf{U.S.}$ was mixed: a $\\textbf{positive}$ $\\textbf{boost}$ to $\\textbf{consumers}$ offset by a $\\textbf{negative}$ $\\textbf{drag}$ on $\\textbf{energy}$ $\\textbf{investment}$.",
+        "image": "",
+        "options": [
+            "Massively positive for all sectors",
+            "Mixed: a positive boost to consumers offset by a negative drag on energy investment",
+            "Only impacted the manufacturing sector",
+            "Completely negative due to tax revenue loss"
+        ],
+        "answer": "Mixed: a positive boost to consumers offset by a negative drag on energy investment",
+        "explanation": "The consumer savings were large, but the massive spending cuts in the shale industry provided a major drag on capital expenditure and GDP."
+    },
+    {
+        "id": "E9029",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Labor}$ $\textbf{Force}$ $\textbf{Participation}$ $\textbf{Rate}$ continued its $\\textbf{long-term}$ $\\textbf{decline}$ in $\\textbf{2015}$, which suggested the $\\textbf{unemployment}$ $\\textbf{rate}$ $\\textbf{alone}$ was $\\textbf{understating}$ the $\\textbf{labor}$ $\\textbf{market}$'s $\\textbf{weakness}$.",
+        "image": "",
+        "options": [
+            "Increased sharply",
+            "Continued its long-term decline",
+            "Reached an all-time high",
+            "Was nationalized"
+        ],
+        "answer": "Continued its long-term decline",
+        "explanation": "The LFPR decline meant that fewer people were looking for work, masking the true extent of labor slack."
+    },
+    {
+        "id": "E9030",
+        "text": "In $\\textbf{December}$ $\\textbf{2015}$, the $\\textbf{ECB}$ $\\textbf{extended}$ its $\\textbf{QE}$ program duration and $\\textbf{cut}$ the $\\textbf{deposit}$ $\\textbf{rate}$ $\\textbf{further}$ into $\\textbf{negative}$ $\\textbf{territory}$ (to $\\textbf{-0.3}\\%$) due to persistent $\\textbf{low}$ $\\textbf{inflation}$.",
+        "image": "",
+        "options": [
+            "Ended QE immediately",
+            "Extended its QE program and cut the deposit rate further into negative territory",
+            "Raised the main refinancing rate",
+            "Sold off all its bond holdings"
+        ],
+        "answer": "Extended its QE program and cut the deposit rate further into negative territory",
+        "explanation": "This double-barreled move was necessary as inflation was proving stubbornly difficult to raise."
+    },
+    {
+        "id": "E9031",
+        "text": "The $\\textbf{China}$ $\\textbf{Yuan}$ $\\textbf{devaluation}$ in $\\textbf{2015}$ involved a $\\textbf{surprise}$ $\\textbf{change}$ in the way the $\\textbf{daily}$ $\\textbf{fixing}$ $\\textbf{rate}$ was $\\textbf{calculated}$, making it more $\\textbf{market-driven}$.",
+        "image": "",
+        "options": [
+            "Fixed it permanently to the dollar",
+            "Decided to only use gold reserves",
+            "Involved a surprise change in the way the daily fixing rate was calculated",
+            "Delegated control to the IMF"
+        ],
+        "answer": "Involved a surprise change in the way the daily fixing rate was calculated",
+        "explanation": "The new mechanism allowed the market to have more influence on the exchange rate, signaling a deeper commitment to reform, albeit one that caused immediate volatility."
+    },
+    {
+        "id": "E9032",
+        "text": "The $\\textbf{Trans-Pacific}$ $\textbf{Partnership}$ ($\\textbf{TPP}$), a $\\textbf{major}$ $\textbf{trade}$ $\\textbf{agreement}$ between $\\textbf{12}$ $\\textbf{countries}$, reached its $\\textbf{final}$ $\\textbf{agreement}$ in $\\textbf{October}$ $\\textbf{2015}$ in Atlanta.",
+        "image": "",
+        "options": [
+            "The Trans-Atlantic Trade Agreement",
+            "The Trans-Pacific Partnership (TPP)",
+            "The North American Free Trade Agreement (NAFTA)",
+            "The China-Europe Trade Route"
+        ],
+        "answer": "The Trans-Pacific Partnership (TPP)",
+        "explanation": "The agreement aimed to deepen economic ties and reduce tariffs among member nations, but later faced political headwinds."
+    },
+    {
+        "id": "E9033",
+        "text": "The $\\textbf{Greek}$ $\textbf{government}$'s $\\textbf{negotiation}$ $\\textbf{strategy}$ in $\\textbf{2015}$ (led by $\\textbf{Syriza}$) initially aimed to $\\textbf{end}$ $\\textbf{austerity}$ and secure debt $\\textbf{forgiveness}$ from its $\\textbf{creditors}$.",
+        "image": "",
+        "options": [
+            "Reduce imports from Germany",
+            "End austerity and secure debt forgiveness",
+            "Leave the Euro immediately",
+            "Increase military spending"
+        ],
+        "answer": "End austerity and secure debt forgiveness",
+        "explanation": "This anti-austerity mandate from the Syriza party was the core cause of the confrontation with the Troika."
+    },
+    {
+        "id": "E9034",
+        "text": "The $\\textbf{main}$ $\textbf{sector}$ in the $\\textbf{U.S.}$ $\textbf{most}$ $\textbf{negatively}$ $\textbf{affected}$ by the $\\textbf{oil}$ $\\textbf{price}$ $\\textbf{collapse}$ in $\\textbf{2015}$ was the $\\textbf{energy}$ $\\textbf{sector}$, particularly $\\textbf{shale}$ $\\textbf{producers}$.",
+        "image": "",
+        "options": [
+            "Airlines",
+            "The energy sector, particularly shale producers",
+            "Retail sales",
+            "The banking sector"
+        ],
+        "answer": "The energy sector, particularly shale producers",
+        "explanation": "Lower prices made many shale projects unprofitable, leading to bankruptcies, job losses, and reduced capital investment."
+    },
+    {
+        "id": "E9035",
+        "text": "The $\\textbf{Fed}$ officially kept its $\\textbf{balance}$ $\\textbf{sheet}$ $\\textbf{size}$ $\\textbf{constant}$ after the $\\textbf{December}$ $\\textbf{2015}$ $\\textbf{rate}$ $\\textbf{hike}$, reinvesting all $\\textbf{maturing}$ $\\textbf{bonds}$.",
+        "image": "",
+        "options": [
+            "Sold off all its bonds",
+            "Kept its balance sheet size constant",
+            "Doubled its bond holdings",
+            "Only bought short-term debt"
+        ],
+        "answer": "Kept its balance sheet size constant",
+        "explanation": "The Fed was only raising the short-term rate; it wouldn't start reducing the size of its balance sheet until 2017."
+    },
+    {
+        "id": "E9036",
+        "text": "The $\\textbf{stronger}$ $\\textbf{U.S.}$ $\\textbf{Dollar}$ in $\\textbf{2015}$ presented a major $\\textbf{challenge}$ to $\\textbf{Emerging}$ $\\textbf{Markets}$ because it $\\textbf{increased}$ the $\\textbf{cost}$ of $\\textbf{servicing}$ their $\\textbf{dollar-denominated}$ $\\textbf{debt}$.",
+        "image": "",
+        "options": [
+            "Reduced the cost of their labor",
+            "Increased the cost of servicing their dollar-denominated debt",
+            "Improved their trade balance",
+            "Made their currencies stronger"
+        ],
+        "answer": "Increased the cost of servicing their dollar-denominated debt",
+        "explanation": "A stronger dollar means they need more of their local currency to pay back the fixed dollar amount of their loans."
+    },
+    {
+        "id": "E9037",
+        "text": "The $\\textbf{U.S.}$ $\textbf{Wage}$ $\\textbf{Growth}$ in $\\textbf{2015}$ was $\\textbf{slow}$, but it began to $\\textbf{accelerate}$ in the $\\textbf{second}$ $\\textbf{half}$ of the year as the $\\textbf{labor}$ $\\textbf{market}$ $\\textbf{tightened}$.",
+        "image": "",
+        "options": [
+            "Remained near zero",
+            "Accelerated rapidly to 5%",
+            "Was slow, but began to accelerate in the second half of the year",
+            "Only rose for low-skill workers"
+        ],
+        "answer": "Was slow, but began to accelerate in the second half of the year",
+        "explanation": "As unemployment fell below 5.5%, businesses had to start competing more aggressively for workers, finally pushing wages up."
+    },
+    {
+        "id": "E9038",
+        "text": "The $\\textbf{merger}$ $\\textbf{of}$ $\\textbf{Dell}$ and $\\textbf{EMC}$ in $\\textbf{2015}$, valued at $\\textbf{\\$67}$ $\\textbf{billion}$, was the $\\textbf{largest}$ $\\textbf{technology}$ $\\textbf{acquisition}$ in $\\textbf{history}$ at the time.",
+        "image": "",
+        "options": [
+            "Apple and Google",
+            "Dell and EMC",
+            "Amazon and eBay",
+            "Microsoft and IBM"
+        ],
+        "answer": "Dell and EMC",
+        "explanation": "The massive deal aimed to combine Dell's PCs and servers with EMC's strength in data storage and cloud computing."
+    },
+    {
+        "id": "E9039",
+        "text": "The $\\textbf{Bank}$ $\\textbf{of}$ $\\textbf{Japan}$ ($\\textbf{BoJ}$) continued its massive $\\textbf{QQE}$ program in $\\textbf{2015}$, which involved $\\textbf{buying}$ $\\textbf{Japanese}$ $\\textbf{Government}$ $\\textbf{Bonds}$ ($\\textbf{JGBs}$) and $\\textbf{Exchange}$ $\\textbf{Traded}$ $\\textbf{Funds}$ ($\\textbf{ETFs}$).",
+        "image": "",
+        "options": [
+            "Selling all its assets",
+            "Buying only corporate stock",
+            "Buying Japanese Government Bonds (JGBs) and Exchange Traded Funds (ETFs)",
+            "Pegging the Yen to the Euro"
+        ],
+        "answer": "Buying Japanese Government Bonds (JGBs) and Exchange Traded Funds (ETFs)",
+        "explanation": "The BoJ's program was unique in its direct purchase of equity-based ETFs as part of its stimulus efforts."
+    },
+    {
+        "id": "E9040",
+        "text": "The $\\textbf{Eurozone}$ $\\textbf{economy}$ in $\\textbf{2015}$ benefited from $\\textbf{three}$ $\\textbf{tailwinds}$: $\\textbf{lower}$ $\\textbf{oil}$ $\\textbf{prices}$, a $\\textbf{weaker}$ $\\textbf{Euro}$, and the $\\textbf{ECB}$'s $\\textbf{QE}$ $\\textbf{program}$.",
+        "image": "",
+        "options": [
+            "Higher inflation, strong Euro, and higher taxes",
+            "Higher oil prices, strong Euro, and austerity",
+            "Lower oil prices, a weaker Euro, and the ECB's QE program",
+            "Massive tax increases"
+        ],
+        "answer": "Lower oil prices, a weaker Euro, and the ECB's QE program",
+        "explanation": "This triple boost helped the Eurozone exit stagnation, despite the Greek crisis."
+    }
+]

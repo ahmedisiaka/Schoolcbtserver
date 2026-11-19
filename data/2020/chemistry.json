@@ -1,0 +1,522 @@
+[
+    {
+        "id": "CHE01",
+        "text": "The $\\textbf{COVID-19}$ pandemic in 2020 emphasized the importance of $\\textbf{RNA}$ and $\\textbf{Lipid Nanoparticles}$ (LNPs) in developing $\\textbf{mRNA Vaccines}$.",
+        "image": "",
+        "options": [
+            "DNA Structure",
+            "Protein Folding",
+            "RNA",
+            "Carbohydrate Synthesis"
+        ],
+        "answer": "RNA",
+        "explanation": "mRNA vaccines use messenger RNA (a nucleic acid) to instruct cells to produce a protein that triggers an immune response."
+    },
+    {
+        "id": "CHE02",
+        "text": "The 2020 $\\textbf{Nobel Prize in Chemistry}$ was awarded for the development of $\\textbf{CRISPR-Cas9}$, a method for $\\textbf{Genome Editing}$ that relies on $\\textbf{Nucleic Acid}$ chemistry.",
+        "image": "",
+        "options": [
+            "Protein Synthesis",
+            "Genome Editing",
+            "Polymerization",
+            "Catalytic Cracking"
+        ],
+        "answer": "Genome Editing",
+        "explanation": "CRISPR-Cas9 acts as 'molecular scissors' allowing scientists to precisely change the DNA sequences of organisms."
+    },
+    {
+        "id": "CHE03",
+        "text": "The most widely adopted material for modern $\\textbf{Lithium-ion Batteries}$ (critical for 2020 electric vehicles) utilizes $\\textbf{Lithium Cobalt Oxide}$ ($\\,\\textbf{LiCoO}_2$) as the $\\textbf{Cathode}$.",
+        "image": "",
+        "options": [
+            "Anode",
+            "Electrolyte",
+            "Cathode",
+            "Separator"
+        ],
+        "answer": "Cathode",
+        "explanation": "Lithium cobalt oxide is a common material for the positive electrode (cathode) in Li-ion batteries due to its high energy density."
+    },
+    {
+        "id": "CHE04",
+        "text": "The stability of the $\\textbf{SARS-CoV-2}$ virus in aerosols (a major 2020 research focus) is influenced by its $\\textbf{Spike Protein}$, a type of $\\textbf{Macromolecule}$ requiring precise $\\textbf{Protein Folding}$.",
+        "image": "",
+        "options": [
+            "Lipid Bilayer",
+            "Nucleic Acid",
+            "Spike Protein",
+            "Phosphate Group"
+        ],
+        "answer": "Spike Protein",
+        "explanation": "The spike protein is responsible for binding to human cells, and understanding its folding and structure was essential for vaccine development."
+    },
+    {
+        "id": "CHE05",
+        "text": "The $\\textbf{pH}$ scale measures the concentration of $\\textbf{Hydrogen Ions}$ ($\\,\\textbf{H}^+$) in a solution; a $\\textbf{pH of 7}$ is considered $\\textbf{Neutral}$.",
+        "image": "",
+        "options": [
+            "Hydroxide Ions",
+            "Hydrogen Ions",
+            "Carbonate Ions",
+            "Sulfate Ions"
+        ],
+        "answer": "Hydrogen Ions",
+        "explanation": "pH is defined as the negative logarithm (base 10) of the hydrogen ion concentration: $\\textbf{pH} = -\\log_{10}[\\textbf{H}^+]$."
+    },
+    {
+        "id": "CHE06",
+        "text": "In a chemical reaction, a $\\textbf{Catalyst}$ works by lowering the $\\textbf{Activation Energy}$ ($\\,\\textbf{E}_a$) without being $\\textbf{Consumed}$ in the process.",
+        "image": "",
+        "options": [
+            "Gibbs Free Energy",
+            "Enthalpy Change",
+            "Activation Energy",
+            "Entropy Change"
+        ],
+        "answer": "Activation Energy",
+        "explanation": "Lowering the activation energy allows a greater fraction of molecules to react, thus increasing the reaction rate."
+    },
+    {
+        "id": "CHE07",
+        "text": "The $\\textbf{VSEPR Theory}$ (Valence Shell Electron Pair Repulsion) predicts that a molecule like $\\textbf{Methane}$ ($\\,\\textbf{CH}_4$) will have a $\\textbf{Tetrahedral}$ geometry.",
+        "image": "",
+        "options": [
+            "Linear",
+            "Trigonal Planar",
+            "Bent",
+            "Tetrahedral"
+        ],
+        "answer": "Tetrahedral",
+        "explanation": "Methane has four bonding pairs and zero lone pairs around the central carbon atom, resulting in a $\\textbf{109.5°}$ bond angle."
+    },
+    {
+        "id": "CHE08",
+        "text": "The $\\textbf{Half-Life}$ ($\\,\\textbf{t}_{1/2}$) of a radioactive isotope is the time required for half of the initial quantity of the isotope to undergo $\\textbf{Decay}$.",
+        "image": "",
+        "options": [
+            "Full Disintegration",
+            "Decay",
+            "Fission",
+            "Fusion"
+        ],
+        "answer": "Decay",
+        "explanation": "Half-life is a fundamental characteristic of a radioactive substance, often used in carbon dating."
+    },
+    {
+        "id": "CHE09",
+        "text": "The $\\textbf{Ozone Layer}$ depletion (a major 2020 environmental concern) is primarily caused by $\\textbf{Chlorofluorocarbons}$ ($\\,\\textbf{CFCs}$), which release $\\textbf{Chlorine Radicals}$.",
+        "image": "",
+        "options": [
+            "Carbon Dioxide",
+            "Sulfur Dioxide",
+            "Nitrogen Dioxide",
+            "Chlorofluorocarbons"
+        ],
+        "answer": "Chlorofluorocarbons",
+        "explanation": "CFCs rise to the stratosphere, where UV radiation breaks them down, releasing chlorine atoms that catalyze ozone destruction."
+    },
+    {
+        "id": "CHE10",
+        "text": "According to $\\textbf{Avogadro's Number}$, one mole of any substance contains $6.022 \\times 10^{23}$ of its fundamental $\\textbf{Particles}$ (atoms, molecules, or ions).",
+        "image": "",
+        "options": [
+            "Mass",
+            "Volume",
+            "Particles",
+            "Density"
+        ],
+        "answer": "Particles",
+        "explanation": "Avogadro's number provides a crucial link between macroscopic quantities (grams) and microscopic quantities (atoms/molecules)."
+    },
+    {
+        "id": "CHE11",
+        "text": "A $\\textbf{Reduction}$ reaction is defined as a process where a chemical species $\\textbf{Gains}$ $\\textbf{Electrons}$ or decreases its oxidation state.",
+        "image": "",
+        "options": [
+            "Loses Protons",
+            "Gains Electrons",
+            "Loses Neutrons",
+            "Gains Protons"
+        ],
+        "answer": "Gains Electrons",
+        "explanation": "The mnemonic 'OIL RIG' stands for 'Oxidation Is Loss, Reduction Is Gain' (of electrons)."
+    },
+    {
+        "id": "CHE12",
+        "text": "The $\\textbf{Polymers}$ used in $\\textbf{Plastic Packaging}$ (a major 2020 environmental and recycling topic) are long molecular chains formed by linking many smaller $\\textbf{Monomers}$.",
+        "image": "",
+        "options": [
+            "Isotopes",
+            "Monomers",
+            "Catalysts",
+            "Allotropes"
+        ],
+        "answer": "Monomers",
+        "explanation": "Polyethylene is a common polymer formed by the polymerization of ethylene monomers."
+    },
+    {
+        "id": "CHE13",
+        "text": "The $\\textbf{Haber-Bosch Process}$ synthesizes $\\textbf{Ammonia}$ ($\\,\\textbf{NH}_3$) from $\\textbf{Nitrogen}$ ($\\,\\textbf{N}_2$) and $\\textbf{Hydrogen}$ ($\\,\\textbf{H}_2$) under high temperature and $\\textbf{Pressure}$.",
+        "image": "",
+        "options": [
+            "Sulfuric Acid",
+            "Methane",
+            "Ammonia",
+            "Urea"
+        ],
+        "answer": "Ammonia",
+        "explanation": "This process is vital for producing artificial fertilizers, supporting the global food supply."
+    },
+    {
+        "id": "CHE14",
+        "text": "The $\\textbf{Covalent Bond}$ involves the $\\textbf{Sharing}$ of $\\textbf{Electrons}$ between non-metal atoms to achieve a stable noble gas configuration.",
+        "image": "",
+        "options": [
+            "Transfer of Protons",
+            "Sharing of Electrons",
+            "Transfer of Ions",
+            "Loss of Neutrons"
+        ],
+        "answer": "Sharing of Electrons",
+        "explanation": "Covalent bonds result in molecules, such as $\\textbf{H}_2\\textbf{O}$ and $\\textbf{CO}_2$."
+    },
+    {
+        "id": "CHE15",
+        "text": "The $\\textbf{Octet Rule}$ states that atoms tend to lose, gain, or share electrons until they are surrounded by $\\textbf{Eight}$ valence $\\textbf{Electrons}$.",
+        "image": "",
+        "options": [
+            "Two",
+            "Four",
+            "Six",
+            "Eight"
+        ],
+        "answer": "Eight",
+        "explanation": "This allows atoms to achieve the stable electron configuration of noble gases (except for hydrogen and helium, which follow the duet rule)."
+    },
+    {
+        "id": "CHE16",
+        "text": "The process where a solid turns directly into a gas without passing through the liquid state is called $\\textbf{Sublimation}$ (e.g., dry $\\textbf{Ice}$ at standard pressure).",
+        "image": "",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Sublimation",
+            "Melting"
+        ],
+        "answer": "Sublimation",
+        "explanation": "The reverse process, gas to solid, is called deposition or desublimation."
+    },
+    {
+        "id": "CHE17",
+        "text": "The $\\textbf{Molecule}$ of water ($\\,\\textbf{H}_2\\textbf{O}$) has a $\\textbf{Bent}$ or V-shaped geometry due to the presence of two $\\textbf{Lone Pairs}$ of electrons on the oxygen atom.",
+        "image": "",
+        "options": [
+            "Linear",
+            "Trigonal Pyramidal",
+            "Bent",
+            "Square Planar"
+        ],
+        "answer": "Bent",
+        "explanation": "The lone pairs repel the bonding pairs more strongly than the bonding pairs repel each other, pushing the bond angle from the tetrahedral $109.5°$ to about $104.5°$."
+    },
+    {
+        "id": "CHE18",
+        "text": "In $\\textbf{Thermochemistry}$, a reaction where heat is $\\textbf{Absorbed}$ from the surroundings, resulting in a positive $\\textbf{Enthalpy Change}$ ($\\,\\Delta\\textbf{H} > 0$), is $\\textbf{Endothermic}$.",
+        "image": "",
+        "options": [
+            "Exothermic",
+            "Athermal",
+            "Endothermic",
+            "Isothermal"
+        ],
+        "answer": "Endothermic",
+        "explanation": "Endothermic reactions feel cold to the touch because they draw heat energy from the immediate environment."
+    },
+    {
+        "id": "CHE19",
+        "text": "The $\\textbf{Arrhenius Equation}$ relates the rate $\\textbf{Constant}$ ($\\,\\textbf{k}$) of a chemical reaction to the $\\textbf{Temperature}$ ($\\,\\textbf{T}$) and the activation $\\textbf{Energy}$.",
+        "image": "",
+        "options": [
+            "Reaction Order",
+            "Rate Constant",
+            "Concentration",
+            "Volume"
+        ],
+        "answer": "Rate Constant",
+        "explanation": "The equation shows that the rate constant increases exponentially with increasing temperature."
+    },
+    {
+        "id": "CHE20",
+        "text": "$\\textbf{Electronegativity}$ is the measure of an atom's ability to attract a shared pair of $\\textbf{Electrons}$ towards itself in a $\\textbf{Chemical Bond}$.",
+        "image": "",
+        "options": [
+            "Ionization Energy",
+            "Electron Affinity",
+            "Atomic Radius",
+            "Electronegativity"
+        ],
+        "answer": "Electronegativity",
+        "explanation": "Electronegativity generally increases across a period and decreases down a group on the periodic table."
+    },
+    {
+        "id": "CHE21",
+        "text": "$\\textbf{Isomers}$ are compounds that have the same $\\textbf{Molecular Formula}$ but different $\\textbf{Structural Arrangements}$ of atoms.",
+        "image": "",
+        "options": [
+            "Allotropes",
+            "Isotopes",
+            "Isomers",
+            "Polymorphs"
+        ],
+        "answer": "Isomers",
+        "explanation": "For example, $n$-butane and isobutane both have the formula $\\textbf{C}_4\\textbf{H}_{10}$ but different structures."
+    },
+    {
+        "id": "CHE22",
+        "text": "The $\\textbf{Ideal Gas Law}$ describes the relationship between the $\\textbf{Pressure}$ ($\\,\\textbf{P}$), $\\textbf{Volume}$ ($\\,\\textbf{V}$), and $\\textbf{Temperature}$ ($\\,\\textbf{T}$) of an ideal gas: $\\textbf{PV = nRT}$.",
+        "image": "",
+        "options": [
+            "Boyle's Law",
+            "Charles's Law",
+            "Henry's Law",
+            "Ideal Gas Law"
+        ],
+        "answer": "Ideal Gas Law",
+        "explanation": "This equation is essential for calculating gas behavior under various conditions."
+    },
+    {
+        "id": "CHE23",
+        "text": "The process of using a $\\textbf{Centrifuge}$ (critical for separating virus samples in 2020 labs) separates components of a mixture based on differences in $\\textbf{Density}$.",
+        "image": "",
+        "options": [
+            "Boiling Point",
+            "Solubility",
+            "Density",
+            "Melting Point"
+        ],
+        "answer": "Density",
+        "explanation": "Centrifugation applies a centripetal force, accelerating the denser components to the bottom of the vessel."
+    },
+    {
+        "id": "CHE24",
+        "text": "An $\\textbf{Ionic Bond}$ is formed by the $\\textbf{Electrostatic Attraction}$ between oppositely charged $\\textbf{Ions}$ (e.g., in table salt, $\\textbf{NaCl}$).",
+        "image": "",
+        "options": [
+            "Proton Sharing",
+            "Electron Transfer",
+            "Hydrogen Bridging",
+            "Covalent Sharing"
+        ],
+        "answer": "Electron Transfer",
+        "explanation": "Ionic bonds typically form between a metal (which loses electrons) and a non-metal (which gains electrons)."
+    },
+    {
+        "id": "CHE25",
+        "text": "The $\\textbf{Atomic Number}$ ($\\,\\textbf{Z}$) of an element is equal to the number of $\\textbf{Protons}$ in the nucleus of its atoms.",
+        "image": "",
+        "options": [
+            "Neutrons",
+            "Electrons",
+            "Protons",
+            "Quarks"
+        ],
+        "answer": "Protons",
+        "explanation": "The atomic number uniquely identifies an element and determines its position on the periodic table."
+    },
+    {
+        "id": "CHE26",
+        "text": "In organic chemistry, a hydrocarbon containing only $\\textbf{Single Bonds}$ is called an $\\textbf{Alkane}$.",
+        "image": "",
+        "options": [
+            "Alkene",
+            "Alkyne",
+            "Arene",
+            "Alkane"
+        ],
+        "answer": "Alkane",
+        "explanation": "Alkanes are saturated hydrocarbons with the general formula $\\textbf{C}_n\\textbf{H}_{2n+2}$."
+    },
+    {
+        "id": "CHE27",
+        "text": "The $\\textbf{Solubility}$ of most solid $\\textbf{Solutes}$ in water generally $\\textbf{Increases}$ as the $\\textbf{Temperature}$ of the solvent is raised.",
+        "image": "",
+        "options": [
+            "Decreases",
+            "Stays the Same",
+            "Increases",
+            "Halves"
+        ],
+        "answer": "Increases",
+        "explanation": "Increased temperature provides more energy for the solvent molecules to break apart the solute particles."
+    },
+    {
+        "id": "CHE28",
+        "text": "A $\\textbf{Buffer Solution}$ resists large changes in $\\textbf{pH}$ upon the addition of small amounts of strong acid or $\\textbf{Base}$.",
+        "image": "",
+        "options": [
+            "Neutral Solution",
+            "Supersaturated Solution",
+            "Buffer Solution",
+            "Saturated Solution"
+        ],
+        "answer": "Buffer Solution",
+        "explanation": "Buffers typically consist of a weak acid and its conjugate base, or a weak base and its conjugate acid (essential for biological systems)."
+    },
+    {
+        "id": "CHE29",
+        "text": "The $\\textbf{Quantum Numbers}$ describe the possible states and properties of $\\textbf{Electrons}$ in an atom, including energy level, shape, and $\\textbf{Spin}$.",
+        "image": "",
+        "options": [
+            "Protons",
+            "Neutrons",
+            "Nuclei",
+            "Electrons"
+        ],
+        "answer": "Electrons",
+        "explanation": "The four quantum numbers are principal ($\\,\\textbf{n}$), azimuthal ($\\,\\textbf{l}$), magnetic ($\\,\\textbf{m}_l$), and spin ($\\,\\textbf{m}_s$)."
+    },
+    {
+        "id": "CHE30",
+        "text": "The $\\textbf{Gibbs Free Energy}$ ($\\,\\Delta\\textbf{G}$) change of a reaction determines its $\\textbf{Spontaneity}$: a negative value indicates a $\\textbf{Spontaneous}$ reaction.",
+        "image": "",
+        "options": [
+            "Speed",
+            "Yield",
+            "Spontaneity",
+            "Equilibrium"
+        ],
+        "answer": "Spontaneity",
+        "explanation": "The equation is $\\Delta\\textbf{G} = \\Delta\\textbf{H} - \\textbf{T}\\Delta\\textbf{S}$, where $\\Delta\\textbf{H}$ is enthalpy, $\\textbf{T}$ is temperature, and $\\Delta\\textbf{S}$ is entropy."
+    },
+    {
+        "id": "CHE31",
+        "text": "$\\textbf{Le Chatelier's Principle}$ predicts that if a change of $\\textbf{Condition}$ (temperature, pressure, or concentration) is applied to a system in $\\textbf{Equilibrium}$, the system will shift to $\\textbf{Counteract}$ the change.",
+        "image": "",
+        "options": [
+            "Exothermic",
+            "Condition",
+            "Isothermal",
+            "Athermal"
+        ],
+        "answer": "Condition",
+        "explanation": "This principle is used extensively in industrial chemistry to maximize the yield of desired products."
+    },
+    {
+        "id": "CHE32",
+        "text": "The $\\textbf{Allotrope}$ of Carbon that is an excellent electrical $\\textbf{Conductor}$ and used in pencils is $\\textbf{Graphite}$.",
+        "image": "",
+        "options": [
+            "Diamond",
+            "Graphite",
+            "Fullerene",
+            "Graphene"
+        ],
+        "answer": "Graphite",
+        "explanation": "Graphite is arranged in layers of hexagonal rings, with delocalized electrons between the layers allowing for conductivity."
+    },
+    {
+        "id": "CHE33",
+        "text": "A $\\textbf{Titration}$ is a laboratory technique used to determine the $\\textbf{Concentration}$ of an unknown $\\textbf{Solution}$ using a solution of known concentration (a standard solution).",
+        "image": "",
+        "options": [
+            "Mass",
+            "Concentration",
+            "Volume",
+            "Density"
+        ],
+        "answer": "Concentration",
+        "explanation": "Titration typically involves a careful reaction between an acid and a base (acid-base titration) until the endpoint is reached."
+    },
+    {
+        "id": "CHE34",
+        "text": "The $\\textbf{Mass Spectrometer}$ is an instrument used to measure the $\\textbf{Mass-to-Charge Ratio}$ of ions, which helps in identifying unknown compounds and $\\textbf{Isotopes}$.",
+        "image": "",
+        "options": [
+            "Atomic Number",
+            "Boiling Point",
+            "Mass-to-Charge Ratio",
+            "Solubility"
+        ],
+        "answer": "Mass-to-Charge Ratio",
+        "explanation": "This technique is essential for proteomics (analyzing proteins, relevant to 2020 vaccine work) and structural analysis."
+    },
+    {
+        "id": "CHE35",
+        "text": "The $\\textbf{Faraday Constant}$ ($\\,\\textbf{F}$) represents the electric $\\textbf{Charge}$ carried by one mole of $\\textbf{Electrons}$.",
+        "image": "",
+        "options": [
+            "Mass",
+            "Potential",
+            "Charge",
+            "Resistance"
+        ],
+        "answer": "Charge",
+        "explanation": "It is approximately 96,485 coulombs per mole and is used in electrochemistry calculations (Faraday's Laws)."
+    },
+    {
+        "id": "CHE36",
+        "text": "The $\\textbf{Van der Waals Forces}$ are weak, short-range $\\textbf{Intermolecular Forces}$ that exist between all atoms and $\\textbf{Molecules}$.",
+        "image": "",
+        "options": [
+            "Covalent Bonds",
+            "Ionic Bonds",
+            "Van der Waals Forces",
+            "Metallic Bonds"
+        ],
+        "answer": "Van der Waals Forces",
+        "explanation": "These forces include London dispersion forces, dipole-dipole interactions, and dipole-induced dipole interactions."
+    },
+    {
+        "id": "CHE37",
+        "text": "In a $\\textbf{Redox Reaction}$, the $\\textbf{Oxidizing Agent}$ is the species that is $\\textbf{Reduced}$ (gains electrons), causing the other species to be $\\textbf{Oxidized}$.",
+        "image": "",
+        "options": [
+            "Oxidized",
+            "Reduced",
+            "Protonated",
+            "Hydrolyzed"
+        ],
+        "answer": "Reduced",
+        "explanation": "The oxidizing agent is the electron acceptor, while the reducing agent is the electron donor."
+    },
+    {
+        "id": "CHE38",
+        "text": "The $\\textbf{Bond Order}$ in a molecule like $\\textbf{Dinitrogen}$ ($\\,\\textbf{N}_2$) is $\\textbf{Three}$, indicating a triple covalent bond between the atoms.",
+        "image": "",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Three",
+        "explanation": "A bond order of three makes the $\\textbf{N}_2$ molecule highly stable and unreactive."
+    },
+    {
+        "id": "CHE39",
+        "text": "The $\\textbf{Green Chemistry}$ movement (a major 2020 focus on sustainability) aims to minimize the use and generation of $\\textbf{Hazardous Substances}$ in chemical synthesis.",
+        "image": "",
+        "options": [
+            "Precious Metals",
+            "Solvents",
+            "Hazardous Substances",
+            "Catalysts"
+        ],
+        "answer": "Hazardous Substances",
+        "explanation": "Green chemistry is guided by 12 principles designed to make chemical processes safer and more environmentally friendly."
+    },
+    {
+        "id": "CHE40",
+        "text": "The $\\textbf{First Law}$ of $\\textbf{Thermodynamics}$ is the law of $\\textbf{Conservation of Energy}$: the total energy of the $\\textbf{Universe}$ is constant ($\\,\\Delta\\textbf{E} = \\textbf{q} + \\textbf{w}$).",
+        "image": "",
+        "options": [
+            "Zeroth Law",
+            "First Law",
+            "Second Law",
+            "Third Law"
+        ],
+        "answer": "First Law",
+        "explanation": "The law states that energy can be transformed from one form to another, but it cannot be created or destroyed."
+    }
+]

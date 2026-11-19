@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "The $\\textbf{Indian Ocean Tsunami}$ on Boxing Day 2004 was triggered by a massive undersea earthquake off the coast of $\\textbf{Sumatra}$, $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Borneo",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "The magnitude 9.1-9.3 earthquake caused a tsunami that devastated coastlines across the Indian Ocean, killing over 227,000 people."
+    },
+    {
+        "id": "GEO02",
+        "text": "In 2004, the $\\textbf{European Union}$ underwent its largest single expansion, admitting 10 new member states, including $\\textbf{Poland}$, $\\textbf{Hungary}$, and the $\\textbf{Czech Republic}$.",
+        "image": "",
+        "options": [
+            "Romania",
+            "Poland",
+            "Bulgaria",
+            "Ukraine"
+        ],
+        "answer": "Poland",
+        "explanation": "This historic enlargement reunited Eastern and Western Europe after the Cold War division."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Taipei 101}$ skyscraper was completed in 2004, officially becoming the world's tallest building, located in $\\textbf{Taiwan}$.",
+        "image": "",
+        "options": [
+            "China",
+            "Taiwan",
+            "Hong Kong",
+            "Singapore"
+        ],
+        "answer": "Taiwan",
+        "explanation": "It held the record until the completion of the Burj Khalifa in 2010 and is known for its bamboo-inspired design."
+    },
+    {
+        "id": "GEO04",
+        "text": "The 2004 $\\textbf{Summer Olympics}$ were held in $\\textbf{Athens}$, returning the games to their ancient birthplace in $\\textbf{Greece}$.",
+        "image": "",
+        "options": [
+            "Rome",
+            "Athens",
+            "Olympia",
+            "Sparta"
+        ],
+        "answer": "Athens",
+        "explanation": "The games spurred major infrastructure projects in the Attica region, including a new airport and metro system."
+    },
+    {
+        "id": "GEO05",
+        "text": "NASA's twin rovers, $\\textbf{Spirit}$ and $\\textbf{Opportunity}$, landed on opposite sides of $\\textbf{Mars}$ in January 2004 to study the planet's geology.",
+        "image": "",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Moon"
+        ],
+        "answer": "Mars",
+        "explanation": "They found conclusive evidence that water once flowed on the Martian surface."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{Millau Viaduct}$, the tallest bridge structure in the world, was inaugurated in 2004, spanning the valley of the River Tarn in $\\textbf{France}$.",
+        "image": "",
+        "options": [
+            "Italy",
+            "France",
+            "Switzerland",
+            "Spain"
+        ],
+        "answer": "France",
+        "explanation": "Designed by Norman Foster and Michel Virlogeux, it is a masterpiece of civil engineering."
+    },
+    {
+        "id": "GEO07",
+        "text": "The conflict in $\\textbf{Darfur}$ was declared a genocide by the US in 2004, drawing attention to this western region of $\\textbf{Sudan}$.",
+        "image": "",
+        "options": [
+            "Chad",
+            "Sudan",
+            "Libya",
+            "Egypt"
+        ],
+        "answer": "Sudan",
+        "explanation": "The conflict created a massive humanitarian crisis with refugees fleeing across the border into Chad."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Beslan}$ school siege occurred in 2004 in $\\textbf{North Ossetia}$, a federal republic in the $\\textbf{Caucasus}$ region of $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "Chechnya",
+            "Dagestan",
+            "North Ossetia",
+            "Ingushetia"
+        ],
+        "answer": "North Ossetia",
+        "explanation": "The tragic event resulted in over 330 deaths, mostly children, and highlighted instability in the Caucasus."
+    },
+    {
+        "id": "GEO09",
+        "text": "Scientists announced the discovery of $\\textbf{Homo floresiensis}$, a diminutive species of early human nicknamed 'The Hobbit', on the island of $\\textbf{Flores}$ in $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Flores",
+            "Timor"
+        ],
+        "answer": "Flores",
+        "explanation": "The discovery in Liang Bua cave challenged the understanding of human evolution."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{Orange Revolution}$ began in late 2004 in $\\textbf{Kyiv}$, the capital of $\\textbf{Ukraine}$, following a disputed presidential election.",
+        "image": "",
+        "options": [
+            "Minsk",
+            "Kyiv",
+            "Moscow",
+            "Tbilisi"
+        ],
+        "answer": "Kyiv",
+        "explanation": "Protesters gathered in Independence Square (Maidan Nezalezhnosti) to demand a revote."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Cassini-Huygens}$ spacecraft entered orbit around $\\textbf{Saturn}$ in 2004, beginning a 13-year mission to study the planet and its rings.",
+        "image": "",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Saturn",
+        "explanation": "It also deployed the Huygens probe to land on Titan."
+    },
+    {
+        "id": "GEO12",
+        "text": "A rare $\\textbf{Transit of Venus}$, where the planet passes directly between the Earth and the $\\textbf{Sun}$, occurred in June 2004.",
+        "image": "",
+        "options": [
+            "Moon",
+            "Sun",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": "Sun",
+        "explanation": "It was the first transit of Venus since 1882, an event of historical importance for measuring the solar system."
+    },
+    {
+        "id": "GEO13",
+        "text": "Hurricane $\\textbf{Ivan}$ caused catastrophic damage in $\\textbf{Grenada}$, Jamaica, and the United States in 2004.",
+        "image": "",
+        "options": [
+            "Barbados",
+            "Grenada",
+            "Saint Lucia",
+            "Trinidad"
+        ],
+        "answer": "Grenada",
+        "explanation": "The hurricane damaged or destroyed nearly 90% of the homes on the island of Grenada."
+    },
+    {
+        "id": "GEO14",
+        "text": "Mount $\\textbf{St. Helens}$ in $\\textbf{Washington}$ state reawakened in 2004, extruding a new lava dome inside its crater.",
+        "image": "",
+        "options": [
+            "Oregon",
+            "California",
+            "Washington",
+            "Alaska"
+        ],
+        "answer": "Washington",
+        "explanation": "It was the first significant activity since its cataclysmic eruption in 1980."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Rio-Antirrio Bridge}$ opened in 2004, crossing the Gulf of Corinth and connecting the Peloponnese peninsula to mainland $\\textbf{Greece}$.",
+        "image": "",
+        "options": [
+            "Italy",
+            "Greece",
+            "Turkey",
+            "Spain"
+        ],
+        "answer": "Greece",
+        "explanation": "It is one of the world's longest multi-span cable-stayed bridges."
+    },
+    {
+        "id": "GEO16",
+        "text": "Cyclone $\\textbf{Gafilo}$, the strongest cyclone to ever hit the country, devastated $\\textbf{Madagascar}$ in March 2004.",
+        "image": "",
+        "options": [
+            "Mauritius",
+            "Madagascar",
+            "Seychelles",
+            "Comoros"
+        ],
+        "answer": "Madagascar",
+        "explanation": "The storm caused immense damage to the island's unique biodiversity and infrastructure."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Madrid}$ train bombings in March 2004 targeted the Atocha station in the capital of $\\textbf{Spain}$.",
+        "image": "",
+        "options": [
+            "France",
+            "Italy",
+            "Spain",
+            "Portugal"
+        ],
+        "answer": "Spain",
+        "explanation": "It was the deadliest terrorist attack in Spanish history."
+    },
+    {
+        "id": "GEO18",
+        "text": "In 2004, $\\textbf{NATO}$ experienced its largest expansion, admitting seven new members including the three Baltic states: Estonia, Latvia, and $\\textbf{Lithuania}$.",
+        "image": "",
+        "options": [
+            "Belarus",
+            "Ukraine",
+            "Lithuania",
+            "Finland"
+        ],
+        "answer": "Lithuania",
+        "explanation": "This expanded the alliance's border with Russia."
+    },
+    {
+        "id": "GEO19",
+        "text": "A strong earthquake struck the $\\textbf{Al Hoceima}$ region in northern $\\textbf{Morocco}$ in 2004, located in the Rif mountains.",
+        "image": "",
+        "options": [
+            "Algeria",
+            "Morocco",
+            "Tunisia",
+            "Libya"
+        ],
+        "answer": "Morocco",
+        "explanation": "The quake highlighted the seismic risk in the Mediterranean region."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{KTX}$ (Korea Train eXpress) high-speed rail system began operations in 2004, connecting $\\textbf{Seoul}$ to Busan in $\\textbf{South Korea}$.",
+        "image": "",
+        "options": [
+            "Japan",
+            "China",
+            "South Korea",
+            "Taiwan"
+        ],
+        "answer": "South Korea",
+        "explanation": "It drastically reduced travel time across the country."
+    },
+    {
+        "id": "GEO21",
+        "text": "The minor planet $\\textbf{Sedna}$ was discovered in 2004, orbiting in the outer reaches of the $\\textbf{Solar System}$ far beyond Pluto.",
+        "image": "",
+        "options": [
+            "Kuiper Belt",
+            "Asteroid Belt",
+            "Oort Cloud",
+            "Scattered Disc"
+        ],
+        "answer": "Scattered Disc",
+        "explanation": "Sedna's discovery expanded our understanding of the solar system's geography."
+    },
+    {
+        "id": "GEO22",
+        "text": "A rebellion in $\\textbf{Haiti}$ in 2004 led to the ousting of President Jean-Bertrand Aristide and the deployment of UN peacekeepers to $\\textbf{Port-au-Prince}$.",
+        "image": "",
+        "options": [
+            "Dominican Republic",
+            "Cuba",
+            "Haiti",
+            "Jamaica"
+        ],
+        "answer": "Haiti",
+        "explanation": "The conflict exacerbated the country's humanitarian and economic challenges."
+    },
+    {
+        "id": "GEO23",
+        "text": "Typhoon $\\textbf{Rananim}$ made landfall in the Zhejiang province of $\\textbf{China}$ in 2004, causing widespread destruction.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Vietnam",
+            "China",
+            "South Korea"
+        ],
+        "answer": "China",
+        "explanation": "It was one of the strongest typhoons to hit the Chinese mainland in years."
+    },
+    {
+        "id": "GEO24",
+        "text": "A massive $\\textbf{Locust}$ plague invaded West Africa in 2004, devastating crops in the $\\textbf{Sahel}$ region countries like Mauritania and Mali.",
+        "image": "",
+        "options": [
+            "Congo Basin",
+            "Sahel",
+            "Horn of Africa",
+            "Kalahari"
+        ],
+        "answer": "Sahel",
+        "explanation": "The infestation was the worst in 15 years, threatening food security for millions."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Bahrain}$ Grand Prix was held for the first time in 2004, bringing Formula One racing to the $\\textbf{Middle East}$.",
+        "image": "",
+        "options": [
+            "UAE",
+            "Qatar",
+            "Bahrain",
+            "Saudi Arabia"
+        ],
+        "answer": "Bahrain",
+        "explanation": "The Sakhir International Circuit is located in the desert region of the island nation."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Marmaray}$ project began construction in 2004, aiming to connect the European and Asian sides of $\\textbf{Istanbul}$ via a rail tunnel.",
+        "image": "",
+        "options": [
+            "Ankara",
+            "Istanbul",
+            "Izmir",
+            "Antalya"
+        ],
+        "answer": "Istanbul",
+        "explanation": "The tunnel runs under the Bosphorus Strait."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{SpaceShipOne}$ completed the first privately funded human spaceflight in 2004 above the $\\textbf{Mojave Desert}$ in California.",
+        "image": "",
+        "options": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Mojave Desert",
+            "Atacama Desert"
+        ],
+        "answer": "Mojave Desert",
+        "explanation": "This event opened the door for the commercial space tourism industry."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Queen Mary 2}$, the largest ocean liner ever built at the time, made her maiden voyage across the $\\textbf{Atlantic Ocean}$ in 2004.",
+        "image": "",
+        "options": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Atlantic Ocean",
+        "explanation": "The ship was built in France and is the flagship of the Cunard Line."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{MESSENGER}$ spacecraft was launched in 2004 to orbit and study the planet $\\textbf{Mercury}$.",
+        "image": "",
+        "options": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Pluto"
+        ],
+        "answer": "Mercury",
+        "explanation": "It was the first mission designed to orbit the innermost planet of the solar system."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Statue of Liberty}$ in $\\textbf{New York Harbor}$ reopened to the public in 2004 after being closed since the September 11 attacks.",
+        "image": "",
+        "options": [
+            "Boston Harbor",
+            "New York Harbor",
+            "San Francisco Bay",
+            "Chesapeake Bay"
+        ],
+        "answer": "New York Harbor",
+        "explanation": "Safety improvements were made to the monument's pedestal."
+    },
+    {
+        "id": "GEO31",
+        "text": "In 2004, $\\textbf{Cyprus}$ joined the European Union as a divided island, with the EU acquis suspended in the northern part occupied by $\\textbf{Turkey}$.",
+        "image": "",
+        "options": [
+            "Greece",
+            "Turkey",
+            "Syria",
+            "Lebanon"
+        ],
+        "answer": "Turkey",
+        "explanation": "The Green Line continues to separate the Republic of Cyprus from the Turkish Republic of Northern Cyprus."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Brood X}$ cicadas emerged across the $\\textbf{Eastern United States}$ in 2004, a phenomenon that occurs every 17 years.",
+        "image": "",
+        "options": [
+            "Western United States",
+            "Eastern United States",
+            "Southern Europe",
+            "Southeast Asia"
+        ],
+        "answer": "Eastern United States",
+        "explanation": "Billions of insects emerged from the ground, creating a deafening noise in affected states."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Chuetsu}$ earthquake struck Niigata Prefecture in $\\textbf{Japan}$ in 2004, causing the first-ever derailment of a Shinkansen (bullet train).",
+        "image": "",
+        "options": [
+            "China",
+            "Japan",
+            "Taiwan",
+            "South Korea"
+        ],
+        "answer": "Japan",
+        "explanation": "The region is known for heavy snowfall and rice production."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Treaty establishing a Constitution for Europe}$ was signed in $\\textbf{Rome}$ in 2004, though it was later rejected by French and Dutch voters.",
+        "image": "",
+        "options": [
+            "Brussels",
+            "Strasbourg",
+            "Rome",
+            "Maastricht"
+        ],
+        "answer": "Rome",
+        "explanation": "The signing took place on the Capitoline Hill, symbolizing the historical roots of Europe."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Sands Macao}$ opened in 2004, marking the end of the gambling monopoly and the beginning of $\\textbf{Macau}$'s transformation into the 'Las Vegas of Asia'.",
+        "image": "",
+        "options": [
+            "Hong Kong",
+            "Macau",
+            "Singapore",
+            "Manila"
+        ],
+        "answer": "Macau",
+        "explanation": "Macau is a Special Administrative Region of China located across the Pearl River Delta from Hong Kong."
+    },
+    {
+        "id": "GEO36",
+        "text": "A referendum in $\\textbf{Chechnya}$ in 2004 approved a new constitution cementing the republic's status as part of $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "Georgia",
+            "Russia",
+            "Ukraine",
+            "Azerbaijan"
+        ],
+        "answer": "Russia",
+        "explanation": "The vote took place amidst the ongoing Second Chechen War."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Huygens}$ probe was released from the Cassini spacecraft in late 2004, destined for the surface of $\\textbf{Titan}$.",
+        "image": "",
+        "options": [
+            "Europa",
+            "Titan",
+            "Ganymede",
+            "Enceladus"
+        ],
+        "answer": "Titan",
+        "explanation": "Titan is Saturn's largest moon and has a thick atmosphere."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{G8 Summit}$ in 2004 was held at Sea Island in $\\textbf{Georgia}$, United States, focusing on the Middle East and Northern Africa.",
+        "image": "",
+        "options": [
+            "Florida",
+            "Georgia",
+            "California",
+            "New York"
+        ],
+        "answer": "Georgia",
+        "explanation": "The location is one of the Golden Isles off the Atlantic coast."
+    },
+    {
+        "id": "GEO39",
+        "text": "In 2004, $\\textbf{Bird Flu}$ (H5N1) outbreaks spread rapidly across $\\textbf{Southeast Asia}$, leading to the culling of millions of poultry in Vietnam and Thailand.",
+        "image": "",
+        "options": [
+            "South America",
+            "Southeast Asia",
+            "Western Europe",
+            "North America"
+        ],
+        "answer": "Southeast Asia",
+        "explanation": "The outbreak raised global fears of a potential human pandemic."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Bosporus Strait}$ is a narrow, natural strait and an internationally significant waterway located in northwestern $\\textbf{Turkey}$.",
+        "image": "",
+        "options": [
+            "Greece",
+            "Turkey",
+            "Bulgaria",
+            "Egypt"
+        ],
+        "answer": "Turkey",
+        "explanation": "It forms part of the continental boundary between Europe and Asia."
+    }
+]

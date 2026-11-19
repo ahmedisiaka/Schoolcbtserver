@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2001_01",
+      "text": "The removal of metabolic waste products from the cells and body of an organism is known as:",
+      "image": "",
+      "options": [
+        "Nutrition",
+        "Respiration",
+        "Excretion",
+        "Reproduction"
+      ],
+      "answer": "Excretion",
+      "explanation": "Excretion is the process by which metabolic waste products, such as urea and carbon dioxide, are eliminated from the body."
+    },
+    {
+      "id": "BIO_2001_02",
+      "text": "Which of the following organisms is a prokaryote?",
+      "image": "[Diagram comparing prokaryotic and eukaryotic cells]",
+      "options": [
+        "Amoeba",
+        "Mushroom",
+        "Moss plant",
+        "Bacteria"
+      ],
+      "answer": "Bacteria",
+      "explanation": "Prokaryotes are single-celled organisms that lack a membrane-bound nucleus and other organelles. Bacteria and archaea are the main examples."
+    },
+    {
+      "id": "BIO_2001_03",
+      "text": "A population of organisms is said to be increasing if:",
+      "image": "[Graph showing population growth curve]",
+      "options": [
+        "Natality rate is equal to mortality rate",
+        "Immigration rate is equal to emigration rate",
+        "Natality rate is higher than mortality rate",
+        "Mortality rate is higher than natality rate"
+      ],
+      "answer": "Natality rate is higher than mortality rate",
+      "explanation": "Population increase occurs when the birth rate (natality) exceeds the death rate (mortality), assuming net migration (immigration - emigration) is zero or positive."
+    },
+    {
+      "id": "BIO_2001_04",
+      "text": "The main component of the cell wall in plants is:",
+      "image": "[Structure of a plant cell wall]",
+      "options": [
+        "Chitin",
+        "Peptidoglycan",
+        "Cellulose",
+        "Keratin"
+      ],
+      "answer": "Cellulose",
+      "explanation": "Cellulose is a complex carbohydrate that provides structural support and rigidity to the plant cell wall."
+    },
+    {
+      "id": "BIO_2001_05",
+      "text": "The function of the spinal cord in mammals is primarily for:",
+      "image": "[Diagram of the spinal cord cross-section]",
+      "options": [
+        "Controlling voluntary actions",
+        "Coordinating complex thoughts",
+        "Reflex actions and connecting the brain to the nerves",
+        "Producing hormones"
+      ],
+      "answer": "Reflex actions and connecting the brain to the nerves",
+      "explanation": "The spinal cord serves as the main pathway for nerve impulses between the brain and the rest of the body, and it controls rapid, involuntary (reflex) actions."
+    },
+    {
+      "id": "BIO_2001_06",
+      "text": "The conversion of amino acids into glucose or glycogen in the liver is termed:",
+      "image": "",
+      "options": [
+        "Deamination",
+        "Glycolysis",
+        "Gluconeogenesis",
+        "Glycogenesis"
+      ],
+      "answer": "Gluconeogenesis",
+      "explanation": "Gluconeogenesis is the metabolic pathway that results in the generation of glucose from non-carbohydrate carbon substrates such as amino acids, glycerol, or lactate."
+    },
+    {
+      "id": "BIO_2001_07",
+      "text": "The relationship between a cow and the bacteria in its rumen, where both benefit, is an example of:",
+      "image": "[Image showing a cow and its digestive system]",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism",
+        "Saprophytism"
+      ],
+      "answer": "Mutualism",
+      "explanation": "The bacteria gain a stable environment and food supply, while the cow gains the ability to digest cellulose, benefiting both organisms."
+    },
+    {
+      "id": "BIO_2001_08",
+      "text": "Sexual reproduction in *Spirogyra* is known as:",
+      "image": "[Diagram illustrating conjugation in Spirogyra]",
+      "options": [
+        "Budding",
+        "Binary fission",
+        "Conjugation",
+        "Sporulation"
+      ],
+      "answer": "Conjugation",
+      "explanation": "Conjugation in *Spirogyra* involves the fusion of the contents of two vegetative cells from different filaments to form a zygospore."
+    },
+    {
+      "id": "BIO_2001_09",
+      "text": "The part of the kidney where filtration of blood occurs is the:",
+      "image": "[Diagram of a nephron showing the glomerulus]",
+      "options": [
+        "Loop of Henle",
+        "Collecting duct",
+        "Renal tubule",
+        "Glomerulus (in the Bowman's capsule)"
+      ],
+      "answer": "Glomerulus (in the Bowman's capsule)",
+      "explanation": "The glomerulus is a network of capillaries where blood pressure forces water and small solutes out of the blood and into the Bowman's capsule, initiating urine formation."
+    },
+    {
+      "id": "BIO_2001_10",
+      "text": "An organism that possesses both male and female reproductive organs is termed:",
+      "image": "",
+      "options": [
+        "Dioecious",
+        "Hermaphrodite",
+        "Parthenogenetic",
+        "Heterozygous"
+      ],
+      "answer": "Hermaphrodite",
+      "explanation": "A hermaphrodite is an organism that has complete or partial reproductive organs and produces gametes normally associated with both male and female sexes."
+    },
+    {
+      "id": "BIO_2001_11",
+      "text": "Which of the following is NOT an advantage of cross-pollination?",
+      "image": "",
+      "options": [
+        "It leads to offspring with greater vigour",
+        "It introduces desirable qualities into the lineage",
+        "It requires a pollinating agent",
+        "It increases genetic variation"
+      ],
+      "answer": "It requires a pollinating agent",
+      "explanation": "The requirement for a pollinating agent (wind, water, or animals) is often a disadvantage because it makes the process unreliable and energy-consuming for the plant."
+    },
+    {
+      "id": "BIO_2001_12",
+      "text": "The main substance that constitutes the exoskeleton of an insect is:",
+      "image": "[Structure of insect exoskeleton]",
+      "options": [
+        "Cellulose",
+        "Starch",
+        "Chitin",
+        "Lignin"
+      ],
+      "answer": "Chitin",
+      "explanation": "Chitin is a hard, nitrogen-containing polysaccharide that forms the rigid exoskeleton (cuticle) of arthropods, including insects."
+    },
+    {
+      "id": "BIO_2001_13",
+      "text": "The process by which oxygen passes from the alveoli into the blood capillaries is:",
+      "image": "[Diagram illustrating gas exchange in the alveoli]",
+      "options": [
+        "Osmosis",
+        "Active transport",
+        "Diffusion",
+        "Capillarity"
+      ],
+      "answer": "Diffusion",
+      "explanation": "Oxygen moves from the high concentration (high partial pressure) in the alveoli to the low concentration in the blood via simple diffusion across the respiratory surface."
+    },
+    {
+      "id": "BIO_2001_14",
+      "text": "A plant adapted to grow in salty marshy areas is called a:",
+      "image": "",
+      "options": [
+        "Hydrophyte",
+        "Mesophyte",
+        "Halophyte",
+        "Xerophyte"
+      ],
+      "answer": "Halophyte",
+      "explanation": "Halophytes are salt-tolerant plants that grow in soils or waters with high salt content, such as mangrove swamps."
+    },
+    {
+      "id": "BIO_2001_15",
+      "text": "If a red-flowered plant (RR) is crossed with a white-flowered plant (rr) and the $\\text{F}_1$ generation is all pink (Rr), this is an example of:",
+      "image": "[Punnett square illustrating incomplete dominance]",
+      "options": [
+        "Complete dominance",
+        "Co-dominance",
+        "Incomplete dominance",
+        "Recessive inheritance"
+      ],
+      "answer": "Incomplete dominance",
+      "explanation": "In incomplete dominance, the heterozygous phenotype (pink) is an intermediate blend of the two homozygous parents (red and white)."
+    },
+    {
+      "id": "BIO_2001_16",
+      "text": "The element necessary for the formation of chlorophyll in plants is:",
+      "image": "[Chemical structure of chlorophyll showing Magnesium]",
+      "options": [
+        "Calcium",
+        "Potassium",
+        "Magnesium",
+        "Iron"
+      ],
+      "answer": "Magnesium",
+      "explanation": "Magnesium ($\text{Mg}$) is an essential element, forming the central atom in the porphyrin ring structure of the chlorophyll molecule."
+    },
+    {
+      "id": "BIO_2001_17",
+      "text": "Which of the following processes increases the carbon dioxide concentration in the atmosphere?",
+      "image": "[Diagram showing the carbon cycle]",
+      "options": [
+        "Photosynthesis",
+        "Absorption by oceans",
+        "Respiration",
+        "Decomposition of rocks"
+      ],
+      "answer": "Respiration",
+      "explanation": "Respiration (both cellular and in ecosystems) releases carbon dioxide into the atmosphere as a metabolic waste product."
+    },
+    {
+      "id": "BIO_2001_18",
+      "text": "The blood is prevented from flowing back into the atria from the ventricles by the:",
+      "image": "[Diagram of the heart valves]",
+      "options": [
+        "Semilunar valves",
+        "Vena cava",
+        "Aorta",
+        "Atrio-ventricular valves"
+      ],
+      "answer": "Atrio-ventricular valves",
+      "explanation": "The tricuspid (right) and bicuspid/mitral (left) valves prevent the backflow of blood from the ventricles into the atria when the ventricles contract."
+    },
+    {
+      "id": "BIO_2001_19",
+      "text": "The feeding relationship that starts with the sun's energy is a:",
+      "image": "[Diagram of a food web]",
+      "options": [
+        "Saprophytic chain",
+        "Parasitic chain",
+        "Detritus chain",
+        "Grazing chain"
+      ],
+      "answer": "Grazing chain",
+      "explanation": "A grazing food chain starts with producers (plants), which harness solar energy. The detritus chain starts with dead organic matter."
+    },
+    {
+      "id": "BIO_2001_20",
+      "text": "Which of the following parts of the mammalian ear is responsible for balance and equilibrium?",
+      "image": "[Diagram of the human inner ear]",
+      "options": [
+        "Cochlea",
+        "Pinna",
+        "Eardrum",
+        "Semicircular canals"
+      ],
+      "answer": "Semicircular canals",
+      "explanation": "The semicircular canals, along with the vestibule (utricle and saccule), detect rotational and linear movements, helping to maintain balance (equilibrium)."
+    },
+    {
+      "id": "BIO_2001_21",
+      "text": "The main function of xylem tissue in a plant is:",
+      "image": "[Cross-section of a plant stem showing xylem and phloem]",
+      "options": [
+        "Transport of manufactured food",
+        "Storage of starch",
+        "Transport of water and mineral salts",
+        "Support of the plant organs"
+      ],
+      "answer": "Transport of water and mineral salts",
+      "explanation": "Xylem vessels transport water and dissolved inorganic nutrients from the roots up to the leaves and other parts of the plant."
+    },
+    {
+      "id": "BIO_2001_22",
+      "text": "When a mixture of egg albumen and water is boiled, the albumen changes its physical state. This change is an example of:",
+      "image": "",
+      "options": [
+        "Hydrolysis",
+        "Polymerization",
+        "Denaturation",
+        "Saponification"
+      ],
+      "answer": "Denaturation",
+      "explanation": "Denaturation is the process where a protein (like albumen) loses its secondary, tertiary, and quaternary structure (its folded shape) due to external stress, such as heat, causing it to lose its biological function and often coagulate."
+    },
+    {
+      "id": "BIO_2001_23",
+      "text": "Which hormone regulates the amount of glucose in the blood?",
+      "image": "[Diagram showing the action of insulin and glucagon]",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Growth hormone"
+      ],
+      "answer": "Insulin",
+      "explanation": "Insulin, secreted by the pancreas, lowers blood glucose concentration by promoting the uptake of glucose by body cells and stimulating the liver to convert glucose to glycogen."
+    },
+    {
+      "id": "BIO_2001_24",
+      "text": "The gradual change in a species over time resulting in new species is termed:",
+      "image": "[Evolutionary tree diagram]",
+      "options": [
+        "Succession",
+        "Mitosis",
+        "Evolution",
+        "Metamorphosis"
+      ],
+      "answer": "Evolution",
+      "explanation": "Evolution is the process by which populations of organisms change over the course of generations through mechanisms like natural selection."
+    },
+    {
+      "id": "BIO_2001_25",
+      "text": "Which part of a seed contains the food store for the embryo?",
+      "image": "[Labeled diagram of a seed (e.g., maize or bean)]",
+      "options": [
+        "Radicle",
+        "Plumule",
+        "Testa",
+        "Cotyledon or Endosperm"
+      ],
+      "answer": "Cotyledon or Endosperm",
+      "explanation": "In seeds like beans (dicots), food is stored in the cotyledons. In seeds like maize (monocots), the food is stored in the endosperm."
+    },
+    {
+      "id": "BIO_2001_26",
+      "text": "The process where a single parent produces offspring that are genetically identical to itself is:",
+      "image": "",
+      "options": [
+        "Sexual reproduction",
+        "Asexual reproduction",
+        "Cross-breeding",
+        "Fertilization"
+      ],
+      "answer": "Asexual reproduction",
+      "explanation": "Asexual reproduction involves one parent and results in clones (genetically identical offspring) without the fusion of gametes."
+    },
+    {
+      "id": "BIO_2001_27",
+      "text": "Which of the following diseases is caused by a virus?",
+      "image": "",
+      "options": [
+        "Cholera",
+        "Tuberculosis",
+        "AIDS",
+        "Malaria"
+      ],
+      "answer": "AIDS",
+      "explanation": "Acquired Immunodeficiency Syndrome (AIDS) is caused by the Human Immunodeficiency Virus (HIV). Cholera and TB are bacterial, and Malaria is caused by a protozoan."
+    },
+    {
+      "id": "BIO_2001_28",
+      "text": "A device used to count the number of microorganisms in a specific volume of water is the:",
+      "image": "",
+      "options": [
+        "Quadrat",
+        "Thermometer",
+        "Planimeter",
+        "Haemocytometer"
+      ],
+      "answer": "Haemocytometer",
+      "explanation": "A haemocytometer is a specialized slide with a grid used for counting cells (like blood cells or microorganisms) in a known volume of fluid under a microscope."
+    },
+    {
+      "id": "BIO_2001_29",
+      "text": "If a man with blood group A marries a woman with blood group B, and they produce a child with blood group O, what are the genotypes of the parents?",
+      "image": "[Punnett square for $I^A i \\times I^B i$]",
+      "options": [
+        "$\text{I}^A \text{I}^A$ and $\text{I}^B \text{I}^B$",
+        "$\text{I}^A \text{I}^A$ and $\text{I}^B i$",
+        "$\text{I}^A i$ and $\text{I}^B i$",
+        "$\text{I}^A i$ and $\text{I}^B \text{I}^B$"
+      ],
+      "answer": "$\text{I}^A i$ and $\text{I}^B i$",
+      "explanation": "Blood group O has the genotype $ii$. For the child to inherit the $i$ allele from both parents, both parents must be heterozygous: Man ($A$) is $\text{I}^A i$, and Woman ($B$) is $\text{I}^B i$."
+    },
+    {
+      "id": "BIO_2001_30",
+      "text": "In the process of blood clotting, the protein fibrinogen is converted to fibrin by the enzyme:",
+      "image": "[Simplified blood clotting cascade diagram]",
+      "options": [
+        "Amylase",
+        "Thrombin",
+        "Pepsin",
+        "Lipase"
+      ],
+      "answer": "Thrombin",
+      "explanation": "Thrombin is the enzyme that catalyzes the conversion of soluble fibrinogen into insoluble fibrin strands, which form the meshwork of the clot."
+    },
+    {
+      "id": "BIO_2001_31",
+      "text": "The main chemical substance that transmits impulses across a synapse is a:",
+      "image": "[Diagram of a synapse showing neurotransmitter release]",
+      "options": [
+        "Hormone",
+        "Enzyme",
+        "Neurotransmitter",
+        "Pheromone"
+      ],
+      "answer": "Neurotransmitter",
+      "explanation": "A neurotransmitter (e.g., acetylcholine, dopamine) is a chemical messenger that transmits signals from a neuron across a synapse to a target cell."
+    },
+    {
+      "id": "BIO_2001_32",
+      "text": "The region of cell division in a plant root is the:",
+      "image": "[Longitudinal section of a plant root tip]",
+      "options": [
+        "Root cap",
+        "Region of elongation",
+        "Region of differentiation",
+        "Apical meristem (Region of cell division)"
+      ],
+      "answer": "Apical meristem (Region of cell division)",
+      "explanation": "The apical meristem is located just behind the root cap and contains actively dividing cells responsible for the root's growth in length."
+    },
+    {
+      "id": "BIO_2001_33",
+      "text": "Adaptive radiation is best exemplified by:",
+      "image": "[Diagram of Darwin's finches]",
+      "options": [
+        "A stable ecosystem",
+        "The gradual succession of plants in a habitat",
+        "The development of different species from a common ancestor",
+        "The maintenance of genetic equilibrium"
+      ],
+      "answer": "The development of different species from a common ancestor",
+      "explanation": "Adaptive radiation is the rapid diversification of a single ancestral species into a variety of forms that each adapt to a different ecological niche, as seen with Darwin's finches."
+    },
+    {
+      "id": "BIO_2001_34",
+      "text": "An example of a fat-soluble vitamin is:",
+      "image": "",
+      "options": [
+        "Vitamin $\\text{C}$",
+        "Vitamin $\\text{B}_1$ (Thiamine)",
+        "Vitamin $\\text{D}$",
+        "Vitamin $\\text{B}_{12}$"
+      ],
+      "answer": "Vitamin $\\text{D}$",
+      "explanation": "Vitamins $\\text{A}$, $\\text{D}$, $\\text{E}$, and $\\text{K}$ are fat-soluble. Vitamins $\\text{B}$ and $\\text{C}$ are water-soluble."
+    },
+    {
+      "id": "BIO_2001_35",
+      "text": "If a piece of potato is placed in a concentrated salt solution, it will:",
+      "image": "[Diagram illustrating osmosis in plant cells (plasmolysis)]",
+      "options": [
+        "Swell due to endosmosis",
+        "Swell due to diffusion",
+        "Shrink due to exosmosis (plasmolysis)",
+        "Remain unchanged"
+      ],
+      "answer": "Shrink due to exosmosis (plasmolysis)",
+      "explanation": "The concentrated salt solution is hypertonic to the potato cells. Water will move out of the cells by osmosis (exosmosis), causing the cells and potato to shrink (plasmolysis)."
+    },
+    {
+      "id": "BIO_2001_36",
+      "text": "The function of the nucleus in a eukaryotic cell is to:",
+      "image": "[Diagram of a cell nucleus]",
+      "options": [
+        "Synthesize proteins",
+        "Generate energy (ATP)",
+        "Control all cellular activities and store genetic material",
+        "Digest worn-out organelles"
+      ],
+      "answer": "Control all cellular activities and store genetic material",
+      "explanation": "The nucleus contains the cell's genetic material ($\text{DNA}$) and regulates gene expression, thereby controlling all cell functions."
+    },
+    {
+      "id": "BIO_2001_37",
+      "text": "Pollination that occurs between flowers on two different plants of the same species is known as:",
+      "image": "[Diagram comparing self and cross-pollination]",
+      "options": [
+        "Autogamy",
+        "Geitonogamy",
+        "Cleistogamy",
+        "Allogamy (Cross-pollination)"
+      ],
+      "answer": "Allogamy (Cross-pollination)",
+      "explanation": "Allogamy is the transfer of pollen from the anther of one plant to the stigma of a genetically different plant (cross-pollination). Geitonogamy is transfer between flowers on the *same* plant."
+    },
+    {
+      "id": "BIO_2001_38",
+      "text": "The main substance that causes soil to be acidic when decomposed is:",
+      "image": "",
+      "options": [
+        "Inorganic minerals",
+        "Organic matter (Humus)",
+        "Water",
+        "Sand particles"
+      ],
+      "answer": "Organic matter (Humus)",
+      "explanation": "The decomposition of organic matter, which forms humus, releases organic acids (like humic acid) and inorganic acids (like nitric acid) during the nitrification process, leading to increased soil acidity."
+    },
+    {
+      "id": "BIO_2001_39",
+      "text": "An involuntary action carried out by the body without the direct control of the cerebrum is a:",
+      "image": "[Diagram of a reflex arc]",
+      "options": [
+        "Conditioned reflex",
+        "Voluntary action",
+        "Learned behaviour",
+        "Simple reflex action"
+      ],
+      "answer": "Simple reflex action",
+      "explanation": "Simple (or unconditioned) reflex actions are automatic, rapid responses controlled by the spinal cord or lower brain centers, bypassing the higher thinking centers of the cerebrum."
+    },
+    {
+      "id": "BIO_2001_40",
+      "text": "In a food pyramid, which level has the least amount of energy available?",
+      "image": "[Diagram of an energy pyramid]",
+      "options": [
+        "Primary producers",
+        "Primary consumers",
+        "Secondary consumers",
+        "Tertiary consumers"
+      ],
+      "answer": "Tertiary consumers",
+      "explanation": "Due to the 10% rule of energy transfer, the highest trophic level (tertiary consumers or top carnivores) receives the least amount of energy in an ecosystem."
+    }
+  ]

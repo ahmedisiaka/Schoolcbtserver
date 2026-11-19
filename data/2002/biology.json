@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2002_01",
+      "text": "The major function of the cell membrane is to:",
+      "image": "[Diagram of the fluid mosaic model of the cell membrane]",
+      "options": [
+        "Synthesize proteins",
+        "Control the passage of substances into and out of the cell",
+        "Generate energy for the cell",
+        "Store genetic material"
+      ],
+      "answer": "Control the passage of substances into and out of the cell",
+      "explanation": "The cell membrane is selectively permeable, regulating the movement of molecules and ions, which is vital for maintaining the cell's internal environment."
+    },
+    {
+      "id": "BIO_2002_02",
+      "text": "Which of the following classes of food is required in the smallest amount by the body?",
+      "image": "[Diagram of a balanced diet food pyramid]",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats and oils",
+        "Vitamins and minerals"
+      ],
+      "answer": "Vitamins and minerals",
+      "explanation": "Vitamins and minerals, though essential, are required in trace amounts (micronutrients), unlike carbohydrates, proteins, and fats, which are needed in larger quantities (macronutrients)."
+    },
+    {
+      "id": "BIO_2002_03",
+      "text": "The main excretory product of insects is:",
+      "image": "",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": "Uric acid",
+      "explanation": "Insects, birds, and reptiles excrete nitrogenous waste as uric acid, which requires very little water for elimination, an important adaptation for water conservation."
+    },
+    {
+      "id": "BIO_2002_04",
+      "text": "The loss of water from the stomata of plants is called:",
+      "image": "[Diagram illustrating transpiration through stomata]",
+      "options": [
+        "Guttation",
+        "Osmosis",
+        "Transpiration",
+        "Egestion"
+      ],
+      "answer": "Transpiration",
+      "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts, such as leaves, stems and flowers, primarily via stomata."
+    },
+    {
+      "id": "BIO_2002_05",
+      "text": "Which of the following is a structural polysaccharide found in the cell wall of fungi?",
+      "image": "[Molecular structure of Chitin]",
+      "options": [
+        "Cellulose",
+        "Starch",
+        "Chitin",
+        "Glycogen"
+      ],
+      "answer": "Chitin",
+      "explanation": "Chitin is a major component of the cell walls of fungi, while cellulose is the main component of plant cell walls."
+    },
+    {
+      "id": "BIO_2002_06",
+      "text": "The part of the human brain responsible for the coordination of muscular activities and posture is the:",
+      "image": "[Labeled diagram of the human brain, highlighting the cerebellum]",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answer": "Cerebellum",
+      "explanation": "The cerebellum (hindbrain) controls balance, posture, and coordinates voluntary movements, such as walking and writing."
+    },
+    {
+      "id": "BIO_2002_07",
+      "text": "Which of these blood components is responsible for initiating the clotting process?",
+      "image": "[Micrograph of blood showing platelets]",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Plasma",
+        "Platelets (Thrombocytes)"
+      ],
+      "answer": "Platelets (Thrombocytes)",
+      "explanation": "Platelets are cell fragments that detect damage and release chemicals (thromboplastin) to initiate the cascade of reactions leading to blood clotting."
+    },
+    {
+      "id": "BIO_2002_08",
+      "text": "The type of circulation that involves the movement of blood from the heart to the lungs and back to the heart is the:",
+      "image": "[Diagram of human circulatory system showing pulmonary circuit]",
+      "options": [
+        "Systemic circulation",
+        "Pulmonary circulation",
+        "Renal circulation",
+        "Portal circulation"
+      ],
+      "answer": "Pulmonary circulation",
+      "explanation": "Pulmonary circulation specifically transports deoxygenated blood from the right ventricle to the lungs for oxygenation and returns oxygenated blood to the left atrium."
+    },
+    {
+      "id": "BIO_2002_09",
+      "text": "A long-day plant will flower when the period of darkness is:",
+      "image": "[Diagram illustrating photoperiodism in plants]",
+      "options": [
+        "Longer than the critical night length",
+        "Shorter than the critical night length",
+        "Equal to the critical night length",
+        "Irrelevant to flowering"
+      ],
+      "answer": "Shorter than the critical night length",
+      "explanation": "Long-day plants (LDPs) actually flower when the critical period of darkness (the night) is shorter than a certain threshold. It is the duration of darkness, not light, that is critical."
+    },
+    {
+      "id": "BIO_2002_10",
+      "text": "The primary role of decomposers in an ecosystem is to:",
+      "image": "[Diagram of a food web showing decomposers' role]",
+      "options": [
+        "Convert solar energy to food",
+        "Feed on primary consumers",
+        "Break down dead organic matter and recycle nutrients",
+        "Control the population of producers"
+      ],
+      "answer": "Break down dead organic matter and recycle nutrients",
+      "explanation": "Decomposers (like bacteria and fungi) break down dead organisms and waste products, returning essential nutrients (e.g., nitrogen, carbon) to the soil and atmosphere."
+    },
+    {
+      "id": "BIO_2002_11",
+      "text": "Which of these is the main characteristic of continuous variation?",
+      "image": "[Graph of a normal distribution curve for human height]",
+      "options": [
+        "It is controlled by a single gene",
+        "It is not influenced by the environment",
+        "It shows distinct classes without intermediates",
+        "It shows a range of phenotypes with intermediates"
+      ],
+      "answer": "It shows a range of phenotypes with intermediates",
+      "explanation": "Continuous variation (e.g., human height, weight) is quantitative, controlled by multiple genes (polygenic inheritance), and often influenced by the environment, resulting in a smooth gradient of phenotypes."
+    },
+    {
+      "id": "BIO_2002_12",
+      "text": "The habitat of earthworms is best described as:",
+      "image": "",
+      "options": [
+        "Aquatic",
+        "Arboreal",
+        "Terrestrial (damp soil)",
+        "Aerial"
+      ],
+      "answer": "Terrestrial (damp soil)",
+      "explanation": "Earthworms are burrowing organisms that live in the soil. They require damp conditions for cutaneous respiration."
+    },
+    {
+      "id": "BIO_2002_13",
+      "text": "An example of a specialized structure for gaseous exchange in fish is the:",
+      "image": "[Diagram of a fish gill structure]",
+      "options": [
+        "Nostrils",
+        "Lungs",
+        "Gills",
+        "Skin"
+      ],
+      "answer": "Gills",
+      "explanation": "Gills are highly specialized respiratory organs in fish, featuring a large surface area and rich blood supply for efficient countercurrent exchange of oxygen and carbon dioxide."
+    },
+    {
+      "id": "BIO_2002_14",
+      "text": "The organelle responsible for aerobic respiration and energy production (ATP) in the cell is the:",
+      "image": "[Diagram of a mitochondrion]",
+      "options": [
+        "Ribosome",
+        "Lysosome",
+        "Mitochondrion",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are often called the 'powerhouses' of the cell because they are the site of the $\\text{Kreb}'s$ cycle and oxidative phosphorylation, which generate most of the cell's $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2002_15",
+      "text": "If the concentration of solute in a solution is higher than that in a cell, the solution is said to be:",
+      "image": "[Diagram illustrating hypertonic, isotonic, and hypotonic solutions]",
+      "options": [
+        "Isotonic",
+        "Hypotonic",
+        "Hypertonic",
+        "Plasmolyzed"
+      ],
+      "answer": "Hypertonic",
+      "explanation": "A hypertonic solution has a higher solute concentration (and thus a lower water potential) than the cell, causing water to move out of the cell by osmosis."
+    },
+    {
+      "id": "BIO_2002_16",
+      "text": "The simplest form of nervous system organization found in *Hydra* is the:",
+      "image": "[Diagram of the nerve net in Hydra]",
+      "options": [
+        "Centralized nervous system",
+        "Nerve net",
+        "Ladder-like nervous system",
+        "Ganglionic nervous system"
+      ],
+      "answer": "Nerve net",
+      "explanation": "*Hydra* (Coelenterates) possess a primitive, decentralized nervous system composed of a network of neurons spread throughout the body wall."
+    },
+    {
+      "id": "BIO_2002_17",
+      "text": "The scientific name of an organism is made up of its:",
+      "image": "",
+      "options": [
+        "Class and Order",
+        "Family and Genus",
+        "Genus and Species",
+        "Order and Species"
+      ],
+      "answer": "Genus and Species",
+      "explanation": "In binomial nomenclature, the scientific name consists of two parts: the genus name (capitalized) followed by the species name (lowercase)."
+    },
+    {
+      "id": "BIO_2002_18",
+      "text": "The primary structure in a leaf responsible for preventing excessive water loss is the:",
+      "image": "[Cross-section of a leaf showing the cuticle]",
+      "options": [
+        "Mesophyll",
+        "Epidermis",
+        "Vascular bundle",
+        "Cuticle"
+      ],
+      "answer": "Cuticle",
+      "explanation": "The cuticle is a waxy, water-impermeable layer covering the epidermis of leaves and stems, significantly reducing water loss via cuticular transpiration."
+    },
+    {
+      "id": "BIO_2002_19",
+      "text": "Which of the following is an example of a vestigial organ in humans?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Appendix",
+        "Liver",
+        "Lungs"
+      ],
+      "answer": "Appendix",
+      "explanation": "Vestigial organs are anatomical features that have lost their ancestral function. The human appendix is considered vestigial, though it may play a minor role in the immune system."
+    },
+    {
+      "id": "BIO_2002_20",
+      "text": "During the process of protein synthesis, the sequence of amino acids is determined by the:",
+      "image": "[Diagram illustrating the roles of DNA, mRNA, and tRNA]",
+      "options": [
+        "Ribosomes",
+        "Transfer $\\text{RNA}$ ($\\text{tRNA}$)",
+        "Messenger $\\text{RNA}$ ($\\text{mRNA}$)",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Messenger $\\text{RNA}$ ($\text{mRNA}$)",
+      "explanation": "The $\\text{mRNA}$ molecule carries the genetic code (codons) copied from $\\text{DNA}$ in the nucleus, which dictates the specific sequence of amino acids for the protein."
+    },
+    {
+      "id": "BIO_2002_21",
+      "text": "A man who is normal but whose wife is a carrier for a sex-linked recessive disorder (like haemophilia) has what chance of having a child with the disorder?",
+      "image": "[Punnett square for $X^H Y \\times X^H X^h$]",
+      "options": [
+        "$0\\%$",
+        "$25\\%$",
+        "$50\\%$",
+        "$100\\%$"
+      ],
+      "answer": "$25\\%$",
+      "explanation": "Parents: Man ($X^H Y$) and Carrier Wife ($X^H X^h$). Possible offspring: $X^H X^H$, $X^H X^h$ (Carrier daughter), $X^H Y$ (Normal son), $X^h Y$ (Affected son). $\\text{P}(\\text{Affected child}) = 1/4 = 25\\%$."
+    },
+    {
+      "id": "BIO_2002_22",
+      "text": "Which of the following processes leads to the formation of spores in *Rhizopus*?",
+      "image": "[Diagram of the life cycle of Rhizopus showing sporangium]",
+      "options": [
+        "Fission",
+        "Budding",
+        "Sporulation",
+        "Conjugation"
+      ],
+      "answer": "Sporulation",
+      "explanation": "Sporulation is the process of spore formation, typically within a sporangium, which is the main mode of asexual reproduction in *Rhizopus* (bread mold)."
+    },
+    {
+      "id": "BIO_2002_23",
+      "text": "An organism that feeds on dead or decaying organic matter is called a:",
+      "image": "",
+      "options": [
+        "Parasite",
+        "Herbivore",
+        "Saprophyte",
+        "Carnivore"
+      ],
+      "answer": "Saprophyte",
+      "explanation": "Saprophytes (like most fungi and bacteria) obtain nutrients by decomposing dead plant and animal material, playing a crucial role as decomposers."
+    },
+    {
+      "id": "BIO_2002_24",
+      "text": "A key adaptation of birds for flight is the presence of:",
+      "image": "[Diagram of a bird's wing and hollow bone structure]",
+      "options": [
+        "Scales on their legs",
+        "Hollow, light bones",
+        "External ears",
+        "Long intestines"
+      ],
+      "answer": "Hollow, light bones",
+      "explanation": "Pneumatized (hollow) bones, along with feathers and the fusion of certain bones, reduce the overall weight of the bird, which is essential for efficient flight."
+    },
+    {
+      "id": "BIO_2002_25",
+      "text": "The greatest proportion of oxygen released during photosynthesis comes from:",
+      "image": "[Simplified equation for photosynthesis, highlighting water as the source of oxygen]",
+      "options": [
+        "Carbon dioxide",
+        "Chlorophyll",
+        "Water",
+        "Glucose"
+      ],
+      "answer": "Water",
+      "explanation": "Experimental evidence, particularly using isotope labeling, shows that the oxygen gas ($\text{O}_2$) released during the light-dependent reactions of photosynthesis originates from the splitting of water ($\text{H}_2\text{O}$), not from $\text{CO}_2$."
+    },
+    {
+      "id": "BIO_2002_26",
+      "text": "The gradual and orderly replacement of one community by another in an area is known as:",
+      "image": "[Diagram illustrating ecological succession from bare ground to climax community]",
+      "options": [
+        "Evolution",
+        "Adaptation",
+        "Succession",
+        "Bioremediation"
+      ],
+      "answer": "Succession",
+      "explanation": "Ecological succession is the process of change in the species structure of an ecological community over time, often culminating in a stable climax community."
+    },
+    {
+      "id": "BIO_2002_27",
+      "text": "Which of the following is a symptom of excessive intake of alcohol?",
+      "image": "",
+      "options": [
+        "Increased alertness",
+        "Loss of coordination and judgment",
+        "Rapid heart rate",
+        "Constriction of pupils"
+      ],
+      "answer": "Loss of coordination and judgment",
+      "explanation": "Alcohol acts as a depressant on the central nervous system, impairing the functions of the cerebellum and cerebrum, leading to difficulty with coordination, speech, and making rational decisions."
+    },
+    {
+      "id": "BIO_2002_28",
+      "text": "The major role of the stomach in digestion is the partial breakdown of:",
+      "image": "[Diagram of the stomach and gastric juice components]",
+      "options": [
+        "Fats",
+        "Carbohydrates",
+        "Proteins",
+        "Vitamins"
+      ],
+      "answer": "Proteins",
+      "explanation": "The stomach releases acid ($\text{HCl}$) and the enzyme pepsin, which begins the chemical digestion of proteins into smaller polypeptides. Carbohydrate and fat digestion primarily occur in the mouth and small intestine, respectively."
+    },
+    {
+      "id": "BIO_2002_29",
+      "text": "An example of a specialized underground stem used for storage is a:",
+      "image": "[Diagram of a potato tuber and onion bulb]",
+      "options": [
+        "Root tuber (e.g., Cassava)",
+        "Bulb (e.g., Onion)",
+        "Taproot (e.g., Carrot)",
+        "Stem tuber (e.g., Potato)"
+      ],
+      "answer": "Stem tuber (e.g., Potato)",
+      "explanation": "The potato is a stem tuber, identifiable by the presence of 'eyes' (buds) and scale leaves, which are characteristics of stems. Cassava and Carrot are root structures."
+    },
+    {
+      "id": "BIO_2002_30",
+      "text": "In the process of osmosis, water molecules move from a region of:",
+      "image": "[Diagram of osmosis across a semi-permeable membrane]",
+      "options": [
+        "Lower solute concentration to higher solute concentration",
+        "Higher solute concentration to lower solute concentration",
+        "Lower temperature to higher temperature",
+        "Higher pressure to lower pressure"
+      ],
+      "answer": "Lower solute concentration to higher solute concentration",
+      "explanation": "Osmosis is the net movement of water from a region of higher water potential (low solute concentration) to a region of lower water potential (high solute concentration) across a partially permeable membrane."
+    },
+    {
+      "id": "BIO_2002_31",
+      "text": "The condition caused by the absence or insufficient secretion of the hormone $\\text{Insulin}$ is:",
+      "image": "",
+      "options": [
+        "Goitre",
+        "Dwarfism",
+        "Gigantism",
+        "Diabetes mellitus"
+      ],
+      "answer": "Diabetes mellitus",
+      "explanation": "Diabetes mellitus results when the pancreas produces too little $\\text{Insulin}$ or the body's cells do not respond properly to the $\\text{Insulin}$, leading to high blood glucose levels."
+    },
+    {
+      "id": "BIO_2002_32",
+      "text": "A sudden change in the genetic material of an organism is referred to as:",
+      "image": "[Diagram illustrating gene and chromosome mutation]",
+      "options": [
+        "Recombination",
+        "Variation",
+        "Mutation",
+        "Cloning"
+      ],
+      "answer": "Mutation",
+      "explanation": "A mutation is a spontaneous or induced change in the $\\text{DNA}$ sequence of an organism, which may or may not result in a noticeable change in the phenotype."
+    },
+    {
+      "id": "BIO_2002_33",
+      "text": "Which of the following classes of animals is predominantly poikilothermic (cold-blooded)?",
+      "image": "",
+      "options": [
+        "Mammalia",
+        "Aves (Birds)",
+        "Reptilia",
+        "Rodentia"
+      ],
+      "answer": "Reptilia",
+      "explanation": "Reptiles, Amphibians, and Fish are poikilotherms (ectotherms), meaning their body temperature fluctuates with the external environment. Mammals and Birds are homeotherms (endotherms)."
+    },
+    {
+      "id": "BIO_2002_34",
+      "text": "In the $\\text{Nitrogen}$ cycle, the conversion of $\\text{Nitrate}$ to atmospheric $\\text{Nitrogen}$ is carried out by:",
+      "image": "[Diagram of the Nitrogen cycle, highlighting denitrification]",
+      "options": [
+        "Nitrobacter bacteria",
+        "Azotobacter bacteria",
+        "Denitrifying bacteria",
+        "Rhizobium bacteria"
+      ],
+      "answer": "Denitrifying bacteria",
+      "explanation": "Denitrifying bacteria (e.g., *Pseudomonas*) carry out denitrification, reducing $\\text{Nitrate}$ ($\text{NO}_3^-$) back into gaseous $\\text{Nitrogen}$ ($\text{N}_2$), completing the cycle."
+    },
+    {
+      "id": "BIO_2002_35",
+      "text": "The fusion of the nucleus of a male gamete with the nucleus of an egg cell in plants is called:",
+      "image": "[Diagram illustrating double fertilization in flowering plants]",
+      "options": [
+        "Pollination",
+        "Germination",
+        "Fertilization",
+        "Plasmolysis"
+      ],
+      "answer": "Fertilization",
+      "explanation": "Fertilization is the sexual process involving the union of the male gamete (sperm nucleus) and the female gamete (egg nucleus) to form a zygote."
+    },
+    {
+      "id": "BIO_2002_36",
+      "text": "Which of these is the most effective method for controlling the spread of malaria?",
+      "image": "[Diagram of the mosquito life cycle]",
+      "options": [
+        "Taking pain relievers",
+        "Using insecticides to kill adult mosquitoes",
+        "Eliminating stagnant water where mosquitoes breed",
+        "Treating all infected persons with antibiotics"
+      ],
+      "answer": "Eliminating stagnant water where mosquitoes breed",
+      "explanation": "Targeting the mosquito's life cycle, particularly the larval stage in stagnant water, is the most effective long-term strategy for controlling the vector of malaria."
+    },
+    {
+      "id": "BIO_2002_37",
+      "text": "The part of the human eye that contains the light-sensitive cells (rods and cones) is the:",
+      "image": "[Cross-section diagram of the human eye]",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Iris",
+        "Retina"
+      ],
+      "answer": "Retina",
+      "explanation": "The retina is the innermost layer at the back of the eye, containing the photoreceptor cells (rods for dim light, cones for color vision) that convert light into nerve impulses."
+    },
+    {
+      "id": "BIO_2002_38",
+      "text": "The main substance that gives bones their hardness and rigidity is:",
+      "image": "[Micrograph of bone tissue]",
+      "options": [
+        "Ossein",
+        "Calcium phosphate",
+        "Collagen",
+        "Chondroitin"
+      ],
+      "answer": "Calcium phosphate",
+      "explanation": "The hardness of bone tissue is primarily due to the deposition of inorganic mineral salts, mainly calcium phosphate and calcium carbonate, within the collagen matrix."
+    },
+    {
+      "id": "BIO_2002_39",
+      "text": "If two organisms are in a relationship where one benefits and the other is neither harmed nor helped, the relationship is termed:",
+      "image": "",
+      "options": [
+        "Mutualism",
+        "Parasitism",
+        "Commensalism",
+        "Symbiosis"
+      ],
+      "answer": "Commensalism",
+      "explanation": "Commensalism is an association between two organisms in which one benefits and the other derives neither benefit nor harm."
+    },
+    {
+      "id": "BIO_2002_40",
+      "text": "Which of the following is the final product of carbohydrate digestion in the human alimentary canal?",
+      "image": "[Diagram showing the digestion of starch to simple sugars]",
+      "options": [
+        "Maltose",
+        "Glucose",
+        "Amino acids",
+        "Fatty acids and glycerol"
+      ],
+      "answer": "Glucose",
+      "explanation": "All digestible carbohydrates (starch, sucrose, lactose) are eventually broken down by enzymes into their simplest, absorbable unit, which is monosaccharides, primarily $\\text{Glucose}$."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E1001",
+        "text": "The $\\textbf{National}$ $\\textbf{Bureau}$ $\\textbf{of}$ $\\textbf{Economic}$ $\\textbf{Research}$ $\\textbf{(NBER)}$ officially dated the start of the 2001 recession to **March 2001**.",
+        "image": "",
+        "options": [
+            "January 2000",
+            "March 2001",
+            "September 2001",
+            "December 2001"
+        ],
+        "answer": "March 2001",
+        "explanation": "While the stock market peaked earlier, the NBER determined the peak of economic activity was in March."
+    },
+    {
+        "id": "E1002",
+        "text": "The primary $\\textbf{catalyst}$ for the 2001 recession was the collapse of the $\\textbf{Investment}$ in the **Dot-com Bubble** and subsequent sharp reduction in corporate $\\textbf{Capital}$ $\\textbf{Expenditure}$ ($\\mathbf{CapEx}$).",
+        "image": "",
+        "options": [
+            "Housing bubble collapse",
+            "Foreign trade war",
+            "Investment in the Dot-com Bubble",
+            "High long-term inflation"
+        ],
+        "answer": "Investment in the Dot-com Bubble",
+        "explanation": "The massive overinvestment in technology capacity (CapEx) during the 90s boom led to a severe correction."
+    },
+    {
+        "id": "E1003",
+        "text": "In response to the slowing economy, the $\\textbf{Federal}$ $\\textbf{Reserve}$ initiated an aggressive series of $\\textbf{monetary}$ **easing** (rate cuts) throughout 2001, totaling **475 basis points** (4.75%).",
+        "image": "",
+        "options": [
+            "Tightening (raising rates)",
+            "Easing (rate cuts)",
+            "Quantitative tightening",
+            "Fiscal stimulus"
+        ],
+        "answer": "Easing (rate cuts)",
+        "explanation": "The Fed cut rates eleven times in 2001, dropping the Federal Funds Rate from 6.5% to 1.75%."
+    },
+    {
+        "id": "E1004",
+        "text": "The September 11, 2001 attacks caused the $\\textbf{New}$ $\\textbf{York}$ $\\textbf{Stock}$ $\\textbf{Exchange}$ to $\\textbf{close}$ for **four trading days**, the longest closure since 1933.",
+        "image": "",
+        "options": [
+            "One trading day",
+            "Four trading days",
+            "Two weeks",
+            "A full month"
+        ],
+        "answer": "Four trading days",
+        "explanation": "The exchange reopened on September 17th, with the Dow Jones Industrial Average dropping 684 points."
+    },
+    {
+        "id": "E1005",
+        "text": "The U.S. Congress passed the $\\textbf{Economic}$ $\\textbf{Growth}$ $\\textbf{and}$ $\\textbf{Tax}$ $\\textbf{Relief}$ $\\textbf{Reconciliation}$ $\\textbf{Act}$ $\\textbf{(EGTRRA)}$ in June 2001, featuring significant $\\textbf{tax}$ **cuts**.",
+        "image": "",
+        "options": [
+            "Spending increases",
+            "Tax hikes",
+            "Tax cuts",
+            "Tariff increases"
+        ],
+        "answer": "Tax cuts",
+        "explanation": "This was the first major fiscal policy response, signed before 9/11, that reduced income tax rates and provided rebates."
+    },
+    {
+        "id": "E1006",
+        "text": "The $\\textbf{sector}$ of the U.S. economy that received an immediate, massive $\\textbf{federal}$ $\\textbf{bailout}$ package immediately after 9/11 was the **airline** industry.",
+        "image": "",
+        "options": [
+            "Automotive industry",
+            "Housing construction",
+            "Airline industry",
+            "Energy production"
+        ],
+        "answer": "Airline industry",
+        "explanation": "The Air Transportation Safety and System Stabilization Act provided $15 billion in aid and loan guarantees."
+    },
+    {
+        "id": "E1007",
+        "text": "Immediately following 9/11, the Federal Reserve acted to prevent a **liquidity crisis** by pumping massive amounts of funds into the financial system.",
+        "image": "",
+        "options": [
+            "Inflation surge",
+            "Liquidity crisis",
+            "Trade surplus",
+            "Currency devaluation"
+        ],
+        "answer": "Liquidity crisis",
+        "explanation": "The Fed ensured banks and financial institutions had access to cash to prevent a panic-driven system collapse."
+    },
+    {
+        "id": "E1008",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ began to $\\textbf{rise}$ steadily in 2001, reflecting the job losses resulting from the economic contraction.",
+        "image": "",
+        "options": [
+            "Falling rapidly",
+            "Rising steadily",
+            "Remaining flat",
+            "Reaching a historic low"
+        ],
+        "answer": "Rising steadily",
+        "explanation": "From a low of 3.8% in 2000, unemployment climbed throughout 2001."
+    },
+    {
+        "id": "E1009",
+        "text": "The economic impact of 9/11 was described as an **aggregate supply shock** combined with an **aggregate demand shock**.",
+        "image": "",
+        "options": [
+            "Only a demand shock",
+            "Only a supply shock",
+            "A currency shock",
+            "An aggregate supply shock and an aggregate demand shock"
+        ],
+        "answer": "An aggregate supply shock and an aggregate demand shock",
+        "explanation": "Supply was disrupted by transportation closures, while demand fell due to uncertainty and consumer fear."
+    },
+    {
+        "id": "E1010",
+        "text": "The major $\\textbf{fiscal}$ $\\textbf{policy}$ shift in 2001 was the return to **budget deficits**, ending the run of surpluses from the late 1990s.",
+        "image": "",
+        "options": [
+            "Record trade surplus",
+            "Record low national debt",
+            "Massive foreign investment",
+            "Budget deficits"
+        ],
+        "answer": "Budget deficits",
+        "explanation": "The recession reduced tax revenues, while the EGTRRA tax cuts and increased spending after 9/11 pushed the budget back into deficit."
+    },
+    {
+        "id": "E1011",
+        "text": "The $\\textbf{Treasury}$ $\\textbf{market}$ saw a massive $\\textbf{flight}$ $\\textbf{to}$ $\\textbf{safety}$ after 9/11, causing $\\textbf{yields}$ on U.S. government bonds to **fall sharply**.",
+        "image": "",
+        "options": [
+            "Rise sharply",
+            "Fall sharply",
+            "Remain unchanged",
+            "Become negative"
+        ],
+        "answer": "Fall sharply",
+        "explanation": "Investors globally bought up safe-haven assets, driving their prices up and yields down."
+    },
+    {
+        "id": "E1012",
+        "text": "The $\\textbf{insurance}$ $\\textbf{industry}$ faced $\\textbf{unprecedented}$ $\\textbf{claims}$ in 2001 due to the destruction of the World Trade Center and surrounding property.",
+        "image": "",
+        "options": [
+            "Housing",
+            "Automotive",
+            "Pharmaceutical",
+            "Insurance"
+        ],
+        "answer": "Insurance",
+        "explanation": "Total insured losses were estimated to be among the largest in history at the time."
+    },
+    {
+        "id": "E1013",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Confidence}$ $\\textbf{Index}$ plummeted immediately after 9/11, reflecting deep uncertainty about the future economy.",
+        "image": "",
+        "options": [
+            "Producer Price Index (PPI)",
+            "Consumer Confidence Index",
+            "Housing Starts",
+            "Durable Goods Orders"
+        ],
+        "answer": "Consumer Confidence Index",
+        "explanation": "Confidence is a key driver of consumer spending, which accounts for two-thirds of GDP."
+    },
+    {
+        "id": "E1014",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Growth}$ rate turned $\\textbf{negative}$ in the **third quarter** of 2001, confirming the severity of the recession.",
+        "image": "",
+        "options": [
+            "Q1 2001",
+            "Q2 2001",
+            "Q3 2001",
+            "Q4 2001"
+        ],
+        "answer": "Q3 2001",
+        "explanation": "The economy shrank in Q3 2001, but surprisingly rebounded slightly in Q4."
+    },
+    {
+        "id": "E1015",
+        "text": "The $\\textbf{primary}$ $\\textbf{objective}$ of the Fed's $\\textbf{aggressive}$ $\\textbf{rate}$ $\\textbf{cuts}$ in 2001 was to **stimulate aggregate demand** and stave off a deeper contraction.",
+        "image": "",
+        "options": [
+            "Reduce the trade deficit",
+            "Stimulate aggregate demand",
+            "Fight inflation",
+            "Increase government revenue"
+        ],
+        "answer": "Stimulate aggregate demand",
+        "explanation": "Lower rates encourage borrowing, investment, and consumer spending."
+    },
+    {
+        "id": "E1016",
+        "text": "The U.S. $\\textbf{Current}$ $\\textbf{Account}$ $\\textbf{deficit}$ **widened** in 2001 as imports, while slowing, still outpaced exports.",
+        "image": "",
+        "options": [
+            "Narrowed significantly",
+            "Widened",
+            "Turned into a surplus",
+            "Remained balanced"
+        ],
+        "answer": "Widened",
+        "explanation": "The strong dollar and continued consumer appetite for imports kept the deficit large."
+    },
+    {
+        "id": "E1017",
+        "text": "The $\\textbf{Housing}$ $\\textbf{market}$ remained $\\textbf{resilient}$ throughout 2001, partly due to the **historically low interest rates** resulting from the Fed's cuts.",
+        "image": "",
+        "options": [
+            "Rising commodity prices",
+            "High unemployment",
+            "Historically low interest rates",
+            "Government building contracts"
+        ],
+        "answer": "Historically low interest rates",
+        "explanation": "Low mortgage rates made housing more affordable, supporting the market during the recession."
+    },
+    {
+        "id": "E1018",
+        "text": "The $\\textbf{EGTRRA}$ tax law in 2001 also included provisions that began the $\\textbf{gradual}$ $\\textbf{elimination}$ of the **estate tax** (often called the 'death tax').",
+        "image": "",
+        "options": [
+            "Sales tax",
+            "Corporate tax",
+            "Estate tax",
+            "Payroll tax"
+        ],
+        "answer": "Estate tax",
+        "explanation": "The tax was scheduled for full repeal in 2010, though the repeal was temporary."
+    },
+    {
+        "id": "E1019",
+        "text": "A $\\textbf{bear}$ $\\textbf{market}$ is typically defined as a broad decline in stock prices of **20% or more** from recent highs.",
+        "image": "",
+        "options": [
+            "10% or more",
+            "20% or more",
+            "50% or more",
+            "A decline lasting at least six months"
+        ],
+        "answer": "20% or more",
+        "explanation": "The NASDAQ was firmly in a bear market throughout 2001."
+    },
+    {
+        "id": "E1020",
+        "text": "The $\\textbf{Discount}$ $\\textbf{Rate}$ is the interest rate at which commercial banks can borrow money directly from the Federal Reserve.",
+        "image": "",
+        "options": [
+            "Prime Rate",
+            "Federal Funds Rate",
+            "Discount Rate",
+            "Commercial Paper Rate"
+        ],
+        "answer": "Discount Rate",
+        "explanation": "The Fed lowered the discount rate significantly after 9/11 to ensure bank liquidity."
+    },
+    {
+        "id": "E1021",
+        "text": "The $\\textbf{Enron}$ $\\textbf{scandal}$, which involved massive accounting fraud and corporate collapse, began to $\\textbf{unravel}$ in late 2001.",
+        "image": "",
+        "options": [
+            "WorldCom",
+            "Tyco",
+            "Enron",
+            "Lehman Brothers"
+        ],
+        "answer": "Enron",
+        "explanation": "Enron filed for bankruptcy in December 2001, becoming the largest corporate failure in US history at that time."
+    },
+    {
+        "id": "E1022",
+        "text": "The $\\textbf{economic}$ $\\textbf{shock}$ of 9/11 was largely $\\textbf{regionalized}$ in the short term, heavily impacting the economy of $\\textbf{New}$ $\\textbf{York}$ $\\textbf{City}$ and the Mid-Atlantic.",
+        "image": "",
+        "options": [
+            "The Pacific Northwest",
+            "The Midwest farming belt",
+            "New York City",
+            "The Gulf Coast"
+        ],
+        "answer": "New York City",
+        "explanation": "The immediate destruction and disruption to the financial and services sector were concentrated in Lower Manhattan."
+    },
+    {
+        "id": "E1023",
+        "text": "The $\\textbf{velocity}$ of $\\textbf{money}$ (how quickly money changes hands) generally $\\textbf{decreased}$ in 2001, reflecting economic uncertainty and hoarding.",
+        "image": "",
+        "options": [
+            "Increased rapidly",
+            "Decreased",
+            "Remained stable",
+            "Doubled"
+        ],
+        "answer": "Decreased",
+        "explanation": "In recessions, fear and uncertainty cause people and businesses to hold onto cash, slowing its circulation."
+    },
+    {
+        "id": "E1024",
+        "text": "The $\\textbf{recession}$ of 2001 was notable for being one of the **mildest** in U.S. history in terms of GDP contraction, but the recovery was slow.",
+        "image": "",
+        "options": [
+            "Longest",
+            "Deepest",
+            "Mildest",
+            "Caused by hyperinflation"
+        ],
+        "answer": "Mildest",
+        "explanation": "The total GDP decline was shallow, yet job losses continued well into the 'recovery'."
+    },
+    {
+        "id": "E1025",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{multiplier}$ is the ratio of a change in $\\textbf{National}$ $\\textbf{Income}$ to the initial change in $\\textbf{Government}$ $\\textbf{Spending}$ or $\\textbf{Taxes}$ that caused it.",
+        "image": "",
+        "options": [
+            "Trade deficit",
+            "National Income",
+            "Inflation rate",
+            "Foreign investment"
+        ],
+        "answer": "National Income",
+        "explanation": "A higher multiplier means government spending or tax cuts have a larger stimulating effect."
+    },
+    {
+        "id": "E1026",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Target}$ $\\textbf{Rate}$ stood at **1.75%** at the end of 2001, down from 6.5% at the beginning of the year.",
+        "image": "",
+        "options": [
+            "0.0%",
+            "1.75%",
+            "4.5%",
+            "6.5%"
+        ],
+        "answer": "1.75%",
+        "explanation": "This extreme level of easing reflected the Fed's deep concern about the contraction."
+    },
+    {
+        "id": "E1027",
+        "text": "The $\\textbf{core}$ $\\textbf{Consumer}$ $\\textbf{Price}$ $\\textbf{Index}$ (CPI excluding food and energy) remained relatively **low** in 2001, giving the Fed room for aggressive cuts.",
+        "image": "",
+        "options": [
+            "High",
+            "Low",
+            "Volatile",
+            "Negative"
+        ],
+        "answer": "Low",
+        "explanation": "Low core inflation meant the Fed could focus solely on stimulating economic activity without worrying about price stability."
+    },
+    {
+        "id": "E1028",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Deflator}$ $\\textbf{measures}$ the price level of **all domestically produced goods and services**.",
+        "image": "",
+        "options": [
+            "Only imported goods",
+            "Only consumer goods",
+            "Only investment goods",
+            "All domestically produced goods and services"
+        ],
+        "answer": "All domestically produced goods and services",
+        "explanation": "It's a comprehensive measure of inflation based on GDP components."
+    },
+    {
+        "id": "E1029",
+        "text": "The $\\textbf{dollar}$ $\\textbf{exchange}$ $\\textbf{rate}$ experienced a period of $\\textbf{volatility}$ after 9/11 but remained relatively **strong** due to the 'safe haven' status of U.S. assets.",
+        "image": "",
+        "options": [
+            "Weak",
+            "Strong",
+            "Pegged to the Yen",
+            "Hyperinflated"
+        ],
+        "answer": "Strong",
+        "explanation": "Global capital fled to the perceived safety of U.S. government bonds, supporting the dollar's value."
+    },
+    {
+        "id": "E1030",
+        "text": "The $\\textbf{Bush}$ $\\textbf{Administration}$ utilized the concept of $\\textbf{supply}$-$\textbf{side}$ $\\textbf{economics}$ to justify the $\\textbf{EGTRRA}$ $\\textbf{tax}$ $\\textbf{cuts}$ by arguing they would increase **incentives to work and invest**.",
+        "image": "",
+        "options": [
+            "Reduce the national debt",
+            "Increase social welfare spending",
+            "Increase incentives to work and invest",
+            "Restrict trade"
+        ],
+        "answer": "Increase incentives to work and invest",
+        "explanation": "Supply-side theory posits that lower marginal tax rates boost long-term economic growth."
+    },
+    {
+        "id": "E1031",
+        "text": "A $\\textbf{Jobless}$ $\\textbf{Recovery}$ describes a $\\textbf{period}$ where $\\textbf{GDP}$ $\\textbf{growth}$ $\\textbf{resumes}$, but the $\\textbf{unemployment}$ $\\textbf{rate}$ $\\textbf{continues}$ to **rise or stagnate**.",
+        "image": "",
+        "options": [
+            "Falls rapidly",
+            "Rises or stagnates",
+            "Is consistently zero",
+            "Becomes negative"
+        ],
+        "answer": "Rises or stagnates",
+        "explanation": "The 2001 recession was followed by a prolonged 'jobless recovery,' as employers were slow to hire back staff."
+    },
+    {
+        "id": "E1032",
+        "text": "The $\\textbf{increase}$ in $\\textbf{defense}$ $\\textbf{spending}$ and $\\textbf{homeland}$ $\\textbf{security}$ after 9/11 acted as a major form of **expansionary fiscal policy**.",
+        "image": "",
+        "options": [
+            "Contractionary monetary policy",
+            "Expansionary fiscal policy",
+            "Contractionary fiscal policy",
+            "Currency manipulation"
+        ],
+        "answer": "Expansionary fiscal policy",
+        "explanation": "Increased government spending directly boosted aggregate demand."
+    },
+    {
+        "id": "E1033",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ made two emergency rate cuts in $\\textbf{September}$ $\\textbf{2001}$ (including one on 9/17 when the markets reopened) to restore confidence and liquidity.",
+        "image": "",
+        "options": [
+            "Three",
+            "Two",
+            "Zero",
+            "One"
+        ],
+        "answer": "Two",
+        "explanation": "The Fed acted decisively and rapidly to stabilize the financial system."
+    },
+    {
+        "id": "E1034",
+        "text": "The $\\textbf{Primary}$ $\\textbf{Dealer}$ $\\textbf{Credit}$ $\\textbf{Facility}$ was a temporary $\\textbf{Fed}$ $\\textbf{program}$ established after 9/11 to provide liquidity to **securities dealers**.",
+        "image": "",
+        "options": [
+            "Hedge funds",
+            "Commercial banks",
+            "Insurance companies",
+            "Securities dealers"
+        ],
+        "answer": "Securities dealers",
+        "explanation": "This was a novel use of the Fed's authority to support market functioning."
+    },
+    {
+        "id": "E1035",
+        "text": "The $\\textbf{oil}$ $\\textbf{price}$ was highly $\\textbf{volatil}$ in 2001, initially $\\textbf{falling}$ due to fears of reduced global demand after 9/11, before stabilizing.",
+        "image": "",
+        "options": [
+            "Rose steadily",
+            "Fell sharply",
+            "Remained fixed",
+            "Reached an all-time high"
+        ],
+        "answer": "Fell sharply",
+        "explanation": "Recession fears usually translate to lower expected demand for energy, driving prices down."
+    },
+    {
+        "id": "E1036",
+        "text": "The $\\textbf{Term}$ $\\textbf{structure}$ $\\textbf{of}$ $\\textbf{interest}$ $\\textbf{rates}$ (yield curve) $\\textbf{steepened}$ in 2001 as the Fed cut short-term rates but long-term rates remained relatively higher.",
+        "image": "",
+        "options": [
+            "Flattened",
+            "Steepened",
+            "Inverted",
+            "Reached parity"
+        ],
+        "answer": "Steepened",
+        "explanation": "Aggressive cuts to the Federal Funds Rate pull down the short end, steepening the curve."
+    },
+    {
+        "id": "E1037",
+        "text": "The $\\textbf{World}$ $\\textbf{Trade}$ $\\textbf{Organization}$ $\\textbf{(WTO)}$ held its Ministerial Conference in $\\textbf{Doha}$, $\\textbf{Qatar}$, in late 2001, launching the **Doha Development Agenda (DDA)**.",
+        "image": "",
+        "options": [
+            "Uruguay Round",
+            "Tokyo Round",
+            "Doha Development Agenda (DDA)",
+            "Kennedy Round"
+        ],
+        "answer": "Doha Development Agenda (DDA)",
+        "explanation": "The DDA was an effort to lower global trade barriers, particularly for developing nations."
+    },
+    {
+        "id": "E1038",
+        "text": "The $\\textbf{economic}$ $\\textbf{stimulus}$ $\\textbf{effect}$ of the EGTRRA $\\textbf{tax}$ $\\textbf{cuts}$ was $\\textbf{less}$ $\\textbf{than}$ $\\textbf{expected}$ initially, largely because the cuts were $\\textbf{phased}$ $\\textbf{in}$ over many years.",
+        "image": "",
+        "options": [
+            "Immediately felt and massive",
+            "Less than expected",
+            "Offset by high inflation",
+            "Targeted only at corporations"
+        ],
+        "answer": "Less than expected",
+        "explanation": "The cuts were heavily back-loaded, reducing their immediate punch for a recession."
+    },
+    {
+        "id": "E1039",
+        "text": "A $\\textbf{cyclical}$ $\\textbf{budget}$ $\\textbf{deficit}$ is the portion of the deficit that is due to a $\\textbf{recession}$ (low tax revenue, high social spending).",
+        "image": "",
+        "options": [
+            "Structural deficit",
+            "Primary deficit",
+            "Cyclical budget deficit",
+            "Trade deficit"
+        ],
+        "answer": "Cyclical budget deficit",
+        "explanation": "The 2001 recession caused tax receipts to drop, creating a large cyclical component of the deficit."
+    },
+    {
+        "id": "E1040",
+        "text": "The $\\textbf{Stock}$ $\\textbf{Market}$ $\\textbf{drop}$ after reopening on 9/17/2001 was characterized by the $\\textbf{S&P}$ $\\textbf{500}$ losing over **11%** of its value in one week.",
+        "image": "",
+        "options": [
+            "1%",
+            "5%",
+            "11%",
+            "20%"
+        ],
+        "answer": "11%",
+        "explanation": "The Dow had its worst weekly drop since 1933, reflecting the market's initial panic."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2015_01",
+      "text": "The number of electrons, protons, and neutrons in the atom $^ {35}_{17}\\text{Cl}$ are, respectively:",
+      "image": "",
+      "options": ["17, 18, 17", "17, 17, 18", "18, 17, 17", "35, 17, 18"],
+      "answer": "17, 17, 18",
+      "explanation": "Atomic number (17) = number of protons = number of electrons. Mass number (35) = protons + neutrons. Neutrons = 35 - 17 = 18."
+    },
+    {
+      "id": "JAMB_C_2015_02",
+      "text": "The principle that describes the filling of orbitals with electrons starting from the lowest energy level is the:",
+      "image": "",
+      "options": ["Hund's rule", "Pauli exclusion principle", "Aufbau principle", "Heisenberg principle"],
+      "answer": "Aufbau principle",
+      "explanation": "The Aufbau principle dictates that electrons occupy the lowest energy orbitals available before filling higher energy orbitals."
+    },
+    {
+      "id": "JAMB_C_2015_03",
+      "text": "A chemical reaction that releases heat to the surroundings is classified as:",
+      "image": "",
+      "options": ["Isothermic", "Endothermic", "Exothermic", "Isothermal"],
+      "answer": "Exothermic",
+      "explanation": "Exothermic reactions have a negative enthalpy change ($\\Delta H$) and release energy in the form of heat."
+    },
+    {
+      "id": "JAMB_C_2015_04",
+      "text": "Which of the following elements belongs to the halogen family?",
+      "image": "",
+      "options": ["Neon (Ne)", "Sulfur (S)", "Bromine (Br)", "Calcium (Ca)"],
+      "answer": "Bromine (Br)",
+      "explanation": "Halogens are the elements in Group 17 of the periodic table (F, Cl, Br, I, At)."
+    },
+    {
+      "id": "JAMB_C_2015_05",
+      "text": "The formula for the compound formed between magnesium ($Mg^{2+}$) and phosphate ($PO_4^{3-}$) ions is:",
+      "image": "",
+      "options": ["$MgPO_4$", "$Mg_3(PO_4)_2$", "$Mg_2(PO_4)_3$", "$Mg(PO_4)_2$"],
+      "answer": "$Mg_3(PO_4)_2$",
+      "explanation": "To balance the charges (Mg: +2, $PO_4$: -3), you need 3 magnesium ions and 2 phosphate ions, resulting in $Mg_3(PO_4)_2$."
+    },
+    {
+      "id": "JAMB_C_2015_06",
+      "text": "What type of hybridization is exhibited by the carbon atoms in ethene ($C_2H_4$)?",
+      "image": "",
+      "options": ["$sp$", "$sp^2$", "$sp^3$", "$dsp^2$"],
+      "answer": "$sp^2$",
+      "explanation": "Ethene contains a carbon-carbon double bond. Each carbon atom is bonded to three groups (two H, one C) and has a trigonal planar geometry, consistent with $sp^2$ hybridization."
+    },
+    {
+      "id": "JAMB_C_2015_07",
+      "text": "A saturated solution is one that:",
+      "image": "",
+      "options": ["Contains more solvent than solute", "Cannot dissolve any more solute at that temperature", "Contains the maximum amount of solute at any temperature", "Is electrically conductive"],
+      "answer": "Cannot dissolve any more solute at that temperature",
+      "explanation": "A saturated solution is at equilibrium, containing the maximum concentration of dissolved solute under specific conditions."
+    },
+    {
+      "id": "JAMB_C_2015_08",
+      "text": "The mass of $2.5$ moles of sodium hydroxide ($NaOH$) (Molar mass $\\approx 40 g/mol$) is:",
+      "image": "",
+      "options": ["10 g", "40 g", "80 g", "100 g"],
+      "answer": "100 g",
+      "explanation": "Mass = Moles $\\times$ Molar Mass = $2.5 \\text{ mol} \\times 40 \\text{ g/mol} = 100 \\text{ g}$."
+    },
+    {
+      "id": "JAMB_C_2015_09",
+      "text": "Which condition favours a high yield of ammonia in the Haber process: $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$ ($\\Delta H$ is negative)?",
+      "image": "",
+      "options": ["High temperature, low pressure", "Low temperature, low pressure", "Low temperature, high pressure", "High temperature, high pressure"],
+      "answer": "Low temperature, high pressure",
+      "explanation": "The forward reaction is exothermic (favored by low temperature) and results in fewer moles of gas (favored by high pressure), according to Le Chatelier's principle."
+    },
+    {
+      "id": "JAMB_C_2015_10",
+      "text": "The empirical formula of an organic compound that contains $40.0\\%$ carbon, $6.7\\%$ hydrogen, and $53.3\\%$ oxygen is:",
+      "image": "",
+      "options": ["$CHO$", "$CH_2O$", "$C_2H_4O_2$", "$C_2H_3O$"],
+      "answer": "$CH_2O$",
+      "explanation": "Moles ratio (C:H:O): $40/12 : 6.7/1 : 53.3/16 \\approx 3.33 : 6.7 : 3.33$. Dividing by the smallest value (3.33) gives the ratio $1:2:1$, so the empirical formula is $CH_2O$."
+    },
+    {
+      "id": "JAMB_C_2015_11",
+      "text": "The reaction of an alkene with hydrogen gas in the presence of a catalyst (e.g., $\\text{Nickel}$) is called:",
+      "image": "",
+      "options": ["Substitution", "Cracking", "Hydrogenation", "Saponification"],
+      "answer": "Hydrogenation",
+      "explanation": "Hydrogenation is an addition reaction where hydrogen is added across the double bond of an alkene to form an alkane."
+    },
+    {
+      "id": "JAMB_C_2015_12",
+      "text": "Which of the following compounds is an isomer of $CH_3CH_2CHO$ (Propanal)?",
+      "image": "",
+      "options": ["Propane", "Propanone", "Propan-1-ol", "Ethanoic acid"],
+      "answer": "Propanone",
+      "explanation": "Propanal (an aldehyde) has the formula $C_3H_6O$. Propanone (a ketone) has the same formula but a different functional group, making it a functional group isomer."
+    },
+    {
+      "id": "JAMB_C_2015_13",
+      "text": "Hard water can be softened by boiling because boiling removes:",
+      "image": "",
+      "options": ["Permanent hardness only", "Sodium chloride", "Temporary hardness only", "Calcium sulfate"],
+      "answer": "Temporary hardness only",
+      "explanation": "Boiling causes the decomposition of calcium and magnesium hydrogencarbonates (which cause temporary hardness) into insoluble carbonates, which precipitate out."
+    },
+    {
+      "id": "JAMB_C_2015_14",
+      "text": "Which of the following is used as a standard for relative atomic masses?",
+      "image": "",
+      "options": ["Hydrogen-1", "Oxygen-16", "Carbon-12", "Fluorine-19"],
+      "answer": "Carbon-12",
+      "explanation": "The atomic mass unit (amu) is defined as $\\frac{1}{12}$ the mass of a single atom of the carbon-12 isotope."
+    },
+    {
+      "id": "JAMB_C_2015_15",
+      "text": "An increase in pressure on a gaseous system will shift the equilibrium towards the side with:",
+      "image": "",
+      "options": ["Fewer moles of gas", "More moles of gas", "Higher $\\Delta H$", "Lower $\\Delta S$"],
+      "answer": "Fewer moles of gas",
+      "explanation": "According to Le Chatelier's principle, increasing pressure favours the reaction direction that reduces the total number of gaseous moles to counteract the stress."
+    },
+    {
+      "id": "JAMB_C_2015_16",
+      "text": "The $\\text{pH}$ of a $0.001 M$ solution of $\\text{HCl}$ is:",
+      "image": "",
+      "options": ["1", "2", "3", "11"],
+      "answer": "3",
+      "explanation": "$\\text{HCl}$ is a strong acid, so $[H^+] = 0.001 M = 10^{-3} M$. $\\text{pH} = -\\log[H^+] = -\\log(10^{-3}) = 3$."
+    },
+    {
+      "id": "JAMB_C_2015_17",
+      "text": "The type of bond formed between two non-metallic atoms by the sharing of electron pairs is a:",
+      "image": "",
+      "options": ["Ionic bond", "Metallic bond", "Coordinate bond", "Covalent bond"],
+      "answer": "Covalent bond",
+      "explanation": "Covalent bonds result from the mutual sharing of valence electrons between atoms, typically non-metals."
+    },
+    {
+      "id": "JAMB_C_2015_18",
+      "text": "Which of the following is the most suitable method for separating a mixture of sand and salt?",
+      "image": "",
+      "options": ["Sublimation", "Filtration and evaporation", "Simple distillation", "Fractional distillation"],
+      "answer": "Filtration and evaporation",
+      "explanation": "Salt dissolves in water (unlike sand). Dissolve the mixture, filter to remove the sand, and evaporate the water to recover the salt."
+    },
+    {
+      "id": "JAMB_C_2015_19",
+      "text": "An element with an electronic configuration of $1s^2 2s^2 2p^6 3s^2 3p^4$ belongs to which group and period?",
+      "image": "",
+      "options": ["Group 4, Period 3", "Group 6, Period 3", "Group 16, Period 3", "Group 14, Period 4"],
+      "answer": "Group 16, Period 3",
+      "explanation": "The highest principal quantum number is 3 (Period 3). Valence electrons: $2 + 4 = 6$. Since it's a p-block element, Group Number = $10 + 6 = 16$ (Sulfur)."
+    },
+    {
+      "id": "JAMB_C_2015_20",
+      "text": "The reduction of copper(II) oxide by hydrogen is an example of a:",
+      "image": "",
+      "options": ["Displacement reaction", "Decomposition reaction", "Redox reaction", "Neutralization reaction"],
+      "answer": "Redox reaction",
+      "explanation": "In $CuO + H_2 \\to Cu + H_2O$, Copper's oxidation state decreases (reduction) and Hydrogen's increases (oxidation)."
+    },
+    {
+      "id": "JAMB_C_2015_21",
+      "text": "What is the primary product of the complete combustion of methane ($CH_4$)?",
+      "image": "",
+      "options": ["Carbon monoxide and water", "Carbon dioxide and water", "Soot and water", "Methanol"],
+      "answer": "Carbon dioxide and water",
+      "explanation": "Complete combustion of a hydrocarbon: $CH_4 + 2O_2 \\to CO_2 + 2H_2O$."
+    },
+    {
+      "id": "JAMB_C_2015_22",
+      "text": "In the process of electrolysis, reduction occurs at the:",
+      "image": "",
+      "options": ["Anode", "Cathode", "Salt bridge", "Electrolyte"],
+      "answer": "Cathode",
+      "explanation": "Reduction is the gain of electrons. In an electrochemical cell, electrons are gained at the cathode (Cations move to the Cathode)."
+    },
+    {
+      "id": "JAMB_C_2015_23",
+      "text": "The volume of a fixed mass of gas is directly proportional to its absolute temperature at constant pressure. This is a statement of:",
+      "image": "",
+      "options": ["Boyle's Law", "Dalton's Law", "Charles's Law", "Gay-Lussac's Law"],
+      "answer": "Charles's Law",
+      "explanation": "Charles's Law states that $\\frac{V}{T} = constant$ or $V \\propto T$, where $T$ is the absolute temperature."
+    },
+    {
+      "id": "JAMB_C_2015_24",
+      "text": "Which of the following allotropes of carbon is an excellent electrical conductor?",
+      "image": "",
+      "options": ["Diamond", "Soot", "Graphite", "Buckminsterfullerene"],
+      "answer": "Graphite",
+      "explanation": "Graphite has delocalized electrons between its layers, allowing it to conduct electricity."
+    },
+    {
+      "id": "JAMB_C_2015_25",
+      "text": "The $\\text{pH}$ of a solution can be accurately measured using a:",
+      "image": "",
+      "options": ["Litmus paper", "Universal indicator solution", "Burette", "pH meter"],
+      "answer": "pH meter",
+      "explanation": "While indicators give an approximate value, a $\\text{pH}$ meter provides a precise, numerical reading of the $\\text{pH}$."
+    },
+    {
+      "id": "JAMB_C_2015_26",
+      "text": "An increase in temperature generally increases the rate of a chemical reaction because:",
+      "image": "",
+      "options": ["It decreases the activation energy", "It increases the concentration of reactants", "It increases the frequency of effective collisions", "It shifts the equilibrium position"],
+      "answer": "It increases the frequency of effective collisions",
+      "explanation": "Higher temperature increases the kinetic energy of molecules, leading to a greater proportion of molecules exceeding the activation energy and thus more effective collisions."
+    },
+    {
+      "id": "JAMB_C_2015_27",
+      "text": "The systematic name for $CH_3CH_2COOCH_3$ is:",
+      "image": "",
+      "options": ["Methyl propanoate", "Ethyl acetate", "Propyl methanoate", "Methyl ethanoate"],
+      "answer": "Methyl propanoate",
+      "explanation": "This is an ester. The alcohol part ($CH_3$) gives 'methyl', and the carboxylic acid part ($CH_3CH_2COOH$, propanoic acid) gives 'propanoate'."
+    },
+    {
+      "id": "JAMB_C_2015_28",
+      "text": "Which process is responsible for the removal of scale (calcium carbonate) from boilers?",
+      "image": "",
+      "options": ["Filtration", "Decantation", "Adding dilute acid", "Boiling"],
+      "answer": "Adding dilute acid",
+      "explanation": "Calcium carbonate ($CaCO_3$) is a base and reacts with dilute acids (like $\\text{HCl}$) to form soluble salts, water, and $\\text{CO}_2$ gas: $CaCO_3(s) + 2HCl(aq) \\to CaCl_2(aq) + H_2O(l) + CO_2(g)$."
+    },
+    {
+      "id": "JAMB_C_2015_29",
+      "text": "The bonding in the ammonium ion ($NH_4^+$) involves:",
+      "image": "",
+      "options": ["Only covalent bonds", "Only ionic bonds", "Ionic and metallic bonds", "Covalent and coordinate (dative) bonds"],
+      "answer": "Covalent and coordinate (dative) bonds",
+      "explanation": "The three $\\text{N-H}$ bonds are covalent, and the fourth bond is a coordinate bond formed when the lone pair on the $\\text{N}$ atom in $\\text{NH}_3$ is donated to an $\\text{H}^+$ ion."
+    },
+    {
+      "id": "JAMB_C_2015_30",
+      "text": "If $K_c$ for a reversible reaction is very large (much greater than 1), it implies that:",
+      "image": "",
+      "options": ["The reaction is very slow", "The equilibrium favours the reactants", "The equilibrium favours the products", "The reaction is exothermic"],
+      "answer": "The equilibrium favours the products",
+      "explanation": "$K_c = \\frac{[\\text{Products}]}{[\\text{Reactants}]}$. A large $K_c$ means the concentration of products is much higher than that of reactants at equilibrium."
+    },
+    {
+      "id": "JAMB_C_2015_31",
+      "text": "Which of the following is an example of a mixture?",
+      "image": "",
+      "options": ["Water ($H_2O$)", "Sodium chloride ($NaCl$)", "Air", "Carbon dioxide ($CO_2$)"],
+      "answer": "Air",
+      "explanation": "Air is a mixture of gases (mostly nitrogen and oxygen), not a fixed chemical compound."
+    },
+    {
+      "id": "JAMB_C_2015_32",
+      "text": "Faraday's first law of electrolysis states that the mass of a substance liberated at an electrode is proportional to the:",
+      "image": "",
+      "options": ["Time of electrolysis", "Current passed", "Amount of electricity passed", "Electrochemical equivalent"],
+      "answer": "Amount of electricity passed",
+      "explanation": "Faraday's first law: $m \\propto Q$, where $Q$ is the quantity of electricity (charge) passed ($Q=It$). "
+    },
+    {
+      "id": "JAMB_C_2015_33",
+      "text": "The reaction of an alkane with chlorine gas in the presence of ultraviolet light is an example of:",
+      "image": "",
+      "options": ["Addition reaction", "Polymerization", "Substitution reaction", "Elimination reaction"],
+      "answer": "Substitution reaction",
+      "explanation": "Alkanes undergo free radical substitution reactions, where a hydrogen atom is replaced by a halogen atom, e.g., $CH_4 + Cl_2 \\to CH_3Cl + HCl$."
+    },
+    {
+      "id": "JAMB_C_2015_34",
+      "text": "A compound used in the vulcanization of rubber is:",
+      "image": "",
+      "options": ["Carbon monoxide", "Sulphur", "Chlorine", "Iron"],
+      "answer": "Sulphur",
+      "explanation": "Vulcanization is a chemical process for converting natural rubber or related polymers into more durable materials by adding sulphur or other curatives."
+    },
+    {
+      "id": "JAMB_C_2015_35",
+      "text": "The allotrope of oxygen, $\\text{O}_3$, is known as:",
+      "image": "",
+      "options": ["Hydrogen peroxide", "Ozone", "Heavy oxygen", "Atomic oxygen"],
+      "answer": "Ozone",
+      "explanation": "Ozone is an inorganic molecule with the chemical formula $\\text{O}_3$ and is a powerful oxidizing agent."
+    },
+    {
+      "id": "JAMB_C_2015_36",
+      "text": "In a colloidal solution, the dispersed phase can be separated from the dispersion medium using:",
+      "image": "",
+      "options": ["Filtration", "Simple evaporation", "Centrifugation", "Decantation"],
+      "answer": "Centrifugation",
+      "explanation": "Colloidal particles are too small to be separated by normal filtration. Centrifugation uses high-speed rotation to separate the dispersed phase based on density."
+    },
+    {
+      "id": "JAMB_C_2015_37",
+      "text": "The formula of the gas released when sodium carbonate reacts with dilute hydrochloric acid is:",
+      "image": "",
+      "options": ["$H_2$", "$O_2$", "$CO_2$", "$Cl_2$"],
+      "answer": "$CO_2$",
+      "explanation": "The reaction is $Na_2CO_3(s) + 2HCl(aq) \\to 2NaCl(aq) + H_2O(l) + CO_2(g)$. Carbon dioxide is released."
+    },
+    {
+      "id": "JAMB_C_2015_38",
+      "text": "Which of the following is the defining characteristic of a homologous series in organic chemistry?",
+      "image": "",
+      "options": ["Different functional groups", "Same empirical formula", "Successive members differ by a $CH_2$ unit", "All members are gases"],
+      "answer": "Successive members differ by a $CH_2$ unit",
+      "explanation": "Homologous series members have the same general formula and functional group, and successive members differ in molecular formula by one methylene ($CH_2$) unit."
+    },
+    {
+      "id": "JAMB_C_2015_39",
+      "text": "The metallic lustre and good electrical conductivity of metals are attributed to the presence of:",
+      "image": "",
+      "options": ["Tightly bound valence electrons", "Localized protons", "Delocalized electrons", "Strong ionic bonds"],
+      "answer": "Delocalized electrons",
+      "explanation": "The 'sea of electrons' model of metallic bonding explains these properties, where electrons are free to move throughout the structure."
+    },
+    {
+      "id": "JAMB_C_2015_40",
+      "text": "A student collected a gas over water. To determine the amount of the pure, dry gas, the student must apply:",
+      "image": "",
+      "options": ["Boyle's law", "Dalton's law of partial pressures", "Graham's law", "Avogadro's law"],
+      "answer": "Dalton's law of partial pressures",
+      "explanation": "The total pressure equals the pressure of the gas plus the saturated vapour pressure of water (water vapour) at that temperature: $P_{\\text{total}} = P_{\\text{gas}} + P_{\\text{water vapor}}$."
+    }
+  ]

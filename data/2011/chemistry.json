@@ -1,0 +1,322 @@
+[
+    {
+      "id": "CHEM_2011_01",
+      "text": "Which of the following separation techniques is best suited for separating a mixture of two solids with different solubilities in the same solvent?",
+      "image": "",
+      "options": ["Distillation", "Fractional crystallization", "Filtration", "Sublimation"],
+      "answer": "Fractional crystallization",
+      "explanation": "Fractional crystallization takes advantage of differences in solubility. By dissolving the mixture and changing the temperature, the less soluble solid crystallizes out first."
+    },
+    {
+      "id": "CHEM_2011_02",
+      "text": "The number of neutrons in the nucleus of an atom ${}^{31}_{15}\text{P}$ is:",
+      "image": "",
+      "options": ["15", "16", "31", "46"],
+      "answer": "16",
+      "explanation": "Number of neutrons = Mass number (A) - Atomic number (Z). $N = 31 - 15 = 16$."
+    },
+    {
+      "id": "CHEM_2011_03",
+      "text": "An element X forms an ion $\text{X}^{2+}$ with the electronic configuration $1s^2 2s^2 2p^6$. The atomic number of X is:",
+      "image": "",
+      "options": ["10", "12", "14", "16"],
+      "answer": "12",
+      "explanation": "The ion $\text{X}^{2+}$ has 10 electrons ($2+2+6$). Since it formed by losing 2 electrons, the neutral atom had $10 + 2 = 12$ electrons. Thus, atomic number is 12 (Magnesium)."
+    },
+    {
+      "id": "CHEM_2011_04",
+      "text": "Which of the following molecules has a coordinate covalent (dative) bond?",
+      "image": "",
+      "options": ["$\text{NH}_3$", "$\text{H}_2\text{O}$", "$\text{NH}_4^+$", "$\text{CH}_4$"],
+      "answer": "$\text{NH}_4^+$",
+      "explanation": "In the ammonium ion ($\text{NH}_4^+$), the nitrogen atom provides both electrons for the bond with the fourth hydrogen ion ($\text{H}^+$), forming a dative bond."
+    },
+    {
+      "id": "CHEM_2011_05",
+      "text": "According to Charles' Law, the volume of a given mass of gas is directly proportional to its:",
+      "image": "[Graph of V vs T for Charles' Law]",
+      "options": ["Pressure in Pascals", "Temperature in Celsius", "Temperature in Kelvin", "Density"],
+      "answer": "Temperature in Kelvin",
+      "explanation": "Charles' Law states $V \\propto T$, where $T$ is the absolute temperature measured in Kelvin."
+    },
+    {
+      "id": "CHEM_2011_06",
+      "text": "Standard Temperature and Pressure (S.T.P.) refers to:",
+      "image": "",
+      "options": ["$0^\\circ\text{C}$ and $760\text{ mmHg}$", "$25^\\circ\text{C}$ and $760\text{ mmHg}$", "$0\text{ K}$ and $760\text{ mmHg}$", "$100^\\circ\text{C}$ and $760\text{ mmHg}$"],
+      "answer": "$0^\\circ\text{C}$ and $760\text{ mmHg}$",
+      "explanation": "S.T.P. is defined as a temperature of $0^\\circ\text{C}$ ($273\text{ K}$) and a pressure of $1\text{ atm}$ ($760\text{ mmHg}$ or $101.3\text{ kPa}$)."
+    },
+    {
+      "id": "CHEM_2011_07",
+      "text": "The number of atoms in 2.0 moles of Neon gas is: [Avogadro's constant = $6.02 \times 10^{23}\text{ mol}^{-1}$]",
+      "image": "",
+      "options": ["$6.02 \times 10^{23}$", "$1.20 \times 10^{24}$", "$3.01 \times 10^{23}$", "$1.20 \times 10^{23}$"],
+      "answer": "$1.20 \times 10^{24}$",
+      "explanation": "Number of atoms = Moles $\times N_A = 2.0 \times 6.02 \times 10^{23} = 12.04 \times 10^{23} = 1.204 \times 10^{24}$."
+    },
+    {
+      "id": "CHEM_2011_08",
+      "text": "What mass of water is produced when $8.0\text{ g}$ of hydrogen reacts with excess oxygen? [$\text{H}=1, \text{O}=16$]",
+      "image": "",
+      "options": ["$72\text{ g}$", "$36\text{ g}$", "$18\text{ g}$", "$9\text{ g}$"],
+      "answer": "$72\text{ g}$",
+      "explanation": "$2\text{H}_2 + \text{O}_2 \rightarrow 2\text{H}_2\text{O}$. Moles of $\text{H}_2$ = $8/2 = 4\text{ mol}$. From stoichiometry, 4 moles of $\text{H}_2$ produce 4 moles of $\text{H}_2\text{O}$. Mass of $\text{H}_2\text{O} = 4 \times 18 = 72\text{ g}$."
+    },
+    {
+      "id": "CHEM_2011_09",
+      "text": "A substance that changes colour in an acid or base is called a(n):",
+      "image": "",
+      "options": ["Catalyst", "Buffer", "Indicator", "Electrolyte"],
+      "answer": "Indicator",
+      "explanation": "Indicators (like litmus, phenolphthalein) are weak acids or bases that change colour depending on the pH of the solution."
+    },
+    {
+      "id": "CHEM_2011_10",
+      "text": "Which of the following pH values indicates a strong alkali?",
+      "image": "",
+      "options": ["1", "6", "9", "13"],
+      "answer": "13",
+      "explanation": "The pH scale ranges from 0 to 14. Values close to 14 (like 13) indicate strong alkalinity, while values near 0 indicate strong acidity."
+    },
+    {
+      "id": "CHEM_2011_11",
+      "text": "The solubility of $\text{KNO}_3$ increases rapidly with temperature. This property is used in:",
+      "image": "",
+      "options": ["Preparing standard solutions", "Determining water of crystallization", "Purifying the salt by recrystallization", "Testing for nitrate ions"],
+      "answer": "Purifying the salt by recrystallization",
+      "explanation": "Recrystallization relies on the high solubility of the solute at high temperatures and low solubility at low temperatures to form pure crystals."
+    },
+    {
+      "id": "CHEM_2011_12",
+      "text": "Which of the following gases is collected by upward delivery (downward displacement of air)?",
+      "image": "",
+      "options": ["Ammonia", "Carbon(IV) oxide", "Chlorine", "Sulphur(IV) oxide"],
+      "answer": "Ammonia",
+      "explanation": "Upward delivery is used for gases lighter than air. Ammonia ($\text{NH}_3$, molar mass 17) is lighter than air (approx molar mass 29). $\text{CO}_2, \text{Cl}_2$, and $\text{SO}_2$ are heavier than air."
+    },
+    {
+      "id": "CHEM_2011_13",
+      "text": "The oxidation number of Sulphur in $\text{H}_2\text{SO}_4$ is:",
+      "image": "",
+      "options": ["+2", "+4", "+6", "-2"],
+      "answer": "+6",
+      "explanation": "$2(+1) + S + 4(-2) = 0 \\Rightarrow 2 + S - 8 = 0 \\Rightarrow S = +6$."
+    },
+    {
+      "id": "CHEM_2011_14",
+      "text": "In the electrolysis of brine (concentrated $\text{NaCl}$), the anode product is:",
+      "image": "[Diagram of a diaphragm cell for brine electrolysis]",
+      "options": ["Hydrogen", "Sodium", "Chlorine", "Oxygen"],
+      "answer": "Chlorine",
+      "explanation": "In concentrated $\text{NaCl}$, chloride ions ($\text{Cl}^-$) are preferentially discharged at the anode over hydroxide ions ($\text{OH}^-$) due to their higher concentration, producing chlorine gas."
+    },
+    {
+      "id": "CHEM_2011_15",
+      "text": "An endothermic reaction is one in which:",
+      "image": "",
+      "options": ["Heat is evolved", "The enthalpy change is negative", "The container feels hot", "Heat is absorbed from the surroundings"],
+      "answer": "Heat is absorbed from the surroundings",
+      "explanation": "Endothermic reactions absorb energy (heat) from the surroundings, resulting in a positive enthalpy change ($\\Delta H > 0$)."
+    },
+    {
+      "id": "CHEM_2011_16",
+      "text": "The rate of a chemical reaction generally doubles for every $10^\\circ\text{C}$ rise in temperature because:",
+      "image": "",
+      "options": ["Activation energy is lowered", "More reactant molecules are formed", "The number of effective collisions increases", "The pressure increases"],
+      "answer": "The number of effective collisions increases",
+      "explanation": "Increasing temperature increases the kinetic energy of particles, leading to more energetic collisions that overcome the activation energy barrier."
+    },
+    {
+      "id": "CHEM_2011_17",
+      "text": "Which equilibrium constant expression ($K_c$) is correct for the reaction: $\text{N}_2(g) + 3\text{H}_2(g) \rightleftharpoons 2\text{NH}_3(g)$?",
+      "image": "",
+      "options": ["$[\text{NH}_3] / ([\text{N}_2][\text{H}_2])$", "$[\text{NH}_3]^2 / ([\text{N}_2][\text{H}_2]^3)$", "$([\text{N}_2][\text{H}_2]^3) / [\text{NH}_3]^2$", "$2[\text{NH}_3] / ([\text{N}_2] + 3[\text{H}_2])$"],
+      "answer": "$[\text{NH}_3]^2 / ([\text{N}_2][\text{H}_2]^3)$",
+      "explanation": "$K_c$ is the ratio of product concentrations to reactant concentrations, each raised to the power of their stoichiometric coefficients."
+    },
+    {
+      "id": "CHEM_2011_18",
+      "text": "Which allotrope of Carbon is used as a lubricant?",
+      "image": "[Structure of graphite layers]",
+      "options": ["Diamond", "Graphite", "Amorphous carbon", "Fullerene"],
+      "answer": "Graphite",
+      "explanation": "Graphite has a layered structure with weak Van der Waals forces between layers, allowing them to slide over each other, making it an excellent lubricant."
+    },
+    {
+      "id": "CHEM_2011_19",
+      "text": "Water gas is a mixture of:",
+      "image": "",
+      "options": ["$\text{CO}_2$ and $\text{H}_2$", "$\text{CO}$ and $\text{H}_2$", "$\text{CO}$ and $\text{H}_2\text{O}$", "$\text{CH}_4$ and $\text{H}_2\text{O}$"],
+      "answer": "$\text{CO}$ and $\text{H}_2$",
+      "explanation": "Water gas (or synthesis gas) is a fuel gas consisting mainly of carbon monoxide ($\text{CO}$) and hydrogen ($\text{H}_2$). It is produced by passing steam over red-hot coke."
+    },
+    {
+      "id": "CHEM_2011_20",
+      "text": "The compound responsible for the bleaching action of chlorine in water is:",
+      "image": "",
+      "options": ["$\text{HCl}$", "$\text{HOCl}$", "$\text{ClO}_2$", "$\text{Cl}_2\text{O}$"],
+      "answer": "$\text{HOCl}$",
+      "explanation": "Chlorine reacts with water to form hydrochloric acid ($\text{HCl}$) and hypochlorous acid ($\text{HOCl}$). $\text{HOCl}$ is unstable and releases nascent oxygen, which causes bleaching."
+    },
+    {
+      "id": "CHEM_2011_21",
+      "text": "Which of the following metals can displace hydrogen from cold water?",
+      "image": "[Reactivity series of metals]",
+      "options": ["Copper", "Iron", "Magnesium", "Sodium"],
+      "answer": "Sodium",
+      "explanation": "Sodium is very high in the electrochemical series and reacts vigorously with cold water to produce sodium hydroxide and hydrogen gas."
+    },
+    {
+      "id": "CHEM_2011_22",
+      "text": "The main ore of Aluminium is:",
+      "image": "",
+      "options": ["Haematite", "Bauxite", "Magnetite", "Galena"],
+      "answer": "Bauxite",
+      "explanation": "Bauxite (hydrated aluminium oxide) is the primary commercial ore of aluminium."
+    },
+    {
+      "id": "CHEM_2011_23",
+      "text": "Which homologous series follows the general formula $\text{C}_n\text{H}_{2n}$?",
+      "image": "",
+      "options": ["Alkanes", "Alkenes", "Alkynes", "Alkanols"],
+      "answer": "Alkenes",
+      "explanation": "The general formula for alkenes (containing one double bond) is $\text{C}_n\text{H}_{2n}$."
+    },
+    {
+      "id": "CHEM_2011_24",
+      "text": "The IUPAC name for $\text{CH}_3-\text{CH}(\text{Cl})-\text{CH}_3$ is:",
+      "image": "",
+      "options": ["1-chloropropane", "2-chloropropane", "3-chloropropane", "Chlorobutane"],
+      "answer": "2-chloropropane",
+      "explanation": "The chlorine atom is attached to the second carbon of a three-carbon propane chain."
+    },
+    {
+      "id": "CHEM_2011_25",
+      "text": "Ethene undergoes polymerization to form:",
+      "image": "",
+      "options": ["Polystyrene", "Polyvinyl chloride", "Polythene", "Nylon"],
+      "answer": "Polythene",
+      "explanation": "Polymerization of ethene (ethylene) yields polyethylene (polythene)."
+    },
+    {
+      "id": "CHEM_2011_26",
+      "text": "Ethanol is soluble in water because it can form:",
+      "image": "",
+      "options": ["Ionic bonds", "Covalent bonds", "Hydrogen bonds", "Metallic bonds"],
+      "answer": "Hydrogen bonds",
+      "explanation": "The hydroxyl (-OH) group in ethanol is polar and forms hydrogen bonds with water molecules, leading to solubility."
+    },
+    {
+      "id": "CHEM_2011_27",
+      "text": "When carboxylic acids react with alcohols, the product is:",
+      "image": "[General reaction for esterification]",
+      "options": ["A ketone", "An aldehyde", "An ester", "An ether"],
+      "answer": "An ester",
+      "explanation": "This is an esterification reaction: Acid + Alcohol $\rightleftharpoons$ Ester + Water."
+    },
+    {
+      "id": "CHEM_2011_28",
+      "text": "Which of the following is a condensation polymer?",
+      "image": "",
+      "options": ["Polythene", "Nylon", "Polyvinyl chloride", "Polystyrene"],
+      "answer": "Nylon",
+      "explanation": "Nylon is formed by condensation polymerization where monomers join with the loss of a small molecule (like water), unlike the others which are addition polymers."
+    },
+    {
+      "id": "CHEM_2011_29",
+      "text": "Soap is chemically defined as:",
+      "image": "",
+      "options": ["A fatty acid", "A glycerol ester", "A sodium or potassium salt of a fatty acid", "A synthetic detergent"],
+      "answer": "A sodium or potassium salt of a fatty acid",
+      "explanation": "Soaps are salts produced by the reaction of fatty acids (from fats/oils) with a strong alkali ($\text{NaOH}$ or $\text{KOH}$)."
+    },
+    {
+      "id": "CHEM_2011_30",
+      "text": "Which pollutant is associated with acid rain?",
+      "image": "",
+      "options": ["$\text{CO}$", "$\text{SO}_2$", "$\text{CH}_4$", "$\text{CFCs}$"],
+      "answer": "$\text{SO}_2$",
+      "explanation": "Sulphur dioxide ($\text{SO}_2$) and Nitrogen oxides ($\text{NO}_x$) react with atmospheric moisture to form sulfuric and nitric acids, causing acid rain."
+    },
+    {
+      "id": "CHEM_2011_31",
+      "text": "A mixture of sand and ammonium chloride can be separated by:",
+      "image": "",
+      "options": ["Filtration", "Decantation", "Sublimation", "Evaporation"],
+      "answer": "Sublimation",
+      "explanation": "Ammonium chloride sublimes upon heating (turns from solid to gas directly), while sand is stable. The $\text{NH}_4\text{Cl}$ can be collected on a cool surface."
+    },
+    {
+      "id": "CHEM_2011_32",
+      "text": "The atomic radius generally decreases across a period because:",
+      "image": "",
+      "options": ["Number of shells increases", "Nuclear charge increases", "Screening effect increases", "Atomic mass decreases"],
+      "answer": "Nuclear charge increases",
+      "explanation": "Across a period, protons are added to the nucleus increasing the positive charge, pulling the same shell of electrons closer, thus reducing the radius."
+    },
+    {
+      "id": "CHEM_2011_33",
+      "text": "Which of the following compounds has a giant ionic lattice structure?",
+      "image": "[Crystal lattice structure of NaCl]",
+      "options": ["Silicon(IV) oxide", "Sodium chloride", "Graphite", "Diamond"],
+      "answer": "Sodium chloride",
+      "explanation": "$\text{NaCl}$ consists of a repeating lattice of positive ($\text{Na}^+$) and negative ($\text{Cl}^-$) ions held by electrostatic forces. The others are covalent structures."
+    },
+    {
+      "id": "CHEM_2011_34",
+      "text": "How many isomers does pentane ($\text{C}_5\text{H}_{12}$) have?",
+      "image": "",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "explanation": "The isomers are n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane)."
+    },
+    {
+      "id": "CHEM_2011_35",
+      "text": "The test for unsaturation (presence of double/triple bonds) involves the decolourization of:",
+      "image": "",
+      "options": ["Bromine water", "Lime water", "Litmus solution", "Methyl orange"],
+      "answer": "Bromine water",
+      "explanation": "Unsaturated hydrocarbons react with reddish-brown bromine water (addition reaction) to form a colourless product."
+    },
+    {
+      "id": "CHEM_2011_36",
+      "text": "Hardness in water can be removed by adding:",
+      "image": "",
+      "options": ["$\text{Ca}(\text{OH})_2$", "$\text{Na}_2\text{CO}_3$ (Washing soda)", "$\text{HCl}$", "$\text{NaCl}$"],
+      "answer": "$\text{Na}_2\text{CO}_3$ (Washing soda)",
+      "explanation": "Washing soda precipitates calcium and magnesium ions as insoluble carbonates ($\text{CaCO}_3$ or $\text{MgCO}_3$)."
+    },
+    {
+      "id": "CHEM_2011_37",
+      "text": "Which radiation is negatively charged?",
+      "image": "",
+      "options": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": "Beta",
+      "explanation": "Beta particles are high-energy electrons, carrying a negative charge ($-1$)."
+    },
+    {
+      "id": "CHEM_2011_38",
+      "text": "The purity of a solid substance can be best determined by its:",
+      "image": "",
+      "options": ["Boiling point", "Melting point", "Density", "Solubility"],
+      "answer": "Melting point",
+      "explanation": "A pure solid melts sharply at a specific temperature. Impurities lower the melting point and broaden the range."
+    },
+    {
+      "id": "CHEM_2011_39",
+      "text": "The deliquescent substance used in desiccators is:",
+      "image": "",
+      "options": ["$\text{CuO}$", "$\text{Na}_2\text{CO}_3 \\cdot 10\text{H}_2\text{O}$", "$\text{CaCl}_2$", "$\text{CuSO}_4 \\cdot 5\text{H}_2\text{O}$"],
+      "answer": "$\text{CaCl}_2$",
+      "explanation": "Fused Calcium chloride ($\text{CaCl}_2$) absorbs moisture from the air to dissolve and form a solution, making it an effective drying agent (desiccant)."
+    },
+    {
+      "id": "CHEM_2011_40",
+      "text": "Which of the following is NOT a characteristic of a transition metal?",
+      "image": "",
+      "options": ["Variable oxidation states", "Complex ion formation", "Catalytic activity", "Low melting point"],
+      "answer": "Low melting point",
+      "explanation": "Transition metals typically have high melting points and densities. Zinc and Mercury are exceptions, but high MP is the general rule compared to s-block metals."
+    }
+]

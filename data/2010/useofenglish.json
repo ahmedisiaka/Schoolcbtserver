@@ -1,0 +1,514 @@
+[
+    {
+      "id": "U2010_1",
+      "text": "The massive $\\textbf{7.0}$ $\\textbf{magnitude}$ $\\textbf{earthquake}$ that struck $\\textbf{Haiti}$ in January 2010 was a major humanitarian $\\textbf{catastrophe}$, flattening much of the capital, $\\textbf{Port-au-Prince}$. (Comprehension Passage Snippet 1)\n\nWhat was the approximate magnitude of the earthquake that struck Haiti in 2010?",
+      "image": "",
+      "options": [
+        "5.5 magnitude",
+        "7.0 magnitude",
+        "9.1 magnitude",
+        "6.5 magnitude"
+      ],
+      "answer": "7.0 magnitude",
+      "explanation": "The text explicitly mentions the 'massive 7.0 magnitude earthquake'."
+    },
+    {
+      "id": "U2010_2",
+      "text": "The devastation caused by the quake was a major $\\textbf{catastrophe}$ for the island nation.\n\nChoose the word that is closest in meaning to $\\textbf{catastrophe}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Minor incident",
+        "Large-scale disaster",
+        "Small disagreement",
+        "Political success"
+      ],
+      "answer": "Large-scale disaster",
+      "explanation": "A catastrophe is an event causing great and usually sudden damage or suffering; a disaster."
+    },
+    {
+      "id": "U2010_3",
+      "text": "If the international community $\\textbf{(had responded/has responded)}$ faster, more lives might have been saved.\n\nChoose the correct option to fill the gap, forming a Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had responded",
+        "has responded",
+        "would respond",
+        "responded"
+      ],
+      "answer": "had responded",
+      "explanation": "The Third Conditional ('if + had + Past Participle') is used for hypothetical situations in the past."
+    },
+    {
+      "id": "U2010_4",
+      "text": "The word $\\textbf{'magnitude'}$ $\\textbf{m a g n i t u d e}$.\n\nIdentify the syllable that carries the primary stress in the word **magnitude**.",
+      "image": "",
+      "options": [
+        "mag",
+        "ni",
+        "tude"
+      ],
+      "answer": "mag",
+      "explanation": "The primary stress in 'magnitude' /ˈmæɡ.nɪ.tʃuːd/ falls on the first syllable, 'mag'."
+    },
+    {
+      "id": "U2010_5",
+      "text": "The $\\textbf{Deepwater}$ $\\textbf{Horizon}$ $\\textbf{oil}$ $\\textbf{spill}$ in the $\\textbf{Gulf}$ $\\textbf{of}$ $\\textbf{Mexico}$ began in April 2010, following an explosion and fire that resulted in the largest marine oil spill in history. (Comprehension Passage Snippet 2)\n\nWhat caused the start of the massive oil spill in the Gulf of Mexico in 2010?",
+      "image": "",
+      "options": [
+        "A tanker collision",
+        "A deliberate act of sabotage",
+        "An explosion and fire on a drilling rig",
+        "A natural seabed rupture"
+      ],
+      "answer": "An explosion and fire on a drilling rig",
+      "explanation": "The text states the spill followed 'an explosion and fire'."
+    },
+    {
+      "id": "U2010_6",
+      "text": "The damage to the environment was $\\textbf{catastrophic}$, impacting wildlife for years.\n\nChoose the word that is **opposite** in meaning to $\\textbf{catastrophic}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Disastrous",
+        "Benevolent or harmless",
+        "Enormous",
+        "Unavoidable"
+      ],
+      "answer": "Benevolent or harmless",
+      "explanation": "Catastrophic means extremely damaging. The opposite is benevolent or harmless."
+    },
+    {
+      "id": "U2010_7",
+      "text": "The oil spread $\\textbf{(rapidly/rapid)}$ across the surface of the water, making containment extremely difficult.\n\nChoose the correct form of the word to fill the gap.",
+      "image": "",
+      "options": [
+        "rapidly",
+        "rapid",
+        "rapider",
+        "more rapid"
+      ],
+      "answer": "rapidly",
+      "explanation": "The adverb 'rapidly' is needed here to modify the verb 'spread'."
+    },
+    {
+      "id": "U2010_8",
+      "text": "The word $\\textbf{'spill'}$ $\\textbf{s p i l l}$.\n\nWhich of the following words has the same short vowel sound as the word **spill**?",
+      "image": "",
+      "options": [
+        "Feel",
+        "Fine",
+        "Pin",
+        "Pole"
+      ],
+      "answer": "Pin",
+      "explanation": "Both 'spill' /spɪl/ and 'Pin' /pɪn/ contain the short vowel sound /ɪ/."
+    },
+    {
+      "id": "U2010_9",
+      "text": "In April 2010, the $\\textbf{eruption}$ of Iceland’s $\\textbf{Eyjafjallajökull}$ $\\textbf{volcano}$ released a massive ash cloud that caused unprecedented $\\textbf{disruption}$ to air travel across Europe. (Comprehension Passage Snippet 3)\n\nWhat was the primary effect of the Eyjafjallajökull volcano eruption on Europe?",
+      "image": "",
+      "options": [
+        "A sharp drop in temperature",
+        "Unprecedented disruption to air travel",
+        "Widespread flooding",
+        "Increased military activity"
+      ],
+      "answer": "Unprecedented disruption to air travel",
+      "explanation": "The text states the ash cloud 'caused unprecedented disruption to air travel across Europe'."
+    },
+    {
+      "id": "U2010_10",
+      "text": "The closure of airports resulted in travel $\\textbf{disruption}$ worldwide.\n\nChoose the word that is closest in meaning to $\\textbf{disruption}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Orderliness",
+        "Interruption or disturbance",
+        "Completion",
+        "Assistance"
+      ],
+      "answer": "Interruption or disturbance",
+      "explanation": "Disruption means disturbance or problems that interrupt an event, activity, or process."
+    },
+    {
+      "id": "U2010_11",
+      "text": "Thousands of flights were grounded $\\textbf{(across/through)}$ the continent during the week of the eruption.\n\nChoose the correct preposition to fill the gap.",
+      "image": "",
+      "options": [
+        "across",
+        "through",
+        "onto",
+        "behind"
+      ],
+      "answer": "across",
+      "explanation": "'Across the continent' means extending throughout the whole continent."
+    },
+    {
+      "id": "U2010_12",
+      "text": "The word $\\textbf{'volcano'}$ $\\textbf{v o l c a n o}$.\n\nIdentify the syllable that carries the primary stress in the word **volcano**.",
+      "image": "",
+      "options": [
+        "vol",
+        "ca",
+        "no"
+      ],
+      "answer": "ca",
+      "explanation": "The primary stress in 'volcano' /vɒlˈkeɪ.nəʊ/ falls on the second syllable, 'ca'."
+    },
+    {
+      "id": "U2010_13",
+      "text": "South Africa hosted the $\\textbf{2010}$ $\\textbf{FIFA}$ $\\textbf{World}$ $\\textbf{Cup}$, making it the first African nation to stage the $\\textbf{tournament}$. Spain $\\textbf{defeated}$ the Netherlands in the final to $\\textbf{clinch}$ their first title. (Comprehension Passage Snippet 4)\n\nWhich team won the 2010 FIFA World Cup?",
+      "image": "",
+      "options": [
+        "Netherlands",
+        "Brazil",
+        "Germany",
+        "Spain"
+      ],
+      "answer": "Spain",
+      "explanation": "The text states: 'Spain defeated the Netherlands in the final to clinch their first title'."
+    },
+    {
+      "id": "U2010_14",
+      "text": "Spain's $\\textbf{victory}$ was the $\\textbf{culmination}$ of years of team building.\n\nChoose the word that is closest in meaning to $\\textbf{culmination}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Beginning",
+        "Mid-point",
+        "End or highest point",
+        "Interruption"
+      ],
+      "answer": "End or highest point",
+      "explanation": "Culmination means the highest or climactic point of something, especially as attained after a long time."
+    },
+    {
+      "id": "U2010_15",
+      "text": "The final match $\\textbf{(was viewed/viewed)}$ by nearly a billion people worldwide, setting a new record.\n\nChoose the correct verb phrase to complete the sentence.",
+      "image": "",
+      "options": [
+        "was viewed",
+        "viewed",
+        "has viewed",
+        "is viewing"
+      ],
+      "answer": "was viewed",
+      "explanation": "The Passive Voice ('was viewed') is required here because the match is the recipient of the action (being viewed)."
+    },
+    {
+      "id": "U2010_16",
+      "text": "The word $\\textbf{'tournament'}$ $\\textbf{t o u r n a m e n t}$.\n\nIdentify the syllable that carries the primary stress in the word **tournament**.",
+      "image": "",
+      "options": [
+        "tour",
+        "na",
+        "ment"
+      ],
+      "answer": "tour",
+      "explanation": "The primary stress in 'tournament' /ˈtʊə.nə.mənt/ falls on the first syllable, 'tour'."
+    },
+    {
+      "id": "U2010_17",
+      "text": "In April 2010, Apple introduced the $\\textbf{iPad}$, effectively creating the $\\textbf{tablet}$ $\\textbf{computer}$ $\\textbf{market}$ and redefining mobile $\\textbf{computing}$ for the decade ahead. (Comprehension Passage Snippet 5)\n\nAccording to the passage, what did the iPad effectively create?",
+      "image": "",
+      "options": [
+        "The smartphone market",
+        "The tablet computer market",
+        "A new video game console",
+        "A portable DVD player"
+      ],
+      "answer": "The tablet computer market",
+      "explanation": "The text states it 'effectively creating the tablet computer market'."
+    },
+    {
+      "id": "U2010_18",
+      "text": "Older computing devices were quickly rendered $\\textbf{obsolete}$ by the new technology.\n\nChoose the word that is **opposite** in meaning to $\\textbf{obsolete}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Outdated",
+        "Current or modern",
+        "Damaged",
+        "Forgotten"
+      ],
+      "answer": "Current or modern",
+      "explanation": "Obsolete means no longer produced or used; outdated. The opposite is current or modern."
+    },
+    {
+      "id": "U2010_19",
+      "text": "The device, $\\textbf{(which/that)}$ $\\textbf{was}$ $\\textbf{unveiled}$ by Steve Jobs, instantly captured worldwide attention.\n\nChoose the correct relative pronoun to fill the gap, assuming the clause is non-restrictive.",
+      "image": "",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "For non-restrictive clauses (adding extra information, often set off by commas), 'which' is the appropriate relative pronoun."
+    },
+    {
+      "id": "U2010_20",
+      "text": "The word $\\textbf{'computing'}$ $\\textbf{c o m p u t i n g}$.\n\nIdentify the syllable that carries the primary stress in the word **computing**.",
+      "image": "",
+      "options": [
+        "com",
+        "pu",
+        "ting"
+      ],
+      "answer": "pu",
+      "explanation": "The primary stress in 'computing' /kəmˈpjuː.tɪŋ/ falls on the second syllable, 'pu'."
+    },
+    {
+      "id": "U2010_21",
+      "text": "The $\\textbf{plight}$ of the $\\textbf{33}$ $\\textbf{Chilean}$ $\\textbf{miners}$ trapped underground for 69 days gained global attention, culminating in their successful $\\textbf{rescue}$ in October 2010. (Comprehension Passage Snippet 6)\n\nHow many Chilean miners were trapped in the 2010 accident?",
+      "image": "",
+      "options": [
+        "30",
+        "33",
+        "35",
+        "69"
+      ],
+      "answer": "33",
+      "explanation": "The text refers to 'the 33 Chilean miners'."
+    },
+    {
+      "id": "U2010_22",
+      "text": "The world watched the $\\textbf{plight}$ of the trapped workers with concern.\n\nChoose the word that is closest in meaning to $\\textbf{plight}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Easy situation",
+        "Joyful event",
+        "Difficult or dangerous situation",
+        "Scientific breakthrough"
+      ],
+      "answer": "Difficult or dangerous situation",
+      "explanation": "Plight means a dangerous, difficult, or otherwise unfortunate situation."
+    },
+    {
+      "id": "U2010_23",
+      "text": "The successful rescue $\\textbf{(had been planned/was planning)}$ for weeks before the final attempt.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had been planned",
+        "was planning",
+        "has been planned",
+        "would plan"
+      ],
+      "answer": "had been planned",
+      "explanation": "The Past Perfect Passive ('had been planned') is required, describing an action (planning) completed before another past action (final attempt)."
+    },
+    {
+      "id": "U2010_24",
+      "text": "The word $\\textbf{'trapped'}$ $\\textbf{t r a p p e d}$.\n\nWhich of the following words has the same short vowel sound as the word **trapped**?",
+      "image": "",
+      "options": [
+        "Tape",
+        "Cap",
+        "Trip",
+        "Top"
+      ],
+      "answer": "Cap",
+      "explanation": "Both 'trapped' /træpt/ and 'Cap' /kæp/ contain the short 'a' vowel sound /æ/."
+    },
+    {
+      "id": "U2010_25",
+      "text": "The self-immolation of Tunisian street vendor $\\textbf{Mohamed}$ $\\textbf{Bouazizi}$ in December 2010 served as the $\\textbf{catalyst}$ for the $\\textbf{Tunisian}$ $\\textbf{Revolution}$, a $\\textbf{precursor}$ to the wider Arab Spring. (Comprehension Passage Snippet 7)\n\nWhat wider political movement did the Tunisian Revolution precede?",
+      "image": "",
+      "options": [
+        "The Cold War",
+        "The Arab Spring",
+        "The Great Depression",
+        "The European Debt Crisis"
+      ],
+      "answer": "The Arab Spring",
+      "explanation": "The text calls it a 'precursor to the wider Arab Spring'."
+    },
+    {
+      "id": "U2010_26",
+      "text": "His act was the $\\textbf{catalyst}$ that rapidly accelerated the local protests.\n\nChoose the word that is closest in meaning to $\\textbf{catalyst}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Barrier or obstacle",
+        "Cause or trigger",
+        "Slowdown agent",
+        "Final outcome"
+      ],
+      "answer": "Cause or trigger",
+      "explanation": "A catalyst is an event or person that causes a great change to happen."
+    },
+    {
+      "id": "U2010_27",
+      "text": "A reporter noted $\\textbf{(that/which)}$ the demonstrations were spreading from city to city with incredible speed.\n\nChoose the correct conjunction to fill the gap.",
+      "image": "",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "The conjunction 'that' is used to introduce the object clause of the verb 'noted' (reported speech)."
+    },
+    {
+      "id": "U2010_28",
+      "text": "The word $\\textbf{'precursor'}$ $\\textbf{p r e c u r s o r}$.\n\nIdentify the syllable that carries the primary stress in the word **precursor**.",
+      "image": "",
+      "options": [
+        "pre",
+        "cur",
+        "sor"
+      ],
+      "answer": "cur",
+      "explanation": "The primary stress in 'precursor' /prɪˈkɜː.sər/ falls on the second syllable, 'cur'."
+    },
+    {
+      "id": "U2010_29",
+      "text": "The U.S. Congress passed the $\\textbf{Dodd-Frank}$ $\\textbf{Act}$ in July 2010, marking the most significant regulatory $\\textbf{overhaul}$ of the $\\textbf{financial}$ $\\textbf{system}$ since the Great Depression. (Comprehension Passage Snippet 8)\n\nWhat kind of overhaul did the Dodd-Frank Act introduce to the financial system?",
+      "image": "",
+      "options": [
+        "A complete deregulation",
+        "A simplification of tax law",
+        "A significant regulatory overhaul",
+        "A return to the gold standard"
+      ],
+      "answer": "A significant regulatory overhaul",
+      "explanation": "The text describes it as the 'most significant regulatory overhaul'."
+    },
+    {
+      "id": "U2010_30",
+      "text": "The Act aimed to prevent future financial crises by increasing $\\textbf{regulation}$.\n\nChoose the word that is **opposite** in meaning to $\\textbf{regulation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Supervision",
+        "Control",
+        "Lawlessness or deregulation",
+        "Compliance"
+      ],
+      "answer": "Lawlessness or deregulation",
+      "explanation": "Regulation involves control and rules. The opposite is a lack of control, or deregulation."
+    },
+    {
+      "id": "U2010_31",
+      "text": "The new rules state that banks $\\textbf{(must/should)}$ comply with stricter capital requirements.\n\nChoose the strongest modal verb to express obligation.",
+      "image": "",
+      "options": [
+        "must",
+        "should",
+        "might",
+        "could"
+      ],
+      "answer": "must",
+      "explanation": "'Must' expresses a strong, necessary obligation, appropriate for a legal requirement."
+    },
+    {
+      "id": "U2010_32",
+      "text": "The word $\\textbf{'act'}$ $\\textbf{a c t}$.\n\nWhich of the following words has the same short vowel sound as the word **act**?",
+      "image": "",
+      "options": [
+        "Ask",
+        "Lake",
+        "Cat",
+        "Dot"
+      ],
+      "answer": "Cat",
+      "explanation": "Both 'act' /ækt/ and 'Cat' /kæt/ contain the short 'a' vowel sound /æ/."
+    },
+    {
+      "id": "U2010_33",
+      "text": "In 2010, $\\textbf{WikiLeaks}$ released the $\\textbf{Afghan}$ $\\textbf{War}$ $\\textbf{Logs}$, a massive $\\textbf{leak}$ of $\\textbf{classified}$ U.S. military documents concerning the war in Afghanistan. (Comprehension Passage Snippet 9)\n\nWhat was the specific subject of the classified documents released by WikiLeaks in 2010?",
+      "image": "",
+      "options": [
+        "U.S. economic policy",
+        "The war in Iraq",
+        "The war in Afghanistan",
+        "European banking data"
+      ],
+      "answer": "The war in Afghanistan",
+      "explanation": "The documents were named the 'Afghan War Logs' and concerned 'the war in Afghanistan'."
+    },
+    {
+      "id": "U2010_34",
+      "text": "The documents were highly $\\textbf{classified}$ and intended only for specific government eyes.\n\nChoose the word that is closest in meaning to $\\textbf{classified}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Publicly available",
+        "Secret or confidential",
+        "Easily understood",
+        "Archived"
+      ],
+      "answer": "Secret or confidential",
+      "explanation": "Classified means designated as secret and therefore restricted in circulation."
+    },
+    {
+      "id": "U2010_35",
+      "text": "The leaks generated $\\textbf{(unprecedented, massive/massive, unprecedented)}$ $\\textbf{media}$ $\\textbf{interest}$ across the globe.\n\nChoose the best order for the two coordinate adjectives.",
+      "image": "",
+      "options": [
+        "unprecedented, massive",
+        "massive, unprecedented"
+      ],
+      "answer": "massive, unprecedented",
+      "explanation": "Although both orders are technically acceptable for coordinate adjectives, 'massive' (size) usually precedes 'unprecedented' (opinion/judgment) for emphasis in journalistic style."
+    },
+    {
+      "id": "U2010_36",
+      "text": "The word $\\textbf{'classified'}$ $\\textbf{c l a s s i f i e d}$.\n\nIdentify the syllable that carries the primary stress in the word **classified**.",
+      "image": "",
+      "options": [
+        "clas",
+        "si",
+        "fied"
+      ],
+      "answer": "clas",
+      "explanation": "The primary stress in 'classified' /ˈklæs.ɪ.faɪd/ falls on the first syllable, 'clas'."
+    },
+    {
+      "id": "U2010_37",
+      "text": "The $\\textbf{Eurozone}$ $\\textbf{sovereign}$ $\\textbf{debt}$ $\\textbf{crisis}$ deepened, leading the $\\textbf{International}$ $\\textbf{Monetary}$ $\\textbf{Fund}$ (IMF) and European nations to approve the first major $\\textbf{bailout}$ $\\textbf{package}$ for $\\textbf{Greece}$. (Comprehension Passage Snippet 10)\n\nWhich international body, alongside European nations, helped approve the first major bailout package?",
+      "image": "",
+      "options": [
+        "The World Bank",
+        "The United Nations",
+        "The International Monetary Fund (IMF)",
+        "The World Trade Organization (WTO)"
+      ],
+      "answer": "The International Monetary Fund (IMF)",
+      "explanation": "The text mentions 'the International Monetary Fund (IMF) and European nations'."
+    },
+    {
+      "id": "U2010_38",
+      "text": "The $\\textbf{bailout}$ was critical to prevent the country from defaulting on its loans.\n\nChoose the word that is closest in meaning to $\\textbf{bailout}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A large-scale withdrawal of funds",
+        "An act of financial rescue",
+        "A reduction in taxation",
+        "A new trade agreement"
+      ],
+      "answer": "An act of financial rescue",
+      "explanation": "A bailout is an act of giving financial assistance to a failing business or economy to save it from collapse."
+    },
+    {
+      "id": "U2010_39",
+      "text": "Many people believed the situation was $\\textbf{(more critical/most critical)}$ than the governments admitted.\n\nChoose the correct form of the comparative adjective.",
+      "image": "",
+      "options": [
+        "more critical",
+        "most critical",
+        "criticaler",
+        "criticalest"
+      ],
+      "answer": "more critical",
+      "explanation": "When comparing two things (the reality vs. the admission), the comparative form 'more critical' is required."
+    },
+    {
+      "id": "U2010_40",
+      "text": "The word $\\textbf{'debt'}$ $\\textbf{d e b t}$.\n\nWhich of the following words has the same short vowel sound as the word **debt**?",
+      "image": "",
+      "options": [
+        "See",
+        "Bait",
+        "Get",
+        "Date"
+      ],
+      "answer": "Get",
+      "explanation": "Both 'debt' /det/ (note: the 'b' is silent) and 'Get' /ɡet/ contain the short vowel sound /e/."
+    }
+  ]

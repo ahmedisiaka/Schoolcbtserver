@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Neolithic Revolution}$ marked a major turning point in human history characterized by:",
+        "image": "",
+        "options": [
+            "The invention of the wheel",
+            "The shift from hunting and gathering to agriculture",
+            "The discovery of fire",
+            "The use of iron tools"
+        ],
+        "answer": "The shift from hunting and gathering to agriculture",
+        "explanation": "This transition allowed for permanent settlements, population growth, and the development of complex societies."
+    },
+    {
+        "id": "H02",
+        "text": "Which Greek city-state is credited with developing the first system of $\\textbf{Democracy}$?",
+        "image": "",
+        "options": [
+            "Sparta",
+            "Athens",
+            "Corinth",
+            "Thebes"
+        ],
+        "answer": "Athens",
+        "explanation": "Athens developed a system of direct democracy around the 5th century BCE, where citizens participated directly in decision-making."
+    },
+    {
+        "id": "H03",
+        "text": "Who was the Macedonian king who created one of the largest empires in history, stretching from Greece to India?",
+        "image": "",
+        "options": [
+            "Pericles",
+            "Alexander the Great",
+            "Philip II",
+            "Leonidas"
+        ],
+        "answer": "Alexander the Great",
+        "explanation": "By the age of 30, Alexander had created one of the largest empires of the ancient world, spreading Hellenistic culture."
+    },
+    {
+        "id": "H04",
+        "text": "The $\\textbf{Pax Romana}$ refers to a roughly 200-year period of:",
+        "image": "",
+        "options": [
+            "Constant warfare",
+            "Relative peace and stability across the Roman Empire",
+            "Civil war and unrest",
+            "Religious persecution"
+        ],
+        "answer": "Relative peace and stability across the Roman Empire",
+        "explanation": "Begun by Augustus, this period saw minimal expansion by military force and unprecedented stability and prosperity."
+    },
+    {
+        "id": "H05",
+        "text": "Which French heroine played a crucial role during the $\\textbf{Hundred Years' War}$?",
+        "image": "",
+        "options": [
+            "Marie Antoinette",
+            "Joan of Arc",
+            "Catherine de' Medici",
+            "Eleanor of Aquitaine"
+        ],
+        "answer": "Joan of Arc",
+        "explanation": "Joan of Arc led the French army to victory over the English at Orléans before being captured and executed."
+    },
+    {
+        "id": "H06",
+        "text": "The $\\textbf{Spanish Armada}$ was defeated by the English navy in which year?",
+        "image": "",
+        "options": [
+            "1492",
+            "1588",
+            "1607",
+            "1776"
+        ],
+        "answer": "1588",
+        "explanation": "The defeat of the Armada saved England from invasion and marked the beginning of English naval dominance."
+    },
+    {
+        "id": "H07",
+        "text": "Who is known as the 'Father of Modern Physics' and formulated the laws of motion and universal gravitation?",
+        "image": "",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton",
+        "explanation": "Newton's publication 'Principia Mathematica' (1687) laid the foundations for classical mechanics."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Berlin Conference}$ of 1884–1885 regulated European colonization and trade in:",
+        "image": "",
+        "options": [
+            "Asia",
+            "The Americas",
+            "Africa",
+            "The Middle East"
+        ],
+        "answer": "Africa",
+        "explanation": "Also known as the Scramble for Africa, the conference formalized the division of the continent among European powers."
+    },
+    {
+        "id": "H09",
+        "text": "The immediate cause of World War I was the assassination of:",
+        "image": "",
+        "options": [
+            "Tsar Nicholas II",
+            "Archduke Franz Ferdinand",
+            "Kaiser Wilhelm II",
+            "Woodrow Wilson"
+        ],
+        "answer": "Archduke Franz Ferdinand",
+        "explanation": "The assassination in Sarajevo in June 1914 set off a chain of diplomatic alliances and declarations of war."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Marshall Plan}$ was a US initiative to help rebuild which region after World War II?",
+        "image": "",
+        "options": [
+            "Southeast Asia",
+            "Western Europe",
+            "South America",
+            "Eastern Europe"
+        ],
+        "answer": "Western Europe",
+        "explanation": "The US provided over $12 billion in economic assistance to help rebuild Western European economies after the war."
+    },
+    {
+        "id": "H11",
+        "text": "Which Chinese leader initiated the $\\textbf{Cultural Revolution}$ in 1966?",
+        "image": "",
+        "options": [
+            "Sun Yat-sen",
+            "Chiang Kai-shek",
+            "Mao Zedong",
+            "Deng Xiaoping"
+        ],
+        "answer": "Mao Zedong",
+        "explanation": "Mao launched the revolution to reassert his authority over the Chinese government and purge 'capitalist' elements."
+    },
+    {
+        "id": "H12",
+        "text": "The $\\textbf{Apollo 11}$ mission in 1969 resulted in:",
+        "image": "",
+        "options": [
+            "The first satellite in orbit",
+            "The first human in space",
+            "The first humans landing on the Moon",
+            "The first space station"
+        ],
+        "answer": "The first humans landing on the Moon",
+        "explanation": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the lunar surface."
+    },
+    {
+        "id": "H13",
+        "text": "Which document was signed by King John in 1215, limiting royal power?",
+        "image": "",
+        "options": [
+            "The Domesday Book",
+            "The Magna Carta",
+            "The Petition of Right",
+            "The Bill of Rights"
+        ],
+        "answer": "The Magna Carta",
+        "explanation": "It established that the king was not above the law and protected certain rights of his subjects."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Haitian Revolution}$ (1791–1804) was the only successful slave revolt in history and was led by:",
+        "image": "",
+        "options": [
+            "Simon Bolivar",
+            "Toussaint Louverture",
+            "Che Guevara",
+            "Fidel Castro"
+        ],
+        "answer": "Toussaint Louverture",
+        "explanation": "Louverture led the rebellion against French colonial rule, leading to the independence of Haiti."
+    },
+    {
+        "id": "H15",
+        "text": "Which civilization constructed the expanding road system known as the $\\textbf{Qhapaq Ñan}$?",
+        "image": "",
+        "options": [
+            "The Aztec",
+            "The Maya",
+            "The Inca",
+            "The Olmec"
+        ],
+        "answer": "The Inca",
+        "explanation": "The Inca Empire built an extensive road system stretching over 40,000 kilometers across the Andes."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Peace of Westphalia}$ (1648) ended which major conflict?",
+        "image": "",
+        "options": [
+            "The Hundred Years' War",
+            "The Thirty Years' War",
+            "The War of the Roses",
+            "The Seven Years' War"
+        ],
+        "answer": "The Thirty Years' War",
+        "explanation": "The treaties ended a devastating religious war in Europe and established the concept of state sovereignty."
+    },
+    {
+        "id": "H17",
+        "text": "Who was the British Prime Minister during most of $\\textbf{World War II}$?",
+        "image": "",
+        "options": [
+            "Neville Chamberlain",
+            "Winston Churchill",
+            "Clement Attlee",
+            "Tony Blair"
+        ],
+        "answer": "Winston Churchill",
+        "explanation": "Churchill's leadership and speeches rallied the British people during the darkest days of the war."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Suffragette Movement}$ advocated for:",
+        "image": "",
+        "options": [
+            " The abolition of slavery",
+            "Women's right to vote",
+            "Child labor laws",
+            "Prohibition of alcohol"
+        ],
+        "answer": "Women's right to vote",
+        "explanation": "Suffragettes campaigned for women's suffrage in the late 19th and early 20th centuries."
+    },
+    {
+        "id": "H19",
+        "text": "Which scientist is the only person to win Nobel Prizes in two different scientific fields (Physics and Chemistry)?",
+        "image": "",
+        "options": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Louis Pasteur",
+            "Charles Darwin"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "Marie Curie won for her work on radiation (Physics) and for discovering radium and polonium (Chemistry)."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Boston Tea Party}$ (1773) was a protest against:",
+        "image": "",
+        "options": [
+            "French interference",
+            "British taxation without representation",
+            "The slave trade",
+            "Native American attacks"
+        ],
+        "answer": "British taxation without representation",
+        "explanation": "American colonists dumped tea into the harbor to protest the Tea Act imposed by Britain."
+    },
+    {
+        "id": "H21",
+        "text": "Who founded the $\\textbf{Mongol Empire}$?",
+        "image": "",
+        "options": [
+            "Kublai Khan",
+            "Attila the Hun",
+            "Genghis Khan",
+            "Tamerlane"
+        ],
+        "answer": "Genghis Khan",
+        "explanation": "Genghis Khan united the nomadic tribes of Northeast Asia and founded the empire in 1206."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Reign of Terror}$ is a period associated with which revolution?",
+        "image": "",
+        "options": [
+            "The American Revolution",
+            "The French Revolution",
+            "The Russian Revolution",
+            "The Glorious Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "Led by Robespierre, this period saw thousands executed by the guillotine for being suspected enemies of the revolution."
+    },
+    {
+        "id": "H23",
+        "text": "Which US President enacted the $\\textbf{New Deal}$ programs to combat the Great Depression?",
+        "image": "",
+        "options": [
+            "Herbert Hoover",
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "Theodore Roosevelt"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "FDR's New Deal included public work projects, financial reforms, and regulations to recover the economy."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{Suez Crisis}$ of 1956 involved a dispute over control of a canal in which country?",
+        "image": "",
+        "options": [
+            "Panama",
+            "Egypt",
+            "Turkey",
+            "India"
+        ],
+        "answer": "Egypt",
+        "explanation": "President Gamal Abdel Nasser nationalized the canal, leading to an invasion by Israel, Britain, and France."
+    },
+    {
+        "id": "H25",
+        "text": "Who painted the $\\textbf{Mona Lisa}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Painted in the early 16th century, it is considered the most famous painting in the world."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Rwanda Genocide}$ occurred in which decade?",
+        "image": "",
+        "options": [
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s"
+        ],
+        "answer": "1990s",
+        "explanation": "The genocide took place in 1994, resulting in the mass slaughter of Tutsis and moderate Hutus."
+    },
+    {
+        "id": "H27",
+        "text": "Which empire was known for its $\\textbf{Janissary}$ corps?",
+        "image": "",
+        "options": [
+            "The Roman Empire",
+            "The Ottoman Empire",
+            "The Mongol Empire",
+            "The British Empire"
+        ],
+        "answer": "The Ottoman Empire",
+        "explanation": "The Janissaries were elite infantry units that formed the Ottoman Sultan's household troops and bodyguards."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Wars of the Roses}$ was a civil war fought in:",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "England",
+            "Spain"
+        ],
+        "answer": "England",
+        "explanation": "Fought between the House of Lancaster and the House of York for the English throne in the 15th century."
+    },
+    {
+        "id": "H29",
+        "text": "Who was the first female Prime Minister of the United Kingdom?",
+        "image": "",
+        "options": [
+            "Theresa May",
+            "Margaret Thatcher",
+            "Indira Gandhi",
+            "Angela Merkel"
+        ],
+        "answer": "Margaret Thatcher",
+        "explanation": "Known as the 'Iron Lady', Thatcher served from 1979 to 1990."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Wright Brothers}$ are credited with inventing the:",
+        "image": "",
+        "options": [
+            "Telephone",
+            "Automobile",
+            "Airplane",
+            "Radio"
+        ],
+        "answer": "Airplane",
+        "explanation": "Orville and Wilbur Wright achieved the first powered, sustained, and controlled airplane flight in 1903."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Domino Theory}$ was a foreign policy theory used to justify US involvement in:",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Vietnam War",
+            "The Gulf War",
+            "The War on Terror"
+        ],
+        "answer": "The Vietnam War",
+        "explanation": "The theory suggested that if one country in a region came under the influence of communism, then the surrounding countries would follow."
+    },
+    {
+        "id": "H32",
+        "text": "Which civilization built the ancient city of $\\textbf{Machu Picchu}$?",
+        "image": "",
+        "options": [
+            "Maya",
+            "Aztec",
+            "Inca",
+            "Olmec"
+        ],
+        "answer": "Inca",
+        "explanation": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Chernobyl disaster}$ (1986) was a catastrophic nuclear accident in present-day:",
+        "image": "",
+        "options": [
+            "Russia",
+            "Ukraine",
+            "Belarus",
+            "Poland"
+        ],
+        "answer": "Ukraine",
+        "explanation": "The accident occurred at the No. 4 reactor in the Chernobyl Nuclear Power Plant in northern Ukraine (then USSR)."
+    },
+    {
+        "id": "H34",
+        "text": "Who authored the political treatise $\\textbf{The Prince}$?",
+        "image": "",
+        "options": [
+            "Plato",
+            "Niccolò Machiavelli",
+            "Thomas Hobbes",
+            "John Locke"
+        ],
+        "answer": "Niccolò Machiavelli",
+        "explanation": "Written in 1513, it describes how to acquire and maintain political power, often through ruthless means."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Zimmermann Telegram}$ was a secret diplomatic communication that proposed an alliance between:",
+        "image": "",
+        "options": [
+            "Germany and Mexico",
+            "Germany and Japan",
+            "Britain and USA",
+            "Russia and Serbia"
+        ],
+        "answer": "Germany and Mexico",
+        "explanation": "Germany proposed a military alliance with Mexico against the United States during WWI, which helped draw the US into the war."
+    },
+    {
+        "id": "H36",
+        "text": "Which wall divided a major German city from 1961 to 1989?",
+        "image": "",
+        "options": [
+            "The Great Wall",
+            "The Hadrian's Wall",
+            "The Berlin Wall",
+            "The Iron Wall"
+        ],
+        "answer": "The Berlin Wall",
+        "explanation": "It physically and ideologically divided Berlin into East (communist) and West (democratic) during the Cold War."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Boxer Rebellion}$ (1899–1901) took place in:",
+        "image": "",
+        "options": [
+            "India",
+            "Japan",
+            "China",
+            "South Africa"
+        ],
+        "answer": "China",
+        "explanation": "It was an anti-imperialist, anti-foreign, and anti-Christian uprising in China."
+    },
+    {
+        "id": "H38",
+        "text": "Who was the first President of the United States?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "John Adams",
+            "George Washington",
+            "James Madison"
+        ],
+        "answer": "George Washington",
+        "explanation": "Washington served as the first president from 1789 to 1797 and was commander-in-chief of the Continental Army."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Battle of Stalingrad}$ is considered a turning point in which war?",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Crimean War",
+            "The Russian Civil War"
+        ],
+        "answer": "World War II",
+        "explanation": "The Soviet defense of Stalingrad stopped the German advance into the Soviet Union and marked the turning of the tide in favor of the Allies."
+    },
+    {
+        "id": "H40",
+        "text": "Which invention by $\\textbf{James Watt}$ played a key role in the Industrial Revolution?",
+        "image": "",
+        "options": [
+            "The Spinning Jenny",
+            "The Improved Steam Engine",
+            "The Cotton Gin",
+            "The Telegraph"
+        ],
+        "answer": "The Improved Steam Engine",
+        "explanation": "Watt's improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution."
+    }
+]

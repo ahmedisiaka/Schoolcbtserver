@@ -1,0 +1,517 @@
+[
+    {
+      "id": "U2000_1",
+      "text": "The $\textbf{bursting}$ of the $\textbf{Dot}$-$\textbf{com}$ $\textbf{Bubble}$ began in March 2000 as the $\textbf{NASDAQ}$ $\textbf{Composite}$ $\textbf{index}$ reached its peak before $\textbf{plummeting}$. This market $\textbf{correction}$ signaled the end of the long 1990s $\textbf{economic}$ $\textbf{boom}$ and led to the $\textbf{collapse}$ of hundreds of $\textbf{overvalued}$ $\textbf{internet}$ $\textbf{companies}$. (Comprehension Passage Snippet 1)\n\nWhat economic phenomenon peaked in March 2000, signaling the end of the boom?",
+      "image": "",
+      "options": [
+        "The Housing Crisis",
+        "The Dot-com Bubble",
+        "The Energy Crisis",
+        "The Asian Financial Crisis"
+      ],
+      "answer": "The Dot-com Bubble",
+      "explanation": "The text states the 'bursting of the Dot-com Bubble' began as the NASDAQ peaked."
+    },
+    {
+      "id": "U2000_2",
+      "text": "The index reached its $\textbf{peak}$ before $\textbf{plummeting}$.\n\nChoose the word that is closest in meaning to $\\textbf{plummeting}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Rising slowly",
+        "Increasing sharply",
+        "Falling rapidly/Dropping steeply",
+        "Remaining stable"
+      ],
+      "answer": "Falling rapidly/Dropping steeply",
+      "explanation": "Plummeting means falling or dropping straight down at a high speed."
+    },
+    {
+      "id": "U2000_3",
+      "text": "If the market $\textbf{(had been regulated/were regulated)}$ more strictly, the $\textbf{collapse}$ $\textbf{(might have been averted/would be averted)}$.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had been regulated / might have been averted",
+        "were regulated / would be averted",
+        "is regulated / will be averted",
+        "has been regulated / was averted"
+      ],
+      "answer": "had been regulated / might have been averted",
+      "explanation": "The Third Conditional is used for hypothetical past situations: 'If + Past Perfect, modal + have + Past Participle'."
+    },
+    {
+      "id": "U2000_4",
+      "text": "The word $\\textbf{'collapse'}$ $\\textbf{c o l l a p s e}$.\n\nIdentify the syllable that carries the primary stress in the word **collapse**.",
+      "image": "",
+      "options": [
+        "col",
+        "lapse"
+      ],
+      "answer": "lapse",
+      "explanation": "The primary stress in 'collapse' /kəˈlæps/ falls on the second syllable, 'lapse'."
+    },
+    {
+      "id": "U2000_5",
+      "text": "The index reached its $\textbf{(highest/most high)}$ point in March.\n\nChoose the correct superlative form of the adjective 'high'.",
+      "image": "",
+      "options": [
+        "highest",
+        "most high",
+        "highter",
+        "more high"
+      ],
+      "answer": "highest",
+      "explanation": "'Highest' is the correct superlative form of the adjective 'high'."
+    },
+    {
+      "id": "U2000_6",
+      "text": "The $\textbf{2000}$ $\textbf{US}$ $\textbf{Presidential}$ $\textbf{Election}$ between $\textbf{George}$ $\textbf{W.}$ $\textbf{Bush}$ and $\textbf{Al}$ $\textbf{Gore}$ led to a $\textbf{protracted}$ $\textbf{legal}$ $\textbf{dispute}$ over $\textbf{vote}$ $\textbf{recounts}$ in $\textbf{Florida}$. The $\textbf{controversy}$ ended when the Supreme Court halted the $\textbf{recounts}$, $\textbf{effectively}$ $\textbf{awarding}$ the $\textbf{presidency}$ to Bush. (Comprehension Passage Snippet 2)\n\nWhat US state was the focus of the lengthy legal dispute in the 2000 election?",
+      "image": "",
+      "options": [
+        "Texas",
+        "California",
+        "Florida",
+        "New York"
+      ],
+      "answer": "Florida",
+      "explanation": "The text states the legal dispute was over recounts 'in Florida'."
+    },
+    {
+      "id": "U2000_7",
+      "text": "The dispute was $\textbf{protracted}$ and involved legal action.\n\nChoose the word that is closest in meaning to $\\textbf{protracted}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Brief",
+        "Short-lived",
+        "Lengthy/Drawn out",
+        "Violent"
+      ],
+      "answer": "Lengthy/Drawn out",
+      "explanation": "Protracted means lasting for a long time or longer than expected."
+    },
+    {
+      "id": "U2000_8",
+      "text": "The $\textbf{Supreme}$ $\textbf{Court}$ $\textbf{(announced/was announced)}$ its decision a month after the election.\n\nChoose the correct verb form for the Active Voice.",
+      "image": "",
+      "options": [
+        "announced",
+        "was announced",
+        "is announcing",
+        "has announced"
+      ],
+      "answer": "announced",
+      "explanation": "The Supreme Court is the subject performing the action, so the Simple Past Active ('announced') is correct."
+    },
+    {
+      "id": "U2000_9",
+      "text": "The word $\\textbf{'controversy'}$ $\\textbf{c o n t r o v e r s y}$.\n\nIdentify the syllable that carries the primary stress in the word **controversy**.",
+      "image": "",
+      "options": [
+        "con",
+        "tro",
+        "ver",
+        "sy"
+      ],
+      "answer": "con",
+      "explanation": "The primary stress in 'controversy' /ˈkɒn.trə.vɜː.si/ falls on the first syllable, 'con'."
+    },
+    {
+      "id": "U2000_10",
+      "text": "The case went $\textbf{(to/at)}$ the Supreme Court for final judgment.\n\nChoose the correct preposition to express movement towards a destination.",
+      "image": "",
+      "options": [
+        "to",
+        "at",
+        "in",
+        "from"
+      ],
+      "answer": "to",
+      "explanation": "'To' is used to indicate movement toward a place or entity."
+    },
+    {
+      "id": "U2000_11",
+      "text": "The $\textbf{Summer}$ $\textbf{Olympics}$ in $\textbf{Sydney}$, $\textbf{Australia}$, in September 2000, were $\textbf{heralded}$ as the 'best Games ever' for their $\textbf{organization}$, $\textbf{public}$ $\textbf{support}$, and $\textbf{environmental}$ $\textbf{legacy}$. They featured a $\textbf{historic}$ $\textbf{moment}$ when Cathy $\textbf{Freeman}$, an $\textbf{Indigenous}$ $\textbf{Australian}$ $\textbf{athlete}$, lit the $\textbf{Olympic}$ $\textbf{flame}$. (Comprehension Passage Snippet 3)\n\nWhat two factors contributed to the Sydney Olympics being called the 'best Games ever'?",
+      "image": "",
+      "options": [
+        "Low attendance and rain",
+        "Political protests and poor facilities",
+        "Organization and environmental legacy",
+        "Controversy and low ticket sales"
+      ],
+      "answer": "Organization and environmental legacy",
+      "explanation": "The text states the Games were heralded for their 'organization, public support, and environmental legacy'. (Choosing the first two positive factors listed)."
+    },
+    {
+      "id": "U2000_12",
+      "text": "The Games were $\textbf{heralded}$ as the 'best Games ever'.\n\nChoose the word that is closest in meaning to $\\textbf{heralded}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Ignored",
+        "Announced/Proclaimed",
+        "Condemned",
+        "Questioned"
+      ],
+      "answer": "Announced/Proclaimed",
+      "explanation": "To herald means to acclaim or announce enthusiastically."
+    },
+    {
+      "id": "U2000_13",
+      "text": "Cathy Freeman $\textbf{(lit/lighted)}$ the $\textbf{Olympic}$ $\textbf{flame}$ during the opening ceremony.\n\nChoose the correct irregular past tense of the verb 'to light'.",
+      "image": "",
+      "options": [
+        "lit",
+        "lighted",
+        "lighting",
+        "litted"
+      ],
+      "answer": "lit",
+      "explanation": "'Lit' is the standard past tense and past participle of 'to light' in this context."
+    },
+    {
+      "id": "U2000_14",
+      "text": "The word $\\textbf{'ceremony'}$ $\\textbf{c e r e m o n y}$.\n\nIdentify the syllable that carries the primary stress in the word **ceremony**.",
+      "image": "",
+      "options": [
+        "ce",
+        "re",
+        "mo",
+        "ny"
+      ],
+      "answer": "cer",
+      "explanation": "The primary stress in 'ceremony' /ˈser.ɪ.mə.ni/ falls on the first syllable, 'cer'."
+    },
+    {
+      "id": "U2000_15",
+      "text": "The Games were known $\textbf{(for/of)}$ their excellent organization.\n\nChoose the correct preposition.",
+      "image": "",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "to"
+      ],
+      "answer": "for",
+      "explanation": "The phrase 'to be known for' means to be recognized or famous because of something."
+    },
+    {
+      "id": "U2000_16",
+      "text": "The $\textbf{Y2K}$ $\textbf{Bug}$, a $\textbf{potential}$ computer $\textbf{date}$ $\textbf{problem}$ arising from a $\textbf{two}$-$\textbf{digit}$ $\textbf{year}$ $\textbf{storage}$ system, had $\textbf{dominated}$ global $\textbf{technology}$ $\textbf{concerns}$ leading up to January 1, 2000. Despite $\textbf{fears}$ of $\textbf{widespread}$ $\textbf{catastrophic}$ $\textbf{failures}$, the transition to the new millennium occurred $\textbf{uneventfully}$ due to massive $\textbf{preparation}$ efforts. (Comprehension Passage Snippet 4)\n\nWhat was the primary reason the Y2K transition was uneventful?",
+      "image": "",
+      "options": [
+        "The bug was a hoax",
+        "Massive preparation efforts",
+        "New operating systems were released",
+        "Power grids were shut down"
+      ],
+      "answer": "Massive preparation efforts",
+      "explanation": "The text attributes the smooth transition to 'massive preparation efforts'."
+    },
+    {
+      "id": "U2000_17",
+      "text": "There were $\textbf{fears}$ of widespread $\textbf{catastrophic}$ $\textbf{failures}$.\n\nChoose the word that is closest in meaning to $\\textbf{catastrophic}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Minor",
+        "Beneficial",
+        "Disastrous/Calamitous",
+        "Anticipated"
+      ],
+      "answer": "Disastrous/Calamitous",
+      "explanation": "Catastrophic means involving or causing sudden great damage or suffering."
+    },
+    {
+      "id": "U2000_18",
+      "text": "The preparation $\textbf{(must have been/should have been)}$ effective, as no major incidents occurred.\n\nChoose the correct modal verb to express a logical deduction about a past event.",
+      "image": "",
+      "options": [
+        "must have been",
+        "should have been",
+        "can be",
+        "would be"
+      ],
+      "answer": "must have been",
+      "explanation": "'Must have been' expresses strong certainty or logical deduction about something that happened in the past."
+    },
+    {
+      "id": "U2000_19",
+      "text": "The word $\\textbf{'preparation'}$ $\\textbf{p r e p a r a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **preparation**.",
+      "image": "",
+      "options": [
+        "pre",
+        "pa",
+        "ra",
+        "tion"
+      ],
+      "answer": "ra",
+      "explanation": "The primary stress in 'preparation' /ˌprep.ərˈeɪ.ʃən/ falls on the third syllable, 'ra'."
+    },
+    {
+      "id": "U2000_20",
+      "text": "The transition occurred $\textbf{(smoothly/smooth)}$ thanks to the programmers.\n\nChoose the correct word form to modify the verb 'occurred'.",
+      "image": "",
+      "options": [
+        "smoothly",
+        "smooth",
+        "smoothest",
+        "smoother"
+      ],
+      "answer": "smoothly",
+      "explanation": "An adverb ('smoothly') is required to modify the verb 'occurred'."
+    },
+    {
+      "id": "U2000_21",
+      "text": "The $\textbf{first}$ $\textbf{long}$-$\textbf{duration}$ $\textbf{crew}$, $\textbf{Expedition}$ $\textbf{1}$, $\textbf{inaugurated}$ the International $\textbf{Space}$ $\textbf{Station}$ ($\textbf{ISS}$) on November 2, 2000, establishing a $\textbf{continuous}$ $\textbf{human}$ $\textbf{presence}$ in $\textbf{orbit}$. This $\textbf{historic}$ $\textbf{event}$ was the culmination of $\textbf{years}$ of $\textbf{international}$ $\textbf{collaboration}$. (Comprehension Passage Snippet 5)\n\nWhat was the significance of Expedition 1's arrival at the ISS?",
+      "image": "",
+      "options": [
+        "It was the first flight of the Space Shuttle.",
+        "It established a continuous human presence in orbit.",
+        "It landed on Mars.",
+        "It delivered the main power module."
+      ],
+      "answer": "It established a continuous human presence in orbit.",
+      "explanation": "The text states it established a 'continuous human presence in orbit'."
+    },
+    {
+      "id": "U2000_22",
+      "text": "Expedition 1 $\textbf{inaugurated}$ the International Space Station.\n\nChoose the word that is closest in meaning to $\\textbf{inaugurated}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Closed",
+        "Finished",
+        "Commenced/Launched",
+        "Delayed"
+      ],
+      "answer": "Commenced/Launched",
+      "explanation": "To inaugurate means to begin or introduce (a system, policy, or period)."
+    },
+    {
+      "id": "U2000_23",
+      "text": "The crew, $\textbf{(who/which)}$ were from the US and Russia, spent months aboard the station.\n\nChoose the correct relative pronoun to refer to the human noun 'the crew'.",
+      "image": "",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "where"
+      ],
+      "answer": "who",
+      "explanation": "'Who' is the correct relative pronoun for people (the crew members)."
+    },
+    {
+      "id": "U2000_24",
+      "text": "The word $\\textbf{'collaboration'}$ $\\textbf{c o l l a b o r a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **collaboration**.",
+      "image": "",
+      "options": [
+        "col",
+        "lab",
+        "o",
+        "ra"
+      ],
+      "answer": "ra",
+      "explanation": "The primary stress in 'collaboration' /kəˌlæb.əˈreɪ.ʃən/ falls on the fourth syllable, 'ra'."
+    },
+    {
+      "id": "U2000_25",
+      "text": "It was $\textbf{(a/an)}$ $\textbf{historic}$ $\textbf{mission}$ for all of humanity.\n\nChoose the correct indefinite article for the word 'historic'.",
+      "image": "",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "answer": "a",
+      "explanation": "'A' is used before 'historic' because it starts with a consonant sound (/h/). ('An' is used before a vowel sound)."
+    },
+    {
+      "id": "U2000_26",
+      "text": "$\textbf{Vladimir}$ $\textbf{Putin}$ was $\textbf{officially}$ $\textbf{elected}$ $\textbf{President}$ of $\textbf{Russia}$ in March 2000, $\textbf{following}$ his tenure as $\textbf{acting}$ $\textbf{president}$. His $\textbf{election}$ $\textbf{consolidated}$ power and marked the $\textbf{beginning}$ of a major $\textbf{shift}$ in $\textbf{Russia's}$ $\textbf{political}$ $\textbf{landscape}$, promising $\textbf{stability}$ after the turbulent 1990s. (Comprehension Passage Snippet 6)\n\nWhat position did Vladimir Putin officially win in the March 2000 election?",
+      "image": "",
+      "options": [
+        "Prime Minister",
+        "Chairman of the Duma",
+        "President of Russia",
+        "Foreign Minister"
+      ],
+      "answer": "President of Russia",
+      "explanation": "The text states he was 'officially elected President of Russia'."
+    },
+    {
+      "id": "U2000_27",
+      "text": "His election $\textbf{consolidated}$ power.\n\nChoose the word that is closest in meaning to $\\textbf{consolidated}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Weakened",
+        "Fragmented",
+        "Strengthened/Unified",
+        "Divided"
+      ],
+      "answer": "Strengthened/Unified",
+      "explanation": "To consolidate means to combine or strengthen (something, typically a position or power)."
+    },
+    {
+      "id": "U2000_28",
+      "text": "The public $\textbf{(said/told)}$ that he was the right leader for the future.\n\nChoose the correct verb for reporting a statement without a direct object.",
+      "image": "",
+      "options": [
+        "said",
+        "told",
+        "spoke",
+        "informed"
+      ],
+      "answer": "said",
+      "explanation": "'Said' is used to report statements generally, while 'told' requires a direct object (e.g., 'told him', 'told us')."
+    },
+    {
+      "id": "U2000_29",
+      "text": "The word $\\textbf{'election'}$ $\\textbf{e l e c t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **election**.",
+      "image": "",
+      "options": [
+        "e",
+        "lec",
+        "tion"
+      ],
+      "answer": "lec",
+      "explanation": "The primary stress in 'election' /ɪˈlek.ʃən/ falls on the second syllable, 'lec'."
+    },
+    {
+      "id": "U2000_30",
+      "text": "He gained $\textbf{(much/many)}$ $\textbf{support}$ due to his promise of stability.\n\nChoose the correct quantifier for the uncountable noun 'support'.",
+      "image": "",
+      "options": [
+        "much",
+        "many",
+        "fewer",
+        "several"
+      ],
+      "answer": "much",
+      "explanation": "'Much' is used to quantify uncountable nouns like 'support'."
+    },
+    {
+      "id": "U2000_31",
+      "text": "The $\textbf{Sony}$ $\textbf{PlayStation}$ $\textbf{2}$ ($\textbf{PS2}$) was $\textbf{launched}$ in Japan in March 2000, and later in the West. Its key selling $\textbf{point}$ was that it $\textbf{included}$ a $\textbf{DVD}$ $\textbf{player}$, a feature $\textbf{uncommon}$ for gaming $\textbf{consoles}$ at the time, $\textbf{solidifying}$ its $\textbf{status}$ as a comprehensive $\textbf{home}$ $\textbf{entertainment}$ $\textbf{system}$. (Comprehension Passage Snippet 7)\n\nWhat technology feature, uncommon for consoles then, helped the PS2 become a comprehensive home entertainment system?",
+      "image": "",
+      "options": [
+        "Blu-ray Player",
+        "Streaming TV capability",
+        "DVD Player",
+        "CD Player"
+      ],
+      "answer": "DVD Player",
+      "explanation": "The text states its key selling point was that it included a 'DVD player'."
+    },
+    {
+      "id": "U2000_32",
+      "text": "The launch of the PS2 was $\textbf{preceded}$ by months of $\textbf{anticipation}$.\n\nChoose the word that is closest in meaning to $\\textbf{preceded}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Followed",
+        "Came after",
+        "Came before/Went ahead of",
+        "Happened simultaneously"
+      ],
+      "answer": "Came before/Went ahead of",
+      "explanation": "To precede means to come before (something) in time or order."
+    },
+    {
+      "id": "U2000_33",
+      "text": "It was $\textbf{(more powerful/powerfuler)}$ than its main competitor.\n\nChoose the correct comparative adjective.",
+      "image": "",
+      "options": [
+        "more powerful",
+        "powerfuler",
+        "most powerful",
+        "much powerful"
+      ],
+      "answer": "more powerful",
+      "explanation": "'More powerful' is the correct comparative form for a three-syllable adjective."
+    },
+    {
+      "id": "U2000_34",
+      "text": "The word $\\textbf{'console'}$ $\\textbf{c o n s o l e}$.\n\nIdentify the syllable that carries the primary stress in the word **console** (gaming device).",
+      "image": "",
+      "options": [
+        "con",
+        "sole"
+      ],
+      "answer": "con",
+      "explanation": "When referring to the gaming device, the primary stress in 'console' /ˈkɒn.səʊl/ falls on the first syllable, 'con'."
+    },
+    {
+      "id": "U2000_35",
+      "text": "The console $\textbf{(flew off/flew out)}$ the shelves due to high demand.\n\nChoose the correct phrasal verb meaning 'sold very quickly'.",
+      "image": "",
+      "options": [
+        "flew off",
+        "flew out",
+        "flew over",
+        "flew up"
+      ],
+      "answer": "flew off",
+      "explanation": "The idiom 'flew off the shelves' means items were sold very quickly."
+    },
+    {
+      "id": "U2000_36",
+      "text": "The $\textbf{Millennium}$ $\textbf{Dome}$ in $\textbf{London}$, UK, was a $\textbf{controversial}$ $\textbf{project}$ completed for the year 2000 $\textbf{celebrations}$. The central $\textbf{exhibition}$, $\textbf{designed}$ to celebrate the $\textbf{turn}$ of the $\textbf{century}$, $\textbf{received}$ $\textbf{significant}$ $\textbf{public}$ $\textbf{criticism}$ for its high cost and low visitor $\textbf{numbers}$, leading to its $\textbf{closure}$ at the end of the year. (Comprehension Passage Snippet 8)\n\nWhat two main factors led to the public criticism of the Millennium Dome exhibition?",
+      "image": "",
+      "options": [
+        "Its remote location and poor parking",
+        "High cost and low visitor numbers",
+        "The architectural design and lack of food",
+        "Security issues and management problems"
+      ],
+      "answer": "High cost and low visitor numbers",
+      "explanation": "The text says it received criticism for its 'high cost and low visitor numbers'."
+    },
+    {
+      "id": "U2000_37",
+      "text": "The $\textbf{unveiling}$ of the Dome was a highly anticipated event.\n\nChoose the word that is closest in meaning to $\\textbf{unveiling}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Hiding",
+        "Closure",
+        "Presentation/Revelation",
+        "Dismantling"
+      ],
+      "answer": "Presentation/Revelation",
+      "explanation": "Unveiling means presenting something new for the first time."
+    },
+    {
+      "id": "U2000_38",
+      "text": "The project was $\textbf{highly}$ $\textbf{anticipated}$, $\textbf{(yet/so)}$ it failed to meet $\textbf{expectations}$.\n\nChoose the correct coordinating conjunction to show contrast.",
+      "image": "",
+      "options": [
+        "yet",
+        "so",
+        "and",
+        "for"
+      ],
+      "answer": "yet",
+      "explanation": "'Yet' (meaning 'but at the same time') is the best conjunction to contrast the anticipation with the failure."
+    },
+    {
+      "id": "U2000_39",
+      "text": "The word $\\textbf{'exhibition'}$ $\\textbf{e x h i b i t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **exhibition**.",
+      "image": "",
+      "options": [
+        "ex",
+        "hi",
+        "bi",
+        "tion"
+      ],
+      "answer": "bi",
+      "explanation": "The primary stress in 'exhibition' /ˌek.sɪˈbɪʃ.ən/ falls on the third syllable, 'bi'."
+    },
+    {
+      "id": "U2000_40",
+      "text": "If the management $\textbf{(had been/was)}$ better, the exhibition $\textbf{(would have been/would be)}$ more successful.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had been / would have been",
+        "was / would be",
+        "is / will be",
+        "has been / was"
+      ],
+      "answer": "had been / would have been",
+      "explanation": "The Third Conditional is used to discuss a hypothetical past situation and its result."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "Which ancient civilization developed the first known writing system, called $\\textbf{Cuneiform}$?",
+        "image": "",
+        "options": [
+            "The Egyptians",
+            "The Sumerians",
+            "The Greeks",
+            "The Romans"
+        ],
+        "answer": "The Sumerians",
+        "explanation": "Developed in Mesopotamia (modern-day Iraq), Cuneiform used wedge-shaped marks on clay tablets."
+    },
+    {
+        "id": "H02",
+        "text": "The $\\textbf{Code of Hammurabi}$ is best known for its principle of:",
+        "image": "",
+        "options": [
+            "Innocent until proven guilty",
+            "An eye for an eye",
+            "Freedom of speech",
+            "Universal suffrage"
+        ],
+        "answer": "An eye for an eye",
+        "explanation": "This ancient Babylonian legal code prescribed punishments that often mirrored the crime committed."
+    },
+    {
+        "id": "H03",
+        "text": "Which battle in 480 BC featured $\\textbf{300 Spartans}$ holding off a massive Persian army?",
+        "image": "",
+        "options": [
+            "Battle of Marathon",
+            "Battle of Salamis",
+            "Battle of Thermopylae",
+            "Battle of Plataea"
+        ],
+        "answer": "Battle of Thermopylae",
+        "explanation": "King Leonidas led a small Greek force to block the Persian pass, becoming a symbol of courage against overwhelming odds."
+    },
+    {
+        "id": "H04",
+        "text": "Who created one of the largest empires in history, stretching from Greece to India, before dying at age 32?",
+        "image": "",
+        "options": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Genghis Khan",
+            "Napoleon Bonaparte"
+        ],
+        "answer": "Alexander the Great",
+        "explanation": "Alexander, King of Macedon, remained undefeated in battle and spread Hellenistic culture across his empire."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Ides of March}$ (March 15) is famous for the assassination of which Roman leader?",
+        "image": "",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Caligula",
+            "Julius Caesar"
+        ],
+        "answer": "Julius Caesar",
+        "explanation": "Caesar was stabbed to death by a group of senators in 44 BC, leading to the end of the Roman Republic."
+    },
+    {
+        "id": "H06",
+        "text": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt, known for her relationships with Caesar and Mark Antony?",
+        "image": "",
+        "options": [
+            "Nefertiti",
+            "Hatshepsut",
+            "Cleopatra VII",
+            "Boudicca"
+        ],
+        "answer": "Cleopatra VII",
+        "explanation": "Her death marked the end of the Hellenistic period and the beginning of Roman control over Egypt."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Vikings}$ were seafaring warriors and explorers originally from which region?",
+        "image": "",
+        "options": [
+            "Scandinavia",
+            "The British Isles",
+            "Normandy",
+            "Iberia"
+        ],
+        "answer": "Scandinavia",
+        "explanation": "From the late 8th to late 11th centuries, Vikings raided, traded, and settled across Europe and the North Atlantic."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Black Death}$ was a devastating pandemic that killed millions in Europe during the:",
+        "image": "",
+        "options": [
+            "12th Century",
+            "14th Century",
+            "16th Century",
+            "18th Century"
+        ],
+        "answer": "14th Century",
+        "explanation": "Caused by the bacterium *Yersinia pestis*, it is estimated to have killed 30% to 60% of Europe's population."
+    },
+    {
+        "id": "H09",
+        "text": "Who was the French peasant girl who led the French army to victory at Orléans during the $\\textbf{Hundred Years' War}$?",
+        "image": "",
+        "options": [
+            "Marie Antoinette",
+            "Joan of Arc",
+            "Eleanor of Aquitaine",
+            "Catherine de' Medici"
+        ],
+        "answer": "Joan of Arc",
+        "explanation": "Claiming divine guidance, she became a heroine of France before being captured and burned at the stake."
+    },
+    {
+        "id": "H10",
+        "text": "The $\\textbf{Aztec Empire}$ was conquered by Spanish forces led by:",
+        "image": "",
+        "options": [
+            "Francisco Pizarro",
+            "Christopher Columbus",
+            "Hernán Cortés",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Hernán Cortés",
+        "explanation": "Cortés and his indigenous allies defeated the Aztec capital of Tenochtitlán in 1521."
+    },
+    {
+        "id": "H11",
+        "text": "Which civilization built the ancient city of $\\textbf{Machu Picchu}$ in the Andes Mountains?",
+        "image": "",
+        "options": [
+            "The Maya",
+            "The Aztec",
+            "The Inca",
+            "The Olmec"
+        ],
+        "answer": "The Inca",
+        "explanation": "Built in the 15th century, it is the most familiar icon of Inca civilization."
+    },
+    {
+        "id": "H12",
+        "text": "Who formulated the heliocentric model, proposing that the $\\textbf{Sun}$ is at the center of the universe?",
+        "image": "",
+        "options": [
+            "Aristotle",
+            "Ptolemy",
+            "Nicolaus Copernicus",
+            "Isaac Newton"
+        ],
+        "answer": "Nicolaus Copernicus",
+        "explanation": "His theory challenged the long-held geocentric view and sparked the Scientific Revolution."
+    },
+    {
+        "id": "H13",
+        "text": "Which scientist is famous for the laws of motion and the law of $\\textbf{universal gravitation}$?",
+        "image": "",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton",
+        "explanation": "Newton's 1687 work *Principia Mathematica* laid the foundations for classical mechanics."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Declaration of Independence}$ was adopted by the Continental Congress on:",
+        "image": "",
+        "options": [
+            "July 4, 1776",
+            "April 19, 1775",
+            "September 17, 1787",
+            "January 1, 1863"
+        ],
+        "answer": "July 4, 1776",
+        "explanation": "Written primarily by Thomas Jefferson, it announced the separation of the 13 North American colonies from Great Britain."
+    },
+    {
+        "id": "H15",
+        "text": "The storming of the $\\textbf{Bastille}$ fortress in 1789 marked the beginning of which revolution?",
+        "image": "",
+        "options": [
+            "The American Revolution",
+            "The Russian Revolution",
+            "The French Revolution",
+            "The Industrial Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "The Bastille represented royal authority in Paris, and its fall was a flashpoint for the revolution."
+    },
+    {
+        "id": "H16",
+        "text": "Which battle marked the final defeat of $\\textbf{Napoleon Bonaparte}$?",
+        "image": "",
+        "options": [
+            "Battle of Trafalgar",
+            "Battle of Austerlitz",
+            "Battle of Leipzig",
+            "Battle of Waterloo"
+        ],
+        "answer": "Battle of Waterloo",
+        "explanation": "Fought in 1815, Napoleon was defeated by the Duke of Wellington and Gebhard Leberecht von Blücher."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Steam Engine}$, critical to the Industrial Revolution, was significantly improved by:",
+        "image": "",
+        "options": [
+            "Thomas Edison",
+            "James Watt",
+            "Eli Whitney",
+            "Alexander Graham Bell"
+        ],
+        "answer": "James Watt",
+        "explanation": "Watt's improvements made steam engines practical for pumping water and powering machinery."
+    },
+    {
+        "id": "H18",
+        "text": "Which US President issued the $\\textbf{Emancipation Proclamation}$ during the Civil War?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Issued in 1863, it declared that all enslaved people in Confederate-held territory were free."
+    },
+    {
+        "id": "H19",
+        "text": "Who are credited with inventing and building the first successful $\\textbf{airplane}$?",
+        "image": "",
+        "options": [
+            "The Wright Brothers",
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "Howard Hughes"
+        ],
+        "answer": "The Wright Brothers",
+        "explanation": "Orville and Wilbur Wright achieved the first powered flight in 1903 at Kitty Hawk, North Carolina."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{RMS Titanic}$ sank in 1912 after colliding with:",
+        "image": "",
+        "options": [
+            "A German U-boat",
+            "An iceberg",
+            "A coral reef",
+            "Another ship"
+        ],
+        "answer": "An iceberg",
+        "explanation": "The luxury liner sank in the North Atlantic, resulting in the deaths of more than 1,500 people."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Russian Revolution}$ of 1917 led to the rise of which political group?",
+        "image": "",
+        "options": [
+            "The Bolsheviks",
+            "The Mensheviks",
+            "The Jacobins",
+            "The Fascists"
+        ],
+        "answer": "The Bolsheviks",
+        "explanation": "Led by Vladimir Lenin, the Bolsheviks seized power and established the Soviet Union."
+    },
+    {
+        "id": "H22",
+        "text": "The assassination of $\\textbf{Archduke Franz Ferdinand}$ sparked which major conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "His assassination in Sarajevo in 1914 triggered a chain of alliances that led to global war."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{New Deal}$ was a series of programs enacted by which US President to combat the Great Depression?",
+        "image": "",
+        "options": [
+            "Herbert Hoover",
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "Woodrow Wilson"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "The programs focused on relief, recovery, and reform to stabilize the economy."
+    },
+    {
+        "id": "H24",
+        "text": "The United States dropped atomic bombs on $\\textbf{Hiroshima and Nagasaki}$ to end which war?",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Korean War",
+            "The Vietnam War"
+        ],
+        "answer": "World War II",
+        "explanation": "The bombings in 1945 led to Japan's surrender and the end of the Second World War."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Cuban Missile Crisis}$ was a confrontation between the US and the Soviet Union over:",
+        "image": "",
+        "options": [
+            "The Berlin Wall",
+            "Nuclear missiles in Cuba",
+            "The Space Race",
+            "The Vietnam War"
+        ],
+        "answer": "Nuclear missiles in Cuba",
+        "explanation": "It was the closest the Cold War came to escalating into a full-scale nuclear conflict."
+    },
+    {
+        "id": "H26",
+        "text": "Which Supreme Court case declared that separate public schools for black and white students were $\\textbf{unconstitutional}$?",
+        "image": "",
+        "options": [
+            "Plessy v. Ferguson",
+            "Brown v. Board of Education",
+            "Dred Scott v. Sandford",
+            "Roe v. Wade"
+        ],
+        "answer": "Brown v. Board of Education",
+        "explanation": "The 1954 ruling overturned the 'separate but equal' doctrine."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the first human to walk on the $\\textbf{Moon}$?",
+        "image": "",
+        "options": [
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "John Glenn"
+        ],
+        "answer": "Neil Armstrong",
+        "explanation": "Armstrong stepped onto the lunar surface on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Vietnam War}$ was fought primarily to prevent the spread of:",
+        "image": "",
+        "options": [
+            "Fascism",
+            "Communism",
+            "Monarchy",
+            "Colonialism"
+        ],
+        "answer": "Communism",
+        "explanation": "The US supported South Vietnam against the communist North Vietnam in a proxy war."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Watergate Scandal}$ led to the resignation of which US President?",
+        "image": "",
+        "options": [
+            "Lyndon B. Johnson",
+            "Richard Nixon",
+            "Gerald Ford",
+            "Bill Clinton"
+        ],
+        "answer": "Richard Nixon",
+        "explanation": "Nixon resigned in 1974 following revelations of a break-in at the DNC headquarters and a subsequent cover-up."
+    },
+    {
+        "id": "H30",
+        "text": "Who painted the $\\textbf{Mona Lisa}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Vincent van Gogh"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "This Renaissance masterpiece is one of the most famous paintings in the world."
+    },
+    {
+        "id": "H31",
+        "text": "Who is credited with discovering the Americas in $\\textbf{1492}$?",
+        "image": "",
+        "options": [
+            "Leif Erikson",
+            "Amerigo Vespucci",
+            "Christopher Columbus",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Christopher Columbus",
+        "explanation": "Columbus's voyages opened the way for European exploration and colonization of the Americas."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Great Wall of China}$ was built primarily to defend against:",
+        "image": "",
+        "options": [
+            "The Mongols",
+            "The Japanese",
+            "The Romans",
+            "The Indians"
+        ],
+        "answer": "The Mongols",
+        "explanation": "The wall was built and rebuilt over centuries to protect the Chinese states from nomadic invasions."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Colosseum}$ is a famous amphitheater located in which city?",
+        "image": "",
+        "options": [
+            "Athens",
+            "Rome",
+            "Cairo",
+            "Istanbul"
+        ],
+        "answer": "Rome",
+        "explanation": "Completed in 80 AD, it was used for gladiatorial contests and public spectacles."
+    },
+    {
+        "id": "H34",
+        "text": "Which social system in medieval Europe involved lords, vassals, and serfs?",
+        "image": "",
+        "options": [
+            "Democracy",
+            "Feudalism",
+            "Communism",
+            "Republic"
+        ],
+        "answer": "Feudalism",
+        "explanation": "Feudalism was the dominant social system in medieval Europe, based on land ownership and service."
+    },
+    {
+        "id": "H35",
+        "text": "Who developed the process of $\\textbf{pasteurization}$ to prevent food spoilage?",
+        "image": "",
+        "options": [
+            "Marie Curie",
+            "Louis Pasteur",
+            "Charles Darwin",
+            "Gregor Mendel"
+        ],
+        "answer": "Louis Pasteur",
+        "explanation": "His 19th-century research demonstrated that microorganisms cause fermentation and disease."
+    },
+    {
+        "id": "H36",
+        "text": "Which artist is famous for painting $\\textbf{The Starry Night}$?",
+        "image": "",
+        "options": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh",
+        "explanation": "Van Gogh painted this masterpiece in 1889 while in an asylum in France."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Suez Canal}$ connects the Mediterranean Sea to the:",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+        ],
+        "answer": "Red Sea",
+        "explanation": "Completed in 1869, it allows for direct shipping between Europe and Asia."
+    },
+    {
+        "id": "H38",
+        "text": "Which Enlightenment philosopher is famous for his defense of civil liberties and freedom of speech?",
+        "image": "",
+        "options": [
+            "Thomas Hobbes",
+            "Voltaire",
+            "Machiavelli",
+            "Descartes"
+        ],
+        "answer": "Voltaire",
+        "explanation": "Voltaire was a French Enlightenment writer known for his wit and criticism of Christianity and slavery."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{California Gold Rush}$ began in which year?",
+        "image": "",
+        "options": [
+            "1776",
+            "1812",
+            "1849",
+            "1900"
+        ],
+        "answer": "1849",
+        "explanation": "The discovery of gold at Sutter's Mill led to a massive migration of '49ers' to California."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Oracle of Delphi}$ was the most important shrine in ancient Greece, dedicated to which god?",
+        "image": "",
+        "options": [
+            "Zeus",
+            "Athena",
+            "Apollo",
+            "Poseidon"
+        ],
+        "answer": "Apollo",
+        "explanation": "People from all over the ancient world visited Delphi to receive prophecies from the Pythia."
+    }
+]

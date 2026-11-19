@@ -1,0 +1,322 @@
+[
+    {
+      "id": "AGR_2024_01",
+      "text": "The practice of growing two or more crops simultaneously on the same piece of land is known as:",
+      "image": "[Diagram illustrating crop intercropping]",
+      "options": ["Monocropping", "Mixed farming", "Intercropping", "Shifting cultivation"],
+      "answer": "Intercropping",
+      "explanation": "Intercropping involves cultivating two or more crops in proximity, which can maximize land use and biodiversity."
+    },
+    {
+      "id": "AGR_2024_02",
+      "text": "Which of the following soil separates has the largest particle size?",
+      "image": "[Soil texture triangle diagram]",
+      "options": ["Clay", "Silt", "Sand", "Loam"],
+      "answer": "Sand",
+      "explanation": "Sand particles are the largest, followed by silt, and then clay, which has the smallest particle size."
+    },
+    {
+      "id": "AGR_2024_03",
+      "text": "The primary role of nitrogen in plant nutrition is the formation of:",
+      "image": "",
+      "options": ["Cell walls", "Chlorophyll and proteins", "Starch and sugars", "Oils and fats"],
+      "answer": "Chlorophyll and proteins",
+      "explanation": "Nitrogen is a crucial component of amino acids, which make up proteins, and is essential for the structure of the chlorophyll molecule."
+    },
+    {
+      "id": "AGR_2024_04",
+      "text": "In poultry farming, the process of separating unhatched eggs from hatched chicks is called:",
+      "image": "",
+      "options": ["Candling", "Culling", "Sexing", "Hatching"],
+      "answer": "Candling",
+      "explanation": "Candling is the process of holding an egg up to a light source to observe its contents, typically done to check for fertility and development."
+    },
+    {
+      "id": "AGR_2024_05",
+      "text": "The main objective of farm mechanization is to:",
+      "image": "",
+      "options": ["Reduce farm size", "Increase manual labour input", "Improve efficiency and reduce drudgery", "Depend entirely on imported technology"],
+      "answer": "Improve efficiency and reduce drudgery",
+      "explanation": "Mechanization involves the use of machines to perform tasks, leading to faster operations and less reliance on tedious human labor."
+    },
+    {
+      "id": "AGR_2024_06",
+      "text": "Which of the following is a common method of soil conservation in hilly or sloping areas?",
+      "image": "",
+      "options": ["Broadcasting", "Clean weeding", "Contour farming", "Continuous cropping"],
+      "answer": "Contour farming",
+      "explanation": "Contour farming involves planting crops along the contour lines of the slope to reduce water run-off and prevent soil erosion."
+    },
+    {
+      "id": "AGR_2024_07",
+      "text": "The bacterial disease affecting the nervous system of livestock, often contracted through contaminated feed or soil, is:",
+      "image": "",
+      "options": ["Foot and Mouth disease", "Tuberculosis", "Anthrax", "Tetanus"],
+      "answer": "Tetanus",
+      "explanation": "Tetanus is caused by the bacterium *Clostridium tetani*, which produces toxins affecting the nervous system and causing muscle spasms."
+    },
+    {
+      "id": "AGR_2024_08",
+      "text": "Which of the following is a cash crop primarily grown for its vegetable oil?",
+      "image": "",
+      "options": ["Cocoa", "Kola nut", "Oil palm", "Rubber"],
+      "answer": "Oil palm",
+      "explanation": "The oil palm tree produces palm oil and palm kernel oil, which are major vegetable oils used globally."
+    },
+    {
+      "id": "AGR_2024_09",
+      "text": "The part of a plant that develops into the fruit after fertilization is the:",
+      "image": "[Diagram of a flower showing the ovary]",
+      "options": ["Stamen", "Petal", "Ovary", "Sepal"],
+      "answer": "Ovary",
+      "explanation": "After pollination and fertilization, the ovary of the flower ripens to form the fruit, which encloses the seeds."
+    },
+    {
+      "id": "AGR_2024_10",
+      "text": "In agricultural economics, the term 'diminishing returns' refers to the point where:",
+      "image": "[Graph illustrating the law of diminishing returns]",
+      "options": ["Total output starts to fall", "Marginal product begins to fall", "Average product is maximum", "Marginal product is negative"],
+      "answer": "Marginal product begins to fall",
+      "explanation": "The Law of Diminishing Returns states that adding more of one factor of production (while keeping others constant) will eventually result in smaller increases in output."
+    },
+    {
+      "id": "AGR_2024_11",
+      "text": "The most effective control measure for the storage pest, weevil (*Sitophilus oryzae*), in stored grains is:",
+      "image": "",
+      "options": ["Application of water", "Sun drying", "Fumigation with chemicals", "Slight moistening"],
+      "answer": "Fumigation with chemicals",
+      "explanation": "Fumigation (using gaseous chemicals) is the most effective method for controlling insect pests within large volumes of stored grains."
+    },
+    {
+      "id": "AGR_2024_12",
+      "text": "The practice of artificially adding beneficial microorganisms to the soil to improve nutrient cycling is called:",
+      "image": "",
+      "options": ["Liming", "Fertilization", "Bio-fertilization", "Composting"],
+      "answer": "Bio-fertilization",
+      "explanation": "Bio-fertilization uses live organisms, like *Rhizobium* bacteria or blue-green algae, to fix atmospheric nitrogen or enhance nutrient availability."
+    },
+    {
+      "id": "AGR_2024_13",
+      "text": "The recommended method for breeding livestock to maintain the purity of a specific breed is:",
+      "image": "",
+      "options": ["Cross-breeding", "In-breeding", "Line-breeding", "Out-crossing"],
+      "answer": "In-breeding",
+      "explanation": "In-breeding is the mating of closely related animals to increase homozygosity and fix desirable traits, thus maintaining breed purity."
+    },
+    {
+      "id": "AGR_2024_14",
+      "text": "A plant with the life cycle $\\text{seed} \\rightarrow \\text{vegetative growth} \\rightarrow \\text{flowering} \\rightarrow \\text{seed production}$ over two growing seasons is classified as a:",
+      "image": "",
+      "options": ["Annual", "Perennial", "Biennial", "Ephemeral"],
+      "answer": "Biennial",
+      "explanation": "Biennials complete their life cycle in two years, typically growing vegetatively in the first year and producing flowers/seeds in the second."
+    },
+    {
+      "id": "AGR_2024_15",
+      "text": "Which soil type is most likely to suffer from waterlogging due to very low permeability?",
+      "image": "",
+      "options": ["Sandy soil", "Loamy soil", "Clayey soil", "Silty soil"],
+      "answer": "Clayey soil",
+      "explanation": "Clay particles are very small, leading to tiny pore spaces, which restrict water movement and cause poor drainage (low permeability)."
+    },
+    {
+      "id": "AGR_2024_16",
+      "text": "The most important source of foreign exchange earnings from agriculture for many West African nations is:",
+      "image": "",
+      "options": ["Maize", "Groundnut", "Cassava", "Cocoa"],
+      "answer": "Cocoa",
+      "explanation": "Cocoa remains a major export cash crop, generating significant foreign exchange for countries like Ghana, Côte d'Ivoire, and Nigeria."
+    },
+    {
+      "id": "AGR_2024_17",
+      "text": "The term used for the castration of male farm animals is:",
+      "image": "",
+      "options": ["Dipping", "Dehorning", "Caponization", "Grooming"],
+      "answer": "Caponization",
+      "explanation": "Caponization specifically refers to the castration of male chickens (cockerels) to improve meat quality."
+    },
+    {
+      "id": "AGR_2024_18",
+      "text": "A plant pest that transmits viral diseases from one plant to another is generally referred to as a:",
+      "image": "",
+      "options": ["Defoliator", "Vector", "Chewer", "Borer"],
+      "answer": "Vector",
+      "explanation": "A vector is an organism (like an aphid or whitefly) that transmits a pathogen from an infected host to a healthy one."
+    },
+    {
+      "id": "AGR_2024_19",
+      "text": "The main component of farm records that tracks all income and expenditure over a period is the:",
+      "image": "",
+      "options": ["Inventory record", "Production record", "Labour record", "Financial record (e.g., Ledger or Income Statement)"],
+      "answer": "Financial record (e.g., Ledger or Income Statement)",
+      "explanation": "Financial records provide the monetary summary necessary to determine the profitability of the farm."
+    },
+    {
+      "id": "AGR_2024_20",
+      "text": "The type of irrigation where water is delivered drop by drop directly to the base of the plant is:",
+      "image": "[Diagram illustrating drip irrigation]",
+      "options": ["Sprinkler irrigation", "Flood irrigation", "Drip irrigation", "Furrow irrigation"],
+      "answer": "Drip irrigation",
+      "explanation": "Drip irrigation is highly water-efficient, minimizing water loss to evaporation and run-off."
+    },
+    {
+      "id": "AGR_2024_21",
+      "text": "The process of removing excess water from harvested agricultural products to prevent spoilage is called:",
+      "image": "",
+      "options": ["Curing", "Fermentation", "Drying (Dehydration)", "Refrigeration"],
+      "answer": "Drying (Dehydration)",
+      "explanation": "Removing moisture lowers the water activity, inhibiting the growth of spoilage microorganisms like fungi and bacteria."
+    },
+    {
+      "id": "AGR_2024_22",
+      "text": "Which agency is primarily responsible for providing agricultural loans and credit facilities to farmers in Nigeria?",
+      "image": "",
+      "options": ["NERDC", "NACAB", "BOA (Bank of Agriculture)", "WAEC"],
+      "answer": "BOA (Bank of Agriculture)",
+      "explanation": "The Bank of Agriculture is a specialized development finance institution established to provide agricultural credit to Nigerian farmers."
+    },
+    {
+      "id": "AGR_2024_23",
+      "text": "The term used to describe the total value of goods and services produced by a country's agricultural sector is:",
+      "image": "",
+      "options": ["National Income", "Gross National Product (GNP)", "Agricultural Output", "Gross Domestic Product (GDP)"],
+      "answer": "Gross Domestic Product (GDP)",
+      "explanation": "GDP measures the total economic output of a country, and the contribution of the agricultural sector is a component of it."
+    },
+    {
+      "id": "AGR_2024_24",
+      "text": "The immediate product resulting from the fermentation of grains or fruits before distillation for alcohol production is:",
+      "image": "",
+      "options": ["Malt", "Mash", "Wort", "Lees"],
+      "answer": "Mash",
+      "explanation": "Mash is the mixture of fermentable sugars and water created before yeast is added for fermentation."
+    },
+    {
+      "id": "AGR_2024_25",
+      "text": "A plant breeding technique that involves crossing two genetically dissimilar parents to produce a hybrid with superior traits is:",
+      "image": "",
+      "options": ["Inbreeding", "Mass selection", "Heterosis (Hybridization)", "Clone culture"],
+      "answer": "Heterosis (Hybridization)",
+      "explanation": "Heterosis, or hybrid vigor, is the phenomenon where the offspring of two diverse individuals show superior performance to the parents."
+    },
+    {
+      "id": "AGR_2024_26",
+      "text": "The major function of the gizzard in poultry is to:",
+      "image": "[Diagram of the digestive system of a fowl]",
+      "options": ["Secrete digestive enzymes", "Store undigested food", "Grind and crush food particles", "Absorb nutrients"],
+      "answer": "Grind and crush food particles",
+      "explanation": "The gizzard is a highly muscular organ that, with the aid of grit (stones), mechanically grinds food since poultry lacks teeth."
+    },
+    {
+      "id": "AGR_2024_27",
+      "text": "The disease characterized by a shortage of red blood cells or haemoglobin in farm animals is:",
+      "image": "",
+      "options": ["Trypanosomiasis", "Anaemia", "Rinderpest", "Coccidiosis"],
+      "answer": "Anaemia",
+      "explanation": "Anaemia can be caused by various factors, including parasitic infections (e.g., ticks) or nutritional deficiencies."
+    },
+    {
+      "id": "AGR_2024_28",
+      "text": "Which type of fertilizer supplies two essential plant nutrients, Nitrogen ($\text{N}$) and Phosphorus ($\text{P}$), simultaneously?",
+      "image": "",
+      "options": ["Urea", "Single Superphosphate (SSP)", "Muriate of Potash (MOP)", "Diammonium Phosphate (DAP)"],
+      "answer": "Diammonium Phosphate (DAP)",
+      "explanation": "DAP contains a high concentration of both $\\text{N}$ and $\\text{P}$ and is a very popular compound fertilizer."
+    },
+    {
+      "id": "AGR_2024_29",
+      "text": "The primary channel through which agricultural research findings are disseminated to farmers is:",
+      "image": "",
+      "options": ["Mass media", "Agro-allied industries", "Agricultural extension services", "Commercial banks"],
+      "answer": "Agricultural extension services",
+      "explanation": "Extension agents act as a link between researchers and farmers, translating technical findings into practical farming methods."
+    },
+    {
+      "id": "AGR_2024_30",
+      "text": "An agricultural system that involves the integration of crop cultivation and fish rearing in a symbiotic environment is called:",
+      "image": "[Diagram illustrating an Aquaponics system]",
+      "options": ["Horticulture", "Apiculture", "Aquaculture", "Aquaponics"],
+      "answer": "Aquaponics",
+      "explanation": "Aquaponics combines aquaculture (raising fish) with hydroponics (growing plants without soil), where fish waste fertilizes the plants."
+    },
+    {
+      "id": "AGR_2024_31",
+      "text": "Which farm implement is primarily used for deep cultivation and breaking up hardpan soil layers?",
+      "image": "",
+      "options": ["Plough (Mouldboard)", "Harrow", "Ridger", "Subsoiler"],
+      "answer": "Subsoiler",
+      "explanation": "A subsoiler is designed to cut and loosen the soil beneath the typical ploughing depth (the subsoil) to improve drainage and aeration."
+    },
+    {
+      "id": "AGR_2024_32",
+      "text": "The essential farm practice of providing protection to livestock against harsh weather conditions and predators is:",
+      "image": "",
+      "options": ["Worming", "Tethering", "Housing", "Fencing"],
+      "answer": "Housing",
+      "explanation": "Appropriate housing is crucial for protecting animals from adverse weather and external threats, contributing to overall health and productivity."
+    },
+    {
+      "id": "AGR_2024_33",
+      "text": "Crop rotation is primarily aimed at:",
+      "image": "",
+      "options": ["Increasing pest population", "Reducing soil fertility", "Controlling pests and diseases and improving soil health", "Focusing on a single crop"],
+      "answer": "Controlling pests and diseases and improving soil health",
+      "explanation": "By varying crops, rotation breaks pest/disease cycles and allows nitrogen-fixing legumes to improve soil fertility."
+    },
+    {
+      "id": "AGR_2024_34",
+      "text": "The economic term for the cost incurred in the use of production factors owned by the farmer himself (e.g., farmer's own labour, land) is:",
+      "image": "",
+      "options": ["Fixed cost", "Opportunity cost", "Explicit cost", "Implicit cost"],
+      "answer": "Implicit cost",
+      "explanation": "Implicit costs (or imputed costs) are the non-cash expenses that arise from using resources the farmer already owns, often measured as the income foregone."
+    },
+    {
+      "id": "AGR_2024_35",
+      "text": "The major environmental problem associated with the excessive use of nitrogenous fertilizers is:",
+      "image": "",
+      "options": ["Soil erosion", "Water pollution (Eutrophication)", "Air pollution", "Desertification"],
+      "answer": "Water pollution (Eutrophication)",
+      "explanation": "Excess nitrogen leaches into water bodies, causing an overgrowth of algae (eutrophication), which depletes oxygen and harms aquatic life."
+    },
+    {
+      "id": "AGR_2024_36",
+      "text": "The process of sexually reproducing crops by planting seeds to raise new plants is:",
+      "image": "",
+      "options": ["Grafting", "Budding", "Sexual propagation", "Layering"],
+      "answer": "Sexual propagation",
+      "explanation": "Sexual propagation involves the union of male and female gametes to produce seed, which is then used to grow the new plant."
+    },
+    {
+      "id": "AGR_2024_37",
+      "text": "Which type of market structure is characterized by a single seller controlling the entire supply of a specific agricultural commodity?",
+      "image": "",
+      "options": ["Oligopoly", "Perfect competition", "Monopsony", "Monopoly"],
+      "answer": "Monopoly",
+      "explanation": "A monopoly exists when a single firm or organization controls the entire supply in a market."
+    },
+    {
+      "id": "AGR_2024_38",
+      "text": "The hormone primarily responsible for milk let-down (ejection) in lactating farm animals is:",
+      "image": "",
+      "options": ["Thyroxine", "Insulin", "Oxytocin", "Adrenaline"],
+      "answer": "Oxytocin",
+      "explanation": "Oxytocin is released in response to suckling or milking, causing the smooth muscles around the alveoli in the mammary gland to contract, ejecting milk."
+    },
+    {
+      "id": "AGR_2024_39",
+      "text": "The term used to describe the period when a female animal is receptive to mating (in heat) is:",
+      "image": "",
+      "options": ["Gestation", "Parturition", "Oestrus (Heat period)", "Weaning"],
+      "answer": "Oestrus (Heat period)",
+      "explanation": "The oestrus cycle is the reproductive cycle, and oestrus is the period of sexual receptivity."
+    },
+    {
+      "id": "AGR_2024_40",
+      "text": "Agricultural development that meets the needs of the present without compromising the ability of future generations to meet their own needs is termed:",
+      "image": "",
+      "options": ["Commercial farming", "Intensive farming", "Sustainable agriculture", "Subsistence farming"],
+      "answer": "Sustainable agriculture",
+      "explanation": "Sustainable agriculture focuses on long-term ecological balance, conservation of resources, and economic viability."
+    }
+]

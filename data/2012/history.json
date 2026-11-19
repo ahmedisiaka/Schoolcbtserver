@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Titanic}$ sank on its maiden voyage in 1912 after colliding with an iceberg in which ocean?",
+        "image": "",
+        "options": [
+            "The Pacific Ocean",
+            "The Atlantic Ocean",
+            "The Indian Ocean",
+            "The Arctic Ocean"
+        ],
+        "answer": "The Atlantic Ocean",
+        "explanation": "The RMS Titanic sank in the North Atlantic Ocean, resulting in the deaths of over 1,500 people."
+    },
+    {
+        "id": "H02",
+        "text": "Which Roman Emperor famously built a $\\textbf{wall}$ across northern Britain to keep out barbarians?",
+        "image": "",
+        "options": [
+            "Nero",
+            "Hadrian",
+            "Trajan",
+            "Augustus"
+        ],
+        "answer": "Hadrian",
+        "explanation": "Hadrian's Wall was a defensive fortification in the Roman province of Britannia, begun in AD 122."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of Lexington and Concord}$ signaled the start of which war?",
+        "image": "",
+        "options": [
+            "The French and Indian War",
+            "The American Revolutionary War",
+            "The War of 1812",
+            "The Civil War"
+        ],
+        "answer": "The American Revolutionary War",
+        "explanation": "Fought on April 19, 1775, these were the first military engagements of the American Revolutionary War."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first person to circulate the idea that the Earth revolves around the Sun ($\\textbf{Heliocentrism}$) during the Renaissance?",
+        "image": "",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Nicolaus Copernicus",
+            "Johannes Kepler"
+        ],
+        "answer": "Nicolaus Copernicus",
+        "explanation": "His book 'De revolutionibus orbium coelestium' is often regarded as the starting point of modern astronomy."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Prohibition}$ era in the United States banned the sale of:",
+        "image": "",
+        "options": [
+            "Tobacco",
+            "Firearms",
+            "Alcohol",
+            "Coffee"
+        ],
+        "answer": "Alcohol",
+        "explanation": "Enacted by the 18th Amendment in 1919 and repealed by the 21st Amendment in 1933."
+    },
+    {
+        "id": "H06",
+        "text": "Which ancient civilization is known for building $\\textbf{Ziggurats}$?",
+        "image": "",
+        "options": [
+            "Egyptians",
+            "Mesopotamians (Sumerians)",
+            "Greeks",
+            "Romans"
+        ],
+        "answer": "Mesopotamians (Sumerians)",
+        "explanation": "Ziggurats were massive structures built in the ancient Mesopotamian valley and western Iranian plateau."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Battle of Yorktown}$ in 1781 was significant because:",
+        "image": "",
+        "options": [
+            "It was the first battle of the Revolution",
+            "It was the last major land battle of the Revolution",
+            "George Washington was captured",
+            "The French navy was defeated"
+        ],
+        "answer": "It was the last major land battle of the Revolution",
+        "explanation": "General Cornwallis surrendered to George Washington and the French fleet, effectively ending the war."
+    },
+    {
+        "id": "H08",
+        "text": "Who was the first female pilot to fly solo across the $\\textbf{Atlantic Ocean}$?",
+        "image": "",
+        "options": [
+            "Bessie Coleman",
+            "Amelia Earhart",
+            "Harriet Quimby",
+            "Jacqueline Cochran"
+        ],
+        "answer": "Amelia Earhart",
+        "explanation": "Earhart completed the flight in 1932, becoming an international celebrity and feminist icon."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Crusades}$ were a series of religious wars between Christians and:",
+        "image": "",
+        "options": [
+            "Pagans",
+            "Muslims",
+            "Hindus",
+            "Buddhists"
+        ],
+        "answer": "Muslims",
+        "explanation": "Fought primarily to secure control of holy sites considered sacred by both groups."
+    },
+    {
+        "id": "H10",
+        "text": "Which US President delivered the $\\textbf{Gettysburg Address}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Andrew Jackson"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Delivered in 1863, it is one of the best-known speeches in American history."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Black Death}$ was a pandemic that devastated Europe in the:",
+        "image": "",
+        "options": [
+            "12th Century",
+            "14th Century",
+            "16th Century",
+            "18th Century"
+        ],
+        "answer": "14th Century",
+        "explanation": "Peaking between 1347 and 1351, it is estimated to have killed 30% to 60% of Europe's population."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the leader of the $\\textbf{Continental Army}$?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "George Washington",
+            "John Adams"
+        ],
+        "answer": "George Washington",
+        "explanation": "Washington led the colonial forces to victory and later became the first President of the United States."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Great Wall of China}$ was built primarily to defend against:",
+        "image": "",
+        "options": [
+            "The Mongols",
+            "The Japanese",
+            "The Romans",
+            "The Indians"
+        ],
+        "answer": "The Mongols",
+        "explanation": "Several walls were built from as early as the 7th century BC to protect the Chinese states and empires against raids and invasions."
+    },
+    {
+        "id": "H14",
+        "text": "Which event sparked the start of $\\textbf{World War I}$?",
+        "image": "",
+        "options": [
+            "The sinking of the Lusitania",
+            "The invasion of Poland",
+            "The assassination of Archduke Franz Ferdinand",
+            "The bombing of Pearl Harbor"
+        ],
+        "answer": "The assassination of Archduke Franz Ferdinand",
+        "explanation": "His assassination in Sarajevo on June 28, 1914, led to a chain of events that triggered the war."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Renaissance}$ was a period of cultural rebirth that began in:",
+        "image": "",
+        "options": [
+            "France",
+            "England",
+            "Italy",
+            "Spain"
+        ],
+        "answer": "Italy",
+        "explanation": "Starting in Florence in the 14th century, it marked the transition from the Middle Ages to modernity."
+    },
+    {
+        "id": "H16",
+        "text": "Who wrote the pamphlet $\\textbf{Common Sense}$ in 1776?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Thomas Paine",
+            "Benjamin Franklin",
+            "John Locke"
+        ],
+        "answer": "Thomas Paine",
+        "explanation": "It advocated independence from Great Britain to people in the Thirteen Colonies."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Berlin Wall}$ fell in which year, symbolizing the end of the Cold War?",
+        "image": "",
+        "options": [
+            "1987",
+            "1989",
+            "1991",
+            "1993"
+        ],
+        "answer": "1989",
+        "explanation": "The fall of the wall paved the way for German reunification and the collapse of the Iron Curtain."
+    },
+    {
+        "id": "H18",
+        "text": "Which civilization is known for its $\\textbf{hieroglyphic}$ writing system?",
+        "image": "",
+        "options": [
+            "Ancient Greece",
+            "Ancient Rome",
+            "Ancient Egypt",
+            "The Vikings"
+        ],
+        "answer": "Ancient Egypt",
+        "explanation": "Hieroglyphs were the formal writing system used in Ancient Egypt."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Louisiana Purchase}$ doubled the size of the United States in:",
+        "image": "",
+        "options": [
+            "1776",
+            "1803",
+            "1812",
+            "1849"
+        ],
+        "answer": "1803",
+        "explanation": "Thomas Jefferson purchased the territory from France for $15 million."
+    },
+    {
+        "id": "H20",
+        "text": "Who was the leader of the $\\textbf{Civil Rights Movement}$ famous for his 'I Have a Dream' speech?",
+        "image": "",
+        "options": [
+            "Malcolm X",
+            "Rosa Parks",
+            "Martin Luther King Jr.",
+            "Thurgood Marshall"
+        ],
+        "answer": "Martin Luther King Jr.",
+        "explanation": "Delivered in 1963, the speech called for an end to racism and civil and economic rights."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 led to the Norman conquest of:",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "England",
+            "Italy"
+        ],
+        "answer": "England",
+        "explanation": "William the Conqueror defeated King Harold II, becoming the first Norman King of England."
+    },
+    {
+        "id": "H22",
+        "text": "Which invention by $\\textbf{Johannes Gutenberg}$ revolutionized the spread of information?",
+        "image": "",
+        "options": [
+            "The Telescope",
+            "The Steam Engine",
+            "The Printing Press",
+            "The Compass"
+        ],
+        "answer": "The Printing Press",
+        "explanation": "Developed around 1440, it allowed for the mass production of books and the rapid spread of ideas."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Aztec Empire}$ was located in modern-day:",
+        "image": "",
+        "options": [
+            "Peru",
+            "Mexico",
+            "Brazil",
+            "Chile"
+        ],
+        "answer": "Mexico",
+        "explanation": "Tenochtitlan, the capital of the Aztec Empire, is the site of modern-day Mexico City."
+    },
+    {
+        "id": "H24",
+        "text": "Who was the Queen of France beheaded during the $\\textbf{French Revolution}$?",
+        "image": "",
+        "options": [
+            "Catherine de' Medici",
+            "Marie Antoinette",
+            "Eleanor of Aquitaine",
+            "Mary Queen of Scots"
+        ],
+        "answer": "Marie Antoinette",
+        "explanation": "She was convicted of treason and executed by guillotine in 1793."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Space Race}$ began with the launch of which satellite?",
+        "image": "",
+        "options": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Explorer 1",
+            "Vostok 1"
+        ],
+        "answer": "Sputnik 1",
+        "explanation": "Launched by the Soviet Union in 1957, it was the first artificial Earth satellite."
+    },
+    {
+        "id": "H26",
+        "text": "Which war did the $\\textbf{Treaty of Versailles}$ officially end?",
+        "image": "",
+        "options": [
+            "The Napoleonic Wars",
+            "World War I",
+            "World War II",
+            "The Franco-Prussian War"
+        ],
+        "answer": "World War I",
+        "explanation": "Signed in 1919, the treaty imposed harsh reparations and territorial losses on Germany."
+    },
+    {
+        "id": "H27",
+        "text": "Who is credited with discovering America in $\\textbf{1492}$?",
+        "image": "",
+        "options": [
+            "Leif Erikson",
+            "Amerigo Vespucci",
+            "Christopher Columbus",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Christopher Columbus",
+        "explanation": "His voyages across the Atlantic Ocean opened the way for European exploration and colonization of the Americas."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Emancipation Proclamation}$ was issued during which war?",
+        "image": "",
+        "options": [
+            "The Revolutionary War",
+            "The War of 1812",
+            "The American Civil War",
+            "The Spanish-American War"
+        ],
+        "answer": "The American Civil War",
+        "explanation": "Issued by Abraham Lincoln in 1863, it declared that all enslaved people in Confederate-held territory were free."
+    },
+    {
+        "id": "H29",
+        "text": "Which Greek philosopher was the teacher of $\\textbf{Alexander the Great}$?",
+        "image": "",
+        "options": [
+            "Socrates",
+            "Plato",
+            "Aristotle",
+            "Pythagoras"
+        ],
+        "answer": "Aristotle",
+        "explanation": "Aristotle tutored Alexander, instilling in him a love for Greek culture and knowledge."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Industrial Revolution}$ began with advancements in which industry?",
+        "image": "",
+        "options": [
+            "Steel",
+            "Textiles",
+            "Oil",
+            "Automobiles"
+        ],
+        "answer": "Textiles",
+        "explanation": "Innovations like the Spinning Jenny and the Flying Shuttle transformed textile manufacturing in Britain."
+    },
+    {
+        "id": "H31",
+        "text": "Who painted the $\\textbf{Mona Lisa}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Created in the early 16th century, it is one of the most famous works of the Renaissance."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Magna Carta}$ limited the power of the King in which country?",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "England",
+            "Germany"
+        ],
+        "answer": "England",
+        "explanation": "Signed in 1215 by King John, it established that the king was not above the law."
+    },
+    {
+        "id": "H33",
+        "text": "Which civilization built $\\textbf{Machu Picchu}$?",
+        "image": "",
+        "options": [
+            "Maya",
+            "Aztec",
+            "Inca",
+            "Olmec"
+        ],
+        "answer": "Inca",
+        "explanation": "This 15th-century citadel is located in the Andes Mountains of Peru."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Battle of Stalingrad}$ was a turning point in which war?",
+        "image": "",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Crimean War",
+            "The Napoleonic Wars"
+        ],
+        "answer": "World War II",
+        "explanation": "The Soviet victory stopped the German advance into the Soviet Union and marked the turning of the tide."
+    },
+    {
+        "id": "H35",
+        "text": "Who was the first man to walk on the $\\textbf{Moon}$?",
+        "image": "",
+        "options": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "John Glenn"
+        ],
+        "answer": "Neil Armstrong",
+        "explanation": "He stepped onto the lunar surface on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Reformation}$ began when Martin Luther posted his:",
+        "image": "",
+        "options": [
+            "Communist Manifesto",
+            "95 Theses",
+            "Magna Carta",
+            "Declaration of Rights"
+        ],
+        "answer": "95 Theses",
+        "explanation": "In 1517, Luther criticized the Catholic Church's sale of indulgences, sparking the Protestant Reformation."
+    },
+    {
+        "id": "H37",
+        "text": "Which US President is associated with the $\\textbf{New Deal}$?",
+        "image": "",
+        "options": [
+            "Herbert Hoover",
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "Theodore Roosevelt"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "FDR introduced these programs to help the US recover from the Great Depression."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Opium Wars}$ were fought between China and:",
+        "image": "",
+        "options": [
+            "Japan",
+            "Russia",
+            "Great Britain",
+            "France"
+        ],
+        "answer": "Great Britain",
+        "explanation": "These 19th-century conflicts forced China to open trade and cede Hong Kong to Britain."
+    },
+    {
+        "id": "H39",
+        "text": "Which explorer's crew was the first to $\\textbf{circumnavigate}$ the globe?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Francis Drake",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+        ],
+        "answer": "Ferdinand Magellan",
+        "explanation": "Magellan died during the voyage, but his expedition proved the world was round."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Code of Hammurabi}$ is an ancient legal code from:",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Babylon (Mesopotamia)",
+            "Greece",
+            "Persia"
+        ],
+        "answer": "Babylon (Mesopotamia)",
+        "explanation": "Dating back to 1754 BC, it is one of the oldest deciphered writings of significant length in the world."
+    }
+]

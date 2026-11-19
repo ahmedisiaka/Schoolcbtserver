@@ -1,0 +1,325 @@
+[
+    {
+      "id": "JAMB_P_2004_01",
+      "text": "Which quantity is a vector?",
+      "image": "",
+      "options": ["Speed", "Distance", "Mass", "Displacement"],
+      "answer": "Displacement",
+      "explanation": "Displacement has both magnitude and direction."
+    },
+    {
+      "id": "JAMB_P_2004_02",
+      "text": "A car accelerates from rest at 4 m/s². Its velocity after 5 seconds is:",
+      "image": "",
+      "options": ["10 m/s", "15 m/s", "20 m/s", "25 m/s"],
+      "answer": "20 m/s",
+      "explanation": "v = at = 4 × 5 = 20 m/s."
+    },
+    {
+      "id": "JAMB_P_2004_03",
+      "text": "The slope of a distance–time graph gives:",
+      "image": "",
+      "options": ["Acceleration", "Velocity", "Speed squared", "Displacement"],
+      "answer": "Velocity",
+      "explanation": "Gradient of distance-time graph = velocity."
+    },
+    {
+      "id": "JAMB_P_2004_04",
+      "text": "Which law states that the total momentum of a system is conserved?",
+      "image": "",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Momentum"],
+      "answer": "Law of Conservation of Momentum",
+      "explanation": "Momentum is conserved when no external force acts."
+    },
+    {
+      "id": "JAMB_P_2004_05",
+      "text": "The dimension of pressure is:",
+      "image": "",
+      "options": ["MLT⁻²", "ML⁻¹T⁻²", "M⁰L¹T²", "ML²T⁻³"],
+      "answer": "ML⁻¹T⁻²",
+      "explanation": "Pressure = Force/Area = (MLT⁻² ÷ L²)."
+    },
+    {
+      "id": "JAMB_P_2004_06",
+      "text": "A body of mass 2kg falls under gravity. Its weight is:",
+      "image": "",
+      "options": ["2N", "10N", "20N", "40N"],
+      "answer": "20N",
+      "explanation": "W = mg = 2 × 10 = 20N."
+    },
+    {
+      "id": "JAMB_P_2004_07",
+      "text": "A machine with a velocity ratio of 4 lifts a 200N load using 80N effort. The efficiency is:",
+      "image": "",
+      "options": ["25%", "50%", "75%", "100%"],
+      "answer": "50%",
+      "explanation": "MA = 200/80 = 2.5; efficiency = 2.5/4 × 100% = 62.5%."
+    },
+    {
+      "id": "JAMB_P_2004_08",
+      "text": "The specific heat capacity of a substance is defined as the heat required to raise the temperature of:",
+      "image": "",
+      "options": ["1g by 1°C", "1kg by 1°C", "A sample by 10°C", "The substance to melting point"],
+      "answer": "1kg by 1°C",
+      "explanation": "Definition of specific heat capacity."
+    },
+    {
+      "id": "JAMB_P_2004_09",
+      "text": "A material that returns to its original length after deformation is:",
+      "image": "",
+      "options": ["Plastic", "Elastic", "Metallic", "Fluid"],
+      "answer": "Elastic",
+      "explanation": "Elastic materials regain shape."
+    },
+    {
+      "id": "JAMB_P_2004_10",
+      "text": "A wave has frequency 50Hz and wavelength 2m. Its speed is:",
+      "image": "",
+      "options": ["25 m/s", "50 m/s", "75 m/s", "100 m/s"],
+      "answer": "100 m/s",
+      "explanation": "v = fλ = 50 × 2."
+    },
+    {
+      "id": "JAMB_P_2004_11",
+      "text": "Light bends towards the normal when traveling from:",
+      "image": "",
+      "options": ["Glass to air", "Air to glass", "Vacuum to air", "Water to air"],
+      "answer": "Air to glass",
+      "explanation": "Light slows down in a denser medium."
+    },
+    {
+      "id": "JAMB_P_2004_12",
+      "text": "Total internal reflection occurs when light moves from:",
+      "image": "",
+      "options": ["Denser to less dense medium", "Less dense to denser medium", "Air to glass", "Vacuum to glass"],
+      "answer": "Denser to less dense medium",
+      "explanation": "TIR requires dense → less dense."
+    },
+    {
+      "id": "JAMB_P_2004_13",
+      "text": "The unit of electric charge is:",
+      "image": "",
+      "options": ["Volt", "Ampere", "Coulomb", "Watt"],
+      "answer": "Coulomb",
+      "explanation": "Charge is measured in coulombs."
+    },
+    {
+      "id": "JAMB_P_2004_14",
+      "text": "A 6Ω resistor carries a current of 2A. The voltage is:",
+      "image": "",
+      "options": ["2V", "6V", "8V", "12V"],
+      "answer": "12V",
+      "explanation": "V = IR = 2 × 6."
+    },
+    {
+      "id": "JAMB_P_2004_15",
+      "text": "The commercial unit of electrical energy is:",
+      "image": "",
+      "options": ["Joule", "Watt", "Kilojoule", "Kilowatt-hour"],
+      "answer": "Kilowatt-hour",
+      "explanation": "Energy companies bill in kWh."
+    },
+    {
+      "id": "JAMB_P_2004_16",
+      "text": "A transformer operates on the principle of:",
+      "image": "",
+      "options": ["Heat transfer", "Magnetic induction", "Electrolysis", "Thermal expansion"],
+      "answer": "Magnetic induction",
+      "explanation": "Transformers use mutual induction."
+    },
+    {
+      "id": "JAMB_P_2004_17",
+      "text": "Which instrument measures electric current?",
+      "image": "",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "Ammeter",
+      "explanation": "Ammeter measures current."
+    },
+    {
+      "id": "JAMB_P_2004_18",
+      "text": "A diode allows current to flow:",
+      "image": "",
+      "options": ["Both directions", "Reverse direction only", "Forward direction only", "No direction"],
+      "answer": "Forward direction only",
+      "explanation": "Diodes permit forward current."
+    },
+    {
+      "id": "JAMB_P_2004_19",
+      "text": "The energy stored in a stretched spring is:",
+      "image": "",
+      "options": ["Thermal", "Elastic potential", "Kinetic", "Nuclear"],
+      "answer": "Elastic potential",
+      "explanation": "Springs store elastic potential energy."
+    },
+    {
+      "id": "JAMB_P_2004_20",
+      "text": "The half-life of a radioactive material is the time for:",
+      "image": "",
+      "options": ["All atoms to decay", "Half the atoms to decay", "Decay to stop", "Half the energy to vanish"],
+      "answer": "Half the atoms to decay",
+      "explanation": "Definition of half-life."
+    },
+  
+    {
+      "id": "JAMB_P_2004_21",
+      "text": "Sound waves are:",
+      "image": "",
+      "options": ["Transverse", "Longitudinal", "Electromagnetic", "Polarized"],
+      "answer": "Longitudinal",
+      "explanation": "Sound waves require a medium and are longitudinal."
+    },
+    {
+      "id": "JAMB_P_2004_22",
+      "text": "The speed of sound in air at room temperature is approximately:",
+      "image": "",
+      "options": ["150 m/s", "330 m/s", "500 m/s", "1000 m/s"],
+      "answer": "330 m/s",
+      "explanation": "Average value in air."
+    },
+    {
+      "id": "JAMB_P_2004_23",
+      "text": "The refractive index of a material is:",
+      "image": "",
+      "options": ["Speed in vacuum / speed in material", "Time / speed", "Mass / volume", "Power / energy"],
+      "answer": "Speed in vacuum / speed in material",
+      "explanation": "μ = c / v."
+    },
+    {
+      "id": "JAMB_P_2004_24",
+      "text": "Which radiation has the highest penetrating power?",
+      "image": "",
+      "options": ["Alpha", "Beta", "Gamma", "Infrared"],
+      "answer": "Gamma",
+      "explanation": "Gamma rays penetrate most."
+    },
+    {
+      "id": "JAMB_P_2004_25",
+      "text": "The focal length of a plane mirror is:",
+      "image": "",
+      "options": ["0", "Half radius", "Infinity", "Equal to radius"],
+      "answer": "Infinity",
+      "explanation": "Plane mirrors have infinite radius of curvature."
+    },
+    {
+      "id": "JAMB_P_2004_26",
+      "text": "Which device is used to detect charge?",
+      "image": "",
+      "options": ["Ammeter", "Electroscope", "Transformer", "Capacitor"],
+      "answer": "Electroscope",
+      "explanation": "Electroscope detects electric charge."
+    },
+    {
+      "id": "JAMB_P_2004_27",
+      "text": "The S.I. unit of power is:",
+      "image": "",
+      "options": ["Joule", "Newton", "Watt", "Volt"],
+      "answer": "Watt",
+      "explanation": "Power is measured in watts."
+    },
+    {
+      "id": "JAMB_P_2004_28",
+      "text": "The drift velocity of electrons is usually:",
+      "image": "",
+      "options": ["Very high", "Very low", "Equal to speed of light", "Same as current"],
+      "answer": "Very low",
+      "explanation": "Electrons drift slowly despite fast random motion."
+    },
+    {
+      "id": "JAMB_P_2004_29",
+      "text": "A capacitor stores:",
+      "image": "",
+      "options": ["Charge", "Heat", "Mass", "Current"],
+      "answer": "Charge",
+      "explanation": "Capacitors store electrical charge."
+    },
+    {
+      "id": "JAMB_P_2004_30",
+      "text": "Hooke’s law is valid up to the:",
+      "image": "",
+      "options": ["Elastic limit", "Breaking point", "Yield point", "Ultimate point"],
+      "answer": "Elastic limit",
+      "explanation": "Hooke’s law applies before elastic limit."
+    },
+  
+    {
+      "id": "JAMB_P_2004_31",
+      "text": "In a vacuum, all electromagnetic waves have the same:",
+      "image": "",
+      "options": ["Frequency", "Speed", "Wavelength", "Amplitude"],
+      "answer": "Speed",
+      "explanation": "All EM waves travel at c in vacuum."
+    },
+    {
+      "id": "JAMB_P_2004_32",
+      "text": "The energy of a photon is given by:",
+      "image": "",
+      "options": ["E = mc²", "E = ½mv²", "E = hf", "E = mgh"],
+      "answer": "E = hf",
+      "explanation": "Photon energy equals Planck’s constant × frequency."
+    },
+    {
+      "id": "JAMB_P_2004_33",
+      "text": "Which law explains floating of bodies?",
+      "image": "",
+      "options": ["Newton’s law", "Boyle’s law", "Hooke’s law", "Archimedes’ principle"],
+      "answer": "Archimedes’ principle",
+      "explanation": "Buoyant force explains floating."
+    },
+    {
+      "id": "JAMB_P_2004_34",
+      "text": "The pressure at a depth in a liquid depends on:",
+      "image": "",
+      "options": ["Shape of vessel", "Surface area", "Density and depth", "Temperature only"],
+      "answer": "Density and depth",
+      "explanation": "P = ρgh."
+    },
+    {
+      "id": "JAMB_P_2004_35",
+      "text": "A thermionic diode emits electrons when:",
+      "image": "",
+      "options": ["Cooled", "Heated", "Under pressure", "In vacuum only"],
+      "answer": "Heated",
+      "explanation": "Thermionic emission requires heat."
+    },
+    {
+      "id": "JAMB_P_2004_36",
+      "text": "A fuse is used in an electric circuit to:",
+      "image": "",
+      "options": ["Store energy", "Increase current", "Prevent excessive current", "Reduce voltage"],
+      "answer": "Prevent excessive current",
+      "explanation": "Fuse melts to stop dangerous currents."
+    },
+    {
+      "id": "JAMB_P_2004_37",
+      "text": "Which property of a wave does NOT change when refraction occurs?",
+      "image": "",
+      "options": ["Speed", "Frequency", "Wavelength", "Direction"],
+      "answer": "Frequency",
+      "explanation": "Frequency is determined by the source."
+    },
+    {
+      "id": "JAMB_P_2004_38",
+      "text": "A neutral atom has equal numbers of:",
+      "image": "",
+      "options": ["Protons and neutrons", "Electrons and neutrons", "Protons and electrons", "Protons, neutrons and electrons"],
+      "answer": "Protons and electrons",
+      "explanation": "Charge neutrality requires equal protons and electrons."
+    },
+    {
+      "id": "JAMB_P_2004_39",
+      "text": "Which instrument is used to measure small lengths accurately?",
+      "image": "",
+      "options": ["Meter rule", "Tape", "Vernier caliper", "Protractor"],
+      "answer": "Vernier caliper",
+      "explanation": "Vernier caliper measures small lengths precisely."
+    },
+    {
+      "id": "JAMB_P_2004_40",
+      "text": "The fundamental unit of temperature is:",
+      "image": "",
+      "options": ["Fahrenheit", "Celsius", "Kelvin", "Rankine"],
+      "answer": "Kelvin",
+      "explanation": "Kelvin is the SI base unit of temperature."
+    }
+  ]
+  

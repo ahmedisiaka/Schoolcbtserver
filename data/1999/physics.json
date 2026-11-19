@@ -1,0 +1,522 @@
+[
+    {
+        "id": "JAMB_P_001",
+        "text": "Which of the following physical quantities is $\\textbf{NOT}$ a $\\textbf{base}$ quantity?",
+        "image": "",
+        "options": [
+            "Luminous intensity.",
+            "Temperature.",
+            "Force.",
+            "Amount of substance."
+        ],
+        "answer": "Force.",
+        "explanation": "Base quantities in S.I. units are Mass, Length, Time, Electric Current, Temperature, Luminous Intensity, and Amount of Substance. Force is a derived quantity (Mass $\\times$ Acceleration)."
+    },
+    {
+        "id": "JAMB_P_002",
+        "text": "A stone is thrown vertically upwards with an initial velocity of $20\\text{ m/s}$. Neglecting air resistance, what is the maximum height reached? (Take $g = 10\\text{ m/s}^2$)",
+        "image": "",
+        "options": [
+            "$5\\text{ m}$.",
+            "$10\\text{ m}$.",
+            "$20\\text{ m}$.",
+            "$40\\text{ m}$."
+        ],
+        "answer": "$20\\text{ m}$.",
+        "explanation": "Using the equation $v^2 = u^2 + 2as$. At max height, $v = 0$. $0 = (20)^2 + 2(-10)h$. $0 = 400 - 20h$. $20h = 400$. $h = 20\\text{ m}$."
+    },
+    {
+        "id": "JAMB_P_003",
+        "text": "The $\\textbf{unit}$ of $\\textbf{momentum}$ is:",
+        "image": "",
+        "options": [
+            "Newton-second ($\\text{N} \\cdot \\text{s}$).",
+            "Joule-second ($\\text{J} \\cdot \\text{s}$).",
+            "Kilogram per meter ($\\text{kg/m}$).",
+            "Newton per second ($\\text{N/s}$)."
+        ],
+        "answer": "Newton-second ($\\text{N} \\cdot \\text{s}$).",
+        "explanation": "Momentum ($p$) is mass times velocity ($p = mv$). The unit is $\\text{kg} \\cdot \\text{m/s}$. Since $\\text{N} = \\text{kg} \\cdot \\text{m/s}^2$, then $\\text{N} \\cdot \\text{s} = (\\text{kg} \\cdot \\text{m/s}^2) \\cdot \\text{s} = \\text{kg} \\cdot \\text{m/s}$. $\\textbf{[Image of momentum vector calculation]}$"
+    },
+    {
+        "id": "JAMB_P_004",
+        "text": "A machine has an efficiency of $70\\%$. If the work done $\\textbf{by}$ the machine is $210\\text{ J}$, what is the work done $\\textbf{on}$ the machine?",
+        "image": "",
+        "options": [
+            "$147\\text{ J}$.",
+            "$210\\text{ J}$.",
+            "$300\\text{ J}$.",
+            "$350\\text{ J}$."
+        ],
+        "answer": "$300\\text{ J}$.",
+        "explanation": "Efficiency $(\\eta) = \\frac{\\text{Work Output}}{\\text{Work Input}} \\times 100\\%$. $70 = \\frac{210}{\\text{Work Input}} \\times 100$. $\\text{Work Input} = \\frac{210 \\times 100}{70} = 300\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_005",
+        "text": "The rate of $\\textbf{change}$ of $\\textbf{angular}$ $\\textbf{momentum}$ is equal to the:",
+        "image": "",
+        "options": [
+            "force applied.",
+            "power developed.",
+            "torque applied.",
+            "work done."
+        ],
+        "answer": "torque applied.",
+        "explanation": "This is the rotational equivalent of Newton's second law: Force is the rate of change of linear momentum, and $\\textbf{Torque}$ ($\tau$) is the rate of change of $\\textbf{angular}$ $\\textbf{momentum}$ ($\\tau = \\frac{dL}{dt}$)."
+    },
+    {
+        "id": "JAMB_P_006",
+        "text": "Which of the following statements is $\\textbf{true}$ about a body performing $\\textbf{Simple}$ $\\textbf{Harmonic}$ $\\textbf{Motion}$ (SHM)?",
+        "image": "",
+        "options": [
+            "Its acceleration is constant.",
+            "Its velocity is greatest at the extreme positions.",
+            "Its kinetic energy is greatest at the equilibrium position.",
+            "Its potential energy is zero at the extreme positions."
+        ],
+        "answer": "Its kinetic energy is greatest at the equilibrium position.",
+        "explanation": "At the equilibrium position, the displacement is zero, acceleration is zero, and velocity is maximum. Maximum velocity means maximum kinetic energy ($KE = \\frac{1}{2}mv^2$)."
+    },
+    {
+        "id": "JAMB_P_007",
+        "text": "A liquid is heated from $10^\\circ\\text{C}$ to $50^\\circ\\text{C}$. What is the temperature change in Kelvin?",
+        "image": "",
+        "options": [
+            "$40\\text{ K}$.",
+            "$263\\text{ K}$.",
+            "$303\\text{ K}$.",
+            "$313\\text{ K}$."
+        ],
+        "answer": "$40\\text{ K}$.",
+        "explanation": "A change in temperature is the same in Celsius and Kelvin scales: $\\Delta T_K = \\Delta T_C = 50^\\circ\\text{C} - 10^\\circ\\text{C} = 40^\\circ\\text{C}$. Thus, the change is $40\\text{ K}$."
+    },
+    {
+        "id": "JAMB_P_008",
+        "text": "The $\\textbf{mode}$ of heat transfer that does $\\textbf{NOT}$ require a material medium is:",
+        "image": "",
+        "options": [
+            "Conduction.",
+            "Convection.",
+            "Radiation.",
+            "Insolation."
+        ],
+        "answer": "Radiation.",
+        "explanation": "Radiation is the transfer of heat in the form of electromagnetic waves (infrared), which can travel through a vacuum, such as the heat from the sun reaching the Earth."
+    },
+    {
+        "id": "JAMB_P_009",
+        "text": "A gas occupies a volume of $400\\text{ cm}^3$ at $27^\\circ\\text{C}$. What is its volume at $77^\\circ\\text{C}$ if the pressure is kept constant?",
+        "image": "",
+        "options": [
+            "$346\\text{ cm}^3$.",
+            "$400\\text{ cm}^3$.",
+            "$467\\text{ cm}^3$.",
+            "$500\\text{ cm}^3$."
+        ],
+        "answer": "$467\\text{ cm}^3$.",
+        "explanation": "Use Charles' Law: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$. $T_1 = 27 + 273 = 300\\text{ K}$. $T_2 = 77 + 273 = 350\\text{ K}$. $\\frac{400}{300} = \\frac{V_2}{350}$. $V_2 = \\frac{400 \\times 350}{300} \\approx 466.67\\text{ cm}^3 \\approx 467\\text{ cm}^3$."
+    },
+    {
+        "id": "JAMB_P_010",
+        "text": "The specific latent heat of $\\textbf{fusion}$ of ice is the heat required to change a unit mass of ice at $0^\\circ\\text{C}$ to:",
+        "image": "",
+        "options": [
+            "steam at $100^\\circ\\text{C}$.",
+            "water at $0^\\circ\\text{C}$.",
+            "steam at $0^\\circ\\text{C}$.",
+            "water at $100^\\circ\\text{C}$."
+        ],
+        "answer": "water at $0^\\circ\\text{C}$.",
+        "explanation": "Fusion is the process of changing a solid to a liquid at its melting point $\\textbf{without}$ a change in temperature. The specific latent heat is the energy required for this phase change per unit mass."
+    },
+    {
+        "id": "JAMB_P_011",
+        "text": "Which property of waves is utilized in the process of $\\textbf{echolocation}$?",
+        "image": "",
+        "options": [
+            "Refraction.",
+            "Diffraction.",
+            "Reflection.",
+            "Polarization."
+        ],
+        "answer": "Reflection.",
+        "explanation": "Echolocation uses the time taken for a sound wave to travel to an object and be $\\textbf{reflected}$ back to determine the object's distance and position."
+    },
+    {
+        "id": "JAMB_P_012",
+        "text": "A wave has a velocity of $360\\text{ m/s}$ and a wavelength of $60\\text{ cm}$. What is its frequency?",
+        "image": "",
+        "options": [
+            "$6\\text{ Hz}$.",
+            "$60\\text{ Hz}$.",
+            "$600\\text{ Hz}$.",
+            "$1200\\text{ Hz}$."
+        ],
+        "answer": "$600\\text{ Hz}$.",
+        "explanation": "Use the wave equation $v = f\\lambda$. Convert $\\lambda$ to meters: $60\\text{ cm} = 0.6\\text{ m}$. $360 = f \\times 0.6$. $f = \\frac{360}{0.6} = 600\\text{ Hz}$."
+    },
+    {
+        "id": "JAMB_P_013",
+        "text": "A $\\textbf{concave}$ $\\textbf{mirror}$ produces a real image which is four times the size of the object. If the object distance is $20\\text{ cm}$, what is the focal length of the mirror?",
+        "image": "",
+        "options": [
+            "$16\\text{ cm}$.",
+            "$25\\text{ cm}$.",
+            "$30\\text{ cm}$.",
+            "$40\\text{ cm}$."
+        ],
+        "answer": "$16\\text{ cm}$.",
+        "explanation": "Magnification $M = \\frac{v}{u} = 4$. So $v = 4u = 4(20) = 80\\text{ cm}$. Use the mirror formula: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$. $\\frac{1}{f} = \\frac{1}{20} + \\frac{1}{80} = \\frac{4+1}{80} = \\frac{5}{80}$. $f = \\frac{80}{5} = 16\\text{ cm}$. $\\textbf{[Image of concave mirror ray diagram]}$"
+    },
+    {
+        "id": "JAMB_P_014",
+        "text": "Which of the following is $\\textbf{NOT}$ a correct feature of $\\textbf{total}$ $\\textbf{internal}$ $\\textbf{reflection}$?",
+        "image": "",
+        "options": [
+            "Light must be travelling from an optically denser medium to a less dense medium.",
+            "The angle of incidence must be greater than the critical angle.",
+            "The phenomenon is responsible for the formation of a rainbow.",
+            "It is applied in periscopes and optical fibres."
+        ],
+        "answer": "The phenomenon is responsible for the formation of a rainbow.",
+        "explanation": "Rainbow formation is primarily due to $\\textbf{dispersion}$ and $\\textbf{refraction}$ of light, not total internal reflection (though some internal reflection occurs). Total internal reflection is responsible for mirages and optical fibres."
+    },
+    {
+        "id": "JAMB_P_015",
+        "text": "The $\\textbf{power}$ of a $\\textbf{concave}$ $\\textbf{lens}$ with a focal length of $25\\text{ cm}$ is:",
+        "image": "",
+        "options": [
+            "$4.0\\text{ D}$.",
+            "$-4.0\\text{ D}$.",
+            "$0.04\\text{ D}$.",
+            "$-0.04\\text{ D}$."
+        ],
+        "answer": "$-4.0\\text{ D}$.",
+        "explanation": "Power $P = \\frac{1}{f}$ (in meters). $f = -25\\text{ cm} = -0.25\\text{ m}$ (focal length is negative for a concave/diverging lens). $P = \\frac{1}{-0.25} = -4.0\\text{ Dioptres}$ (D)."
+    },
+    {
+        "id": "JAMB_P_016",
+        "text": "If two sound waves of slightly different frequencies are sounded together, the phenomenon observed is:",
+        "image": "",
+        "options": [
+            "Interference.",
+            "Resonance.",
+            "Beats.",
+            "Harmonics."
+        ],
+        "answer": "Beats.",
+        "explanation": "$\\textbf{Beats}$ are the periodic variations in loudness of sound caused by the superposition (interference) of two waves of slightly different frequencies."
+    },
+    {
+        "id": "JAMB_P_017",
+        "text": "Which of the following is the $\\textbf{strongest}$ evidence of the $\\textbf{wave}$ nature of light?",
+        "image": "",
+        "options": [
+            "Reflection.",
+            "Refraction.",
+            "Diffraction.",
+            "Photoelectric effect."
+        ],
+        "answer": "Diffraction.",
+        "explanation": "Reflection and refraction can be explained by both wave and particle theories. $\\textbf{Diffraction}$ (bending around corners) and $\\textbf{interference}$ are uniquely wave phenomena."
+    },
+    {
+        "id": "JAMB_P_018",
+        "text": "What is the $\\textbf{heat}$ $\\textbf{energy}$ required to vaporize $2\\text{ kg}$ of water at $100^\\circ\\text{C}$? (Specific latent heat of vaporization of water $= 2.26 \\times 10^6\\text{ J/kg}$)",
+        "image": "",
+        "options": [
+            "$1.13 \\times 10^6\\text{ J}$.",
+            "$2.26 \\times 10^6\\text{ J}$.",
+            "$4.52 \\times 10^6\\text{ J}$.",
+            "$8.00 \\times 10^6\\text{ J}$."
+        ],
+        "answer": "$4.52 \\times 10^6\\text{ J}$.",
+        "explanation": "Heat energy $Q = mL_v$. $Q = 2\\text{ kg} \\times 2.26 \\times 10^6\\text{ J/kg} = 4.52 \\times 10^6\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_019",
+        "text": "The S.I. unit of $\\textbf{electrical}$ $\\textbf{potential}$ $\\textbf{difference}$ is the:",
+        "image": "",
+        "options": [
+            "Ampere (A).",
+            "Ohm ($\\Omega$).",
+            "Coulomb (C).",
+            "Volt (V)."
+        ],
+        "answer": "Volt (V).",
+        "explanation": "Potential difference (Voltage) is measured in Volts. Ampere measures current, Ohm measures resistance, and Coulomb measures charge."
+    },
+    {
+        "id": "JAMB_P_020",
+        "text": "A wire of resistance $2\\text{ }\\Omega$ is stretched to twice its original length. Assuming the volume remains constant, the new resistance is:",
+        "image": "",
+        "options": [
+            "$1\\text{ }\\Omega$.",
+            "$4\\text{ }\\Omega$.",
+            "$8\\text{ }\\Omega$.",
+            "$16\\text{ }\\Omega$."
+        ],
+        "answer": "$8\\text{ }\\Omega$.",
+        "explanation": "Resistance $R = \\rho \\frac{L}{A}$. If $L$ is doubled and volume ($V = AL$) is constant, the new area $A' = A/2$. $R' = \\rho \\frac{2L}{A/2} = 4 \\rho \\frac{L}{A} = 4R$. $R' = 4(2\\text{ }\\Omega) = 8\\text{ }\\Omega$."
+    },
+    {
+        "id": "JAMB_P_021",
+        "text": "Three $6\\text{ }\\Omega$ resistors are connected in $\\textbf{parallel}$. What is the $\\textbf{equivalent}$ $\\textbf{resistance}$?",
+        "image": "",
+        "options": [
+            "$2\\text{ }\\Omega$.",
+            "$3\\text{ }\\Omega$.",
+            "$6\\text{ }\\Omega$.",
+            "$18\\text{ }\\Omega$."
+        ],
+        "answer": "$2\\text{ }\\Omega$.",
+        "explanation": "For parallel resistors: $\\frac{1}{R_{\\text{eq}}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} = \\frac{1}{6} + \\frac{1}{6} + \\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}$. $R_{\\text{eq}} = 2\\text{ }\\Omega$. $\\textbf{[Image of three parallel resistors circuit diagram]}$"
+    },
+    {
+        "id": "JAMB_P_022",
+        "text": "If a capacitor of capacitance $20\\text{ }\\mu\\text{F}$ is charged by a $100\\text{ V}$ source, the $\\textbf{energy}$ $\\textbf{stored}$ is:",
+        "image": "",
+        "options": [
+            "$0.1\\text{ J}$.",
+            "$1.0\\text{ J}$.",
+            "$10\\text{ J}$.",
+            "$20\\text{ J}$."
+        ],
+        "answer": "$0.1\\text{ J}$.",
+        "explanation": "Energy $E = \\frac{1}{2}CV^2$. $C = 20\\text{ }\\mu\\text{F} = 20 \\times 10^{-6}\\text{ F}$. $E = \\frac{1}{2} (20 \\times 10^{-6}) (100)^2 = 10 \\times 10^{-6} \\times 10000 = 10 \\times 10^{-2} = 0.1\\text{ J}$."
+    },
+    {
+        "id": "JAMB_P_023",
+        "text": "The $\\textbf{magnetic}$ $\\textbf{flux}$ $\\textbf{density}$ is measured in:",
+        "image": "",
+        "options": [
+            "Weber (Wb).",
+            "Tesla (T).",
+            "Henry (H).",
+            "Farad (F)."
+        ],
+        "answer": "Tesla (T).",
+        "explanation": "Magnetic flux density ($B$) is measured in Tesla (T). Weber (Wb) measures magnetic flux, Henry (H) measures inductance, and Farad (F) measures capacitance."
+    },
+    {
+        "id": "JAMB_P_024",
+        "text": "The process by which $\\textbf{AC}$ voltage is converted into $\\textbf{DC}$ voltage is called:",
+        "image": "",
+        "options": [
+            "Amplification.",
+            "Rectification.",
+            "Modulation.",
+            "Transduction."
+        ],
+        "answer": "Rectification.",
+        "explanation": "Rectification is the process of converting $\\textbf{Alternating}$ $\\textbf{Current}$ (AC) to $\\textbf{Direct}$ $\\textbf{Current}$ (DC) using components like diodes. $\\textbf{[Image of a full-wave rectifier circuit]}$"
+    },
+    {
+        "id": "JAMB_P_025",
+        "text": "A transformer is used to change a $240\\text{ V}$ $\\textbf{AC}$ source to $24\\text{ V}$. If the primary coil has $1000$ turns, how many turns are in the secondary coil?",
+        "image": "",
+        "options": [
+            "$10$ turns.",
+            "$100$ turns.",
+            "$1000$ turns.",
+            "$10000$ turns."
+        ],
+        "answer": "$100$ turns.",
+        "explanation": "Use the transformer equation: $\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$. $\\frac{240}{24} = \\frac{1000}{N_s}$. $10 = \\frac{1000}{N_s}$. $N_s = \\frac{1000}{10} = 100\\text{ turns}$."
+    },
+    {
+        "id": "JAMB_P_026",
+        "text": "The phenomenon of $\\textbf{electromagnetic}$ $\\textbf{induction}$ is described by:",
+        "image": "",
+        "options": [
+            "Ohm's Law.",
+            "Lenz's Law.",
+            "Coulomb's Law.",
+            "Snell's Law."
+        ],
+        "answer": "Lenz's Law.",
+        "explanation": "Lenz's Law states that the direction of the induced current is such as to oppose the change in magnetic flux that caused it, which is a key part of electromagnetic induction."
+    },
+    {
+        "id": "JAMB_P_027",
+        "text": "Which of the following is $\\textbf{not}$ a correct statement about $\\textbf{cathode}$ $\\textbf{rays}$?",
+        "image": "",
+        "options": [
+            "They are negatively charged particles.",
+            "They travel in straight lines.",
+            "They are deflected by electric and magnetic fields.",
+            "They are composed of neutral atoms."
+        ],
+        "answer": "They are composed of neutral atoms.",
+        "explanation": "Cathode rays are streams of $\\textbf{electrons}$, which are $\\textbf{negatively}$ $\\textbf{charged}$ particles. They are not neutral atoms."
+    },
+    {
+        "id": "JAMB_P_028",
+        "text": "The $\\textbf{binding}$ $\\textbf{energy}$ of a nucleus is equivalent to the mass defect when converted into energy using:",
+        "image": "",
+        "options": [
+            "Newton's Law of Gravitation.",
+            "Planck's Quantum Theory.",
+            "Einstein's Mass-Energy Equivalence relation.",
+            "Boyle's Law."
+        ],
+        "answer": "Einstein's Mass-Energy Equivalence relation.",
+        "explanation": "The mass defect ($\\Delta m$) is related to the binding energy ($E$) by Einstein's famous equation: $E = \\Delta m c^2$, where $c$ is the speed of light."
+    },
+    {
+        "id": "JAMB_P_029",
+        "text": "In a nuclear reactor, the $\\textbf{moderator}$ is used to:",
+        "image": "",
+        "options": [
+            "absorb excess neutrons.",
+            "speed up the neutrons.",
+            "slow down the fast neutrons.",
+            "convert heat energy to electrical energy."
+        ],
+        "answer": "slow down the fast neutrons.",
+        "explanation": "Moderators (like graphite or heavy water) are used to $\\textbf{slow}$ $\\textbf{down}$ the fast neutrons produced in fission to thermal neutron speeds, which are required for subsequent fission reactions."
+    },
+    {
+        "id": "JAMB_P_030",
+        "text": "If the $\\textbf{half-life}$ of a radioactive substance is $3\\text{ days}$, what fraction of the original sample will remain after $9\\text{ days}$?",
+        "image": "",
+        "options": [
+            "$\\frac{1}{2}$.",
+            "$\\frac{1}{4}$.",
+            "$\\frac{1}{8}$.",
+            "$\\frac{1}{16}$."
+        ],
+        "answer": "$\\frac{1}{8}$.",
+        "explanation": "The number of half-lives is $n = \\frac{\\text{Total Time}}{\\text{Half-life}} = \\frac{9\\text{ days}}{3\\text{ days}} = 3$ half-lives. The fraction remaining is $(\\frac{1}{2})^n = (\\frac{1}{2})^3 = \\frac{1}{8}$."
+    },
+    {
+        "id": "JAMB_P_031",
+        "text": "The $\\textbf{threshold}$ $\\textbf{frequency}$ of a metal is the minimum frequency of radiation required to cause:",
+        "image": "",
+        "options": [
+            "nuclear fission.",
+            "radioactive decay.",
+            "photoelectric emission.",
+            "thermonic emission."
+        ],
+        "answer": "photoelectric emission.",
+        "explanation": "The $\\textbf{Photoelectric}$ $\\textbf{Effect}$ is the ejection of electrons from a metal surface when light of a frequency $\\textbf{greater}$ $\\textbf{than}$ the $\\textbf{threshold}$ $\\textbf{frequency}$ ($f_0$) is shone on it."
+    },
+    {
+        "id": "JAMB_P_032",
+        "text": "The $\\textbf{pressure}$ exerted by a liquid of density $\\rho$ at a depth $h$ below the surface is given by:",
+        "image": "",
+        "options": [
+            "$P = \\rho g h^2$.",
+            "$P = \\frac{\\rho g}{h}$.",
+            "$P = \\rho g h$.",
+            "$P = \\frac{\\rho h}{g}$."
+        ],
+        "answer": "$P = \\rho g h$.",
+        "explanation": "This is the formula for hydrostatic pressure, where $g$ is the acceleration due to gravity."
+    },
+    {
+        "id": "JAMB_P_033",
+        "text": "A body moves from point $\\text{A}(1, 2)$ to point $\\text{B}(5, 5)$. The displacement vector is:",
+        "image": "",
+        "options": [
+            "$4i + 3j$.",
+            "$6i + 7j$.",
+            "$3i + 4j$.",
+            "$-4i - 3j$."
+        ],
+        "answer": "$4i + 3j$.",
+        "explanation": "Displacement vector $\\vec{d} = \\vec{B} - \\vec{A} = (5-1)i + (5-2)j = 4i + 3j$."
+    },
+    {
+        "id": "JAMB_P_034",
+        "text": "Which of the following describes the $\\textbf{apparent}$ $\\textbf{weight}$ of an astronaut in an orbiting spacecraft?",
+        "image": "",
+        "options": [
+            "Equal to the gravitational force acting on the astronaut.",
+            "Greater than the gravitational force.",
+            "Zero, indicating a state of weightlessness.",
+            "Equal to the weight on Earth."
+        ],
+        "answer": "Zero, indicating a state of weightlessness.",
+        "explanation": "The apparent weight is zero because the spacecraft and the astronaut are in continuous free-fall, constantly accelerating toward the Earth (or central body) at the same rate. This is termed $\\textbf{weightlessness}$."
+    },
+    {
+        "id": "JAMB_P_035",
+        "text": "The relationship between $\\textbf{linear}$ $\\textbf{magnification}$ ($m$) and the $\\textbf{radii}$ $\\textbf{of}$ $\\textbf{curvature}$ ($R_1$ and $R_2$) for a $\\textbf{compound}$ $\\textbf{lens}$ is best described by the $\\textbf{Lens}$ $\\textbf{Maker's}$ $\\textbf{Formula}$.",
+        "image": "",
+        "options": [
+            "It relates $m$ to object and image distances $u$ and $v$.",
+            "It is $m = \\frac{v}{u}$.",
+            "It is $m = \\frac{1}{v} - \\frac{1}{u}$.",
+            "It is $m = (\\mu - 1)(\\frac{1}{R_1} - \\frac{1}{R_2})$."
+        ],
+        "answer": "It relates $m$ to object and image distances $u$ and $v$.",
+        "explanation": "The linear magnification $m$ is defined by the ratio of image height to object height, or image distance to object distance ($m = v/u$). The other options describe the lens formula (not magnification) and the Lens Maker's Formula (for focal length $f$)."
+    },
+    {
+        "id": "JAMB_P_036",
+        "text": "The purpose of the $\\textbf{fuse}$ in an electrical circuit is to:",
+        "image": "",
+        "options": [
+            "increase the voltage.",
+            "decrease the current.",
+            "prevent the circuit from overheating due to excessive current.",
+            "store electrical energy."
+        ],
+        "answer": "prevent the circuit from overheating due to excessive current.",
+        "explanation": "A fuse is a safety device containing a strip of metal that melts when the current exceeds a predetermined maximum value, thereby opening the circuit and protecting the appliance from damage."
+    },
+    {
+        "id": "JAMB_P_037",
+        "text": "Which of the following $\\textbf{decreases}$ when a $\\textbf{transistor}$ is used as an $\\textbf{amplifier}$?",
+        "image": "",
+        "options": [
+            "Input resistance.",
+            "Output voltage.",
+            "Base current.",
+            "Noise level."
+        ],
+        "answer": "Base current.",
+        "explanation": "In common amplifier configurations (like common emitter), the transistor uses a $\\textbf{small}$ $\\textbf{input}$ $\\textbf{base}$ $\\textbf{current}$ to control a much larger collector current, thus amplifying the voltage or power. The base current is the input current, and it is the smallest of the transistor currents."
+    },
+    {
+        "id": "JAMB_P_038",
+        "text": "The $\\textbf{critical}$ $\\textbf{angle}$ for a medium is the angle of incidence in the $\\textbf{denser}$ medium for which the angle of $\\textbf{refraction}$ in the $\\textbf{less}$ $\\textbf{dense}$ medium is:",
+        "image": "",
+        "options": [
+            "$0^\\circ$.",
+            "$45^\\circ$.",
+            "$90^\\circ$.",
+            "$180^\\circ$."
+        ],
+        "answer": "$90^\\circ$.",
+        "explanation": "This is the precise definition of the critical angle. When the angle of incidence is $\\textbf{greater}$ than the critical angle, total internal reflection occurs."
+    },
+    {
+        "id": "JAMB_P_039",
+        "text": "If a metal has a work function of $3.0\\text{ eV}$, what is the $\\textbf{maximum}$ $\\textbf{kinetic}$ $\\textbf{energy}$ of an ejected electron when illuminated by light of energy $5.0\\text{ eV}$?",
+        "image": "",
+        "options": [
+            "$2.0\\text{ eV}$.",
+            "$3.0\\text{ eV}$.",
+            "$5.0\\text{ eV}$.",
+            "$8.0\\text{ eV}$."
+        ],
+        "answer": "$2.0\\text{ eV}$.",
+        "explanation": "Use Einstein's Photoelectric Equation: $\\text{KE}_{\\text{max}} = \\text{Photon Energy} - \\text{Work Function}$. $\\text{KE}_{\\text{max}} = 5.0\\text{ eV} - 3.0\\text{ eV} = 2.0\\text{ eV}$."
+    },
+    {
+        "id": "JAMB_P_040",
+        "text": "In the $\\textbf{cathode}$ $\\textbf{ray}$ $\\textbf{oscilloscope}$ (CRO), the component responsible for $\\textbf{deflecting}$ the electron beam $\\textbf{vertically}$ is the:",
+        "image": "",
+        "options": [
+            "Anode.",
+            "Grid.",
+            "Y-plates.",
+            "X-plates."
+        ],
+        "answer": "Y-plates.",
+        "explanation": "The $\\textbf{Y-plates}$ (vertical deflection plates) deflect the beam up and down, proportional to the input signal voltage. The X-plates (horizontal deflection plates) sweep the beam horizontally."
+    }
+]

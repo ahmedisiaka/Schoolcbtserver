@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In May 2002, $\\textbf{East Timor}$ (Timor-Leste) officially became the first new sovereign state of the 21st century, gaining independence from $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Philippines",
+            "Portugal"
+        ],
+        "answer": "Indonesia",
+        "explanation": "After centuries of Portuguese rule and 24 years of Indonesian occupation, Dili became the capital of the new nation."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Euro}$ became the sole physical currency for 12 $\\textbf{European Union}$ member states in 2002, replacing national currencies like the French Franc and German Mark.",
+        "image": "",
+        "options": [
+            "1999",
+            "2000",
+            "2001",
+            "2002"
+        ],
+        "answer": "2002",
+        "explanation": "While the Euro was introduced electronically in 1999, banknotes and coins entered circulation on January 1, 2002."
+    },
+    {
+        "id": "GEO03",
+        "text": "The 2002 $\\textbf{Winter Olympics}$ were hosted by $\\textbf{Salt Lake City}$, the capital of the US state of $\\textbf{Utah}$.",
+        "image": "",
+        "options": [
+            "Colorado",
+            "Utah",
+            "Nevada",
+            "Idaho"
+        ],
+        "answer": "Utah",
+        "explanation": "The city is located in a valley between the Wasatch and Oquirrh mountain ranges."
+    },
+    {
+        "id": "GEO04",
+        "text": "In 2002, $\\textbf{Switzerland}$ finally joined the $\\textbf{United Nations}$ after a national referendum, ending decades of strict political neutrality.",
+        "image": "",
+        "options": [
+            "Austria",
+            "Sweden",
+            "Switzerland",
+            "Finland"
+        ],
+        "answer": "Switzerland",
+        "explanation": "It was the only state to join the UN based on a popular vote."
+    },
+    {
+        "id": "GEO05",
+        "text": "A massive section of the $\\textbf{Larsen B Ice Shelf}$ in $\\textbf{Antarctica}$ collapsed in 2002, disintegrating into the Weddell Sea.",
+        "image": "",
+        "options": [
+            "Arctic Ocean",
+            "Weddell Sea",
+            "Ross Sea",
+            "Amundsen Sea"
+        ],
+        "answer": "Weddell Sea",
+        "explanation": "The collapse of the 3,250 square kilometer shelf alerted the world to the speed of polar warming."
+    },
+    {
+        "id": "GEO06",
+        "text": "Mount $\\textbf{Nyiragongo}$ erupted in 2002, sending streams of lava through the city of $\\textbf{Goma}$ in the $\\textbf{Democratic Republic of the Congo}$.",
+        "image": "",
+        "options": [
+            "Rwanda",
+            "Uganda",
+            "DRC",
+            "Burundi"
+        ],
+        "answer": "DRC",
+        "explanation": "The city lies on the border with Rwanda and the shores of Lake Kivu."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{African Union}$ (AU) was officially launched in 2002 in $\\textbf{Durban}$, South Africa, replacing the Organization of African Unity (OAU).",
+        "image": "",
+        "options": [
+            "Addis Ababa",
+            "Cairo",
+            "Durban",
+            "Abuja"
+        ],
+        "answer": "Durban",
+        "explanation": "The organization aims to promote unity and solidarity among African states."
+    },
+    {
+        "id": "GEO08",
+        "text": "The oil tanker $\\textbf{Prestige}$ sank off the coast of $\\textbf{Galicia}$, $\\textbf{Spain}$ in 2002, causing the worst environmental disaster in the country's history.",
+        "image": "",
+        "options": [
+            "Portugal",
+            "France",
+            "Spain",
+            "Italy"
+        ],
+        "answer": "Spain",
+        "explanation": "The spill polluted thousands of kilometers of coastline."
+    },
+    {
+        "id": "GEO09",
+        "text": "The $\\textbf{Bali}$ bombings in 2002 targeted the tourist district of $\\textbf{Kuta}$, devastating the island's tourism industry in $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Thailand",
+            "Philippines",
+            "Malaysia",
+            "Indonesia"
+        ],
+        "answer": "Indonesia",
+        "explanation": "Bali is the only Hindu-majority province in Muslim-majority Indonesia."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{Angolan Civil War}$ officially ended in 2002 after the death of rebel leader Jonas Savimbi, bringing peace to the $\\textbf{Southern African}$ nation.",
+        "image": "",
+        "options": [
+            "Mozambique",
+            "Angola",
+            "Namibia",
+            "Zimbabwe"
+        ],
+        "answer": "Angola",
+        "explanation": "The 27-year conflict devastated the country's infrastructure and left it littered with landmines."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Bibliotheca Alexandrina}$ was inaugurated in 2002 in $\\textbf{Alexandria}$, Egypt, commemorating the ancient Library of Alexandria.",
+        "image": "",
+        "options": [
+            "Cairo",
+            "Luxor",
+            "Alexandria",
+            "Giza"
+        ],
+        "answer": "Alexandria",
+        "explanation": "It is located on the shore of the Mediterranean Sea."
+    },
+    {
+        "id": "GEO12",
+        "text": "Severe floods struck $\\textbf{Central Europe}$ in 2002, with the $\\textbf{Elbe}$ and $\\textbf{Danube}$ rivers reaching historic highs.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Seine",
+            "Elbe",
+            "Thames"
+        ],
+        "answer": "Elbe",
+        "explanation": "Cities like Dresden and Prague suffered extensive damage."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Mont Blanc Tunnel}$, connecting $\\textbf{France}$ and $\\textbf{Italy}$ under the Alps, reopened in 2002 after a deadly fire closed it for three years.",
+        "image": "",
+        "options": [
+            "Switzerland",
+            "Austria",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Italy",
+        "explanation": "It is a key transport route through the highest mountain in the Alps."
+    },
+    {
+        "id": "GEO14",
+        "text": "Steve Fossett became the first person to fly a $\\textbf{Balloon}$ solo around the world in 2002, taking off from and landing in $\\textbf{Australia}$.",
+        "image": "",
+        "options": [
+            "Airplane",
+            "Balloon",
+            "Glider",
+            "Helicopter"
+        ],
+        "answer": "Balloon",
+        "explanation": "His journey covered the Southern Hemisphere to utilize the jet streams."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Sierra Leone Civil War}$ was officially declared over in 2002, ending 11 years of conflict in the $\\textbf{West African}$ nation.",
+        "image": "",
+        "options": [
+            "Liberia",
+            "Sierra Leone",
+            "Ivory Coast",
+            "Guinea"
+        ],
+        "answer": "Sierra Leone",
+        "explanation": "The war was notorious for the trade in blood diamonds."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{World Summit on Sustainable Development}$ (Earth Summit 2002) was held in $\\textbf{Johannesburg}$, $\\textbf{South Africa}$.",
+        "image": "",
+        "options": [
+            "Cape Town",
+            "Pretoria",
+            "Johannesburg",
+            "Durban"
+        ],
+        "answer": "Johannesburg",
+        "explanation": "It focused on improving people's lives and conserving natural resources."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Mars Odyssey}$ spacecraft discovered vast amounts of water ice beneath the surface of $\\textbf{Mars}$ in 2002.",
+        "image": "",
+        "options": [
+            "Moon",
+            "Mars",
+            "Europa",
+            "Titan"
+        ],
+        "answer": "Mars",
+        "explanation": "This discovery boosted hopes for future human exploration."
+    },
+    {
+        "id": "GEO18",
+        "text": "The large Kuiper Belt object $\\textbf{Quaoar}$ was discovered in 2002, orbiting beyond $\\textbf{Pluto}$.",
+        "image": "",
+        "options": [
+            "Neptune",
+            "Pluto",
+            "Uranus",
+            "Saturn"
+        ],
+        "answer": "Pluto",
+        "explanation": "At the time, it was the largest object found in the solar system since Pluto's discovery in 1930."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Guantanamo Bay}$ detention camp was established in 2002 at the US naval base located on the island of $\\textbf{Cuba}$.",
+        "image": "",
+        "options": [
+            "Puerto Rico",
+            "Cuba",
+            "Jamaica",
+            "Haiti"
+        ],
+        "answer": "Cuba",
+        "explanation": "The base is located on the southeastern end of the island."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{MV Le Joola}$ ferry capsized off the coast of $\\textbf{The Gambia}$ in 2002, resulting in one of the worst maritime disasters in history.",
+        "image": "",
+        "options": [
+            "Senegal",
+            "The Gambia",
+            "Guinea-Bissau",
+            "Mauritania"
+        ],
+        "answer": "The Gambia",
+        "explanation": "The ferry was traveling to Dakar, the capital of Senegal."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{SARS}$ (Severe Acute Respiratory Syndrome) outbreak began in the $\\textbf{Guangdong}$ province of $\\textbf{China}$ in late 2002.",
+        "image": "",
+        "options": [
+            "Hubei",
+            "Guangdong",
+            "Sichuan",
+            "Yunnan"
+        ],
+        "answer": "Guangdong",
+        "explanation": "It spread to Hong Kong and then globally in 2003."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Nord Stream}$ pipeline project was established in 2002 to transport natural gas from $\\textbf{Russia}$ to $\\textbf{Germany}$ under the Baltic Sea.",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "Poland",
+            "Sweden"
+        ],
+        "answer": "Germany",
+        "explanation": "The pipeline bypasses traditional transit countries."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Palm Jumeirah}$ construction, an artificial island in the shape of a palm tree, was underway in $\\textbf{Dubai}$ in 2002.",
+        "image": "",
+        "options": [
+            "Abu Dhabi",
+            "Doha",
+            "Dubai",
+            "Manama"
+        ],
+        "answer": "Dubai",
+        "explanation": "It is one of three planned islands called the Palm Islands."
+    },
+    {
+        "id": "GEO24",
+        "text": "A cease-fire was signed in 2002 between the government of $\\textbf{Sri Lanka}$ and the $\\textbf{Tamil Tigers}$, halting the civil war temporarily.",
+        "image": "",
+        "options": [
+            "India",
+            "Pakistan",
+            "Sri Lanka",
+            "Nepal"
+        ],
+        "answer": "Sri Lanka",
+        "explanation": "The rebels controlled the northern and eastern parts of the island."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Ivory Coast}$ civil war began in 2002, effectively splitting the country into a rebel-held north and government-held south.",
+        "image": "",
+        "options": [
+            "Ghana",
+            "Ivory Coast",
+            "Liberia",
+            "Burkina Faso"
+        ],
+        "answer": "Ivory Coast",
+        "explanation": "The conflict centered on issues of citizenship and land ownership."
+    },
+    {
+        "id": "GEO26",
+        "text": "In 2002, $\\textbf{Gibraltar}$ held a sovereignty referendum where voters overwhelmingly rejected shared sovereignty between the $\\textbf{UK}$ and $\\textbf{Spain}$.",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "Portugal",
+            "Morocco"
+        ],
+        "answer": "Spain",
+        "explanation": "Gibraltar is a British Overseas Territory located on the Iberian Peninsula."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Moscow theater hostage crisis}$ occurred in 2002, involving Chechen militants in the capital of $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "St. Petersburg",
+            "Moscow",
+            "Kazan",
+            "Volgograd"
+        ],
+        "answer": "Moscow",
+        "explanation": "The crisis ended with a controversial gas attack by special forces."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Declaration on the Conduct of Parties}$ in the $\\textbf{South China Sea}$ was signed by China and ASEAN in 2002 to manage disputes.",
+        "image": "",
+        "options": [
+            "East China Sea",
+            "South China Sea",
+            "Yellow Sea",
+            "Philippine Sea"
+        ],
+        "answer": "South China Sea",
+        "explanation": "The agreement aimed to reduce tensions over the Spratly and Paracel Islands."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Kingdom of Bahrain}$ was declared in 2002, changing the country's official name from the 'State of Bahrain'.",
+        "image": "",
+        "options": [
+            "Qatar",
+            "Kuwait",
+            "Bahrain",
+            "Oman"
+        ],
+        "answer": "Bahrain",
+        "explanation": "It is an island nation in the Persian Gulf."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Three Gorges Dam}$ project in $\\textbf{China}$ was in a critical phase in 2002, involving the resettlement of over a million people along the $\\textbf{Yangtze}$.",
+        "image": "",
+        "options": [
+            "Yellow River",
+            "Yangtze River",
+            "Mekong River",
+            "Pearl River"
+        ],
+        "answer": "Yangtze River",
+        "explanation": "It is the world's largest hydroelectric power station."
+    },
+    {
+        "id": "GEO31",
+        "text": "A coup attempt in 2002 briefly ousted President Hugo Chávez in $\\textbf{Venezuela}$, highlighting political instability in the oil-rich nation.",
+        "image": "",
+        "options": [
+            "Colombia",
+            "Venezuela",
+            "Ecuador",
+            "Bolivia"
+        ],
+        "answer": "Venezuela",
+        "explanation": "The events took place primarily in the capital, Caracas."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Trans-Afghan Pipeline}$ agreement was signed in 2002 by Turkmenistan, Afghanistan, and $\\textbf{Pakistan}$.",
+        "image": "",
+        "options": [
+            "Iran",
+            "India",
+            "Pakistan",
+            "Tajikistan"
+        ],
+        "answer": "Pakistan",
+        "explanation": "The pipeline aims to transport natural gas from the Caspian Sea region to South Asia."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Mauna Loa}$ observatory in $\\textbf{Hawaii}$ continued to record rising atmospheric CO2 levels, a key indicator of climate change.",
+        "image": "",
+        "options": [
+            "Alaska",
+            "Hawaii",
+            "California",
+            "Florida"
+        ],
+        "answer": "Hawaii",
+        "explanation": "Located on a volcano, it is the premier site for measuring global CO2."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Department of Homeland Security}$ was formed in the $\\textbf{United States}$ in 2002, reorganizing the country's border and immigration agencies.",
+        "image": "",
+        "options": [
+            "Defense",
+            "Homeland Security",
+            "State",
+            "Interior"
+        ],
+        "answer": "Homeland Security",
+        "explanation": "It was the largest government reorganization since the creation of the Department of Defense."
+    },
+    {
+        "id": "GEO35",
+        "text": "A deadly train fire occurred in 2002 on a route from $\\textbf{Cairo}$ to Luxor in $\\textbf{Egypt}$, killing hundreds.",
+        "image": "",
+        "options": [
+            "Morocco",
+            "Egypt",
+            "Tunisia",
+            "Algeria"
+        ],
+        "answer": "Egypt",
+        "explanation": "The disaster highlighted safety issues in the country's rail network."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Wall Street Journal}$ reporter Daniel Pearl was kidnapped in $\\textbf{Karachi}$, the largest city in $\\textbf{Pakistan}$, in 2002.",
+        "image": "",
+        "options": [
+            "Islamabad",
+            "Lahore",
+            "Karachi",
+            "Peshawar"
+        ],
+        "answer": "Karachi",
+        "explanation": "Karachi is a major port city on the Arabian Sea."
+    },
+    {
+        "id": "GEO37",
+        "text": "Former US President Jimmy Carter visited $\\textbf{Cuba}$ in 2002, the first visit by a US President (in or out of office) since 1928.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "North Korea",
+            "Cuba",
+            "Iran"
+        ],
+        "answer": "Cuba",
+        "explanation": "The visit aimed to improve relations between the two neighbors."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Great Barrier Reef}$ experienced a mass coral bleaching event in 2002, affecting the coast of $\\textbf{Queensland}$, Australia.",
+        "image": "",
+        "options": [
+            "New South Wales",
+            "Victoria",
+            "Queensland",
+            "Western Australia"
+        ],
+        "answer": "Queensland",
+        "explanation": "It was the second major bleaching event on record, following 1998."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Chechnya}$ conflict in $\\textbf{Russia}$ continued in 2002, with major military operations in the North Caucasus region.",
+        "image": "",
+        "options": [
+            "Siberia",
+            "Urals",
+            "North Caucasus",
+            "Far East"
+        ],
+        "answer": "North Caucasus",
+        "explanation": "The republic has been the site of two wars since the collapse of the Soviet Union."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Jenin}$ refugee camp in the $\\textbf{West Bank}$ was the site of a major battle in 2002 during the Second Intifada.",
+        "image": "",
+        "options": [
+            "Gaza Strip",
+            "West Bank",
+            "Golan Heights",
+            "Sinai Peninsula"
+        ],
+        "answer": "West Bank",
+        "explanation": "The camp is located in the northern West Bank."
+    }
+]

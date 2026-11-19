@@ -1,0 +1,326 @@
+[
+    {
+      "id": "JAMB_P_2007_01",
+      "text": "Which of the following is a fundamental quantity?",
+      "image": "",
+      "options": ["Area", "Density", "Mass", "Force"],
+      "answer": "Mass",
+      "explanation": "Mass is one of the base physical quantities."
+    },
+    {
+      "id": "JAMB_P_2007_02",
+      "text": "A car accelerates uniformly from rest to 20 m/s in 5 s. Its acceleration is:",
+      "image": "",
+      "options": ["2 m/s²", "4 m/s²", "10 m/s²", "25 m/s²"],
+      "answer": "4 m/s²",
+      "explanation": "a = v/t = 20/5 = 4 m/s²."
+    },
+    {
+      "id": "JAMB_P_2007_03",
+      "text": "The moment of a force is the product of the force and:",
+      "image": "",
+      "options": ["Velocity", "Distance", "Mass", "Time"],
+      "answer": "Distance",
+      "explanation": "Moment = Force × Perpendicular distance."
+    },
+    {
+      "id": "JAMB_P_2007_04",
+      "text": "Which instrument is used to measure relative humidity?",
+      "image": "",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Hydrometer"],
+      "answer": "Hygrometer",
+      "explanation": "Hygrometers measure humidity."
+    },
+    {
+      "id": "JAMB_P_2007_05",
+      "text": "A body of mass 10 kg moves with velocity 3 m/s. Its kinetic energy is:",
+      "image": "",
+      "options": ["15 J", "30 J", "45 J", "90 J"],
+      "answer": "45 J",
+      "explanation": "KE = 1/2 mv² = 1/2 × 10 × 9."
+    },
+    {
+      "id": "JAMB_P_2007_06",
+      "text": "The S.I unit of power is:",
+      "image": "",
+      "options": ["Watt", "Newton", "Joule", "Volt"],
+      "answer": "Watt",
+      "explanation": "Power is measured in watts."
+    },
+    {
+      "id": "JAMB_P_2007_07",
+      "text": "Heat transfer through solids occurs mainly by:",
+      "image": "",
+      "options": ["Radiation", "Convection", "Conduction", "Diffusion"],
+      "answer": "Conduction",
+      "explanation": "Conduction occurs due to molecular vibrations in solids."
+    },
+    {
+      "id": "JAMB_P_2007_08",
+      "text": "Which of the following is a vector quantity?",
+      "image": "",
+      "options": ["Speed", "Pressure", "Work", "Force"],
+      "answer": "Force",
+      "explanation": "Force has both magnitude and direction."
+    },
+    {
+      "id": "JAMB_P_2007_09",
+      "text": "A man pushes a box 10 m with a force of 30 N. Calculate the work done.",
+      "image": "",
+      "options": ["3 J", "30 J", "300 J", "3000 J"],
+      "answer": "300 J",
+      "explanation": "Work = Force × distance = 30 × 10."
+    },
+    {
+      "id": "JAMB_P_2007_10",
+      "text": "Which type of mirror produces always a virtual and diminished image?",
+      "image": "",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+      "answer": "Convex mirror",
+      "explanation": "Convex mirrors always form diminished virtual images."
+    },
+  
+    {
+      "id": "JAMB_P_2007_11",
+      "text": "The pitch of a sound depends on:",
+      "image": "",
+      "options": ["Frequency", "Amplitude", "Wavelength", "Echo"],
+      "answer": "Frequency",
+      "explanation": "High frequency means high pitch."
+    },
+    {
+      "id": "JAMB_P_2007_12",
+      "text": "The escape velocity of a body depends on:",
+      "image": "",
+      "options": ["Mass of the body", "Volume of the body", "Mass of the planet", "Shape of the body"],
+      "answer": "Mass of the planet",
+      "explanation": "Escape velocity depends on gravitational field of the planet."
+    },
+    {
+      "id": "JAMB_P_2007_13",
+      "text": "The instrument used to detect electric current is:",
+      "image": "",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "Galvanometer",
+      "explanation": "Galvanometers detect small currents."
+    },
+    {
+      "id": "JAMB_P_2007_14",
+      "text": "What happens to the pressure of a gas if the volume is doubled at constant temperature?",
+      "image": "",
+      "options": ["It doubles", "It becomes half", "It becomes zero", "It remains constant"],
+      "answer": "It becomes half",
+      "explanation": "Boyle’s law: P ∝ 1/V."
+    },
+    {
+      "id": "JAMB_P_2007_15",
+      "text": "The refractive index of a medium is the ratio of speed of light in vacuum to:",
+      "image": "",
+      "options": ["Speed of sound", "Speed of light in the medium", "Wavelength in medium", "Frequency in medium"],
+      "answer": "Speed of light in the medium",
+      "explanation": "n = c/v."
+    },
+    {
+      "id": "JAMB_P_2007_16",
+      "text": "A body moving in a circle at constant speed experiences:",
+      "image": "",
+      "options": ["No acceleration", "Centrifugal force only", "Centripetal acceleration", "Increasing speed"],
+      "answer": "Centripetal acceleration",
+      "explanation": "Acceleration is towards the centre."
+    },
+    {
+      "id": "JAMB_P_2007_17",
+      "text": "The property of a material that allows it to return to original shape is:",
+      "image": "",
+      "options": ["Elasticity", "Plasticity", "Ductility", "Hardness"],
+      "answer": "Elasticity",
+      "explanation": "Elastic materials regain original shape."
+    },
+    {
+      "id": "JAMB_P_2007_18",
+      "text": "Which of the following is a renewable energy source?",
+      "image": "",
+      "options": ["Petroleum", "Coal", "Solar energy", "Natural gas"],
+      "answer": "Solar energy",
+      "explanation": "Solar energy is naturally renewable."
+    },
+    {
+      "id": "JAMB_P_2007_19",
+      "text": "Sound travels fastest in:",
+      "image": "",
+      "options": ["Air", "Water", "Steel", "Vacuum"],
+      "answer": "Steel",
+      "explanation": "Sound travels fastest in solids."
+    },
+    {
+      "id": "JAMB_P_2007_20",
+      "text": "A transformer works on:",
+      "image": "",
+      "options": ["Direct current", "Alternating current", "Both AC and DC", "Static electricity"],
+      "answer": "Alternating current",
+      "explanation": "Transformers require changing magnetic fields (AC)."
+    },
+  
+    {
+      "id": "JAMB_P_2007_21",
+      "text": "The S.I unit of electric potential difference is:",
+      "image": "",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": "Volt",
+      "explanation": "Potential difference is measured in volts."
+    },
+    {
+      "id": "JAMB_P_2007_22",
+      "text": "A current of 2 A flows for 5 s. The charge passed is:",
+      "image": "",
+      "options": ["2 C", "5 C", "7 C", "10 C"],
+      "answer": "10 C",
+      "explanation": "Q = It = 2 × 5."
+    },
+    {
+      "id": "JAMB_P_2007_23",
+      "text": "A wave has frequency 200 Hz and wavelength 1.5 m. Its speed is:",
+      "image": "",
+      "options": ["50 m/s", "100 m/s", "200 m/s", "300 m/s"],
+      "answer": "300 m/s",
+      "explanation": "v = fλ = 200 × 1.5."
+    },
+    {
+      "id": "JAMB_P_2007_24",
+      "text": "The focal length of a lens is the distance between the focus and the:",
+      "image": "",
+      "options": ["Centre of curvature", "Lens", "Pole", "Optical centre"],
+      "answer": "Optical centre",
+      "explanation": "Focal length is measured from optical centre."
+    },
+    {
+      "id": "JAMB_P_2007_25",
+      "text": "Which of the following materials is a good electrical conductor?",
+      "image": "",
+      "options": ["Glass", "Rubber", "Copper", "Plastic"],
+      "answer": "Copper",
+      "explanation": "Copper conducts electricity well."
+    },
+    {
+      "id": "JAMB_P_2007_26",
+      "text": "A body of weight 50 N is lifted 2 m vertically. The gain in potential energy is:",
+      "image": "",
+      "options": ["25 J", "50 J", "75 J", "100 J"],
+      "answer": "100 J",
+      "explanation": "PE = mgh = weight × height = 50 × 2."
+    },
+    {
+      "id": "JAMB_P_2007_27",
+      "text": "A device used to convert mechanical energy to electrical energy is:",
+      "image": "",
+      "options": ["Transformer", "Generator", "Motor", "Rectifier"],
+      "answer": "Generator",
+      "explanation": "Generators convert mechanical work to electricity."
+    },
+    {
+      "id": "JAMB_P_2007_28",
+      "text": "The tendency of an object to remain at rest or in motion is:",
+      "image": "",
+      "options": ["Force", "Momentum", "Inertia", "Acceleration"],
+      "answer": "Inertia",
+      "explanation": "Inertia resists changes in motion."
+    },
+    {
+      "id": "JAMB_P_2007_29",
+      "text": "A concave mirror forms a real inverted image when the object is placed:",
+      "image": "",
+      "options": ["Between F and mirror", "At infinity", "Between F and C", "At the focus"],
+      "answer": "Between F and C",
+      "explanation": "Concave mirrors produce real inverted images in this region."
+    },
+    {
+      "id": "JAMB_P_2007_30",
+      "text": "The unit of resistance is:",
+      "image": "",
+      "options": ["Volt", "Coulomb", "Ohm", "Watt"],
+      "answer": "Ohm",
+      "explanation": "Resistance is measured in ohms."
+    },
+  
+    {
+      "id": "JAMB_P_2007_31",
+      "text": "Which law states that pressure in a liquid increases with depth?",
+      "image": "",
+      "options": ["Boyle’s law", "Hooke’s law", "Pascal’s law", "Archimedes’ principle"],
+      "answer": "Pascal’s law",
+      "explanation": "Pascal’s law governs pressure transmission in fluids."
+    },
+    {
+      "id": "JAMB_P_2007_32",
+      "text": "The speed of a satellite in orbit depends mainly on:",
+      "image": "",
+      "options": ["Its mass", "Its colour", "Radius of orbit", "Shape of orbit"],
+      "answer": "Radius of orbit",
+      "explanation": "Orbital speed depends on orbital radius."
+    },
+    {
+      "id": "JAMB_P_2007_33",
+      "text": "Which of the following is NOT a renewable energy source?",
+      "image": "",
+      "options": ["Wind", "Coal", "Water", "Sunlight"],
+      "answer": "Coal",
+      "explanation": "Coal cannot be replenished quickly."
+    },
+    {
+      "id": "JAMB_P_2007_34",
+      "text": "A battery converts:",
+      "image": "",
+      "options": ["Electrical energy to chemical", "Chemical energy to electrical", "Mechanical to heat", "Heat to mechanical"],
+      "answer": "Chemical energy to electrical",
+      "explanation": "Batteries use chemical reactions to produce electricity."
+    },
+    {
+      "id": "JAMB_P_2007_35",
+      "text": "The force that opposes motion between two surfaces is:",
+      "image": "",
+      "options": ["Tension", "Normal force", "Friction", "Upthrust"],
+      "answer": "Friction",
+      "explanation": "Friction opposes motion."
+    },
+    {
+      "id": "JAMB_P_2007_36",
+      "text": "What happens to wavelength when a wave enters a denser medium?",
+      "image": "",
+      "options": ["It increases", "It decreases", "It doubles", "It remains the same"],
+      "answer": "It decreases",
+      "explanation": "Speed decreases in denser media → wavelength decreases."
+    },
+    {
+      "id": "JAMB_P_2007_37",
+      "text": "An instrument used to measure very small lengths is:",
+      "image": "",
+      "options": ["Metre rule", "Vernier caliper", "Micrometer screw gauge", "Barometer"],
+      "answer": "Micrometer screw gauge",
+      "explanation": "It measures small thicknesses accurately."
+    },
+    {
+      "id": "JAMB_P_2007_38",
+      "text": "The bending of light as it passes from one medium to another is:",
+      "image": "",
+      "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+      "answer": "Refraction",
+      "explanation": "Refraction occurs due to change in speed."
+    },
+    {
+      "id": "JAMB_P_2007_39",
+      "text": "A device used to store electric charge is:",
+      "image": "",
+      "options": ["Resistor", "Inductor", "Transistor", "Capacitor"],
+      "answer": "Capacitor",
+      "explanation": "Capacitors store electric charge."
+    },
+    {
+      "id": "JAMB_P_2007_40",
+      "text": "The atmospheric pressure at sea level is approximately:",
+      "image": "",
+      "options": ["1 Pa", "100 Pa", "1000 Pa", "1 × 10⁵ Pa"],
+      "answer": "1 × 10⁵ Pa",
+      "explanation": "Standard atmospheric pressure."
+    }
+  ]
+  

@@ -1,0 +1,521 @@
+[
+    {
+        "id": "E3001",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ cut the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ to a $\\textbf{45}$-$\\textbf{year}$ $\\textbf{low}$ of **1.0%** in June 2003.",
+        "image": "",
+        "options": [
+            "0.5%",
+            "1.0%",
+            "1.75%",
+            "4.0%"
+        ],
+        "answer": "1.0%",
+        "explanation": "This historically low rate was a response to persistent fears of deflation and the need to stimulate investment and hiring."
+    },
+    {
+        "id": "E3002",
+        "text": "The primary $\\textbf{fear}$ $\\textbf{motivating}$ the $\\textbf{Fed's}$ $\\textbf{record}$-$\\textbf{low}$ $\\textbf{rates}$ in 2003 was $\\textbf{deflation}$, specifically a Japan-style $\\textbf{economic}$ $\\textbf{stagnation}$ $\\textbf{caused}$ $\\textbf{by}$ $\\textbf{falling}$ $\\textbf{prices}$ $\\textbf{and}$ $\\textbf{demand}$.",
+        "image": "",
+        "options": [
+            "Hyperinflation",
+            "Deflation",
+            "Currency manipulation",
+            "Trade surplus"
+        ],
+        "answer": "Deflation",
+        "explanation": "With the GDP growing slowly and prices subdued, policymakers worried about a deflationary spiral where consumers delay purchases hoping for lower prices."
+    },
+    {
+        "id": "E3003",
+        "text": "In May 2003, Congress passed the $\\textbf{Jobs}$ $\\textbf{and}$ $\\textbf{Growth}$ $\\textbf{Tax}$ $\\textbf{Relief}$ $\\textbf{Reconciliation}$ $\\textbf{Act}$ $\\textbf{(JGTRRA)}$, which significantly reduced taxes on $\\textbf{dividends}$ $\\textbf{and}$ $\\textbf{capital}$ $\\textbf{gains}$.",
+        "image": "",
+        "options": [
+            "Property sales",
+            "Payroll income",
+            "Dividends and capital gains",
+            "Corporate consumption"
+        ],
+        "answer": "Dividends and capital gains",
+        "explanation": "JGTRRA aimed to boost the stock market and corporate investment by making shareholder returns (dividends and capital gains) cheaper."
+    },
+    {
+        "id": "E3004",
+        "text": "The $\\textbf{Tax}$ $\\textbf{Cut}$ on $\\textbf{dividends}$ under $\\textbf{JGTRRA}$ was intended to $\\textbf{encourage}$ $\\textbf{corporate}$ $\\textbf{investment}$ $\\textbf{by}$ $\\textbf{reducing}$ the $\\textbf{double}$ $\\textbf{taxation}$ of $\\textbf{corporate}$ $\\textbf{profits}$ $\\textbf{paid}$ $\\textbf{to}$ $\\textbf{shareholders}$.",
+        "image": "",
+        "options": [
+            "Reduce the national debt",
+            "Encourage corporate investment",
+            "Increase social security funding",
+            "Limit foreign trade"
+        ],
+        "answer": "Encourage corporate investment",
+        "explanation": "Prior to 2003, corporate profits were taxed once at the corporate level and again when distributed as dividends; the new law mitigated this 'double taxation'."
+    },
+    {
+        "id": "E3005",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Stock}$ $\\textbf{Market}$ (S&P 500) saw a **strong rally** in 2003, ending three years of decline, as economic uncertainty lifted.",
+        "image": "",
+        "options": [
+            "Continued to decline sharply",
+            "Saw a strong rally",
+            "Remained flat",
+            "Inverted with the bond market"
+        ],
+        "answer": "Saw a strong rally",
+        "explanation": "The S&P 500 rose nearly 26% in 2003, fueled by low rates, tax cuts, and the conclusion of major combat operations in Iraq."
+    },
+    {
+        "id": "E3006",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Growth}$ $\\textbf{rate}$ experienced a spectacular surge in the $\\textbf{third}$ $\\textbf{quarter}$ of 2003, reaching an $\\textbf{annualized}$ $\\textbf{rate}$ of **7.5%**, the highest in nearly two decades.",
+        "image": "",
+        "options": [
+            "Q1 2003",
+            "Q2 2003",
+            "Q3 2003",
+            "Q4 2003"
+        ],
+        "answer": "Q3 2003",
+        "explanation": "This growth rate was driven by the combination of monetary stimulus, fiscal tax cuts, and increasing business confidence."
+    },
+    {
+        "id": "E3007",
+        "text": "Despite strong GDP growth, the economy continued to exhibit a $\\textbf{Jobless}$ $\\textbf{Recovery}$ in 2003, meaning $\\textbf{employment}$ $\\textbf{growth}$ $\\textbf{lagged}$ $\\textbf{significantly}$ $\\textbf{behind}$ $\\textbf{output}$ $\\textbf{growth}$ $\\textbf{as}$ $\\textbf{businesses}$ $\\textbf{prioritized}$ $\\textbf{productivity}$ $\\textbf{gains}$.",
+        "image": "",
+        "options": [
+            "High inflation",
+            "Rapid wage increase",
+            "Jobless Recovery",
+            "Negative trade balance"
+        ],
+        "answer": "Jobless Recovery",
+        "explanation": "Firms were able to extract more output from existing workers due to increased productivity, delaying hiring."
+    },
+    {
+        "id": "E3008",
+        "text": "The $\\textbf{invasion}$ of $\\textbf{Iraq}$ in $\\textbf{March}$ $\\textbf{2003}$ initially caused $\\textbf{oil}$ $\\textbf{prices}$ $\\textbf{(WTI)}$ to **spike** due to supply uncertainty.",
+        "image": "",
+        "options": [
+            "Fall sharply",
+            "Remain stable",
+            "Spike",
+            "Be fixed by OPEC"
+        ],
+        "answer": "Spike",
+        "explanation": "Any major conflict in the Middle East historically causes a short-term spike in oil prices due to risks to global supply routes."
+    },
+    {
+        "id": "E3009",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{National}$ $\\textbf{Debt}$ $\\textbf{grew}$ $\\textbf{significantly}$ in 2003, driven by the $\\textbf{combined}$ $\\textbf{effects}$ of $\\textbf{tax}$ $\\textbf{cuts}$ and $\\textbf{high}$ $\\textbf{military}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "Budget surplus",
+            "Foreign aid reduction",
+            "High military spending",
+            "Trade surplus"
+        ],
+        "answer": "High military spending",
+        "explanation": "Defense and security spending soared due to operations in Afghanistan and Iraq, substantially widening the fiscal deficit."
+    },
+    {
+        "id": "E3010",
+        "text": "The $\\textbf{rise}$ of the $\\textbf{housing}$ $\\textbf{market}$ in 2003 was primarily fueled by the $\\textbf{low}$ $\\textbf{mortgage}$ $\\textbf{rates}$ $\\textbf{that}$ $\\textbf{kept}$ $\\textbf{monthly}$ $\\textbf{payments}$ $\\textbf{affordable}$ $\\textbf{despite}$ $\\textbf{rising}$ $\\textbf{home}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "High inflation",
+            "Low mortgage rates",
+            "Strict lending standards",
+            "Reduced immigration"
+        ],
+        "answer": "Low mortgage rates",
+        "explanation": "The Fed's decision to hold the Fed Funds Rate at 1.0% made borrowing cheap, which poured fuel onto the emerging housing bubble."
+    },
+    {
+        "id": "E3011",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ peaked in $\\textbf{June}$ $\\textbf{2003}$ at **6.3%**, before finally beginning a gradual decline.",
+        "image": "",
+        "options": [
+            "4.0%",
+            "5.0%",
+            "6.3%",
+            "7.5%"
+        ],
+        "answer": "6.3%",
+        "explanation": "The labor market lagged the overall economy, with job losses continuing for several quarters after GDP growth turned positive."
+    },
+    {
+        "id": "E3012",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Current}$ $\\textbf{Account}$ $\\textbf{deficit}$ continued to **widen** in 2003, reflecting the nation's increasing reliance on foreign capital to finance consumption and government spending.",
+        "image": "",
+        "options": [
+            "Narrowed to a surplus",
+            "Widened",
+            "Remained stable",
+            "Was eliminated"
+        ],
+        "answer": "Widened",
+        "explanation": "The trade deficit (a major component of the current account) grew as consumption soared but the dollar weakened, making imports more expensive."
+    },
+    {
+        "id": "E3013",
+        "text": "The $\\textbf{weakening}$ $\\textbf{U.S.}$ $\\textbf{Dollar}$ exchange rate in 2003 was beneficial for $\\textbf{U.S.}$ $\\textbf{exports}$ $\\textbf{because}$ $\\textbf{it}$ $\\textbf{made}$ $\\textbf{U.S.}$ $\\textbf{goods}$ $\\textbf{cheaper}$ $\\textbf{for}$ $\\textbf{foreign}$ $\\textbf{buyers}$.",
+        "image": "",
+        "options": [
+            "Exports",
+            "Imports",
+            "Domestic manufacturing only",
+            "Oil producers"
+        ],
+        "answer": "Exports",
+        "explanation": "A weaker currency makes a country's exports more competitive in global markets."
+    },
+    {
+        "id": "E3014",
+        "text": "The $\\textbf{JGTRRA}$ $\\textbf{tax}$ $\\textbf{cut}$ $\\textbf{on}$ $\\textbf{Capital}$ $\\textbf{Gains}$ was $\\textbf{designed}$ to $\\textbf{stimulate}$ $\\textbf{the}$ $\\textbf{Stock}$ $\\textbf{Market}$ $\\textbf{and}$ $\\textbf{Investment}$ $\\textbf{by}$ $\\textbf{lowering}$ $\\textbf{the}$ $\\textbf{tax}$ $\\textbf{rate}$ $\\textbf{on}$ $\\textbf{asset}$ $\\textbf{sales}$ $\\textbf{such}$ $\\textbf{as}$ $\\textbf{stocks}$.",
+        "image": "",
+        "options": [
+            "Corporate debt",
+            "Stock Market and Investment",
+            "Consumer credit",
+            "Government bond purchases"
+        ],
+        "answer": "Stock Market and Investment",
+        "explanation": "Reducing the tax on profits from selling assets (like stocks) incentivizes investment."
+    },
+    {
+        "id": "E3015",
+        "text": "The $\\textbf{Term}$ $\\textbf{structure}$ $\\textbf{of}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{(yield}$ $\\textbf{curve)}$ $\\textbf{steepened}$ dramatically in 2003 due to the Fed's aggressive cutting of $\\textbf{short}$-$\\textbf{term}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Flattened",
+            "Inverted",
+            "Steepened",
+            "Reached zero"
+        ],
+        "answer": "Steepened",
+        "explanation": "Low short-term rates combined with expectations of future rate hikes (and inflation) cause the difference between short and long-term yields to widen."
+    },
+    {
+        "id": "E3016",
+        "text": "The $\\textbf{Enron}$ $\\textbf{scandal}$'s $\\textbf{aftermath}$ continued into 2003 with the $\\textbf{conviction}$ of $\\textbf{Arthur}$ $\\textbf{Andersen}$ $\\textbf{for}$ $\\textbf{obstruction}$ $\\textbf{of}$ $\\textbf{justice}$ $\\textbf{resulting}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{demise}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{major}$ $\\textbf{accounting}$ $\\textbf{firm}$.",
+        "image": "",
+        "options": [
+            "Goldman Sachs",
+            "KPMG",
+            "Arthur Andersen",
+            "J.P. Morgan"
+        ],
+        "answer": "Arthur Andersen",
+        "explanation": "The conviction effectively forced the closure of one of the 'Big Five' accounting firms, increasing regulatory scrutiny on the remaining firms."
+    },
+    {
+        "id": "E3017",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{multiplier}$ $\\textbf{of}$ $\\textbf{tax}$ $\\textbf{cuts}$ is $\\textbf{generally}$ $\\textbf{considered}$ to be $\\textbf{lower}$ than the $\\textbf{multiplier}$ $\\textbf{for}$ $\\textbf{government}$ $\\textbf{spending}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{fact}$ $\\textbf{that}$ $\\textbf{not}$ $\\textbf{all}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{money}$ $\\textbf{is}$ $\\textbf{spent}$ $\\textbf{by}$ $\\textbf{consumers}$.",
+        "image": "",
+        "options": [
+            "Higher",
+            "Lower",
+            "Equal",
+            "Negative"
+        ],
+        "answer": "Lower",
+        "explanation": "People save a portion of tax cuts (the Marginal Propensity to Save), reducing the direct stimulative effect on consumption compared to government spending."
+    },
+    {
+        "id": "E3018",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Confidence}$ $\\textbf{Index}$ **increased** throughout 2003, moving from low levels as the recession ended and the Iraq War's initial phase concluded.",
+        "image": "",
+        "options": [
+            "Decreased sharply",
+            "Increased",
+            "Remained near zero",
+            "Reached an all-time low"
+        ],
+        "answer": "Increased",
+        "explanation": "Rising stock and housing values, combined with positive GDP reports, finally boosted consumer optimism."
+    },
+    {
+        "id": "E3019",
+        "text": "The $\\textbf{Fed}$ $\\textbf{used}$ the $\\textbf{language}$ 'substantial period' in $\\textbf{2003}$ to describe how $\\textbf{long}$ they $\\textbf{expected}$ to $\\textbf{keep}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{low}$ $\\textbf{to}$ $\\textbf{provide}$ $\\textbf{forward}$ $\\textbf{guidance}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{market}$.",
+        "image": "",
+        "options":[ "'Near zero'",
+            "'Only six months'",
+            "'Substantial period'",
+            "'Immediate reversal'"
+        ],
+        "answer": "'Substantial period'",
+        "explanation": "This was an early form of explicit 'forward guidance' used by the Fed to influence longer-term interest rates and reassure the public."
+    },
+    {
+        "id": "E3020",
+        "text": "The $\\textbf{main}$ $\\textbf{reason}$ the $\\textbf{housing}$ $\\textbf{market}$ was able to $\\textbf{compensate}$ for $\\textbf{weak}$ $\\textbf{labor}$ $\\textbf{and}$ $\\textbf{capital}$ $\\textbf{markets}$ was the $\\textbf{Wealth}$ $\\textbf{Effect}$, $\\textbf{where}$ $\\textbf{rising}$ $\\textbf{home}$ $\\textbf{equity}$ $\\textbf{fueled}$ $\\textbf{consumer}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "The Substitution Effect",
+            "The Wealth Effect",
+            "The Fisher Effect",
+            "The Laffer Curve"
+        ],
+        "answer": "The Wealth Effect",
+        "explanation": "Rising home values made people *feel* wealthier, encouraging them to spend more, often via cash-out mortgage refinancings."
+    },
+    {
+        "id": "E3021",
+        "text": "A $\\textbf{liquidity}$ $\\textbf{trap}$ is an $\\textbf{economic}$ $\\textbf{situation}$ where $\\textbf{monetary}$ $\\textbf{policy}$ becomes $\\textbf{ineffective}$ because $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{are}$ $\\textbf{near}$ $\\textbf{zero}$ $\\textbf{and}$ $\\textbf{people}$ $\\textbf{hoard}$ $\\textbf{cash}$ $\\textbf{instead}$ $\\textbf{of}$ $\\textbf{spending}$ $\\textbf{or}$ $\\textbf{investing}$.",
+        "image": "",
+        "options": [
+            "Hyperinflation",
+            "Stagflation",
+            "Liquidity trap",
+            "Phillips Curve"
+        ],
+        "answer": "Liquidity trap",
+        "explanation": "The Fed's actions in 2003, pushing rates to 1.0%, brought the U.S. closer to this theoretical limit of monetary policy."
+    },
+    {
+        "id": "E3022",
+        "text": "The $\\textbf{Producer}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(PPI)}$ $\\textbf{began}$ to $\\textbf{rise}$ more $\\textbf{quickly}$ in 2003, driven by $\\textbf{increasing}$ $\\textbf{commodity}$ $\\textbf{costs}$ $\\textbf{such}$ $\\textbf{as}$ $\\textbf{oil}$, signaling potential future consumer inflation.",
+        "image": "",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Producer Price Index (PPI)",
+            "Personal Consumption Expenditures (PCE)",
+            "Housing Price Index (HPI)"
+        ],
+        "answer": "Producer Price Index (PPI)",
+        "explanation": "PPI measures prices received by domestic producers for their output; rising input costs typically show up here first."
+    },
+    {
+        "id": "E3023",
+        "text": "The $\\textbf{primary}$ $\\textbf{economic}$ $\\textbf{risk}$ $\\textbf{associated}$ $\\textbf{with}$ $\\textbf{the}$ $\\textbf{Iraq}$ $\\textbf{War}$ in 2003 was $\\textbf{a}$ $\\textbf{prolonged}$ $\\textbf{disruption}$ $\\textbf{to}$ $\\textbf{global}$ $\\textbf{oil}$ $\\textbf{supply}$ $\\textbf{that}$ $\\textbf{could}$ $\\textbf{choke}$ $\\textbf{off}$ $\\textbf{the}$ $\\textbf{recovery}$.",
+        "image": "",
+        "options": [
+            "Foreign investment withdrawal",
+            "Prolonged disruption to global oil supply",
+            "Immediate hyperinflation",
+            "Collapse of the housing market"
+        ],
+        "answer": "Prolonged disruption to global oil supply",
+        "explanation": "Uncertainty regarding Middle Eastern supply was the chief economic concern following the invasion."
+    },
+    {
+        "id": "E3024",
+        "text": "The $\\textbf{JGTRRA}$ $\\textbf{tax}$ $\\textbf{cuts}$ were $\\textbf{temporary}$ (set to $\\textbf{expire}$ in $\\textbf{2010}$), $\\textbf{a}$ $\\textbf{common}$ $\\textbf{legislative}$ $\\textbf{tactic}$ $\\textbf{to}$ $\\textbf{comply}$ $\\textbf{with}$ $\\textbf{Senate}$ $\\textbf{rules}$ $\\textbf{on}$ $\\textbf{budget}$ $\\textbf{deficits}$ $\\textbf{that}$ $\\textbf{prevent}$ $\\textbf{non}$-$\\textbf{germane}$ $\\textbf{provisions}$.",
+        "image": "",
+        "options": [
+            "To fund the war",
+            "To comply with Senate rules on budget deficits",
+            "To encourage short-term spending",
+            "To please foreign trade partners"
+        ],
+        "answer": "To comply with Senate rules on budget deficits",
+        "explanation": "The Byrd Rule in the Senate requires certain legislation passed via budget reconciliation to expire after 10 years if they increase the deficit beyond that period."
+    },
+    {
+        "id": "E3025",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Dollar}$ $\\textbf{continued}$ its $\\textbf{decline}$ $\\textbf{against}$ the $\\textbf{Euro}$ in 2003, with the $\\textbf{Euro}$ $\\textbf{climbing}$ $\\textbf{above}$ the $\\textbf{dollar}$ $\\textbf{in}$ $\\textbf{value}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{first}$ $\\textbf{time}$ $\\textbf{in}$ $\\textbf{years}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{U.S.}$ $\\textbf{current}$ $\\textbf{account}$ $\\textbf{deficit}$ $\\textbf{and}$ $\\textbf{low}$ $\\textbf{interest}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "The Canadian Dollar",
+            "The British Pound",
+            "The Euro",
+            "The Japanese Yen"
+        ],
+        "answer": "The Euro",
+        "explanation": "The dollar’s multi-year decline accelerated in 2003 as investors sought higher yields outside the U.S. and worried about the growing twin deficits (budget and current account)."
+    },
+    {
+        "id": "E3026",
+        "text": "A $\\textbf{key}$ $\\textbf{characteristic}$ of $\\textbf{the}$ $\\textbf{Jobless}$ $\\textbf{Recovery}$ was that $\\textbf{corporate}$ $\\textbf{profits}$ $\\textbf{rebounded}$ **faster** than $\\textbf{job}$ $\\textbf{creation}$ $\\textbf{as}$ $\\textbf{companies}$ $\\textbf{controlled}$ $\\textbf{costs}$.",
+        "image": "",
+        "options": [
+            "Slower",
+            "Faster",
+            "At the same rate",
+            "Not at all"
+        ],
+        "answer": "Faster",
+        "explanation": "Firms enjoyed high productivity and kept labor costs low, leading to strong profit growth that wasn't immediately translated into new hiring."
+    },
+    {
+        "id": "E3027",
+        "text": "The $\\textbf{Taylor}$ $\\textbf{Rule}$ is a $\\textbf{monetary}$ $\\textbf{policy}$ $\\textbf{formula}$ that $\\textbf{suggests}$ $\\textbf{how}$ $\\textbf{a}$ $\\textbf{central}$ $\\textbf{bank}$ $\\textbf{should}$ $\\textbf{adjust}$ $\\textbf{the}$ $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{in}$ $\\textbf{response}$ $\\textbf{to}$ $\\textbf{inflation}$ $\\textbf{and}$ $\\textbf{GDP}$ $\\textbf{deviations}$ $\\textbf{from}$ $\\textbf{their}$ $\\textbf{targets}$.",
+        "image": "",
+        "options": [
+            "The Phillips Curve",
+            "The Taylor Rule",
+            "The Quantity Theory of Money",
+            "The Lucas Critique"
+        ],
+        "answer": "The Taylor Rule",
+        "explanation": "The Fed's low-rate policy in 2003 was often debated in the context of the Taylor Rule, with some arguing the Fed was too loose, and others arguing it was necessary given deflation fears."
+    },
+    {
+        "id": "E3028",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{government}$ began $\\textbf{issuing}$ $\\textbf{inflation}$-$\\textbf{protected}$ $\\textbf{securities}$ $\\textbf{(TIPS)}$ in $\\textbf{2003}$ $\\textbf{to}$ $\\textbf{allow}$ $\\textbf{investors}$ $\\textbf{to}$ $\\textbf{hedge}$ $\\textbf{against}$ $\\textbf{unexpected}$ $\\textbf{price}$ $\\textbf{increases}$.",
+        "image": "",
+        "options": [
+            "Municipal bonds",
+            "Zero-coupon bonds",
+            "Inflation-Protected Securities (TIPS)",
+            "Corporate junk bonds"
+        ],
+        "answer": "Inflation-Protected Securities (TIPS)",
+        "explanation": "TIPS bond principal increases with inflation and decreases with deflation, ensuring the real value of the investment is maintained."
+    },
+    {
+        "id": "E3029",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{stimulus}$ provided by the $\\textbf{JGTRRA}$ $\\textbf{tax}$ $\\textbf{cuts}$ was $\\textbf{less}$ $\\textbf{effective}$ in $\\textbf{the}$ $\\textbf{short}$ $\\textbf{term}$ $\\textbf{for}$ $\\textbf{poorer}$ $\\textbf{households}$ $\\textbf{because}$ $\\textbf{they}$ $\\textbf{were}$ $\\textbf{primarily}$ $\\textbf{targeted}$ $\\textbf{at}$ $\\textbf{capital}$ $\\textbf{income}$ $\\textbf{and}$ $\\textbf{higher}$ $\\textbf{earners}$.",
+        "image": "",
+        "options": [
+            "Lower-income households",
+            "Higher-income households",
+            "All households equally",
+            "Government agencies"
+        ],
+        "answer": "Higher-income households",
+        "explanation": "Cuts to taxes on capital gains and dividends primarily benefit high-net-worth individuals, which tends to have a lower MPC, reducing the immediate consumption impact."
+    },
+    {
+        "id": "E3030",
+        "text": "$\\textbf{Core}$ $\\textbf{Inflation}$ (excluding food and energy) $\\textbf{remained}$ $\\textbf{low}$ in 2003, which was a key factor allowing the $\\textbf{Federal}$ $\\textbf{Reserve}$ to $\\textbf{continue}$ $\\textbf{its}$ $\\textbf{accommodative}$ $\\textbf{policy}$ $\\textbf{without}$ $\\textbf{fear}$ $\\textbf{of}$ $\\textbf{inflation}$.",
+        "image": "",
+        "options": [
+            "Near 10%",
+            "High and volatile",
+            "Low",
+            "Negative"
+        ],
+        "answer": "Low",
+        "explanation": "The Fed's focus was on growth; low core inflation gave them the necessary flexibility to keep rates at 1.0%."
+    },
+    {
+        "id": "E3031",
+        "text": "The $\\textbf{stock}$ $\\textbf{market}$ rally in 2003 was $\\textbf{broad}$-$\\textbf{based}$, with the $\\textbf{NASDAQ}$ $\\textbf{Composite}$ $\\textbf{outperforming}$ the $\\textbf{S&P}$ $\\textbf{500}$ $\\textbf{and}$ $\\textbf{Dow}$ $\\textbf{Jones}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{turnaround}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{technology}$ $\\textbf{sector}$.",
+        "image": "",
+        "options": [
+            "Dow Jones Industrial Average",
+            "S&P 500",
+            "NASDAQ Composite",
+            "Russell 2000"
+        ],
+        "answer": "NASDAQ Composite",
+        "explanation": "After three years of tech collapse, the NASDAQ finally saw a massive recovery, leading the major indices."
+    },
+    {
+        "id": "E3032",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{manufacturing}$ $\\textbf{sector}$ experienced a modest $\\textbf{rebound}$ in $\\textbf{late}$ $\\textbf{2003}$, $\\textbf{driven}$ $\\textbf{by}$ $\\textbf{business}$ $\\textbf{investment}$ $\\textbf{in}$ $\\textbf{equipment}$ $\\textbf{and}$ $\\textbf{software}$ $\\textbf{and}$ $\\textbf{a}$ $\\textbf{weaker}$ $\\textbf{dollar}$.",
+        "image": "",
+        "options": [
+            "Continued sharp decline",
+            "Zero growth",
+            "Modest rebound",
+            "Record highs"
+        ],
+        "answer": "Modest rebound",
+        "explanation": "The industrial production index showed improvement in the second half of the year as corporations finally began to reinvest."
+    },
+    {
+        "id": "E3033",
+        "text": "The $\\textbf{Economic}$ $\\textbf{theory}$ that $\\textbf{states}$ $\\textbf{tax}$ $\\textbf{cuts}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{wealthy}$ $\\textbf{will}$ $\\textbf{eventually}$ $\\textbf{benefit}$ $\\textbf{everyone}$ $\\textbf{through}$ $\\textbf{increased}$ $\\textbf{investment}$ $\\textbf{is}$ $\\textbf{called}$ $\\textbf{Trickle}$-$\\textbf{Down}$ $\\textbf{Economics}$.",
+        "image": "",
+        "options": [
+            "Keynesian Economics",
+            "Trickle-Down Economics",
+            "Monetarism",
+            "Austrian School"
+        ],
+        "answer": "Trickle-Down Economics",
+        "explanation": "This was the underlying rationale for the capital-income-focused JGTRRA tax cuts, arguing that cuts incentivize the job creators."
+    },
+    {
+        "id": "E3034",
+        "text": "In $\\textbf{2003}$, the $\\textbf{risk}$ $\\textbf{premium}$ on $\\textbf{corporate}$ $\\textbf{bonds}$ **shrank**, as $\\textbf{investor}$ $\\textbf{confidence}$ $\\textbf{returned}$ $\\textbf{after}$ $\\textbf{the}$ $\\textbf{corporate}$ $\\textbf{scandals}$ $\\textbf{and}$ $\\textbf{default}$ $\\textbf{risk}$ $\\textbf{decreased}$.",
+        "image": "",
+        "options": [
+            "Widened sharply",
+            "Shrank",
+            "Remained stable",
+            "Inverted"
+        ],
+        "answer": "Shrank",
+        "explanation": "The spread between corporate bonds and risk-free Treasuries narrowed as investors felt more secure about corporate financial health."
+    },
+    {
+        "id": "E3035",
+        "text": "$\\textbf{Mortgage}$-$\\textbf{backed}$ $\\textbf{securities}$ $\\textbf{(MBS)}$ $\\textbf{issuance}$ **soared** in 2003, driven by the $\\textbf{historically}$ $\\textbf{low}$ $\\textbf{mortgage}$ $\\textbf{rates}$ $\\textbf{that}$ $\\textbf{encouraged}$ $\\textbf{refinancing}$ $\\textbf{and}$ $\\textbf{home}$ $\\textbf{purchases}$.",
+        "image": "",
+        "options": [
+            "Fell to zero",
+            "Soared",
+            "Stagnated",
+            "Was illegal"
+        ],
+        "answer": "Soared",
+        "explanation": "The low-rate environment led to a massive increase in mortgages being pooled and sold as MBS."
+    },
+    {
+        "id": "E3036",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Government}$'s $\\textbf{fiscal}$ $\\textbf{position}$ was $\\textbf{negatively}$ $\\textbf{impacted}$ by $\\textbf{lower}$ $\\textbf{tax}$ $\\textbf{revenue}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{slow}$ $\\textbf{employment}$ $\\textbf{recovery}$ $\\textbf{and}$ $\\textbf{cuts}$ $\\textbf{to}$ $\\textbf{personal}$ $\\textbf{income}$ $\\textbf{tax}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Increased tax revenue",
+            "Lower tax revenue",
+            "Foreign subsidies",
+            "Debt repayment"
+        ],
+        "answer": "Lower tax revenue",
+        "explanation": "Recession and tax cuts both reduce the inflow of government funds, worsening the budget deficit."
+    },
+    {
+        "id": "E3037",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ uses $\\textbf{quantitative}$ $\\textbf{easing}$ $\\textbf{(QE)}$ to $\\textbf{purchase}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{assets}$ $\\textbf{to}$ $\\textbf{lower}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{and}$ $\\textbf{inject}$ $\\textbf{liquidity}$, $\\textbf{though}$ $\\textbf{it}$ $\\textbf{was}$ $\\textbf{not}$ $\\textbf{used}$ $\\textbf{in}$ $\\textbf{2003}$.",
+        "image": "",
+        "options": [
+            "Adjust the discount rate",
+            "Open market operations on short-term Treasuries",
+            "Adjust the reserve requirement",
+            "Set the prime rate"
+        ],
+        "answer": "Open market operations on short-term Treasuries",
+        "explanation": "In 2003, the Fed was still using traditional tools (setting the Fed Funds Target via OMOs in short-term markets); QE was a tool adopted later (2008) when rates hit zero."
+    },
+    {
+        "id": "E3038",
+        "text": "The $\\textbf{concept}$ of $\\textbf{Potential}$ $\\textbf{GDP}$ is the $\\textbf{maximum}$ $\\textbf{output}$ an $\\textbf{economy}$ $\\textbf{can}$ $\\textbf{sustain}$ $\\textbf{without}$ $\\textbf{causing}$ $\\textbf{accelerating}$ $\\textbf{inflation}$, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{a}$ $\\textbf{concern}$ $\\textbf{in}$ $\\textbf{2003}$ $\\textbf{as}$ $\\textbf{GDP}$ $\\textbf{surged}$.",
+        "image": "",
+        "options": [
+            "Actual GDP",
+            "Nominal GDP",
+            "Potential GDP",
+            "Net GDP"
+        ],
+        "answer": "Potential GDP",
+        "explanation": "Economists debated whether the strong GDP surge in Q3 2003 meant the economy was pushing against its capacity limits."
+    },
+    {
+        "id": "E3039",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ for $\\textbf{college}$ $\\textbf{graduates}$ $\\textbf{was}$ $\\textbf{significantly}$ $\\textbf{lower}$ $\\textbf{than}$ $\\textbf{the}$ $\\textbf{overall}$ $\\textbf{rate}$ $\\textbf{in}$ $\\textbf{2003}$, $\\textbf{reflecting}$ $\\textbf{the}$ $\\textbf{structural}$ $\\textbf{shift}$ $\\textbf{towards}$ $\\textbf{skilled}$ $\\textbf{labor}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{U.S.}$ $\\textbf{economy}$.",
+        "image": "",
+        "options": [
+            "Significantly higher",
+            "Slightly higher",
+            "Significantly lower",
+            "Identical"
+        ],
+        "answer": "Significantly lower",
+        "explanation": "The jobless recovery disproportionately affected less-skilled workers, widening the gap between different education levels."
+    },
+    {
+        "id": "E3040",
+        "text": "The $\\textbf{rise}$ in $\\textbf{stock}$ $\\textbf{prices}$ $\\textbf{in}$ $\\textbf{2003}$ $\\textbf{was}$ $\\textbf{partly}$ $\\textbf{attributed}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{JGTRRA}$ $\\textbf{tax}$ $\\textbf{cuts}$ $\\textbf{that}$ $\\textbf{increased}$ $\\textbf{the}$ $\\textbf{after}$-$\\textbf{tax}$ $\\textbf{value}$ $\\textbf{of}$ $\\textbf{corporate}$ $\\textbf{earnings}$ $\\textbf{for}$ $\\textbf{investors}$.",
+        "image": "",
+        "options": [
+            "Decreased after-tax value",
+            "Increased the after-tax value",
+            "Did not affect the after-tax value",
+            "Caused a drop in corporate earnings"
+        ],
+        "answer": "Increased the after-tax value",
+        "explanation": "By reducing the tax rate on dividends and capital gains, the cuts increased the net return for investors, making stocks more attractive."
+    }
+]

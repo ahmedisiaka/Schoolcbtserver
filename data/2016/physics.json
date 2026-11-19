@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_P_2016_01",
+      "text": "Which of the following units is equivalent to the Pascal ($Pa$)?",
+      "image": "",
+      "options": ["$Nm^{-1}$", "$Jm^{-2}$", "$Nm^{-2}$", "$kgms^{-1}$"],
+      "answer": "$Nm^{-2}$",
+      "explanation": "Pressure is defined as Force per unit Area. The SI unit of force is Newton ($N$), and the SI unit of area is square meter ($m^2$). Therefore, $1 \\text{ Pascal} = 1 \\text{ Newton per square meter} = 1 \\text{ Nm}^{-2}$."
+    },
+    {
+      "id": "JAMB_P_2016_02",
+      "text": "A stone is thrown vertically upwards with an initial velocity of $20 \\text{ m/s}$. Calculate the time taken to reach its maximum height. (Take $g = 10 \\text{ m/s}^2$)",
+      "image": "[Image of a projectile trajectory showing maximum height]",
+      "options": ["$1.0 \\text{ s}$", "$2.0 \\text{ s}$", "$4.0 \\text{ s}$", "$5.0 \\text{ s}$"],
+      "answer": "$2.0 \\text{ s}$",
+      "explanation": "At maximum height, the final velocity ($v$) is $0 \\text{ m/s}$. Using the equation $v = u + at$, where $a = -g$ (deceleration): $0 = 20 + (-10)t \\implies 10t = 20 \\implies t = 2.0 \\text{ s}$."
+    },
+    {
+      "id": "JAMB_P_2016_03",
+      "text": "The quantity that has the same unit as momentum is:",
+      "image": "",
+      "options": ["Impulse", "Force", "Work", "Energy"],
+      "answer": "Impulse",
+      "explanation": "Momentum ($p$) is mass $\\times$ velocity ($kg \\text{ m/s}$). Impulse ($I$) is Force $\\times$ time ($N \\text{ s}$). Since $1 \\text{ N} = 1 \\text{ kg m/s}^2$, then $1 \\text{ N s} = 1 \\text{ kg m/s}^2 \\times \\text{ s} = 1 \\text{ kg m/s}$. Thus, impulse and momentum have the same unit."
+    },
+    {
+      "id": "JAMB_P_2016_04",
+      "text": "Which of the following affects the pitch of a sound note?",
+      "image": "[Image showing sound waves of different frequencies (pitch)]",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Intensity"],
+      "answer": "Frequency",
+      "explanation": "The pitch of a sound note is determined by its frequency. Higher frequency results in a higher pitch, and lower frequency results in a lower pitch. Amplitude determines loudness (intensity)."
+    },
+    {
+      "id": "JAMB_P_2016_05",
+      "text": "A machine has a velocity ratio of $5$. If it is $80 \\text{ percent}$ efficient, its mechanical advantage is:",
+      "image": "",
+      "options": ["$4.0$", "$5.0$", "$6.25$", "$0.8$"],
+      "answer": "$4.0$",
+      "explanation": "Efficiency $(\\eta)$ is given by $\\eta = \\frac{\\text{MA}}{\\text{VR}} \\times 100\\%$. We have $\\eta = 80\\%$ or $0.8$, and $\\text{VR} = 5$. $0.8 = \\frac{\\text{MA}}{5} \\implies \\text{MA} = 0.8 \\times 5 = 4.0$."
+    },
+    {
+      "id": "JAMB_P_2016_06",
+      "text": "The type of mirrors used as rear-view mirrors in automobiles is:",
+      "image": "[Image of a convex mirror reflecting a wide field of view]",
+      "options": ["Plane mirror", "Concave mirror", "Parabolic mirror", "Convex mirror"],
+      "answer": "Convex mirror",
+      "explanation": "Convex mirrors are used because they always form virtual, erect, and diminished images, providing a wide field of view, which is essential for safe driving."
+    },
+    {
+      "id": "JAMB_P_2016_07",
+      "text": "The instrument used to measure the relative humidity of the atmosphere is the:",
+      "image": "",
+      "options": ["Barometer", "Hydrometer", "Manometer", "Hygrometer"],
+      "answer": "Hygrometer",
+      "explanation": "A hygrometer is specifically designed to measure the amount of water vapor in the air, or humidity. A hydrometer measures the density of liquids."
+    },
+    {
+      "id": "JAMB_P_2016_08",
+      "text": "Which of the following is an example of a scalar quantity?",
+      "image": "",
+      "options": ["Displacement", "Velocity", "Momentum", "Mass"],
+      "answer": "Mass",
+      "explanation": "Scalar quantities have magnitude only. Mass, distance, speed, and time are examples. Vector quantities (Displacement, Velocity, Momentum) have both magnitude and direction."
+    },
+    {
+      "id": "JAMB_P_2016_09",
+      "text": "A particle moves with simple harmonic motion (SHM). The total energy of the particle is proportional to the square of the:",
+      "image": "[Image of a mass-spring system in SHM]",
+      "options": ["Frequency", "Period", "Amplitude", "Velocity"],
+      "answer": "Amplitude",
+      "explanation": "The total energy ($E$) in SHM is proportional to the square of the amplitude ($A$): $E \\propto A^2$. The energy is also proportional to the square of the angular frequency ($\\omega^2$) but amplitude is the key variable here."
+    },
+    {
+      "id": "JAMB_P_2016_10",
+      "text": "Calculate the work done when a force of $20 \\text{ N}$ moves a body through a distance of $5 \\text{ m}$ in the direction of the force.",
+      "image": "",
+      "options": ["$4 \\text{ J}$", "$15 \\text{ J}$", "$25 \\text{ J}$", "$100 \\text{ J}$"],
+      "answer": "$100 \\text{ J}$",
+      "explanation": "Work done ($W$) is Force ($F$) $\\times$ distance ($d$). $W = F \\times d = 20 \\text{ N} \\times 5 \\text{ m} = 100 \\text{ J}$."
+    },
+    {
+      "id": "JAMB_P_2016_11",
+      "text": "The relationship between the linear velocity ($v$) and the angular velocity ($\\omega$) of a body moving in a circle of radius ($r$) is:",
+      "image": "[Image of circular motion showing velocity and radius vectors]",
+      "options": ["$v = \\omega r^2$", "$v = \\omega^2 r$", "$v = \\omega r$", "$v = r/\\omega$"],
+      "answer": "$v = \\omega r$",
+      "explanation": "Linear velocity is the product of the angular velocity and the radius of the circle."
+    },
+    {
+      "id": "JAMB_P_2016_12",
+      "text": "Heat transfer by convection mainly occurs in:",
+      "image": "[Image illustrating convection current in a liquid]",
+      "options": ["Solids only", "Liquids only", "Gases only", "Fluids (liquids and gases)"],
+      "answer": "Fluids (liquids and gases)",
+      "explanation": "Convection involves the movement of heated fluid particles (liquids or gases) from hotter regions to cooler regions."
+    },
+    {
+      "id": "JAMB_P_2016_13",
+      "text": "A ray of light is incident on a plane mirror at an angle of $30^{\\circ}$. The angle between the incident ray and the reflected ray is:",
+      "image": "[Image showing incidence, reflection, and the normal line]",
+      "options": ["$30^{\\circ}$", "$60^{\\circ}$", "$90^{\\circ}$", "$120^{\\circ}$"],
+      "answer": "$60^{\\circ}$",
+      "explanation": "The angle of incidence ($i$) is $30^{\\circ}$. According to the Law of Reflection, the angle of reflection ($r$) is also $30^{\\circ}$. The angle between the incident ray and the reflected ray is $i + r = 30^{\\circ} + 30^{\\circ} = 60^{\\circ}$."
+    },
+    {
+      "id": "JAMB_P_2016_14",
+      "text": "The speed of sound in air is independent of:",
+      "image": "",
+      "options": ["Temperature", "Pressure", "Density", "Humidity"],
+      "answer": "Pressure",
+      "explanation": "While the speed of sound is affected by temperature (main factor), density, and humidity, it is generally independent of changes in pressure because pressure and density changes cancel out their effects on the speed of sound in an ideal gas."
+    },
+    {
+      "id": "JAMB_P_2016_15",
+      "text": "The energy stored in a capacitor is given by the expression:",
+      "image": "[Image of a capacitor circuit symbol]",
+      "options": ["$CV^2$", "$1/2CV^2$", "$1/2QV^2$", "$Q^2V$"],
+      "answer": "$1/2CV^2$",
+      "explanation": "The energy ($E$) stored in a capacitor is calculated as $E = \\frac{1}{2}CV^2$, where $C$ is capacitance and $V$ is potential difference. It can also be expressed as $E = \\frac{1}{2}QV$ or $E = \\frac{1}{2}\\frac{Q^2}{C}$."
+    },
+    {
+      "id": "JAMB_P_2016_16",
+      "text": "Which of the following is a unit of quantity of electricity?",
+      "image": "",
+      "options": ["Watt", "Ohm", "Ampere-hour", "Volt"],
+      "answer": "Ampere-hour",
+      "explanation": "Quantity of electricity ($Q$) is current ($I$) $\\times$ time ($t$). The SI unit is the Coulomb ($C$) which is Ampere-second ($A\\text{ s}$). The Ampere-hour ($A\\text{ h}$) is a non-SI unit of quantity of electricity."
+    },
+    {
+      "id": "JAMB_P_2016_17",
+      "text": "The process of splitting a heavy nucleus into two lighter nuclei is called:",
+      "image": "[Image illustrating nuclear fission showing neutron hitting a heavy nucleus]",
+      "options": ["Nuclear fusion", "Nuclear fission", "Radioactivity", "Chain reaction"],
+      "answer": "Nuclear fission",
+      "explanation": "Nuclear fission is the process where a heavy nucleus (like Uranium-235) is split into two or more smaller nuclei, releasing a large amount of energy."
+    },
+    {
+      "id": "JAMB_P_2016_18",
+      "text": "Which of the following describes the relationship between heat capacity ($C$) and specific heat capacity ($c$)?",
+      "image": "",
+      "options": ["$C = m/c$", "$C = c/m$", "$C = mc$", "$C = m + c$"],
+      "answer": "$C = mc$",
+      "explanation": "Heat capacity ($C$) is the energy required to raise the temperature of a body by $1 \\text{ K}$, while specific heat capacity ($c$) is the energy required to raise the temperature of a unit mass of the substance by $1 \\text{ K}$. $C = m \\times c$ where $m$ is the mass."
+    },
+    {
+      "id": "JAMB_P_2016_19",
+      "text": "The property of waves that is responsible for the phenomenon of beats is:",
+      "image": "[Image showing the superposition of two waves leading to beat formation]",
+      "options": ["Reflection", "Refraction", "Interference", "Diffraction"],
+      "answer": "Interference",
+      "explanation": "Beats are produced when two sound waves of slightly different frequencies superpose (interfere) with each other, leading to periodic variations in the loudness of the sound."
+    },
+    {
+      "id": "JAMB_P_2016_20",
+      "text": "The device used for converting sound energy to electrical energy is a:",
+      "image": "",
+      "options": ["Loudspeaker", "Microphone", "Transformer", "Capacitor"],
+      "answer": "Microphone",
+      "explanation": "A microphone receives sound waves (kinetic energy of air particles/pressure variations) and converts them into corresponding electrical signals."
+    },
+    {
+      "id": "JAMB_P_2016_21",
+      "text": "In a $p$-$n$ junction diode, the depletion layer is formed by the recombination of:",
+      "image": "[Image of a p-n junction diode showing the depletion region]",
+      "options": ["Holes and electrons", "Dopants and impurities", "Donor ions and acceptor ions", "Positive ions and negative ions"],
+      "answer": "Holes and electrons",
+      "explanation": "The depletion layer is formed across the junction when free electrons from the $n$-side diffuse across to the $p$-side and recombine with holes, leaving behind fixed positive donor ions on the $n$-side and fixed negative acceptor ions on the $p$-side."
+    },
+    {
+      "id": "JAMB_P_2016_22",
+      "text": "If a metal rod of length $L$ and resistance $R$ is drawn to twice its original length, its new resistance will be:",
+      "image": "",
+      "options": ["$R/2$", "$2R$", "$4R$", "$R$"],
+      "answer": "$4R$",
+      "explanation": "If the length ($L$) is doubled, the volume ($V = AL$) remains constant. $A_{new} = A/2$. Resistance $R = \\rho L/A$. $R_{new} = \\rho (2L)/(A/2) = 4 \\rho L/A = 4R$."
+    },
+    {
+      "id": "JAMB_P_2016_23",
+      "text": "The major reason for using transformers in high-voltage power lines is to minimize:",
+      "image": "[Image of a step-up transformer in a power station]",
+      "options": ["Voltage drop", "Power factor loss", "Heat energy loss", "Magnetic flux leakage"],
+      "answer": "Heat energy loss",
+      "explanation": "Power loss due to heat is given by $P_{loss} = I^2 R$. By stepping up the voltage, the current ($I$) needed to transmit the power ($P=IV$) is greatly reduced. Since power loss is proportional to $I^2$, a small reduction in current leads to a huge reduction in heat loss."
+    },
+    {
+      "id": "JAMB_P_2016_24",
+      "text": "The instrument used to measure the electromotive force (e.m.f) of a cell is the:",
+      "image": "",
+      "options": ["Ammeter", "Voltmeter", "Potentiometer", "Ohmmeter"],
+      "answer": "Potentiometer",
+      "explanation": "A potentiometer is used to measure the e.m.f. of a cell accurately because it draws no current from the cell during measurement (null method). A voltmeter measures the terminal potential difference."
+    },
+    {
+      "id": "JAMB_P_2016_25",
+      "text": "The motion of a particle from one end of a vibrating string to the other is an example of:",
+      "image": "",
+      "options": ["Random motion", "Translatory motion", "Rotational motion", "Oscillatory motion"],
+      "answer": "Oscillatory motion",
+      "explanation": "The particles in a vibrating string move repeatedly back and forth about a fixed central point (equilibrium position), which is the definition of oscillatory motion."
+    },
+    {
+      "id": "JAMB_P_2016_26",
+      "text": "Total internal reflection occurs only when light passes from:",
+      "image": "[Image illustrating total internal reflection and critical angle]",
+      "options": ["Less dense medium to more dense medium", "More dense medium to less dense medium", "Vacuum to air", "Air to water"],
+      "answer": "More dense medium to less dense medium",
+      "explanation": "Total internal reflection requires two conditions: 1) Light must travel from a denser medium to a less dense medium (e.g., glass to air). 2) The angle of incidence must be greater than the critical angle."
+    },
+    {
+      "id": "JAMB_P_2016_27",
+      "text": "The electromagnetic wave with the shortest wavelength is:",
+      "image": "",
+      "options": ["Radio waves", "Infrared waves", "Gamma rays", "X-rays"],
+      "answer": "Gamma rays",
+      "explanation": "Gamma rays are at the high-frequency/high-energy end of the electromagnetic spectrum and therefore have the shortest wavelengths."
+    },
+    {
+      "id": "JAMB_P_2016_28",
+      "text": "The property of metals that enables them to be beaten into thin sheets is:",
+      "image": "",
+      "options": ["Ductility", "Brittleness", "Elasticity", "Malleability"],
+      "answer": "Malleability",
+      "explanation": "Malleability is the ability of a material, usually a metal, to withstand compressive stress and be hammered or rolled into thin sheets without cracking."
+    },
+    {
+      "id": "JAMB_P_2016_29",
+      "text": "A ray of light is refracted at the boundary between two media. The ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant. This is known as:",
+      "image": "[Image of refraction showing angle of incidence and refraction]",
+      "options": ["Huygens' Principle", "Fermat's Principle", "Snell's Law", "The Law of Reflection"],
+      "answer": "Snell's Law",
+      "explanation": "Snell's Law states that for a given pair of media, the ratio $\\frac{\\sin i}{\\sin r}$ is constant, where $i$ is the angle of incidence and $r$ is the angle of refraction. This constant is the refractive index."
+    },
+    {
+      "id": "JAMB_P_2016_30",
+      "text": "Which of the following describes the relationship between mass ($m$), energy ($E$), and the speed of light ($c$)?",
+      "image": "",
+      "options": ["$E = mc$", "$E = mc^2$", "$E = 1/2mc^2$", "$E = m/c^2$"],
+      "answer": "$E = mc^2$",
+      "explanation": "This is Einstein's famous mass-energy equivalence equation, where $E$ is the energy equivalent of mass $m$, and $c$ is the speed of light in a vacuum."
+    },
+    {
+      "id": "JAMB_P_2016_31",
+      "text": "In a series circuit containing resistors $R_1, R_2, \\text{ and } R_3$, the total resistance ($R_T$) is given by:",
+      "image": "[Image of three resistors connected in series]",
+      "options": ["$R_T = R_1 + R_2 + R_3$", "$1/R_T = 1/R_1 + 1/R_2 + 1/R_3$", "$R_T = \\sqrt{R_1^2 + R_2^2 + R_3^2}$", "$R_T = R_1^2 + R_2^2 + R_3^2$"],
+      "answer": "$R_T = R_1 + R_2 + R_3$",
+      "explanation": "For resistors connected in series, the total (equivalent) resistance is the sum of the individual resistances."
+    },
+    {
+      "id": "JAMB_P_2016_32",
+      "text": "A radio station broadcasts at a frequency of $2 \\text{ MHz}$. What is the wavelength of the broadcast? (Speed of light $c = 3.0 \\times 10^8 \\text{ m/s}$)",
+      "image": "",
+      "options": ["$150 \\text{ m}$", "$15 \\text{ m}$", "$6 \\text{ m}$", "$60 \\text{ m}$"],
+      "answer": "$150 \\text{ m}$",
+      "explanation": "The speed of a wave ($c$) is related to its frequency ($f$) and wavelength ($\\lambda$) by $c = f\\lambda$. $\\lambda = c/f$. $f = 2 \\text{ MHz} = 2 \\times 10^6 \\text{ Hz}$. $\\lambda = \\frac{3.0 \\times 10^8 \\text{ m/s}}{2 \\times 10^6 \\text{ Hz}} = 1.5 \\times 10^2 \\text{ m} = 150 \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2016_33",
+      "text": "The pressure exerted by a fluid at a depth $h$ is given by the formula:",
+      "image": "[Image showing pressure in a fluid increasing with depth h]",
+      "options": ["$P = \\rho g/h$", "$P = h/\\rho g$", "$P = \\rho gh$", "$P = \\rho + gh$"],
+      "answer": "$P = \\rho gh$",
+      "explanation": "Hydrostatic pressure ($P$) is the product of the fluid's density ($\\rho$), the acceleration due to gravity ($g$), and the depth ($h$) below the surface."
+    },
+    {
+      "id": "JAMB_P_2016_34",
+      "text": "The process of modifying a high-frequency carrier wave with a low-frequency signal is called:",
+      "image": "[Image illustrating Amplitude Modulation (AM) and Frequency Modulation (FM)]",
+      "options": ["Rectification", "Modulation", "Demodulation", "Amplification"],
+      "answer": "Modulation",
+      "explanation": "Modulation is the process of varying one or more properties (amplitude or frequency) of a high-frequency carrier wave with a message-bearing signal (the low-frequency information)."
+    },
+    {
+      "id": "JAMB_P_2016_35",
+      "text": "An object moves in a circular path with a constant speed. Its acceleration is:",
+      "image": "",
+      "options": ["Zero", "Directed away from the center", "Directed towards the center", "Tangential to the path"],
+      "answer": "Directed towards the center",
+      "explanation": "Even though the speed is constant, the velocity is changing (because direction changes). This change in velocity means there is an acceleration, called centripetal acceleration, which is always directed towards the center of the circle."
+    },
+    {
+      "id": "JAMB_P_2016_36",
+      "text": "The instrument used to measure electric current is the:",
+      "image": "",
+      "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+      "answer": "Ammeter",
+      "explanation": "An ammeter is connected in series in a circuit and measures the current flowing through it in Amperes ($A$)."
+    },
+    {
+      "id": "JAMB_P_2016_37",
+      "text": "In a photoelectric effect experiment, the maximum kinetic energy of the emitted electrons depends on the:",
+      "image": "[Image of photoelectric effect graph showing kinetic energy vs. frequency]",
+      "options": ["Intensity of the incident light", "Frequency of the incident light", "Duration of illumination", "Distance between the source and the metal"],
+      "answer": "Frequency of the incident light",
+      "explanation": "According to Einstein's photoelectric equation, $KE_{max} = hf - \\Phi$, where $h$ is Planck's constant, $f$ is the light frequency, and $\\Phi$ is the work function. $KE_{max}$ depends linearly on the frequency, not the intensity."
+    },
+    {
+      "id": "JAMB_P_2016_38",
+      "text": "The force that tends to restore a body to its equilibrium position when it is displaced is called:",
+      "image": "",
+      "options": ["Friction force", "Centripetal force", "Restoring force", "Tension force"],
+      "answer": "Restoring force",
+      "explanation": "A restoring force is a force which gives rise to an equilibrium in a physical system. If the system is perturbed, the restoring force will tend to return the system to its equilibrium position."
+    },
+    {
+      "id": "JAMB_P_2016_39",
+      "text": "The angle of dip at the magnetic equator is:",
+      "image": "[Image showing Earth's magnetic field lines and the concept of angle of dip]",
+      "options": ["$0^{\\circ}$", "$45^{\\circ}$", "$60^{\\circ}$", "$90^{\\circ}$"],
+      "answer": "$0^{\\circ}$",
+      "explanation": "The angle of dip (or magnetic inclination) is the angle between the Earth's magnetic field lines and the horizontal. At the magnetic equator, the field lines are horizontal, so the angle of dip is $0^{\\circ}$. At the magnetic poles, the field lines are vertical, so the angle is $90^{\\circ}$."
+    },
+    {
+      "id": "JAMB_P_2016_40",
+      "text": "Which of the following is the most suitable coolant in a nuclear reactor?",
+      "image": "",
+      "options": ["Water", "Heavy water", "Cadmium rods", "Boron"],
+      "answer": "Heavy water",
+      "explanation": "Heavy water (deuterium oxide, $D_2O$) is an excellent moderator (slowing down neutrons) and coolant in certain types of nuclear reactors because it absorbs very few neutrons, ensuring the chain reaction can be maintained efficiently."
+    }
+  ]

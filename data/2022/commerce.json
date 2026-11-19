@@ -1,0 +1,522 @@
+[
+    {
+        "id": "C161",
+        "text": "The accounting concept that states that revenue is recognized when it is $\\textbf{earned}$, regardless of when cash is received, is the:",
+        "image": "",
+        "options": [
+            "Cash Basis Concept",
+            "Matching Concept",
+            "Accrual Concept",
+            "Materiality Concept"
+        ],
+        "answer": "Accrual Concept",
+        "explanation": "The accrual basis of accounting recognizes economic events rather than just cash transactions, recording revenues when earned and expenses when incurred."
+    },
+    {
+        "id": "C162",
+        "text": "The $\\textbf{Capital Market}$ primarily deals with financial instruments having a maturity period of:",
+        "image": "",
+        "options": [
+            "Less than six months",
+            "Less than one year",
+            "More than one year",
+            "Exactly five years"
+        ],
+        "answer": "More than one year",
+        "explanation": "The capital market handles long-term financial instruments like stocks and bonds, used for long-term financing."
+    },
+    {
+        "id": "C163",
+        "text": "The term $\\textbf{Blue Chip}$ stock refers to the shares of companies that are:",
+        "image": "",
+        "options": [
+            "New startups with high growth potential",
+            "High-risk, highly speculative investments",
+            "Large, well-established, and financially sound",
+            "Close to bankruptcy"
+        ],
+        "answer": "Large, well-established, and financially sound",
+        "explanation": "Blue chip stocks are shares of nationally recognized companies that have a long history of reliable growth and financial stability."
+    },
+    {
+        "id": "C164",
+        "text": "Which type of organizational structure is highly suitable for temporary, complex projects, combining functional and product structures?",
+        "image": "",
+        "options": [
+            "Functional Structure",
+            "Divisional Structure",
+            "Matrix Structure",
+            "Line Structure"
+        ],
+        "answer": "Matrix Structure",
+        "explanation": "The matrix structure allows employees to report to both a functional manager and a project manager, facilitating coordination for complex projects."
+    },
+    {
+        "id": "C165",
+        "text": "A $\\textbf{Letter of Hypothecation}$ in trade finance is an agreement where the borrower retains $\\textbf{possession}$ of the goods, but the lender holds $\\textbf{title}$ or claim to them as security.",
+        "image": "",
+        "options": [
+            "True",
+            "False",
+            "Only applicable to real estate",
+            "Only applicable to intangible assets"
+        ],
+        "answer": "True",
+        "explanation": "Hypothecation is the practice where a debtor pledges collateral to secure a debt or loan without transferring the title or possession of the property."
+    },
+    {
+        "id": "C166",
+        "text": "The $\\textbf{Say's Law}$ in economics states that:",
+        "image": "",
+        "options": [
+            "Demand creates its own supply",
+            "Supply creates its own demand",
+            "Government spending always increases GDP",
+            "Inflation is always caused by excess money supply"
+        ],
+        "answer": "Supply creates its own demand",
+        "explanation": "Say's Law is a classical economic theory proposing that the production of goods inherently generates the income necessary to purchase them."
+    },
+    {
+        "id": "C167",
+        "text": "What is the primary function of $\\textbf{Advertising}$ in the promotional mix?",
+        "image": "",
+        "options": [
+            "Immediate sales closing",
+            "Providing personalized sales assistance",
+            "Non-personal, paid presentation and promotion of ideas, goods, or services",
+            "Direct two-way communication with customers"
+        ],
+        "answer": "Non-personal, paid presentation and promotion of ideas, goods, or services",
+        "explanation": "Advertising is distinguished by its non-personal, mass-communication nature, typically through paid media."
+    },
+    {
+        "id": "C168",
+        "text": "The accounting standard that provides guidelines for the presentation of financial statements is typically referred to as $\\textbf{GAAP}$ (Generally Accepted Accounting Principles) or $\\textbf{IFRS}$ (International Financial Reporting Standards).",
+        "image": "",
+        "options": [
+            "True",
+            "False",
+            "Only applicable to public companies",
+            "Only applicable to service industries"
+        ],
+        "answer": "True",
+        "explanation": "GAAP and IFRS are frameworks that govern how financial transactions are recorded, summarized, and presented."
+    },
+    {
+        "id": "C169",
+        "text": "Which type of risk can be eliminated or reduced by holding a diversified portfolio of assets?",
+        "image": "",
+        "options": [
+            "Systematic Risk (Market Risk)",
+            "Unsystematic Risk (Specific/Diversifiable Risk)",
+            "Interest Rate Risk",
+            "Political Risk"
+        ],
+        "answer": "Unsystematic Risk (Specific/Diversifiable Risk)",
+        "explanation": "Unsystematic risk is specific to a company or industry and can be mitigated through diversification, while systematic risk affects the entire market and cannot be diversified away."
+    },
+    {
+        "id": "C170",
+        "text": "The $\\textbf{Internal Rate of Return (IRR)}$ method of capital budgeting determines the discount rate at which the Net Present Value (NPV) of a project is equal to:",
+        "image": "",
+        "options": [
+            "The initial investment cost",
+            "Zero",
+            "The weighted average cost of capital (WACC)",
+            "The total future cash flow"
+        ],
+        "answer": "Zero",
+        "explanation": "IRR is the rate of return that makes the present value of future cash flows exactly equal to the initial investment (NPV = 0)."
+    },
+    {
+        "id": "C171",
+        "text": "Which type of trade involves exporting goods to a foreign country and receiving goods in return, often without money changing hands?",
+        "image": "",
+        "options": [
+            "Franchising",
+            "Licensing",
+            "Counter-Trade (Barter)",
+            "Foreign Direct Investment (FDI)"
+        ],
+        "answer": "Counter-Trade (Barter)",
+        "explanation": "Counter-trade, particularly barter, involves the exchange of goods or services for other goods or services, rather than for money."
+    },
+    {
+        "id": "C172",
+        "text": "The $\\textbf{Laissez-faire}$ economic doctrine advocates for:",
+        "image": "",
+        "options": [
+            "Heavy government intervention and regulation",
+            "Minimal government intervention in the economy",
+            "A planned, socialist economy",
+            "Global economic unification"
+        ],
+        "answer": "Minimal government intervention in the economy",
+        "explanation": "Laissez-faire (French for 'allow to do') is an economic system in which transactions between private parties are free from government intervention such as regulation, tariffs, and subsidies."
+    },
+    {
+        "id": "C173",
+        "text": "The concept of $\\textbf{Delegation of Authority}$ involves three elements: Authority, Responsibility, and:",
+        "image": "",
+        "options": [
+            "Planning",
+            "Accountability",
+            "Centralization",
+            "Subordination"
+        ],
+        "answer": "Accountability",
+        "explanation": "Authority is the right to command; Responsibility is the obligation to perform; Accountability is the obligation to report on the fulfillment of the responsibility."
+    },
+    {
+        "id": "C174",
+        "text": "A $\\textbf{Crossed Cheque}$ with the addition of the words $\\textbf{'Not Negotiable'}$ indicates that:",
+        "image": "",
+        "options": [
+            "The cheque cannot be presented for cash",
+            "The cheque can be transferred, but the transferee cannot acquire a better title than the transferor had",
+            "The cheque is completely non-transferable",
+            "The bank is not liable for payment"
+        ],
+        "answer": "The cheque can be transferred, but the transferee cannot acquire a better title than the transferor had",
+        "explanation": "The 'Not Negotiable' crossing removes the protection of a 'holder in due course,' meaning if the transferor's title is defective, so is the transferee's."
+    },
+    {
+        "id": "C175",
+        "text": "In a partnership, if there is $\\textbf{no partnership deed}$ (agreement), profits and losses are generally shared:",
+        "image": "",
+        "options": [
+            "In proportion to capital contributed",
+            "In the ratio of 2:1",
+            "Equally among all partners",
+            "Based on the seniority of the partners"
+        ],
+        "answer": "Equally among all partners",
+        "explanation": "In the absence of a written or oral agreement, the provisions of the relevant Partnership Act apply, which mandates equal sharing of profits and losses."
+    },
+    {
+        "id": "C176",
+        "text": "The $\\textbf{Current Ratio}$ is a measure of a company's:",
+        "image": "",
+        "options": [
+            "Long-term solvency",
+            "Short-term liquidity",
+            "Profitability",
+            "Inventory management efficiency"
+        ],
+        "answer": "Short-term liquidity",
+        "explanation": "Current Ratio = Current Assets / Current Liabilities. It assesses the ability of a business to pay its short-term debts."
+    },
+    {
+        "id": "C177",
+        "text": "Which marketing orientation focuses on $\\textbf{improving production and distribution efficiency}$ to make products highly available and affordable?",
+        "image": "",
+        "options": [
+            "Product Concept",
+            "Selling Concept",
+            "Production Concept",
+            "Marketing Concept"
+        ],
+        "answer": "Production Concept",
+        "explanation": "The production concept is based on the philosophy that consumers will favor products that are readily available and highly affordable."
+    },
+    {
+        "id": "C178",
+        "text": "The $\\textbf{Auditor's Report}$ expresses an opinion on whether the financial statements are presented fairly in accordance with:",
+        "image": "",
+        "options": [
+            "The company CEO's personal views",
+            "Generally Accepted Accounting Principles (GAAP) or IFRS",
+            "Future market expectations",
+            "The total volume of sales"
+        ],
+        "answer": "Generally Accepted Accounting Principles (GAAP) or IFRS",
+        "explanation": "The auditor's role is to provide an independent opinion on the fairness of the financial statements based on established accounting standards."
+    },
+    {
+        "id": "C179",
+        "text": "The term $\\textbf{Elastic Demand}$ means that a small change in price will cause a $\\textbf{relatively large}$ change in:",
+        "image": "",
+        "options": [
+            "Supply",
+            "Consumer Income",
+            "Quantity Demanded",
+            "Production Cost"
+        ],
+        "answer": "Quantity Demanded",
+        "explanation": "Elastic demand (PED > 1) means consumers are highly responsive to price changes, often indicating many substitutes are available."
+    },
+    {
+        "id": "C180",
+        "text": "A $\\textbf{Factoring}$ arrangement is a financial transaction where a business sells its $\\textbf{accounts receivables}$ (invoices) to a third party (the factor) at a discount.",
+        "image": "",
+        "options": [
+            "True",
+            "False",
+            "Only for government debts",
+            "Only for intangible assets"
+        ],
+        "answer": "True",
+        "explanation": "Factoring allows a company to immediately receive cash for its sales, improving its working capital and liquidity."
+    },
+    {
+        "id": "C181",
+        "text": "The $\\textbf{Cash Flow Statement}$ reports cash flow activities categorized into Operating, Investing, and:",
+        "image": "",
+        "options": [
+            "Marketing",
+            "Financing",
+            "Production",
+            "Administrative"
+        ],
+        "answer": "Financing",
+        "explanation": "The three sections of the Cash Flow Statement track cash movements related to core business activities, long-term asset transactions, and debt/equity transactions."
+    },
+    {
+        "id": "C182",
+        "text": "The purpose of the $\\textbf{Gantt Chart}$ in management is primarily for:",
+        "image": "",
+        "options": [
+            "Financial forecasting",
+            "Performance appraisal",
+            "Project scheduling and task visualization",
+            "Organizational hierarchy mapping"
+        ],
+        "answer": "Project scheduling and task visualization",
+        "explanation": "A Gantt chart is a bar chart that illustrates a project schedule, showing the start and finish dates of the elements of a project."
+    },
+    {
+        "id": "C183",
+        "text": "A $\\textbf{Stock Split}$ is an action where a company divides its existing shares into multiple new shares. The main impact is:",
+        "image": "",
+        "options": [
+            "Increased total market capitalization",
+            "Decreased total market capitalization",
+            "A decrease in the per-share price and an increase in the number of shares outstanding",
+            "An increase in the per-share price and a decrease in the number of shares outstanding"
+        ],
+        "answer": "A decrease in the per-share price and an increase in the number of shares outstanding",
+        "explanation": "Stock splits make shares more accessible to a wider range of investors, though the company's total market value remains unchanged."
+    },
+    {
+        "id": "C184",
+        "text": "The $\\textbf{Current Account}$ of the Balance of Payments primarily includes trade in goods, services, and:",
+        "image": "",
+        "options": [
+            "Foreign Direct Investment (FDI)",
+            "Financial Derivatives",
+            "Unilateral Transfers (e.g., remittances, foreign aid)",
+            "Long-term Debt Flows"
+        ],
+        "answer": "Unilateral Transfers (e.g., remittances, foreign aid)",
+        "explanation": "The Current Account records a nation's transactions with the rest of the world (trade, services, income, and transfers)."
+    },
+    {
+        "id": "C185",
+        "text": "What is the legal process by which a corporate entity is dissolved or liquidated, selling off assets to pay creditors?",
+        "image": "",
+        "options": [
+            "Incorporation",
+            "Amalgamation",
+            "Bankruptcy/Winding Up",
+            "Reorganization"
+        ],
+        "answer": "Bankruptcy/Winding Up",
+        "explanation": "Winding up (or liquidation) is the final stage of dissolution of a company, resulting in the sale of assets to repay debts."
+    },
+    {
+        "id": "C186",
+        "text": "The $\\textbf{Marketing Mix}$ element 'Place' deals with decisions regarding:",
+        "image": "",
+        "options": [
+            "The features and quality of the product",
+            "The channels of distribution and logistics",
+            "The price charged to the final consumer",
+            "Advertising and Public Relations"
+        ],
+        "answer": "The channels of distribution and logistics",
+        "explanation": "Place, or distribution, refers to how the product is physically made available to the consumer (e.g., retailers, online, wholesalers)."
+    },
+    {
+        "id": "C187",
+        "text": "The $\\textbf{Trade-off}$ theory of capital structure suggests that companies balance the tax shields of debt with the:",
+        "image": "",
+        "options": [
+            "Cost of equity",
+            "Profitability of the firm",
+            "Costs of financial distress (bankruptcy costs)",
+            "Market interest rates"
+        ],
+        "answer": "Costs of financial distress (bankruptcy costs)",
+        "explanation": "The theory proposes that an optimal capital structure exists where the marginal benefit of debt (tax shield) equals the marginal cost (financial distress)."
+    },
+    {
+        "id": "C188",
+        "text": "Which of the following $\\textbf{IS}$ an example of a $\\textbf{Current Asset}$?",
+        "image": "",
+        "options": [
+            "Land and Building",
+            "Machinery",
+            "Inventory of Finished Goods",
+            "Goodwill"
+        ],
+        "answer": "Inventory of Finished Goods",
+        "explanation": "Current assets are expected to be converted into cash, sold, or consumed within one year or one operating cycle, whichever is longer."
+    },
+    {
+        "id": "C189",
+        "text": "The $\\textbf{Hawthorne Studies}$ in management primarily highlighted the importance of:",
+        "image": "",
+        "options": [
+            "Strict adherence to classical management rules",
+            "Technological efficiency in production",
+            "Human and social factors in worker productivity",
+            "Financial incentives as the sole motivator"
+        ],
+        "answer": "Human and social factors in worker productivity",
+        "explanation": "The studies found that employees' behavior and motivation were heavily influenced by being observed and feeling valued by management (the Hawthorne Effect)."
+    },
+    {
+        "id": "C190",
+        "text": "In insurance, the $\\textbf{Proximate Cause}$ is the principle that requires a loss to be directly caused by an insured peril, and $\\textbf{NOT}$ by a remote or indirect cause.",
+        "image": "",
+        "options": [
+            "True",
+            "False",
+            "Only applies to liability insurance",
+            "Only applies if the claim is over a million dollars"
+        ],
+        "answer": "True",
+        "explanation": "The principle of proximate cause (or nearest cause) is used to determine if a loss is covered by the insurance policy."
+    },
+    {
+        "id": "C191",
+        "text": "Which method of depreciation results in a $\\textbf{constant}$ amount of depreciation expense being charged each year?",
+        "image": "",
+        "options": [
+            "Written Down Value Method",
+            "Sum-of-the-Years' Digits Method",
+            "Double-Declining Balance Method",
+            "Straight-Line Method"
+        ],
+        "answer": "Straight-Line Method",
+        "explanation": "Straight-line depreciation allocates the depreciable cost of an asset evenly over its estimated useful life."
+    },
+    {
+        "id": "C192",
+        "text": "The financial instrument that grants the $\\textbf{holder the right}$ (but not the obligation) to buy or sell an asset at a predetermined price is a:",
+        "image": "",
+        "options": [
+            "Forward Contract",
+            "Future Contract",
+            "Option Contract",
+            "Swap Contract"
+        ],
+        "answer": "Option Contract",
+        "explanation": "Options are derivative contracts that give the holder the right to exercise the contract, unlike futures or forwards, which create an obligation."
+    },
+    {
+        "id": "C193",
+        "text": "A $\\textbf{Commercial Invoice}$ in international trade is primarily used to:",
+        "image": "",
+        "options": [
+            "Track the location of the goods during transit",
+            "Certify the origin of the goods",
+            "Provide proof of payment",
+            "Act as a bill of sale, stating the value, description, and terms of sale"
+        ],
+        "answer": "Act as a bill of sale, stating the value, description, and terms of sale",
+        "explanation": "The commercial invoice is crucial for customs declaration and determining duties and taxes."
+    },
+    {
+        "id": "C194",
+        "text": "The $\\textbf{Pioneering Stage}$ of advertising is typically used when a product is in which stage of the Product Life Cycle (PLC)?",
+        "image": "",
+        "options": [
+            "Growth Stage",
+            "Maturity Stage",
+            "Introduction Stage",
+            "Decline Stage"
+        ],
+        "answer": "Introduction Stage",
+        "explanation": "Pioneering advertising aims to inform and educate consumers about a totally new product category that is just entering the market."
+    },
+    {
+        "id": "C195",
+        "text": "The management principle of $\\textbf{Standardization}$ (as promoted by Scientific Management) aims to:",
+        "image": "",
+        "options": [
+            "Increase variation in product output",
+            "Reduce costs and improve quality by establishing set methods and sizes",
+            "Allow employees to work at their own pace",
+            "Increase bureaucracy and paperwork"
+        ],
+        "answer": "Reduce costs and improve quality by establishing set methods and sizes",
+        "explanation": "Standardization involves setting standard methods, tools, raw materials, and finished product sizes to ensure consistency and efficiency."
+    },
+    {
+        "id": "C196",
+        "text": "The $\\textbf{Fiscal Policy}$ tool that a government can use to combat $\\textbf{inflation}$ is to:",
+        "image": "",
+        "options": [
+            "Decrease taxes and increase government spending",
+            "Increase taxes and decrease government spending",
+            "Decrease interest rates",
+            "Increase money supply"
+        ],
+        "answer": "Increase taxes and decrease government spending",
+        "explanation": "This contractionary fiscal policy reduces aggregate demand in the economy, helping to slow down inflation."
+    },
+    {
+        "id": "C197",
+        "text": "Which accounting principle requires that potential losses should be recorded, but potential gains should $\\textbf{not}$ be anticipated?",
+        "image": "",
+        "options": [
+            "Consistency Principle",
+            "Materiality Principle",
+            "Conservatism (Prudence) Principle",
+            "Revenue Recognition Principle"
+        ],
+        "answer": "Conservatism (Prudence) Principle",
+        "explanation": "The principle of conservatism dictates caution in financial reporting, ensuring that assets and income are not overstated, and liabilities and expenses are not understated."
+    },
+    {
+        "id": "C198",
+        "text": "The $\\textbf{Primary Market}$ in the capital market is where:",
+        "image": "",
+        "options": [
+            "Existing securities are traded between investors",
+            "Securities are first created and sold to the public (e.g., IPOs)",
+            "Only debt instruments are traded",
+            "Securities are traded through brokers only"
+        ],
+        "answer": "Securities are first created and sold to the public (e.g., IPOs)",
+        "explanation": "The primary market facilitates the raising of capital by companies through the issuance of new securities."
+    },
+    {
+        "id": "C199",
+        "text": "In a $\\textbf{Limited Liability Partnership (LLP)}$, the personal assets of the partners are protected from business debts.",
+        "image": "",
+        "options": [
+            "True",
+            "False",
+            "Only for senior partners",
+            "Only in manufacturing businesses"
+        ],
+        "answer": "True",
+        "explanation": "LLPs combine the flexibility of a partnership with the limited liability benefits of a company, offering protection to the partners' personal wealth."
+    },
+    {
+        "id": "C200",
+        "text": "The $\\textbf{Monopoly}$ market structure is characterized by the presence of a $\\textbf{single seller}$ and:",
+        "image": "",
+        "options": [
+            "Many close substitutes",
+            "High barriers to entry",
+            "Perfect information for all buyers",
+            "Price taking behavior"
+        ],
+        "answer": "High barriers to entry",
+        "explanation": "Barriers to entry are essential for a monopoly to maintain its market power and prevent competition from entering the market."
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "JAMB_E_001",
+        "text": "Scarcity in economics primarily means that:",
+        "image": "",
+        "options": [
+            "the economy can scarcely produce anything.",
+            "human wants are limitless.",
+            "resources are limited in relation to wants.",
+            "the economy has very few natural resources."
+        ],
+        "answer": "resources are limited in relation to wants.",
+        "explanation": "Scarcity is the fundamental economic problem where unlimited human wants exceed the limited resources available to satisfy them."
+    },
+    {
+        "id": "JAMB_E_002",
+        "text": "What is the effect of a $\\textbf{decrease}$ $\\textbf{in}$ $\\textbf{supply}$ when $\\textbf{demand}$ is $\\textbf{constant}$?",
+        "image": "",
+        "options": [
+            "Increase in price, decrease in quantity.",
+            "Decrease in price, increase in quantity.",
+            "Increase in both price and quantity.",
+            "Decrease in both price and quantity."
+        ],
+        "answer": "Increase in price, decrease in quantity.",
+        "explanation": "A decrease in supply shifts the supply curve to the left, leading to a higher equilibrium price and a lower equilibrium quantity, assuming demand remains unchanged. "
+    },
+    {
+        "id": "JAMB_E_003",
+        "text": "The $\\textbf{Law}$ $\\textbf{of}$ $\\textbf{Diminishing}$ $\\textbf{Marginal}$ $\\textbf{Utility}$ explains why a normal demand curve is:",
+        "image": "",
+        "options": [
+            "a straight vertical line.",
+            "upward sloping.",
+            "downward sloping.",
+            "a straight horizontal line."
+        ],
+        "answer": "downward sloping.",
+        "explanation": "As more of a product is consumed, the marginal utility derived from each extra unit falls, so consumers will only buy more if the price is reduced, hence the negative slope of the demand curve."
+    },
+    {
+        "id": "JAMB_E_004",
+        "text": "To control $\\textbf{inflation}$, the monetary authority of a country can employ:",
+        "image": "",
+        "options": [
+            "expansive fiscal policy.",
+            "restrictive monetary policy.",
+            "reduction in bank reserve requirements.",
+            "an increase in government expenditure."
+        ],
+        "answer": "restrictive monetary policy.",
+        "explanation": "A restrictive (or contractionary) monetary policy, involving tools like increasing interest rates or selling bonds, reduces the money supply to curb inflation."
+    },
+    {
+        "id": "JAMB_E_005",
+        "text": "Which of the following is an example of an $\\textbf{invisible}$ $\\textbf{item}$ on the Balance of Payments account?",
+        "image": "",
+        "options": [
+            "Exports and imports of crude oil.",
+            "Merchandise goods.",
+            "Bullion (gold and silver).",
+            "Shipping and aviation services."
+        ],
+        "answer": "Shipping and aviation services.",
+        "explanation": "Invisible items refer to services, which are non-physical, unlike visible items like merchandise goods and bullion, which are visible trade items."
+    },
+    {
+        "id": "JAMB_E_006",
+        "text": "The additional revenue obtained by using one more unit of a factor of production is called the:",
+        "image": "",
+        "options": [
+            "Marginal Cost.",
+            "Average Revenue Product.",
+            "Marginal Revenue Product.",
+            "Total Factor Revenue."
+        ],
+        "answer": "Marginal Revenue Product.",
+        "explanation": "Marginal Revenue Product (MRP) is the change in total revenue resulting from employing one additional unit of an input ($MRP = MPP \\times MR$)."
+    },
+    {
+        "id": "JAMB_E_007",
+        "text": "The most common form of business organization in West Africa is the:",
+        "image": "",
+        "options": [
+            "Public limited company.",
+            "Sole proprietorship.",
+            "Partnership.",
+            "Co-operative society."
+        ],
+        "answer": "Sole proprietorship.",
+        "explanation": "Sole proprietorships are the easiest to form and are prevalent among small-scale and informal sector businesses in the region."
+    },
+    {
+        "id": "JAMB_E_008",
+        "text": "In a $\\textbf{socialist}$ $\\textbf{economy}$, factors of production are predominantly $\\textbf{owned}$ $\\textbf{and}$ $\\textbf{controlled}$ by the:",
+        "image": "",
+        "options": [
+            "Board of directors.",
+            "Private individuals.",
+            "Government.",
+            "Consumers' co-operative society."
+        ],
+        "answer": "Government.",
+        "explanation": "Socialism is an economic system characterized by government or collective ownership and control of the means of production."
+    },
+    {
+        "id": "JAMB_E_009",
+        "text": "The situation whereby government $\\textbf{revenue}$ $\\textbf{is}$ $\\textbf{less}$ $\\textbf{than}$ government $\\textbf{expenditure}$ is referred to as:",
+        "image": "",
+        "options": [
+            "Budget surplus.",
+            "Balanced budget.",
+            "Budget deficit.",
+            "Inflationary gap."
+        ],
+        "answer": "Budget deficit.",
+        "explanation": "A budget deficit occurs when planned government spending exceeds expected government revenue."
+    },
+    {
+        "id": "JAMB_E_010",
+        "text": "The $\\textbf{terms}$ $\\textbf{of}$ $\\textbf{trade}$ of a country is calculated as the price ratio of:",
+        "image": "",
+        "options": [
+            "exports to imports.",
+            "visible imports to visible exports.",
+            "total trade to national income.",
+            "services to goods."
+        ],
+        "answer": "exports to imports.",
+        "explanation": "Terms of Trade (TOT) = (Index of Export Prices / Index of Import Prices) $\\times$ 100."
+    },
+    {
+        "id": "JAMB_E_011",
+        "text": "Which of the following is $\\textbf{not}$ a measure of $\\textbf{central}$ $\\textbf{tendency}$?",
+        "image": "",
+        "options": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Standard Deviation"
+        ],
+        "answer": "Standard Deviation",
+        "explanation": "The Standard Deviation is a measure of dispersion (spread of data), while Mean, Median, and Mode are measures of central tendency."
+    },
+    {
+        "id": "JAMB_E_012",
+        "text": "In the analysis of utility theory, what is constant on the typical $\\textbf{indifference}$ $\\textbf{curve}$?",
+        "image": "",
+        "options": [
+            "Marginal Utility",
+            "Price of commodity",
+            "Total Utility",
+            "Average Utility"
+        ],
+        "answer": "Total Utility",
+        "explanation": "An indifference curve represents all combinations of two goods that give a consumer the same level of satisfaction (Total Utility)."
+    },
+    {
+        "id": "JAMB_E_013",
+        "text": "A good whose consumption by one individual does not reduce the amount available for others is known as a:",
+        "image": "",
+        "options": [
+            "Merit good",
+            "Public good",
+            "Normal good",
+            "Inferior good"
+        ],
+        "answer": "Public good",
+        "explanation": "Public goods are non-rivalrous (consumption by one doesn't reduce availability for others) and non-excludable."
+    },
+    {
+        "id": "JAMB_E_014",
+        "text": "What type of unemployment is caused by changes in $\\textbf{technology}$ or industrial structure?",
+        "image": "",
+        "options": [
+            "Frictional unemployment",
+            "Cyclical unemployment",
+            "Structural unemployment",
+            "Seasonal unemployment"
+        ],
+        "answer": "Structural unemployment",
+        "explanation": "Structural unemployment occurs when there is a mismatch between the skills workers possess and the skills required by employers, often due to technological advancement."
+    },
+    {
+        "id": "JAMB_E_015",
+        "text": "The $\\textbf{major}$ $\\textbf{source}$ of government revenue in Nigeria is:",
+        "image": "",
+        "options": [
+            "Taxes",
+            "Foreign grants",
+            "Oil revenue",
+            "Fines and fees"
+        ],
+        "answer": "Oil revenue",
+        "explanation": "While taxes are important, oil and gas revenue (crude oil exports and taxes on petroleum products) remains the largest contributor to the Nigerian government's revenue."
+    },
+    {
+        "id": "JAMB_E_016",
+        "text": "In a $\\textbf{perfectly}$ $\\textbf{competitive}$ market, the demand curve facing an individual firm is:",
+        "image": "",
+        "options": [
+            "downward sloping.",
+            "upward sloping.",
+            "a straight vertical line.",
+            "a straight horizontal line."
+        ],
+        "answer": "a straight horizontal line.",
+        "explanation": "A firm in perfect competition is a price taker. Its demand curve is perfectly elastic (horizontal) at the market price, meaning it can sell any quantity at that price."
+    },
+    {
+        "id": "JAMB_E_017",
+        "text": "The factor of production that has the $\\textbf{highest}$ $\\textbf{degree}$ of $\\textbf{mobility}$ is:",
+        "image": "",
+        "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Entrepreneur"
+        ],
+        "answer": "Capital",
+        "explanation": "Financial capital can be moved instantaneously across countries through electronic transfer, making it the most geographically mobile factor."
+    },
+    {
+        "id": "JAMB_E_018",
+        "text": "An increase in $\\textbf{income}$ $\\textbf{tax}$ will likely lead to a $\\textbf{shift}$ in the aggregate $\\textbf{demand}$ $\\textbf{curve}$ to the:",
+        "image": "",
+        "options": [
+            "left.",
+            "right.",
+            "upwards.",
+            "downwards."
+        ],
+        "answer": "left.",
+        "explanation": "An increase in income tax reduces disposable income, which lowers consumer spending (Consumption, C). Since Aggregate Demand ($AD = C+I+G+(X-M)$) decreases, the curve shifts to the left."
+    },
+    {
+        "id": "JAMB_E_019",
+        "text": "The type of cost that $\\textbf{must}$ $\\textbf{be}$ $\\textbf{incurred}$ $\\textbf{even}$ $\\textbf{when}$ $\\textbf{output}$ $\\textbf{is}$ $\\textbf{zero}$ is the:",
+        "image": "",
+        "options": [
+            "Variable Cost",
+            "Total Cost",
+            "Marginal Cost",
+            "Fixed Cost"
+        ],
+        "answer": "Fixed Cost",
+        "explanation": "Fixed costs (e.g., rent, insurance) do not change with the level of output in the short run."
+    },
+    {
+        "id": "JAMB_E_020",
+        "text": "The $\\textbf{Nigerian}$ $\\textbf{bank}$ $\\textbf{for}$ $\\textbf{commerce}$ $\\textbf{and}$ $\\textbf{industry}$ (NBCI) is an example of a:",
+        "image": "",
+        "options": [
+            "Commercial bank",
+            "Development bank",
+            "Merchant bank",
+            "Microfinance bank"
+        ],
+        "answer": "Development bank",
+        "explanation": "Development banks (or Development Financial Institutions) provide medium to long-term financing for industrial and agricultural projects to promote economic development."
+    },
+    {
+        "id": "JAMB_E_021",
+        "text": "The conversion of $\\textbf{private}$ $\\textbf{properties}$ into $\\textbf{public}$ $\\textbf{ones}$ is known as:",
+        "image": "",
+        "options": [
+            "Localization",
+            "Commercialization",
+            "Nationalization",
+            "Privatization"
+        ],
+        "answer": "Nationalization",
+        "explanation": "Nationalization is the process of transferring ownership of a private sector enterprise or industry to the national government or state."
+    },
+    {
+        "id": "JAMB_E_022",
+        "text": "When a consumer purchases $\\textbf{less}$ of a good as their $\\textbf{income}$ $\\textbf{increases}$, the good is classified as a(n):",
+        "image": "",
+        "options": [
+            "Normal good",
+            "Giffen good",
+            "Inferior good",
+            "Luxury good"
+        ],
+        "answer": "Inferior good",
+        "explanation": "Inferior goods are those for which demand decreases as consumer income increases (and vice-versa). Examples include cheap foods or certain types of transport."
+    },
+    {
+        "id": "JAMB_E_023",
+        "text": "The full meaning of $\\textbf{OPEC}$ is:",
+        "image": "",
+        "options": [
+            "Organization of Petroleum Exporting Countries",
+            "Oil Producing and Exporting Countries",
+            "Organization of Petroleum Exploration Companies",
+            "Oil and Petrochemical Exporting Countries"
+        ],
+        "answer": "Organization of Petroleum Exporting Countries",
+        "explanation": "OPEC is a permanent intergovernmental organization of 12 oil-exporting developing nations."
+    },
+    {
+        "id": "JAMB_E_024",
+        "text": "What is the primary motive for holding money used for $\\textbf{unforeseen}$ $\\textbf{events}$?",
+        "image": "",
+        "options": [
+            "Transactionary motive",
+            "Speculative motive",
+            "Precautionary motive",
+            "Investment motive"
+        ],
+        "answer": "Precautionary motive",
+        "explanation": "The precautionary motive (as defined by Keynes) is the desire to hold money to meet unforeseen contingencies."
+    },
+    {
+        "id": "JAMB_E_025",
+        "text": "A situation in which a commodity is sold $\\textbf{abroad}$ $\\textbf{below}$ its $\\textbf{cost}$ $\\textbf{of}$ $\\textbf{production}$ in the home country is known as:",
+        "image": "",
+        "options": [
+            "Tariff",
+            "Dumping",
+            "Quota",
+            "Embargo"
+        ],
+        "answer": "Dumping",
+        "explanation": "Dumping is a predatory pricing practice in international trade where a producer exports a product at a price that is lower than the price charged in the producer's domestic market or its cost of production."
+    },
+    {
+        "id": "JAMB_E_026",
+        "text": "The $\\textbf{residual}$ $\\textbf{of}$ $\\textbf{production}$ which accrues to the $\\textbf{owner}$ $\\textbf{of}$ $\\textbf{land}$ is called:",
+        "image": "",
+        "options": [
+            "Interest",
+            "Profit",
+            "Wages",
+            "Rent"
+        ],
+        "answer": "Rent",
+        "explanation": "Rent is the reward for the factor of production 'Land', just as wages are for labour, interest for capital, and profit for entrepreneurship."
+    },
+    {
+        "id": "JAMB_E_027",
+        "text": "If the cross-elasticity of demand between two products is $\\textbf{positive}$, the two products are:",
+        "image": "",
+        "options": [
+            "unrelated goods.",
+            "complementary goods.",
+            "substitute goods.",
+            "inferior goods."
+        ],
+        "answer": "substitute goods.",
+        "explanation": "A positive cross-elasticity means that an increase in the price of Good A leads to an increase in the demand for Good B (e.g., Coke and Pepsi)."
+    },
+    {
+        "id": "JAMB_E_028",
+        "text": "Which of the following is $\\textbf{excluded}$ when using the $\\textbf{income}$ $\\textbf{method}$ of computing National Income?",
+        "image": "",
+        "options": [
+            "Net wages and salaries",
+            "Rents, interests, and dividends",
+            "Taxes on expenditure (indirect taxes)",
+            "Profits of companies"
+        ],
+        "answer": "Taxes on expenditure (indirect taxes)",
+        "explanation": "The income method measures income earned by factors of production (wages, rent, interest, profit). Indirect taxes are part of the expenditure approach and must be subtracted from the market price to get factor cost."
+    },
+    {
+        "id": "JAMB_E_029",
+        "text": "A $\\textbf{perfectly}$ $\\textbf{inelastic}$ $\\textbf{supply}$ $\\textbf{curve}$ is represented by:",
+        "image": "",
+        "options": [
+            "a straight horizontal line.",
+            "a straight vertical line.",
+            "a downward sloping curve.",
+            "an upward sloping curve."
+        ],
+        "answer": "a straight vertical line.",
+        "explanation": "Perfectly inelastic supply means the quantity supplied does not change at all, regardless of the price. This is represented by a vertical line, where elasticity is zero."
+    },
+    {
+        "id": "JAMB_E_030",
+        "text": "Which of the following is $\\textbf{not}$ a problem of $\\textbf{barter}$ $\\textbf{economy}$?",
+        "image": "",
+        "options": [
+            "Indivisibility of goods.",
+            "Lack of a common measure of value.",
+            "Absence of double coincidence of wants.",
+            "Storage of perishable goods."
+        ],
+        "answer": "Absence of double coincidence of wants.",
+        "explanation": "The 'absence of double coincidence of wants' is a problem *of* the barter system, not one that is 'not' a problem. All the options listed are classic problems of barter."
+    },
+    {
+        "id": "JAMB_E_031",
+        "text": "The basic assumption of $\\textbf{economic}$ $\\textbf{analysis}$ are $\\textbf{rationality}$ and:",
+        "image": "",
+        "options": [
+            "equity.",
+            "ceteris paribus.",
+            "scarcity.",
+            "specialization."
+        ],
+        "answer": "ceteris paribus.",
+        "explanation": "Ceteris Paribus is Latin for 'all other things being equal'. It is a key assumption allowing economists to isolate the effect of one variable on another."
+    },
+    {
+        "id": "JAMB_E_032",
+        "text": "A firm is at its $\\textbf{optimum}$ $\\textbf{size}$ when it produces at the point where:",
+        "image": "",
+        "options": [
+            "Marginal Cost is minimum.",
+            "Total Cost is minimum.",
+            "Long Run Average Cost is minimum.",
+            "Marginal Revenue is maximum."
+        ],
+        "answer": "Long Run Average Cost is minimum.",
+        "explanation": "Optimum size is achieved when a firm utilizes its resources to produce the greatest output at the minimum possible Long Run Average Cost (LRAC)."
+    },
+    {
+        "id": "JAMB_E_033",
+        "text": "Which of the following is a $\\textbf{disadvantage}$ of $\\textbf{division}$ $\\textbf{of}$ $\\textbf{labour}$?",
+        "image": "",
+        "options": [
+            "Increase in output.",
+            "Reduced training time.",
+            "Monotony and boredom.",
+            "Invention of machines."
+        ],
+        "answer": "Monotony and boredom.",
+        "explanation": "Specializing in one repetitive task can lead to boredom and a lack of skill flexibility, which is a key disadvantage."
+    },
+    {
+        "id": "JAMB_E_034",
+        "text": "When a country's population is experiencing $\\textbf{increasing}$ $\\textbf{returns}$ to labour, that country is said to be:",
+        "image": "",
+        "options": [
+            "over-populated.",
+            "optimally populated.",
+            "under-populated.",
+            "a densely populated."
+        ],
+        "answer": "under-populated.",
+        "explanation": "Increasing returns to labour means that adding more workers leads to an output increase that is more than proportional, indicating the population is below the optimum level relative to resources."
+    },
+    {
+        "id": "JAMB_E_035",
+        "text": "The $\\textbf{money}$ whose face value is $\\textbf{equal}$ $\\textbf{to}$ its $\\textbf{intrinsic}$ $\\textbf{value}$ is called:",
+        "image": "",
+        "options": [
+            "Token money",
+            "Credit money",
+            "Standard money",
+            "Paper money"
+        ],
+        "answer": "Standard money",
+        "explanation": "Standard money (or Full-bodied money) is currency where the value of the material used to make the coin is equal to the face value of the coin (e.g., gold coins)."
+    },
+    {
+        "id": "JAMB_E_036",
+        "text": "The $\\textbf{difference}$ between the $\\textbf{selling}$ $\\textbf{price}$ and the $\\textbf{cost}$ $\\textbf{price}$ of a commodity is known as:",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Margin",
+            "Profit",
+            "Mark-up"
+        ],
+        "answer": "Profit",
+        "explanation": "Profit is calculated as Total Revenue (based on selling price) minus Total Cost (based on cost price)."
+    },
+    {
+        "id": "JAMB_E_037",
+        "text": "An $\\textbf{increase}$ in $\\textbf{national}$ $\\textbf{income}$ is likely to lead to an $\\textbf{increase}$ in:",
+        "image": "",
+        "options": [
+            "exports.",
+            "savings.",
+            "the money supply.",
+            "unemployment."
+        ],
+        "answer": "savings.",
+        "explanation": "The Marginal Propensity to Save (MPS) dictates that as income rises, a portion of that additional income will be saved."
+    },
+    {
+        "id": "JAMB_E_038",
+        "text": "In a $\\textbf{mixed}$ $\\textbf{economy}$, the economic problems (what, how, and for whom to produce) are solved by:",
+        "image": "",
+        "options": [
+            "the price mechanism only.",
+            "the government only.",
+            "the price mechanism and the government.",
+            "traditional methods only."
+        ],
+        "answer": "the price mechanism and the government.",
+        "explanation": "A mixed economy combines elements of both market (price mechanism) and command (government planning/intervention) economies."
+    },
+    {
+        "id": "JAMB_E_039",
+        "text": "The process by which banks multiply their initial deposit is known as $\\textbf{credit}$ $\\textbf{creation}$. Which factor $\\textbf{limits}$ this process?",
+        "image": "",
+        "options": [
+            "The volume of cash transactions.",
+            "The interest rate charged by the central bank.",
+            "The reserve requirement (Cash Reserve Ratio).",
+            "The level of national income."
+        ],
+        "answer": "The reserve requirement (Cash Reserve Ratio).",
+        "explanation": "The Cash Reserve Ratio (CRR) determines the maximum amount of money a commercial bank must keep, directly controlling the money multiplier effect and limiting credit creation."
+    },
+    {
+        "id": "JAMB_E_040",
+        "text": "International trade is $\\textbf{different}$ $\\textbf{from}$ $\\textbf{internal}$ $\\textbf{trade}$ because of the $\\textbf{existence}$ $\\textbf{of}$:",
+        "image": "",
+        "options": [
+            "language barriers and different cultures.",
+            "different currencies and restrictions (tariffs/quotas).",
+            "manufactured goods.",
+            "specialization and division of labour."
+        ],
+        "answer": "different currencies and restrictions (tariffs/quotas).",
+        "explanation": "The key difference is the presence of barriers like tariffs and quotas and the need for foreign exchange due to different currencies in international trade, which are absent in internal trade."
+    }
+]

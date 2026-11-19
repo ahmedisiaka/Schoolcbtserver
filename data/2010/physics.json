@@ -1,0 +1,322 @@
+[
+    {
+      "id": "CHEM_2010_01",
+      "text": "Which of the following techniques is most suitable for separating a mixture of ink dyes?",
+      "image": "",
+      "options": ["Crystallization", "Distillation", "Chromatography", "Sublimation"],
+      "answer": "Chromatography",
+      "explanation": "Chromatography is used to separate small amounts of mixtures, such as dyes in ink, based on their different rates of migration across a medium."
+    },
+    {
+      "id": "CHEM_2010_02",
+      "text": "How many neutrons are present in an atom of the isotope $^{238}_{92}\\text{U}$?",
+      "image": "",
+      "options": ["92", "146", "238", "330"],
+      "answer": "146",
+      "explanation": "Number of neutrons = Mass number ($A$) - Atomic number ($Z$). $N = 238 - 92 = 146$."
+    },
+    {
+      "id": "CHEM_2010_03",
+      "text": "The electronic configuration of an element is $1s^2 2s^2 2p^6 3s^2 3p^3$. To which group in the periodic table does the element belong?",
+      "image": "",
+      "options": ["Group II", "Group III", "Group V", "Group 15"],
+      "answer": "Group 15",
+      "explanation": "The valence shell is the 3rd shell ($3s^2 3p^3$). Total valence electrons = $2 + 3 = 5$. This places it in Group V (or Group 15 in modern IUPAC notation)."
+    },
+    {
+      "id": "CHEM_2010_04",
+      "text": "Which type of bonding is primarily responsible for the high boiling point of water ($\text{H}_2\text{O}$) compared to hydrogen sulfide ($\text{H}_2\text{S}$)?",
+      "image": "[Diagram showing hydrogen bonding between water molecules]",
+      "options": ["Covalent bonding", "Ionic bonding", "Hydrogen bonding", "Van der Waals forces"],
+      "answer": "Hydrogen bonding",
+      "explanation": "Water molecules are held together by strong hydrogen bonds due to the high electronegativity of oxygen, whereas $\text{H}_2\text{S}$ has only weak Van der Waals forces."
+    },
+    {
+      "id": "CHEM_2010_05",
+      "text": "Calculate the percentage by mass of Nitrogen in Ammonium Nitrate ($\text{NH}_4\text{NO}_3$). [$\\text{N}=14, \\text{H}=1, \\text{O}=16$]",
+      "image": "",
+      "options": ["$17.5\\%$", "$35.0\\%$", "$22.5\\%$", "$28.0\\%$"],
+      "answer": "$35.0\\%$",
+      "explanation": "Molar mass of $\\text{NH}_4\\text{NO}_3 = 14 + (4 \\times 1) + 14 + (3 \\times 16) = 80 \\text{ g/mol}$. Mass of Nitrogen = $2 \\times 14 = 28 \\text{ g}$. Percentage = $(28/80) \\times 100\\% = 35\\%$."
+    },
+    {
+      "id": "CHEM_2010_06",
+      "text": "If the temperature of a fixed mass of gas is kept constant, the relationship between its pressure ($P$) and volume ($V$) is given by:",
+      "image": "",
+      "options": ["$P/V = \\text{constant}$", "$P + V = \\text{constant}$", "$PV = \\text{constant}$", "$V - P = \\text{constant}$"],
+      "answer": "$PV = \\text{constant}$",
+      "explanation": "This is Boyle's Law, which states that pressure is inversely proportional to volume at constant temperature ($PV = k$)."
+    },
+    {
+      "id": "CHEM_2010_07",
+      "text": "The assumptions of the Kinetic Molecular Theory of gases apply most strictly to:",
+      "image": "",
+      "options": ["Real gases at high pressure", "Real gases at low temperature", "Ideal gases", "Liquefied gases"],
+      "answer": "Ideal gases",
+      "explanation": "The Kinetic Theory describes the behavior of an 'Ideal Gas'. Real gases deviate from this behavior, especially at high pressures and low temperatures."
+    },
+    {
+      "id": "CHEM_2010_08",
+      "text": "Which quantum number describes the shape of an orbital?",
+      "image": "[Diagram showing s, p, and d orbital shapes]",
+      "options": ["Principal quantum number ($n$)", "Azimuthal quantum number ($l$)", "Magnetic quantum number ($m$)", "Spin quantum number ($s$)"],
+      "answer": "Azimuthal quantum number ($l$)",
+      "explanation": "The subsidiary or azimuthal quantum number ($l$) determines the shape of the orbital ($s$ is spherical, $p$ is dumbbell, etc.)."
+    },
+    {
+      "id": "CHEM_2010_09",
+      "text": "Elements in the same group of the periodic table have similar chemical properties because they have the same number of:",
+      "image": "",
+      "options": ["Electron shells", "Valence electrons", "Protons", "Neutrons"],
+      "answer": "Valence electrons",
+      "explanation": "Chemical properties are largely determined by the electronic configuration of the outermost shell (valence electrons), which is the same for elements in a group."
+    },
+    {
+      "id": "CHEM_2010_10",
+      "text": "What is the $\\text{pH}$ of a $0.001 \\text{ M}$ solution of $\\text{HCl}$?",
+      "image": "",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3",
+      "explanation": "$\\text{HCl}$ is a strong acid, so $[\\text{H}^+] = 0.001 = 10^{-3} \\text{ M}$. $\\text{pH} = -\\log(10^{-3}) = 3$."
+    },
+    {
+      "id": "CHEM_2010_11",
+      "text": "Which of the following salts will produce an acidic solution when dissolved in water?",
+      "image": "",
+      "options": ["$\\text{NaCl}$", "$\\text{CH}_3\\text{COONa}$", "$\\text{NH}_4\\text{Cl}$", "$\\text{K}_2\\text{SO}_4$"],
+      "answer": "$\\text{NH}_4\\text{Cl}$",
+      "explanation": "$\\text{NH}_4\\text{Cl}$ is a salt of a strong acid ($\\text{HCl}$) and a weak base ($\\text{NH}_3$). Its hydrolysis produces excess $\\text{H}^+$ ions, making the solution acidic."
+    },
+    {
+      "id": "CHEM_2010_12",
+      "text": "The solubility of solids in liquids generally increases with:",
+      "image": "[Solubility curve showing solubility vs. temperature for various salts]",
+      "options": ["Decreasing temperature", "Increasing pressure", "Increasing temperature", "Increasing surface area"],
+      "answer": "Increasing temperature",
+      "explanation": "For most solid solutes, solubility increases as the temperature of the solvent increases."
+    },
+    {
+      "id": "CHEM_2010_13",
+      "text": "In the reaction $2\\text{SO}_2(g) + \\text{O}_2(g) \\rightleftharpoons 2\\text{SO}_3(g)$, $\\Delta H = -198 \\text{ kJ}$. A higher yield of $\\text{SO}_3$ is favoured by:",
+      "image": "",
+      "options": ["High temperature and low pressure", "High temperature and high pressure", "Low temperature and low pressure", "Low temperature and high pressure"],
+      "answer": "Low temperature and high pressure",
+      "explanation": "The forward reaction is exothermic ($-\\Delta H$), so low temperature favors it. It also involves a reduction in volume (3 moles to 2 moles), so high pressure favors it."
+    },
+    {
+      "id": "CHEM_2010_14",
+      "text": "What is the oxidation number of Chromium in Potassium Dichromate ($\\text{K}_2\\text{Cr}_2\\text{O}_7$)?",
+      "image": "",
+      "options": ["+3", "+6", "+7", "+5"],
+      "answer": "+6",
+      "explanation": "$2(+1) + 2(Cr) + 7(-2) = 0$. $2 + 2Cr - 14 = 0$. $2Cr = 12$. $Cr = +6$."
+    },
+    {
+      "id": "CHEM_2010_15",
+      "text": "Calculate the mass of copper deposited when a current of $0.5 \\text{ A}$ is passed through a solution of $\\text{CuSO}_4$ for 1 hour. [$\\text{Cu}=64$, $1 \\text{ F} = 96500 \\text{ C}$]",
+      "image": "",
+      "options": ["0.6 g", "1.2 g", "0.3 g", "0.9 g"],
+      "answer": "0.6 g",
+      "explanation": "$Q = I \\times t = 0.5 \\times 3600 = 1800 \\text{ C}$. $\\text{Cu}^{2+} + 2e^- \\rightarrow \\text{Cu}$. 2F ($2 \\times 96500$) deposits 64g. Mass = $(1800 \\times 64) / (2 \\times 96500) \\approx 0.597 \\text{ g} \\approx 0.6 \\text{ g}$."
+    },
+    {
+      "id": "CHEM_2010_16",
+      "text": "The function of the salt bridge in an electrochemical cell is to:",
+      "image": "[Diagram of a Galvanic cell highlighting the salt bridge]",
+      "options": ["Connect the two electrodes directly", "Maintain electrical neutrality in the half-cells", "Provide ions for oxidation", "Increase the voltage"],
+      "answer": "Maintain electrical neutrality in the half-cells",
+      "explanation": "A salt bridge allows the flow of ions between the two half-cells to prevent the buildup of charge, maintaining electrical neutrality and allowing the reaction to continue."
+    },
+    {
+      "id": "CHEM_2010_17",
+      "text": "A reaction that absorbs heat from the surroundings is called:",
+      "image": "",
+      "options": ["Exothermic", "Endothermic", "Adiabatic", "Isothermal"],
+      "answer": "Endothermic",
+      "explanation": "Endothermic reactions have a positive enthalpy change ($\\Delta H > 0$) and absorb heat."
+    },
+    {
+      "id": "CHEM_2010_18",
+      "text": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+      "image": "",
+      "options": ["Concentration of reactants", "Surface area of reactants", "Enthalpy change of reaction", "Presence of a catalyst"],
+      "answer": "Enthalpy change of reaction",
+      "explanation": "The rate depends on collision frequency and energy (affected by concentration, surface area, temperature, catalyst), not on the thermodynamic enthalpy change ($\\Delta H$)."
+    },
+    {
+      "id": "CHEM_2010_19",
+      "text": "The acid responsible for the sour taste of vinegar is:",
+      "image": "",
+      "options": ["Methanoic acid", "Ethanoic acid", "Propanoic acid", "Butanoic acid"],
+      "answer": "Ethanoic acid",
+      "explanation": "Vinegar is a dilute solution of Ethanoic acid (Acetic acid, $\\text{CH}_3\\text{COOH}$)."
+    },
+    {
+      "id": "CHEM_2010_20",
+      "text": "Brass is an alloy of:",
+      "image": "",
+      "options": ["Copper and Tin", "Copper and Zinc", "Iron and Carbon", "Aluminium and Magnesium"],
+      "answer": "Copper and Zinc",
+      "explanation": "Brass is an alloy consisting primarily of Copper ($\\text{Cu}$) and Zinc ($\\text{Zn}$)."
+    },
+    {
+      "id": "CHEM_2010_21",
+      "text": "The $\\text{IUPAC}$ name for the compound with structural formula $\\text{CH}_3-\\text{C}\\equiv\\text{C}-\\text{CH}_3$ is:",
+      "image": "",
+      "options": ["But-1-ene", "But-1-yne", "But-2-yne", "Butane"],
+      "answer": "But-2-yne",
+      "explanation": "The longest carbon chain has 4 carbons (But-). There is a triple bond (yne) starting at carbon 2. Thus, But-2-yne."
+    },
+    {
+      "id": "CHEM_2010_22",
+      "text": "Members of the same homologous series have:",
+      "image": "",
+      "options": ["Different general formula", "Different functional groups", "Similar chemical properties", "Same physical properties"],
+      "answer": "Similar chemical properties",
+      "explanation": "A homologous series is a family of compounds with the same functional group and similar chemical properties, though their physical properties change gradually."
+    },
+    {
+      "id": "CHEM_2010_23",
+      "text": "The reaction between methane and chlorine in the presence of UV light is an example of:",
+      "image": "",
+      "options": ["Addition reaction", "Substitution reaction", "Elimination reaction", "Polymerization"],
+      "answer": "Substitution reaction",
+      "explanation": "Alkanes undergo substitution reactions with halogens in the presence of UV light, where hydrogen atoms are replaced by halogen atoms."
+    },
+    {
+      "id": "CHEM_2010_24",
+      "text": "Ethanol can be produced industrially by the fermentation of:",
+      "image": "",
+      "options": ["Starch", "Protein", "Cellulose", "Fat"],
+      "answer": "Starch",
+      "explanation": "Ethanol is commonly produced by the fermentation of sugars derived from starch-rich crops (like cassava, maize) using yeast."
+    },
+    {
+      "id": "CHEM_2010_25",
+      "text": "The alkaline hydrolysis of fats and oils produces soap and:",
+      "image": "[Chemical equation for Saponification]",
+      "options": ["Ethanol", "Propanol", "Glycerol (Propan-1,2,3-triol)", "Glycol"],
+      "answer": "Glycerol (Propan-1,2,3-triol)",
+      "explanation": "Saponification is the hydrolysis of an ester (fat/oil) by a base to form a salt (soap) and an alcohol (glycerol)."
+    },
+    {
+      "id": "CHEM_2010_26",
+      "text": "Which of the following is a natural polymer?",
+      "image": "",
+      "options": ["Nylon", "Polythene", "Protein", "Perspex"],
+      "answer": "Protein",
+      "explanation": "Proteins are natural polymers made of amino acid monomers. Nylon, Polythene, and Perspex are synthetic."
+    },
+    {
+      "id": "CHEM_2010_27",
+      "text": "The gas primarily responsible for the greenhouse effect and global warming is:",
+      "image": "",
+      "options": ["$\\text{SO}_2$", "$\\text{CO}_2$", "$\\text{NO}_2$", "$\\text{H}_2\\text{S}$"],
+      "answer": "$\\text{CO}_2$",
+      "explanation": "Carbon dioxide ($\\text{CO}_2$) is the most significant greenhouse gas released by human activities."
+    },
+    {
+      "id": "CHEM_2010_28",
+      "text": "Temporary hardness of water is caused by the presence of dissolved:",
+      "image": "",
+      "options": ["$\\text{CaSO}_4$", "$\\text{MgSO}_4$", "$\\text{Ca}(\\text{HCO}_3)_2$", "$\\text{CaCl}_2$"],
+      "answer": "$\\text{Ca}(\\text{HCO}_3)_2$",
+      "explanation": "Temporary hardness is caused by dissolved calcium or magnesium hydrogencarbonates, which decompose upon boiling."
+    },
+    {
+      "id": "CHEM_2010_29",
+      "text": "Which type of radiation consists of helium nuclei?",
+      "image": "",
+      "options": ["Alpha radiation", "Beta radiation", "Gamma radiation", "X-rays"],
+      "answer": "Alpha radiation",
+      "explanation": "Alpha particles are identical to helium nuclei, consisting of 2 protons and 2 neutrons ($^4_2\\text{He}^{2+}$)."
+    },
+    {
+      "id": "CHEM_2010_30",
+      "text": "A radioactive isotope has a half-life of 20 minutes. What fraction of the original sample remains after 1 hour?",
+      "image": "",
+      "options": ["$1/2$", "$1/4$", "$1/8$", "$1/16$"],
+      "answer": "$1/8$",
+      "explanation": "1 hour = 60 minutes = 3 half-lives ($60/20$). Fraction remaining = $(1/2)^3 = 1/8$."
+    },
+    {
+      "id": "CHEM_2010_31",
+      "text": "Which substance is used as a drying agent for ammonia gas?",
+      "image": "",
+      "options": ["Conc. $\\text{H}_2\\text{SO}_4$", "Fused $\\text{CaCl}_2$", "Phosphorus(V) oxide", "Calcium oxide (Quicklime)"],
+      "answer": "Calcium oxide (Quicklime)",
+      "explanation": "Ammonia is a basic gas. Acidic drying agents (like $\\text{H}_2\\text{SO}_4$ and $\\text{P}_2\\text{O}_5$) and $\\text{CaCl}_2$ (which forms a complex) react with it. $\\text{CaO}$ (basic) is used."
+    },
+    {
+      "id": "CHEM_2010_32",
+      "text": "A mixture of kerosene and water can be separated using a:",
+      "image": "[Image of a separating funnel containing immiscible liquids]",
+      "options": ["Filter paper", "Separating funnel", "Distillation flask", "Centrifuge"],
+      "answer": "Separating funnel",
+      "explanation": "Kerosene and water are immiscible liquids with different densities, making them separable by a separating funnel."
+    },
+    {
+      "id": "CHEM_2010_33",
+      "text": "The presence of which ion is confirmed by the formation of a white precipitate with acidified barium chloride solution?",
+      "image": "",
+      "options": ["$\\text{Cl}^-$", "$\\text{SO}_4^{2-}$", "$\\text{CO}_3^{2-}$", "$\\text{NO}_3^-$"],
+      "answer": "$\\text{SO}_4^{2-}$",
+      "explanation": "Barium ions react with sulphate ions to form insoluble white Barium sulphate: $\\text{Ba}^{2+} + \\text{SO}_4^{2-} \\rightarrow \\text{BaSO}_4(s)$."
+    },
+    {
+      "id": "CHEM_2010_34",
+      "text": "Graphite conducts electricity because:",
+      "image": "[Structure of graphite showing delocalized electrons between layers]",
+      "options": ["It has a giant ionic structure", "It contains mobile delocalized electrons", "It is a metal", "It has strong covalent bonds"],
+      "answer": "It contains mobile delocalized electrons",
+      "explanation": "In graphite, each carbon atom is bonded to 3 others, leaving one electron per carbon atom free (delocalized) to move and conduct electricity."
+    },
+    {
+      "id": "CHEM_2010_35",
+      "text": "The most abundant gas in the atmosphere is:",
+      "image": "",
+      "options": ["Oxygen", "Argon", "Nitrogen", "Carbon dioxide"],
+      "answer": "Nitrogen",
+      "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere by volume."
+    },
+    {
+      "id": "CHEM_2010_36",
+      "text": "The basicity of Tetraoxosulphate(VI) acid ($\\text{H}_2\\text{SO}_4$) is:",
+      "image": "",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2",
+      "explanation": "Basicity is the number of replaceble hydrogen atoms in one molecule of the acid. $\\text{H}_2\\text{SO}_4$ has 2 replaceable hydrogen ions."
+    },
+    {
+      "id": "CHEM_2010_37",
+      "text": "\"Matter is neither created nor destroyed during a chemical reaction\" is the Law of:",
+      "image": "",
+      "options": ["Definite Proportions", "Multiple Proportions", "Conservation of Mass", "Reciprocal Proportions"],
+      "answer": "Conservation of Mass",
+      "explanation": "This is the fundamental statement of the Law of Conservation of Mass (Lavoisier)."
+    },
+    {
+      "id": "CHEM_2010_38",
+      "text": "Transition metals are characterized by their ability to:",
+      "image": "",
+      "options": ["Form coloured ions", "Form only +1 ions", "React violently with water", "Act as strong reducing agents only"],
+      "answer": "Form coloured ions",
+      "explanation": "Characteristic properties of transition metals include forming coloured compounds, variable oxidation states, and catalytic activity."
+    },
+    {
+      "id": "CHEM_2010_39",
+      "text": "The maximum number of electrons in the 'L' shell ($n=2$) is:",
+      "image": "",
+      "options": ["2", "8", "18", "32"],
+      "answer": "8",
+      "explanation": "Maximum electrons = $2n^2$. For $n=2$ (L shell), $2(2^2) = 2(4) = 8$."
+    },
+    {
+      "id": "CHEM_2010_40",
+      "text": "Which of the following molecules has a linear shape?",
+      "image": "[Molecular geometry of CO2]",
+      "options": ["$\\text{CH}_4$", "$\\text{H}_2\\text{O}$", "$\\text{NH}_3$", "$\\text{CO}_2$"],
+      "answer": "$\\text{CO}_2$",
+      "explanation": "Carbon dioxide has two double bonds and no lone pairs on the central carbon atom, resulting in a linear geometry ($180^\\circ$)."
+    }
+]

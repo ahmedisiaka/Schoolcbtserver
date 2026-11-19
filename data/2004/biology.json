@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2004_01",
+      "text": "The major function of the $\\text{Red}$ blood cells is to:",
+      "image": "[Diagram of a Red Blood Cell and Oxygen transport]",
+      "options": [
+        "Produce $\\text{Antibodies}$",
+        "Transport $\\text{Oxygen}$ to tissues",
+        "Engulf foreign particles",
+        "Initiate blood clotting"
+      ],
+      "answer": "Transport $\\text{Oxygen}$ to tissues",
+      "explanation": "Red blood cells (erythrocytes) contain $\\text{Haemoglobin}$, a protein that binds reversibly with $\\text{Oxygen}$ in the lungs and releases it to the body tissues."
+    },
+    {
+      "id": "BIO_2004_02",
+      "text": "The part of the kidney responsible for the reabsorption of $\\text{Glucose}$ and amino acids is the:",
+      "image": "[Diagram of a Nephron highlighting the Proximal Convoluted Tubule]",
+      "options": [
+        "Bowman's capsule",
+        "Glomerulus",
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule"
+      ],
+      "answer": "Proximal convoluted tubule",
+      "explanation": "The $\\text{Proximal Convoluted Tubule (PCT)}$ is the primary site for the reabsorption of essential substances like $\\text{Glucose}$, amino acids, and water back into the blood from the filtrate."
+    },
+    {
+      "id": "BIO_2004_03",
+      "text": "Which of the following processes occurs during photosynthesis?",
+      "image": "[Diagram of a chloroplast showing light and dark reactions]",
+      "options": [
+        "Release of $\\text{Carbon}$ dioxide",
+        "Absorption of $\\text{Oxygen}$",
+        "Conversion of light energy into chemical energy",
+        "Conversion of $\\text{Starch}$ to $\\text{Glucose}$"
+      ],
+      "answer": "Conversion of light energy into chemical energy",
+      "explanation": "Photosynthesis involves the capture of light energy by $\\text{Chlorophyll}$ and its conversion into the chemical energy stored in $\\text{Glucose}$."
+    },
+    {
+      "id": "BIO_2004_04",
+      "text": "The main excretory product of insects is:",
+      "image": "",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": "Uric acid",
+      "explanation": "Insects conserve water by excreting nitrogenous waste as insoluble $\\text{Uric}$ acid, which requires minimal water loss."
+    },
+    {
+      "id": "BIO_2004_05",
+      "text": "The ability of an organism to keep its body temperature constant, irrespective of the external temperature, is called:",
+      "image": "",
+      "options": [
+        "Poikilothermy",
+        "Homeothermy",
+        "Osmoregulation",
+        "Thermotaxis"
+      ],
+      "answer": "Homeothermy",
+      "explanation": "Homeotherms (warm-blooded animals like birds and mammals) maintain a constant internal body temperature ($\text{Homeostasis}$), contrasting with $\\text{Poikilotherms}$ (cold-blooded animals)."
+    },
+    {
+      "id": "BIO_2004_06",
+      "text": "The part of the plant embryo that develops into the root system is the:",
+      "image": "[Diagram of a seed showing the embryo structure]",
+      "options": [
+        "Plumule",
+        "Radicle",
+        "Cotyledon",
+        "Micropyle"
+      ],
+      "answer": "Radicle",
+      "explanation": "The $\\text{Radicle}$ is the embryonic root, which is the first part of a seed to emerge during germination and develops into the primary root."
+    },
+    {
+      "id": "BIO_2004_07",
+      "text": "A specialized cell responsible for transmitting impulses in the nervous system is the:",
+      "image": "[Diagram of a Neuron structure]",
+      "options": [
+        "Epithelial cell",
+        "Neuron (Nerve cell)",
+        "Muscle cell",
+        "Glial cell"
+      ],
+      "answer": "Neuron (Nerve cell)",
+      "explanation": "Neurons are the functional units of the nervous system, transmitting electrical and chemical signals (impulses) throughout the body."
+    },
+    {
+      "id": "BIO_2004_08",
+      "text": "The site of aerobic respiration in a cell is the:",
+      "image": "[Diagram of a Mitochondrion]",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are often called the 'powerhouses' of the cell, as they are the organelles where the bulk of $\\text{ATP}$ is produced through aerobic respiration."
+    },
+    {
+      "id": "BIO_2004_09",
+      "text": "Which of the following is the final product of protein digestion?",
+      "image": "[Diagram illustrating protein breakdown to amino acids]",
+      "options": [
+        "Glycerol",
+        "Fatty acids",
+        "Amino acids",
+        "Simple sugars"
+      ],
+      "answer": "Amino acids",
+      "explanation": "Proteins are broken down by proteases into their monomer units, amino acids, which are then absorbed into the bloodstream."
+    },
+    {
+      "id": "BIO_2004_10",
+      "text": "An organism that feeds on dead organic matter is called a:",
+      "image": "",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Decomposer (Saprophyte)",
+        "Omnivore"
+      ],
+      "answer": "Decomposer (Saprophyte)",
+      "explanation": "Decomposers (like bacteria and fungi) and $\\text{Detritivores}$ (like earthworms) break down dead/decaying organisms, releasing nutrients back into the ecosystem."
+    },
+    {
+      "id": "BIO_2004_11",
+      "text": "A limiting factor in photosynthesis at high light intensity is usually the concentration of:",
+      "image": "[Graph showing rate of photosynthesis vs. $\\text{CO}_2$ concentration]",
+      "options": [
+        "Water",
+        "Oxygen",
+        "Nitrate",
+        "Carbon dioxide ($\\text{CO}_2$)"
+      ],
+      "answer": "Carbon dioxide ($\\text{CO}_2$)",
+      "explanation": "Under conditions of optimal light and temperature, the rate of photosynthesis is often limited by the availability of $\\text{Carbon}$ dioxide in the atmosphere."
+    },
+    {
+      "id": "BIO_2004_12",
+      "text": "The exchange of gases in insects takes place through a network of tubes called:",
+      "image": "[Diagram of the insect tracheal system]",
+      "options": [
+        "Gills",
+        "Tracheae",
+        "Spiracles",
+        "Lungs"
+      ],
+      "answer": "Tracheae",
+      "explanation": "Insects use a tracheal system, where air enters via $\\text{Spiracles}$ and flows through $\\text{Tracheae}$ (the network of tubes) and $\\text{Tracheoles}$ to supply body cells directly with $\\text{Oxygen}$."
+    },
+    {
+      "id": "BIO_2004_13",
+      "text": "Which of these is a characteristic feature of Monocotyledonous plants?",
+      "image": "[Diagram comparing Monocot and Dicot leaves and roots]",
+      "options": [
+        "Netted leaf venation",
+        "Vascular bundles in a ring",
+        "Tap root system",
+        "Parallel leaf venation"
+      ],
+      "answer": "Parallel leaf venation",
+      "explanation": "Monocots (like grasses and maize) typically have leaves with parallel veins, while $\\text{Dicots}$ have a net-like ($\text{Reticulate}$) venation."
+    },
+    {
+      "id": "BIO_2004_14",
+      "text": "The function of the $\\text{Stomata}$ in a leaf is to:",
+      "image": "[Micrograph of Stomata and Guard Cells]",
+      "options": [
+        "Absorb light energy",
+        "Store water",
+        "Control gas exchange and transpiration",
+        "Transport water and nutrients"
+      ],
+      "answer": "Control gas exchange and transpiration",
+      "explanation": "Stomata are small pores, primarily on the leaf underside, regulated by $\\text{Guard}$ cells, controlling the passage of $\\text{CO}_2$, $\\text{O}_2$, and water vapour ($\text{Transpiration}$). "
+    },
+    {
+      "id": "BIO_2004_15",
+      "text": "In a food chain, the position occupied by an organism is known as its:",
+      "image": "[Diagram of a simple food chain showing trophic levels]",
+      "options": [
+        "Niche",
+        "Habitat",
+        "Trophic level",
+        "Ecosystem"
+      ],
+      "answer": "Trophic level",
+      "explanation": "The $\\text{Trophic}$ level defines an organism's feeding position in a food chain (e.g., Producer, Primary $\\text{Consumer}$, Secondary $\\text{Consumer}$, etc.)."
+    },
+    {
+      "id": "BIO_2004_16",
+      "text": "The part of the human brain that controls voluntary muscle movements is the:",
+      "image": "[Diagram of the human brain highlighting the Cerebrum]",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Hypothalamus",
+        "Cerebrum"
+      ],
+      "answer": "Cerebrum",
+      "explanation": "The $\\text{Cerebrum}$ is the largest part of the brain and is responsible for higher-level functions, including voluntary movements, thought, memory, and sensation."
+    },
+    {
+      "id": "BIO_2004_17",
+      "text": "The condition caused by the lack of $\\text{Insulin}$ hormone in the body is:",
+      "image": "",
+      "options": [
+        "Goitre",
+        "Diabetes mellitus",
+        "Acromegaly",
+        "Addison's disease"
+      ],
+      "answer": "Diabetes mellitus",
+      "explanation": "$\\text{Diabetes mellitus}$ (Type 1) results from the body's inability to produce or properly use $\\text{Insulin}$, leading to high blood $\\text{Glucose}$ levels."
+    },
+    {
+      "id": "BIO_2004_18",
+      "text": "The relationship between a tapeworm and a human is an example of:",
+      "image": "[Diagram illustrating the Tapeworm life cycle in a human host]",
+      "options": [
+        "Commensalism",
+        "Mutualism",
+        "Parasitism",
+        "Saprophytism"
+      ],
+      "answer": "Parasitism",
+      "explanation": "Parasitism is a relationship where one organism (the parasite, $\\text{Tapeworm}$) benefits at the expense of the other (the host, $\\text{Human}$)."
+    },
+    {
+      "id": "BIO_2004_19",
+      "text": "What is the genetic cross between an individual of unknown genotype and a homozygous recessive individual called?",
+      "image": "[Punnett square of a Test Cross example]",
+      "options": [
+        "Back cross",
+        "Test cross",
+        "Dihybrid cross",
+        "Self cross"
+      ],
+      "answer": "Test cross",
+      "explanation": "A $\\text{Test Cross}$ is specifically used to determine the unknown genotype of an individual displaying the dominant phenotype by crossing it with a homozygous recessive individual."
+    },
+    {
+      "id": "BIO_2004_20",
+      "text": "Which organelle is responsible for the detoxification of drugs and poisons in liver cells?",
+      "image": "[Diagram of the Smooth Endoplasmic Reticulum]",
+      "options": [
+        "Rough $\\text{Endoplasmic Reticulum}$",
+        "Smooth $\\text{Endoplasmic Reticulum}$ (SER)",
+        "Lysosome",
+        "Vacuole"
+      ],
+      "answer": "Smooth $\\text{Endoplasmic Reticulum}$ (SER)",
+      "explanation": "The $\\text{SER}$ is rich in enzymes that metabolize lipids and detoxify various substances, particularly in liver cells."
+    },
+    {
+      "id": "BIO_2004_21",
+      "text": "The major storage compound of carbohydrates in animals is:",
+      "image": "[Molecular structure of Glycogen]",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Fructose"
+      ],
+      "answer": "Glycogen",
+      "explanation": "Glycogen is a polysaccharide that serves as the primary energy storage form in animal and fungal cells, stored mainly in the liver and muscles."
+    },
+    {
+      "id": "BIO_2004_22",
+      "text": "In the mechanism of breathing in mammals, the $\\text{Diaphragm}$ contracts and flattens during:",
+      "image": "[Diagram comparing inhalation and exhalation]",
+      "options": [
+        "Exhalation",
+        "Resting",
+        "Inhalation (Inspiration)",
+        "Coughing"
+      ],
+      "answer": "Inhalation (Inspiration)",
+      "explanation": "The contraction and flattening of the $\\text{Diaphragm}$ increases the volume of the thoracic cavity, decreasing pressure and causing air to rush into the lungs."
+    },
+    {
+      "id": "BIO_2004_23",
+      "text": "The male reproductive organ in a flowering plant that contains the pollen grains is the:",
+      "image": "[Diagram of a Stamen (Anther and Filament)]",
+      "options": [
+        "Stigma",
+        "Style",
+        "Ovary",
+        "Anther"
+      ],
+      "answer": "Anther",
+      "explanation": "The $\\text{Stamen}$ consists of the $\\text{Filament}$ and the $\\text{Anther}$. The $\\text{Anther}$ is the structure that produces and holds the $\\text{Pollen}$ grains (male gametophytes)."
+    },
+    {
+      "id": "BIO_2004_24",
+      "text": "Which of these features is a characteristic adaptation of birds for flight?",
+      "image": "",
+      "options": [
+        "Scaly skin",
+        "Presence of diaphragm",
+        "Streamlined body and hollow bones",
+        "External ears"
+      ],
+      "answer": "Streamlined body and hollow bones",
+      "explanation": "Birds have a $\\text{Streamlined}$ body shape to reduce air resistance and $\\text{Pneumatic}$ (hollow) bones to reduce body weight, both essential for flight."
+    },
+    {
+      "id": "BIO_2004_25",
+      "text": "The gradual change in a species over a long period of time is known as:",
+      "image": "[Diagram illustrating the theory of Natural Selection/Evolution]",
+      "options": [
+        "Speciation",
+        "Extinction",
+        "Adaptation",
+        "Evolution"
+      ],
+      "answer": "Evolution",
+      "explanation": "Evolution is the process by which populations of organisms change over the course of generations, often leading to the rise of new species ($\text{Speciation}$)."
+    },
+    {
+      "id": "BIO_2004_26",
+      "text": "A plant is placed in a concentrated salt solution. The cell loses water and the cell membrane pulls away from the cell wall. This condition is called:",
+      "image": "[Diagram showing a plant cell undergoing Plasmolysis]",
+      "options": [
+        "Turgidity",
+        "Haemolysis",
+        "Plasmolysis",
+        "Crenation"
+      ],
+      "answer": "Plasmolysis",
+      "explanation": "$\\text{Plasmolysis}$ is the contraction of the protoplast of a plant cell as a result of water loss by osmosis when the cell is placed in a hypertonic (concentrated) solution."
+    },
+    {
+      "id": "BIO_2004_27",
+      "text": "The simplest type of nervous system found in organisms like $\\text{Hydra}$ is the:",
+      "image": "[Diagram of the Nerve Net in Hydra]",
+      "options": [
+        "Central nervous system",
+        "Peripheral nervous system",
+        "Nerve net",
+        "Ganglia"
+      ],
+      "answer": "Nerve net",
+      "explanation": "A $\\text{Nerve Net}$ is a diffuse, non-centralized network of nerve cells, representing the most primitive form of nervous system organization."
+    },
+    {
+      "id": "BIO_2004_28",
+      "text": "The structure in the human eye that controls the amount of light entering the eye is the:",
+      "image": "[Diagram of the human eye highlighting the Iris and Pupil]",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Lens",
+        "Iris"
+      ],
+      "answer": "Iris",
+      "explanation": "The $\\text{Iris}$ is the pigmented, muscular part of the eye that regulates the size of the $\\text{Pupil}$ (the opening) to control the amount of light reaching the $\\text{Retina}$."
+    },
+    {
+      "id": "BIO_2004_29",
+      "text": "Which of these is a vestigial organ in humans?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Appendix",
+        "Liver",
+        "Lungs"
+      ],
+      "answer": "Appendix",
+      "explanation": "A $\\text{Vestigial}$ organ is an organ that has lost its original function through evolution. The $\\text{Appendix}$ is widely considered a vestigial structure in humans."
+    },
+    {
+      "id": "BIO_2004_30",
+      "text": "The ultimate source of energy for nearly all ecosystems is:",
+      "image": "[Diagram of energy flow in an ecosystem, starting with the sun]",
+      "options": [
+        "Wind",
+        "Chemical bonds in $\\text{Glucose}$",
+        "Solar energy (Sunlight)",
+        "Geothermal energy"
+      ],
+      "answer": "Solar energy (Sunlight)",
+      "explanation": "Most ecosystems are powered by the Sun; $\\text{Producers}$ (plants and algae) capture $\\text{Solar}$ energy via photosynthesis and convert it to chemical energy."
+    },
+    {
+      "id": "BIO_2004_31",
+      "text": "In genetics, the physical appearance of an organism as determined by its genes is called its:",
+      "image": "[Diagram comparing Genotype and Phenotype]",
+      "options": [
+        "Allele",
+        "Genotype",
+        "Locus",
+        "Phenotype"
+      ],
+      "answer": "Phenotype",
+      "explanation": "The $\\text{Phenotype}$ is the observable trait or physical expression of the genetic makeup ($\text{Genotype}$) of an organism."
+    },
+    {
+      "id": "BIO_2004_32",
+      "text": "Which of the following is a function of the $\\text{Cytoplasm}$?",
+      "image": "[Diagram of a cell showing the Cytoplasm]",
+      "options": [
+        "Control all cellular activities",
+        "Store genetic material",
+        "Site of anaerobic respiration and glycolysis",
+        "Synthesize protein"
+      ],
+      "answer": "Site of anaerobic respiration and glycolysis",
+      "explanation": "The $\\text{Cytoplasm}$ (specifically the $\\text{Cytosol}$) is the site for many metabolic processes, including the initial stage of $\\text{Cellular Respiration}$ ($\text{Glycolysis}$), which is anaerobic."
+    },
+    {
+      "id": "BIO_2004_33",
+      "text": "The main substance that causes soil acidity is:",
+      "image": "",
+      "options": [
+        "Sodium chloride",
+        "Potassium hydroxide",
+        "Humic acid and carbon dioxide dissolved in water",
+        "Calcium carbonate"
+      ],
+      "answer": "Humic acid and carbon dioxide dissolved in water",
+      "explanation": "Organic matter decomposition produces $\\text{Humic}$ acids, and the dissolution of atmospheric $\\text{CO}_2$ in rainwater forms $\\text{Carbonic}$ acid, both contributing significantly to soil acidity."
+    },
+    {
+      "id": "BIO_2004_34",
+      "text": "A seedling bends towards light due to the unequal distribution of:",
+      "image": "[Diagram illustrating Auxin movement in response to light (Phototropism)]",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Auxin",
+        "Abscisic acid"
+      ],
+      "answer": "Auxin",
+      "explanation": "Light causes the plant hormone $\\text{Auxin}$ to migrate to the shaded side of the shoot, where it promotes cell elongation, causing the shoot to bend towards the light ($\text{Positive Phototropism}$)."
+    },
+    {
+      "id": "BIO_2004_35",
+      "text": "Which class of vertebrates is characterized by having dry, scaly skin and laying eggs on land?",
+      "image": "",
+      "options": [
+        "Amphibia",
+        "Pisces (Fish)",
+        "Reptilia",
+        "Aves (Birds)"
+      ],
+      "answer": "Reptilia",
+      "explanation": "Reptiles are characterized by $\\text{Dry}$, $\\text{Scaly}$ skin and the production of $\\text{Amniotic}$ eggs, enabling them to complete their life cycle entirely on land."
+    },
+    {
+      "id": "BIO_2004_36",
+      "text": "The primary role of decomposers in an ecosystem is to:",
+      "image": "",
+      "options": [
+        "Produce food via photosynthesis",
+        "Regulate population size",
+        "Break down dead organisms and recycle nutrients",
+        "Consume primary consumers"
+      ],
+      "answer": "Break down dead organisms and recycle nutrients",
+      "explanation": "Decomposers (bacteria and fungi) are essential for breaking down complex organic matter into simple inorganic nutrients, making them available for $\\text{Producers}$."
+    },
+    {
+      "id": "BIO_2004_37",
+      "text": "Which of the following describes the difference between $\\text{Mitosis}$ and $\\text{Meiosis}$?",
+      "image": "[Diagram comparing Mitosis and Meiosis products and division stages]",
+      "options": [
+        "Mitosis produces diploid cells, $\\text{Meiosis}$ produces haploid cells",
+        "Mitosis occurs in sex cells, $\\text{Meiosis}$ occurs in somatic cells",
+        "Mitosis results in genetic variation, $\\text{Meiosis}$ does not",
+        "Mitosis involves two cell divisions, $\\text{Meiosis}$ involves one"
+      ],
+      "answer": "Mitosis produces diploid cells, $\\text{Meiosis}$ produces haploid cells",
+      "explanation": "$\\text{Mitosis}$ produces two genetically identical $\\text{Diploid}$ ($\text{2n}$) daughter cells; $\\text{Meiosis}$ produces four genetically different $\\text{Haploid}$ ($\text{n}$) cells (gametes)."
+    },
+    {
+      "id": "BIO_2004_38",
+      "text": "The circulatory system of a fish is described as:",
+      "image": "[Diagram of the single circulatory system in a fish]",
+      "options": [
+        "Double and closed",
+        "Single and open",
+        "Single and closed",
+        "Double and open"
+      ],
+      "answer": "Single and closed",
+      "explanation": "In fish, blood passes through the heart only once per complete circuit of the body (single circulation), and it is contained within blood vessels (closed circulation)."
+    },
+    {
+      "id": "BIO_2004_39",
+      "text": "The transmission of hereditary characters from parents to offspring is governed by:",
+      "image": "",
+      "options": [
+        "Ecology",
+        "Hormones",
+        "Variation",
+        "Genes"
+      ],
+      "answer": "Genes",
+      "explanation": "$\\text{Genes}$ (segments of $\\text{DNA}$) are the fundamental units of inheritance that code for traits and are passed from one generation to the next."
+    },
+    {
+      "id": "BIO_2004_40",
+      "text": "Which process is NOT associated with the human digestive system?",
+      "image": "",
+      "options": [
+        "Ingestion",
+        "Peristalsis",
+        "Photosynthesis",
+        "Assimilation"
+      ],
+      "answer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which plants convert light energy into chemical energy, and it does not occur in the human digestive system."
+    }
+  ]

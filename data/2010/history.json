@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "Which ancient civilization developed the writing system known as $\\textbf{Cuneiform}$?",
+        "image": "",
+        "options": [
+            "The Egyptians",
+            "The Sumerians",
+            "The Greeks",
+            "The Romans"
+        ],
+        "answer": "The Sumerians",
+        "explanation": "Developed in Mesopotamia, Cuneiform is one of the earliest known systems of writing, characterized by wedge-shaped marks."
+    },
+    {
+        "id": "H02",
+        "text": "The $\\textbf{Great Pyramid of Giza}$ was built as a tomb for which Pharaoh?",
+        "image": "",
+        "options": [
+            "Tutankhamun",
+            "Ramses II",
+            "Khufu",
+            "Akhenaten"
+        ],
+        "answer": "Khufu",
+        "explanation": "It is the oldest and largest of the three pyramids in the Giza pyramid complex."
+    },
+    {
+        "id": "H03",
+        "text": "Who is the central figure of Christianity, believed by Christians to be the $\\textbf{Son of God}$?",
+        "image": "",
+        "options": [
+            "Paul the Apostle",
+            "Peter",
+            "Jesus of Nazareth",
+            "John the Baptist"
+        ],
+        "answer": "Jesus of Nazareth",
+        "explanation": "Jesus represents the central figure of Christianity, and his life and teachings are recorded in the New Testament."
+    },
+    {
+        "id": "H04",
+        "text": "The $\\textbf{Pax Romana}$ was a long period of relative peace and stability experienced by the:",
+        "image": "",
+        "options": [
+            "Greek Empire",
+            "Roman Empire",
+            "Persian Empire",
+            "Ottoman Empire"
+        ],
+        "answer": "Roman Empire",
+        "explanation": "It lasted for approximately 206 years, from 27 BC to 180 AD, starting with the reign of Augustus."
+    },
+    {
+        "id": "H05",
+        "text": "Which barbarian leader is famous for sacking Rome in 410 AD?",
+        "image": "",
+        "options": [
+            "Attila the Hun",
+            "Alaric I",
+            "Odoacer",
+            "Genseric"
+        ],
+        "answer": "Alaric I",
+        "explanation": "Alaric was the King of the Visigoths, and his sack of Rome was a decisive event in the decline of the Roman Empire."
+    },
+    {
+        "id": "H06",
+        "text": "The prophet $\\textbf{Muhammad}$ founded which major world religion in the 7th century?",
+        "image": "",
+        "options": [
+            "Judaism",
+            "Christianity",
+            "Islam",
+            "Buddhism"
+        ],
+        "answer": "Islam",
+        "explanation": "Muhammad united Arabia into a single Muslim polity, with the Quran becoming the basis of Islam."
+    },
+    {
+        "id": "H07",
+        "text": "Which Frankish king was crowned $\\textbf{Emperor of the Romans}$ on Christmas Day, 800 AD?",
+        "image": "",
+        "options": [
+            "Clovis",
+            "Pepin the Short",
+            "Charlemagne",
+            "Louis the Pious"
+        ],
+        "answer": "Charlemagne",
+        "explanation": "Charlemagne's coronation united much of Western Europe and laid the foundations for modern France and Germany."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Vikings}$ were seafaring warriors and explorers originally from:",
+        "image": "",
+        "options": [
+            "Scandinavia",
+            "The British Isles",
+            "Normandy",
+            "Russia"
+        ],
+        "answer": "Scandinavia",
+        "explanation": "During the Viking Age (late 8th to late 11th centuries), they raided and traded across Europe and beyond."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Magna Carta}$ was signed in 1215 at Runnymede by:",
+        "image": "",
+        "options": [
+            "King Henry II",
+            "King Richard I",
+            "King John",
+            "King Edward I"
+        ],
+        "answer": "King John",
+        "explanation": "It was the first document to put into writing the principle that the king and his government were not above the law."
+    },
+    {
+        "id": "H10",
+        "text": "Who was the Venetian merchant who traveled the $\\textbf{Silk Road}$ to China in the 13th century?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Marco Polo",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Marco Polo",
+        "explanation": "His travels are recorded in 'The Travels of Marco Polo', introducing Europeans to Central Asia and China."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Renaissance}$ began in the city-states of which country?",
+        "image": "",
+        "options": [
+            "France",
+            "England",
+            "Italy",
+            "Spain"
+        ],
+        "answer": "Italy",
+        "explanation": "Florence is often cited as the birthplace of the Renaissance, a period of great cultural change and achievement."
+    },
+    {
+        "id": "H12",
+        "text": "Which German monk initiated the $\\textbf{Protestant Reformation}$ in 1517?",
+        "image": "",
+        "options": [
+            "John Calvin",
+            "Martin Luther",
+            "Henry VIII",
+            "Erasmus"
+        ],
+        "answer": "Martin Luther",
+        "explanation": "Luther's '95 Theses' criticized the Catholic Church's sale of indulgences."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Spanish Armada}$ was defeated by the English navy in:",
+        "image": "",
+        "options": [
+            "1492",
+            "1588",
+            "1666",
+            "1805"
+        ],
+        "answer": "1588",
+        "explanation": "The defeat prevented a Spanish invasion of England and boosted the prestige of Queen Elizabeth I."
+    },
+    {
+        "id": "H14",
+        "text": "The first permanent English settlement in North America was established at $\\textbf{Jamestown}$ in:",
+        "image": "",
+        "options": [
+            "1492",
+            "1588",
+            "1607",
+            "1620"
+        ],
+        "answer": "1607",
+        "explanation": "Located in Virginia, it was the first successful English colony in the New World."
+    },
+    {
+        "id": "H15",
+        "text": "Who discovered the law of $\\textbf{Universal Gravitation}$?",
+        "image": "",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton",
+        "explanation": "Newton formulated the laws of motion and universal gravitation, dominating scientists' view of the physical universe."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Declaration of Independence}$ was adopted by the Continental Congress on:",
+        "image": "",
+        "options": [
+            "July 4, 1776",
+            "April 19, 1775",
+            "September 17, 1787",
+            "January 1, 1863"
+        ],
+        "answer": "July 4, 1776",
+        "explanation": "It announced that the thirteen American colonies regarded themselves as independent sovereign states."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{French Revolution}$ began with the storming of which prison fortress?",
+        "image": "",
+        "options": [
+            "The Tower of London",
+            "The Bastille",
+            "Alcatraz",
+            "Château d'If"
+        ],
+        "answer": "The Bastille",
+        "explanation": "On July 14, 1789, the medieval fortress was stormed, signaling the start of the revolution."
+    },
+    {
+        "id": "H18",
+        "text": "Who sold the $\\textbf{Louisiana Territory}$ to the United States in 1803?",
+        "image": "",
+        "options": [
+            "King George III",
+            "Napoleon Bonaparte",
+            "Tsar Alexander I",
+            "King Ferdinand VII"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "France sold the territory to the US for $15 million to fund its wars in Europe."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Battle of Waterloo}$ (1815) marked the final defeat of:",
+        "image": "",
+        "options": [
+            "The Duke of Wellington",
+            "Napoleon Bonaparte",
+            "Gebhard Leberecht von Blücher",
+            "Horatio Nelson"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Napoleon was exiled to the island of Saint Helena following his defeat."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{Industrial Revolution}$ saw the transition to new manufacturing processes using:",
+        "image": "",
+        "options": [
+            "Wind Power",
+            "Steam Power",
+            "Solar Power",
+            "Nuclear Power"
+        ],
+        "answer": "Steam Power",
+        "explanation": "The development of the steam engine, particularly by James Watt, was pivotal."
+    },
+    {
+        "id": "H21",
+        "text": "Who was President of the United States during the $\\textbf{Civil War}$?",
+        "image": "",
+        "options": [
+            "Andrew Jackson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant",
+            "Jefferson Davis"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Lincoln led the nation through the war and issued the Emancipation Proclamation."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Telephone}$ was patented by which inventor in 1876?",
+        "image": "",
+        "options": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell",
+        "explanation": "Bell was the first to be awarded a US patent for the telephone."
+    },
+    {
+        "id": "H23",
+        "text": "Who made the first controlled, powered flight of an airplane in $\\textbf{1903}$?",
+        "image": "",
+        "options": [
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "The Wright Brothers",
+            "Howard Hughes"
+        ],
+        "answer": "The Wright Brothers",
+        "explanation": "Orville and Wilbur Wright achieved the feat at Kitty Hawk, North Carolina."
+    },
+    {
+        "id": "H24",
+        "text": "The passenger liner $\\textbf{RMS Titanic}$ sank in 1912 after hitting:",
+        "image": "",
+        "options": [
+            "A reef",
+            "A mine",
+            "An iceberg",
+            "Another ship"
+        ],
+        "answer": "An iceberg",
+        "explanation": "The 'unsinkable' ship sank on its maiden voyage, claiming over 1,500 lives."
+    },
+    {
+        "id": "H25",
+        "text": "The assassination of $\\textbf{Archduke Franz Ferdinand}$ sparked which war?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "His assassination in Sarajevo set off a chain reaction of alliances leading to global war."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Russian Revolution}$ of 1917 led to the rise of which political party?",
+        "image": "",
+        "options": [
+            "The Nazi Party",
+            "The Bolsheviks",
+            "The Mensheviks",
+            "The Jacobins"
+        ],
+        "answer": "The Bolsheviks",
+        "explanation": "Led by Vladimir Lenin, the Bolsheviks seized power and established the Soviet Union."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Great Depression}$ began with the stock market crash in:",
+        "image": "",
+        "options": [
+            "1919",
+            "1929",
+            "1939",
+            "1945"
+        ],
+        "answer": "1929",
+        "explanation": "The crash on Wall Street triggered a worldwide economic downturn."
+    },
+    {
+        "id": "H28",
+        "text": "Who was the dictator of $\\textbf{Nazi Germany}$ during World War II?",
+        "image": "",
+        "options": [
+            "Benito Mussolini",
+            "Joseph Stalin",
+            "Adolf Hitler",
+            "Hideki Tojo"
+        ],
+        "answer": "Adolf Hitler",
+        "explanation": "Hitler's aggressive foreign policy and racial ideologies led to WWII and the Holocaust."
+    },
+    {
+        "id": "H29",
+        "text": "The attack on $\\textbf{Pearl Harbor}$ in 1941 brought which country into World War II?",
+        "image": "",
+        "options": [
+            "The United Kingdom",
+            "The Soviet Union",
+            "The United States",
+            "China"
+        ],
+        "answer": "The United States",
+        "explanation": "The surprise Japanese attack led the US to declare war on Japan the following day."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{D-Day}$ landings in 1944 took place on the coast of:",
+        "image": "",
+        "options": [
+            "Italy",
+            "Germany",
+            "Normandy (France)",
+            "North Africa"
+        ],
+        "answer": "Normandy (France)",
+        "explanation": "It was the largest seaborne invasion in history and began the liberation of German-occupied France."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Cold War}$ was a period of geopolitical tension between:",
+        "image": "",
+        "options": [
+            "The US and UK",
+            "The US and China",
+            "The US and the Soviet Union",
+            "Germany and France"
+        ],
+        "answer": "The US and the Soviet Union",
+        "explanation": "Lasting from roughly 1947 to 1991, it involved proxy wars, nuclear arms races, and space races."
+    },
+    {
+        "id": "H32",
+        "text": "Who was the first man to walk on the $\\textbf{Moon}$?",
+        "image": "",
+        "options": [
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "John Glenn"
+        ],
+        "answer": "Neil Armstrong",
+        "explanation": "Armstrong stepped onto the moon on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Berlin Wall}$ fell in which year?",
+        "image": "",
+        "options": [
+            "1961",
+            "1989",
+            "1991",
+            "2001"
+        ],
+        "answer": "1989",
+        "explanation": "The fall of the wall symbolized the end of the Cold War and the reunification of Germany."
+    },
+    {
+        "id": "H34",
+        "text": "Who was the leader of the $\\textbf{Civil Rights Movement}$ in the US known for nonviolent protest?",
+        "image": "",
+        "options": [
+            "Malcolm X",
+            "Martin Luther King Jr.",
+            "Thurgood Marshall",
+            "Rosa Parks"
+        ],
+        "answer": "Martin Luther King Jr.",
+        "explanation": "Dr. King led the movement to end racial segregation and discrimination through civil disobedience."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Apartheid}$ system was dismantled in South Africa in the early 1990s under the leadership of:",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Steve Biko",
+            "Thabo Mbeki"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela was released from prison in 1990 and elected the first black president in 1994."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{internet}$ originated from which US military network?",
+        "image": "",
+        "options": [
+            "SKYNET",
+            "ARPANET",
+            "ETHERNET",
+            "NSFNET"
+        ],
+        "answer": "ARPANET",
+        "explanation": "Developed in the late 1960s, ARPANET was the first network to implement the TCP/IP protocol suite."
+    },
+    {
+        "id": "H37",
+        "text": "Which ancient wonder was located in $\\textbf{Alexandria}$, Egypt?",
+        "image": "",
+        "options": [
+            "The Hanging Gardens",
+            "The Colossus",
+            "The Lighthouse (Pharos)",
+            "The Temple of Artemis"
+        ],
+        "answer": "The Lighthouse (Pharos)",
+        "explanation": "It was one of the tallest man-made structures in the world for many centuries."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Black Death}$ arrived in Europe in the 14th century via:",
+        "image": "",
+        "options": [
+            "Silk Road trade routes",
+            "Viking raids",
+            "The Crusades",
+            "Spanish explorers"
+        ],
+        "answer": "Silk Road trade routes",
+        "explanation": "It was carried by fleas on rats on merchant ships arriving from the Black Sea."
+    },
+    {
+        "id": "H39",
+        "text": "Who painted the $\\textbf{Mona Lisa}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "This Renaissance masterpiece is one of the most famous paintings in the world."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Panama Canal}$ connects which two oceans?",
+        "image": "",
+        "options": [
+            "Atlantic and Indian",
+            "Pacific and Indian",
+            "Atlantic and Pacific",
+            "Arctic and Atlantic"
+        ],
+        "answer": "Atlantic and Pacific",
+        "explanation": "Completed in 1914, it allows ships to pass between the two oceans without sailing around South America."
+    }
+]

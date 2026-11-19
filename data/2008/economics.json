@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E2007",
+        "text": "Which major U.S. investment bank was the $\\textbf{first}$ $\\textbf{to}$ $\\textbf{fail}$ in the crisis's critical phase, acquired by JPMorgan Chase in March 2008 with assistance from the Federal Reserve?",
+        "image": "",
+        "options": [
+            "Lehman Brothers",
+            "Merrill Lynch",
+            "Bear Stearns",
+            "Morgan Stanley"
+        ],
+        "answer": "Bear Stearns",
+        "explanation": "The near-collapse and subsequent acquisition of Bear Stearns in March 2008 was the first major alarm signal that the crisis was entering a systemic phase."
+    },
+    {
+        "id": "E2008",
+        "text": "The U.S. government provided an initial $85 billion loan to which global insurance and financial services firm in September 2008 to prevent its collapse, fearing its failure would trigger massive counterparty losses?",
+        "image": "",
+        "options": [
+            "Citigroup",
+            "American International Group (AIG)",
+            "General Motors (GM)",
+            "Fannie Mae"
+        ],
+        "answer": "American International Group (AIG)",
+        "explanation": "AIG's failure was feared because of the vast amount of Credit Default Swaps (CDS) it had written, which essentially insured banks against losses on toxic assets globally."
+    },
+    {
+        "id": "E2009",
+        "text": "The $\\textbf{first}$ $\\textbf{round}$ of $\\textbf{Quantitative}$ $\\textbf{Easing}$ ($\textbf{QE1}$), initiated in late 2008, primarily involved the Federal Reserve purchasing large quantities of what specific asset to directly support the housing market?",
+        "image": "",
+        "options": [
+            "Corporate Stocks",
+            "Municipal Bonds",
+            "Foreign Currency",
+            "Mortgage-Backed Securities (MBS)"
+        ],
+        "answer": "Mortgage-Backed Securities (MBS)",
+        "explanation": "By purchasing MBS, the Fed aimed to lower mortgage rates, inject liquidity into the housing finance system, and repair the market for these complex assets."
+    },
+    {
+        "id": "E2010",
+        "text": "In December 2008, the Federal Reserve cut the Federal Funds Rate target to the $\\textbf{zero}$ $\\textbf{lower}$ $\\textbf{bound}$, signaling the end of conventional monetary policy. What was this target range?",
+        "image": "",
+        "options": [
+            "3.00% to 3.25%",
+            "1.00% to 1.25%",
+            "0.00% to 0.25%",
+            "Negative 0.25% to 0.00%"
+        ],
+        "answer": "0.00% to 0.25%",
+        "explanation": "The Fed's move to the zero lower bound forced them to rely on unconventional tools like QE to provide further stimulus."
+    },
+    {
+        "id": "E2011",
+        "text": "The $\\textbf{initial}$ goal of the $700 billion $\\textbf{TARP}$ was to buy toxic assets. However, the $\\textbf{primary}$ $\\textbf{use}$ it was put to was **injecting capital (recapitalization)** directly into banks. Why did the Treasury change its strategy?",
+        "image": "",
+        "options": [
+            "It was politically unpopular to buy assets",
+            "Buying assets was too complex and slow",
+            "TARP legislation required a change in focus",
+            "The Treasury ran out of money"
+        ],
+        "answer": "Buying assets was too complex and slow",
+        "explanation": "Treasury Secretary Paulson realized that the immediate problem was banks' solvency and confidence, which could be fixed faster by injecting capital rather than valuing and buying complex toxic assets."
+    },
+    {
+        "id": "E2012",
+        "text": "The U.S. stock market (S&P 500) suffered its $\\textbf{worst}$ $\\textbf{month}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{crisis}$ in terms of percentage losses, reflecting peak market fear and uncertainty, during which month of 2008?",
+        "image": "",
+        "options": [
+            "March 2008 (Bear Stearns)",
+            "September 2008 (Lehman Collapse)",
+            "October 2008",
+            "December 2008 (ZIRP)"
+        ],
+        "answer": "October 2008",
+        "explanation": "While September saw the major institutional failures, the market absorbed and reacted to the full implications in October, resulting in the steepest monthly decline of the crisis."
+    },
+    {
+        "id": "E2013",
+        "text": "The U.S. unemployment rate began its sharp ascent in 2008 as the crisis hit the real economy. By $\\textbf{December}$ $\\textbf{2008}$, the unemployment rate had reached approximately:",
+        "image": "",
+        "options": [
+            "5.0%",
+            "7.2%",
+            "9.5%",
+            "10.8%"
+        ],
+        "answer": "7.2%",
+        "explanation": "The unemployment rate in December 2008 was 7.2%, up from 5.0% in December 2007. It continued to rise, peaking over 10% in late 2009."
+    },
+    {
+        "id": "E2014",
+        "text": "The immediate market reaction to the failure of Lehman Brothers was a sharp increase in the $\\textbf{TED}$ $\\textbf{Spread}$ ($\textbf{Treasury}$ $\textbf{yield}$ $\textbf{minus}$ $\\textbf{LIBOR}$), which is a key measure of what kind of financial risk?",
+        "image": "",
+        "options": [
+            "Exchange Rate Risk",
+            "Credit Risk/Interbank Distrust",
+            "Liquidity Risk in Treasury Bonds",
+            "Inflation Risk"
+        ],
+        "answer": "Credit Risk/Interbank Distrust",
+        "explanation": "The spike in the TED Spread showed that banks lost trust in each other and required a much higher premium (LIBOR) to lend unsecured funds than the risk-free Treasury rate."
+    },
+    {
+        "id": "E2015",
+        "text": "Following the Lehman collapse, which two major investment banks immediately converted to $\\textbf{bank}$ $\\textbf{holding}$ $\\textbf{companies}$ to gain access to the Fed's $\\textbf{Discount}$ $\\textbf{Window}$ and traditional deposit funding?",
+        "image": "",
+        "options": [
+            "Lehman and Bear Stearns",
+            "Merrill Lynch and Wachovia",
+            "Goldman Sachs and Morgan Stanley",
+            "AIG and Fannie Mae"
+        ],
+        "answer": "Goldman Sachs and Morgan Stanley",
+        "explanation": "Converting to bank holding companies provided them with the ability to take deposits and, critically, access the stable liquidity provided by the Federal Reserve, a backstop denied to pure investment banks."
+    },
+    {
+        "id": "E2016",
+        "text": "The failure of the $\\textbf{Reserve}$ $\textbf{Primary}$ $\textbf{Fund}$ in September 2008 led to a run on which crucial part of the shadow banking system, forcing a government guarantee?",
+        "image": "",
+        "options": [
+            "Pension Funds",
+            "Hedge Funds",
+            "Money Market Mutual Funds",
+            "Private Equity Firms"
+        ],
+        "answer": "Money Market Mutual Funds",
+        "explanation": "The Reserve Primary Fund 'broke the buck' (its net asset value fell below $1.00), causing panicked withdrawals from MMFs, which were critical for corporate funding."
+    },
+    {
+        "id": "E2017",
+        "text": "The term $\\textbf{Toxic}$ $\textbf{Assets}$ that TARP was intended to purchase refers primarily to which category of illiquid debt products?",
+        "image": "",
+        "options": [
+            "Corporate Junk Bonds",
+            "Mortgage-related debt (MBS and CDOs)",
+            "Commercial Real Estate (CRE) loans",
+            "Auto Loans"
+        ],
+        "answer": "Mortgage-related debt (MBS and CDOs)",
+        "explanation": "These complex securities, whose value was derived from failing subprime mortgages, were the hardest to price and sell, thus 'toxic' to bank balance sheets."
+    },
+    {
+        "id": "E2018",
+        "text": "In February 2008, before the crisis climaxed, Congress passed the $\\textbf{Economic}$ $\\textbf{Stimulus}$ $\\textbf{Act}$ $\\textbf{of}$ $\\textbf{2008}$, which focused primarily on what type of fiscal injection?",
+        "image": "",
+        "options": [
+            "Infrastructure spending",
+            "Tax rebates to households",
+            "Corporate tax cuts",
+            "Increased military spending"
+        ],
+        "answer": "Tax rebates to households",
+        "explanation": "This was a pre-crisis fiscal effort to combat a slowdown, primarily through checks sent to taxpayers to boost consumer spending."
+    },
+    {
+        "id": "E2019",
+        "text": "To address the global shortage of U.S. Dollars ($\textbf{dollar}$ $\textbf{shortage}$), the Fed initiated $\\textbf{currency}$ $\\textbf{swap}$ $\\textbf{lines}$ with foreign central banks. What did these swaps provide to foreign banks?",
+        "image": "",
+        "options": [
+            "Foreign central bank reserves",
+            "U.S. Dollar liquidity",
+            "Gold reserves",
+            "New trading platforms"
+        ],
+        "answer": "U.S. Dollar liquidity",
+        "explanation": "Many international banks needed dollars to fund their own operations and debt. The swaps allowed foreign central banks to provide dollar loans to their local banks in exchange for their own currency."
+    },
+    {
+        "id": "E2020",
+        "text": "The primary $\\textbf{economic}$ $\textbf{concept}$ that drove government and Fed intervention in 2008 was the fear of $\\textbf{Systemic}$ $\textbf{Risk}$, which is:",
+        "image": "",
+        "options": [
+            "The risk of high inflation",
+            "The risk that a local crisis will affect only one sector",
+            "The risk that the failure of one institution could cascade through and collapse the entire system",
+            "The risk of trade imbalance"
+        ],
+        "answer": "The risk that the failure of one institution could cascade through and collapse the entire system",
+        "explanation": "Systemic risk was the justification for bailouts like AIG and the massive financial aid packages."
+    },
+    {
+        "id": "E2021",
+        "text": "The $\\textbf{Repurchase}$ $\textbf{Agreement}$ ($\textbf{Repo}$ $\textbf{market}$) was the key short-term funding source that dried up for investment banks like Lehman Brothers, forcing them into a liquidity crisis. What type of borrowing is the repo market?",
+        "image": "",
+        "options": [
+            "Unsecured long-term bonds",
+            "Short-term secured borrowing against collateral",
+            "Equity financing",
+            "Interbank unsecured lending"
+        ],
+        "answer": "Short-term secured borrowing against collateral",
+        "explanation": "In the repo market, a borrower sells securities (collateral) and agrees to buy them back later at a slightly higher price (the interest). When confidence collapsed, lenders refused to accept the collateral."
+    },
+    {
+        "id": "E2022",
+        "text": "In March 2008, the Fed created the $\\textbf{Term}$ $\textbf{Securities}$ $\\textbf{Lending}$ $\\textbf{Facility}$ ($\textbf{TSLF}$), allowing primary dealers to borrow Treasury securities in exchange for what type of collateral?",
+        "image": "",
+        "options": [
+            "Corporate stock",
+            "Less liquid, high-risk collateral",
+            "Gold",
+            "Foreign government bonds"
+        ],
+        "answer": "Less liquid, high-risk collateral",
+        "explanation": "This mechanism allowed dealers to temporarily swap their hard-to-sell assets for liquid Treasuries, helping them manage their balance sheets and short-term obligations."
+    },
+    {
+        "id": "E2023",
+        "text": "A major wave of $\\textbf{subprime}$ $\\textbf{defaults}$ peaked in 2008, primarily because high volumes of $\\textbf{Adjustable}$ $\\textbf{Rate}$ $\textbf{Mortgages}$ ($\textbf{ARMs}$) hit their $\\textbf{reset}$ $\textbf{dates}$, resulting in:",
+        "image": "",
+        "options": [
+            "Low inflation",
+            "Payment shock",
+            "Interest rate caps",
+            "Massive tax rebates"
+        ],
+        "answer": "Payment shock",
+        "explanation": "ARMs featured low 'teaser rates' for the first two years, after which the payments jumped dramatically (payment shock), leading to mass defaults as borrowers couldn't afford the new rate."
+    },
+    {
+        "id": "E2024",
+        "text": "The $\\textbf{LIBOR}$ ($\textbf{London}$ $\textbf{Interbank}$ $\textbf{Offered}$ $\textbf{Rate}$) peaked dramatically after Lehman's failure, demonstrating maximum concern over **counterparty risk**, which is defined as:",
+        "image": "",
+        "options": [
+            "The risk of a foreign default",
+            "The risk that the party on the other side of a financial transaction will default",
+            "The risk of currency fluctuations",
+            "The risk of rising interest rates"
+        ],
+        "answer": "The risk that the party on the other side of a financial transaction will default",
+        "explanation": "Banks did not trust that the banks they were lending to would pay them back, hence the refusal to lend unsecured funds and the resulting spike in the LIBOR rate."
+    },
+    {
+        "id": "E2025",
+        "text": "The $\\textbf{VIX}$ $\\textbf{Index}$ (the market's 'fear gauge') hit its highest level in history in $\\textbf{October}$ $\\textbf{2008}$. What does the VIX measure?",
+        "image": "",
+        "options": [
+            "Average Treasury yield",
+            "Implied volatility of the S&P 500",
+            "The price of gold",
+            "Global trade volume"
+        ],
+        "answer": "Implied volatility of the S&P 500",
+        "explanation": "The VIX measures expected market volatility over the next 30 days, derived from option prices. Its historic spike showed extreme investor anxiety."
+    },
+    {
+        "id": "E2026",
+        "text": "The U.S. $\\textbf{GDP}$ $\textbf{contraction}$ $\\textbf{was}$ $\\textbf{most}$ $\textbf{severe}$ at the end of the year, with the annualized rate of decline reaching approximately 8.4% in which quarter of 2008?",
+        "image": "",
+        "options": [
+            "Q1 2008",
+            "Q2 2008",
+            "Q3 2008",
+            "Q4 2008"
+        ],
+        "answer": "Q4 2008",
+        "explanation": "The fourth quarter of 2008, following the September panic, saw the most brutal economic shrinkage as lending seized up and consumption plummeted."
+    },
+    {
+        "id": "E2027",
+        "text": "In late 2008, the U.S. government initiated the $\\textbf{Auto}$ $\textbf{Industry}$ $\\textbf{Bailout}$ as the crisis spread beyond finance, saving which major companies from immediate collapse?",
+        "image": "",
+        "options": [
+            "Apple and Microsoft",
+            "General Motors (GM) and Chrysler",
+            "Boeing and Lockheed Martin",
+            "Exxon Mobil and Chevron"
+        ],
+        "answer": "General Motors (GM) and Chrysler",
+        "explanation": "Fearing mass job losses and further economic collapse, the government approved emergency loans for GM and Chrysler near the end of the year."
+    },
+    {
+        "id": "E2028",
+        "text": "The complex financial instruments that AIG sold in large quantities, effectively $\\textbf{insuring}$ $\textbf{against}$ $\textbf{the}$ $\textbf{default}$ of MBS and CDOs, were known as:",
+        "image": "",
+        "options": [
+            "Futures Contracts",
+            "Credit Default Swaps (CDS)",
+            "Exchange Traded Funds (ETFs)",
+            "Sovereign Bonds"
+        ],
+        "answer": "Credit Default Swaps (CDS)",
+        "explanation": "AIG was the largest seller of CDS, a form of insurance. When the underlying mortgages defaulted, AIG was unable to meet its obligations, requiring the bailout."
+    },
+    {
+        "id": "E2029",
+        "text": "Following the Lehman collapse, the SEC temporarily banned $\\textbf{short}$ $\textbf{selling}$ of financial stocks. The rationale for this ban was to:",
+        "image": "",
+        "options": [
+            "Increase corporate taxes",
+            "Curb panic and prevent manipulative trading practices against financial firms",
+            "Lower interest rates",
+            "Increase foreign investment"
+        ],
+        "answer": "Curb panic and prevent manipulative trading practices against financial firms",
+        "explanation": "The SEC hoped that by removing the ability to bet on the decline of banks, it would restore confidence and prevent fire sales of bank stocks."
+    },
+    {
+        "id": "E2030",
+        "text": "What was the unexpected trend in U.S. $\\textbf{Headline}$ $\textbf{Inflation}$ in the second half of 2008, following the summer peak in oil prices?",
+        "image": "",
+        "options": [
+            "Continued acceleration",
+            "Stagflation",
+            "Sharp decline and fear of deflation",
+            "Remained stable at high levels"
+        ],
+        "answer": "Sharp decline and fear of deflation",
+        "explanation": "The massive drop in oil prices and the sudden collapse in global demand caused overall price levels to fall rapidly, shifting the Fed's concern from inflation to deflation."
+    },
+    {
+        "id": "E2031",
+        "text": "The $\\textbf{Commercial}$ $\textbf{Paper}$ $\textbf{Funding}$ $\textbf{Facility}$ ($\textbf{CPFF}$) was launched by the Fed in October 2008 to restart which critical short-term debt market that corporations rely on for payroll and operating expenses?",
+        "image": "",
+        "options": [
+            "The Treasury bond market",
+            "The Municipal bond market",
+            "The Commercial Paper market",
+            "The Repo market"
+        ],
+        "answer": "The Commercial Paper market",
+        "explanation": "Commercial paper is short-term, unsecured debt issued by large corporations. When this market froze, the Fed stepped in to act as a buyer of last resort, ensuring companies could continue operations."
+    },
+    {
+        "id": "E2032",
+        "text": "The decision to $\\textbf{let}$ $\\textbf{Lehman}$ $\\textbf{Brothers}$ $\\textbf{fail}$ while bailing out AIG was heavily debated and criticized, but was partly driven by concerns over what economic principle?",
+        "image": "",
+        "options": [
+            "Comparative Advantage",
+            "Moral Hazard",
+            "Laffer Curve",
+            "Diminishing Returns"
+        ],
+        "answer": "Moral Hazard",
+        "explanation": "Regulators feared that bailing out every failing institution would encourage excessive risk-taking in the future (moral hazard), but the resulting panic showed the systemic costs of letting a major bank fail."
+    },
+    {
+        "id": "E2033",
+        "text": "The practice of major $\\textbf{credit}$ $\textbf{rating}$ $\textbf{agencies}$ awarding $\\textbf{AAA}$ ratings to complex, risky $\\textbf{CDO}$ tranches was a key structural failure of the crisis, severely misleading investors about:",
+        "image": "",
+        "options": [
+            "The tax status of the bonds",
+            "The liquidity of the assets",
+            "The creditworthiness and risk of the assets",
+            "The maturity date of the securities"
+        ],
+        "answer": "The creditworthiness and risk of the assets",
+        "explanation": "Rating agencies failed to accurately assess the risk of the complex CDOs, giving high ratings to products that quickly became worthless when the housing market turned."
+    },
+    {
+        "id": "E2034",
+        "text": "Which major commercial bank acquired $\\textbf{Merrill}$ $\textbf{Lynch}$ in a hastily arranged deal on the same weekend that Lehman Brothers filed for bankruptcy?",
+        "image": "",
+        "options": [
+            "Wells Fargo",
+            "Bank of America",
+            "JPMorgan Chase",
+            "Citigroup"
+        ],
+        "answer": "Bank of America",
+        "explanation": "Bank of America's acquisition of Merrill Lynch was a 'shotgun marriage' arranged by regulators to prevent a second major failure following Lehman's."
+    },
+    {
+        "id": "E2035",
+        "text": "In October 2008, the FDIC temporarily raised the limit on insured bank deposits from $100,000 to what amount to restore public confidence in commercial banks?",
+        "image": "",
+        "options": [
+            "$150,000",
+            "$200,000",
+            "$250,000",
+            "$500,000"
+        ],
+        "answer": "$250,000",
+        "explanation": "The increase in FDIC insurance coverage was a crucial step to prevent bank runs and stabilize the traditional commercial banking system."
+    },
+    {
+        "id": "E2036",
+        "text": "The $\\textbf{flight}$ $\textbf{to}$ $\textbf{safety}$ in 2008 caused a massive influx of investment into **Treasury Securities**, driving their yields to historic lows, indicating:",
+        "image": "",
+        "options": [
+            "High confidence in the U.S. economy",
+            "Extreme risk aversion and demand for safe assets",
+            "A spike in inflation expectations",
+            "A shift toward currency manipulation"
+        ],
+        "answer": "Extreme risk aversion and demand for safe assets",
+        "explanation": "During times of extreme stress, investors sell off risky assets and buy 'safe haven' assets like U.S. government debt, pushing their prices up and their yields down."
+    },
+    {
+        "id": "E2037",
+        "text": "Oil prices reached an all-time high in July 2008, but then experienced a dramatic $\\textbf{collapse}$ in the second half of the year due to:",
+        "image": "",
+        "options": [
+            "A massive drop in global demand and recession fears",
+            "A surge in supply from OPEC",
+            "New renewable energy sources",
+            "Trade wars"
+        ],
+        "answer": "A massive drop in global demand and recession fears",
+        "explanation": "As the global economy headed into recession, the demand for fuel and industrial inputs dropped precipitously, causing oil prices to plummet from nearly $150/barrel to under $40/barrel."
+    },
+    {
+        "id": "E2038",
+        "text": "The $\\textbf{London}$ $\textbf{Interbank}$ $\textbf{Offered}$ $\textbf{Rate}$ ($\textbf{LIBOR}$) in 2008 was discovered to be artificially $\\textbf{low}$ compared to actual transaction rates. This showed that banks were $\\textbf{misrepresenting}$ their:",
+        "image": "",
+        "options": [
+            "Profit margins",
+            "Borrowing costs and financial health",
+            "Executive bonuses",
+            "Marketing budgets"
+        ],
+        "answer": "Borrowing costs and financial health",
+        "explanation": "Banks lowballed their LIBOR submissions to avoid signaling weakness to the market, leading to the later LIBOR scandal."
+    },
+    {
+        "id": "E2039",
+        "text": "The $\\textbf{GDP}$ $\textbf{component}$ that contributed most significantly to the massive economic contraction in 2008 was the decline in **Gross Private Domestic Investment**, specifically in residential investment.",
+        "image": "",
+        "options": [
+            "Government Purchases",
+            "Net Exports",
+            "Consumption",
+            "Gross Private Domestic Investment"
+        ],
+        "answer": "Gross Private Domestic Investment",
+        "explanation": "The halt in housing construction and decline in business investment represented the largest proportional drag on GDP growth."
+    },
+    {
+        "id": "E2040",
+        "text": "The $\\textbf{Lehman}$ $\textbf{Moment}$ in September 2008 demonstrated a complete loss of $\\textbf{liquidity}$ in the interbank market, forcing the $\\textbf{Federal}$ $\textbf{Reserve}$ to become the:",
+        "image": "",
+        "options": [
+            "Market regulator",
+            "Primary bond trader",
+            "Lender of last resort",
+            "Inflation targeter"
+        ],
+        "answer": "Lender of last resort",
+        "explanation": "When banks won't lend to each other, the central bank must step in as the ultimate source of cash to keep the financial system operating."
+    },
+    {
+        "id": "E2041",
+        "text": "The $\\textbf{most}$ $\textbf{complex}$ and riskiest derivatives that bundled tranches of existing CDOs were often referred to as:",
+        "image": "",
+        "options": [
+            "Treasury-backed CDOs",
+            "CDOs squared ($\textbf{CDO}^{2}$)",
+            "Prime-rated CDOs",
+            "Foreign exchange futures"
+        ],
+        "answer": "CDOs squared ($\textbf{CDO}^{2}$)",
+        "explanation": "These 'CDO-squareds' concentrated the risk even further, often with underlying assets of very low quality, leading to catastrophic losses."
+    },
+    {
+        "id": "E2042",
+        "text": "The $\\textbf{monetary}$ $\textbf{policy}$ $\textbf{concern}$ of the Fed shifted dramatically in late 2008 from $\\textbf{Inflation}$ (due to high commodity prices) to $\\textbf{Deflation}$ (due to the collapse in aggregate demand).",
+        "image": "",
+        "options": [
+            "Fiscal deficit",
+            "Trade surplus",
+            "Deflation",
+            "Stagflation"
+        ],
+        "answer": "Deflation",
+        "explanation": "Deflation (a sustained fall in general prices) is feared during recessions because it encourages people to delay purchases, further worsening the economic contraction."
+    },
+    {
+        "id": "E2043",
+        "text": "The U.S. $\\textbf{Current}$ $\textbf{Account}$ $\textbf{Deficit}$ (trade deficit) narrowed significantly in 2008 due to the rapid decline in $\\textbf{U.S.}$ $\textbf{Imports}$ as consumer demand plummeted.",
+        "image": "",
+        "options": [
+            "Widened further",
+            "Remained stable",
+            "Narrowed significantly",
+            "Turned into a surplus"
+        ],
+        "answer": "Narrowed significantly",
+        "explanation": "Recessions always lead to a narrowing of the current account deficit as domestic consumption and demand for foreign goods (imports) collapse."
+    },
+    {
+        "id": "E2044",
+        "text": "The $\\textbf{Great}$ $\textbf{Recession}$ saw the most severe $\\textbf{job}$ $\textbf{losses}$ since the 1930s. The type of unemployment that dominated this period was $\\textbf{Cyclical}$ $\textbf{Unemployment}$.",
+        "image": "",
+        "options": [
+            "Frictional Unemployment",
+            "Structural Unemployment",
+            "Cyclical Unemployment",
+            "Seasonal Unemployment"
+        ],
+        "answer": "Cyclical Unemployment",
+        "explanation": "Cyclical unemployment is caused by the downturn of the business cycle (recession) and is the target of stimulus spending and rate cuts."
+    },
+    {
+        "id": "E2045",
+        "text": "The key vulnerability of the $\\textbf{shadow}$ $\textbf{banking}$ $\textbf{system}$ compared to commercial banks, which led to the crisis, was the lack of $\\textbf{FDIC}$ $\textbf{insurance}$ and direct access to the $\\textbf{Discount}$ $\textbf{Window}$.",
+        "image": "",
+        "options": [
+            "Strict regulations",
+            "FDIC insurance and access to the Discount Window",
+            "Foreign exchange trading",
+            "High capital requirements"
+        ],
+        "answer": "FDIC insurance and access to the Discount Window",
+        "explanation": "Commercial banks have these government backstops, which prevent bank runs and provide liquidity. The lack of these protections made investment banks highly fragile."
+    },
+    {
+        "id": "E2046",
+        "text": "The $\\textbf{Emergency}$ $\\textbf{Economic}$ $\\textbf{Stabilization}$ $\\textbf{Act}$ $\\textbf{of}$ $\\textbf{2008}$ ($\textbf{EESA}$) was the formal name for the legislation that authorized which major financial rescue program?",
+        "image": "",
+        "options": [
+            "The Auto Bailout",
+            "TARP (Troubled Asset Relief Program)",
+            "Quantitative Easing (QE)",
+            "The American Recovery and Reinvestment Act (ARRA)"
+        ],
+        "answer": "TARP (Troubled Asset Relief Program)",
+        "explanation": "EESA was the legislative act that created the $700 billion TARP program."
+    }
+]

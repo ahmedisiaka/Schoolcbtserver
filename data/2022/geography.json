@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In November 2022, the global human $\\textbf{Population}$ officially reached the milestone of $\\textbf{8 Billion}$, a significant demographic event tracked by the $\\textbf{United Nations}$.",
+        "image": "",
+        "options": [
+            "7 Billion",
+            "8 Billion",
+            "9 Billion",
+            "10 Billion"
+        ],
+        "answer": "8 Billion",
+        "explanation": "The UN projected that the world population reached 8 billion on November 15, 2022, marking a major milestone in human development."
+    },
+    {
+        "id": "GEO02",
+        "text": "The country of $\\textbf{Qatar}$, which hosted the 2022 $\\textbf{World Cup}$, is a peninsula located in the $\\textbf{Persian Gulf}$ and shares its only land border with $\\textbf{Saudi Arabia}$.",
+        "image": "",
+        "options": [
+            "United Arab Emirates",
+            "Oman",
+            "Saudi Arabia",
+            "Kuwait"
+        ],
+        "answer": "Saudi Arabia",
+        "explanation": "Qatar is a small peninsula jutting into the Persian Gulf, connected to the Arabian Peninsula solely by its border with Saudi Arabia."
+    },
+    {
+        "id": "GEO03",
+        "text": "Devastating floods in 2022 submerged one-third of $\\textbf{Pakistan}$, caused by record-breaking $\\textbf{Monsoon}$ rains and melting $\\textbf{Glaciers}$.",
+        "image": "",
+        "options": [
+            "India",
+            "Bangladesh",
+            "Pakistan",
+            "Nepal"
+        ],
+        "answer": "Pakistan",
+        "explanation": "The 2022 floods were some of the worst in Pakistan's history, driven by a 'monster monsoon' and glacial melt due to climate change."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Hunga Tonga-Hunga Ha'apai}$ volcano, which had a massive eruption felt globally in early 2022, is an underwater volcano located in the $\\textbf{South Pacific Ocean}$.",
+        "image": "",
+        "options": [
+            "Indian Ocean",
+            "South Pacific Ocean",
+            "Atlantic Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "South Pacific Ocean",
+        "explanation": "The eruption was one of the most powerful recorded in modern history, generating tsunamis and atmospheric shockwaves."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Rhine River}$ in Europe experienced historically low water levels in the summer of 2022 due to severe $\\textbf{Drought}$, disrupting vital $\\textbf{Shipping}$ routes.",
+        "image": "",
+        "options": [
+            "Flooding",
+            "Drought",
+            "Freezing",
+            "Pollution"
+        ],
+        "answer": "Drought",
+        "explanation": "A severe heatwave and drought across Europe caused water levels in major rivers like the Rhine to drop, hindering cargo transport."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{Yellowstone National Park}$ experienced historic $\\textbf{Flooding}$ in June 2022, forcing a temporary closure and destroying bridges in the states of $\\textbf{Wyoming}$ and $\\textbf{Montana}$.",
+        "image": "",
+        "options": [
+            "Yosemite",
+            "Yellowstone",
+            "Grand Canyon",
+            "Zion"
+        ],
+        "answer": "Yellowstone",
+        "explanation": "Heavy rainfall combined with rapid snowmelt caused the Yellowstone River to reach record levels, washing away roads and infrastructure."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{COP27}$ climate summit in late 2022 was held in $\\textbf{Sharm El-Sheikh}$, a resort city located in $\\textbf{Egypt}$ on the southern tip of the $\\textbf{Sinai Peninsula}$.",
+        "image": "",
+        "options": [
+            "Cairo",
+            "Alexandria",
+            "Sharm El-Sheikh",
+            "Luxor"
+        ],
+        "answer": "Sharm El-Sheikh",
+        "explanation": "World leaders gathered here to discuss climate change action, highlighting the city's strategic location between the Red Sea and Mount Sinai."
+    },
+    {
+        "id": "GEO08",
+        "text": "Hurricane $\\textbf{Ian}$ made landfall in September 2022 as a Category 4 storm, causing catastrophic damage primarily in the state of $\\textbf{Florida}$ and the $\\textbf{Caribbean}$.",
+        "image": "",
+        "options": [
+            "Texas",
+            "Louisiana",
+            "Florida",
+            "North Carolina"
+        ],
+        "answer": "Florida",
+        "explanation": "Hurricane Ian was one of the costliest hurricanes in U.S. history, causing massive storm surges in southwestern Florida."
+    },
+    {
+        "id": "GEO09",
+        "text": "The $\\textbf{Endurance}$ shipwreck, discovered in 2022, was found at the bottom of the $\\textbf{Weddell Sea}$ near $\\textbf{Antarctica}$, more than a century after it sank.",
+        "image": "",
+        "options": [
+            "Ross Sea",
+            "Weddell Sea",
+            "Bering Sea",
+            "Sargasso Sea"
+        ],
+        "answer": "Weddell Sea",
+        "explanation": "Sir Ernest Shackleton's ship was found in remarkably good condition due to the cold, oxygen-poor water."
+    },
+    {
+        "id": "GEO10",
+        "text": "The city of $\\textbf{Kyiv}$ is the capital of $\\textbf{Ukraine}$, situated on the $\\textbf{Dnieper River}$ in Eastern Europe.",
+        "image": "",
+        "options": [
+            "Volga River",
+            "Danube River",
+            "Dnieper River",
+            "Thames River"
+        ],
+        "answer": "Dnieper River",
+        "explanation": "Kyiv is an important industrial, scientific, educational, and cultural center of Eastern Europe."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Lake Mead}$ reservoir in the United States reached historically low levels in 2022, revealing sunken boats and threatening the water supply for the $\\textbf{Southwest}$.",
+        "image": "",
+        "options": [
+            "Lake Powell",
+            "Lake Mead",
+            "Lake Tahoe",
+            "Great Salt Lake"
+        ],
+        "answer": "Lake Mead",
+        "explanation": "Formed by the Hoover Dam, it is the largest reservoir in the US by capacity, but a megadrought significantly depleted it."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Nord Stream}$ pipelines, which suffered major leaks due to sabotage in 2022, run under the $\\textbf{Baltic Sea}$ to transport natural gas from Russia to $\\textbf{Germany}$.",
+        "image": "",
+        "options": [
+            "North Sea",
+            "Black Sea",
+            "Baltic Sea",
+            "Mediterranean Sea"
+        ],
+        "answer": "Baltic Sea",
+        "explanation": "The pipelines were a key energy route until the underwater explosions rendered them inoperable."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{San Andreas Fault}$ is a continental transform fault that extends roughly 1,200 kilometers through $\\textbf{California}$.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Oregon",
+            "California",
+            "Washington"
+        ],
+        "answer": "California",
+        "explanation": "It forms the tectonic boundary between the Pacific Plate and the North American Plate."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Kalahari Desert}$ covers much of $\\textbf{Botswana}$ and parts of Namibia and South Africa, characterized by its red sand and semi-arid $\\textbf{Savanna}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Botswana",
+            "Nigeria",
+            "Ethiopia"
+        ],
+        "answer": "Botswana",
+        "explanation": "Unlike true deserts, the Kalahari receives more rainfall, supporting more plant and animal life."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Galápagos Islands}$, famous for their unique wildlife studied by $\\textbf{Charles Darwin}$, are a province of $\\textbf{Ecuador}$ located in the $\\textbf{Pacific Ocean}$.",
+        "image": "",
+        "options": [
+            "Chile",
+            "Peru",
+            "Colombia",
+            "Ecuador"
+        ],
+        "answer": "Ecuador",
+        "explanation": "This archipelago is located about 1,000 km off the coast of South America."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Strait of Dover}$ is the narrowest part of the $\\textbf{English Channel}$, separating Great Britain from continental $\\textbf{Europe}$.",
+        "image": "",
+        "options": [
+            "Strait of Gibraltar",
+            "Strait of Dover",
+            "Strait of Messina",
+            "Strait of Bonifacio"
+        ],
+        "answer": "Strait of Dover",
+        "explanation": "The distance across the strait is only about 33 kilometers (20 miles) to France."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Tibetan Plateau}$, often called the 'Roof of the World', contains the headwaters of major Asian rivers like the $\\textbf{Yangtze}$, $\\textbf{Mekong}$, and $\\textbf{Indus}$.",
+        "image": "",
+        "options": [
+            "Deccan Plateau",
+            "Tibetan Plateau",
+            "Colorado Plateau",
+            "Anatolian Plateau"
+        ],
+        "answer": "Tibetan Plateau",
+        "explanation": "It is the highest and largest plateau in the world, influencing the climate of the entire region."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Pyrenees}$ mountains form a natural border between $\\textbf{Spain}$ and $\\textbf{France}$, and contain the small sovereign state of $\\textbf{Andorra}$.",
+        "image": "",
+        "options": [
+            "Alps",
+            "Pyrenees",
+            "Carpathians",
+            "Apennines"
+        ],
+        "answer": "Pyrenees",
+        "explanation": "This range stretches from the shores of the Mediterranean Sea to the Bay of Biscay."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Yukon River}$ is a major watercourse in North America, flowing through the Canadian territory of Yukon and the US state of $\\textbf{Alaska}$.",
+        "image": "",
+        "options": [
+            "Montana",
+            "Washington",
+            "Alaska",
+            "North Dakota"
+        ],
+        "answer": "Alaska",
+        "explanation": "It was the principal means of transportation during the Klondike Gold Rush."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Black Sea}$ is bordered by six countries: Ukraine, Russia, Georgia, Turkey, Bulgaria, and $\\textbf{Romania}$.",
+        "image": "",
+        "options": [
+            "Greece",
+            "Romania",
+            "Hungary",
+            "Moldova"
+        ],
+        "answer": "Romania",
+        "explanation": "The Black Sea is a marginal sea of the Atlantic Ocean lying between Europe and Western Asia."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Great Victoria Desert}$ is the largest desert in $\\textbf{Australia}$, located in the southern part of the continent.",
+        "image": "",
+        "options": [
+            "Africa",
+            "South America",
+            "Australia",
+            "Asia"
+        ],
+        "answer": "Australia",
+        "explanation": "It is a sparsely populated conservation park and home to Indigenous Australians."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Mesopotamia}$ region, considered a cradle of civilization, corresponds mostly to modern-day $\\textbf{Iraq}$ between the $\\textbf{Tigris}$ and $\\textbf{Euphrates}$ rivers.",
+        "image": "",
+        "options": [
+            "Iran",
+            "Syria",
+            "Iraq",
+            "Jordan"
+        ],
+        "answer": "Iraq",
+        "explanation": "The name Mesopotamia translates to 'land between the rivers' in Greek."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Aurora Borealis}$, or Northern Lights, are most visible in high-latitude regions near the $\\textbf{Arctic Circle}$, caused by solar wind interacting with the $\\textbf{Magnetosphere}$.",
+        "image": "",
+        "options": [
+            "Equator",
+            "Tropic of Cancer",
+            "Arctic Circle",
+            "Antarctic Circle"
+        ],
+        "answer": "Arctic Circle",
+        "explanation": "The corresponding phenomenon in the southern hemisphere is called the Aurora Australis."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Cape of Good Hope}$ is a rocky headland on the Atlantic coast of the $\\textbf{Cape Peninsula}$ in $\\textbf{South Africa}$.",
+        "image": "",
+        "options": [
+            "Horn of Africa",
+            "Cape of Good Hope",
+            "Cape Horn",
+            "Cape Verde"
+        ],
+        "answer": "Cape of Good Hope",
+        "explanation": "It was historically a significant waypoint for ships traveling from Europe to the East."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Lake Baikal}$ in $\\textbf{Russia}$ is the world's deepest and oldest freshwater lake, containing about 20% of the world's unfrozen surface $\\textbf{Fresh Water}$.",
+        "image": "",
+        "options": [
+            "Lake Superior",
+            "Lake Victoria",
+            "Lake Baikal",
+            "Lake Tanganyika"
+        ],
+        "answer": "Lake Baikal",
+        "explanation": "It is located in southern Siberia and is known for its unique biodiversity."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Strait of Magellan}$ is a navigable sea route in southern Chile separating mainland South America from $\\textbf{Tierra del Fuego}$.",
+        "image": "",
+        "options": [
+            "Falkland Islands",
+            "Tierra del Fuego",
+            "Galapagos",
+            "Tasmania"
+        ],
+        "answer": "Tierra del Fuego",
+        "explanation": "It is the most important natural passage between the Atlantic and Pacific oceans, but it is difficult to navigate due to unpredictable winds and currents."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Great Salt Lake}$ in $\\textbf{Utah}$ is the largest saltwater lake in the Western Hemisphere, known for its high $\\textbf{Salinity}$ and fluctuating water levels.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Utah",
+            "Colorado",
+            "Arizona"
+        ],
+        "answer": "Utah",
+        "explanation": "It is a remnant of the prehistoric Lake Bonneville."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Alps}$ are the highest and most extensive mountain range system that lies entirely in $\\textbf{Europe}$, stretching across eight countries including $\\textbf{France}$, $\\textbf{Switzerland}$, and $\\textbf{Italy}$.",
+        "image": "",
+        "options": [
+            "Caucasus",
+            "Ural Mountains",
+            "Alps",
+            "Carpathians"
+        ],
+        "answer": "Alps",
+        "explanation": "Mont Blanc is the highest mountain in the Alps, located on the French-Italian border."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Murray-Darling Basin}$ is the most significant agricultural area in $\\textbf{Australia}$, drained by the Murray and Darling $\\textbf{Rivers}$.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "Canada",
+            "Australia",
+            "United Kingdom"
+        ],
+        "answer": "Australia",
+        "explanation": "This basin produces a large percentage of Australia's food but faces challenges regarding water management."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Cascadia Subduction Zone}$ is a major fault line off the coast of the $\\textbf{Pacific Northwest}$ capable of producing massive $\\textbf{Earthquakes}$ and tsunamis.",
+        "image": "",
+        "options": [
+            "Gulf Coast",
+            "East Coast",
+            "Pacific Northwest",
+            "Midwest"
+        ],
+        "answer": "Pacific Northwest",
+        "explanation": "It stretches from Northern California to British Columbia."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Malay Archipelago}$ is the largest archipelago in the world by area, situated between Mainland $\\textbf{Southeast Asia}$ and $\\textbf{Australia}$.",
+        "image": "",
+        "options": [
+            "Japanese Archipelago",
+            "Malay Archipelago",
+            "Philippine Archipelago",
+            "Canadian Arctic Archipelago"
+        ],
+        "answer": "Malay Archipelago",
+        "explanation": "It includes countries such as Indonesia, the Philippines, Singapore, Brunei, Malaysia, and East Timor."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Namib Desert}$ is a coastal desert in $\\textbf{Southern Africa}$ considered to be the oldest desert in the world, known for its high sand $\\textbf{Dunes}$.",
+        "image": "",
+        "options": [
+            "Sahara",
+            "Namib",
+            "Kalahari",
+            "Gobi"
+        ],
+        "answer": "Namib",
+        "explanation": "The name 'Namib' is of Nama origin and means 'vast place'."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Seine River}$ flows through the heart of $\\textbf{Paris}$, dividing the city into the Left Bank and the Right Bank before emptying into the $\\textbf{English Channel}$.",
+        "image": "",
+        "options": [
+            "London",
+            "Berlin",
+            "Paris",
+            "Madrid"
+        ],
+        "answer": "Paris",
+        "explanation": "It is a commercial waterway and a source of water for the city, as well as a major tourist attraction."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Southern Ocean}$, officially recognized by the National Geographic Society in 2021 (and relevant in 2022 maps), encircles $\\textbf{Antarctica}$.",
+        "image": "",
+        "options": [
+            "Arctic Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Atlantic Ocean"
+        ],
+        "answer": "Southern Ocean",
+        "explanation": "It comprises the southernmost waters of the World Ocean, distinct for its rapid current known as the Antarctic Circumpolar Current."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Caribbean Sea}$ is a sea of the Atlantic Ocean in the tropics of the Western Hemisphere, bounded by $\\textbf{Mexico}$ and $\\textbf{Central America}$ to the west and south.",
+        "image": "",
+        "options": [
+            "Mediterranean Sea",
+            "Tasman Sea",
+            "Caribbean Sea",
+            "Coral Sea"
+        ],
+        "answer": "Caribbean Sea",
+        "explanation": "It is home to over 7,000 islands, islets, reefs, and cays."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Volga River}$ is the longest river in $\\textbf{Europe}$, flowing through central Russia and into the $\\textbf{Caspian Sea}$.",
+        "image": "",
+        "options": [
+            "Danube",
+            "Volga",
+            "Ural",
+            "Dnieper"
+        ],
+        "answer": "Volga",
+        "explanation": "It is widely viewed as the national river of Russia, with many major cities, including Moscow, located in its basin."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Tasman Sea}$ is a marginal sea of the South Pacific Ocean, situated between $\\textbf{Australia}$ and $\\textbf{New Zealand}$.",
+        "image": "",
+        "options": [
+            "Coral Sea",
+            "Tasman Sea",
+            "Arafura Sea",
+            "Timor Sea"
+        ],
+        "answer": "Tasman Sea",
+        "explanation": "It is named after the Dutch explorer Abel Tasman, who was the first recorded European to encounter New Zealand and Tasmania."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Yucatán Peninsula}$ in southeastern $\\textbf{Mexico}$ separates the $\\textbf{Caribbean Sea}$ from the $\\textbf{Gulf of Mexico}$ and was home to the $\\textbf{Maya Civilization}$.",
+        "image": "",
+        "options": [
+            "Baja California",
+            "Yucatán Peninsula",
+            "Florida Peninsula",
+            "Iberian Peninsula"
+        ],
+        "answer": "Yucatán Peninsula",
+        "explanation": "It is known for its limestone geology, resulting in many cenotes (sinkholes)."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Mojave Desert}$ is an arid rain-shadow desert and the driest desert in $\\textbf{North America}$, located primarily in southeastern $\\textbf{California}$.",
+        "image": "",
+        "options": [
+            "Sonoran Desert",
+            "Chihuahuan Desert",
+            "Mojave Desert",
+            "Great Basin Desert"
+        ],
+        "answer": "Mojave Desert",
+        "explanation": "It is famous for the Joshua Tree, which is native only to this area."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Indus River}$ is one of the longest rivers in Asia, originating in the $\\textbf{Tibetan Plateau}$ and flowing through $\\textbf{Pakistan}$ into the $\\textbf{Arabian Sea}$.",
+        "image": "",
+        "options": [
+            "Ganges",
+            "Brahmaputra",
+            "Indus",
+            "Mekong"
+        ],
+        "answer": "Indus",
+        "explanation": "It provides key water resources for Pakistan's economy, particularly its breadbasket province of Punjab."
+    }
+]

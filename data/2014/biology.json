@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2014_01",
+      "text": "The $\\text{Cell}$ $\\text{Organelle}$ responsible for $\\text{Packaging}$ and $\\text{Modifying}$ $\\text{Proteins}$ for secretion is the:",
+      "image": "[Diagram of the Golgi Apparatus showing cisternae and transport vesicles]",
+      "options": [
+        "Endoplasmic $\\text{Reticulum}$",
+        "Nucleus",
+        "Mitochondrion",
+        "Golgi $\\text{Complex}$ ($\\text{Apparatus}$)"
+      ],
+      "answer": "Golgi $\\text{Complex}$ ($\\text{Apparatus}$)",
+      "explanation": "The $\\text{Golgi}$ $\\text{Complex}$ processes, $\\text{Sorts}$, and $\\text{Packages}$ $\\text{Macromolecules}$ like $\\text{Proteins}$ and $\\text{Lipids}$ into $\\text{Vesicles}$ for delivery to other organelles or secretion out of the cell."
+    },
+    {
+      "id": "BIO_2014_02",
+      "text": "Which of the following is the $\\text{Final}$ $\\text{Product}$ of $\\text{Anaerobic}$ $\\text{Respiration}$ in $\\text{Yeast}$?",
+      "image": "[Chemical equation for alcoholic fermentation]",
+      "options": [
+        "Lactic $\\text{Acid}$",
+        "Carbon $\\text{Dioxide}$ and $\\text{Water}$",
+        "Ethanol and $\\text{Carbon}$ $\\text{Dioxide}$",
+        "Glucose"
+      ],
+      "answer": "Ethanol and $\\text{Carbon}$ $\\text{Dioxide}$",
+      "explanation": "In $\\text{Yeast}$ (a $\\text{Fungus}$), anaerobic respiration (alcoholic $\\text{Fermentation}$) produces $\\text{Ethanol}$ ($\text{C}_2\\text{H}_5\\text{OH}$) and $\\text{Carbon}$ $\\text{Dioxide}$ ($\text{CO}_2$)."
+    },
+    {
+      "id": "BIO_2014_03",
+      "text": "The $\\text{Structure}$ that prevents the $\\text{Backflow}$ of $\\text{Blood}$ in the $\\text{Veins}$ is the:",
+      "image": "[Diagram of a vein with valves open and closed]",
+      "options": [
+        "Capillary $\\text{Network}$",
+        "Arteriole",
+        "Thick $\\text{Muscular}$ $\\text{Wall}$",
+        "Valve"
+      ],
+      "answer": "Valve",
+      "explanation": "Veins carry blood back to the heart, often against gravity, and have $\\text{One}$-$\\text{Way}$ $\\text{Valves}$ that ensure blood flows in the correct direction and prevent $\\text{Pooling}$ or $\\text{Backflow}$."
+    },
+    {
+      "id": "BIO_2014_04",
+      "text": "Which of the following hormones is directly responsible for the $\\text{Maturation}$ of $\\text{Follicles}$ in the $\\text{Ovary}$?",
+      "image": "[Diagram illustrating the effect of FSH and LH on the ovarian cycle]",
+      "options": [
+        "Progesterone",
+        "Luteinizing $\\text{Hormone}$ ($\text{LH}$)",
+        "Follicle $\\text{Stimulating}$ $\\text{Hormone}$ ($\text{FSH}$)",
+        "Adrenaline"
+      ],
+      "answer": "Follicle $\\text{Stimulating}$ $\\text{Hormone}$ ($\text{FSH}$)",
+      "explanation": "$\\text{FSH}$ is secreted by the $\\text{Pituitary}$ $\\text{Gland}$ and primarily stimulates the growth and maturation of the ovarian $\\text{Follicles}$."
+    },
+    {
+      "id": "BIO_2014_05",
+      "text": "The $\\text{Process}$ of $\\text{Fusion}$ of $\\text{Male}$ and $\\text{Female}$ $\\text{Gametes}$ in $\\text{Flowering}$ $\\text{Plants}$ is called:",
+      "image": "[Diagram of Double Fertilization in flowering plants]",
+      "options": [
+        "Pollination",
+        "Germination",
+        "Fertilization",
+        "Dispersal"
+      ],
+      "answer": "Fertilization",
+      "explanation": "$\\text{Fertilization}$ is the sexual reproduction process where the $\\text{Nucleus}$ of the $\\text{Pollen}$ $\\text{Grain}$ (male gamete) $\\text{Fuses}$ with the $\\text{Ovule}$ (female gamete) to form a $\\text{Zygote}$."
+    },
+    {
+      "id": "BIO_2014_06",
+      "text": "The presence of $\\text{Scales}$ in reptiles is primarily an adaptation for:",
+      "image": "",
+      "options": [
+        "Locomotion",
+        "Offense and $\\text{Defense}$",
+        "Minimizing $\\text{Water}$ $\\text{Loss}$",
+        "Sensitivity to $\\text{Touch}$"
+      ],
+      "answer": "Minimizing $\\text{Water}$ $\\text{Loss}$",
+      "explanation": "Reptiles are adapted to terrestrial life. Their $\\text{Keratinous}$ $\\text{Scales}$ form a $\\text{Waterproof}$ layer that significantly reduces $\\text{Evaporation}$, helping in $\\text{Conserving}$ $\\text{Water}$."
+    },
+    {
+      "id": "BIO_2014_07",
+      "text": "Which of these is the $\\text{Habitat}$ of a $\\text{Tapeworm}$ ($\text{Taenia}$ $\\text{spp.}$)?",
+      "image": "[Diagram of a Tapeworm lifecycle showing the human host]",
+      "options": [
+        "Freshwater $\\text{Lakes}$",
+        "Blood $\\text{Vessels}$ of $\\text{Vertebrates}$",
+        "Intestine of $\\text{Mammals}$",
+        "Plant $\\text{Leaves}$"
+      ],
+      "answer": "Intestine of $\\text{Mammals}$",
+      "explanation": "The $\\text{Adult}$ $\\text{Tapeworm}$ is an $\\text{Endoparasite}$ that $\\text{Attaches}$ to the $\\text{Wall}$ of the $\\text{Small}$ $\\text{Intestine}$ in its $\\text{Primary}$ $\\text{Host}$ (often a mammal, including humans)."
+    },
+    {
+      "id": "BIO_2014_08",
+      "text": "The $\\text{Term}$ used to describe the $\\text{Position}$ an $\\text{Organism}$ occupies in a $\\text{Food}$ $\\text{Chain}$ is:",
+      "image": "[Diagram of a food chain showing different trophic levels]",
+      "options": [
+        "Niche",
+        "Trophic $\\text{Level}$",
+        "Ecosystem",
+        "Community"
+      ],
+      "answer": "Trophic $\\text{Level}$",
+      "explanation": "A $\\text{Trophic}$ $\\text{Level}$ is the feeding position in a $\\text{Food}$ $\\text{Chain}$, such as $\\text{Producer}$, $\\text{Primary}$ $\\text{Consumer}$, $\\text{Secondary}$ $\\text{Consumer}$, etc."
+    },
+    {
+      "id": "BIO_2014_09",
+      "text": "The major product of the $\\text{Dark}$ $\\text{Reaction}$ ($\\text{Calvin}$ $\\text{Cycle}$) of $\\text{Photosynthesis}$ is:",
+      "image": "[Diagram of the Calvin Cycle]",
+      "options": [
+        "Water",
+        "Glucose (Sugar)",
+        "Oxygen",
+        "Adenosine $\\text{Triphosphate}$ ($\\text{ATP}$)"
+      ],
+      "answer": "Glucose (Sugar)",
+      "explanation": "The $\\text{Dark}$ $\\text{Reaction}$ uses the $\\text{ATP}$ and $\\text{NADPH}$ from the $\\text{Light}$ $\\text{Reaction}$ to fix $\\text{Carbon}$ $\\text{Dioxide}$ and synthesize $\\text{Sugars}$ (like $\\text{Glucose}$)."
+    },
+    {
+      "id": "BIO_2014_10",
+      "text": "If a tall plant ($\text{TT}$) is crossed with a short plant ($\text{tt}$), what will be the $\\text{Phenotype}$ of the $\\text{F}_1$ $\\text{Generation}$?",
+      "image": "[Punnett square for TT x tt cross]",
+      "options": [
+        "All $\\text{Short}$",
+        "All $\\text{Tall}$",
+        "$50\\%$ $\\text{Tall}$, $50\\%$ $\\text{Short}$",
+        "$75\\%$ $\\text{Tall}$, $25\\%$ $\\text{Short}$"
+      ],
+      "answer": "All $\\text{Tall}$",
+      "explanation": "Crossing $\\text{TT} \\times \\text{tt}$ results in $\\text{All}$ $\\text{Tt}$ offspring. Since $\\text{T}$ (tall) is $\\text{Dominant}$ over $\\text{t}$ (short), all $\\text{F}_1$ offspring will be $\\text{Tall}$."
+    },
+    {
+      "id": "BIO_2014_11",
+      "text": "The $\\text{Gland}$ responsible for the 'fight or flight' response is the:",
+      "image": "[Diagram showing the location of the Adrenal Gland on the Kidney]",
+      "options": [
+        "Thyroid $\\text{Gland}$",
+        "Pituitary $\\text{Gland}$",
+        "Adrenal $\\text{Gland}$",
+        "Pancreas"
+      ],
+      "answer": "Adrenal $\\text{Gland}$",
+      "explanation": "The $\\text{Adrenal}$ $\\text{Medulla}$ releases $\\text{Adrenaline}$ (Epinephrine) and $\\text{Noradrenaline}$, which prepare the body for $\\text{Emergency}$ situations (fight or flight)."
+    },
+    {
+      "id": "BIO_2014_12",
+      "text": "Which of these is $\\text{NOT}$ a characteristic feature of $\\text{Monocotyledonous}$ $\\text{Plants}$?",
+      "image": "[Diagram comparing Monocot and Dicot leaves and root systems]",
+      "options": [
+        "Fibrous $\\text{Root}$ $\\text{System}$",
+        "Parallel $\\text{Venation}$ in $\\text{Leaves}$",
+        "Floral $\\text{Parts}$ in $\\text{Multiples}$ of $\\text{Three}$",
+        "Presence of a $\\text{Taproot}$ $\\text{System}$"
+      ],
+      "answer": "Presence of a $\\text{Taproot}$ $\\text{System}$",
+      "explanation": "$\\text{Monocots}$ typically have a $\\text{Fibrous}$ $\\text{Root}$ $\\text{System}$. $\\text{Taproot}$ systems are characteristic of $\\text{Dicotyledonous}$ $\\text{Plants}$."
+    },
+    {
+      "id": "BIO_2014_13",
+      "text": "The $\\text{Process}$ by which $\\text{Immune}$ $\\text{Cells}$ surround, engulf, and $\\text{Destroy}$ $\\text{Pathogens}$ is called:",
+      "image": "[Microscopic view of a phagocyte engulfing a bacterium]",
+      "options": [
+        "Pinocytosis",
+        "Osmosis",
+        "Phagocytosis",
+        "Diffusion"
+      ],
+      "answer": "Phagocytosis",
+      "explanation": "$\\text{Phagocytosis}$ is a type of $\\text{Endocytosis}$ ('cell eating') where specialized $\\text{White}$ $\\text{Blood}$ $\\text{Cells}$ (like $\\text{Macrophages}$ and $\\text{Neutrophils}$) engulf and degrade foreign particles."
+    },
+    {
+      "id": "BIO_2014_14",
+      "text": "Which part of the $\\text{Eye}$ $\\text{Regulates}$ the $\\text{Amount}$ of $\\text{Light}$ entering the $\\text{Lens}$?",
+      "image": "[Diagram of the human eye showing the Iris and Pupil]",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Ciliary $\\text{Body}$"
+      ],
+      "answer": "Iris",
+      "explanation": "The $\\text{Iris}$ is the $\\text{Coloured}$ part of the eye that contains $\\text{Muscles}$ to $\\text{Control}$ the $\\text{Diameter}$ and $\\text{Size}$ of the $\\text{Pupil}$, thereby regulating the light quantity."
+    },
+    {
+      "id": "BIO_2014_15",
+      "text": "The $\\text{Primary}$ $\\text{Role}$ of $\\text{Decomposers}$ in an $\\text{Ecosystem}$ is to:",
+      "image": "[Diagram of a Food Web showing Decomposers returning nutrients to the soil]",
+      "options": [
+        "Synthesize $\\text{Food}$ from $\\text{Sunlight}$",
+        "Consume $\\text{Living}$ $\\text{Organisms}$",
+        "Convert $\\text{Solar}$ $\\text{Energy}$ into $\\text{Chemical}$ $\\text{Energy}$",
+        "Recycle $\\text{Nutrients}$ from $\\text{Dead}$ $\\text{Organic}$ $\\text{Matter}$"
+      ],
+      "answer": "Recycle $\\text{Nutrients}$ from $\\text{Dead}$ $\\text{Organic}$ $\\text{Matter}$",
+      "explanation": "Decomposers (like bacteria and fungi) break down dead organisms and waste, $\\text{Releasing}$ $\\text{Essential}$ $\\text{Nutrients}$ back into the soil and atmosphere for reuse by $\\text{Producers}$."
+    },
+    {
+      "id": "BIO_2014_16",
+      "text": "The $\\text{Function}$ of $\\text{Bile}$ in the $\\text{Digestive}$ $\\text{System}$ is:",
+      "image": "",
+      "options": [
+        "To $\\text{Digests}$ $\\text{Proteins}$",
+        "To $\\text{Emulsify}$ $\\text{Fats}$",
+        "To $\\text{Neutralize}$ $\\text{Hydrochloric}$ $\\text{Acid}$ only",
+        "To $\\text{Break}$ $\\text{Down}$ $\\text{Carbohydrates}$"
+      ],
+      "answer": "To $\\text{Emulsify}$ $\\text{Fats}$",
+      "explanation": "$\\text{Bile}$ is produced by the $\\text{Liver}$ and stored in the $\\text{Gall}$ $\\text{Bladder}$. It contains $\\text{Bile}$ $\\text{Salts}$ which $\\text{Break}$ $\\text{Large}$ $\\text{Fat}$ $\\text{Globules}$ into $\\text{Smaller}$ $\\text{Droplets}$ ($\text{Emulsification}$), increasing the surface area for $\\text{Lipase}$ action."
+    },
+    {
+      "id": "BIO_2014_17",
+      "text": "The $\\text{Respiratory}$ $\\text{Pigment}$ in $\\text{Insects}$ is:",
+      "image": "",
+      "options": [
+        "Haemoglobin",
+        "Haemocyanin",
+        "Chlorophyll",
+        "None of the $\\text{Above}$"
+      ],
+      "answer": "None of the $\\text{Above}$",
+      "explanation": "Most insects transport $\\text{Oxygen}$ directly to tissues through the $\\text{Tracheal}$ $\\text{System}$ (air tubes) and therefore $\\text{Do}$ $\\text{Not}$ rely on a $\\text{Respiratory}$ $\\text{Pigment}$ (like $\\text{Haemoglobin}$ in vertebrates) dissolved in the $\\text{Haemolymph}$ ($\text{Blood}$)."
+    },
+    {
+      "id": "BIO_2014_18",
+      "text": "The $\\text{Term}$ for a $\\text{Genetic}$ $\\text{Cross}$ involving $\\text{Two}$ $\\text{Pairs}$ of $\\text{Contrasting}$ $\\text{Characters}$ is:",
+      "image": "[Punnett square for a Dihybrid Cross (e.g., RrYy x RrYy)]",
+      "options": [
+        "Test $\\text{Cross}$",
+        "Monohybrid $\\text{Cross}$",
+        "Dihybrid $\\text{Cross}$",
+        "Back $\\text{Cross}$"
+      ],
+      "answer": "Dihybrid $\\text{Cross}$",
+      "explanation": "A $\\text{Dihybrid}$ $\\text{Cross}$ is a cross between two individuals that are $\\text{Heterozygous}$ for $\\text{Two}$ $\\text{Different}$ $\\text{Genes}$ (e.g., $\\text{RrYy} \\times \\text{RrYy}$)."
+    },
+    {
+      "id": "BIO_2014_19",
+      "text": "Which of the following is $\\text{NOT}$ a component of the $\\text{Epidermis}$ of a plant leaf?",
+      "image": "[Cross-section of a leaf showing epidermis, cuticle, guard cells, and mesophyll]",
+      "options": [
+        "Guard $\\text{Cells}$",
+        "Cuticle",
+        "Palisade $\\text{Cells}$",
+        "Stomata"
+      ],
+      "answer": "Palisade $\\text{Cells}$",
+      "explanation": "$\\text{Palisade}$ $\\text{Cells}$ make up the $\\text{Palisade}$ $\\text{Mesophyll}$ $\\text{Layer}$ below the $\\text{Upper}$ $\\text{Epidermis}$ and are the primary site of $\\text{Photosynthesis}$. They are $\\text{Not}$ part of the epidermal layer."
+    },
+    {
+      "id": "BIO_2014_20",
+      "text": "The $\\text{Excretory}$ $\\text{Organ}$ of an $\\text{Earthworm}$ is the:",
+      "image": "[Diagram of an earthworm showing the location of the nephridia]",
+      "options": [
+        "Malpighian $\\text{Tubule}$",
+        "Flame $\\text{Cell}$",
+        "Nephridium",
+        "Kidney"
+      ],
+      "answer": "Nephridium",
+      "explanation": "The $\\text{Nephridia}$ (singular: $\\text{Nephridium}$) are the $\\text{Segmentally}$ $\\text{Arranged}$ $\\text{Excretory}$ $\\text{Organs}$ found in $\\text{Annelids}$ (like the $\\text{Earthworm}$). $\\text{Malpighian}$ $\\text{Tubules}$ are found in $\\text{Insects}$, and $\\text{Flame}$ $\\text{Cells}$ in $\\text{Flatworms}$."
+    },
+    {
+      "id": "BIO_2014_21",
+      "text": "A major adaptation for $\\text{Birds}$ that enables $\\text{Flight}$ is the presence of:",
+      "image": "[Diagram of a bird's skeleton showing the Keel (Carina)]",
+      "options": [
+        "Scales on $\\text{Legs}$",
+        "Pneumatic (Hollow) $\\text{Bones}$",
+        "External $\\text{Ear}$ $\\text{Lobe}$",
+        "Coldbloodedness"
+      ],
+      "answer": "Pneumatic (Hollow) $\\text{Bones}$",
+      "explanation": "$\\text{Pneumatic}$ $\\text{Bones}$ are $\\text{Lightweight}$ and $\\text{Hollow}$, which significantly $\\text{Reduces}$ $\\text{Body}$ $\\text{Weight}$ without compromising strength, a critical adaptation for $\\text{Flight}$."
+    },
+    {
+      "id": "BIO_2014_22",
+      "text": "The $\\text{Layer}$ of $\\text{Forest}$ $\\text{Ecosystem}$ where $\\text{Photosynthesis}$ is $\\text{Most}$ $\\text{Active}$ is the:",
+      "image": "[Diagram of a forest showing different canopy layers]",
+      "options": [
+        "Shrub $\\text{Layer}$",
+        "Canopy $\\text{Layer}$",
+        "Forest $\\text{Floor}$",
+        "Understorey"
+      ],
+      "answer": "Canopy $\\text{Layer}$",
+      "explanation": "The $\\text{Canopy}$ $\\text{Layer}$ consists of the $\\text{Tops}$ of the $\\text{Tallest}$ $\\text{Trees}$ and receives the $\\text{Most}$ $\\text{Sunlight}$, making it the layer where the vast majority of $\\text{Photosynthesis}$ takes place."
+    },
+    {
+      "id": "BIO_2014_23",
+      "text": "The $\\text{Part}$ of the $\\text{Nervous}$ $\\text{System}$ that controls $\\text{Involuntary}$ $\\text{Actions}$ like $\\text{Heartbeat}$ and $\\text{Breathing}$ is the:",
+      "image": "[Diagram of the brain highlighting the Medulla Oblongata]",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla $\\text{Oblongata}$",
+        "Spinal $\\text{Cord}$"
+      ],
+      "answer": "Medulla $\\text{Oblongata}$",
+      "explanation": "The $\\text{Medulla}$ $\\text{Oblongata}$ (part of the $\\text{Brainstem}$) contains the $\\text{Respiratory}$ and $\\text{Cardiovascular}$ $\\text{Control}$ $\\text{Centres}$, regulating essential $\\text{Involuntary}$ $\\text{Life}$ $\\text{Functions}$."
+    },
+    {
+      "id": "BIO_2014_24",
+      "text": "If a $\\text{Food}$ $\\text{Substance}$ turns $\\text{Blue}$-$\\text{Black}$ with $\\text{Iodine}$ $\\text{Solution}$, it indicates the presence of:",
+      "image": "[Image showing a positive iodine test (blue-black color)]",
+      "options": [
+        "Reducing $\\text{Sugar}$",
+        "Protein",
+        "Starch",
+        "Fat"
+      ],
+      "answer": "Starch",
+      "explanation": "The $\\text{Iodine}$ $\\text{Test}$ is used to detect $\\text{Starch}$ (a $\\text{Polysaccharide}$). A $\\text{Positive}$ result is the formation of a $\\text{Blue}$-$\\text{Black}$ $\\text{Colour}$."
+    },
+    {
+      "id": "BIO_2014_25",
+      "text": "The $\\text{Process}$ of $\\text{Shedding}$ the $\\text{Exoskeleton}$ in $\\text{Arthropods}$ is called:",
+      "image": "",
+      "options": [
+        "Metamorphosis",
+        "Ecdysis ($\\text{Molting}$)",
+        "Hibernation",
+        "Egestion"
+      ],
+      "answer": "Ecdysis ($\\text{Molting}$)",
+      "explanation": "$\\text{Ecdysis}$ is the process by which an $\\text{Arthropod}$ $\\text{Sheds}$ its $\\text{Cuticle}$ (exoskeleton) to $\\text{Allow}$ for $\\text{Growth}$. This is necessary because the $\\text{Exoskeleton}$ is $\\text{Rigid}$."
+    },
+    {
+      "id": "BIO_2014_26",
+      "text": "The $\\text{Chemical}$ $\\text{Substance}$ that $\\text{Forms}$ the $\\text{Cell}$ $\\text{Wall}$ of $\\text{Fungi}$ is:",
+      "image": "[Diagram of a fungal cell wall structure]",
+      "options": [
+        "Cellulose",
+        "Peptidoglycan",
+        "Lignin",
+        "Chitin"
+      ],
+      "answer": "Chitin",
+      "explanation": "The cell walls of $\\text{Fungi}$ are primarily composed of $\\text{Chitin}$, a $\\text{Polysaccharide}$ that is also found in the $\\text{Exoskeletons}$ of $\\text{Arthropods}$. $\\text{Cellulose}$ forms the walls of $\\text{Plants}$."
+    },
+    {
+      "id": "BIO_2014_27",
+      "text": "Which of the following is an example of a $\\text{Saprophyte}$?",
+      "image": "",
+      "options": [
+        "Maize $\\text{Plant}$",
+        "Mushroom ($\text{Fungus}$)",
+        "Tapeworm",
+        "Algae"
+      ],
+      "answer": "Mushroom ($\text{Fungus}$)",
+      "explanation": "$\\text{Saprophytes}$ (or $\\text{Saprotrophs}$) obtain $\\text{Nutrients}$ from $\\text{Non}$-$\\text{Living}$ $\\text{Organic}$ $\\text{Matter}$. $\\text{Mushrooms}$ (Fungi) are common examples of $\\text{Decomposers}$."
+    },
+    {
+      "id": "BIO_2014_28",
+      "text": "The $\\text{Process}$ by which $\\text{Water}$ $\\text{Moves}$ across a $\\text{Selectively}$ $\\text{Permeable}$ $\\text{Membrane}$ from a region of $\\text{High}$ $\\text{Water}$ $\\text{Potential}$ to a region of $\\text{Low}$ $\\text{Water}$ $\\text{Potential}$ is:",
+      "image": "[Diagram illustrating the movement of water molecules during osmosis]",
+      "options": [
+        "Diffusion",
+        "Active $\\text{Transport}$",
+        "Osmosis",
+        "Translocation"
+      ],
+      "answer": "Osmosis",
+      "explanation": "$\\text{Osmosis}$ is the $\\text{Specific}$ $\\text{Diffusion}$ of $\\text{Water}$ $\\text{Molecules}$ through a $\\text{Selectively}$ $\\text{Permeable}$ $\\text{Membrane}$, driven by differences in water potential (concentration)."
+    },
+    {
+      "id": "BIO_2014_29",
+      "text": "The $\\text{Deficiency}$ of $\\text{Iodine}$ in the diet of humans causes:",
+      "image": "",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Kwashiorkor",
+        "Goitre"
+      ],
+      "answer": "Goitre",
+      "explanation": "$\\text{Iodine}$ is essential for the production of $\\text{Thyroid}$ $\\text{Hormones}$. $\\text{Iodine}$ $\\text{Deficiency}$ leads to the $\\text{Enlargement}$ of the $\\text{Thyroid}$ $\\text{Gland}$, a condition known as $\\text{Goitre}$."
+    },
+    {
+      "id": "BIO_2014_30",
+      "text": "Which of the following classes of $\\text{Vertebrates}$ are $\\text{Warm}$-$\\text{Blooded}$ ($\text{Homeothermic}$)?",
+      "image": "",
+      "options": [
+        "Reptiles and $\\text{Amphibians}$",
+        "Fishes and $\\text{Reptiles}$",
+        "Mammals and $\\text{Birds}$",
+        "Amphibians and $\\text{Fishes}$"
+      ],
+      "answer": "Mammals and $\\text{Birds}$",
+      "explanation": "$\\text{Warm}$-$\\text{Blooded}$ organisms ($\text{Endotherms}$ or $\\text{Homeotherms}$) are capable of $\\text{Maintaining}$ a $\\text{Constant}$ $\\text{Body}$ $\\text{Temperature}$ independent of the external environment. These are $\\text{Mammals}$ and $\\text{Birds}$."
+    },
+    {
+      "id": "BIO_2014_31",
+      "text": "The $\\text{Primary}$ $\\text{Function}$ of the $\\text{Xylem}$ in plants is the $\\text{Transport}$ of:",
+      "image": "[Cross-section of a plant stem showing Xylem and Phloem location]",
+      "options": [
+        "Manufactured $\\text{Food}$ $\\text{Material}$",
+        "Water and $\\text{Mineral}$ $\\text{Salts}$",
+        "Hormones $\\text{Only}$",
+        "Gases"
+      ],
+      "answer": "Water and $\\text{Mineral}$ $\\text{Salts}$",
+      "explanation": "$\\text{Xylem}$ tissue is responsible for the $\\text{Upward}$ $\\text{Conduction}$ of $\\text{Water}$ and $\\text{Dissolved}$ $\\text{Inorganic}$ $\\text{Nutrients}$ (mineral salts) from the $\\text{Roots}$ to the $\\text{Rest}$ of the plant."
+    },
+    {
+      "id": "BIO_2014_32",
+      "text": "In $\\text{Man}$, the $\\text{Process}$ of $\\text{Gestation}$ is the period between:",
+      "image": "",
+      "options": [
+        "Ovulation $\\text{and}$ $\\text{Menstruation}$",
+        "Fertilization $\\text{and}$ $\\text{Birth}$",
+        "Copulation $\\text{and}$ $\\text{Ovulation}$",
+        "Implantation $\\text{and}$ $\\text{Weaning}$"
+      ],
+      "answer": "Fertilization $\\text{and}$ $\\text{Birth}$",
+      "explanation": "$\\text{Gestation}$ is the $\\text{Time}$ $\\text{Period}$ during which a $\\text{Foetus}$ develops inside the $\\text{Womb}$ of the mother. It spans from $\\text{Conception}$ ($\text{Fertilization}$) to $\\text{Delivery}$ ($\text{Birth}$)."
+    },
+    {
+      "id": "BIO_2014_33",
+      "text": "The $\\text{Accumulation}$ of $\\text{Lactic}$ $\\text{Acid}$ in $\\text{Muscle}$ $\\text{Cells}$ causes:",
+      "image": "[Diagram illustrating Lactic Acid fermentation in muscle cells]",
+      "options": [
+        "Increased $\\text{Energy}$ $\\text{Production}$",
+        "Rapid $\\text{Weight}$ $\\text{Loss}$",
+        "Muscle $\\text{Fatigue}$ $\\text{and}$ $\\text{Cramp}$",
+        "Increased $\\text{Oxygen}$ $\\text{Supply}$"
+      ],
+      "answer": "Muscle $\\text{Fatigue}$ $\\text{and}$ $\\text{Cramp}$",
+      "explanation": "When $\\text{Oxygen}$ $\\text{Supply}$ is $\\text{Limited}$ (e.g., during strenuous exercise), muscle cells switch to $\\text{Anaerobic}$ $\\text{Respiration}$, producing $\\text{Lactic}$ $\\text{Acid}$ as a $\\text{Byproduct}$, which leads to $\\text{Fatigue}$ and $\\text{Pain}$."
+    },
+    {
+      "id": "BIO_2014_34",
+      "text": "Which of these is the $\\text{Smallest}$ $\\text{Unit}$ of $\\text{Classification}$?",
+      "image": "[Diagram of the Linnaean hierarchy (Domain to Species)]",
+      "options": [
+        "Genus",
+        "Order",
+        "Species",
+        "Family"
+      ],
+      "answer": "Species",
+      "explanation": "The classification hierarchy, from broadest to narrowest, is $\\text{Kingdom}$, $\\text{Phylum}$, $\\text{Class}$, $\\text{Order}$, $\\text{Family}$, $\\text{Genus}$, and $\\text{Species}$. The $\\text{Species}$ is the most specific or $\\text{Smallest}$ $\\text{Unit}$."
+    },
+    {
+      "id": "BIO_2014_35",
+      "text": "The major $\\text{Function}$ of the $\\text{Root}$ $\\text{Hairs}$ of a plant is:",
+      "image": "[Microscopic view of a root hair cell]",
+      "options": [
+        "Anchorage of the $\\text{Plant}$",
+        "Absorption of $\\text{Water}$ $\\text{and}$ $\\text{Mineral}$ $\\text{Salts}$",
+        "Photosynthesis",
+        "Storage of $\\text{Food}$"
+      ],
+      "answer": "Absorption of $\\text{Water}$ $\\text{and}$ $\\text{Mineral}$ $\\text{Salts}$",
+      "explanation": "$\\text{Root}$ $\\text{Hairs}$ are $\\text{Extensions}$ of $\\text{Epidermal}$ $\\text{Cells}$ that $\\text{Greatly}$ $\\text{Increase}$ the $\\text{Surface}$ $\\text{Area}$ for the $\\text{Uptake}$ of $\\text{Water}$ (by $\\text{Osmosis}$) and $\\text{Minerals}$ (by $\\text{Active}$ $\\text{Transport}$ and $\\text{Diffusion}$)."
+    },
+    {
+      "id": "BIO_2014_36",
+      "text": "A $\\text{Community}$ in $\\text{Ecology}$ is defined as:",
+      "image": "",
+      "options": [
+        "All the organisms of the $\\text{Same}$ $\\text{Species}$ in an area",
+        "A group of $\\text{Interacting}$ $\\text{Populations}$ of $\\text{Different}$ $\\text{Species}$",
+        "The total number of $\\text{Biotic}$ and $\\text{Abiotic}$ factors",
+        "A group of $\\text{Individual}$ $\\text{Organisms}$"
+      ],
+      "answer": "A group of $\\text{Interacting}$ $\\text{Populations}$ of $\\text{Different}$ $\\text{Species}$",
+      "explanation": "An $\\text{Ecological}$ $\\text{Community}$ is formed by all the $\\text{Different}$ $\\text{Species}$ ($\text{Populations}$) that $\\text{Live}$ $\\text{Together}$ and $\\text{Interact}$ in a specific area."
+    },
+    {
+      "id": "BIO_2014_37",
+      "text": "The $\\text{Causative}$ $\\text{Organism}$ of $\\text{Malaria}$ is a:",
+      "image": "[Microscopic view of Plasmodium in red blood cells]",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Protozoan ($\text{Plasmodium}$)",
+        "Fungus"
+      ],
+      "answer": "Protozoan ($\text{Plasmodium}$)",
+      "explanation": "$\\text{Malaria}$ is caused by a $\\text{Protozoan}$ $\\text{Parasite}$ of the $\\text{Genus}$ $\\text{Plasmodium}$, which is transmitted to humans through the bite of infected $\\text{Female}$ $\\text{Anopheles}$ $\\text{Mosquitoes}$."
+    },
+    {
+      "id": "BIO_2014_38",
+      "text": "Which of these $\\text{Blood}$ $\\text{Cells}$ are $\\text{Biconcave}$ in $\\text{Shape}$ and $\\text{Lack}$ a $\\text{Nucleus}$ in $\\text{Mammals}$?",
+      "image": "[Microscopic image of biconcave red blood cells]",
+      "options": [
+        "Leukocytes ($\text{White}$ $\\text{Blood}$ $\\text{Cells}$)",
+        "Platelets",
+        "Erythrocytes ($\text{Red}$ $\\text{Blood}$ $\\text{Cells}$)",
+        "Phagocytes"
+      ],
+      "answer": "Erythrocytes ($\text{Red}$ $\\text{Blood}$ $\\text{Cells}$)",
+      "explanation": "$\\text{Mature}$ $\\text{Mammalian}$ $\\text{Erythrocytes}$ ($\text{RBCs}$) are $\\text{Biconcave}$ $\\text{Discs}$ that $\\text{Lack}$ a $\\text{Nucleus}$ to $\\text{Maximize}$ $\\text{Space}$ for $\\text{Haemoglobin}$ and $\\text{Oxygen}$ $\\text{Transport}$."
+    },
+    {
+      "id": "BIO_2014_39",
+      "text": "The $\\text{Movement}$ of $\\text{Plant}$ $\\text{Parts}$ in response to $\\text{Directional}$ $\\text{Light}$ $\\text{Stimulus}$ is called:",
+      "image": "[Image showing plant shoots bending towards light (Positive Phototropism)]",
+      "options": [
+        "Hydrotropism",
+        "Thigmotropism",
+        "Phototropism",
+        "Chemotropism"
+      ],
+      "answer": "Phototropism",
+      "explanation": "$\\text{Phototropism}$ is a $\\text{Growth}$ $\\text{Movement}$ ($\text{Tropism}$) of a $\\text{Plant}$ $\\text{Part}$ in response to the direction of a $\\text{Light}$ $\\text{Source}$. For example, shoots exhibit $\\text{Positive}$ $\\text{Phototropism}$."
+    },
+    {
+      "id": "BIO_2014_40",
+      "text": "In a $\\text{Deuterostome}$, the $\\text{Blastopore}$ develops into the:",
+      "image": "[Diagram comparing Protostome and Deuterostome embryonic development]",
+      "options": [
+        "Mouth",
+        "Anus",
+        "Nervous $\\text{System}$",
+        "Mesoderm"
+      ],
+      "answer": "Anus",
+      "explanation": "Organisms are divided into $\\text{Protostomes}$ (where the $\\text{Blastopore}$ becomes the $\\text{Mouth}$) and $\\text{Deuterostomes}$ (where the $\\text{Blastopore}$ becomes the $\\text{Anus}$). $\\text{Vertebrates}$ are $\\text{Deuterostomes}$."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_41",
+      "text": "The maximum amount of money a company can raise from its shareholders is called the:",
+      "image": "ACCO_2023_41.png",
+      "options": [
+        "Issued Share Capital",
+        "Authorized Share Capital",
+        "Called-up Capital",
+        "Paid-up Capital"
+      ],
+      "answer": "Authorized Share Capital",
+      "explanation": "Authorized Capital (or Nominal Capital) is the maximum share capital that a company is legally permitted to issue, as stated in its Memorandum of Association."
+    },
+    {
+      "id": "ACCO_2023_42",
+      "text": "The main principle underlying the preparation of the Receipts and Payments Account is the:",
+      "image": "ACCO_2023_42.png",
+      "options": [
+        "Accrual concept",
+        "Cash basis of accounting",
+        "Prudence concept",
+        "Historical cost concept"
+      ],
+      "answer": "Cash basis of accounting",
+      "explanation": "The Receipts and Payments Account is a summary of the cash book, recording all cash and bank transactions (both capital and revenue) regardless of the period they relate to."
+    },
+    {
+      "id": "ACCO_2023_43",
+      "text": "The difference between the cost of an asset and its accumulated depreciation is known as the:",
+      "image": "ACCO_2023_43.png",
+      "options": [
+        "Residual value",
+        "Net realizable value",
+        "Carrying amount (or Net Book Value)",
+        "Market value"
+      ],
+      "answer": "Carrying amount (or Net Book Value)",
+      "explanation": "The Carrying Amount is the value of an asset as it appears on the Statement of Financial Position, calculated as Cost minus Accumulated Depreciation."
+    },
+    {
+      "id": "ACCO_2023_44",
+      "text": "The double-entry principle states that every transaction must have:",
+      "image": "ACCO_2023_44.png",
+      "options": [
+        "Two debit entries",
+        "A minimum of three ledger entries",
+        "A corresponding credit entry for every debit entry",
+        "An entry in the Cash Book and the Ledger"
+      ],
+      "answer": "A corresponding credit entry for every debit entry",
+      "explanation": "The fundamental principle of double-entry bookkeeping: for every transaction, the total debits must equal the total credits."
+    },
+    {
+      "id": "ACCO_2023_45",
+      "text": "The method of inventory valuation where the oldest stock items are assumed to be sold first is:",
+      "image": "ACCO_2023_45.png",
+      "options": [
+        "LIFO (Last-in, First-out)",
+        "FIFO (First-in, First-out)",
+        "Average Cost Method",
+        "Replacement Cost"
+      ],
+      "answer": "FIFO (First-in, First-out)",
+      "explanation": "FIFO results in the closing inventory being valued at the cost of the most recently purchased goods."
+    },
+    {
+      "id": "ACCO_2023_46",
+      "text": "Which ratio is used to assess a company's ability to meet its interest payments?",
+      "image": "ACCO_2023_46.png",
+      "options": [
+        "Current Ratio",
+        "Gross Profit Margin",
+        "Interest Cover Ratio",
+        "Return on Capital Employed"
+      ],
+      "answer": "Interest Cover Ratio",
+      "explanation": "Interest Cover Ratio (Profit Before Interest and Tax / Interest Expense) measures how many times a company can pay its interest expense using its earnings."
+    },
+    {
+      "id": "ACCO_2023_47",
+      "text": "A sales ledger control account helps to locate errors primarily in the:",
+      "image": "ACCO_2023_47.png",
+      "options": [
+        "General Ledger",
+        "Sales Ledger (individual debtor accounts)",
+        "Cash Book",
+        "Nominal Accounts"
+      ],
+      "answer": "Sales Ledger (individual debtor accounts)",
+      "explanation": "The control account balance should equal the sum of the balances of all individual debtors in the Sales Ledger. Any difference points to an error in the Sales Ledger."
+    },
+    {
+      "id": "ACCO_2023_48",
+      "text": "The document issued by a seller acknowledging the return of goods by a customer is a:",
+      "image": "ACCO_2023_48.png",
+      "options": [
+        "Debit Note",
+        "Credit Note",
+        "Invoice",
+        "Statement of Account"
+      ],
+      "answer": "Credit Note",
+      "explanation": "A Credit Note reduces the amount owed by the customer (debtor) and is issued for returns or overcharges."
+    },
+    {
+      "id": "ACCO_2023_49",
+      "text": "In partnership final accounts, the appropriation account is used to distribute the net profit among the partners, including:",
+      "image": "ACCO_2023_49.png",
+      "options": [
+        "Wages of employees",
+        "Depreciation of assets",
+        "Interest on Capital",
+        "Rent of the office"
+      ],
+      "answer": "Interest on Capital",
+      "explanation": "Items like Interest on Capital, Partners' Salaries, and residual profit/loss distribution are appropriations of profit, recorded in the Appropriation Account."
+    },
+    {
+      "id": "ACCO_2023_50",
+      "text": "The cost of goods purchased that were subsequently returned to the supplier is recorded in the:",
+      "image": "ACCO_2023_50.png",
+      "options": [
+        "Returns Inwards Journal",
+        "Returns Outwards Journal",
+        "Sales Journal",
+        "General Journal"
+      ],
+      "answer": "Returns Outwards Journal",
+      "explanation": "Returns Outwards (Purchases Returns) is the book of original entry for recording goods returned to suppliers."
+    },
+    {
+      "id": "ACCO_2023_51",
+      "text": "If revenue expenditure is wrongly treated as capital expenditure, the effect is:",
+      "image": "ACCO_2023_51.png",
+      "options": [
+        "Overstatement of current liabilities",
+        "Understatement of net profit and assets",
+        "Overstatement of assets and net profit",
+        "Understatement of capital"
+      ],
+      "answer": "Overstatement of assets and net profit",
+      "explanation": "Treating an expense (revenue expenditure) as an asset (capital expenditure) incorrectly increases assets and reduces expenses, leading to an overstatement of profit."
+    },
+    {
+      "id": "ACCO_2023_52",
+      "text": "Which of these is a capital receipt?",
+      "image": "ACCO_2023_52.png",
+      "options": [
+        "Sales revenue",
+        "Commission received",
+        "Proceeds from the sale of a machine",
+        "Rent received"
+      ],
+      "answer": "Proceeds from the sale of a machine",
+      "explanation": "Capital receipts arise from non-routine transactions relating to fixed assets or raising capital (e.g., selling fixed assets, issuing shares/debentures)."
+    },
+    {
+      "id": "ACCO_2023_53",
+      "text": "Goods that are in transit at the year-end should be included in the inventory of the buyer if the terms are:",
+      "image": "ACCO_2023_53.png",
+      "options": [
+        "FOB Destination",
+        "Consignment",
+        "FOB Shipping Point",
+        "Sale or Return"
+      ],
+      "answer": "FOB Shipping Point",
+      "explanation": "FOB (Free On Board) Shipping Point means the title and risk transfer to the buyer when the goods leave the seller's premises. The buyer owns the goods in transit."
+    },
+    {
+      "id": "ACCO_2023_54",
+      "text": "In preparing a company's financial statements, the main legal source of authority is the:",
+      "image": "ACCO_2023_54.png",
+      "options": [
+        "Tax Laws",
+        "Financial Reporting Standards (e.g., IFRS/GAAP)",
+        "Company's Memorandum and Articles",
+        "Companies and Allied Matters Act (or similar Companies Act)"
+      ],
+      "answer": "Companies and Allied Matters Act (or similar Companies Act)",
+      "explanation": "While IFRS/GAAP dictates the specific rules, the national Companies Act provides the overarching legal mandate and framework for financial reporting."
+    },
+    {
+      "id": "ACCO_2023_55",
+      "text": "A debt that was previously written off and is subsequently paid by the debtor is credited to the:",
+      "image": "ACCO_2023_55.png",
+      "options": [
+        "Debtor's Account",
+        "Income Statement (as Bad Debts Recovered)",
+        "Sales Account",
+        "Provision for Doubtful Debts Account"
+      ],
+      "answer": "Income Statement (as Bad Debts Recovered)",
+      "explanation": "The typical process involves: Debit Debtor's Account (reinstate the debt), Credit Bad Debts Recovered (Revenue). Then Debit Cash/Bank, Credit Debtor's Account."
+    },
+    {
+      "id": "ACCO_2023_56",
+      "text": "The main reason for forming a Public Limited Company (PLC) is to:",
+      "image": "ACCO_2023_56.png",
+      "options": [
+        "Avoid paying taxes",
+        "Raise large amounts of capital from the public",
+        "Ensure personal liability for shareholders",
+        "Restrict the transfer of shares"
+      ],
+      "answer": "Raise large amounts of capital from the public",
+      "explanation": "PLCs can offer shares to the general public via a Stock Exchange, unlike private companies, enabling massive capital mobilization."
+    },
+    {
+      "id": "ACCO_2023_57",
+      "text": "The total of the Sales Journal is posted periodically to the:",
+      "image": "ACCO_2023_57.png",
+      "options": [
+        "Debit of Sales Account",
+        "Credit of Sales Account",
+        "Debit of Debtors Control Account",
+        "Credit of General Ledger"
+      ],
+      "answer": "Credit of Sales Account",
+      "explanation": "The periodic total of credit sales increases revenue and is credited to the Sales Account in the General Ledger. Individual sales are debited to individual debtor accounts."
+    },
+    {
+      "id": "ACCO_2023_58",
+      "text": "The accounting standard that guides the recognition and measurement of property, plant, and equipment is:",
+      "image": "ACCO_2023_58.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IFRS 15 (Revenue)",
+        "IAS 16 (PPE)",
+        "IAS 7 (Cash Flows)"
+      ],
+      "answer": "IAS 16 (PPE)",
+      "explanation": "IAS 16 is the International Accounting Standard that deals specifically with Property, Plant, and Equipment (Non-current Assets)."
+    },
+    {
+      "id": "ACCO_2023_59",
+      "text": "The difference between the authorized capital and the issued capital is called:",
+      "image": "ACCO_2023_59.png",
+      "options": [
+        "Uncalled Capital",
+        "Reserve Capital",
+        "Unissued Capital",
+        "Working Capital"
+      ],
+      "answer": "Unissued Capital",
+      "explanation": "Unissued Capital is the portion of the Authorized Capital that the company has not yet offered to the public for subscription."
+    },
+    {
+      "id": "ACCO_2023_60",
+      "text": "If a transaction is correctly recorded in the books but classified under the wrong type of account (e.g., Asset instead of Expense), the error is one of:",
+      "image": "ACCO_2023_60.png",
+      "options": [
+        "Omission",
+        "Commission",
+        "Principle",
+        "Compensating"
+      ],
+      "answer": "Principle",
+      "explanation": "An Error of Principle occurs when the correct double-entry rules are followed (equal debits and credits) but the wrong class of account (e.g., revenue/capital) is used."
+    },
+    {
+      "id": "ACCO_2023_61",
+      "text": "The formula for calculating the Rate of Inventory Turnover is:",
+      "image": "ACCO_2023_61.png",
+      "options": [
+        "Sales / Average Inventory",
+        "Cost of Goods Sold / Average Inventory",
+        "Gross Profit / Sales",
+        "Current Assets / Current Liabilities"
+      ],
+      "answer": "Cost of Goods Sold / Average Inventory",
+      "explanation": "This ratio measures how quickly a company is selling its stock, indicating efficiency in inventory management."
+    },
+    {
+      "id": "ACCO_2023_62",
+      "text": "The document prepared by a supplier to show the periodic summary of transactions with a customer is the:",
+      "image": "ACCO_2023_62.png",
+      "options": [
+        "Invoice",
+        "Statement of Account",
+        "Receipt",
+        "Delivery Note"
+      ],
+      "answer": "Statement of Account",
+      "explanation": "A Statement of Account summarises the transactions that took place over a period (usually a month) and shows the final balance due."
+    },
+    {
+      "id": "ACCO_2023_63",
+      "text": "The 'Contra Entry' in a Cash Book involves transactions that affect both the:",
+      "image": "ACCO_2023_63.png",
+      "options": [
+        "Sales and Purchases accounts",
+        "Debtors and Creditors accounts",
+        "Cash and Bank columns",
+        "Revenue and Capital accounts"
+      ],
+      "answer": "Cash and Bank columns",
+      "explanation": "A contra entry (denoted by 'C' in the folio column) is used for transactions like depositing cash into the bank or withdrawing cash from the bank for office use."
+    },
+    {
+      "id": "ACCO_2023_64",
+      "text": "The maximum number of shareholders in a Private Limited Company is typically limited to:",
+      "image": "ACCO_2023_64.png",
+      "options": [
+        "20",
+        "50",
+        "100",
+        "No limit"
+      ],
+      "answer": "50",
+      "explanation": "While this limit varies globally, 50 is the most common statutory maximum for private companies in many jurisdictions (e.g., Nigeria's CAMA limits the number to 50 non-employee members)."
+    },
+    {
+      "id": "ACCO_2023_65",
+      "text": "The revenue recognition principle is best defined by the concept of:",
+      "image": "ACCO_2023_65.png",
+      "options": [
+        "Matching",
+        "Realization",
+        "Prudence",
+        "Going Concern"
+      ],
+      "answer": "Realization",
+      "explanation": "The realization principle states that revenue should be recognized when it is realized or realizable, typically when the service is rendered or goods are delivered."
+    },
+    {
+      "id": "ACCO_2023_66",
+      "text": "The liability for tax payable in the next three months is classified as a:",
+      "image": "ACCO_2023_66.png",
+      "options": [
+        "Non-Current Liability",
+        "Current Liability",
+        "Contingent Liability",
+        "Revenue Reserve"
+      ],
+      "answer": "Current Liability",
+      "explanation": "Current liabilities are obligations expected to be settled within the normal operating cycle or within 12 months from the reporting date, which includes short-term tax payable."
+    },
+    {
+      "id": "ACCO_2023_67",
+      "text": "The main purpose of a suspense account is to:",
+      "image": "ACCO_2023_67.png",
+      "options": [
+        "Record non-recurring expenses",
+        "Temporarily balance the Trial Balance while errors are investigated",
+        "Record contingent liabilities",
+        "Record depreciation charges"
+      ],
+      "answer": "Temporarily balance the Trial Balance while errors are investigated",
+      "explanation": "A suspense account is a temporary account opened when the debit and credit sides of the Trial Balance do not agree, allowing the preparation of financial statements while errors are found."
+    },
+    {
+      "id": "ACCO_2023_68",
+      "text": "A manufacturing company records the cost of raw materials consumed in the:",
+      "image": "ACCO_2023_68.png",
+      "options": [
+        "Trading Account",
+        "Statement of Profit or Loss",
+        "Manufacturing Account",
+        "General Ledger"
+      ],
+      "answer": "Manufacturing Account",
+      "explanation": "The cost of raw materials, direct labor, and overheads are compiled in the Manufacturing Account to determine the cost of goods completed."
+    },
+    {
+      "id": "ACCO_2023_69",
+      "text": "The formula for calculating the Debt-to-Equity Ratio is:",
+      "image": "ACCO_2023_69.png",
+      "options": [
+        "Total Liabilities / Total Assets",
+        "Total Liabilities / Owner's Equity (Capital)",
+        "Net Profit / Total Assets",
+        "Current Assets / Current Liabilities"
+      ],
+      "answer": "Total Liabilities / Owner's Equity (Capital)",
+      "explanation": "This ratio indicates the proportion of equity and debt used to finance a company's assets, showing the level of financial leverage."
+    },
+    {
+      "id": "ACCO_2023_70",
+      "text": "The money measurement concept requires that only events that can be expressed in terms of:",
+      "image": "ACCO_2023_70.png",
+      "options": [
+        "Physical units are recorded",
+        "Profitability ratios are recorded",
+        "Monetary terms are recorded",
+        "Legal contracts are recorded"
+      ],
+      "answer": "Monetary terms are recorded",
+      "explanation": "The Money Measurement Concept limits accounting to recording only those transactions that can be quantified in terms of money."
+    },
+    {
+      "id": "ACCO_2023_71",
+      "text": "If a non-trading organization's total revenue exceeds its total expenditure for the year, the result is termed a:",
+      "image": "ACCO_2023_71.png",
+      "options": [
+        "Net Profit",
+        "Surplus",
+        "Deficit",
+        "Retained Earnings"
+      ],
+      "answer": "Surplus",
+      "explanation": "Non-profit/non-trading organizations use 'Surplus' instead of 'Net Profit' and 'Deficit' instead of 'Net Loss' in their Income and Expenditure Account."
+    },
+    {
+      "id": "ACCO_2023_72",
+      "text": "The main advantage of using the Straight-Line Method of depreciation is its:",
+      "image": "ACCO_2023_72.png",
+      "options": [
+        "Ability to match revenue and expense accurately",
+        "Simplicity and ease of calculation",
+        "Lower charge in earlier years",
+        "Better reflection of market value decline"
+      ],
+      "answer": "Simplicity and ease of calculation",
+      "explanation": "The Straight-Line Method applies an equal depreciation charge each year, making it the easiest method to compute and understand."
+    },
+    {
+      "id": "ACCO_2023_73",
+      "text": "Goods returned by a customer before receiving payment are known as:",
+      "image": "ACCO_2023_73.png",
+      "options": [
+        "Returns Outwards",
+        "Drawings",
+        "Returns Inwards",
+        "Spoilage"
+      ],
+      "answer": "Returns Inwards",
+      "explanation": "Returns Inwards (Sales Returns) refers to goods returned by the buyers to the seller."
+    },
+    {
+      "id": "ACCO_2023_74",
+      "text": "A business is owned by one person, and the owner and the business are legally one entity. This describes a:",
+      "image": "ACCO_2023_74.png",
+      "options": [
+        "Partnership",
+        "Private Limited Company",
+        "Public Limited Company",
+        "Sole Proprietorship"
+      ],
+      "answer": "Sole Proprietorship",
+      "explanation": "A Sole Proprietorship (or Sole Trader) is not legally separate from its owner, meaning the owner has unlimited liability."
+    },
+    {
+      "id": "ACCO_2023_75",
+      "text": "The 'prudence concept' (conservatism) in accounting recommends that:",
+      "image": "ACCO_2023_75.png",
+      "options": [
+        "Assets should be valued at their market price",
+        "Anticipated losses should be provided for, but anticipated profits should not",
+        "Financial statements should be prepared consistently",
+        "Only cash transactions should be recorded"
+      ],
+      "answer": "Anticipated losses should be provided for, but anticipated profits should not",
+      "explanation": "Prudence means caution. It ensures that profits and assets are not overstated and losses and liabilities are not understated."
+    },
+    {
+      "id": "ACCO_2023_76",
+      "text": "The difference between the Called-up Capital and the Paid-up Capital is known as:",
+      "image": "ACCO_2023_76.png",
+      "options": [
+        "Share Premium",
+        "Unissued Capital",
+        "Calls in Arrears",
+        "Reserve Capital"
+      ],
+      "answer": "Calls in Arrears",
+      "explanation": "Calls in Arrears is the amount that shareholders were asked (called up) to pay but have failed to remit."
+    },
+    {
+      "id": "ACCO_2023_77",
+      "text": "The final financial statement prepared after the Trial Balance and adjustments is the:",
+      "image": "ACCO_2023_77.png",
+      "options": [
+        "Cash Book",
+        "Statement of Financial Position (Balance Sheet)",
+        "Journal Proper",
+        "Trial Balance"
+      ],
+      "answer": "Statement of Financial Position (Balance Sheet)",
+      "explanation": "The balance sheet is the last of the major financial statements prepared to reflect the financial position after calculating the profit/loss."
+    },
+    {
+      "id": "ACCO_2023_78",
+      "text": "The accounting standard dealing with the presentation of financial statements is:",
+      "image": "ACCO_2023_78.png",
+      "options": [
+        "IAS 1 (Presentation of Financial Statements)",
+        "IAS 2 (Inventory)",
+        "IAS 16 (PPE)",
+        "IFRS 9 (Financial Instruments)"
+      ],
+      "answer": "IAS 1 (Presentation of Financial Statements)",
+      "explanation": "IAS 1 provides the overall requirements for the presentation of financial statements, guidelines for their structure, and minimum requirements for their content."
+    },
+    {
+      "id": "ACCO_2023_79",
+      "text": "If the opening capital is N50,000, profit is N20,000, and drawings are N5,000, the closing capital is:",
+      "image": "ACCO_2023_79.png",
+      "options": [
+        "N75,000",
+        "N65,000",
+        "N70,000",
+        "N55,000"
+      ],
+      "answer": "N65,000",
+      "explanation": "Closing Capital = Opening Capital + Profit - Drawings = N50,000 + N20,000 - N5,000 = N65,000."
+    },
+    {
+      "id": "ACCO_2023_80",
+      "text": "An error where an incorrect amount is entered, but the double entry is correct (e.g., N100 instead of N1,000 on both sides), is an error of:",
+      "image": "ACCO_2023_80.png",
+      "options": [
+        "Omission",
+        "Commission",
+        "Principle",
+        "Compensating"
+      ],
+      "answer": "Commission",
+      "explanation": "An Error of Commission involves recording a correct transaction but with an incorrect amount or in the correct class of account but the wrong personal account. It won't affect the Trial Balance agreement."
+    }
+  ]

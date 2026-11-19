@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM241",
+        "text": "The $\\textbf{Trade-Related Intellectual Property Rights}$ ($\\,\\textbf{TRIPS}$) agreement establishes $\\textbf{Minimum Standards}$ for IP protection that member $\\textbf{Nations}$ must $\\textbf{Implement}$.",
+        "image": "",
+        "options": [
+            "Maximum Standards",
+            "Minimum Standards",
+            "Optional Standards",
+            "Regional Standards"
+        ],
+        "answer": "Minimum Standards",
+        "explanation": "TRIPS ensures that all WTO members provide basic protections for patents, copyrights, and trademarks."
+    },
+    {
+        "id": "COM242",
+        "text": "The $\\textbf{Capital Market}$ consists of the $\\textbf{Stock Market}$ (equity) and the $\\textbf{Bond Market}$ (debt), facilitating the transfer of $\\textbf{Long-Term}$ funds.",
+        "image": "",
+        "options": [
+            "Forex Market",
+            "Money Market",
+            "Stock Market",
+            "Futures Market"
+        ],
+        "answer": "Stock Market",
+        "explanation": "Both the stock market and bond market are used to raise capital for periods exceeding one year."
+    },
+    {
+        "id": "COM243",
+        "text": "In $\\textbf{Marketing}$, $\\textbf{Positioning}$ refers to the act of designing the company's offering and image to occupy a distinct and valued place in the $\\textbf{Target Customers'}$ $\\textbf{Minds}$.",
+        "image": "",
+        "options": [
+            "Physical Location",
+            "Retail Shelf Space",
+            "Target Customers' Minds",
+            "Competitors' Strategies"
+        ],
+        "answer": "Target Customers' Minds",
+        "explanation": "Effective positioning ensures the product stands out and is perceived favorably against competition."
+    },
+    {
+        "id": "COM244",
+        "text": "The $\\textbf{Secondary Sector}$ of industry is defined by the value-added process of converting $\\textbf{Raw Materials}$ into $\\textbf{Manufactured}$ $\\textbf{Goods}$.",
+        "image": "",
+        "options": [
+            "Extraction",
+            "Services",
+            "Manufactured Goods",
+            "Consulting"
+        ],
+        "answer": "Manufactured Goods",
+        "explanation": "This sector forms the industrial base of an economy."
+    },
+    {
+        "id": "COM245",
+        "text": "The $\\textbf{Limited Liability Partnership}$ ($\\,\\textbf{LLP}$) must typically be $\\textbf{Registered}$ with the relevant $\\textbf{State Authority}$ to gain legal $\\textbf{Recognition}$.",
+        "image": "",
+        "options": [
+            "Automatically Created",
+            "Registered",
+            "Implied by Contract",
+            "Verbalized"
+        ],
+        "answer": "Registered",
+        "explanation": "Unlike a general partnership, the LLP status requires formal statutory registration."
+    },
+    {
+        "id": "COM246",
+        "text": "The $\\textbf{Monetary Policy}$ tool of $\\textbf{Open Market Operations}$ involves the $\\textbf{Buying}$ and $\\textbf{Selling}$ of government $\\textbf{Securities}$ by the Central Bank.",
+        "image": "",
+        "options": [
+            "Setting Tax Rates",
+            "Printing Currency",
+            "Open Market Operations",
+            "Setting Tariffs"
+        ],
+        "answer": "Open Market Operations",
+        "explanation": "Buying securities injects liquidity (money) into the economy; selling securities withdraws liquidity."
+    },
+    {
+        "id": "COM247",
+        "text": "The $\\textbf{Commercial Paper}$ financial instrument is a type of $\\textbf{Unsecured}$ $\\textbf{Debt}$ used exclusively by firms with $\\textbf{High Credit Ratings}$.",
+        "image": "",
+        "options": [
+            "Low Credit Ratings",
+            "Medium Credit Ratings",
+            "High Credit Ratings",
+            "Startups Only"
+        ],
+        "answer": "High Credit Ratings",
+        "explanation": "Since it is unsecured, only companies deemed highly creditworthy can successfully issue commercial paper."
+    },
+    {
+        "id": "COM248",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Acceptance}$ is the unconditional $\\textbf{Assent}$ to the terms of an $\\textbf{Offer}$, forming a binding $\\textbf{Contract}$.",
+        "image": "",
+        "options": [
+            "Rejection",
+            "Counter-Offer",
+            "Assent",
+            "Silence"
+        ],
+        "answer": "Assent",
+        "explanation": "Acceptance must be clearly communicated and mirror the terms of the original offer (Mirror Image Rule)."
+    },
+    {
+        "id": "COM249",
+        "text": "The $\\textbf{Product Life Cycle}$ stage of $\\textbf{Introduction}$ is characterized by low $\\textbf{Sales}$, high $\\textbf{Marketing Costs}$, and usually $\\textbf{Negative}$ $\\textbf{Profit}$.",
+        "image": "",
+        "options": [
+            "High Profit",
+            "Zero Profit",
+            "Negative Profit",
+            "Stable Profit"
+        ],
+        "answer": "Negative Profit",
+        "explanation": "Profits are typically negative due to the high costs associated with product launch and market creation."
+    },
+    {
+        "id": "COM250",
+        "text": "The $\\textbf{Marketing Concept}$ contrasts with the $\\textbf{Selling Concept}$, which focuses primarily on aggressively promoting and selling the $\\textbf{Existing Product}$ rather than customer $\\textbf{Needs}$.",
+        "image": "",
+        "options": [
+            "Production Concept",
+            "Product Concept",
+            "Societal Marketing Concept",
+            "Selling Concept"
+        ],
+        "answer": "Selling Concept",
+        "explanation": "The selling concept assumes that consumers will not buy enough of the firm's products unless aggressive sales efforts are employed."
+    },
+    {
+        "id": "COM251",
+        "text": "The $\\textbf{Trade Deficit}$ requires a nation to borrow from $\\textbf{Foreign Creditors}$ or run down its foreign $\\textbf{Currency Reserves}$ to pay for excess $\\textbf{Imports}$.",
+        "image": "",
+        "options": [
+            "Increased Exports",
+            "Increased Domestic Savings",
+            "Foreign Currency Reserves",
+            "Decreased Imports"
+        ],
+        "answer": "Foreign Currency Reserves",
+        "explanation": "A sustained trade deficit indicates that the country is spending more on goods and services than it is earning from them."
+    },
+    {
+        "id": "COM252",
+        "text": "The $\\textbf{Incoterm}$ $\\textbf{EXW}$ ($\textbf{Ex Works}$) means the $\\textbf{Buyer}$ is responsible for all costs and risks from the seller's $\\textbf{Premises}$ onwards.",
+        "image": "",
+        "options": [
+            "Seller",
+            "Carrier",
+            "Buyer",
+            "Freight Forwarder"
+        ],
+        "answer": "Buyer",
+        "explanation": "EXW places the minimum obligation on the seller and the maximum on the buyer."
+    },
+    {
+        "id": "COM253",
+        "text": "In $\\textbf{SWOT Analysis}$, $\\textbf{Opportunities}$ are $\\textbf{External}$ factors that the company can $\\textbf{Exploit}$ for $\\textbf{Competitive Advantage}$.",
+        "image": "",
+        "options": [
+            "Internal",
+            "Controllable",
+            "External",
+            "Static"
+        ],
+        "answer": "External",
+        "explanation": "Opportunities and Threats (O and T) relate to the external environment (e.g., market trends, regulatory changes)."
+    },
+    {
+        "id": "COM254",
+        "text": "The $\\textbf{Vertical Merger}$ strategy aims to achieve $\\textbf{Integration}$ and control over the $\\textbf{Supply Chain}$ (either backward or $\\textbf{Forward}$).",
+        "image": "",
+        "options": [
+            "Horizontal Integration",
+            "Conglomerate Integration",
+            "Supply Chain",
+            "Market Expansion"
+        ],
+        "answer": "Supply Chain",
+        "explanation": "A vertical merger involves merging with a supplier or a distributor."
+    },
+    {
+        "id": "COM255",
+        "text": "The $\\textbf{Demographic}$ segmentation variable of $\\textbf{Education}$ level is crucial for targeting products related to $\\textbf{Technology}$, books, or financial $\\textbf{Services}$.",
+        "image": "",
+        "options": [
+            "Age",
+            "Region",
+            "Education",
+            "Income"
+        ],
+        "answer": "Education",
+        "explanation": "Higher education levels often correlate with different needs, media consumption, and product complexity acceptance."
+    },
+    {
+        "id": "COM256",
+        "text": "The $\\textbf{Bull Market}$ encourages speculative $\\textbf{Investment}$ because investors expect short-term $\\textbf{Gains}$ and are willing to take on higher $\\textbf{Risk}$.",
+        "image": "",
+        "options": [
+            "Low Risk",
+            "Short-Term Gains",
+            "Long-Term Stability",
+            "Cash Holding"
+        ],
+        "answer": "Short-Term Gains",
+        "explanation": "The perception of momentum and rising prices attracts short-term traders."
+    },
+    {
+        "id": "COM257",
+        "text": "The $\\textbf{Just-In-Time}$ ($\\,\\textbf{JIT}$) system's efficiency is highly vulnerable to $\\textbf{Disruptions}$ in the $\\textbf{Logistics}$ and transportation $\\textbf{Network}$.",
+        "image": "",
+        "options": [
+            "Production Process",
+            "Marketing Strategy",
+            "Logistics",
+            "Human Resources"
+        ],
+        "answer": "Logistics",
+        "explanation": "Delays in transport can immediately halt production, a major risk for JIT users."
+    },
+    {
+        "id": "COM258",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Liquidated Damages}$ are a $\\textbf{Pre-Agreed}$ amount stipulated in the $\\textbf{Contract}$ to be paid in the event of a $\\textbf{Breach}$.",
+        "image": "",
+        "options": [
+            "Punitive Damages",
+            "Consequential Damages",
+            "Liquidated Damages",
+            "Nominal Damages"
+        ],
+        "answer": "Liquidated Damages",
+        "explanation": "This simplifies dispute resolution but the amount must be a reasonable estimate of actual loss, not a penalty."
+    },
+    {
+        "id": "COM259",
+        "text": "The $\\textbf{Product Mix}$ dimension of $\\textbf{Length}$ refers to the total number of $\\textbf{Items}$ (or $\\textbf{SKUs}$) across $\\textbf{All}$ the company's product $\\textbf{Lines}$.",
+        "image": "",
+        "options": [
+            "Width",
+            "Depth",
+            "Length",
+            "Consistency"
+        ],
+        "answer": "Length",
+        "explanation": "Length measures the total inventory of unique products being offered for sale."
+    },
+    {
+        "id": "COM260",
+        "text": "The $\\textbf{Tertiary Sector}$ activities are characterized by $\\textbf{Intangibility}$, $\\textbf{Inseparability}$ (production and consumption occur simultaneously), and $\\textbf{Perishability}$.",
+        "image": "",
+        "options": [
+            "Tangibility",
+            "Durability",
+            "Intangibility",
+            "Homogeneity"
+        ],
+        "answer": "Intangibility",
+        "explanation": "Services cannot be touched or stored, unlike tangible goods."
+    },
+    {
+        "id": "COM261",
+        "text": "The $\\textbf{Stock Exchange}$ provides a mechanism for $\\textbf{Price Discovery}$, reflecting the collective $\\textbf{Judgment}$ of $\\textbf{Investors}$ regarding a company's $\\textbf{Value}$.",
+        "image": "",
+        "options": [
+            "Fixed Prices",
+            "Government Setting",
+            "Price Discovery",
+            "Company Management"
+        ],
+        "answer": "Price Discovery",
+        "explanation": "The continuous trading process establishes the fair market price of securities."
+    },
+    {
+        "id": "COM262",
+        "text": "The $\\textbf{Balance of Payments}$ ($\\,\\textbf{BOP}$) $\\textbf{Current Account}$ includes the trade balance, income received from abroad, and $\\textbf{Unilateral Transfers}$ ($\textbf{Aid}$).",
+        "image": "",
+        "options": [
+            "Foreign Direct Investment",
+            "Portfolio Investment",
+            "Unilateral Transfers",
+            "Gold Reserves"
+        ],
+        "answer": "Unilateral Transfers",
+        "explanation": "Unilateral transfers (like foreign aid or remittances) are one-way transactions recorded in the current account."
+    },
+    {
+        "id": "COM263",
+        "text": "The $\\textbf{Marketing Concept}$ advocates that organizational goals can only be achieved by focusing on delivering $\\textbf{Superior Value}$ to $\\textbf{Target Customers}$.",
+        "image": "",
+        "options": [
+            "High Volume",
+            "Low Cost",
+            "Superior Value",
+            "Diverse Products"
+        ],
+        "answer": "Superior Value",
+        "explanation": "Superior customer value ensures long-term profitability and customer retention."
+    },
+    {
+        "id": "COM264",
+        "text": "The $\\textbf{World Trade Organization}$ ($\\,\\textbf{WTO}$) replaced the $\\textbf{General Agreement on Tariffs and Trade}$ ($\\,\\textbf{GATT}$) in $\\textbf{1995}$.",
+        "image": "",
+        "options": [
+            "1948",
+            "1971",
+            "1995",
+            "2001"
+        ],
+        "answer": "1995",
+        "explanation": "The WTO expanded GATT's scope to include services, intellectual property, and more robust dispute settlement."
+    },
+    {
+        "id": "COM265",
+        "text": "The $\\textbf{Copyright}$ provides protection for the $\\textbf{Expression}$ of an idea, not the $\\textbf{Idea}$ itself.",
+        "image": "",
+        "options": [
+            "Functionality",
+            "Process",
+            "Expression",
+            "Utility"
+        ],
+        "answer": "Expression",
+        "explanation": "If you want to protect the functional aspect of an invention, you need a patent."
+    },
+    {
+        "id": "COM266",
+        "text": "A $\\textbf{Venture Capital}$ investment firm seeks an $\\textbf{Exit Strategy}$ within 5-10 years, typically through an $\\textbf{IPO}$ or $\\textbf{Acquisition}$.",
+        "image": "",
+        "options": [
+            "Long-Term Bond",
+            "Permanent Holding",
+            "Exit Strategy",
+            "Dividend Stream"
+        ],
+        "answer": "Exit Strategy",
+        "explanation": "Venture capital requires a successful exit to realize returns on high-risk, illiquid investments."
+    },
+    {
+        "id": "COM267",
+        "text": "The $\\textbf{Law of Diminishing Marginal Utility}$ suggests that consumers will only buy more of a product if the $\\textbf{Price}$ $\\textbf{Decreases}$.",
+        "image": "",
+        "options": [
+            "Price Increases",
+            "Supply Increases",
+            "Price Decreases",
+            "Income Increases"
+        ],
+        "answer": "Price Decreases",
+        "explanation": "Because each additional unit provides less satisfaction, a lower price is required to incentivize further purchase."
+    },
+    {
+        "id": "COM268",
+        "text": "The $\\textbf{Vertical Merger}$ aims to increase $\\textbf{Efficiency}$ and $\\textbf{Control}$ by internalizing transactions previously handled by the $\\textbf{Market}$ (e.g., supplier).",
+        "image": "",
+        "options": [
+            "Competitor",
+            "Market",
+            "Regulator",
+            "Customer"
+        ],
+        "answer": "Market",
+        "explanation": "Bringing a stage of the supply chain in-house (vertical integration) reduces transactional risks."
+    },
+    {
+        "id": "COM269",
+        "text": "The $\\textbf{Limited Liability Company}$ ($\\,\\textbf{LLC}$) is favored by small business owners because it avoids the $\\textbf{Double Taxation}$ of a $\\textbf{C-Corporation}$.",
+        "image": "",
+        "options": [
+            "Single Taxation",
+            "Double Taxation",
+            "Zero Taxation",
+            "Corporate Tax"
+        ],
+        "answer": "Double Taxation",
+        "explanation": "LLCs are taxed as pass-through entities (like partnerships), avoiding the corporate tax layer."
+    },
+    {
+        "id": "COM270",
+        "text": "The $\\textbf{Supply Curve}$ slopes upward due to the assumption that producers will increase $\\textbf{Production}$ only if they receive a $\\textbf{Higher Price}$ for their $\\textbf{Goods}$.",
+        "image": "",
+        "options": [
+            "Lower Price",
+            "Higher Demand",
+            "Higher Price",
+            "Lower Cost"
+        ],
+        "answer": "Higher Price",
+        "explanation": "Higher prices cover the increasing marginal costs associated with higher production volume (Law of Supply)."
+    },
+    {
+        "id": "COM271",
+        "text": "The $\\textbf{Channel of Distribution}$ that uses at least one intermediary (e.g., $\\textbf{Wholesaler}$ or $\\textbf{Retailer}$) between producer and consumer is an $\\textbf{Indirect Channel}$.",
+        "image": "",
+        "options": [
+            "Direct Channel",
+            "Exclusive Channel",
+            "Indirect Channel",
+            "Zero-Level Channel"
+        ],
+        "answer": "Indirect Channel",
+        "explanation": "Indirect channels are common for consumer goods where broad market coverage is needed."
+    },
+    {
+        "id": "COM272",
+        "text": "The $\\textbf{Product Mix}$ is the full set of products offered, defined by $\\textbf{Width}$ (number of product lines) and $\\textbf{Depth}$ (number of $\\textbf{Items}$ within $\\textbf{Lines}$).",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Costs",
+            "Items",
+            "Brands"
+        ],
+        "answer": "Items",
+        "explanation": "Width and depth are two of the four dimensions used to define a product portfolio."
+    },
+    {
+        "id": "COM273",
+        "text": "The $\\textbf{Public Relations}$ ($\\,\\textbf{PR}$) promotional tool is highly $\\textbf{Credible}$ because the message is often delivered via $\\textbf{Unpaid}$ media $\\textbf{Coverage}$.",
+        "image": "",
+        "options": [
+            "Advertising",
+            "Personal Selling",
+            "Credible",
+            "Sales Promotion"
+        ],
+        "answer": "Credible",
+        "explanation": "Consumers often view editorial content (PR) as more trustworthy than paid advertising."
+    },
+    {
+        "id": "COM274",
+        "text": "The $\\textbf{Risk Management}$ strategy of $\\textbf{Mitigation}$ involves taking steps to $\\textbf{Reduce}$ the $\\textbf{Probability}$ or $\\textbf{Impact}$ of a potential $\\textbf{Loss}$.",
+        "image": "",
+        "options": [
+            "Eliminate",
+            "Accept",
+            "Reduce",
+            "Transfer"
+        ],
+        "answer": "Reduce",
+        "explanation": "Mitigation measures include installing fire sprinklers, implementing quality control, or diversifying suppliers."
+    },
+    {
+        "id": "COM275",
+        "text": "The $\\textbf{Income Effect}$ suggests that a drop in $\\textbf{Price}$ increases a consumer's $\\textbf{Purchasing Power}$, effectively increasing their $\\textbf{Real Income}$.",
+        "image": "",
+        "options": [
+            "Nominal Income",
+            "Taxable Income",
+            "Purchasing Power",
+            "Gross Income"
+        ],
+        "answer": "Purchasing Power",
+        "explanation": "This is one of two reasons (along with the substitution effect) why demand slopes downward."
+    },
+    {
+        "id": "COM276",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Duress}$ is a ground for $\\textbf{Contract}$ $\\textbf{Rescission}$ because it involves coercion or $\\textbf{Threat}$ forcing a party to $\\textbf{Agree}$.",
+        "image": "",
+        "options": [
+            "Incentive",
+            "Misstatement",
+            "Threat",
+            "Negotiation"
+        ],
+        "answer": "Threat",
+        "explanation": "A contract entered into under duress is voidable by the victimized party."
+    },
+    {
+        "id": "COM277",
+        "text": "The $\\textbf{Primary Market}$ in finance is where $\\textbf{New}$ securities are $\\textbf{Issued}$ and sold to the public for the first time ($\textbf{IPO}$).",
+        "image": "",
+        "options": [
+            "Existing Securities",
+            "New Securities",
+            "Traded Securities",
+            "Unlisted Securities"
+        ],
+        "answer": "New Securities",
+        "explanation": "Proceeds from the primary market sale go directly to the issuing company."
+    },
+    {
+        "id": "COM278",
+        "text": "The $\\textbf{Global Supply Chain}$ relies heavily on $\\textbf{Standardized}$ containers for efficient $\\textbf{Intermodal}$ transport across $\\textbf{Continents}$.",
+        "image": "",
+        "options": [
+            "Custom Packaging",
+            "Local Pallets",
+            "Standardized Containers",
+            "Unique Vehicles"
+        ],
+        "answer": "Standardized Containers",
+        "explanation": "The use of ISO containers (TEUs/FEUs) revolutionized global trade by allowing seamless transfer between ship, rail, and road."
+    },
+    {
+        "id": "COM279",
+        "text": "The $\\textbf{Trade Secret}$ protection remains valid only as long as the $\\textbf{Information}$ provides a $\\textbf{Competitive Edge}$ and is kept $\\textbf{Confidential}$.",
+        "image": "",
+        "options": [
+            "Public",
+            "Registered",
+            "Confidential",
+            "Published"
+        ],
+        "answer": "Confidential",
+        "explanation": "If the information is disclosed or independently discovered, the trade secret protection is lost."
+    },
+    {
+        "id": "COM280",
+        "text": "A $\\textbf{Bear Market}$ is defined by general pessimism, investor caution, and a sustained $\\textbf{Decline}$ in $\\textbf{Stock Prices}$ (typically 20% or $\\textbf{More}$).",
+        "image": "",
+        "options": [
+            "Moderate Increase",
+            "Sharp Increase",
+            "Decline",
+            "Stability"
+        ],
+        "answer": "Decline",
+        "explanation": "Bear markets are characterized by widespread selling and economic contraction."
+    }
+]

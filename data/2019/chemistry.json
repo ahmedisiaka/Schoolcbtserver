@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2019_01",
+      "text": "The electronic configuration of an element is $1s^2 2s^2 2p^6 3s^2 3p^4$. This element belongs to the:",
+      "image": "[Image showing the periodic table highlighting the s, p, d, and f blocks]",
+      "options": ["s-block, Group 2", "p-block, Group 16", "d-block, Group 14", "p-block, Group 6"],
+      "answer": "p-block, Group 16",
+      "explanation": "The highest energy electrons are in the $3p$ orbital, so it is a p-block element. The total number of valence electrons is $2 (3s) + 4 (3p) = 6$. Elements with 6 valence electrons belong to Group 16 (or VI A). The element is Sulfur (S)."
+    },
+    {
+      "id": "JAMB_C_2019_02",
+      "text": "An atom of an element $X$ contains $17$ protons and $18$ neutrons. The mass number of the atom is:",
+      "image": "[Image illustrating the relationship between mass number, protons, and neutrons]",
+      "options": ["$17$", "$18$", "$35$", "$36$"],
+      "answer": "$35$",
+      "explanation": "The mass number ($A$) of an atom is the total number of protons ($Z$) and neutrons ($N$) in its nucleus. $A = Z + N$. Given $Z = 17$ (protons) and $N = 18$ (neutrons). $A = 17 + 18 = 35$."
+    },
+    {
+      "id": "JAMB_C_2019_03",
+      "text": "Which of the following molecules has a linear shape?",
+      "image": "[Image showing the VSEPR shapes of $\\text{BeCl}_2$ (linear) and $\\text{H}_2\\text{O}$ (bent)]",
+      "options": ["$\text{CH}_4$", "$\text{NH}_3$", "$\text{H}_2\\text{O}$", "$\text{BeCl}_2$"],
+      "answer": "$\text{BeCl}_2$",
+      "explanation": "In $\text{BeCl}_2$ (Beryllium chloride), Beryllium is the central atom and has 2 bonding pairs and 0 lone pairs of electrons. This results in $sp$ hybridization and a linear geometry with a bond angle of $180^{\\circ}$."
+    },
+    {
+      "id": "JAMB_C_2019_04",
+      "text": "The amount of solute required to saturate $100 \\text{ g}$ of water at $30^{\\circ} \\text{C}$ is $25 \\text{ g}$. What is the solubility of the solute?",
+      "image": "[Image showing the formula for solubility in $\\text{g/100 g}$ of solvent]",
+      "options": ["$25 \\text{ g/dm}^3$", "$25 \\text{ g/100 g}$ of water", "$125 \\text{ g/100 g}$ of solution", "$100 \\text{ g/100 g}$ of water"],
+      "answer": "$25 \\text{ g/100 g}$ of water",
+      "explanation": "Solubility is defined as the maximum mass of solute that can dissolve in $100 \\text{ g}$ of a specific solvent at a given temperature. Since $25 \\text{ g}$ saturates $100 \\text{ g}$ of water, the solubility is simply $25 \\text{ g/100 g}$ of water."
+    },
+    {
+      "id": "JAMB_C_2019_05",
+      "text": "In the reaction: $\\text{ZnO}(\\text{s}) + \text{CO}(\\text{g}) \\rightleftharpoons \text{Zn}(\\text{s}) + \text{CO}_2(\\text{g})$, the oxidation number of carbon changes from:",
+      "image": "[Image illustrating the calculation of oxidation numbers in $\\text{CO}$ and $\\text{CO}_2$]",
+      "options": ["$+2 \\text{ to } +4$", "$+4 \\text{ to } +2$", "$0 \\text{ to } +2$", "$+2 \\text{ to } 0$"],
+      "answer": "$+2 \\text{ to } +4$",
+      "explanation": "In $\\text{CO}$ (Carbon monoxide): $\\text{O}$ is $-2$, so $\\text{C} + (-2) = 0 \\implies \\text{C} = +2$.\nIn $\\text{CO}_2$ (Carbon dioxide): $2 \\times (-2) = -4$, so $\\text{C} + (-4) = 0 \\implies \\text{C} = +4$.\nThe oxidation number of Carbon increases from $+2$ to $+4$ (oxidation)."
+    },
+    {
+      "id": "JAMB_C_2019_06",
+      "text": "Which of the following processes is associated with decrease in entropy?",
+      "image": "[Image illustrating the difference between high entropy (gas) and low entropy (solid)]",
+      "options": ["Melting of ice", "Sublimation of iodine", "Dissolving salt in water", "Freezing of water"],
+      "answer": "Freezing of water",
+      "explanation": "Entropy ($\\Delta S$) is a measure of disorder or randomness. Freezing of water involves the transition from the relatively disordered liquid state to the highly ordered solid state (ice). Therefore, the disorder decreases, and entropy decreases."
+    },
+    {
+      "id": "JAMB_C_2019_07",
+      "text": "What volume of oxygen at s.t.p. is required to burn $100 \\text{ cm}^3$ of methane completely? ($\text{C} = 12, \text{H} = 1, \text{O} = 16$. Molar volume at s.t.p. = $22.4 \\text{ dm}^3$)",
+      "image": "[Image showing the balanced chemical equation for the combustion of methane]",
+      "options": ["$100 \\text{ cm}^3$", "$200 \\text{ cm}^3$", "$300 \\text{ cm}^3$", "$400 \\text{ cm}^3$"],
+      "answer": "$200 \\text{ cm}^3$",
+      "explanation": "The balanced equation for the combustion of methane is:\n$\\text{CH}_4(\\text{g}) + 2\\text{O}_2(\\text{g}) \\to \text{CO}_2(\\text{g}) + 2\\text{H}_2\\text{O}(\\text{l})$\nFrom the equation, $1$ volume of $\\text{CH}_4$ requires $2$ volumes of $\\text{O}_2$. \nBy Avogadro's Law, volume ratio is equal to mole ratio for gases. \n$1 \\text{ vol } \text{CH}_4 \\to 2 \\text{ vol } \text{O}_2$\n$100 \\text{ cm}^3 \\text{ CH}_4 \\to 2 \\times 100 \\text{ cm}^3 = 200 \\text{ cm}^3 \\text{ O}_2$."
+    },
+    {
+      "id": "JAMB_C_2019_08",
+      "text": "The commonest fuel for internal combustion engines is:",
+      "image": "",
+      "options": ["Kerosene", "Diesel", "Gasoline", "Coal gas"],
+      "answer": "Gasoline",
+      "explanation": "Gasoline (petrol) is the most common and widely used fuel for spark-ignition internal combustion engines in cars and small vehicles. It is a mixture of hydrocarbons with carbon chains typically ranging from $\text{C}_4$ to $\text{C}_{12}$."
+    },
+    {
+      "id": "JAMB_C_2019_09",
+      "text": "The process of converting vegetable oil to margarine is called:",
+      "image": "[Image showing the hydrogenation process: $\\text{Alkene} + \text{H}_2 \\to \text{Alkane}$ with a catalyst]",
+      "options": ["Saponification", "Hydrogenation", "Esterification", "Polymerization"],
+      "answer": "Hydrogenation",
+      "explanation": "Margarine production involves the hydrogenation of liquid vegetable oils (which contain unsaturated fatty acids, i.e., $\\text{C}=\\text{C}$ double bonds) by reacting them with hydrogen gas in the presence of a catalyst (e.g., Nickel). This adds hydrogen across the double bonds, increasing saturation and making the oil semi-solid."
+    },
+    {
+      "id": "JAMB_C_2019_10",
+      "text": "Which of the following compounds is an alkanol?",
+      "image": "[Image showing the functional group ($-\\text{OH}$) characteristic of an alkanol]",
+      "options": ["$\text{CH}_3\\text{OCH}_3$", "$\text{CH}_3\\text{COOCH}_3$", "$\text{CH}_3\\text{CH}_2\\text{OH}$", "$\text{CH}_3\\text{CHO}$"],
+      "answer": "$\text{CH}_3\\text{CH}_2\\text{OH}$",
+      "explanation": "Alkanols (or alcohols) are organic compounds containing the hydroxyl functional group ($-\\text{OH}$) attached to a saturated carbon atom. $\text{CH}_3\\text{CH}_2\\text{OH}$ is ethanol, which is an alkanol. The other options are an ether, an ester, and an aldehyde, respectively."
+    },
+    {
+      "id": "JAMB_C_2019_11",
+      "text": "The main component of natural gas is:",
+      "image": "[Image showing the simple structure of a methane molecule ($\\text{CH}_4$)]",
+      "options": ["Ethane", "Methane", "Propane", "Butane"],
+      "answer": "Methane",
+      "explanation": "Natural gas consists primarily of methane ($\text{CH}_4$), typically $70-90\\%$, along with smaller amounts of other hydrocarbons like ethane, propane, and butane."
+    },
+    {
+      "id": "JAMB_C_2019_12",
+      "text": "An aqueous solution of a substance contains $\\text{H}^{+}$ and $\\text{OH}^{-}$ ions and turns blue litmus paper red. The substance is:",
+      "image": "[Image illustrating the litmus paper test for acids and bases]",
+      "options": ["A neutral salt", "An acid", "A base", "An amphoteric oxide"],
+      "answer": "An acid",
+      "explanation": "Acids are substances that produce $\\text{H}^{+}$ ions (or $\\text{H}_3\\text{O}^{+}$) in aqueous solution. The property of turning blue litmus paper red is characteristic of acids."
+    },
+    {
+      "id": "JAMB_C_2019_13",
+      "text": "The hardest substance known is:",
+      "image": "[Image showing the crystal lattice structure of diamond]",
+      "options": ["Graphite", "Silicon carbide", "Diamond", "Tungsten"],
+      "answer": "Diamond",
+      "explanation": "Diamond is an allotrope of carbon with a giant tetrahedral covalent structure, making it the hardest naturally occurring substance known. Its structure gives it immense strength and rigidity."
+    },
+    {
+      "id": "JAMB_C_2019_14",
+      "text": "Which of the following compounds is used as a bleaching agent?",
+      "image": "[Image showing the structure of Sodium Hypochlorite ($\text{NaClO}$) solution]",
+      "options": ["$\text{Na}_2\\text{CO}_3$", "$\text{H}_2\\text{SO}_4$", "$\text{Ca}(\\text{OCl})_2$", "$\text{CaCO}_3$"],
+      "answer": "$\text{Ca}(\\text{OCl})_2$",
+      "explanation": "Calcium hypochlorite ($\text{Ca}(\\text{OCl})_2$), commonly known as bleaching powder, is a strong oxidizing agent used extensively for bleaching fabrics and disinfecting water."
+    },
+    {
+      "id": "JAMB_C_2019_15",
+      "text": "The most appropriate method for separating a mixture of ethanol (b.p. $78^{\\circ}\\text{C}$) and water (b.p. $100^{\\circ}\\text{C}$) is:",
+      "image": "[Image showing the experimental setup for fractional distillation]",
+      "options": ["Sublimation", "Simple distillation", "Fractional distillation", "Crystallization"],
+      "answer": "Fractional distillation",
+      "explanation": "Fractional distillation is used to separate miscible liquids whose boiling points are close (like ethanol and water, with a $22^{\\circ}\\text{C}$ difference). The fractionating column allows for repeated vaporization and condensation cycles, achieving a better separation than simple distillation."
+    },
+    {
+      "id": "JAMB_C_2019_16",
+      "text": "If the concentration of $\\text{OH}^{-}$ in a solution is $1.0 \\times 10^{-4} \\text{ moldm}^{-3}$, the $\\text{pH}$ of the solution is: ($\text{Kw} = 1.0 \\times 10^{-14} (\text{moldm}^{-3})^2$)",
+      "image": "[Image showing the relationship between $\\text{pOH}$ and $\\text{pH}$ ($\\text{pH} + \text{pOH} = 14$)]",
+      "options": ["$4.0$", "$10.0$", "$7.0$", "$14.0$"],
+      "answer": "$10.0$",
+      "explanation": "First, find $\\text{pOH}$: $\\text{pOH} = -\\log_{10}[\\text{OH}^{-}] = -\\log_{10}(1.0 \\times 10^{-4}) = 4.0$.\nThen, use the relationship $\\text{pH} + \text{pOH} = 14$.\n$\\text{pH} = 14 - \text{pOH} = 14 - 4.0 = 10.0$. The solution is basic."
+    },
+    {
+      "id": "JAMB_C_2019_17",
+      "text": "Which of the following statements about catalysts is correct?",
+      "image": "[Image showing an energy profile diagram comparing catalyzed and uncatalyzed reactions]",
+      "options": ["They shift the position of equilibrium", "They increase the activation energy of the reaction", "They increase the rate of the reaction", "They are consumed in the reaction"],
+      "answer": "They increase the rate of the reaction",
+      "explanation": "Catalysts increase the rate of a chemical reaction by providing an alternative reaction pathway with a lower activation energy. They do not affect the position of equilibrium and are chemically unchanged (not consumed) at the end of the reaction."
+    },
+    {
+      "id": "JAMB_C_2019_18",
+      "text": "A metal rod covered with copper is heated strongly in air. What happens to the copper coating?",
+      "image": "[Image showing the reaction of copper metal with oxygen ($\\text{Cu} + \text{O}_2$) forming $\\text{CuO}$ (black solid)]",
+      "options": ["It melts", "It remains unchanged", "It turns green", "It turns black"],
+      "answer": "It turns black",
+      "explanation": "When copper is heated strongly in air, it reacts with oxygen to form copper(II) oxide ($\text{CuO}$), a black solid. The reaction is: $2\\text{Cu}(\\text{s}) + \text{O}_2(\\text{g}) \\xrightarrow{\\text{Heat}} 2\\text{CuO}(\\text{s})$."
+    },
+    {
+      "id": "JAMB_C_2019_19",
+      "text": "In the contact process for the manufacture of sulphuric acid, the catalyst used is:",
+      "image": "[Image showing the flow chart of the Contact Process, highlighting the conversion step catalyzed by $\\text{V}_2\\text{O}_5$]",
+      "options": ["Iron", "Vanadium(V) oxide", "Platinum", "Nickel"],
+      "answer": "Vanadium(V) oxide",
+      "explanation": "The crucial catalytic step in the Contact Process is the oxidation of sulphur(IV) oxide to sulphur(VI) oxide: $2\\text{SO}_2(\\text{g}) + \text{O}_2(\\text{g}) \\rightleftharpoons 2\\text{SO}_3(\\text{g})$. The catalyst used is $\\text{Vanadium}(\\text{V}) \\text{ oxide } (\\text{V}_2\\text{O}_5)$, due to its effectiveness and lower cost compared to Platinum."
+    },
+    {
+      "id": "JAMB_C_2019_20",
+      "text": "The maximum number of electrons that can occupy the $d$-subshell is:",
+      "image": "[Image showing the $d$-subshell orbitals and the maximum electron capacity]",
+      "options": ["$2$", "$6$", "$10$", "$14$"],
+      "answer": "$10$",
+      "explanation": "The $d$-subshell consists of five degenerate orbitals ($d_{xy}, d_{yz}, d_{xz}, d_{x^2-y^2}, d_{z^2}$). According to the Pauli Exclusion Principle, each orbital can hold a maximum of two electrons. Therefore, the maximum number of electrons in the $d$-subshell is $5 \\times 2 = 10$."
+    },
+    {
+      "id": "JAMB_C_2019_21",
+      "text": "The $\\text{IUPAC}$ name for the compound $\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{COOH}$ is:",
+      "image": "[Image showing the structural formula of Butanoic acid]",
+      "options": ["Propanoic acid", "Butanoic acid", "Pentanoic acid", "Ethanoic acid"],
+      "answer": "Butanoic acid",
+      "explanation": "The compound is a carboxylic acid ($-\\text{COOH}$ functional group). The longest carbon chain containing the functional group has four carbon atoms. The prefix for four carbons is 'but-', so the $\\text{IUPAC}$ name is Butanoic acid."
+    },
+    {
+      "id": "JAMB_C_2019_22",
+      "text": "The phenomenon whereby a substance exists in different crystalline forms is known as:",
+      "image": "[Image showing the crystal structures of two allotropes of carbon (Graphite and Diamond)]",
+      "options": ["Isomerism", "Allotropy", "Isotopy", "Polymerism"],
+      "answer": "Allotropy",
+      "explanation": "Allotropy is the existence of a chemical element in two or more different forms, which are distinct in the arrangement of atoms in crystalline solids or in the occurrence of molecules with different numbers of atoms (e.g., Oxygen ($\text{O}_2$) and Ozone ($\text{O}_3$)). Diamond and Graphite are allotropes of Carbon."
+    },
+    {
+      "id": "JAMB_C_2019_23",
+      "text": "A property of water that makes it suitable for use as a coolant is its:",
+      "image": "[Image illustrating the hydrogen bonding between water molecules]",
+      "options": ["High melting point", "High thermal conductivity", "High heat capacity", "Low viscosity"],
+      "answer": "High heat capacity",
+      "explanation": "Water has a very high specific heat capacity (or high heat capacity), meaning it can absorb a large amount of heat energy with only a small change in temperature. This makes it an excellent substance for absorbing heat from engines or industrial processes without getting excessively hot itself."
+    },
+    {
+      "id": "JAMB_C_2019_24",
+      "text": "Which of the following noble gases is used in filling electric discharge lamps to give a reddish-orange glow?",
+      "image": "[Image showing a neon light sign glowing reddish-orange]",
+      "options": ["Argon", "Helium", "Neon", "Krypton"],
+      "answer": "Neon",
+      "explanation": "Neon gas is commonly used in neon signs. When electric current is passed through it at low pressure, it emits light in the characteristic bright reddish-orange colour."
+    },
+    {
+      "id": "JAMB_C_2019_25",
+      "text": "If $50 \\text{ cm}^3$ of $0.1 \\text{ M}$ acid is neutralized by $25 \\text{ cm}^3$ of $0.2 \\text{ M}$ base, the mole ratio of acid to base is:",
+      "image": "[Image showing the titration setup and the formula for volumetric analysis $\\frac{C_A V_A}{C_B V_B} = \\frac{n_A}{n_B}$]",
+      "options": ["$1:2$", "$2:1$", "$1:1$", "$1:3$"],
+      "answer": "$1:1$",
+      "explanation": "Use the formula $\\frac{n_A}{n_B} = \\frac{C_A V_A}{C_B V_B}$.\n$\\frac{n_A}{n_B} = \\frac{0.1 \\text{ M} \\times 50 \\text{ cm}^3}{0.2 \\text{ M} \\times 25 \\text{ cm}^3} = \\frac{5}{5} = 1$.\nThus, the mole ratio of acid to base ($n_A : n_B$) is $1:1$. This implies the acid and base are reacting in a $1:1$ stoichiometric ratio."
+    },
+    {
+      "id": "JAMB_C_2019_26",
+      "text": "The major product formed when ethanol is heated with concentrated $\text{H}_2\\text{SO}_4$ at $170^{\\circ}\\text{C}$ is:",
+      "image": "[Image showing the dehydration reaction of ethanol using concentrated $\\text{H}_2\\text{SO}_4$]",
+      "options": ["Ethanoic acid", "Ethene", "Diethyl ether", "Ethanal"],
+      "answer": "Ethene",
+      "explanation": "Concentrated $\text{H}_2\\text{SO}_4$ acts as a dehydrating agent. When heated with ethanol at a high temperature ($\\approx 170^{\\circ}\\text{C}$), it removes a molecule of water from the ethanol to form an alkene (ethene): $\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{Conc. } \text{H}_2\\text{SO}_4, 170^{\\circ}\\text{C}} \text{CH}_2=\\text{CH}_2 + \text{H}_2\\text{O}$."
+    },
+    {
+      "id": "JAMB_C_2019_27",
+      "text": "The process of purifying water by passing it through porous materials to remove suspended particles is:",
+      "image": "[Image showing the filtration stage in water treatment]",
+      "options": ["Sedimentation", "Chlorination", "Filtration", "Flocculation"],
+      "answer": "Filtration",
+      "explanation": "Filtration is the physical process of separating suspended solid particles from a liquid or gas by passing the mixture through a filter medium (porous material) that retains the solid particles."
+    },
+    {
+      "id": "JAMB_C_2019_28",
+      "text": "In the electrolysis of brine ($\text{NaCl}$ solution) using inert electrodes, the gas evolved at the anode is:",
+      "image": "",
+      "options": ["Hydrogen", "Oxygen", "Chlorine", "Sodium"],
+      "answer": "Chlorine",
+      "explanation": "At the anode (positive electrode), oxidation occurs. The possible anions are $\text{Cl}^{-}$ and $\text{OH}^{-}$ (from water). The discharge potential for $\text{Cl}^{-}$ is lower than $\text{OH}^{-}$ in concentrated solution (brine). Thus, $\text{Cl}^{-}$ is oxidized:\n$2\\text{Cl}^{-}(\\text{aq}) \\to \text{Cl}_2(\\text{g}) + 2e^{-}$"
+    },
+    {
+      "id": "JAMB_C_2019_29",
+      "text": "A physical change is one that:",
+      "image": "[Image illustrating the phase change of water (ice $\\to$ liquid $\\to$ steam)]",
+      "options": ["Results in the formation of new chemical substances", "Is always accompanied by an evolution of heat", "Involves only a change of state or appearance", "Is irreversible"],
+      "answer": "Involves only a change of state or appearance",
+      "explanation": "A physical change alters the form or appearance of matter but does not change its chemical composition. Examples include melting, freezing, boiling, and dissolving. Chemical changes, conversely, result in new substances."
+    },
+    {
+      "id": "JAMB_C_2019_30",
+      "text": "What mass of $\text{CaCO}_3$ will produce $11.2 \\text{ dm}^3$ of $\text{CO}_2$ at s.t.p.? ($\text{Ca}=40, \text{C}=12, \text{O}=16$. Molar volume at s.t.p. = $22.4 \\text{ dm}^3$)",
+      "image": "[Image showing the balanced equation for the decomposition of $\\text{CaCO}_3$]",
+      "options": ["$100 \\text{ g}$", "$50 \\text{ g}$", "$25 \\text{ g}$", "$10 \\text{ g}$"],
+      "answer": "$50 \\text{ g}$",
+      "explanation": "The reaction is: $\text{CaCO}_3(\\text{s}) \\to \text{CaO}(\\text{s}) + \text{CO}_2(\\text{g})$\nFrom the equation, $1 \\text{ mol } \text{CaCO}_3$ produces $1 \\text{ mol } \text{CO}_2$. \nMolar mass of $\\text{CaCO}_3 = 40 + 12 + (3 \\times 16) = 100 \\text{ g/mol}$.\n$1 \\text{ mol } \text{CO}_2$ occupies $22.4 \\text{ dm}^3$ at s.t.p.\nMass of $\\text{CaCO}_3$ required to produce $11.2 \\text{ dm}^3 \\text{ CO}_2$: \n$\text{Moles of } \text{CO}_2 = \\frac{11.2}{22.4} = 0.5 \\text{ mol}$.\n$\text{Moles of } \text{CaCO}_3 = 0.5 \\text{ mol}$.\n$\text{Mass} = \text{Moles} \\times \text{Molar Mass} = 0.5 \\text{ mol} \\times 100 \\text{ g/mol} = 50 \\text{ g}$."
+    },
+    {
+      "id": "JAMB_C_2019_31",
+      "text": "Which of the following compounds is an example of an unsaturated hydrocarbon?",
+      "image": "[Image showing the structure of an alkene (e.g., Ethene) containing a $\\text{C}=\\text{C}$ double bond]",
+      "options": ["Propane", "Butane", "Ethene", "Methane"],
+      "answer": "Ethene",
+      "explanation": "Unsaturated hydrocarbons contain at least one double ($\text{C}=\\text{C}$) or triple ($\text{C}\\equiv\\text{C}$) bond between carbon atoms. Ethene ($\text{C}_2\\text{H}_4$) is an alkene, which contains a $\\text{C}=\\text{C}$ double bond. Propane, Butane, and Methane are alkanes (saturated hydrocarbons)."
+    },
+    {
+      "id": "JAMB_C_2019_32",
+      "text": "When a salt of strong acid and a weak base is dissolved in water, the solution is:",
+      "image": "[Image showing the hydrolysis of $\\text{NH}_4\\text{Cl}$ (salt of strong acid/weak base) leading to an acidic solution]",
+      "options": ["Basic", "Neutral", "Acidic", "Amphoteric"],
+      "answer": "Acidic",
+      "explanation": "Salts formed from a strong acid (like $\\text{HCl}$) and a weak base (like $\\text{NH}_4\\text{OH}$) undergo hydrolysis. The anion of the strong acid is a weak conjugate base, while the cation of the weak base is a relatively strong conjugate acid. The conjugate acid (from the weak base) hydrolyzes water to produce $\\text{H}^{+}$ ions, making the solution acidic."
+    },
+    {
+      "id": "JAMB_C_2019_33",
+      "text": "An element with atomic number $16$ will likely form an ion with a charge of:",
+      "image": "[Image showing an atom of Sulfur (atomic number 16) gaining 2 electrons to achieve stability]",
+      "options": ["$1+$", "$2+$", "$1-$", "$2-$"],
+      "answer": "$2-$",
+      "explanation": "An element with atomic number 16 is Sulfur, which has the electronic configuration $2, 8, 6$. It needs 2 more electrons to achieve a stable octet configuration (like the noble gas Argon). Therefore, it will gain 2 electrons to form an ion with a $2-$ charge ($\text{S}^{2-}$)."
+    },
+    {
+      "id": "JAMB_C_2019_34",
+      "text": "Which of the following metals is extracted by electrolysis of its fused chloride?",
+      "image": "[Image showing the Downs cell for the extraction of sodium metal]",
+      "options": ["Iron", "Copper", "Sodium", "Zinc"],
+      "answer": "Sodium",
+      "explanation": "Highly electropositive metals (reactive metals) like Sodium ($\text{Na}$), Potassium ($\text{K}$), Calcium ($\text{Ca}$), and Magnesium ($\text{Mg}$) are extracted from their compounds (usually molten chlorides) by electrolysis, as they cannot be reduced by chemical agents like Carbon."
+    },
+    {
+      "id": "JAMB_C_2019_35",
+      "text": "Increasing the pressure of a reaction mixture in equilibrium will favor the reaction that:",
+      "image": "[Image illustrating Le Chatelier's principle and the effect of increased pressure on an equilibrium involving gases]",
+      "options": ["Has a greater number of moles of gaseous products", "Has a greater number of moles of gaseous reactants", "Proceeds with an increase in volume", "Proceeds with a decrease in volume"],
+      "answer": "Proceeds with a decrease in volume",
+      "explanation": "According to Le Chatelier's principle, increasing the external pressure on a gaseous system at equilibrium will cause the equilibrium position to shift in the direction that reduces the total volume. This is the side of the reaction with the fewer number of moles of gas."
+    },
+    {
+      "id": "JAMB_C_2019_36",
+      "text": "The functional group present in alkanoates is:",
+      "image": "[Image showing the structural formula of the ester functional group ($\\text{R-COO-R}'$)]",
+      "options": ["$-\\text{OH}$", "$-\\text{COOH}$", "$-\\text{CHO}$", "$-\\text{COO}-$"],
+      "answer": "$-\\text{COO}-$",
+      "explanation": "Alkanoates are esters, which contain the ester functional group ($-\\text{COO}-$), characterized by a carbonyl group ($\text{C}=\text{O}$) bonded to an oxygen atom, which is in turn bonded to another carbon atom ($\text{R-COO-R}'$). $-\\text{OH}$ is alcohol, $-\\text{COOH}$ is carboxylic acid, and $-\\text{CHO}$ is aldehyde."
+    },
+    {
+      "id": "JAMB_C_2019_37",
+      "text": "Which industrial process is used for the manufacture of ammonia?",
+      "image": "[Image showing a diagram of the Haber process (e.g., reactor, flow lines)]",
+      "options": ["Haber process", "Contact process", "Ostwald process", "Frasch process"],
+      "answer": "Haber process",
+      "explanation": "The Haber process is the industrial method for producing ammonia ($\text{NH}_3$) from nitrogen and hydrogen gases: $\text{N}_2(\\text{g}) + 3\\text{H}_2(\\text{g}) \\rightleftharpoons 2\\text{NH}_3(\\text{g})$. The Contact Process is for $\\text{H}_2\\text{SO}_4$, and the Ostwald Process is for $\\text{HNO}_3$."
+    },
+    {
+      "id": "JAMB_C_2019_38",
+      "text": "The type of bond in the ammonium ion ($\text{NH}_4^{+}$) is:",
+      "image": "[Image showing the formation of the ammonium ion, illustrating covalent and dative covalent bonds]",
+      "options": ["Ionic", "Covalent", "Dative covalent only", "Covalent and Dative covalent"],
+      "answer": "Covalent and Dative covalent",
+      "explanation": "The bonds within the $\\text{NH}_4^{+}$ ion are: 1. Three normal **covalent** bonds between $\\text{N}$ and $\\text{H}$ (from $\\text{NH}_3$). 2. One **dative covalent** bond (or coordinate bond) formed when the lone pair of electrons on the nitrogen atom in ammonia ($\text{NH}_3$) is shared with a $\\text{H}^{+}$ ion."
+    },
+    {
+      "id": "JAMB_C_2019_39",
+      "text": "The arrangement of particles in a solid is:",
+      "image": "[Image showing a tightly packed, ordered lattice structure characteristic of a solid]",
+      "options": ["Closely packed and random", "Far apart and random", "Closely packed and ordered", "Far apart and ordered"],
+      "answer": "Closely packed and ordered",
+      "explanation": "In the solid state, particles (atoms, ions, or molecules) are closely packed together and arranged in fixed, orderly positions (a crystal lattice), allowing only vibrational movement."
+    },
+    {
+      "id": "JAMB_C_2019_40",
+      "text": "The process of electroplating is used primarily to:",
+      "image": "[Image showing the setup for electroplating, with an object being coated at the cathode]",
+      "options": ["Purify metals", "Generate electricity", "Prevent corrosion", "Extract noble metals"],
+      "answer": "Prevent corrosion",
+      "explanation": "Electroplating is the process of coating a metallic object with a thin layer of another metal using electrolysis. The main purposes are decorative and, more importantly, to protect the underlying metal from rust and corrosion (e.g., plating iron with Chromium or Zinc)."
+    }
+  ]

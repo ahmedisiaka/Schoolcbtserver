@@ -1,0 +1,782 @@
+[
+    {
+      "id": "Q81",
+      "topic": "States of Matter (Intermolecular Forces)",
+      "text": "Which of the following substances has the weakest intermolecular forces?",
+      "options": [
+        "Water ($\text{H}_2\text{O}$)",
+        "Methane ($\text{CH}_4$)",
+        "Ammonia ($\text{NH}_3$)",
+        "Ethanol ($\text{C}_2\text{H}_5\text{OH}$)"
+      ],
+      "answer": "Methane ($\text{CH}_4$)",
+      "explanation": "Methane is a non-polar molecule with only weak London dispersion forces. Water and Ammonia exhibit strong Hydrogen bonding, and Ethanol also exhibits Hydrogen bonding and dipole-dipole forces, which are all stronger than the forces in Methane."
+    },
+    {
+      "id": "Q82",
+      "topic": "Nomenclature (Inorganic)",
+      "text": "What is the systematic name for the compound $\text{Na}_2\text{SO}_3$?",
+      "options": [
+        "Sodium tetraoxosulphate (VI)",
+        "Sodium trioxosulphate (IV)",
+        "Sodium sulphate",
+        "Sodium sulphite"
+      ],
+      "answer": "Sodium trioxosulphate (IV)",
+      "explanation": "The $\text{SO}_3^{2-}$ ion is the trioxosulphate (IV) ion (or sulphite ion), where Sulphur has an oxidation state of $+4$. The systematic name is Sodium trioxosulphate (IV)."
+    },
+    {
+      "id": "Q83",
+      "topic": "Atomic Structure",
+      "text": "The energy required to remove the most loosely held electron from a gaseous atom is called:",
+      "options": [
+        "Electron affinity",
+        "Electronegativity",
+        "Ionization energy",
+        "Heat of atomization"
+      ],
+      "answer": "Ionization energy",
+      "explanation": "Ionization energy is specifically the energy needed to remove an electron from an isolated gaseous atom or ion."
+    },
+    {
+      "id": "Q84",
+      "topic": "Stoichiometry (Limiting Reactant)",
+      "text": "If $10.0 \\text{ g}$ of $\text{Ca}$ react with $10.0 \\text{ g}$ of $\text{O}_2$, which is the limiting reactant? ($\text{Ca}=40, \text{O}=16$)",
+      "options": [
+        "Calcium ($\text{Ca}$)",
+        "Oxygen ($\text{O}_2$)",
+        "Calcium oxide ($\text{CaO}$)",
+        "Neither, the amounts are stoichiometric."
+      ],
+      "answer": "Calcium ($\text{Ca}$)",
+      "explanation": "Reaction: $2\text{Ca} + \text{O}_2 \\to 2\text{CaO}$. Moles of $\text{Ca} = 10.0/40 = 0.25 \\text{ mol}$. Moles of $\text{O}_2 = 10.0/32 = 0.3125 \\text{ mol}$. Required $\text{O}_2$ for $0.25 \\text{ mol}$ $\text{Ca}$ is $0.25/2 = 0.125 \\text{ mol}$. Since $0.3125 > 0.125$, $\text{O}_2$ is in excess, and $\text{Ca}$ is the limiting reactant."
+    },
+    {
+      "id": "Q85",
+      "topic": "Chemical Equilibrium (Effect of Catalyst)",
+      "text": "In a reversible reaction at equilibrium, the addition of a catalyst will:",
+      "options": [
+        "Increase the yield of the product.",
+        "Decrease the activation energy of the forward reaction only.",
+        "Increase the rate of the forward and backward reactions equally.",
+        "Shift the position of the equilibrium to the right."
+      ],
+      "answer": "Increase the rate of the forward and backward reactions equally.",
+      "explanation": "A catalyst lowers the activation energy for both the forward and backward reactions by the same amount, thus increasing their rates equally and reaching equilibrium faster without changing the position of the equilibrium or the yield."
+    },
+    {
+      "id": "Q86",
+      "topic": "Acids, Bases, and Salts",
+      "text": "Which of the following is a normal salt?",
+      "options": [
+        "$\text{NaHSO}_4$",
+        "$\text{Na}_2\text{CO}_3$",
+        "$\text{Zn}(\text{OH})\text{Cl}$",
+        "$\text{Na}_3\text{PO}_4$"
+      ],
+      "answer": "$\text{Na}_2\text{CO}_3$",
+      "explanation": "A normal salt ($\text{Na}_2\text{CO}_3$) contains no replaceable hydrogen ions (acidic salt like $\text{NaHSO}_4$) or hydroxyl ions (basic salt like $\text{Zn}(\text{OH})\text{Cl}$)."
+    },
+    {
+      "id": "Q87",
+      "topic": "Redox Reactions",
+      "text": "In the reaction $\text{Zn} + 2\text{HCl} \\to \text{ZnCl}_2 + \text{H}_2$, the substance oxidized is:",
+      "options": [
+        "$\text{Zn}$",
+        "$\text{HCl}$",
+        "$\text{H}^+$",
+        "$\text{Cl}^-$"
+      ],
+      "answer": "$\text{Zn}$",
+      "explanation": "Oxidation is the increase in oxidation state. $\text{Zn}$ goes from $0$ to $+2$ in $\text{ZnCl}_2$, hence $\text{Zn}$ is oxidized. Hydrogen ($\text{H}^+$) is reduced from $+1$ to $0$."
+    },
+    {
+      "id": "Q88",
+      "topic": "Gas Laws (Dalton's Law)",
+      "text": "A mixture of gases contains $4 \text{ moles}$ of Nitrogen and $1 \text{ mole}$ of Oxygen. If the total pressure is $5 \text{ atm}$, what is the partial pressure of Nitrogen?",
+      "options": [
+        "$1.0 \text{ atm}$",
+        "$4.0 \text{ atm}$",
+        "$2.5 \text{ atm}$",
+        "$5.0 \text{ atm}$"
+      ],
+      "answer": "4.0 atm",
+      "explanation": "Mole fraction of $\text{N}_2 = \frac{4}{4+1} = 0.8$. Partial Pressure of $\text{N}_2 = \text{Mole fraction} \times \text{Total Pressure} = 0.8 \times 5 \text{ atm} = 4.0 \text{ atm}$."
+    },
+    {
+      "id": "Q89",
+      "topic": "Electrolysis",
+      "text": "During the electrolysis of a dilute aqueous solution of Sodium chloride ($\text{NaCl}$) using inert electrodes, the product at the cathode is:",
+      "options": [
+        "Sodium metal",
+        "Hydrogen gas",
+        "Oxygen gas",
+        "Chlorine gas"
+      ],
+      "answer": "Hydrogen gas",
+      "explanation": "At the cathode (reduction): $\text{H}^+$ from water is preferentially reduced over $\text{Na}^+$, producing Hydrogen gas ($\text{2H}_2\text{O} + 2\text{e}^- \to \text{H}_2 + 2\text{OH}^-$)."
+    },
+    {
+      "id": "Q90",
+      "topic": "Organic Chemistry (Functional Groups)",
+      "text": "Which of the following classes of organic compounds contains the carboxyl functional group?",
+      "options": [
+        "Alkanols",
+        "Alkenes",
+        "Esters",
+        "Alkanoic acids"
+      ],
+      "answer": "Alkanoic acids",
+      "explanation": "Alkanoic acids (carboxylic acids) are characterized by the carboxyl group ($\text{-COOH}$). Esters contain the ester functional group ($\text{-COO-}$)."
+    },
+    {
+      "id": "Q91",
+      "topic": "Reactivity Series",
+      "text": "Which of the following metals is the strongest reducing agent?",
+      "options": [
+        "Zinc ($\text{Zn}$)",
+        "Copper ($\text{Cu}$)",
+        "Potassium ($\text{K}$)",
+        "Iron ($\text{Fe}$)"
+      ],
+      "answer": "Potassium ($\text{K}$)",
+      "explanation": "Reducing strength increases with increasing ease of losing electrons (oxidation). Potassium is an alkali metal and is highest in the reactivity series among the options, making it the strongest reducing agent."
+    },
+    {
+      "id": "Q92",
+      "topic": "Periodic Properties",
+      "text": "Elements in Group 17 (Halogens) are very reactive because they:",
+      "options": [
+        "Have large atomic radii.",
+        "Have low ionization energies.",
+        "Require only one electron to complete their outer shell.",
+        "Form multiple covalent bonds."
+      ],
+      "answer": "Require only one electron to complete their outer shell.",
+      "explanation": "Group 17 elements have 7 valence electrons and a high tendency to gain one electron to achieve a stable noble gas configuration, which accounts for their high reactivity."
+    },
+    {
+      "id": "Q93",
+      "topic": "Calculations (Mole Concept)",
+      "text": "What is the number of molecules in $11.0 \text{ g}$ of $\text{CO}_2$? ($\text{C}=12, \text{O}=16$; Avogadro constant $N_A = 6.02 \times 10^{23} \text{ mol}^{-1}$)",
+      "options": [
+        "$6.02 \times 10^{23}$",
+        "$1.505 \times 10^{23}$",
+        "$3.01 \times 10^{23}$",
+        "$4.515 \times 10^{23}$"
+      ],
+      "answer": "$1.505 \\times 10^{23}$",
+      "explanation": "Molar mass of $\text{CO}_2 = 12 + 2(16) = 44 \text{ g/mol}$. Moles of $\text{CO}_2 = 11.0 / 44 = 0.25 \text{ mol}$. Number of molecules $= 0.25 \times 6.02 \times 10^{23} = 1.505 \times 10^{23}$."
+    },
+    {
+      "id": "Q94",
+      "topic": "Water Hardness",
+      "text": "Which of the following methods can remove both temporary and permanent hardness from water?",
+      "options": [
+        "Boiling",
+        "Addition of $\text{Ca}(\text{OH})_2$ (Clark's method)",
+        "Distillation",
+        "Addition of $\text{Na}_2\text{CO}_3$"
+      ],
+      "answer": "Distillation",
+      "explanation": "Distillation involves evaporating and condensing the water, leaving all dissolved impurities (including the hardness-causing salts) behind. It is the most effective method for complete removal."
+    },
+    {
+      "id": "Q95",
+      "topic": "Chemical Bonding",
+      "text": "The combination of $\text{s}$ and $\text{p}$ atomic orbitals to form a set of new, equivalent orbitals is known as:",
+      "options": [
+        "Hybridization",
+        "Ionic bonding",
+        "Dative bonding",
+        "Electronegativity"
+      ],
+      "answer": "Hybridization",
+      "explanation": "Hybridization is the process of mixing atomic orbitals (like $\text{s}$ and $\text{p}$) to form new hybrid orbitals suitable for the formation of bonds. [Image of sp3 hybridization of Carbon in Methane]"
+    },
+    {
+      "id": "Q96",
+      "topic": "Energy Changes (Thermodynamics)",
+      "text": "If the products of a reaction have a lower total energy than the reactants, the reaction is:",
+      "options": [
+        "Endothermic",
+        "Exothermic",
+        "Isothermal",
+        "Reversible"
+      ],
+      "answer": "Exothermic",
+      "explanation": "A reaction where the products have lower energy than the reactants means energy (heat) has been lost to the surroundings ($\\Delta H < 0$), making it exothermic."
+    },
+    {
+      "id": "Q97",
+      "topic": "Separation Techniques",
+      "text": "What is the principle that allows for the separation of ethanol and water by fractional distillation?",
+      "options": [
+        "Difference in solubility",
+        "Difference in melting point",
+        "Difference in density",
+        "Difference in boiling point"
+      ],
+      "answer": "Difference in boiling point",
+      "explanation": "Fractional distillation separates miscible liquids based on the differences in their boiling points. The liquid with the lower boiling point (ethanol, $78.3 \\text{ \u00b0C}$) vaporizes first."
+    },
+    {
+      "id": "Q98",
+      "topic": "Organic Chemistry (Isomerism)",
+      "text": "Which type of isomerism is exhibited by the pair Ethanol ($\text{C}_2\text{H}_5\text{OH}$) and Dimethyl ether ($\text{CH}_3\text{OCH}_3$)?",
+      "options": [
+        "Chain isomerism",
+        "Positional isomerism",
+        "Functional group isomerism",
+        "Geometric isomerism"
+      ],
+      "answer": "Functional group isomerism",
+      "explanation": "Both compounds have the same molecular formula ($\text{C}_2\text{H}_6\text{O}$) but belong to different homologous series (Alkanol and Ether, respectively), meaning they have different functional groups."
+    },
+    {
+      "id": "Q99",
+      "topic": "Acids, Bases, and Salts (Buffer Solutions)",
+      "text": "A solution containing ethanoic acid and sodium ethanoate is an example of a(n):",
+      "options": [
+        "Neutral solution",
+        "Strong acid solution",
+        "Strong base solution",
+        "Acidic buffer solution"
+      ],
+      "answer": "Acidic buffer solution",
+      "explanation": "An acidic buffer solution is made from a weak acid (ethanoic acid) and its salt with a strong base (sodium ethanoate). It resists changes in pH when small amounts of acid or base are added."
+    },
+    {
+      "id": "Q100",
+      "topic": "Environmental Chemistry",
+      "text": "The primary component of the air responsible for the Greenhouse Effect is:",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon (IV) oxide"
+      ],
+      "answer": "Carbon (IV) oxide",
+      "explanation": "Carbon dioxide ($\text{CO}_2$) is the most significant anthropogenic greenhouse gas, trapping heat radiated from the Earth's surface."
+    },
+    {
+      "id": "Q101",
+      "topic": "Gas Laws (Ideal Gas)",
+      "text": "Real gases behave most like ideal gases at:",
+      "options": [
+        "High pressure and high temperature",
+        "Low pressure and low temperature",
+        "High pressure and low temperature",
+        "Low pressure and high temperature"
+      ],
+      "answer": "Low pressure and high temperature",
+      "explanation": "Under low pressure, the volume of the gas molecules is negligible compared to the total volume. Under high temperature, the kinetic energy overcomes the weak intermolecular forces. These conditions match the assumptions of the Ideal Gas Law."
+    },
+    {
+      "id": "Q102",
+      "topic": "Electrochemistry (Standard Electrode Potential)",
+      "text": "A metal with a highly negative standard electrode potential is:",
+      "options": [
+        "Easily reduced and a weak reducing agent.",
+        "Easily oxidized and a strong reducing agent.",
+        "Easily reduced and a strong oxidizing agent.",
+        "Easily oxidized and a weak oxidizing agent."
+      ],
+      "answer": "Easily oxidized and a strong reducing agent.",
+      "explanation": "A highly negative electrode potential means the species has a high tendency to lose electrons (be oxidized), making it a strong reducing agent."
+    },
+    {
+      "id": "Q103",
+      "topic": "Organic Reactions (Substitution)",
+      "text": "The characteristic reaction of alkanes with halogens in the presence of sunlight is:",
+      "options": [
+        "Addition",
+        "Substitution",
+        "Polymerization",
+        "Elimination"
+      ],
+      "answer": "Substitution",
+      "explanation": "Alkanes are saturated and undergo substitution reactions where a hydrogen atom is replaced by a halogen atom (e.g., Chlorination of Methane). This requires UV light or high heat."
+    },
+    {
+      "id": "Q104",
+      "topic": "Metals (Extraction)",
+      "text": "The major ore of Aluminium is:",
+      "options": [
+        "Haematite",
+        "Bauxite",
+        "Galena",
+        "Cassiterite"
+      ],
+      "answer": "Bauxite",
+      "explanation": "Bauxite ($\text{Al}_2\text{O}_3 \\cdot 2\text{H}_2\text{O}$) is the chief ore from which Aluminium is commercially extracted, usually via the Hall-Héroult process."
+    },
+    {
+      "id": "Q105",
+      "topic": "Stoichiometry (Yield)",
+      "text": "If the theoretical yield of a product is $50 \text{ g}$ and the actual yield obtained is $45 \text{ g}$, the percentage yield is:",
+      "options": [
+        "$90\\%$",
+        "$11.1\\%$",
+        "$85\\%$",
+        "$100\\%$"
+      ],
+      "answer": "90%",
+      "explanation": "Percentage Yield $= \frac{\text{Actual Yield}}{\text{Theoretical Yield}} \times 100\\% = \frac{45 \text{ g}}{50 \text{ g}} \times 100\\% = 90\\%$."
+    },
+    {
+      "id": "Q106",
+      "topic": "Solutions (Colligative Properties)",
+      "text": "Which of the following $0.1 \text{ mol/dm}^3$ aqueous solutions will have the highest boiling point?",
+      "options": [
+        "Glucose ($\text{C}_6\text{H}_{12}\text{O}_6$)",
+        "Sodium chloride ($\text{NaCl}$)",
+        "Calcium chloride ($\text{CaCl}_2$)",
+        "Urea ($\text{CO}(\text{NH}_2)_2$)"
+      ],
+      "answer": "Calcium chloride ($\text{CaCl}_2$)",
+      "explanation": "Boiling point elevation is a colligative property dependent on the number of solute particles. $\text{CaCl}_2$ dissociates into 3 ions ($\text{Ca}^{2+}$ and $2\text{Cl}^-$), $\text{NaCl}$ into 2 ions, while Glucose and Urea are non-electrolytes (1 particle)."
+    },
+    {
+      "id": "Q107",
+      "topic": "Redox Reactions (Oxidizing Agent)",
+      "text": "Which of the following is an example of a good oxidizing agent?",
+      "options": [
+        "Potassium iodide ($\text{KI}$)",
+        "Sulphur dioxide ($\text{SO}_2$)",
+        "Potassium tetraoxomanganate (VII) ($\text{KMnO}_4$)",
+        "Hydrogen sulphide ($\text{H}_2\text{S}$)"
+      ],
+      "answer": "Potassium tetraoxomanganate (VII) ($\text{KMnO}_4$)",
+      "explanation": "An oxidizing agent is reduced. $\text{KMnO}_4$ contains Manganese in its highest oxidation state ($+7$), making it a powerful oxidizing agent as it readily accepts electrons."
+    },
+    {
+      "id": "Q108",
+      "topic": "Organic Reactions (Addition)",
+      "text": "The addition of $\text{HBr}$ to propene ($\text{CH}_3\text{CH}=\text{CH}_2$) follows Markovnikov's rule, yielding primarily:",
+      "options": [
+        "1-Bromopropane",
+        "2-Bromopropane",
+        "3-Bromopropane",
+        "1,2-Dibromopropane"
+      ],
+      "answer": "2-Bromopropane",
+      "explanation": "Markovnikov's rule states that the hydrogen atom (from $\text{HBr}$) adds to the carbon atom of the double bond that already has the greater number of hydrogen atoms. Thus, the $\text{Br}$ adds to the middle carbon, forming 2-Bromopropane. "
+    },
+    {
+      "id": "Q109",
+      "topic": "Laboratory Techniques",
+      "text": "A volumetric flask is primarily used in the laboratory for:",
+      "options": [
+        "Heating liquids to a specific temperature.",
+        "Measuring accurate volumes of liquid during a titration.",
+        "Accurately preparing a solution of a specific volume and concentration.",
+        "Separating immiscible liquids."
+      ],
+      "answer": "Accurately preparing a solution of a specific volume and concentration.",
+      "explanation": "Volumetric flasks are calibrated to contain a precise volume of liquid (e.g., $250 \text{ cm}^3$ or $1 \text{ dm}^3$) at a specific temperature, making them essential for preparing standard solutions."
+    },
+    {
+      "id": "Q110",
+      "topic": "Metals (Alloys)",
+      "text": "Brass is an alloy of Copper and:",
+      "options": [
+        "Iron",
+        "Tin",
+        "Zinc",
+        "Aluminium"
+      ],
+      "answer": "Zinc",
+      "explanation": "Brass is an alloy consisting primarily of copper and zinc."
+    },
+    {
+      "id": "Q111",
+      "topic": "Thermal Decomposition",
+      "text": "Which of the following compounds decomposes on heating to give a metal oxide, $\text{NO}_2$, and $\text{O}_2$?",
+      "options": [
+        "$\text{NaNO}_3$",
+        "$\text{KNO}_3$",
+        "$\text{Pb}(\text{NO}_3)_2$",
+        "$\text{NH}_4\text{NO}_3$"
+      ],
+      "answer": "$\text{Pb}(\text{NO}_3)_2$",
+      "explanation": "Nitrates of metals from $\text{Mg}$ to $\text{Cu}$ in the reactivity series (like Lead) decompose to form the metal oxide, nitrogen (IV) oxide ($\text{NO}_2$), and oxygen ($\text{O}_2$). $2\text{Pb}(\text{NO}_3)_2(s) \to 2\text{PbO}(s) + 4\text{NO}_2(g) + \text{O}_2(g)$."
+    },
+    {
+      "id": "Q112",
+      "topic": "Periodic Law",
+      "text": "The trend in chemical properties across a period is due to the regular change in:",
+      "options": [
+        "Atomic mass",
+        "Number of neutrons",
+        "Number of valence electrons",
+        "Nuclear charge only"
+      ],
+      "answer": "Number of valence electrons",
+      "explanation": "Chemical properties are primarily determined by the number of electrons in the outermost shell (valence electrons), which increases systematically across a period."
+    },
+    {
+      "id": "Q113",
+      "topic": "Chemical Calculations (Empirical/Molecular Formula)",
+      "text": "If the empirical formula of a compound is $\text{CH}_2$ and its molar mass is $56 \text{ g/mol}$, what is its molecular formula? ($\text{C}=12, \text{H}=1$)",
+      "options": [
+        "$\text{C}_2\text{H}_4$",
+        "$\text{C}_4\text{H}_8$",
+        "$\text{C}_3\text{H}_6$",
+        "$\text{C}_5\text{H}_{10}$"
+      ],
+      "answer": "$\text{C}_4\text{H}_8$",
+      "explanation": "Mass of empirical formula ($\text{CH}_2$) $= 12 + 2(1) = 14$. $n = \frac{\text{Molar mass}}{\text{Empirical formula mass}} = \frac{56}{14} = 4$. Molecular formula $= n \times (\text{Empirical formula}) = 4 \times (\text{CH}_2) = \text{C}_4\text{H}_8$."
+    },
+    {
+      "id": "Q114",
+      "topic": "Acid-Base Theories",
+      "text": "Which of the following species can act as both a Lewis acid and a Lewis base?",
+      "options": [
+        "$\text{H}_2\text{O}$",
+        "$\text{BF}_3$",
+        "$\text{NH}_4^+$",
+        "$\text{Cl}^-$"
+      ],
+      "answer": "$\text{H}_2\text{O}$",
+      "explanation": "Water ($\text{H}_2\text{O}$) can act as a Lewis base (donating one of its lone pairs on Oxygen) and, in some contexts, as a Lewis acid (accepting an electron pair). However, the better answer for amphoteric behavior is usually proton exchange. In the context of Lewis theory, a species needs to have a lone pair (base) and be able to accept one (acid, though usually $\text{H}_2\text{O}$ acts as a base). $\text{BF}_3$ is a pure acid. $\text{H}_2\text{O}$ is the only species listed that can both donate and accept a proton (Brønsted-Lowry amphoteric), and it can donate a lone pair (Lewis base)."
+    },
+    {
+      "id": "Q115",
+      "topic": "Inorganic Chemistry (Sulphur)",
+      "text": "The contact process is used for the industrial manufacture of:",
+      "options": [
+        "Ammonia",
+        "Nitric acid",
+        "Sulphuric acid",
+        "Chlorine"
+      ],
+      "answer": "Sulphuric acid",
+      "explanation": "The Contact process, which uses $\text{V}_2\text{O}_5$ as a catalyst, is the primary industrial method for producing Sulphuric acid ($\text{H}_2\text{SO}_4$)."
+    },
+    {
+      "id": "Q116",
+      "topic": "Rates of Reaction (Effect of Concentration)",
+      "text": "For a reaction to occur, the reacting particles must collide with sufficient energy. This minimum energy is called:",
+      "options": [
+        "Activation energy",
+        "Kinetic energy",
+        "Potential energy",
+        "Threshold energy"
+      ],
+      "answer": "Activation energy",
+      "explanation": "Activation energy ($E_a$) is the minimum energy required by the colliding particles to cause a chemical reaction."
+    },
+    {
+      "id": "Q117",
+      "topic": "Organic Reactions (Polymerization)",
+      "text": "The monomer of natural rubber is:",
+      "options": [
+        "Ethene",
+        "Isoprene (2-methylbuta-1,3-diene)",
+        "Vinyl chloride",
+        "Propene"
+      ],
+      "answer": "Isoprene (2-methylbuta-1,3-diene)",
+      "explanation": "Natural rubber is a polymer of the monomer isoprene (2-methylbuta-1,3-diene). [Image of the structure of Isoprene]"
+    },
+    {
+      "id": "Q118",
+      "topic": "Nuclear Chemistry",
+      "text": "The particle emitted during the conversion of $\text{neutron}$ to $\text{proton}$ in a nucleus is a(n):",
+      "options": [
+        "Alpha particle",
+        "Beta particle",
+        "Gamma ray",
+        "Neutrino"
+      ],
+      "answer": "Beta particle",
+      "explanation": "Beta decay involves a neutron decaying into a proton and an electron (beta particle): $^1_0\text{n} \to ^1_1\text{p} + ^0_{-1}\text{e}$ ($\beta$)."
+    },
+    {
+      "id": "Q119",
+      "topic": "Metals (Corrosion)",
+      "text": "The process of galvanization protects iron from rusting by coating it with:",
+      "options": [
+        "Copper",
+        "Tin",
+        "Zinc",
+        "Lead"
+      ],
+      "answer": "Zinc",
+      "explanation": "Galvanization is the process of coating iron or steel with a thin layer of Zinc. Zinc provides 'sacrificial protection' because it is more reactive than iron and is oxidized first."
+    },
+    {
+      "id": "Q120",
+      "topic": "VSEPR Theory",
+      "text": "According to VSEPR theory, the shape of the $\text{NH}_3$ molecule is:",
+      "options": [
+        "Trigonal planar",
+        "Tetrahedral",
+        "Bent (V-shape)",
+        "Trigonal pyramidal"
+      ],
+      "answer": "Trigonal pyramidal",
+      "explanation": "Ammonia ($\text{NH}_3$) has four electron domains (three bond pairs and one lone pair) around the central Nitrogen atom. The presence of the lone pair distorts the tetrahedral arrangement to a trigonal pyramidal shape. [Image of the shape of Ammonia ($\text{NH}_3$)]"
+    },
+    {
+      "id": "Q121",
+      "topic": "Gas Laws (Graham's Law)",
+      "text": "Under the same conditions, the gas that will diffuse fastest is:",
+      "options": [
+        "Chlorine ($\text{Cl}_2$, $\text{Mr}=71$)",
+        "Oxygen ($\text{O}_2$, $\text{Mr}=32$)",
+        "Methane ($\text{CH}_4$, $\text{Mr}=16$)",
+        "Sulphur dioxide ($\text{SO}_2$, $\text{Mr}=64$)"
+      ],
+      "answer": "Methane ($\text{CH}_4$, $\text{Mr}=16$)",
+      "explanation": "Graham's Law of Diffusion states that the rate of diffusion is inversely proportional to the square root of the molar mass. $\text{CH}_4$ has the smallest molar mass ($\text{Mr}=16$) and therefore diffuses the fastest."
+    },
+    {
+      "id": "Q122",
+      "topic": "Environmental Chemistry",
+      "text": "Acid rain is primarily caused by the atmospheric dissolution of:",
+      "options": [
+        "Carbon monoxide and Methane.",
+        "Nitrogen and Oxygen.",
+        "Sulphur (IV) oxide and Nitrogen (IV) oxide.",
+        "Carbon dioxide and water vapour."
+      ],
+      "answer": "Sulphur (IV) oxide and Nitrogen (IV) oxide.",
+      "explanation": "Acid rain forms when gaseous pollutants like Sulphur (IV) oxide ($\text{SO}_2$) and Nitrogen (IV) oxide ($\text{NO}_2$) dissolve in rainwater to form strong acids ($\text{H}_2\text{SO}_4$ and $\text{HNO}_3$)."
+    },
+    {
+      "id": "Q123",
+      "topic": "Organic Synthesis",
+      "text": "The preparation of soap from a fat or oil and an aqueous solution of sodium hydroxide is called:",
+      "options": [
+        "Esterification",
+        "Saponification",
+        "Fermentation",
+        "Hydrogenation"
+      ],
+      "answer": "Saponification",
+      "explanation": "Saponification is the alkaline hydrolysis of an ester (fat/oil) to produce a soap (sodium salt of a long-chain fatty acid) and glycerol."
+    },
+    {
+      "id": "Q124",
+      "topic": "Periodic Properties",
+      "text": "Which of the following elements has the highest electronegativity?",
+      "options": [
+        "Lithium ($\text{Li}$)",
+        "Carbon ($\text{C}$)",
+        "Oxygen ($\text{O}$)",
+        "Neon ($\text{Ne}$)"
+      ],
+      "answer": "Oxygen ($\text{O}$)",
+      "explanation": "Electronegativity generally increases across a period and decreases down a group. Among the options, Oxygen (Group 16) is furthest to the right (excluding the noble gas Neon, which is generally unreactive)."
+    },
+    {
+      "id": "Q125",
+      "topic": "Solubility",
+      "text": "Which of the following compounds is generally soluble in water?",
+      "options": [
+        "Lead (II) sulphate ($\text{PbSO}_4$)",
+        "Barium sulphate ($\text{BaSO}_4$)",
+        "Sodium trioxocarbonate (IV) ($\text{Na}_2\text{CO}_3$)",
+        "Calcium trioxocarbonate (IV) ($\text{CaCO}_3$)"
+      ],
+      "answer": "Sodium trioxocarbonate (IV) ($\text{Na}_2\text{CO}_3$)",
+      "explanation": "All sodium, potassium, and ammonium salts are soluble in water. Most carbonates and most sulphates (except those of Group 1 metals) are insoluble. Thus, $\text{Na}_2\text{CO}_3$ is soluble."
+    },
+    {
+      "id": "Q126",
+      "topic": "Stoichiometry (Mass-Volume)",
+      "text": "What is the mass of $\text{Ag}$ deposited when $0.1 \text{ mole}$ of electrons is passed through a solution of $\text{AgNO}_3$? ($\text{Ag}=108$)",
+      "options": [
+        "$5.4 \text{ g}$",
+        "$10.8 \text{ g}$",
+        "$21.6 \text{ g}$",
+        "$108.0 \text{ g}$"
+      ],
+      "answer": "10.8 g",
+      "explanation": "The reaction is $\text{Ag}^+ + \text{e}^- \\to \text{Ag}$. The molar ratio $\text{e}^- : \text{Ag}$ is $1:1$. Moles of $\text{Ag}$ deposited $= 0.1 \text{ mol}$. Mass of $\text{Ag} = \text{moles} \times \text{Molar mass} = 0.1 \times 108 \text{ g} = 10.8 \text{ g}$."
+    },
+    {
+      "id": "Q127",
+      "topic": "Acids, Bases, and Salts (Hydrolysis)",
+      "text": "The $\text{pH}$ of a $0.01 \text{ mol/dm}^3$ solution of $\text{HCl}$ is:",
+      "options": [
+        "1",
+        "2",
+        "7",
+        "12"
+      ],
+      "answer": "2",
+      "explanation": "$\text{HCl}$ is a strong acid, so $[\text{H}^+] = [\text{HCl}] = 0.01 \text{ mol/dm}^3 = 10^{-2} \text{ mol/dm}^3$. $\text{pH} = - \text{log}[\text{H}^+] = - \text{log}(10^{-2}) = 2$."
+    },
+    {
+      "id": "Q128",
+      "topic": "Isomerism",
+      "text": "The number of structural isomers of the alkane $\text{C}_5\text{H}_{12}$ is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "The three structural isomers are: $n$-pentane, 2-methylbutane (isopentane), and 2,2-dimethylpropane (neopentane). [Image of the three isomers of Pentane]"
+    },
+    {
+      "id": "Q129",
+      "topic": "Non-Metals (Halogens)",
+      "text": "Which of the following is the most powerful oxidizing agent among the halogens?",
+      "options": [
+        "Iodine",
+        "Bromine",
+        "Chlorine",
+        "Fluorine"
+      ],
+      "answer": "Fluorine",
+      "explanation": "Oxidizing power decreases down the group. Fluorine is the most electronegative element and the most powerful oxidizing agent among the halogens."
+    },
+    {
+      "id": "Q130",
+      "topic": "Organic Reactions (Fermentation)",
+      "text": "The enzyme responsible for converting glucose to ethanol and carbon dioxide during fermentation is:",
+      "options": [
+        "Diastase",
+        "Maltase",
+        "Zymase",
+        "Invertase"
+      ],
+      "answer": "Zymase",
+      "explanation": "Zymase is the complex enzyme found in yeast that catalyzes the conversion of simple sugars (like glucose) into ethanol and carbon dioxide."
+    },
+    {
+      "id": "Q131",
+      "topic": "Redox Reactions (Disproportionation)",
+      "text": "In a disproportionation reaction, the same element is simultaneously:",
+      "options": [
+        "Reduced and replaced.",
+        "Reduced and oxidized.",
+        "Oxidized and hydrolyzed.",
+        "Polymerized and oxidized."
+      ],
+      "answer": "Reduced and oxidized.",
+      "explanation": "A disproportionation (or auto-redox) reaction is one in which an element in a single oxidation state is both oxidized (oxidation state increases) and reduced (oxidation state decreases)."
+    },
+    {
+      "id": "Q132",
+      "topic": "Inorganic Chemistry (Carbon)",
+      "text": "Carbon (IV) oxide is a major component of the atmosphere. Which of the following is NOT a source of this gas?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Combustion of fossil fuels",
+        "Decomposition of organic matter"
+      ],
+      "answer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which plants **remove** Carbon (IV) oxide from the atmosphere and convert it into glucose. Respiration and combustion **add** it to the atmosphere."
+    },
+    {
+      "id": "Q133",
+      "topic": "VSEPR Theory",
+      "text": "The bond angle in water ($\text{H}_2\text{O}$) is less than the expected $109.5\text{ \u00b0}$ of a perfect tetrahedron because of:",
+      "options": [
+        "Hydrogen bonding.",
+        "Repulsion between bond pairs.",
+        "Repulsion between lone pairs and bond pairs.",
+        "The small size of the Oxygen atom."
+      ],
+      "answer": "Repulsion between lone pairs and bond pairs.",
+      "explanation": "Water has two bond pairs and two lone pairs. The lone pair-lone pair repulsion is greatest, followed by lone pair-bond pair repulsion, which is stronger than bond pair-bond pair repulsion. This pushes the two $\text{H}$ atoms closer, reducing the bond angle from $109.5\text{ \u00b0}$ to approximately $104.5\text{ \u00b0}$."
+    },
+    {
+      "id": "Q134",
+      "topic": "Calculations (Dilution)",
+      "text": "What volume of $0.5 \text{ mol/dm}^3$ $\text{HCl}$ is required to prepare $200 \text{ cm}^3$ of $0.1 \text{ mol/dm}^3$ $\text{HCl}$ solution?",
+      "options": [
+        "$40 \text{ cm}^3$",
+        "$100 \text{ cm}^3$",
+        "$50 \text{ cm}^3$",
+        "$20 \text{ cm}^3$"
+      ],
+      "answer": "40 cm^3",
+      "explanation": "Use the dilution formula $C_1V_1 = C_2V_2$. $0.5 \text{ mol/dm}^3 \times V_1 = 0.1 \text{ mol/dm}^3 \times 200 \text{ cm}^3$. $V_1 = \frac{0.1 \times 200}{0.5} = 40 \text{ cm}^3$."
+    },
+    {
+      "id": "Q135",
+      "topic": "Chemical Equilibrium (Le Chatelier's Principle)",
+      "text": "For a reaction where $\text{Reactants}(\text{g}) \rightleftharpoons \text{Products}(\text{g})$ and the number of moles of gas is the same on both sides, which factor will NOT affect the position of equilibrium?",
+      "options": [
+        "Change in temperature.",
+        "Change in pressure.",
+        "Change in concentration.",
+        "Addition of a catalyst."
+      ],
+      "answer": "Change in pressure.",
+      "explanation": "According to Le Chatelier's Principle, a change in pressure only affects equilibrium if there is a difference in the total number of moles of gas between the reactants and products. If the moles are equal, a change in pressure has no effect on the position of equilibrium."
+    },
+    {
+      "id": "Q136",
+      "topic": "States of Matter",
+      "text": "Sublimation is the process where a substance changes directly from the:",
+      "options": [
+        "Solid state to the liquid state.",
+        "Liquid state to the gaseous state.",
+        "Solid state to the gaseous state.",
+        "Gaseous state to the liquid state."
+      ],
+      "answer": "Solid state to the gaseous state.",
+      "explanation": "Sublimation is the phase transition from solid to gas without passing through the intermediate liquid phase (e.g., solid $\text{CO}_2$ (dry ice) or iodine)."
+    },
+    {
+      "id": "Q137",
+      "topic": "Colloids",
+      "text": "A method used to coagulate colloidal particles in water purification is:",
+      "options": [
+        "Distillation",
+        "Sedimentation",
+        "Adding electrolytes (e.g., Alum)",
+        "Fractional crystallization"
+      ],
+      "answer": "Adding electrolytes (e.g., Alum)",
+      "explanation": "Colloidal particles are electrically charged. Adding an electrolyte like $\text{Al}_2(\text{SO}_4)_3$ (Alum) neutralizes these charges, causing the particles to aggregate and precipitate (coagulate) for easier removal."
+    },
+    {
+      "id": "Q138",
+      "topic": "Organic Nomenclature",
+      "text": "The compound $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$ is correctly named as:",
+      "options": [
+        "Butanoic acid",
+        "Propanoic acid",
+        "Butanol",
+        "Methyl propanoate"
+      ],
+      "answer": "Butanoic acid",
+      "explanation": "This is an alkanoic acid with a four-carbon chain ($\text{but-}$), making it Butanoic acid."
+    },
+    {
+      "id": "Q139",
+      "topic": "Metals (Reactions)",
+      "text": "Which of the following reactions will NOT occur?",
+      "options": [
+        "$\text{Zn} + \text{CuSO}_4 \\to \text{ZnSO}_4 + \text{Cu}$",
+        "$\text{Fe} + \text{ZnSO}_4 \\to \text{FeSO}_4 + \text{Zn}$",
+        "$\text{Mg} + 2\text{HCl} \\to \text{MgCl}_2 + \text{H}_2$",
+        "$\text{Na} + \text{H}_2\text{O} \\to \text{NaOH} + \frac{1}{2}\text{H}_2$"
+      ],
+      "answer": "$\text{Fe} + \text{ZnSO}_4 \\to \text{FeSO}_4 + \text{Zn}$",
+      "explanation": "In a displacement reaction, a more reactive metal displaces a less reactive metal from its compound. Iron ($\text{Fe}$) is less reactive than Zinc ($\text{Zn}$), so $\text{Fe}$ cannot displace $\text{Zn}$ from $\text{ZnSO}_4$."
+    },
+    {
+      "id": "Q140",
+      "topic": "Inorganic Chemistry (Group 18)",
+      "text": "The lack of chemical reactivity of the Noble Gases is best explained by:",
+      "options": [
+        "Their high density.",
+        "Their high melting points.",
+        "The completeness of their valence electron shells.",
+        "Their existence as monoatomic gases."
+      ],
+      "answer": "The completeness of their valence electron shells.",
+      "explanation": "Noble gases have a complete octet (or duet in the case of Helium) of valence electrons, which is a stable configuration, making them chemically inert."
+    }
+  ]

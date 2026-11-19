@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_P_2019_01",
+      "text": "The fundamental unit of electric current in the SI system is:",
+      "image": "[Image showing the seven fundamental SI units and their corresponding physical quantities]",
+      "options": ["Coulomb (C)", "Ampere (A)", "Volt (V)", "Ohm ($\\Omega$)"],
+      "answer": "Ampere (A)",
+      "explanation": "The Ampere (A) is one of the seven base units of the International System of Units (SI) and is used to measure electric current. The Coulomb is the unit of charge, the Volt is the unit of potential difference, and the Ohm is the unit of resistance."
+    },
+    {
+      "id": "JAMB_P_2019_02",
+      "text": "The velocity ratio of a machine is $4$. If the efficiency of the machine is $80\\%$, what is its mechanical advantage?",
+      "image": "[Image illustrating the relationship between Mechanical Advantage, Velocity Ratio, and Efficiency]",
+      "options": ["$3.2$", "$4.0$", "$5.0$", "$0.2$"],
+      "answer": "$3.2$",
+      "explanation": "The efficiency ($\\eta$) of a machine is given by the formula: $\\eta = \\frac{\\text{MA}}{\\text{VR}} \\times 100\\%$.\nGiven: $\\eta = 80\\% = 0.8$, $\\text{VR} = 4$.\n$0.8 = \\frac{\\text{MA}}{4} \\implies \\text{MA} = 0.8 \\times 4 = 3.2$."
+    },
+    {
+      "id": "JAMB_P_2019_03",
+      "text": "A stone is thrown vertically upwards with an initial velocity of $20 \\text{ m/s}$. Calculate the maximum height reached. ($g = 10 \\text{ m/s}^2$)",
+      "image": "[Image illustrating the trajectory of a vertically projected object, indicating initial velocity $u$ and maximum height $H$]",
+      "options": ["$10 \\text{ m}$", "$20 \\text{ m}$", "$40 \\text{ m}$", "$50 \\text{ m}$"],
+      "answer": "$20 \\text{ m}$",
+      "explanation": "At maximum height ($H$), the final velocity ($v$) is zero. Use the equation of motion $v^2 = u^2 + 2as$.\n$0^2 = (20)^2 + 2(-10)H$\n$0 = 400 - 20H$\n$20H = 400 \\implies H = \\frac{400}{20} = 20 \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2019_04",
+      "text": "A body of mass $20 \\text{ kg}$ is pulled along a horizontal plane by a force of $50 \\text{ N}$ for a distance of $4 \\text{ m}$. If the coefficient of friction is $0.1$, the work done by the applied force is:",
+      "image": "[Image showing a block being pulled on a horizontal surface, with the applied force and distance labeled]",
+      "options": ["$200 \\text{ J}$", "$20 \\text{ J}$", "$80 \\text{ J}$", "$160 \\text{ J}$"],
+      "answer": "$200 \\text{ J}$",
+      "explanation": "Work done by the applied force ($W_{\\text{applied}}$) is calculated using $W = F \\times d$.\n$F = 50 \\text{ N}$ (applied force), $d = 4 \\text{ m}$.\n$W_{\\text{applied}} = 50 \\text{ N} \\times 4 \\text{ m} = 200 \\text{ J}$. (Note: The information about friction and mass is extra and only needed if the question asks for net work done or work done against friction)."
+    },
+    {
+      "id": "JAMB_P_2019_05",
+      "text": "The pressure in a hydraulic press is transmitted throughout the liquid. This is based on:",
+      "image": "[Image illustrating a hydraulic system (e.g., hydraulic lift) demonstrating Pascal's Principle]",
+      "options": ["Archimedes' Principle", "Bernoulli's Principle", "Pascal's Principle", "Principle of Flotation"],
+      "answer": "Pascal's Principle",
+      "explanation": "Pascal's Principle states that pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid and the walls of the containing vessel. This principle is the basis for the operation of hydraulic systems like presses and brakes."
+    },
+    {
+      "id": "JAMB_P_2019_06",
+      "text": "Heat transfer by convection in fluids is due to:",
+      "image": "[Image illustrating a convection current forming in a pot of heated water]",
+      "options": ["Movement of molecules from hot to cold regions", "The vibration of molecules about their mean positions", "Absorption of heat energy by the molecules", "Radiation of heat energy"],
+      "answer": "Movement of molecules from hot to cold regions",
+      "explanation": "Convection is the transfer of heat in fluids (liquids and gases) through the actual movement of the fluid molecules in currents. Hot, less dense fluid rises, and cold, denser fluid sinks, setting up convection currents."
+    },
+    {
+      "id": "JAMB_P_2019_07",
+      "text": "Which of the following describes the thermal expansion of solids when heated?",
+      "image": "[Image showing a diagram of a linear expansion apparatus and the formula $\\Delta L = L_0 \\alpha \\Delta\\theta$]",
+      "options": ["Volume decreases, density decreases", "Volume increases, density increases", "Volume increases, density decreases", "Volume decreases, density increases"],
+      "answer": "Volume increases, density decreases",
+      "explanation": "When a solid is heated, its volume increases (thermal expansion). Since mass remains constant, and density ($\\rho = m/V$) is inversely proportional to volume, the density decreases."
+    },
+    {
+      "id": "JAMB_P_2019_08",
+      "text": "A wire of length $20 \\text{ cm}$ has a fundamental frequency of $500 \\text{ Hz}$. If the length is halved, the new fundamental frequency is:",
+      "image": "[Image illustrating the fundamental mode of vibration for a stretched string, showing the inverse relationship between frequency and length ($f \\propto 1/L$)]",
+      "options": ["$250 \\text{ Hz}$", "$500 \\text{ Hz}$", "$750 \\text{ Hz}$", "$1000 \\text{ Hz}$"],
+      "answer": "$1000 \\text{ Hz}$",
+      "explanation": "For a vibrating string (or wire), the fundamental frequency ($f$) is inversely proportional to its length ($L$), $f \\propto 1/L$. If the length is halved ($L_2 = L_1/2$), the frequency is doubled.\n$f_2 = f_1 \\times \\frac{L_1}{L_2} = 500 \\text{ Hz} \\times \\frac{L_1}{L_1/2} = 500 \\text{ Hz} \\times 2 = 1000 \\text{ Hz}$."
+    },
+    {
+      "id": "JAMB_P_2019_09",
+      "text": "A ray of light traveling in glass is incident on the glass-air boundary at an angle of $35^{\\circ}$. If the critical angle for glass is $42^{\\circ}$, the ray will:",
+      "image": "[Image illustrating the critical angle $\\theta_c$ and conditions for refraction and total internal reflection]",
+      "options": ["Be refracted into the air", "Undergo total internal reflection", "Pass undeviated", "Be absorbed by the boundary"],
+      "answer": "Be refracted into the air",
+      "explanation": "Total Internal Reflection (TIR) occurs only when the angle of incidence ($i$) is greater than the critical angle ($\\theta_c$).\nGiven: $i = 35^{\\circ}$, $\\theta_c = 42^{\\circ}$.\nSince $i < \\theta_c$ ($35^{\\circ} < 42^{\\circ}$), the ray will be refracted into the less dense medium (air), but will bend away from the normal."
+    },
+    {
+      "id": "JAMB_P_2019_10",
+      "text": "A convex mirror always produces:",
+      "image": "[Image showing a ray diagram for a convex mirror, illustrating the formation of a virtual, erect, and diminished image]",
+      "options": ["Real and inverted images", "Virtual and magnified images", "Real and diminished images", "Virtual and diminished images"],
+      "answer": "Virtual and diminished images",
+      "explanation": "A convex mirror (or diverging mirror) always forms a virtual, erect, and diminished image, regardless of the object's position. The image is always formed behind the mirror."
+    },
+    {
+      "id": "JAMB_P_2019_11",
+      "text": "The relationship between the focal length ($f$) and the radius of curvature ($r$) of a spherical mirror is:",
+      "image": "[Image illustrating a spherical mirror showing the relationship $f = r/2$]",
+      "options": ["$f = 2r$", "$r = 2f$", "$f = r$", "$f = r^2$"],
+      "answer": "$r = 2f$",
+      "explanation": "For a spherical mirror (both convex and concave), the principal focus ($F$) lies midway between the pole ($P$) and the center of curvature ($C$). Therefore, the radius of curvature ($r$) is twice the focal length ($f$), or $r = 2f$."
+    },
+    {
+      "id": "JAMB_P_2019_12",
+      "text": "What is the total resistance of two resistors $R_1$ and $R_2$ connected in parallel?",
+      "image": "[Image showing two resistors connected in parallel in a circuit diagram]",
+      "options": ["$R_1 + R_2$", "$\\frac{R_1 + R_2}{R_1 R_2}$", "$\\frac{R_1 R_2}{R_1 + R_2}$", "$\\frac{1}{R_1} + \\frac{1}{R_2}$"],
+      "answer": "$\\frac{R_1 R_2}{R_1 + R_2}$",
+      "explanation": "For two resistors in parallel, the reciprocal of the total resistance ($R_T$) is the sum of the reciprocals: $\\frac{1}{R_T} = \\frac{1}{R_1} + \\frac{1}{R_2} = \\frac{R_2 + R_1}{R_1 R_2}$.\nTaking the reciprocal gives the product over sum formula: $R_T = \\frac{R_1 R_2}{R_1 + R_2}$."
+    },
+    {
+      "id": "JAMB_P_2019_13",
+      "text": "If a current of $2.0 \\text{ A}$ flows through a $10 \\text{ \\Omega}$ resistor for $5.0 \\text{ s}$, the heat produced is:",
+      "image": "[Image illustrating Joule's Law of heating and the formula $H = I^2 R t$]",
+      "options": ["$100 \\text{ J}$", "$200 \\text{ J}$", "$500 \\text{ J}$", "$1000 \\text{ J}$"],
+      "answer": "$200 \\text{ J}$",
+      "explanation": "The heat energy ($H$) produced is given by Joule's Law: $H = I^2 R t$.\nGiven: $I = 2.0 \\text{ A}$, $R = 10 \\text{ \\Omega}$, $t = 5.0 \\text{ s}$.\n$H = (2.0)^2 \\times 10 \\times 5.0 = 4 \\times 50 = 200 \\text{ J}$."
+    },
+    {
+      "id": "JAMB_P_2019_14",
+      "text": "The main component of the magnetic material used in the core of a transformer is:",
+      "image": "[Image showing the structure of a transformer with laminated soft iron core]",
+      "options": ["Steel", "Copper", "Soft iron", "Aluminum"],
+      "answer": "Soft iron",
+      "explanation": "Transformers use a soft iron core because soft iron is a ferromagnetic material that is easily magnetized and demagnetized (low coercivity) and has high permeability, minimizing energy loss due to hysteresis and allowing the magnetic flux to change rapidly and efficiently."
+    },
+    {
+      "id": "JAMB_P_2019_15",
+      "text": "Lenz's law is a consequence of the conservation of:",
+      "image": "[Image illustrating Lenz's Law where the induced current opposes the change in magnetic flux]",
+      "options": ["Charge", "Momentum", "Energy", "Magnetic flux"],
+      "answer": "Energy",
+      "explanation": "Lenz's law states that the direction of the induced current is such that it opposes the change in magnetic flux that produced it. This opposition ensures that energy must be supplied (work must be done) to create the induced current, thereby upholding the principle of conservation of energy."
+    },
+    {
+      "id": "JAMB_P_2019_16",
+      "text": "What type of electromagnetic radiation has a wavelength range of $10^{-10} \\text{ m}$ to $10^{-8} \\text{ m}$?",
+      "image": "[Image showing the section of the electromagnetic spectrum corresponding to X-rays and UV light]",
+      "options": ["Radio waves", "Infrared rays", "X-rays", "Gamma rays"],
+      "answer": "X-rays",
+      "explanation": "X-rays fall within the wavelength range of approximately $10^{-8} \\text{ m}$ (soft X-rays) down to $10^{-13} \\text{ m}$ (hard X-rays), with the range $10^{-10} \\text{ m}$ to $10^{-8} \\text{ m}$ being characteristic of X-radiation."
+    },
+    {
+      "id": "JAMB_P_2019_17",
+      "text": "The process by which electrons are emitted from a heated metal surface is called:",
+      "image": "[Image illustrating thermionic emission from a heated cathode]",
+      "options": ["Photoelectric emission", "Secondary emission", "Thermionic emission", "Field emission"],
+      "answer": "Thermionic emission",
+      "explanation": "Thermionic emission is the flow of charged particles (electrons) from a metallic surface caused by thermal vibrational energy overcoming the work function barrier of the material. This occurs when the metal is heated to a high temperature."
+    },
+    {
+      "id": "JAMB_P_2019_18",
+      "text": "The half-life of a radioactive isotope is $5 \\text{ days}$. The time taken for $7/8$ of the isotope to decay is:",
+      "image": "[Image showing a table or graph demonstrating radioactive decay and half-life calculations]",
+      "options": ["$5 \\text{ days}$", "$10 \\text{ days}$", "$15 \\text{ days}$", "$20 \\text{ days}$"],
+      "answer": "$15 \\text{ days}$",
+      "explanation": "If $7/8$ has decayed, the remaining fraction is $1 - 7/8 = 1/8$.\nWe use the formula $\\frac{N}{N_o} = (\\frac{1}{2})^n$, where $n$ is the number of half-lives.\n$\\frac{1}{8} = (\\frac{1}{2})^n \\implies (\\frac{1}{2})^3 = (\\frac{1}{2})^n \\implies n = 3$ half-lives.\nTotal time taken = $n \\times \\text{Half-life} = 3 \\times 5 \\text{ days} = 15 \\text{ days}$."
+    },
+    {
+      "id": "JAMB_P_2019_19",
+      "text": "Which of the following describes the nature of $\\beta$-rays?",
+      "image": "[Image showing the path of alpha, beta, and gamma radiation passing through an electric or magnetic field]",
+      "options": ["They are photons", "They are highly penetrating", "They are fast-moving electrons", "They are helium nuclei"],
+      "answer": "They are fast-moving electrons",
+      "explanation": "Beta ($\\beta$) radiation consists of fast-moving electrons (or sometimes positrons) ejected from the nucleus during radioactive decay. Gamma rays are highly penetrating photons, and alpha ($\\alpha$) particles are helium nuclei."
+    },
+    {
+      "id": "JAMB_P_2019_20",
+      "text": "A logic gate that produces a HIGH output only when all its inputs are HIGH is the:",
+      "image": "[Image showing the symbol and truth table for the AND gate]",
+      "options": ["OR gate", "NOT gate", "NAND gate", "AND gate"],
+      "answer": "AND gate",
+      "explanation": "The AND gate (Logic Multiplication) outputs a HIGH (1) signal only if all of its inputs are simultaneously HIGH (1). The OR gate outputs HIGH if *any* input is HIGH."
+    },
+    {
+      "id": "JAMB_P_2019_21",
+      "text": "The speed of light in a vacuum is approximately:",
+      "image": "[Image showing the speed of light $c = 3.0 \\times 10^8 \\text{ m/s}$]",
+      "options": ["$3.0 \\times 10^5 \\text{ m/s}$", "$3.0 \\times 10^7 \\text{ m/s}$", "$3.0 \\times 10^8 \\text{ m/s}$", "$3.0 \\times 10^9 \\text{ m/s}$"],
+      "answer": "$3.0 \\times 10^8 \\text{ m/s}$",
+      "explanation": "The speed of light in a vacuum, denoted by $c$, is a fundamental constant in physics, approximately equal to $3.0 \\times 10^8 \\text{ m/s}$ (or $299,792,458 \\text{ m/s}$ to be exact)."
+    },
+    {
+      "id": "JAMB_P_2019_22",
+      "text": "In a cathode ray oscilloscope (CRO), the component that controls the intensity of the electron beam is the:",
+      "image": "[Image showing the components of a Cathode Ray Tube (CRT), highlighting the control grid]",
+      "options": ["Anode", "Deflecting plates", "Control grid", "Fluorescent screen"],
+      "answer": "Control grid",
+      "explanation": "The control grid in the electron gun section of the CRO tube regulates the number of electrons passing through to the anode and subsequently hitting the screen. By adjusting the voltage on the control grid, the intensity (brightness) of the spot on the screen is controlled."
+    },
+    {
+      "id": "JAMB_P_2019_23",
+      "text": "The period of oscillation of a simple pendulum depends on:",
+      "image": "[Image showing a simple pendulum with length $L$ and the formula $T = 2\\pi \\sqrt{\\frac{L}{g}}$]",
+      "options": ["The mass of the bob", "The amplitude of oscillation", "The length of the pendulum", "The density of the bob"],
+      "answer": "The length of the pendulum",
+      "explanation": "The period ($T$) of a simple pendulum is given by $T = 2\\pi \\sqrt{\\frac{L}{g}}$. It depends only on the length ($L$) of the pendulum and the acceleration due to gravity ($g$). It is independent of the mass of the bob and the amplitude (for small angles)."
+    },
+    {
+      "id": "JAMB_P_2019_24",
+      "text": "The unit of momentum is:",
+      "image": "[Image showing the formula for momentum $p = mv$ and its corresponding units]",
+      "options": ["$\\text{N/s}$", "$\\text{N\\cdot s}$", "$\\text{J/s}$", "$\\text{J\\cdot s}$"],
+      "answer": "$\\text{N\\cdot s}$",
+      "explanation": "Momentum ($p$) is mass $\\times$ velocity ($p = mv$). The unit is $\\text{kg\\cdot m/s}$. Since Force ($F$) is $\\text{kg\\cdot m/s}^2 = \\text{N}$, then $\\text{kg\\cdot m/s} = \\text{N\\cdot s}$. ($\text{Force} = \\frac{\\Delta p}{\\Delta t} \\implies \\Delta p = F \\Delta t$)."
+    },
+    {
+      "id": "JAMB_P_2019_25",
+      "text": "The resultant of two forces $3 \\text{ N}$ and $4 \\text{ N}$ acting at right angles to each other is:",
+      "image": "[Image illustrating the vector addition of two perpendicular forces using the Pythagorean theorem]",
+      "options": ["$1 \\text{ N}$", "$5 \\text{ N}$", "$7 \\text{ N}$", "$12 \\text{ N}$"],
+      "answer": "$5 \\text{ N}$",
+      "explanation": "Since the forces ($F_1$ and $F_2$) are perpendicular, the resultant force ($R$) is found using the Pythagorean theorem:\n$R = \\sqrt{F_1^2 + F_2^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5 \\text{ N}$."
+    },
+    {
+      "id": "JAMB_P_2019_26",
+      "text": "The energy possessed by a body due to its position or state is called:",
+      "image": "[Image showing objects at different heights illustrating Gravitational Potential Energy ($E_p = mgh$)]",
+      "options": ["Kinetic energy", "Potential energy", "Mechanical energy", "Electrical energy"],
+      "answer": "Potential energy",
+      "explanation": "Potential energy ($E_p$) is the energy stored in a body by virtue of its position (e.g., gravitational potential energy) or state (e.g., elastic potential energy in a spring)."
+    },
+    {
+      "id": "JAMB_P_2019_27",
+      "text": "If the temperature of a fixed mass of gas is kept constant, its pressure is inversely proportional to its volume. This is a statement of:",
+      "image": "[Image showing a graph of $P$ vs $1/V$ for an ideal gas at constant temperature (Boyle's Law)]",
+      "options": ["Charles' Law", "Gay-Lussac's Law", "Boyle's Law", "Pressure Law"],
+      "answer": "Boyle's Law",
+      "explanation": "Boyle's Law states that for a fixed mass of gas at constant temperature, the pressure ($P$) is inversely proportional to its volume ($V$), or $P V = \text{constant}$."
+    },
+    {
+      "id": "JAMB_P_2019_28",
+      "text": "The refractive index of a medium is given by the ratio of:",
+      "image": "[Image showing light traveling from medium 1 to medium 2, and the refractive index formula $n = c/v$]",
+      "options": ["Angle of incidence to angle of refraction", "Speed of light in the medium to speed of light in vacuum", "Speed of light in vacuum to speed of light in the medium", "Wavelength in the medium to wavelength in vacuum"],
+      "answer": "Speed of light in vacuum to speed of light in the medium",
+      "explanation": "The absolute refractive index ($n$) of a medium is defined as the ratio of the speed of light in a vacuum ($c$) to the speed of light in the medium ($v$): $n = c/v$."
+    },
+    {
+      "id": "JAMB_P_2019_29",
+      "text": "Which of the following colors of light is least deviated by a glass prism?",
+      "image": "[Image showing the dispersion of white light through a prism, labeling the spectrum from Red (least deviated) to Violet (most deviated)]",
+      "options": ["Blue", "Green", "Red", "Violet"],
+      "answer": "Red",
+      "explanation": "When white light passes through a prism, dispersion occurs. Red light has the longest wavelength and travels fastest (lowest refractive index) through the glass, so it is deviated the least. Violet light is deviated the most."
+    },
+    {
+      "id": "JAMB_P_2019_30",
+      "text": "A potential difference of $12 \\text{ V}$ is applied across a $3 \\text{ \\Omega}$ resistor. The power dissipated in the resistor is:",
+      "image": "[Image showing the power dissipation formula $P = V^2/R$]",
+      "options": ["$4 \\text{ W}$", "$18 \\text{ W}$", "$36 \\text{ W}$", "$48 \\text{ W}$"],
+      "answer": "$48 \\text{ W}$",
+      "explanation": "The electrical power ($P$) dissipated in a resistor can be calculated using $P = \\frac{V^2}{R}$.\nGiven: $V = 12 \\text{ V}$, $R = 3 \\text{ \\Omega}$.\n$P = \\frac{(12 \\text{ V})^2}{3 \\text{ \\Omega}} = \\frac{144}{3} = 48 \\text{ W}$."
+    },
+    {
+      "id": "JAMB_P_2019_31",
+      "text": "The force on a current-carrying conductor placed in a magnetic field is maximum when the conductor is placed:",
+      "image": "[Image illustrating the magnetic force on a conductor, showing maximum force when the angle is $90^{\\circ}$ ($F=BIL\\sin\\theta$)]",
+      "options": ["Parallel to the field", "Perpendicular to the field", "At $45^{\\circ}$ to the field", "At $60^{\\circ}$ to the field"],
+      "answer": "Perpendicular to the field",
+      "explanation": "The magnetic force ($F$) is given by $F = BIL \\sin\\theta$, where $\\theta$ is the angle between the conductor and the field. The force is maximum when $\\sin\\theta = 1$, which occurs when $\\theta = 90^{\\circ}$ (i.e., perpendicular to the field)."
+    },
+    {
+      "id": "JAMB_P_2019_32",
+      "text": "Electromotive force (e.m.f) is measured in:",
+      "image": "",
+      "options": ["Ampere", "Ohm", "Volt", "Joule"],
+      "answer": "Volt",
+      "explanation": "Electromotive force (e.m.f) is the energy supplied by a source per unit charge to drive current around a circuit. Although it is 'force' in name, it is fundamentally a measure of potential difference (voltage) and is therefore measured in Volts ($V$). E.m.f is measured in Joules per Coulomb ($J/C$), which is equivalent to a Volt."
+    },
+    {
+      "id": "JAMB_P_2019_33",
+      "text": "Which of the following is used to measure the specific latent heat of vaporization of water?",
+      "image": "[Image showing the setup for determining the specific latent heat of vaporization using the electrical method]",
+      "options": ["Calorimeter and heating coil", "Thermometer and hygrometer", "Aneroid barometer and steam chest", "Joule meter and thermometer"],
+      "answer": "Calorimeter and heating coil",
+      "explanation": "The specific latent heat of vaporization ($L_v$) is typically determined using the electrical method, which requires a heating coil (to supply known electrical energy $P \\times t$) placed inside a vessel (often a calorimeter or steam chest) to measure the mass of water converted to steam."
+    },
+    {
+      "id": "JAMB_P_2019_34",
+      "text": "A car travels $100 \\text{ m}$ in $10 \\text{ s}$. If the final velocity is $15 \\text{ m/s}$, what is the initial velocity?",
+      "image": "[Image showing an object moving over a distance $s$ with initial velocity $u$ and final velocity $v$]",
+      "options": ["$5 \\text{ m/s}$", "$10 \\text{ m/s}$", "$15 \\text{ m/s}$", "$20 \\text{ m/s}$"],
+      "answer": "$5 \text{ m/s}$",
+      "explanation": "Use the equation relating distance, time, and average velocity: $s = \\frac{(u+v)}{2} t$.\nGiven: $s = 100 \\text{ m}$, $t = 10 \\text{ s}$, $v = 15 \\text{ m/s}$.\n$100 = \\frac{(u + 15)}{2} \\times 10$\n$200 = 10u + 150$\n$10u = 200 - 150 = 50$\n$u = 5 \\text{ m/s}$."
+    },
+    {
+      "id": "JAMB_P_2019_35",
+      "text": "The relationship between pressure ($P$), volume ($V$), and absolute temperature ($T$) of an ideal gas is:",
+      "image": "[Image showing the combined gas law formula $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$]",
+      "options": ["$P V / T = \text{constant}$", "$P T / V = \text{constant}$", "$V T / P = \text{constant}$", "$P V T = \text{constant}$"],
+      "answer": "$P V / T = \text{constant}$",
+      "explanation": "This relationship is known as the Combined Gas Law, which merges Boyle's Law ($PV=\text{constant}$ at constant $T$) and Charles' Law ($V/T=\text{constant}$ at constant $P$) into $\\frac{P V}{T} = \text{constant}$."
+    },
+    {
+      "id": "JAMB_P_2019_36",
+      "text": "When the frequency of a vibrating body is equal to the natural frequency of another body, the phenomenon is called:",
+      "image": "[Image illustrating resonance in a bridge or a tuning fork setup]",
+      "options": ["Beats", "Interference", "Resonance", "Diffraction"],
+      "answer": "Resonance",
+      "explanation": "Resonance occurs when a system is subjected to an external driving frequency (from the vibrating body) that matches the system's own natural frequency. This leads to the maximum transfer of energy and a large amplitude of vibration."
+    },
+    {
+      "id": "JAMB_P_2019_37",
+      "text": "The speed of sound in air is $330 \\text{ m/s}$. If the frequency of a sound wave is $550 \\text{ Hz}$, its wavelength is:",
+      "image": "[Image illustrating the wave speed equation $v = f\\lambda$]",
+      "options": ["$0.60 \\text{ m}$", "$1.67 \\text{ m}$", "$3.30 \\text{ m}$", "$5.50 \\text{ m}$"],
+      "answer": "$0.60 \\text{ m}$",
+      "explanation": "Use the wave equation: Speed ($v$) = Frequency ($f$) $\\times$ Wavelength ($\\lambda$).\n$\\lambda = \\frac{v}{f} = \\frac{330 \\text{ m/s}}{550 \\text{ Hz}} = 0.60 \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2019_38",
+      "text": "Which of the following is a common application of polarized light?",
+      "image": "[Image showing light passing through a polarizer to illustrate polarization]",
+      "options": ["Telescopes", "Microscopes", "Sunglasses", "Periscopes"],
+      "answer": "Sunglasses",
+      "explanation": "Polaroid sunglasses use polarizing filters to block horizontally polarized light (glare) reflected from horizontal surfaces (like water or roads), thereby reducing eye strain and improving visibility. This is the most common everyday application."
+    },
+    {
+      "id": "JAMB_P_2019_39",
+      "text": "The main reason for laminating the core of a transformer is to reduce energy loss due to:",
+      "image": "[Image showing a laminated transformer core, emphasizing the layers]",
+      "options": ["Hysteresis", "Eddy currents", "Resistance of windings", "Magnetic flux leakage"],
+      "answer": "Eddy currents",
+      "explanation": "Laminating the core (using thin sheets of iron separated by insulation) increases the electrical resistance across the laminations, effectively reducing the magnitude of unwanted circulating currents (Eddy currents) induced in the core, thereby reducing heat loss."
+    },
+    {
+      "id": "JAMB_P_2019_40",
+      "text": "In a p-n junction diode, the current flows primarily when the diode is:",
+      "image": "[Image showing the circuit diagram and characteristic curve of a p-n junction diode in forward bias]",
+      "options": ["Heated", "Reverse biased", "Unbiased", "Forward biased"],
+      "answer": "Forward biased",
+      "explanation": "A p-n junction diode acts as a one-way street for current. When it is forward biased (positive terminal connected to the p-side and negative to the n-side), the potential barrier is lowered, and current flows easily."
+    }
+  ]

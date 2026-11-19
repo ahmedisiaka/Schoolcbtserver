@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_441",
+      "text": "The accounting standard that provides principles for the classification, measurement, and recognition of financial instruments (assets and liabilities) is:",
+      "image": "ACCO_2023_441.png",
+      "options": [
+        "IAS 32 (Presentation)",
+        "IFRS 9 (Financial Instruments)",
+        "IFRS 15 (Revenue)",
+        "IAS 37 (Provisions)"
+      ],
+      "answer": "IFRS 9 (Financial Instruments)",
+      "explanation": "IFRS 9 replaced IAS 39 and provides updated guidance on the accounting for financial instruments, including the expected credit loss impairment model."
+    },
+    {
+      "id": "ACCO_2023_442",
+      "text": "The method of capital expenditure appraisal that measures the time required to recover the initial investment is the:",
+      "image": "ACCO_2023_442.png",
+      "options": [
+        "Net Present Value (NPV)",
+        "Internal Rate of Return (IRR)",
+        "Accounting Rate of Return (ARR)",
+        "Payback Period"
+      ],
+      "answer": "Payback Period",
+      "explanation": "The Payback Period is a simple method that ignores the time value of money and profits generated after the recovery period but provides a quick assessment of risk and liquidity."
+    },
+    {
+      "id": "ACCO_2023_443",
+      "text": "The ratio (Total Liabilities + Total Equity) is equal to:",
+      "image": "ACCO_2023_443.png",
+      "options": [
+        "Working Capital",
+        "Total Assets",
+        "Capital Employed",
+        "Net Profit"
+      ],
+      "answer": "Total Assets",
+      "explanation": "This is derived directly from the fundamental accounting equation: Assets = Liabilities + Equity (or Capital)."
+    },
+    {
+      "id": "ACCO_2023_444",
+      "text": "In partnership dissolution, the method of distributing available cash to partners periodically, minimizing the risk of overpayment, is known as:",
+      "image": "ACCO_2023_444.png",
+      "options": [
+        "Goodwill Method",
+        "Fixed Capital Method",
+        "Piecemeal Distribution (or Maximum Possible Loss Method)",
+        "Realization Method"
+      ],
+      "answer": "Piecemeal Distribution (or Maximum Possible Loss Method)",
+      "explanation": "Piecemeal Distribution involves liquidating assets gradually and distributing cash based on the assumption of the worst-case scenario (maximum possible loss on unliquidated assets)."
+    },
+    {
+      "id": "ACCO_2023_445",
+      "text": "The cost concept used in budgeting where all activities are justified from a zero base, rather than using the previous year's budget, is:",
+      "image": "ACCO_2023_445.png",
+      "options": [
+        "Standard Costing",
+        "Flexible Budgeting",
+        "Activity-Based Costing (ABC)",
+        "Zero-Based Budgeting (ZBB)"
+      ],
+      "answer": "Zero-Based Budgeting (ZBB)",
+      "explanation": "ZBB forces managers to evaluate all expenditures from scratch, requiring a thorough justification for every item, improving resource allocation."
+    },
+    {
+      "id": "ACCO_2023_446",
+      "text": "The total sales revenue for a business under the Single Entry System can be determined by preparing the:",
+      "image": "ACCO_2023_446.png",
+      "options": [
+        "Total Creditors Account",
+        "Total Debtors Account (or Debtors Control Account)",
+        "Statement of Affairs",
+        "Cash Book"
+      ],
+      "answer": "Total Debtors Account (or Debtors Control Account)",
+      "explanation": "The Total Debtors Account is typically reconstructed with credit sales as the missing figure, using opening/closing debtors, cash collected, and discounts/returns."
+    },
+    {
+      "id": "ACCO_2023_447",
+      "text": "In a limited company, the journal entry to record the issue of bonus shares is to debit the:",
+      "image": "ACCO_2023_447.png",
+      "options": [
+        "Bank Account and Credit Share Capital",
+        "Retained Earnings/Share Premium and Credit Share Capital",
+        "Share Capital and Credit Retained Earnings",
+        "Cash Account and Credit Share Premium"
+      ],
+      "answer": "Retained Earnings/Share Premium and Credit Share Capital",
+      "explanation": "A bonus issue converts reserves (like Retained Earnings or Share Premium) into permanent Share Capital; no cash is involved."
+    },
+    {
+      "id": "ACCO_2023_448",
+      "text": "The ethical principle requiring professional accountants to act diligently and in accordance with technical and professional standards is:",
+      "image": "ACCO_2023_448.png",
+      "options": [
+        "Integrity",
+        "Confidentiality",
+        "Professional Competence and Due Care",
+        "Objectivity"
+      ],
+      "answer": "Professional Competence and Due Care",
+      "explanation": "This principle ensures the accountant maintains the knowledge and skill level required to provide competent service and acts diligently."
+    },
+    {
+      "id": "ACCO_2023_449",
+      "text": "The valuation method that calculates the present value of all expected future cash flows from the business is the:",
+      "image": "ACCO_2023_449.png",
+      "options": [
+        "Net Tangible Assets Method",
+        "Earnings Yield Method",
+        "Discounted Cash Flow (DCF) Method",
+        "Dividend Yield Method"
+      ],
+      "answer": "Discounted Cash Flow (DCF) Method",
+      "explanation": "DCF is an intrinsic valuation method based on the premise that the value of a business is determined by the cash it can generate in the future."
+    },
+    {
+      "id": "ACCO_2023_450",
+      "text": "The accounting standard that addresses the classification and measurement of assets held for sale (discontinued operations) is:",
+      "image": "ACCO_2023_450.png",
+      "options": [
+        "IFRS 5 (Non-current Assets Held for Sale and Discontinued Operations)",
+        "IAS 36 (Impairment)",
+        "IAS 16 (PPE)",
+        "IFRS 10 (Consolidated Statements)"
+      ],
+      "answer": "IFRS 5 (Non-current Assets Held for Sale and Discontinued Operations)",
+      "explanation": "IFRS 5 requires assets held for sale to be measured at the lower of carrying amount and fair value less costs to sell, and stops depreciation."
+    },
+    {
+      "id": "ACCO_2023_451",
+      "text": "An error of commission where N1,000 paid for rent is correctly recorded in the Cash Book but posted to the Insurance Account is an error that:",
+      "image": "ACCO_2023_451.png",
+      "options": [
+        "Affects the Trial Balance",
+        "Is an error of principle",
+        "Is an error of omission",
+        "Is an error of commission"
+      ],
+      "answer": "Is an error of commission",
+      "explanation": "The amount and double entry are correct (Debit Expense, Credit Cash), but the wrong expense account was chosen. This is an error of commission (posting to the wrong account of the same class) and does not affect the Trial Balance."
+    },
+    {
+      "id": "ACCO_2023_452",
+      "text": "The accounting standard that provides principles for reporting segment information (by business and geographical areas) is:",
+      "image": "ACCO_2023_452.png",
+      "options": [
+        "IAS 1 (Presentation)",
+        "IFRS 8 (Operating Segments)",
+        "IFRS 15 (Revenue)",
+        "IAS 33 (EPS)"
+      ],
+      "answer": "IFRS 8 (Operating Segments)",
+      "explanation": "IFRS 8 requires public entities to disclose information about their operating segments, assisting users in understanding the entity's performance."
+    },
+    {
+      "id": "ACCO_2023_453",
+      "text": "The ratio that breaks down Return on Equity (ROE) into three components: Profit Margin, Asset Turnover, and Financial Leverage is known as the:",
+      "image": "ACCO_2023_453.png",
+      "options": [
+        "Du Pont Analysis",
+        "Capital Gearing Analysis",
+        "Liquidity Analysis",
+        "Activity Analysis"
+      ],
+      "answer": "Du Pont Analysis",
+      "explanation": "ROE = (Net Margin) $\\times$ (Asset Turnover) $\\times$ (Equity Multiplier). The Du Pont formula provides a comprehensive view of how a company achieves its return on equity."
+    },
+    {
+      "id": "ACCO_2023_454",
+      "text": "In marginal costing, the variable selling costs are treated as:",
+      "image": "ACCO_2023_454.png",
+      "options": [
+        "Product Costs",
+        "Fixed Costs",
+        "Period Costs",
+        "Administrative Costs"
+      ],
+      "answer": "Period Costs",
+      "explanation": "Marginal costing only treats variable manufacturing costs as product costs. All other costs (fixed costs and variable non-manufacturing costs) are treated as period costs and are expensed immediately."
+    },
+    {
+      "id": "ACCO_2023_455",
+      "text": "The main ethical threat arising when an accountant acts as an advocate for a client in a tax dispute with the government is the:",
+      "image": "ACCO_2023_455.png",
+      "options": [
+        "Self-Review threat",
+        "Advocacy threat",
+        "Familiarity threat",
+        "Intimidation threat"
+      ],
+      "answer": "Advocacy threat",
+      "explanation": "Acting as an advocate means promoting a position, which can lead to the accountant losing objectivity when advising or preparing reports on the matter."
+    },
+    {
+      "id": "ACCO_2023_456",
+      "text": "In a partnership dissolution under the Piecemeal Distribution method, the amount calculated as the maximum possible loss is debited to the:",
+      "image": "ACCO_2023_456.png",
+      "options": [
+        "Realization Account",
+        "Partner's Loan Account",
+        "Partner's Capital Accounts (in profit sharing ratio)",
+        "Bank Account"
+      ],
+      "answer": "Partner's Capital Accounts (in profit sharing ratio)",
+      "explanation": "The maximum possible loss is distributed among partners in their profit-sharing ratio to determine the safety balance for cash distribution."
+    },
+    {
+      "id": "ACCO_2023_457",
+      "text": "The accounting standard that provides principles for accounting for research and development (R&D) costs is:",
+      "image": "ACCO_2023_457.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IFRS 3 (Business Combinations)",
+        "IAS 38 (Intangible Assets)",
+        "IAS 2 (Inventory)"
+      ],
+      "answer": "IAS 38 (Intangible Assets)",
+      "explanation": "IAS 38 governs R&D: research costs are expensed, and development costs are capitalized if specific criteria are met."
+    },
+    {
+      "id": "ACCO_2023_458",
+      "text": "The total amount of cash collected from trade debtors during the year can be determined under the Single Entry System by preparing the:",
+      "image": "ACCO_2023_458.png",
+      "options": [
+        "Statement of Affairs",
+        "Total Creditors Account",
+        "Total Debtors Account (or Debtors Control Account)",
+        "Memorandum Profit and Loss"
+      ],
+      "answer": "Total Debtors Account (or Debtors Control Account)",
+      "explanation": "Cash received from debtors is often the balancing figure when reconstructing the Debtors Control Account."
+    },
+    {
+      "id": "ACCO_2023_459",
+      "text": "The maximum amount of capital that can be raised by a Public Limited Company is determined by the:",
+      "image": "ACCO_2023_459.png",
+      "options": [
+        "Issued Capital",
+        "Reserve Capital",
+        "Authorized Capital (or Nominal Capital)",
+        "Paid-up Capital"
+      ],
+      "answer": "Authorized Capital (or Nominal Capital)",
+      "explanation": "This is the ceiling specified in the Memorandum of Association; the company cannot issue shares beyond this limit without formal amendment."
+    },
+    {
+      "id": "ACCO_2023_460",
+      "text": "In absorption costing, fixed manufacturing overheads are treated as:",
+      "image": "ACCO_2023_460.png",
+      "options": [
+        "Period Costs",
+        "Variable Costs",
+        "Product Costs",
+        "Selling Expenses"
+      ],
+      "answer": "Product Costs",
+      "explanation": "Absorption costing (required by IFRS/GAAP) treats all manufacturing costs, fixed and variable, as inventoriable product costs."
+    },
+    {
+      "id": "ACCO_2023_461",
+      "text": "The formula (Total Assets / Total Equity) calculates the:",
+      "image": "ACCO_2023_461.png",
+      "options": [
+        "Debt-to-Assets Ratio",
+        "Equity Multiplier",
+        "Debt-to-Equity Ratio",
+        "Return on Assets"
+      ],
+      "answer": "Equity Multiplier",
+      "explanation": "The Equity Multiplier is a measure of financial leverage within the Du Pont analysis framework."
+    },
+    {
+      "id": "ACCO_2023_462",
+      "text": "The ratio (Net Profit / Sales) $\\times$ (Sales / Total Assets) $\\times$ (Total Assets / Equity) is the formula for the:",
+      "image": "ACCO_2023_462.png",
+      "options": [
+        "Return on Assets",
+        "Working Capital Ratio",
+        "Du Pont Analysis (Return on Equity)",
+        "Gross Profit Margin"
+      ],
+      "answer": "Du Pont Analysis (Return on Equity)",
+      "explanation": "This expanded formula shows ROE as the product of Profit Margin, Asset Turnover, and the Equity Multiplier."
+    },
+    {
+      "id": "ACCO_2023_463",
+      "text": "The term for a cost that remains unchanged over a wide range of activity levels but then jumps to a new, higher level is a:",
+      "image": "ACCO_2023_463.png",
+      "options": [
+        "Fixed Cost",
+        "Variable Cost",
+        "Step Cost (or Semi-Fixed Cost)",
+        "Sunk Cost"
+      ],
+      "answer": "Step Cost (or Semi-Fixed Cost)",
+      "explanation": "Step costs are constant within a relevant range but increase in discrete steps when the activity level passes a certain threshold (e.g., needing to hire a new supervisor)."
+    },
+    {
+      "id": "ACCO_2023_464",
+      "text": "The main legal disadvantage of a partnership structure compared to a limited company is:",
+      "image": "ACCO_2023_464.png",
+      "options": [
+        "Higher tax rates",
+        "Unlimited liability for the partners",
+        "Difficulty in raising capital",
+        "Inability to share profits"
+      ],
+      "answer": "Unlimited liability for the partners",
+      "explanation": "Unlimited liability means the personal assets of the partners can be seized to cover the business's debts, which is the chief risk of this structure."
+    },
+    {
+      "id": "ACCO_2023_465",
+      "text": "The ratio (Selling Price - Variable Cost) per unit calculates the:",
+      "image": "ACCO_2023_465.png",
+      "options": [
+        "Net Profit per Unit",
+        "Contribution Margin per Unit",
+        "Gross Profit per Unit",
+        "Break-Even Point"
+      ],
+      "answer": "Contribution Margin per Unit",
+      "explanation": "Contribution Margin is the difference between sales revenue and variable costs, representing the amount available to cover fixed costs and generate profit."
+    },
+    {
+      "id": "ACCO_2023_466",
+      "text": "The accounting standard that provides principles for accounting for property, plant, and equipment is:",
+      "image": "ACCO_2023_466.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IFRS 15 (Revenue)",
+        "IAS 16 (Property, Plant and Equipment)",
+        "IAS 36 (Impairment)"
+      ],
+      "answer": "IAS 16 (Property, Plant and Equipment)",
+      "explanation": "IAS 16 covers the recognition, measurement, depreciation, and derecognition of tangible non-current assets."
+    },
+    {
+      "id": "ACCO_2023_467",
+      "text": "The term for the minimum number of subscribers required for a Private Limited Company to allot shares is:",
+      "image": "ACCO_2023_467.png",
+      "options": [
+        "Minimum Subscription",
+        "Authorized Capital",
+        "The full nominal value of the first share issued",
+        "Two"
+      ],
+      "answer": "The full nominal value of the first share issued",
+      "explanation": "Unlike a PLC which has a high minimum subscription requirement, a Private Limited Company can allot shares once its low minimum capital requirement is met (often just the value of the first share)."
+    },
+    {
+      "id": "ACCO_2023_468",
+      "text": "In a consignment transaction, the payment made by the Consignee to the Consignor to guarantee against bad debts is known as:",
+      "image": "ACCO_2023_468.png",
+      "options": [
+        "Overriding commission",
+        "Del credere commission",
+        "Consignment advance",
+        "Ordinary commission"
+      ],
+      "answer": "Del credere commission",
+      "explanation": "Del credere commission is an additional commission paid to the consignee in exchange for accepting the risk of non-payment by the customer."
+    },
+    {
+      "id": "ACCO_2023_469",
+      "text": "An error where a transaction is completely omitted from the books but the two corresponding amounts are incorrectly recorded to make the Trial Balance agree is a(n):",
+      "image": "ACCO_2023_469.png",
+      "options": [
+        "Error of Commission",
+        "Error of Original Entry",
+        "Compensating Error",
+        "Error of Omission"
+      ],
+      "answer": "Compensating Error",
+      "explanation": "Compensating errors are two or more errors that cancel each other out, making the Trial Balance agree despite incorrect balances in the affected accounts."
+    },
+    {
+      "id": "ACCO_2023_470",
+      "text": "The formula (Net Profit $\\times$ 100) / Sales calculates the:",
+      "image": "ACCO_2023_470.png",
+      "options": [
+        "Gross Profit Margin",
+        "Operating Profit Margin",
+        "Net Profit Margin",
+        "Return on Assets"
+      ],
+      "answer": "Net Profit Margin",
+      "explanation": "Net Profit Margin shows the percentage of sales revenue remaining after deducting all expenses, including interest and tax."
+    },
+    {
+      "id": "ACCO_2023_471",
+      "text": "The main purpose of preparing a Fund Flow Statement is to analyze the:",
+      "image": "ACCO_2023_471.png",
+      "options": [
+        "Movement of funds (Working Capital) over a period",
+        "Cash balance at the end of the year",
+        "Liquidity position of the company",
+        "Market value of the shares"
+      ],
+      "answer": "Movement of funds (Working Capital) over a period",
+      "explanation": "The Fund Flow Statement traces the flow of funds (often defined as working capital) between two balance sheet dates, showing sources and uses of long-term funds."
+    },
+    {
+      "id": "ACCO_2023_472",
+      "text": "The ratio (Total Fixed Costs / Profit Volume Ratio) calculates the:",
+      "image": "ACCO_2023_472.png",
+      "options": [
+        "Margin of Safety",
+        "Break-Even Point (in value)",
+        "Contribution Margin",
+        "Capital Turnover Ratio"
+      ],
+      "answer": "Break-Even Point (in value)",
+      "explanation": "Break-Even Point in value is calculated as Fixed Costs divided by the Profit Volume (P/V) Ratio (Contribution / Sales)."
+    },
+    {
+      "id": "ACCO_2023_473",
+      "text": "The term for a cost that is both relevant to a decision and expected to occur in the future is:",
+      "image": "ACCO_2023_473.png",
+      "options": [
+        "Sunk Cost",
+        "Opportunity Cost",
+        "Relevant Cost",
+        "Fixed Cost"
+      ],
+      "answer": "Relevant Cost",
+      "explanation": "For decision-making, costs must be future costs (expected to be incurred) and differential costs (differing between alternatives)."
+    },
+    {
+      "id": "ACCO_2023_474",
+      "text": "The method of goodwill valuation based on the net assets of the business after revaluation of assets and liabilities is the:",
+      "image": "ACCO_2023_474.png",
+      "options": [
+        "Capitalization of Average Profits",
+        "Net Assets Method",
+        "Annuity Method",
+        "Purchase of Super Profits Method"
+      ],
+      "answer": "Net Assets Method",
+      "explanation": "The Net Assets Method (or Net Worth Method) calculates the intrinsic value of the business by valuing all tangible assets at fair market value and subtracting external liabilities."
+    },
+    {
+      "id": "ACCO_2023_475",
+      "text": "When cash is received in advance for sales to be delivered next year, the amount is recognized as revenue in the current year only if the business adheres strictly to the:",
+      "image": "ACCO_2023_475.png",
+      "options": [
+        "Accrual concept",
+        "Prudence concept",
+        "Cash basis of accounting",
+        "Historical cost concept"
+      ],
+      "answer": "Cash basis of accounting",
+      "explanation": "Under the Cash Basis, revenue is recognized when cash is received, regardless of when it is earned. Under the Accrual Basis (IFRS/GAAP), it is treated as a liability until earned next year."
+    },
+    {
+      "id": "ACCO_2023_476",
+      "text": "The accounting standard that provides principles for the recognition and measurement of revenue from contracts with customers is:",
+      "image": "ACCO_2023_476.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IFRS 15 (Revenue from Contracts with Customers)",
+        "IAS 16 (PPE)",
+        "IAS 37 (Provisions)"
+      ],
+      "answer": "IFRS 15 (Revenue from Contracts with Customers)",
+      "explanation": "IFRS 15 (a five-step model) replaced multiple revenue standards and provides a single framework for recognizing revenue."
+    },
+    {
+      "id": "ACCO_2023_477",
+      "text": "The type of dividend that involves issuing additional shares to existing shareholders free of charge is a:",
+      "image": "ACCO_2023_477.png",
+      "options": [
+        "Cash Dividend",
+        "Scrip Dividend",
+        "Interim Dividend",
+        "Bonus Dividend (or Stock Dividend)"
+      ],
+      "answer": "Bonus Dividend (or Stock Dividend)",
+      "explanation": "A bonus dividend converts reserves into permanent capital, increasing the number of shares outstanding but not changing the overall shareholder equity."
+    },
+    {
+      "id": "ACCO_2023_478",
+      "text": "The ethical threat arising when an accountant is too familiar or trusting of a client's management due to a long relationship is the:",
+      "image": "ACCO_2023_478.png",
+      "options": [
+        "Self-Review threat",
+        "Advocacy threat",
+        "Familiarity threat",
+        "Intimidation threat"
+      ],
+      "answer": "Familiarity threat",
+      "explanation": "The Familiarity threat can cause the accountant to become overly sympathetic or accepting of the client's figures, impairing objectivity."
+    },
+    {
+      "id": "ACCO_2023_479",
+      "text": "In a partnership dissolution, the loan of a partner is repaid before the settlement of:",
+      "image": "ACCO_2023_479.png",
+      "options": [
+        "External liabilities",
+        "Partner's Capital Accounts",
+        "Realization expenses",
+        "Del credere commission"
+      ],
+      "answer": "Partner's Capital Accounts",
+      "explanation": "The order of payment is: Realization Expenses $\\rightarrow$ External Liabilities $\\rightarrow$ Partner's Loan $\\rightarrow$ Partner's Capital."
+    },
+    {
+      "id": "ACCO_2023_480",
+      "text": "The final stage of the accounting cycle, after the preparation of financial statements, is the:",
+      "image": "ACCO_2023_480.png",
+      "options": [
+        "Post-Closing Trial Balance",
+        "Journalizing of Transactions",
+        "Adjustment Entries",
+        "Closing Entries"
+      ],
+      "answer": "Post-Closing Trial Balance",
+      "explanation": "The Post-Closing Trial Balance lists only permanent accounts (Assets, Liabilities, Equity) and verifies that the ledger is in balance at the start of the next period."
+    }
+  ]

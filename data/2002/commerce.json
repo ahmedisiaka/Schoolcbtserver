@@ -1,0 +1,522 @@
+[
+    {
+      "id": "COMM_2023_01",
+      "text": "The main objective of any business enterprise is to:",
+      "image": "COMM_2023_01.png",
+      "options": [
+        "Employ workers",
+        "Produce goods",
+        "Maximize profit",
+        "Pay taxes promptly"
+      ],
+      "answer": "Maximize profit",
+      "explanation": "While other objectives exist, the fundamental goal of a private business enterprise is to maximize profits for its owners or shareholders."
+    },
+    {
+      "id": "COMM_2023_02",
+      "text": "The branch of commerce that deals with the removal of barriers to trade is known as:",
+      "image": "COMM_2023_02.png",
+      "options": [
+        "Trade",
+        "Aid to Trade (or Auxiliaries to Trade)",
+        "Industry",
+        "Direct Services"
+      ],
+      "answer": "Aid to Trade (or Auxiliaries to Trade)",
+      "explanation": "Aid to Trade includes services like banking (barrier of finance), insurance (barrier of risk), communication (barrier of information), and transport (barrier of distance)."
+    },
+    {
+      "id": "COMM_2023_03",
+      "text": "A business owned and controlled by a single individual with unlimited liability is a:",
+      "image": "COMM_2023_03.png",
+      "options": [
+        "Partnership",
+        "Sole Proprietorship (or Sole Trader)",
+        "Public Corporation",
+        "Cooperative Society"
+      ],
+      "answer": "Sole Proprietorship (or Sole Trader)",
+      "explanation": "The sole proprietorship is the simplest form of business ownership, characterized by unlimited liability and direct control by the owner."
+    },
+    {
+      "id": "COMM_2023_04",
+      "text": "The document that defines the external objectives, powers, and capital structure of a limited liability company is the:",
+      "image": "COMM_2023_04.png",
+      "options": [
+        "Articles of Association",
+        "Prospectus",
+        "Memorandum of Association",
+        "Certificate of Incorporation"
+      ],
+      "answer": "Memorandum of Association",
+      "explanation": "The Memorandum of Association outlines the company's relationship with the outside world and is a mandatory document for registration."
+    },
+    {
+      "id": "COMM_2023_05",
+      "text": "The most appropriate source of finance for purchasing a long-term fixed asset like heavy machinery is:",
+      "image": "COMM_2023_05.png",
+      "options": [
+        "Trade Credit",
+        "Bank Overdraft",
+        "Long-term Loan (or Debentures)",
+        "Factoring"
+      ],
+      "answer": "Long-term Loan (or Debentures)",
+      "explanation": "The finance source should match the asset's life (Principle of matching or capital maintenance). Long-term assets require long-term funds."
+    },
+    {
+      "id": "COMM_2023_06",
+      "text": "A cooperative society is primarily formed to promote the interests of its:",
+      "image": "COMM_2023_06.png",
+      "options": [
+        "Founders",
+        "General Public",
+        "Members (or users)",
+        "Government"
+      ],
+      "answer": "Members (or users)",
+      "explanation": "Cooperative societies are voluntary associations of persons who pool resources to achieve a common economic goal, usually focused on service rather than profit maximization for investors."
+    },
+    {
+      "id": "COMM_2023_07",
+      "text": "The document used as evidence of goods being shipped and title transferred to the buyer in international trade is the:",
+      "image": "COMM_2023_07.png",
+      "options": [
+        "Invoice",
+        "Bill of Lading",
+        "Debit Note",
+        "Proforma Invoice"
+      ],
+      "answer": "Bill of Lading",
+      "explanation": "The Bill of Lading serves as a contract of carriage, a receipt for goods, and, most importantly, a document of title."
+    },
+    {
+      "id": "COMM_2023_08",
+      "text": "The term used for the total population size that can be served by a particular shop or market is the:",
+      "image": "COMM_2023_08.png",
+      "options": [
+        "Target Market",
+        "Market Segmentation",
+        "Market Concentration",
+        "Market Potential"
+      ],
+      "answer": "Market Potential",
+      "explanation": "Market Potential refers to the maximum possible sales of a product or service for all sellers in a given market."
+    },
+    {
+      "id": "COMM_2023_09",
+      "text": "Insurance that covers the employer against claims by employees injured in the course of duty is:",
+      "image": "COMM_2023_09.png",
+      "options": [
+        "Fidelity Guarantee Insurance",
+        "Workmen's Compensation Insurance",
+        "Marine Insurance",
+        "Consequential Loss Insurance"
+      ],
+      "answer": "Workmen's Compensation Insurance",
+      "explanation": "This insurance protects the employer from the financial burden of statutory claims made by employees for injuries sustained at work."
+    },
+    {
+      "id": "COMM_2023_10",
+      "text": "The marketing channel involving the producer selling directly to the consumer is the:",
+      "image": "COMM_2023_10.png",
+      "options": [
+        "One-Level Channel",
+        "Zero-Level Channel (Direct Marketing)",
+        "Two-Level Channel",
+        "Indirect Channel"
+      ],
+      "answer": "Zero-Level Channel (Direct Marketing)",
+      "explanation": "In this channel, there are no intermediaries; the producer handles the sale, often through e-commerce or door-to-door sales."
+    },
+    {
+      "id": "COMM_2023_11",
+      "text": "The economic system where the means of production are publicly owned and central planning is used is:",
+      "image": "COMM_2023_11.png",
+      "options": [
+        "Capitalism",
+        "Mixed Economy",
+        "Socialism (or Command Economy)",
+        "Traditional Economy"
+      ],
+      "answer": "Socialism (or Command Economy)",
+      "explanation": "In a command economy, the government or a central authority makes all major economic decisions regarding production, distribution, and consumption."
+    },
+    {
+      "id": "COMM_2023_12",
+      "text": "The document listing the details of goods, prices, and terms of payment sent by the seller to the buyer is the:",
+      "image": "COMM_2023_12.png",
+      "options": [
+        "Receipt",
+        "Proforma Invoice",
+        "Invoice",
+        "Debit Note"
+      ],
+      "answer": "Invoice",
+      "explanation": "An Invoice is a commercial document that itemizes a transaction and is used to demand payment from the buyer."
+    },
+    {
+      "id": "COMM_2023_13",
+      "text": "The main advantage of partnership over sole proprietorship is:",
+      "image": "COMM_2023_13.png",
+      "options": [
+        "Limited liability",
+        "Continuity of existence",
+        "Pooling of capital and expertise",
+        "Ease of formation"
+      ],
+      "answer": "Pooling of capital and expertise",
+      "explanation": "Partnerships benefit from having multiple owners contributing more resources and specialized skills than a single sole trader."
+    },
+    {
+      "id": "COMM_2023_14",
+      "text": "The person authorized to receive payment on a bill of exchange is the:",
+      "image": "COMM_2023_14.png",
+      "options": [
+        "Drawer",
+        "Drawee",
+        "Payee",
+        "Acceptor"
+      ],
+      "answer": "Payee",
+      "explanation": "The Payee is the party to whom the payment is to be made. This is usually the Drawer themselves, but can be a third party."
+    },
+    {
+      "id": "COMM_2023_15",
+      "text": "The primary function of a warehouse in the distribution process is to eliminate the barrier of:",
+      "image": "COMM_2023_15.png",
+      "options": [
+        "Distance",
+        "Risk",
+        "Time",
+        "Finance"
+      ],
+      "answer": "Time",
+      "explanation": "Warehousing bridges the gap between the time of production and the time of consumption, ensuring goods are available when needed."
+    },
+    {
+      "id": "COMM_2023_16",
+      "text": "The document that specifies the internal regulations and conduct of a limited liability company is the:",
+      "image": "COMM_2023_16.png",
+      "options": [
+        "Memorandum of Association",
+        "Prospectus",
+        "Articles of Association",
+        "Certificate of Commencement of Business"
+      ],
+      "answer": "Articles of Association",
+      "explanation": "The Articles of Association governs internal affairs, including procedures for meetings, voting rights, and appointment of directors."
+    },
+    {
+      "id": "COMM_2023_17",
+      "text": "Advertising targeted at middlemen (wholesalers and retailers) to encourage stocking of a product is called:",
+      "image": "COMM_2023_17.png",
+      "options": [
+        "Consumer advertising",
+        "Industrial advertising",
+        "Trade advertising",
+        "Informative advertising"
+      ],
+      "answer": "Trade advertising",
+      "explanation": "Trade advertising is focused on the distribution channel members rather than the end consumer, aiming to secure shelf space and promote stocking."
+    },
+    {
+      "id": "COMM_2023_18",
+      "text": "The term used for the total quantity of goods available for sale at a particular point in time is:",
+      "image": "COMM_2023_18.png",
+      "options": [
+        "Sales",
+        "Inventory (or Stock)",
+        "Revenue",
+        "Liabilities"
+      ],
+      "answer": "Inventory (or Stock)",
+      "explanation": "Inventory refers to the finished goods, work-in-progress, and raw materials held by a business."
+    },
+    {
+      "id": "COMM_2023_19",
+      "text": "The process of dividing a broad consumer market into subsets of consumers who have common needs is:",
+      "image": "COMM_2023_19.png",
+      "options": [
+        "Market Targeting",
+        "Market Positioning",
+        "Market Segmentation",
+        "Market Concentration"
+      ],
+      "answer": "Market Segmentation",
+      "explanation": "Segmentation allows a business to focus its efforts and resources on customers most likely to purchase its products."
+    },
+    {
+      "id": "COMM_2023_20",
+      "text": "The financial intermediary that specializes in providing short-term loans to commercial and industrial firms is a:",
+      "image": "COMM_2023_20.png",
+      "options": [
+        "Development Bank",
+        "Central Bank",
+        "Commercial Bank",
+        "Investment Bank"
+      ],
+      "answer": "Commercial Bank",
+      "explanation": "Commercial banks are the primary institutions for accepting deposits and extending short-term working capital loans to the business sector."
+    },
+    {
+      "id": "COMM_2023_21",
+      "text": "The main risk covered by a Fire Insurance policy is the risk of:",
+      "image": "COMM_2023_21.png",
+      "options": [
+        "Loss of profit",
+        "Damage from flooding",
+        "Financial loss due to fire",
+        "Theft"
+      ],
+      "answer": "Financial loss due to fire",
+      "explanation": "Fire insurance covers direct damage to property and stock caused by fire, lightning, or explosion."
+    },
+    {
+      "id": "COMM_2023_22",
+      "text": "The primary channel for selling consumer industrial goods (e.g., raw materials) is usually the:",
+      "image": "COMM_2023_22.png",
+      "options": [
+        "Producer $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer",
+        "Producer $\\rightarrow$ Consumer (Direct)",
+        "Producer $\\rightarrow$ Agent $\\rightarrow$ Retailer $\\rightarrow$ Consumer",
+        "Producer $\\rightarrow$ Agent $\\rightarrow$ Wholesaler $\\rightarrow$ Consumer"
+      ],
+      "answer": "Producer $\\rightarrow$ Consumer (Direct)",
+      "explanation": "Industrial goods are often sold directly from the producer to the institutional buyer (consumer) because the transactions are large, technically complex, and require direct support."
+    },
+    {
+      "id": "COMM_2023_23",
+      "text": "The feature that distinguishes a Public Limited Company (PLC) from a Private Limited Company (LTD) is the ability of the PLC to:",
+      "image": "COMM_2023_23.png",
+      "options": [
+        "Have limited liability",
+        "Raise capital from the public by issuing a prospectus",
+        "Have a separate legal entity",
+        "Restrict the transfer of shares"
+      ],
+      "answer": "Raise capital from the public by issuing a prospectus",
+      "explanation": "PLCs can solicit funds from the general public via the stock exchange, a privilege denied to LTDs."
+    },
+    {
+      "id": "COMM_2023_24",
+      "text": "The document that acknowledges the seller's receipt of goods returned by the buyer is the:",
+      "image": "COMM_2023_24.png",
+      "options": [
+        "Debit Note",
+        "Proforma Invoice",
+        "Credit Note",
+        "Statement of Account"
+      ],
+      "answer": "Credit Note",
+      "explanation": "A Credit Note is issued by the seller to the buyer to indicate a reduction in the amount owed (a credit to the buyer's account)."
+    },
+    {
+      "id": "COMM_2023_25",
+      "text": "The concept that refers to the ability of a business to meet its short-term debt obligations is:",
+      "image": "COMM_2023_25.png",
+      "options": [
+        "Solvency",
+        "Profitability",
+        "Liquidity",
+        "Gearing"
+      ],
+      "answer": "Liquidity",
+      "explanation": "Liquidity measures the ease with which a company can convert its assets into cash to satisfy its immediate liabilities."
+    },
+    {
+      "id": "COMM_2023_26",
+      "text": "The law that governs the formation, operation, and winding up of companies in a country is the:",
+      "image": "COMM_2023_26.png",
+      "options": [
+        "Tax Law",
+        "Partnership Act",
+        "Companies and Allied Matters Act (or similar Companies Act)",
+        "Labour Law"
+      ],
+      "answer": "Companies and Allied Matters Act (or similar Companies Act)",
+      "explanation": "This is the core legislation for corporate governance and structure."
+    },
+    {
+      "id": "COMM_2023_27",
+      "text": "The term for a market structure characterized by a few large firms dominating the industry is:",
+      "image": "COMM_2023_27.png",
+      "options": [
+        "Monopoly",
+        "Perfect Competition",
+        "Oligopoly",
+        "Monopolistic Competition"
+      ],
+      "answer": "Oligopoly",
+      "explanation": "Oligopoly features mutual interdependence, meaning the action of one firm significantly impacts the others (e.g., telecommunication companies)."
+    },
+    {
+      "id": "COMM_2023_28",
+      "text": "The main benefit of advertising to the consumer is:",
+      "image": "COMM_2023_28.png",
+      "options": [
+        "Lower prices",
+        "Higher quality products",
+        "Information about product availability and features",
+        "Guaranteed purchase satisfaction"
+      ],
+      "answer": "Information about product availability and features",
+      "explanation": "Advertising primarily fulfills the information gap, making consumers aware of choices and facilitating informed decision-making."
+    },
+    {
+      "id": "COMM_2023_29",
+      "text": "A document issued by the seller to correct an overcharge in a previous invoice is a:",
+      "image": "COMM_2023_29.png",
+      "options": [
+        "Debit Note",
+        "Credit Note",
+        "Invoice",
+        "Proforma Invoice"
+      ],
+      "answer": "Credit Note",
+      "explanation": "An overcharge means the buyer's account must be reduced (credited), thus the seller issues a Credit Note."
+    },
+    {
+      "id": "COMM_2023_30",
+      "text": "The central bank's primary instrument for regulating the money supply by controlling the cost of borrowing for commercial banks is the:",
+      "image": "COMM_2023_30.png",
+      "options": [
+        "Open Market Operation",
+        "Cash Reserve Ratio",
+        "Bank Rate (or Discount Rate)",
+        "Selective Credit Control"
+      ],
+      "answer": "Bank Rate (or Discount Rate)",
+      "explanation": "The Bank Rate is the interest rate at which the central bank lends money to commercial banks, directly influencing market interest rates and credit volume."
+    },
+    {
+      "id": "COMM_2023_31",
+      "text": "The method of transportation best suited for carrying large volumes of bulky, heavy goods over long distances cheaply is:",
+      "image": "COMM_2023_31.png",
+      "options": [
+        "Air transport",
+        "Rail transport",
+        "Road transport",
+        "Pipeline transport"
+      ],
+      "answer": "Rail transport",
+      "explanation": "Rail transport is highly efficient and cost-effective for moving heavy, non-perishable goods in bulk over long, defined routes."
+    },
+    {
+      "id": "COMM_2023_32",
+      "text": "The transfer of ownership of an insurance policy from the insured to a third party is called:",
+      "image": "COMM_2023_32.png",
+      "options": [
+        "Indemnity",
+        "Subrogation",
+        "Assignment",
+        "Warranties"
+      ],
+      "answer": "Assignment",
+      "explanation": "Assignment is the legal process of transferring the rights and benefits of a policy (usually a life policy) to another person."
+    },
+    {
+      "id": "COMM_2023_33",
+      "text": "The market where newly issued securities (shares and debentures) are first sold to the public is the:",
+      "image": "COMM_2023_33.png",
+      "options": [
+        "Secondary Market",
+        "Capital Market (Primary Segment)",
+        "Money Market",
+        "Commodities Market"
+      ],
+      "answer": "Capital Market (Primary Segment)",
+      "explanation": "The primary market facilitates the raising of capital by the issuer, while the secondary market handles the subsequent trading of those securities."
+    },
+    {
+      "id": "COMM_2023_34",
+      "text": "A factor that determines the location of a business based on access to skilled labor is considered a:",
+      "image": "COMM_2023_34.png",
+      "options": [
+        "Financial factor",
+        "Economic factor (Labor supply)",
+        "Social factor",
+        "Legal factor"
+      ],
+      "answer": "Economic factor (Labor supply)",
+      "explanation": "Economic factors include proximity to raw materials, markets, and the availability and cost of labor."
+    },
+    {
+      "id": "COMM_2023_35",
+      "text": "The primary role of the wholesaler in the distribution channel is to break bulk and provide:",
+      "image": "COMM_2023_35.png",
+      "options": [
+        "Advertising to consumers",
+        "After-sales service",
+        "Credit facilities to retailers",
+        "Raw materials to producers"
+      ],
+      "answer": "Credit facilities to retailers",
+      "explanation": "Wholesalers serve as a critical link, financing retailers through credit sales and providing warehousing, making goods available in smaller quantities."
+    },
+    {
+      "id": "COMM_2023_36",
+      "text": "The term used for a public debt instrument issued by a company, usually secured by its assets, is a:",
+      "image": "COMM_2023_36.png",
+      "options": [
+        "Share Certificate",
+        "Debenture",
+        "Bank Overdraft",
+        "Promissory Note"
+      ],
+      "answer": "Debenture",
+      "explanation": "Debentures represent a long-term loan or debt to the company, usually carrying fixed interest payments."
+    },
+    {
+      "id": "COMM_2023_37",
+      "text": "The most appropriate type of insurance for a sole trader to cover potential loss of earnings if they become ill is:",
+      "image": "COMM_2023_37.png",
+      "options": [
+        "Term Life Insurance",
+        "Consequential Loss Insurance",
+        "Personal Accident and Health Insurance",
+        "Public Liability Insurance"
+      ],
+      "answer": "Personal Accident and Health Insurance",
+      "explanation": "This policy provides compensation for medical expenses or income loss due to illness or accidental injury, directly protecting the sole trader's income stream."
+    },
+    {
+      "id": "COMM_2023_38",
+      "text": "The principle of insurance that states the insured must act as if they were uninsured after a loss occurs is the principle of:",
+      "image": "COMM_2023_38.png",
+      "options": [
+        "Indemnity",
+        "Utmost Good Faith",
+        "Proximate Cause",
+        "Salvage (or Loss Minimization)"
+      ],
+      "answer": "Salvage (or Loss Minimization)",
+      "explanation": "The insured has a duty to take all reasonable steps to prevent or minimize the loss, even after the insured event has occurred."
+    },
+    {
+      "id": "COMM_2023_39",
+      "text": "The main purpose of customs duties (tariffs) imposed on imported goods is to:",
+      "image": "COMM_2023_39.png",
+      "options": [
+        "Encourage imports",
+        "Generate government revenue and protect local industries",
+        "Simplify international trade procedures",
+        "Promote free trade"
+      ],
+      "answer": "Generate government revenue and protect local industries",
+      "explanation": "Tariffs make imported goods more expensive, providing fiscal revenue and a protective price advantage for domestic producers."
+    },
+    {
+      "id": "COMM_2023_40",
+      "text": "The document that provides a bank's periodic summary of a customer's account transactions is the:",
+      "image": "COMM_2023_40.png",
+      "options": [
+        "Passbook",
+        "Bank Draft",
+        "Bank Statement",
+        "Cheque"
+      ],
+      "answer": "Bank Statement",
+      "explanation": "The Bank Statement is the formal document prepared by the bank, summarizing all deposits, withdrawals, and the closing balance of the customer's account."
+    }
+  ]

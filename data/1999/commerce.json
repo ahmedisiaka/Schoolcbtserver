@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM01",
+        "text": "The function of $\\textbf{Warehousing}$ in $\\textbf{Commerce}$ primarily aims to reconcile the difference between the time of $\\textbf{Production}$ and the time of $\\textbf{Consumption}$.",
+        "image": "",
+        "options": [
+            "Place Utility",
+            "Time Utility",
+            "Form Utility",
+            "Possession Utility"
+        ],
+        "answer": "Time Utility",
+        "explanation": "Warehousing bridges the time gap by storing goods until they are needed by consumers or retailers, thus creating time utility."
+    },
+    {
+        "id": "COM02",
+        "text": "The $\\textbf{Marketing Concept}$ emphasizes satisfying the $\\textbf{Needs}$ and $\\textbf{Wants}$ of the $\\textbf{Customer}$ as the primary goal for the organization.",
+        "image": "",
+        "options": [
+            "Production Efficiency",
+            "Product Quality",
+            "Customer",
+            "Sales Volume"
+        ],
+        "answer": "Customer",
+        "explanation": "The marketing concept focuses on understanding and meeting customer needs better than competitors."
+    },
+    {
+        "id": "COM03",
+        "text": "A $\\textbf{Sole Proprietorship}$ is characterized by $\\textbf{Unlimited Liability}$, meaning the owner's $\\textbf{Personal Assets}$ can be used to settle business $\\textbf{Debts}$.",
+        "image": "",
+        "options": [
+            "Limited Liability",
+            "Separate Legal Entity",
+            "Unlimited Liability",
+            "Perpetual Succession"
+        ],
+        "answer": "Unlimited Liability",
+        "explanation": "In a sole proprietorship, there is no legal distinction between the owner and the business."
+    },
+    {
+        "id": "COM04",
+        "text": "The $\\textbf{Primary Sector}$ of industry involves the extraction and harvesting of $\\textbf{Natural Resources}$, such as farming, mining, and $\\textbf{Fishing}$.",
+        "image": "",
+        "options": [
+            "Manufacturing",
+            "Services",
+            "Primary Sector",
+            "Retail"
+        ],
+        "answer": "Primary Sector",
+        "explanation": "The primary sector deals with raw materials derived from the natural environment."
+    },
+    {
+        "id": "COM05",
+        "text": "In $\\textbf{International Trade}$, a $\\textbf{Tariff}$ is a $\\textbf{Tax}$ imposed on imported $\\textbf{Goods}$ and services.",
+        "image": "",
+        "options": [
+            "Quota",
+            "Subsidy",
+            "Embargo",
+            "Tariff"
+        ],
+        "answer": "Tariff",
+        "explanation": "Tariffs are often used to protect domestic industries from foreign competition or as a source of government revenue."
+    },
+    {
+        "id": "COM06",
+        "text": "The $\\textbf{4 Ps of Marketing}$ (Marketing Mix) include Product, Price, Place, and $\\textbf{Promotion}$.",
+        "image": "",
+        "options": [
+            "People",
+            "Planning",
+            "Profit",
+            "Promotion"
+        ],
+        "answer": "Promotion",
+        "explanation": "Promotion includes all activities used to communicate and persuade customers (advertising, public relations, sales promotion)."
+    },
+    {
+        "id": "COM07",
+        "text": "A $\\textbf{Company}$ (or corporation) is legally considered a $\\textbf{Separate Legal Entity}$, distinct from its $\\textbf{Owners}$ (shareholders).",
+        "image": "",
+        "options": [
+            "Partnership",
+            "Sole Proprietorship",
+            "Separate Legal Entity",
+            "Joint Venture"
+        ],
+        "answer": "Separate Legal Entity",
+        "explanation": "This feature grants the company limited liability and perpetual succession."
+    },
+    {
+        "id": "COM08",
+        "text": "$\\textbf{Insurance}$ functions to share the $\\textbf{Risk}$ of potential $\\textbf{Losses}$ among a large number of $\\textbf{People}$.",
+        "image": "",
+        "options": [
+            "Eliminate Risk",
+            "Prevent Risk",
+            "Share the Risk",
+            "Transfer Risk to Government"
+        ],
+        "answer": "Share the Risk",
+        "explanation": "By pooling premiums from many policyholders, the insurer can afford to pay out claims when losses occur."
+    },
+    {
+        "id": "COM09",
+        "text": "A $\\textbf{Bill of Lading}$ is a legal document used in $\\textbf{Shipping}$ that serves as a $\\textbf{Contract}$ between the shipper and the $\\textbf{Carrier}$.",
+        "image": "",
+        "options": [
+            "Contract of Sale",
+            "Bill of Lading",
+            "Letter of Credit",
+            "Proforma Invoice"
+        ],
+        "answer": "Bill of Lading",
+        "explanation": "It specifies the goods, the destination, and serves as a document of title to the goods."
+    },
+    {
+        "id": "COM10",
+        "text": "The $\\textbf{Break-Even Point}$ in $\\textbf{Commerce}$ is the level of sales where total revenue equals total $\\textbf{Costs}$, resulting in $\\textbf{Zero Profit}$.",
+        "image": "",
+        "options": [
+            "Variable Costs",
+            "Fixed Costs",
+            "Total Costs",
+            "Marginal Costs"
+        ],
+        "answer": "Total Costs",
+        "explanation": "Beyond the break-even point, every dollar of sales contributes to profit."
+    },
+    {
+        "id": "COM11",
+        "text": "A $\\textbf{Trademark}$ legally protects a brand $\\textbf{Name}$, symbol, or $\\textbf{Logo}$ used to identify a company's $\\textbf{Goods}$ or services.",
+        "image": "",
+        "options": [
+            "Patent",
+            "Copyright",
+            "Trademark",
+            "Industrial Design"
+        ],
+        "answer": "Trademark",
+        "explanation": "Trademarks prevent other businesses from using similar identifiers that could confuse consumers."
+    },
+    {
+        "id": "COM12",
+        "text": "The $\\textbf{Secondary Sector}$ of industry involves the processing of $\\textbf{Raw Materials}$ into $\\textbf{Finished}$ or $\\textbf{Semi-Finished}$ goods (manufacturing).",
+        "image": "",
+        "options": [
+            "Services",
+            "Extraction",
+            "Manufacturing",
+            "Distribution"
+        ],
+        "answer": "Manufacturing",
+        "explanation": "Also known as the manufacturing sector, it includes industries like auto production and textile mills."
+    },
+    {
+        "id": "COM13",
+        "text": "A $\\textbf{Joint Venture}$ is a temporary business $\\textbf{Arrangement}$ where two or more parties agree to pool their resources for a specific $\\textbf{Task}$.",
+        "image": "",
+        "options": [
+            "Merger",
+            "Acquisition",
+            "Joint Venture",
+            "Franchise"
+        ],
+        "answer": "Joint Venture",
+        "explanation": "Joint ventures are common in international projects where risks and expertise need to be shared."
+    },
+    {
+        "id": "COM14",
+        "text": "The $\\textbf{Supply Chain}$ includes all the steps required to get a product from its $\\textbf{Raw Material}$ state to the final $\\textbf{Consumer}$.",
+        "image": "",
+        "options": [
+            "Only Retail",
+            "Only Production",
+            "All Steps from Raw Material to Consumer",
+            "Only Logistics"
+        ],
+        "answer": "All Steps from Raw Material to Consumer",
+        "explanation": "It encompasses suppliers, manufacturers, distributors, retailers, and final customers."
+    },
+    {
+        "id": "COM15",
+        "text": "A $\\textbf{Letter of Credit}$ is a financial instrument issued by a $\\textbf{Bank}$ guaranteeing that the buyer's $\\textbf{Payment}$ to the seller will be received on $\\textbf{Time}$.",
+        "image": "",
+        "options": [
+            "Commercial Paper",
+            "Bank Draft",
+            "Letter of Credit",
+            "Promissory Note"
+        ],
+        "answer": "Letter of Credit",
+        "explanation": "It is widely used in international trade to mitigate payment risks for sellers."
+    },
+    {
+        "id": "COM16",
+        "text": "The concept of $\\textbf{Comparative Advantage}$ suggests that a country should specialize in producing goods it can make at a $\\textbf{Lower Opportunity Cost}$ than its trading $\\textbf{Partners}$.",
+        "image": "",
+        "options": [
+            "Lower Absolute Cost",
+            "Lower Labor Cost",
+            "Lower Opportunity Cost",
+            "Higher Selling Price"
+        ],
+        "answer": "Lower Opportunity Cost",
+        "explanation": "This leads to increased efficiency and overall global production when countries trade."
+    },
+    {
+        "id": "COM17",
+        "text": "A $\\textbf{Trade Discount}$ is a reduction in the $\\textbf{List Price}$ of a product offered to $\\textbf{Retailers}$ or other $\\textbf{Intermediaries}$.",
+        "image": "",
+        "options": [
+            "Cash Discount",
+            "Quantity Discount",
+            "Trade Discount",
+            "Seasonal Discount"
+        ],
+        "answer": "Trade Discount",
+        "explanation": "Trade discounts are not recorded in the accounts; the transaction is recorded at the net amount."
+    },
+    {
+        "id": "COM18",
+        "text": "The process of $\\textbf{Branding}$ creates a unique $\\textbf{Identity}$ for a product or company, distinguishing it from $\\textbf{Competitors}$ in the $\\textbf{Market}$.",
+        "image": "",
+        "options": [
+            "Product Design",
+            "Pricing Strategy",
+            "Branding",
+            "Distribution Channel"
+        ],
+        "answer": "Branding",
+        "explanation": "A strong brand name fosters loyalty and recognition."
+    },
+    {
+        "id": "COM19",
+        "text": "A $\\textbf{Franchise}$ is a license granting a $\\textbf{Franchisee}$ the right to use the $\\textbf{Trademark}$ and business model of the $\\textbf{Franchisor}$.",
+        "image": "",
+        "options": [
+            "Joint Venture",
+            "Partnership",
+            "Franchise",
+            "Merger"
+        ],
+        "answer": "Franchise",
+        "explanation": "Franchises allow for rapid expansion of a successful business model with shared risk."
+    },
+    {
+        "id": "COM20",
+        "text": "The $\\textbf{Tertiary Sector}$ (Service Sector) encompasses businesses that provide $\\textbf{Services}$ rather than $\\textbf{Tangible Goods}$, such as banking, healthcare, and $\\textbf{Education}$.",
+        "image": "",
+        "options": [
+            "Primary Sector",
+            "Secondary Sector",
+            "Tertiary Sector",
+            "Quaternary Sector"
+        ],
+        "answer": "Tertiary Sector",
+        "explanation": "This sector is the largest and fastest-growing in most developed economies."
+    },
+    {
+        "id": "COM21",
+        "text": "In a $\\textbf{Limited Liability Company}$ ($\\,\\textbf{LLC}$), the personal liability of the $\\textbf{Members}$ for business debts is generally limited to their $\\textbf{Investment}$.",
+        "image": "",
+        "options": [
+            "Unlimited",
+            "Full",
+            "Limited to Investment",
+            "Joint"
+        ],
+        "answer": "Limited to Investment",
+        "explanation": "The limited liability protection is a key advantage of the LLC structure over sole proprietorships or general partnerships."
+    },
+    {
+        "id": "COM22",
+        "text": "A $\\textbf{Trade Union}$ is an organization formed by $\\textbf{Workers}$ to protect and advance their $\\textbf{Rights}$ and $\\textbf{Interests}$ through collective $\\textbf{Bargaining}$.",
+        "image": "",
+        "options": [
+            "Management",
+            "Employers",
+            "Workers",
+            "Government"
+        ],
+        "answer": "Workers",
+        "explanation": "Trade unions negotiate with employers regarding wages, working conditions, and benefits."
+    },
+    {
+        "id": "COM23",
+        "text": "The $\\textbf{Price Elasticity of Demand}$ measures the responsiveness of the quantity $\\textbf{Demanded}$ to a change in the product's $\\textbf{Price}$.",
+        "image": "",
+        "options": [
+            "Supply",
+            "Cost",
+            "Demand",
+            "Quantity Supplied"
+        ],
+        "answer": "Demand",
+        "explanation": "If elasticity is greater than 1, demand is elastic; if less than 1, demand is inelastic."
+    },
+    {
+        "id": "COM24",
+        "text": "The primary purpose of a $\\textbf{Stock Exchange}$ (e.g., $\\textbf{NYSE}$) is to facilitate the $\\textbf{Buying}$ and $\\textbf{Selling}$ of securities, providing $\\textbf{Liquidity}$.",
+        "image": "",
+        "options": [
+            "Product Manufacturing",
+            "Financial Auditing",
+            "Facilitate Buying and Selling of Securities",
+            "Set Interest Rates"
+        ],
+        "answer": "Facilitate Buying and Selling of Securities",
+        "explanation": "Stock exchanges connect buyers and sellers, which is crucial for capital formation and investment."
+    },
+    {
+        "id": "COM25",
+        "text": "In $\\textbf{E-Commerce}$, $\\textbf{B2C}$ refers to business transactions conducted directly between a $\\textbf{Business}$ and a final $\\textbf{Consumer}$.",
+        "image": "",
+        "options": [
+            "Business-to-Business",
+            "Consumer-to-Consumer",
+            "Business-to-Consumer",
+            "Consumer-to-Business"
+        ],
+        "answer": "Business-to-Consumer",
+        "explanation": "B2C is the most common form of e-commerce, such as online retail sales."
+    },
+    {
+        "id": "COM26",
+        "text": "A $\\textbf{Customs Union}$ is a trade bloc where member states eliminate $\\textbf{Tariffs}$ among themselves and adopt a common $\\textbf{External Tariff}$ policy.",
+        "image": "",
+        "options": [
+            "Free Trade Area",
+            "Common Market",
+            "Customs Union",
+            "Economic Union"
+        ],
+        "answer": "Customs Union",
+        "explanation": "The European Union started as a form of customs union."
+    },
+    {
+        "id": "COM27",
+        "text": "The $\\textbf{Incoterms}$ (International Commercial Terms) are standardized trade terms used to define the $\\textbf{Responsibilities}$ and $\\textbf{Risks}$ of buyers and sellers in $\\textbf{International}$ transactions.",
+        "image": "",
+        "options": [
+            "Domestic",
+            "Local",
+            "Regional",
+            "International"
+        ],
+        "answer": "International",
+        "explanation": "Incoterms (e.g., FOB, CIF, EXW) clarify who pays for what and where risk transfers."
+    },
+    {
+        "id": "COM28",
+        "text": "The $\\textbf{Channel of Distribution}$ refers to the path through which $\\textbf{Goods}$ move from the $\\textbf{Producer}$ to the ultimate $\\textbf{Consumer}$.",
+        "image": "",
+        "options": [
+            "Production Line",
+            "Advertising Campaign",
+            "Channel of Distribution",
+            "Financing Method"
+        ],
+        "answer": "Channel of Distribution",
+        "explanation": "This channel includes wholesalers, retailers, and agents."
+    },
+    {
+        "id": "COM29",
+        "text": "The $\\textbf{Law of Diminishing Returns}$ states that adding more of one $\\textbf{Factor of Production}$ (e.g., labor) while holding $\\textbf{Others}$ constant eventually yields smaller and smaller increases in $\\textbf{Output}$.",
+        "image": "",
+        "options": [
+            "Total Revenue",
+            "Sales Price",
+            "Output",
+            "Fixed Costs"
+        ],
+        "answer": "Output",
+        "explanation": "This law is a fundamental concept in production economics."
+    },
+    {
+        "id": "COM30",
+        "text": "A $\\textbf{Non-Profit Organization}$ primarily aims to provide services or benefit society rather than maximizing $\\textbf{Financial Profit}$ for its $\\textbf{Owners}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Market Share",
+            "Financial Profit",
+            "Employee Satisfaction"
+        ],
+        "answer": "Financial Profit",
+        "explanation": "While they must manage finances responsibly, their surplus is reinvested in the organization's mission."
+    },
+    {
+        "id": "COM31",
+        "text": "The $\\textbf{Patent}$ system grants an inventor exclusive $\\textbf{Rights}$ to manufacture, use, and sell an $\\textbf{Invention}$ for a limited $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Trademark",
+            "Copyright",
+            "Patent",
+            "Trade Secret"
+        ],
+        "answer": "Patent",
+        "explanation": "Patents cover functionality and design, typically lasting 20 years from the date of filing."
+    },
+    {
+        "id": "COM32",
+        "text": "A $\\textbf{Public Company}$ is required to disclose its financial and operational information to the public and is often listed on a $\\textbf{Stock Exchange}$.",
+        "image": "",
+        "options": [
+            "Private Company",
+            "Public Company",
+            "Sole Proprietorship",
+            "Partnership"
+        ],
+        "answer": "Public Company",
+        "explanation": "Public companies are regulated by bodies like the SEC (in the US) to protect investors."
+    },
+    {
+        "id": "COM33",
+        "text": "The $\\textbf{World Trade Organization}$ ($\\,\\textbf{WTO}$) primarily administers trade agreements, acts as a forum for trade $\\textbf{Negotiations}$, and settles trade $\\textbf{Disputes}$ among member $\\textbf{Nations}$.",
+        "image": "",
+        "options": [
+            "Set Global Interest Rates",
+            "Negotiations",
+            "Provide Development Loans",
+            "Set Exchange Rates"
+        ],
+        "answer": "Negotiations",
+        "explanation": "The WTO aims to ensure that trade flows as smoothly, predictably, and freely as possible."
+    },
+    {
+        "id": "COM34",
+        "text": "The $\\textbf{Demographic}$ segmentation variable divides the market based on traits such as $\\textbf{Age}$, gender, income, and $\\textbf{Education}$.",
+        "image": "",
+        "options": [
+            "Psychographic",
+            "Geographic",
+            "Demographic",
+            "Behavioral"
+        ],
+        "answer": "Demographic",
+        "explanation": "Demographics are quantifiable characteristics of populations used extensively in marketing research."
+    },
+    {
+        "id": "COM35",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Specific Performance}$ is a remedy that requires the breaching party to fulfill the exact terms of the $\\textbf{Contract}$.",
+        "image": "",
+        "options": [
+            "Damages Payment",
+            "Rescission",
+            "Specific Performance",
+            "Injunction"
+        ],
+        "answer": "Specific Performance",
+        "explanation": "This remedy is typically only granted when monetary damages are inadequate, such as in the sale of unique goods or real estate."
+    },
+    {
+        "id": "COM36",
+        "text": "The $\\textbf{Quaternary Sector}$ of the economy focuses on $\\textbf{Knowledge}$-based activities, such as information processing, $\\textbf{Research}$ and development, and $\\textbf{Consulting}$.",
+        "image": "",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Quaternary",
+        "explanation": "This sector is integral to innovation and future economic growth."
+    },
+    {
+        "id": "COM37",
+        "text": "A $\\textbf{Trade Barrier}$ that restricts the $\\textbf{Quantity}$ of imported goods is known as a $\\textbf{Quota}$.",
+        "image": "",
+        "options": [
+            "Tariff",
+            "Embargo",
+            "Quota",
+            "Subsidy"
+        ],
+        "answer": "Quota",
+        "explanation": "Quotas physically limit the volume of goods that can enter a country, directly impacting supply."
+    },
+    {
+        "id": "COM38",
+        "text": "The concept of $\\textbf{Marketing Myopia}$ refers to a business $\\textbf{Focusing}$ too narrowly on the $\\textbf{Product}$ rather than the underlying $\\textbf{Customer Needs}$.",
+        "image": "",
+        "options": [
+            "Product",
+            "Profit",
+            "Promotion",
+            "Place"
+        ],
+        "answer": "Product",
+        "explanation": "Companies exhibiting myopia risk becoming obsolete when superior products emerge to meet the same underlying need."
+    },
+    {
+        "id": "COM39",
+        "text": "The term $\\textbf{E-Tailing}$ is used specifically to describe the $\\textbf{Online}$ $\\textbf{Retailing}$ of goods and $\\textbf{Services}$ to consumers.",
+        "image": "",
+        "options": [
+            "B2B",
+            "C2C",
+            "E-Tailing",
+            "B2G"
+        ],
+        "answer": "E-Tailing",
+        "explanation": "This is a form of B2C e-commerce, referring specifically to the retail aspect of online selling."
+    },
+    {
+        "id": "COM40",
+        "text": "A $\\textbf{Non-Disclosure Agreement}$ ($\\,\\textbf{NDA}$) is a legal $\\textbf{Contract}$ designed to protect $\\textbf{Confidential}$ information shared between two or more $\\textbf{Parties}$.",
+        "image": "",
+        "options": [
+            "Sales Contract",
+            "Employment Contract",
+            "Non-Disclosure Agreement",
+            "Service Contract"
+        ],
+        "answer": "Non-Disclosure Agreement",
+        "explanation": "NDAs are critical in commercial and research settings where intellectual property or trade secrets are discussed."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "BIO_2021_01",
+      "text": "The major substance found in the cell wall of fungal cells is:",
+      "image": "",
+      "options": ["Cellulose", "Chitin", "Lignin", "Pectin"],
+      "answer": "Chitin",
+      "explanation": "Unlike plant cell walls (which are primarily cellulose), fungal cell walls are mostly composed of chitin, a tough polysaccharide."
+    },
+    {
+      "id": "BIO_2021_02",
+      "text": "In microscopy, the part that regulates the amount of light passing through the specimen is the:",
+      "image": "[Diagram of a light microscope]",
+      "options": ["Objective lens", "Eyepiece", "Diaphragm", "Fine adjustment knob"],
+      "answer": "Diaphragm",
+      "explanation": "The diaphragm (or iris diaphragm) is located beneath the stage and controls the diameter of the light beam, thereby regulating light intensity and contrast."
+    },
+    {
+      "id": "BIO_2021_03",
+      "text": "The process by which energy is released from glucose in the absence of oxygen is called:",
+      "image": "[Equation for fermentation]",
+      "options": ["Aerobic respiration", "Photosynthesis", "Glycolysis", "Anaerobic respiration"],
+      "answer": "Anaerobic respiration",
+      "explanation": "Anaerobic respiration (or fermentation) is the metabolic pathway that releases energy (ATP) from glucose without requiring oxygen. Glycolysis is the first stage of both aerobic and anaerobic respiration."
+    },
+    {
+      "id": "BIO_2021_04",
+      "text": "Which of the following elements is a component of the chlorophyll molecule?",
+      "image": "[Chemical structure of a Chlorophyll molecule]",
+      "options": ["Calcium", "Iron", "Magnesium", "Potassium"],
+      "answer": "Magnesium",
+      "explanation": "Magnesium ($\text{Mg}$) is the central metal ion in the porphyrin ring structure of the chlorophyll molecule."
+    },
+    {
+      "id": "BIO_2021_05",
+      "text": "The primary function of the root hairs in plants is:",
+      "image": "[Diagram of a root tip showing root hairs]",
+      "options": ["Anchorage of the plant", "Storage of food", "Absorption of water and mineral salts", "Photosynthesis"],
+      "answer": "Absorption of water and mineral salts",
+      "explanation": "Root hairs are fine extensions of epidermal cells that significantly increase the surface area for the efficient absorption of water and dissolved minerals from the soil."
+    },
+    {
+      "id": "BIO_2021_06",
+      "text": "The maximum rate of water absorption by a plant root occurs when the soil is:",
+      "image": "",
+      "options": ["Waterlogged and warm", "Aerated and cold", "Waterlogged and cold", "Aerated and warm"],
+      "answer": "Aerated and warm",
+      "explanation": "Water absorption requires energy (ATP) produced by aerobic respiration in root cells. Respiration is optimum when the soil is warm and well-aerated (oxygen is present)."
+    },
+    {
+      "id": "BIO_2021_07",
+      "text": "The main component of the thick coat that protects a bacterial spore is:",
+      "image": "",
+      "options": ["Protein", "Lipid", "Peptidoglycan", "Cellulose"],
+      "answer": "Protein",
+      "explanation": "Bacterial spores (endospores) are extremely resistant to heat, chemicals, and radiation due to their dehydrated core and thick spore coat, which is composed primarily of keratin-like protein layers."
+    },
+    {
+      "id": "BIO_2021_08",
+      "text": "Which type of joint allows movement in one plane only, such as found in the elbow and knee?",
+      "image": "[Diagram comparing ball-and-socket and hinge joints]",
+      "options": ["Ball-and-socket joint", "Hinge joint", "Gliding joint", "Pivot joint"],
+      "answer": "Hinge joint",
+      "explanation": "Hinge joints (e.g., elbow, knee) permit movement in only one plane, like the hinge of a door."
+    },
+    {
+      "id": "BIO_2021_09",
+      "text": "The blood vessel that carries deoxygenated blood from the body tissues to the right atrium of the heart is the:",
+      "image": "[Diagram of blood circulation highlighting major veins]",
+      "options": ["Pulmonary artery", "Aorta", "Vena cava", "Pulmonary vein"],
+      "answer": "Vena cava",
+      "explanation": "The superior and inferior vena cava are the largest veins that collect deoxygenated blood from the systemic circulation and deliver it to the right atrium."
+    },
+    {
+      "id": "BIO_2021_10",
+      "text": "The condition of a plant losing turgor and becoming flaccid is known as:",
+      "image": "[Diagram illustrating turgid, flaccid, and plasmolysed cells]",
+      "options": ["Plasmolysis", "Turgidity", "Dehydration", "Wilting"],
+      "answer": "Wilting",
+      "explanation": "Wilting is the loss of rigidity (turgor) of the non-woody parts of plants due to insufficient water, causing them to droop."
+    },
+    {
+      "id": "BIO_2021_11",
+      "text": "Which part of the alimentary canal in humans is primarily responsible for the absorption of digested food?",
+      "image": "[Diagram of the human small intestine showing villi]",
+      "options": ["Stomach", "Large intestine", "Oesophagus", "Small intestine"],
+      "answer": "Small intestine",
+      "explanation": "The small intestine (duodenum, jejunum, ileum) has a highly folded inner surface with villi and microvilli, which maximize the surface area for the absorption of nutrients into the bloodstream."
+    },
+    {
+      "id": "BIO_2021_12",
+      "text": "A circulatory system where blood flows through a network of sinuses (open spaces) rather than definite vessels is found in:",
+      "image": "",
+      "options": ["Fish", "Birds", "Insects", "Mammals"],
+      "answer": "Insects",
+      "explanation": "Insects and other arthropods have an open circulatory system where blood (haemolymph) is pumped into an open cavity (haemocoel) surrounding the organs, rather than contained entirely within vessels."
+    },
+    {
+      "id": "BIO_2021_13",
+      "text": "The largest endocrine gland in the human body is the:",
+      "image": "",
+      "options": ["Adrenal gland", "Pituitary gland", "Thyroid gland", "Pancreas"],
+      "answer": "Thyroid gland",
+      "explanation": "The thyroid gland, located in the neck, is generally the largest pure endocrine gland. The pancreas is larger but functions as both an endocrine and exocrine gland."
+    },
+    {
+      "id": "BIO_2021_14",
+      "text": "Coordination and regulation of body temperature in mammals are controlled by the:",
+      "image": "[Diagram of the human brain highlighting the Hypothalamus]",
+      "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+      "answer": "Hypothalamus",
+      "explanation": "The hypothalamus, located beneath the thalamus, is the body's main homeostatic center, controlling processes like body temperature, thirst, hunger, and sleep."
+    },
+    {
+      "id": "BIO_2021_15",
+      "text": "The primary site of fertilization in the human female reproductive system is the:",
+      "image": "[Diagram of the female reproductive system]",
+      "options": ["Uterus", "Ovary", "Cervix", "Fallopian tube (Oviduct)"],
+      "answer": "Fallopian tube (Oviduct)",
+      "explanation": "Fertilization, the fusion of sperm and egg, normally occurs in the ampulla region of the Fallopian tube (oviduct)."
+    },
+    {
+      "id": "BIO_2021_16",
+      "text": "In a developing embryo, the process by which three germ layers (ectoderm, mesoderm, endoderm) are formed is called:",
+      "image": "[Diagram illustrating the process of Gastrulation]",
+      "options": ["Cleavage", "Blastulation", "Gastrulation", "Organogenesis"],
+      "answer": "Gastrulation",
+      "explanation": "Gastrulation is a critical stage in early embryonic development where the single-layered blastula is reorganized into the three-layered structure (gastrula) containing the primary germ layers."
+    },
+    {
+      "id": "BIO_2021_17",
+      "text": "Which vitamin is essential for the normal clotting of blood?",
+      "image": "",
+      "options": ["Vitamin A", "Vitamin $\\text{B}_{12}$", "Vitamin $\\text{C}$", "Vitamin $\\text{K}$"],
+      "answer": "Vitamin $\\text{K}$",
+      "explanation": "Vitamin $\\text{K}$ is necessary for the liver to synthesize certain proteins (like prothrombin) required for blood coagulation."
+    },
+    {
+      "id": "BIO_2021_18",
+      "text": "The waste product of photosynthesis that is released into the atmosphere is:",
+      "image": "[Equation for Photosynthesis]",
+      "options": ["Carbon dioxide", "Glucose", "Water", "Oxygen"],
+      "answer": "Oxygen",
+      "explanation": "Photosynthesis uses carbon dioxide and water to produce glucose and oxygen. Oxygen ($\text{O}_2$) is released as a byproduct."
+    },
+    {
+      "id": "BIO_2021_19",
+      "text": "The ultimate source of energy for nearly all life on Earth is:",
+      "image": "",
+      "options": ["Geothermal energy", "Chemical energy", "The Sun", "Water"],
+      "answer": "The Sun",
+      "explanation": "Photosynthetic organisms (producers) capture light energy from the Sun and convert it into chemical energy (glucose), which forms the basis of nearly all food webs."
+    },
+    {
+      "id": "BIO_2021_20",
+      "text": "Which of these organisms is a primary producer in a terrestrial ecosystem?",
+      "image": "",
+      "options": ["Grasshopper", "Mushroom", "Maize plant", "Lion"],
+      "answer": "Maize plant",
+      "explanation": "Primary producers (autotrophs) are organisms, typically plants or algae, that produce their own food using photosynthesis. The maize plant is a plant and therefore a producer."
+    },
+    {
+      "id": "BIO_2021_21",
+      "text": "The total number of species and the variety of life in an ecosystem is referred to as:",
+      "image": "[Image illustrating different levels of biodiversity]",
+      "options": ["Ecology", "Succession", "Biogeography", "Biodiversity"],
+      "answer": "Biodiversity",
+      "explanation": "Biodiversity is the variability among living organisms from all sources, including diversity within species, between species, and of ecosystems."
+    },
+    {
+      "id": "BIO_2021_22",
+      "text": "A symbiotic relationship where both organisms benefit is called:",
+      "image": "[Image illustrating mutualism, e.g., bee and flower]",
+      "options": ["Parasitism", "Commensalism", "Competition", "Mutualism"],
+      "answer": "Mutualism",
+      "explanation": "Mutualism is an interaction between two species in which both benefit. Commensalism benefits one but neither harms nor helps the other; Parasitism benefits one at the expense of the other."
+    },
+    {
+      "id": "BIO_2021_23",
+      "text": "Which of the following is an aquatic habitat?",
+      "image": "",
+      "options": ["Rainforest", "Savanna", "Estuary", "Desert"],
+      "answer": "Estuary",
+      "explanation": "An estuary is a partially enclosed coastal body of brackish water where freshwater from rivers meets and mixes with saltwater from the ocean. It is an aquatic habitat."
+    },
+    {
+      "id": "BIO_2021_24",
+      "text": "Acid rain is primarily caused by the atmospheric dissolution of:",
+      "image": "",
+      "options": ["Carbon monoxide and ozone", "Sulphur dioxide and nitrogen oxides", "Methane and carbon dioxide", "Water vapour and oxygen"],
+      "answer": "Sulphur dioxide and nitrogen oxides",
+      "explanation": "Acid rain is caused when sulphur dioxide ($\text{SO}_2$) and nitrogen oxides ($\text{NO}_x$) react with water, oxygen, and other chemicals to form sulphuric and nitric acids."
+    },
+    {
+      "id": "BIO_2021_25",
+      "text": "In Genetics, a segment of $\\text{DNA}$ that codes for a specific protein is called a:",
+      "image": "[Diagram of a gene on a chromosome]",
+      "options": ["Chromosome", "Allele", "Locus", "Gene"],
+      "answer": "Gene",
+      "explanation": "A gene is the basic physical and functional unit of heredity, which is a specific sequence of nucleotides in $\\text{DNA}$ or $\\text{RNA}$ that is located usually on a chromosome."
+    },
+    {
+      "id": "BIO_2021_26",
+      "text": "If a couple has two children, both girls, what is the probability that their next child will be a boy?",
+      "image": "",
+      "options": ["$0\\%$", "$25\\%$", "$50\\%$", "$75\\%$"],
+      "answer": "$50\\%$",
+      "explanation": "The sex of each child is determined by independent events. The probability of having a boy is always $1/2$ (or $50\\%$), regardless of the sex of previous children."
+    },
+    {
+      "id": "BIO_2021_27",
+      "text": "An organism with the genotype $\\text{AaBb}$ is said to be:",
+      "image": "",
+      "options": ["Homozygous dominant", "Homozygous recessive", "Heterozygous", "Polygenic"],
+      "answer": "Heterozygous",
+      "explanation": "An organism is heterozygous for a gene if it has two different alleles (e.g., A and a) for that gene. $\\text{AaBb}$ is heterozygous for both genes."
+    },
+    {
+      "id": "BIO_2021_28",
+      "text": "Which of the following is an example of discontinuous variation in humans?",
+      "image": "",
+      "options": ["Height", "Skin colour", "Blood group", "Weight"],
+      "answer": "Blood group",
+      "explanation": "Discontinuous variation (qualitative) is controlled by a single gene and results in distinct categories (e.g., $\\text{A, B, AB, O}$). Continuous variation (quantitative) is controlled by multiple genes and shows a range (e.g., height, weight)."
+    },
+    {
+      "id": "BIO_2021_29",
+      "text": "The study of the interactions of organisms with their non-living environment is called:",
+      "image": "",
+      "options": ["Biotechnology", "Microbiology", "Ecology", "Physiology"],
+      "answer": "Ecology",
+      "explanation": "Ecology is the study of the relationships between living organisms, including humans, and their physical environment."
+    },
+    {
+      "id": "BIO_2021_30",
+      "text": "The vestigial organ in humans that provides evidence for evolution is the:",
+      "image": "",
+      "options": ["Liver", "Heart", "Appendix", "Kidney"],
+      "answer": "Appendix",
+      "explanation": "Vestigial organs (like the human appendix, wisdom teeth) are remnants of structures that had important functions in ancestral species but are now largely functionless in the organism."
+    },
+    {
+      "id": "BIO_2021_31",
+      "text": "Which of the following is a characteristic feature of the Phylum Arthropoda?",
+      "image": "",
+      "options": ["Soft, unsegmented body", "Damp, scaleless skin", "Jointed appendages and exoskeleton", "Radial symmetry"],
+      "answer": "Jointed appendages and exoskeleton",
+      "explanation": "Arthropods (insects, crustaceans, spiders) are characterized by a segmented body, a hard exoskeleton (cuticle), and jointed limbs (appendages)."
+    },
+    {
+      "id": "BIO_2021_32",
+      "text": "The term used for the movement of animals from one location to another in response to environmental changes is:",
+      "image": "",
+      "options": ["Hibernation", "Aestivation", "Migration", "Camouflage"],
+      "answer": "Migration",
+      "explanation": "Migration is the periodic movement of animals from one region to another, often seasonal, typically for feeding or breeding."
+    },
+    {
+      "id": "BIO_2021_33",
+      "text": "The structural and functional unit of the kidney is the:",
+      "image": "[Diagram of the Nephron structure]",
+      "options": ["Glomerulus", "Ureter", "Renal capsule", "Nephron"],
+      "answer": "Nephron",
+      "explanation": "The nephron is the microscopic unit of the kidney, responsible for filtration, reabsorption, and secretion, which ultimately leads to urine formation."
+    },
+    {
+      "id": "BIO_2021_34",
+      "text": "In a flowering plant, the process by which the male gamete is transported from the anther to the stigma is called:",
+      "image": "[Diagram illustrating the process of pollination]",
+      "options": ["Fertilization", "Grafting", "Germination", "Pollination"],
+      "answer": "Pollination",
+      "explanation": "Pollination is the transfer of pollen grains (containing the male gametes) from the anther to the receptive part of the pistil (the stigma)."
+    },
+    {
+      "id": "BIO_2021_35",
+      "text": "The primary role of decomposers (bacteria and fungi) in an ecosystem is to:",
+      "image": "",
+      "options": ["Fix atmospheric nitrogen", "Control pest populations", "Return essential nutrients to the soil", "Convert light energy to chemical energy"],
+      "answer": "Return essential nutrients to the soil",
+      "explanation": "Decomposers break down dead organic matter and waste products, recycling nutrients (carbon, nitrogen, etc.) back into the soil and atmosphere for producers to use."
+    },
+    {
+      "id": "BIO_2021_36",
+      "text": "The function of the $\\text{Luteinizing Hormone (LH)}$ in the male human is to stimulate the production of:",
+      "image": "[Graph showing hormone levels in the male reproductive system]",
+      "options": ["Sperm cells", "Progesterone", "Testosterone", "Follicle Stimulating Hormone ($\text{FSH}$)"],
+      "answer": "Testosterone",
+      "explanation": "In males, $\\text{LH}$ (also called $\\text{ICSH}$) stimulates the Leydig cells in the testes to produce the male sex hormone, testosterone."
+    },
+    {
+      "id": "BIO_2021_37",
+      "text": "Which of the following is a general characteristic of viruses?",
+      "image": "[Diagram of a virus structure]",
+      "options": ["They are unicellular", "They have both $\\text{DNA}$ and $\\text{RNA}$", "They require a host cell to reproduce", "They possess a cell wall"],
+      "answer": "They require a host cell to reproduce",
+      "explanation": "Viruses are obligate intracellular parasites, meaning they can only replicate inside the living cells of an organism."
+    },
+    {
+      "id": "BIO_2021_38",
+      "text": "In the ecological pyramid, which level generally contains the least amount of energy?",
+      "image": "[Diagram of an ecological pyramid of energy]",
+      "options": ["Producers", "Primary consumers", "Secondary consumers", "Tertiary consumers"],
+      "answer": "Tertiary consumers",
+      "explanation": "Energy is lost as heat at each trophic level (approximately $90\\%$ loss). Therefore, the highest trophic level (tertiary consumers) contains the least amount of energy available."
+    },
+    {
+      "id": "BIO_2021_39",
+      "text": "The excretory structure found in an Earthworm is the:",
+      "image": "",
+      "options": ["Malpighian tubule", "Flame cell", "Nephridium", "Kidney"],
+      "answer": "Nephridium",
+      "explanation": "Earthworms (Annelids) use segmentally arranged excretory organs called nephridia to remove metabolic wastes from the body fluid."
+    },
+    {
+      "id": "BIO_2021_40",
+      "text": "The function of the $\\text{Aorta}$ is to carry blood from the:",
+      "image": "[Diagram of the mammalian heart showing the Aorta]",
+      "options": ["Right ventricle to the lungs", "Right atrium to the right ventricle", "Left ventricle to all parts of the body", "Left atrium to the left ventricle"],
+      "answer": "Left ventricle to all parts of the body",
+      "explanation": "The Aorta is the largest artery in the body and carries oxygenated blood pumped out by the left ventricle to the rest of the body (systemic circulation)."
+    }
+]

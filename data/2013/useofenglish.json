@@ -1,0 +1,519 @@
+[
+    {
+      "id": "U2013_1",
+      "text": "In 2013, $\\textbf{Pope}$ $\\textbf{Benedict}$ $\\textbf{XVI}$ became the first pontiff to $\\textbf{resign}$ in nearly 600 years, citing $\\textbf{advanced}$ $\\textbf{age}$ and a lack of $\\textbf{strength}$. (Comprehension Passage Snippet 1)\n\nWhat was the primary reason Pope Benedict XVI gave for his resignation?",
+      "image": "",
+      "options": [
+        "A change in political belief",
+        "Advanced age and lack of strength",
+        "A disagreement with cardinals",
+        "The need to travel more widely"
+      ],
+      "answer": "Advanced age and lack of strength",
+      "explanation": "The text explicitly mentions him 'citing advanced age and a lack of strength'."
+    },
+    {
+      "id": "U2013_2",
+      "text": "The $\\textbf{abdication}$ of the Pope was a truly $\\textbf{historic}$ and unexpected event.\n\nChoose the word that is closest in meaning to $\\textbf{abdication}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "A long vacation",
+        "A forceful removal",
+        "The formal stepping down from a high office",
+        "A retirement party"
+      ],
+      "answer": "The formal stepping down from a high office",
+      "explanation": "Abdication means the act of formally renouncing or stepping down from a position of authority or office."
+    },
+    {
+      "id": "U2013_3",
+      "text": "His $\\textbf{successor}$, $\\textbf{Pope}$ $\\textbf{Francis}$, $\\textbf{(was/were)}$ elected shortly thereafter, becoming the first Jesuit Pope.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have been"
+      ],
+      "answer": "was",
+      "explanation": "The subject is the singular noun 'successor', requiring the singular verb 'was'."
+    },
+    {
+      "id": "U2013_4",
+      "text": "The world mourned the death of $\\textbf{Nelson}$ $\\textbf{Mandela}$, the anti-apartheid $\\textbf{icon}$ and former President of South Africa, whose legacy was $\\textbf{defined}$ by $\\textbf{forgiveness}$ and $\\textbf{reconciliation}$. (Comprehension Passage Snippet 2)\n\nWhat two concepts primarily defined Nelson Mandela's legacy, according to the text?",
+      "image": "",
+      "options": [
+        "War and conquest",
+        "Forgiveness and reconciliation",
+        "Wealth and commerce",
+        "Technology and innovation"
+      ],
+      "answer": "Forgiveness and reconciliation",
+      "explanation": "The text states his legacy was 'defined by forgiveness and reconciliation'."
+    },
+    {
+      "id": "U2013_5",
+      "text": "His life's work focused on achieving $\\textbf{reconciliation}$ between formerly warring groups.\n\nChoose the word that is **opposite** in meaning to $\\textbf{reconciliation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Harmonization",
+        "Restoration",
+        "Estrangement or conflict",
+        "Resolution"
+      ],
+      "answer": "Estrangement or conflict",
+      "explanation": "Reconciliation means the restoration of friendly relations. The opposite is estrangement or conflict."
+    },
+    {
+      "id": "U2013_6",
+      "text": "The whole world was $\\textbf{profoundly}$ $\\textbf{moved}$ by the news of his passing.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Whole",
+        "World",
+        "Profoundly",
+        "Passing"
+      ],
+      "answer": "Profoundly",
+      "explanation": "'Profoundly' modifies the past participle 'moved', describing the manner or degree of the action, making it an adverb."
+    },
+    {
+      "id": "U2013_7",
+      "text": "Former NSA contractor $\\textbf{Edward}$ $\\textbf{Snowden}$ leaked classified documents detailing vast U.S. and U.K. $\\textbf{surveillance}$ $\\textbf{programs}$, sparking a massive debate on $\\textbf{privacy}$ $\\textbf{rights}$. (Comprehension Passage Snippet 3)\n\nWhat was the core subject of the documents leaked by Edward Snowden?",
+      "image": "",
+      "options": [
+        "New government building plans",
+        "Vast government surveillance programs",
+        "Military strategies for a war",
+        "Economic forecasts"
+      ],
+      "answer": "Vast government surveillance programs",
+      "explanation": "The text states the documents detailed 'vast U.S. and U.K. surveillance programs'."
+    },
+    {
+      "id": "U2013_8",
+      "text": "The government's electronic $\\textbf{surveillance}$ methods were deemed $\\textbf{excessive}$ by critics.\n\nChoose the word that is closest in meaning to $\\textbf{surveillance}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Public relations",
+        "Secret observation or monitoring",
+        "Casual conversation",
+        "Negotiation"
+      ],
+      "answer": "Secret observation or monitoring",
+      "explanation": "Surveillance means close observation, especially of a suspected spy or criminal."
+    },
+    {
+      "id": "U2013_9",
+      "text": "If Snowden $\\textbf{(had not acted/did not act)}$ as he did, the public $\\textbf{would}$ $\\textbf{not}$ $\\textbf{have}$ $\\textbf{known}$ the extent of the programs.\n\nChoose the correct option to fill the first gap.",
+      "image": "",
+      "options": [
+        "had not acted",
+        "did not act",
+        "has not acted",
+        "would not act"
+      ],
+      "answer": "had not acted",
+      "explanation": "This is a Third Conditional sentence (past hypothetical), requiring the past perfect tense ('had not acted') in the 'if' clause."
+    },
+    {
+      "id": "U2013_10",
+      "text": "The $\\textbf{Boston}$ $\\textbf{Marathon}$ $\\textbf{Bombing}$ in April 2013 resulted in $\\textbf{fatalities}$ and injuries, leading to a massive $\\textbf{manhunt}$ and a long-term increase in security $\\textbf{vigilance}$ at major public events. (Comprehension Passage Snippet 4)\n\nWhat was the long-term impact of the Boston Marathon Bombing on public events?",
+      "image": "",
+      "options": [
+        "The cancellation of all marathons",
+        "A focus on building new stadiums",
+        "A long-term increase in security vigilance",
+        "The banning of all large gatherings"
+      ],
+      "answer": "A long-term increase in security vigilance",
+      "explanation": "The text states it led to 'a long-term increase in security vigilance at major public events'."
+    },
+    {
+      "id": "U2013_11",
+      "text": "Security forces maintained maximum $\\textbf{vigilance}$ during the subsequent manhunt.\n\nChoose the word that is closest in meaning to $\\textbf{vigilance}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Carelessness",
+        "Widespread ignorance",
+        "Keen awareness or watchfulness",
+        "Extreme exhaustion"
+      ],
+      "answer": "Keen awareness or watchfulness",
+      "explanation": "Vigilance means the action or state of keeping careful watch for possible danger or difficulties."
+    },
+    {
+      "id": "U2013_12",
+      "text": "The response by law enforcement was $\\textbf{immediate}$ and $\\textbf{thorough}$.\n\nWhich of the words is the $\\textbf{adjective}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Response",
+        "Law",
+        "Immediate",
+        "Thoroughly"
+      ],
+      "answer": "Immediate",
+      "explanation": "'Immediate' modifies the noun 'response', making it an adjective."
+    },
+    {
+      "id": "U2013_13",
+      "text": "$\\textbf{Typhoon}$ $\\textbf{Haiyan}$ (known locally as Yolanda) $\\textbf{devastated}$ the $\\textbf{Philippines}$ in November 2013, becoming one of the strongest tropical cyclones ever recorded at landfall. (Comprehension Passage Snippet 5)\n\nWhat country was devastated by Typhoon Haiyan in 2013?",
+      "image": "",
+      "options": [
+        "Japan",
+        "The Philippines",
+        "Vietnam",
+        "Thailand"
+      ],
+      "answer": "The Philippines",
+      "explanation": "The text states the typhoon 'devastated the Philippines'."
+    },
+    {
+      "id": "U2013_14",
+      "text": "The $\\textbf{devastation}$ caused by the storm was $\\textbf{catastrophic}$.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{devastation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Widespread ruin or destruction",
+        "Restoration or reconstruction",
+        "An unexpected delay",
+        "A minor inconvenience"
+      ],
+      "answer": "Restoration or reconstruction",
+      "explanation": "Devastation means severe and widespread destruction. The opposite is restoration or reconstruction."
+    },
+    {
+      "id": "U2013_15",
+      "text": "The international community responded $\\textbf{(with/to)}$ emergency aid and $\\textbf{rescue}$ efforts.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "with",
+        "to",
+        "at",
+        "by"
+      ],
+      "answer": "with",
+      "explanation": "To 'respond with' something means to use it as a reaction or solution (responded *with* aid)."
+    },
+    {
+      "id": "U2013_16",
+      "text": "The launch of the $\\textbf{PlayStation}$ $\\textbf{4}$ and $\\textbf{Xbox}$ $\\textbf{One}$ marked the beginning of the eighth generation of video game $\\textbf{consoles}$, driving a major surge in the entertainment industry. (Comprehension Passage Snippet 6)\n\nWhat major market saw a surge due to the launch of these new consoles?",
+      "image": "",
+      "options": [
+        "The automotive industry",
+        "The video game entertainment industry",
+        "The fashion industry",
+        "The agricultural sector"
+      ],
+      "answer": "The video game entertainment industry",
+      "explanation": "The consoles drove a 'major surge in the entertainment industry' (specifically video games)."
+    },
+    {
+      "id": "U2013_17",
+      "text": "The market saw an immediate $\\textbf{saturation}$ of next-generation titles.\n\nChoose the word that is closest in meaning to $\\textbf{saturation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A complete lack",
+        "The state of being filled completely or excessively",
+        "A slight decline",
+        "A temporary pause"
+      ],
+      "answer": "The state of being filled completely or excessively",
+      "explanation": "Saturation means the state of being filled to capacity or beyond, often referring to a market being flooded with a product."
+    },
+    {
+      "id": "U2013_18",
+      "text": "The word $\\textbf{'console'}$ $\\textbf{c o n s o l e}$ (noun, meaning a control panel or device).\n\nIdentify the syllable that carries the primary stress in the word **console** (noun).",
+      "image": "",
+      "options": [
+        "con",
+        "sole"
+      ],
+      "answer": "con",
+      "explanation": "The primary stress in the noun 'console' /ˈkɒn.səʊl/ falls on the first syllable, 'con'."
+    },
+    {
+      "id": "U2013_19",
+      "text": "The $\\textbf{Eurozone}$ $\\textbf{crisis}$ continued, notably with a controversial international $\\textbf{bailout}$ package for $\\textbf{Cyprus}$ that included a levy on bank deposits. (Comprehension Passage Snippet 7)\n\nWhich country received a controversial international bailout package in 2013 that affected bank deposits?",
+      "image": "",
+      "options": [
+        "Greece",
+        "Italy",
+        "Cyprus",
+        "Spain"
+      ],
+      "answer": "Cyprus",
+      "explanation": "The text states the bailout package was for 'Cyprus'."
+    },
+    {
+      "id": "U2013_20",
+      "text": "The $\\textbf{bailout}$ $\\textbf{deal}$ $\\textbf{was}$ $\\textbf{necessary}$ to $\\textbf{prevent}$ a complete financial collapse.\n\nChoose the word that is closest in meaning to the word $\\textbf{bailout}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A heavy tax on goods",
+        "An act of giving financial assistance to a failing business or economy",
+        "A government spending cut",
+        "An increase in interest rates"
+      ],
+      "answer": "An act of giving financial assistance to a failing business or economy",
+      "explanation": "A bailout is an act of giving financial assistance to a failing business or economy to save it from collapse."
+    },
+    {
+      "id": "U2013_21",
+      "text": "The financial assistance, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{highly}$ $\\textbf{debated}$, eventually $\\textbf{stabilized}$ the country's banking sector.\n\nWhich of the words is the $\\textbf{relative}$ $\\textbf{pronoun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Financial",
+        "Which",
+        "Highly",
+        "Stabilized"
+      ],
+      "answer": "Which",
+      "explanation": "'Which' introduces the non-restrictive relative clause ('which was highly debated') and refers back to 'financial assistance'."
+    },
+    {
+      "id": "U2013_22",
+      "text": "The popularity of the new short-form video platform, Vine (launched 2013), proved to be $\\textbf{transitory}$, though it marked a shift in media consumption.\n\nChoose the word that is closest in meaning to $\\textbf{transitory}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Permanent or eternal",
+        "Very long-lasting",
+        "Temporary or brief",
+        "Unexpectedly expensive"
+      ],
+      "answer": "Temporary or brief",
+      "explanation": "Transitory means lasting for only a short time; temporary."
+    },
+    {
+      "id": "U2013_23",
+      "text": "Neither the video format nor the associated celebrities $\\textbf{(has/have)}$ managed to retain their initial fame.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "was"
+      ],
+      "answer": "have",
+      "explanation": "In 'neither... nor...' constructions, the verb agrees with the noun closest to it, which is the plural 'celebrities'."
+    },
+    {
+      
+      "id": "U2013_24",
+      "text": "The word $\\textbf{'launched'}$ $\\textbf{l a u n c h e d}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **launched**?",
+      "image": "",
+      "options": [
+        "Cot",
+        "Caught",
+        "Load",
+        "Lunch"
+      ],
+      "answer": "Caught",
+      "explanation": "The vowel sound in 'launched' /lɔːntʃt/ is the long vowel /ɔː/. 'Caught' also contains the sound /ɔː/."
+    },
+    {
+      "id": "U2013_25",
+      "text": "The ongoing civil war in $\\textbf{Syria}$ presented a deep diplomatic $\\textbf{conundrum}$ for the $\\textbf{United}$ $\\textbf{Nations}$.\n\nChoose the word that is closest in meaning to $\\textbf{conundrum}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A clear agreement",
+        "A difficult problem or puzzle",
+        "A simple solution",
+        "A celebratory event"
+      ],
+      "answer": "A difficult problem or puzzle",
+      "explanation": "A conundrum is a confusing and difficult problem or question."
+    },
+    {
+      "id": "U2013_26",
+      "text": "Massive international $\\textbf{aid}$ $\\textbf{was}$ $\\textbf{deployed}$ to the region by various non-governmental organizations.\n\nIdentify the $\\textbf{passive}$ $\\textbf{voice}$ verb form in the sentence.",
+      "image": "",
+      "options": [
+        "Massive",
+        "was deployed",
+        "region",
+        "organizations"
+      ],
+      "answer": "was deployed",
+      "explanation": "The structure 'was + past participle (deployed)' signifies the simple past passive voice."
+    },
+    {
+      "id": "U2013_27",
+      "text": "The difficulty of delivering aid was a constant $\\textbf{impediment}$ to humanitarian efforts.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{impediment}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A hinderance or obstruction",
+        "An advantage or catalyst",
+        "A simple matter",
+        "A heavy expense"
+      ],
+      "answer": "An advantage or catalyst",
+      "explanation": "An impediment is a hinderance or obstruction in doing something. The opposite is an advantage or catalyst."
+    },
+    {
+      "id": "U2013_28",
+      "text": "The word $\\textbf{'Syria'}$ $\\textbf{S y r i a}$.\n\nIdentify the syllable that carries the primary stress in the word **Syria**.",
+      "image": "",
+      "options": [
+        "Syr",
+        "i a"
+      ],
+      "answer": "Syr",
+      "explanation": "The primary stress in 'Syria' /ˈsɪr.i.ə/ falls on the first syllable, 'Syr'."
+    },
+    {
+      "id": "U2013_29",
+      "text": "Amazon announced its experimental $\\textbf{Prime}$ $\\textbf{Air}$ drone delivery service, an idea that was definitely $\\textbf{ahead}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{curve}$ for retail logistics.\n\nChoose the option that best explains the idiom **ahead of the curve**.",
+      "image": "",
+      "options": [
+        "Falling behind in development",
+        "Being more advanced than the current standards",
+        "Working on a completely separate project",
+        "Being very expensive"
+      ],
+      "answer": "Being more advanced than the current standards",
+      "explanation": "To be 'ahead of the curve' means to be innovative and further along in development than competitors."
+    },
+    {
+      "id": "U2013_30",
+      "text": "If $\\textbf{they}$ $\\textbf{(hadn't}$ $\\textbf{started)}$ testing drones in 2013, they $\\textbf{(would}$ $\\textbf{not}$ $\\textbf{be)}$ leading the logistics race now.\n\nChoose the correct option to fill the second gap.",
+      "image": "",
+      "options": [
+        "would not be",
+        "will not be",
+        "are not",
+        "were not"
+      ],
+      "answer": "would not be",
+      "explanation": "This is a Mixed Conditional sentence: 'If' clause (past perfect) + Main clause (present conditional: 'would + base verb')."
+    },
+    {
+      "id": "U2013_31",
+      "text": "The biggest $\\textbf{logistics}$ $\\textbf{challenge}$ for the service was regulatory approval for drone flight paths.\n\nChoose the word that is closest in meaning to $\\textbf{logistics}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Financial accounting",
+        "The detailed organization and implementation of a complex operation",
+        "Public marketing efforts",
+        "Theoretical science"
+      ],
+      "answer": "The detailed organization and implementation of a complex operation",
+      "explanation": "Logistics is the detailed organization and implementation of a complex operation."
+    },
+    {
+      "id": "U2013_32",
+      "text": "The $\\textbf{unveiling}$ of the $\\textbf{drone}$ $\\textbf{delivery}$ $\\textbf{concept}$ $\\textbf{caused}$ a $\\textbf{stir}$ in the technology world.\n\nWhich of the words is the $\\textbf{noun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Unveiling",
+        "Caused",
+        "A",
+        "In"
+      ],
+      "answer": "Unveiling",
+      "explanation": "'Unveiling' functions as a gerund (a verb form used as a noun) in this sentence."
+    },
+    {
+      "id": "U2013_33",
+      "text": "The highly acclaimed TV series $\\textbf{Breaking}$ $\\textbf{Bad}$ aired its $\\textbf{series}$ $\\textbf{finale}$ in 2013, bringing its dramatic narrative to a spectacular $\\textbf{culmination}$.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{culmination}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "The highest or climactic point",
+        "An unexpected event",
+        "The beginning or inception",
+        "A continuous saga"
+      ],
+      "answer": "The beginning or inception",
+      "explanation": "Culmination means the highest or climactic point of a sequence of events. The opposite is the beginning or inception."
+    },
+    {
+      "id": "U2013_34",
+      "text": "The $\\textbf{story}$ $\\textbf{was}$ $\\textbf{expertly}$ $\\textbf{written}$ and $\\textbf{beautifully}$ $\\textbf{filmed}$.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Story",
+        "Expertly",
+        "Written",
+        "Filmed"
+      ],
+      "answer": "Expertly",
+      "explanation": "'Expertly' modifies the past participle 'written', describing *how* it was written, making it an adverb."
+    },
+    {
+      "id": "U2013_35",
+      "text": "From the very first episode, viewers were completely $\\textbf{hooked}$.\n\nChoose the option that best explains the word **hooked** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Physically trapped",
+        "Emotionally devastated",
+        "Addicted or intensely interested",
+        "Unable to afford the subscription"
+      ],
+      "answer": "Addicted or intensely interested",
+      "explanation": "To be 'hooked' means to be addicted to or intensely interested in something."
+    },
+    {
+      "id": "U2013_36",
+      "text": "The word $\\textbf{'finale'}$ $\\textbf{f i n a l e}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **finale**?",
+      "image": "",
+      "options": [
+        "Day",
+        "Sea",
+        "Bit",
+        "Fine"
+      ],
+      "answer": "Sea",
+      "explanation": "The stressed syllable is 'le' /liː/ which contains the vowel sound /iː/. 'Sea' also contains the sound /iː/."
+    },
+    {
+      "id": "U2013_37",
+      "text": "The $\\textbf{confirmation}$ of the existence of the $\\textbf{Higgs}$ $\\textbf{Boson}$ particle was formally $\\textbf{announced}$ by $\\textbf{CERN}$ in 2013, validating the Standard Model of particle physics.\n\nChoose the word that is closest in meaning to $\\textbf{confirmation}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A rejection of a theory",
+        "The action of establishing the truth or correctness of something",
+        "A slight alteration",
+        "A minor debate"
+      ],
+      "answer": "The action of establishing the truth or correctness of something",
+      "explanation": "Confirmation means the action of establishing the truth or correctness of something."
+    },
+    {
+      "id": "U2013_38",
+      "text": "The discovery was $\\textbf{confirmed}$ $\\textbf{(by/with)}$ independent experiments at the Large Hadron Collider.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "by",
+        "with",
+        "at",
+        "for"
+      ],
+      "answer": "by",
+      "explanation": "When an agent performs an action in the passive voice, the preposition 'by' is used (confirmed *by* the experiments)."
+    },
+    {
+      "id": "U2013_39",
+      "text": "Before the announcement, the particle was $\\textbf{hypothetical}$.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{hypothetical}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Theoretical",
+        "Proven or concrete",
+        "Philosophical",
+        "Imaginative"
+      ],
+      "answer": "Proven or concrete",
+      "explanation": "Hypothetical means based on a hypothesis or theory. The opposite is proven or concrete."
+    },
+    {
+      "id": "U2013_40",
+      "text": "The word $\\textbf{'physics'}$ $\\textbf{p h y s i c s}$.\n\nIdentify the word where the sound represented by the letters 'ph' is pronounced /f/.",
+      "image": "",
+      "options": [
+        "Shepherd",
+        "Haphazard",
+        "Phenomenon",
+        "Loophole"
+      ],
+      "answer": "Phenomenon",
+      "explanation": "The letters 'ph' are pronounced /f/ in 'physics' and 'phenomenon'. In 'shepherd' it's /p/ and /h/ is silent. In 'haphazard' and 'loophole' the /p/ and /h/ are separate sounds."
+    }
+  ]

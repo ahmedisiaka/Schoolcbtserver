@@ -1,0 +1,523 @@
+[
+    {
+      "id": "BIO_2015_01",
+      "text": "The $\\text{Organism}$ $\\text{Responsible}$ for the $\\text{Nitrogen}$ $\\text{Fixation}$ in the $\\text{Root}$ $\\text{Nodules}$ of $\\text{Leguminous}$ $\\text{Plants}$ is:",
+      "image": "[Diagram of a leguminous plant root with nodules]",
+      "options": [
+        "$\\text{Nitrobacter}$ $\\text{spp.}$",
+        "$\\text{Rhizobium}$ $\\text{spp.}$",
+        "$\\text{Nitrosomonas}$ $\\text{spp.}$",
+        "$\\text{Azotobacter}$ $\\text{spp.}$"
+      ],
+      "answer": "$\\text{Rhizobium}$ $\\text{spp.}$",
+      "explanation": "$\\text{Rhizobium}$ is a genus of $\\text{Soil}$ $\\text{Bacteria}$ that forms a $\\text{Symbiotic}$ relationship with $\\text{Legumes}$, residing in the root nodules where they convert atmospheric $\\text{Nitrogen}$ ($\text{N}_2$) into $\\text{Ammonia}$ ($\text{NH}_3$). The processes carried out by $\\text{Nitrobacter}$ and $\\text{Nitrosomonas}$ are part of $\\text{Nitrification}$, not fixation."
+    },
+    {
+      "id": "BIO_2015_02",
+      "text": "Which of the following is $\\text{NOT}$ a $\\text{Sense}$ $\\text{Organ}$ in $\\text{Mammals}$?",
+      "image": "",
+      "options": [
+        "Skin",
+        "Tongue",
+        "Cochlea",
+        "Nose"
+      ],
+      "answer": "Cochlea",
+      "explanation": "The $\\text{Cochlea}$ is a $\\text{Part}$ of the $\\text{Inner}$ $\\text{Ear}$ responsible for $\\text{Hearing}$, while the $\\text{Ear}$ as a whole is the sense organ. The $\\text{Skin}$ (touch/temperature), $\\text{Tongue}$ (taste), and $\\text{Nose}$ (smell) are recognized as sense organs."
+    },
+    {
+      "id": "BIO_2015_03",
+      "text": "The $\\text{Hormone}$ that $\\text{Stimulates}$ the $\\text{Conversion}$ of $\\text{Glycogen}$ to $\\text{Glucose}$ in the $\\text{Liver}$ is:",
+      "image": "[Diagram illustrating the effect of Glucagon and Insulin on blood sugar]",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "answer": "Glucagon",
+      "explanation": "$\\text{Glucagon}$, secreted by the $\\text{Pancreas}$, acts on the $\\text{Liver}$ to $\\text{Increase}$ $\\text{Blood}$ $\\text{Sugar}$ levels by promoting $\\text{Glycogenolysis}$ (breaking down glycogen to glucose)."
+    },
+    {
+      "id": "BIO_2015_04",
+      "text": "The $\\text{Genetic}$ $\\text{Material}$ in a $\\text{Bacterium}$ is found in the:",
+      "image": "[Diagram of a bacterial cell showing the nucleoid region]",
+      "options": [
+        "Nucleus",
+        "Nucleoid $\\text{Region}$",
+        "Mitochondrion",
+        "Ribosome"
+      ],
+      "answer": "Nucleoid $\\text{Region}$",
+      "explanation": "Bacteria are $\\text{Prokaryotic}$ organisms and $\\text{Lack}$ a $\\text{True}$ $\\text{Nucleus}$. Their $\\text{Circular}$ $\\text{DNA}$ is concentrated in a region of the $\\text{Cytoplasm}$ called the $\\text{Nucleoid}$."
+    },
+    {
+      "id": "BIO_2015_05",
+      "text": "The $\\text{Waste}$ $\\text{Product}$ of $\\text{Photosynthesis}$ that is $\\text{Essential}$ for $\\text{Respiration}$ is:",
+      "image": "[Chemical equation for photosynthesis]",
+      "options": [
+        "Carbon $\\text{Dioxide}$",
+        "Water",
+        "Glucose",
+        "Oxygen"
+      ]
+      ,
+      "answer": "Oxygen",
+      "explanation": "$\\text{Oxygen}$ ($\text{O}_2$) is $\\text{Released}$ into the $\\text{Atmosphere}$ as a $\\text{Byproduct}$ of the $\\text{Light}$-$\\text{Dependent}$ $\\text{Reactions}$ of $\\text{Photosynthesis}$ and is required for $\\text{Aerobic}$ $\\text{Respiration}$ in most organisms."
+    },
+    {
+      "id": "BIO_2015_06",
+      "text": "Which of these $\\text{Cells}$ $\\text{Lacks}$ a $\\text{Cell}$ $\\text{Wall}$?",
+      "image": "[Diagram showing the difference between plant and animal cells]",
+      "options": [
+        "Fungal $\\text{Cell}$",
+        "Bacterial $\\text{Cell}$",
+        "Plant $\\text{Cell}$",
+        "Animal $\\text{Cell}$"
+      ],
+      "answer": "Animal $\\text{Cell}$",
+      "explanation": "$\\text{Animal}$ $\\text{Cells}$ are $\\text{Surrounded}$ only by a $\\text{Cell}$ $\\text{Membrane}$. $\\text{Fungi}$ (chitin), $\\text{Bacteria}$ (peptidoglycan), and $\\text{Plants}$ (cellulose) all possess a $\\text{Cell}$ $\\text{Wall}$."
+    },
+    {
+      "id": "BIO_2015_07",
+      "text": "The $\\text{Structure}$ responsible for $\\text{Exchange}$ of $\\text{Gases}$ in $\\text{Flowering}$ $\\text{Plants}$' $\\text{Stems}$ is the:",
+      "image": "[Microscopic view of Lenticels on a woody stem]",
+      "options": [
+        "Stomata",
+        "Lenticel",
+        "Cuticle",
+        "Xylem"
+      ],
+      "answer": "Lenticel",
+      "explanation": "In $\\text{Woody}$ $\\text{Stems}$ and $\\text{Roots}$, $\\text{Gas}$ $\\text{Exchange}$ occurs through $\\text{Lenticels}$, which are $\\text{Porous}$ $\\text{Areas}$ in the $\\text{Bark}$. $\\text{Stomata}$ are found mostly on $\\text{Leaves}$."
+    },
+    {
+      "id": "BIO_2015_08",
+      "text": "The $\\text{Part}$ of the $\\text{Ear}$ that $\\text{Balances}$ $\\text{Pressure}$ between the $\\text{Middle}$ $\\text{Ear}$ and the $\\text{Outside}$ $\\text{Atmosphere}$ is the:",
+      "image": "[Diagram of the human ear highlighting the Eustachian Tube]",
+      "options": [
+        "Tympanic $\\text{Membrane}$",
+        "Cochlea",
+        "Eustachian $\\text{Tube}$",
+        "Ossicles"
+      ],
+      "answer": "Eustachian $\\text{Tube}$",
+      "explanation": "The $\\text{Eustachian}$ $\\text{Tube}$ (or $\\text{Auditory}$ $\\text{Tube}$) $\\text{Connects}$ the $\\text{Middle}$ $\\text{Ear}$ to the $\\text{Naso}$-$\\text{Pharynx}$, allowing air pressure on both sides of the $\\text{Eardrum}$ (Tympanic membrane) to equalize."
+    },
+    {
+      "id": "BIO_2015_09",
+      "text": "An $\\text{Organism}$ that $\\text{Feeds}$ on $\\text{Dead}$ $\\text{Organic}$ $\\text{Matter}$ is termed a:",
+      "image": "[Diagram showing examples of different feeding types, including a scavenger]",
+      "options": [
+        "Producer",
+        "Parasite",
+        "Carnivore",
+        "Saprophyte (Saprotroph)"
+      ],
+      "answer": "Saprophyte (Saprotroph)",
+      "explanation": "$\\text{Saprophytes}$ (like $\\text{Fungi}$ and $\\text{Bacteria}$) are $\\text{Heterotrophs}$ that $\\text{Digest}$ and $\\text{Absorb}$ nutrients from $\\text{Dead}$ and $\\text{Decaying}$ $\\text{Matter}$. $\\text{Scavengers}$ are large animals that eat dead animals."
+    },
+    {
+      "id": "BIO_2015_10",
+      "text": "A $\\text{Population}$ that is $\\text{Increasing}$ $\\text{Rapidly}$ is typically characterized by a large proportion of:",
+      "image": "[Age pyramid showing a rapidly growing population structure (wide base)]",
+      "options": [
+        "Post-Reproductive $\\text{Individuals}$",
+        "Old $\\text{Individuals}$",
+        "Pre-Reproductive $\\text{Individuals}$",
+        "Adults of $\\text{Equal}$ $\\text{Age}$"
+      ],
+      "answer": "Pre-Reproductive $\\text{Individuals}$",
+      "explanation": "In a $\\text{Rapidly}$ $\\text{Growing}$ $\\text{Population}$, the base of the $\\text{Age}$ $\\text{Pyramid}$ (the $\\text{Young}$, pre-reproductive group) is the $\\text{Widest}$, indicating high birth rates and potential for future growth."
+    },
+    {
+      "id": "BIO_2015_11",
+      "text": "The $\\text{Condition}$ of $\\text{Lack}$ of $\\text{Blood}$ due to a $\\text{Deficiency}$ of $\\text{Iron}$ is:",
+      "image": "",
+      "options": [
+        "Leukemia",
+        "Anaemia",
+        "Hypertension",
+        "Symptom"
+      ],
+      "answer": "Anaemia",
+      "explanation": "$\\text{Anaemia}$ is a condition characterized by a $\\text{Reduced}$ $\\text{Number}$ of $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ or $\\text{Haemoglobin}$. $\\text{Iron}$ $\\text{Deficiency}$ is the $\\text{Most}$ $\\text{Common}$ $\\text{Cause}$ as $\\text{Iron}$ is needed to $\\text{Synthesize}$ $\\text{Haemoglobin}$."
+    },
+    {
+      "id": "BIO_2015_12",
+      "text": "Which of these features $\\text{Best}$ distinguishes a $\\text{Plant}$ $\\text{Cell}$ from an $\\text{Animal}$ $\\text{Cell}$?",
+      "image": "[Venn diagram or table comparing plant and animal cell organelles]",
+      "options": [
+        "Presence of a $\\text{Nucleus}$",
+        "Presence of $\\text{Cytoplasm}$",
+        "Presence of $\\text{Cell}$ $\\text{Wall}$ and $\\text{Chloroplasts}$",
+        "Presence of $\\text{Cell}$ $\\text{Membrane}$"
+      ],
+      "answer": "Presence of $\\text{Cell}$ $\\text{Wall}$ and $\\text{Chloroplasts}$",
+      "explanation": "While both cell types share a $\\text{Nucleus}$, $\\text{Cytoplasm}$, and $\\text{Cell}$ $\\text{Membrane}$, only $\\text{Plant}$ $\\text{Cells}$ typically possess a $\\text{Cell}$ $\\text{Wall}$ (for structure) and $\\text{Chloroplasts}$ (for $\\text{Photosynthesis}$)."
+    },
+    {
+      "id": "BIO_2015_13",
+      "text": "The $\\text{Most}$ $\\text{Effective}$ way of $\\text{Controlling}$ the $\\text{Spread}$ of $\\text{Typhoid}$ $\\text{Fever}$ is through:",
+      "image": "",
+      "options": [
+        "Use of $\\text{Insecticides}$",
+        "Mass $\\text{Vaccination}$",
+        "Provision of $\\text{Pipe}$-$\\text{Borne}$ $\\text{Water}$ $\\text{Supply}$",
+        "Draining of $\\text{Stagnant}$ $\\text{Water}$"
+      ],
+      "answer": "Provision of $\\text{Pipe}$-$\\text{Borne}$ $\\text{Water}$ $\\text{Supply}$",
+      "explanation": "$\\text{Typhoid}$ is a $\\text{Water}$-borne $\\text{Disease}$ caused by $\\text{Salmonella}$ $\\text{Typhi}$. Ensuring a clean, $\\text{Uncontaminated}$ $\\text{Water}$ $\\text{Supply}$ is the $\\text{Most}$ $\\text{Crucial}$ $\\text{Measure}$ for control."
+    },
+    {
+      "id": "BIO_2015_14",
+      "text": "The $\\text{Process}$ of $\\text{Inheritance}$ of $\\text{Blood}$ $\\text{Groups}$ in humans is an example of:",
+      "image": "[Punnett square showing inheritance patterns for ABO blood groups]",
+      "options": [
+        "Complete $\\text{Dominance}$",
+        "Incomplete $\\text{Dominance}$",
+        "Multiple $\\text{Alleles}$",
+        "Sex-Linked $\\text{Inheritance}$"
+      ],
+      "answer": "Multiple $\\text{Alleles}$",
+      "explanation": "Human $\\text{ABO}$ $\\text{Blood}$ $\\text{Groups}$ are determined by $\\text{Three}$ $\\text{Alleles}$ ($\text{I}^{\\text{A}}, \\text{I}^{\\text{B}}, \\text{i}$), making it an example of $\\text{Multiple}$ $\\text{Alleles}$. It also demonstrates $\\text{Co}$-$\\text{Dominance}$ ($\text{AB}$ blood group)."
+    },
+    {
+      "id": "BIO_2015_15",
+      "text": "Which of the following is an $\\text{Arachnid}$?",
+      "image": "",
+      "options": [
+        "Millipede",
+        "Spider",
+        "Cockroach",
+        "Crab"
+      ],
+      "answer": "Spider",
+      "explanation": "$\\text{Arachnids}$ (Spiders, $\\text{Scorpions}$, $\\text{Ticks}$) are $\\text{Arthropods}$ characterized by having $\\text{Four}$ $\\text{Pairs}$ of $\\text{Legs}$ (8 legs) and $\\text{Two}$ $\\text{Body}$ $\\text{Parts}$ (Cephalothorax and Abdomen). $\\text{Cockroaches}$ (Insects) have 6 legs."
+    },
+    {
+      "id": "BIO_2015_16",
+      "text": "The $\\text{Part}$ of the $\\text{Forebrain}$ that controls $\\text{Body}$ $\\text{Temperature}$ and $\\text{Osmoregulation}$ is the:",
+      "image": "[Diagram of the human brain highlighting the Hypothalamus]",
+      "options": [
+        "Cerebrum",
+        "Thalamus",
+        "Hypothalamus",
+        "Medulla $\\text{Oblongata}$"
+      ],
+      "answer": "Hypothalamus",
+      "explanation": "The $\\text{Hypothalamus}$ is a $\\text{Major}$ $\\text{Centre}$ for $\\text{Homeostasis}$ and is crucial for regulating body $\\text{Temperature}$, $\\text{Thirst}$, $\\text{Hunger}$, and $\\text{Water}$ $\\text{Balance}$ ($\text{Osmoregulation}$)."
+    },
+    {
+      "id": "BIO_2015_17",
+      "text": "The $\\text{Process}$ by which $\\text{Digested}$ $\\text{Food}$ is $\\text{Absorbed}$ into the $\\text{Bloodstream}$ in the $\\text{Small}$ $\\text{Intestine}$ is called:",
+      "image": "[Diagram of a villus showing absorption of nutrients]",
+      "options": [
+        "Ingestion",
+        "Assimilation",
+        "Absorption",
+        "Egestion"
+      ],
+      "answer": "Absorption",
+      "explanation": "$\\text{Absorption}$ is the $\\text{Movement}$ of $\\text{Nutrients}$ from the $\\text{Digestive}$ $\\text{Tract}$ into the $\\text{Circulatory}$ $\\text{System}$. $\\text{Assimilation}$ is the $\\text{Use}$ of these absorbed nutrients by the body cells."
+    },
+    {
+      "id": "BIO_2015_18",
+      "text": "Which of these is $\\text{NOT}$ a $\\text{Product}$ of $\\text{Kidney}$ $\\text{Excretion}$ in $\\text{Mammals}$?",
+      "image": "",
+      "options": [
+        "Urea",
+        "Uric $\\text{Acid}$",
+        "Excess $\\text{Water}$",
+        "Bile $\\text{Pigments}$"
+      ],
+      "answer": "Bile $\\text{Pigments}$",
+      "explanation": "$\\text{Bile}$ $\\text{Pigments}$ ($\text{Bilirubin}$, $\text{Biliverdin}$) are $\\text{Breakdown}$ $\\text{Products}$ of $\\text{Haemoglobin}$ and are $\\text{Excreted}$ by the $\\text{Liver}$ into the $\\text{Faeces}$, $\\text{Not}$ primarily by the $\\text{Kidneys}$ in $\\text{Urine}$."
+    },
+    {
+      "id": "BIO_2015_19",
+      "text": "The $\\text{Function}$ of the $\\text{Nucleolus}$ is primarily for the $\\text{Synthesis}$ of:",
+      "image": "[Diagram of the nucleus showing the nucleolus]",
+      "options": [
+        "DNA",
+        "Proteins",
+        "Ribosomal $\\text{RNA}$ (rRNA) and $\\text{Ribosomes}$",
+        "Lipids"
+      ],
+      "answer": "Ribosomal $\\text{RNA}$ (rRNA) and $\\text{Ribosomes}$",
+      "explanation": "The $\\text{Nucleolus}$ is the $\\text{Site}$ within the $\\text{Nucleus}$ where $\\text{Ribosomal}$ $\\text{RNA}$ ($\text{rRNA}$) is $\\text{Synthesized}$ and $\\text{Assembled}$ with $\\text{Proteins}$ to $\\text{Form}$ $\\text{Ribosomes}$."
+    },
+    {
+      "id": "BIO_2015_20",
+      "text": "The $\\text{Adaptation}$ that allows $\\text{Terrestrial}$ $\\text{Insects}$ to $\\text{Conserve}$ $\\text{Water}$ is the excretion of $\\text{Nitrogenous}$ $\\text{Waste}$ as:",
+      "image": "",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric $\\text{Acid}$",
+        "Creatinine"
+      ],
+      "answer": "Uric $\\text{Acid}$",
+      "explanation": "$\\text{Uric}$ $\\text{Acid}$ is the $\\text{Least}$ $\\text{Toxic}$ and $\\text{Least}$ $\\text{Water}$-$\text{Soluble}$ of the nitrogenous wastes. Excreting it as a $\\text{Semi}$-$\\text{Solid}$ $\\text{Paste}$ (via $\\text{Malpighian}$ $\\text{Tubules}$) allows insects to $\\text{Minimize}$ $\\text{Water}$ $\\text{Loss}$."
+    },
+    {
+      "id": "BIO_2015_21",
+      "text": "A $\\text{Feature}$ that $\\text{Unites}$ $\\text{Reptiles}$, $\\text{Birds}$, and $\\text{Mammals}$ is the presence of:",
+      "image": "[Diagram of an amniotic egg]",
+      "options": [
+        "Poikilothermy (Cold $\\text{Bloodedness}$)",
+        "Amniotic $\\text{Egg}$",
+        "Feathers",
+        "Gills for $\\text{Respiration}$"
+      ],
+      "answer": "Amniotic $\\text{Egg}$",
+      "explanation": "$\\text{Reptiles}$, $\\text{Birds}$, and $\\text{Mammals}$ (whose embryos develop in a $\\text{Fluid}$-filled $\\text{Amniotic}$ $\\text{Sac}$) are collectively called $\\text{Amniotes}$. This is a key adaptation for $\\text{Life}$ on $\\text{Land}$."
+    },
+    {
+      "id": "BIO_2015_22",
+      "text": "The $\\text{Force}$ that causes $\\text{Water}$ to $\\text{Move}$ from the $\\text{Roots}$ to the $\\text{Leaves}$ in $\\text{Tall}$ $\\text{Trees}$ is primarily:",
+      "image": "[Diagram illustrating the cohesive-tension theory of water transport in xylem]",
+      "options": [
+        "Root $\\text{Pressure}$",
+        "Osmotic $\\text{Potential}$",
+        "Capillarity",
+        "Transpiration $\\text{Pull}$"
+      ],
+      "answer": "Transpiration $\\text{Pull}$",
+      "explanation": "$\\text{Transpiration}$ $\\text{Pull}$ (Cohesion-Tension $\\text{Mechanism}$) is the $\\text{Major}$ $\\text{Force}$ responsible for $\\text{Lifting}$ $\\text{Water}$ in the $\\text{Xylem}$ against $\\text{Gravity}$. It is created by the $\\text{Evaporation}$ of water from the leaves."
+    },
+    {
+      "id": "BIO_2015_23",
+      "text": "The $\\text{Type}$ of $\\text{Variation}$ that gives rise to a $\\text{Smooth}$ $\\text{Bell}$-$\\text{Shaped}$ $\\text{Curve}$ when plotted is:",
+      "image": "[Graph showing a normal distribution curve for continuous variation]",
+      "options": [
+        "Discontinuous $\\text{Variation}$",
+        "Genetic $\\text{Variation}$",
+        "Continuous $\\text{Variation}$",
+        "Mutation"
+      ],
+      "answer": "Continuous $\\text{Variation}$",
+      "explanation": "$\\text{Continuous}$ $\\text{Variation}$ involves traits (like $\\text{Height}$, $\\text{Weight}$) that $\\text{Vary}$ $\\text{Gradually}$ and are typically controlled by $\\text{Many}$ $\\text{Genes}$. When plotted, they follow a $\\text{Normal}$ $\\text{Distribution}$ ($\text{Bell}$ $\\text{Curve}$)."
+    },
+    {
+      "id": "BIO_2015_24",
+      "text": "The $\\text{Part}$ of the $\\text{Flower}$ that $\\text{Develops}$ into the $\\text{Fruit}$ after $\\text{Fertilization}$ is the:",
+      "image": "[Diagram of a flower showing the ovary and its development into fruit]",
+      "options": [
+        "Sepal",
+        "Petal",
+        "Ovary",
+        "Stamen"
+      ],
+      "answer": "Ovary",
+      "explanation": "After $\\text{Fertilization}$, the $\\text{Ovules}$ develop into $\\text{Seeds}$, and the $\\text{Ovary}$ wall usually $\\text{Develops}$ and $\\text{Matures}$ into the $\\text{Fruit}$ wall ($\text{Pericarp}$)."
+    },
+    {
+      "id": "BIO_2015_25",
+      "text": "Which of the following is $\\text{TRUE}$ of the $\\text{Movement}$ of the $\\text{Cytoplasm}$ in $\\text{Plant}$ $\\text{Cells}$?",
+      "image": "",
+      "options": [
+        "It is called $\\text{Turgor}$",
+        "It is $\\text{Random}$ and $\\text{Non}$-$\\text{Directional}$",
+        "It is called $\\text{Cyclosis}$ or $\\text{Cytoplasmic}$ $\\text{Streaming}$",
+        "It $\\text{Occurs}$ $\\text{Only}$ during $\\text{Respiration}$"
+      ],
+      "answer": "It is called $\\text{Cyclosis}$ or $\\text{Cytoplasmic}$ $\\text{Streaming}$",
+      "explanation": "$\\text{Cyclosis}$ is the $\\text{Streaming}$ or $\\text{Circulation}$ of the $\\text{Cytoplasm}$ within a $\\text{Cell}$. This movement $\\text{Facilitates}$ the $\\text{Distribution}$ of $\\text{Nutrients}$ and $\\text{Organelles}$."
+    },
+    {
+      "id": "BIO_2015_26",
+      "text": "The $\\text{Causative}$ $\\text{Organism}$ of $\\text{Sleeping}$ $\\text{Sickness}$ is a $\\text{Protozoan}$ transmitted by the:",
+      "image": "",
+      "options": [
+        "Black $\\text{Fly}$",
+        "Mosquito",
+        "Tsetse $\\text{Fly}$",
+        "House $\\text{Fly}$"
+      ],
+      "answer": "Tsetse $\\text{Fly}$",
+      "explanation": "The $\\text{Protozoan}$ $\\text{Trypanosoma}$ $\\text{brucei}$ causes $\\text{Sleeping}$ $\\text{Sickness}$ (African $\\text{Trypanosomiasis}$), which is transmitted by the bite of the $\\text{Tsetse}$ $\\text{Fly}$ ($\text{Genus}$ $\\text{Glossina}$). The $\\text{Black}$ $\\text{Fly}$ transmits $\\text{River}$ $\\text{Blindness}$."
+    },
+    {
+      "id": "BIO_2015_27",
+      "text": "The $\\text{Process}$ of $\\text{Growth}$ in $\\text{Plants}$ that is $\\text{Irreversible}$ and $\\text{Permanent}$ is called:",
+      "image": "",
+      "options": [
+        "Differentiation",
+        "Plasmolysis",
+        "Elongation",
+        "Plasticity"
+      ],
+      "answer": "Elongation",
+      "explanation": "In biology, true $\\text{Growth}$ involves an $\\text{Irreversible}$ $\\text{Increase}$ in $\\text{Size}$ or $\\text{Mass}$ (due to cell $\\text{Division}$ and $\\text{Enlargement}$ ($\text{Elongation}$)). $\\text{Plasmolysis}$ is a reversible shrinkage."
+    },
+    {
+      "id": "BIO_2015_28",
+      "text": "The $\\text{Blood}$ $\\text{Vessel}$ that $\\text{Carries}$ $\\text{Deoxygenated}$ $\\text{Blood}$ $\\text{Away}$ from the $\\text{Heart}$ to the $\\text{Lungs}$ is the:",
+      "image": "[Diagram of the human heart showing pulmonary circulation]",
+      "options": [
+        "Aorta",
+        "Pulmonary $\\text{Artery}$",
+        "Vena $\\text{Cava}$",
+        "Pulmonary $\\text{Vein}$"
+      ],
+      "answer": "Pulmonary $\\text{Artery}$",
+      "explanation": "The $\\text{Pulmonary}$ $\\text{Artery}$ is the $\\text{Only}$ $\\text{Artery}$ that carries $\\text{Deoxygenated}$ $\\text{Blood}$. It takes the blood from the $\\text{Right}$ $\\text{Ventricle}$ of the heart to the $\\text{Lungs}$ for oxygenation."
+    },
+    {
+      "id": "BIO_2015_29",
+      "text": "The $\\text{Enzyme}$ that $\\text{Digests}$ $\\text{Starch}$ into $\\text{Maltose}$ is:",
+      "image": "[Diagram illustrating the action of Amylase]",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "answer": "Amylase",
+      "explanation": "$\\text{Amylase}$ (found in saliva and pancreatic juice) is the enzyme responsible for $\\text{Breaking}$ $\\text{Down}$ $\\text{Starch}$ (a $\\text{Polysaccharide}$) into the $\\text{Disaccharide}$ $\\text{Maltose}$."
+    },
+    {
+      "id": "BIO_2015_30",
+      "text": "A $\\text{Pollen}$ $\\text{Grain}$ lands on the $\\text{Stigma}$ of a flower of the $\\text{Same}$ $\\text{Species}$. This is specifically known as:",
+      "image": "[Diagram showing self-pollination vs. cross-pollination]",
+      "options": [
+        "Fertilization",
+        "Cross $\\text{Pollination}$",
+        "Self $\\text{Pollination}$ (Autogamy)",
+        "Dispersal"
+      ],
+      "answer": "Self $\\text{Pollination}$ (Autogamy)",
+      "explanation": "$\\text{Pollination}$ is the $\\text{Transfer}$ of $\\text{Pollen}$ from the $\\text{Anther}$ to the $\\text{Stigma}$. When this $\\text{Transfer}$ occurs within the $\\text{Same}$ $\\text{Flower}$ or between flowers of the $\\text{Same}$ $\\text{Plant}$, it is called $\\text{Self}$ $\\text{Pollination}$ or $\\text{Autogamy}$."
+    },
+    {
+      "id": "BIO_2015_31",
+      "text": "The $\\text{Process}$ of $\\text{Development}$ from a $\\text{Zygote}$ to an $\\text{Embryo}$ in humans is called:",
+      "image": "[Diagram showing stages of human embryonic development from fertilization to implantation]",
+      "options": [
+        "Ovulation",
+        "Parturition",
+        "Gametogenesis",
+        "Embryogenesis (Cleavage and $\\text{Gastrulation}$)"
+      ],
+      "answer": "Embryogenesis (Cleavage and $\\text{Gastrulation}$)",
+      "explanation": "$\\text{Embryogenesis}$ encompasses the stages of development from the $\\text{Fertilized}$ $\\text{Egg}$ ($\text{Zygote}$) through $\\text{Cell}$ $\\text{Division}$ ($\text{Cleavage}$) and $\\text{Formation}$ of $\\text{Germ}$ $\\text{Layers}$ ($\text{Gastrulation}$) to the $\\text{Embryo}$."
+    },
+    {
+      "id": "BIO_2015_32",
+      "text": "The $\\text{Loss}$ of $\\text{Water}$ in the form of $\\text{Water}$ $\\text{Vapour}$ from the $\\text{Aerial}$ $\\text{Parts}$ of a $\\text{Plant}$ is:",
+      "image": "[Diagram illustrating transpiration through stomata]",
+      "options": [
+        "Guttation",
+        "Translocation",
+        "Transpiration",
+        "Osmosis"
+      ],
+      "answer": "Transpiration",
+      "explanation": "$\\text{Transpiration}$ is the $\\text{Evaporation}$ of $\\text{Water}$ from $\\text{Plant}$ $\\text{Leaves}$ and $\\text{Stems}$. $\\text{Guttation}$ is the $\\text{Loss}$ of $\\text{Liquid}$ $\\text{Water}$ droplets from leaves."
+    },
+    {
+      "id": "BIO_2015_33",
+      "text": "The $\\text{Part}$ of the $\\text{Eye}$ that $\\text{Contains}$ $\\text{Light}$-$\\text{Sensitive}$ $\\text{Cells}$ ($\text{Rods}$ and $\\text{Cones}$) is the:",
+      "image": "[Diagram of the human eye showing the Retina]",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Retina",
+        "Sclera"
+      ],
+      "answer": "Retina",
+      "explanation": "The $\\text{Retina}$ is the $\\text{Innermost}$ $\\text{Layer}$ at the $\\text{Back}$ of the $\\text{Eye}$ that $\\text{Contains}$ $\\text{Photoreceptor}$ $\\text{Cells}$ ($\text{Rods}$ and $\\text{Cones}$), which convert light into nerve impulses."
+    },
+    {
+      "id": "BIO_2015_34",
+      "text": "A $\\text{Relationship}$ where $\\text{One}$ $\\text{Organism}$ $\\text{Benefits}$ and the $\\text{Other}$ is $\\text{Neither}$ $\\text{Helped}$ $\\text{Nor}$ $\\text{Harmed}$ is called:",
+      "image": "[Diagram illustrating a commensal relationship (e.g., barnacles on a whale)]",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Competition"
+      ],
+      "answer": "Commensalism",
+      "explanation": "In $\\text{Commensalism}$, one organism ($\text{The}$ $\\text{Commensal}$) $\\text{Benefits}$ from the relationship, while the other organism ($\text{The}$ $\\text{Host}$) is $\\text{Unaffected}$."
+    },
+    {
+      "id": "BIO_2015_35",
+      "text": "The $\\text{Final}$ $\\text{Acceptor}$ of $\\text{Electrons}$ in the $\\text{Electron}$ $\\text{Transport}$ $\\text{Chain}$ of $\\text{Aerobic}$ $\\text{Respiration}$ is:",
+      "image": "[Diagram of the Electron Transport Chain in the mitochondrion]",
+      "options": [
+        "Carbon $\\text{Dioxide}$",
+        "Water",
+        "Oxygen",
+        "ATP"
+      ],
+      "answer": "Oxygen",
+      "explanation": "In $\\text{Aerobic}$ $\\text{Respiration}$, $\\text{Oxygen}$ acts as the $\\text{Terminal}$ $\\text{Electron}$ $\\text{Acceptor}$ at the $\\text{End}$ of the $\\text{Electron}$ $\\text{Transport}$ $\\text{Chain}$, forming $\\text{Water}$ ($\text{H}_2\\text{O}$)."
+    },
+    {
+      "id": "BIO_2015_36",
+      "text": "Which of the following $\\text{Organisms}$ belongs to the $\\text{Phylum}$ $\\text{Arthropoda}$?",
+      "image": "[Diagram comparing different arthropod classes (Insecta, Crustacea, Arachnida)]",
+      "options": [
+        "Earthworm",
+        "Snail",
+        "Butterfly",
+        "Tapeworm"
+      ],
+      "answer": "Butterfly",
+      "explanation": "$\\text{Arthropoda}$ is the $\\text{Largest}$ $\\text{Phylum}$ in the animal kingdom, characterized by $\\text{Jointed}$ $\\text{Legs}$ and a $\\text{Chitinous}$ $\\text{Exoskeleton}$. $\\text{Butterflies}$ are $\\text{Insects}$, which belong to the $\\text{Arthropoda}$ phylum. $\\text{Earthworm}$ is an $\\text{Annelid}$, $\\text{Snail}$ is a $\\text{Mollusc}$."
+    },
+    {
+      "id": "BIO_2015_37",
+      "text": "The $\\text{Main}$ $\\text{Function}$ of the $\\text{Chloroplasts}$ in a plant cell is:",
+      "image": "[Diagram of a chloroplast showing thylakoids and stroma]",
+      "options": [
+        "Protein $\\text{Synthesis}$",
+        "Cell $\\text{Respiration}$",
+        "Photosynthesis",
+        "Lipid $\\text{Storage}$"
+      ],
+      "answer": "Photosynthesis",
+      "explanation": "$\\text{Chloroplasts}$ contain the pigment $\\text{Chlorophyll}$ and are the $\\text{Sites}$ of $\\text{Photosynthesis}$, the process that converts light energy into chemical energy ($\text{Glucose}$)."
+    },
+    {
+      "id": "BIO_2015_38",
+      "text": "If a plant with $\\text{Red}$ $\\text{Flowers}$ ($\text{RR}$) is crossed with a plant with $\\text{White}$ $\\text{Flowers}$ ($\text{rr}$) and the $\\text{F}_1$ generation produces $\\text{Pink}$ $\\text{Flowers}$ ($\text{Rr}$), this indicates:",
+      "image": "[Diagram illustrating incomplete dominance (red x white -> pink)]",
+      "options": [
+        "Complete $\\text{Dominance}$",
+        "Co $\\text{Dominance}$",
+        "Incomplete $\\text{Dominance}$",
+        "Sex $\\text{Linkage}$"
+      ],
+      "answer": "Incomplete $\\text{Dominance}$",
+      "explanation": "$\\text{Incomplete}$ $\\text{Dominance}$ is a form of inheritance in which $\\text{Neither}$ $\\text{Allele}$ is $\\text{Completely}$ $\\text{Dominant}$, resulting in a $\\text{Phenotype}$ that is a $\\text{Mixture}$ or $\\text{Intermediate}$ of the two parental phenotypes ($\text{Pink}$ in this case)."
+    },
+    {
+      "id": "BIO_2015_39",
+      "text": "The $\\text{Deficiency}$ of $\\text{Vitamin}$ $\\text{C}$ in humans results in a disease known as:",
+      "image": "",
+      "options": [
+        "Rickets",
+        "Goitre",
+        "Scurvy",
+        "Beriberi"
+      ],
+      "answer": "Scurvy",
+      "explanation": "$\\text{Scurvy}$ is caused by $\\text{Chronic}$ $\\text{Lack}$ of $\\text{Vitamin}$ $\\text{C}$ ($\text{Ascorbic}$ $\\text{Acid}$), which is $\\text{Essential}$ for the $\\text{Synthesis}$ of $\\text{Collagen}$ and $\\text{Connective}$ $\\text{Tissue}$. $\\text{Rickets}$ is Vitamin $\\text{D}$ deficiency, and $\\text{Beriberi}$ is Vitamin $\\text{B}_1$ deficiency."
+    },
+    {
+      "id": "BIO_2015_40",
+      "text": "The $\\text{Process}$ of $\\text{Widespread}$ $\\text{Introduction}$ of $\\text{New}$ $\\text{Plant}$ and $\\text{Animal}$ $\\text{Species}$ into an $\\text{Ecosystem}$ is most likely to lead to:",
+      "image": "[Image illustrating invasive species displacing native species]",
+      "options": [
+        "Increase in $\\text{Biodiversity}$",
+        "Ecological $\\text{Stability}$",
+        "Outbreak of $\\text{Ecosystem}$ $\\text{Pests}$",
+        "Loss of $\\text{Indigenous}$ $\\text{Species}$"
+      ],
+      "answer": "Loss of $\\text{Indigenous}$ $\\text{Species}$",
+      "explanation": "The $\\text{Introduction}$ of $\\text{Exotic}$ or $\\text{Invasive}$ $\\text{Species}$ often leads to $\\text{Competition}$, $\\text{Predation}$, and $\\text{Disease}$, resulting in the $\\text{Decline}$ or $\\text{Extinction}$ of $\\text{Native}$ $\\text{Species}$ and a $\\text{Reduction}$ in local $\\text{Biodiversity}$."
+    }
+  ]

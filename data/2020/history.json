@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Epic of Gilgamesh}$ is an ancient epic poem from which civilization?",
+        "image": "",
+        "options": [
+            "Ancient Egypt",
+            "Mesopotamia",
+            "Ancient Greece",
+            "The Indus Valley"
+        ],
+        "answer": "Mesopotamia",
+        "explanation": "It is considered the earliest surviving great work of literature, originating from ancient Sumer."
+    },
+    {
+        "id": "H02",
+        "text": "Which Roman general famously crossed the $\\textbf{Rubicon River}$ in 49 BCE, initiating a civil war?",
+        "image": "",
+        "options": [
+            "Mark Antony",
+            "Pompey the Great",
+            "Julius Caesar",
+            "Augustus"
+        ],
+        "answer": "Julius Caesar",
+        "explanation": "The crossing of the river was an act of insurrection that led to Caesar's dictatorship and the eventual rise of the Roman Empire."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of Marathon}$ was a significant victory for which city-state against the Persian Empire?",
+        "image": "",
+        "options": [
+            "Sparta",
+            "Athens",
+            "Thebes",
+            "Corinth"
+        ],
+        "answer": "Athens",
+        "explanation": "The Athenian victory in 490 BCE prevented the first Persian attempt to subjugate Greece."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the legendary founder of $\\textbf{Rome}$, said to have been raised by a she-wolf?",
+        "image": "",
+        "options": [
+            "Remus",
+            "Romulus",
+            "Aeneas",
+            "Augustus"
+        ],
+        "answer": "Romulus",
+        "explanation": "According to myth, Romulus killed his twin brother Remus and founded the city of Rome in 753 BCE."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Library of Alexandria}$, one of the largest libraries of the ancient world, was located in:",
+        "image": "",
+        "options": [
+            "Greece",
+            "Italy",
+            "Egypt",
+            "Turkey"
+        ],
+        "answer": "Egypt",
+        "explanation": "Founded in Alexandria, Egypt, it was a major center of scholarship before its destruction."
+    },
+    {
+        "id": "H06",
+        "text": "Which English king was forced to sign the $\\textbf{Magna Carta}$?",
+        "image": "",
+        "options": [
+            "King Richard I",
+            "King John",
+            "King Henry III",
+            "King Edward I"
+        ],
+        "answer": "King John",
+        "explanation": "King John signed the document at Runnymede in 1215, under pressure from rebellious barons."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Inca Empire}$ was primarily located in which modern-day mountain range?",
+        "image": "",
+        "options": [
+            "The Rockies",
+            "The Alps",
+            "The Andes",
+            "The Himalayas"
+        ],
+        "answer": "The Andes",
+        "explanation": "The Inca Empire stretched along the Andes mountains in South America, centered in modern-day Peru."
+    },
+    {
+        "id": "H08",
+        "text": "Who commanded the $\\textbf{Continental Army}$ during the American Revolutionary War?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Alexander Hamilton",
+            "George Washington",
+            "Benedict Arnold"
+        ],
+        "answer": "George Washington",
+        "explanation": "Washington led the colonial forces to victory against the British and later became the first US President."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Tennis Court Oath}$ was a pivotal event at the beginning of which revolution?",
+        "image": "",
+        "options": [
+            "The American Revolution",
+            "The French Revolution",
+            "The Russian Revolution",
+            "The Glorious Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "In 1789, members of the Third Estate vowed not to separate until they had established a new constitution for France."
+    },
+    {
+        "id": "H10",
+        "text": "Which 19th-century war is associated with the $\\textbf{Charge of the Light Brigade}$?",
+        "image": "",
+        "options": [
+            "The Napoleonic Wars",
+            "The Crimean War",
+            "The Boer War",
+            "The Civil War"
+        ],
+        "answer": "The Crimean War",
+        "explanation": "The disastrous cavalry charge took place during the Battle of Balaclava in 1854."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Underground Railroad}$ was a network used to:",
+        "image": "",
+        "options": [
+            "Smuggle alcohol during Prohibition",
+            "Transport goods during the Civil War",
+            "Help enslaved people escape to freedom",
+            "Build the first subway system"
+        ],
+        "answer": "Help enslaved people escape to freedom",
+        "explanation": "It was a network of secret routes and safe houses used by enslaved African Americans to escape into free states and Canada."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the first woman to win a $\\textbf{Nobel Prize}$?",
+        "image": "",
+        "options": [
+            "Mother Teresa",
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Jane Addams"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "She won the Nobel Prize in Physics in 1903 (shared with her husband and Henri Becquerel)."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Zulus}$ famously defeated British forces at the Battle of Isandlwana in which country?",
+        "image": "",
+        "options": [
+            "India",
+            "Kenya",
+            "South Africa",
+            "Nigeria"
+        ],
+        "answer": "South Africa",
+        "explanation": "Fought in 1879, it was a major victory for the Zulu Kingdom during the Anglo-Zulu War."
+    },
+    {
+        "id": "H14",
+        "text": "The $\\textbf{Stock Market Crash of 1929}$ is often referred to as:",
+        "image": "",
+        "options": [
+            "Black Monday",
+            "Black Tuesday",
+            "The Great Fall",
+            "The Panic of '29"
+        ],
+        "answer": "Black Tuesday",
+        "explanation": "On October 29, 1929, share prices on the New York Stock Exchange collapsed, pivoting the world into the Great Depression."
+    },
+    {
+        "id": "H15",
+        "text": "Which US President authorized the use of the $\\textbf{atomic bomb}$ on Japan?",
+        "image": "",
+        "options": [
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "Dwight D. Eisenhower",
+            "John F. Kennedy"
+        ],
+        "answer": "Harry S. Truman",
+        "explanation": "Truman made the decision to drop the bombs on Hiroshima and Nagasaki to force Japan's surrender in WWII."
+    },
+    {
+        "id": "H16",
+        "text": "The $\\textbf{Nuremberg Trials}$ were held to prosecute:",
+        "image": "",
+        "options": [
+            "Soviet spies",
+            "Nazi war criminals",
+            "Japanese military leaders",
+            "Italian fascists"
+        ],
+        "answer": "Nazi war criminals",
+        "explanation": "Held after WWII, these trials established important principles in international law regarding war crimes."
+    },
+    {
+        "id": "H17",
+        "text": "Who became the leader of $\\textbf{Cuba}$ in 1959 after overthrowing Fulgencio Batista?",
+        "image": "",
+        "options": [
+            "Che Guevara",
+            "Fidel Castro",
+            "Raul Castro",
+            "Hugo Chavez"
+        ],
+        "answer": "Fidel Castro",
+        "explanation": "Castro established the first communist state in the Western Hemisphere."
+    },
+    {
+        "id": "H18",
+        "text": "The $\\textbf{Space Race}$ was primarily a competition between which two nations?",
+        "image": "",
+        "options": [
+            "USA and China",
+            "USA and USSR",
+            "USSR and Germany",
+            "USA and UK"
+        ],
+        "answer": "USA and USSR",
+        "explanation": "It was a 20th-century competition for dominance in spaceflight capability."
+    },
+    {
+        "id": "H19",
+        "text": "Which structure was torn down in $\\textbf{1989}$, symbolizing the end of the Cold War division in Europe?",
+        "image": "",
+        "options": [
+            "The Iron Curtain",
+            "The Berlin Wall",
+            "The Maginot Line",
+            "The Kremlin Walls"
+        ],
+        "answer": "The Berlin Wall",
+        "explanation": "The fall of the wall paved the way for German reunification."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{War of 1812}$ was fought between the United States and:",
+        "image": "",
+        "options": [
+            "France",
+            "Spain",
+            "Great Britain",
+            "Mexico"
+        ],
+        "answer": "Great Britain",
+        "explanation": "The conflict arose from maritime grievances and territorial ambitions."
+    },
+    {
+        "id": "H21",
+        "text": "Who is known as the $\\textbf{'Maid of Orléans'}$?",
+        "image": "",
+        "options": [
+            "Eleanor of Aquitaine",
+            "Joan of Arc",
+            "Marie Antoinette",
+            "Catherine the Great"
+        ],
+        "answer": "Joan of Arc",
+        "explanation": "She is a national heroine of France for her role in the Hundred Years' War."
+    },
+    {
+        "id": "H22",
+        "text": "The $\\textbf{Salem Witch Trials}$ took place in which colony?",
+        "image": "",
+        "options": [
+            "Virginia",
+            "Pennsylvania",
+            "Massachusetts",
+            "New York"
+        ],
+        "answer": "Massachusetts",
+        "explanation": "In 1692, a series of hearings and prosecutions of people accused of witchcraft occurred in colonial Massachusetts."
+    },
+    {
+        "id": "H23",
+        "text": "Which civilization built the $\\textbf{Colosseum}$?",
+        "image": "",
+        "options": [
+            "The Greeks",
+            "The Romans",
+            "The Egyptians",
+            "The Persians"
+        ],
+        "answer": "The Romans",
+        "explanation": "Completed in 80 AD, it is the largest amphitheater ever built and could hold up to 80,000 spectators."
+    },
+    {
+        "id": "H24",
+        "text": "The $\\textbf{California Gold Rush}$ began in which year?",
+        "image": "",
+        "options": [
+            "1848",
+            "1865",
+            "1901",
+            "1776"
+        ],
+        "answer": "1848",
+        "explanation": "Gold was discovered at Sutter's Mill, leading to a massive influx of fortune seekers."
+    },
+    {
+        "id": "H25",
+        "text": "Who was the first person to set foot on the $\\textbf{South Pole}$?",
+        "image": "",
+        "options": [
+            "Robert Falcon Scott",
+            "Ernest Shackleton",
+            "Roald Amundsen",
+            "Edmund Hillary"
+        ],
+        "answer": "Roald Amundsen",
+        "explanation": "The Norwegian explorer reached the South Pole on December 14, 1911."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Hindenburg Disaster}$ marked the end of the era of:",
+        "image": "",
+        "options": [
+            "Steam trains",
+            "Passenger airships",
+            "Ocean liners",
+            "Commercial gliders"
+        ],
+        "answer": "Passenger airships",
+        "explanation": "The German airship caught fire and was destroyed in New Jersey in 1937."
+    },
+    {
+        "id": "H27",
+        "text": "Which amendment to the US Constitution $\\textbf{abolished slavery}$?",
+        "image": "",
+        "options": [
+            "1st Amendment",
+            "13th Amendment",
+            "14th Amendment",
+            "15th Amendment"
+        ],
+        "answer": "13th Amendment",
+        "explanation": "Ratified in 1865, it abolished slavery and involuntary servitude, except as punishment for a crime."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Spanish Flu}$ pandemic occurred in the aftermath of which war?",
+        "image": "",
+        "options": [
+            "The Civil War",
+            "World War I",
+            "World War II",
+            "The Korean War"
+        ],
+        "answer": "World War I",
+        "explanation": "Starting in 1918, it infected about one-third of the world's population."
+    },
+    {
+        "id": "H29",
+        "text": "Who painted $\\textbf{The Starry Night}$?",
+        "image": "",
+        "options": [
+            "Claude Monet",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh",
+        "explanation": "Painted in 1889, it depicts the view from his asylum room."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Battle of Stalingrad}$ was fought between the Soviet Union and:",
+        "image": "",
+        "options": [
+            "Japan",
+            "Italy",
+            "Germany",
+            "Finland"
+        ],
+        "answer": "Germany",
+        "explanation": "It was one of the bloodiest battles in the history of warfare and a turning point in WWII."
+    },
+    {
+        "id": "H31",
+        "text": "Which political figure was assassinated on the $\\textbf{Ides of March}$?",
+        "image": "",
+        "options": [
+            "Cicero",
+            "Julius Caesar",
+            "Caligula",
+            "Nero"
+        ],
+        "answer": "Julius Caesar",
+        "explanation": "Caesar was assassinated by a group of senators on March 15, 44 BCE."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Panama Canal}$ connects which two bodies of water?",
+        "image": "",
+        "options": [
+            "Mediterranean Sea and Red Sea",
+            "Atlantic Ocean and Pacific Ocean",
+            "Indian Ocean and Pacific Ocean",
+            "North Sea and Baltic Sea"
+        ],
+        "answer": "Atlantic Ocean and Pacific Ocean",
+        "explanation": "The canal cuts across the Isthmus of Panama and is a key conduit for international maritime trade."
+    },
+    {
+        "id": "H33",
+        "text": "Who was the primary author of the $\\textbf{Communist Manifesto}$?",
+        "image": "",
+        "options": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Joseph Stalin",
+            "Leon Trotsky"
+        ],
+        "answer": "Karl Marx",
+        "explanation": "Published in 1848 with Friedrich Engels, it presents an analytical approach to the class struggle."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Gunpowder Plot}$ of 1605 was a failed attempt to blow up:",
+        "image": "",
+        "options": [
+            "The Tower of London",
+            "Buckingham Palace",
+            "The House of Lords",
+            "Westminster Abbey"
+        ],
+        "answer": "The House of Lords",
+        "explanation": "Guy Fawkes and other conspirators attempted to assassinate King James I."
+    },
+    {
+        "id": "H35",
+        "text": "Which civilization created the $\\textbf{Nazca Lines}$?",
+        "image": "",
+        "options": [
+            "The Inca",
+            "The Aztec",
+            "The Nazca",
+            "The Maya"
+        ],
+        "answer": "The Nazca",
+        "explanation": "The Nazca culture created these geoglyphs in the Nazca Desert of southern Peru between 500 BCE and 500 CE."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Battle of Trafalgar}$ (1805) was a naval victory for:",
+        "image": "",
+        "options": [
+            "The French Navy",
+            "The Spanish Navy",
+            "The Royal Navy (Britain)",
+            "The US Navy"
+        ],
+        "answer": "The Royal Navy (Britain)",
+        "explanation": "Admiral Lord Nelson defeated the combined fleets of France and Spain, securing British naval supremacy."
+    },
+    {
+        "id": "H37",
+        "text": "Who was the first President of $\\textbf{South Africa}$ elected in a fully representative democratic election?",
+        "image": "",
+        "options": [
+            "F.W. de Klerk",
+            "Thabo Mbeki",
+            "Nelson Mandela",
+            "Jacob Zuma"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela was elected in 1994, marking the end of apartheid."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Yalta Conference}$ was a meeting between the heads of government of the United States, the United Kingdom, and:",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "The Soviet Union",
+            "China"
+        ],
+        "answer": "The Soviet Union",
+        "explanation": "Roosevelt, Churchill, and Stalin met to discuss the postwar reorganization of Germany and Europe."
+    },
+    {
+        "id": "H39",
+        "text": "Which ancient city was discovered by $\\textbf{Heinrich Schliemann}$?",
+        "image": "",
+        "options": [
+            "Atlantis",
+            "Troy",
+            "Sparta",
+            "Babylon"
+        ],
+        "answer": "Troy",
+        "explanation": "Schliemann's excavations in the 1870s provided historical evidence for the places mentioned in Homer's Iliad."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Great Fire of London}$ occurred in which year?",
+        "image": "",
+        "options": [
+            "1066",
+            "1492",
+            "1666",
+            "1812"
+        ],
+        "answer": "1666",
+        "explanation": "The fire swept through the central parts of London, destroying the medieval City."
+    }
+]

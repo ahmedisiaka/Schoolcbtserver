@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2018_01",
+      "text": "The number of neutrons in an atom of $^ {40}_{20}Ca$ is:",
+      "image": "[Image illustrating the calculation of neutrons from mass number and atomic number]",
+      "options": ["$40$", "$20$", "$60$", "$10$"],
+      "answer": "$20$",
+      "explanation": "The mass number ($A$) is $40$. The atomic number ($Z$, number of protons) is $20$. The number of neutrons ($N$) is calculated as $N = A - Z$. Therefore, $N = 40 - 20 = 20$ neutrons."
+    },
+    {
+      "id": "JAMB_C_2018_02",
+      "text": "Which of the following describes the change in oxidation number of nitrogen in the reaction: $NH_3 + O_2 \\to NO + H_2O$?",
+      "image": "[Image illustrating oxidation numbers in $NH_3$ and $NO$]",
+      "options": ["$-3$ to $-2$", "$+3$ to $+2$", "$0$ to $-2$", "$-3$ to $+2$"],
+      "answer": "$-3$ to $+2$",
+      "explanation": "In $NH_3$: $N + (3 \\times +1) = 0 \\implies N = -3$. \nIn $NO$: $N + (-2) = 0 \\implies N = +2$. \nThus, the oxidation number of Nitrogen changes from $-3$ to $+2$. Since the oxidation number increased, nitrogen was oxidized."
+    },
+    {
+      "id": "JAMB_C_2018_03",
+      "text": "The maximum number of electrons that can occupy the $d$-subshell is:",
+      "image": "[Image showing the $d$ orbital shapes and the number of electrons it can hold]",
+      "options": ["$2$", "$6$", "$10$", "$14$"],
+      "answer": "$10$",
+      "explanation": "A subshell contains orbitals. The $d$-subshell has $5$ orbitals. According to the Pauli exclusion principle, each orbital can hold a maximum of $2$ electrons. Therefore, the maximum number of electrons in the $d$-subshell is $5 \\times 2 = 10$."
+    },
+    {
+      "id": "JAMB_C_2018_04",
+      "text": "An atom that easily loses an electron to form a positive ion is likely to be:",
+      "image": "[Image highlighting alkali metals and their tendency to lose electrons]",
+      "options": ["A non-metal", "A noble gas", "A metal", "An inert gas"],
+      "answer": "A metal",
+      "explanation": "Metals (like those in Group 1 and 2) typically have $1$ or $2$ valence electrons. They have low ionization energies and tend to lose these electrons easily to achieve a stable octet or duplet configuration, thereby forming positive ions (cations)."
+    },
+    {
+      "id": "JAMB_C_2018_05",
+      "text": "Which of the following represents the balanced equation for the reaction of $H_2SO_4$ with $NaOH$?",
+      "image": "[Image showing the balanced chemical equation for the neutralization of sulfuric acid and sodium hydroxide]",
+      "options": ["$H_2SO_4 + NaOH \\to NaSO_4 + H_2O$", "$H_2SO_4 + 2NaOH \\to Na_2SO_4 + 2H_2O$", "$2H_2SO_4 + NaOH \\to Na_2SO_4 + 2H_2O$", "$H_2SO_4 + NaOH \\to Na_2SO_4 + H_2O$"],
+      "answer": "$H_2SO_4 + 2NaOH \\to Na_2SO_4 + 2H_2O$",
+      "explanation": "Sulfuric acid ($H_2SO_4$) is a diprotic acid, meaning it releases two $H^+$ ions. Sodium hydroxide ($NaOH$) is a monoprotic base. To balance the $H^+$ ions and $OH^-$ ions (to form water), two moles of $NaOH$ are required for every one mole of $H_2SO_4$."
+    },
+    {
+      "id": "JAMB_C_2018_06",
+      "text": "In the process of fractional distillation of crude oil, the separation depends mainly on the difference in:",
+      "image": "[Image of a fractional distillation column for crude oil]",
+      "options": ["Density", "Solubility", "Boiling points", "Freezing points"],
+      "answer": "Boiling points",
+      "explanation": "Fractional distillation separates components of a liquid mixture based on their volatility, which is determined by their boiling points. Components with lower boiling points vaporize first and rise higher in the column before condensing."
+    },
+    {
+      "id": "JAMB_C_2018_07",
+      "text": "A substance that changes the rate of a chemical reaction without itself being chemically changed is a:",
+      "image": "[Image showing an energy profile diagram comparing catalyzed and uncatalyzed reactions]",
+      "options": ["Indicator", "Buffer", "Catalyst", "Electrolyte"],
+      "answer": "Catalyst",
+      "explanation": "A catalyst lowers the activation energy of a reaction, thus speeding up the rate, but is recovered chemically unchanged at the end of the reaction."
+    },
+    {
+      "id": "JAMB_C_2018_08",
+      "text": "The gas that gives a white precipitate with lime water ($Ca(OH)_2$) is:",
+      "image": "[Image showing the reaction of carbon dioxide with lime water to form calcium carbonate precipitate]",
+      "options": ["Sulphur(IV) oxide", "Carbon monoxide", "Carbon(IV) oxide", "Hydrogen sulfide"],
+      "answer": "Carbon(IV) oxide",
+      "explanation": "Carbon(IV) oxide ($CO_2$) reacts with clear lime water (calcium hydroxide solution) to form an insoluble white precipitate of calcium trioxocarbonate(IV) ($CaCO_3$): \n$CO_2(g) + Ca(OH)_2(aq) \\to CaCO_3(s) + H_2O(l)$."
+    },
+    {
+      "id": "JAMB_C_2018_09",
+      "text": "The general formula for the homologous series of alkanes is:",
+      "image": "[Image illustrating the structure of simple alkanes like methane and ethane]",
+      "options": ["$C_nH_{2n}$", "$C_nH_{2n+2}$", "$C_nH_{2n-2}$", "$C_nH_{2n-4}$"],
+      "answer": "$C_nH_{2n+2}$",
+      "explanation": "Alkanes are saturated hydrocarbons with only single bonds. The general formula for this homologous series is $C_nH_{2n+2}$, where $n$ is the number of carbon atoms ($n \\ge 1$)."
+    },
+    {
+      "id": "JAMB_C_2018_10",
+      "text": "What is the hybridization state of the carbon atoms in ethene ($C_2H_4$)?",
+      "image": "[Image illustrating the $sp^2$ hybridization and double bond in ethene]",
+      "options": ["$sp$", "$sp^2$", "$sp^3$", "$dsp^2$"],
+      "answer": "$sp^2$",
+      "explanation": "Ethene contains a carbon-carbon double bond. Each carbon atom is bonded to three other atoms (two hydrogens and one carbon), resulting in three $\\sigma$ bonds and one $\\pi$ bond. Three $\\sigma$ bonds imply $sp^2$ hybridization (one $s$ and two $p$ orbitals hybridize)."
+    },
+    {
+      "id": "JAMB_C_2018_11",
+      "text": "Esterification is the reaction between an alkanol and:",
+      "image": "[Image showing the general reaction of ester formation (Carboxylic acid + Alcohol)]",
+      "options": ["Alkanoate", "Alkane", "Alkanoic acid", "Alkanal"],
+      "answer": "Alkanoic acid",
+      "explanation": "Esterification is the condensation reaction between an alcohol (alkanol) and a carboxylic acid (alkanoic acid) to form an ester and water, typically catalyzed by a strong acid like concentrated $H_2SO_4$."
+    },
+    {
+      "id": "JAMB_C_2018_12",
+      "text": "The pH of a neutral solution at $25^{\\circ}C$ is:",
+      "image": "[Image of the pH scale highlighting 7 as neutral]",
+      "options": ["$0$", "$7$", "$14$", "Less than 7"],
+      "answer": "$7$",
+      "explanation": "At $25^{\\circ}C$, pure water is neutral, meaning the concentration of hydrogen ions ($[H^+]$) equals the concentration of hydroxide ions ($[OH^-]$) at $1.0 \\times 10^{-7} \\text{ mol dm}^{-3}$. Since $pH = -\\log[H^+]$, the $pH = 7$."
+    },
+    {
+      "id": "JAMB_C_2018_13",
+      "text": "If the concentration of $OH^-$ ion in a solution is $1.0 \\times 10^{-4} \\text{ mol dm}^{-3}$, what is the $pH$?",
+      "image": "[Image showing the relationship between $\\text{pOH}$ and $\\text{pH}$]",
+      "options": ["$4$", "$10$", "$7$", "$14$"],
+      "answer": "$10$",
+      "explanation": "First, calculate the $\\text{pOH}$: $\\text{pOH} = -\\log[OH^-] = -\\log(1.0 \\times 10^{-4}) = 4$.\nThen, use the relationship $pH + pOH = 14$ (at $25^{\\circ}C$): \n$pH = 14 - pOH = 14 - 4 = 10$. The solution is basic."
+    },
+    {
+      "id": "JAMB_C_2018_14",
+      "text": "Which of the following halogens is a liquid at room temperature?",
+      "image": "",
+      "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "answer": "Bromine",
+      "explanation": "At room temperature and pressure, Fluorine ($F_2$) and Chlorine ($Cl_2$) are gases, Bromine ($Br_2$) is a volatile liquid, and Iodine ($I_2$) is a solid."
+    },
+    {
+      "id": "JAMB_C_2018_15",
+      "text": "The process of addition of water molecules to a substance is called:",
+      "image": "[Image illustrating a hydration reaction]",
+      "options": ["Hydrolysis", "Condensation", "Hydration", "Neutralization"],
+      "answer": "Hydration",
+      "explanation": "Hydration is the process where water molecules are chemically bonded to a substance without splitting the water molecule (e.g., in the formation of hydrates or the addition of water across a double bond in organic chemistry). Hydrolysis involves the splitting of the water molecule."
+    },
+    {
+      "id": "JAMB_C_2018_16",
+      "text": "What type of bond exists in the molecule of potassium chloride ($KCl$)?",
+      "image": "[Image illustrating the transfer of electrons between K and Cl to form an ionic bond]",
+      "options": ["Covalent", "Dative", "Metallic", "Ionic"],
+      "answer": "Ionic",
+      "explanation": "Potassium ($K$) is an alkali metal (Group 1), and Chlorine ($Cl$) is a halogen (Group 17). The bond between a metal and a non-metal involves the complete transfer of electrons, forming an ionic bond."
+    },
+    {
+      "id": "JAMB_C_2018_17",
+      "text": "Which of the following is not a characteristic of a chemical equilibrium?",
+      "image": "[Image illustrating a reversible reaction reaching equilibrium]",
+      "options": ["Concentrations of reactants and products are constant", "The forward and backward reactions stop", "The reaction is reversible", "The rate of the forward reaction equals the rate of the backward reaction"],
+      "answer": "The forward and backward reactions stop",
+      "explanation": "Chemical equilibrium is a dynamic process. The forward and backward reactions **do not stop**; they continue at the same rate, resulting in no net change in the concentrations of reactants and products."
+    },
+    {
+      "id": "JAMB_C_2018_18",
+      "text": "The empirical formula of a compound is $CH_2O$ and its relative molecular mass is $180$. What is its molecular formula? ($C=12, H=1, O=16$)",
+      "image": "[Image illustrating the calculation from empirical mass to molecular formula]",
+      "options": ["$C_2H_4O_2$", "$C_6H_{12}O_6$", "$C_3H_6O_3$", "$C_4H_8O_4$"],
+      "answer": "$C_6H_{12}O_6$",
+      "explanation": "1. **Calculate the empirical formula mass (EFM):** \n$EFM = 12 + (1 \\times 2) + 16 = 30$.\n2. **Find the factor 'n':** \n$n = \\frac{\\text{Relative Molecular Mass}}{\\text{EFM}} = \\frac{180}{30} = 6$.\n3. **Determine the Molecular Formula:** \n$\\text{Molecular Formula} = n \\times \\text{Empirical Formula} = 6 \\times (CH_2O) = C_6H_{12}O_6$ (Glucose)."
+    },
+    {
+      "id": "JAMB_C_2018_19",
+      "text": "The type of reaction that occurs when an acid and a base react is:",
+      "image": "[Image illustrating the neutralization reaction between $HCl$ and $NaOH$]",
+      "options": ["Reduction", "Oxidation", "Substitution", "Neutralization"],
+      "answer": "Neutralization",
+      "explanation": "Neutralization is the reaction between an acid and a base (alkali) to produce a salt and water. The essential reaction is the combination of hydrogen ions ($H^+$) and hydroxide ions ($OH^-$) to form water ($H^+ + OH^- \\to H_2O$)."
+    },
+    {
+      "id": "JAMB_C_2018_20",
+      "text": "A good drying agent for ammonia gas is:",
+      "image": "[Image showing $NH_3$ being dried over calcium oxide]",
+      "options": ["Concentrated $H_2SO_4$", "Anhydrous $CaCl_2$", "Fused $NaOH$", "Quicklime ($CaO$ / $Ca(OH)_2$ solid)"],
+      "answer": "Quicklime ($CaO$ / $Ca(OH)_2$ solid)",
+      "explanation": "Ammonia ($NH_3$) is a basic gas, so it cannot be dried by acidic drying agents like concentrated $H_2SO_4$. Quicklime (calcium oxide, $CaO$) or solid $NaOH$ are basic drying agents suitable for drying ammonia. $CaO$ is commonly used in laboratory preparations."
+    },
+    {
+      "id": "JAMB_C_2018_21",
+      "text": "The process of converting vegetable oil to margarine is known as:",
+      "image": "[Image illustrating the hydrogenation of vegetable oil]",
+      "options": ["Cracking", "Polymerization", "Hydrogenation", "Saponification"],
+      "answer": "Hydrogenation",
+      "explanation": "Vegetable oils are liquid because they contain unsaturated fatty acids (C=C double bonds). Hydrogenation is an addition reaction where hydrogen is added across these double bonds (usually using Nickel catalyst), increasing saturation and converting the oil into solid or semi-solid margarine."
+    },
+    {
+      "id": "JAMB_C_2018_22",
+      "text": "Which of the following compounds is used for manufacturing of detergents?",
+      "image": "",
+      "options": ["Sodium ethanoate", "Ethyl ethanoate", "Sodium hydroxide", "Benzene sulphonic acid"],
+      "answer": "Benzene sulphonic acid",
+      "explanation": "Detergents (synthetic soaps) are commonly derived from long-chain alkyl benzene sulfonates. Benzene sulphonic acid or its derivatives are key starting materials in the production of synthetic detergents."
+    },
+    {
+      "id": "JAMB_C_2018_23",
+      "text": "The allotrope of carbon used for glass cutting is:",
+      "image": "[Image showing the crystalline structure of diamond]",
+      "options": ["Soot", "Charcoal", "Graphite", "Diamond"],
+      "answer": "Diamond",
+      "explanation": "Diamond is the hardest naturally occurring substance known. Its crystal structure (a giant covalent network) makes it exceptionally hard, which is why it is used industrially for cutting glass and drilling rocks."
+    },
+    {
+      "id": "JAMB_C_2018_24",
+      "text": "A colloidal system where liquid is dispersed in gas is called:",
+      "image": "[Image illustrating the difference between aerosols (liquid/solid in gas) and other colloids]",
+      "options": ["Emulsion", "Foam", "Aerosol", "Sol"],
+      "answer": "Aerosol",
+      "explanation": "An aerosol is a colloid in which fine solid particles or liquid droplets are dispersed in a gas. Fog, mist, and hairspray are examples of liquid-in-gas aerosols."
+    },
+    {
+      "id": "JAMB_C_2018_25",
+      "text": "The gas produced when excess steam is passed over red-hot carbon is:",
+      "image": "[Image illustrating the water-gas shift reaction ($C + H_2O \\to CO + H_2$)]",
+      "options": ["Hydrogen", "Carbon monoxide", "Producer gas", "Water gas"],
+      "answer": "Water gas",
+      "explanation": "Red-hot carbon reacts with steam to produce a mixture of carbon monoxide and hydrogen: $C(s) + H_2O(g) \\xrightarrow{\\text{heat}} CO(g) + H_2(g)$. This mixture is known as water gas, an important industrial fuel."
+    },
+    {
+      "id": "JAMB_C_2018_26",
+      "text": "Which of the following elements is a transition metal?",
+      "image": "[Image highlighting the transition metals (d-block) on the periodic table]",
+      "options": ["Calcium", "Potassium", "Copper", "Magnesium"],
+      "answer": "Copper",
+      "explanation": "Transition metals are elements that form at least one ion with a partially filled $d$ subshell. Copper ($Cu$, atomic number $29$) is a transition metal (Group 11). Calcium, Potassium, and Magnesium are Group 1 and 2 metals (s-block)."
+    },
+    {
+      "id": "JAMB_C_2018_27",
+      "text": "The phenomenon whereby a substance exists in different crystalline forms is known as:",
+      "image": "[Image showing the two crystalline forms of Sulphur (Rhombic and Monoclinic)]",
+      "options": ["Isomerism", "Allotropy", "Isotopy", "Crystallization"],
+      "answer": "Allotropy",
+      "explanation": "Allotropy is the property of some chemical elements to exist in two or more different forms in the same physical state (e.g., solid carbon exists as diamond and graphite). Isomerism applies to compounds, and Isotopy applies to different atomic masses of the same element."
+    },
+    {
+      "id": "JAMB_C_2018_28",
+      "text": "The property that determines the rate at which an electrode dissolves or deposits ions in electrolysis is the:",
+      "image": "[Image illustrating the electrolytic process]",
+      "options": ["Position in the electrochemical series", "Concentration of the electrolyte", "Nature of the electrodes", "Conductivity of the electrolyte"],
+      "answer": "Position in the electrochemical series",
+      "explanation": "The ease with which an element loses electrons (oxidation) or gains electrons (reduction) is determined by its position in the electrochemical series (or standard electrode potential series). This determines whether an electrode dissolves (oxidation occurs) or if ions are discharged (reduction occurs)."
+    },
+    {
+      "id": "JAMB_C_2018_29",
+      "text": "The molar mass of $Na_2CO_3$ is: ($Na=23, C=12, O=16$)",
+      "image": "[Image showing the calculation steps for molar mass]",
+      "options": ["$83 \\text{ g/mol}$", "$106 \\text{ g/mol}$", "$134 \\text{ g/mol}$", "$50 \\text{ g/mol}$"],
+      "answer": "$106 \\text{ g/mol}$",
+      "explanation": "Molar Mass = $(2 \\times M_{\\text{Na}}) + (1 \\times M_{\\text{C}}) + (3 \\times M_{\\text{O}})$\n$= (2 \\times 23) + (1 \\times 12) + (3 \\times 16)$\n$= 46 + 12 + 48 = 106 \\text{ g/mol}$."
+    },
+    {
+      "id": "JAMB_C_2018_30",
+      "text": "How many moles of $HCl$ are required to react completely with $10 \\text{ g}$ of $CaCO_3$? ($Ca=40, C=12, O=16$)",
+      "image": "[Image showing the stoichiometry of the reaction $CaCO_3 + 2HCl$]",
+      "options": ["$0.1 \\text{ mol}$", "$0.2 \\text{ mol}$", "$1.0 \\text{ mol}$", "$2.0 \\text{ mol}$"],
+      "answer": "$0.2 \\text{ mol}$",
+      "explanation": "1. **Balanced Equation:** $CaCO_3(s) + 2HCl(aq) \\to CaCl_2(aq) + H_2O(l) + CO_2(g)$.\n2. **Molar Mass of $CaCO_3$:** $40 + 12 + (3 \\times 16) = 100 \\text{ g/mol}$.\n3. **Moles of $CaCO_3$:** $\\text{Moles} = \\frac{\\text{Mass}}{\\text{Molar Mass}} = \\frac{10 \\text{ g}}{100 \\text{ g/mol}} = 0.1 \\text{ mol}$.\n4. **Moles of $HCl$ (from stoichiometry):** The mole ratio $CaCO_3 : HCl$ is $1 : 2$. \n$\\text{Moles of } HCl = 2 \\times \\text{Moles of } CaCO_3 = 2 \\times 0.1 \\text{ mol} = 0.2 \\text{ mol}$."
+    },
+    {
+      "id": "JAMB_C_2018_31",
+      "text": "The major product of the reaction between ethyne and excess hydrogen is:",
+      "image": "[Image showing the catalytic hydrogenation of ethyne to ethane]",
+      "options": ["Ethene", "Ethane", "Methane", "Propane"],
+      "answer": "Ethane",
+      "explanation": "Ethyne ($C_2H_2$) is an alkyne with a triple bond. Catalytic hydrogenation involves the addition of hydrogen across the multiple bonds. With excess hydrogen, the triple bond is completely reduced to a single bond, yielding ethane ($C_2H_6$). \n$C_2H_2 + 2H_2 \\xrightarrow{\\text{Catalyst}} C_2H_6$."
+    },
+    {
+      "id": "JAMB_C_2018_32",
+      "text": "An ionic compound is formed between elements $X$ (Group 1) and $Y$ (Group 16). The formula of the compound is:",
+      "image": "[Image illustrating the formation of $X_2Y$ from $X^+$ and $Y^{2-}$ ions]",
+      "options": ["$XY$", "$X_2Y$", "$XY_2$", "$X_2Y_3$"],
+      "answer": "$X_2Y$",
+      "explanation": "Element $X$ is in Group 1, so it forms a cation with a $+1$ charge ($X^+$).\nElement $Y$ is in Group 16, so it forms an anion with a $-2$ charge ($Y^{2-}$).\nFor a neutral ionic compound, the total positive charge must equal the total negative charge. Two $X^+$ ions ($2 \\times +1 = +2$) are needed to balance one $Y^{2-}$ ion ($-2$). The resulting formula is $X_2Y$ (e.g., $Na_2O$ or $K_2S$)."
+    },
+    {
+      "id": "JAMB_C_2018_33",
+      "text": "If a given mass of gas occupies $200 \\text{ cm}^3$ at $100^{\\circ}C$, what volume will it occupy at $0^{\\circ}C$, assuming pressure is constant?",
+      "image": "[Image illustrating Charles' Law ($\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$)]",
+      "options": ["$146.3 \\text{ cm}^3$", "$200.0 \\text{ cm}^3$", "$273.0 \\text{ cm}^3$", "$373.0 \\text{ cm}^3$"],
+      "answer": "$146.3 \\text{ cm}^3$",
+      "explanation": "This is a Charles' Law problem ($\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$), where temperature must be in Kelvin.\n$T_1 = 100^{\\circ}C + 273 = 373 \\text{ K}$. $V_1 = 200 \\text{ cm}^3$.\n$T_2 = 0^{\\circ}C + 273 = 273 \\text{ K}$. $V_2 = ?$\n$V_2 = V_1 \\times \\frac{T_2}{T_1} = 200 \\text{ cm}^3 \\times \\frac{273 \\text{ K}}{373 \\text{ K}} \\approx 146.33 \\text{ cm}^3$."
+    },
+    {
+      "id": "JAMB_C_2018_34",
+      "text": "Which of the following processes is used for the manufacture of sulphuric acid?",
+      "image": "[Image illustrating the steps of the Contact Process]",
+      "options": ["Haber process", "Contact process", "Blast furnace process", "Hall-Heroult process"],
+      "answer": "Contact process",
+      "explanation": "Sulphuric acid ($H_2SO_4$) is manufactured industrially using the Contact Process. This involves the catalytic oxidation of sulfur(IV) oxide ($SO_2$) to sulfur(VI) oxide ($SO_3$) using vanadium(V) oxide ($V_2O_5$) catalyst, followed by absorption in concentrated $H_2SO_4$ and then dilution with water. The Haber process is for ammonia, and the Blast furnace is for iron."
+    },
+    {
+      "id": "JAMB_C_2018_35",
+      "text": "The main industrial source of hydrogen is:",
+      "image": "[Image showing the steam reforming of methane]",
+      "options": ["Electrolysis of water", "Water gas shift reaction", "Steam reforming of natural gas (methane)", "Decomposition of ammonia"],
+      "answer": "Steam reforming of natural gas (methane)",
+      "explanation": "The most common and economically viable industrial method for producing large quantities of hydrogen is the steam reforming of natural gas, primarily methane: $CH_4(g) + H_2O(g) \\xrightarrow{\\text{Ni catalyst}} CO(g) + 3H_2(g)$."
+    },
+    {
+      "id": "JAMB_C_2018_36",
+      "text": "The main functional group in the molecule $CH_3CH_2CHO$ is:",
+      "image": "[Image showing the structure of the aldehyde functional group $-CHO$]",
+      "options": ["Carboxyl group", "Hydroxyl group", "Aldehyde group", "Ketone group"],
+      "answer": "Aldehyde group",
+      "explanation": "The molecule $CH_3CH_2CHO$ is Propanal. The functional group at the end of the chain, $-CHO$, is the aldehyde functional group, which characterizes the Alkanal homologous series."
+    },
+    {
+      "id": "JAMB_C_2018_37",
+      "text": "A physical separation method suitable for separating mixtures of immiscible liquids is:",
+      "image": "[Image showing a separating funnel used for immiscible liquids]",
+      "options": ["Filtration", "Decantation (Using separating funnel)", "Sublimation", "Chromatography"],
+      "answer": "Decantation (Using separating funnel)",
+      "explanation": "Immiscible liquids (like oil and water) form layers. They are separated using a separating funnel, which allows the denser liquid layer to be carefully run off (decanted) from the bottom, leaving the less dense liquid behind."
+    },
+    {
+      "id": "JAMB_C_2018_38",
+      "text": "Which of the following is an example of an amphoteric oxide?",
+      "image": "",
+      "options": ["$CaO$", "$SO_3$", "$Al_2O_3$", "$Na_2O$"],
+      "answer": "$Al_2O_3$",
+      "explanation": "Amphoteric oxides are oxides that can react chemically with both acids and bases. $Al_2O_3$ (Aluminum oxide), $ZnO$ (Zinc oxide), and $PbO$ (Lead(II) oxide) are common examples. $CaO$ and $Na_2O$ are basic, and $SO_3$ is acidic."
+    },
+    {
+      "id": "JAMB_C_2018_39",
+      "text": "In a saturated solution, the solute is in dynamic equilibrium with:",
+      "image": "[Image illustrating the dynamic equilibrium between solid solute and dissolved solute ions]",
+      "options": ["The solvent", "The precipitate", "The solvent and the precipitate", "The undissolved solute"],
+      "answer": "The undissolved solute",
+      "explanation": "A saturated solution is one in which the rate of dissolution of the solute equals the rate of crystallization (or precipitation) of the solute. Thus, the dissolved solute is in dynamic equilibrium with the excess, undissolved solid solute."
+    },
+    {
+      "id": "JAMB_C_2018_40",
+      "text": "The presence of a lone pair of electrons on the nitrogen atom in $NH_3$ causes its shape to be:",
+      "image": "[Image showing the tetrahedral electron geometry and trigonal pyramidal molecular geometry of ammonia]",
+      "options": ["Tetrahedral", "Trigonal planar", "Trigonal pyramidal", "Bent (V-shape)"],
+      "answer": "Trigonal pyramidal",
+      "explanation": "The nitrogen atom in $NH_3$ has three bonding pairs and one lone pair of electrons (total of 4 electron regions). According to VSEPR theory, this results in a tetrahedral electron pair geometry, but the molecular shape (which only considers the atoms) is **trigonal pyramidal** due to the repulsion caused by the lone pair."
+    }
+  ]

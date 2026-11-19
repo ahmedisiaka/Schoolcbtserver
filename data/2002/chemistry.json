@@ -1,0 +1,783 @@
+[
+    {
+        "id": "JAMB_C_141",
+        "text": "Which of the following elements has the $\\textbf{highest}$ $\\textbf{electronegativity}$?",
+        "image": "",
+        "options": [
+            "Fluorine (F).",
+            "Chlorine (Cl).",
+            "Oxygen (O).",
+            "Nitrogen (N)."
+        ],
+        "answer": "Fluorine (F).",
+        "explanation": "$\\textbf{Electronegativity}$ $\\textbf{increases}$ across a period and $\\textbf{decreases}$ down a group. $\\textbf{Fluorine}$ is the most electronegative element in the Periodic Table."
+    },
+    {
+        "id": "JAMB_C_142",
+        "text": "The $\\textbf{electronic}$ $\\textbf{configuration}$ of an element is $1s^2 2s^2 2p^6 3s^2 3p^4$. The element is:",
+        "image": "",
+        "options": [
+            "Silicon.",
+            "Sulphur.",
+            "Phosphorus.",
+            "Chlorine."
+        ],
+        "answer": "Sulphur.",
+        "explanation": "The total number of electrons is $2+2+6+2+4 = 16$. The element with atomic number $16$ is $\\textbf{Sulphur}$ (S). The $3p^4$ indicates it is in Group $\\text{VI}$ and Period $3$."
+    },
+    {
+        "id": "JAMB_C_143",
+        "text": "How many $\\textbf{mole}$ of $\\text{NaOH}$ are contained in $200\\text{ cm}^3$ of $0.1\\text{ M}$ solution?",
+        "image": "",
+        "options": [
+            "$0.02\\text{ mol}$.",
+            "$0.2\\text{ mol}$.",
+            "$2.0\\text{ mol}$.",
+            "$20.0\\text{ mol}$."
+        ],
+        "answer": "$0.02\\text{ mol}$.",
+        "explanation": "Number of $\\text{moles} = \\text{Concentration} (M) \\times \\text{Volume} (L)$. Volume in $\\text{L} = \\frac{200}{1000} = 0.2\\text{ L}$. $\\text{Moles} = 0.1\\text{ mol/L} \\times 0.2\\text{ L} = 0.02\\text{ mol}$."
+    },
+    {
+        "id": "JAMB_C_144",
+        "text": "The major product formed when $\\textbf{ethanol}$ is heated with $\\textbf{excess}$ $\\textbf{concentrated}$ $\\textbf{sulphuric}$ $\\textbf{acid}$ at $170^\\circ\\text{C}$ is:",
+        "image": "",
+        "options": [
+            "Ethanoic acid.",
+            "Ethane.",
+            "Ethene.",
+            "Diethyl ether."
+        ],
+        "answer": "Ethene.",
+        "explanation": "Concentrated $\\text{H}_2\\text{SO}_4$ acts as a $\\textbf{dehydrating}$ $\\textbf{agent}$. At high temperatures ($\\text{e.g.}, 170^\\circ\\text{C}$), it causes the $\\textbf{intramolecular}$ $\\textbf{dehydration}$ of ethanol to produce $\\textbf{ethene}$ (an alkene): $\\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{conc.} \\text{ H}_2\\text{SO}_4, 170^\\circ\\text{C}} \\text{CH}_2=\\text{CH}_2 + \\text{H}_2\\text{O}$."
+    },
+    {
+        "id": "JAMB_C_145",
+        "text": "Which of the following is an $\\textbf{acid}$ $\\textbf{salt}$?",
+        "image": "",
+        "options": [
+            "Potassium chloride ($\\text{KCl}$).",
+            "Sodium hydrogen sulphate ($\\text{NaHSO}_4$).",
+            "Sodium chloride ($\\text{NaCl}$).",
+            "Potassium sulphate ($\\text{K}_2\\text{SO}_4$)."
+        ],
+        "answer": "Sodium hydrogen sulphate ($\\text{NaHSO}_4$).",
+        "explanation": "An $\\textbf{acid}$ $\\textbf{salt}$ contains at least one $\\textbf{replaceable}$ $\\textbf{hydrogen}$ $\\textbf{ion}$ ($\text{H}^+$). $\\text{NaHSO}_4$ is an acid salt because the $\\text{H}$ in the sulphate group ($\text{HSO}_4^-$) is acidic."
+    },
+    {
+        "id": "JAMB_C_146",
+        "text": "The $\\textbf{empirical}$ $\\textbf{formula}$ of a compound is $\\text{CH}_2\\text{O}$. If its molar mass is $180\\text{ g/mol}$, its $\\textbf{molecular}$ $\\textbf{formula}$ is: ($\\text{C}=12, \\text{H}=1, \\text{O}=16$)",
+        "image": "",
+        "options": [
+            "$\\text{C}_2\\text{H}_4\\text{O}_2$.",
+            "$\\text{C}_3\\text{H}_6\\text{O}_3$.",
+            "$\\text{C}_6\\text{H}_{12}\\text{O}_6$.",
+            "$\\text{C}_{12}\\text{H}_{24}\\text{O}_{12}$."
+        ],
+        "answer": "$\\text{C}_6\\text{H}_{12}\\text{O}_6$.",
+        "explanation": "Empirical formula mass ($\text{EFM}$) of $\\text{CH}_2\\text{O} = 12 + 2(1) + 16 = 30\\text{ g/mol}$. Factor $n = \\frac{\\text{Molar Mass}}{\\text{EFM}} = \\frac{180}{30} = 6$. Molecular formula $= n \\times \\text{EF} = 6 \\times (\\text{CH}_2\\text{O}) = \\text{C}_6\\text{H}_{12}\\text{O}_6$."
+    },
+    {
+        "id": "JAMB_C_147",
+        "text": "Which process $\\textbf{releases}$ $\\textbf{energy}$?",
+        "image": "",
+        "options": [
+            "Melting of ice.",
+            "Sublimation of iodine.",
+            "Combustion of methane.",
+            "Evaporation of water."
+        ],
+        "answer": "Combustion of methane.",
+        "explanation": "$\\textbf{Combustion}$ is a chemical reaction (burning) that is generally $\\textbf{exothermic}$, meaning it $\\textbf{releases}$ $\\textbf{heat}$ $\\textbf{energy}$. The other processes (melting, sublimation, evaporation) are $\\textbf{endothermic}$ (require energy input)."
+    },
+    {
+        "id": "JAMB_C_148",
+        "text": "The $\\textbf{pH}$ of a solution containing $0.01\\text{ mol/L}$ of $\\text{HCl}$ is:",
+        "image": "",
+        "options": [
+            "$1$.",
+            "$2$.",
+            "$7$.",
+            "$12$."
+        ],
+        "answer": "$2$.",
+        "explanation": "$\\text{HCl}$ is a strong acid, so $[\text{H}^+] = [\text{HCl}] = 0.01\\text{ M} = 10^{-2}\\text{ mol/L}$. $\\text{pH} = -\\log_{10}[\text{H}^+] = -\\log_{10}(10^{-2}) = 2$."
+    },
+    {
+        "id": "JAMB_C_149",
+        "text": "The $\\textbf{most}$ $\\textbf{suitable}$ method for the $\\textbf{separation}$ of a mixture of $\\textbf{ethanol}$ and $\\textbf{water}$ is:",
+        "image": "",
+        "options": [
+            "Simple distillation.",
+            "Fractional distillation.",
+            "Sublimation.",
+            "Filtration."
+        ],
+        "answer": "Fractional distillation.",
+        "explanation": "Ethanol and water are $\\textbf{miscible}$ liquids with different, but close, $\\textbf{boiling}$ $\\textbf{points}$ ($78.3^\\circ\\text{C}$ and $100^\\circ\\text{C}$). $\\textbf{Fractional}$ $\\textbf{distillation}$ is necessary to achieve a clean separation. [Image of fractional distillation apparatus]"
+    },
+    {
+        "id": "JAMB_C_150",
+        "text": "Which of the following compounds will $\\textbf{decolorize}$ $\\textbf{bromine}$ $\\textbf{water}$?",
+        "image": "",
+        "options": [
+            "Ethane.",
+            "Ethene.",
+            "Methane.",
+            "Butane."
+        ],
+        "answer": "Ethene.",
+        "explanation": "Bromine water (brown/yellow) is used to test for $\\textbf{unsaturation}$. $\\textbf{Ethene}$ ($\text{CH}_2=\\text{CH}_2$) is an $\\textbf{alkene}$ (unsaturated) and undergoes an $\\textbf{addition}$ reaction with bromine, causing the color to fade or disappear."
+    },
+    {
+        "id": "JAMB_C_151",
+        "text": "The $\\textbf{primary}$ $\\textbf{pollutant}$ that causes $\\textbf{acid}$ $\\textbf{rain}$ is:",
+        "image": "",
+        "options": [
+            "Carbon monoxide (CO).",
+            "Sulphur(IV) oxide ($\\text{SO}_2$).",
+            "Methane ($\\text{CH}_4$).",
+            "Carbon dioxide ($\\text{CO}_2$)."
+        ],
+        "answer": "Sulphur(IV) oxide ($\\text{SO}_2$).",
+        "explanation": "The main pollutants are $\\textbf{Sulphur}$ $\\textbf{Dioxide}$ ($\text{SO}_2$) and $\\textbf{Nitrogen}$ $\\textbf{Dioxide}$ ($\text{NO}_2$). $\\text{SO}_2$ dissolves in rainwater to form $\\text{sulphurous}$ $\\textbf{acid}$ and $\\text{sulphuric}$ $\\textbf{acid}$, which are the major components of acid rain."
+    },
+    {
+        "id": "JAMB_C_152",
+        "text": "The $\\textbf{maximum}$ number of electrons that can be accommodated in the $\\textbf{d-orbitals}$ of an atom is:",
+        "image": "",
+        "options": [
+            "$2$.",
+            "$6$.",
+            "$10$.",
+            "$14$."
+        ],
+        "answer": "$10$.",
+        "explanation": "There are $\\textbf{five}$ $\\textbf{d-orbitals}$ ($d_{xy}, d_{yz}, d_{xz}, d_{x^2-y^2}, d_{z^2}$) in any principal energy level ($n\\ge 3$). Each orbital can hold a maximum of $2$ electrons, so $5 \\times 2 = 10$ electrons."
+    },
+    {
+        "id": "JAMB_C_153",
+        "text": "A catalyst increases the rate of a chemical reaction by:",
+        "image": "",
+        "options": [
+            "increasing the temperature.",
+            "increasing the concentration of reactants.",
+            "increasing the activation energy.",
+            "providing an alternative reaction path with $\\textbf{lower}$ $\\textbf{activation}$ $\\textbf{energy}$."
+        ],
+        "answer": "providing an alternative reaction path with $\\textbf{lower}$ $\\textbf{activation}$ $\\textbf{energy}$.",
+        "explanation": "A $\\textbf{catalyst}$ speeds up a reaction by offering a new mechanism (pathway) that requires $\\textbf{less}$ $\\textbf{energy}$ to initiate, thus lowering the $\\textbf{activation}$ $\\textbf{energy}$ ($E_a$). "
+    },
+    {
+        "id": "JAMB_C_154",
+        "text": "Which type of $\\textbf{bonding}$ is mainly involved in the formation of $\\text{NaCl}$?",
+        "image": "",
+        "options": [
+            "Covalent.",
+            "Dative.",
+            "Metallic.",
+            "Ionic."
+        ],
+        "answer": "Ionic.",
+        "explanation": "$\\text{NaCl}$ (Sodium Chloride) is formed by the $\\textbf{transfer}$ of an electron from $\\textbf{Sodium}$ (metal) to $\\textbf{Chlorine}$ (non-metal), resulting in the formation of $\\text{Na}^+$ and $\\text{Cl}^-$ ions held together by $\\textbf{electrostatic}$ forces (ionic bond)."
+    },
+    {
+        "id": "JAMB_C_155",
+        "text": "In the reaction: $\\text{Zn} + 2\\text{HCl} \\rightarrow \\text{ZnCl}_2 + \\text{H}_2$, the $\\textbf{oxidizing}$ $\\textbf{agent}$ is:",
+        "image": "",
+        "options": [
+            "$\\text{Zn}$.",
+            "$\\text{HCl}$.",
+            "$\\text{ZnCl}_2$.",
+            "$\\text{H}_2$."
+        ],
+        "answer": "$\\text{HCl}$.",
+        "explanation": "$\\textbf{Oxidizing}$ $\\textbf{agent}$ is the substance that is $\\textbf{reduced}$. The oxidation state of $\\text{H}$ in $\\text{HCl}$ is $+1$, and in $\\text{H}_2$ it is $0$. Since the oxidation number of $\\text{H}$ decreased, $\\text{HCl}$ (or $\\text{H}^+$) is $\\textbf{reduced}$ and thus acts as the $\\textbf{oxidizing}$ $\\textbf{agent}$."
+    },
+    {
+        "id": "JAMB_C_156",
+        "text": "If $20\\text{ cm}^3$ of $0.1\\text{ M}$ $\\text{NaOH}$ exactly neutralizes $10\\text{ cm}^3$ of an $\\text{HCl}$ solution, the concentration of the $\\text{HCl}$ solution is:",
+        "image": "",
+        "options": [
+            "$0.05\\text{ M}$.",
+            "$0.1\\text{ M}$.",
+            "$0.2\\text{ M}$.",
+            "$0.4\\text{ M}$."
+        ],
+        "answer": "$0.2\\text{ M}$.",
+        "explanation": "The reaction is $1:1$: $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$. Use $C_A V_A = C_B V_B$. $C_A \\times 10 = 0.1 \\times 20$. $C_A = \\frac{0.1 \\times 20}{10} = 0.2\\text{ M}$."
+    },
+    {
+        "id": "JAMB_C_157",
+        "text": "The IUPAC name for the compound $\\text{CH}_3\\text{CH}_2\\text{CH}(\\text{CH}_3)\\text{CH}_3$ is:",
+        "image": "",
+        "options": [
+            "2-Methylbutane.",
+            "Pentane.",
+            "3-Methylbutane.",
+            "2-Methylpentane."
+        ],
+        "answer": "2-Methylbutane.",
+        "explanation": "The $\\textbf{longest}$ $\\textbf{carbon}$ $\\textbf{chain}$ has $4$ carbons (butane). Numbering from the end closest to the branch (left), the methyl group ($\\text{CH}_3$) is on the second carbon. The name is $\\textbf{2-Methylbutane}$."
+    },
+    {
+        "id": "JAMB_C_158",
+        "text": "The $\\textbf{functional}$ $\\textbf{group}$ common to all $\\textbf{carboxylic}$ $\\textbf{acids}$ is:",
+        "image": "",
+        "options": [
+            "Hydroxyl group ($\\text{-OH}$).",
+            "Carbonyl group ($\\text{-CO}$).",
+            "Carboxyl group ($\\text{-COOH}$).",
+            "Aldehyde group ($\\text{-CHO}$)."
+        ],
+        "answer": "Carboxyl group ($\\text{-COOH}$).",
+        "explanation": "The characteristic functional group of $\\textbf{carboxylic}$ $\\textbf{acids}$ is the $\\textbf{carboxyl}$ $\\textbf{group}$, which is a combination of a $\\textbf{carbonyl}$ group ($\text{C}=\text{O}$) and a $\\textbf{hydroxyl}$ group ($\text{-OH}$). [Image of the Carboxyl functional group structure]"
+    },
+    {
+        "id": "JAMB_C_159",
+        "text": "In the preparation of oxygen by heating potassium trioxonitrate($\text{V}$), the other product(s) formed is/are:",
+        "image": "",
+        "options": [
+            "Potassium nitrate ($\\text{KNO}_3$) only.",
+            "Potassium oxide ($\\text{K}_2\\text{O}$) and nitrogen ($\text{N}_2$).",
+            "Potassium nitrite ($\\text{KNO}_2$) and oxygen ($\\text{O}_2$).",
+            "Potassium nitrite ($\\text{KNO}_2$) only."
+        ],
+        "answer": "Potassium nitrite ($\\text{KNO}_2$) and oxygen ($\\text{O}_2$).",
+        "explanation": "The decomposition of Potassium trioxonitrate($\text{V}$) is: $2\\text{KNO}_3(s) \\xrightarrow{\\text{Heat}} 2\\text{KNO}_2(s) + \\text{O}_2(g)$. The products are $\\textbf{Potassium}$ $\\textbf{nitrite}$ and $\\textbf{Oxygen}$."
+    },
+    {
+        "id": "JAMB_C_160",
+        "text": "Which of the following is an $\\textbf{allotrope}$ of $\\textbf{carbon}$?",
+        "image": "",
+        "options": [
+            "Silica.",
+            "Graphite.",
+            "Carbon(IV) oxide.",
+            "Carbon monoxide."
+        ],
+        "answer": "Graphite.",
+        "explanation": "$\\textbf{Allotropes}$ are different structural forms of the $\\textbf{same}$ $\\textbf{element}$. $\\textbf{Graphite}$, Diamond, and Fullerene are the crystalline allotropes of $\\textbf{carbon}$."
+    },
+    {
+        "id": "JAMB_C_161",
+        "text": "The $\\textbf{process}$ of $\\textbf{converting}$ $\\text{vegetable}$ $\\textbf{oils}$ to $\\textbf{margarine}$ is called:",
+        "image": "",
+        "options": [
+            "Saponification.",
+            "Esterification.",
+            "Hydrogenation.",
+            "Polymerization."
+        ],
+        "answer": "Hydrogenation.",
+        "explanation": "Margarine is produced by adding $\\textbf{hydrogen}$ across the double bonds of unsaturated $\\text{vegetable}$ $\\text{oils}$ in the presence of a Nickel catalyst, a process called $\\textbf{hydrogenation}$, which makes the oil $\\textbf{solid}$ or $\\textbf{semi-solid}$."
+    },
+    {
+        "id": "JAMB_C_162",
+        "text": "Which of the following reactions is $\\textbf{reversible}$?",
+        "image": "",
+        "options": [
+            "Combustion of methane.",
+            "Precipitation of silver chloride.",
+            "Decomposition of calcium carbonate in a closed system.",
+            "Rusting of iron."
+        ],
+        "answer": "Decomposition of calcium carbonate in a closed system.",
+        "explanation": "The reaction $\\text{CaCO}_3(s) \\rightleftharpoons \\text{CaO}(s) + \\text{CO}_2(g)$ in a $\\textbf{closed}$ $\\textbf{system}$ is $\\textbf{reversible}$ and reaches a state of $\\textbf{chemical}$ $\\textbf{equilibrium}$. The other options are practically $\\textbf{irreversible}$ under normal conditions."
+    },
+    {
+        "id": "JAMB_C_163",
+        "text": "The $\\textbf{relative}$ $\\textbf{molecular}$ $\\textbf{mass}$ of $\\text{glucose}$ ($\\text{C}_6\\text{H}_{12}\\text{O}_6$) is: ($\\text{C}=12, \\text{H}=1, \\text{O}=16$)",
+        "image": "",
+        "options": [
+            "$90$.",
+            "$120$.",
+            "$180$.",
+            "$360$."
+        ],
+        "answer": "$180$.",
+        "explanation": "Relative molecular mass $= (6 \\times 12) + (12 \\times 1) + (6 \\times 16) = 72 + 12 + 96 = 180$."
+    },
+    {
+        "id": "JAMB_C_164",
+        "text": "Which element forms a stable $\\textbf{dipositive}$ ion ($+2$) with the electronic configuration $1s^2 2s^2 2p^6$?",
+        "image": "",
+        "options": [
+            "Magnesium (Mg).",
+            "Calcium (Ca).",
+            "Neon (Ne).",
+            "Sulphur (S)."
+        ],
+        "answer": "Magnesium (Mg).",
+        "explanation": "The configuration $1s^2 2s^2 2p^6$ is that of the $\\textbf{Neon}$ atom, which has $10$ electrons. A $\\textbf{dipositive}$ ion ($\text{X}^{2+}$) with $10$ electrons means the neutral atom ($\text{X}$) has $10+2 = 12$ electrons. This is $\\textbf{Magnesium}$ ($\text{Mg}$)."
+    },
+    {
+        "id": "JAMB_C_165",
+        "text": "The $\\textbf{most}$ $\\textbf{active}$ $\\textbf{halogens}$ is:",
+        "image": "",
+        "options": [
+            "Chlorine (Cl).",
+            "Bromine (Br).",
+            "Iodine (I).",
+            "Fluorine (F)."
+        ],
+        "answer": "Fluorine (F).",
+        "explanation": "Reactivity in the halogens (Group $\\text{VII}$) $\\textbf{decreases}$ down the group. $\\textbf{Fluorine}$ is the smallest and has the $\\textbf{greatest}$ tendency to $\\textbf{gain}$ an electron, making it the $\\textbf{most}$ $\\textbf{reactive}$."
+    },
+    {
+        "id": "JAMB_C_166",
+        "text": "Which of the following $\\textbf{compounds}$ is an $\\textbf{isomer}$ of butan-1-ol ($\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{CH}_2\\text{OH}$)?",
+        "image": "",
+        "options": [
+            "Pentanol.",
+            "Butan-2-ol.",
+            "Butanal.",
+            "Butanoic acid."
+        ],
+        "answer": "Butan-2-ol.",
+        "explanation": "$\\textbf{Isomers}$ have the same $\\textbf{molecular}$ $\\textbf{formula}$ but different $\\textbf{structural}$ $\\textbf{formulae}$. Butan-1-ol and Butan-2-ol are $\\textbf{positional}$ $\\textbf{isomers}$ with the formula $\\text{C}_4\\text{H}_{10}\\text{O}$. Pentanol has more carbons, while butanal and butanoic acid have different functional groups."
+    },
+    {
+        "id": "JAMB_C_167",
+        "text": "The $\\textbf{type}$ of $\\textbf{reaction}$ that occurs between $\\text{alkanes}$ and $\\text{halogens}$ in the presence of $\\textbf{sunlight}$ is:",
+        "image": "",
+        "options": [
+            "Addition.",
+            "Substitution.",
+            "Elimination.",
+            "Polymerization."
+        ],
+        "answer": "Substitution.",
+        "explanation": "The reaction between $\\textbf{alkanes}$ (saturated hydrocarbons) and halogens (like Chlorine) under $\\textbf{UV}$ $\\textbf{light}$ is a $\\textbf{free}$ $\\textbf{radical}$ $\\textbf{substitution}$ reaction, where a $\\text{hydrogen}$ atom is $\\textbf{replaced}$ by a $\\text{halogen}$ atom."
+    },
+    {
+        "id": "JAMB_C_168",
+        "text": "A $\\textbf{base}$ solution has a $\\text{pH}$ range of:",
+        "image": "",
+        "options": [
+            "less than $7$.",
+            "equal to $7$.",
+            "greater than $7$.",
+            "from $0$ to $7$."
+        ],
+        "answer": "greater than $7$.",
+        "explanation": "A $\\textbf{neutral}$ solution has a $\\text{pH}$ of $7$. An $\\textbf{acid}$ solution has a $\\text{pH}$ $\\textbf{less}$ than $7$. A $\\textbf{base}$ or $\\textbf{alkaline}$ solution has a $\\text{pH}$ $\\textbf{greater}$ $\\textbf{than}$ $7$ (up to $14$). [Image of pH scale showing acidic, neutral, and basic ranges]"
+    },
+    {
+        "id": "JAMB_C_169",
+        "text": "The $\\textbf{Avogadro's}$ $\\textbf{constant}$ is the number of particles (atoms, ions, or molecules) in:",
+        "image": "",
+        "options": [
+            "$1\\text{ g}$ of a substance.",
+            "$1\\text{ mole}$ of a substance.",
+            "$1\\text{ dm}^3$ of gas at S.T.P.",
+            "$1\\text{ g}$ $\\text{atom}$ of a substance."
+        ],
+        "answer": "$1\\text{ mole}$ of a substance.",
+        "explanation": "Avogadro's constant ($6.02 \\times 10^{23}$) is defined as the number of constituent particles (atoms, molecules, ions, etc.) contained in $\\textbf{one}$ $\\textbf{mole}$ of any substance."
+    },
+    {
+        "id": "JAMB_C_170",
+        "text": "What mass of $\\text{K}_2\\text{CO}_3$ is contained in $1.0\\text{ mole}$? ($\\text{K}=39, \\text{C}=12, \\text{O}=16$)",
+        "image": "",
+        "options": [
+            "$69\\text{ g}$.",
+            "$99\\text{ g}$.",
+            "$138\\text{ g}$.",
+            "$184\\text{ g}$."
+        ],
+        "answer": "$138\\text{ g}$.",
+        "explanation": "The mass of $1.0\\text{ mole}$ is the $\\textbf{Molar}$ $\\textbf{Mass}$. $\\text{Molar Mass}$ of $\\text{K}_2\\text{CO}_3 = (2 \\times 39) + 12 + (3 \\times 16) = 78 + 12 + 48 = 138\\text{ g/mol}$. Thus, $1.0\\text{ mole}$ has a mass of $138\\text{ g}$."
+    },
+    {
+        "id": "JAMB_C_171",
+        "text": "The $\\textbf{solubility}$ of a salt $\\text{X}$ in water at $30^\\circ\\text{C}$ is $20\\text{ g}$ per $100\\text{ g}$ of water. If $25\\text{ g}$ of $\\text{X}$ is added to $100\\text{ g}$ of water at $30^\\circ\\text{C}$, the solution is:",
+        "image": "",
+        "options": [
+            "saturated.",
+            "unsaturated.",
+            "supersaturated.",
+            "dilute."
+        ],
+        "answer": "supersaturated.",
+        "explanation": "The maximum amount that can dissolve is $20\\text{ g}$. Since $\\textbf{more}$ $\\textbf{salt}$ ($25\\text{ g}$) than the maximum amount is present, the solution is $\\textbf{supersaturated}$ (assuming the excess $5\\text{ g}$ remains dissolved, often requiring heating and slow cooling). If the excess $5\\text{ g}$ remained undissolved, the solution would be saturated with excess solid."
+    },
+    {
+        "id": "JAMB_C_172",
+        "text": "Which of the following is $\\textbf{isomeric}$ with $\\text{ethyl}$ $\\textbf{ethanoate}$?",
+        "image": "",
+        "options": [
+            "Propanoic acid.",
+            "Butanoic acid.",
+            "Propanol.",
+            "Ethanoic acid."
+        ],
+        "answer": "Butanoic acid.",
+        "explanation": "Ethyl ethanoate is an $\\textbf{ester}$ with formula $\\text{C}_4\\text{H}_8\\text{O}_2$. $\\textbf{Butanoic}$ $\\textbf{acid}$ is a $\\textbf{carboxylic}$ $\\textbf{acid}$ with the same molecular formula, $\\text{C}_4\\text{H}_8\\text{O}_2$. They are $\\textbf{functional}$ $\\textbf{group}$ $\\textbf{isomers}$."
+    },
+    {
+        "id": "JAMB_C_173",
+        "text": "What $\\textbf{volume}$ of oxygen at S.T.P. is required to burn $1.0\\text{ dm}^3$ of $\\text{methane}$ $\\text{CH}_4$ completely? (S.T.P. $\\text{volume} = 22.4\\text{ dm}^3$)",
+        "image": "",
+        "options": [
+            "$0.5\\text{ dm}^3$.",
+            "$1.0\\text{ dm}^3$.",
+            "$2.0\\text{ dm}^3$.",
+            "$4.0\\text{ dm}^3$."
+        ],
+        "answer": "$2.0\\text{ dm}^3$.",
+        "explanation": "The balanced equation is: $\\text{CH}_4(g) + 2\\text{O}_2(g) \\rightarrow \\text{CO}_2(g) + 2\\text{H}_2\\text{O}(l)$. From the mole ratios ($1:2$), the volume ratio is also $1:2$ (Avogadro's Law). $1\\text{ dm}^3$ of $\\text{CH}_4$ requires $2 \\times 1\\text{ dm}^3 = 2.0\\text{ dm}^3$ of $\\text{O}_2$."
+    },
+    {
+        "id": "JAMB_C_174",
+        "text": "The $\\textbf{salt}$ commonly used for $\\textbf{making}$ $\\textbf{plaster}$ $\\textbf{of}$ $\\textbf{Paris}$ is:",
+        "image": "",
+        "options": [
+            "Calcium chloride ($\\text{CaCl}_2$).",
+            "Calcium sulphate ($\\text{CaSO}_4$).",
+            "Sodium carbonate ($\\text{Na}_2\\text{CO}_3$).",
+            "Potassium nitrate ($\\text{KNO}_3$)."
+        ],
+        "answer": "Calcium sulphate ($\\text{CaSO}_4$).",
+        "explanation": "Plaster of Paris is $\\textbf{hydrated}$ $\\textbf{calcium}$ $\\textbf{sulphate}$, specifically $\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}$. It is manufactured by heating $\\textbf{gypsum}$ ($\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}$), which is a form of $\\textbf{calcium}$ $\\textbf{sulphate}$."
+    },
+    {
+        "id": "JAMB_C_175",
+        "text": "The $\\textbf{shape}$ of the $\\textbf{ammonia}$ $\\textbf{molecule}$ ($\\text{NH}_3$) is:",
+        "image": "",
+        "options": [
+            "Linear.",
+            "Tetrahedral.",
+            "Trigonal planar.",
+            "Trigonal pyramidal."
+        ],
+        "answer": "Trigonal pyramidal.",
+        "explanation": "The $\\text{N}$ atom has $3$ bond pairs ($\text{N-H}$) and $1$ $\\textbf{lone}$ $\\textbf{pair}$ of electrons. This arrangement causes the $\\text{three}$ $\\text{hydrogen}$ atoms to be pushed down, resulting in a $\\textbf{trigonal}$ $\\textbf{pyramidal}$ $\\textbf{shape}$ (derived from a tetrahedral electron geometry). [Image of the Ammonia molecule shape and lone pair]"
+    },
+    {
+        "id": "JAMB_C_176",
+        "text": "The $\\textbf{mass}$ $\\textbf{number}$ of an atom is the total number of:",
+        "image": "",
+        "options": [
+            "electrons and protons.",
+            "protons and neutrons.",
+            "electrons and neutrons.",
+            "protons only."
+        ],
+        "answer": "protons and neutrons.",
+        "explanation": "The $\\textbf{mass}$ $\\textbf{number}$ ($\text{A}$) is the sum of the number of $\\textbf{protons}$ ($\text{atomic number}$, $\text{Z}$) and $\\textbf{neutrons}$ ($\text{N}$) in the nucleus of an atom: $\\text{A} = \\text{Z} + \\text{N}$."
+    },
+    {
+        "id": "JAMB_C_177",
+        "text": "Which of the following elements is a $\\textbf{transition}$ $\\textbf{metal}$?",
+        "image": "",
+        "options": [
+            "Calcium (Ca).",
+            "Potassium (K).",
+            "Iron (Fe).",
+            "Aluminum (Al)."
+        ],
+        "answer": "Iron (Fe).",
+        "explanation": "$\\textbf{Transition}$ $\\textbf{metals}$ are found in the $\\textbf{d-block}$ (Groups $3$ to $12$). $\\textbf{Iron}$ ($\text{Fe}$) is in Group $8$ and is a transition metal. $\\text{Ca}$ and $\\text{K}$ are $\text{s-block}$ metals, and $\\text{Al}$ is a $\text{p-block}$ metal."
+    },
+    {
+        "id": "JAMB_C_178",
+        "text": "The $\\textbf{hydrolysis}$ of a protein yields:",
+        "image": "",
+        "options": [
+            "fats.",
+            "glucose.",
+            "amino acids.",
+            "starch."
+        ],
+        "answer": "amino acids.",
+        "explanation": "$\\textbf{Proteins}$ are $\\textbf{polymers}$ of $\\textbf{amino}$ $\\textbf{acids}$. $\\textbf{Hydrolysis}$ (breaking down with water) of a protein breaks the $\\textbf{peptide}$ $\\textbf{bonds}$ to produce the constituent $\\textbf{amino}$ $\\textbf{acid}$ $\\textbf{monomers}$."
+    },
+    {
+        "id": "JAMB_C_179",
+        "text": "The $\\textbf{oxidation}$ $\\textbf{state}$ of $\\text{Manganese}$ ($\text{Mn}$) in $\\text{KMnO}_4$ is:",
+        "image": "",
+        "options": [
+            "$+3$.",
+            "$+5$.",
+            "$+7$.",
+            "$+8$."
+        ],
+        "answer": "$+7$.",
+        "explanation": "In $\\text{KMnO}_4$: $\\text{K}$ is $+1$, $\\text{O}$ is $-2$. Let $\\text{Mn} = x$. Sum of oxidation states $= 0$. $1 + x + 4(-2) = 0$. $1 + x - 8 = 0$. $x = +7$."
+    },
+    {
+        "id": "JAMB_C_180",
+        "text": "Which of the following is an example of a $\\textbf{chemical}$ $\\textbf{change}$?",
+        "image": "",
+        "options": [
+            "Melting of ice.",
+            "Dissolving salt in water.",
+            "Rusting of iron.",
+            "Sublimation of iodine."
+        ],
+        "answer": "Rusting of iron.",
+        "explanation": "A $\\textbf{chemical}$ $\\textbf{change}$ results in the formation of a $\\textbf{new}$ $\\textbf{substance}$. $\\textbf{Rusting}$ is the $\\textbf{oxidation}$ of iron to form hydrated iron($\text{III}$) oxide (rust), a new compound."
+    },
+    {
+        "id": "JAMB_C_181",
+        "text": "The $\\textbf{most}$ $\\textbf{common}$ method for $\\textbf{preparing}$ $\\textbf{ammonia}$ $\\text{gas}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{laboratory}$ is:",
+        "image": "",
+        "options": [
+            "Heating ammonium trioxonitrate($\text{V}$).",
+            "Heating a mixture of an ammonium salt and a strong base.",
+            "Direct synthesis from Nitrogen and Hydrogen (Haber Process).",
+            "Reacting metallic sodium with water."
+        ],
+        "answer": "Heating a mixture of an ammonium salt and a strong base.",
+        "explanation": "Ammonia is prepared by $\\textbf{heating}$ an $\\textbf{ammonium}$ $\\textbf{salt}$ (e.g., $\\text{NH}_4\\text{Cl}$) with a $\\textbf{strong}$ $\\textbf{base}$ (e.g., slaked lime, $\\text{Ca}(\\text{OH})_2$): $2\\text{NH}_4\\text{Cl} + \\text{Ca}(\\text{OH})_2 \\xrightarrow{\\text{Heat}} 2\\text{NH}_3 + \\text{CaCl}_2 + 2\\text{H}_2\\text{O}$."
+    },
+    {
+        "id": "JAMB_C_182",
+        "text": "The $\\textbf{densities}$ of two gases, $\text{X}$ and $\text{Y}$, are $0.5\\text{ g/dm}^3$ and $2.0\\text{ g/dm}^3$, respectively. The $\\textbf{ratio}$ of their $\\textbf{rates}$ $\\textbf{of}$ $\\textbf{diffusion}$ is:",
+        "image": "",
+        "options": [
+            "$1:4$.",
+            "$4:1$.",
+            "$1:2$.",
+            "$2:1$."
+        ],
+        "answer": "$2:1$.",
+        "explanation": "Graham's Law of Diffusion: $\\frac{R_X}{R_Y} = \\sqrt{\\frac{D_Y}{D_X}}$. $\\frac{R_X}{R_Y} = \\sqrt{\\frac{2.0}{0.5}} = \\sqrt{4} = 2$. The ratio is $2:1$."
+    },
+    {
+        "id": "JAMB_C_183",
+        "text": "Which of the following $\\textbf{oxides}$ is $\\textbf{amphoteric}$?",
+        "image": "",
+        "options": [
+            "Copper(II) oxide ($\\text{CuO}$).",
+            "Magnesium oxide ($\\text{MgO}$).",
+            "Aluminium oxide ($\\text{Al}_2\\text{O}_3$).",
+            "Sodium oxide ($\\text{Na}_2\\text{O}$)."
+        ],
+        "answer": "Aluminium oxide ($\\text{Al}_2\\text{O}_3$).",
+        "explanation": "An $\\textbf{amphoteric}$ $\\textbf{oxide}$ is one that reacts with $\\textbf{both}$ $\\textbf{acids}$ and $\\textbf{bases}$. $\\textbf{Aluminium}$ $\\textbf{oxide}$ ($\text{Al}_2\\text{O}_3$), $\\textbf{Zinc}$ $\\textbf{oxide}$ ($\text{ZnO}$), and $\\textbf{Lead}$ $\\textbf{oxide}$ ($\text{PbO}$) are common examples."
+    },
+    {
+        "id": "JAMB_C_184",
+        "text": "The $\\textbf{chemical}$ $\\textbf{bond}$ that exists between water molecules in ice is:",
+        "image": "",
+        "options": [
+            "Covalent bond.",
+            "Ionic bond.",
+            "Metallic bond.",
+            "Hydrogen bond."
+        ],
+        "answer": "Hydrogen bond.",
+        "explanation": "$\\textbf{Water}$ $\\textbf{molecules}$ are held together by $\\textbf{hydrogen}$ $\\textbf{bonds}$ (an intermolecular force) which are formed between the $\\text{hydrogen}$ atom of one molecule and the $\\text{highly}$ $\\text{electronegative}$ $\\text{oxygen}$ atom of another molecule. [Image of water molecules linked by hydrogen bonds]"
+    },
+    {
+        "id": "JAMB_C_185",
+        "text": "Which of the following is $\\textbf{used}$ to $\\textbf{remove}$ $\\textbf{temporary}$ $\\textbf{hardness}$ $\\textbf{of}$ $\\textbf{water}$?",
+        "image": "",
+        "options": [
+            "Boiling.",
+            "Addition of sodium chloride.",
+            "Addition of sodium sulphate.",
+            "Distillation."
+        ],
+        "answer": "Boiling.",
+        "explanation": "Temporary hardness is caused by $\\text{calcium}$ or $\\text{magnesium}$ $\\textbf{hydrogencarbonates}$ ($\text{Ca}(\\text{HCO}_3)_2$). $\\textbf{Boiling}$ causes the hydrogencarbonates to $\\textbf{decompose}$ into insoluble $\\textbf{carbonates}$ which precipitate out: $\\text{Ca}(\\text{HCO}_3)_2(aq) \\xrightarrow{\\text{Heat}} \\text{CaCO}_3(s) + \\text{H}_2\\text{O}(l) + \\text{CO}_2(g)$."
+    },
+    {
+        "id": "JAMB_C_186",
+        "text": "The major industrial source of $\\textbf{sulphur}$ $\\textbf{dioxide}$ is the:",
+        "image": "",
+        "options": [
+            "Electrolysis of brine.",
+            "Combustion of fossil fuels.",
+            "Haber process.",
+            "Frasch process."
+        ],
+        "answer": "Combustion of fossil fuels.",
+        "explanation": "$\\textbf{Sulphur}$ $\\textbf{dioxide}$ ($\text{SO}_2$) is released in large quantities into the atmosphere from the $\\textbf{burning}$ of $\\textbf{fossil}$ $\\textbf{fuels}$ ($\text{coal}$ and $\\text{oil}$), which contain $\\textbf{sulphur}$ $\\textbf{impurities}$."
+    },
+    {
+        "id": "JAMB_C_187",
+        "text": "The $\\textbf{separation}$ of crude oil into different fractions is achieved by:",
+        "image": "",
+        "options": [
+            "Simple distillation.",
+            "Fractional distillation.",
+            "Sublimation.",
+            "Evaporation."
+        ],
+        "answer": "Fractional distillation.",
+        "explanation": "Crude oil is a complex mixture of hydrocarbons with $\\textbf{varying}$ $\\textbf{boiling}$ $\\textbf{points}$. $\\textbf{Fractional}$ $\\textbf{distillation}$ is used to separate these components ($\textbf{fractions}$) based on their differences in boiling points. [Image of crude oil fractional distillation tower]"
+    },
+    {
+        "id": "JAMB_C_188",
+        "text": "If the concentration of the $\\textbf{hydroxide}$ $\\textbf{ion}$ in a solution is $1.0 \\times 10^{-4}\\text{ M}$, the $\\textbf{pOH}$ of the solution is:",
+        "image": "",
+        "options": [
+            "$4$.",
+            "$10$.",
+            "$7$.",
+            "$14$."
+        ],
+        "answer": "$4$.",
+        "explanation": "The $\\textbf{pOH}$ is defined as $\\text{pOH} = -\\log_{10}[\\text{OH}^-]$. $\\text{pOH} = -\\log_{10}(1.0 \\times 10^{-4}) = 4$."
+    },
+    {
+        "id": "JAMB_C_189",
+        "text": "The $\\textbf{general}$ $\\textbf{formula}$ of the $\\textbf{alkynes}$ is:",
+        "image": "",
+        "options": [
+            "$\\text{C}_n\\text{H}_{2n}$.",
+            "$\\text{C}_n\\text{H}_{2n+2}$.",
+            "$\\text{C}_n\\text{H}_{2n-2}$.",
+            "$\\text{C}_n\\text{H}_{2n-6}$."
+        ],
+        "answer": "$\\text{C}_n\\text{H}_{2n-2}$.",
+        "explanation": "$\\textbf{Alkynes}$ are unsaturated hydrocarbons containing a $\\textbf{triple}$ $\\textbf{bond}$ ($\text{-C}\\equiv\\text{C}-$). Their general formula is $\\text{C}_n\\text{H}_{2n-2}$. ($\\text{C}_n\\text{H}_{2n+2}$ is $\\text{alkanes}$, $\\text{C}_n\\text{H}_{2n}$ is $\\text{alkenes}$)."
+    },
+    {
+        "id": "JAMB_C_190",
+        "text": "Which of the following is $\\textbf{NOT}$ a $\\textbf{physical}$ $\\textbf{change}$?",
+        "image": "",
+        "options": [
+            "Dissolution of sugar in water.",
+            "Melting of wax.",
+            "Burning of candle wax.",
+            "Magnetization of iron."
+        ],
+        "answer": "Burning of candle wax.",
+        "explanation": "$\\textbf{Burning}$ (combustion) is a $\\textbf{chemical}$ $\\textbf{change}$ because the wax reacts with oxygen to form new substances, carbon dioxide and water (and soot), with a large release of heat and light. The other processes are physical."
+    },
+    {
+        "id": "JAMB_C_191",
+        "text": "In the $\\textbf{electrolysis}$ of $\\textbf{molten}$ $\\textbf{sodium}$ $\\textbf{chloride}$ ($\text{NaCl}$), the product at the $\\textbf{cathode}$ is:",
+        "image": "",
+        "options": [
+            "Chlorine gas.",
+            "Sodium metal.",
+            "Hydrogen gas.",
+            "Sodium hydroxide."
+        ],
+        "answer": "Sodium metal.",
+        "explanation": "The $\\textbf{cathode}$ is the $\\textbf{negative}$ electrode where $\\textbf{reduction}$ occurs. In $\\textbf{molten}$ $\\text{NaCl}$, only $\\text{Na}^+$ and $\\text{Cl}^-$ ions are present. $\\text{Na}^+$ ions are reduced: $\\text{Na}^+(l) + e^- \\rightarrow \\text{Na}(l)$. $\\textbf{Sodium}$ $\\textbf{metal}$ is produced."
+    },
+    {
+        "id": "JAMB_C_192",
+        "text": "The $\\textbf{gas}$ $\\textbf{most}$ $\\textbf{abundant}$ in the $\\textbf{atmosphere}$ is:",
+        "image": "",
+        "options": [
+            "Oxygen ($\\text{O}_2$).",
+            "Nitrogen ($\\text{N}_2$).",
+            "Argon ($\\text{Ar}$).",
+            "Carbon dioxide ($\\text{CO}_2$)."
+        ],
+        "answer": "Nitrogen ($\\text{N}_2$).",
+        "explanation": "$\\textbf{Nitrogen}$ ($\text{N}_2$) makes up approximately $\\textbf{78\\%}$ of the Earth's atmosphere by volume. Oxygen ($\text{O}_2$) is about $21\\%$. [Image of pie chart showing atmospheric gas composition]"
+    },
+    {
+        "id": "JAMB_C_193",
+        "text": "Which of the following is an example of an $\\textbf{addition}$ $\\textbf{polymerization}$?",
+        "image": "",
+        "options": [
+            "Formation of Nylon from hexanedioic acid and hexan-1,6-diamine.",
+            "Formation of $\\textbf{polyethene}$ from ethene.",
+            "Formation of proteins from amino acids.",
+            "Formation of starch from glucose."
+        ]
+        ,
+        "answer": "Formation of $\\textbf{polyethene}$ from ethene.",
+        "explanation": "In $\\textbf{addition}$ $\\textbf{polymerization}$, small unsaturated monomers (like $\\textbf{ethene}$) simply $\\textbf{add}$ $\\textbf{together}$ without the loss of any small molecules. Condensation polymerization involves the loss of a small molecule (like water)."
+    },
+    {
+        "id": "JAMB_C_194",
+        "text": "If $10\\text{ g}$ of $\\text{CaCO}_3$ is decomposed by $\\textbf{heat}$, the $\\textbf{mass}$ of $\\text{CO}_2$ produced is: ($\\text{Ca}=40, \\text{C}=12, \\text{O}=16$)",
+        "image": "",
+        "options": [
+            "$4.4\\text{ g}$.",
+            "$5.6\\text{ g}$.",
+            "$8.8\\text{ g}$.",
+            "$10.0\\text{ g}$."
+        ],
+        "answer": "$4.4\\text{ g}$.",
+        "explanation": "Equation: $\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$. $\\text{Molar mass}$ of $\\text{CaCO}_3 = 100\\text{ g/mol}$. $\\text{Molar mass}$ of $\\text{CO}_2 = 44\\text{ g/mol}$. From the equation, $100\\text{ g}$ of $\\text{CaCO}_3$ produces $44\\text{ g}$ of $\\text{CO}_2$. $10\\text{ g}$ of $\\text{CaCO}_3$ produces $\\frac{10}{100} \\times 44 = 4.4\\text{ g}$ of $\\text{CO}_2$."
+    },
+    {
+        "id": "JAMB_C_195",
+        "text": "The $\\textbf{oxidation}$ of $\\textbf{primary}$ $\\textbf{alcohols}$ can yield:",
+        "image": "",
+        "options": [
+            "Ketones.",
+            "Ethers.",
+            "Carboxylic acids.",
+            "Alkanes."
+        ],
+        "answer": "Carboxylic acids.",
+        "explanation": "$\\textbf{Primary}$ $\\textbf{alcohols}$ ($\text{RCH}_2\\text{OH}$) are $\\textbf{first}$ $\\textbf{oxidized}$ to $\\textbf{aldehydes}$ ($\text{RCHO}$), which are $\\textbf{further}$ $\\textbf{oxidized}$ to $\\textbf{carboxylic}$ $\\textbf{acids}$ ($\text{RCOOH}$). Secondary alcohols yield ketones, and tertiary alcohols resist oxidation."
+    },
+    {
+        "id": "JAMB_C_196",
+        "text": "Which of the following is $\\textbf{used}$ as a $\\textbf{coagulant}$ in the $\\textbf{purification}$ $\\textbf{of}$ $\\textbf{water}$?",
+        "image": "",
+        "options": [
+            "Sodium chloride.",
+            "Aluminum sulphate (Alum).",
+            "Calcium chloride.",
+            "Sodium bicarbonate."
+        ],
+        "answer": "Aluminum sulphate (Alum).",
+        "explanation": "$\\textbf{Alum}$ (Potassium aluminium sulphate or Aluminium sulphate) is added to water to act as a $\\textbf{coagulant}$. It forms large, sticky $\\textbf{flocs}$ (precipitates) that trap suspended impurities, making them heavy enough to settle out."
+    },
+    {
+        "id": "JAMB_C_197",
+        "text": "The $\\textbf{reaction}$ $\\textbf{rate}$ of a chemical reaction is $\\textbf{NOT}$ affected by:",
+        "image": "",
+        "options": [
+            "Pressure (for gases).",
+            "Surface area of reactants (for solids).",
+            "The $\\textbf{volume}$ of the $\\textbf{container}$ (for solutions).",
+            "Temperature."
+        ],
+        "answer": "The $\\textbf{volume}$ of the $\\textbf{container}$ (for solutions).",
+        "explanation": "For $\\textbf{reactions}$ in $\\textbf{solution}$, the reaction rate is controlled by the $\\textbf{concentration}$ of reactants. Changing the volume of the container for a $\\textbf{solution}$ does $\\textbf{not}$ change the concentration and thus does not affect the rate. (Volume $\\textbf{does}$ affect gas-phase reactions because it changes the $\\textbf{pressure/concentration}$)."
+    },
+    {
+        "id": "JAMB_C_198",
+        "text": "What is the $\\textbf{colour}$ of $\\text{methyl}$ $\\textbf{orange}$ $\\textbf{indicator}$ in a $\\textbf{base}$ $\\textbf{solution}$?",
+        "image": "",
+        "options": [
+            "Red.",
+            "Yellow.",
+            "Orange.",
+            "Colourless."
+        ],
+        "answer": "Yellow.",
+        "explanation": "Methyl orange is $\\textbf{red}$ in $\\textbf{acidic}$ solution ($\text{pH} < 3.1$) and $\\textbf{yellow}$ in $\\textbf{basic}$ (alkaline) solution ($\text{pH} > 4.4$). [Image of Methyl Orange indicator in acid and base solutions]"
+    },
+    {
+        "id": "JAMB_C_199",
+        "text": "Which of the following elements belongs to the $\\textbf{s-block}$ of the $\\textbf{Periodic}$ $\\textbf{Table}$?",
+        "image": "",
+        "options": [
+            "Boron (B).",
+            "Magnesium (Mg).",
+            "Sulphur (S).",
+            "Zinc (Zn)."
+        ],
+        "answer": "Magnesium (Mg).",
+        "explanation": "The $\\textbf{s-block}$ consists of Group $\\text{I}$ ($\text{alkali metals}$) and Group $\\text{II}$ ($\text{alkaline earth metals}$). $\\textbf{Magnesium}$ ($\text{Mg}$) is in Group $\\text{II}$ and its valence electrons fill the $\\text{s-orbital}$ ($3s^2$)."
+    },
+    {
+        "id": "JAMB_C_200",
+        "text": "The $\\textbf{major}$ $\\textbf{raw}$ $\\textbf{material}$ for the manufacture of $\\textbf{sulphuric}$ $\\textbf{acid}$ by the $\\textbf{Contact}$ $\\textbf{Process}$ is:",
+        "image": "",
+        "options": [
+            "Sodium chloride ($\\text{NaCl}$).",
+            "Sulphur.",
+            "Limestone ($\\text{CaCO}_3$).",
+            "Ammonia ($\\text{NH}_3$)."
+        ],
+        "answer": "Sulphur.",
+        "explanation": "The Contact Process begins with the $\\textbf{combustion}$ of $\\textbf{Sulphur}$ (or sulphide ores) to produce $\\textbf{sulphur}$ $\\textbf{dioxide}$ ($\text{SO}_2$), the first major chemical intermediate: $\\text{S} + \\text{O}_2 \\rightarrow \\text{SO}_2$."
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "A devastating magnitude 6.3 earthquake struck the medieval city of $\\textbf{L'Aquila}$ in central $\\textbf{Italy}$ in April 2009, located in the $\\textbf{Apennine Mountains}$.",
+        "image": "",
+        "options": [
+            "Alps",
+            "Apennine Mountains",
+            "Pyrenees",
+            "Carpathians"
+        ],
+        "answer": "Apennine Mountains",
+        "explanation": "The earthquake caused severe damage to the city's historic center and resulted in over 300 deaths."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{COP15}$ United Nations Climate Change Conference was held in $\\textbf{Copenhagen}$, the capital of $\\textbf{Denmark}$, but failed to produce a binding treaty.",
+        "image": "",
+        "options": [
+            "Sweden",
+            "Norway",
+            "Denmark",
+            "Netherlands"
+        ],
+        "answer": "Denmark",
+        "explanation": "The summit resulted in the non-binding 'Copenhagen Accord', acknowledging the need to limit temperature rise to 2°C."
+    },
+    {
+        "id": "GEO03",
+        "text": "Typhoon $\\textbf{Morakot}$ was the deadliest typhoon to hit $\\textbf{Taiwan}$ in recorded history, causing massive landslides in the mountainous south.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Taiwan",
+            "Philippines",
+            "Vietnam"
+        ],
+        "answer": "Taiwan",
+        "explanation": "The storm dropped a record-breaking amount of rain, burying the village of Xiaolin."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Sri Lankan Civil War}$ officially ended in 2009 after 26 years, with the defeat of the Tamil Tigers in the northern $\\textbf{Mullaitivu}$ district.",
+        "image": "",
+        "options": [
+            "India",
+            "Pakistan",
+            "Sri Lanka",
+            "Bangladesh"
+        ],
+        "answer": "Sri Lanka",
+        "explanation": "The conflict reshaped the demographics and political geography of the island nation."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Black Saturday}$ bushfires in 2009 were among Australia's all-time worst bushfire disasters, primarily affecting the state of $\\textbf{Victoria}$.",
+        "image": "",
+        "options": [
+            "New South Wales",
+            "Queensland",
+            "Victoria",
+            "Western Australia"
+        ],
+        "answer": "Victoria",
+        "explanation": "Extreme heat and high winds led to fires that destroyed over 2,000 homes."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{H1N1}$ influenza pandemic (Swine Flu) originated in $\\textbf{Mexico}$ in 2009 before spreading globally.",
+        "image": "",
+        "options": [
+            "China",
+            "United States",
+            "Mexico",
+            "Brazil"
+        ],
+        "answer": "Mexico",
+        "explanation": "The virus was a unique combination of influenza virus genes never previously identified."
+    },
+    {
+        "id": "GEO07",
+        "text": "Air France Flight 447 crashed into the $\\textbf{Atlantic Ocean}$ in 2009 while traversing the $\\textbf{Intertropical Convergence Zone}$ (ITCZ).",
+        "image": "",
+        "options": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Southern Ocean"
+        ],
+        "answer": "Atlantic Ocean",
+        "explanation": "The crash highlighted the dangers of severe thunderstorms in the equatorial region."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Maersk Alabama}$ hijacking occurred off the coast of $\\textbf{Somalia}$ in the $\\textbf{Indian Ocean}$, highlighting the threat of piracy in the Horn of Africa.",
+        "image": "",
+        "options": [
+            "Yemen",
+            "Kenya",
+            "Somalia",
+            "Eritrea"
+        ],
+        "answer": "Somalia",
+        "explanation": "It was the first successful pirate seizure of a ship under the U.S. flag since the early 19th century."
+    },
+    {
+        "id": "GEO09",
+        "text": "Mount $\\textbf{Redoubt}$ in $\\textbf{Alaska}$ erupted in 2009, sending ash clouds drifting toward the city of $\\textbf{Anchorage}$.",
+        "image": "",
+        "options": [
+            "Washington",
+            "Hawaii",
+            "Alaska",
+            "Oregon"
+        ],
+        "answer": "Alaska",
+        "explanation": "The volcano is part of the Aleutian Range and sits within the Pacific Ring of Fire."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{Lisbon Treaty}$ entered into force in 2009, significantly reforming the structure of the $\\textbf{European Union}$.",
+        "image": "",
+        "options": [
+            "NATO",
+            "United Nations",
+            "European Union",
+            "African Union"
+        ],
+        "answer": "European Union",
+        "explanation": "It created the positions of President of the European Council and High Representative for Foreign Affairs."
+    },
+    {
+        "id": "GEO11",
+        "text": "In 2009, $\\textbf{Rio de Janeiro}$ was selected to host the 2016 Summer Olympics, becoming the first $\\textbf{South American}$ city to do so.",
+        "image": "",
+        "options": [
+            "Buenos Aires",
+            "Sao Paulo",
+            "Rio de Janeiro",
+            "Santiago"
+        ],
+        "answer": "Rio de Janeiro",
+        "explanation": "The decision was seen as a recognition of Brazil's rising economic status."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Padang}$ earthquake struck the island of $\\textbf{Sumatra}$, Indonesia, in 2009, located along the volatile $\\textbf{Sunda Megathrust}$.",
+        "image": "",
+        "options": [
+            "Java",
+            "Sumatra",
+            "Borneo",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "Sumatra is frequently hit by earthquakes due to the subduction of the Indo-Australian Plate."
+    },
+    {
+        "id": "GEO13",
+        "text": "Typhoon $\\textbf{Ketsana}$ (Ondoy) caused massive flooding in Metro $\\textbf{Manila}$, Philippines, in 2009, submerging 80% of the city.",
+        "image": "",
+        "options": [
+            "Jakarta",
+            "Bangkok",
+            "Manila",
+            "Ho Chi Minh City"
+        ],
+        "answer": "Manila",
+        "explanation": "The disaster highlighted the challenges of urban planning and drainage in rapidly growing Asian megacities."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Miracle on the Hudson}$ occurred when a plane landed safely on the $\\textbf{Hudson River}$, which separates New York City from $\\textbf{New Jersey}$.",
+        "image": "",
+        "options": [
+            "Connecticut",
+            "Pennsylvania",
+            "New Jersey",
+            "Vermont"
+        ],
+        "answer": "New Jersey",
+        "explanation": "The river serves as a natural border and a major waterway for the region."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Belize Barrier Reef}$, the second largest in the world, was placed on the UNESCO List of World Heritage in Danger in 2009 due to $\\textbf{Mangrove}$ destruction.",
+        "image": "",
+        "options": [
+            "Coral",
+            "Mangrove",
+            "Seagrass",
+            "Algae"
+        ],
+        "answer": "Mangrove",
+        "explanation": "Mangroves are crucial for protecting the coastline and maintaining the health of the reef ecosystem."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Wadden Sea}$, an intertidal zone in the southeastern part of the $\\textbf{North Sea}$, was inscribed as a UNESCO World Heritage Site in 2009.",
+        "image": "",
+        "options": [
+            "Baltic Sea",
+            "North Sea",
+            "Irish Sea",
+            "Norwegian Sea"
+        ],
+        "answer": "North Sea",
+        "explanation": "It is the largest unbroken system of intertidal sand and mud flats in the world, shared by the Netherlands, Germany, and Denmark."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Kepler Space Telescope}$ was launched in 2009 to survey the Milky Way for Earth-size $\\textbf{Exoplanets}$.",
+        "image": "",
+        "options": [
+            "Asteroids",
+            "Comets",
+            "Exoplanets",
+            "Black Holes"
+        ],
+        "answer": "Exoplanets",
+        "explanation": "Kepler focused on the Cygnus and Lyra constellations, revolutionizing our understanding of planetary geography outside our solar system."
+    },
+    {
+        "id": "GEO18",
+        "text": "A political coup occurred in $\\textbf{Honduras}$ in 2009, leading to the exile of President Manuel Zelaya to $\\textbf{Costa Rica}$.",
+        "image": "",
+        "options": [
+            "Nicaragua",
+            "Guatemala",
+            "Costa Rica",
+            "El Salvador"
+        ],
+        "answer": "Costa Rica",
+        "explanation": "The event triggered a constitutional crisis in Central America."
+    },
+    {
+        "id": "GEO19",
+        "text": "Cyclone $\\textbf{Aila}$ struck the $\\textbf{Sundarbans}$ region of Bangladesh and India in 2009, damaging the world's largest $\\textbf{Mangrove Forest}$.",
+        "image": "",
+        "options": [
+            "Rainforest",
+            "Deciduous Forest",
+            "Mangrove Forest",
+            "Coniferous Forest"
+        ],
+        "answer": "Mangrove Forest",
+        "explanation": "The storm surge inundated the low-lying delta, salinating soil and fresh water sources."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{LCROSS}$ mission confirmed the presence of water ice in a permanently shadowed crater near the $\\textbf{South Pole}$ of the $\\textbf{Moon}$.",
+        "image": "",
+        "options": [
+            "North Pole",
+            "South Pole",
+            "Equator",
+            "Far Side"
+        ],
+        "answer": "South Pole",
+        "explanation": "This discovery has major implications for future lunar exploration and potential colonization."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{G20 Summit}$ in 2009 was held in $\\textbf{Pittsburgh}$, highlighting the city's transformation from a 'Steel City' to a hub for technology and healthcare in the $\\textbf{Rust Belt}$.",
+        "image": "",
+        "options": [
+            "Sun Belt",
+            "Bible Belt",
+            "Rust Belt",
+            "Corn Belt"
+        ],
+        "answer": "Rust Belt",
+        "explanation": "The summit declared the G20 as the premier forum for international economic cooperation."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Dolomites}$, a mountain range in northern $\\textbf{Italy}$ known for their unique limestone formations, were declared a UNESCO World Heritage Site in 2009.",
+        "image": "",
+        "options": [
+            "France",
+            "Switzerland",
+            "Austria",
+            "Italy"
+        ],
+        "answer": "Italy",
+        "explanation": "They are part of the Southern Limestone Alps."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Mekong River}$ Commission held high-level talks in 2009 regarding the impact of upstream dams in $\\textbf{China}$ on downstream flows.",
+        "image": "",
+        "options": [
+            "India",
+            "China",
+            "Nepal",
+            "Myanmar"
+        ],
+        "answer": "China",
+        "explanation": "The Mekong originates in the Tibetan Plateau and is a vital lifeline for Southeast Asia."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Red River}$ flooded severely in 2009, threatening the cities of Fargo, North Dakota, and $\\textbf{Winnipeg}$, Manitoba.",
+        "image": "",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Winnipeg",
+            "Montreal"
+        ],
+        "answer": "Winnipeg",
+        "explanation": "The river flows north into Canada, making it prone to ice jam flooding in the spring."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Greenland Self-Government Act}$ passed in 2009, granting the island greater autonomy from $\\textbf{Denmark}$ and control over its natural resources.",
+        "image": "",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Denmark",
+            "Iceland"
+        ],
+        "answer": "Denmark",
+        "explanation": "Greenlandic (Kalaallisut) became the sole official language."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Large Hadron Collider}$ (LHC) at CERN, located on the border of $\\textbf{France}$ and $\\textbf{Switzerland}$, achieved its first high-energy collisions in 2009.",
+        "image": "",
+        "options": [
+            "Germany",
+            "Italy",
+            "Switzerland",
+            "Belgium"
+        ],
+        "answer": "Switzerland",
+        "explanation": "It is the world's largest and most powerful particle collider, built underground."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Boko Haram}$ insurgency escalated in 2009 with an uprising in $\\textbf{Maiduguri}$, the capital of Borno State in $\\textbf{Nigeria}$.",
+        "image": "",
+        "options": [
+            "Niger",
+            "Chad",
+            "Nigeria",
+            "Cameroon"
+        ],
+        "answer": "Nigeria",
+        "explanation": "The conflict has since spread to neighboring countries in the Lake Chad basin."
+    },
+    {
+        "id": "GEO28",
+        "text": "Ethnic riots broke out in $\\textbf{Urumqi}$, the capital of the $\\textbf{Xinjiang}$ Uyghur Autonomous Region in western $\\textbf{China}$, in 2009.",
+        "image": "",
+        "options": [
+            "Tibet",
+            "Inner Mongolia",
+            "Xinjiang",
+            "Yunnan"
+        ],
+        "answer": "Xinjiang",
+        "explanation": "The region is home to the Uyghur Muslim minority."
+    },
+    {
+        "id": "GEO29",
+        "text": "An underwater volcano erupted near $\\textbf{Hunga Tonga}$ in 2009, creating a temporary island in the archipelago of $\\textbf{Tonga}$.",
+        "image": "",
+        "options": [
+            "Fiji",
+            "Samoa",
+            "Tonga",
+            "Vanuatu"
+        ],
+        "answer": "Tonga",
+        "explanation": "This was a precursor to the massive 2022 eruption in the same location."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Wilkins Ice Shelf}$ in $\\textbf{Antarctica}$ continued to disintegrate in 2009 due to warming temperatures on the $\\textbf{Antarctic Peninsula}$.",
+        "image": "",
+        "options": [
+            "Ross Ice Shelf",
+            "Ronne Ice Shelf",
+            "Wilkins Ice Shelf",
+            "Amery Ice Shelf"
+        ],
+        "answer": "Wilkins Ice Shelf",
+        "explanation": "An ice bridge connecting the shelf to Charcot Island collapsed, highlighting rapid climate change in the region."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Dubai Metro}$ opened in 2009, becoming the first urban train network in the $\\textbf{Arabian Peninsula}$.",
+        "image": "",
+        "options": [
+            "Saudi Arabia",
+            "Qatar",
+            "UAE",
+            "Kuwait"
+        ],
+        "answer": "UAE",
+        "explanation": "It operates driverless trains and connects major landmarks in the city."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Swat Valley}$ in $\\textbf{Pakistan}$ was the site of a major military offensive in 2009 to retake the region from Taliban militants.",
+        "image": "",
+        "options": [
+            "Afghanistan",
+            "Pakistan",
+            "India",
+            "Iran"
+        ],
+        "answer": "Pakistan",
+        "explanation": "The conflict caused a massive internal displacement crisis."
+    },
+    {
+        "id": "GEO33",
+        "text": "President Obama signed an executive order in 2009 intended to close the detention facility at $\\textbf{Guantanamo Bay}$, a US naval base in $\\textbf{Cuba}$.",
+        "image": "",
+        "options": [
+            "Puerto Rico",
+            "Cuba",
+            "Haiti",
+            "Dominican Republic"
+        ],
+        "answer": "Cuba",
+        "explanation": "The base is located on the southeastern end of Cuba and has been leased by the US since 1903."
+    },
+    {
+        "id": "GEO34",
+        "text": "A tsunami struck the islands of $\\textbf{Samoa}$, American Samoa, and $\\textbf{Tonga}$ in 2009, triggered by a powerful submarine earthquake.",
+        "image": "",
+        "options": [
+            "Fiji",
+            "Samoa",
+            "Hawaii",
+            "Tahiti"
+        ],
+        "answer": "Samoa",
+        "explanation": "The disaster devastated coastal villages and highlighted the vulnerability of Pacific islands."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Yamal Peninsula}$ in $\\textbf{Russia}$ faced an anthrax outbreak risk in 2009 due to melting permafrost exposing old reindeer burial grounds.",
+        "image": "",
+        "options": [
+            "Siberia",
+            "Kamchatka",
+            "Yamal",
+            "Kola"
+        ],
+        "answer": "Yamal",
+        "explanation": "The region contains vast natural gas reserves and is home to the indigenous Nenets people."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Three Gorges Dam}$ project in $\\textbf{China}$ passed a key milestone in 2009 as the project entered its final construction phase.",
+        "image": "",
+        "options": [
+            "Yellow River",
+            "Yangtze River",
+            "Pearl River",
+            "Mekong River"
+        ],
+        "answer": "Yangtze River",
+        "explanation": "The dam created a massive reservoir that displaced over a million people."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Lighthouse of Alexandria}$ remains were further explored in 2009 in the harbor of $\\textbf{Alexandria}$, Egypt.",
+        "image": "",
+        "options": [
+            "Cairo",
+            "Luxor",
+            "Alexandria",
+            "Giza"
+        ],
+        "answer": "Alexandria",
+        "explanation": "It was one of the Seven Wonders of the Ancient World."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Strait of Malacca}$ patrols were enhanced in 2009 by Singapore, Malaysia, and $\\textbf{Indonesia}$ to combat piracy.",
+        "image": "",
+        "options": [
+            "Thailand",
+            "Vietnam",
+            "Indonesia",
+            "Philippines"
+        ],
+        "answer": "Indonesia",
+        "explanation": "The strait is a critical chokepoint for global oil and trade flows."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Swiss Minaret Ban}$ was voted into law in a 2009 referendum, altering the architectural landscape of $\\textbf{Switzerland}$.",
+        "image": "",
+        "options": [
+            "Austria",
+            "Germany",
+            "Switzerland",
+            "France"
+        ],
+        "answer": "Switzerland",
+        "explanation": "The ban prohibited the construction of new minarets on mosques."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Galápagos Islands}$ were removed from the UNESCO World Heritage in Danger list in 2009, despite ongoing concerns about $\\textbf{Tourism}$.",
+        "image": "",
+        "options": [
+            "Fishing",
+            "Tourism",
+            "Mining",
+            "Logging"
+        ],
+        "answer": "Tourism",
+        "explanation": "The islands are a province of Ecuador famous for their unique biodiversity."
+    }
+]

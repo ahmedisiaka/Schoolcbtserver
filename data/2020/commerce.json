@@ -1,0 +1,522 @@
+[
+    {
+        "id": "C121",
+        "text": "The $\\textbf{P/E Ratio}$ (Price-to-Earnings Ratio) is calculated by dividing the market price per share by the:",
+        "image": "",
+        "options": [
+            "Earnings Per Share (EPS)",
+            "Dividend Per Share (DPS)",
+            "Book Value Per Share (BVPS)",
+            "Sales Per Share"
+        ],
+        "answer": "Earnings Per Share (EPS)",
+        "explanation": "The P/E ratio is a popular valuation measure that shows how much investors are willing to pay for every dollar of a company's earnings."
+    },
+    {
+        "id": "C122",
+        "text": "What is the primary motive behind the creation of a $\\textbf{Cartel}$?",
+        "image": "",
+        "options": [
+            "To promote fierce price competition",
+            "To maximize output and minimize costs",
+            "To fix prices and restrict output among competing firms",
+            "To increase market transparency"
+        ],
+        "answer": "To fix prices and restrict output among competing firms",
+        "explanation": "A cartel is a formal agreement among competing firms in an oligopoly to cooperate, often illegally, to control prices and production levels."
+    },
+    {
+        "id": "C123",
+        "text": "The concept of $\\textbf{Kaizen}$ in quality management refers to:",
+        "image": "",
+        "options": [
+            "Radical, large-scale process redesign",
+            "Continuous, incremental improvement",
+            "Eliminating all buffer inventory",
+            "Outsourcing production to low-cost countries"
+        ],
+        "answer": "Continuous, incremental improvement",
+        "explanation": "Kaizen is a Japanese term meaning 'change for better,' and focuses on small, ongoing positive changes in work practices."
+    },
+    {
+        "id": "C124",
+        "text": "An entry in the journal that affects $\\textbf{more than two accounts}$ is known as a:",
+        "image": "",
+        "options": [
+            "Simple Entry",
+            "Compound Entry",
+            "Opening Entry",
+            "Transfer Entry"
+        ],
+        "answer": "Compound Entry",
+        "explanation": "A compound entry involves one debit and multiple credits, or multiple debits and one credit, or multiple debits and multiple credits, all of which must sum up equally."
+    },
+    {
+        "id": "C125",
+        "text": "Which type of financial market deals with instruments that have a maturity period of $\\textbf{less than one year}$?",
+        "image": "",
+        "options": [
+            "Capital Market",
+            "Commodity Market",
+            "Money Market",
+            "Stock Exchange"
+        ],
+        "answer": "Money Market",
+        "explanation": "The money market is where financial instruments with high liquidity and short maturities (less than a year) are traded."
+    },
+    {
+        "id": "C126",
+        "text": "The concept of $\\textbf{Price Elasticity of Supply}$ measures the responsiveness of quantity supplied to a change in:",
+        "image": "",
+        "options": [
+            "The price of factors of production",
+            "Technology levels",
+            "The price of the product",
+            "Consumer income"
+        ],
+        "answer": "The price of the product",
+        "explanation": "Price elasticity of supply measures how much the quantity supplied changes when the price of the good changes."
+    },
+    {
+        "id": "C127",
+        "text": "In Human Resource Management, $\\textbf{Performance Appraisal}$ is the process of:",
+        "image": "",
+        "options": [
+            "Determining employee salaries",
+            "Assessing an employee's job performance and effectiveness",
+            "Recruiting new staff members",
+            "Providing mandatory job training"
+        ],
+        "answer": "Assessing an employee's job performance and effectiveness",
+        "explanation": "Performance appraisal is a periodic assessment that evaluates an employee's work quality, efficiency, and overall contribution to the organization."
+    },
+    {
+        "id": "C128",
+        "text": "The $\\textbf{Marketing Myopia}$ concept, popularized by Theodore Levitt, warns businesses against defining themselves too narrowly based on:",
+        "image": "",
+        "options": [
+            "Customer needs and wants",
+            "The specific product they sell",
+            "Their geographical location",
+            "The quality of their management"
+        ],
+        "answer": "The specific product they sell",
+        "explanation": "Marketing Myopia is the failure to define the business in terms of customer needs (market-oriented) rather than in terms of the goods or services offered (product-oriented)."
+    },
+    {
+        "id": "C129",
+        "text": "A $\\textbf{Certificate of Deposit (CD)}$ is a bank deposit that:",
+        "image": "",
+        "options": [
+            "Can be withdrawn anytime without penalty",
+            "Has a fixed maturity date and a fixed interest rate",
+            "Is used exclusively for international trade financing",
+            "Is only available to government agencies"
+        ],
+        "answer": "Has a fixed maturity date and a fixed interest rate",
+        "explanation": "CDs are time deposits; the money cannot be withdrawn until the specified maturity date without incurring a penalty."
+    },
+    {
+        "id": "C130",
+        "text": "The accounting concept that requires the business to be treated as separate and distinct from its owner(s) is the:",
+        "image": "",
+        "options": [
+            "Cost Concept",
+            "Business Entity Concept",
+            "Conservatism Concept",
+            "Materiality Concept"
+        ],
+        "answer": "Business Entity Concept",
+        "explanation": "This ensures that personal transactions of the owner are kept separate from the business transactions in the accounting records."
+    },
+    {
+        "id": "C131",
+        "text": "What is the primary difference between a $\\textbf{Cooperative Society}$ and a $\\textbf{Company}$?",
+        "image": "",
+        "options": [
+            "Cooperatives are always larger than companies",
+            "Cooperatives aim for mutual benefit rather than purely maximizing profit for shareholders",
+            "Companies have unlimited liability",
+            "Cooperatives cannot issue shares"
+        ],
+        "answer": "Cooperatives aim for mutual benefit rather than purely maximizing profit for shareholders",
+        "explanation": "Cooperative societies operate on the principle of voluntary association and mutual benefit for their members, whereas companies prioritize shareholder returns."
+    },
+    {
+        "id": "C132",
+        "text": "The financial leverage ratio that measures the proportion of debt used to finance the assets of a company is the:",
+        "image": "",
+        "options": [
+            "Current Ratio",
+            "Inventory Turnover Ratio",
+            "Debt-to-Equity Ratio",
+            "Gross Profit Margin"
+        ],
+        "answer": "Debt-to-Equity Ratio",
+        "explanation": "This ratio indicates the relative proportion of shareholders' equity and debt used to finance a company's assets, showing the degree of financial risk."
+    },
+    {
+        "id": "C133",
+        "text": "In international trade, a $\\textbf{Quota}$ is a government restriction on the $\\textbf{quantity}$ of a good that can be:",
+        "image": "",
+        "options": [
+            "Produced domestically",
+            "Exported or imported during a specific time period",
+            "Sold through e-commerce",
+            "Purchased by domestic consumers"
+        ],
+        "answer": "Exported or imported during a specific time period",
+        "explanation": "A quota is a trade barrier that limits the volume of goods crossing borders, unlike a tariff, which is a tax."
+    },
+    {
+        "id": "C134",
+        "text": "The management principle of $\\textbf{Esprit de Corps}$ emphasizes:",
+        "image": "",
+        "options": [
+            "Strict adherence to rules",
+            "Centralization of authority",
+            "Team spirit, unity, and harmony among employees",
+            "Maximizing individual employee performance"
+        ],
+        "answer": "Team spirit, unity, and harmony among employees",
+        "explanation": "This is one of Fayol's 14 principles, advocating for managers to foster a sense of belonging and collaboration within the organization."
+    },
+    {
+        "id": "C135",
+        "text": "Which type of insurance policy provides coverage for a specific period, and if the insured survives that period, $\\textbf{no amount is paid}$?",
+        "image": "",
+        "options": [
+            "Whole Life Policy",
+            "Endowment Policy",
+            "Term Insurance Policy",
+            "Money Back Policy"
+        ],
+        "answer": "Term Insurance Policy",
+        "explanation": "Term insurance provides coverage for a defined term (period); it is the simplest form of life insurance and is usually the cheapest."
+    },
+    {
+        "id": "C136",
+        "text": "A $\\textbf{Bad Debt}$ in accounting is a receivable that is deemed $\\textbf{uncollectible}$ and is treated as a(n):",
+        "image": "",
+        "options": [
+            "Asset",
+            "Liability",
+            "Revenue",
+            "Expense (Loss)"
+        ],
+        "answer": "Expense (Loss)",
+        "explanation": "Bad debts are recognized as an operating expense on the income statement, reducing profitability."
+    },
+    {
+        "id": "C137",
+        "text": "What is $\\textbf{Monopsony}$?",
+        "image": "",
+        "options": [
+            "A market with a single seller",
+            "A market with a single buyer",
+            "A market with many buyers and many sellers",
+            "A market controlled by the government"
+        ],
+        "answer": "A market with a single buyer",
+        "explanation": "Monopsony is a market condition in which there is only one buyer (e.g., the government as the sole buyer of military equipment)."
+    },
+    {
+        "id": "C138",
+        "text": "The $\\textbf{Weighted Average Cost of Capital (WACC)}$ represents the company's average cost of raising funds from:",
+        "image": "",
+        "options": [
+            "External sources only",
+            "Debt only",
+            "All sources, including debt and equity",
+            "Internal sources only"
+        ],
+        "answer": "All sources, including debt and equity",
+        "explanation": "WACC is the average rate a company expects to pay to finance its assets, considering the proportions of debt, equity, and preferred stock."
+    },
+    {
+        "id": "C139",
+        "text": "The primary objective of the $\\textbf{World Bank}$ is to:",
+        "image": "",
+        "options": [
+            "Promote international monetary cooperation and exchange rate stability",
+            "Provide loans and grants for development projects in developing countries",
+            "Regulate global trade and settle trade disputes",
+            "Issue a unified global currency"
+        ],
+        "answer": "Provide loans and grants for development projects in developing countries",
+        "explanation": "The World Bank's goal is to reduce poverty and support development through long-term financial and technical assistance."
+    },
+    {
+        "id": "C140",
+        "text": "Which method of inventory valuation is generally preferred during periods of $\\textbf{rising prices}$ because it results in a higher net income?",
+        "image": "",
+        "options": [
+            "LIFO (Last-In, First-Out)",
+            "FIFO (First-In, First-Out)",
+            "Weighted Average Method",
+            "Specific Identification Method"
+        ],
+        "answer": "FIFO (First-In, First-Out)",
+        "explanation": "In rising prices, FIFO assigns the older, lower costs to COGS and the newer, higher costs to the remaining inventory, resulting in a higher reported net income."
+    },
+    {
+        "id": "C141",
+        "text": "A $\\textbf{Debit Note}$ is issued by a buyer to a seller to indicate:",
+        "image": "",
+        "options": [
+            "Goods have been shipped",
+            "An increase in the amount the buyer owes the seller (e.g., due to an error)",
+            "Goods have been returned (purchases return)",
+            "A reduction in the amount the buyer owes"
+        ],
+        "answer": "Goods have been returned (purchases return)",
+        "explanation": "When goods are returned (a purchase return), the buyer prepares a debit note to notify the seller that the buyer's account has been debited (reduced) in the buyer's books."
+    },
+    {
+        "id": "C142",
+        "text": "The $\\textbf{Balance of Payments (BOP)}$ is a systematic record of all $\\textbf{economic transactions}$ between residents of one country and:",
+        "image": "",
+        "options": [
+            "All commercial banks globally",
+            "The World Trade Organization",
+            "The rest of the world (foreign countries)",
+            "The government sector only"
+        ],
+        "answer": "The rest of the world (foreign countries)",
+        "explanation": "The BOP summarizes a country's international transactions over a specific period, covering trade in goods, services, and financial assets."
+    },
+    {
+        "id": "C143",
+        "text": "What is $\\textbf{Zero-Based Budgeting (ZBB)}$?",
+        "image": "",
+        "options": [
+            "Allocating zero funds to all non-essential activities",
+            "Preparing a budget based on the previous year's actual spending",
+            "Justifying every budget item from scratch, assuming a zero base",
+            "A budget that never changes during the year"
+        ],
+        "answer": "Justifying every budget item from scratch, assuming a zero base",
+        "explanation": "ZBB requires every function's needs to be analyzed and justified, unlike traditional budgeting which only reviews changes from the previous period."
+    },
+    {
+        "id": "C144",
+        "text": "Which factor is $\\textbf{NOT}$ typically considered a part of the $\\textbf{Macro-Environment}$ (P.E.S.T.L.E.) in business?",
+        "image": "",
+        "options": [
+            "Political stability",
+            "Economic growth rate",
+            "The company's internal research and development capacity",
+            "Technological advancements"
+        ],
+        "answer": "The company's internal research and development capacity",
+        "explanation": "Internal R&D capacity is an internal strength or weakness (part of SWOT), not an external macro-environmental factor."
+    },
+    {
+        "id": "C145",
+        "text": "The term $\\textbf{Golden Handshake}$ in HRM refers to:",
+        "image": "",
+        "options": [
+            "A large bonus given for exceptional performance",
+            "A large payment given to a departing executive as a severance package",
+            "A mandatory retirement plan for all employees",
+            "A job offer with a high starting salary"
+        ],
+        "answer": "A large payment given to a departing executive as a severance package",
+        "explanation": "Golden handshake refers to lucrative provisions offered to executives, often upon dismissal or retirement, particularly if the departure is involuntary."
+    },
+    {
+        "id": "C146",
+        "text": "The $\\textbf{Net Present Value (NPV)}$ capital budgeting technique calculates the difference between the present value of cash inflows and the:",
+        "image": "",
+        "options": [
+            "Future value of cash outflows",
+            "Current market price of the company's stock",
+            "Present value of cash outflows (initial investment)",
+            "Total accounting profit"
+        ],
+        "answer": "Present value of cash outflows (initial investment)",
+        "explanation": "NPV is the sum of the present values of all cash flows (both positive and negative) from an investment project."
+    },
+    {
+        "id": "C147",
+        "text": "The business philosophy that believes $\\textbf{consumers will not buy enough}$ of the firm's products unless it undertakes a large-scale selling and promotion effort is the:",
+        "image": "",
+        "options": [
+            "Production Concept",
+            "Product Concept",
+            "Selling Concept",
+            "Societal Marketing Concept"
+        ],
+        "answer": "Selling Concept",
+        "explanation": "The selling concept focuses on aggressive selling and promotional efforts, often focusing on high-risk goods like insurance or unsought goods."
+    },
+    {
+        "id": "C148",
+        "text": "A $\\textbf{Bearer Instrument}$ (like an uncrossed cheque payable to 'bearer') is transferable by simple:",
+        "image": "",
+        "options": [
+            "Registration",
+            "Endorsement and delivery",
+            "Delivery only",
+            "A notarized legal agreement"
+        ],
+        "answer": "Delivery only",
+        "explanation": "A bearer instrument is payable to whoever holds it, and ownership is transferred by mere delivery, making it highly liquid but risky."
+    },
+    {
+        "id": "C149",
+        "text": "Which type of financial risk is associated with the company's ability to meet its $\\textbf{long-term debt obligations}$?",
+        "image": "",
+        "options": [
+            "Liquidity Risk",
+            "Market Risk",
+            "Solvency Risk",
+            "Operational Risk"
+        ],
+        "answer": "Solvency Risk",
+        "explanation": "Solvency risk (or credit risk) is the risk that a company will be unable to meet its long-term financial obligations, leading to bankruptcy."
+    },
+    {
+        "id": "C150",
+        "text": "A $\\textbf{Dividend Policy}$ is a financial decision concerning how much of the company's profit should be retained for reinvestment versus how much should be:",
+        "image": "",
+        "options": [
+            "Used to pay off short-term debt",
+            "Distributed to shareholders as dividends",
+            "Spent on advertising",
+            "Set aside as a tax reserve"
+        ],
+        "answer": "Distributed to shareholders as dividends",
+        "explanation": "The dividend policy is a critical decision that balances the immediate cash needs of shareholders with the long-term growth needs of the company (retention)."
+    },
+    {
+        "id": "C151",
+        "text": "The $\\textbf{Span of Control}$ in a tall organizational structure is typically:",
+        "image": "",
+        "options": [
+            "Wide (many subordinates per manager)",
+            "Narrow (few subordinates per manager)",
+            "Irrelevant to the structure",
+            "Determined by the market size"
+        ],
+        "answer": "Narrow (few subordinates per manager)",
+        "explanation": "A tall structure has many layers of management, necessitating a narrow span of control for each manager."
+    },
+    {
+        "id": "C152",
+        "text": "The $\\textbf{Gresham's Law}$ states that $\\textbf{bad money drives out good money}$ from circulation. This occurs when good money is:",
+        "image": "",
+        "options": [
+            "Used more frequently for transactions",
+            "Hoarded or exported due to its higher intrinsic value",
+            "Printed in larger quantities by the central bank",
+            "Used only for large institutional purchases"
+        ],
+        "answer": "Hoarded or exported due to its higher intrinsic value",
+        "explanation": "Good money (higher intrinsic value) is saved, while bad money (lower intrinsic value) is used for transactions, leading to the disappearance of good money from circulation."
+    },
+    {
+        "id": "C153",
+        "text": "The difference between Gross Profit and Operating Profit is generally the:",
+        "image": "",
+        "options": [
+            "Non-Operating Income and Expenses",
+            "Interest and Taxes",
+            "Cost of Goods Sold (COGS)",
+            "Operating Expenses (Administration, Selling, Distribution)"
+        ],
+        "answer": "Operating Expenses (Administration, Selling, Distribution)",
+        "explanation": "Gross Profit - Operating Expenses = Operating Profit (or EBIT - Earnings Before Interest and Taxes)."
+    },
+    {
+        "id": "C154",
+        "text": "What is the primary purpose of a $\\textbf{Public Warehouse}$?",
+        "image": "",
+        "options": [
+            "To store goods belonging only to the warehouse owner",
+            "To provide storage space to the general public for a fee",
+            "To manufacture finished goods",
+            "To serve as a headquarters for the business"
+        ],
+        "answer": "To provide storage space to the general public for a fee",
+        "explanation": "Public warehouses are storage facilities rented out to various businesses or individuals who do not own their own storage space."
+    },
+    {
+        "id": "C155",
+        "text": "A $\\textbf{Franchise Agreement}$ is an arrangement where one party (the franchisor) grants another party (the franchisee) the right to use its:",
+        "image": "",
+        "options": [
+            "Real estate assets only",
+            "Manufacturing patents only",
+            "Trademark, trade name, and business model",
+            "Access to government loans"
+        ],
+        "answer": "Trademark, trade name, and business model",
+        "explanation": "The franchisee pays royalties and usually an initial fee for the right to operate under the franchisor's established system."
+    },
+    {
+        "id": "C156",
+        "text": "In a partnership, the document that outlines the rights, duties, and liabilities of all partners is the:",
+        "image": "",
+        "options": [
+            "Memorandum of Association",
+            "Partnership Deed",
+            "Prospectus",
+            "Indemnity Bond"
+        ],
+        "answer": "Partnership Deed",
+        "explanation": "The Partnership Deed is a written agreement that defines the relationship between the partners and the operations of the firm."
+    },
+    {
+        "id": "C157",
+        "text": "The concept of $\\textbf{Consumer Sovereignty}$ in a market economy implies that:",
+        "image": "",
+        "options": [
+            "The government decides what is produced",
+            "Producers decide what is produced, regardless of demand",
+            "The consumer's purchasing decisions ultimately determine what goods are produced",
+            "Only goods necessary for survival are produced"
+        ],
+        "answer": "The consumer's purchasing decisions ultimately determine what goods are produced",
+        "explanation": "Consumer sovereignty is the idea that the consumer is the 'king' and ultimately controls the goods and services produced in an economy through demand."
+    },
+    {
+        "id": "C158",
+        "text": "The $\\textbf{Rule of Contra Proferentem}$ in contract law states that ambiguous clauses should be interpreted $\\textbf{against}$ the party that:",
+        "image": "",
+        "options": [
+            "Breaks the contract",
+            "Signs the contract first",
+            "Drafted the contract",
+            "Is the largest party"
+        ],
+        "answer": "Drafted the contract",
+        "explanation": "This rule protects the party who did not draft the contract from unclear or unfavorable terms imposed by the drafting party."
+    },
+    {
+        "id": "C159",
+        "text": "Which of the following is $\\textbf{NOT}$ a common function of money?",
+        "image": "",
+        "options": [
+            "Medium of exchange",
+            "Unit of account",
+            "Store of value",
+            "Source of unlimited production"
+        ],
+        "answer": "Source of unlimited production",
+        "explanation": "Money's key functions are exchange, accounting, and saving (store of value). Its availability does not guarantee unlimited production, which is limited by resources."
+    },
+    {
+        "id": "C160",
+        "text": "The $\\textbf{Break-Even Analysis}$ in cost accounting helps management to determine the level of sales needed to cover:",
+        "image": "",
+        "options": [
+            "Fixed Costs only",
+            "Variable Costs only",
+            "Total Fixed Costs and Total Variable Costs",
+            "Only Non-Operating Expenses"
+        ],
+        "answer": "Total Fixed Costs and Total Variable Costs",
+        "explanation": "The break-even point is where Total Revenue equals Total Cost (Fixed + Variable), resulting in zero profit."
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_241",
+      "text": "The accounting standard dealing with Leases, which fundamentally changed how leases are accounted for on the balance sheet, is:",
+      "image": "ACCO_2023_241.png",
+      "options": [
+        "IAS 16 (PPE)",
+        "IFRS 16 (Leases)",
+        "IFRS 9 (Financial Instruments)",
+        "IAS 2 (Inventory)"
+      ],
+      "answer": "IFRS 16 (Leases)",
+      "explanation": "IFRS 16 requires lessees to recognize assets and liabilities for most leases on the statement of financial position, eliminating the distinction between operating and finance leases for lessees."
+    },
+    {
+      "id": "ACCO_2023_242",
+      "text": "When a partner is declared insolvent, the loss arising from their capital deficiency is shared among the solvent partners according to the rule established in:",
+      "image": "ACCO_2023_242.png",
+      "options": [
+        "The Partnership Act",
+        "The Law of Torts",
+        "Garnier v. Murray",
+        "Salomon v. Salomon"
+      ],
+      "answer": "Garnier v. Murray",
+      "explanation": "The rule in Garnier v. Murray (in jurisdictions where it applies) states that the capital deficiency of an insolvent partner must be borne by the solvent partners in their capital ratio (just before dissolution/realization)."
+    },
+    {
+      "id": "ACCO_2023_243",
+      "text": "In the Statement of Financial Position, the order in which non-current assets are usually listed is based on:",
+      "image": "ACCO_2023_243.png",
+      "options": [
+        "Liquidity (most liquid first)",
+        "Permanence (most permanent first)",
+        "Historical Cost",
+        "Alphabetical order"
+      ],
+      "answer": "Permanence (most permanent first)",
+      "explanation": "The traditional presentation of assets, particularly non-current assets like Land and Building, is in order of permanence, meaning the least likely to be converted to cash is listed first."
+    },
+    {
+      "id": "ACCO_2023_244",
+      "text": "The cost of goods sold is typically calculated and recorded in the financial statements based on the assumption that the flow of costs reflects the:",
+      "image": "ACCO_2023_244.png",
+      "options": [
+        "Specific Identification of each item",
+        "Average cost of all units",
+        "Cost flow assumption (FIFO or LIFO)",
+        "Market value at the date of sale"
+      ],
+      "answer": "Cost flow assumption (FIFO or LIFO)",
+      "explanation": "Unless specific identification is used, inventory valuation relies on cost flow assumptions (like FIFO or LIFO) to match the cost of inventory sold with the sales revenue generated."
+    },
+    {
+      "id": "ACCO_2023_245",
+      "text": "The primary objective of preparing a segment report is to:",
+      "image": "ACCO_2023_245.png",
+      "options": [
+        "Calculate the head office profit",
+        "Disclose financial information about different business segments or geographical areas",
+        "Determine the total fixed costs",
+        "Identify compensating errors"
+      ],
+      "answer": "Disclose financial information about different business segments or geographical areas",
+      "explanation": "Segment reporting (guided by IFRS 8 or FASB ASC 280) provides detailed information about components of a company, aiding users in assessing the business's overall risk and performance."
+    },
+    {
+      "id": "ACCO_2023_246",
+      "text": "The ratio that indicates the margin of safety between a company’s earning power and its fixed debt charges is the:",
+      "image": "ACCO_2023_246.png",
+      "options": [
+        "Current Ratio",
+        "Debt-to-Equity Ratio",
+        "Interest Cover Ratio",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Interest Cover Ratio",
+      "explanation": "The Interest Cover Ratio (EBIT / Interest Expense) shows how many times a company's profit can cover its mandatory interest payments, revealing its borrowing capacity."
+    },
+    {
+      "id": "ACCO_2023_247",
+      "text": "The term used for an asset that has been fully depreciated but is still in use is:",
+      "image": "ACCO_2023_247.png",
+      "options": [
+        "Obsolete asset",
+        "Scrap asset",
+        "Fully written-off asset",
+        "Revalued asset"
+      ],
+      "answer": "Fully written-off asset",
+      "explanation": "The asset remains on the Statement of Financial Position with a zero carrying amount (Cost = Accumulated Depreciation) but is still physically utilized by the business."
+    },
+    {
+      "id": "ACCO_2023_248",
+      "text": "An error where a transaction is correctly recorded in the books of original entry but completely omitted when posting to the ledger is an error of:",
+      "image": "ACCO_2023_248.png",
+      "options": [
+        "Omission (of posting)",
+        "Principle",
+        "Commission",
+        "Original entry"
+      ],
+      "answer": "Omission (of posting)",
+      "explanation": "The transaction was initially recorded (original entry) but the second step (posting to the ledger) was skipped, leading to a Trial Balance disagreement."
+    },
+    {
+      "id": "ACCO_2023_249",
+      "text": "In a limited company, the journal entry to record the transfer of forfeited shares' surplus upon reissue is to credit the:",
+      "image": "ACCO_2023_249.png",
+      "options": [
+        "Share Premium Account",
+        "Retained Earnings",
+        "Capital Reserve Account",
+        "General Reserve"
+      ],
+      "answer": "Capital Reserve Account",
+      "explanation": "Any surplus remaining in the Forfeited Shares Account after the shares are reissued is a capital profit and is transferred to the Capital Reserve, as it is not available for dividends."
+    },
+    {
+      "id": "ACCO_2023_250",
+      "text": "The main focus of Financial Accounting is to:",
+      "image": "ACCO_2023_250.png",
+      "options": [
+        "Provide information for internal decision-making",
+        "Determine the cost per unit",
+        "Report financial results to external users (shareholders, creditors)",
+        "Manage budgetary control"
+      ],
+      "answer": "Report financial results to external users (shareholders, creditors)",
+      "explanation": "Financial accounting adheres to standards (IFRS/GAAP) and focuses on the preparation of general-purpose financial statements for external stakeholders."
+    },
+    {
+      "id": "ACCO_2023_251",
+      "text": "The cost of idle time (non-productive time) for direct labor is treated as:",
+      "image": "ACCO_2023_251.png",
+      "options": [
+        "Direct Labor Cost",
+        "Factory Overhead",
+        "Administrative Overhead",
+        "Prime Cost"
+      ],
+      "answer": "Factory Overhead",
+      "explanation": "Idle time is an abnormal cost that cannot be directly traced to specific products and is therefore absorbed into the cost of production as part of factory overhead."
+    },
+    {
+      "id": "ACCO_2023_252",
+      "text": "In a joint venture, non-separate records (Memorandum Method), the profit/loss of the joint venture is determined by the:",
+      "image": "ACCO_2023_252.png",
+      "options": [
+        "Memorandum Joint Venture Account",
+        "Partner's Capital Accounts",
+        "Joint Bank Account",
+        "Consignment Account"
+      ],
+      "answer": "Memorandum Joint Venture Account",
+      "explanation": "When partners keep transactions in their own books, a Memorandum Joint Venture Account is prepared outside the ledger to ascertain the total profit/loss."
+    },
+    {
+      "id": "ACCO_2023_253",
+      "text": "The formula (Total Revenue - Variable Costs) calculates the:",
+      "image": "ACCO_2023_253.png",
+      "options": [
+        "Net Profit",
+        "Gross Profit",
+        "Contribution (or Marginal Contribution)",
+        "Fixed Cost"
+      ],
+      "answer": "Contribution (or Marginal Contribution)",
+      "explanation": "Contribution is the amount of sales revenue remaining after variable costs have been covered, which contributes towards covering fixed costs and generating profit."
+    },
+    {
+      "id": "ACCO_2023_254",
+      "text": "In a partnership dissolution, the account that records the settlement of all external liabilities and realization of assets is the:",
+      "image": "ACCO_2023_254.png",
+      "options": [
+        "Revaluation Account",
+        "Partner's Loan Account",
+        "Realization Account",
+        "Partner's Capital Account"
+      ],
+      "answer": "Realization Account",
+      "explanation": "The Realization Account is the central account for dissolution, recording the conversion of assets into cash and the payment of external debts."
+    },
+    {
+      "id": "ACCO_2023_255",
+      "text": "The principle that requires companies to disclose all information relevant to users' decision-making is the:",
+      "image": "ACCO_2023_255.png",
+      "options": [
+        "Consistency concept",
+        "Full Disclosure principle",
+        "Objectivity principle",
+        "Materiality concept"
+      ],
+      "answer": "Full Disclosure principle",
+      "explanation": "The Full Disclosure Principle ensures that all significant facts that influence the financial condition or performance of the company are revealed in the financial statements or accompanying notes."
+    },
+    {
+      "id": "ACCO_2023_256",
+      "text": "The ratio (Cost of Goods Sold / Average Trade Payables) calculates the:",
+      "image": "ACCO_2023_256.png",
+      "options": [
+        "Debtors Turnover Ratio",
+        "Creditors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Working Capital Turnover"
+      ],
+      "answer": "Creditors Turnover Ratio",
+      "explanation": "The Creditors Turnover Ratio indicates how quickly a company pays off its trade payables (creditors) relative to its cost of goods sold."
+    },
+    {
+      "id": "ACCO_2023_257",
+      "text": "The document prepared at the beginning of the period under the Single Entry System to determine the Opening Capital is the:",
+      "image": "ACCO_2023_257.png",
+      "options": [
+        "Trading Account",
+        "Statement of Affairs",
+        "Receipts and Payments Account",
+        "Cash Book"
+      ],
+      "answer": "Statement of Affairs",
+      "explanation": "The Statement of Affairs is used to find the opening capital using the basic equation: Opening Assets - Opening Liabilities = Opening Capital."
+    },
+    {
+      "id": "ACCO_2023_258",
+      "text": "The term for a cost that has already been incurred and cannot be recovered by any future decision is:",
+      "image": "ACCO_2023_258.png",
+      "options": [
+        "Opportunity Cost",
+        "Sunk Cost",
+        "Differential Cost",
+        "Prime Cost"
+      ],
+      "answer": "Sunk Cost",
+      "explanation": "Sunk costs are always irrelevant to future decision-making because they are unavoidable regardless of the choice made."
+    },
+    {
+      "id": "ACCO_2023_259",
+      "text": "The liability that arises when a company receives cash for services or goods yet to be delivered is classified as:",
+      "image": "ACCO_2023_259.png",
+      "options": [
+        "Accrued Expense",
+        "Unearned Revenue (Revenue Received in Advance)",
+        "Contingent Liability",
+        "Capital Reserve"
+      ],
+      "answer": "Unearned Revenue (Revenue Received in Advance)",
+      "explanation": "This is a current liability representing the obligation to provide the service or goods in the future, as the revenue has not yet been earned."
+    },
+    {
+      "id": "ACCO_2023_260",
+      "text": "An error that results in a debit entry being recorded as a credit entry in the same account (or vice versa) is an error of:",
+      "image": "ACCO_2023_260.png",
+      "options": [
+        "Transposition",
+        "Reversal",
+        "Omission",
+        "Principle"
+      ],
+      "answer": "Reversal",
+      "explanation": "An Error of Reversal occurs when the accounts are correctly chosen, but the debit is credited, and the credit is debited. This leads to a Trial Balance disagreement equal to twice the transaction amount."
+    },
+    {
+      "id": "ACCO_2023_261",
+      "text": "The formula (Earnings Per Share / Market Price per Share) calculates the:",
+      "image": "ACCO_2023_261.png",
+      "options": [
+        "P/E Ratio",
+        "Dividend Yield",
+        "Earnings Yield",
+        "Book Value per Share"
+      ],
+      "answer": "Earnings Yield",
+      "explanation": "Earnings Yield is the reciprocal of the Price-Earnings (P/E) Ratio and represents the percentage return provided by a stock's earnings."
+    },
+    {
+      "id": "ACCO_2023_262",
+      "text": "The concept that dictates that only the transactions of the current reporting period should be included in the financial statements is the:",
+      "image": "ACCO_2023_262.png",
+      "options": [
+        "Historical Cost concept",
+        "Realization concept",
+        "Periodicity concept",
+        "Going Concern concept"
+      ],
+      "answer": "Periodicity concept",
+      "explanation": "The Periodicity concept (or Time Period concept) assumes the life of a business can be divided into distinct time intervals (e.g., quarters, years) for reporting purposes."
+    },
+    {
+      "id": "ACCO_2023_263",
+      "text": "When a company issues a 'Bonus Issue' of shares, the primary source of funds is typically the:",
+      "image": "ACCO_2023_263.png",
+      "options": [
+        "Cash Book",
+        "Share Premium Account or Revenue Reserves",
+        "Long-term bank loan",
+        "Debenture proceeds"
+      ],
+      "answer": "Share Premium Account or Revenue Reserves",
+      "explanation": "A bonus issue converts reserves (like Share Premium, Capital Reserve, or Retained Earnings) into permanent share capital. No cash is exchanged."
+    },
+    {
+      "id": "ACCO_2023_264",
+      "text": "In Cost Accounting, the formula (Variable Cost + Fixed Cost) calculates the:",
+      "image": "ACCO_2023_264.png",
+      "options": [
+        "Marginal Cost",
+        "Total Cost",
+        "Prime Cost",
+        "Conversion Cost"
+      ],
+      "answer": "Total Cost",
+      "explanation": "The total cost of production or sales is the sum of all variable costs (changing with output) and fixed costs (constant in total)."
+    },
+    {
+      "id": "ACCO_2023_265",
+      "text": "A partner's private creditor can recover their debt from the firm's assets only when the firm is:",
+      "image": "ACCO_2023_265.png",
+      "options": [
+        "Making profit",
+        "Dissolved (winding up)",
+        "Admitting a new partner",
+        "Changing the profit sharing ratio"
+      ],
+      "answer": "Dissolved (winding up)",
+      "explanation": "The Rule of the Firm and Separate Property (or doctrine of marshalling) dictates that firm assets are used first for firm debts; only the partner's residual share can be claimed by their private creditors upon dissolution."
+    },
+    {
+      "id": "ACCO_2023_266",
+      "text": "The formula (Average Trade Payables / Net Credit Purchases) $\\times$ 365 days calculates the:",
+      "image": "ACCO_2023_266.png",
+      "options": [
+        "Debtors Collection Period",
+        "Inventory Holding Period",
+        "Creditors Payment Period",
+        "Cash Conversion Cycle"
+      ],
+      "answer": "Creditors Payment Period",
+      "explanation": "This ratio indicates the average number of days a business takes to pay its suppliers (trade creditors)."
+    },
+    {
+      "id": "ACCO_2023_267",
+      "text": "The main objective of preparing a Trading Account is to ascertain the:",
+      "image": "ACCO_2023_267.png",
+      "options": [
+        "Net Profit",
+        "Total Operating Expenses",
+        "Gross Profit or Loss",
+        "Capital Employed"
+      ],
+      "answer": "Gross Profit or Loss",
+      "explanation": "The Trading Account summarizes the direct costs and revenues related to the buying and selling of goods to find the Gross Profit (Sales - Cost of Goods Sold)."
+    },
+    {
+      "id": "ACCO_2023_268",
+      "text": "Which of these is a revenue receipt?",
+      "image": "ACCO_2023_268.png",
+      "options": [
+        "Proceeds from selling an old machine",
+        "Issue of new share capital",
+        "Commission received",
+        "Raising a mortgage loan"
+      ],
+      "answer": "Commission received",
+      "explanation": "Revenue receipts are funds generated through the ordinary course of business, such as sales revenue, rent received, or commission received."
+    },
+    {
+      "id": "ACCO_2023_269",
+      "text": "The term used for the total cost required to bring an asset to the location and condition necessary for it to be capable of operating in the manner intended by management is:",
+      "image": "ACCO_2023_269.png",
+      "options": [
+        "Carrying Amount",
+        "Historical Cost",
+        "Depreciable Amount",
+        "Residual Value"
+      ],
+      "answer": "Historical Cost",
+      "explanation": "Historical Cost (or initial cost) includes the purchase price plus any directly attributable costs like delivery, installation, and testing."
+    },
+    {
+      "id": "ACCO_2023_270",
+      "text": "The main reason for non-agreement of a Trial Balance is:",
+      "image": "ACCO_2023_270.png",
+      "options": [
+        "Errors of Principle",
+        "Errors of Complete Omission",
+        "Compensating Errors",
+        "Single-sided errors (or errors of addition/posting)"
+      ],
+      "answer": "Single-sided errors (or errors of addition/posting)",
+      "explanation": "Errors that only affect one side of the account or ledger totals (like a single posting error or casting error) are the ones that directly cause the Trial Balance to be unequal."
+    },
+    {
+      "id": "ACCO_2023_271",
+      "text": "In consignment accounts, the extraordinary loss of goods due to fire or theft is usually transferred to the:",
+      "image": "ACCO_2023_271.png",
+      "options": [
+        "Consignee's Account",
+        "General Profit and Loss Account",
+        "Consignment Account",
+        "Goods Sent on Consignment Account"
+      ],
+      "answer": "General Profit and Loss Account",
+      "explanation": "Normal loss is borne by the Consignment Account, but abnormal (extraordinary) loss is transferred to the Consignor's General Profit and Loss Account."
+    },
+    {
+      "id": "ACCO_2023_272",
+      "text": "The profit margin calculated by relating Net Profit to Total Assets is the:",
+      "image": "ACCO_2023_272.png",
+      "options": [
+        "Return on Equity (ROE)",
+        "Return on Assets (ROA)",
+        "Net Profit Margin",
+        "Asset Turnover"
+      ],
+      "answer": "Return on Assets (ROA)",
+      "explanation": "ROA measures the efficiency of utilizing total assets (funded by both equity and debt) to generate profit."
+    },
+    {
+      "id": "ACCO_2023_273",
+      "text": "In a joint venture, the account prepared by each venturer in their own books to record the transactions relating to the venture is the:",
+      "image": "ACCO_2023_273.png",
+      "options": [
+        "Joint Bank Account",
+        "Partner's Capital Account",
+        "Joint Venture with (Other Venturer's Name) Account",
+        "Realization Account"
+      ],
+      "answer": "Joint Venture with (Other Venturer's Name) Account",
+      "explanation": "Under the Memorandum Method, each venturer opens an account named after the co-venturer to record transactions with them and their share of profit/loss."
+    },
+    {
+      "id": "ACCO_2023_274",
+      "text": "The main disadvantage of the Reducing Balance Method of depreciation is that it:",
+      "image": "ACCO_2023_274.png",
+      "options": [
+        "Is difficult to calculate",
+        "Does not recognize residual value",
+        "Results in a large distortion of profit over time",
+        "Fails to write off the entire cost of the asset"
+      ],
+      "answer": "Fails to write off the entire cost of the asset",
+      "explanation": "Mathematically, the carrying amount never reaches zero under the reducing balance method. The residual value must be deducted in the final year to complete the write-off."
+    },
+    {
+      "id": "ACCO_2023_275",
+      "text": "The term for expenses that are common to the entire business and are allocated among different departments is:",
+      "image": "ACCO_2023_275.png",
+      "options": [
+        "Direct Expenses",
+        "Joint Expenses (or Common Expenses)",
+        "Selling Expenses",
+        "Prime Costs"
+      ],
+      "answer": "Joint Expenses (or Common Expenses)",
+      "explanation": "Joint expenses (e.g., general rent, shared manager's salary) must be allocated to departments using an appropriate base (e.g., floor area, sales ratio)."
+    },
+    {
+      "id": "ACCO_2023_276",
+      "text": "The accounting standard dealing with revenue recognition is:",
+      "image": "ACCO_2023_276.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IFRS 15 (Revenue from Contracts with Customers)",
+        "IAS 7 (Cash Flows)",
+        "IAS 36 (Impairment)"
+      ],
+      "answer": "IFRS 15 (Revenue from Contracts with Customers)",
+      "explanation": "IFRS 15 provides a comprehensive, five-step model for recognizing revenue from contracts with customers."
+    },
+    {
+      "id": "ACCO_2023_277",
+      "text": "The minimum number of persons required to sign the Memorandum of Association of a Public Limited Company is:",
+      "image": "ACCO_2023_277.png",
+      "options": [
+        "One",
+        "Two",
+        "Seven",
+        "Fifty"
+      ],
+      "answer": "Seven",
+      "explanation": "Historically, and in many jurisdictions, a Public Limited Company requires a minimum of seven subscribers to its Memorandum of Association, unlike a Private Limited Company which may only require one or two."
+    },
+    {
+      "id": "ACCO_2023_278",
+      "text": "The ratio (Selling and Distribution Overheads / Sales) $\\times$ 100 calculates the:",
+      "image": "ACCO_2023_278.png",
+      "options": [
+        "Administrative Expense Ratio",
+        "Selling Expense Ratio",
+        "Operating Profit Margin",
+        "Conversion Ratio"
+      ],
+      "answer": "Selling Expense Ratio",
+      "explanation": "This ratio shows the proportion of sales revenue consumed by the costs associated with selling and distributing the product."
+    },
+    {
+      "id": "ACCO_2023_279",
+      "text": "The principle of 'consistency' is most important in relation to the use of:",
+      "image": "ACCO_2023_279.png",
+      "options": [
+        "Source documents",
+        "Monetary units",
+        "Accounting policies (e.g., depreciation method)",
+        "Realization of revenue"
+      ],
+      "answer": "Accounting policies (e.g., depreciation method)",
+      "explanation": "Consistency is vital to ensure that a company uses the same methods year after year, making the financial statements comparable across periods."
+    },
+    {
+      "id": "ACCO_2023_280",
+      "text": "The maximum amount of discount allowed on the reissue of forfeited shares is limited to the:",
+      "image": "ACCO_2023_280.png",
+      "options": [
+        "Total nominal value of the shares",
+        "Amount originally paid and forfeited on those shares",
+        "Amount in the Share Premium Account",
+        "Total current assets"
+      ],
+      "answer": "Amount originally paid and forfeited on those shares",
+      "explanation": "The loss on reissue (discount allowed) cannot exceed the amount previously forfeited. This ensures the company does not incur a capital loss on the reissued shares."
+    }
+  ]

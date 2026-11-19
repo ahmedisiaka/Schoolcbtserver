@@ -1,0 +1,518 @@
+[
+    {
+      "id": "U2014_1",
+      "text": "The year 2014 was marked by the $\\textbf{annexation}$ of $\\textbf{Crimea}$ by Russia, a move that severely $\\textbf{strained}$ international relations and led to $\\textbf{sanctions}$. (Comprehension Passage Snippet 1)\n\nWhat immediate consequence did the annexation of Crimea have on international relations, according to the text?",
+      "image": "",
+      "options": [
+        "It normalized trade agreements",
+        "It fostered a new period of peace",
+        "It severely strained relations and led to sanctions",
+        "It resulted in immediate disarmament"
+      ],
+      "answer": "It severely strained relations and led to sanctions",
+      "explanation": "The text states the annexation 'severely strained international relations and led to sanctions'."
+    },
+    {
+      "id": "U2014_2",
+      "text": "The $\\textbf{annexation}$ of Crimea was widely condemned by Western nations as a violation of international law.\n\nChoose the word that is closest in meaning to $\\textbf{annexation}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "A peaceful negotiation",
+        "The temporary loan of territory",
+        "The forcible acquisition of territory",
+        "A mutual border agreement"
+      ],
+      "answer": "The forcible acquisition of territory",
+      "explanation": "Annexation means taking possession of something, especially territory, usually without permission."
+    },
+    {
+      "id": "U2014_3",
+      "text": "The diplomats $\\textbf{(lay/laid)}$ the groundwork for future peace talks, hoping to stabilize the region.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "lay",
+        "laid",
+        "lain",
+        "lie"
+      ],
+      "answer": "laid",
+      "explanation": "'Laid' is the past tense of the transitive verb 'to lay' (to place something down). The object is 'the groundwork'."
+    },
+    {
+      "id": "U2014_4",
+      "text": "In 2014, the world faced a severe $\\textbf{Ebola}$ $\\textbf{outbreak}$ in West Africa, primarily affecting Guinea, Sierra Leone, and Liberia. (Comprehension Passage Snippet 2)\n\nWhat region was primarily affected by the severe Ebola outbreak in 2014?",
+      "image": "",
+      "options": [
+        "East Asia",
+        "South America",
+        "West Africa",
+        "Central Europe"
+      ],
+      "answer": "West Africa",
+      "explanation": "The text states the outbreak was 'in West Africa, primarily affecting Guinea, Sierra Leone, and Liberia'."
+    },
+    {
+      "id": "U2014_5",
+      "text": "Global health organizations mobilized quickly to $\\textbf{mitigate}$ the $\\textbf{spread}$ of the disease.\n\nChoose the word that is closest in meaning to $\\textbf{mitigate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "To increase or amplify",
+        "To make less severe, serious, or painful",
+        "To ignore completely",
+        "To complicate a problem"
+      ],
+      "answer": "To make less severe, serious, or painful",
+      "explanation": "To mitigate means to make less severe, serious, or painful."
+    },
+    {
+      "id": "U2014_6",
+      "text": "The health campaign had a profound $\\textbf{(affect/effect)}$ on reducing the transmission rates.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "affect",
+        "effect",
+        "effected",
+        "affected"
+      ],
+      "answer": "effect",
+      "explanation": "'Effect' is used here as a noun meaning 'a result or consequence'. 'Affect' is generally used as a verb."
+    },
+    {
+      "id": "U2014_7",
+      "text": "The terrorist group $\\textbf{ISIS}$ declared the establishment of a $\\textbf{caliphate}$ across parts of Iraq and Syria, leading to a $\\textbf{broadened}$ international military response. (Comprehension Passage Snippet 3)\n\nWhat type of political entity did ISIS declare in 2014, and where?",
+      "image": "",
+      "options": [
+        "A new nation in Afghanistan",
+        "A caliphate across parts of Iraq and Syria",
+        "A federation in North Africa",
+        "A monarchy in Europe"
+      ],
+      "answer": "A caliphate across parts of Iraq and Syria",
+      "explanation": "The text clearly states ISIS 'declared the establishment of a caliphate across parts of Iraq and Syria'."
+    },
+    {
+      "id": "U2014_8",
+      "text": "The declaration of a $\\textbf{caliphate}$ was $\\textbf{met}$ $\\textbf{with}$ immediate international opposition.\n\nChoose the word that is closest in meaning to the word $\\textbf{caliphate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A democratic republic",
+        "A specific type of military camp",
+        "The political-religious state governed by a caliph",
+        "A temporary peace treaty"
+      ],
+      "answer": "The political-religious state governed by a caliph",
+      "explanation": "A caliphate is an Islamic state under the leadership of a caliph, a person considered a political and religious successor to the Prophet Muhammad."
+    },
+    {
+      "id": "U2014_9",
+      "text": "The military operation, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{launched}$ in the autumn, $\\textbf{involved}$ several NATO countries.\n\nWhich of the words is the $\\textbf{relative}$ $\\textbf{pronoun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Operation",
+        "Which",
+        "Launched",
+        "Several"
+      ],
+      "answer": "Which",
+      "explanation": "'Which' introduces the relative clause ('which was launched in the autumn') and refers back to 'military operation'."
+    },
+    {
+      "id": "U2014_10",
+      "text": "The disappearance of $\\textbf{Malaysia}$ $\\textbf{Airlines}$ $\\textbf{Flight}$ $\\textbf{370}$ (MH370) $\\textbf{captured}$ $\\textbf{global}$ attention, becoming one of aviation's greatest $\\textbf{mysteries}$. (Comprehension Passage Snippet 4)\n\nWhat made the event of MH370 one of aviation's greatest mysteries?",
+      "image": "",
+      "options": [
+        "The swift recovery of the wreck",
+        "The aircraft's complete disappearance",
+        "A minor engine fault",
+        "A scheduled landing in the wrong city"
+      ],
+      "answer": "The aircraft's complete disappearance",
+      "explanation": "The mystery stems from the aircraft's disappearance, which 'captured global attention' and defined the event."
+    },
+    {
+      "id": "U2014_11",
+      "text": "The search operation was plagued by $\\textbf{conjectural}$ theories and misinformation.\n\nChoose the word that is **opposite** in meaning to $\\textbf{conjectural}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Based on guesswork or theory",
+        "Definitive or factual",
+        "Uncertain",
+        "Suspicious"
+      ],
+      "answer": "Definitive or factual",
+      "explanation": "Conjectural means based on conjecture or guesswork. The opposite is definitive or factual."
+    },
+    {
+      "id": "U2014_12",
+      "text": "The success of the deep-sea search was $\\textbf{dependent}$ $\\textbf{(on/by)}$ the accuracy of the satellite data.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "on",
+        "by",
+        "with",
+        "at"
+      ],
+      "answer": "on",
+      "explanation": "The adjective 'dependent' (contingent on or determined by) is always followed by the preposition 'on' (dependent *on* something)."
+    },
+    {
+      "id": "U2014_13",
+      "text": "The $\\textbf{Ice}$ $\\textbf{Bucket}$ $\\textbf{Challenge}$ became a massive $\\textbf{viral}$ sensation in the summer of 2014, raising millions for $\\textbf{ALS}$ $\\textbf{research}$. (Comprehension Passage Snippet 5)\n\nWhat organization benefited from the millions raised by the Ice Bucket Challenge?",
+      "image": "",
+      "options": [
+        "The Red Cross",
+        "ALS research",
+        "Cancer research",
+        "The local fire department"
+      ],
+      "answer": "ALS research",
+      "explanation": "The text states the challenge was 'raising millions for ALS research'."
+    },
+    {
+      "id": "U2014_14",
+      "text": "The challenge went $\\textbf{viral}$ almost instantly, spreading rapidly across social media platforms.\n\nChoose the word that is closest in meaning to $\\textbf{viral}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Slow-moving and obscure",
+        "Caused by a computer bug",
+        "Spreading rapidly and widely, especially online",
+        "Biological"
+      ],
+      "answer": "Spreading rapidly and widely, especially online",
+      "explanation": "In social media context, 'viral' means spreading rapidly from one user to another."
+    },
+    {
+      "id": "U2014_15",
+      "text": "The word $\\textbf{'challenge'}$ $\\textbf{c h a l l e n g e}$.\n\nIdentify the syllable that carries the primary stress in the word **challenge**.",
+      "image": "",
+      "options": [
+        "cha",
+        "llenge"
+      ],
+      "answer": "cha",
+      "explanation": "The primary stress in 'challenge' /ˈtʃæl.ɪndʒ/ falls on the first syllable, 'cha'."
+    },
+    {
+      "id": "U2014_16",
+      "text": "Germany won the $\\textbf{FIFA}$ $\\textbf{World}$ $\\textbf{Cup}$ in Brazil in 2014, $\\textbf{defeating}$ Argentina in the final match. (Comprehension Passage Snippet 6)\n\nWhich two teams competed in the 2014 FIFA World Cup final, and which team won?",
+      "image": "",
+      "options": [
+        "Brazil defeated Spain",
+        "Germany defeated Argentina",
+        "France defeated Portugal",
+        "Italy defeated Brazil"
+      ],
+      "answer": "Germany defeated Argentina",
+      "explanation": "The text states Germany won, 'defeating Argentina in the final match'."
+    },
+    {
+      "id": "U2014_17",
+      "text": "The winning goal was $\\textbf{indisputable}$, sealing the team's $\\textbf{definitive}$ victory.\n\nChoose the word that is **opposite** in meaning to $\\textbf{definitive}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Final or conclusive",
+        "Ambiguous or inconclusive",
+        "Certain",
+        "Permanent"
+      ],
+      "answer": "Ambiguous or inconclusive",
+      "explanation": "Definitive means conclusive and authoritative. The opposite is ambiguous or inconclusive."
+    },
+    {
+      "id": "U2014_18",
+      "text": "If the referee $\\textbf{(had/had}$ $\\textbf{not)}$ $\\textbf{seen}$ the foul, the outcome of the game $\\textbf{would}$ $\\textbf{have}$ $\\textbf{been}$ different.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had",
+        "had not",
+        "has",
+        "did not"
+      ],
+      "answer": "had not",
+      "explanation": "This is a Third Conditional sentence. Given the result ('would have been different'), the 'if' clause must be negative ('If the referee had not seen the foul')."
+    },
+    {
+      "id": "U2014_19",
+      "text": "The $\\textbf{Rosetta}$ $\\textbf{mission}$ achieved a major scientific $\\textbf{first}$ in 2014, successfully landing the $\\textbf{Philae}$ probe on $\\textbf{Comet}$ $\\textbf{67P}$. (Comprehension Passage Snippet 7)\n\nWhat was the destination of the Philae lander in 2014?",
+      "image": "",
+      "options": [
+        "Mars",
+        "An asteroid belt",
+        "Comet 67P",
+        "Jupiter's moon Europa"
+      ],
+      "answer": "Comet 67P",
+      "explanation": "The text explicitly names the landing site as 'Comet 67P'."
+    },
+    {
+      "id": "U2014_20",
+      "text": "Landing a probe on a comet was an $\\textbf{unprecedented}$ feat of engineering and science.\n\nChoose the word that is closest in meaning to $\\textbf{unprecedented}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Already performed many times",
+        "Never done or known before; new or unparalleled",
+        "Minor and easily achievable",
+        "Expected"
+      ],
+      "answer": "Never done or known before; new or unparalleled",
+      "explanation": "Unprecedented means never done or known before."
+    },
+    {
+      "id": "U2014_21",
+      "text": "The word $\\textbf{'historic'}$ $\\textbf{h i s t o r i c}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **historic**?",
+      "image": "",
+      "options": [
+        "Core",
+        "Air",
+        "Mix",
+        "It"
+      ],
+      "answer": "Core",
+      "explanation": "The stressed syllable is 'to' /tɔː/ which contains the vowel sound /ɔː/. 'Core' also contains the sound /ɔː/."
+    },
+    {
+      "id": "U2014_22",
+      "text": "Due to the pressing military issues, environmental policy was $\\textbf{put}$ $\\textbf{on}$ $\\textbf{the}$ $\\textbf{back}$ $\\textbf{burner}$.\n\nChoose the option that best explains the idiom **put on the back burner**.",
+      "image": "",
+      "options": [
+        "To be given the highest priority",
+        "To be postponed or treated as a low priority",
+        "To be entirely forgotten",
+        "To be cooked slowly"
+      ],
+      "answer": "To be postponed or treated as a low priority",
+      "explanation": "To 'put on the back burner' means to delay or give low priority to a matter."
+    },
+    {
+      "id": "U2014_23",
+      "text": "The government's new $\\textbf{austerity}$ $\\textbf{measures}$ were met with $\\textbf{widespread}$ $\\textbf{protests}$.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{austerity}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Simplicity and severity",
+        "Excess or extravagance",
+        "Strictness",
+        "Fiscal responsibility"
+      ],
+      "answer": "Excess or extravagance",
+      "explanation": "Austerity means difficult economic conditions created by government measures to reduce public spending. The opposite in spirit is extravagance or excess."
+    },
+    {
+      "id": "U2014_24",
+      "text": "Neither the political leader nor his advisors $\\textbf{(was/were)}$ prepared for the sudden reversal of fortune.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer": "were",
+      "explanation": "In 'neither... nor...' constructions, the verb agrees with the noun closest to it, which is the plural 'advisors'."
+    },
+    {
+      "id": "U2014_25",
+      "text": "The word $\\textbf{'economy'}$ $\\textbf{e c o n o m y}$.\n\nIdentify the syllable that carries the primary stress in the word **economy**.",
+      "image": "",
+      "options": [
+        "e",
+        "co",
+        "no",
+        "my"
+      ],
+      "answer": "no",
+      "explanation": "The primary stress in 'economy' /ɪˈkɒn.ə.mi/ falls on the second syllable, 'no'."
+    },
+    {
+      "id": "U2014_26",
+      "text": "The new social media site grew $\\textbf{phenomenally}$ $\\textbf{fast}$ in its first year of operation.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Social",
+        "Site",
+        "Phenomenally",
+        "Year"
+      ],
+      "answer": "Phenomenally",
+      "explanation": "'Phenomenally' modifies the adjective 'fast' (which is functioning as an adverb here, modifying the verb 'grew'), describing the degree of speed, making it an adverb."
+    },
+    {
+      "id": "U2014_27",
+      "text": "The interest in the political scandal proved to be $\\textbf{ephemeral}$, fading quickly from public view.\n\nChoose the word that is closest in meaning to $\\textbf{ephemeral}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Long-lasting or permanent",
+        "Lasting for a very short time",
+        "Uninteresting",
+        "Highly documented"
+      ],
+      "answer": "Lasting for a very short time",
+      "explanation": "Ephemeral means lasting for a very short time."
+    },
+    {
+      "id": "U2014_28",
+      "text": "The committee chose to $\\textbf{turn}$ $\\textbf{a}$ $\\textbf{blind}$ $\\textbf{eye}$ to the minor infractions to maintain peace.\n\nChoose the option that best explains the idiom **turn a blind eye**.",
+      "image": "",
+      "options": [
+        "To be unable to see well",
+        "To pretend not to notice or acknowledge something",
+        "To inspect something closely",
+        "To react angrily"
+      ],
+      "answer": "To pretend not to notice or acknowledge something",
+      "explanation": "To 'turn a blind eye' means to deliberately ignore something that one should deal with."
+    },
+    {
+      "id": "U2014_29",
+      "text": "The $\\textbf{new}$ $\\textbf{cease-fire}$ $\\textbf{agreement}$ was welcomed by all parties involved in the conflict.\n\nWhich of the words is the $\\textbf{compound}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "New",
+        "Cease-fire",
+        "Agreement",
+        "All"
+      ],
+      "answer": "Cease-fire",
+      "explanation": "A 'cease-fire' is a compound noun formed by combining 'cease' and 'fire'."
+    },
+    {
+      "id": "U2014_30",
+      "text": "After years of turmoil, the market finally transitioned from a period of $\\textbf{stagnant}$ $\\textbf{growth}$ to rapid expansion.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{stagnant}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Showing no activity; sluggish",
+        "Flowing or dynamic",
+        "Polluted",
+        "Watery"
+      ],
+      "answer": "Flowing or dynamic",
+      "explanation": "Stagnant means showing no activity or movement. The opposite is flowing or dynamic."
+    },
+    {
+      "id": "U2014_31",
+      "text": "The word $\\textbf{'world'}$ $\\textbf{w o r l d}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **world**?",
+      "image": "",
+      "options": [
+        "Wall",
+        "Whirl",
+        "Work",
+        "Would"
+      ],
+      "answer": "Work",
+      "explanation": "The vowel sound in 'world' /wɜːld/ is /ɜː/. 'Work' also contains the sound /ɜː/."
+    },
+    {
+      "id": "U2014_32",
+      "text": "Before the scientists $\\textbf{(had/have}$ $\\textbf{made)}$ the discovery, the concept of a comet landing was considered science fiction.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had made",
+        "have made",
+        "make",
+        "are making"
+      ],
+      "answer": "had made",
+      "explanation": "The sentence uses the past perfect ('had made') to describe an action that occurred before another action in the past ('was considered')."
+    },
+    {
+      "id": "U2014_33",
+      "text": "The effects of climate change are widely considered to be $\\textbf{irreversible}$ unless immediate action is taken.\n\nChoose the word that is closest in meaning to $\\textbf{irreversible}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Able to be reversed or undone",
+        "Permanent or unchangeable",
+        "Temporary",
+        "Unnecessary"
+      ],
+      "answer": "Permanent or unchangeable",
+      "explanation": "Irreversible means impossible to reverse or undo."
+    },
+    {
+      "id": "U2014_34",
+      "text": "The suspect quickly and $\\textbf{furtively}$ $\\textbf{slipped}$ out of the hotel lobby after planting the evidence.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Suspect",
+        "Slipped",
+        "Furtively",
+        "Lobby"
+      ],
+      "answer": "Furtively",
+      "explanation": "'Furtively' modifies the verb 'slipped', describing *how* the action was performed, making it an adverb."
+    },
+    {
+      "id": "U2014_35",
+      "text": "The leader's speech was $\\textbf{incendiary}$, designed to $\\textbf{stir}$ $\\textbf{up}$ passion and anger among his followers.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{incendiary}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Tending to cause conflict or fire",
+        "Inflammatory",
+        "Calming or soothing",
+        "Harmful"
+      ],
+      "answer": "Calming or soothing",
+      "explanation": "Incendiary means tending to stir up conflict or designed to cause fires. The opposite is calming or soothing."
+    },
+    {
+      "id": "U2014_36",
+      "text": "The public $\\textbf{insisted}$ $\\textbf{(on/with)}$ a full investigation into the financial collapse.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "on",
+        "with",
+        "at",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "The verb 'insist' (demand forcefully) is followed by the preposition 'on' (insisted *on* something)."
+    },
+    {
+      "id": "U2014_37",
+      "text": "The word $\\textbf{'syndrome'}$ $\\textbf{s y n d r o m e}$.\n\nIdentify the syllable that carries the primary stress in the word **syndrome**.",
+      "image": "",
+      "options": [
+        "syn",
+        "drome"
+      ],
+      "answer": "syn",
+      "explanation": "The primary stress in 'syndrome' /ˈsɪn.drəʊm/ falls on the first syllable, 'syn'."
+    },
+    {
+      "id": "U2014_38",
+      "text": "If you don't invest in the new technology now, you'll $\\textbf{miss}$ $\\textbf{the}$ $\\textbf{boat}$.\n\nChoose the option that best explains the idiom **miss the boat**.",
+      "image": "",
+      "options": [
+        "To be late for a trip",
+        "To miss an opportunity",
+        "To arrive too early for an event",
+        "To misunderstand directions"
+      ],
+      "answer": "To miss an opportunity",
+      "explanation": "To 'miss the boat' means to lose an opportunity by being too slow to act."
+    },
+    {
+      "id": "U2014_39",
+      "text": "The $\\textbf{controversial}$ $\\textbf{decision}$ $\\textbf{was}$ $\\textbf{announced}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{committee}$ $\\textbf{late}$ $\\textbf{yesterday}$.\n\nIdentify the $\\textbf{passive}$ $\\textbf{voice}$ verb form in the sentence.",
+      "image": "",
+      "options": [
+        "Controversial",
+        "was announced",
+        "committee",
+        "late"
+      ],
+      "answer": "was announced",
+      "explanation": "The structure 'was + past participle (announced)' signifies the simple past passive voice."
+    },
+    {
+      "id": "U2014_40",
+      "text": "The word $\\textbf{'sure'}$ $\\textbf{s u r e}$.\n\nWhich of the following words has the same consonant sound as the first letter 's' in **sure**?",
+      "image": "",
+      "options": [
+        "Seed",
+        "Measure",
+        "Ship",
+        "City"
+      ],
+      "answer": "Ship",
+      "explanation": "The initial sound in 'sure' /ʃɔːr/ is the voiceless postalveolar fricative /ʃ/. 'Ship' also begins with the sound /ʃ/."
+    }
+  ]

@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2010_01",
+      "text": "Which of the following is the final product of $\\text{Anaerobic}$ $\\text{Respiration}$ in $\\text{Yeast}$?",
+      "image": "[Diagram of alcoholic fermentation process]",
+      "options": [
+        "Lactic $\\text{Acid}$ and $\\text{Energy}$",
+        "Ethanol and $\\text{Carbon}$ $\\text{Dioxide}$",
+        "Water and $\\text{Energy}$",
+        "Pyruvic $\\text{Acid}$"
+      ],
+      "answer": "Ethanol and $\\text{Carbon}$ $\\text{Dioxide}$",
+      "explanation": "In $\\text{Yeast}$ (a fungus), $\\text{Anaerobic}$ $\\text{Respiration}$ is known as $\\text{Alcoholic}$ $\\text{Fermentation}$, producing $\\text{Ethanol}$, $\\text{Carbon}$ $\\text{Dioxide}$ ($\\text{CO}_2$), and a small amount of $\\text{Energy}$ ($\\text{ATP}$). $\\text{Lactic}$ $\\text{Acid}$ is the product in animal muscles."
+    },
+    {
+      "id": "BIO_2010_02",
+      "text": "The structure in the $\\text{Cell}$ that controls the passage of substances into and out of the cell is the:",
+      "image": "[Diagram of the Fluid Mosaic Model of the Cell Membrane]",
+      "options": [
+        "Cell $\\text{Wall}$",
+        "Cytoplasm",
+        "Cell $\\text{Membrane}$",
+        "Nucleus"
+      ],
+      "answer": "Cell $\\text{Membrane}$",
+      "explanation": "The $\\text{Cell}$ $\\text{Membrane}$ ($\text{Plasma}$ $\\text{Membrane}$) is $\\text{Selectively}$ $\\text{Permeable}$ and controls what enters and leaves the cell, ensuring $\\text{Homeostasis}$."
+    },
+    {
+      "id": "BIO_2010_03",
+      "text": "The $\\text{Organ}$ in the human body that produces $\\text{Bile}$ is the:",
+      "image": "[Diagram of the Human Liver and Gall Bladder]",
+      "options": [
+        "Gall $\\text{Bladder}$",
+        "Kidney",
+        "Liver",
+        "Pancreas"
+      ],
+      "answer": "Liver",
+      "explanation": "The $\\text{Liver}$ produces $\\text{Bile}$, which is then stored and concentrated in the $\\text{Gall}$ $\\text{Bladder}$ before being released into the $\\text{Small}$ $\\text{Intestine}$."
+    },
+    {
+      "id": "BIO_2010_04",
+      "text": "The part of the plant embryo that develops into the $\\text{Shoot}$ $\\text{System}$ (stem and leaves) is the:",
+      "image": "[Diagram of seed germination showing Plumule and Radicle]",
+      "options": [
+        "Radicle",
+        "Hypocotyl",
+        "Cotyledon",
+        "Plumule"
+      ],
+      "answer": "Plumule",
+      "explanation": "The $\\text{Plumule}$ is the embryonic $\\text{Shoot}$ that develops into the aerial $\\text{Parts}$ (stem and leaves). The $\\text{Radicle}$ develops into the $\\text{Root}$."
+    },
+    {
+      "id": "BIO_2010_05",
+      "text": "Which of the following is $\\text{NOT}$ a primary function of the $\\text{Skeleton}$ in mammals?",
+      "image": "[Diagram of the human skeletal system]",
+      "options": [
+        "Support of the $\\text{Body}$",
+        "Locomotion",
+        "Production of $\\text{Hormones}$",
+        "Protection of internal $\\text{Organs}$"
+      ],
+      "answer": "Production of $\\text{Hormones}$",
+      "explanation": "The $\\text{Skeleton}$ (bone tissue) provides $\\text{Support}$, $\\text{Protection}$, $\\text{Leverage}$ for movement (locomotion), and produces $\\text{Blood}$ $\\text{Cells}$ in the $\\text{Bone}$ $\\text{Marrow}$. Hormone production is primarily the role of $\\text{Endocrine}$ $\\text{Glands}$."
+    },
+    {
+      "id": "BIO_2010_06",
+      "text": "The process by which organisms maintain a constant internal environment despite changes in the external environment is known as:",
+      "image": "[Simple feedback loop diagram for Homeostasis (e.g., temperature regulation)]",
+      "options": [
+        "Excretion",
+        "Irritability",
+        "Homeostasis",
+        "Osmoregulation"
+      ],
+      "answer": "Homeostasis",
+      "explanation": "$\\text{Homeostasis}$ is the maintenance of a relatively stable internal condition (e.g., $\\text{Temperature}$, $\\text{Glucose}$ $\\text{Level}$, $\\text{pH}$) in the body."
+    },
+    {
+      "id": "BIO_2010_07",
+      "text": "The instrument used to measure the $\\text{Relative}$ $\\text{Humidity}$ of the atmosphere is the:",
+      "image": "",
+      "options": [
+        "Anemometer",
+        "Thermometer",
+        "Hygrometer",
+        "Barometer"
+      ],
+      "answer": "Hygrometer",
+      "explanation": "A $\\text{Hygrometer}$ (or $\\text{Psychrometer}$) is a meteorological instrument used to measure the amount of $\\text{Water}$ $\\text{Vapour}$ in the air ($\text{Humidity}$). An $\\text{Anemometer}$ measures $\\text{Wind}$ $\\text{Speed}$."
+    },
+    {
+      "id": "BIO_2010_08",
+      "text": "The main substance that constitutes the $\\text{Cell}$ $\\text{Wall}$ of plant cells is:",
+      "image": "[Microscopic view of plant cell walls]",
+      "options": [
+        "Chitin",
+        "Peptidoglycan",
+        "Cellulose",
+        "Pectin"
+      ],
+      "answer": "Cellulose",
+      "explanation": "Plant $\\text{Cell}$ $\\text{Walls}$ are primarily composed of $\\text{Cellulose}$, a complex carbohydrate. $\\text{Chitin}$ forms the cell walls of $\\text{Fungi}$."
+    },
+    {
+      "id": "BIO_2010_09",
+      "text": "A population is defined as a group of organisms of:",
+      "image": "[Diagram illustrating a population of a single species in a defined area]",
+      "options": [
+        "Different $\\text{Species}$ living together in a $\\text{Habitat}$",
+        "The $\\text{Same}$ $\\text{Species}$ living together in a $\\text{Habitat}$",
+        "The $\\text{Same}$ $\\text{Species}$ living in $\\text{Different}$ $\\text{Habitats}$",
+        "All organisms in a $\\text{Community}$"
+      ],
+      "answer": "The $\\text{Same}$ $\\text{Species}$ living together in a $\\text{Habitat}$",
+      "explanation": "In $\\text{Ecology}$, a $\\text{Population}$ is defined as all the members of $\\text{One}$ $\\text{Specific}$ $\\text{Species}$ living in a $\\text{Particular}$ $\\text{Geographical}$ $\\text{Area}$ at a given time."
+    },
+    {
+      "id": "BIO_2010_10",
+      "text": "Which of the following blood components is responsible for $\\text{Clotting}$?",
+      "image": "[Microscopic image of Platelets]",
+      "options": [
+        "Erythrocytes (Red $\\text{Cells}$)",
+        "Leucocytes (White $\\text{Cells}$)",
+        "Plasma",
+        "Platelets (Thrombocytes)"
+      ],
+      "answer": "Platelets (Thrombocytes)",
+      "explanation": "$\\text{Platelets}$ are small, irregular cell fragments that initiate the $\\text{Blood}$ $\\text{Clotting}$ cascade by releasing $\\text{Thromboplastin}$ when a blood vessel is damaged."
+    },
+    {
+      "id": "BIO_2010_11",
+      "text": "The type of $\\text{Circulatory}$ $\\text{System}$ found in $\\text{Insects}$ (e.g., grasshopper) is:",
+      "image": "[Diagram comparing open and closed circulatory systems]",
+      "options": [
+        "Closed $\\text{Circulatory}$ $\\text{System}$",
+        "Single $\\text{Circulatory}$ $\\text{System}$",
+        "Open $\\text{Circulatory}$ $\\text{System}$",
+        "Pulmonary $\\text{Circulation}$"
+      ],
+      "answer": "Open $\\text{Circulatory}$ $\\text{System}$",
+      "explanation": "$\\text{Insects}$ and most other $\\text{Arthropods}$ have an $\\text{Open}$ $\\text{Circulatory}$ $\\text{System}$, where $\\text{Blood}$ ($\text{Haemolymph}$) is pumped into a cavity ($\text{Haemocoel}$) and bathes the organs directly, rather than being confined solely to vessels."
+    },
+    {
+      "id": "BIO_2010_12",
+      "text": "The part of the $\\text{Flower}$ that attracts $\\text{Insects}$ for $\\text{Pollination}$ is the:",
+      "image": "[Diagram of a flower showing petals]",
+      "options": [
+        "Sepal",
+        "Petal",
+        "Stigma",
+        "Anther"
+      ],
+      "answer": "Petal",
+      "explanation": "The $\\text{Petals}$ are typically large, brightly $\\text{Coloured}$, and often scented, making them the main attractive structure for $\\text{Insect}$ $\\text{Pollinators}$."
+    },
+    {
+      "id": "BIO_2010_13",
+      "text": "Which hormone is associated with the conversion of excess $\\text{Glucose}$ into $\\text{Glycogen}$ in the $\\text{Liver}$?",
+      "image": "[Diagram showing Insulin's role in glucose uptake and storage]",
+      "options": [
+        "Adrenaline",
+        "Glucagon",
+        "Insulin",
+        "Thyroxine"
+      ],
+      "answer": "Insulin",
+      "explanation": "$\\text{Insulin}$, secreted by the $\\text{Pancreas}$, $\\text{Lowers}$ $\\text{Blood}$ $\\text{Glucose}$ $\\text{Level}$ by promoting the uptake of glucose by body cells and the conversion of glucose into $\\text{Glycogen}$ ($\text{Glycogenesis}$) for storage in the $\\text{Liver}$ and $\\text{Muscles}$."
+    },
+    {
+      "id": "BIO_2010_14",
+      "text": "The phenomenon where an organism is better suited to survive and reproduce in its environment is called:",
+      "image": "[Image illustrating Natural Selection in peppered moths]",
+      "options": [
+        "Variation",
+        "Adaptation",
+        "Inheritance",
+        "Mutation"
+      ],
+      "answer": "Adaptation",
+      "explanation": "An $\\text{Adaptation}$ is any $\\text{Heritable}$ $\\text{Trait}$ (structural, physiological, or behavioral) that increases an organism's $\\text{Fitness}$ (survival and reproductive success) in its specific environment."
+    },
+    {
+      "id": "BIO_2010_15",
+      "text": "The organ of $\\text{Sight}$ in humans contains $\\text{Receptors}$ known as:",
+      "image": "[Diagram of the Human Eye showing Rods and Cones]",
+      "options": [
+        "Olfactory $\\text{Cells}$",
+        "Hair $\\text{Cells}$",
+        "Rods and $\\text{Cones}$",
+        "Pacinian $\\text{Corpuscles}$"
+      ],
+      "answer": "Rods and $\\text{Cones}$",
+      "explanation": "$\\text{Rods}$ and $\\text{Cones}$ are the two types of $\\text{Photoreceptors}$ located in the $\\text{Retina}$ of the eye. $\\text{Rods}$ are for $\\text{Dim}$ $\\text{Light}$ (black/white), and $\\text{Cones}$ are for $\\text{Bright}$ $\\text{Light}$ and $\\text{Colour}$ $\\text{Vision}$."
+    },
+    {
+      "id": "BIO_2010_16",
+      "text": "The part of the $\\text{Skin}$ responsible for cooling the body through the evaporation of sweat is the:",
+      "image": "[Cross-section diagram of the Human Skin showing a Sweat Gland]",
+      "options": [
+        "Sebaceous $\\text{Gland}$",
+        "Hair $\\text{Follicle}$",
+        "Sweat $\\text{Gland}$",
+        "Dermis"
+      ],
+      "answer": "Sweat $\\text{Gland}$",
+      "explanation": "The $\\text{Sweat}$ $\\text{Glands}$ secrete sweat, which evaporates from the skin surface, drawing $\\text{Heat}$ $\\text{Energy}$ from the body and thus cooling it (a process of $\\text{Thermoregulation}$)."
+    },
+    {
+      "id": "BIO_2010_17",
+      "text": "In $\\text{Genetics}$, $\\text{Homologous}$ $\\text{Chromosomes}$ are best described as a pair of chromosomes that:",
+      "image": "[Diagram of homologous chromosomes]",
+      "options": [
+        "Carry $\\text{Different}$ $\\text{Genes}$",
+        "Are $\\text{Identical}$ in $\\text{All}$ $\\text{Aspects}$",
+        "Are $\\text{Similar}$ in $\\text{Size}$ and carry $\\text{Genes}$ for the $\\text{Same}$ $\\text{Traits}$",
+        "Are involved only in $\\text{Sex}$ $\\text{Determination}$"
+      ],
+      "answer": "Are $\\text{Similar}$ in $\\text{Size}$ and carry $\\text{Genes}$ for the $\\text{Same}$ $\\text{Traits}$",
+      "explanation": "$\\text{Homologous}$ $\\text{Chromosomes}$ are one from each parent that are $\\text{Similar}$ in $\\text{Length}$ and $\\text{Gene}$ $\\text{Position}$ (loci), but may carry $\\text{Different}$ $\\text{Alleles}$ for those genes."
+    },
+    {
+      "id": "BIO_2010_18",
+      "text": "The $\\text{Movement}$ of water molecules across a $\\text{Selectively}$ $\\text{Permeable}$ $\\text{Membrane}$ from a region of $\\text{Higher}$ $\\text{Water}$ $\\text{Potential}$ to a region of $\\text{Lower}$ $\\text{Water}$ $\\text{Potential}$ is called:",
+      "image": "[Diagram illustrating Osmosis in different concentration solutions]",
+      "options": [
+        "Diffusion",
+        "Translocation",
+        "Osmosis",
+        "Active $\\text{Transport}$"
+      ],
+      "answer": "Osmosis",
+      "explanation": "$\\text{Osmosis}$ is the specific type of $\\text{Diffusion}$ that involves only the $\\text{Movement}$ of $\\text{Water}$ $\\text{Molecules}$ across a $\\text{Semipermeable}$ $\\text{Membrane}$."
+    },
+    {
+      "id": "BIO_2010_19",
+      "text": "The essential gaseous reactant for $\\text{Photosynthesis}$ in plants is:",
+      "image": "[Equation for Photosynthesis]",
+      "options": [
+        "Oxygen ($\\text{O}_2$)",
+        "Nitrogen ($\\text{N}_2$)",
+        "Carbon $\\text{Dioxide}$ ($\\text{CO}_2$)",
+        "Water $\\text{Vapour}$"
+      ],
+      "answer": "Carbon $\\text{Dioxide}$ ($\\text{CO}_2$)",
+      "explanation": "$\\text{Carbon}$ $\\text{Dioxide}$ ($\text{CO}_2$) is fixed and used, along with $\\text{Water}$ and $\\text{Light}$ $\\text{Energy}$, to produce $\\text{Glucose}$ and $\\text{Oxygen}$ during $\\text{Photosynthesis}$."
+    },
+    {
+      "id": "BIO_2010_20",
+      "text": "Which of the following classes of $\\text{Vertebrates}$ are generally characterized by having $\\text{Scales}$, laying $\\text{Shelled}$ $\\text{Eggs}$ on land, and being $\\text{Ectothermic}$?",
+      "image": "[Image showing examples of Reptiles]",
+      "options": [
+        "Amphibia",
+        "Reptilia",
+        "Aves",
+        "Mammalia"
+      ],
+      "answer": "Reptilia",
+      "explanation": "$\\text{Reptiles}$ (snakes, lizards, crocodiles, tortoises) are typically $\\text{Ectothermic}$ (cold-blooded), have dry, $\\text{Scaled}$ $\\text{Skin}$ to prevent water loss, and reproduce by laying $\\text{Amniotic}$ (shelled) $\\text{Eggs}$ on $\\text{Land}$."
+    },
+    {
+      "id": "BIO_2010_21",
+      "text": "In the $\\text{Food}$ $\\text{Chain}$: Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Lizard $\\rightarrow$ Hawk, the Lizard is the:",
+      "image": "[Diagram of the Food Chain and Trophic Levels]",
+      "options": [
+        "Producer",
+        "Primary $\\text{Consumer}$",
+        "Secondary $\\text{Consumer}$",
+        "Tertiary $\\text{Consumer}$"
+      ],
+      "answer": "Tertiary $\\text{Consumer}$",
+      "explanation": "Grass ($\\text{Producer}$) $\\rightarrow$ Grasshopper ($\\text{Primary}$ $\\text{Consumer}$) $\\rightarrow$ Lizard ($\\text{Secondary}$ $\\text{Consumer}$ - eats primary) $\\rightarrow$ Hawk ($\\text{Tertiary}$ $\\text{Consumer}$ - eats secondary). The lizard eats the grasshopper."
+    },
+    {
+      "id": "BIO_2010_22",
+      "text": "A viral disease that is typically transmitted through $\\text{Sexual}$ $\\text{Contact}$ is:",
+      "image": "[Symbolic representation of HIV virus]",
+      "options": [
+        "Malaria",
+        "Tuberculosis ($\\text{TB}$)",
+        "Acquired $\\text{Immune}$ $\\text{Deficiency}$ $\\text{Syndrome}$ ($\\text{AIDS}$)",
+        "Cholera"
+      ],
+      "answer": "Acquired $\\text{Immune}$ $\\text{Deficiency}$ $\\text{Syndrome}$ ($\\text{AIDS}$)",
+      "explanation": "$\\text{AIDS}$ is caused by the $\\text{Human}$ $\\text{Immunodeficiency}$ $\\text{Virus}$ ($\\text{HIV}$), which is transmitted primarily through $\\text{Unprotected}$ $\\text{Sexual}$ $\\text{Intercourse}$, blood transfusions, and from mother to child."
+    },
+    {
+      "id": "BIO_2010_23",
+      "text": "The $\\text{Enzyme}$ that breaks down $\\text{Protein}$ into $\\text{Polypeptides}$ in the $\\text{Stomach}$ is:",
+      "image": "[Diagram illustrating the action of Pepsin]",
+      "options": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Maltase"
+      ],
+      "answer": "Pepsin",
+      "explanation": "$\\text{Pepsin}$ is a $\\text{Protease}$ enzyme secreted in the $\\text{Stomach}$ (as $\\text{Pepsinogen}$) and activated by $\\text{Hydrochloric}$ $\\text{Acid}$. It begins the digestion of $\\text{Proteins}$ into smaller $\\text{Polypeptide}$ chains."
+    },
+    {
+      "id": "BIO_2010_24",
+      "text": "The relationship between a $\\text{Tick}$ and a $\\text{Cow}$, where the tick benefits by feeding on the cow's blood and the cow is harmed, is an example of:",
+      "image": "[Image illustrating Parasitism (Tick on a host)]",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Saprophytism"
+      ],
+      "answer": "Parasitism",
+      "explanation": "$\\text{Parasitism}$ is a symbiotic relationship where one organism (the $\\text{Parasite}$ - the $\\text{Tick}$) $\\text{Benefits}$ at the expense of the other (the $\\text{Host}$ - the $\\text{Cow}$). $\\text{Ticks}$ are $\\text{Ectoparasites}$."
+    },
+    {
+      "id": "BIO_2010_25",
+      "text": "Which structure in the $\\text{Ear}$ converts $\\text{Sound}$ $\\text{Vibrations}$ into $\\text{Nerve}$ $\\text{Impulses}$?",
+      "image": "[Cross-section of the Inner Ear highlighting the Cochlea]",
+      "options": [
+        "Tympanic $\\text{Membrane}$",
+        "Ossicles",
+        "Eustachian $\\text{Tube}$",
+        "Cochlea"
+      ],
+      "answer": "Cochlea",
+      "explanation": "The $\\text{Cochlea}$ in the $\\text{Inner}$ $\\text{Ear}$ contains $\\text{Sensory}$ $\\text{Hair}$ $\\text{Cells}$ that convert the fluid waves generated by sound vibrations into $\\text{Electrical}$ $\\text{Nerve}$ $\\text{Signals}$ sent to the brain."
+    },
+    {
+      "id": "BIO_2010_26",
+      "text": "A plant is considered a $\\text{Xerophyte}$ if it is adapted to survive in an environment with:",
+      "image": "",
+      "options": [
+        "Excessive $\\text{Water}$",
+        "Little or $\\text{No}$ $\\text{Light}$",
+        "Very $\\text{High}$ $\\text{Humidity}$",
+        "Very $\\text{Little}$ $\\text{Water}$"
+      ],
+      "answer": "Very $\\text{Little}$ $\\text{Water}$",
+      "explanation": "$\\text{Xerophytes}$ are plants that have specialized morphological and physiological adaptations (like $\\text{Thick}$ $\\text{Cuticles}$, $\\text{Sunken}$ $\\text{Stomata}$, or $\\text{Fleshy}$ $\\text{Stems}$) to survive in $\\text{Arid}$ or $\\text{Dry}$ habitats with $\\text{Limited}$ $\\text{Water}$ $\\text{Availability}$."
+    },
+    {
+      "id": "BIO_2010_27",
+      "text": "In the process of $\\text{Meiosis}$, $\\text{Crossing}$ $\\text{Over}$ occurs during:",
+      "image": "[Diagram illustrating Crossing Over in Prophase I of Meiosis]",
+      "options": [
+        "Anaphase $\\text{II}$",
+        "Prophase $\\text{I}$",
+        "Metaphase $\\text{I}$",
+        "Telophase $\\text{II}$"
+      ],
+      "answer": "Prophase $\\text{I}$",
+      "explanation": "$\\text{Crossing}$ $\\text{Over}$ is the exchange of $\\text{Genetic}$ $\\text{Material}$ between $\\text{Non}$-$\\text{Sister}$ $\\text{Chromatids}$ of $\\text{Homologous}$ $\\text{Chromosomes}$, which happens during $\\text{Prophase}$ $\\text{I}$ and contributes to $\\text{Genetic}$ $\\text{Variation}$."
+    },
+    {
+      "id": "BIO_2010_28",
+      "text": "The $\\text{Small}$ $\\text{Intestine}$ is highly adapted for $\\text{Absorption}$ of digested food due to the presence of:",
+      "image": "[Microscopic image of Villi in the small intestine]",
+      "options": [
+        "Rugae",
+        "Villi",
+        "Microfibrils",
+        "Pyloric $\\text{Sphincter}$"
+      ],
+      "answer": "Villi",
+      "explanation": "The $\\text{Villi}$ and $\\text{Microvilli}$ are finger-like projections that greatly $\\text{Increase}$ the $\\text{Surface}$ $\\text{Area}$ of the $\\text{Small}$ $\\text{Intestine}$, maximizing the efficiency of $\\text{Nutrient}$ $\\text{Absorption}$ into the bloodstream and lymph."
+    },
+    {
+      "id": "BIO_2010_29",
+      "text": "The main excretory product of $\\text{Fish}$ and other aquatic organisms is:",
+      "image": "[Diagram illustrating excretion of Ammonia]",
+      "options": [
+        "Urea",
+        "Uric $\\text{Acid}$",
+        "Ammonia",
+        "Water"
+      ],
+      "answer": "Ammonia",
+      "explanation": "$\\text{Ammonia}$ is highly $\\text{Toxic}$ but highly $\\text{Soluble}$ in water, requiring large amounts of water for excretion. $\\text{Aquatic}$ $\\text{Animals}$ (e.g., $\\text{Fish}$) can excrete it directly into the water, while $\\text{Mammals}$ convert it to less toxic $\\text{Urea}$."
+    },
+    {
+      "id": "BIO_2010_30",
+      "text": "Which of the following describes the $\\text{Mouth}$ $\\text{Parts}$ of a $\\text{Mosquito}$?",
+      "image": "[Diagram of Mosquito mouthparts (Piercing and Sucking)]",
+      "options": [
+        "Biting and $\\text{Chewing}$",
+        "Piercing and $\\text{Sucking}$",
+        "Siphoning",
+        "Lapping and $\\text{Sponging}$"
+      ],
+      "answer": "Piercing and $\\text{Sucking}$",
+      "explanation": "The $\\text{Mosquito}$ (female) has specialized, needle-like $\\text{Mouthparts}$ that are adapted for $\\text{Piercing}$ the skin of a host and $\\text{Sucking}$ $\\text{Blood}$ (or plant sap)."
+    },
+    {
+      "id": "BIO_2010_31",
+      "text": "The $\\text{Cell}$ $\\text{Organelle}$ primarily responsible for $\\text{Aerobic}$ $\\text{Respiration}$ and $\\text{ATP}$ $\\text{Production}$ is the:",
+      "image": "[Diagram of a Mitochondrion (the powerhouse of the cell)]",
+      "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Mitochondrion",
+        "Vacuole"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "The $\\text{Mitochondrion}$ is often called the '$\\text{Powerhouse}$' of the cell because the later stages of $\\text{Aerobic}$ $\\text{Respiration}$ ($\text{Krebs}$ $\\text{Cycle}$ and $\\text{Oxidative}$ $\\text{Phosphorylation}$) occur here, generating most of the cell's $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2010_32",
+      "text": "The presence of $\\text{Sexual}$ $\\text{Dimorphism}$ in animals primarily indicates that:",
+      "image": "[Image showing a Peacock and Peahen (Sexual Dimorphism)]",
+      "options": [
+        "They reproduce $\\text{Asexually}$",
+        "The species is $\\text{Monogamous}$",
+        "The male and female individuals of the species are $\\text{Visually}$ $\\text{Different}$",
+        "They exhibit $\\text{Parental}$ $\\text{Care}$"
+      ],
+      "answer": "The male and female individuals of the species are $\\text{Visually}$ $\\text{Different}$",
+      "explanation": "$\\text{Sexual}$ $\\text{Dimorphism}$ refers to the systematic $\\text{Difference}$ in form between $\\text{Individuals}$ of $\\text{Different}$ $\\text{Sex}$ in the same species (e.g., size, colour, presence of horns/antlers, etc.)."
+    },
+    {
+      "id": "BIO_2010_33",
+      "text": "In $\\text{Plant}$ $\\text{Hormones}$, $\\text{Gibberellins}$ are primarily known for causing:",
+      "image": "[Image illustrating Gibberellin application on a dwarf plant resulting in stem elongation]",
+      "options": [
+        "Inhibition of $\\text{Growth}$",
+        "Fruit $\\text{Ripening}$",
+        "Stem $\\text{Elongation}$ and $\\text{Seed}$ $\\text{Germination}$",
+        "Root $\\text{Initiation}$"
+      ],
+      "answer": "Stem $\\text{Elongation}$ and $\\text{Seed}$ $\\text{Germination}$",
+      "explanation": "$\\text{Gibberellins}$ are plant hormones that play a major role in $\\text{Stem}$ $\\text{Elongation}$ (especially in dwarf plants) and stimulating $\\text{Seed}$ $\\text{Germination}$ and $\\text{Flowering}$."
+    },
+    {
+      "id": "BIO_2010_34",
+      "text": "Which of these $\\text{Vitamins}$ is essential for $\\text{Normal}$ $\\text{Blood}$ $\\text{Clotting}$?",
+      "image": "",
+      "options": [
+        "Vitamin $\\text{A}$",
+        "Vitamin $\\text{B}_1$",
+        "Vitamin $\\text{C}$",
+        "Vitamin $\\text{K}$"
+      ],
+      "answer": "Vitamin $\\text{K}$",
+      "explanation": "$\\text{Vitamin}$ $\\text{K}$ is crucial because it is required by the $\\text{Liver}$ for the synthesis of several $\\text{Blood}$ $\\text{Clotting}$ $\\text{Factors}$, most notably $\\text{Prothrombin}$."
+    },
+    {
+      "id": "BIO_2010_35",
+      "text": "The accumulation of $\\text{Non}$-$\\text{Biodegradable}$ $\\text{Substances}$ (like $\\text{Pesticides}$) in the $\\text{Food}$ $\\text{Chain}$ is known as:",
+      "image": "[Diagram illustrating Biomagnification in a food web]",
+      "options": [
+        "Eutrophication",
+        "Biomagnification",
+        "Pollution",
+        "Dentrification"
+      ],
+      "answer": "Biomagnification",
+      "explanation": "$\\text{Biomagnification}$ ($\text{Bioaccumulation}$) is the $\\text{Increase}$ in $\\text{Concentration}$ of a $\\text{Substance}$ (e.g., $\\text{Heavy}$ $\\text{Metals}$, $\\text{DDT}$) in $\\text{Organisms}$ at $\\text{Higher}$ $\\text{Trophic}$ $\\text{Levels}$ in a food chain."
+    },
+    {
+      "id": "BIO_2010_36",
+      "text": "Which part of the $\\text{Nephron}$ is primarily responsible for $\\text{Ultrafiltration}$?",
+      "image": "[Diagram of the Glomerulus and Bowman's Capsule]",
+      "options": [
+        "Loop of $\\text{Henle}$",
+        "Collecting $\\text{Duct}$",
+        "Glomerulus and $\\text{Bowman's}$ $\\text{Capsule}$",
+        "Proximal $\\text{Convoluted}$ $\\text{Tubule}$"
+      ],
+      "answer": "Glomerulus and $\\text{Bowman's}$ $\\text{Capsule}$",
+      "explanation": "The high $\\text{Blood}$ $\\text{Pressure}$ in the $\\text{Glomerulus}$ forces water and small solutes out of the blood into the $\\text{Bowman's}$ $\\text{Capsule}$, a process known as $\\text{Ultrafiltration}$."
+    },
+    {
+      "id": "BIO_2010_37",
+      "text": "A character that can be inherited and varies continuously among individuals (e.g., $\\text{Height}$, $\\text{Skin}$ $\\text{Colour}$) is controlled by:",
+      "image": "[Graph illustrating continuous variation (normal distribution curve)]",
+      "options": [
+        "Sex-linked $\\text{Genes}$",
+        "A $\\text{Single}$ $\\text{Gene}$",
+        "Multiple $\\text{Alleles}$",
+        "Polygenes ($\\text{Polygenic}$ $\\text{Inheritance}$)"
+      ],
+      "answer": "Polygenes ($\\text{Polygenic}$ $\\text{Inheritance}$)",
+      "explanation": "$\\text{Continuous}$ $\\text{Variation}$ is typically controlled by $\\text{Polygenic}$ $\\text{Inheritance}$, where $\\text{Multiple}$ $\\text{Genes}$ at different loci collectively influence a single $\\text{Phenotypic}$ $\\text{Trait}$."
+    },
+    {
+      "id": "BIO_2010_38",
+      "text": "Which of the following is an example of an $\\text{Innate}$ (unlearned) $\\text{Behaviour}$ in animals?",
+      "image": "",
+      "options": [
+        "A $\\text{Dog}$ sitting on $\\text{Command}$",
+        "A $\\text{Bird}$ building a $\\text{Nest}$ for the first time",
+        "A $\\text{Child}$ learning to $\\text{Ride}$ a $\\text{Bicycle}$",
+        "A $\\text{Rat}$ navigating a $\\text{Maze}$"
+      ],
+      "answer": "A $\\text{Bird}$ building a $\\text{Nest}$ for the first time",
+      "explanation": "Innate behaviors are $\\text{Genetically}$ $\\text{Programmed}$ and performed correctly the first time they are attempted, often referred to as $\\text{Instincts}$ or $\\text{Fixed}$ $\\text{Action}$ $\\text{Patterns}$ (like nest building)."
+    },
+    {
+      "id": "BIO_2010_39",
+      "text": "The $\\text{Epidermis}$ of a plant leaf is covered by a $\\text{Waxy}$ $\\text{Layer}$ called the:",
+      "image": "[Cross-section of a leaf showing the waxy Cuticle]",
+      "options": [
+        "Stomata",
+        "Cuticle",
+        "Parenchyma",
+        "Lignin"
+      ],
+      "answer": "Cuticle",
+      "explanation": "The $\\text{Cuticle}$ is a $\\text{Waxy}$ $\\text{Layer}$ that covers the outer $\\text{Epidermal}$ $\\text{Cells}$ of leaves and stems. Its primary function is to $\\text{Reduce}$ $\\text{Water}$ $\\text{Loss}$ through $\\text{Evaporation}$."
+    },
+    {
+      "id": "BIO_2010_40",
+      "text": "The $\\text{Main}$ $\\text{Function}$ of $\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ (Erythrocytes) is the:",
+      "image": "",
+      "options": [
+        "Defense against $\\text{Diseases}$",
+        "Transport of $\\text{Oxygen}$",
+        "Formation of $\\text{Blood}$ $\\text{Clots}$",
+        "Regulation of $\\text{Body}$ $\\text{Temperature}$"
+      ],
+      "answer": "Transport of $\\text{Oxygen}$",
+      "explanation": "$\\text{Red}$ $\\text{Blood}$ $\\text{Cells}$ contain $\\text{Haemoglobin}$, which binds to $\\text{Oxygen}$ in the $\\text{Lungs}$ and releases it to the $\\text{Tissues}$ of the body."
+    }
+  ]

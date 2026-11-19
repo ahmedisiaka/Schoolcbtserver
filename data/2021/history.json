@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Fertile Crescent}$, often called the 'Cradle of Civilization', is located in which modern-day region?",
+        "image": "",
+        "options": [
+            "The Middle East",
+            "Southeast Asia",
+            "Central America",
+            "Sub-Saharan Africa"
+        ],
+        "answer": "The Middle East",
+        "explanation": "This region, curving from the Persian Gulf through modern-day Iraq, Syria, Lebanon, Jordan, Israel, and Egypt, saw the birth of some of the earliest human civilizations."
+    },
+    {
+        "id": "H02",
+        "text": "Who was the Greek philosopher sentenced to death by drinking $\\textbf{hemlock}$ for corrupting the youth of Athens?",
+        "image": "",
+        "options": [
+            "Plato",
+            "Aristotle",
+            "Socrates",
+            "Pythagoras"
+        ],
+        "answer": "Socrates",
+        "explanation": "Socrates was a classical Greek philosopher credited as one of the founders of Western philosophy, executed in 399 BC."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Punic Wars}$ were a series of conflicts fought between Rome and which other major power?",
+        "image": "",
+        "options": [
+            "Sparta",
+            "Carthage",
+            "Persia",
+            "Egypt"
+        ],
+        "answer": "Carthage",
+        "explanation": "Fought between 264 BC and 146 BC, these wars determined who would control the Mediterranean Sea."
+    },
+    {
+        "id": "H04",
+        "text": "Which emperor is responsible for the construction of the $\\textbf{Hagia Sophia}$ in Constantinople?",
+        "image": "",
+        "options": [
+            "Constantine the Great",
+            "Justinian I",
+            "Nero",
+            "Marcus Aurelius"
+        ],
+        "answer": "Justinian I",
+        "explanation": "Completed in 537 AD, it served as the world's largest cathedral for nearly a thousand years."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Battle of Tours}$ (732 AD) is historically significant because Charles Martel:",
+        "image": "",
+        "options": [
+            "Defeated the Vikings",
+            "Stopped the Muslim advance into Western Europe",
+            "Overthrew the Roman Empire",
+            "Unified the Germanic tribes"
+        ],
+        "answer": "Stopped the Muslim advance into Western Europe",
+        "explanation": "The victory halted the northward expansion of the Umayyad Caliphate from the Iberian Peninsula."
+    },
+    {
+        "id": "H06",
+        "text": "Who was the Venetian merchant who traveled to China and served in the court of $\\textbf{Kublai Khan}$?",
+        "image": "",
+        "options": [
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Marco Polo",
+            "Ibn Battuta"
+        ],
+        "answer": "Marco Polo",
+        "explanation": "His travels, recorded in 'The Travels of Marco Polo', introduced Europeans to Central Asia and China."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{War of the Roses}$ ended with the victory of Henry Tudor, establishing which dynasty?",
+        "image": "",
+        "options": [
+            "The Stuarts",
+            "The Tudors",
+            "The Plantagenets",
+            "The Windsors"
+        ],
+        "answer": "The Tudors",
+        "explanation": "Henry VII married Elizabeth of York, uniting the warring houses of Lancaster and York."
+    },
+    {
+        "id": "H08",
+        "text": "Which scientist was forced by the Catholic Church to recant his support for $\\textbf{heliocentrism}$?",
+        "image": "",
+        "options": [
+            "Johannes Kepler",
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Nicolaus Copernicus"
+        ],
+        "answer": "Galileo Galilei",
+        "explanation": "In 1633, he was tried by the Inquisition and spent the rest of his life under house arrest."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Edict of Nantes}$ (1598) granted religious toleration to:",
+        "image": "",
+        "options": [
+            "French Huguenots (Protestants)",
+            "Spanish Jews",
+            "English Catholics",
+            "German Lutherans"
+        ],
+        "answer": "French Huguenots (Protestants)",
+        "explanation": "Issued by Henry IV of France, it ended the Wars of Religion by granting rights to Protestants."
+    },
+    {
+        "id": "H10",
+        "text": "Who was known as the $\\textbf{'Sun King'}$ and built the Palace of Versailles?",
+        "image": "",
+        "options": [
+            "Louis XIV",
+            "Louis XVI",
+            "Napoleon Bonaparte",
+            "Charlemagne"
+        ],
+        "answer": "Louis XIV",
+        "explanation": "He reigned for 72 years and is the ultimate example of an absolute monarch in Europe."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Boston Massacre}$ of 1770 involved British soldiers firing upon a crowd of colonists in:",
+        "image": "",
+        "options": [
+            "New York",
+            "Boston",
+            "Philadelphia",
+            "Charleston"
+        ],
+        "answer": "Boston",
+        "explanation": "The incident killed five civilians and helped galvanize colonial sentiment against British rule."
+    },
+    {
+        "id": "H12",
+        "text": "Which philosopher believed that all people have natural rights to $\\textbf{'life, liberty, and property'}$?",
+        "image": "",
+        "options": [
+            "Thomas Hobbes",
+            "John Locke",
+            "Voltaire",
+            "Jean-Jacques Rousseau"
+        ],
+        "answer": "John Locke",
+        "explanation": "Locke's ideas heavily influenced the American Declaration of Independence."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Battle of Yorktown}$ (1781) resulted in the surrender of which British General?",
+        "image": "",
+        "options": [
+            "General Howe",
+            "General Burgoyne",
+            "General Cornwallis",
+            "General Clinton"
+        ],
+        "answer": "General Cornwallis",
+        "explanation": "This defeat effectively ended major combat operations in the American Revolutionary War."
+    },
+    {
+        "id": "H14",
+        "text": "Who led the $\\textbf{Reign of Terror}$ in France?",
+        "image": "",
+        "options": [
+            "Napoleon Bonaparte",
+            "Maximilien Robespierre",
+            "Louis XVI",
+            "Marquis de Lafayette"
+        ],
+        "answer": "Maximilien Robespierre",
+        "explanation": "As a leader of the Committee of Public Safety, he oversaw a period of mass executions."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Monroe Doctrine}$ (1823) warned European powers against:",
+        "image": "",
+        "options": [
+            "Trading with Asia",
+            "Interfering in the affairs of the Western Hemisphere",
+            "Building a navy",
+            "Colonizing Africa"
+        ],
+        "answer": "Interfering in the affairs of the Western Hemisphere",
+        "explanation": "It stated that further efforts by European nations to colonize land in the Americas would be viewed as acts of aggression."
+    },
+    {
+        "id": "H16",
+        "text": "Which war is often called the $\\textbf{'First Modern War'}$ due to the use of ironclads and trenches?",
+        "image": "",
+        "options": [
+            "The Crimean War",
+            "The American Civil War",
+            "The Franco-Prussian War",
+            "The Napoleonic Wars"
+        ],
+        "answer": "The American Civil War",
+        "explanation": "It featured industrial-era technology, including railroads, telegraphs, and mass-produced weapons."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Meiji Restoration}$ in Japan marked the end of the rule of the:",
+        "image": "",
+        "options": [
+            "Emperors",
+            "Shoguns",
+            "Samurai",
+            "Mongols"
+        ],
+        "answer": "Shoguns",
+        "explanation": "It ended the Tokugawa Shogunate and restored imperial rule, leading to rapid modernization."
+    },
+    {
+        "id": "H18",
+        "text": "Who developed the $\\textbf{Theory of Evolution}$ by natural selection?",
+        "image": "",
+        "options": [
+            "Gregor Mendel",
+            "Charles Darwin",
+            "Louis Pasteur",
+            "Sigmund Freud"
+        ],
+        "answer": "Charles Darwin",
+        "explanation": "He published his theory in the 1859 book 'On the Origin of Species'."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Sepoy Mutiny}$ (1857) was a major uprising against British rule in:",
+        "image": "",
+        "options": [
+            "South Africa",
+            "India",
+            "China",
+            "Egypt"
+        ],
+        "answer": "India",
+        "explanation": "The rebellion led to the end of the East India Company's rule and the establishment of direct British governance (The Raj)."
+    },
+    {
+        "id": "H20",
+        "text": "Which amendment to the US Constitution granted $\\textbf{women the right to vote}$?",
+        "image": "",
+        "options": [
+            "13th Amendment",
+            "15th Amendment",
+            "19th Amendment",
+            "21st Amendment"
+        ],
+        "answer": "19th Amendment",
+        "explanation": "Ratified in 1920, it prohibits the states and the federal government from denying the right to vote to citizens of the United States on the basis of sex."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Lusitania}$ was sunk by a German U-boat in 1915, contributing to the entry of which country into WWI?",
+        "image": "",
+        "options": [
+            "Russia",
+            "The United States",
+            "Italy",
+            "France"
+        ],
+        "answer": "The United States",
+        "explanation": "The sinking killed 1,198 passengers, including 128 Americans, shifting public opinion."
+    },
+    {
+        "id": "H22",
+        "text": "Who was the leader of the $\\textbf{Fascist Party}$ in Italy during World War II?",
+        "image": "",
+        "options": [
+            "Francisco Franco",
+            "Benito Mussolini",
+            "Adolf Hitler",
+            "Joseph Stalin"
+        ],
+        "answer": "Benito Mussolini",
+        "explanation": "Mussolini ruled Italy as Prime Minister from 1922 to 1943."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Molotov-Ribbentrop Pact}$ was a non-aggression treaty between:",
+        "image": "",
+        "options": [
+            "Germany and Poland",
+            "Germany and the Soviet Union",
+            "Britain and France",
+            "USA and Japan"
+        ],
+        "answer": "Germany and the Soviet Union",
+        "explanation": "Signed in 1939, it secretly divided Eastern Europe into spheres of influence."
+    },
+    {
+        "id": "H24",
+        "text": "The invasion of $\\textbf{Normandy}$ (D-Day) took place on:",
+        "image": "",
+        "options": [
+            "June 6, 1944",
+            "December 7, 1941",
+            "May 8, 1945",
+            "September 1, 1939"
+        ],
+        "answer": "June 6, 1944",
+        "explanation": "It was the largest seaborne invasion in history and began the liberation of German-occupied France."
+    },
+    {
+        "id": "H25",
+        "text": "Which conference in 1945 decided the post-war division of Germany?",
+        "image": "",
+        "options": [
+            "The Munich Conference",
+            "The Yalta Conference",
+            "The Paris Peace Conference",
+            "The Tehran Conference"
+        ],
+        "answer": "The Yalta Conference",
+        "explanation": "The 'Big Three' (Churchill, Roosevelt, and Stalin) met to discuss Europe's post-war reorganization."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{Berlin Airlift}$ (1948–1949) was a response to:",
+        "image": "",
+        "options": [
+            "The construction of the Berlin Wall",
+            "The Soviet blockade of West Berlin",
+            "A flu epidemic",
+            "The bombing of Berlin"
+        ],
+        "answer": "The Soviet blockade of West Berlin",
+        "explanation": "The Western Allies organized an airlift to carry supplies to the people of West Berlin."
+    },
+    {
+        "id": "H27",
+        "text": "Who was the first human to travel into $\\textbf{space}$?",
+        "image": "",
+        "options": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "John Glenn",
+            "Alan Shepard"
+        ],
+        "answer": "Yuri Gagarin",
+        "explanation": "The Soviet cosmonaut orbited the Earth on April 12, 1961."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Tet Offensive}$ was a major turning point in which war?",
+        "image": "",
+        "options": [
+            "The Korean War",
+            "The Vietnam War",
+            "The Gulf War",
+            "The Afghan War"
+        ],
+        "answer": "The Vietnam War",
+        "explanation": "Launched by the Viet Cong and North Vietnamese in 1968, it weakened US public support for the war."
+    },
+    {
+        "id": "H29",
+        "text": "Which treaty created the $\\textbf{European Union}$ in 1993?",
+        "image": "",
+        "options": [
+            "The Treaty of Rome",
+            "The Maastricht Treaty",
+            "The Treaty of Versailles",
+            "The Treaty of Lisbon"
+        ],
+        "answer": "The Maastricht Treaty",
+        "explanation": "It formally established the European Union and paved the way for the single currency, the euro."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Iranian Revolution}$ of 1979 resulted in the overthrow of:",
+        "image": "",
+        "options": [
+            "The Shah (Mohammad Reza Pahlavi)",
+            "Ayatollah Khomeini",
+            "Saddam Hussein",
+            "The Taliban"
+        ],
+        "answer": "The Shah (Mohammad Reza Pahlavi)",
+        "explanation": "The revolution replaced a pro-Western monarchy with an anti-Western theocracy."
+    },
+    {
+        "id": "H31",
+        "text": "Which ancient wonder was a massive statue of the sun god Helios?",
+        "image": "",
+        "options": [
+            "The Great Sphinx",
+            "The Colossus of Rhodes",
+            "The Statue of Zeus",
+            "The Terracotta Army"
+        ],
+        "answer": "The Colossus of Rhodes",
+        "explanation": "It stood at the entrance to the harbor of Rhodes before being destroyed by an earthquake."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Trail of Tears}$ refers to the forced relocation of which people?",
+        "image": "",
+        "options": [
+            "Native Americans (Cherokee and others)",
+            "Japanese Americans",
+            "Acadians",
+            "Irish Immigrants"
+        ],
+        "answer": "Native Americans (Cherokee and others)",
+        "explanation": "Thousands died during the forced march from the southeastern US to Indian Territory (Oklahoma) in the 1830s."
+    },
+    {
+        "id": "H33",
+        "text": "Who invented the $\\textbf{telephone}$?",
+        "image": "",
+        "options": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell",
+        "explanation": "Bell was awarded the first US patent for the telephone in 1876."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Maginot Line}$ was a line of fortifications built by which country?",
+        "image": "",
+        "options": [
+            "Germany",
+            "France",
+            "Russia",
+            "Italy"
+        ],
+        "answer": "France",
+        "explanation": "Built in the 1930s to deter invasion by Germany, it was eventually bypassed during WWII."
+    },
+    {
+        "id": "H35",
+        "text": "The landmark Supreme Court case $\\textbf{Brown v. Board of Education}$ (1954) declared:",
+        "image": "",
+        "options": [
+            "Slavery illegal",
+            "Segregation in public schools unconstitutional",
+            "Women's right to vote",
+            "The draft constitutional"
+        ],
+        "answer": "Segregation in public schools unconstitutional",
+        "explanation": "The court ruled that 'separate educational facilities are inherently unequal'."
+    },
+    {
+        "id": "H36",
+        "text": "Who was the first female $\\textbf{Prime Minister of India}$?",
+        "image": "",
+        "options": [
+            "Benazir Bhutto",
+            "Indira Gandhi",
+            "Golda Meir",
+            "Pratibha Patil"
+        ],
+        "answer": "Indira Gandhi",
+        "explanation": "Daughter of Jawaharlal Nehru, she served as Prime Minister from 1966 to 1977 and again from 1980 until her assassination."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Battle of Hastings}$ is depicted on which famous artifact?",
+        "image": "",
+        "options": [
+            "The Rosetta Stone",
+            "The Bayeux Tapestry",
+            "The Dead Sea Scrolls",
+            "The Code of Hammurabi"
+        ],
+        "answer": "The Bayeux Tapestry",
+        "explanation": "This 70-meter-long embroidered cloth depicts the events leading up to the Norman conquest of England."
+    },
+    {
+        "id": "H38",
+        "text": "Which empire was ruled by $\\textbf{Suleiman the Magnificent}$?",
+        "image": "",
+        "options": [
+            "The Mughal Empire",
+            "The Ottoman Empire",
+            "The Persian Empire",
+            "The Byzantine Empire"
+        ],
+        "answer": "The Ottoman Empire",
+        "explanation": "Under his rule in the 16th century, the Ottoman Empire reached the peak of its power and influence."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Cultural Revolution}$ in China was a movement to:",
+        "image": "",
+        "options": [
+            "Restore the monarchy",
+            "Preserve Communist ideology by purging remnants of capitalist and traditional elements",
+            "Adopt Western democracy",
+            "Industrialize rural areas"
+        ],
+        "answer": "Preserve Communist ideology by purging remnants of capitalist and traditional elements",
+        "explanation": "Launched by Mao Zedong in 1966, it led to widespread social and political chaos."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Kyoto Protocol}$ (1997) was an international treaty focused on:",
+        "image": "",
+        "options": [
+            "Nuclear disarmament",
+            "Reducing greenhouse gas emissions",
+            "Ending child labor",
+            "Regulating international banking"
+        ],
+        "answer": "Reducing greenhouse gas emissions",
+        "explanation": "It extended the 1992 United Nations Framework Convention on Climate Change to combat global warming."
+    }
+]

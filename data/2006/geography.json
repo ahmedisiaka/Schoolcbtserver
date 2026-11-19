@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In 2006, $\\textbf{Montenegro}$ declared independence, officially ending its union with $\\textbf{Serbia}$ and dissolving the last remnants of $\\textbf{Yugoslavia}$.",
+        "image": "",
+        "options": [
+            "Croatia",
+            "Bosnia",
+            "Serbia",
+            "Albania"
+        ],
+        "answer": "Serbia",
+        "explanation": "The State Union of Serbia and Montenegro was dissolved following an independence referendum."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{International Astronomical Union}$, meeting in Prague in 2006, controversially reclassified $\\textbf{Pluto}$ as a $\\textbf{Dwarf Planet}$.",
+        "image": "",
+        "options": [
+            "Mars",
+            "Ceres",
+            "Pluto",
+            "Eris"
+        ],
+        "answer": "Pluto",
+        "explanation": "This decision reduced the number of planets in the solar system to eight, creating a new category for trans-Neptunian objects."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Qinghai-Tibet Railway}$, the world's highest railway, began operations in 2006, connecting Beijing to $\\textbf{Lhasa}$.",
+        "image": "",
+        "options": [
+            "Kathmandu",
+            "Lhasa",
+            "Thimphu",
+            "Chengdu"
+        ],
+        "answer": "Lhasa",
+        "explanation": "The railway crosses the Tanggula Pass at 5,072 meters above sea level."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Three Gorges Dam}$ in $\\textbf{China}$ completed the construction of its main concrete wall in 2006, spanning the $\\textbf{Yangtze River}$.",
+        "image": "",
+        "options": [
+            "Yellow River",
+            "Mekong River",
+            "Yangtze River",
+            "Pearl River"
+        ],
+        "answer": "Yangtze River",
+        "explanation": "It is the world's largest power station in terms of installed capacity."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Sidoarjo Mud Flow}$ (Lusi) began erupting in 2006 in East $\\textbf{Java}$, $\\textbf{Indonesia}$, submerging villages in hot mud.",
+        "image": "",
+        "options": [
+            "Sumatra",
+            "Java",
+            "Borneo",
+            "Sulawesi"
+        ],
+        "answer": "Java",
+        "explanation": "The eruption is believed to have been triggered by natural gas drilling or an earthquake, and continues to flow today."
+    },
+    {
+        "id": "GEO06",
+        "text": "The 2006 $\\textbf{Winter Olympics}$ were hosted by the city of $\\textbf{Turin}$ (Torino), located in the Piedmont region of northern $\\textbf{Italy}$.",
+        "image": "",
+        "options": [
+            "France",
+            "Switzerland",
+            "Austria",
+            "Italy"
+        ],
+        "answer": "Italy",
+        "explanation": "Turin sits at the foot of the Alps."
+    },
+    {
+        "id": "GEO07",
+        "text": "The 2006 $\\textbf{FIFA World Cup}$ took place in $\\textbf{Germany}$, utilizing stadiums in cities like Berlin, Munich, and Dortmund.",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "Italy",
+            "Spain"
+        ],
+        "answer": "Germany",
+        "explanation": "It was the first time the tournament was held in a unified Germany."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Baku-Tbilisi-Ceyhan}$ pipeline was officially inaugurated in 2006, transporting oil from the $\\textbf{Caspian Sea}$ to the $\\textbf{Mediterranean Sea}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Baltic Sea"
+        ],
+        "answer": "Mediterranean Sea",
+        "explanation": "It bypasses the congested Bosphorus Strait, running through Azerbaijan, Georgia, and Turkey."
+    },
+    {
+        "id": "GEO09",
+        "text": "Construction began on the $\\textbf{Svalbard Global Seed Vault}$ in 2006, located on an island belonging to $\\textbf{Norway}$ inside the Arctic Circle.",
+        "image": "",
+        "options": [
+            "Sweden",
+            "Finland",
+            "Norway",
+            "Russia"
+        ],
+        "answer": "Norway",
+        "explanation": "The facility is designed to secure the world's crop diversity against catastrophes."
+    },
+    {
+        "id": "GEO10",
+        "text": "In 2006, $\\textbf{North Korea}$ conducted its first underground $\\textbf{Nuclear Test}$ at the Punggye-ri site, raising geopolitical tensions in East Asia.",
+        "image": "",
+        "options": [
+            "South Korea",
+            "Japan",
+            "North Korea",
+            "China"
+        ],
+        "answer": "North Korea",
+        "explanation": "The test confirmed North Korea's status as a nuclear-armed state."
+    },
+    {
+        "id": "GEO11",
+        "text": "A devastating earthquake struck the $\\textbf{Yogyakarta}$ region on the island of $\\textbf{Java}$ in 2006, damaging the ancient $\\textbf{Prambanan}$ temple complex.",
+        "image": "",
+        "options": [
+            "Bali",
+            "Java",
+            "Lombok",
+            "Sumatra"
+        ],
+        "answer": "Java",
+        "explanation": "The quake killed over 5,700 people and injured tens of thousands."
+    },
+    {
+        "id": "GEO12",
+        "text": "The 2006 $\\textbf{Lebanon War}$ involved conflict along the 'Blue Line' border between $\\textbf{Israel}$ and $\\textbf{Lebanon}$.",
+        "image": "",
+        "options": [
+            "Syria",
+            "Jordan",
+            "Egypt",
+            "Lebanon"
+        ],
+        "answer": "Lebanon",
+        "explanation": "The conflict caused significant damage to infrastructure in Beirut and southern Lebanon."
+    },
+    {
+        "id": "GEO13",
+        "text": "The population of the $\\textbf{United States}$ officially reached the $\\textbf{300 Million}$ mark in October 2006.",
+        "image": "",
+        "options": [
+            "200 Million",
+            "300 Million",
+            "400 Million",
+            "500 Million"
+        ],
+        "answer": "300 Million",
+        "explanation": "This demographic milestone highlighted the country's continued population growth."
+    },
+    {
+        "id": "GEO14",
+        "text": "Cyclone $\\textbf{Larry}$ made landfall as a Category 4 storm in $\\textbf{Queensland}$, Australia, causing extensive damage to banana crops.",
+        "image": "",
+        "options": [
+            "New South Wales",
+            "Victoria",
+            "Queensland",
+            "Western Australia"
+        ],
+        "answer": "Queensland",
+        "explanation": "It devastated the Innisfail region."
+    },
+    {
+        "id": "GEO15",
+        "text": "Mount $\\textbf{Merapi}$, one of the world's most active volcanoes, erupted in 2006, threatening the city of $\\textbf{Yogyakarta}$ in Indonesia.",
+        "image": "",
+        "options": [
+            "Jakarta",
+            "Yogyakarta",
+            "Surabaya",
+            "Bandung"
+        ],
+        "answer": "Yogyakarta",
+        "explanation": "Activity at Merapi often coincides with seismic activity in the region."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Tungurahua}$ volcano in $\\textbf{Ecuador}$ erupted violently in 2006, forcing the evacuation of local villages in the Andes.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Colombia",
+            "Ecuador",
+            "Chile"
+        ],
+        "answer": "Ecuador",
+        "explanation": "The name means 'Throat of Fire' in Quechua."
+    },
+    {
+        "id": "GEO17",
+        "text": "Scientists discovered a 'Lost World' of new species in the $\\textbf{Foja Mountains}$ on the island of $\\textbf{New Guinea}$ (Indonesian Papua) in 2006.",
+        "image": "",
+        "options": [
+            "Borneo",
+            "Madagascar",
+            "New Guinea",
+            "Sumatra"
+        ],
+        "answer": "New Guinea",
+        "explanation": "Discoveries included a new bird of paradise and a golden-mantled tree kangaroo."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Palm Jumeirah}$, an artificial archipelago in $\\textbf{Dubai}$, welcomed its first residents in 2006.",
+        "image": "",
+        "options": [
+            "Abu Dhabi",
+            "Doha",
+            "Dubai",
+            "Manama"
+        ],
+        "answer": "Dubai",
+        "explanation": "It is shaped like a palm tree and is one of the massive reclamation projects in the UAE."
+    },
+    {
+        "id": "GEO19",
+        "text": "Voters in $\\textbf{Panama}$ overwhelmingly approved a referendum in 2006 to expand the $\\textbf{Panama Canal}$.",
+        "image": "",
+        "options": [
+            "Nicaragua",
+            "Costa Rica",
+            "Panama",
+            "Colombia"
+        ],
+        "answer": "Panama",
+        "explanation": "The expansion project aimed to add a third set of locks to accommodate larger ships."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Burj Khalifa}$ (then Burj Dubai) continued rising in 2006, destined to become the tallest building in the $\\textbf{Middle East}$ and the world.",
+        "image": "",
+        "options": [
+            "Europe",
+            "Asia",
+            "Middle East",
+            "North America"
+        ],
+        "answer": "Middle East",
+        "explanation": "It became the defining landmark of Dubai's skyline."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Soy Moratorium}$ was signed in 2006 to prevent deforestation in the $\\textbf{Amazon Rainforest}$ caused by soybean farming.",
+        "image": "",
+        "options": [
+            "Congo Basin",
+            "Amazon Rainforest",
+            "Southeast Asian Rainforest",
+            "Daintree Rainforest"
+        ],
+        "answer": "Amazon Rainforest",
+        "explanation": "Major grain traders agreed not to purchase soy grown on recently deforested land in Brazil."
+    },
+    {
+        "id": "GEO22",
+        "text": "In 2006, $\\textbf{Iceland}$ announced it would resume commercial $\\textbf{Whaling}$, drawing international criticism from environmental groups.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Norway",
+            "Iceland",
+            "Canada"
+        ],
+        "answer": "Iceland",
+        "explanation": "Iceland is one of the few countries that openly hunts whales."
+    },
+    {
+        "id": "GEO23",
+        "text": "President Evo Morales nationalized the $\\textbf{Natural Gas}$ industry in $\\textbf{Bolivia}$ in 2006, asserting state control over the country's resources.",
+        "image": "",
+        "options": [
+            "Venezuela",
+            "Bolivia",
+            "Peru",
+            "Brazil"
+        ],
+        "answer": "Bolivia",
+        "explanation": "Bolivia has the second-largest natural gas reserves in South America."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Jack 2}$ oil field discovery in the deep waters of the $\\textbf{Gulf of Mexico}$ was announced in 2006, indicating vast untapped reserves.",
+        "image": "",
+        "options": [
+            "North Sea",
+            "Gulf of Mexico",
+            "Persian Gulf",
+            "Caspian Sea"
+        ],
+        "answer": "Gulf of Mexico",
+        "explanation": "It demonstrated the potential of the Lower Tertiary trend in deep water."
+    },
+    {
+        "id": "GEO25",
+        "text": "Severe floods struck the $\\textbf{Horn of Africa}$ in 2006, affecting Somalia, Kenya, and $\\textbf{Ethiopia}$ following a period of drought.",
+        "image": "",
+        "options": [
+            "Sudan",
+            "Ethiopia",
+            "Eritrea",
+            "Djibouti"
+        ],
+        "answer": "Ethiopia",
+        "explanation": "The floods displaced thousands in the Somali region of Ethiopia."
+    },
+    {
+        "id": "GEO26",
+        "text": "Typhoon $\\textbf{Saomai}$ was the strongest typhoon to strike $\\textbf{China}$ in 50 years when it made landfall in Zhejiang province in 2006.",
+        "image": "",
+        "options": [
+            "Japan",
+            "Vietnam",
+            "China",
+            "Philippines"
+        ],
+        "answer": "China",
+        "explanation": "It caused widespread destruction in the coastal city of Wenzhou."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Canary Islands}$ faced a migration crisis in 2006 as thousands of migrants arrived from West Africa in fishing boats known as $\\textbf{Cayucos}$.",
+        "image": "",
+        "options": [
+            "Azores",
+            "Madeira",
+            "Canary Islands",
+            "Cape Verde"
+        ],
+        "answer": "Canary Islands",
+        "explanation": "The islands are a Spanish territory located off the coast of Morocco."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Cassini}$ spacecraft discovered evidence of liquid hydrocarbon lakes on $\\textbf{Titan}$, the largest moon of $\\textbf{Saturn}$, in 2006.",
+        "image": "",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Saturn",
+        "explanation": "Titan is the only object in space other than Earth known to have stable bodies of surface liquid."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Stardust}$ space probe returned a capsule to Earth in 2006, landing in the $\\textbf{Utah}$ desert with comet dust samples.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Arizona",
+            "Utah",
+            "New Mexico"
+        ],
+        "answer": "Utah",
+        "explanation": "It was the first sample return mission from a comet."
+    },
+    {
+        "id": "GEO30",
+        "text": "Terminal 4 at $\\textbf{Madrid-Barajas Airport}$ opened in 2006, designed by Richard Rogers and known for its bamboo ceiling and undulating $\\textbf{Roof}$.",
+        "image": "",
+        "options": [
+            "Barcelona",
+            "Madrid",
+            "Valencia",
+            "Seville"
+        ],
+        "answer": "Madrid",
+        "explanation": "The terminal significantly increased the airport's capacity and won architectural awards."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Democratic Republic of the Congo}$ held its first multi-party elections in 40 years in 2006, centering on the capital $\\textbf{Kinshasa}$.",
+        "image": "",
+        "options": [
+            "Brazzaville",
+            "Kinshasa",
+            "Lubumbashi",
+            "Goma"
+        ],
+        "answer": "Kinshasa",
+        "explanation": "The elections were a major milestone in the country's peace process after the Second Congo War."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Danube River}$ reached record flood levels in 2006, threatening cities across Eastern Europe including $\\textbf{Belgrade}$ and Budapest.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Elbe",
+            "Danube",
+            "Volga"
+        ],
+        "answer": "Danube",
+        "explanation": "It is Europe's second-longest river."
+    },
+    {
+        "id": "GEO33",
+        "text": "A severe $\\textbf{Heat Wave}$ struck $\\textbf{California}$ in 2006, straining the power grid and causing widespread agricultural damage.",
+        "image": "",
+        "options": [
+            "Texas",
+            "Florida",
+            "California",
+            "Arizona"
+        ],
+        "answer": "California",
+        "explanation": "Temperatures in some areas exceeded 115°F (46°C) for consecutive days."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Irrawaddy Dolphin}$ population in the $\\textbf{Mekong River}$ was reported to be critically low in 2006, highlighting environmental stress in $\\textbf{Cambodia}$.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Laos",
+            "Cambodia",
+            "Thailand"
+        ],
+        "answer": "Cambodia",
+        "explanation": "The Mekong population is one of the few freshwater populations of this species."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{East Timor}$ crisis in 2006 led to the deployment of international peacekeepers to the capital, $\\textbf{Dili}$.",
+        "image": "",
+        "options": [
+            "Jakarta",
+            "Dili",
+            "Port Moresby",
+            "Suva"
+        ],
+        "answer": "Dili",
+        "explanation": "Violence erupted due to friction within the military, displacing thousands."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Arsenal}$ football club moved to the new Emirates Stadium in 2006, a major urban regeneration project in North $\\textbf{London}$.",
+        "image": "",
+        "options": [
+            "Manchester",
+            "Liverpool",
+            "London",
+            "Birmingham"
+        ],
+        "answer": "London",
+        "explanation": "The stadium replaced the historic Highbury ground."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Mayon Volcano}$ in the $\\textbf{Philippines}$ erupted in 2006, followed by deadly typhoons that caused lahars (mudflows).",
+        "image": "",
+        "options": [
+            "Luzon",
+            "Visayas",
+            "Mindanao",
+            "Palawan"
+        ],
+        "answer": "Luzon",
+        "explanation": "Mayon is famous for its almost perfect cone shape."
+    },
+    {
+        "id": "GEO38",
+        "text": "A new survey in 2006 using GPS technology revealed the $\\textbf{Great Wall of China}$ was significantly longer than previously thought.",
+        "image": "",
+        "options": [
+            "Shorter",
+            "Longer",
+            "Unchanged",
+            "Discontinuous"
+        ],
+        "answer": "Longer",
+        "explanation": "The survey uncovered hidden sections of the wall in deserts and mountains."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Sathorn Unique Tower}$ in $\\textbf{Bangkok}$, Thailand, remained an abandoned 'Ghost Tower' in 2006, a relic of the 1997 financial crisis.",
+        "image": "",
+        "options": [
+            "Manila",
+            "Jakarta",
+            "Bangkok",
+            "Kuala Lumpur"
+        ],
+        "answer": "Bangkok",
+        "explanation": "It became a famous destination for urban explorers."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Sundarbans}$, the world's largest mangrove forest shared by $\\textbf{India}$ and Bangladesh, was designated a Biosphere Reserve by UNESCO in India in 2001 (and continued focus in 2006).",
+        "image": "",
+        "options": [
+            "Myanmar",
+            "India",
+            "Pakistan",
+            "Nepal"
+        ],
+        "answer": "India",
+        "explanation": "It is famous for its Royal Bengal Tiger population."
+    }
+]

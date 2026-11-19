@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_01",
+      "text": "The accounting concept that assumes a business entity will continue to operate indefinitely is the:",
+      "image": "ACCO_2023_01.png",
+      "options": [
+        "Materiality concept",
+        "Prudence concept",
+        "Going concern concept",
+        "Accrual concept"
+      ],
+      "answer": "Going concern concept",
+      "explanation": "The Going Concern Concept justifies treating assets as long-term investments rather than being valued at liquidation prices, as the business is expected to last for the foreseeable future."
+    },
+    {
+      "id": "ACCO_2023_02",
+      "text": "Which of the following is an example of a capital expenditure?",
+      "image": "ACCO_2023_02.png",
+      "options": [
+        "Repair of factory machinery",
+        "Purchase of raw materials",
+        "Installation cost of a new machine",
+        "Wages paid to casual labor"
+      ],
+      "answer": "Installation cost of a new machine",
+      "explanation": "Capital expenditure is spending that results in the acquisition of non-current assets or an improvement that increases the earning capacity of an existing non-current asset. Installation costs are necessary to make the machine operational."
+    },
+    {
+      "id": "ACCO_2023_03",
+      "text": "The primary purpose of preparing a Trial Balance is to check the:",
+      "image": "ACCO_2023_03.png",
+      "options": [
+        "Accuracy of profit calculation",
+        "Arithmetic accuracy of the double-entry records",
+        "Liquidity position of the business",
+        "Completeness of transactions recorded"
+      ],
+      "answer": "Arithmetic accuracy of the double-entry records",
+      "explanation": "A Trial Balance lists all ledger balances to ensure that the total of all debit balances equals the total of all credit balances, confirming arithmetic accuracy, though it does not catch all errors."
+    },
+    {
+      "id": "ACCO_2023_04",
+      "text": "The accounting equation states that Assets equals:",
+      "image": "ACCO_2023_04.png",
+      "options": [
+        "Revenue + Expenses",
+        "Capital + Liabilities",
+        "Purchases - Sales",
+        "Opening Stock + Purchases"
+      ],
+      "answer": "Capital + Liabilities",
+      "explanation": "The fundamental accounting equation is: Assets = Liabilities + Owner's Equity (Capital). It reflects the dual aspect concept."
+    },
+    {
+      "id": "ACCO_2023_05",
+      "text": "The reducing balance method of depreciation results in:",
+      "image": "ACCO_2023_05.png",
+      "options": [
+        "Constant annual depreciation charge",
+        "Increasing annual depreciation charge",
+        "Decreasing annual depreciation charge",
+        "A zero charge in the final year"
+      ],
+      "answer": "Decreasing annual depreciation charge",
+      "explanation": "Under the reducing balance method, a fixed percentage is applied to the carrying amount (cost minus accumulated depreciation), leading to a lower depreciation charge each subsequent year."
+    },
+    {
+      "id": "ACCO_2023_06",
+      "text": "Credit sales of goods are initially recorded in the:",
+      "image": "ACCO_2023_06.png",
+      "options": [
+        "Cash Book",
+        "Purchases Journal",
+        "Sales Journal",
+        "General Ledger"
+      ],
+      "answer": "Sales Journal",
+      "explanation": "The Sales Journal (or Day Book) is the book of prime entry used to record all credit sales of merchandise."
+    },
+    {
+      "id": "ACCO_2023_07",
+      "text": "An increase in the Provision for Doubtful Debts will result in a decrease in:",
+      "image": "ACCO_2023_07.png",
+      "options": [
+        "Current Liabilities",
+        "Gross Profit",
+        "Net Profit",
+        "Sales Revenue"
+      ],
+      "answer": "Net Profit",
+      "explanation": "An increase in the Provision for Doubtful Debts is treated as an expense in the Statement of Profit or Loss, thereby reducing the Net Profit."
+    },
+    {
+      "id": "ACCO_2023_08",
+      "text": "The difference between the total credits and total debits in a creditor's ledger account represents:",
+      "image": "ACCO_2023_08.png",
+      "options": [
+        "Cash paid to the creditor",
+        "The amount owed to the creditor",
+        "The amount owed by the creditor",
+        "Discount received"
+      ],
+      "answer": "The amount owed to the creditor",
+      "explanation": "A creditor's account typically has a credit balance, representing a liability (the amount the business owes that supplier)."
+    },
+    {
+      "id": "ACCO_2023_09",
+      "text": "Goods taken by the owner for personal use are debited to:",
+      "image": "ACCO_2023_09.png",
+      "options": [
+        "Sales Account",
+        "Drawings Account",
+        "Purchases Account",
+        "Capital Account"
+      ],
+      "answer": "Drawings Account",
+      "explanation": "Drawings account records all assets (cash or goods) withdrawn by the owner for personal consumption. The credit entry is to the Purchases account."
+    },
+    {
+      "id": "ACCO_2023_10",
+      "text": "The accounting concept that requires that revenue and expenses be recognized when they are earned or incurred, regardless of when cash is exchanged, is the:",
+      "image": "ACCO_2023_10.png",
+      "options": [
+        "Consistency concept",
+        "Matching concept",
+        "Accrual concept",
+        "Money measurement concept"
+      ],
+      "answer": "Accrual concept",
+      "explanation": "The Accrual Concept is fundamental to modern accounting, ensuring that financial statements reflect the economic performance of a period, not just cash movements."
+    },
+    {
+      "id": "ACCO_2023_11",
+      "text": "The formula for the Acid Test Ratio (Quick Ratio) is:",
+      "image": "ACCO_2023_11.png",
+      "options": [
+        "(Current Assets - Inventory) / Current Liabilities",
+        "Current Assets / Current Liabilities",
+        "Net Profit / Sales",
+        "Gross Profit / Cost of Goods Sold"
+      ],
+      "answer": "(Current Assets - Inventory) / Current Liabilities",
+      "explanation": "The Acid Test Ratio measures a company's ability to cover its short-term liabilities with its most liquid assets, excluding slow-moving inventory."
+    },
+    {
+      "id": "ACCO_2023_12",
+      "text": "An invoice received from a supplier for goods purchased on credit is recorded in the:",
+      "image": "ACCO_2023_12.png",
+      "options": [
+        "Sales Journal",
+        "Purchases Journal",
+        "Returns Inwards Journal",
+        "Cash Book"
+      ],
+      "answer": "Purchases Journal",
+      "explanation": "The Purchases Journal is the book of original entry for recording all credit purchases of goods intended for resale."
+    },
+    {
+      "id": "ACCO_2023_13",
+      "text": "A petty cash book using the impress system is reimbursed to the agreed amount at the end of a period to restore the:",
+      "image": "ACCO_2023_13.png",
+      "options": [
+        "Total sales",
+        "Float",
+        "Bank balance",
+        "Capital reserve"
+      ],
+      "answer": "Float",
+      "explanation": "The impress system ensures that the Petty Cashier is reimbursed for the exact amount spent, restoring the petty cash fund to the fixed starting amount (the float)."
+    },
+    {
+      "id": "ACCO_2023_14",
+      "text": "A partnership agreement is called a:",
+      "image": "ACCO_2023_14.png",
+      "options": [
+        "Memorandum of Association",
+        "Articles of Association",
+        "Deed of Partnership",
+        "Share Certificate"
+      ],
+      "answer": "Deed of Partnership",
+      "explanation": "The Deed of Partnership (or Partnership Agreement) is a legal document outlining the rights, duties, and responsibilities of the partners, especially concerning profit sharing and capital contributions."
+    },
+    {
+      "id": "ACCO_2023_15",
+      "text": "Which of these is a non-current liability?",
+      "image": "ACCO_2023_15.png",
+      "options": [
+        "Trade Payables",
+        "Bank Overdraft",
+        "Long-term Bank Loan",
+        "Accrued Expenses"
+      ],
+      "answer": "Long-term Bank Loan",
+      "explanation": "Non-current liabilities are obligations due beyond one year (the next 12 months), such as mortgages or long-term loans."
+    },
+    {
+      "id": "ACCO_2023_16",
+      "text": "A cheque received from a customer and paid into the bank immediately is recorded on the:",
+      "image": "ACCO_2023_16.png",
+      "options": [
+        "Debit side of the Cash column in the Cash Book",
+        "Credit side of the Bank column in the Cash Book",
+        "Debit side of the Bank column in the Cash Book",
+        "Credit side of the Cash column in the Cash Book"
+      ],
+      "answer": "Debit side of the Bank column in the Cash Book",
+      "explanation": "A cheque received increases the bank balance (an asset), which requires a debit entry in the Bank column of the Cash Book."
+    },
+    {
+      "id": "ACCO_2023_17",
+      "text": "The document sent to a customer to correct an undercharge in a previous invoice is a:",
+      "image": "ACCO_2023_17.png",
+      "options": [
+        "Credit Note",
+        "Debit Note",
+        "Statement of Account",
+        "Goods Received Note"
+      ],
+      "answer": "Debit Note",
+      "explanation": "A Debit Note increases the amount owed by the customer (debtor) and is issued to charge for goods or services or to correct an undercharge in an earlier invoice."
+    },
+    {
+      "id": "ACCO_2023_18",
+      "text": "The cost of goods sold is calculated as:",
+      "image": "ACCO_2023_18.png",
+      "options": [
+        "Sales - Gross Profit",
+        "Opening Inventory + Purchases - Closing Inventory",
+        "Purchases - Closing Inventory",
+        "Gross Profit - Expenses"
+      ],
+      "answer": "Opening Inventory + Purchases - Closing Inventory",
+      "explanation": "This formula represents the total cost of merchandise available for sale minus the cost of merchandise that remains unsold."
+    },
+    {
+      "id": "ACCO_2023_19",
+      "text": "In a manufacturing account, the sum of direct materials, direct labor, and direct expenses is known as:",
+      "image": "ACCO_2023_19.png",
+      "options": [
+        "Production Overhead",
+        "Factory Cost",
+        "Prime Cost",
+        "Works Cost"
+      ],
+      "answer": "Prime Cost",
+      "explanation": "Prime Cost represents the direct costs incurred in producing a product."
+    },
+    {
+      "id": "ACCO_2023_20",
+      "text": "When a debtor's account is written off as irrecoverable, the relevant entry is to debit the:",
+      "image": "ACCO_2023_20.png",
+      "options": [
+        "Debtor's Account",
+        "Provision for Doubtful Debts Account",
+        "Bad Debts Account",
+        "Sales Account"
+      ],
+      "answer": "Bad Debts Account",
+      "explanation": "The double entry is: Debit Bad Debts Account (Expense) and Credit the specific Debtor's Account (Asset reduction)."
+    },
+    {
+      "id": "ACCO_2023_21",
+      "text": "The principle that revenue should only be recognized when it is earned, not necessarily when cash is received, is the:",
+      "image": "ACCO_2023_21.png",
+      "options": [
+        "Realization principle",
+        "Consistency principle",
+        "Prudence concept",
+        "Materiality concept"
+      ],
+      "answer": "Realization principle",
+      "explanation": "The Realization Principle (Revenue Recognition Principle) dictates that revenue is recognized when the earning process is complete or virtually complete, and an exchange has taken place."
+    },
+    {
+      "id": "ACCO_2023_22",
+      "text": "Which ratio measures the efficiency of a company in utilizing its assets to generate sales?",
+      "image": "ACCO_2023_22.png",
+      "options": [
+        "Gearing Ratio",
+        "Quick Ratio",
+        "Inventory Turnover Ratio",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Asset Turnover Ratio",
+      "explanation": "Asset Turnover Ratio (Sales / Total Assets) indicates how effectively a company is using its assets to produce revenue."
+    },
+    {
+      "id": "ACCO_2023_23",
+      "text": "A transfer of a liability from the General Ledger to the Sales Ledger is recorded in the:",
+      "image": "ACCO_2023_23.png",
+      "options": [
+        "Cash Book",
+        "Journal Proper",
+        "Sales Journal",
+        "Purchases Journal"
+      ],
+      "answer": "Journal Proper",
+      "explanation": "The Journal Proper (or General Journal) is used to record non-routine transactions like opening entries, corrections of errors, and transfers between ledgers."
+    },
+    {
+      "id": "ACCO_2023_24",
+      "text": "The main feature that distinguishes a non-profit organization's accounts from a trading concern is the preparation of a:",
+      "image": "ACCO_2023_24.png",
+      "options": [
+        "Trading Account",
+        "Manufacturing Account",
+        "Income and Expenditure Account",
+        "Balance Sheet"
+      ],
+      "answer": "Income and Expenditure Account",
+      "explanation": "Non-profit organizations prepare an Income and Expenditure Account to determine surplus or deficit, replacing the Trading and Profit and Loss Account."
+    },
+    {
+      "id": "ACCO_2023_25",
+      "text": "The closing inventory is typically valued using the lower of:",
+      "image": "ACCO_2023_25.png",
+      "options": [
+        "Cost and Replacement Value",
+        "Cost and Net Realizable Value",
+        "Cost and Market Value",
+        "Market Value and Net Realizable Value"
+      ],
+      "answer": "Cost and Net Realizable Value",
+      "explanation": "This is based on the Prudence Concept (Conservatism), ensuring assets are not overstated. Net Realizable Value is the estimated selling price less the costs to complete and sell."
+    },
+    {
+      "id": "ACCO_2023_26",
+      "text": "In a partnership, salaries paid to partners are treated as:",
+      "image": "ACCO_2023_26.png",
+      "options": [
+        "An expense in the Profit and Loss Account",
+        "An appropriation of profit",
+        "A liability in the Statement of Financial Position",
+        "A reduction of Capital"
+      ],
+      "answer": "An appropriation of profit",
+      "explanation": "Partners' salaries are debited to the Appropriation Account, meaning they are part of distributing the profit, not a cost to determine the total profit."
+    },
+    {
+      "id": "ACCO_2023_27",
+      "text": "If a transaction is completely omitted from the books of account, the error is one of:",
+      "image": "ACCO_2023_27.png",
+      "options": [
+        "Commission",
+        "Omission",
+        "Principle",
+        "Compensating"
+      ],
+      "answer": "Omission",
+      "explanation": "An Error of Omission occurs when a transaction is completely forgotten and not recorded anywhere in the books. It does not affect the Trial Balance equality."
+    },
+    {
+      "id": "ACCO_2023_28",
+      "text": "The total amount received from the issuance of shares at a premium is credited to:",
+      "image": "ACCO_2023_28.png",
+      "options": [
+        "Share Capital Account (nominal value) and Share Premium Account (premium)",
+        "Retained Earnings Account",
+        "General Reserve Account",
+        "Revaluation Reserve"
+      ],
+      "answer": "Share Capital Account (nominal value) and Share Premium Account (premium)",
+      "explanation": "The amount received is split: the par/nominal value goes to Share Capital, and the excess (premium) goes to the Share Premium Account, which is a capital reserve."
+    },
+    {
+      "id": "ACCO_2023_29",
+      "text": "The main objective of preparing a Bank Reconciliation Statement is to:",
+      "image": "ACCO_2023_29.png",
+      "options": [
+        "Calculate the Gross Profit",
+        "Identify the true bank balance",
+        "Determine the cash sales for the period",
+        "Control petty cash expenditure"
+      ],
+      "answer": "Identify the true bank balance",
+      "explanation": "A BRS is prepared to explain the differences between the cash book balance and the bank statement balance and to arrive at the correct, reconciled bank figure."
+    },
+    {
+      "id": "ACCO_2023_30",
+      "text": "In the absence of a partnership agreement, profits and losses are shared:",
+      "image": "ACCO_2023_30.png",
+      "options": [
+        "In the ratio of capital contributed",
+        "Equally among the partners",
+        "In the ratio of loans provided",
+        "In the ratio of time devoted to the business"
+      ],
+      "answer": "Equally among the partners",
+      "explanation": "According to the Partnership Act (or relevant legislation in common law), profits and losses must be shared equally if the agreement is silent on the matter."
+    },
+    {
+      "id": "ACCO_2023_31",
+      "text": "If a business sells old furniture, the proceeds should be credited to the:",
+      "image": "ACCO_2023_31.png",
+      "options": [
+        "Sales Account",
+        "Furniture Account",
+        "Capital Account",
+        "Revenue Account"
+      ],
+      "answer": "Furniture Account",
+      "explanation": "The sale of a non-current asset reduces the carrying amount of that asset. If the business is not in the trade of selling furniture, the Sales Account is inappropriate."
+    },
+    {
+      "id": "ACCO_2023_32",
+      "text": "The ratio that indicates the proportion of total assets financed by debt is the:",
+      "image": "ACCO_2023_32.png",
+      "options": [
+        "Current Ratio",
+        "Debt-to-Equity Ratio",
+        "Gross Profit Margin",
+        "Debt-to-Assets Ratio"
+      ],
+      "answer": "Debt-to-Assets Ratio",
+      "explanation": "The Debt-to-Assets Ratio (Total Liabilities / Total Assets) measures the extent to which a company's assets are financed by creditors."
+    },
+    {
+      "id": "ACCO_2023_33",
+      "text": "The process of recording transactions chronologically in the books of original entry is known as:",
+      "image": "ACCO_2023_33.png",
+      "options": [
+        "Posting",
+        "Balancing",
+        "Journalizing",
+        "Summarizing"
+      ],
+      "answer": "Journalizing",
+      "explanation": "Journalizing is the first step in the accounting cycle, where transactions are recorded in the general journal or specialized journals (books of original entry)."
+    },
+    {
+      "id": "ACCO_2023_34",
+      "text": "The accounting concept that states that an entity must use the same methods and procedures from one period to the next is the:",
+      "image": "ACCO_2023_34.png",
+      "options": [
+        "Consistency concept",
+        "Objectivity principle",
+        "Materiality concept",
+        "Business entity concept"
+      ],
+      "answer": "Consistency concept",
+      "explanation": "The Consistency Concept ensures comparability of financial statements over time, allowing users to identify true trends in the business's performance."
+    },
+    {
+      "id": "ACCO_2023_35",
+      "text": "Which of the following would be classified as a current asset?",
+      "image": "ACCO_2023_35.png",
+      "options": [
+        "Furniture and Fittings",
+        "Trade Receivables",
+        "Land and Building",
+        "Long-term Investments"
+      ],
+      "answer": "Trade Receivables",
+      "explanation": "Current assets are expected to be converted into cash, sold, or consumed within one year or the operating cycle, whichever is longer. Trade Receivables (Debtors) are generally collected within this period."
+    },
+    {
+      "id": "ACCO_2023_36",
+      "text": "A manufacturing business transfers the cost of finished goods from the Manufacturing Account to the:",
+      "image": "ACCO_2023_36.png",
+      "options": [
+        "General Ledger",
+        "Trading Account",
+        "Profit and Loss Account",
+        "Appropriation Account"
+      ],
+      "answer": "Trading Account",
+      "explanation": "The cost of completed goods is transferred to the debit side of the Trading Account, where it is used to calculate the Gross Profit."
+    },
+    {
+      "id": "ACCO_2023_37",
+      "text": "Wages paid in advance are classified as a:",
+      "image": "ACCO_2023_37.png",
+      "options": [
+        "Current Liability",
+        "Current Asset",
+        "Non-Current Liability",
+        "Revenue Reserve"
+      ],
+      "answer": "Current Asset",
+      "explanation": "Wages paid in advance (Prepaid Expenses) represent an asset because the business has a right to receive the future service (labor), and they expire within one year."
+    },
+    {
+      "id": "ACCO_2023_38",
+      "text": "The maximum number of partners allowed in a professional firm (e.g., accounting, legal) is often limited by law to:",
+      "image": "ACCO_2023_38.png",
+      "options": [
+        "7",
+        "10",
+        "20",
+        "50"
+      ],
+      "answer": "20",
+      "explanation": "While this varies by jurisdiction, a common historical limit for a non-banking partnership is 20. Professional bodies sometimes have higher limits or no limits, but 20 is the most likely answer in a general context."
+    },
+    {
+      "id": "ACCO_2023_39",
+      "text": "Depreciation is charged on assets primarily to adhere to the:",
+      "image": "ACCO_2023_39.png",
+      "options": [
+        "Realization concept",
+        "Matching concept",
+        "Monetary concept",
+        "Materiality concept"
+      ],
+      "answer": "Matching concept",
+      "explanation": "Depreciation matches the cost of the asset (an expense) to the revenue it helps generate over its useful life, providing a true and fair view of profit."
+    },
+    {
+      "id": "ACCO_2023_40",
+      "text": "Which financial statement reports a company's assets, liabilities, and owner's equity at a specific point in time?",
+      "image": "ACCO_2023_40.png",
+      "options": [
+        "Statement of Profit or Loss",
+        "Statement of Cash Flows",
+        "Statement of Financial Position",
+        "Statement of Changes in Equity"
+      ],
+      "answer": "Statement of Financial Position",
+      "explanation": "The Statement of Financial Position (Balance Sheet) is a snapshot of the company's financial health as of a particular date."
+    }
+  ]

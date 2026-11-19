@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_281",
+      "text": "The accounting standard that addresses the impairment of assets (when an asset's recoverable amount is less than its carrying amount) is:",
+      "image": "ACCO_2023_281.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IAS 36 (Impairment of Assets)",
+        "IFRS 15 (Revenue)",
+        "IAS 16 (PPE)"
+      ],
+      "answer": "IAS 36 (Impairment of Assets)",
+      "explanation": "IAS 36 ensures that assets are not carried in the financial statements at more than their recoverable amount. If the carrying amount exceeds the recoverable amount, the asset is impaired."
+    },
+    {
+      "id": "ACCO_2023_282",
+      "text": "In partnership dissolution, the account where the remaining cash is finally distributed to the partners is the:",
+      "image": "ACCO_2023_282.png",
+      "options": [
+        "Realization Account",
+        "Partner's Loan Account",
+        "Bank Account (Payments side)",
+        "Partner's Current Account"
+      ],
+      "answer": "Bank Account (Payments side)",
+      "explanation": "The final step in dissolution is the settlement of partners' capital balances, which is recorded as a payment (credit entry) in the Bank Account."
+    },
+    {
+      "id": "ACCO_2023_283",
+      "text": "The minimum number of persons required to form a Public Limited Company is:",
+      "image": "ACCO_2023_283.png",
+      "options": [
+        "One",
+        "Two",
+        "Seven",
+        "Fifty"
+      ],
+      "answer": "Seven",
+      "explanation": "While this varies, traditionally and in many major jurisdictions, a Public Limited Company requires a minimum of seven members (subscribers to the memorandum) to be legally formed."
+    },
+    {
+      "id": "ACCO_2023_284",
+      "text": "The amount received from the issue of preference shares is classified in the Statement of Financial Position as:",
+      "image": "ACCO_2023_284.png",
+      "options": [
+        "Non-Current Liability",
+        "Owner's Equity (Capital)",
+        "Current Liability",
+        "Revenue Reserve"
+      ],
+      "answer": "Owner's Equity (Capital)",
+      "explanation": "Preference share capital, like ordinary share capital, represents permanent financing provided by the owners and is classified under Equity, unless the shares are mandatorily redeemable."
+    },
+    {
+      "id": "ACCO_2023_285",
+      "text": "The cost of goods lost in transit on consignment, where the loss is considered normal, is borne by the:",
+      "image": "ACCO_2023_285.png",
+      "options": [
+        "Consignee's Account",
+        "Consignor (by inflating the cost per unit of remaining goods)",
+        "General Profit and Loss Account",
+        "Insurance Claim Account"
+      ],
+      "answer": "Consignor (by inflating the cost per unit of remaining goods)",
+      "explanation": "Normal loss (inherent to the process, like minor evaporation) is added to the cost of the remaining units to arrive at the correct cost of closing stock."
+    },
+    {
+      "id": "ACCO_2023_286",
+      "text": "The ratio (Current Assets / Current Liabilities) is used to analyze a company’s:",
+      "image": "ACCO_2023_286.png",
+      "options": [
+        "Gearing (Leverage)",
+        "Profitability",
+        "Liquidity (Solvency in the short term)",
+        "Activity (Efficiency)"
+      ],
+      "answer": "Liquidity (Solvency in the short term)",
+      "explanation": "The Current Ratio is a key liquidity metric indicating the ability of a business to meet its short-term obligations."
+    },
+    {
+      "id": "ACCO_2023_287",
+      "text": "When the provision for depreciation is maintained, the balance on the Asset Account (at cost) remains constant, adhering to the:",
+      "image": "ACCO_2023_287.png",
+      "options": [
+        "Realization principle",
+        "Historical Cost principle",
+        "Prudence concept",
+        "Matching concept"
+      ],
+      "answer": "Historical Cost principle",
+      "explanation": "The Historical Cost principle requires the asset to be kept on the books at its original acquisition cost, while accumulated depreciation is held in a separate control account."
+    },
+    {
+      "id": "ACCO_2023_288",
+      "text": "The method of calculating profit under the Single Entry System is primarily based on the comparison of:",
+      "image": "ACCO_2023_288.png",
+      "options": [
+        "Total Debits and Total Credits",
+        "Opening and Closing Inventory",
+        "Opening and Closing Capital",
+        "Total Sales and Total Purchases"
+      ],
+      "answer": "Opening and Closing Capital",
+      "explanation": "Profit = Closing Capital + Drawings - Additional Capital Introduced - Opening Capital."
+    },
+    {
+      "id": "ACCO_2023_289",
+      "text": "The type of cost that is irrelevant in making short-run operational decisions (like accepting a special order) is the:",
+      "image": "ACCO_2023_289.png",
+      "options": [
+        "Differential Cost",
+        "Relevant Cost",
+        "Variable Cost",
+        "Fixed Cost (if unavoidable)"
+      ],
+      "answer": "Fixed Cost (if unavoidable)",
+      "explanation": "Unavoidable fixed costs are sunk costs that will be incurred regardless of the decision, making them irrelevant to short-term incremental decisions."
+    },
+    {
+      "id": "ACCO_2023_290",
+      "text": "The total amount of dividends declared by a company is recorded in the:",
+      "image": "ACCO_2023_290.png",
+      "options": [
+        "Statement of Profit or Loss",
+        "Statement of Financial Position (as a liability until paid)",
+        "Statement of Changes in Equity (Appropriation Account)",
+        "Cash Flow Statement"
+      ],
+      "answer": "Statement of Changes in Equity (Appropriation Account)",
+      "explanation": "Dividends are an appropriation (distribution) of profit and are therefore recorded in the Statement of Changes in Equity, which details movements in retained earnings."
+    },
+    {
+      "id": "ACCO_2023_291",
+      "text": "An error that occurs when a transaction is posted twice to the ledger is an error of:",
+      "image": "ACCO_2023_291.png",
+      "options": [
+        "Commission",
+        "Duplication",
+        "Principle",
+        "Reversal"
+      ],
+      "answer": "Duplication",
+      "explanation": "An Error of Duplication occurs when a transaction is recorded twice in the books, either in the journal or the ledger. This will not affect the Trial Balance if both the debit and credit sides are posted twice."
+    },
+    {
+      "id": "ACCO_2023_292",
+      "text": "The main component of conversion cost is the sum of:",
+      "image": "ACCO_2023_292.png",
+      "options": [
+        "Direct Material and Direct Labor",
+        "Direct Labor and Factory Overheads",
+        "Prime Cost and Selling Overheads",
+        "Fixed Cost and Variable Cost"
+      ],
+      "answer": "Direct Labor and Factory Overheads",
+      "explanation": "Conversion costs are the costs incurred to convert raw materials into finished goods, encompassing labor and all production overheads."
+    },
+    {
+      "id": "ACCO_2023_293",
+      "text": "The document that serves as the basis for recording cash payments in the Cash Book is the:",
+      "image": "ACCO_2023_293.png",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Payment Voucher (or cheque stub)",
+        "Credit Note"
+      ],
+      "answer": "Payment Voucher (or cheque stub)",
+      "explanation": "A payment voucher or the cheque counterfoil confirms the details of cash or bank payments and serves as the source document for the credit entry in the Cash Book."
+    },
+    {
+      "id": "ACCO_2023_294",
+      "text": "The concept that requires that a business not anticipate future profits but must provide for all known future losses is the:",
+      "image": "ACCO_2023_294.png",
+      "options": [
+        "Consistency concept",
+        "Prudence concept",
+        "Realization concept",
+        "Dual Aspect concept"
+      ],
+      "answer": "Prudence concept",
+      "explanation": "The Prudence (Conservatism) concept is the guiding principle for recognizing expenses/losses immediately while delaying the recognition of revenue/gains until realized."
+    },
+    {
+      "id": "ACCO_2023_295",
+      "text": "The ratio (Earnings Per Share / P/E Ratio) calculates the:",
+      "image": "ACCO_2023_295.png",
+      "options": [
+        "Dividend Yield",
+        "Book Value per Share",
+        "Market Price per Share",
+        "Net Asset Value"
+      ],
+      "answer": "Market Price per Share",
+      "explanation": "P/E Ratio = Market Price / EPS. Therefore, Market Price = EPS $\\times$ P/E Ratio. The question seems to imply division (EPS / P/E), which is incorrect. Assuming the intended question was to find Market Price."
+    },
+    {
+      "id": "ACCO_2023_296",
+      "text": "The main reason for paying commission to the consignee on consignment sales is to encourage the consignee to:",
+      "image": "ACCO_2023_296.png",
+      "options": [
+        "Bear all expenses",
+        "Pay for abnormal losses",
+        "Sell the goods quickly and efficiently",
+        "Provide collateral security"
+      ],
+      "answer": "Sell the goods quickly and efficiently",
+      "explanation": "Commission is the consignee's reward for efforts, directly motivating them to maximize sales volume and efficiency."
+    },
+    {
+      "id": "ACCO_2023_297",
+      "text": "The formula (Net Credit Sales / Average Trade Receivables) calculates the:",
+      "image": "ACCO_2023_297.png",
+      "options": [
+        "Creditors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Debtors Turnover Ratio",
+        "Asset Turnover Ratio"
+      ],
+      "answer": "Debtors Turnover Ratio",
+      "explanation": "The Debtors Turnover Ratio measures how many times, on average, a company collects its trade receivables during a period, indicating the efficiency of credit collection."
+    },
+    {
+      "id": "ACCO_2023_298",
+      "text": "In a limited company, the journal entry to recognize the transfer of the final Net Profit for the year is to debit the:",
+      "image": "ACCO_2023_298.png",
+      "options": [
+        "Trading Account and Credit Profit and Loss Account",
+        "Profit and Loss Account and Credit Retained Earnings",
+        "Retained Earnings and Credit Profit and Loss Account",
+        "General Reserve and Credit Cash Account"
+      ],
+      "answer": "Profit and Loss Account and Credit Retained Earnings",
+      "explanation": "The Profit and Loss Account (or Income Statement) is closed by transferring the profit (a credit balance) to the Retained Earnings Account (or Statement of Changes in Equity)."
+    },
+    {
+      "id": "ACCO_2023_299",
+      "text": "The main purpose of preparing a Fund Flow Statement is to analyze the:",
+      "image": "ACCO_2023_299.png",
+      "options": [
+        "Liquidity position of the company",
+        "Changes in working capital between two balance sheet dates",
+        "Profitability of the business",
+        "Market value of the shares"
+      ],
+      "answer": "Changes in working capital between two balance sheet dates",
+      "explanation": "The Fund Flow Statement traces the movement of funds (often defined as Working Capital) and identifies the sources and applications of those funds during a period."
+    },
+    {
+      "id": "ACCO_2023_300",
+      "text": "Which of these is a revenue expense?",
+      "image": "ACCO_2023_300.png",
+      "options": [
+        "Purchase of land",
+        "Installation cost of a new machine",
+        "Annual repair of office furniture",
+        "Legal fees for the formation of a company"
+      ],
+      "answer": "Annual repair of office furniture",
+      "explanation": "Revenue expenses are recurring costs incurred in the normal course of business to maintain assets or generate revenue, which benefit only the current accounting period."
+    },
+    {
+      "id": "ACCO_2023_301",
+      "text": "The principle that requires all relevant expenses incurred to be matched with the revenue they helped generate is the:",
+      "image": "ACCO_2023_301.png",
+      "options": [
+        "Realization concept",
+        "Matching concept",
+        "Historical Cost concept",
+        "Going Concern concept"
+      ],
+      "answer": "Matching concept",
+      "explanation": "The Matching Concept ensures that the true profit is ascertained by pairing expenses with the corresponding revenue in the same accounting period."
+    },
+    {
+      "id": "ACCO_2023_302",
+      "text": "In job costing, the account that accumulates all direct costs (material, labor, expenses) for a specific order is the:",
+      "image": "ACCO_2023_302.png",
+      "options": [
+        "Process Account",
+        "Work in Progress Account",
+        "Cost of Goods Sold Account",
+        "Manufacturing Overhead Account"
+      ],
+      "answer": "Work in Progress Account",
+      "explanation": "The Work in Progress (WIP) account tracks the accumulation of costs (materials, labor, overheads) for jobs currently under production but not yet completed."
+    },
+    {
+      "id": "ACCO_2023_303",
+      "text": "The formula (Capital Employed / Total Revenue) is used to analyze the:",
+      "image": "ACCO_2023_303.png",
+      "options": [
+        "Profitability",
+        "Gearing",
+        "Efficiency (Asset Utilization)",
+        "Liquidity"
+      ],
+      "answer": "Efficiency (Asset Utilization)",
+      "explanation": "Capital Turnover (Total Revenue / Capital Employed) measures how efficiently the long-term funds are being used to generate sales revenue (an efficiency ratio)."
+    },
+    {
+      "id": "ACCO_2023_304",
+      "text": "The loss incurred by the partners when all assets and liabilities are settled upon dissolution is determined in the:",
+      "image": "ACCO_2023_304.png",
+      "options": [
+        "Profit and Loss Account",
+        "Partner's Capital Account",
+        "Realization Account",
+        "Revaluation Account"
+      ],
+      "answer": "Realization Account",
+      "explanation": "The Realization Account is designed to calculate the final overall profit or loss from the winding-up process."
+    },
+    {
+      "id": "ACCO_2023_305",
+      "text": "The term for money received from debtors that was previously written off as a bad debt is:",
+      "image": "ACCO_2023_305.png",
+      "options": [
+        "Cash sales",
+        "Bad debts recovered",
+        "Discount received",
+        "Capital receipt"
+      ],
+      "answer": "Bad debts recovered",
+      "explanation": "Bad debts recovered is a non-operating income (revenue receipt) recorded in the Profit and Loss Account."
+    },
+    {
+      "id": "ACCO_2023_306",
+      "text": "The journal entry to correct an error of principle (e.g., machinery purchased debited to purchases account) is made in the:",
+      "image": "ACCO_2023_306.png",
+      "options": [
+        "Cash Book",
+        "Sales Journal",
+        "Journal Proper",
+        "Petty Cash Book"
+      ],
+      "answer": "Journal Proper",
+      "explanation": "Errors of Principle are non-routine and require a formal journal entry in the Journal Proper to transfer the amount from the incorrectly used account to the correct account."
+    },
+    {
+      "id": "ACCO_2023_307",
+      "text": "In a joint venture, the account opened to record the specific transactions relating to the project when a separate set of books is maintained is the:",
+      "image": "ACCO_2023_307.png",
+      "options": [
+        "Partner's Current Account",
+        "Joint Bank Account",
+        "Joint Venture Account",
+        "Memorandum Joint Venture Account"
+      ],
+      "answer": "Joint Venture Account",
+      "explanation": "When separate books are kept, a single Joint Venture Account is prepared to determine the profit/loss of the venture."
+    },
+    {
+      "id": "ACCO_2023_308",
+      "text": "The formula (Net Credit Purchases / Average Trade Payables) calculates the:",
+      "image": "ACCO_2023_308.png",
+      "options": [
+        "Debtors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Creditors Turnover Ratio",
+        "Working Capital Turnover"
+      ],
+      "answer": "Creditors Turnover Ratio",
+      "explanation": "The Creditors Turnover Ratio measures how efficiently the company manages its trade payables."
+    },
+    {
+      "id": "ACCO_2023_309",
+      "text": "The main limitation of the Single Entry System is its lack of:",
+      "image": "ACCO_2023_309.png",
+      "options": [
+        "Statutory compliance for sole proprietorships",
+        "Accuracy check (Trial Balance)",
+        "Recording of cash transactions",
+        "Flexibility in pricing"
+      ],
+      "answer": "Accuracy check (Trial Balance)",
+      "explanation": "Since the double-entry principle is not consistently applied, there is no automatic self-checking mechanism like the Trial Balance to detect arithmetic errors."
+    },
+    {
+      "id": "ACCO_2023_310",
+      "text": "The accounting standard that provides guidelines on the calculation and presentation of Earnings Per Share (EPS) is:",
+      "image": "ACCO_2023_310.png",
+      "options": [
+        "IAS 1 (Presentation)",
+        "IAS 33 (Earnings Per Share)",
+        "IFRS 3 (Business Combinations)",
+        "IFRS 9 (Financial Instruments)"
+      ],
+      "answer": "IAS 33 (Earnings Per Share)",
+      "explanation": "IAS 33 specifies the principles for determining and presenting basic and diluted earnings per share to improve comparability among entities."
+    },
+    {
+      "id": "ACCO_2023_311",
+      "text": "When a company issues shares at par, it means the issue price is equal to the:",
+      "image": "ACCO_2023_311.png",
+      "options": [
+        "Market price",
+        "Nominal value (Face Value)",
+        "Book value",
+        "Net realizable value"
+      ],
+      "answer": "Nominal value (Face Value)",
+      "explanation": "Issue at par means the issue price is exactly equal to the face value or nominal value printed on the share certificate."
+    },
+    {
+      "id": "ACCO_2023_312",
+      "text": "The term for a cost that remains constant per unit of production but changes in total with the level of activity is:",
+      "image": "ACCO_2023_312.png",
+      "options": [
+        "Fixed Cost",
+        "Mixed Cost",
+        "Variable Cost",
+        "Sunk Cost"
+      ],
+      "answer": "Variable Cost",
+      "explanation": "Variable costs (like direct materials) are constant on a per-unit basis but vary in total as production volume changes."
+    },
+    {
+      "id": "ACCO_2023_313",
+      "text": "In a partnership, the profit/loss on revaluation of assets upon admission of a new partner is shared among the:",
+      "image": "ACCO_2023_313.png",
+      "options": [
+        "New partner only",
+        "All partners in the new ratio",
+        "Old partners in the sacrificing ratio",
+        "Old partners in the old profit sharing ratio"
+      ],
+      "answer": "Old partners in the old profit sharing ratio",
+      "explanation": "Revaluation gains/losses belong to the partnership's past and must be credited/debited to the old partners in their old profit-sharing ratio before the new partner is admitted."
+    },
+    {
+      "id": "ACCO_2023_314",
+      "text": "A contingent liability is recorded in the financial statements only if the likelihood of outflow is:",
+      "image": "ACCO_2023_314.png",
+      "options": [
+        "Possible and estimable",
+        "Remote",
+        "Probable and reliably measurable",
+        "Certain"
+      ],
+      "answer": "Probable and reliably measurable",
+      "explanation": "According to IAS 37 (Provisions, Contingent Liabilities, and Contingent Assets), a provision (recorded liability) is recognized only if the obligation is probable and can be reliably estimated."
+    },
+    {
+      "id": "ACCO_2023_315",
+      "text": "Which ratio assesses the overall efficiency of a company in utilizing its capital?",
+      "image": "ACCO_2023_315.png",
+      "options": [
+        "Current Ratio",
+        "Gross Profit Margin",
+        "Return on Capital Employed (ROCE)",
+        "Debtors Collection Period"
+      ],
+      "answer": "Return on Capital Employed (ROCE)",
+      "explanation": "ROCE is the single best measure of overall efficiency, comparing the profit generated to the total long-term investment (capital employed)."
+    },
+    {
+      "id": "ACCO_2023_316",
+      "text": "The formula (Average Trade Receivables / Net Credit Sales) $\\times$ 365 days calculates the:",
+      "image": "ACCO_2023_316.png",
+      "options": [
+        "Creditors Payment Period",
+        "Inventory Holding Period",
+        "Debtors Collection Period",
+        "Cash Conversion Cycle"
+      ],
+      "answer": "Debtors Collection Period",
+      "explanation": "This period measures the average time it takes for a company to collect the amounts due from its customers."
+    },
+    {
+      "id": "ACCO_2023_317",
+      "text": "The main component of Prime Cost is the sum of:",
+      "image": "ACCO_2023_317.png",
+      "options": [
+        "Direct Labour and Factory Overhead",
+        "Direct Material, Direct Labour, and Direct Expenses",
+        "Fixed Cost and Variable Cost",
+        "Works Cost and Administration Overhead"
+      ],
+      "answer": "Direct Material, Direct Labour, and Direct Expenses",
+      "explanation": "Prime Cost represents all direct costs that can be specifically traced to the product or service unit."
+    },
+    {
+      "id": "ACCO_2023_318",
+      "text": "An error of omission that affects the Trial Balance is an omission of a:",
+      "image": "ACCO_2023_318.png",
+      "options": [
+        "Transaction completely (no effect)",
+        "Posting to one side of the ledger (single entry)",
+        "Journal entry in the General Journal",
+        "Contingent liability"
+      ],
+      "answer": "Posting to one side of the ledger (single entry)",
+      "explanation": "An omission of a complete transaction does not affect the equality of the Trial Balance. An omission of only one side of the double entry (single entry) directly causes the Trial Balance to disagree."
+    },
+    {
+      "id": "ACCO_2023_319",
+      "text": "The legal relationship between the Consignor and Consignee is that of:",
+      "image": "ACCO_2023_319.png",
+      "options": [
+        "Buyer and Seller",
+        "Master and Servant",
+        "Principal and Agent",
+        "Debtor and Creditor"
+      ],
+      "answer": "Principal and Agent",
+      "explanation": "The Consignor is the Principal (owner), and the Consignee is the Agent, responsible for selling the goods on behalf of the Principal for a commission."
+    },
+    {
+      "id": "ACCO_2023_320",
+      "text": "Which of these is the most appropriate way to account for salaries paid to partners in a partnership firm?",
+      "image": "ACCO_2023_320.png",
+      "options": [
+        "As an expense in the Profit and Loss Account",
+        "As an appropriation in the Profit and Loss Appropriation Account",
+        "As a liability in the Statement of Financial Position",
+        "As a direct expense in the Trading Account"
+      ],
+      "answer": "As an appropriation in the Profit and Loss Appropriation Account",
+      "explanation": "Partners' salaries are distributions of profit (appropriations), not charges against revenue in the same way as employee salaries, and are treated only after the net profit is calculated."
+    }
+  ]

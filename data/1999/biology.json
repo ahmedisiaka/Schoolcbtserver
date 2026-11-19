@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_1999_01",
+      "text": "The part of the plant cell responsible for the synthesis of proteins is the:",
+      "image": "[Diagram of a plant cell highlighting organelles]",
+      "options": [
+        "Mitochondrion",
+        "Ribosome",
+        "Cell wall",
+        "Chloroplast"
+      ],
+      "answer": "Ribosome",
+      "explanation": "Ribosomes are the sites of protein synthesis (translation) in both prokaryotic and eukaryotic cells."
+    },
+    {
+      "id": "BIO_1999_02",
+      "text": "Which of the following organisms is a producer in a food chain?",
+      "image": "",
+      "options": [
+        "Fungus",
+        "Grasshopper",
+        "Grass",
+        "Man"
+      ],
+      "answer": "Grass",
+      "explanation": "Producers are organisms that synthesize their own food, usually by photosynthesis. Grass is a photosynthetic plant."
+    },
+    {
+      "id": "BIO_1999_03",
+      "text": "The main substance found in the cell walls of fungi is:",
+      "image": "",
+      "options": [
+        "Cellulose",
+        "Lignin",
+        "Pectin",
+        "Chitin"
+      ],
+      "answer": "Chitin",
+      "explanation": "Fungal cell walls are mainly composed of chitin, a tough polysaccharide, unlike plant cell walls which are made of cellulose."
+    },
+    {
+      "id": "BIO_1999_04",
+      "text": "Osmosis is the movement of water molecules from a region of:",
+      "image": "[Diagram illustrating osmosis across a semipermeable membrane]",
+      "options": [
+        "higher solute concentration to lower solute concentration.",
+        "lower water potential to higher water potential.",
+        "higher water potential to lower water potential.",
+        "lower temperature to higher temperature."
+      ],
+      "answer": "higher water potential to lower water potential.",
+      "explanation": "Osmosis is the net movement of water across a selectively permeable membrane from a region of high water potential (dilute solution) to a region of low water potential (concentrated solution)."
+    },
+    {
+      "id": "BIO_1999_05",
+      "text": "Which of the following is characteristic of respiration in living organisms?",
+      "image": "",
+      "options": [
+        "Release of oxygen",
+        "Uptake of carbon dioxide",
+        "Breakdown of food to release energy",
+        "Synthesis of complex organic molecules"
+      ],
+      "answer": "Breakdown of food to release energy",
+      "explanation": "Respiration is the metabolic process where organic food substances (like glucose) are broken down to release energy (ATP) for vital activities."
+    },
+    {
+      "id": "BIO_1999_06",
+      "text": "The enzyme that digests starch into maltose is:",
+      "image": "",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Maltase"
+      ],
+      "answer": "Amylase",
+      "explanation": "Amylase, found in saliva and pancreatic juice, hydrolyzes starch into the disaccharide maltose."
+    },
+    {
+      "id": "BIO_1999_07",
+      "text": "In mammals, the exchange of gases between the blood and the tissue fluid occurs in the:",
+      "image": "[Diagram of capillary bed showing exchange]",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Heart"
+      ],
+      "answer": "Capillaries",
+      "explanation": "Capillaries have thin walls (one cell thick) which facilitate the rapid diffusion and exchange of gases, nutrients, and waste products."
+    },
+    {
+      "id": "BIO_1999_08",
+      "text": "The process by which excess water is lost in plants, mainly through the leaves, is called:",
+      "image": "",
+      "options": [
+        "Guttation",
+        "Photosynthesis",
+        "Transpiration",
+        "Absorption"
+      ],
+      "answer": "Transpiration",
+      "explanation": "Transpiration is the evaporation of water from the plant surface, primarily from the stomata of the leaves."
+    },
+    {
+      "id": "BIO_1999_09",
+      "text": "The main function of the placenta in a pregnant human female is to:",
+      "image": "[Diagram of a human fetus in the uterus with placenta]",
+      "options": [
+        "Prevent disease transmission",
+        "Filter the mother's blood",
+        "Exchange materials between mother and fetus",
+        "Protect the fetus from shock"
+      ],
+      "answer": "Exchange materials between mother and fetus",
+      "explanation": "The placenta allows for the exchange of oxygen, nutrients, and waste products (like $\\text{CO}_2$ and urea) between the maternal and fetal bloodstreams without direct mixing."
+    },
+    {
+      "id": "BIO_1999_10",
+      "text": "Which of the following excretory products is a nitrogenous waste?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Urea",
+        "Bile"
+      ],
+      "answer": "Urea",
+      "explanation": "Urea is the main nitrogenous excretory product in mammals, formed in the liver from the breakdown of excess amino acids."
+    },
+    {
+      "id": "BIO_1999_11",
+      "text": "In a flowering plant, the process of pollination involves the transfer of pollen grains from the anther to the:",
+      "image": "[Diagram of a flower showing male and female parts]",
+      "options": [
+        "Ovary",
+        "Style",
+        "Stigma",
+        "Ovule"
+      ],
+      "answer": "Stigma",
+      "explanation": "Pollination is the transfer of pollen from the anther (male part) to the stigma (female receptive part)."
+    },
+    {
+      "id": "BIO_1999_12",
+      "text": "The part of the human eye that contains light-sensitive cells (rods and cones) is the:",
+      "image": "[Labeled diagram of the human eye]",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Retina",
+      "explanation": "The retina is the innermost layer at the back of the eye, containing the photoreceptor cells (rods for dim light, cones for colour vision)."
+    },
+    {
+      "id": "BIO_1999_13",
+      "text": "A plant hormone that promotes cell elongation and growth is:",
+      "image": "",
+      "options": [
+        "Gibberellin",
+        "Abscisic acid",
+        "Auxin",
+        "Cytokinin"
+      ],
+      "answer": "Auxin",
+      "explanation": "Auxins, such as Indoleacetic acid (IAA), are primary growth hormones that promote cell elongation, particularly in shoots."
+    },
+    {
+      "id": "BIO_1999_14",
+      "text": "The spinal cord is part of the:",
+      "image": "[Diagram of the human nervous system]",
+      "options": [
+        "Peripheral Nervous System",
+        "Autonomic Nervous System",
+        "Central Nervous System",
+        "Somatic Nervous System"
+      ],
+      "answer": "Central Nervous System",
+      "explanation": "The Central Nervous System (CNS) consists of the brain and the spinal cord."
+    },
+    {
+      "id": "BIO_1999_15",
+      "text": "Which of these blood components is responsible for blood clotting?",
+      "image": "",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Plasma",
+        "Platelets"
+      ],
+      "answer": "Platelets",
+      "explanation": "Platelets (thrombocytes) are crucial in the process of hemostasis, forming a plug and releasing factors that initiate the clotting cascade."
+    },
+    {
+      "id": "BIO_1999_16",
+      "text": "Insects belong to the class:",
+      "image": "[Image showing characteristics of Class Insecta]",
+      "options": [
+        "Arachnida",
+        "Crustacea",
+        "Chilopoda",
+        "Insecta"
+      ],
+      "answer": "Insecta",
+      "explanation": "Insects are classified under the Class Insecta, characterized by having three pairs of legs, a body divided into three parts (head, thorax, abdomen), and usually two pairs of wings."
+    },
+    {
+      "id": "BIO_1999_17",
+      "text": "The outermost layer of the human skin is the:",
+      "image": "[Cross-section diagram of human skin layers]",
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis",
+        "Subcutaneous layer"
+      ],
+      "answer": "Epidermis",
+      "explanation": "The epidermis is the superficial, protective layer of the skin, made up of stratified squamous epithelium."
+    },
+    {
+      "id": "BIO_1999_18",
+      "text": "The main site of reabsorption of glucose and amino acids in the kidney is the:",
+      "image": "[Diagram of a nephron highlighting the PCT]",
+      "options": [
+        "Loop of Henle",
+        "Bowman's capsule",
+        "Collecting duct",
+        "Proximal Convoluted Tubule (PCT)"
+      ],
+      "answer": "Proximal Convoluted Tubule (PCT)",
+      "explanation": "Most of the essential substances like glucose, amino acids, and salts are actively reabsorbed from the filtrate back into the blood in the PCT."
+    },
+    {
+      "id": "BIO_1999_19",
+      "text": "The term describing the relationship between a fungus and an alga in a lichen is:",
+      "image": "",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism",
+        "Predation"
+      ],
+      "answer": "Mutualism",
+      "explanation": "In a lichen, the fungus provides structure and absorbs water, while the alga (or cyanobacterium) provides food via photosynthesis. Both organisms benefit."
+    },
+    {
+      "id": "BIO_1999_20",
+      "text": "Which of the following is NOT a component of the circulatory system in man?",
+      "image": "",
+      "options": [
+        "Spleen",
+        "Blood",
+        "Heart",
+        "Lymph"
+      ],
+      "answer": "Spleen",
+      "explanation": "The spleen is an organ of the lymphatic and immune system. The circulatory system comprises the heart, blood vessels, and blood."
+    },
+    {
+      "id": "BIO_1999_21",
+      "text": "The part of the brain that controls balance and muscular coordination is the:",
+      "image": "[Diagram of the human brain with cerebellum labeled]",
+      "options": [
+        "Cerebrum",
+        "Medulla oblongata",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "answer": "Cerebellum",
+      "explanation": "The cerebellum, located at the back of the brain below the cerebrum, is responsible for coordinating voluntary movements, posture, and balance."
+    },
+    {
+      "id": "BIO_1999_22",
+      "text": "The immediate product of fertilization in flowering plants is the:",
+      "image": "",
+      "options": [
+        "Endosperm",
+        "Zygote",
+        "Embryo sac",
+        "Seed"
+      ],
+      "answer": "Zygote",
+      "explanation": "Fertilization is the fusion of the male gamete (sperm nucleus) and the female gamete (egg nucleus) to form a diploid cell called the zygote."
+    },
+    {
+      "id": "BIO_1999_23",
+      "text": "Which of the following diseases is caused by a virus?",
+      "image": "",
+      "options": [
+        "Tuberculosis",
+        "Typhoid",
+        "Measles",
+        "Cholera"
+      ],
+      "answer": "Measles",
+      "explanation": "Measles is caused by the Measles morbillivirus. Tuberculosis and Cholera are bacterial diseases; Typhoid is typically bacterial."
+    },
+    {
+      "id": "BIO_1999_24",
+      "text": "Adaptation of organisms to their environment is primarily the result of:",
+      "image": "",
+      "options": [
+        "Use and disuse",
+        "Lamarckism",
+        "Natural selection",
+        "Coexistence"
+      ],
+      "answer": "Natural selection",
+      "explanation": "Natural selection is the differential survival and reproduction of individuals due to differences in phenotype, leading to the accumulation of favourable traits (adaptations) over generations."
+    },
+    {
+      "id": "BIO_1999_25",
+      "text": "The instrument used to measure the rate of transpiration in plants is the:",
+      "image": "[Diagram of a potometer]",
+      "options": [
+        "Thermometer",
+        "Anemometer",
+        "Potometer",
+        "Barometer"
+      ],
+      "answer": "Potometer",
+      "explanation": "A potometer is used to estimate the rate of water uptake by a plant, which is an approximate measure of the rate of transpiration."
+    },
+    {
+      "id": "BIO_1999_26",
+      "text": "The ability of an organism to replace lost parts is known as:",
+      "image": "",
+      "options": [
+        "Reproduction",
+        "Regeneration",
+        "Metamorphosis",
+        "Asexual reproduction"
+      ],
+      "answer": "Regeneration",
+      "explanation": "Regeneration is the process of renewal, restoration, and growth that makes genomes, cells, organisms, and ecosystems resilient to natural fluctuations or disturbances (e.g., a starfish regrowing an arm)."
+    },
+    {
+      "id": "BIO_1999_27",
+      "text": "The final products of carbohydrate digestion are mainly:",
+      "image": "[Simplified diagram of digestion process]",
+      "options": [
+        "Amino acids",
+        "Fatty acids and glycerol",
+        "Monosaccharides (simple sugars)",
+        "Vitamins"
+      ],
+      "answer": "Monosaccharides (simple sugars)",
+      "explanation": "Complex carbohydrates (like starch) are broken down by enzymes into monosaccharides (e.g., glucose) which can be absorbed into the bloodstream."
+    },
+    {
+      "id": "BIO_1999_28",
+      "text": "The function of the bile produced by the liver is to:",
+      "image": "",
+      "options": [
+        "Digest proteins",
+        "Emulsify fats",
+        "Break down carbohydrates",
+        "Neutralize acids in the stomach"
+      ],
+      "answer": "Emulsify fats",
+      "explanation": "Bile salts in bile emulsify large fat globules into smaller droplets, increasing the surface area for the action of lipase."
+    },
+    {
+      "id": "BIO_1999_29",
+      "text": "The fusion of male and female gametes to form a zygote is:",
+      "image": "",
+      "options": [
+        "Conjugation",
+        "Pollination",
+        "Fertilization",
+        "Budding"
+      ],
+      "answer": "Fertilization",
+      "explanation": "Fertilization is the process of sexual reproduction involving the union of haploid male and female gametes to form a diploid zygote."
+    },
+    {
+      "id": "BIO_1999_30",
+      "text": "The part of the ear responsible for maintaining balance is the:",
+      "image": "[Labeled diagram of the human ear]",
+      "options": [
+        "Cochlea",
+        "Eardrum",
+        "Ossicles",
+        "Semicircular canals"
+      ],
+      "answer": "Semicircular canals",
+      "explanation": "The semicircular canals in the inner ear are filled with fluid and contain receptors that detect rotational movements of the head, contributing to balance and equilibrium."
+    },
+    {
+      "id": "BIO_1999_31",
+      "text": "The primary role of decomposers in an ecosystem is to:",
+      "image": "[Food web diagram including decomposers]",
+      "options": [
+        "Produce food for herbivores",
+        "Control the population of producers",
+        "Break down dead organic matter and recycle nutrients",
+        "Consume primary consumers"
+      ],
+      "answer": "Break down dead organic matter and recycle nutrients",
+      "explanation": "Decomposers (like bacteria and fungi) break down dead organisms and waste products, releasing simple inorganic nutrients back into the soil and atmosphere."
+    },
+    {
+      "id": "BIO_1999_32",
+      "text": "A feature that distinguishes monocotyledonous plants from dicotyledonous plants is the presence of:",
+      "image": "[Diagram comparing monocot and dicot leaf venation and seed structure]",
+      "options": [
+        "Vascular bundles scattered in the stem",
+        "Tap root system",
+        "Net-like venation in leaves",
+        "Two cotyledons in the seed"
+      ],
+      "answer": "Vascular bundles scattered in the stem",
+      "explanation": "Monocots typically have vascular bundles scattered throughout the stem (e.g., maize), while dicots have them arranged in a ring."
+    },
+    {
+      "id": "BIO_1999_33",
+      "text": "Which of the following is an abiotic factor in an ecosystem?",
+      "image": "",
+      "options": [
+        "Decomposers",
+        "Predators",
+        "Temperature",
+        "Plants"
+      ],
+      "answer": "Temperature",
+      "explanation": "Abiotic factors are the non-living chemical and physical parts of the environment (e.g., temperature, water, light). The other options are biotic (living)."
+    },
+    {
+      "id": "BIO_1999_34",
+      "text": "Which of these is a function of the cell sap in the vacuole of a plant cell?",
+      "image": "",
+      "options": [
+        "Manufacturing food",
+        "Controlling cell division",
+        "Storing water and maintaining turgor",
+        "Breaking down waste materials"
+      ],
+      "answer": "Storing water and maintaining turgor",
+      "explanation": "The large central vacuole contains cell sap (water, dissolved salts, sugars, etc.) and is essential for maintaining the turgidity and shape of the plant cell."
+    },
+    {
+      "id": "BIO_1999_35",
+      "text": "In genetics, the physical appearance of an organism is referred to as its:",
+      "image": "",
+      "options": [
+        "Allele",
+        "Genotype",
+        "Phenotype",
+        "Locus"
+      ],
+      "answer": "Phenotype",
+      "explanation": "The phenotype is the observable physical or biochemical characteristics of an organism, resulting from the interaction of its genotype with the environment."
+    },
+    {
+      "id": "BIO_1999_36",
+      "text": "The breakdown of glucose in the absence of oxygen is called:",
+      "image": "[Flowchart of anaerobic respiration]",
+      "options": [
+        "Aerobic respiration",
+        "Krebs cycle",
+        "Photosynthesis",
+        "Anaerobic respiration (Fermentation)"
+      ],
+      "answer": "Anaerobic respiration (Fermentation)",
+      "explanation": "Anaerobic respiration, or fermentation, releases energy from food in the absence of oxygen, producing by-products like lactic acid or ethanol."
+    },
+    {
+      "id": "BIO_1999_37",
+      "text": "The main substance that provides stiffness and support to the stems of herbaceous plants is:",
+      "image": "",
+      "options": [
+        "Lignin",
+        "Cuticle",
+        "Cellulose",
+        "Turgor pressure"
+      ],
+      "answer": "Turgor pressure",
+      "explanation": "Herbaceous (non-woody) plants rely on the high turgor pressure exerted by the cell sap against the cell walls for their rigidity and upright posture. Lignin provides support in woody plants."
+    },
+    {
+      "id": "BIO_1999_38",
+      "text": "The scientific name for man, *Homo sapiens*, indicates the organism's:",
+      "image": "",
+      "options": [
+        "Class and Order",
+        "Phylum and Class",
+        "Genus and Species",
+        "Kingdom and Phylum"
+      ],
+      "answer": "Genus and Species",
+      "explanation": "The binomial nomenclature system uses two parts: the genus (capitalized) and the species (lowercase), as established by Linnaeus."
+    },
+    {
+      "id": "BIO_1999_39",
+      "text": "The largest phylum in the animal kingdom is:",
+      "image": "",
+      "options": [
+        "Mollusca",
+        "Chordata",
+        "Annelida",
+        "Arthropoda"
+      ],
+      "answer": "Arthropoda",
+      "explanation": "Phylum Arthropoda, which includes insects, spiders, and crustaceans, has the greatest number of described species of any phylum."
+    },
+    {
+      "id": "BIO_1999_40",
+      "text": "Which of these blood vessels carries oxygenated blood from the lungs back to the heart?",
+      "image": "[Diagram of the human heart and blood circulation]",
+      "options": [
+        "Aorta",
+        "Vena cava",
+        "Pulmonary artery",
+        "Pulmonary vein"
+      ],
+      "answer": "Pulmonary vein",
+      "explanation": "The pulmonary vein is unique among veins as it carries oxygenated blood (from the lungs) back to the left atrium of the heart."
+    }
+  ]

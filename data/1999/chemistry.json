@@ -1,0 +1,523 @@
+[
+    {
+      "id": "JAMB_C_001",
+      "text": "Which of the following is an example of a pure substance?",
+      "image": "",
+      "options": [
+        "Air",
+        "Saltwater",
+        "Distilled water",
+        "Soil"
+      ],
+      "answer": "Distilled water",
+      "explanation": "A pure substance has a constant composition throughout. Distilled water is a compound with only H₂O molecules, while air, saltwater, and soil are mixtures."
+    },
+    {
+      "id": "JAMB_C_002",
+      "text": "Which separation method is best for separating a soluble solid from a liquid?",
+      "image": "",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Sublimation",
+        "Decantation"
+      ],
+      "answer": "Evaporation",
+      "explanation": "Evaporation removes the liquid, leaving the dissolved solid behind."
+    },
+    {
+      "id": "JAMB_C_003",
+      "text": "According to Avogadro’s law, equal volumes of gases at the same temperature and pressure contain:",
+      "image": "",
+      "options": [
+        "Different numbers of molecules.",
+        "Same number of molecules.",
+        "Same mass of gas.",
+        "Different masses of gas."
+      ],
+      "answer": "Same number of molecules.",
+      "explanation": "Avogadro’s law states that equal volumes of gases, at the same temperature and pressure, have the same number of molecules. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "id": "JAMB_C_004",
+      "text": "Which law states that in a chemical reaction, mass is neither created nor destroyed?",
+      "image": "",
+      "options": [
+        "Law of definite proportions",
+        "Law of reciprocal proportions",
+        "Law of conservation of mass",
+        "Gay-Lussac’s law"
+      ],
+      "answer": "Law of conservation of mass",
+      "explanation": "The law of conservation of mass says that in a chemical reaction, the total mass of reactants equals the total mass of products."
+    },
+    {
+      "id": "JAMB_C_005",
+      "text": "If 2 moles of hydrogen gas react with 1 mole of oxygen gas to form water, what is the empirical formula of the product?",
+      "image": "",
+      "options": [
+        "H₂O",
+        "H₂O₂",
+        "HO",
+        "H₃O"
+      ],
+      "answer": "H₂O",
+      "explanation": "From the stoichiometry, 2 H₂ + O₂ → 2 H₂O, giving H₂O as the empirical formula."
+    },
+    {
+      "id": "JAMB_C_006",
+      "text": "Which gas law is described by the equation \\(PV = nRT\\)?",
+      "image": "",
+      "options": [
+        "Boyle’s law",
+        "Charles’s law",
+        "Dalton’s law of partial pressures",
+        "Ideal gas law"
+      ],
+      "answer": "Ideal gas law",
+      "explanation": "The ideal gas law relates pressure (P), volume (V), number of moles (n), the gas constant (R), and temperature (T). :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "id": "JAMB_C_007",
+      "text": "Which of the following is NOT a postulate of the kinetic theory of gases?",
+      "image": "",
+      "options": [
+        "Gas molecules are in constant random motion.",
+        "There are no forces between gas molecules.",
+        "The volume of gas molecules is negligible compared to the container volume.",
+        "Gas molecules lose kinetic energy when they collide elastically."
+      ],
+      "answer": "Gas molecules lose kinetic energy when they collide elastically.",
+      "explanation": "In kinetic theory, elastic collisions mean there is no net loss of kinetic energy during collisions."
+    },
+    {
+      "id": "JAMB_C_008",
+      "text": "Which of these has the highest first ionization energy?",
+      "image": "",
+      "options": [
+        "Sodium (Na)",
+        "Magnesium (Mg)",
+        "Aluminum (Al)",
+        "Neon (Ne)"
+      ],
+      "answer": "Neon (Ne)",
+      "explanation": "Ionization energy generally increases across a period; Neon is a noble gas with a very stable electron configuration, so it has a high ionization energy."
+    },
+    {
+      "id": "JAMB_C_009",
+      "text": "What is the electronic configuration of oxygen (atomic number 8)?",
+      "image": "",
+      "options": [
+        "1s² 2s² 2p⁴",
+        "1s² 2s² 2p⁶",
+        "1s² 2s¹ 2p⁵",
+        "1s² 2s² 2p²"
+      ],
+      "answer": "1s² 2s² 2p⁴",
+      "explanation": "Oxygen has 8 electrons: 2 in 1s, 2 in 2s, and 4 in 2p."
+    },
+    {
+      "id": "JAMB_C_010",
+      "text": "Which type of bond is formed when electrons are shared between atoms?",
+      "image": "",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "answer": "Covalent bond",
+      "explanation": "A covalent bond is formed by sharing electrons between atoms."
+    },
+    {
+      "id": "JAMB_C_011",
+      "text": "Which of the following molecules is polar?",
+      "image": "",
+      "options": [
+        "CO₂",
+        "CH₄",
+        "H₂O",
+        "BCl₃"
+      ],
+      "answer": "H₂O",
+      "explanation": "Water is a bent molecule, and because of the difference in electronegativity between H and O, there is a net dipole moment, making H₂O polar."
+    },
+    {
+      "id": "JAMB_C_012",
+      "text": "Which of these statements is TRUE about a dipole-dipole interaction?",
+      "image": "",
+      "options": [
+        "They occur between nonpolar molecules.",
+        "They are stronger than covalent bonds.",
+        "They involve partial charges on molecules.",
+        "They occur when ions attract each other."
+      ],
+      "answer": "They involve partial charges on molecules.",
+      "explanation": "Dipole-dipole interactions happen between polar molecules due to partial positive and partial negative charges."
+    },
+    {
+      "id": "JAMB_C_013",
+      "text": "Which acid completely ionizes in water?",
+      "image": "",
+      "options": [
+        "Acetic acid (CH₃COOH)",
+        "Hydrochloric acid (HCl)",
+        "Carbonic acid (H₂CO₃)",
+        "Phosphoric acid (H₃PO₄)"
+      ],
+      "answer": "Hydrochloric acid (HCl)",
+      "explanation": "HCl is a strong acid and dissociates completely in water."
+    },
+    {
+      "id": "JAMB_C_014",
+      "text": "If the pH of a solution is 3, the concentration of hydrogen ions [H⁺] in the solution is:",
+      "image": "",
+      "options": [
+        "1 × 10⁻³ M",
+        "3 × 10⁻³ M",
+        "1 × 10⁻¹ M",
+        "1 × 10⁻⁵ M"
+      ],
+      "answer": "1 × 10⁻³ M",
+      "explanation": "pH = -log [H⁺], so [H⁺] = 10⁻³ M when pH = 3."
+    },
+    {
+      "id": "JAMB_C_015",
+      "text": "Which salt is formed when ethanoic acid reacts with sodium hydroxide?",
+      "image": "",
+      "options": [
+        "Sodium ethanoate",
+        "Sodium chloride",
+        "Sodium carbonate",
+        "Sodium sulfate"
+      ],
+      "answer": "Sodium ethanoate",
+      "explanation": "Ethanoic acid (CH₃COOH) neutralizes with NaOH to form sodium ethanoate (CH₃COONa) and water."
+    },
+    {
+      "id": "JAMB_C_016",
+      "text": "Which of the following compounds is an alkane?",
+      "image": "",
+      "options": [
+        "C₂H₄",
+        "C₂H₆",
+        "C₃H₄",
+        "C₃H₆"
+      ],
+      "answer": "C₂H₆",
+      "explanation": "Alkanes have the formula CₙH₂ₙ₊₂; for n=2, that is C₂H₆."
+    },
+    {
+      "id": "JAMB_C_017",
+      "text": "The IUPAC name of CH₃–CH₂–OH is:",
+      "image": "",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "answer": "Ethanol",
+      "explanation": "The compound has two carbon atoms (eth-) and an –OH group (alcohol), so it's ethanol."
+    },
+    {
+      "id": "JAMB_C_018",
+      "text": "Which of the following is a feature of a homologous series?",
+      "image": "",
+      "options": [
+        "Compounds have completely different chemical properties.",
+        "Molecules differ by a –CH₂– unit.",
+        "All compounds in the series are isomers.",
+        "They have different general formulas."
+      ],
+      "answer": "Molecules differ by a –CH₂– unit.",
+      "explanation": "In a homologous series, each successive member differs by a CH₂ unit."
+    },
+    {
+      "id": "JAMB_C_019",
+      "text": "In the brown ring test for nitrate ion (NO₃⁻), which reagent is added to make the brown ring?",
+      "image": "",
+      "options": [
+        "Sodium hydroxide",
+        "Iron(II) sulfate",
+        "Sulfuric acid",
+        "Silver nitrate"
+      ],
+      "answer": "Iron(II) sulfate",
+      "explanation": "The brown ring is formed when Fe²⁺ from iron(II) sulfate reacts with nitrate in the presence of concentrated sulfuric acid to form [Fe(H₂O)₅NO]²⁺."
+    },
+    {
+      "id": "JAMB_C_020",
+      "text": "Which of the following metals is refined by electrolysis in the Hall–Heroult process?",
+      "image": "",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Copper",
+        "Zinc"
+      ],
+      "answer": "Aluminium",
+      "explanation": "Aluminium is extracted and purified by electrolysis using the Hall–Heroult process."
+    },
+    {
+      "id": "JAMB_C_021",
+      "text": "Faraday’s first law of electrolysis states that the mass of a substance produced at an electrode is:",
+      "image": "",
+      "options": [
+        "Directly proportional to the time only.",
+        "Directly proportional to the amount of current only.",
+        "Directly proportional to both the current and time.",
+        "Independent of current and time."
+      ],
+      "answer": "Directly proportional to both the current and time.",
+      "explanation": "Faraday’s first law: m = (Q · M) / (z · F), where Q = It, so mass depends on current times time."
+    },
+    {
+      "id": "JAMB_C_022",
+      "text": "In electrolysis of molten sodium chloride (NaCl), the products at the electrodes are:",
+      "image": "",
+      "options": [
+        "Sodium at the cathode and chlorine at the anode.",
+        "Sodium at the anode and chlorine at the cathode.",
+        "Sodium oxide and chlorine gas.",
+        "Sodium hydroxide and hydrogen."
+      ],
+      "answer": "Sodium at the cathode and chlorine at the anode.",
+      "explanation": "At the cathode, Na⁺ receives electrons to form Na(s); at the anode, Cl⁻ loses electrons to form Cl₂ gas."
+    },
+    {
+      "id": "JAMB_C_023",
+      "text": "Which of the following describes a redox reaction?",
+      "image": "",
+      "options": [
+        "A substance is both oxidized and reduced.",
+        "Only oxidation occurs.",
+        "Only reduction occurs.",
+        "There is no transfer of electrons."
+      ],
+      "answer": "A substance is both oxidized and reduced.",
+      "explanation": "In redox reactions, one species loses electrons (oxidation) while another gains electrons (reduction)."
+    },
+    {
+      "id": "JAMB_C_024",
+      "text": "What is the oxidation state of sulfur in H₂SO₄?",
+      "image": "",
+      "options": [
+        "+2",
+        "+6",
+        "+4",
+        "-2"
+      ],
+      "answer": "+6",
+      "explanation": "In H₂SO₄, oxygen is –2 × 4 = –8, hydrogen is +1 × 2 = +2, so sulfur must be +6 to balance to zero."
+    },
+    {
+      "id": "JAMB_C_025",
+      "text": "Which principle explains that when a stress is applied to a system at equilibrium, the system shifts to counteract the stress?",
+      "image": "",
+      "options": [
+        "Le Chatelier’s principle",
+        "Hess’s law",
+        "Avogadro’s law",
+        "Henry’s law"
+      ],
+      "answer": "Le Chatelier’s principle",
+      "explanation": "Le Chatelier’s principle states that a system at equilibrium will adjust to oppose changes (stress) applied to it."
+    },
+    {
+      "id": "JAMB_C_026",
+      "text": "Which of these affects the rate of a chemical reaction?",
+      "image": "",
+      "options": [
+        "Temperature",
+        "Concentration of reactants",
+        "Use of a catalyst",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "Reaction rate increases with higher temperature, higher concentration, or presence of a catalyst."
+    },
+    {
+      "id": "JAMB_C_027",
+      "text": "Which law states that the total pressure exerted by a mixture of gases is the sum of the partial pressures of each gas?",
+      "image": "",
+      "options": [
+        "Boyle’s law",
+        "Dalton’s law",
+        "Charles’s law",
+        "Avogadro’s law"
+      ],
+      "answer": "Dalton’s law",
+      "explanation": "Dalton’s law of partial pressures states precisely that."
+    },
+    {
+      "id": "JAMB_C_028",
+      "text": "Which of these changes will shift the equilibrium of the reaction \\(N_2 (g) + 3H_2 (g) ⇌ 2NH_3 (g)\\) to the right (towards product)?",
+      "image": "",
+      "options": [
+        "Increasing the pressure",
+        "Decreasing the pressure",
+        "Adding an inert gas at constant volume",
+        "Removing hydrogen gas"
+      ],
+      "answer": "Increasing the pressure",
+      "explanation": "Increasing pressure shifts equilibrium toward the side with fewer gas molecules (NH₃, 2 moles vs 4 moles on the left)."
+    },
+    {
+      "id": "JAMB_C_029",
+      "text": "What type of reaction is \\(2H_2 + O_2 → 2H_2O\\)?",
+      "image": "",
+      "options": [
+        "Decomposition",
+        "Single displacement",
+        "Synthesis (combination)",
+        "Double displacement"
+      ],
+      "answer": "Synthesis (combination)",
+      "explanation": "Two reactants combine to form a single product; that is a combination/synthesis reaction."
+    },
+    {
+      "id": "JAMB_C_030",
+      "text": "Which of the following is a transition metal?",
+      "image": "",
+      "options": [
+        "Calcium (Ca)",
+        "Iron (Fe)",
+        "Sodium (Na)",
+        "Aluminum (Al)"
+      ],
+      "answer": "Iron (Fe)",
+      "explanation": "Iron is a transition metal found in the d-block of the periodic table."
+    },
+    {
+      "id": "JAMB_C_031",
+      "text": "Which of these statements is true about isotopes?",
+      "image": "",
+      "options": [
+        "They have the same number of neutrons.",
+        "They have different atomic numbers.",
+        "They have the same chemical properties.",
+        "They have different numbers of protons."
+      ],
+      "answer": "They have the same chemical properties.",
+      "explanation": "Isotopes of an element have the same number of protons (same atomic number) and thus very similar chemical behavior, but different numbers of neutrons."
+    },
+    {
+      "id": "JAMB_C_032",
+      "text": "What is the molar mass of \\(CO_2\\)? (C = 12, O = 16)",
+      "image": "",
+      "options": [
+        "28 g/mol",
+        "32 g/mol",
+        "44 g/mol",
+        "48 g/mol"
+      ],
+      "answer": "44 g/mol",
+      "explanation": "CO₂ has 1 carbon (12) + 2 × 16 = 32, total = 12 + 32 = 44 g/mol."
+    },
+    {
+      "id": "JAMB_C_033",
+      "text": "Which of the following statements about radioactivity is CORRECT?",
+      "image": "",
+      "options": [
+        "Alpha particles are more penetrating than gamma rays.",
+        "Beta particles are positively charged.",
+        "Gamma rays have no mass.",
+        "Alpha particles are the same as protons."
+      ],
+      "answer": "Gamma rays have no mass.",
+      "explanation": "Gamma rays are pure electromagnetic radiation with no mass."
+    },
+    {
+      "id": "JAMB_C_034",
+      "text": "Which element is represented by the nuclide \\(^{14}_6C\\)?",
+      "image": "",
+      "options": [
+        "Carbon",
+        "Nitrogen",
+        "Oxygen",
+        "Boron"
+      ],
+      "answer": "Carbon",
+      "explanation": "The atomic number (6) is the number of protons, which defines the element as carbon."
+    },
+    {
+      "id": "JAMB_C_035",
+      "text": "What is the main greenhouse gas responsible for global warming?",
+      "image": "",
+      "options": [
+        "O₂",
+        "N₂",
+        "CO₂",
+        "H₂O (gas)"
+      ],
+      "answer": "CO₂",
+      "explanation": "Carbon dioxide (CO₂) is among the most significant greenhouse gases trapping heat in the atmosphere. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "id": "JAMB_C_036",
+      "text": "Which of these non-metal elements commonly forms diatomic molecules in its natural state?",
+      "image": "",
+      "options": [
+        "Helium (He)",
+        "Phosphorus (P)",
+        "Chlorine (Cl)",
+        "Neon (Ne)"
+      ],
+      "answer": "Chlorine (Cl)",
+      "explanation": "Chlorine naturally exists as Cl₂, a diatomic molecule."
+    },
+    {
+      "id": "JAMB_C_037",
+      "text": "In which of these processes is energy absorbed from the surroundings?",
+      "image": "",
+      "options": [
+        "Combustion",
+        "Freezing",
+        "Endothermic reaction",
+        "Neutralization"
+      ],
+      "answer": "Endothermic reaction",
+      "explanation": "An endothermic reaction takes in energy (heat) from its environment."
+    },
+    {
+      "id": "JAMB_C_038",
+      "text": "Which of the following compounds is ionic?",
+      "image": "",
+      "options": [
+        "CO₂",
+        "NaCl",
+        "CH₄",
+        "H₂O"
+      ],
+      "answer": "NaCl",
+      "explanation": "Sodium chloride is made of ions (Na⁺ and Cl⁻) so it is ionic."
+    },
+    {
+      "id": "JAMB_C_039",
+      "text": "Which of the following best describes a catalyst?",
+      "image": "",
+      "options": [
+        "It increases the activation energy.",
+        "It is consumed in the reaction.",
+        "It lowers the activation energy.",
+        "It changes the equilibrium constant."
+      ],
+      "answer": "It lowers the activation energy.",
+      "explanation": "A catalyst speeds up a reaction by lowering the activation energy without being consumed."
+    },
+    {
+      "id": "JAMB_C_040",
+      "text": "Which of these statements about dynamic equilibrium is TRUE?",
+      "image": "",
+      "options": [
+        "Forward and backward reaction rates are equal.",
+        "Concentrations of reactants and products are always equal.",
+        "Equilibrium only occurs in closed systems.",
+        "The reaction must be exothermic."
+      ],
+      "answer": "Forward and backward reaction rates are equal.",
+      "explanation": "In dynamic equilibrium, the rate of the forward reaction equals the rate of the backward reaction; concentrations remain constant (but not necessarily equal)."
+    }
+  ]
+  

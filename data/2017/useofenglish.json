@@ -1,0 +1,523 @@
+[
+    {
+      "id": "U2017_1",
+      "text": "The year 2017 saw an $\\textbf{unprecedented}$ $\\textbf{surge}$ in the value of $\\textbf{cryptocurrencies}$, particularly $\\textbf{Bitcoin}$, fueling intense $\\textbf{speculation}$ and public interest in blockchain technology. (Comprehension Passage Snippet 1)\n\nWhat technology was the focus of intense speculation due to an unprecedented surge in its value in 2017?",
+      "image": "",
+      "options": [
+        "Traditional banking stocks",
+        "Cryptocurrencies, especially Bitcoin",
+        "Gold and silver commodities",
+        "Government bonds"
+      ],
+      "answer": "Cryptocurrencies, especially Bitcoin",
+      "explanation": "The text states that the surge in value of 'cryptocurrencies, particularly Bitcoin' fueled intense speculation."
+    },
+    {
+      "id": "U2017_2",
+      "text": "The year 2017 saw an unprecedented $\\textbf{surge}$ in the value of cryptocurrencies, particularly Bitcoin, fueling intense speculation and public interest in blockchain technology. (Comprehension Passage Snippet 1)\n\nChoose the word that is closest in meaning to $\\textbf{surge}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "A sudden decline or drop",
+        "A powerful, forward or upward movement",
+        "A steady, slow decrease",
+        "A flat, unchanging rate"
+      ],
+      "answer": "A powerful, forward or upward movement",
+      "explanation": "A surge means a sudden powerful forward or upward movement, often referring to prices or waves."
+    },
+    {
+      "id": "U2017_3",
+      "text": "The $\\textbf{catalytic}$ $\\textbf{event}$ of the $\\textbf{Me}$ $\\textbf{Too}$ $\\textbf{movement}$ began to $\\textbf{unfold}$, $\\textbf{prompting}$ a global conversation about sexual harassment and abuse of power. (Comprehension Passage Snippet 2)\n\nWhat major cultural and social movement began to unfold in 2017, prompting a global conversation about abuse of power?",
+      "image": "",
+      "options": [
+        "The invention of the internet",
+        "The start of the Me Too movement",
+        "A major political election",
+        "A push for universal healthcare"
+      ],
+      "answer": "The start of the Me Too movement",
+      "explanation": "The text explicitly names the 'Me Too movement' as the catalytic event that unfolded."
+    },
+    {
+      "id": "U2017_4",
+      "text": "The catalytic event of the Me Too movement began to unfold, $\\textbf{prompting}$ a global conversation about sexual harassment and abuse of power. (Comprehension Passage Snippet 2)\n\nChoose the word that is **opposite** in meaning to $\\textbf{prompting}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Causing or inciting",
+        "Encouraging",
+        "Hindering or preventing",
+        "Stimulating"
+      ],
+      "answer": "Hindering or preventing",
+      "explanation": "To prompt means to incite or bring about. The opposite is to hinder or prevent."
+    },
+    {
+      "id": "U2017_5",
+      "text": "The executive $\\textbf{put}$ $\\textbf{up}$ with the $\\textbf{constant}$ $\\textbf{delays}$ but finally decided to quit.\n\nChoose the option that best explains the phrasal verb **put up with**.",
+      "image": "",
+      "options": [
+        "To build or construct something",
+        "To accept or tolerate an unpleasant situation",
+        "To display something publicly",
+        "To start an argument"
+      ],
+      "answer": "To accept or tolerate an unpleasant situation",
+      "explanation": "To 'put up with' means to tolerate or endure something unpleasant."
+    },
+    {
+      "id": "U2017_6",
+      "text": "The lawyer's $\\textbf{candid}$ $\\textbf{admission}$ of fault surprised the entire courtroom.\n\nChoose the word that is closest in meaning to the word $\\textbf{candid}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Secretive",
+        "Frank, honest, and straightforward",
+        "Misleading",
+        "Ambiguous"
+      ],
+      "answer": "Frank, honest, and straightforward",
+      "explanation": "Candid means truthful and straightforward; frank."
+    },
+    {
+      "id": "U2017_7",
+      "text": "She $\\textbf{(had not bought/was not buying)}$ a single Bitcoin before the 2017 price surge.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had not bought",
+        "was not buying",
+        "did not buy",
+        "would not buy"
+      ],
+      "answer": "had not bought",
+      "explanation": "The past perfect tense ('had not bought') is used to describe an action completed before a specific point in the past ('the 2017 price surge')."
+    },
+    {
+      "id": "U2017_8",
+      "text": "The word $\\textbf{'speculation'}$ $\\textbf{s p e c u l a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **speculation**.",
+      "image": "",
+      "options": [
+        "spe",
+        "cu",
+        "la",
+        "tion"
+      ],
+      "answer": "la",
+      "explanation": "The primary stress in 'speculation' /ˌspek.jəˈleɪ.ʃən/ falls on the third syllable, 'la' (before the -tion suffix)."
+    },
+    {
+      "id": "U2017_9",
+      "text": "In the realm of Artificial $\\textbf{Intelligence}$, $\\textbf{Google's}$ $\\textbf{AlphaGo}$ $\\textbf{Zero}$ demonstrated $\\textbf{unsupervised}$ $\\textbf{learning}$ by mastering the game of Go without human data. (Comprehension Passage Snippet 3)\n\nWhat kind of learning did AlphaGo Zero demonstrate in 2017 by mastering the game of Go without human data?",
+      "image": "",
+      "options": [
+        "Rote memorization",
+        "Supervised learning with human expert data",
+        "Unsupervised learning",
+        "Trial and error only"
+      ],
+      "answer": "Unsupervised learning",
+      "explanation": "The text states that AlphaGo Zero demonstrated 'unsupervised learning by mastering the game of Go without human data'."
+    },
+    {
+      "id": "U2017_10",
+      "text": "In the realm of Artificial Intelligence, Google's AlphaGo Zero demonstrated unsupervised learning by $\\textbf{mastering}$ the game of Go without human data. (Comprehension Passage Snippet 3)\n\nChoose the word that is closest in meaning to $\\textbf{mastering}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Failing to learn",
+        "Acquiring complete skill or proficiency in",
+        "Having a basic understanding of",
+        "Giving up on"
+      ],
+      "answer": "Acquiring complete skill or proficiency in",
+      "explanation": "To master something means to acquire complete skill or proficiency in it."
+    },
+    {
+      "id": "U2017_11",
+      "text": "The $\\textbf{belligerent}$ $\\textbf{tone}$ of the letter only worsened the trade negotiations.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{belligerent}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Hostile and aggressive",
+        "Warlike",
+        "Peaceful and cooperative",
+        "Confrontational"
+      ],
+      "answer": "Peaceful and cooperative",
+      "explanation": "Belligerent means hostile and aggressive. The opposite is 'peaceful and cooperative'."
+    },
+    {
+      "id": "U2017_12",
+      "text": "The success of the new cryptocurrency was $\\textbf{contingent}$ $\\textbf{(on/by)}$ market adoption.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "on",
+        "by",
+        "with",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "The adjective 'contingent' (dependent on something) is commonly followed by the preposition 'on' (contingent *on* something)."
+    },
+    {
+      "id": "U2017_13",
+      "text": "If the price $\\textbf{(hadn't dropped/didn't drop)}$, the majority of investors would still be holding their Bitcoin.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "hadn't dropped",
+        "didn't drop",
+        "wouldn't drop",
+        "wasn't dropping"
+      ],
+      "answer": "hadn't dropped",
+      "explanation": "This is a Third Conditional sentence. The main clause ('would still be holding...') requires the past perfect in the 'if' clause: 'If + past perfect (hadn't dropped), ... would have + past participle' (or 'would be + V-ing' for a mixed conditional outcome)."
+    },
+    {
+      "id": "U2017_14",
+      "text": "The word $\\textbf{'technology'}$ $\\textbf{t e c h n o l o g y}$.\n\nIdentify the syllable that carries the primary stress in the word **technology**.",
+      "image": "",
+      "options": [
+        "tech",
+        "nol",
+        "o",
+        "gy"
+      ],
+      "answer": "nol",
+      "explanation": "The primary stress in 'technology' /tɛkˈnɒl.ə.dʒi/ falls on the second syllable, 'nol'."
+    },
+    {
+      "id": "U2017_15",
+      "text": "The word $\\textbf{'coin'}$ $\\textbf{c o i n}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **coin**?",
+      "image": "",
+      "options": [
+        "Can",
+        "Cone",
+        "Join",
+        "Care"
+      ],
+      "answer": "Join",
+      "explanation": "The vowel sound in 'coin' is /ɔɪ/. The vowel sound in 'Join' is also /ɔɪ/."
+    },
+    {
+      "id": "U2017_16",
+      "text": "Political $\\textbf{polarization}$ became an $\\textbf{increasingly}$ $\\textbf{prominent}$ $\\textbf{feature}$ in many Western democracies, $\\textbf{amplified}$ by social media echo chambers. (Comprehension Passage Snippet 4)\n\nWhat was amplified by social media echo chambers in many Western democracies in 2017?",
+      "image": "",
+      "options": [
+        "Universal agreement on policy",
+        "A decline in political news consumption",
+        "Political polarization",
+        "A shift toward centrist politics"
+      ],
+      "answer": "Political polarization",
+      "explanation": "The text states that 'Political polarization became an increasingly prominent feature... amplified by social media echo chambers'."
+    },
+    {
+      "id": "U2017_17",
+      "text": "Political polarization became an increasingly prominent feature in many Western democracies, $\\textbf{amplified}$ by social media echo chambers. (Comprehension Passage Snippet 4)\n\nChoose the word that is closest in meaning to $\\textbf{amplified}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Reduced or lessened",
+        "Made louder or more intense",
+        "Completely ignored",
+        "Made quieter"
+      ],
+      "answer": "Made louder or more intense",
+      "explanation": "To amplify means to increase the volume, scope, or intensity of something."
+    },
+    {
+      "id": "U2017_18",
+      "text": "The $\\textbf{abject}$ $\\textbf{failure}$ of the security system allowed the data breach to occur.\n\nChoose the word that is closest in meaning to the word $\\textbf{abject}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Moderate or minor",
+        "Complete and without hope",
+        "Partial and temporary",
+        "Successful"
+      ],
+      "answer": "Complete and without hope",
+      "explanation": "Abject means (of a situation or condition) extremely bad, unpleasant, and degrading; or complete (as in 'abject failure')."
+    },
+    {
+      "id": "U2017_19",
+      "text": "The $\\textbf{ubiquitous}$ $\\textbf{presence}$ of smartphones is a defining feature of the late 2010s.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{ubiquitous}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Found everywhere or omnipresent",
+        "Rare, scarce, or limited",
+        "Commonplace",
+        "Widespread"
+      ],
+      "answer": "Rare, scarce, or limited",
+      "explanation": "Ubiquitous means present, appearing, or found everywhere. The opposite is 'rare' or 'scarce'."
+    },
+    {
+      "id": "U2017_20",
+      "text": "The word $\\textbf{'unprecedented'}$ $\\textbf{u n p r e c e d e n t e d}$.\n\nIdentify the syllable that carries the primary stress in the word **unprecedented**.",
+      "image": "",
+      "options": [
+        "un",
+        "pre",
+        "ce",
+        "den",
+        "ted"
+      ],
+      "answer": "pre",
+      "explanation": "The primary stress in 'unprecedented' /ʌnˈprɛs.ɪ.dɛn.tɪd/ falls on the second syllable, 'pre'."
+    },
+    {
+      "id": "U2017_21",
+      "text": "The word $\\textbf{'house'}$ (the noun) $\\textbf{h o u s e}$.\n\nWhich of the following words has the same consonant sound as the final letter 's' in **house** (noun)?",
+      "image": "",
+      "options": [
+        "Please",
+        "Rinse",
+        "Lose",
+        "Cruise"
+      ],
+      "answer": "Rinse",
+      "explanation": "The final 's' in the noun 'house' /haʊs/ is pronounced /s/ (unvoiced). The 's' in 'Rinse' is also /s/. The final 'se' in the other options is /z/ (voiced)."
+    },
+    {
+      "id": "U2017_22",
+      "text": "The $\\textbf{investor}$ $\\textbf{who}$ $\\textbf{made}$ $\\textbf{millions}$ $\\textbf{sold}$ $\\textbf{all}$ $\\textbf{his}$ $\\textbf{shares}$.\n\nWhich of the words is a $\\textbf{relative}$ $\\textbf{pronoun}$?",
+      "image": "",
+      "options": [
+        "Investor",
+        "Who",
+        "Millions",
+        "All"
+      ],
+      "answer": "Who",
+      "explanation": "'Who' introduces the relative clause ('who made millions') and refers back to 'investor', making it a relative pronoun."
+    },
+    {
+      "id": "U2017_23",
+      "text": "A large $\\textbf{trove}$ $\\textbf{of}$ $\\textbf{documents}$ was $\\textbf{leaked}$ to the $\\textbf{press}$.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Documents",
+        "Leaked",
+        "Press",
+        "Trove"
+      ],
+      "answer": "Trove",
+      "explanation": "A 'trove' is a collective noun, referring to a collection of valuable things, such as documents."
+    },
+    {
+      "id": "U2017_24",
+      "text": "The company was $\\textbf{indifferent}$ $\\textbf{(to/for)}$ the public's concerns about their data handling.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "to",
+        "for",
+        "about",
+        "with"
+      ],
+      "answer": "to",
+      "explanation": "The adjective 'indifferent' (having no particular interest or sympathy) is typically followed by the preposition 'to' (indifferent *to* something)."
+    },
+    {
+      "id": "U2017_25",
+      "text": "The $\\textbf{pervasive}$ $\\textbf{influence}$ of social media platforms continued to grow throughout 2017.\n\nChoose the word that is closest in meaning to the word $\\textbf{pervasive}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Contained or limited",
+        "Spreading widely throughout an area or a group of people",
+        "Infrequent",
+        "Isolated"
+      ],
+      "answer": "Spreading widely throughout an area or a group of people",
+      "explanation": "Pervasive means spreading widely throughout an area or a group of people (especially of an unwelcome influence or physical effect)."
+    },
+    {
+      "id": "U2017_26",
+      "text": "She $\\textbf{(denied/refused)}$ stealing the confidential company documents.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "denied",
+        "refused",
+        "refusing",
+        "to deny"
+      ],
+      "answer": "denied",
+      "explanation": "The verb 'deny' is followed by the gerund form of a verb (V-ing), while 'refuse' is followed by an infinitive ('refused *to* steal')."
+    },
+    {
+      "id": "U2017_27",
+      "text": "The company’s CEO was forced to $\\textbf{face}$ $\\textbf{the}$ $\\textbf{music}$ after the scandal broke.\n\nChoose the option that best explains the idiom **face the music**.",
+      "image": "",
+      "options": [
+        "To listen to a concert",
+        "To accept the unpleasant consequences of one's actions",
+        "To ignore criticism",
+        "To perform well under pressure"
+      ],
+      "answer": "To accept the unpleasant consequences of one's actions",
+      "explanation": "The idiom 'face the music' means to accept criticism or punishment for something you have done."
+    },
+    {
+      "id": "U2017_28",
+      "text": "Identify the word where the sound represented by the letters 'ch' is pronounced /ʃ/ (sh-sound).",
+      "image": "",
+      "options": [
+        "Chair",
+        "Characteristic",
+        "Machine",
+        "Watch"
+      ],
+      "answer": "Machine",
+      "explanation": "In 'Machine' /məˈʃiːn/, 'ch' is pronounced /ʃ/. In 'Chair' and 'Watch', it is pronounced /tʃ/. In 'Characteristic', it is pronounced /k/."
+    },
+    {
+      "id": "U2017_29",
+      "text": "The word $\\textbf{'polarization'}$ $\\textbf{p o l a r i z a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **polarization**.",
+      "image": "",
+      "options": [
+        "po",
+        "la",
+        "ri",
+        "za",
+        "tion"
+      ],
+      "answer": "za",
+      "explanation": "The primary stress in 'polarization' /ˌpoʊ.lə.rɪˈzeɪ.ʃən/ falls on the fourth syllable, 'za' (before the -tion suffix)."
+    },
+    {
+      "id": "U2017_30",
+      "text": "The government released a $\\textbf{slew}$ $\\textbf{of}$ $\\textbf{reforms}$ aimed at curbing financial malfeasance.\n\nChoose the word that is closest in meaning to the phrase $\\textbf{a}$ $\\textbf{slew}$ $\\textbf{of}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A small number of",
+        "A large number or amount of",
+        "A single instance of",
+        "A sudden reversal of"
+      ],
+      "answer": "A large number or amount of",
+      "explanation": "A 'slew of' is an informal expression meaning a large number or amount of something."
+    },
+    {
+      "id": "U2017_31",
+      "text": "The new policy started to $\\textbf{catch}$ $\\textbf{on}$ with the public after several months.\n\nChoose the option that best explains the phrasal verb **catch on**.",
+      "image": "",
+      "options": [
+        "To be physically grasped",
+        "To become popular or fashionable",
+        "To be easily understood",
+        "To be surprised"
+      ],
+      "answer": "To become popular or fashionable",
+      "explanation": "To 'catch on' means to become popular or fashionable."
+    },
+    {
+      "id": "U2017_32",
+      "text": "The word $\\textbf{'book'}$ $\\textbf{b o o k}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **book**?",
+      "image": "",
+      "options": [
+        "Boot",
+        "Look",
+        "Soup",
+        "Doom"
+      ],
+      "answer": "Look",
+      "explanation": "The vowel sound in 'book' is /ʊ/ (the short 'oo' sound). The vowel sound in 'Look' is also /ʊ/."
+    },
+    {
+      "id": "U2017_33",
+      "text": "The CEO offered a $\\textbf{pittance}$ of an apology for the damage caused by the security flaw.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{pittance}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A very small or inadequate amount",
+        "A generous or large amount",
+        "A trivial consequence",
+        "A complex situation"
+      ],
+      "answer": "A generous or large amount",
+      "explanation": "Pittance means a very small or inadequate amount of money paid to someone. The opposite is 'a generous or large amount'."
+    },
+    {
+      "id": "U2017_34",
+      "text": "The $\\textbf{latest}$ $\\textbf{technology}$ $\\textbf{will}$ $\\textbf{revolutionize}$ $\\textbf{the}$ $\\textbf{industry}$ $\\textbf{quickly}$.\n\nIdentify the $\\textbf{adverb}$ in the sentence.",
+      "image": "",
+      "options": [
+        "Latest",
+        "Will",
+        "Revolutionize",
+        "Quickly"
+      ],
+      "answer": "Quickly",
+      "explanation": "'Quickly' modifies the verb 'revolutionize', describing how the action will take place, making it an adverb."
+    },
+    {
+      "id": "U2017_35",
+      "text": "The $\\textbf{movement}$ $\\textbf{might}$ $\\textbf{have}$ $\\textbf{started}$ $\\textbf{earlier}$ if not for the $\\textbf{prevailing}$ $\\textbf{silence}$.\n\nWhich of the words is the $\\textbf{modal}$ $\\textbf{verb}$?",
+      "image": "",
+      "options": [
+        "Movement",
+        "might",
+        "have",
+        "started"
+      ],
+      "answer": "might",
+      "explanation": "'Might' is the modal verb, expressing possibility or speculation in the past when followed by 'have + past participle'."
+    },
+    {
+      "id": "U2017_36",
+      "text": "The word $\\textbf{'record'}$ (as a noun, meaning a documented piece of information).\n\nIdentify the syllable that carries the primary stress in the word **record** (noun).",
+      "image": "",
+      "options": [
+        "re",
+        "cord"
+      ],
+      "answer": "re",
+      "explanation": "The primary stress in the noun 'record' /ˈrɛkərd/ falls on the first syllable, 're'. (Compare to the verb 'record' /rɪˈkɔːrd/ where the stress is on the second syllable)."
+    },
+    {
+      "id": "U2017_37",
+      "text": "The word $\\textbf{'fear'}$ $\\textbf{f e a r}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **fear**?",
+      "image": "",
+      "options": [
+        "Fair",
+        "Far",
+        "Hear",
+        "Felt"
+      ],
+      "answer": "Hear",
+      "explanation": "The vowel sound in 'fear' is /ɪər/. The vowel sound in 'Hear' is also /ɪər/."
+    },
+    {
+      "id": "U2017_38",
+      "text": "The politician was $\\textbf{given}$ $\\textbf{the}$ $\\textbf{boot}$ by his own party following the scandal.\n\nChoose the option that best explains the idiom **given the boot**.",
+      "image": "",
+      "options": [
+        "Given a new pair of shoes",
+        "Fired or dismissed from a job or position",
+        "Given an important award",
+        "Given a powerful position"
+      ],
+      "answer": "Fired or dismissed from a job or position",
+      "explanation": "The idiom 'given the boot' means to be dismissed or fired from a job or position."
+    },
+    {
+      "id": "U2017_39",
+      "text": "The $\\textbf{inexorable}$ $\\textbf{rise}$ of AI capabilities defined the decade.\n\nChoose the word that is closest in meaning to the word $\\textbf{inexorable}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Easily stopped or persuaded",
+        "Impossible to stop or prevent",
+        "Slow and hesitant",
+        "Controllable"
+      ]
+      ,
+      "answer": "Impossible to stop or prevent",
+      "explanation": "Inexorable means impossible to stop or prevent."
+    },
+    {
+      "id": "U2017_40",
+      "text": "The $\\textbf{Me}$ $\\textbf{Too}$ $\\textbf{movement}$ and $\\textbf{its}$ $\\textbf{consequences}$ $\\textbf{(are/is)}$ a defining feature of the late 2010s.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "answer": "are",
+      "explanation": "The compound subject ('The Me Too movement' and 'its consequences') connected by 'and' is plural, requiring the plural verb 'are'."
+    }
+  ]

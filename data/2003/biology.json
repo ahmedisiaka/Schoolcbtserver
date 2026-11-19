@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2003_01",
+      "text": "The structure in the plant cell that allows substances to pass in and out is the:",
+      "image": "[Diagram of a plant cell highlighting the cell wall and membrane]",
+      "options": [
+        "Cytoplasm",
+        "Cell wall",
+        "Cell membrane",
+        "Nucleus"
+      ],
+      "answer": "Cell membrane",
+      "explanation": "While the cell wall is freely permeable, the cell membrane (or plasma membrane) is selectively permeable and controls the passage of substances, which is the major regulatory function."
+    },
+    {
+      "id": "BIO_2003_02",
+      "text": "Which of the following is a function of the liver in humans?",
+      "image": "",
+      "options": [
+        "Secretion of $\\text{Insulin}$",
+        "Production of $\\text{Urea}$",
+        "Production of red blood cells in adults",
+        "Storage of $\\text{Thyroxine}$"
+      ],
+      "answer": "Production of $\\text{Urea}$",
+      "explanation": "The liver converts toxic $\\text{Ammonia}$ (from amino acid breakdown) into less toxic $\\text{Urea}$ via the $\\text{Ornithine}$ cycle, which is then excreted by the kidneys."
+    },
+    {
+      "id": "BIO_2003_03",
+      "text": "The process by which complex food substances are broken down into simpler absorbable forms is called:",
+      "image": "[Diagram illustrating the breakdown of large food molecules]",
+      "options": [
+        "Assimilation",
+        "Absorption",
+        "Egestion",
+        "Digestion"
+      ],
+      "answer": "Digestion",
+      "explanation": "Digestion involves both mechanical and chemical processes to convert polymers into monomers that can be absorbed and utilized by the body."
+    },
+    {
+      "id": "BIO_2003_04",
+      "text": "The main substance that regulates the rate of heart beat in mammals is:",
+      "image": "",
+      "options": [
+        "Adrenaline",
+        "Thyroxine",
+        "Acetylcholine",
+        "Carbon dioxide concentration in blood"
+      ],
+      "answer": "Carbon dioxide concentration in blood",
+      "explanation": "The concentration of $\\text{CO}_2$ (and thus the blood $\\text{pH}$) is the primary chemical factor. An increase in $\\text{CO}_2$ signals the medulla oblongata to increase heart rate and breathing to eliminate the excess $\\text{CO}_2$."
+    },
+    {
+      "id": "BIO_2003_05",
+      "text": "Which of the following is a feature of wind-pollinated flowers?",
+      "image": "[Diagram of a wind-pollinated flower (e.g., grass)]",
+      "options": [
+        "Brightly coloured petals",
+        "Sticky pollen grains",
+        "Stigma often feathery and exposed",
+        "Nectaries present"
+      ],
+      "answer": "Stigma often feathery and exposed",
+      "explanation": "Wind-pollinated flowers are typically inconspicuous, scentless, and produce light, smooth pollen. The large, feathery stigma is adapted to catch airborne pollen."
+    },
+    {
+      "id": "BIO_2003_06",
+      "text": "The ecological pyramid that can sometimes be inverted is the pyramid of:",
+      "image": "[Diagram comparing upright and inverted pyramids of numbers]",
+      "options": [
+        "Energy",
+        "Biomass",
+        "Numbers",
+        "Trophic levels"
+      ],
+      "answer": "Numbers",
+      "explanation": "The pyramid of numbers can be inverted, for example, when a single large producer (like a tree) supports a very large number of primary consumers (like insects)."
+    },
+    {
+      "id": "BIO_2003_07",
+      "text": "A plant adapted to grow in extremely dry conditions is called a:",
+      "image": "",
+      "options": [
+        "Hydrophyte",
+        "Mesophyte",
+        "Halophyte",
+        "Xerophyte"
+      ],
+      "answer": "Xerophyte",
+      "explanation": "Xerophytes, such as cacti, have structural modifications (e.g., thick cuticles, sunken stomata, succulent stems) to minimize water loss and store water."
+    },
+    {
+      "id": "BIO_2003_08",
+      "text": "Which phylum is characterized by having jointed appendages and an exoskeleton?",
+      "image": "[Diagram showing an insect (Arthropod)]",
+      "options": [
+        "Annelida",
+        "Mollusca",
+        "Arthropoda",
+        "Chordata"
+      ],
+      "answer": "Arthropoda",
+      "explanation": "Arthropods (insects, crustaceans, arachnids) are defined by a segmented body, jointed limbs, and a hard, chitinous exoskeleton."
+    },
+    {
+      "id": "BIO_2003_09",
+      "text": "The main factor that determines the rate of movement of water up the xylem of a tall tree is:",
+      "image": "[Diagram illustrating the Transpiration-Cohesion-Tension theory]",
+      "options": [
+        "Root pressure",
+        "Capillarity",
+        "Transpiration pull",
+        "Osmosis in root cells"
+      ],
+      "answer": "Transpiration pull",
+      "explanation": "The evaporation of water from the leaves (transpiration) creates a strong tension (negative pressure) that pulls the continuous column of water molecules (held by cohesion) up the xylem vessels."
+    },
+    {
+      "id": "BIO_2003_10",
+      "text": "The pigment responsible for the capture of light energy during photosynthesis is:",
+      "image": "[Molecular structure of Chlorophyll]",
+      "options": [
+        "Haemoglobin",
+        "Carotene",
+        "Xanthophyll",
+        "Chlorophyll"
+      ],
+      "answer": "Chlorophyll",
+      "explanation": "Chlorophyll $a$ and $b$ are the primary photosynthetic pigments located in the chloroplasts, which absorb light energy, mainly in the blue and red regions of the spectrum."
+    },
+    {
+      "id": "BIO_2003_11",
+      "text": "A population is defined as a group of organisms of:",
+      "image": "",
+      "options": [
+        "Different species living in a habitat",
+        "The same species living together in a defined area",
+        "Different species living together in a community",
+        "The same species spread over a wide geographical area"
+      ],
+      "answer": "The same species living together in a defined area",
+      "explanation": "In ecology, a population refers specifically to all the members of a single species living in a particular geographical area at the same time."
+    },
+    {
+      "id": "BIO_2003_12",
+      "text": "Which part of the $\\text{DNA}$ molecule codes for the amino acid sequence of a protein?",
+      "image": "[Diagram illustrating the genetic code/codon table]",
+      "options": [
+        "Ribose sugar",
+        "Phosphate group",
+        "Nitrogenous bases",
+        "Hydrogen bonds"
+      ],
+      "answer": "Nitrogenous bases",
+      "explanation": "The sequence of the four nitrogenous bases ($\text{A}, \text{T}, \text{C}, \text{G}$) forms the genetic code, where three bases (a codon) code for one specific amino acid."
+    },
+    {
+      "id": "BIO_2003_13",
+      "text": "If a red-flowered plant ($RR$) is crossed with a white-flowered plant ($rr$) and the offspring have pink flowers ($Rr$), this inheritance pattern is known as:",
+      "image": "[Punnett square for incomplete dominance cross]",
+      "options": [
+        "Complete dominance",
+        "Co-dominance",
+        "Incomplete dominance",
+        "Sex-linked inheritance"
+      ],
+      "answer": "Incomplete dominance",
+      "explanation": "Incomplete dominance occurs when the heterozygous phenotype ($Rr$) is an intermediate blend of the two homozygous phenotypes (Red and White), such as Pink."
+    },
+    {
+      "id": "BIO_2003_14",
+      "text": "The main function of the amniotic fluid in a mammal is to:",
+      "image": "[Diagram of a developing fetus within the amniotic sac]",
+      "options": [
+        "Supply food to the foetus",
+        "Protect the foetus from shock and mechanical injury",
+        "Facilitate gaseous exchange",
+        "Transport wastes away from the foetus"
+      ],
+      "answer": "Protect the foetus from shock and mechanical injury",
+      "explanation": "The amniotic fluid acts as a protective cushion, absorbing shock and maintaining a constant temperature for the developing foetus."
+    },
+    {
+      "id": "BIO_2003_15",
+      "text": "The major respiratory surface in a toad is the:",
+      "image": "",
+      "options": [
+        "Gills",
+        "Lungs and skin",
+        "Nostrils",
+        "Buccal cavity"
+      ],
+      "answer": "Lungs and skin",
+      "explanation": "Toads (Amphibians) use their lungs for pulmonary respiration and their moist, highly vascularized skin for cutaneous respiration, which is often the most important method when submerged or inactive."
+    },
+    {
+      "id": "BIO_2003_16",
+      "text": "Which of the following hormones is secreted by the pancreas and lowers blood sugar level?",
+      "image": "[Diagram showing the regulation of blood sugar by Insulin and Glucagon]",
+      "options": [
+        "Adrenaline",
+        "Glucagon",
+        "Insulin",
+        "Thyroxine"
+      ],
+      "answer": "Insulin",
+      "explanation": "Insulin is produced by the $\\text{Islets of Langerhans}$ in the pancreas and promotes the uptake of $\\text{Glucose}$ by cells and the conversion of $\\text{Glucose}$ to $\\text{Glycogen}$ in the liver."
+    },
+    {
+      "id": "BIO_2003_17",
+      "text": "The function of the $\\text{Malpighian}$ tubules in insects is:",
+      "image": "[Diagram of the Malpighian tubules in insect anatomy]",
+      "options": [
+        "Digestion",
+        "Respiration",
+        "Excretion and osmoregulation",
+        "Reproduction"
+      ],
+      "answer": "Excretion and osmoregulation",
+      "explanation": "The $\\text{Malpighian}$ tubules are the main excretory organs in insects, removing nitrogenous waste (as $\\text{Uric}$ acid) and regulating water and ion balance."
+    },
+    {
+      "id": "BIO_2003_18",
+      "text": "The final product of anaerobic respiration in yeast is:",
+      "image": "[Chemical equation for alcoholic fermentation]",
+      "options": [
+        "Lactic acid and $\\text{Water}$",
+        "Carbon dioxide and $\\text{Water}$",
+        "Ethanol and $\\text{Carbon dioxide}$",
+        "Oxygen and $\\text{Energy}$"
+      ],
+      "answer": "Ethanol and $\\text{Carbon dioxide}$",
+      "explanation": "Yeast performs alcoholic fermentation, converting $\\text{Glucose}$ into $\\text{Ethanol}$, $\\text{Carbon}$ dioxide ($\text{CO}_2$), and a small amount of $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2003_19",
+      "text": "Which type of tooth is specifically adapted for tearing flesh in a carnivore?",
+      "image": "[Diagram of carnivore teeth showing canines]",
+      "options": [
+        "Incisors",
+        "Canines",
+        "Premolars",
+        "Molars"
+      ],
+      "answer": "Canines",
+      "explanation": "Canines are long, sharp, and pointed teeth used by carnivores (and omnivores) for piercing prey and tearing muscle tissue."
+    },
+    {
+      "id": "BIO_2003_20",
+      "text": "A plant is said to be turgid when:",
+      "image": "[Diagram illustrating turgid and flaccid plant cells]",
+      "options": [
+        "Its cell contents have shrunk due to water loss",
+        "Water enters the cell and the vacuole swells, pushing the cytoplasm against the cell wall",
+        "The cell membrane pulls away from the cell wall",
+        "It has lost all its water and wilted"
+      ],
+      "answer": "Water enters the cell and the vacuole swells, pushing the cytoplasm against the cell wall",
+      "explanation": "Turgidity is the condition where a plant cell has taken up water by osmosis to the point where the cell membrane is pressed firmly against the cell wall."
+    },
+    {
+      "id": "BIO_2003_21",
+      "text": "Which of the following is a result of overgrazing?",
+      "image": "[Image illustrating soil erosion and desertification]",
+      "options": [
+        "Increased soil fertility",
+        "Increased vegetation cover",
+        "Soil erosion and desertification",
+        "Increased growth of legumes"
+      ],
+      "answer": "Soil erosion and desertification",
+      "explanation": "Overgrazing removes protective plant cover, exposing the soil to wind and water, leading to loss of topsoil, land degradation, and eventual desertification."
+    },
+    {
+      "id": "BIO_2003_22",
+      "text": "The maximum number of organisms a particular habitat can sustainably support is known as the:",
+      "image": "[Graph illustrating population growth and carrying capacity]",
+      "options": [
+        "Growth rate",
+        "Population density",
+        "Biotic potential",
+        "Carrying capacity"
+      ],
+      "answer": "Carrying capacity",
+      "explanation": "Carrying capacity ($K$) is the maximum population size of a species that the environment can sustain indefinitely, given the food, habitat, water, and other necessities available."
+    },
+    {
+      "id": "BIO_2003_23",
+      "text": "In the process of blood clotting, $\\text{Fibrinogen}$ is converted to $\\text{Fibrin}$ by the enzyme:",
+      "image": "[Diagram of the blood clotting cascade]",
+      "options": [
+        "Thrombin",
+        "Prothrombin",
+        "Platelet factor",
+        "Haemoglobin"
+      ],
+      "answer": "Thrombin",
+      "explanation": "Thrombin is an enzyme that catalyzes the final step in the clotting cascade, converting the soluble plasma protein $\\text{Fibrinogen}$ into insoluble $\\text{Fibrin}$ threads, which form the clot network."
+    },
+    {
+      "id": "BIO_2003_24",
+      "text": "A parasitic flatworm that lives in the liver of sheep and cattle is the:",
+      "image": "[Diagram of the life cycle of the Liver Fluke]",
+      "options": [
+        "Tapeworm",
+        "Schistosoma (Blood fluke)",
+        "Liver Fluke (Fasciola hepatica)",
+        "Roundworm"
+      ],
+      "answer": "Liver Fluke (Fasciola hepatica)",
+      "explanation": "The Liver Fluke, *Fasciola hepatica*, is a trematode (flatworm) known to parasitize the bile ducts and liver of sheep, cattle, and sometimes humans."
+    },
+    {
+      "id": "BIO_2003_25",
+      "text": "The instrument used for measuring the rate of transpiration in plants is the:",
+      "image": "[Diagram of a simple Potometer]",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Potometer",
+        "Hydrometer"
+      ],
+      "answer": "Potometer",
+      "explanation": "A potometer (or transpirometer) measures the rate of water uptake by a plant shoot, which is assumed to be an indirect measure of the rate of transpiration."
+    },
+    {
+      "id": "BIO_2003_26",
+      "text": "The main component of the cell wall in higher plants is:",
+      "image": "[Molecular structure of Cellulose]",
+      "options": [
+        "Chitin",
+        "Lignin",
+        "Cellulose",
+        "Pectin"
+      ],
+      "answer": "Cellulose",
+      "explanation": "Cellulose is a polysaccharide that forms the strong, protective framework of the cell walls in plants."
+    },
+    {
+      "id": "BIO_2003_27",
+      "text": "Which of the following diseases is transmitted by the Tse-tse fly?",
+      "image": "[Map showing endemic areas of sleeping sickness]",
+      "options": [
+        "Typhoid fever",
+        "Sleeping sickness (African Trypanosomiasis)",
+        "Malaria",
+        "Yellow fever"
+      ],
+      "answer": "Sleeping sickness (African Trypanosomiasis)",
+      "explanation": "The Tse-tse fly is the vector for the parasite *Trypanosoma brucei*, which causes sleeping sickness in humans and nagana in animals."
+    },
+    {
+      "id": "BIO_2003_28",
+      "text": "The process where organisms with favourable adaptations survive and reproduce more successfully is known as:",
+      "image": "[Diagram illustrating Darwin's natural selection (e.g., finch beaks)]",
+      "options": [
+        "Mutation",
+        "Natural selection",
+        "Hybridization",
+        "Genetic drift"
+      ],
+      "answer": "Natural selection",
+      "explanation": "Natural selection, a key mechanism of evolution, states that better-adapted individuals are more likely to survive and pass their traits to the next generation (survival of the fittest)."
+    },
+    {
+      "id": "BIO_2003_29",
+      "text": "The condition of having two different alleles for a particular trait is:",
+      "image": "[Punnett square showing heterozygous genotype Rr]",
+      "options": [
+        "Homozygous",
+        "Recessive",
+        "Heterozygous",
+        "Phenotype"
+      ],
+      "answer": "Heterozygous",
+      "explanation": "A heterozygous individual (e.g., $Rr$) possesses two different alleles for a given gene, inherited one from each parent. Homozygous means having two identical alleles ($RR$ or $rr$)."
+    },
+    {
+      "id": "BIO_2003_30",
+      "text": "In the human digestive system, the major site for the absorption of digested food is the:",
+      "image": "[Diagram of the small intestine villi]",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Oesophagus",
+        "Small intestine"
+      ],
+      "answer": "Small intestine",
+      "explanation": "The small intestine has a highly folded surface (villi and microvilli), providing a huge surface area for the absorption of simple sugars, amino acids, and fatty acids/glycerol."
+    },
+    {
+      "id": "BIO_2003_31",
+      "text": "The organelle that modifies, sorts, and packages proteins and lipids into vesicles for transport is the:",
+      "image": "[Diagram of the Golgi apparatus]",
+      "options": [
+        "Ribosome",
+        "Mitochondrion",
+        "Lysosome",
+        "Golgi apparatus (Complex)"
+      ],
+      "answer": "Golgi apparatus (Complex)",
+      "explanation": "The $\\text{Golgi}$ apparatus is crucial in the endomembrane system for processing materials synthesized in the $\\text{Endoplasmic Reticulum}$ and preparing them for secretion or delivery to other organelles."
+    },
+    {
+      "id": "BIO_2003_32",
+      "text": "Which of the following excretory products is found in the urine of a mammal?",
+      "image": "",
+      "options": [
+        "Bile",
+        "Urea",
+        "Haemoglobin",
+        "Starch"
+      ],
+      "answer": "Urea",
+      "explanation": "Urea is the primary nitrogenous waste product in mammals, produced by the liver and excreted by the kidneys dissolved in urine."
+    },
+    {
+      "id": "BIO_2003_33",
+      "text": "The study of the relationship between living organisms and their environment is known as:",
+      "image": "",
+      "options": [
+        "Cytology",
+        "Genetics",
+        "Ecology",
+        "Pathology"
+      ],
+      "answer": "Ecology",
+      "explanation": "Ecology is the branch of biology that concerns the spatial and temporal patterns of distribution and abundance of organisms, and the processes that generate these patterns."
+    },
+    {
+      "id": "BIO_2003_34",
+      "text": "The cell organelle that is responsible for the synthesis of protein is the:",
+      "image": "[Diagram of a Ribosome translating mRNA]",
+      "options": [
+        "Lysosome",
+        "Ribosome",
+        "Vacuole",
+        "Nucleolus"
+      ],
+      "answer": "Ribosome",
+      "explanation": "Ribosomes are the site of protein synthesis (translation), where $\\text{mRNA}$ is read and $\\text{tRNA}$ brings the corresponding amino acids to build the polypeptide chain."
+    },
+    {
+      "id": "BIO_2003_35",
+      "text": "In the $\\text{Nitrogen}$ cycle, the conversion of atmospheric $\\text{Nitrogen}$ into $\\text{Nitrate}$ is achieved by the combined action of:",
+      "image": "[Diagram of the Nitrogen cycle showing both fixation and nitrification]",
+      "options": [
+        "Denitrifying and putrefying bacteria",
+        "$\\text{Nitrogen}$-fixing bacteria and nitrifying bacteria",
+        "Sulphur bacteria and $\\text{Nitrobacter}$",
+        "Rhizobium and putrefying bacteria"
+      ],
+      "answer": "$\\text{Nitrogen}$-fixing bacteria and nitrifying bacteria",
+      "explanation": "$\\text{Nitrogen}$-fixing bacteria convert atmospheric $\\text{N}_2$ to $\\text{Ammonia}$. Nitrifying bacteria ($\text{Nitrosomonas}$ and $\text{Nitrobacter}$) then oxidize the $\\text{Ammonia}$ to $\\text{Nitrites}$ and finally to $\\text{Nitrates}$."
+    },
+    {
+      "id": "BIO_2003_36",
+      "text": "The structure that connects muscle to bone is the:",
+      "image": "[Diagram showing a joint with ligaments and tendons]",
+      "options": [
+        "Cartilage",
+        "Ligament",
+        "Tendon",
+        "Capsule"
+      ],
+      "answer": "Tendon",
+      "explanation": "Tendons are tough, flexible, and inelastic cords of fibrous connective tissue that attach muscles to bones, enabling movement."
+    },
+    {
+      "id": "BIO_2003_37",
+      "text": "Which of the following adaptations is found in carnivorous plants like the $\\text{Venus}$ flytrap?",
+      "image": "",
+      "options": [
+        "Absence of $\\text{Chlorophyll}$",
+        "Large tap roots",
+        "Leaves modified to trap insects",
+        "Thick, waxy cuticle"
+      ],
+      "answer": "Leaves modified to trap insects",
+      "explanation": "Carnivorous plants have specialized leaves to capture insects, which are then digested to obtain essential nutrients like $\\text{Nitrogen}$, usually lacking in their marshy soil habitats."
+    },
+    {
+      "id": "BIO_2003_38",
+      "text": "The part of the flower that develops into the fruit after fertilization is the:",
+      "image": "[Diagram of a flower showing the ovary]",
+      "options": [
+        "Stigma",
+        "Ovule",
+        "Ovary",
+        "Petal"
+      ],
+      "answer": "Ovary",
+      "explanation": "After fertilization, the ovule develops into the seed, and the ovary wall develops into the fruit wall (pericarp) to protect and aid in seed dispersal."
+    },
+    {
+      "id": "BIO_2003_39",
+      "text": "The causative agent of $\\text{AIDS}$ is a:",
+      "image": "[Diagram of the $\\text{HIV}$ virus structure]",
+      "options": [
+        "Bacterium",
+        "Protozoan",
+        "Fungus",
+        "Virus ($\text{HIV}$)"
+      ],
+      "answer": "Virus ($\text{HIV}$)",
+      "explanation": "Acquired Immunodeficiency Syndrome ($\text{AIDS}$) is caused by the Human Immunodeficiency Virus ($\text{HIV}$), a retrovirus that targets and destroys $\\text{T}$-helper lymphocytes of the immune system."
+    },
+    {
+      "id": "BIO_2003_40",
+      "text": "Which of the following groups of animals are classified as cold-blooded (Poikilotherms)?",
+      "image": "",
+      "options": [
+        "Birds and Mammals",
+        "Fish and Reptiles",
+        "Mammals and Reptiles",
+        "Birds and Fish"
+      ],
+      "answer": "Fish and Reptiles",
+      "explanation": "Cold-blooded (ectothermic or poikilothermic) animals, such as $\\text{Fish}$, $\\text{Amphibians}$, and $\\text{Reptiles}$, regulate their body temperature primarily by seeking or avoiding environmental heat sources."
+    }
+  ]

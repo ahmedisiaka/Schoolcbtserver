@@ -1,0 +1,326 @@
+[
+    {
+      "id": "JAMB_P_2006_01",
+      "text": "Which of the following quantities is a vector?",
+      "image": "",
+      "options": ["Mass", "Speed", "Velocity", "Distance"],
+      "answer": "Velocity",
+      "explanation": "Velocity has both magnitude and direction."
+    },
+    {
+      "id": "JAMB_P_2006_02",
+      "text": "The slope of a distance-time graph represents:",
+      "image": "",
+      "options": ["Acceleration", "Displacement", "Velocity", "Momentum"],
+      "answer": "Velocity",
+      "explanation": "Slope of distance-time graph gives speed or velocity."
+    },
+    {
+      "id": "JAMB_P_2006_03",
+      "text": "A body of mass 5 kg is lifted through 4 m. Find the work done. (g = 10 m/s²)",
+      "image": "",
+      "options": ["20 J", "40 J", "200 J", "400 J"],
+      "answer": "200 J",
+      "explanation": "Work = mgh = 5 × 10 × 4 = 200 J."
+    },
+    {
+      "id": "JAMB_P_2006_04",
+      "text": "Which of the following is NOT a derived quantity?",
+      "image": "",
+      "options": ["Area", "Length", "Density", "Velocity"],
+      "answer": "Length",
+      "explanation": "Length is a fundamental quantity."
+    },
+    {
+      "id": "JAMB_P_2006_05",
+      "text": "The rate of change of momentum is equal to:",
+      "image": "",
+      "options": ["Work", "Power", "Force", "Energy"],
+      "answer": "Force",
+      "explanation": "Newton’s second law: F = dp/dt."
+    },
+    {
+      "id": "JAMB_P_2006_06",
+      "text": "A stone dropped from a height of 20 m. Find its velocity just before it hits the ground. (g = 10 m/s²)",
+      "image": "",
+      "options": ["10 m/s", "20 m/s", "40 m/s", "60 m/s"],
+      "answer": "20 m/s",
+      "explanation": "v² = 2gh = 40 → v = √40 ≈ 20 m/s."
+    },
+    {
+      "id": "JAMB_P_2006_07",
+      "text": "Which of the following is a unit of pressure?",
+      "image": "",
+      "options": ["Joule", "Newton", "Pascal", "Watt"],
+      "answer": "Pascal",
+      "explanation": "Pressure = force/area measured in pascal."
+    },
+    {
+      "id": "JAMB_P_2006_08",
+      "text": "The time taken to complete one oscillation is known as:",
+      "image": "",
+      "options": ["Amplitude", "Frequency", "Period", "Wavelength"],
+      "answer": "Period",
+      "explanation": "The period is time per oscillation."
+    },
+    {
+      "id": "JAMB_P_2006_09",
+      "text": "A machine has an efficiency of 80%. If the input work is 200 J, the output work is:",
+      "image": "",
+      "options": ["40 J", "80 J", "160 J", "200 J"],
+      "answer": "160 J",
+      "explanation": "Output = 0.8 × 200 J = 160 J."
+    },
+    {
+      "id": "JAMB_P_2006_10",
+      "text": "Which wave requires a material medium for propagation?",
+      "image": "",
+      "options": ["Light wave", "X-rays", "Radio waves", "Sound"],
+      "answer": "Sound",
+      "explanation": "Sound cannot travel through a vacuum."
+    },
+  
+    {
+      "id": "JAMB_P_2006_11",
+      "text": "The echo of a sound is heard after 0.4 s. If the speed of sound is 340 m/s, the reflecting surface is:",
+      "image": "",
+      "options": ["17 m away", "34 m away", "68 m away", "150 m away"],
+      "answer": "68 m away",
+      "explanation": "Echo distance = vt/2 = 340×0.4/2."
+    },
+    {
+      "id": "JAMB_P_2006_12",
+      "text": "The S.I unit of electric charge is:",
+      "image": "",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "answer": "Coulomb",
+      "explanation": "Charge is measured in coulomb."
+    },
+    {
+      "id": "JAMB_P_2006_13",
+      "text": "The instrument used to measure current is called:",
+      "image": "",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+      "answer": "Ammeter",
+      "explanation": "Ammeter is connected in series to measure current."
+    },
+    {
+      "id": "JAMB_P_2006_14",
+      "text": "Which of the following is a non-renewable energy source?",
+      "image": "",
+      "options": ["Wind", "Solar", "Petroleum", "Hydropower"],
+      "answer": "Petroleum",
+      "explanation": "Petroleum cannot be replaced quickly."
+    },
+    {
+      "id": "JAMB_P_2006_15",
+      "text": "A convex lens is also known as:",
+      "image": "",
+      "options": ["Converging lens", "Diverging lens", "Plane lens", "Cylindrical lens"],
+      "answer": "Converging lens",
+      "explanation": "Convex lenses converge light rays."
+    },
+    {
+      "id": "JAMB_P_2006_16",
+      "text": "A battery supplies 12 C of charge in 3 s. The current is:",
+      "image": "",
+      "options": ["2 A", "3 A", "4 A", "5 A"],
+      "answer": "4 A",
+      "explanation": "I = Q/t = 12/3."
+    },
+    {
+      "id": "JAMB_P_2006_17",
+      "text": "The force between two charged bodies is:",
+      "image": "",
+      "options": ["Magnetic", "Electric", "Nuclear", "Frictional"],
+      "answer": "Electric",
+      "explanation": "Like charges repel and unlike attract."
+    },
+    {
+      "id": "JAMB_P_2006_18",
+      "text": "A capacitor stores:",
+      "image": "",
+      "options": ["Mass", "Charge", "Heat", "Light"],
+      "answer": "Charge",
+      "explanation": "Capacitors store electrical charge."
+    },
+    {
+      "id": "JAMB_P_2006_19",
+      "text": "The S.I unit of work is:",
+      "image": "",
+      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": "Joule",
+      "explanation": "Work is measured in joule."
+    },
+    {
+      "id": "JAMB_P_2006_20",
+      "text": "The period of a simple pendulum depends on:",
+      "image": "",
+      "options": ["Mass", "Length", "Amplitude", "Weight"],
+      "answer": "Length",
+      "explanation": "T ∝ √L for a simple pendulum."
+    },
+  
+    {
+      "id": "JAMB_P_2006_21",
+      "text": "A body moving in a circle with constant speed has:",
+      "image": "",
+      "options": ["Zero velocity", "Constant acceleration", "No acceleration", "Increasing speed"],
+      "answer": "Constant acceleration",
+      "explanation": "Centripetal acceleration acts towards the centre."
+    },
+    {
+      "id": "JAMB_P_2006_22",
+      "text": "What is the momentum of a 2 kg object moving at 5 m/s?",
+      "image": "",
+      "options": ["2 kgm/s", "5 kgm/s", "7 kgm/s", "10 kgm/s"],
+      "answer": "10 kgm/s",
+      "explanation": "Momentum p = mv = 2×5."
+    },
+    {
+      "id": "JAMB_P_2006_23",
+      "text": "Heat transfer through a vacuum occurs by:",
+      "image": "",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "answer": "Radiation",
+      "explanation": "Radiation does not require a medium."
+    },
+    {
+      "id": "JAMB_P_2006_24",
+      "text": "The unit of frequency is:",
+      "image": "",
+      "options": ["Hertz", "Newton", "Joule", "Coulomb"],
+      "answer": "Hertz",
+      "explanation": "Frequency is measured in hertz."
+    },
+    {
+      "id": "JAMB_P_2006_25",
+      "text": "Which of these is a scalar quantity?",
+      "image": "",
+      "options": ["Force", "Acceleration", "Momentum", "Speed"],
+      "answer": "Speed",
+      "explanation": "Speed has magnitude only."
+    },
+    {
+      "id": "JAMB_P_2006_26",
+      "text": "A transformer works on the principle of:",
+      "image": "",
+      "options": ["Static electricity", "Magnetic induction", "Conduction", "Convection"],
+      "answer": "Magnetic induction",
+      "explanation": "Transformers rely on changing magnetic fields."
+    },
+    {
+      "id": "JAMB_P_2006_27",
+      "text": "The phenomenon of splitting white light into colours is called:",
+      "image": "",
+      "options": ["Reflection", "Diffraction", "Dispersion", "Refraction"],
+      "answer": "Dispersion",
+      "explanation": "Dispersion separates colours based on wavelength."
+    },
+    {
+      "id": "JAMB_P_2006_28",
+      "text": "A force of 10 N stretches a spring by 0.05 m. The spring constant is:",
+      "image": "",
+      "options": ["50 N/m", "100 N/m", "150 N/m", "200 N/m"],
+      "answer": "200 N/m",
+      "explanation": "k = F/x = 10 / 0.05."
+    },
+    {
+      "id": "JAMB_P_2006_29",
+      "text": "Which of the following devices converts AC to DC?",
+      "image": "",
+      "options": ["Transformer", "Rectifier", "Motor", "Generator"],
+      "answer": "Rectifier",
+      "explanation": "Rectifiers convert alternating current to direct current."
+    },
+    {
+      "id": "JAMB_P_2006_30",
+      "text": "The bending of waves around obstacles is called:",
+      "image": "",
+      "options": ["Refraction", "Diffraction", "Reflection", "Interference"],
+      "answer": "Diffraction",
+      "explanation": "Diffraction is the bending of waves around edges."
+    },
+  
+    {
+      "id": "JAMB_P_2006_31",
+      "text": "The speed of light in a vacuum is:",
+      "image": "",
+      "options": ["3×10² m/s", "3×10⁵ m/s", "3×10⁸ m/s", "3×10¹² m/s"],
+      "answer": "3×10⁸ m/s",
+      "explanation": "Standard speed of light."
+    },
+    {
+      "id": "JAMB_P_2006_32",
+      "text": "A conductor carries 3 A for 10 s. The total charge is:",
+      "image": "",
+      "options": ["0.3 C", "3 C", "10 C", "30 C"],
+      "answer": "30 C",
+      "explanation": "Q = It = 3×10."
+    },
+    {
+      "id": "JAMB_P_2006_33",
+      "text": "Materials that allow heat to pass through them are called:",
+      "image": "",
+      "options": ["Insulators", "Conductors", "Semiconductors", "Resistors"],
+      "answer": "Conductors",
+      "explanation": "Conductors allow heat and electricity to pass through."
+    },
+    {
+      "id": "JAMB_P_2006_34",
+      "text": "The image formed by a plane mirror is:",
+      "image": "",
+      "options": ["Real", "Inverted", "Virtual", "Magnified"],
+      "answer": "Virtual",
+      "explanation": "Plane mirrors form virtual, upright images."
+    },
+    {
+      "id": "JAMB_P_2006_35",
+      "text": "Which of these is a unit of energy?",
+      "image": "",
+      "options": ["Joule", "Volt", "Ampere", "Ohm"],
+      "answer": "Joule",
+      "explanation": "Energy is measured in joule."
+    },
+    {
+      "id": "JAMB_P_2006_36",
+      "text": "What type of mirror is used in a car’s side mirror?",
+      "image": "",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+      "answer": "Convex mirror",
+      "explanation": "Convex mirrors provide a wider field of view."
+    },
+    {
+      "id": "JAMB_P_2006_37",
+      "text": "The ability of a material to return to its original shape after deformation is:",
+      "image": "",
+      "options": ["Plasticity", "Elasticity", "Brittleness", "Ductility"],
+      "answer": "Elasticity",
+      "explanation": "Elastic materials return to their original shape."
+    },
+    {
+      "id": "JAMB_P_2006_38",
+      "text": "The unit of power is:",
+      "image": "",
+      "options": ["Newton", "Joule", "Watt", "Ampere"],
+      "answer": "Watt",
+      "explanation": "Power is the rate of doing work."
+    },
+    {
+      "id": "JAMB_P_2006_39",
+      "text": "An object floats on water if its density is:",
+      "image": "",
+      "options": ["Greater than water", "Less than water", "Equal to water", "None of the above"],
+      "answer": "Less than water",
+      "explanation": "Objects float when their density is lower than water."
+    },
+    {
+      "id": "JAMB_P_2006_40",
+      "text": "The device that measures atmospheric pressure is:",
+      "image": "",
+      "options": ["Thermometer", "Barometer", "Hydrometer", "Hygrometer"],
+      "answer": "Barometer",
+      "explanation": "Barometers measure air pressure."
+    }
+  ]
+  

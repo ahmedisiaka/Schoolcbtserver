@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2016_01",
+      "text": "Which of the following processes is $\\text{Anaerobic}$?",
+      "image": "[Diagram comparing aerobic and anaerobic respiration pathways]",
+      "options": [
+        "Kreb's $\\text{Cycle}$",
+        "Glycolysis",
+        "Fermentation",
+        "Oxidative $\\text{Phosphorylation}$"
+      ],
+      "answer": "Fermentation",
+      "explanation": "Fermentation (e.g., Lactic $\\text{Acid}$ or $\\text{Alcoholic}$) is a metabolic process that occurs in the $\\text{Absence}$ of $\\text{Oxygen}$, regenerating $\\text{NAD}^+$ needed for $\\text{Glycolysis}$ to continue."
+    },
+    {
+      "id": "BIO_2016_02",
+      "text": "The $\\text{Chromosome}$ number in the $\\text{Gametes}$ of a human is:",
+      "image": "[Diagram showing human karyotype and gamete formation]",
+      "options": [
+        "23",
+        "46",
+        "23 $\\text{Pairs}$",
+        "44"
+      ],
+      "answer": "23",
+      "explanation": "Gametes (sperm and egg) are $\\text{Haploid}$ ($\text{n}$), meaning they contain $\\text{Half}$ the number of chromosomes found in somatic (body) cells. Human somatic cells are $\\text{Diploid}$ ($\text{2n} = 46$), so gametes have $\\text{n} = 23$ chromosomes."
+    },
+    {
+      "id": "BIO_2016_03",
+      "text": "In $\\text{Humans}$, the $\\text{Sex}$-$\\text{Linked}$ condition resulting from the $\\text{Inability}$ of the $\\text{Blood}$ to $\\text{Clot}$ is:",
+      "image": "",
+      "options": [
+        "Sickle $\\text{Cell}$ $\\text{Anaemia}$",
+        "Haemophilia",
+        "Colour $\\text{Blindness}$",
+        "Albinism"
+      ],
+      "answer": "Haemophilia",
+      "explanation": "$\\text{Haemophilia}$ is a $\\text{Recessive}$ $\\text{Disorder}$ where blood doesn't $\\text{Clot}$ normally due to a lack of $\\text{Clotting}$ $\\text{Factors}$. It is carried on the $\\text{X}$ $\\text{Chromosome}$ (sex-linked)."
+    },
+    {
+      "id": "BIO_2016_04",
+      "text": "The $\\text{Organelle}$ primarily responsible for $\\text{Detoxification}$ of $\\text{Metabolic}$ $\\text{Wastes}$ and $\\text{Drugs}$ in the $\\text{Liver}$ cells is the:",
+      "image": "[Diagram of a eukaryotic cell highlighting the Endoplasmic Reticulum]",
+      "options": [
+        "Golgi $\\text{Complex}$",
+        "Rough $\\text{Endoplasmic}$ $\\text{Reticulum}$",
+        "Smooth $\\text{Endoplasmic}$ $\\text{Reticulum}$ (SER)",
+        "Lysosome"
+      ],
+      "answer": "Smooth $\\text{Endoplasmic}$ $\\text{Reticulum}$ (SER)",
+      "explanation": "The $\\text{Smooth}$ $\\text{ER}$ plays a $\\text{Key}$ $\\text{Role}$ in the $\\text{Synthesis}$ of $\\text{Lipids}$ and $\\text{Steroids}$, and critically, the $\\text{Metabolism}$ and $\\text{Detoxification}$ of $\\text{Drugs}$ and $\\text{Poisons}$ in the $\\text{Liver}$."
+    },
+    {
+      "id": "BIO_2016_05",
+      "text": "A $\\text{Food}$ $\\text{Chain}$ always begins with a:",
+      "image": "[Diagram illustrating a simple food chain (producer -> primary consumer -> secondary consumer)]",
+      "options": [
+        "Primary $\\text{Consumer}$",
+        "Secondary $\\text{Consumer}$",
+        "Decomposer",
+        "Producer"
+      ],
+      "answer": "Producer",
+      "explanation": "$\\text{Producers}$ (e.g., $\\text{Plants}$ and $\\text{Algae}$) are $\\text{Autotrophs}$ that $\\text{Create}$ their $\\text{Own}$ $\\text{Food}$ (usually through $\\text{Photosynthesis}$) and form the $\\text{Base}$ of every $\\text{Food}$ $\\text{Chain}$."
+    },
+    {
+      "id": "BIO_2016_06",
+      "text": "Which of these is $\\text{NOT}$ a $\\text{Characteristic}$ of $\\text{Insects}$?",
+      "image": "[Diagram of an insect showing 3 body parts and 6 legs]",
+      "options": [
+        "Three $\\text{Body}$ $\\text{Segments}$ (Head, $\\text{Thorax}$, $\\text{Abdomen}$)",
+        "One $\\text{Pair}$ of $\\text{Antennae}$",
+        "Four $\\text{Pairs}$ of $\\text{Walking}$ $\\text{Legs}$",
+        "Exoskeleton"
+      ],
+      "answer": "Four $\\text{Pairs}$ of $\\text{Walking}$ $\\text{Legs}$",
+      "explanation": "Insects are characterized by having $\\text{Three}$ $\\text{Pairs}$ of $\\text{Legs}$ ($\text{6}$ legs) attached to the $\\text{Thorax}$. $\\text{Arachnids}$ (Spiders, Scorpions) have four pairs of legs."
+    },
+    {
+      "id": "BIO_2016_07",
+      "text": "The $\\text{Process}$ of $\\text{Periodic}$ $\\text{Shedding}$ of the $\\text{Exoskeleton}$ in $\\text{Arthropods}$ is termed:",
+      "image": "[Image illustrating the molting process in an insect or crustacean]",
+      "options": [
+        "Hibernation",
+        "Metamorphosis",
+        "Ecdysis (Molting)",
+        "Aestivation"
+      ],
+      "answer": "Ecdysis (Molting)",
+      "explanation": "$\\text{Ecdysis}$, or $\\text{Molting}$, is the process by which an $\\text{Arthropod}$ $\\text{Sheds}$ its $\\text{Exoskeleton}$ to $\\text{Allow}$ for $\\text{Growth}$ and $\\text{Change}$ in $\\text{Body}$ $\\text{Form}$."
+    },
+    {
+      "id": "BIO_2016_08",
+      "text": "The $\\text{Organism}$ that $\\text{Causes}$ $\\text{Malaria}$ is a $\\text{Protozoan}$ called:",
+      "image": "[Microscopic image of Plasmodium falciparum in red blood cells]",
+      "options": [
+        "Trypanosoma $\\text{spp.}$",
+        "Entamoeba $\\text{spp.}$",
+        "Plasmodium $\\text{spp.}$",
+        "Schistosoma $\\text{spp.}$"
+      ],
+      "answer": "Plasmodium $\\text{spp.}$",
+      "explanation": "$\\text{Malaria}$ is caused by $\\text{Protozoans}$ of the $\\text{Genus}$ $\\text{Plasmodium}$ ($\text{P.}$ $\\text{falciparum}$ being the most severe), transmitted by the female $\\text{Anopheles}$ $\\text{Mosquito}$."
+    },
+    {
+      "id": "BIO_2016_09",
+      "text": "Which part of the $\\text{Nervous}$ $\\text{System}$ is $\\text{Responsible}$ for $\\text{Voluntary}$ $\\text{Actions}$?",
+      "image": "[Diagram of the human brain highlighting the Cerebrum]",
+      "options": [
+        "Cerebellum",
+        "Spinal $\\text{Cord}$",
+        "Cerebrum",
+        "Medulla $\\text{Oblongata}$"
+      ],
+      "answer": "Cerebrum",
+      "explanation": "The $\\text{Cerebrum}$ is the $\\text{Largest}$ $\\text{Part}$ of the $\\text{Brain}$ and is $\\text{Responsible}$ for $\\text{Higher}$-$\\text{Order}$ $\\text{Functions}$ like $\\text{Thought}$, $\\text{Memory}$, $\\text{Language}$, and $\\text{Voluntary}$ $\\text{Movement}$."
+    },
+    {
+      "id": "BIO_2016_10",
+      "text": "The $\\text{Layer}$ of the $\\text{Earth}$ where $\\text{Life}$ $\\text{Exists}$ is known as the:",
+      "image": "[Diagram illustrating the various components of the Biosphere]",
+      "options": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere",
+        "Biosphere"
+      ],
+      "answer": "Biosphere",
+      "explanation": "The $\\text{Biosphere}$ is the $\\text{Portion}$ of the $\\text{Earth}$ and $\\text{Atmosphere}$ that $\\text{Supports}$ $\\text{Life}$, encompassing parts of the $\\text{Lithosphere}$, $\\text{Hydrosphere}$, and $\\text{Atmosphere}$."
+    },
+    {
+      "id": "BIO_2016_11",
+      "text": "Which of the following hormones controls the $\\text{Rate}$ of $\\text{Metabolism}$ in the $\\text{Body}$?",
+      "image": "[Diagram showing the Thyroid gland and Thyroxine's role]",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Thyroxine",
+        "Oestrogen"
+      ],
+      "answer": "Thyroxine",
+      "explanation": "$\\text{Thyroxine}$, produced by the $\\text{Thyroid}$ $\\text{Gland}$, is the $\\text{Main}$ $\\text{Hormone}$ that $\\text{Regulates}$ the $\\text{Basal}$ $\\text{Metabolic}$ $\\text{Rate}$ ($\text{BMR}$) of the body."
+    },
+    {
+      "id": "BIO_2016_12",
+      "text": "The $\\text{Primary}$ $\\text{Site}$ of $\\text{Gaseous}$ $\\text{Exchange}$ in the $\\text{Human}$ $\\text{Lung}$ is the:",
+      "image": "[Microscopic view of Alveoli surrounded by capillaries]",
+      "options": [
+        "Bronchus",
+        "Trachea",
+        "Alveolus",
+        "Larynx"
+      ],
+      "answer": "Alveolus",
+      "explanation": "The $\\text{Alveoli}$ are $\\text{Tiny}$, $\\text{Thin}$-$\\text{Walled}$ $\\text{Air}$ $\\text{Sacs}$ surrounded by $\\text{Capillaries}$ where $\\text{Oxygen}$ diffuses $\\text{Into}$ the $\\text{Blood}$ and $\\text{Carbon}$ $\\text{Dioxide}$ diffuses $\\text{Out}$."
+    },
+    {
+      "id": "BIO_2016_13",
+      "text": "A $\\text{Plant}$ $\\text{Tissue}$ that is $\\text{Dead}$ at $\\text{Maturity}$ and provides $\\text{Mechanical}$ $\\text{Support}$ is the:",
+      "image": "[Microscopic cross-section comparing Xylem and Phloem tissues]",
+      "options": [
+        "Phloem",
+        "Parenchyma",
+        "Collenchyma",
+        "Xylem"
+      ],
+      "answer": "Xylem",
+      "explanation": "$\\text{Xylem}$ $\\text{Vessels}$ and $\\text{Tracheids}$ are $\\text{Dead}$ $\\text{Cells}$ at $\\text{Maturity}$ and form $\\text{Continuous}$ $\\text{Tubes}$ for $\\text{Water}$ $\\text{Transport}$ and $\\text{Structural}$ $\\text{Support}$ (lignified walls)."
+    },
+    {
+      "id": "BIO_2016_14",
+      "text": "The $\\text{Blood}$ $\\text{Cells}$ that are $\\text{Involved}$ in $\\text{Blood}$ $\\text{Clotting}$ are the:",
+      "image": "[Microscopic image showing Platelets aggregating at a site of injury]",
+      "options": [
+        "Leukocytes",
+        "Erythrocytes",
+        "Platelets (Thrombocytes)",
+        "Lymphocytes"
+      ],
+      "answer": "Platelets (Thrombocytes)",
+      "explanation": "$\\text{Platelets}$ are $\\text{Cell}$ $\\text{Fragments}$ that $\\text{Initiate}$ the $\\text{Clotting}$ $\\text{Process}$ by $\\text{Aggregating}$ at the site of $\\text{Injury}$ and releasing $\\text{Clotting}$ $\\text{Factors}$."
+    },
+    {
+      "id": "BIO_2016_15",
+      "text": "Which of the following $\\text{Diseases}$ is $\\text{NOT}$ caused by a $\\text{Virus}$?",
+      "image": "",
+      "options": [
+        "Measles",
+        "Tuberculosis",
+        "Poliomyelitis",
+        "AIDS"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "$\\text{Tuberculosis}$ ($\text{TB}$) is caused by the $\\text{Bacterium}$ $\\text{Mycobacterium}$ $\\text{Tuberculosis}$. $\\text{Measles}$, $\\text{Polio}$, and $\\text{AIDS}$ are all caused by $\\text{Viruses}$."
+    },
+    {
+      "id": "BIO_2016_16",
+      "text": "The $\\text{Main}$ $\\text{Substance}$ that $\\text{Gives}$ $\\text{Rigidity}$ to the $\\text{Cell}$ $\\text{Walls}$ of $\\text{Plant}$ $\\text{Cells}$ is:",
+      "image": "[Chemical structure of Cellulose]",
+      "options": [
+        "Pectin",
+        "Lignin",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": "Cellulose",
+      "explanation": "$\\text{Cellulose}$ is a $\\text{Complex}$ $\\text{Carbohydrate}$ and the $\\text{Primary}$ $\\text{Structural}$ $\\text{Component}$ of $\\text{Plant}$ $\\text{Cell}$ $\\text{Walls}$, providing $\\text{Strength}$ and $\\text{Rigidity}$. $\\text{Lignin}$ is added to secondary walls for extra hardening."
+    },
+    {
+      "id": "BIO_2016_17",
+      "text": "The $\\text{Movement}$ of $\\text{Solvent}$ $\\text{Molecules}$ across a $\\text{Selectively}$ $\\text{Permeable}$ $\\text{Membrane}$ is known as:",
+      "image": "[Diagram illustrating water molecules moving across a membrane during Osmosis]",
+      "options": [
+        "Diffusion",
+        "Plasmolysis",
+        "Osmosis",
+        "Active $\\text{Transport}$"
+      ],
+      "answer": "Osmosis",
+      "explanation": "$\\text{Osmosis}$ is the $\\text{Movement}$ of $\\text{Water}$ ($\text{Solvent}$) $\\text{Molecules}$ from a $\\text{Region}$ of $\\text{Higher}$ $\\text{Water}$ $\\text{Potential}$ to a $\\text{Region}$ of $\\text{Lower}$ $\\text{Water}$ $\\text{Potential}$ across a $\\text{Semipermeable}$ $\\text{Membrane}$."
+    },
+    {
+      "id": "BIO_2016_18",
+      "text": "Which of these is $\\text{NOT}$ a $\\text{Sense}$ $\\text{Organ}$?",
+      "image": "",
+      "options": [
+        "Eye",
+        "Skin",
+        "Spleen",
+        "Ear"
+      ],
+      "answer": "Spleen",
+      "explanation": "The $\\text{Spleen}$ is an $\\text{Organ}$ of the $\\text{Lymphatic}$ $\\text{System}$ involved in $\\text{Filtering}$ $\\text{Blood}$ and $\\text{Immune}$ $\\text{Responses}$. The $\\text{Eye}$, $\\text{Skin}$, and $\\text{Ear}$ contain $\\text{Receptors}$ for $\\text{Sensation}$."
+    },
+    {
+      "id": "BIO_2016_19",
+      "text": "The $\\text{Hormone}$ that $\\text{Regulates}$ the $\\text{Amount}$ of $\\text{Water}$ $\\text{Reabsorbed}$ in the $\\text{Kidneys}$ is:",
+      "image": "[Diagram of the Nephron showing the effect of ADH on the collecting duct]",
+      "options": [
+        "Adrenaline",
+        "Thyroxine",
+        "Insulin",
+        "Anti-diuretic $\\text{Hormone}$ (ADH)"
+      ],
+      "answer": "Anti-diuretic $\\text{Hormone}$ (ADH)",
+      "explanation": "$\\text{ADH}$ ($\text{Vasopressin}$) is produced by the $\\text{Hypothalamus}$ and released by the $\\text{Pituitary}$. It $\\text{Increases}$ the $\\text{Permeability}$ of the $\\text{Collecting}$ $\\text{Ducts}$ in the $\\text{Kidney}$, leading to $\\text{More}$ $\\text{Water}$ $\\text{Reabsorption}$ and $\\text{Concentrated}$ $\\text{Urine}$."
+    },
+    {
+      "id": "BIO_2016_20",
+      "text": "The $\\text{Microscopic}$ $\\text{Unit}$ of $\\text{Inheritance}$ located on a $\\text{Chromosome}$ is called a:",
+      "image": "[Diagram showing DNA structure, genes, and chromosomes]",
+      "options": [
+        "Allele",
+        "Genome",
+        "Gene",
+        "Locus"
+      ],
+      "answer": "Gene",
+      "explanation": "A $\\text{Gene}$ is a $\\text{Segment}$ of $\\text{DNA}$ located on a $\\text{Chromosome}$ that $\\text{Codes}$ for a $\\text{Specific}$ $\\text{Protein}$ or $\\text{Functional}$ $\\text{RNA}$, thereby determining a $\\text{Trait}$."
+    },
+    {
+      "id": "BIO_2016_21",
+      "text": "Which of these $\\text{Invertebrates}$ $\\text{Possesses}$ a $\\text{Water}$ $\\text{Vascular}$ $\\text{System}$?",
+      "image": "[Diagram of a Starfish showing the water vascular system]",
+      "options": [
+        "Snail (Mollusca)",
+        "Earthworm (Annelida)",
+        "Starfish (Echinodermata)",
+        "Spider (Arthropoda)"
+      ],
+      "answer": "Starfish (Echinodermata)",
+      "explanation": "The $\\text{Water}$ $\\text{Vascular}$ $\\text{System}$ is a $\\text{Defining}$ $\\text{Feature}$ of the $\\text{Phylum}$ $\\text{Echinodermata}$ (Starfish, Sea $\\text{Urchins}$), used for $\\text{Locomotion}$, $\\text{Feeding}$, and $\\text{Gas}$ $\\text{Exchange}$."
+    },
+    {
+      "id": "BIO_2016_22",
+      "text": "The $\\text{Part}$ of the $\\text{Eye}$ that $\\text{Changes}$ $\\text{Size}$ to $\\text{Control}$ the $\\text{Amount}$ of $\\text{Light}$ $\\text{Entering}$ is the:",
+      "image": "[Diagram of the human eye focusing on the Iris and Pupil]",
+      "options": [
+        "Lens",
+        "Retina",
+        "Cornea",
+        "Pupil"
+      ],
+      "answer": "Pupil",
+      "explanation": "The $\\text{Pupil}$ is the $\\text{Opening}$ in the $\\text{Centre}$ of the $\\text{Iris}$. The $\\text{Iris}$ $\\text{Muscles}$ $\\text{Contract}$ or $\\text{Relax}$ to $\\text{Adjust}$ the $\\text{Diameter}$ of the $\\text{Pupil}$, thus $\\text{Regulating}$ $\\text{Light}$ $\\text{Intensity}$."
+    },
+    {
+      "id": "BIO_2016_23",
+      "text": "Which of the following $\\text{Diseases}$ is $\\text{Transmitted}$ by the $\\text{Female}$ $\\text{Anopheles}$ $\\text{Mosquito}$?",
+      "image": "",
+      "options": [
+        "Sleeping $\\text{Sickness}$",
+        "Typhoid $\\text{Fever}$",
+        "Malaria",
+        "Cholera"
+      ],
+      "answer": "Malaria",
+      "explanation": "The $\\text{Female}$ $\\text{Anopheles}$ $\\text{Mosquito}$ serves as the $\\text{Vector}$ for the $\\text{Plasmodium}$ $\\text{Protozoan}$ which causes $\\text{Malaria}$."
+    },
+    {
+      "id": "BIO_2016_24",
+      "text": "In $\\text{Respiration}$, the $\\text{Energy}$ $\\text{Released}$ from the $\\text{Breakdown}$ of $\\text{Glucose}$ is $\\text{Stored}$ in the form of:",
+      "image": "[Diagram of the ATP molecule structure and its energy storage]",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "ATP (Adenosine $\\text{Triphosphate}$)",
+        "Fat"
+      ],
+      "answer": "ATP (Adenosine $\\text{Triphosphate}$)",
+      "explanation": "$\\text{ATP}$ is the $\\text{Energy}$ $\\text{Currency}$ of the $\\text{Cell}$. The $\\text{Energy}$ derived from $\\text{Cellular}$ $\\text{Respiration}$ is $\\text{Used}$ to $\\text{Synthesize}$ $\\text{ATP}$ from $\\text{ADP}$ and $\\text{Phosphate}$."
+    },
+    {
+      "id": "BIO_2016_25",
+      "text": "The $\\text{Process}$ of $\\text{Converting}$ $\\text{Atmospheric}$ $\\text{Nitrogen}$ into $\\text{Nitrates}$ is called:",
+      "image": "[Diagram illustrating the complete Nitrogen Cycle, highlighting Nitrogen Fixation and Nitrification]",
+      "options": [
+        "Ammonification",
+        "Denitrification",
+        "Nitrification",
+        "Nitrogen $\\text{Fixation}$"
+      ],
+      "answer": "Nitrogen $\\text{Fixation}$",
+      "explanation": "$\\text{Nitrogen}$ $\\text{Fixation}$ is the process by which $\\text{Atmospheric}$ $\\text{Nitrogen}$ ($\text{N}_2$) is $\\text{Converted}$ into $\\text{Ammonia}$ ($\text{NH}_3$) or $\\text{Nitrates}$ by $\\text{Microorganisms}$ (like $\\text{Rhizobium}$ or $\\text{Azotobacter}$)."
+    },
+    {
+      "id": "BIO_2016_26",
+      "text": "The $\\text{Genetic}$ $\\text{Make}$-$\\text{up}$ of an $\\text{Organism}$ is its:",
+      "image": "",
+      "options": [
+        "Phenotype",
+        "Genotype",
+        "Allele",
+        "Character"
+      ],
+      "answer": "Genotype",
+      "explanation": "The $\\text{Genotype}$ is the $\\text{Specific}$ $\\text{Combination}$ of $\\text{Alleles}$ (genetic information) inherited for a particular $\\text{Trait}$, while the $\\text{Phenotype}$ is the $\\text{Observable}$ $\\text{Expression}$ of that $\\text{Trait}$."
+    },
+    {
+      "id": "BIO_2016_27",
+      "text": "The $\\text{Site}$ where $\\text{Carbohydrate}$ $\\text{Digestion}$ $\\text{Begins}$ in $\\text{Humans}$ is the:",
+      "image": "[Diagram of the digestive system highlighting the oral cavity]",
+      "options": [
+        "Stomach",
+        "Small $\\text{Intestine}$",
+        "Mouth (Buccal $\\text{Cavity}$)",
+        "Oesophagus"
+      ],
+      "answer": "Mouth (Buccal $\\text{Cavity}$)",
+      "explanation": "Carbohydrate $\\text{Digestion}$ $\\text{Begins}$ in the $\\text{Mouth}$ with the action of $\\text{Salivary}$ $\\text{Amylase}$ (Ptyalin) on $\\text{Starch}$."
+    },
+    {
+      "id": "BIO_2016_28",
+      "text": "Which of the following $\\text{Plant}$ $\\text{Hormones}$ is primarily $\\text{Responsible}$ for $\\text{Cell}$ $\\text{Elongation}$ and $\\text{Phototropism}$?",
+      "image": "[Diagram illustrating the effect of Auxins on stem tip growth towards light]",
+      "options": [
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic $\\text{Acid}$",
+        "Auxin"
+      ],
+      "answer": "Auxin",
+      "explanation": "$\\text{Auxins}$ (especially $\\text{IAA}$) are crucial for $\\text{Apical}$ $\\text{Dominance}$, $\\text{Root}$ $\\text{Initiation}$, and the differential $\\text{Cell}$ $\\text{Elongation}$ that underlies $\\text{Phototropism}$ and $\\text{Geotropism}$."
+    },
+    {
+      "id": "BIO_2016_29",
+      "text": "The $\\text{Condition}$ where $\\text{Two}$ $\\text{Organisms}$ $\\text{Benefit}$ $\\text{Mutually}$ from $\\text{Living}$ $\\text{Together}$ is called:",
+      "image": "[Diagram illustrating a mutualistic relationship (e.g., lichen or cleaner shrimp and fish)]",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism (Symbiosis)",
+        "Predation"
+      ],
+      "answer": "Mutualism (Symbiosis)",
+      "explanation": "$\\text{Mutualism}$ is a type of $\\text{Symbiosis}$ where the $\\text{Interaction}$ between $\\text{Two}$ $\\text{Different}$ $\\text{Species}$ is $\\text{Beneficial}$ to $\\text{Both}$ $\\text{Parties}$."
+    },
+    {
+      "id": "BIO_2016_30",
+      "text": "The $\\text{Heart}$ $\\text{Chamber}$ that $\\text{Receives}$ $\\text{Oxygenated}$ $\\text{Blood}$ from the $\\text{Lungs}$ is the:",
+      "image": "[Diagram of the four chambers of the human heart]",
+      "options": [
+        "Right $\\text{Ventricle}$",
+        "Left $\\text{Atrium}$",
+        "Right $\\text{Atrium}$",
+        "Left $\\text{Ventricle}$"
+      ],
+      "answer": "Left $\\text{Atrium}$",
+      "explanation": "The $\\text{Left}$ $\\text{Atrium}$ receives $\\text{Oxygenated}$ $\\text{Blood}$ from the $\\text{Pulmonary}$ $\\text{Veins}$ (from the $\\text{Lungs}$) before pumping it to the $\\text{Left}$ $\\text{Ventricle}$."
+    },
+    {
+      "id": "BIO_2016_31",
+      "text": "Which of the following organisms belongs to the $\\text{Class}$ $\\text{Amphibia}$?",
+      "image": "",
+      "options": [
+        "Crocodile",
+        "Toad",
+        "Shark",
+        "Lizard"
+      ],
+      "answer": "Toad",
+      "explanation": "$\\text{Amphibians}$ ($\text{Frogs}$, $\\text{Toads}$, $\\text{Salamanders}$) typically undergo $\\text{Metamorphosis}$ from an $\\text{Aquatic}$ $\\text{Larval}$ $\\text{Stage}$ to a $\\text{Terrestrial}$ $\\text{Adult}$ $\\text{Stage}$. $\\text{Crocodile}$ and $\\text{Lizard}$ are $\\text{Reptiles}$."
+    },
+    {
+      "id": "BIO_2016_32",
+      "text": "The $\\text{Specialized}$ $\\text{Cells}$ in the $\\text{Stomach}$ that $\\text{Secrete}$ $\\text{Hydrochloric}$ $\\text{Acid}$ ($\text{HCl}$) are the:",
+      "image": "[Microscopic view of stomach lining cells, focusing on Parietal cells]",
+      "options": [
+        "Chief $\\text{Cells}$",
+        "Mucous $\\text{Cells}$",
+        "Parietal $\\text{Cells}$ (Oxyntic $\\text{Cells}$)",
+        "Zymogen $\\text{Cells}$"
+      ],
+      "answer": "Parietal $\\text{Cells}$ (Oxyntic $\\text{Cells}$)",
+      "explanation": "$\\text{Parietal}$ $\\text{Cells}$ (also known as $\\text{Oxyntic}$ $\\text{Cells}$) are responsible for the $\\text{Secretion}$ of $\\text{Hydrochloric}$ $\\text{Acid}$ ($\text{HCl}$) and $\\text{Intrinsic}$ $\\text{Factor}$ in the $\\text{Stomach}$."
+    },
+    {
+      "id": "BIO_2016_33",
+      "text": "The $\\text{Process}$ of $\\text{Waste}$ $\\text{Removal}$ from the $\\text{Body}$ of an $\\text{Organism}$ is termed:",
+      "image": "",
+      "options": [
+        "Assimilation",
+        "Egestion",
+        "Excretion",
+        "Ingestion"
+      ],
+      "answer": "Excretion",
+      "explanation": "$\\text{Excretion}$ is the $\\text{Removal}$ of $\\text{Metabolic}$ $\\text{Waste}$ $\\text{Products}$ (like $\\text{Urea}$, $\\text{Carbon}$ $\\text{Dioxide}$, $\\text{Excess}$ $\\text{Salts}$) from the body. $\\text{Egestion}$ is the $\\text{Removal}$ of $\\text{Undigested}$ $\\text{Food}$ (faeces)."
+    },
+    {
+      "id": "BIO_2016_34",
+      "text": "The $\\text{Structure}$ that $\\text{Transports}$ $\\text{Synthesized}$ $\\text{Food}$ from the $\\text{Leaves}$ to $\\text{Other}$ $\\text{Parts}$ of the $\\text{Plant}$ is the:",
+      "image": "[Diagram of a plant stem cross-section highlighting Xylem and Phloem]",
+      "options": [
+        "Xylem",
+        "Cortex",
+        "Phloem",
+        "Pith"
+      ],
+      "answer": "Phloem",
+      "explanation": "The $\\text{Phloem}$ tissue is responsible for $\\text{Translocation}$, the $\\text{Transport}$ of $\\text{Soluble}$ $\\text{Organic}$ $\\text{Food}$ $\\text{Products}$ (mainly $\\text{Sucrose}$) from the $\\text{Leaves}$ ($\text{Source}$) to $\\text{Growth}$ and $\\text{Storage}$ $\\text{Areas}$ ($\text{Sinks}$)."
+    },
+    {
+      "id": "BIO_2016_35",
+      "text": "Which of the following $\\text{Involves}$ $\\text{Genetic}$ $\\text{Recombination}$?",
+      "image": "[Diagram illustrating Crossing Over during Prophase I of Meiosis]",
+      "options": [
+        "Binary $\\text{Fission}$",
+        "Mitosis",
+        "Meiosis",
+        "Asexual $\\text{Reproduction}$"
+      ],
+      "answer": "Meiosis",
+      "explanation": "$\\text{Meiosis}$ ($\text{Reduction}$ $\\text{Division}$) is the process that $\\text{Produces}$ $\\text{Gametes}$. It $\\text{Includes}$ $\\text{Crossing}$ $\\text{Over}$ (Prophase $\\text{I}$) and $\\text{Independent}$ $\\text{Assortment}$, which $\\text{Lead}$ to $\\text{Genetic}$ $\\text{Recombination}$ and $\\text{Variation}$."
+    },
+    {
+      "id": "BIO_2016_36",
+      "text": "The $\\text{Long}$-$\\text{Term}$ $\\text{Effect}$ of $\\text{Desertification}$ is:",
+      "image": "[Satellite image showing advanced desertification (soil degradation and barren land)]",
+      "options": [
+        "Increased $\\text{Soil}$ $\\text{Fertility}$",
+        "Loss of $\\text{Arable}$ $\\text{Land}$",
+        "Increased $\\text{Rainfall}$",
+        "Reduced $\\text{Temperature}$"
+      ],
+      "answer": "Loss of $\\text{Arable}$ $\\text{Land}$",
+      "explanation": "$\\text{Desertification}$ is the $\\text{Process}$ by which $\\text{Fertile}$ $\\text{Land}$ becomes $\\text{Desert}$. Its main $\\text{Long}$-$\\text{Term}$ $\\text{Effect}$ is the $\\text{Irreversible}$ $\\text{Loss}$ of $\\text{Productive}$ $\\text{Agricultural}$ ($\text{Arable}$) $\\text{Land}$."
+    },
+    {
+      "id": "BIO_2016_37",
+      "text": "The $\\text{Major}$ $\\text{Constituent}$ of the $\\text{Cell}$ $\\text{Membrane}$ is:",
+      "image": "[Diagram of the fluid mosaic model of the cell membrane]",
+      "options": [
+        "Cellulose and $\\text{Lignin}$",
+        "Protein and $\\text{Chitin}$",
+        "Phospholipids and $\\text{Proteins}$",
+        "Glycogen and $\\text{Starch}$"
+      ],
+      "answer": "Phospholipids and $\\text{Proteins}$",
+      "explanation": "The $\\text{Cell}$ $\\text{Membrane}$ is structured as a $\\text{Fluid}$ $\\text{Mosaic}$ of a $\\text{Phospholipid}$ $\\text{Bilayer}$ with $\\text{Various}$ $\\text{Proteins}$ embedded in or attached to it."
+    },
+    {
+      "id": "BIO_2016_38",
+      "text": "A $\\text{Type}$ of $\\text{Budding}$ that $\\text{Occurs}$ in $\\text{Yeast}$ is an example of:",
+      "image": "[Microscopic image of Yeast cells undergoing budding]",
+      "options": [
+        "Sexual $\\text{Reproduction}$",
+        "Parthenogenesis",
+        "Asexual $\\text{Reproduction}$",
+        "Conjugation"
+      ],
+      "answer": "Asexual $\\text{Reproduction}$",
+      "explanation": "$\\text{Budding}$ in $\\text{Yeast}$ involves the $\\text{Formation}$ of a $\\text{Small}$ $\\text{Outgrowth}$ ($\text{Bud}$) that $\\text{Detaches}$ from the $\\text{Parent}$ $\\text{Cell}$ and $\\text{Grows}$ into a $\\text{New}$ $\\text{Organism}$. This does $\\text{Not}$ involve the $\\text{Fusion}$ of $\\text{Gametes}$."
+    },
+    {
+      "id": "BIO_2016_39",
+      "text": "The $\\text{Instrument}$ $\\text{Used}$ to $\\text{Measure}$ $\\text{Relative}$ $\\text{Humidity}$ is the:",
+      "image": "",
+      "options": [
+        "Anemometer",
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "answer": "Hygrometer",
+      "explanation": "A $\\text{Hygrometer}$ is an $\\text{Instrument}$ $\\text{Used}$ for $\\text{Measuring}$ the $\\text{Amount}$ of $\\text{Water}$ $\\text{Vapour}$ in the $\\text{Atmosphere}$ ($\text{Humidity}$). An $\\text{Anemometer}$ measures $\\text{Wind}$ $\\text{Speed}$."
+    },
+    {
+      "id": "BIO_2016_40",
+      "text": "The $\\text{Primary}$ $\\text{Function}$ of the $\\text{Large}$ $\\text{Intestine}$ in $\\text{Humans}$ is:",
+      "image": "[Diagram of the human large intestine]",
+      "options": [
+        "Digestion of $\\text{Proteins}$",
+        "Absorption of $\\text{Water}$ and $\\text{Electrolytes}$",
+        "Absorption of $\\text{Glucose}$",
+        "Secretion of $\\text{Digestive}$ $\\text{Enzymes}$"
+      ],
+      "answer": "Absorption of $\\text{Water}$ and $\\text{Electrolytes}$",
+      "explanation": "While the $\\text{Small}$ $\\text{Intestine}$ is the $\\text{Main}$ $\\text{Site}$ for $\\text{Nutrient}$ $\\text{Absorption}$, the $\\text{Large}$ $\\text{Intestine}$ is $\\text{Primarily}$ $\\text{Responsible}$ for $\\text{Reabsorbing}$ $\\text{Water}$ and $\\text{Ions}$ from the $\\text{Undigested}$ $\\text{Food}$ $\\text{Residue}$, $\\text{Forming}$ $\\text{Faeces}$."
+    }
+  ]

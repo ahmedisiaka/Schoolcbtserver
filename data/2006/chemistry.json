@@ -1,0 +1,324 @@
+[
+    {
+      "id": "JAMB_C_2006_01",
+      "text": "Which of the following represents a physical change?",
+      "image": "",
+      "options": ["Burning of sulfur", "Rusting of iron", "Melting of wax", "Digestion of food"],
+      "answer": "Melting of wax",
+      "explanation": "Melting does not produce a new substance."
+    },
+    {
+      "id": "JAMB_C_2006_02",
+      "text": "The number of neutrons in ³⁷Cl is:",
+      "image": "",
+      "options": ["17", "20", "37", "54"],
+      "answer": "20",
+      "explanation": "Neutrons = mass number - atomic number = 37 - 17."
+    },
+    {
+      "id": "JAMB_C_2006_03",
+      "text": "The process by which a solid changes directly to gas is:",
+      "image": "",
+      "options": ["Fusion", "Sublimation", "Condensation", "Evaporation"],
+      "answer": "Sublimation",
+      "explanation": "Sublimation bypasses the liquid state."
+    },
+    {
+      "id": "JAMB_C_2006_04",
+      "text": "Which of the following gases is collected over water?",
+      "image": "",
+      "options": ["Chlorine", "Nitrogen", "Hydrogen", "Ammonia"],
+      "answer": "Hydrogen",
+      "explanation": "Hydrogen is insoluble in water."
+    },
+    {
+      "id": "JAMB_C_2006_05",
+      "text": "The bond formed between Na⁺ and Cl⁻ is:",
+      "image": "",
+      "options": ["Covalent", "Ionic", "Metallic", "Dative"],
+      "answer": "Ionic",
+      "explanation": "Transfer of electrons leads to ionic bonding."
+    },
+    {
+      "id": "JAMB_C_2006_06",
+      "text": "Which mixture is best separated using chromatography?",
+      "image": "",
+      "options": ["Salt and water", "Dyes in ink", "Sand and water", "Crude oil"],
+      "answer": "Dyes in ink",
+      "explanation": "Chromatography separates mixtures of coloured pigments."
+    },
+    {
+      "id": "JAMB_C_2006_07",
+      "text": "The oxidation state of nitrogen in HNO₃ is:",
+      "image": "",
+      "options": ["+1", "+3", "+5", "-3"],
+      "answer": "+5",
+      "explanation": "Nitrogen is +5 in nitric acid."
+    },
+    {
+      "id": "JAMB_C_2006_08",
+      "text": "Which of these gases causes acid rain?",
+      "image": "",
+      "options": ["N₂", "O₂", "SO₂", "He"],
+      "answer": "SO₂",
+      "explanation": "SO₂ dissolves in rainwater to form H₂SO₃."
+    },
+    {
+      "id": "JAMB_C_2006_09",
+      "text": "The energy needed to remove the most loosely bound electron is called:",
+      "image": "",
+      "options": ["Electron affinity", "Ionization energy", "Bond energy", "Activation energy"],
+      "answer": "Ionization energy",
+      "explanation": "Ionization energy removes an electron from an atom."
+    },
+    {
+      "id": "JAMB_C_2006_10",
+      "text": "Which element has the highest electronegativity?",
+      "image": "",
+      "options": ["Oxygen", "Nitrogen", "Fluorine", "Chlorine"],
+      "answer": "Fluorine",
+      "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+      "id": "JAMB_C_2006_11",
+      "text": "The colour of litmus paper in an acid is:",
+      "image": "",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "answer": "Red",
+      "explanation": "Acids turn blue litmus paper red."
+    },
+    {
+      "id": "JAMB_C_2006_12",
+      "text": "Which of the following is not an inert gas?",
+      "image": "",
+      "options": ["Argon", "Neon", "Krypton", "Nitrogen"],
+      "answer": "Nitrogen",
+      "explanation": "Nitrogen is reactive under special conditions."
+    },
+    {
+      "id": "JAMB_C_2006_13",
+      "text": "Temporary hardness of water is caused by:",
+      "image": "",
+      "options": ["MgSO₄", "CaCl₂", "Ca(HCO₃)₂", "MgCl₂"],
+      "answer": "Ca(HCO₃)₂",
+      "explanation": "Hydrogencarbonates cause temporary hardness."
+    },
+    {
+      "id": "JAMB_C_2006_14",
+      "text": "Which method removes temporary hardness?",
+      "image": "",
+      "options": ["Boiling", "Filtration", "Distillation", "Sedimentation"],
+      "answer": "Boiling",
+      "explanation": "Boiling decomposes carbonates."
+    },
+    {
+      "id": "JAMB_C_2006_15",
+      "text": "The molar volume of any gas at STP is:",
+      "image": "",
+      "options": ["11.2 dm³", "22.4 dm³", "44.8 dm³", "2.24 dm³"],
+      "answer": "22.4 dm³",
+      "explanation": "Standard molar volume at STP."
+    },
+    {
+      "id": "JAMB_C_2006_16",
+      "text": "Which salt is formed from a strong acid and strong base?",
+      "image": "",
+      "options": ["NaCl", "CH₃COONa", "NH₄Cl", "Na₂CO₃"],
+      "answer": "NaCl",
+      "explanation": "NaCl is neutral salt (HCl + NaOH)."
+    },
+    {
+      "id": "JAMB_C_2006_17",
+      "text": "Which gas is used for welding?",
+      "options": ["Hydrogen", "Oxygen", "Acetylene", "Nitrogen"],
+      "answer": "Acetylene",
+      "explanation": "Oxy-acetylene flame is used in welding."
+    },
+    {
+      "id": "JAMB_C_2006_18",
+      "text": "Which of the following is an exothermic reaction?",
+      "image": "",
+      "options": ["Photosynthesis", "Dissolving NH₄NO₃ in water", "Neutralization", "Melting of ice"],
+      "answer": "Neutralization",
+      "explanation": "Neutralization releases heat."
+    },
+    {
+      "id": "JAMB_C_2006_19",
+      "text": "A substance that speeds up a chemical reaction is called:",
+      "image": "",
+      "options": ["Reactant", "Product", "Catalyst", "Oxidant"],
+      "answer": "Catalyst",
+      "explanation": "Catalysts increase reaction rates."
+    },
+    {
+      "id": "JAMB_C_2006_20",
+      "text": "Which of the following is a homogeneous mixture?",
+      "image": "",
+      "options": ["Sand and water", "Oil and water", "Salt solution", "Smoke"],
+      "answer": "Salt solution",
+      "explanation": "Salt dissolves uniformly in water."
+    },
+  
+    {
+      "id": "JAMB_C_2006_21",
+      "text": "The atomic mass of an element is determined mainly by:",
+      "image": "",
+      "options": ["Electrons", "Protons and neutrons", "Protons only", "Neutrons only"],
+      "answer": "Protons and neutrons",
+      "explanation": "Mass number = protons + neutrons."
+    },
+    {
+      "id": "JAMB_C_2006_22",
+      "text": "Which element exists as a diatomic molecule?",
+      "image": "",
+      "options": ["Carbon", "Sulphur", "Nitrogen", "Phosphorus"],
+      "answer": "Nitrogen",
+      "explanation": "N₂ is diatomic."
+    },
+    {
+      "id": "JAMB_C_2006_23",
+      "text": "Which of the following is a property of metals?",
+      "image": "",
+      "options": ["Brittleness", "Poor conductivity", "Malleability", "High electronegativity"],
+      "answer": "Malleability",
+      "explanation": "Metals can be beaten into sheets."
+    },
+    {
+      "id": "JAMB_C_2006_24",
+      "text": "The general formula of alkanes is:",
+      "image": "",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙH₂ₙO₂"],
+      "answer": "CₙH₂ₙ₊₂",
+      "explanation": "Alkanes follow CₙH₂ₙ₊₂."
+    },
+    {
+      "id": "JAMB_C_2006_25",
+      "text": "Which of the following oxides is neutral?",
+      "image": "",
+      "options": ["CO", "MgO", "SO₂", "CO₂"],
+      "answer": "CO",
+      "explanation": "Carbon monoxide is a neutral oxide."
+    },
+    {
+      "id": "JAMB_C_2006_26",
+      "text": "A solution that resists change in pH is a:",
+      "image": "",
+      "options": ["Salt", "Indicator", "Buffer", "Base"],
+      "answer": "Buffer",
+      "explanation": "Buffers stabilize pH levels."
+    },
+    {
+      "id": "JAMB_C_2006_27",
+      "text": "Which gas is responsible for the depletion of the ozone layer?",
+      "image": "",
+      "options": ["CO₂", "CH₄", "CFCs", "N₂"],
+      "answer": "CFCs",
+      "explanation": "Chlorofluorocarbons destroy ozone."
+    },
+    {
+      "id": "JAMB_C_2006_28",
+      "text": "The functional group in alcohol is:",
+      "image": "",
+      "options": ["–COOH", "–CHO", "–OH", "–NH₂"],
+      "answer": "–OH",
+      "explanation": "Alcohols contain the hydroxyl group."
+    },
+    {
+      "id": "JAMB_C_2006_29",
+      "text": "Which pollutant causes global warming?",
+      "image": "",
+      "options": ["CO₂", "O₂", "N₂", "H₂"],
+      "answer": "CO₂",
+      "explanation": "CO₂ traps heat, causing global warming."
+    },
+    {
+      "id": "JAMB_C_2006_30",
+      "text": "The colour of phenolphthalein in a base is:",
+      "image": "",
+      "options": ["Colourless", "Pink", "Blue", "Red"],
+      "answer": "Pink",
+      "explanation": "Phenolphthalein turns pink in basic solutions."
+    },
+  
+    {
+      "id": "JAMB_C_2006_31",
+      "text": "Which element is a halogen?",
+      "image": "",
+      "options": ["Neon", "Argon", "Chlorine", "Krypton"],
+      "answer": "Chlorine",
+      "explanation": "Halogens include F, Cl, Br, I."
+    },
+    {
+      "id": "JAMB_C_2006_32",
+      "text": "The type of reaction where AB → A + B is:",
+      "image": "",
+      "options": ["Combination", "Decomposition", "Neutralization", "Displacement"],
+      "answer": "Decomposition",
+      "explanation": "One reactant breaks into two products."
+    },
+    {
+      "id": "JAMB_C_2006_33",
+      "text": "The separation of insoluble solids from liquids is called:",
+      "image": "",
+      "options": ["Evaporation", "Filtration", "Distillation", "Sublimation"],
+      "answer": "Filtration",
+      "explanation": "Filtration removes insoluble particles."
+    },
+    {
+      "id": "JAMB_C_2006_34",
+      "text": "An isotope has the same number of:",
+      "image": "",
+      "options": ["Protons", "Neutrons", "Mass number", "Nucleons"],
+      "answer": "Protons",
+      "explanation": "Isotopes have equal protons but different neutrons."
+    },
+    {
+      "id": "JAMB_C_2006_35",
+      "text": "Which of the following is a reducing agent?",
+      "image": "",
+      "options": ["O₂", "Cl₂", "H₂", "CO₂"],
+      "answer": "H₂",
+      "explanation": "Hydrogen donates electrons (reducing agent)."
+    },
+    {
+      "id": "JAMB_C_2006_36",
+      "text": "Which reaction is used in the preparation of soap?",
+      "image": "",
+      "options": ["Polymerization", "Neutralization", "Saponification", "Oxidation"],
+      "answer": "Saponification",
+      "explanation": "Saponification is the reaction of fats with alkali."
+    },
+    {
+      "id": "JAMB_C_2006_37",
+      "text": "Which type of hydrocarbon contains a triple bond?",
+      "image": "",
+      "options": ["Alkane", "Alkene", "Alkyne", "Arene"],
+      "answer": "Alkyne",
+      "explanation": "Alkynes contain C≡C triple bonds."
+    },
+    {
+      "id": "JAMB_C_2006_38",
+      "text": "Which compound is used as an anaesthetic?",
+      "image": "",
+      "options": ["Methane", "Ethane", "Nitrous oxide", "Carbon monoxide"],
+      "answer": "Nitrous oxide",
+      "explanation": "N₂O is used as a mild anaesthetic."
+    },
+    {
+      "id": "JAMB_C_2006_39",
+      "text": "A substance that turns methyl orange yellow is:",
+      "image": "",
+      "options": ["Acid", "Base", "Salt", "Water"],
+      "answer": "Base",
+      "explanation": "Bases turn methyl orange yellow."
+    },
+    {
+      "id": "JAMB_C_2006_40",
+      "text": "The main constituent of limestone is:",
+      "image": "",
+      "options": ["CaO", "CaCO₃", "CaSO₄", "MgCO₃"],
+      "answer": "CaCO₃",
+      "explanation": "Limestone is composed of calcium carbonate."
+    }
+  ]
+  

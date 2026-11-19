@@ -1,0 +1,522 @@
+[
+    {
+        "id": "COM121",
+        "text": "The $\\textbf{Capital Market}$ primarily facilitates the raising of $\\textbf{Long-Term}$ funds through the trading of $\\textbf{Stocks}$ and $\\textbf{Bonds}$.",
+        "image": "",
+        "options": [
+            "Short-Term",
+            "Long-Term",
+            "Intermediate",
+            "Immediate"
+        ],
+        "answer": "Long-Term",
+        "explanation": "The capital market is where financial assets with maturity periods greater than one year are traded, enabling investment in infrastructure and growth."
+    },
+    {
+        "id": "COM122",
+        "text": "A $\\textbf{Free Trade Area}$ ($\\,\\textbf{FTA}$) is a trade bloc where member countries agree to eliminate $\\textbf{Tariffs}$ and $\\textbf{Quotas}$ among themselves, but maintain $\\textbf{Individual}$ external trade policies.",
+        "image": "",
+        "options": [
+            "Common External Tariff",
+            "Common Currency",
+            "Individual External Trade Policies",
+            "Common Government"
+        ],
+        "answer": "Individual External Trade Policies",
+        "explanation": "This distinguishes an FTA from a Customs Union, which requires a common external tariff."
+    },
+    {
+        "id": "COM123",
+        "text": "The $\\textbf{Psychographic}$ segmentation variable includes consumer categorization based on $\\textbf{Attitude}$, interests, and $\\textbf{Opinion}$ ($\\,\\textbf{AIO}$ variables).",
+        "image": "",
+        "options": [
+            "Age and Income",
+            "Region and Climate",
+            "Attitude",
+            "Sales Volume"
+        ],
+        "answer": "Attitude",
+        "explanation": "Psychographics aim to understand the consumer's psychological profile and lifestyle choices."
+    },
+    {
+        "id": "COM124",
+        "text": "The $\\textbf{Secondary Market}$ provides $\\textbf{Liquidity}$ to investors by allowing them to $\\textbf{Sell}$ their existing securities quickly and $\\textbf{Easily}$.",
+        "image": "",
+        "options": [
+            "Capital",
+            "Risk",
+            "Liquidity",
+            "Profit"
+        ],
+        "answer": "Liquidity",
+        "explanation": "Without a liquid secondary market, investors would be reluctant to buy securities in the primary market."
+    },
+    {
+        "id": "COM125",
+        "text": "The $\\textbf{Product Differentiation}$ strategy aims to make a product $\\textbf{Unique}$ in the minds of consumers compared to $\\textbf{Competitors}$' offerings.",
+        "image": "",
+        "options": [
+            "Cheaper",
+            "Simpler",
+            "Unique",
+            "Standardized"
+        ],
+        "answer": "Unique",
+        "explanation": "Differentiation can be based on quality, features, branding, or service."
+    },
+    {
+        "id": "COM126",
+        "text": "The concept of $\\textbf{Perfect Competition}$ is an idealized market structure where all firms sell an $\\textbf{Identical Product}$ and are $\\textbf{Price Takers}$.",
+        "image": "",
+        "options": [
+            "Differentiated Product",
+            "Monopolistic Product",
+            "Identical Product",
+            "Branded Product"
+        ],
+        "answer": "Identical Product",
+        "explanation": "In perfect competition, no single buyer or seller can influence the market price."
+    },
+    {
+        "id": "COM127",
+        "text": "A $\\textbf{Bill of Exchange}$ is a written unconditional $\\textbf{Order}$ by the drawer (exporter) to the drawee (importer) to pay a specific sum of $\\textbf{Money}$ to a $\\textbf{Payee}$.",
+        "image": "",
+        "options": [
+            "Implied Promise",
+            "Unconditional Order",
+            "Conditional Order",
+            "Verbal Promise"
+        ],
+        "answer": "Unconditional Order",
+        "explanation": "This instrument is crucial in international trade finance, serving as a substitute for cash."
+    },
+    {
+        "id": "COM128",
+        "text": "The $\\textbf{Controllable Costs}$ in $\\textbf{Management}$ accounting are those costs that a manager has the $\\textbf{Authority}$ to $\\textbf{Influence}$ within a given time period.",
+        "image": "",
+        "options": [
+            "Sunk Costs",
+            "Fixed Costs",
+            "Controllable Costs",
+            "Non-Controllable Costs"
+        ],
+        "answer": "Controllable Costs",
+        "explanation": "Managers should only be evaluated on the costs they can control (the principle of responsibility accounting)."
+    },
+    {
+        "id": "COM129",
+        "text": "The $\\textbf{Corporate Social Responsibility}$ ($\\,\\textbf{CSR}$) concept suggests that a business has an obligation beyond profit maximization to consider the $\\textbf{Welfare}$ of $\\textbf{Society}$.",
+        "image": "",
+        "options": [
+            "Shareholders Only",
+            "Employees Only",
+            "Welfare of Society",
+            "Government Regulators"
+        ],
+        "answer": "Welfare of Society",
+        "explanation": "CSR often involves environmental stewardship, ethical labor practices, and community engagement."
+    },
+    {
+        "id": "COM130",
+        "text": "The $\\textbf{Balance of Trade}$ is calculated by subtracting the total value of $\\textbf{Imports}$ of $\\textbf{Goods}$ from the total value of $\\textbf{Exports}$ of goods.",
+        "image": "",
+        "options": [
+            "Services",
+            "Investments",
+            "Imports",
+            "Capital"
+        ],
+        "answer": "Imports",
+        "explanation": "The inclusion of services (invisibles) creates the balance of goods and services."
+    },
+    {
+        "id": "COM131",
+        "text": "A $\\textbf{Put Option}$ gives the holder the right, but not the obligation, to $\\textbf{Sell}$ an underlying asset at a specified $\\textbf{Strike Price}$.",
+        "image": "",
+        "options": [
+            "Buy",
+            "Hold",
+            "Sell",
+            "Lease"
+        ],
+        "answer": "Sell",
+        "explanation": "Put options are used when investors anticipate a decline in the price of the underlying asset."
+    },
+    {
+        "id": "COM132",
+        "text": "The $\\textbf{Penetration Pricing}$ strategy is most effective when the $\\textbf{Demand}$ for the product is highly $\\textbf{Elastic}$ (sensitive to $\\textbf{Price}$).",
+        "image": "",
+        "options": [
+            "Inelastic",
+            "Elastic",
+            "Unit Elastic",
+            "Perfectly Inelastic"
+        ],
+        "answer": "Elastic",
+        "explanation": "If demand is elastic, a low penetration price will lead to a disproportionately large increase in quantity demanded."
+    },
+    {
+        "id": "COM133",
+        "text": "The $\\textbf{Law of Diminishing Marginal Utility}$ states that the marginal utility (satisfaction) gained from consuming an $\\textbf{Additional}$ unit of a good $\\textbf{Decreases}$ as the quantity consumed $\\textbf{Increases}$.",
+        "image": "",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Stays Constant",
+            "Doubles"
+        ],
+        "answer": "Decreases",
+        "explanation": "This concept explains why demand curves slope downward."
+    },
+    {
+        "id": "COM134",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Rescission}$ is the legal remedy that involves canceling a $\\textbf{Contract}$ and restoring the parties to their original $\\textbf{Position}$.",
+        "image": "",
+        "options": [
+            "Specific Performance",
+            "Damages",
+            "Rescission",
+            "Injunction"
+        ],
+        "answer": "Rescission",
+        "explanation": "Rescission is typically used when the contract was formed through fraud, mistake, or duress."
+    },
+    {
+        "id": "COM135",
+        "text": "The $\\textbf{Bullwhip Effect}$ in the $\\textbf{Supply Chain}$ refers to increasing $\\textbf{Volatility}$ and variability of $\\textbf{Demand}$ as one moves further $\\textbf{Upstream}$ (away from the retailer).",
+        "image": "",
+        "options": [
+            "Downstream",
+            "Midstream",
+            "Upstream",
+            "Horizontally"
+        ],
+        "answer": "Upstream",
+        "explanation": "Small changes in consumer demand at the retail level can lead to massive swings in ordering by manufacturers and suppliers."
+    },
+    {
+        "id": "COM136",
+        "text": "The $\\textbf{Quaternary Sector}$ involves $\\textbf{Intellectual}$ services, including $\\textbf{IT}$, $\\textbf{R\\&D}$, and $\\textbf{Consulting}$.",
+        "image": "",
+        "options": [
+            "Tangible Goods",
+            "Raw Materials",
+            "Intellectual Services",
+            "Financial Products"
+        ],
+        "answer": "Intellectual Services",
+        "explanation": "This sector drives innovation and knowledge creation in the economy."
+    },
+    {
+        "id": "COM137",
+        "text": "The $\\textbf{Franchisee}$ benefits from the $\\textbf{Franchisor}$'s established $\\textbf{Brand Name}$ and $\\textbf{Business System}$.",
+        "image": "",
+        "options": [
+            "New Name",
+            "Independent System",
+            "Established Brand Name",
+            "Unlimited Liability"
+        ],
+        "answer": "Established Brand Name",
+        "explanation": "This reduces the risk associated with starting a new business from scratch."
+    },
+    {
+        "id": "COM138",
+        "text": "The $\\textbf{Price Skimming}$ strategy is best suited for products with $\\textbf{Inelastic}$ demand, such as $\\textbf{Innovative Technology}$ where buyers are not price $\\textbf{Sensitive}$.",
+        "image": "",
+        "options": [
+            "Elastic",
+            "Highly Elastic",
+            "Inelastic",
+            "Perfectly Elastic"
+        ],
+        "answer": "Inelastic",
+        "explanation": "Inelastic demand allows the company to charge a premium without a significant drop in sales volume."
+    },
+    {
+        "id": "COM139",
+        "text": "The $\\textbf{Monopolistic Competition}$ market structure is characterized by many firms selling $\\textbf{Differentiated}$ products that are close $\\textbf{Substitutes}$.",
+        "image": "",
+        "options": [
+            "Identical",
+            "Unique",
+            "Differentiated",
+            "Non-Branded"
+        ],
+        "answer": "Differentiated",
+        "explanation": "Product differentiation (through branding, advertising, features) is key to success in this market."
+    },
+    {
+        "id": "COM140",
+        "text": "$\\textbf{Securitization}$ is the financial process of pooling $\\textbf{Assets}$ (like $\\textbf{Mortgages}$) into a marketable security that can be $\\textbf{Sold}$ to $\\textbf{Investors}$.",
+        "image": "",
+        "options": [
+            "Liabilities",
+            "Assets",
+            "Equity",
+            "Cash Flows"
+        ],
+        "answer": "Assets",
+        "explanation": "This process increases liquidity for the originating institution but can also lead to systemic risk."
+    },
+    {
+        "id": "COM141",
+        "text": "The $\\textbf{World Bank}$ is an international financial institution that provides $\\textbf{Loans}$ and grants to $\\textbf{Developing Countries}$ for capital $\\textbf{Projects}$.",
+        "image": "",
+        "options": [
+            "Developed Countries",
+            "Developing Countries",
+            "All Countries",
+            "Multinational Corporations"
+        ],
+        "answer": "Developing Countries",
+        "explanation": "Its primary goal is to reduce poverty and support sustainable development."
+    },
+    {
+        "id": "COM142",
+        "text": "The $\\textbf{Primary Marketing Research}$ involves collecting $\\textbf{New Data}$ directly from a source (e.g., via $\\textbf{Surveys}$ or $\\textbf{Focus Groups}$).",
+        "image": "",
+        "options": [
+            "Existing Data",
+            "Historical Data",
+            "New Data",
+            "Published Reports"
+        ],
+        "answer": "New Data",
+        "explanation": "Primary research is expensive but provides highly specific and relevant data for the marketing problem at hand."
+    },
+    {
+        "id": "COM143",
+        "text": "In $\\textbf{Commercial Law}$, $\\textbf{Force Majeure}$ is a contract clause that frees both parties from $\\textbf{Liability}$ or obligation when an $\\textbf{Extraordinary}$ event (e.g., an $\\textbf{Act of God}$) occurs.",
+        "image": "",
+        "options": [
+            "Minor Event",
+            "Negotiated Event",
+            "Extraordinary Event",
+            "Controllable Event"
+        ],
+        "answer": "Extraordinary Event",
+        "explanation": "Force majeure clauses protect against unforeseen circumstances that make performance impossible or impractical."
+    },
+    {
+        "id": "COM144",
+        "text": "The $\\textbf{Limited Liability Partnership}$ ($\\,\\textbf{LLP}$) offers $\\textbf{Protection}$ to all partners against the $\\textbf{Negligence}$ or $\\textbf{Wrongful Acts}$ of $\\textbf{Other Partners}$.",
+        "image": "",
+        "options": [
+            "All Acts",
+            "Negligence",
+            "Taxes",
+            "Salaries"
+        ],
+        "answer": "Negligence",
+        "explanation": "This protection is a key reason why professional service firms choose the LLP structure."
+    },
+    {
+        "id": "COM145",
+        "text": "The $\\textbf{Bull Market}$ encourages $\\textbf{Investment}$ and $\\textbf{Speculation}$ due to the expectation of continued $\\textbf{Rising}$ prices.",
+        "image": "",
+        "options": [
+            "Falling Prices",
+            "Stable Prices",
+            "Rising",
+            "Volatile Prices"
+        ],
+        "answer": "Rising",
+        "explanation": "Investor confidence is high in a bull market."
+    },
+    {
+        "id": "COM146",
+        "text": "The $\\textbf{Product Mix}$ is the total collection of $\\textbf{All}$ $\\textbf{Product Lines}$ and items that a particular $\\textbf{Seller}$ offers for $\\textbf{Sale}$.",
+        "image": "",
+        "options": [
+            "Single Product",
+            "Small Collection",
+            "All Product Lines",
+            "Only New Products"
+        ],
+        "answer": "All Product Lines",
+        "explanation": "Product mix has four dimensions: width, length, depth, and consistency."
+    },
+    {
+        "id": "COM147",
+        "text": "The $\\textbf{SWOT Analysis}$ (used in $\\textbf{Strategy}$) examines a company's internal $\\textbf{Strengths}$ and $\\textbf{Weaknesses}$, and external $\\textbf{Opportunities}$ and $\\textbf{Threats}$.",
+        "image": "",
+        "options": [
+            "Revenue",
+            "Sales",
+            "Strengths",
+            "Costs"
+        ],
+        "answer": "Strengths",
+        "explanation": "SWOT provides a framework for evaluating the current position and planning future actions."
+    },
+    {
+        "id": "COM148",
+        "text": "The $\\textbf{Trade Deficit}$ occurs when a country's value of $\\textbf{Imports}$ exceeds its value of $\\textbf{Exports}$ of goods and $\\textbf{Services}$.",
+        "image": "",
+        "options": [
+            "Exports",
+            "Imports",
+            "Investments",
+            "Debt"
+        ],
+        "answer": "Imports",
+        "explanation": "A trade deficit implies a net outflow of domestic currency to foreign markets."
+    },
+    {
+        "id": "COM149",
+        "text": "The $\\textbf{Retailer}$ is the final $\\textbf{Link}$ in the distribution channel, selling goods directly to the $\\textbf{Final Consumer}$.",
+        "image": "",
+        "options": [
+            "Wholesaler",
+            "Manufacturer",
+            "Retailer",
+            "Agent"
+        ],
+        "answer": "Retailer",
+        "explanation": "Retailers play a crucial role in marketing and product presentation to the end-user."
+    },
+    {
+        "id": "COM150",
+        "text": "A $\\textbf{Holding Company}$ is a corporation that exists solely for the purpose of owning $\\textbf{Controlling Stock}$ in $\\textbf{Other Companies}$.",
+        "image": "",
+        "options": [
+            "Manufacturing",
+            "Retail",
+            "Controlling Stock",
+            "Debt"
+        ],
+        "answer": "Controlling Stock",
+        "explanation": "Holding companies do not produce goods or services themselves but control the management of their subsidiaries."
+    },
+    {
+        "id": "COM151",
+        "text": "The $\\textbf{Monetary Policy}$ tools of a $\\textbf{Central Bank}$ include Open Market Operations, Reserve Requirements, and the $\\textbf{Discount Rate}$ (or policy $\\textbf{Rate}$).",
+        "image": "",
+        "options": [
+            "Tax Rate",
+            "Government Spending",
+            "Discount Rate",
+            "Trade Tariff"
+        ],
+        "answer": "Discount Rate",
+        "explanation": "The discount rate is the interest rate at which commercial banks can borrow money directly from the central bank."
+    },
+    {
+        "id": "COM152",
+        "text": "The $\\textbf{Stock Market Index}$ (e.g., $\\textbf{S\\&P 500}$) measures the average performance of a $\\textbf{Basket}$ of $\\textbf{Stocks}$ to represent the overall $\\textbf{Market}$ health.",
+        "image": "",
+        "options": [
+            "Single Stock",
+            "Single Bond",
+            "Basket of Stocks",
+            "All Stocks"
+        ],
+        "answer": "Basket of Stocks",
+        "explanation": "Indexes are used as benchmarks to gauge the market's direction and investor returns."
+    },
+    {
+        "id": "COM153",
+        "text": "The $\\textbf{Product}$ element of the $\\textbf{Marketing Mix}$ includes decisions about $\\textbf{Quality}$, design, features, and $\\textbf{Packaging}$.",
+        "image": "",
+        "options": [
+            "Price",
+            "Place",
+            "Packaging",
+            "Promotion"
+        ],
+        "answer": "Packaging",
+        "explanation": "Packaging plays a functional role (protection) and a promotional role (branding and visual appeal)."
+    },
+    {
+        "id": "COM154",
+        "text": "A $\\textbf{Takeover Bid}$ is an attempt by one company ($\textbf{Acquirer}$) to gain $\\textbf{Control}$ of $\\textbf{Another Company}$ ($\textbf{Target}$) by purchasing its $\\textbf{Shares}$.",
+        "image": "",
+        "options": [
+            "Debt",
+            "Assets",
+            "Shares",
+            "Inventory"
+        ],
+        "answer": "Shares",
+        "explanation": "Takeover bids can be friendly (with board approval) or hostile (without board approval)."
+    },
+    {
+        "id": "COM155",
+        "text": "The $\\textbf{Trade Secret}$ protection does $\\textbf{Not Require}$ $\\textbf{Registration}$ with a government agency to be legally $\\textbf{Enforceable}$.",
+        "image": "",
+        "options": [
+            "Patent",
+            "Copyright",
+            "Trademark",
+            "Trade Secret"
+        ],
+        "answer": "Trade Secret",
+        "explanation": "Protection is maintained simply by keeping the information confidential and taking reasonable steps to protect it."
+    },
+    {
+        "id": "COM156",
+        "text": "A $\\textbf{Public Limited Company}$ ($\\,\\textbf{PLC}$ in the $\\textbf{UK}$) has its shares available for $\\textbf{Sale}$ to the $\\textbf{General Public}$ on a stock exchange.",
+        "image": "",
+        "options": [
+            "Private Shareholders Only",
+            "Employees Only",
+            "General Public",
+            "Government Only"
+        ],
+        "answer": "General Public",
+        "explanation": "This allows the company to raise large amounts of capital but subjects it to extensive regulatory requirements."
+    },
+    {
+        "id": "COM157",
+        "text": "The $\\textbf{Shipping Incoterm}$ $\\textbf{CIF}$ ($\textbf{Cost, Insurance, and Freight}$) requires the seller to arrange and pay for $\\textbf{Insurance}$ and $\\textbf{Freight}$ to the designated port.",
+        "image": "",
+        "options": [
+            "Tax",
+            "Customs Duties",
+            "Insurance",
+            "Warehousing"
+        ],
+        "answer": "Insurance",
+        "explanation": "However, under CIF, risk transfers from the seller to the buyer once the goods are loaded onto the vessel."
+    },
+    {
+        "id": "COM158",
+        "text": "The $\\textbf{Supply Chain}$ includes the upstream flow (from suppliers) and the downstream flow (to $\\textbf{Customers}$), along with the movement of $\\textbf{Information}$.",
+        "image": "",
+        "options": [
+            "Competitors",
+            "Regulators",
+            "Customers",
+            "Banks"
+        ],
+        "answer": "Customers",
+        "explanation": "Effective supply chain management optimizes the entire process, including the final interaction with the customer."
+    },
+    {
+        "id": "COM159",
+        "text": "In $\\textbf{Financial Markets}$, $\\textbf{Futures Contracts}$ are agreements to buy or sell an asset at a $\\textbf{Pre-determined}$ $\\textbf{Price}$ on a $\\textbf{Specified Future Date}$.",
+        "image": "",
+        "options": [
+            "Current Price",
+            "Negotiated Price",
+            "Pre-determined Price",
+            "Spot Price"
+        ],
+        "answer": "Pre-determined Price",
+        "explanation": "Futures are standardized contracts traded on an exchange, primarily used for hedging or speculating on price changes."
+    },
+    {
+        "id": "COM160",
+        "text": "The $\\textbf{Value Chain}$ analysis identifies the primary activities ($\textbf{Inbound Logistics}$, Operations, Outbound Logistics, Marketing, and Service) that create $\\textbf{Value}$ for the $\\textbf{Customer}$.",
+        "image": "",
+        "options": [
+            "Accounting",
+            "Inbound Logistics",
+            "Human Resources",
+            "Technology Development"
+        ],
+        "answer": "Inbound Logistics",
+        "explanation": "Inbound logistics involves receiving, storing, and distributing inputs internally."
+    }
+]

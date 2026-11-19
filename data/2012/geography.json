@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "Hurricane $\\textbf{Sandy}$, often referred to as 'Superstorm Sandy', caused catastrophic flooding in $\\textbf{New York City}$ and the $\\textbf{New Jersey}$ coastline in October 2012.",
+        "image": "",
+        "options": [
+            "Florida",
+            "New Jersey",
+            "Louisiana",
+            "Texas"
+        ],
+        "answer": "New Jersey",
+        "explanation": "It was the deadliest and most destructive hurricane of the 2012 Atlantic hurricane season."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{2012 Summer Olympics}$ were held in $\\textbf{London}$, primarily revitalizing the $\\textbf{Stratford}$ area in the East End of the city.",
+        "image": "",
+        "options": [
+            "Beijing",
+            "London",
+            "Rio de Janeiro",
+            "Athens"
+        ],
+        "answer": "London",
+        "explanation": "London became the first city to host the modern Olympics three times (1908, 1948, 2012)."
+    },
+    {
+        "id": "GEO03",
+        "text": "The NASA rover $\\textbf{Curiosity}$ successfully landed in $\\textbf{Gale Crater}$ on $\\textbf{Mars}$ in August 2012 to investigate the planet's habitability.",
+        "image": "",
+        "options": [
+            "Moon",
+            "Mars",
+            "Titan",
+            "Venus"
+        ],
+        "answer": "Mars",
+        "explanation": "The landing site was named Bradbury Landing, and the mission found evidence of ancient stream beds."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Costa Concordia}$ cruise ship ran aground and capsized off the coast of $\\textbf{Isola del Giglio}$ in $\\textbf{Italy}$ in January 2012.",
+        "image": "",
+        "options": [
+            "Greece",
+            "Spain",
+            "Italy",
+            "France"
+        ],
+        "answer": "Italy",
+        "explanation": "The disaster was caused by the captain deviating from the approved route to perform a 'salute' to the island."
+    },
+    {
+        "id": "GEO05",
+        "text": "Arctic $\\textbf{Sea Ice}$ extent reached a record low in September 2012, highlighting the accelerating effects of $\\textbf{Global Warming}$ in the polar region.",
+        "image": "",
+        "options": [
+            "Antarctic",
+            "Arctic",
+            "Greenland",
+            "Himalayan"
+        ],
+        "answer": "Arctic",
+        "explanation": "The ice cover shrank to 3.41 million square kilometers, the lowest since satellite records began."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{Shard}$, a 95-story skyscraper in $\\textbf{London}$, was inaugurated in 2012, becoming the tallest building in the $\\textbf{European Union}$ at the time.",
+        "image": "",
+        "options": [
+            "Paris",
+            "Frankfurt",
+            "London",
+            "Moscow"
+        ],
+        "answer": "London",
+        "explanation": "Designed by Renzo Piano, it stands near London Bridge and resembles a shard of glass."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{Rio+20}$ United Nations Conference on Sustainable Development took place in $\\textbf{Rio de Janeiro}$, $\\textbf{Brazil}$ in 2012.",
+        "image": "",
+        "options": [
+            "Johannesburg",
+            "Kyoto",
+            "Rio de Janeiro",
+            "Copenhagen"
+        ],
+        "answer": "Rio de Janeiro",
+        "explanation": "It marked the 20th anniversary of the 1992 Earth Summit held in the same city."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Western Ghats}$, a mountain range running parallel to the western coast of $\\textbf{India}$, was designated a UNESCO World Heritage Site in 2012.",
+        "image": "",
+        "options": [
+            "Himalayas",
+            "Western Ghats",
+            "Eastern Ghats",
+            "Vindhya Range"
+        ],
+        "answer": "Western Ghats",
+        "explanation": "It is one of the world's eight 'hottest hotspots' of biological diversity."
+    },
+    {
+        "id": "GEO09",
+        "text": "Typhoon $\\textbf{Bopha}$ (Pablo) struck the island of $\\textbf{Mindanao}$ in the $\\textbf{Philippines}$ in 2012, an area rarely hit by such powerful storms.",
+        "image": "",
+        "options": [
+            "Luzon",
+            "Mindanao",
+            "Visayas",
+            "Palawan"
+        ],
+        "answer": "Mindanao",
+        "explanation": "It was the strongest tropical cyclone to ever hit the southern Philippine island of Mindanao."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{CERN}$ laboratory, located on the border of $\\textbf{Switzerland}$ and $\\textbf{France}$, announced the discovery of the $\\textbf{Higgs Boson}$ particle in 2012.",
+        "image": "",
+        "options": [
+            "Germany",
+            "Switzerland",
+            "Italy",
+            "Belgium"
+        ],
+        "answer": "Switzerland",
+        "explanation": "The discovery confirmed the existence of the Higgs field, crucial to the Standard Model of physics."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Scarborough Shoal}$ standoff occurred in 2012, significantly raising tensions between $\\textbf{China}$ and the $\\textbf{Philippines}$ in the $\\textbf{South China Sea}$.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Malaysia",
+            "Philippines",
+            "Brunei"
+        ],
+        "answer": "Philippines",
+        "explanation": "The shoal is a triangle-shaped chain of reefs and rocks disputed by both nations."
+    },
+    {
+        "id": "GEO12",
+        "text": "Mount $\\textbf{Tongariro}$ in $\\textbf{New Zealand}$ erupted in 2012 for the first time in over a century, disrupting air travel on the $\\textbf{North Island}$.",
+        "image": "",
+        "options": [
+            "South Island",
+            "North Island",
+            "Stewart Island",
+            "Chatham Island"
+        ],
+        "answer": "North Island",
+        "explanation": "The Tongariro Alpine Crossing is a popular hiking track that traverses the volcanic terrain."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Russky Bridge}$, the world's longest cable-stayed bridge, opened in $\\textbf{Vladivostok}$, $\\textbf{Russia}$ for the 2012 APEC summit.",
+        "image": "",
+        "options": [
+            "Moscow",
+            "St. Petersburg",
+            "Vladivostok",
+            "Novosibirsk"
+        ],
+        "answer": "Vladivostok",
+        "explanation": "It connects the mainland to Russky Island across the Eastern Bosphorus strait."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Zaatari}$ refugee camp opened in $\\textbf{Jordan}$ in 2012 to host refugees fleeing the escalating civil war in $\\textbf{Syria}$.",
+        "image": "",
+        "options": [
+            "Lebanon",
+            "Turkey",
+            "Jordan",
+            "Iraq"
+        ],
+        "answer": "Jordan",
+        "explanation": "It rapidly evolved into one of the country's largest population centers."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Benghazi}$ attack in September 2012 targeted the US diplomatic compound in $\\textbf{Libya}$, located in North Africa.",
+        "image": "",
+        "options": [
+            "Egypt",
+            "Tunisia",
+            "Libya",
+            "Algeria"
+        ],
+        "answer": "Libya",
+        "explanation": "Benghazi is a major port city on the Mediterranean Sea."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Mayan}$ 'Long Count' calendar ended a cycle in December 2012, drawing massive tourism to sites like $\\textbf{Chichen Itza}$ in $\\textbf{Mexico}$.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Guatemala",
+            "Mexico",
+            "Belize"
+        ],
+        "answer": "Mexico",
+        "explanation": "Popular culture interpreted this date as a potential apocalypse, though it merely marked a new cycle."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{M23 rebellion}$ captured the city of $\\textbf{Goma}$ in the eastern $\\textbf{Democratic Republic of the Congo}$ in late 2012.",
+        "image": "",
+        "options": [
+            "Rwanda",
+            "Uganda",
+            "DRC",
+            "Burundi"
+        ],
+        "answer": "DRC",
+        "explanation": "Goma is located on the northern shore of Lake Kivu, near the Rwandan border."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Lena Pillars}$ Nature Park, known for its spectacular rock pillars along the Lena River in $\\textbf{Russia}$, was added to the UNESCO World Heritage list in 2012.",
+        "image": "",
+        "options": [
+            "China",
+            "Mongolia",
+            "Russia",
+            "Kazakhstan"
+        ],
+        "answer": "Russia",
+        "explanation": "The pillars are located in the Sakha Republic (Yakutia), a region known for extreme cold."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Yeosu}$ Expo 2012 was held in $\\textbf{South Korea}$, focusing on the theme 'The Living Ocean and Coast'.",
+        "image": "",
+        "options": [
+            "Japan",
+            "China",
+            "South Korea",
+            "Vietnam"
+        ],
+        "answer": "South Korea",
+        "explanation": "Yeosu is a coastal city located on the southern peninsula of Korea."
+    },
+    {
+        "id": "GEO20",
+        "text": "Felix Baumgartner jumped from the stratosphere over $\\textbf{Roswell}$, $\\textbf{New Mexico}$ in 2012, breaking the sound barrier in freefall.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Arizona",
+            "New Mexico",
+            "Utah"
+        ],
+        "answer": "New Mexico",
+        "explanation": "The location was chosen for its favorable weather and open airspace."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Queen Elizabeth II Diamond Jubilee}$ was celebrated in 2012 with a massive pageant of 1,000 boats on the $\\textbf{River Thames}$ in London.",
+        "image": "",
+        "options": [
+            "Seine",
+            "Thames",
+            "Danube",
+            "Rhine"
+        ],
+        "answer": "Thames",
+        "explanation": "It was the largest flotilla seen on the river in 350 years."
+    },
+    {
+        "id": "GEO22",
+        "text": "Communal violence in $\\textbf{Rakhine State}$, $\\textbf{Myanmar}$, erupted in 2012, displacing thousands of $\\textbf{Rohingya}$ Muslims.",
+        "image": "",
+        "options": [
+            "Thailand",
+            "Laos",
+            "Myanmar",
+            "Cambodia"
+        ],
+        "answer": "Myanmar",
+        "explanation": "The conflict drew international attention to the plight of the stateless Rohingya minority."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Senkaku Islands}$ dispute escalated in 2012 when the $\\textbf{Japanese}$ government purchased three of the islands from a private owner.",
+        "image": "",
+        "options": [
+            "Chinese",
+            "Japanese",
+            "Korean",
+            "Taiwanese"
+        ],
+        "answer": "Japanese",
+        "explanation": "This action triggered massive anti-Japanese protests across China."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Azawad}$ declaration of independence was made by Tuareg rebels in northern $\\textbf{Mali}$ in 2012, encompassing the cities of Timbuktu and Gao.",
+        "image": "",
+        "options": [
+            "Niger",
+            "Chad",
+            "Mali",
+            "Mauritania"
+        ],
+        "answer": "Mali",
+        "explanation": "The declaration was quickly overshadowed by Islamist groups taking control of the region."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Titanic}$ centennial was commemorated in April 2012 at the site of the wreck in the $\\textbf{North Atlantic Ocean}$.",
+        "image": "",
+        "options": [
+            "South Atlantic",
+            "North Atlantic",
+            "Pacific",
+            "Indian"
+        ],
+        "answer": "North Atlantic",
+        "explanation": "The ship sank on April 15, 1912, after hitting an iceberg."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Site of Xanadu}$ in Inner Mongolia, $\\textbf{China}$, the legendary capital of Kublai Khan, was inscribed as a UNESCO World Heritage Site in 2012.",
+        "image": "",
+        "options": [
+            "Mongolia",
+            "China",
+            "Russia",
+            "Kazakhstan"
+        ],
+        "answer": "China",
+        "explanation": "It contains the remains of the city designed by the Mongol ruler's Chinese advisor Liu Bingzhong."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Edinburgh Agreement}$ was signed in 2012, paving the way for the 2014 independence referendum in $\\textbf{Scotland}$.",
+        "image": "",
+        "options": [
+            "Wales",
+            "Ireland",
+            "Scotland",
+            "Cornwall"
+        ],
+        "answer": "Scotland",
+        "explanation": "The agreement was signed between the UK government and the Scottish government."
+    },
+    {
+        "id": "GEO28",
+        "text": "A rare $\\textbf{Transit of Venus}$, where the planet passes between the Sun and Earth, occurred in 2012 and was visible across the $\\textbf{Pacific Ocean}$.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "The next transit of Venus will not occur until the year 2117."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{MERS}$ (Middle East Respiratory Syndrome) virus was first identified in 2012 in $\\textbf{Saudi Arabia}$.",
+        "image": "",
+        "options": [
+            "UAE",
+            "Qatar",
+            "Saudi Arabia",
+            "Oman"
+        ],
+        "answer": "Saudi Arabia",
+        "explanation": "The virus is a coronavirus transferred to humans from dromedary camels."
+    },
+    {
+        "id": "GEO30",
+        "text": "A massive $\\textbf{Derecho}$ storm system swept across the Midwest and Mid-Atlantic $\\textbf{United States}$ in June 2012, causing widespread power outages.",
+        "image": "",
+        "options": [
+            "Canada",
+            "United States",
+            "Mexico",
+            "Australia"
+        ],
+        "answer": "United States",
+        "explanation": "It was one of the most destructive fast-moving thunderstorm complexes in North American history."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Puerto Rico}$ status referendum in 2012 saw a majority of voters favor becoming the 51st state of the $\\textbf{United States}$.",
+        "image": "",
+        "options": [
+            "Independence",
+            "Commonwealth",
+            "Statehood",
+            "Free Association"
+        ],
+        "answer": "Statehood",
+        "explanation": "However, the results were controversial due to the structure of the ballot questions."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Square Kilometre Array}$ (SKA) radio telescope project site decision was made in 2012, splitting the location between $\\textbf{South Africa}$ and Australia.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "South Africa",
+            "Chile",
+            "Argentina"
+        ],
+        "answer": "South Africa",
+        "explanation": "The project aims to build the world's largest radio telescope."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Peace Bridge}$ opened in 2012 in $\\textbf{Derry}$ (Londonderry), Northern Ireland, crossing the $\\textbf{River Foyle}$.",
+        "image": "",
+        "options": [
+            "Liffey",
+            "Shannon",
+            "Foyle",
+            "Lagan"
+        ],
+        "answer": "Foyle",
+        "explanation": "The bridge symbolizes the peace process between the unionist and nationalist communities."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Baltic Dry Index}$ reached historic lows in 2012, signaling a slowdown in global $\\textbf{Shipping}$ trade.",
+        "image": "",
+        "options": [
+            "Stock Market",
+            "Shipping",
+            "Oil Prices",
+            "Gold"
+        ],
+        "answer": "Shipping",
+        "explanation": "The index measures the cost of shipping raw materials like coal and iron ore."
+    },
+    {
+        "id": "GEO35",
+        "text": "The district of $\\textbf{Gangnam}$ in $\\textbf{Seoul}$, South Korea, became globally famous in 2012 due to the viral hit song 'Gangnam Style'.",
+        "image": "",
+        "options": [
+            "Busan",
+            "Incheon",
+            "Seoul",
+            "Daegu"
+        ],
+        "answer": "Seoul",
+        "explanation": "Gangnam is an affluent, trendy district south of the Han River."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Bosphorus Bridge}$ in Istanbul hosted an intercontinental tennis match between Venus Williams and Ipek Senoglu in 2012.",
+        "image": "",
+        "options": [
+            "Galata Bridge",
+            "Bosphorus Bridge",
+            "Fatih Sultan Mehmet Bridge",
+            "Golden Horn Bridge"
+        ],
+        "answer": "Bosphorus Bridge",
+        "explanation": "This event highlighted Istanbul's unique position bridging Europe and Asia."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Great Barrier Reef}$ lost half its coral cover between 1985 and 2012, according to a major study published in 2012.",
+        "image": "",
+        "options": [
+            "Belize Reef",
+            "Great Barrier Reef",
+            "Red Sea Reef",
+            "Maldives Reef"
+        ],
+        "answer": "Great Barrier Reef",
+        "explanation": "Storms, crown-of-thorns starfish, and bleaching were cited as the primary causes."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Danube River}$ froze over in parts of Europe during a severe cold wave in early 2012, halting shipping.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Danube",
+            "Seine",
+            "Volga"
+        ],
+        "answer": "Danube",
+        "explanation": "The cold snap affected much of Eastern Europe, with the Danube freezing for hundreds of kilometers."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Gran Sabana}$ region in $\\textbf{Venezuela}$ is known for its tepuis (table-top mountains), including Mount Roraima.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Colombia",
+            "Venezuela",
+            "Guyana"
+        ],
+        "answer": "Venezuela",
+        "explanation": "It is part of the Guiana Highlands and Canaima National Park."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Endeavour}$ space shuttle made its final journey in 2012, being transported through the streets of $\\textbf{Los Angeles}$ to a museum.",
+        "image": "",
+        "options": [
+            "Houston",
+            "Cape Canaveral",
+            "Los Angeles",
+            "New York"
+        ],
+        "answer": "Los Angeles",
+        "explanation": "It is now on display at the California Science Center."
+    }
+]

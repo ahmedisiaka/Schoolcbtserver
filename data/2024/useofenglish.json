@@ -1,0 +1,521 @@
+[
+    {
+      "id": "U2024_1",
+      "text": "The advent of **Artificial Intelligence (AI)** has dramatically reshaped the global workforce, introducing both unparalleled efficiencies and profound anxieties. For many, the fear is not just about job displacement, but about the very nature of human expertise in an increasingly automated world. (Comprehension Passage Snippet 1)\n\nWhat is the primary concern mentioned regarding the impact of AI on the workforce?",
+      "image": "",
+      "options": [
+        "Unparalleled efficiencies",
+        "Profound anxieties",
+        "The increasing cost of automation",
+        "The nature of human expertise"
+      ],
+      "answer": "Profound anxieties",
+      "explanation": "The text explicitly mentions anxieties regarding job displacement and the nature of human expertise, which is summarized by 'Profound anxieties.'"
+    },
+    {
+      "id": "U2024_2",
+      "text": "The advent of **Artificial Intelligence (AI)** has dramatically reshaped the global workforce, introducing both unparalleled efficiencies and profound anxieties. For many, the fear is not just about job displacement, but about the very nature of human expertise in an increasingly automated world. (Comprehension Passage Snippet 1)\n\nWhich of the following words is closest in meaning to **advent** as used in the passage?",
+      "image": "",
+      "options": [
+        "Opposition",
+        "Decline",
+        "Arrival",
+        "Elimination"
+      ],
+      "answer": "Arrival",
+      "explanation": "The 'advent' of something means its arrival or beginning, particularly something important."
+    },
+    {
+      "id": "U2024_3",
+      "text": "The company's expansion plans were put on **ice** after the quarterly results were published.\n\nChoose the option that best explains the expression **put on ice**.",
+      "image": "",
+      "options": [
+        "Put in a freezer",
+        "Cancelled permanently",
+        "Postponed or held in abeyance",
+        "Made public"
+      ],
+      "answer": "Postponed or held in abeyance",
+      "explanation": "To 'put something on ice' is an idiom meaning to delay or postpone it for a period."
+    },
+    {
+      "id": "U2024_4",
+      "text": "She has been **acclaimed** by critics as the most promising novelist of her generation.\n\nChoose the word that is **opposite** in meaning to the word **acclaimed** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Praised",
+        "Recognized",
+        "Condemned",
+        "Applauded"
+      ],
+      "answer": "Condemned",
+      "explanation": "To be 'acclaimed' means to be praised enthusiastically; the opposite is to be condemned or strongly disapproved of."
+    },
+    {
+      "id": "U2024_5",
+      "text": "The chairman, with his wife and children, **(is/are)** expected at the annual gala tonight.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been"
+      ],
+      "answer": "is",
+      "explanation": "The subject of the sentence is 'The chairman' (singular). The phrase 'with his wife and children' is a prepositional phrase and does not affect the verb number."
+    },
+    {
+      "id": "U2024_6",
+      "text": "The athlete **broke** the world record in the final lap.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **broke**?",
+      "image": "",
+      "options": [
+        "Boat",
+        "Book",
+        "Broad",
+        "Breathe"
+      ],
+      "answer": "Boat",
+      "explanation": "The vowel sound in 'broke' is the diphthong /əʊ/ or /oʊ/, which is the same as the sound in 'boat'."
+    },
+    {
+      "id": "U2024_7",
+      "text": "One major proposal for mitigating job losses involves **reskilling and upskilling** the current workforce, turning the threat of automation into an opportunity for specialization in fields requiring high-level human creativity and critical thinking. (Comprehension Passage Snippet 2)\n\nAccording to the passage, what is the suggested solution for mitigating job losses?",
+      "image": "",
+      "options": [
+        "Banning automation in key sectors",
+        "Retiring older workers",
+        "Reskilling and upskilling the workforce",
+        "Introducing a universal basic income"
+      ],
+      "answer": "Reskilling and upskilling the workforce",
+      "explanation": "The text explicitly states that 'reskilling and upskilling the current workforce' is a major proposal for mitigation."
+    },
+    {
+      "id": "U2024_8",
+      "text": "One major proposal for mitigating job losses involves **reskilling and upskilling** the current workforce, turning the threat of automation into an opportunity for specialization in fields requiring high-level human creativity and critical thinking. (Comprehension Passage Snippet 2)\n\nWhich of the following is an example of a field requiring **critical thinking** as mentioned in the text?",
+      "image": "",
+      "options": [
+        "Automated factory assembly",
+        "Basic data entry",
+        "Ethical AI development",
+        "Repetitive call center work"
+      ],
+      "answer": "Ethical AI development",
+      "explanation": "Ethical development requires judgement, analysis, and problem-solving, which are core elements of critical thinking, unlike the other options which are automated or repetitive."
+    },
+    {
+      "id": "U2024_9",
+      "text": "If he had trained harder, he **(will/would have)** won the race.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "will",
+        "would have",
+        "can",
+        "may"
+      ],
+      "answer": "would have",
+      "explanation": "This is a conditional sentence (Third Conditional) which describes an unreal past situation. The structure is: 'If + Past Perfect (had trained), ... + would have + Past Participle (won).'"
+    },
+    {
+      "id": "U2024_10",
+      "text": "The committee decided to **disband** after failing to reach a consensus.\n\nChoose the word that is closest in meaning to the word **disband** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Assemble",
+        "Reorganize",
+        "Dissolve",
+        "Expand"
+      ],
+      "answer": "Dissolve",
+      "explanation": "To 'disband' means to break up or dissolve an organization or group."
+    },
+    {
+      "id": "U2024_11",
+      "text": "The government's new policy has been met with **scepticism** from the opposition.\n\nIdentify the part of speech of the word **scepticism** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Verb",
+        "Noun"
+      ],
+      "answer": "Noun",
+      "explanation": "'Scepticism' is a state of doubt or an attitude, and it is functioning as the direct object of the preposition 'with', making it a noun."
+    },
+    {
+      "id": "U2024_12",
+      "text": "Identify the word where the sound represented by the letter 's' is pronounced /z/.",
+      "image": "",
+      "options": [
+        "Sugar",
+        "Census",
+        "Houses",
+        "Strict"
+      ],
+      "answer": "Houses",
+      "explanation": "In 'Houses' (the plural noun), the 's' is pronounced /z/. In 'Sugar' it's /ʃ/, in 'Census' and 'Strict' it's /s/."
+    },
+    {
+      "id": "U2024_13",
+      "text": "The impact of the new technology is not $\\textbf{only}$ financial but $\\textbf{also}$ psychological.\n\nWhat type of conjunctions are **not only**... **but also**?",
+      "image": "",
+      "options": [
+        "Coordinating conjunctions",
+        "Subordinating conjunctions",
+        "Correlative conjunctions",
+        "Adverbial conjunctions"
+      ],
+      "answer": "Correlative conjunctions",
+      "explanation": "Correlative conjunctions are pairs of conjunctions that work together to join elements in a sentence (e.g., either/or, neither/nor, not only/but also)."
+    },
+    {
+      "id": "U2024_14",
+      "text": "The speaker **took his hat off** to the team's commitment and dedication.\n\nChoose the option that best explains the expression **took his hat off**.",
+      "image": "",
+      "options": [
+        "Showed disapproval",
+        "Left the venue quickly",
+        "Expressed admiration",
+        "Felt insulted"
+      ],
+      "answer": "Expressed admiration",
+      "explanation": "To 'take one's hat off to someone' is an idiom meaning to praise, salute, or show admiration for their achievement."
+    },
+    {
+      "id": "U2024_15",
+      "text": "The **gist** of the presentation was that climate change requires immediate global action.\n\nChoose the word that is closest in meaning to the word **gist** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Detail",
+        "Summary",
+        "Conclusion",
+        "Origin"
+      ],
+      "answer": "Summary",
+      "explanation": "The 'gist' of something is its main point or essential substance, which is similar to a summary."
+    },
+    {
+      "id": "U2024_16",
+      "text": "It is essential that every citizen **(obeys/obey)** the laws of the land.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "obeys",
+        "obey",
+        "obeyed",
+        "is obeying"
+      ],
+      "answer": "obey",
+      "explanation": "This is the **mandative subjunctive** mood, used after certain expressions (like 'it is essential that'). The verb is in the base form ('obey') regardless of the subject's number."
+    },
+    {
+      "id": "U2024_17",
+      "text": "The professor's argument was **incoherent** and full of contradictions.\n\nChoose the word that is **opposite** in meaning to the word **incoherent** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Jumbled",
+        "Unclear",
+        "Logical",
+        "Verbose"
+      ],
+      "answer": "Logical",
+      "explanation": "Incoherent means unclear or lacking logical consistency. The opposite is 'logical' or consistent."
+    },
+    {
+      "id": "U2024_18",
+      "text": "In the face of these dramatic shifts, **educational institutions** must evolve to focus less on rote learning and more on fostering adaptive skills and emotional intelligence—qualities that machines cannot easily replicate. (Comprehension Passage Snippet 3)\n\nWhat two specific qualities are educational institutions encouraged to foster?",
+      "image": "",
+      "options": [
+        "Rote learning and technological skills",
+        "Adaptive skills and emotional intelligence",
+        "Financial literacy and memorization",
+        "Physical strength and critical thinking"
+      ],
+      "answer": "Adaptive skills and emotional intelligence",
+      "explanation": "The text states institutions should focus on 'adaptive skills and emotional intelligence'."
+    },
+    {
+      "id": "U2024_19",
+      "text": "In the face of these dramatic shifts, **educational institutions** must evolve to focus less on rote learning and more on fostering adaptive skills and emotional intelligence—qualities that machines cannot easily replicate. (Comprehension Passage Snippet 3)\n\nWhat does the passage suggest is the reason for focusing on adaptive skills and emotional intelligence?",
+      "image": "",
+      "options": [
+        "They are easier to teach than rote learning.",
+        "They are highly valued by the government.",
+        "Machines cannot easily replicate them.",
+        "They help reduce the overall cost of education."
+      ],
+      "answer": "Machines cannot easily replicate them.",
+      "explanation": "The phrase 'qualities that machines cannot easily replicate' provides the reason for the focus."
+    },
+    {
+      "id": "U2024_20",
+      "text": "The word **'development'**.\n\nIdentify the syllable that carries the primary stress in the word **development**.",
+      "image": "",
+      "options": [
+        "de",
+        "vel",
+        "op",
+        "ment"
+      ],
+      "answer": "vel",
+      "explanation": "The primary stress in 'development' /dɪˈveləpmənt/ falls on the second syllable, 'vel'."
+    },
+    {
+      "id": "U2024_21",
+      "text": "The $\\textbf{new}$ students need to get $\\textbf{acquainted}$ with the school rules.\n\nWhich of the following is the same as the final consonant sound in **acquainted**?",
+      "image": "",
+      "options": [
+        "Tried",
+        "Planted",
+        "Killed",
+        "Pushed"
+      ],
+      "answer": "Planted",
+      "explanation": "The final sound in 'acquainted' is /ɪd/ or /əd/. The final sound in 'Planted' is also /ɪd/ or /əd/. The others are /d/ (tried, killed) or /t/ (pushed)."
+    },
+    {
+      "id": "U2024_22",
+      "text": "The manager **had a chip on his shoulder** about the demotion he received last year.\n\nChoose the option that best explains the expression **had a chip on his shoulder**.",
+      "image": "",
+      "options": [
+        "Had a physical injury",
+        "Felt resentful or harbored a grievance",
+        "Was carrying a heavy load",
+        "Was exceptionally lucky"
+      ],
+      "answer": "Felt resentful or harbored a grievance",
+      "explanation": "To 'have a chip on one's shoulder' means to harbor a lingering resentment or grievance, often expressed as a hostile attitude."
+    },
+    {
+      "id": "U2024_23",
+      "text": "The jury pronounced the accused $\\textbf{culpable}$ for the financial fraud.\n\nChoose the word that is closest in meaning to the word $\\textbf{culpable}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Innocent",
+        "Responsible",
+        "Suspicious",
+        "Exonerated"
+      ],
+      "answer": "Responsible",
+      "explanation": "To be 'culpable' means to be deserving of blame or responsible for a fault or crime."
+    },
+    {
+      "id": "U2024_24",
+      "text": "The old house, $\\textbf{which}$ had been abandoned for decades, was finally pulled down.\n\nWhat is the function of the word $\\textbf{which}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Subordinating conjunction",
+        "Interrogative pronoun",
+        "Relative pronoun",
+        "Adverb of place"
+      ],
+      "answer": "Relative pronoun",
+      "explanation": "The word 'which' introduces the non-essential relative clause 'which had been abandoned for decades' and refers back to the antecedent 'the old house'."
+    },
+    {
+      "id": "U2024_25",
+      "text": "The word $\\textbf{'compromise'}$ (as a verb).\n\nIdentify the syllable that carries the primary stress in the word **compromise**.",
+      "image": "",
+      "options": [
+        "com",
+        "pro",
+        "mise"
+      ],
+      "answer": "com",
+      "explanation": "The primary stress in 'compromise' /ˈkɒmprəmaɪz/ falls on the first syllable, 'com'."
+    },
+    {
+      "id": "U2024_26",
+      "text": "The new manager's approach to leadership is often described as $\\textbf{autocratic}$.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{autocratic}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Dictatorial",
+        "Democratic",
+        "Tyrannical",
+        "Strict"
+      ],
+      "answer": "Democratic",
+      "explanation": "Autocratic means ruling with absolute power, often suppressing the will of others. The opposite is 'democratic,' which involves shared decision-making."
+    },
+    {
+      "id": "U2024_27",
+      "text": "The key to success in the 21st-century job market lies in maintaining a **growth mindset**, seeing technological disruption not as an ending, but as a catalyst for continuous professional reinvention. (Comprehension Passage Snippet 4)\n\nWhat is suggested as the key to success in the 21st-century job market?",
+      "image": "",
+      "options": [
+        "A traditional education",
+        "Ignoring technological disruption",
+        "A growth mindset",
+        "Focusing on the financial sector"
+      ],
+      "answer": "A growth mindset",
+      "explanation": "The text explicitly states the key to success 'lies in maintaining a growth mindset'."
+    },
+    {
+      "id": "U2024_28",
+      "text": "The key to success in the 21st-century job market lies in maintaining a **growth mindset**, seeing technological disruption not as an ending, but as a $\\textbf{catalyst}$ for continuous professional reinvention. (Comprehension Passage Snippet 4)\n\nWhich of the following words is closest in meaning to $\\textbf{catalyst}$ as used in the passage?",
+      "image": "",
+      "options": [
+        "Obstruction",
+        "Cause",
+        "Endpoint",
+        "Limitation"
+      ],
+      "answer": "Cause",
+      "explanation": "A 'catalyst' is an agent that causes or speeds up a significant change or action."
+    },
+    {
+      "id": "U2024_29",
+      "text": "The accident was attributed **(to/with)** careless driving on a wet road.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "The correct idiom is 'attributed to', meaning to regard something as being caused by a particular source."
+    },
+    {
+      "id": "U2024_30",
+      "text": "Which of the following words contains a silent letter?",
+      "image": "",
+      "options": [
+        "Kettle",
+        "Castle",
+        "Table",
+        "Water"
+      ],
+      "answer": "Castle",
+      "explanation": "The 't' in 'castle' is silent (/ˈkɑːsəl/)."
+    },
+    {
+      "id": "U2024_31",
+      "text": "He $\\textbf{must}$ have forgotten the date of the meeting.\n\nWhat modal verb expresses **near certainty** in the sentence?",
+      "image": "",
+      "options": [
+        "Must",
+        "Have",
+        "Forget",
+        "The"
+      ],
+      "answer": "Must",
+      "explanation": "The modal verb 'must' is used here to express a strong deduction or near certainty about a past event."
+    },
+    {
+      "id": "U2024_32",
+      "text": "The new policy was **promulgated** by the Minister of Education.\n\nChoose the word that is closest in meaning to the word **promulgated** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Canceled",
+        "Secretly written",
+        "Officially announced",
+        "Reviewed"
+      ],
+      "answer": "Officially announced",
+      "explanation": "To 'promulgate' means to officially announce or make known a law or decree."
+    },
+    {
+      "id": "U2024_33",
+      "text": "The word $\\textbf{'university'}$ $\\textbf{college}$.\n\nWhich of the following words rhymes with the primary stressed syllable in $\\textbf{university}$?",
+      "image": "",
+      "options": [
+        "First",
+        "Her",
+        "Verbal",
+        "Very"
+      ],
+      "answer": "Verbal",
+      "explanation": "The primary stress in 'university' /ˌjuːnɪˈvɜːsəti/ falls on the third syllable, /vɜː/ or /vəː/. This sound is the same as the vowel sound in 'verbal' (/vɜːbəl/)."
+    },
+    {
+      "id": "U2024_34",
+      "text": "The principal asked **(him and I/him and me)** to prepare the presentation.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "him and I",
+        "him and me",
+        "he and I",
+        "he and me"
+      ],
+      "answer": "him and me",
+      "explanation": "The object of the verb 'asked' must be in the objective case. The objective form of 'I' is 'me', and 'him' is already objective."
+    },
+    {
+      "id": "U2024_35",
+      "text": "He was $\\textbf{a man of his word}$, always fulfilling his promises.\n\nChoose the option that best explains the expression **a man of his word**.",
+      "image": "",
+      "options": [
+        "A verbose speaker",
+        "A trustworthy and reliable person",
+        "A person who loves dictionaries",
+        "A talkative individual"
+      ],
+      "answer": "A trustworthy and reliable person",
+      "explanation": "A person who is 'a man/woman of their word' is someone who keeps their promises and is reliable."
+    },
+    {
+      "id": "U2024_36",
+      "text": "The word $\\textbf{'photographer'}$ $\\textbf{photo}$.\n\nIdentify the syllable that carries the primary stress in the word **photographer**.",
+      "image": "",
+      "options": [
+        "pho",
+        "to",
+        "gra",
+        "pher"
+      ],
+      "answer": "to",
+      "explanation": "The primary stress in 'photographer' /fəˈtɒɡrəfə/ falls on the second syllable, 'to' (pronounced /tɒɡ/). (Note: the stress shifts from the first syllable in 'photo'.)"
+    },
+    {
+      "id": "U2024_37",
+      "text": "The lawyer's argument was deliberately **equivocal** to avoid a direct commitment.\n\nChoose the word that is **opposite** in meaning to the word **equivocal** as used in the sentence.",
+      "image": "",
+      "options": [
+        "Ambiguous",
+        "Evasive",
+        "Clear",
+        "Vague"
+      ],
+      "answer": "Clear",
+      "explanation": "Equivocal means deliberately ambiguous or open to more than one interpretation. The opposite is 'clear' or unambiguous."
+    },
+    {
+      "id": "U2024_38",
+      "text": "The word $\\textbf{'church'}$ $\\textbf{c h}$ $\\textbf{u r c h}$.\n\nWhich of the following words has the same initial consonant sound as **church**?",
+      "image": "",
+      "options": [
+        "School",
+        "Chef",
+        "Character",
+        "Change"
+      ],
+      "answer": "Change",
+      "explanation": "The initial sound in 'church' is the affricate /tʃ/. The initial sound in 'Change' is also /tʃ/. The others are /s/, /ʃ/, and /k/ respectively."
+    },
+    {
+      "id": "U2024_39",
+      "text": "Despite the evidence, the suspect maintained his **innocence**.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Innocence",
+        "Suspect",
+        "Team",
+        "Evidence"
+      ],
+      "answer": "Team",
+      "explanation": "A collective noun is a noun that represents a collection of individuals (e.g., team, jury, flock)."
+    },
+    {
+      "id": "U2024_40",
+      "text": "The committee $\\textbf{reviewed}$ the budget $\\textbf{report}$ **yesterday**.\n\nWhich word is an $\\textbf{adverb}$ of $\\textbf{time}$?",
+      "image": "",
+      "options": [
+        "The",
+        "Reviewed",
+        "Budget",
+        "Yesterday"
+      ],
+      "answer": "Yesterday",
+      "explanation": "'Yesterday' modifies the verb 'reviewed' by telling us *when* the action took place, making it an adverb of time."
+    }
+  ]

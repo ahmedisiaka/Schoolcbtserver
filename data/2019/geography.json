@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "In 2019, devastating wildfires swept through the $\\textbf{Amazon Rainforest}$, primarily in $\\textbf{Brazil}$, sparking global concern for the 'Lungs of the Earth'.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Brazil",
+            "Colombia",
+            "Venezuela"
+        ],
+        "answer": "Brazil",
+        "explanation": "The 2019 fire season was unusually active, drawing international attention to deforestation policies."
+    },
+    {
+        "id": "GEO02",
+        "text": "The country of $\\textbf{North Macedonia}$ officially changed its name from the Former Yugoslav Republic of Macedonia in 2019 to resolve a dispute with $\\textbf{Greece}$.",
+        "image": "",
+        "options": [
+            "Albania",
+            "Bulgaria",
+            "Greece",
+            "Serbia"
+        ],
+        "answer": "Greece",
+        "explanation": "The Prespa agreement resolved the long-standing naming dispute, paving the way for North Macedonia to join NATO."
+    },
+    {
+        "id": "GEO03",
+        "text": "Hurricane $\\textbf{Dorian}$, one of the most powerful Atlantic hurricanes on record, devastated the $\\textbf{Bahamas}$ in September 2019 as a Category 5 storm.",
+        "image": "",
+        "options": [
+            "Puerto Rico",
+            "Jamaica",
+            "Bahamas",
+            "Cuba"
+        ],
+        "answer": "Bahamas",
+        "explanation": "It stalled over the Abaco Islands and Grand Bahama for days, causing catastrophic damage."
+    },
+    {
+        "id": "GEO04",
+        "text": "In 2019, the capital city of $\\textbf{Kazakhstan}$, Astana, was officially renamed $\\textbf{Nur-Sultan}$ in honor of the country's longtime leader.",
+        "image": "",
+        "options": [
+            "Almaty",
+            "Tashkent",
+            "Nur-Sultan",
+            "Bishkek"
+        ],
+        "answer": "Nur-Sultan",
+        "explanation": "The name was changed following the resignation of President Nursultan Nazarbayev (it was later changed back to Astana in 2022)."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{Notre Dame Cathedral}$, a landmark of $\\textbf{Paris}$ located on the Île de la Cité island in the $\\textbf{Seine River}$, suffered a major fire in April 2019.",
+        "image": "",
+        "options": [
+            "Lyon",
+            "Marseille",
+            "Paris",
+            "Bordeaux"
+        ],
+        "answer": "Paris",
+        "explanation": "The fire destroyed the spire and the roof, leading to a massive global fundraising campaign for reconstruction."
+    },
+    {
+        "id": "GEO06",
+        "text": "In 2019, $\\textbf{Indonesia}$ announced plans to move its capital from the sinking city of $\\textbf{Jakarta}$ on Java to a new site on the island of $\\textbf{Borneo}$.",
+        "image": "",
+        "options": [
+            "Sumatra",
+            "Borneo",
+            "Sulawesi",
+            "Bali"
+        ],
+        "answer": "Borneo",
+        "explanation": "The new capital, Nusantara, is being built in the province of East Kalimantan to alleviate overcrowding and sinking issues in Jakarta."
+    },
+    {
+        "id": "GEO07",
+        "text": "Cyclone $\\textbf{Idai}$ caused catastrophic flooding and a humanitarian crisis in $\\textbf{Mozambique}$, Zimbabwe, and Malawi in March 2019.",
+        "image": "",
+        "options": [
+            "South Africa",
+            "Mozambique",
+            "Madagascar",
+            "Tanzania"
+        ],
+        "answer": "Mozambique",
+        "explanation": "The port city of Beira was particularly hard hit, with 90% of the city reported destroyed."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Whakaari / White Island}$ volcano, which erupted fatally in 2019 while tourists were visiting, is located off the coast of $\\textbf{New Zealand}$.",
+        "image": "",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "Fiji",
+            "Tonga"
+        ],
+        "answer": "New Zealand",
+        "explanation": "It is New Zealand's most active cone volcano, situated in the Bay of Plenty."
+    },
+    {
+        "id": "GEO09",
+        "text": "The city of $\\textbf{Venice}$ in $\\textbf{Italy}$ experienced its worst flooding in 50 years (Acqua Alta) in November 2019, damaging historic landmarks like $\\textbf{St. Mark's Basilica}$.",
+        "image": "",
+        "options": [
+            "Rome",
+            "Florence",
+            "Venice",
+            "Naples"
+        ],
+        "answer": "Venice",
+        "explanation": "High tides peaked at 1.87 meters, highlighting the city's vulnerability to climate change and rising sea levels."
+    },
+    {
+        "id": "GEO10",
+        "text": "The autonomous region of $\\textbf{Bougainville}$ voted overwhelmingly for independence from $\\textbf{Papua New Guinea}$ in a 2019 referendum.",
+        "image": "",
+        "options": [
+            "Indonesia",
+            "Papua New Guinea",
+            "Solomon Islands",
+            "Australia"
+        ],
+        "answer": "Papua New Guinea",
+        "explanation": "The non-binding referendum is part of a peace process following a civil war in the 1990s."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Ozone Hole}$ over $\\textbf{Antarctica}$ reached its smallest annual peak size on record in 2019 due to unusual weather patterns in the $\\textbf{Stratosphere}$.",
+        "image": "",
+        "options": [
+            "Arctic",
+            "Antarctica",
+            "Greenland",
+            "Siberia"
+        ],
+        "answer": "Antarctica",
+        "explanation": "Warmer temperatures in the upper atmosphere limited the ozone-depleting chemical reactions."
+    },
+    {
+        "id": "GEO12",
+        "text": "Typhoon $\\textbf{Hagibis}$ was the strongest storm to hit $\\textbf{Japan}$ in decades, causing widespread flooding and canceling matches during the 2019 $\\textbf{Rugby World Cup}$.",
+        "image": "",
+        "options": [
+            "Philippines",
+            "Taiwan",
+            "Japan",
+            "Vietnam"
+        ],
+        "answer": "Japan",
+        "explanation": "The typhoon caused the levees of the Chikuma River to break, flooding residential areas."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Strait of Hormuz}$ saw increased geopolitical tensions in 2019 with attacks on $\\textbf{Oil Tankers}$ near the coast of $\\textbf{Iran}$.",
+        "image": "",
+        "options": [
+            "Iraq",
+            "Iran",
+            "Saudi Arabia",
+            "Kuwait"
+        ],
+        "answer": "Iran",
+        "explanation": "Tensions between Iran and Western nations threatened the security of this vital energy checkpoint."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Greenland Ice Sheet}$ experienced a record-breaking melt event in the summer of 2019, contributing significantly to global $\\textbf{Sea Level Rise}$.",
+        "image": "",
+        "options": [
+            "Iceland",
+            "Greenland",
+            "Alaska",
+            "Norway"
+        ],
+        "answer": "Greenland",
+        "explanation": "A heatwave that struck Europe moved north, causing massive surface melting across the ice sheet."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{English Channel}$ is the busiest shipping lane in the world, separating the island of $\\textbf{Great Britain}$ from $\\textbf{France}$.",
+        "image": "",
+        "options": [
+            "Ireland",
+            "Great Britain",
+            "Iceland",
+            "Scandinavia"
+        ],
+        "answer": "Great Britain",
+        "explanation": "In 2019, it also saw a significant rise in migrant crossings in small boats."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Mekong River}$ levels dropped to their lowest in a century in 2019, affecting countries like Thailand, Laos, and $\\textbf{Cambodia}$.",
+        "image": "",
+        "options": [
+            "Myanmar",
+            "Cambodia",
+            "Malaysia",
+            "Indonesia"
+        ],
+        "answer": "Cambodia",
+        "explanation": "Drought and upstream dams in China contributed to the crisis, impacting the Tonle Sap lake."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Uluru}$ (Ayers Rock) climb in $\\textbf{Australia}$ was permanently closed to the public in October 2019 out of respect for the indigenous $\\textbf{Anangu}$ people.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "Australia",
+            "South Africa",
+            "United States"
+        ],
+        "answer": "Australia",
+        "explanation": "The site is sacred to the Anangu, who had long requested that tourists not climb it."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Bering Strait}$ separates the $\\textbf{Chukchi Peninsula}$ of Russia from the $\\textbf{Seward Peninsula}$ of the United States (Alaska).",
+        "image": "",
+        "options": [
+            "Kamchatka Peninsula",
+            "Chukchi Peninsula",
+            "Kola Peninsula",
+            "Crimean Peninsula"
+        ],
+        "answer": "Chukchi Peninsula",
+        "explanation": "It is the point where Russia and the USA are geographically closest."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Galápagos Islands}$, a province of $\\textbf{Ecuador}$, are located at the intersection of three ocean currents in the $\\textbf{Pacific Ocean}$.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "explanation": "The isolation and unique currents contribute to its high biodiversity."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Dead Sea}$ borders Jordan to the east and $\\textbf{Israel}$ and the West Bank to the west.",
+        "image": "",
+        "options": [
+            "Lebanon",
+            "Syria",
+            "Egypt",
+            "Israel"
+        ],
+        "answer": "Israel",
+        "explanation": "It is shrinking rapidly due to water diversion from the Jordan River."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Andes Mountains}$ are the source of the $\\textbf{Amazon River}$, the largest river by discharge volume in the world.",
+        "image": "",
+        "options": [
+            "Nile River",
+            "Amazon River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": "Amazon River",
+        "explanation": "The river flows eastward across South America to the Atlantic Ocean."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Mediterranean Sea}$ is connected to the Atlantic Ocean by the $\\textbf{Strait of Gibraltar}$ and to the Red Sea by the $\\textbf{Suez Canal}$.",
+        "image": "",
+        "options": [
+            "Panama Canal",
+            "Suez Canal",
+            "Kiel Canal",
+            "Corinth Canal"
+        ],
+        "answer": "Suez Canal",
+        "explanation": "This makes the Mediterranean a key corridor for global maritime trade."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Rocky Mountains}$ stretch more than 3,000 miles from $\\textbf{British Columbia}$ in Canada to $\\textbf{New Mexico}$ in the United States.",
+        "image": "",
+        "options": [
+            "California",
+            "New Mexico",
+            "Texas",
+            "Arizona"
+        ],
+        "answer": "New Mexico",
+        "explanation": "They form the Continental Divide of North America."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Victoria Falls}$ on the $\\textbf{Zambezi River}$ experienced a severe drought in 2019, reducing the flow to a trickle and raising climate concerns.",
+        "image": "",
+        "options": [
+            "Nile River",
+            "Congo River",
+            "Zambezi River",
+            "Niger River"
+        ],
+        "answer": "Zambezi River",
+        "explanation": "Known as 'The Smoke That Thunders', it is one of the world's largest waterfalls."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Black Sea}$ is a marginal sea of the Atlantic Ocean lying between Europe and Western Asia, connected to the Aegean Sea by the $\\textbf{Dardanelles}$.",
+        "image": "",
+        "options": [
+            "Bosporus",
+            "Dardanelles",
+            "Gibraltar",
+            "Kerch"
+        ],
+        "answer": "Dardanelles",
+        "explanation": "Ships must pass through the Bosphorus, the Sea of Marmara, and the Dardanelles to reach the Mediterranean."
+    },
+    {
+        "id": "GEO26",
+        "text": "The island of $\\textbf{Tasmania}$ is a state of $\\textbf{Australia}$, separated from the mainland by the $\\textbf{Bass Strait}$.",
+        "image": "",
+        "options": [
+            "Cook Strait",
+            "Bass Strait",
+            "Torres Strait",
+            "Magellan Strait"
+        ],
+        "answer": "Bass Strait",
+        "explanation": "It is known for its vast, rugged wilderness areas, largely protected within parks and reserves."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Red Sea}$ is a seawater inlet of the Indian Ocean, lying between $\\textbf{Africa}$ and $\\textbf{Asia}$.",
+        "image": "",
+        "options": [
+            "Europe",
+            "Asia",
+            "Australia",
+            "South America"
+        ],
+        "answer": "Asia",
+        "explanation": "Its name is thought to come from the seasonal blooms of red-colored cyanobacteria."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Baltic Sea}$ is an arm of the Atlantic Ocean, enclosed by the Scandinavian Peninsula, the mainland of Europe, and the $\\textbf{Danish Islands}$.",
+        "image": "",
+        "options": [
+            "British Isles",
+            "Danish Islands",
+            "Canary Islands",
+            "Faroe Islands"
+        ],
+        "answer": "Danish Islands",
+        "explanation": "It is a brackish inland sea with low salinity."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Mount Kilimanjaro}$ is a dormant volcano in $\\textbf{Tanzania}$ and is the highest mountain in $\\textbf{Africa}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "South Africa",
+            "Tanzania",
+            "Ethiopia"
+        ],
+        "answer": "Tanzania",
+        "explanation": "It rises approximately 4,900 meters from its base to 5,895 meters above sea level."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Gobi Desert}$ covers parts of Northern $\\textbf{China}$ and Southern $\\textbf{Mongolia}$.",
+        "image": "",
+        "options": [
+            "Russia",
+            "Mongolia",
+            "Kazakhstan",
+            "India"
+        ],
+        "answer": "Mongolia",
+        "explanation": "It is a cold desert known for its dunes, mountains, and rare animals like the Gobi bear."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{English Channel}$ connects the $\\textbf{North Sea}$ to the $\\textbf{Atlantic Ocean}$.",
+        "image": "",
+        "options": [
+            "Baltic Sea",
+            "North Sea",
+            "Norwegian Sea",
+            "Irish Sea"
+        ],
+        "answer": "North Sea",
+        "explanation": "The Strait of Dover is the narrowest point of the channel."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Lake Victoria}$ is the source of the $\\textbf{White Nile}$, one of the two main tributaries of the Nile River.",
+        "image": "",
+        "options": [
+            "Blue Nile",
+            "White Nile",
+            "Atbara River",
+            "Congo River"
+        ],
+        "answer": "White Nile",
+        "explanation": "The other main tributary is the Blue Nile, which originates in Ethiopia."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Ural Mountains}$ form the conventional boundary between the continents of $\\textbf{Europe}$ and $\\textbf{Asia}$ in Russia.",
+        "image": "",
+        "options": [
+            "Caucasus",
+            "Urals",
+            "Alps",
+            "Himalayas"
+        ],
+        "answer": "Urals",
+        "explanation": "They run from the coast of the Arctic Ocean to the river Ural and northwestern Kazakhstan."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Strait of Gibraltar}$ is controlled on the northern side by $\\textbf{Great Britain}$ (Gibraltar) and $\\textbf{Spain}$.",
+        "image": "",
+        "options": [
+            "Portugal",
+            "France",
+            "Spain",
+            "Italy"
+        ],
+        "answer": "Spain",
+        "explanation": "Gibraltar is a British Overseas Territory, while the northern coast is Spanish."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Lake Baikal}$ in Siberia contains 20% of the world's total unfrozen $\\textbf{Freshwater}$ reserve.",
+        "image": "",
+        "options": [
+            "Saltwater",
+            "Freshwater",
+            "Glacial Ice",
+            "Groundwater"
+        ],
+        "answer": "Freshwater",
+        "explanation": "It is the deepest and oldest lake in the world."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Danube River}$ empties into the $\\textbf{Black Sea}$ after flowing through 10 countries in Europe.",
+        "image": "",
+        "options": [
+            "Adriatic Sea",
+            "Black Sea",
+            "Aegean Sea",
+            "Baltic Sea"
+        ],
+        "answer": "Black Sea",
+        "explanation": "Its delta is a UNESCO World Heritage site shared by Romania and Ukraine."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Horn of Africa}$ includes the country of $\\textbf{Somalia}$, which has the longest coastline on Africa's mainland.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Somalia",
+            "Sudan",
+            "Egypt"
+        ],
+        "answer": "Somalia",
+        "explanation": "The region juts into the Arabian Sea."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Great Barrier Reef}$ faced another mass $\\textbf{Coral Bleaching}$ event in 2019/2020 due to rising ocean temperatures.",
+        "image": "",
+        "options": [
+            "Algae Bloom",
+            "Coral Bleaching",
+            "Oil Spill",
+            "Overfishing"
+        ],
+        "answer": "Coral Bleaching",
+        "explanation": "Bleaching occurs when corals expel the algae living in their tissues, causing them to turn white."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Yucatán Channel}$ separates $\\textbf{Mexico}$ from the island of $\\textbf{Cuba}$, connecting the Gulf of Mexico and the Caribbean Sea.",
+        "image": "",
+        "options": [
+            "Jamaica",
+            "Haiti",
+            "Cuba",
+            "Bahamas"
+        ],
+        "answer": "Cuba",
+        "explanation": "It is about 217 kilometers (135 miles) wide."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Tigris and Euphrates}$ rivers join to form the $\\textbf{Shatt al-Arab}$ waterway before flowing into the $\\textbf{Persian Gulf}$.",
+        "image": "",
+        "options": [
+            "Red Sea",
+            "Arabian Sea",
+            "Persian Gulf",
+            "Caspian Sea"
+        ],
+        "answer": "Persian Gulf",
+        "explanation": "This waterway forms part of the border between Iraq and Iran."
+    }
+]

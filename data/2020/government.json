@@ -1,0 +1,520 @@
+[
+    {
+        "id": "G81",
+        "text": "The initial government response to the COVID-19 pandemic, including the implementation of stay-at-home orders and mask mandates, relied heavily on the $\\textbf{police power}$ held by which level of government?",
+        "image": "",
+        "options": [
+            "Federal Executive Branch",
+            "State and Local Governments",
+            "The U.S. Supreme Court",
+            "The Department of Health and Human Services (HHS)"
+        ],
+        "answer": "State and Local Governments",
+        "explanation": "Police power, which includes the authority to protect public health and safety, is a power reserved to the states under the Tenth Amendment."
+    },
+    {
+        "id": "G82",
+        "text": "The $\\textbf{CARES Act}$ (Coronavirus Aid, Relief, and Economic Security Act) was a massive piece of legislation passed in March 2020. This use of federal funding is primarily justified by Congress’s constitutional power to:",
+        "image": "",
+        "options": [
+            "Approve treaties",
+            "Regulate interstate commerce",
+            "Lay and collect taxes and provide for the general Welfare",
+            "Grant pardons"
+        ],
+        "answer": "Lay and collect taxes and provide for the general Welfare",
+        "explanation": "This provision, often called the 'Spending Clause,' gives Congress the power to tax and spend for national purposes, including economic relief."
+    },
+    {
+        "id": "G83",
+        "text": "The Senate confirmation of Justice Amy Coney Barrett to the Supreme Court in October 2020 is a prominent example of the Senate's role in the system of $\\textbf{Checks and Balances}$ through its power of:",
+        "image": "",
+        "options": [
+            "Impeachment",
+            "Oversight",
+            "Advice and Consent",
+            "Appropriations"
+        ],
+        "answer": "Advice and Consent",
+        "explanation": "The Constitution grants the Senate the power to approve (or reject) presidential appointments, including federal judges and Cabinet secretaries."
+    },
+    {
+        "id": "G84",
+        "text": "Due to the pandemic, many states expanded $\\textbf{absentee ballot}$ and mail-in voting options in 2020. Which entity holds the primary constitutional authority to regulate the time, place, and manner of elections?",
+        "image": "",
+        "options": [
+            "The Federal Election Commission (FEC)",
+            "The U.S. Attorney General",
+            "State Legislatures",
+            "The House Ways and Means Committee"
+        ],
+        "answer": "State Legislatures",
+        "explanation": "Article I, Section 4 gives states the primary authority over elections, subject to Congress's ability to 'make or alter' such regulations."
+    },
+    {
+        "id": "G85",
+        "text": "Large-scale public protests for racial justice in 2020 were primarily protected by the First Amendment right to $\\textbf{peaceably assemble}$, which is considered a fundamental:",
+        "image": "",
+        "options": [
+            "Civil Right",
+            "Expressed Power",
+            "Civil Liberty",
+            "Mandate"
+        ],
+        "answer": "Civil Liberty",
+        "explanation": "Civil liberties are fundamental freedoms protected from government interference (e.g., those listed in the Bill of Rights)."
+    },
+    {
+        "id": "G86",
+        "text": "When President Trump invoked the $\\textbf{Defense Production Act}$ in 2020 to direct private companies to prioritize production of medical supplies, he was using a type of power often considered an $\\textbf{implied power}$ of the President known as:",
+        "image": "",
+        "options": [
+            "The Line-Item Veto",
+            "Executive Privilege",
+            "Judicial Review",
+            "Inherent (Emergency) Power"
+        ],
+        "answer": "Inherent (Emergency) Power",
+        "explanation": "Inherent powers are those claimed by the President that are not explicitly listed in the Constitution but are seen as necessary to fulfill the duties of the office."
+    },
+    {
+        "id": "G87",
+        "text": "The $\\textbf{decennial census}$ was completed in 2020, providing the data necessary for $\\textbf{reapportionment}$. Reapportionment refers to the process of:",
+        "image": "",
+        "options": [
+            "Determining the number of electors each state receives in the Electoral College",
+            "Redrawing congressional district lines",
+            "Re-calculating the national debt limit",
+            "Re-scheduling all federal elections"
+        ],
+        "answer": "Determining the number of electors each state receives in the Electoral College",
+        "explanation": "Reapportionment assigns the number of U.S. Representatives (and thus Electoral Votes) each state gets based on population changes."
+    },
+    {
+        "id": "G88",
+        "text": "The federal government provided $\\textbf{grants-in-aid}$ to states through the CARES Act. These grants are a key feature of $\\textbf{fiscal federalism}$ and serve to:",
+        "image": "",
+        "options": [
+            "Weaken state sovereignty and increase local taxes",
+            "Increase the financial power and influence of the federal government",
+            "Eliminate the need for the Supremacy Clause",
+            "Require states to ratify new constitutional amendments"
+        ],
+        "answer": "Increase the financial power and influence of the federal government",
+        "explanation": "By offering 'free' money with conditions, the federal government encourages states to adopt federal policy goals."
+    },
+    {
+        "id": "G89",
+        "text": "During the 2020 election, the question of whether a President could challenge election results based on state-specific voting rules often centered on the $\\textbf{Equal Protection Clause}$ of the:",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Fifth Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Equal Protection Clause guarantees that no state shall deny to any person within its jurisdiction the equal protection of the laws."
+    },
+    {
+        "id": "G90",
+        "text": "The $\\textbf{Federal Reserve}$ took extraordinary steps in 2020 to stabilize the economy. These actions, which include adjusting interest rates and purchasing assets, are known as:",
+        "image": "",
+        "options": [
+            "Fiscal Policy",
+            "Monetary Policy",
+            "Trade Policy",
+            "Judicial Policy"
+        ],
+        "answer": "Monetary Policy",
+        "explanation": "Monetary policy manages the supply of money and credit and is controlled by the independent Federal Reserve."
+    },
+    {
+        "id": "G91",
+        "text": "As protests occurred across state lines in 2020, federal involvement, such as the deployment of federal law enforcement, was often justified by Congress's power to regulate:",
+        "image": "",
+        "options": [
+            "Eminent Domain",
+            "Writ of Habeas Corpus",
+            "Commerce among the several states",
+            "Bill of Attainder"
+        ],
+        "answer": "Commerce among the several states",
+        "explanation": "The Commerce Clause (Article I, Section 8) is a highly elastic power used to justify broad federal authority, even over seemingly local matters."
+    },
+    {
+        "id": "G92",
+        "text": "Which constitutional amendment became central to the debate over the timing of the Supreme Court vacancy in 2020, as it outlines the process for presidential and vice-presidential disability and vacancy?",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "Twelfth Amendment",
+            "Twenty-Fifth Amendment",
+            "Twenty-Sixth Amendment"
+        ],
+        "answer": "Twenty-Fifth Amendment",
+        "explanation": "While it deals primarily with presidential disability, the highly politicized timing of the vacancy focused attention on all aspects of executive transition and succession."
+    },
+    {
+        "id": "G93",
+        "text": "The largest portion of the federal budget, which includes programs like Social Security and Medicare, and is legally obligated rather than determined by annual appropriations, is called:",
+        "image": "",
+        "options": [
+            "Discretionary Spending",
+            "Mandatory Spending (Entitlements)",
+            "Public Debt",
+            "Tariff Revenue"
+        ]
+    },
+    {
+        "id": "G94",
+        "text": "The $\\textbf{incumbency advantage}$ observed in the 2020 congressional elections refers to the fact that:",
+        "image": "",
+        "options": [
+            "Voter turnout is always highest in presidential election years",
+            "Sitting members of Congress are overwhelmingly re-elected",
+            "Candidates from the minority party always win more seats",
+            "The Supreme Court ruled that term limits are constitutional"
+        ],
+        "answer": "Sitting members of Congress are overwhelmingly re-elected",
+        "explanation": "Incumbents benefit from name recognition, easier fundraising, and franking privileges (free mailing to constituents)."
+    },
+    {
+        "id": "G95",
+        "text": "When state governments sued the federal government over COVID-19 related policies, they were demonstrating the legal principle of $\\textbf{standing}$, which requires the plaintiff to prove:",
+        "image": "",
+        "options": [
+            "They are a member of Congress",
+            "The law is unconstitutional on its face",
+            "They have secured a $10,000 bond",
+            "They have suffered a concrete and particularized injury"
+        ],
+        "answer": "They have suffered a concrete and particularized injury",
+        "explanation": "Standing ensures that courts only handle actual 'Cases and Controversies' as required by Article III of the Constitution."
+    },
+    {
+        "id": "G96",
+        "text": "The media's role in investigating the spending of CARES Act funds by state agencies is an example of the press acting as a:",
+        "image": "",
+        "options": [
+            "Political party coordinator",
+            "Watchdog",
+            "Lobbying firm",
+            "Whip"
+        ],
+        "answer": "Watchdog",
+        "explanation": "The watchdog function of the press involves scrutinizing government actions and exposing misconduct or waste."
+    },
+    {
+        "id": "G97",
+        "text": "The $\\textbf{Electoral College}$ is the mechanism used to select the President. If no candidate receives a majority of electoral votes, the election is decided by the:",
+        "image": "",
+        "options": [
+            "Senate",
+            "Supreme Court",
+            "House of Representatives (with each state delegation casting one vote)",
+            "The popular vote winner"
+        ],
+        "answer": "House of Representatives (with each state delegation casting one vote)",
+        "explanation": "This procedure is outlined in the Twelfth Amendment."
+    },
+    {
+        "id": "G98",
+        "text": "A court case involving a state suing the federal government over the allocation of emergency funds is an example of a dispute falling under:",
+        "image": "",
+        "options": [
+            "Criminal Law",
+            "Administrative Law",
+            "Constitutional Law",
+            "Civil Law"
+        ],
+        "answer": "Constitutional Law",
+        "explanation": "The dispute centers on the legal powers and boundaries defined by the U.S. Constitution and its amendments."
+    },
+    {
+        "id": "G99",
+        "text": "The concept of $\\textbf{political polarization}$, which was highly visible during the 2020 election, refers to:",
+        "image": "",
+        "options": [
+            "The geographic clustering of political parties",
+            "A gradual decrease in campaign spending",
+            "The widening gap in political attitudes between the two major parties",
+            "An increase in the number of third-party candidates"
+        ],
+        "answer": "The widening gap in political attitudes between the two major parties",
+        "explanation": "Polarization means that citizens and elected officials hold increasingly extreme and opposing views, leaving little room for moderate positions."
+    },
+    {
+        "id": "G100",
+        "text": "Which clause of the Constitution ensures that an individual who obtains a driver's license in one state can drive legally in any other state?",
+        "image": "",
+        "options": [
+            "The Necessary and Proper Clause",
+            "The Supremacy Clause",
+            "The Full Faith and Credit Clause",
+            "The Commerce Clause"
+        ],
+        "answer": "The Full Faith and Credit Clause",
+        "explanation": "This clause (Article IV, Section 1) requires states to honor the public acts, records, and judicial proceedings of other states."
+    },
+    {
+        "id": "G101",
+        "text": "The primary role of the $\\textbf{House Rules Committee}$ is to:",
+        "image": "",
+        "options": [
+            "Approve all treaties negotiated by the President",
+            "Track how members are planning to vote (Whip function)",
+            "Set the conditions (e.g., time limits, amendments) for floor debate on a bill",
+            "Manage the federal court system's budget"
+        ],
+        "answer": "Set the conditions (e.g., time limits, amendments) for floor debate on a bill",
+        "explanation": "It is often called the 'traffic cop' of the House, as it controls the flow of legislation to the floor."
+    },
+    {
+        "id": "G102",
+        "text": "The intense media focus on President Trump's travel restrictions early in the pandemic highlighted the ongoing legal tension between the President's power over $\\textbf{foreign policy}$ and the limits imposed by:",
+        "image": "",
+        "options": [
+            "The Twenty-Second Amendment",
+            "The Fifth Amendment's Due Process Clause",
+            "The Seventeenth Amendment",
+            "The Three-Fifths Compromise"
+        ],
+        "answer": "The Fifth Amendment's Due Process Clause",
+        "explanation": "Even in foreign policy, executive actions must still respect the constitutional rights of individuals (Due Process)."
+    },
+    {
+        "id": "G103",
+        "text": "The power of $\\textbf{judicial review}$—the ability of the Supreme Court to declare laws unconstitutional—was originally established in which landmark case?",
+        "image": "",
+        "options": [
+            "*McCulloch v. Maryland* (1819)",
+            "*Marbury v. Madison* (1803)",
+            "*Brown v. Board of Education* (1954)",
+            "*Tinker v. Des Moines* (1969)"
+        ],
+        "answer": "*Marbury v. Madison* (1803)",
+        "explanation": "Though the power is not explicitly in the Constitution, Chief Justice Marshall asserted it in the 1803 ruling."
+    },
+    {
+        "id": "G104",
+        "text": "In the context of the 2020 election, $\\textbf{political efficacy}$ refers to the belief that:",
+        "image": "",
+        "options": [
+            "The government should be run by non-elected officials",
+            "One's vote actually matters and can influence the political process",
+            "All campaign spending should be publicly financed",
+            "The President must consult Congress on all foreign actions"
+        ],
+        "answer": "One's vote actually matters and can influence the political process",
+        "explanation": "Low political efficacy is a common factor associated with low voter turnout."
+    },
+    {
+        "id": "G105",
+        "text": "Which part of the $\\textbf{First Amendment}$ prohibits the government from creating an official religion?",
+        "image": "",
+        "options": [
+            "The Free Exercise Clause",
+            "The Establishment Clause",
+            "The Necessary and Proper Clause",
+            "The Supremacy Clause"
+        ],
+        "answer": "The Establishment Clause",
+        "explanation": "The Establishment Clause prevents the government from establishing a state religion or unduly favoring one religion over others."
+    },
+    {
+        "id": "G106",
+        "text": "Legal challenges to mask mandates often focused on the idea that they restricted an individual's liberty. This constitutional protection of liberty is found primarily in the:",
+        "image": "",
+        "options": [
+            "Third Amendment",
+            "Due Process Clause of the Fifth and Fourteenth Amendments",
+            "Tenth Amendment",
+            "Twentieth Amendment"
+        ],
+        "answer": "Due Process Clause of the Fifth and Fourteenth Amendments",
+        "explanation": "Due process guarantees that the government cannot deprive a person of life, liberty, or property without proper legal procedures."
+    },
+    {
+        "id": "G107",
+        "text": "The primary role of a $\\textbf{lobbyist}$ representing a special interest group in Washington, D.C. is to:",
+        "image": "",
+        "options": [
+            "Serve as a federal judge",
+            "Negotiate treaties with foreign nations",
+            "Persuade elected officials to support or oppose specific legislation or regulations",
+            "Collect taxes for the IRS"
+        ],
+        "answer": "Persuade elected officials to support or oppose specific legislation or regulations",
+        "explanation": "Lobbyists are agents who directly communicate with policymakers on behalf of an interest group."
+    },
+    {
+        "id": "G108",
+        "text": "In the face of the economic crisis in 2020, the federal government ran a large $\\textbf{budget deficit}$, which occurs when:",
+        "image": "",
+        "options": [
+            "Government revenue exceeds expenditures",
+            "Government expenditures exceed revenue in a fiscal year",
+            "The unemployment rate drops below 4%",
+            "The Federal Reserve raises interest rates"
+        ],
+        "answer": "Government expenditures exceed revenue in a fiscal year",
+        "explanation": "Deficits contribute to the national debt, the total amount the government owes."
+    },
+    {
+        "id": "G109",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ is often called the Elastic Clause because it:",
+        "image": "",
+        "options": [
+            "Allows the President to issue unlimited executive orders",
+            "Gives the Supreme Court flexibility in interpreting the Constitution",
+            "Grants Congress implied powers beyond those explicitly enumerated",
+            "Permits states to ignore federal laws during emergencies"
+        ],
+        "answer": "Grants Congress implied powers beyond those explicitly enumerated",
+        "explanation": "The clause gives Congress the means to execute its specifically listed (enumerated) powers, thus stretching its authority."
+    },
+    {
+        "id": "G110",
+        "text": "The principle of $\\textbf{Stare Decisis}$ (let the decision stand) is a judicial concept that emphasizes the importance of:",
+        "image": "",
+        "options": [
+            "Writing clear dissenting opinions",
+            "Following precedent set by previous court decisions",
+            "Hearing cases only with original jurisdiction",
+            "Appointing Justices with bipartisan support"
+        ],
+        "answer": "Following precedent set by previous court decisions",
+        "explanation": "This principle promotes stability and predictability in the legal system, though the Supreme Court can choose to overturn precedent."
+    },
+    {
+        "id": "G111",
+        "text": "The use of $\\textbf{Super PACs}$ in the 2020 election to spend unlimited funds on campaign advertisements, so long as they don't coordinate directly with the candidate, is a result of which Supreme Court ruling?",
+        "image": "",
+        "options": [
+            "*Baker v. Carr* (1962)",
+            "*Marbury v. Madison* (1803)",
+            "*Citizens United v. FEC* (2010)",
+            "*Gideon v. Wainwright* (1963)"
+        ],
+        "answer": "*Citizens United v. FEC* (2010)",
+        "explanation": "This case ruled that money spent on political advocacy is a form of protected speech under the First Amendment."
+    },
+    {
+        "id": "G112",
+        "text": "The $\\textbf{Twenty-Sixth Amendment}$ to the Constitution guarantees the right to vote for all citizens aged:",
+        "image": "",
+        "options": [
+            "16 and older",
+            "18 and older",
+            "21 and older",
+            "14 and older"
+        ],
+        "answer": "18 and older",
+        "explanation": "Passed in 1971, this amendment lowered the voting age from 21 to 18."
+    },
+    {
+        "id": "G113",
+        "text": "The concept of $\\textbf{originalism}$, often associated with conservative judicial philosophy, holds that the Constitution should be interpreted based on:",
+        "image": "",
+        "options": [
+            "Current societal norms and values",
+            "The meaning it had when it was written",
+            "The economic impact of the decision",
+            "The number of states that ratified the amendment"
+        ],
+        "answer": "The meaning it had when it was written",
+        "explanation": "Originalism seeks to understand the text as it was understood by the people who ratified it."
+    },
+    {
+        "id": "G114",
+        "text": "The power of Congress to $\\textbf{impeach}$ a federal official (charge them with a crime) is held exclusively by the:",
+        "image": "",
+        "options": [
+            "Senate",
+            "Supreme Court",
+            "House of Representatives",
+            "Attorney General"
+        ],
+        "answer": "House of Representatives",
+        "explanation": "The House impeaches (indicts); the Senate conducts the trial."
+    },
+    {
+        "id": "G115",
+        "text": "The $\\textbf{Commerce Clause}$ has been a source of expanded federal power because the Supreme Court has interpreted 'commerce' to include:",
+        "image": "",
+        "options": [
+            "Only the exchange of goods between states",
+            "Virtually any economic activity, even within a single state",
+            "Only activities related to taxation",
+            "Any activity mentioned in the Bill of Rights"
+        ],
+        "answer": "Virtually any economic activity, even within a single state",
+        "explanation": "Broad interpretation of the Commerce Clause has allowed the federal government to regulate areas like minimum wage and environmental protection."
+    },
+    {
+        "id": "G116",
+        "text": "The constitutional right to a speedy and public trial is guaranteed by the:",
+        "image": "",
+        "options": [
+            "Second Amendment",
+            "Fourth Amendment",
+            "Sixth Amendment",
+            "Eighth Amendment"
+        ],
+        "answer": "Sixth Amendment",
+        "explanation": "The Sixth Amendment deals primarily with rights related to criminal proceedings, including the right to counsel and to confront witnesses."
+    },
+    {
+        "id": "G117",
+        "text": "The fundamental goal of the $\\textbf{Separation of Powers}$ doctrine, as highlighted by the conflicts between the executive and legislative branches in 2020, is to:",
+        "image": "",
+        "options": [
+            "Concentrate all power in the federal government",
+            "Ensure the passage of all presidential legislation",
+            "Prevent one branch from becoming too powerful",
+            "Make the judiciary subordinate to the legislature"
+        ],
+        "answer": "Prevent one branch from becoming too powerful",
+        "explanation": "By dividing power among the three branches, the Framers intended to prevent tyranny."
+    },
+    {
+        "id": "G118",
+        "text": "The $\\textbf{Due Process Clause}$ applies to the states through the:",
+        "image": "",
+        "options": [
+            "Article I",
+            "Tenth Amendment",
+            "Fourteenth Amendment",
+            "Ninth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The 14th Amendment, adopted after the Civil War, extended the protections of due process and equal protection to apply to state governments."
+    },
+    {
+        "id": "G119",
+        "text": "The legislative tactic used by the minority party in the Senate to prevent a bill from coming to a vote, which was central to debates over election integrity in 2020, is the:",
+        "image": "",
+        "options": [
+            "Pocket Veto",
+            "Cloture",
+            "Filibuster",
+            "Whip Check"
+        ],
+        "answer": "Filibuster",
+        "explanation": "The filibuster is an unlimited debate intended to halt action on a bill. It can only be ended by a cloture motion (requiring 60 votes)."
+    },
+    {
+        "id": "G120",
+        "text": "An $\\textbf{executive order}$ is a formal rule or regulation issued by the President that has the force of law. Its authority is ultimately derived from the President's constitutional duty to:",
+        "image": "",
+        "options": [
+            "Command the Armed Forces",
+            "Veto legislation",
+            "Faithfully execute the laws of the United States",
+            "Appoint ambassadors"
+        ],
+        "answer": "Faithfully execute the laws of the United States",
+        "explanation": "The 'Take Care Clause' (Article II, Section 3) grants the President the necessary authority to administer and enforce the laws passed by Congress."
+    }
+]

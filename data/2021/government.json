@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G41",
+        "text": "In 2021, the Senate held an impeachment trial against a former President. The constitutional power to $\\textbf{impeach}$ an official (charge them with a crime) rests exclusively with the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "House of Representatives",
+            "Senate",
+            "Department of Justice"
+        ],
+        "answer": "House of Representatives",
+        "explanation": "The House holds the sole power of impeachment, while the Senate holds the sole power to try, or conduct the trial for, all impeachments."
+    },
+    {
+        "id": "G42",
+        "text": "Following the 2020 election, the Senate was evenly split 50-50 between the two major parties. Which officeholder’s constitutional role is to cast the tie-breaking vote in the Senate?",
+        "image": "",
+        "options": [
+            "The Speaker of the House",
+            "The Senate Majority Leader",
+            "The President of the Senate (Vice President of the U.S.)",
+            "The President Pro Tempore"
+        ],
+        "answer": "The President of the Senate (Vice President of the U.S.)",
+        "explanation": "Article I, Section 3 of the Constitution grants the Vice President the title of President of the Senate and the authority to vote only to break a tie."
+    },
+    {
+        "id": "G43",
+        "text": "The $\\textbf{American Rescue Plan Act}$ (2021) was a major piece of federal legislation primarily designed to address:",
+        "image": "",
+        "options": [
+            "Climate change and green energy investment",
+            "The economic and public health impact of the COVID-19 pandemic",
+            "The expansion of NATO military alliances",
+            "Campaign finance reform"
+        ],
+        "answer": "The economic and public health impact of the COVID-19 pandemic",
+        "explanation": "This legislation provided funding for vaccines, schools, and direct aid to state and local governments and individuals."
+    },
+    {
+        "id": "G44",
+        "text": "Upon taking office in 2021, President Biden signed numerous $\\textbf{executive orders}$. The constitutional basis for this presidential power is found in the Take Care Clause, which states the President must:",
+        "image": "",
+        "options": [
+            "Receive two-thirds Senate approval for all policy changes",
+            "Faithfully execute the laws of the United States",
+            "Seek prior consent from the Speaker of the House",
+            "Consult the Supreme Court on all domestic policy"
+        ],
+        "answer": "Faithfully execute the laws of the United States",
+        "explanation": "The 'Take Care Clause' (Article II, Section 3) is interpreted as granting the President the necessary discretion and tools (like executive orders) to carry out the will of Congress."
+    },
+    {
+        "id": "G45",
+        "text": "The joint session of Congress that certifies the $\\textbf{Electoral College}$ vote is required under the:",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Twelfth Amendment",
+            "Twenty-Second Amendment",
+            "Tenth Amendment"
+        ],
+        "answer": "Twelfth Amendment",
+        "explanation": "The 12th Amendment outlines the procedure for electing the President and Vice President, requiring the votes to be certified before a joint session of Congress."
+    },
+    {
+        "id": "G46",
+        "text": "The $\\textbf{cloture}$ rule in the Senate is the procedural mechanism used to:",
+        "image": "",
+        "options": [
+            "Introduce a new bill",
+            "End a filibuster and bring a bill to a vote",
+            "Override a presidential veto",
+            "Approve a treaty"
+        ],
+        "answer": "End a filibuster and bring a bill to a vote",
+        "explanation": "Cloture requires 60 senators to vote in favor and was central to debates over voting rights legislation in 2021."
+    },
+    {
+        "id": "G47",
+        "text": "The $\\textbf{budget reconciliation}$ process is a special legislative tool used by Congress to circumvent the Senate filibuster, but it can only be used for legislation that directly affects:",
+        "image": "",
+        "options": [
+            "National security policy",
+            "Treaties and foreign policy",
+            "Spending, revenues, and the federal debt limit",
+            "Constitutional amendments"
+        ],
+        "answer": "Spending, revenues, and the federal debt limit",
+        "explanation": "Used for the American Rescue Plan and portions of the infrastructure/social spending bills, reconciliation is limited by the Byrd Rule, which restricts non-fiscal policy changes."
+    },
+    {
+        "id": "G48",
+        "text": "In 2021, disputes over COVID-19 safety measures, such as mask and vaccine mandates, highlighted the tension between federal health guidelines and the $\\textbf{police power}$ reserved to the:",
+        "image": "",
+        "options": [
+            "President",
+            "States",
+            "Supreme Court",
+            "U.S. Military"
+        ],
+        "answer": "States",
+        "explanation": "Police power—the state’s authority to enact laws to protect public health, safety, and welfare—is a key reserved power under the Tenth Amendment."
+    },
+    {
+        "id": "G49",
+        "text": "The Supreme Court’s use of the $\\textbf{shadow docket}$ involves:",
+        "image": "",
+        "options": [
+            "Hearing cases exclusively on the history of the Constitution",
+            "Making decisions quickly and informally, often without full briefing or oral arguments",
+            "The review of only state-level court decisions",
+            "Trials involving classified national security information"
+        ],
+        "answer": "Making decisions quickly and informally, often without full briefing or oral arguments",
+        "explanation": "The shadow docket was prominently used in 2021 to handle emergency appeals, notably concerning the Texas law S.B. 8 and eviction moratoriums."
+    },
+    {
+        "id": "G50",
+        "text": "The $\\textbf{Occupational Safety and Health Administration (OSHA)}$, an agency within the federal bureaucracy, attempted to impose an employer vaccine mandate in 2021. This action is an example of an agency exercising its $\\textbf{delegated authority}$ for:",
+        "image": "",
+        "options": [
+            "Lobbying",
+            "Legislative oversight",
+            "Rule-making or regulation",
+            "Judicial review"
+        ],
+        "answer": "Rule-making or regulation",
+        "explanation": "Agencies create detailed regulations to implement broad laws passed by Congress; this is their primary mechanism for executing policy."
+    },
+    {
+        "id": "G51",
+        "text": "Which clause of the $\\textbf{Fourteenth Amendment}$ was the central basis for major congressional debates in 2021 regarding federal voting rights legislation?",
+        "image": "",
+        "options": [
+            "The Commerce Clause",
+            "The Due Process Clause",
+            "The Necessary and Proper Clause",
+            "The Equal Protection Clause"
+        ],
+        "answer": "The Equal Protection Clause",
+        "explanation": "Voting rights bills often invoke the Equal Protection Clause to argue that state laws creating barriers to voting discriminate against certain groups of citizens."
+    },
+    {
+        "id": "G52",
+        "text": "The $\\textbf{Bipartisan Infrastructure Law}$ (2021) primarily involves a major increase in $\\textbf{discretionary spending}$ for:",
+        "image": "",
+        "options": [
+            "Entitlement programs like Social Security",
+            "Military operations overseas",
+            "Traditional public works like roads, bridges, and broadband internet",
+            "Interest payments on the national debt"
+        ],
+        "answer": "Traditional public works like roads, bridges, and broadband internet",
+        "explanation": "Discretionary spending is funding that Congress can decide to spend or not spend each year, unlike mandatory spending (entitlements)."
+    },
+    {
+        "id": "G53",
+        "text": "When the Senate is debating a highly controversial bill, such as a major voting rights act, a Senator who speaks for a prolonged period to prevent a vote is using the tactic known as a:",
+        "image": "",
+        "options": [
+            "Whip check",
+            "Cloture motion",
+            "Filibuster",
+            "Conference report"
+        ],
+        "answer": "Filibuster",
+        "explanation": "The filibuster is a tool of the minority in the Senate to delay or block a vote, which was used heavily in 2021."
+    },
+    {
+        "id": "G54",
+        "text": "The House Select Committee investigating the January 6th attack exercised which power over the executive branch by issuing subpoenas for records and testimony?",
+        "image": "",
+        "options": [
+            "Judicial review",
+            "Oversight and investigation",
+            "Confirmation",
+            "Appropriations"
+        ],
+        "answer": "Oversight and investigation",
+        "explanation": "Congressional oversight is the review, monitoring, and supervision of federal agencies, programs, and policy implementation, which includes the power to investigate."
+    },
+    {
+        "id": "G55",
+        "text": "The confirmation process for Cabinet secretaries and federal judges appointed by the President requires a simple majority vote in the:",
+        "image": "",
+        "options": [
+            "House of Representatives",
+            "Federal Bureau of Investigation (FBI)",
+            "Senate",
+            "Electoral College"
+        ],
+        "answer": "Senate",
+        "explanation": "The Senate exercises the constitutional power of 'advice and consent' over major presidential appointments."
+    },
+    {
+        "id": "G56",
+        "text": "Which First Amendment protection protects an individual’s right to burn a flag or wear a protest armband?",
+        "image": "",
+        "options": [
+            "Freedom of the Press",
+            "Freedom of Assembly",
+            "Symbolic Speech",
+            "Establishment Clause"
+        ],
+        "answer": "Symbolic Speech",
+        "explanation": "Symbolic speech is nonverbal communication, protected by the First Amendment, as established in cases like *Tinker v. Des Moines* and *Texas v. Johnson*."
+    },
+    {
+        "id": "G57",
+        "text": "In challenging the Texas abortion law S.B. 8, a major legal hurdle was determining if plaintiffs had $\\textbf{standing}$ to sue. This requirement means the plaintiff must demonstrate:",
+        "image": "",
+        "options": [
+            "They are a state government official",
+            "They have suffered a concrete and particularized injury",
+            "They have secured a $1 million bond",
+            "They have previously won a case in a lower court"
+        ],
+        "answer": "They have suffered a concrete and particularized injury",
+        "explanation": "Standing is a requirement derived from Article III, which limits federal judicial power to actual 'Cases' and 'Controversies.' Plaintiffs must show direct harm."
+    },
+    {
+        "id": "G58",
+        "text": "The $\\textbf{Ways and Means Committee}$ is one of the most powerful committees in the House of Representatives because it has jurisdiction over:",
+        "image": "",
+        "options": [
+            "All matters of foreign policy and treaties",
+            "Federal taxation, tariffs, and revenue measures",
+            "The appointment of all federal judges",
+            "Setting the rules for floor debate"
+        ],
+        "answer": "Federal taxation, tariffs, and revenue measures",
+        "explanation": "Revenue bills must originate in the House, and the Ways and Means Committee controls all legislation related to raising money for the government."
+    },
+    {
+        "id": "G59",
+        "text": "Which constitutional amendment addresses the circumstances under which the Vice President and a majority of the Cabinet can declare the President unable to discharge the duties of the office?",
+        "image": "",
+        "options": [
+            "Twelfth Amendment",
+            "Twenty-Fifth Amendment",
+            "Seventeenth Amendment",
+            "Twenty-Sixth Amendment"
+        ],
+        "answer": "Twenty-Fifth Amendment",
+        "explanation": "Section 4 of the 25th Amendment provides the mechanism for addressing presidential disability, which was discussed following the events of January 2021."
+    },
+    {
+        "id": "G60",
+        "text": "The primary role of the $\\textbf{Attorney General}$ as head of the Department of Justice is to:",
+        "image": "",
+        "options": [
+            "Serve as the President's chief diplomat in foreign affairs",
+            "Manage the federal budget and spending proposals",
+            "Serve as the chief law enforcement officer of the federal government",
+            "Advise the President on economic and monetary policy"
+        ],
+        "answer": "Serve as the chief law enforcement officer of the federal government",
+        "explanation": "The Attorney General advises the President and Congress on legal matters and oversees federal law enforcement agencies like the FBI."
+    },
+    {
+        "id": "G61",
+        "text": "When the President vetoes a bill passed by Congress, this is an example of the constitutional principle of $\\textbf{Checks and Balances}$. Which action represents a check by Congress on that veto?",
+        "image": "",
+        "options": [
+            "Sending the bill back to the Supreme Court",
+            "Re-passing the bill with a two-thirds vote in both chambers",
+            "Issuing an executive order to nullify the veto",
+            "Impeaching the President"
+        ],
+        "answer": "Re-passing the bill with a two-thirds vote in both chambers",
+        "explanation": "A two-thirds majority vote in both the House and the Senate is required to override a presidential veto."
+    },
+    {
+        "id": "G62",
+        "text": "The difference between $\\textbf{civil liberties}$ and $\\textbf{civil rights}$ is that civil rights refer to:",
+        "image": "",
+        "options": [
+            "Protections against government actions (Bill of Rights)",
+            "The right to life, liberty, and property",
+            "The freedom to practice religion",
+            "Government obligations to protect citizens from discrimination"
+        ],
+        "answer": "Government obligations to protect citizens from discrimination",
+        "explanation": "Civil liberties are freedoms *from* government interference; civil rights are protections *by* the government to ensure equal treatment under the law."
+    },
+    {
+        "id": "G63",
+        "text": "In a legal conflict between a federal law and a state law, the federal law must prevail due to the $\\textbf{Supremacy Clause}$ located in:",
+        "image": "",
+        "options": [
+            "The First Amendment",
+            "Article I",
+            "Article VI",
+            "The Tenth Amendment"
+        ],
+        "answer": "Article VI",
+        "explanation": "Article VI establishes that the Constitution and federal laws made pursuant to it are the supreme Law of the Land."
+    },
+    {
+        "id": "G64",
+        "text": "In 2021, with the President from one party and control of both houses of Congress (though by very narrow margins) by that same party, the government was considered:",
+        "image": "",
+        "options": [
+            "Divided government",
+            "Unified government",
+            "Lame-duck government",
+            "Confederal government"
+        ],
+        "answer": "Unified government",
+        "explanation": "Unified government exists when the same party controls the Presidency and both houses of Congress. The narrow margins do not change this classification."
+    },
+    {
+        "id": "G65",
+        "text": "In the House of Representatives, the primary role of the $\\textbf{Whip}$ is to:",
+        "image": "",
+        "options": [
+            "Lead the floor debates on major bills",
+            "Track how members are planning to vote and persuade them to support the party's position",
+            "Preside over the House when the Speaker is absent",
+            "Approve all revenue bills before they go to the floor"
+        ],
+        "answer": "Track how members are planning to vote and persuade them to support the party's position",
+        "explanation": "Whips are critical in enforcing party discipline and ensuring high-priority legislation passes."
+    },
+    {
+        "id": "G66",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Article I, Section 8) is often used to justify federal action in areas like health and education because it grants Congress the power to:",
+        "image": "",
+        "options": [
+            "Veto state legislation",
+            "Establish a national bank",
+            "Make all laws which shall be necessary and proper for carrying into execution its enumerated powers",
+            "Regulate commerce with foreign nations and among the states"
+        ],
+        "answer": "Make all laws which shall be necessary and proper for carrying into execution its enumerated powers",
+        "explanation": "Also known as the Elastic Clause, it grants Congress implied powers beyond those explicitly listed in the Constitution."
+    },
+    {
+        "id": "G67",
+        "text": "Federal spending that Congress must approve each year through the appropriations process, such as funding for the military or national parks, is known as:",
+        "image": "",
+        "options": [
+            "Mandatory spending",
+            "Entitlement spending",
+            "Discretionary spending",
+            "Supplemental spending"
+        ],
+        "answer": "Discretionary spending",
+        "explanation": "Discretionary spending is funding that is debated and determined by Congress annually, unlike mandatory spending (Social Security, Medicare), which is fixed by law."
+    },
+    {
+        "id": "G68",
+        "text": "A $\\textbf{federal mandate}$ refers to:",
+        "image": "",
+        "options": [
+            "A Presidential decree that creates a new Cabinet department",
+            "A rule or order from the federal government that states must comply with",
+            "A policy passed by a simple majority in Congress",
+            "An advisory opinion from the Supreme Court"
+        ],
+        "answer": "A rule or order from the federal government that states must comply with",
+        "explanation": "Mandates, such as environmental regulations or COVID safety requirements, are obligations imposed by the federal government on state and local governments."
+    },
+    {
+        "id": "G69",
+        "text": "An $\\textbf{amicus curiae}$ (friend of the court) brief is a document submitted to the Supreme Court by:",
+        "image": "",
+        "options": [
+            "A lower court judge requesting a ruling",
+            "The solicitor general only",
+            "An interested party or group that is not directly involved in the lawsuit",
+            "The plaintiff's attorney after oral arguments"
+        ],
+        "answer": "An interested party or group that is not directly involved in the lawsuit",
+        "explanation": "Interest groups and advocacy organizations frequently use *amicus curiae* briefs to influence the Court's decision by providing additional information and legal arguments."
+    },
+    {
+        "id": "G70",
+        "text": "Which activity is considered the primary means by which $\\textbf{interest groups}$ influence the legislative process, such as the debate over the Bipartisan Infrastructure Law?",
+        "image": "",
+        "options": [
+            "Ratifying treaties",
+            "Lobbying Congress and government agencies",
+            "Impeaching the President",
+            "Appointing federal judges"
+        ],
+        "answer": "Lobbying Congress and government agencies",
+        "explanation": "Lobbying involves direct contact with policymakers to persuade them to support or oppose specific legislation or regulations."
+    },
+    {
+        "id": "G71",
+        "text": "The $\\textbf{pocket veto}$ is a special presidential power that can only be used when:",
+        "image": "",
+        "options": [
+            "The President and Congress are from the same political party",
+            "Congress is adjourned and cannot override the veto",
+            "The bill involves foreign policy",
+            "The bill was passed by a two-thirds majority"
+        ],
+        "answer": "Congress is adjourned and cannot override the veto",
+        "explanation": "If the President takes no action on a bill and Congress adjourns within the 10-day review period, the bill is effectively vetoed without the possibility of an override."
+    },
+    {
+        "id": "G72",
+        "text": "The constitutional right of $\\textbf{Habeas Corpus}$ guarantees that individuals cannot be held in custody indefinitely without:",
+        "image": "",
+        "options": [
+            "A trial by jury",
+            "Being informed of the specific charges against them",
+            "The right to an attorney",
+            "The right to remain silent"
+        ],
+        "answer": "Being informed of the specific charges against them",
+        "explanation": "Latin for 'you may have the body,' it is a court order demanding that an individual in custody be brought into court and shown the cause for their detention."
+    },
+    {
+        "id": "G73",
+        "text": "The Supreme Court has $\\textbf{original jurisdiction}$ in cases:",
+        "image": "",
+        "options": [
+            "That involve a writ of certiorari",
+            "Involving ambassadors, other public ministers, and those in which a state is a party",
+            "That arise under the Constitution and federal laws",
+            "That are only heard during the 'shadow docket'"
+        ],
+        "answer": "Involving ambassadors, other public ministers, and those in which a state is a party",
+        "explanation": "Original jurisdiction means the court is the first to hear the case, not an appeals court. This is defined in Article III of the Constitution."
+    },
+    {
+        "id": "G74",
+        "text": "A court case involving a dispute between two private parties or organizations (such as a contract dispute or personal injury claim) is an example of:",
+        "image": "",
+        "options": [
+            "Public law",
+            "Civil law",
+            "Criminal law",
+            "Constitutional law"
+        ],
+        "answer": "Civil law",
+        "explanation": "Civil law deals with disputes between private parties, whereas criminal law involves offenses against the public/state."
+    },
+    {
+        "id": "G75",
+        "text": "The $\\textbf{Full Faith and Credit Clause}$ of the Constitution ensures that:",
+        "image": "",
+        "options": [
+            "All states have the same tax rates",
+            "All contracts and judicial acts of one state are honored by all other states",
+            "The federal government must honor all state debts",
+            "Congress has the power to regulate interstate commerce"
+        ],
+        "answer": "All contracts and judicial acts of one state are honored by all other states",
+        "explanation": "This clause promotes unity among the states by requiring them to respect the public acts, records, and judicial proceedings of every other state."
+    },
+    {
+        "id": "G76",
+        "text": "Powers not given to the federal government, nor forbidden to the states, are retained by the states or the people. This concept is confirmed by the:",
+        "image": "",
+        "options": [
+            "Supremacy Clause",
+            "Tenth Amendment (Reserved Powers Clause)",
+            "Preamble",
+            "Fifth Amendment"
+        ],
+        "answer": "Tenth Amendment (Reserved Powers Clause)",
+        "explanation": "The 10th Amendment is the source of the states' police power and is a foundational principle of American federalism."
+    },
+    {
+        "id": "G77",
+        "text": "The President's claim of $\\textbf{executive privilege}$ is the power to:",
+        "image": "",
+        "options": [
+            "Declare a national emergency without Congress",
+            "Withhold information from Congress or the judiciary",
+            "Veto legislation using a line-item veto",
+            "Appoint ambassadors without Senate consent"
+        ],
+        "answer": "Withhold information from Congress or the judiciary",
+        "explanation": "This is an implied power that allows the executive branch to resist subpoenas and demands for information in the interest of national security or efficient executive operation."
+    },
+    {
+        "id": "G78",
+        "text": "When Congress grants broad discretion to an agency like the Environmental Protection Agency (EPA) to implement and enforce environmental laws, it is exercising its power of:",
+        "image": "",
+        "options": [
+            "Judicial review",
+            "Delegation of legislative authority",
+            "Executive pardon",
+            "Treaty negotiation"
+        ],
+        "answer": "Delegation of legislative authority",
+        "explanation": "Congress delegates its authority to the bureaucracy because the agencies have the necessary expertise and time to handle complex policy implementation details."
+    },
+    {
+        "id": "G79",
+        "text": "The $\\textbf{Free Exercise Clause}$ of the First Amendment was at the center of legal challenges in 2021 regarding individuals' objections to vaccine and mask mandates based on:",
+        "image": "",
+        "options": [
+            "Commercial speech rights",
+            "Religious freedom",
+            "The right to assembly",
+            "The right to bear arms"
+        ],
+        "answer": "Religious freedom",
+        "explanation": "The Free Exercise Clause protects a citizen's right to practice their religion without undue government interference."
+    },
+    {
+        "id": "G80",
+        "text": "Independent regulatory agencies, such as the Federal Communications Commission (FCC) and the Securities and Exchange Commission (SEC), are designed to be largely free from $\\textbf{direct control}$ by the:",
+        "image": "",
+        "options": [
+            "State governments",
+            "Judicial branch",
+            "Executive branch and the President",
+            "The American public"
+        ],
+        "answer": "Executive branch and the President",
+        "explanation": "They are structured to operate independently to ensure continuity and non-political expertise in complex regulatory areas."
+    }
+]

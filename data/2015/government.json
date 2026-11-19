@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G281",
+        "text": "The landmark 2015 Supreme Court case $\\textbf{Obergefell v. Hodges}$ legalized same-sex marriage nationwide. The Court based its decision primarily on the $\\textbf{Due Process Clause}$ and the $\\textbf{Equal Protection Clause}$ of which amendment?",
+        "image": "",
+        "options": [
+            "Tenth Amendment",
+            "First Amendment",
+            "Fourteenth Amendment",
+            "Fifth Amendment"
+        ],
+        "answer": "Fourteenth Amendment",
+        "explanation": "The Fourteenth Amendment contains both the Due Process and Equal Protection Clauses, which the Court held guarantee the right to marry as a fundamental liberty."
+    },
+    {
+        "id": "G282",
+        "text": "In the case $\\textbf{King v. Burwell}$ (2015), the Supreme Court upheld federal subsidies for the ACA, even for plans purchased on exchanges established by the $\\textbf{federal government}$ rather than states. This case was primarily an exercise in judicial:",
+        "image": "",
+        "options": [
+            "Review of Presidential pardons",
+            "Statutory interpretation (interpreting the meaning of a law)",
+            "Review of international treaties",
+            "Approval of constitutional amendments"
+        ],
+        "answer": "Statutory interpretation (interpreting the meaning of a law)",
+        "explanation": "The case required the Court to interpret the specific wording of the ACA to determine if federal exchanges could offer subsidies."
+    },
+    {
+        "id": "G283",
+        "text": "The $\\textbf{Affordable Care Act (ACA)}$ relies heavily on the use of $\\textbf{coercive federalism}$, which involves the federal government requiring states to comply with federal standards, often through the use of:",
+        "image": "",
+        "options": [
+            "Executive agreements",
+            "Unfunded mandates and conditional funding",
+            "Treaties and alliances",
+            "Writ of habeas corpus"
+        ],
+        "answer": "Unfunded mandates and conditional funding",
+        "explanation": "Coercive federalism uses mandates and the 'strings' attached to categorical grants to compel state action."
+    },
+    {
+        "id": "G284",
+        "text": "Following the $\\textit{Obergefell}$ decision, the concept of $\\textbf{full faith and credit}$ (Article IV) required states to:",
+        "image": "",
+        "options": [
+            "Fund the federal debt",
+            "Allow the federal government to collect state taxes",
+            "Recognize the valid public acts and marriages of other states",
+            "Elect the President by popular vote"
+        ],
+        "answer": "Recognize the valid public acts and marriages of other states",
+        "explanation": "The Full Faith and Credit Clause requires states to honor the legal proceedings, including marriages, from other states."
+    },
+    {
+        "id": "G285",
+        "text": "In response to government surveillance revealed in previous years, the $\\textbf{USA Freedom Act}$ was passed in 2015. This legislation primarily addressed concerns related to the $\\textbf{Fourth Amendment}$ protection against:",
+        "image": "",
+        "options": [
+            "Excessive bail",
+            "Unreasonable searches and seizures",
+            "Double jeopardy",
+            "Self-incrimination"
+        ],
+        "answer": "Unreasonable searches and seizures",
+        "explanation": "The USA Freedom Act put new limits on the bulk collection of telecommunication metadata, addressing privacy concerns under the Fourth Amendment."
+    },
+    {
+        "id": "G286",
+        "text": "Executive action on $\\textbf{immigration}$ (DAPA/DACA) in 2015 faced immediate court challenges. Opponents argued the President was exceeding his authority by engaging in $\\textbf{quasi-legislative}$ behavior, which means:",
+        "image": "",
+        "options": [
+            "He was declaring war",
+            "He was effectively creating a new law without Congress",
+            "He was impeaching a judge",
+            "He was negotiating a treaty"
+        ],
+        "answer": "He was effectively creating a new law without Congress",
+        "explanation": "Quasi-legislative power refers to the executive or bureaucracy performing a function typically reserved for the legislative branch."
+    },
+    {
+        "id": "G287",
+        "text": "The $\\textbf{Twenty-Fourth Amendment}$ eliminated the $\\textbf{poll tax}$, which was historically used in many Southern states primarily to prevent $\\textbf{low-income}$ and $\\textbf{minority}$ citizens from exercising their right to:",
+        "image": "",
+        "options": [
+            "Petition the government",
+            "Vote",
+            "Due process",
+            "Bear arms"
+        ],
+        "answer": "Vote",
+        "explanation": "Poll taxes were one of several measures used to suppress voter turnout among African Americans and the poor."
+    },
+    {
+        "id": "G288",
+        "text": "In the $\\textbf{House of Representatives}$, bills must pass through the $\\textbf{Rules Committee}$ before reaching the floor for debate. This committee's power is critical because it:",
+        "image": "",
+        "options": [
+            "Appoints all Supreme Court Justices",
+            "Determines the length of debate and types of amendments allowed",
+            "Vetoes presidential actions",
+            "Manages the federal debt"
+        ],
+        "answer": "Determines the length of debate and types of amendments allowed",
+        "explanation": "The Rules Committee is often called the 'traffic cop' of the House, giving the majority party immense control over legislation."
+    },
+    {
+        "id": "G289",
+        "text": "The $\\textbf{establishment clause}$ of the First Amendment is often tested in cases involving $\\textbf{religious displays}$ on government property. The test used by the courts often seeks to ensure the display has a primary $\\textbf{secular}$ purpose and does not:",
+        "image": "",
+        "options": [
+            "Violate the Eighth Amendment",
+            "Cause excessive political debate",
+            "Excessively endorse or inhibit religion",
+            "Interfere with interstate commerce"
+        ],
+        "answer": "Excessively endorse or inhibit religion",
+        "explanation": "This ties directly to the Lemon Test, which prevents government from creating an 'excessive entanglement' with religion."
+    },
+    {
+        "id": "G290",
+        "text": "The principle of $\\textbf{stare decisis}$ is fundamental to the judiciary and means that judges should:",
+        "image": "",
+        "options": [
+            "Appoint new judges",
+            "Translate Latin legal terms",
+            "Rely on precedent (prior decisions) when deciding cases",
+            "Always rule in favor of the federal government"
+        ],
+        "answer": "Rely on precedent (prior decisions) when deciding cases",
+        "explanation": "Stare decisis ('let the decision stand') promotes stability and predictability in the legal system."
+    },
+    {
+        "id": "G291",
+        "text": "The $\\textbf{Medicaid}$ program, which provides health care for the poor, is a classic example of $\\textbf{cooperative federalism}$ because it is funded by the $\\textbf{national}$ government but primarily administered by the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "State governments",
+            "Federal Reserve",
+            "Private insurance companies"
+        ],
+        "answer": "State governments",
+        "explanation": "Cooperative federalism involves shared policy responsibilities between the federal and state governments."
+    },
+    {
+        "id": "G292",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Article I, Section 8) is the source of Congress's $\\textbf{implied powers}$. A key precedent defining this clause is $\\textit{McCulloch v. Maryland}$ (1819), which established the supremacy of federal law and the legality of:",
+        "image": "",
+        "options": [
+            "Judicial review",
+            "Creating a national bank",
+            "The Electoral College",
+            "The power to veto"
+        ],
+        "answer": "Creating a national bank",
+        "explanation": "The Court ruled that the power to create a bank was 'necessary and proper' to fulfill Congress's delegated powers."
+    },
+    {
+        "id": "G293",
+        "text": "The $\\textbf{incumbency advantage}$ is often greater in the House of Representatives than in the Senate due to factors like:",
+        "image": "",
+        "options": [
+            "Shorter terms for Senators",
+            "Less media coverage of the House, giving incumbents an edge",
+            "Smaller, more homogeneous districts",
+            "The Senate's power of advice and consent"
+        ],
+        "answer": "Smaller, more homogeneous districts",
+        "explanation": "House districts are often drawn to favor one party, making them safer seats for incumbents, whereas Senators must win statewide majorities."
+    },
+    {
+        "id": "G294",
+        "text": "A $\\textbf{lobbyist}$ representing a major corporation works to influence Congress by directly meeting with legislators and providing $\\textbf{technical information}$ about potential bills. This is an example of:",
+        "image": "",
+        "options": [
+            "Grassroots lobbying",
+            "Inside lobbying",
+            "Iron Triangle enforcement",
+            "Judicial activism"
+        ],
+        "answer": "Inside lobbying",
+        "explanation": "Inside lobbying involves direct contact with policymakers, often providing information, drafting legislation, or testifying at hearings."
+    },
+    {
+        "id": "G295",
+        "text": "In the $\\textbf{federal bureaucracy}$, the function of $\\textbf{discretionary authority}$ allows agencies to:",
+        "image": "",
+        "options": [
+            "Appoint Supreme Court justices",
+            "Choose which candidates to support in elections",
+            "Choose how to implement vague laws passed by Congress",
+            "Veto legislation"
+        ],
+        "answer": "Choose how to implement vague laws passed by Congress",
+        "explanation": "Congress often passes broad laws, leaving the details and implementation choices (discretion) to the experts in the agencies."
+    },
+    {
+        "id": "G296",
+        "text": "The $\\textbf{Bill of Rights}$ was originally written to protect citizens from the abuses of the $\\textbf{federal}$ government. The $\\textbf{incorporation doctrine}$ later extended these protections to cover:",
+        "image": "",
+        "options": [
+            "Foreign governments",
+            "The state governments",
+            "Political parties",
+            "The Cabinet"
+        ],
+        "answer": "The state governments",
+        "explanation": "The Supreme Court used the Fourteenth Amendment's Due Process Clause for selective incorporation, applying most of the Bill of Rights to the states."
+    },
+    {
+        "id": "G297",
+        "text": "The constitutional requirement that all revenue bills (taxing bills) must originate in the $\\textbf{House of Representatives}$ is based on the Framers' belief that the body closest to the people should initiate:",
+        "image": "",
+        "options": [
+            "War declarations",
+            "Judicial nominations",
+            "Spending and taxing decisions",
+            "Treaty negotiations"
+        ],
+        "answer": "Spending and taxing decisions",
+        "explanation": "Article I, Section 7, mandates that all bills for raising revenue originate in the House (the 'people's house')."
+    },
+    {
+        "id": "G298",
+        "text": "The concept of $\\textbf{devolution}$ in federalism, popular among conservatives in the mid-2010s, involves the transfer of powers and responsibilities from the $\\textbf{federal}$ government to:",
+        "image": "",
+        "options": [
+            "The United Nations",
+            "The Supreme Court",
+            "State and local governments",
+            "International corporations"
+        ],
+        "answer": "State and local governments",
+        "explanation": "Devolution seeks to give state and local governments greater autonomy in policy implementation."
+    },
+    {
+        "id": "G299",
+        "text": "The $\\textbf{Writ of Certiorari}$ is the mechanism by which the Supreme Court selects cases to hear. The Court typically grants $\\textbf{cert}$ based on the $\\textbf{Rule of Four}$, meaning:",
+        "image": "",
+        "options": [
+            "At least four justices must agree to hear the case",
+            "The case must involve four different states",
+            "The case must be heard in four separate sessions",
+            "The lawyers must have four years of experience"
+        ],
+        "answer": "At least four justices must agree to hear the case",
+        "explanation": "The Rule of Four ensures that the majority cannot block a minority of justices from bringing important issues before the Court."
+    },
+    {
+        "id": "G300",
+        "text": "The $\\textbf{media's role}$ as a $\\textbf{watchdog}$ is crucial for democracy. This function is defined by the media's capacity to:",
+        "image": "",
+        "options": [
+            "Endorse political candidates",
+            "Serve as the official voice of the President",
+            "Investigate and expose governmental misconduct or corruption",
+            "Draft legislation"
+        ],
+        "answer": "Investigate and expose governmental misconduct or corruption",
+        "explanation": "The watchdog role maintains government accountability and transparency."
+    },
+    {
+        "id": "G301",
+        "text": "The constitutional power of $\\textbf{impeachment}$ is initiated by the $\\textbf{House of Representatives}$ and requires a simple majority vote. The actual trial and removal of the official occurs in the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "Senate",
+            "Electoral College",
+            "State Legislatures"
+        ],
+        "answer": "Senate",
+        "explanation": "The House brings the charges, and the Senate conducts the trial, requiring a two-thirds vote for conviction and removal."
+    },
+    {
+        "id": "G302",
+        "text": "The concept of $\\textbf{selective incorporation}$ made the protections of the Bill of Rights applicable to the states through which part of the Fourteenth Amendment?",
+        "image": "",
+        "options": [
+            "The Equal Protection Clause",
+            "The Due Process Clause",
+            "The Citizenship Clause",
+            "The Commerce Clause"
+        ],
+        "answer": "The Due Process Clause",
+        "explanation": "The Supreme Court reasoned that state governments must provide 'due process' before infringing upon fundamental liberties protected by the Bill of Rights."
+    },
+    {
+        "id": "G303",
+        "text": "In 2015, the $\\textbf{Republican Party}$ controlled both the House and the Senate. A period where the President belongs to one party and one or both houses of Congress are controlled by the opposing party is called:",
+        "image": "",
+        "options": [
+            "Unified government",
+            "Divided government",
+            "Confederate government",
+            "Parliamentary system"
+        ],
+        "answer": "Divided government",
+        "explanation": "Divided government often leads to legislative gridlock and increased reliance on executive orders."
+    },
+    {
+        "id": "G304",
+        "text": "The $\\textbf{Free Exercise Clause}$ protects religious practices, but the courts allow the government to restrict practices if they violate:",
+        "image": "",
+        "options": [
+            "The President's stated policy goals",
+            "A person's right to free speech",
+            "Criminal laws that are generally applicable and neutral",
+            "The rule of *stare decisis*"
+        ],
+        "answer": "Criminal laws that are generally applicable and neutral",
+        "explanation": "Religious freedom does not allow individuals to violate laws like those against drug use or child labor, provided the laws do not specifically target a religion."
+    },
+    {
+        "id": "G305",
+        "text": "The primary goal of $\\textbf{Political Action Committees (PACs)}$ is to:",
+        "image": "",
+        "options": [
+            "Manage the federal budget",
+            "Raise money for a candidate, party, or specific political issue",
+            "Nominate the Vice President",
+            "Declare war"
+        ],
+        "answer": "Raise money for a candidate, party, or specific political issue",
+        "explanation": "PACs are the political fundraising arm of interest groups."
+    },
+    {
+        "id": "G306",
+        "text": "The constitutional provision that guarantees the rights of the states to have powers not delegated to the federal government is the:",
+        "image": "",
+        "options": [
+            "Commerce Clause",
+            "Elastic Clause",
+            "Ninth Amendment",
+            "Tenth Amendment"
+        ],
+        "answer": "Tenth Amendment",
+        "explanation": "The Tenth Amendment reserves powers to the states, forming the basis of American federalism."
+    },
+    {
+        "id": "G307",
+        "text": "A $\\textbf{pocket veto}$ can only be used by the President when Congress:",
+        "image": "",
+        "options": [
+            "Is actively debating the bill",
+            "Is in session and has more than 10 days left",
+            "Has adjourned (ended) its session within 10 days of the bill's submission",
+            "Has overridden a previous veto"
+        ],
+        "answer": "Has adjourned (ended) its session within 10 days of the bill's submission",
+        "explanation": "If Congress adjourns, the President can simply not sign the bill, and it dies without the possibility of an override."
+    },
+    {
+        "id": "G308",
+        "text": "The $\\textbf{Judicial Branch's}$ weakness is that it lacks the power to enforce its own decisions, relying on the $\\textbf{Executive Branch}$ to ensure compliance. This is a crucial element of:",
+        "image": "",
+        "options": [
+            "Eminent Domain",
+            "Separation of Powers",
+            "Partisan Politics",
+            "Lobbying"
+        ],
+        "answer": "Separation of Powers",
+        "explanation": "Each branch has its own limited powers, preventing any single branch from becoming too powerful."
+    },
+    {
+        "id": "G309",
+        "text": "Which of the following is an example of an $\\textbf{entitlement program}$ that represents $\\textbf{mandatory spending}$ in the federal budget?",
+        "image": "",
+        "options": [
+            "Military weapon procurement",
+            "Social Security and Medicare",
+            "National Park maintenance",
+            "Funding the library of Congress"
+        ],
+        "answer": "Social Security and Medicare",
+        "explanation": "Entitlements are mandatory because Congress has committed to paying benefits to all eligible recipients, requiring the funds to be spent automatically each year."
+    },
+    {
+        "id": "G310",
+        "text": "In the Senate, a $\\textbf{filibuster}$ is a tactic used by the minority to delay or block a vote. The only way to stop a filibuster is by invoking $\\textbf{cloture}$, which requires a vote of:",
+        "image": "",
+        "options": [
+            "A simple majority (51 votes)",
+            "One-third of the members present",
+            "Three-fifths (60 votes)",
+            "Unanimous consent"
+        ],
+        "answer": "Three-fifths (60 votes)",
+        "explanation": "The 60-vote threshold is the main reason why the Senate often requires supermajorities to pass controversial legislation."
+    },
+    {
+        "id": "G311",
+        "text": "In a $\\textbf{pluralist}$ democracy, policymaking is primarily characterized by:",
+        "image": "",
+        "options": [
+            "A single, elite group dominating all decisions",
+            "A dictator making all laws",
+            "Competition and bargaining among numerous interest groups",
+            "Direct popular votes on all issues"
+        ],
+        "answer": "Competition and bargaining among numerous interest groups",
+        "explanation": "Pluralism holds that power is decentralized, and various organized groups influence policy."
+    },
+    {
+        "id": "G312",
+        "text": "The $\\textbf{Miranda Rule}$ (from $\\textit{Miranda v. Arizona}$) ensures that accused individuals are informed of their $\\textbf{Fifth}$ and $\\textbf{Sixth Amendment}$ rights, particularly the right to counsel and the right to:",
+        "image": "",
+        "options": [
+            "An appeal to the Supreme Court",
+            "A public trial",
+            "Remain silent",
+            "Protection from cruel and unusual punishment"
+        ],
+        "answer": "Remain silent",
+        "explanation": "This is the basis of the requirement for police to read suspects their rights before custodial interrogation."
+    },
+    {
+        "id": "G313",
+        "text": "The $\\textbf{Federal Reserve Board}$ conducts $\\textbf{monetary policy}$ by controlling interest rates and the money supply. This power is primarily $\\textbf{independent}$ of the President and Congress to ensure:",
+        "image": "",
+        "options": [
+            "The President can easily veto its decisions",
+            "The economy is insulated from short-term political pressures",
+            "It can collect taxes efficiently",
+            "It controls all campaign finance"
+        ],
+        "answer": "The economy is insulated from short-term political pressures",
+        "explanation": "The Fed's independence helps it focus on long-term economic stability rather than election cycles."
+    },
+    {
+        "id": "G314",
+        "text": "The primary difference between $\\textbf{civil liberties}$ and $\\textbf{civil rights}$ is that civil liberties are $\\textbf{protections}$ from government, while civil rights are:",
+        "image": "",
+        "options": [
+            "Unenforceable rules",
+            "Guarantees the government will act to secure equal treatment",
+            "Only applicable during wartime",
+            "Only relevant to the President"
+        ],
+        "answer": "Guarantees the government will act to secure equal treatment",
+        "explanation": "Civil liberties are fundamental freedoms (e.g., freedom of speech); civil rights are constitutional protections against discrimination by the government or other groups."
+    },
+    {
+        "id": "G315",
+        "text": "Congressional $\\textbf{committees}$ are essential to the legislative process because they:",
+        "image": "",
+        "options": [
+            "Serve as the President's cabinet",
+            "Allow members to specialize and conduct detailed review of bills",
+            "Determine the outcome of presidential elections",
+            "Appoint all ambassadors"
+        ],
+        "answer": "Allow members to specialize and conduct detailed review of bills",
+        "explanation": "Committees divide the legislative workload and allow Congress to develop expertise in specialized policy areas."
+    },
+    {
+        "id": "G316",
+        "text": "A presidential $\\textbf{Executive Order}$ has the force of law, but its power is limited because it can be overturned by a future President or by:",
+        "image": "",
+        "options": [
+            "An advisory opinion from the Cabinet",
+            "A vote of the Electoral College",
+            "A Supreme Court ruling or a new act of Congress",
+            "A state legislature's resolution"
+        ],
+        "answer": "A Supreme Court ruling or a new act of Congress",
+        "explanation": "Executive orders must be constitutional and within the scope of powers granted by Congress."
+    },
+    {
+        "id": "G317",
+        "text": "The $\\textbf{Commerce Clause}$ (Article I, Section 8) is a primary source of federal regulatory power. Since the New Deal era, the Supreme Court has interpreted this clause to allow Congress to regulate:",
+        "image": "",
+        "options": [
+            "Only foreign trade",
+            "Only trade between states",
+            "A vast range of economic activities, including non-economic ones if they substantially affect interstate commerce",
+            "Only internal state affairs"
+        ],
+        "answer": "A vast range of economic activities, including non-economic ones if they substantially affect interstate commerce",
+        "explanation": "This broad interpretation has allowed the federal government to expand its role into many areas traditionally managed by the states."
+    },
+    {
+        "id": "G318",
+        "text": "The $\\textbf{President Pro Tempore}$ of the Senate is typically the most senior member of the $\\textbf{majority party}$ and is mainly responsible for:",
+        "image": "",
+        "options": [
+            "Leading the party's legislative strategy",
+            "Presiding over the Senate in the absence of the Vice President",
+            "Negotiating treaties",
+            "Collecting campaign contributions"
+        ],
+        "answer": "Presiding over the Senate in the absence of the Vice President",
+        "explanation": "While largely a ceremonial role, the President Pro Tempore is third in the line of presidential succession."
+    },
+    {
+        "id": "G319",
+        "text": "The $\\textbf{Exclusionary Rule}$ (from $\\textit{Mapp v. Ohio}$) prevents evidence obtained from an $\\textbf{unreasonable search or seizure}$ from being used in a criminal trial. This is designed to enforce the protections of the:",
+        "image": "",
+        "options": [
+            "Fifth Amendment",
+            "Fourth Amendment",
+            "Eighth Amendment",
+            "Second Amendment"
+        ],
+        "answer": "Fourth Amendment",
+        "explanation": "The Exclusionary Rule is the primary tool used by courts to deter police misconduct in violation of the Fourth Amendment."
+    },
+    {
+        "id": "G320",
+        "text": "In a $\\textbf{plurality decision}$ by the Supreme Court, there is $\\textbf{no single majority opinion}$. This occurs when:",
+        "image": "",
+        "options": [
+            "All justices agree on the ruling and the reasoning",
+            "The Court has less than nine members participating",
+            "The majority agrees on the outcome, but not on the legal reasoning to support it",
+            "The President agrees with the decision"
+        ],
+        "answer": "The majority agrees on the outcome, but not on the legal reasoning to support it",
+        "explanation": "In a plurality decision, no single opinion commands the support of five or more justices, making the precedent less clear."
+    }
+]

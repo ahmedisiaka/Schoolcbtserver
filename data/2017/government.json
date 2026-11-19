@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G201",
+        "text": "Upon taking office in 2017, the President made numerous $\\textbf{Cabinet Appointments}$. All these appointments require the $\\textbf{Advice and Consent}$ of which legislative body?",
+        "image": "",
+        "options": [
+            "The House of Representatives",
+            "The Senate",
+            "The Supreme Court",
+            "The Office of Management and Budget"
+        ],
+        "answer": "The Senate",
+        "explanation": "Article II, Section 2 requires the President to obtain the Senate's consent for appointments to high-level executive and judicial positions."
+    },
+    {
+        "id": "G202",
+        "text": "The President's authority to withdraw the U.S. from international agreements like the $\\textbf{Paris Climate Accord}$ in 2017 is derived from his role as the nation's:",
+        "image": "",
+        "options": [
+            "Chief Legislator",
+            "Chief Justice",
+            "Chief Diplomat",
+            "Chief Economist"
+        ],
+        "answer": "Chief Diplomat",
+        "explanation": "The President is responsible for leading foreign policy, which includes negotiating, signing, and withdrawing from executive agreements."
+    },
+    {
+        "id": "G203",
+        "text": "A central feature of the early 2017 agenda was $\\textbf{deregulation}$, often achieved by bureaucratic agencies reversing previous rules. Federal agencies must follow the procedures outlined in the $\\textbf{Administrative Procedures Act (APA)}$ when changing rules, which typically requires a period for:",
+        "image": "",
+        "options": [
+            "Congressional Authorization",
+            "Public Notice and Comment",
+            "Supreme Court Review",
+            "Executive Order Renewal"
+        ],
+        "answer": "Public Notice and Comment",
+        "explanation": "The APA ensures transparency by requiring agencies to publish proposed rules and allow the public to submit comments before the rule becomes final."
+    },
+    {
+        "id": "G204",
+        "text": "The $\\textbf{Tax Cuts and Jobs Act of 2017}$ marked a massive change in federal fiscal policy. The constitutional power to levy and collect taxes is an $\\textbf{enumerated power}$ of which branch?",
+        "image": "",
+        "options": [
+            "The Executive Branch",
+            "The Judicial Branch",
+            "The Legislative Branch (Congress)",
+            "The Federal Reserve"
+        ],
+        "answer": "The Legislative Branch (Congress)",
+        "explanation": "Article I, Section 8, Clause 1 grants Congress the power to lay and collect taxes, duties, imposts, and excises."
+    },
+    {
+        "id": "G205",
+        "text": "Federal agencies like the Environmental Protection Agency (EPA) are part of the $\\textbf{Federal Bureaucracy}$. These agencies are often criticized for exercising $\\textbf{quasi-legislative}$ power because they:",
+        "image": "",
+        "options": [
+            "Issue pardons to federal convicts",
+            "Review the constitutionality of laws",
+            "Create detailed rules and regulations with the force of law",
+            "Approve international treaties"
+        ],
+        "answer": "Create detailed rules and regulations with the force of law",
+        "explanation": "Quasi-legislative power refers to the bureaucracy's ability to 'make law' by defining the details of vague statutes passed by Congress."
+    },
+    {
+        "id": "G206",
+        "text": "In 2017, disputes arose over $\\textbf{federal funding}$ for $\\textbf{sanctuary cities}$. When the federal government attempts to impose conditions on state or local governments in exchange for funding, this is known as using:",
+        "image": "",
+        "options": [
+            "The Supremacy Clause",
+            "Categorical Grants",
+            "Block Grants",
+            "Unfunded Mandates"
+        ],
+        "answer": "Categorical Grants",
+        "explanation": "Categorical grants provide federal funds for a specific purpose and often come with strict conditions (or 'strings') that states must meet."
+    },
+    {
+        "id": "G207",
+        "text": "The early 2017 $\\textbf{travel ban}$ (later the 'Muslim Ban') was implemented through an $\\textbf{Executive Order}$. The Supreme Court ultimately upheld this action based primarily on the President's broad authority over:",
+        "image": "",
+        "options": [
+            "Interstate Commerce",
+            "Immigration and National Security",
+            "Judicial Appointments",
+            "The Census"
+        ],
+        "answer": "Immigration and National Security",
+        "explanation": "The Court acknowledged the President's significant (though not unlimited) statutory and constitutional authority to regulate the entry of foreign nationals into the U.S."
+    },
+    {
+        "id": "G208",
+        "text": "The President is the $\\textbf{Commander-in-Chief}$ of the armed forces, granting him the power to:",
+        "image": "",
+        "options": [
+            "Declare war",
+            "Approve all military promotions and deployments",
+            "Fund military operations without Congress",
+            "Appoint the Secretary of Defense without Senate approval"
+        ],
+        "answer": "Approve all military promotions and deployments",
+        "explanation": "While Congress declares war (War Powers Clause), the President commands the military forces, approving troop movements and field strategy."
+    },
+    {
+        "id": "G209",
+        "text": "The Senate's practice of $\\textbf{cloture}$ is used to end a $\\textbf{filibuster}$. After 2017, cloture became simpler for Supreme Court nominees, requiring only a $\\textbf{simple majority}$ rather than 60 votes. This change primarily affects the power of the:",
+        "image": "",
+        "options": [
+            "Majority Party",
+            "Minority Party",
+            "President Pro Tempore",
+            "House of Representatives"
+        ],
+        "answer": "Minority Party",
+        "explanation": "The filibuster is a tool of the minority party to block legislation or nominations; lowering the threshold weakens this tool."
+    },
+    {
+        "id": "G210",
+        "text": "The First Amendment protects the right to $\\textbf{symbolic speech}$, such as kneeling during the national anthem or wearing political clothing. The key test courts use to balance free speech against government order is generally the test of $\\textbf{imminent lawless action}$ (clear and present danger), stemming from which precedent?",
+        "image": "",
+        "options": [
+            "$\\textit{Marbury v. Madison}$",
+            "$\\textit{Brandenburg v. Ohio}$",
+            "$\\textit{Roe v. Wade}$",
+            "$\\textit{Tinker v. Des Moines}$"
+        ],
+        "answer": "$\\textit{Brandenburg v. Ohio}$",
+        "explanation": "This case established that speech can be prohibited only if it is directed at inciting or producing imminent lawless action and is likely to incite or produce such action."
+    },
+    {
+        "id": "G211",
+        "text": "The $\\textbf{Iron Triangle}$ relationship describes the stable, mutually beneficial interaction between a bureaucratic agency, a congressional committee, and an:",
+        "image": "",
+        "options": [
+            "International Court",
+            "Interest Group",
+            "Independent Counsel",
+            "Ambassador"
+        ],
+        "answer": "Interest Group",
+        "explanation": "The Iron Triangle dictates how policy is often made in a specific area, benefiting the three cooperating parties."
+    },
+    {
+        "id": "G212",
+        "text": "In a $\\textbf{Federal System}$, powers are $\\textbf{divided and shared}$ between the national and state governments. Powers reserved exclusively to the states are defined by the:",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Ninth Amendment",
+            "Tenth Amendment",
+            "Twenty-Second Amendment"
+        ],
+        "answer": "Tenth Amendment",
+        "explanation": "The Tenth Amendment protects the 'Reserved Powers' of the states against federal encroachment."
+    },
+    {
+        "id": "G213",
+        "text": "The $\\textbf{President's Cabinet}$ members are advisors to the President, but their primary duty is to:",
+        "image": "",
+        "options": [
+            "Serve as the Vice President's staff",
+            "Run their specific executive departments (e.g., Department of Defense)",
+            "Serve life terms on the Supreme Court",
+            "Negotiate treaties with foreign nations"
+        ],
+        "answer": "Run their specific executive departments (e.g., Department of Defense)",
+        "explanation": "Cabinet members head the major federal departments, implementing the laws and managing the bureaucracy in their area."
+    },
+    {
+        "id": "G214",
+        "text": "The $\\textbf{Establishment Clause}$ of the First Amendment prevents the government from establishing or endorsing a national religion. This clause is the basis for the $\\textbf{Lemon Test}$, which courts use to evaluate the constitutionality of government aid to:",
+        "image": "",
+        "options": [
+            "Political parties",
+            "Criminal defendants",
+            "Religious schools and organizations",
+            "The national military"
+        ],
+        "answer": "Religious schools and organizations",
+        "explanation": "The Lemon Test determines if a law has a secular purpose, neither advances nor inhibits religion, and avoids excessive government entanglement with religion."
+    },
+    {
+        "id": "G215",
+        "text": "The $\\textbf{Tax Cuts and Jobs Act}$ focused heavily on lowering tax rates for corporations. Changing the federal tax code requires an $\\textbf{act of Congress}$—a power often referred to as the $\\textbf{Power of the Purse}$—because:",
+        "image": "",
+        "options": [
+            "Only the Executive Branch can propose tax changes",
+            "All money must be spent by the Department of the Treasury",
+            "Congress controls all federal taxing and spending",
+            "The states have primary authority over income tax"
+        ],
+        "answer": "Congress controls all federal taxing and spending",
+        "explanation": "The 'Power of the Purse' is the constitutional power of Congress to control all federal funds."
+    },
+    {
+        "id": "G216",
+        "text": "Interest Groups engaged in $\\textbf{grassroots lobbying}$ in 2017 by urging their members to contact their elected officials to oppose or support new policies. Grassroots lobbying is considered a form of:",
+        "image": "",
+        "options": [
+            "Executive Order",
+            "Indirect Lobbying",
+            "Judicial Review",
+            "Cloture"
+        ],
+        "answer": "Indirect Lobbying",
+        "explanation": "Indirect lobbying (or grassroots lobbying) is an attempt to influence policymakers by encouraging the general public to pressure them."
+    },
+    {
+        "id": "G217",
+        "text": "The ability of the President to negotiate $\\textbf{Executive Agreements}$ with foreign nations (like trade deals) instead of $\\textbf{treaties}$ means that these agreements $\\textbf{do not}$ require:",
+        "image": "",
+        "options": [
+            "Approval by the House of Representatives",
+            "A two-thirds vote of the Senate",
+            "Approval by the Supreme Court",
+            "The President's signature"
+        ],
+        "answer": "A two-thirds vote of the Senate",
+        "explanation": "Treaties require 2/3rds Senate ratification; executive agreements, used for minor policy matters, do not require any Senate approval."
+    },
+    {
+        "id": "G218",
+        "text": "A key mechanism of $\\textbf{congressional oversight}$ over the bureaucracy is the ability to $\\textbf{adjust the budgets}$ of federal agencies, thereby determining the scope of their programs. This is also known as the:",
+        "image": "",
+        "options": [
+            "Pocket Veto",
+            "Power of the Purse",
+            "Habeas Corpus",
+            "Filibuster"
+        ],
+        "answer": "Power of the Purse",
+        "explanation": "By controlling funding, Congress can dictate how much power and scope an agency has."
+    },
+    {
+        "id": "G219",
+        "text": "When the President faces a high-profile crisis, the phenomenon of $\\textbf{rally 'round the flag}$ occurs, where the public's support for the President:",
+        "image": "",
+        "options": [
+            "Decreases significantly",
+            "Remains unchanged",
+            "Temporarily increases, regardless of political party",
+            "Is only supported by the opposing party"
+        ],
+        "answer": "Temporarily increases, regardless of political party",
+        "explanation": "This effect is a temporary rise in popular support for the President during periods of international crisis or conflict."
+    },
+    {
+        "id": "G220",
+        "text": "The Supreme Court used the $\\textbf{Due Process Clause}$ of the Fourteenth Amendment to $\\textbf{incorporate}$ the protections of the Bill of Rights, making them applicable to the:",
+        "image": "",
+        "options": [
+            "Federal Government only",
+            "Judicial Branch only",
+            "State Governments",
+            "Foreign Ambassadors"
+        ],
+        "answer": "State Governments",
+        "explanation": "Selective incorporation uses the 14th Amendment's Due Process clause to apply rights like freedom of speech to state actions."
+    },
+    {
+        "id": "G221",
+        "text": "The $\\textbf{media}$ plays a critical role as a $\\textbf{scorekeeper}$ in politics by:",
+        "image": "",
+        "options": [
+            "Serving as an official government historian",
+            "Focusing on who is ahead or behind in elections and political contests",
+            "Determining the constitutionality of new laws",
+            "Collecting all federal taxes"
+        ],
+        "answer": "Focusing on who is ahead or behind in elections and political contests",
+        "explanation": "The scorekeeper function involves the media tracking political campaigns, polls, and legislative success rates."
+    },
+    {
+        "id": "G222",
+        "text": "The $\\textbf{Twenty-Fifth Amendment}$ details the procedures for presidential $\\textbf{disability}$ and $\\textbf{vacancy}$ in the office of the Vice President. This was a critical constitutional update following the assassination of:",
+        "image": "",
+        "options": [
+            "Abraham Lincoln",
+            "John F. Kennedy",
+            "William McKinley",
+            "James Garfield"
+        ],
+        "answer": "John F. Kennedy",
+        "explanation": "The amendment was ratified in 1967, addressing ambiguities in succession planning highlighted by Kennedy's death."
+    },
+    {
+        "id": "G223",
+        "text": "The concept of $\\textbf{Original Intent}$ in judicial interpretation suggests that judges should base their decisions on:",
+        "image": "",
+        "options": [
+            "The current popular consensus",
+            "Their personal moral beliefs",
+            "The Framers' meaning of the Constitution when it was written",
+            "The precedent set by the most recent Supreme Court case"
+        ],
+        "answer": "The Framers' meaning of the Constitution when it was written",
+        "explanation": "This is a conservative judicial philosophy that often contrasts with the idea of a 'living constitution.'"
+    },
+    {
+        "id": "G224",
+        "text": "The federal government's $\\textbf{Fiscal Policy}$ involves the use of $\\textbf{taxing and spending}$ to influence the economy. This policy is primarily conducted by:",
+        "image": "",
+        "options": [
+            "The Federal Reserve",
+            "The Treasury Department and Congress",
+            "The Supreme Court",
+            "State Legislatures"
+        ],
+        "answer": "The Treasury Department and Congress",
+        "explanation": "While the President proposes the budget, Congress ultimately controls both the revenue (taxes) and expenditure (spending) arms of fiscal policy."
+    },
+    {
+        "id": "G225",
+        "text": "The constitutional requirement that the President must faithfully $\\textbf{execute}$ the laws is found in the:",
+        "image": "",
+        "options": [
+            "Take Care Clause (Article II, Section 3)",
+            "Supremacy Clause (Article VI)",
+            "Necessary and Proper Clause (Article I, Section 8)",
+            "Full Faith and Credit Clause (Article IV)"
+        ],
+        "answer": "Take Care Clause (Article II, Section 3)",
+        "explanation": "This clause is the source of the President's expansive administrative power to ensure all federal laws are carried out."
+    },
+    {
+        "id": "G226",
+        "text": "In the House of Representatives, the majority party's leadership can use the $\\textbf{Rules Committee}$ to issue a $\\textbf{closed rule}$ for a bill, meaning:",
+        "image": "",
+        "options": [
+            "The bill will be vetoed by the President",
+            "No amendments will be allowed on the floor during debate",
+            "The public will be excluded from the floor debate",
+            "The bill must be approved by the Senate first"
+        ],
+        "answer": "No amendments will be allowed on the floor during debate",
+        "explanation": "A closed rule is a powerful tool that protects a bill from being altered by the minority party or dissenting members."
+    },
+    {
+        "id": "G227",
+        "text": "The $\\textbf{Twenty-Sixth Amendment}$ lowered the national voting age to 18. This amendment was primarily passed in response to the controversy over:",
+        "image": "",
+        "options": [
+            "The Vietnam War draft",
+            "The Civil Rights Movement",
+            "The Great Depression",
+            "The attack on Pearl Harbor"
+        ],
+        "answer": "The Vietnam War draft",
+        "explanation": "The popular slogan was 'old enough to fight, old enough to vote.'"
+    },
+    {
+        "id": "G228",
+        "text": "The $\\textbf{Government Accountability Office (GAO)}$ is a legislative branch agency that provides $\\textbf{oversight}$ by performing audits and investigations for:",
+        "image": "",
+        "options": [
+            "The Executive Branch agencies",
+            "The Supreme Court",
+            "State Governors",
+            "Foreign Governments"
+        ],
+        "answer": "The Executive Branch agencies",
+        "explanation": "The GAO acts as a watchdog, ensuring that federal funds are spent efficiently and according to law."
+    },
+    {
+        "id": "G229",
+        "text": "A key difference between a $\\textbf{political party}$ and an $\\textbf{interest group}$ is that a political party primarily seeks to:",
+        "image": "",
+        "options": [
+            "File *amicus curiae* briefs",
+            "Influence public opinion on a single issue",
+            "Nominate candidates and win elections to control government",
+            "Lobby the judiciary"
+        ],
+        "answer": "Nominate candidates and win elections to control government",
+        "explanation": "Interest groups influence policy; political parties seek to govern."
+    },
+    {
+        "id": "G230",
+        "text": "The $\\textbf{Equal Protection Clause}$ of the Fourteenth Amendment has been used to advance the cause of $\\textbf{civil rights}$ by requiring that states:",
+        "image": "",
+        "options": [
+            "Must follow the President's executive orders",
+            "Cannot unreasonably discriminate between persons",
+            "Must provide life tenure for state judges",
+            "Are prohibited from collecting income taxes"
+        ],
+        "answer": "Cannot unreasonably discriminate between persons",
+        "explanation": "The clause guarantees that the laws apply equally to all people, preventing discrimination."
+    },
+    {
+        "id": "G231",
+        "text": "The power of $\\textbf{judicial review}$—the ability of the Supreme Court to declare acts of Congress or the President unconstitutional—was established in which landmark case?",
+        "image": "",
+        "options": [
+            "$\\textit{McCulloch v. Maryland}$",
+            "$\\textit{Marbury v. Madison}$",
+            "$\\textit{Gibbons v. Ogden}$",
+            "$\\textit{Plessy v. Ferguson}$"
+        ],
+        "answer": "$\\textit{Marbury v. Madison}$",
+        "explanation": "Chief Justice John Marshall established this crucial power in 1803."
+    },
+    {
+        "id": "G232",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ is often called the $\\textbf{Elastic Clause}$ because it allows Congress to:",
+        "image": "",
+        "options": [
+            "Raise taxes in an emergency",
+            "Stretch its enumerated powers to cover new issues",
+            "Impeach and remove the President",
+            "Declare states of emergency"
+        ],
+        "answer": "Stretch its enumerated powers to cover new issues",
+        "explanation": "It provides Congress with the implicit power to fulfill its explicit constitutional duties, allowing its power to adapt over time."
+    },
+    {
+        "id": "G233",
+        "text": "The $\\textbf{Conference Committee}$ is used in the legislative process to reconcile differences between a bill passed by the House and a similar but different version passed by the:",
+        "image": "",
+        "options": [
+            "Supreme Court",
+            "President",
+            "Senate",
+            "State Legislatures"
+        ],
+        "answer": "Senate",
+        "explanation": "Before a bill can be sent to the President, it must be passed in identical form by both chambers."
+    },
+    {
+        "id": "G234",
+        "text": "A $\\textbf{dissenting opinion}$ written by a Supreme Court Justice is important because it:",
+        "image": "",
+        "options": [
+            "Immediately overturns the majority opinion",
+            "Becomes binding precedent for all lower courts",
+            "May become the basis for a future majority opinion and legal change",
+            "Requires the President to sign an Executive Order"
+        ],
+        "answer": "May become the basis for a future majority opinion and legal change",
+        "explanation": "Dissents often articulate arguments that later courts use when overturning precedent (e.g., Justice Harlan's dissent in *Plessy v. Ferguson* eventually became law in *Brown v. Board of Education*)."
+    },
+    {
+        "id": "G235",
+        "text": "The concept of $\\textbf{Federal Preemption}$ occurs when:",
+        "image": "",
+        "options": [
+            "A state law is passed before a federal law on the same topic",
+            "The Supreme Court refuses to hear a case",
+            "Federal law overrules state law due to the Supremacy Clause",
+            "The President signs a treaty"
+        ],
+        "answer": "Federal law overrules state law due to the Supremacy Clause",
+        "explanation": "If the federal government regulates a field fully, or if state law conflicts with federal law, the federal law 'preempts' the state law."
+    },
+    {
+        "id": "G236",
+        "text": "The $\\textbf{Office of Management and Budget (OMB)}$ is essential to the President because it:",
+        "image": "",
+        "options": [
+            "Handles all presidential press briefings",
+            "Manages the preparation of the entire federal budget proposal",
+            "Confirms all Supreme Court nominees",
+            "Is responsible for organizing all international diplomacy"
+        ],
+        "answer": "Manages the preparation of the entire federal budget proposal",
+        "explanation": "The OMB is the chief architect of the President's financial plan for the year."
+    },
+    {
+        "id": "G237",
+        "text": "A $\\textbf{single-issue interest group}$ is most effective when it focuses its resources on:",
+        "image": "",
+        "options": [
+            "A wide variety of unrelated legislation",
+            "Lobbying the same small group of key congressional committee members",
+            "Winning control of the presidency",
+            "Appointing all local police officers"
+        ],
+        "answer": "Lobbying the same small group of key congressional committee members",
+        "explanation": "Focusing resources on specialized committees maximizes the impact of the group's expertise and funding."
+    },
+    {
+        "id": "G238",
+        "text": "The primary purpose of the $\\textbf{Electoral College}$ is to:",
+        "image": "",
+        "options": [
+            "Select the Vice President",
+            "Officially choose the President based on state popular votes",
+            "Raise money for political campaigns",
+            "Determine the boundaries of congressional districts"
+        ],
+        "answer": "Officially choose the President based on state popular votes",
+        "explanation": "The President is chosen not by direct popular vote, but by electors allocated to each state based on its congressional delegation."
+    },
+    {
+        "id": "G239",
+        "text": "The $\\textbf{privileges and immunities clause}$ (Article IV, Section 2) prevents states from discriminating against:",
+        "image": "",
+        "options": [
+            "The federal government",
+            "Their own citizens",
+            "Citizens of other states",
+            "Foreign diplomats"
+        ],
+        "answer": "Citizens of other states",
+        "explanation": "It guarantees that citizens visiting another state receive the same fundamental rights as the citizens of that state."
+    },
+    {
+        "id": "G240",
+        "text": "The ability of the President to appoint a $\\textbf{Secretary of Homeland Security}$ to lead a massive executive department illustrates his power as the:",
+        "image": "",
+        "options": [
+            "Chief of Staff",
+            "Chief Administrator",
+            "Chief Judge",
+            "Chief Campaigner"
+        ],
+        "answer": "Chief Administrator",
+        "explanation": "This role involves managing the vast federal bureaucracy and appointing its leaders to ensure the laws are executed efficiently."
+    }
+]

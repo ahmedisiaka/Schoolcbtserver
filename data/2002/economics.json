@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E2001",
+        "text": "The $\\textbf{largest}$ $\\textbf{corporate}$ $\\textbf{bankruptcy}$ in U.S. history at the time occurred in July 2002 when $\\textbf{WorldCom}$ filed for Chapter 11.",
+        "image": "",
+        "options": [
+            "Tyco",
+            "Enron",
+            "WorldCom",
+            "Lehman Brothers"
+        ],
+        "answer": "WorldCom",
+        "explanation": "WorldCom's collapse in mid-2002 overshadowed Enron's bankruptcy (late 2001) in size and demonstrated widespread accounting fraud in the telecom sector."
+    },
+    {
+        "id": "E2002",
+        "text": "The major $\\textbf{regulatory}$ $\\textbf{response}$ to the accounting scandals of 2002 was the passage of the $\\textbf{Sarbanes}$-$\\textbf{Oxley}$ $\\textbf{Act}$ $\\textbf{(SOX)}$ in July 2002.",
+        "image": "",
+        "options": [
+            "Glass-Steagall Act",
+            "Dodd-Frank Act",
+            "Sarbanes-Oxley Act (SOX)",
+            "The PATRIOT Act"
+        ],
+        "answer": "Sarbanes-Oxley Act (SOX)",
+        "explanation": "SOX introduced stringent new rules for public company boards, management, and public accounting firms."
+    },
+    {
+        "id": "E2003",
+        "text": "The $\\textbf{SOX}$ $\\textbf{Act}$ established the $\\textbf{Public}$ $\\textbf{Company}$ $\\textbf{Accounting}$ $\\textbf{Oversight}$ $\\textbf{Board}$ $\\textbf{(PCAOB)}$ to oversee the audits of public companies.",
+        "image": "",
+        "options": [
+            "Federal Reserve",
+            "Securities and Exchange Commission (SEC)",
+            "Public Company Accounting Oversight Board (PCAOB)",
+            "Financial Stability Oversight Council (FSOC)"
+        ],
+        "answer": "Public Company Accounting Oversight Board (PCAOB)",
+        "explanation": "The PCAOB was created to protect the interests of investors and to further the public interest in the preparation of informative, fair, and independent audit reports."
+    },
+    {
+        "id": "E2004",
+        "text": "Section $\\textbf{404}$ of $\\textbf{SOX}$ requires management to $\\textbf{report}$ on the $\\textbf{effectiveness}$ of the company's $\\textbf{internal}$ $\\textbf{controls}$ over $\\textbf{financial}$ $\\textbf{reporting}$ $\\textbf{(ICFR)}$.",
+        "image": "",
+        "options": [
+            "Executive compensation limits",
+            "Mandatory dividend payments",
+            "Report on internal controls over financial reporting (ICFR)",
+            "Restrictions on overseas operations"
+        ],
+        "answer": "Report on internal controls over financial reporting (ICFR)",
+        "explanation": "Section 404 is the most costly and complex part of SOX compliance, demanding robust internal processes."
+    },
+    {
+        "id": "E2005",
+        "text": "The $\\textbf{recession}$ that officially ended in November 2001 was followed by a $\\textbf{Jobless}$ $\\textbf{Recovery}$ in 2002, characterized by rising $\\textbf{GDP}$ but a **stagnant or rising unemployment rate**.",
+        "image": "",
+        "options": [
+            "Falling interest rates",
+            "Hyperinflation",
+            "Stagnant or rising unemployment rate",
+            "Rapid housing price decline"
+        ],
+        "answer": "Stagnant or rising unemployment rate",
+        "explanation": "Businesses hesitated to hire new workers, preferring to maximize output with existing staff, a key feature of the 2002 economy."
+    },
+    {
+        "id": "E2006",
+        "text": "The $\\textbf{Unemployment}$ $\\textbf{Rate}$ in 2002 generally **continued to rise**, peaking well after the recession's official end.",
+        "image": "",
+        "options": [
+            "Fell sharply",
+            "Continued to rise",
+            "Remained below 4.0%",
+            "Reached historic lows"
+        ],
+        "answer": "Continued to rise",
+        "explanation": "The rate rose from 5.7% in January 2002 to 6.0% by the end of the year, confirming the jobless recovery."
+    },
+    {
+        "id": "E2007",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ kept the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ target stable at **1.75%** for most of 2002, signaling a pause in rate cuts.",
+        "image": "",
+        "options": [
+            "5.0%",
+            "0.0%",
+            "1.75%",
+            "7.0%"
+        ],
+        "answer": "1.75%",
+        "explanation": "The Fed waited to assess the impact of the 11 cuts made in 2001, but the extremely low rate continued to fuel activity in the housing sector."
+    },
+    {
+        "id": "E2008",
+        "text": "A key $\\textbf{reason}$ the Fed kept rates low in 2002 was the $\\textbf{fear}$ of $\\textbf{deflation}$ (a general decline in prices), which had begun to be discussed as a risk.",
+        "image": "",
+        "options": [
+            "Massive foreign investment",
+            "Fear of deflation",
+            "A surging stock market",
+            "High commodity prices"
+        ],
+        "answer": "Fear of deflation",
+        "explanation": "With inflation low and economic activity weak, some central bankers worried about the Japanese-style threat of persistent price declines."
+    },
+    {
+        "id": "E2009",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{budget}$ $\\textbf{returned}$ to a $\\textbf{deficit}$ in 2002 due to the $\\textbf{economic}$ $\\textbf{downturn}$ (lower tax revenue) and $\\textbf{increased}$ $\\textbf{spending}$ on **defense and security**.",
+        "image": "",
+        "options": [
+            "Record trade surplus",
+            "Budget surplus",
+            "Budget deficit",
+            "Zero national debt"
+        ],
+        "answer": "Budget deficit",
+        "explanation": "The combination of the 2001 tax cuts, recession-driven lower revenue, and post-9/11 spending permanently ended the budget surpluses of the late 1990s."
+    },
+    {
+        "id": "E2010",
+        "text": "The $\\textbf{Durable}$ $\\textbf{Goods}$ $\\textbf{Orders}$ $\\textbf{Index}$, a key measure of $\\textbf{capital}$ $\\textbf{spending}$ intentions, showed **weakness** throughout 2002, reflecting corporate caution.",
+        "image": "",
+        "options": [
+            "Surging growth",
+            "Weakness",
+            "Complete stability",
+            "Negative oil prices"
+        ],
+        "answer": "Weakness",
+        "explanation": "Following the dot-com CapEx crash, companies remained hesitant to invest in new equipment or factories."
+    },
+    {
+        "id": "E2011",
+        "text": "The $\\textbf{Stock}$ $\\textbf{Market}$ (S&P 500) performed $\\textbf{poorly}$ in 2002, with the S&P 500 closing the year **down approximately 23%**.",
+        "image": "",
+        "options": [
+            "Up approximately 15%",
+            "Down approximately 23%",
+            "Up approximately 50%",
+            "Unchanged"
+        ],
+        "answer": "Down approximately 23%",
+        "explanation": "2002 was the second consecutive year of sharp losses, primarily driven by the corporate accounting scandals eroding investor confidence."
+    },
+    {
+        "id": "E2012",
+        "text": "The $\\textbf{Tech}$-$\\textbf{heavy}$ $\\textbf{NASDAQ}$ $\\textbf{Composite}$ suffered the $\\textbf{steepest}$ losses in 2002, falling by approximately **31%**.",
+        "image": "",
+        "options": [
+            "Dow Jones Industrial Average",
+            "S&P 500",
+            "NASDAQ Composite",
+            "Russell 2000"
+        ],
+        "answer": "NASDAQ Composite",
+        "explanation": "The NASDAQ was still unwinding the excessive valuations of the dot-com bubble and suffered the most from continued corporate scandals in tech/telecom."
+    },
+    {
+        "id": "E2013",
+        "text": "The $\\textbf{primary}$ $\\textbf{channel}$ by which $\\textbf{low}$ $\\textbf{interest}$ $\\textbf{rates}$ supported the economy in 2002 was the **refinancing and purchasing of homes**.",
+        "image": "",
+        "options": [
+            "Massive foreign direct investment",
+            "A surging trade balance",
+            "Refinancing and purchasing of homes",
+            "A rapid increase in exports"
+        ],
+        "answer": "Refinancing and purchasing of homes",
+        "explanation": "Low mortgage rates fueled a housing boom, allowing homeowners to extract equity (cash-out refis) to spend, thereby supporting consumption."
+    },
+    {
+        "id": "E2014",
+        "text": "The $\\textbf{price}$ $\\textbf{of}$ $\\textbf{oil}$ $\\textbf{(West}$ $\\textbf{Texas}$ $\\textbf{Intermediate}$ $\\textbf{WTI)}$ generally **rose** in 2002 due to global supply concerns, particularly around Iraq.",
+        "image": "",
+        "options": [
+            "Fell sharply due to recession",
+            "Remained stable below $\\$$15/barrel",
+            "Rose",
+            "Reached its peak price ever"
+        ],
+        "answer": "Rose",
+        "explanation": "Oil prices climbed throughout 2002, moving from below $\\$$20 to over $\\$$30, due to geopolitical tensions in the Middle East."
+    },
+    {
+        "id": "E2015",
+        "text": "A $\\textbf{procyclical}$ $\\textbf{indicator}$ is an $\\textbf{economic}$ $\\textbf{variable}$ that $\\textbf{moves}$ in the **same direction as GDP** (e.g., investment and consumption).",
+        "image": "",
+        "options": [
+            "The opposite direction as GDP",
+            "The same direction as GDP",
+            "Only at the end of a business cycle",
+            "Independently of the business cycle"
+        ],
+        "answer": "The same direction as GDP",
+        "explanation": "Indicators like consumption are procyclical; they increase when the economy expands and contract during recessions."
+    },
+    {
+        "id": "E2016",
+        "text": "The $\\textbf{official}$ $\\textbf{definition}$ of a $\\textbf{recession}$ used by $\\textbf{NBER}$ focuses on a significant decline in economic activity across the economy, lasting $\\textbf{more}$ $\\textbf{than}$ $\\textbf{a}$ $\\textbf{few}$ $\\textbf{months}$, visible in $\\textbf{GDP}$, $\\textbf{income}$, $\\textbf{employment}$, and $\\textbf{industrial}$ $\\textbf{production}$ $\\textbf{indices}$ $\\textbf{(IPI)}$ $\\textbf{simultaneously}$ $\\textbf{in}$ $\\textbf{contrast}$ $\\textbf{to}$ the $\\textbf{Two}$ $\\textbf{Quarters}$ $\\textbf{of}$ $\\textbf{Negative}$ $\\textbf{GDP}$ rule $\\textbf{of}$ $\\textbf{thumb}$ $\\textbf{which}$ $\\textbf{is}$ $\\textbf{more}$ $\\textbf{simplistic}$.",
+        "image": "",
+        "options": [
+            "Trade balance",
+            "Consumer Confidence Index",
+            "Industrial Production Index (IPI)",
+            "Exchange rate"
+        ],
+        "answer": "Industrial Production Index (IPI)",
+        "explanation": "The NBER considers IPI along with real GDP, employment, and real income."
+    },
+    {
+        "id": "E2017",
+        "text": "In 2002, $\\textbf{inflation}$ remained $\\textbf{subdued}$, largely due to $\\textbf{weak}$ $\\textbf{labor}$ $\\textbf{demand}$ and $\\textbf{ample}$ $\\textbf{capacity}$ $\\textbf{following}$ the $\\textbf{dot}$-$\\textbf{com}$ $\\textbf{investment}$ $\\textbf{boom}$ $\\textbf{that}$ $\\textbf{allowed}$ $\\textbf{businesses}$ $\\textbf{to}$ $\\textbf{maintain}$ $\\textbf{stable}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Low inflation",
+            "High inflation",
+            "Stagflation",
+            "Hyperinflation"
+        ],
+        "answer": "Low inflation",
+        "explanation": "Weak demand and high unemployment reduce pricing power for firms, keeping inflationary pressures low."
+    },
+    {
+        "id": "E2018",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{trade}$ $\\textbf{deficit}$ $\\textbf{widened}$ in 2002, despite the economic slowdown, as imports continued to $\\textbf{outpace}$ $\\textbf{exports}$ $\\textbf{fueled}$ $\\textbf{by}$ $\\textbf{consumer}$ $\\textbf{spending}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{boom}$ $\\textbf{era}$.",
+        "image": "",
+        "options": [
+            "Narrowed sharply",
+            "Widened",
+            "Turned into a surplus",
+            "Was eliminated"
+        ],
+        "answer": "Widened",
+        "explanation": "Increased consumer spending (supported by low rates) and a strong dollar kept the U.S. dependent on foreign goods."
+    },
+    {
+        "id": "E2019",
+        "text": "In the aftermath of the scandals, SOX mandated that $\\textbf{CEOs}$ $\\textbf{and}$ $\\textbf{CFOs}$ $\\textbf{must}$ $\\textbf{personally}$ $\\textbf{certify}$ the $\\textbf{accuracy}$ of their $\\textbf{financial}$ $\\textbf{statements}$ $\\textbf{to}$ $\\textbf{deter}$ $\\textbf{fraud}$ $\\textbf{like}$ $\\textbf{that}$ $\\textbf{seen}$ $\\textbf{at}$ $\\textbf{Enron}$ $\\textbf{and}$ $\\textbf{WorldCom}$.",
+        "image": "",
+        "options": [
+            "Chief Marketing Officers (CMOs)",
+            "Board Members",
+            "CEOs and CFOs",
+            "External Auditors"
+        ],
+        "answer": "CEOs and CFOs",
+        "explanation": "This provision, known as Section 302, attaches criminal penalties to knowingly certifying false reports."
+    },
+    {
+        "id": "E2020",
+        "text": "The $\\textbf{yield}$ $\\textbf{on}$ $\\textbf{10}$-$\\textbf{year}$ $\\textbf{Treasury}$ $\\textbf{notes}$ **fell** in 2002 as the stock market weakness drove investors to $\\textbf{safe}$-$\\textbf{haven}$ $\\textbf{government}$ $\\textbf{bonds}$.",
+        "image": "",
+        "options": [
+            "Rose significantly",
+            "Fell",
+            "Remained fixed at 6.0%",
+            "Inverted with the 2-year yield"
+        ],
+        "answer": "Fell",
+        "explanation": "When stocks plummet, investors typically sell riskier assets (stocks) and buy safer ones (Treasuries), driving Treasury prices up and yields down."
+    },
+    {
+        "id": "E2021",
+        "text": "$\\textbf{Creative}$ $\\textbf{destruction}$, a concept that describes the $\\textbf{necessary}$ $\\textbf{churn}$ of a $\\textbf{capitalist}$ $\\textbf{economy}$ where $\\textbf{obsolete}$ $\\textbf{businesses}$ are $\\textbf{replaced}$ by $\\textbf{new}$ $\\textbf{ones}$ $\\textbf{as}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{dot}$-$\\textbf{com}$ $\\textbf{bust}$ $\\textbf{of}$ $\\textbf{2001}$ $\\textbf{to}$ $\\textbf{2002}$, was a $\\textbf{popular}$ $\\textbf{explanation}$ for the $\\textbf{painful}$ $\\textbf{recovery}$ $\\textbf{during}$ $\\textbf{this}$ $\\textbf{period}$.",
+        "image": "",
+        "options": [
+            "The Keynesian Multiplier",
+            "Creative Destruction",
+            "Say's Law",
+            "The Laffer Curve"
+        ],
+        "answer": "Creative Destruction",
+        "explanation": "Coined by Joseph Schumpeter, this describes how technological innovation and market changes destroy old industries (like many dot-coms) while creating new ones."
+    },
+    {
+        "id": "E2022",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(CPI)}$ $\\textbf{measures}$ the $\\textbf{average}$ $\\textbf{change}$ $\\textbf{over}$ $\\textbf{time}$ in the $\\textbf{prices}$ $\\textbf{paid}$ by $\\textbf{urban}$ $\\textbf{consumers}$ for a $\\textbf{basket}$ $\\textbf{of}$ $\\textbf{consumer}$ $\\textbf{goods}$ $\\textbf{and}$ $\\textbf{services}$.",
+        "image": "",
+        "options": [
+            "Producer Price Index (PPI)",
+            "GDP Deflator",
+            "Consumer Price Index (CPI)",
+            "Personal Consumption Expenditures (PCE)"
+        ],
+        "answer": "Consumer Price Index (CPI)",
+        "explanation": "CPI is the most common measure of inflation experienced by typical households."
+    },
+    {
+        "id": "E2023",
+        "text": "The $\\textbf{federal}$ $\\textbf{government's}$ $\\textbf{debt}$-$\\textbf{to}$-$\\textbf{GDP}$ $\\textbf{ratio}$ **began rising** in 2002, reversing a decade-long decline.",
+        "image": "",
+        "options": [
+            "Reached an all-time low",
+            "Was completely eliminated",
+            "Began rising",
+            "Remained stable"
+        ],
+        "answer": "Began rising",
+        "explanation": "The return of budget deficits and increased spending meant the government was borrowing more relative to the size of the economy."
+    },
+    {
+        "id": "E2024",
+        "text": "$\\textbf{Tyco}$ $\\textbf{International}$'s $\\textbf{CEO}$, $\\textbf{Dennis}$ $\\textbf{Kozlowski}$, faced charges in 2002 for $\\textbf{stealing}$ $\\textbf{hundreds}$ $\\textbf{of}$ $\\textbf{millions}$ $\\textbf{of}$ $\\textbf{dollars}$ $\\textbf{from}$ $\\textbf{the}$ $\\textbf{company}$ $\\textbf{through}$ $\\textbf{unauthorized}$ $\\textbf{bonuses}$ $\\textbf{and}$ $\\textbf{loans}$.",
+        "image": "",
+        "options": [
+            "Refinancing fraud",
+            "Insider trading",
+            "Stealing hundreds of millions of dollars from the company",
+            "Foreign corruption"
+        ],
+        "answer": "Stealing hundreds of millions of dollars from the company",
+        "explanation": "The Tyco scandal, along with Enron and WorldCom, exemplified the severe lack of corporate governance that led to SOX."
+    },
+    {
+        "id": "E2025",
+        "text": "The $\\textbf{Euro}$ $\\textbf{currency}$ officially $\\textbf{entered}$ $\\textbf{circulation}$ as $\\textbf{physical}$ $\\textbf{cash}$ on **January 1, 2002**, affecting global foreign exchange markets.",
+        "image": "",
+        "options": [
+            "January 1, 2000",
+            "January 1, 2002",
+            "September 11, 2001",
+            "December 31, 2002"
+        ],
+        "answer": "January 1, 2002",
+        "explanation": "While the Euro had existed as a settlement currency since 1999, physical notes and coins were introduced in 2002."
+    },
+    {
+        "id": "E2026",
+        "text": "The $\\textbf{Housing}$ $\\textbf{Price}$ $\\textbf{Index}$ (HPI) $\\textbf{continued}$ to $\\textbf{accelerate}$ $\\textbf{its}$ $\\textbf{rise}$ in 2002, supported by the $\\textbf{Fed's}$ $\\textbf{historically}$ $\\textbf{low}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{that}$ $\\textbf{stimulated}$ $\\textbf{demand}$ $\\textbf{for}$ $\\textbf{real}$ $\\textbf{estate}$.",
+        "image": "",
+        "options": [
+            "Dropped sharply",
+            "Continued to accelerate its rise",
+            "Remained flat",
+            "Was not measured"
+        ],
+        "answer": "Continued to accelerate its rise",
+        "explanation": "The housing market became a primary driver of economic growth in the absence of a strong labor or capital investment market."
+    },
+    {
+        "id": "E2027",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Growth}$ $\\textbf{rate}$ in 2002 **was positive**, confirming the end of the technical recession but marking a slow recovery.",
+        "image": "",
+        "options": [
+            "Was negative for the entire year",
+            "Was negative for the first half",
+            "Was positive",
+            "Was zero"
+        ],
+        "answer": "Was positive",
+        "explanation": "GDP growth was positive, demonstrating that aggregate demand was recovering, but the labor market lagged significantly."
+    },
+    {
+        "id": "E2028",
+        "text": "In 2002, $\\textbf{Productivity}$ $\\textbf{growth}$ (output per hour) was $\\textbf{high}$ relative to $\\textbf{job}$ $\\textbf{growth}$ $\\textbf{because}$ $\\textbf{companies}$ $\\textbf{were}$ $\\textbf{maximizing}$ $\\textbf{the}$ $\\textbf{output}$ $\\textbf{of}$ $\\textbf{their}$ $\\textbf{existing}$ $\\textbf{workforce}$ $\\textbf{instead}$ $\\textbf{of}$ $\\textbf{hiring}$ $\\textbf{new}$ $\\textbf{employees}$.",
+        "image": "",
+        "options": [
+            "Low",
+            "Negative",
+            "High",
+            "Unchanged"
+        ],
+        "answer": "High",
+        "explanation": "The productivity surge was a key factor in the 'jobless recovery,' as companies extracted more output from fewer workers."
+    },
+    {
+        "id": "E2029",
+        "text": "The $\\textbf{Currency}$ $\\textbf{Exchange}$ $\\textbf{rate}$ of the $\\textbf{U.S.}$ $\\textbf{Dollar}$ against other major currencies began a $\\textbf{multi}$-$\\textbf{year}$ $\\textbf{decline}$ in 2002, ending its long bull run.",
+        "image": "",
+        "options": [
+            "Began a multi-year decline",
+            "Reached an all-time high",
+            "Was fixed against the Yen",
+            "Increased due to Fed rate hikes"
+        ],
+        "answer": "Began a multi-year decline",
+        "explanation": "Weak U.S. economic performance relative to expectations and a widening current account deficit put downward pressure on the dollar."
+    },
+    {
+        "id": "E2030",
+        "text": "The $\\textbf{monetary}$ $\\textbf{policy}$ tool the $\\textbf{Federal}$ $\\textbf{Reserve}$ $\\textbf{primarily}$ $\\textbf{used}$ to $\\textbf{set}$ $\\textbf{its}$ $\\textbf{target}$ $\\textbf{interest}$ $\\textbf{rate}$ in 2002 was **Open Market Operations**.",
+        "image": "",
+        "options": [
+            "Changing the reserve requirement",
+            "Printing new currency",
+            "Open Market Operations",
+            "Fiscal spending"
+        ],
+        "answer": "Open Market Operations",
+        "explanation": "The buying and selling of U.S. Treasury securities is the Fed's main tool for influencing the Federal Funds Rate."
+    },
+    {
+        "id": "E2031",
+        "text": "The $\\textbf{S&P}$ $\\textbf{500}$ $\\textbf{retested}$ its post-9/11 lows during the $\\textbf{summer}$ of 2002, reflecting the $\\textbf{erosion}$ $\\textbf{of}$ $\\textbf{confidence}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{WorldCom}$ $\\textbf{and}$ $\\textbf{other}$ $\\textbf{corporate}$ $\\textbf{scandals}$.",
+        "image": "",
+        "options": [
+            "Spring 2002",
+            "Summer 2002",
+            "Fall 2002",
+            "Winter 2002"
+        ],
+        "answer": "Summer 2002",
+        "explanation": "The crisis accelerated in June/July 2002, pushing the stock indices to their lowest levels in years."
+    },
+    {
+        "id": "E2032",
+        "text": "The $\\textbf{Sarbanes}$-$\\textbf{Oxley}$ $\\textbf{Act}$ $\\textbf{(SOX)}$ mandated that $\\textbf{external}$ $\\textbf{auditors}$ must $\\textbf{attest}$ to $\\textbf{management’s}$ $\\textbf{assessment}$ $\\textbf{of}$ $\\textbf{internal}$ $\\textbf{controls}$ $\\textbf{over}$ $\\textbf{financial}$ $\\textbf{reporting}$.",
+        "image": "",
+        "options": [
+            "Audit management's emails",
+            "Attest to management's assessment of internal controls",
+            "Set executive compensation",
+            "Determine dividend policy"
+        ],
+        "answer": "Attest to management's assessment of internal controls",
+        "explanation": "This requirement (Section 404(b)) dramatically increased the burden and liability for auditing firms."
+    },
+    {
+        "id": "E2033",
+        "text": "The $\\textbf{Marginal}$ $\\textbf{Propensity}$ $\\textbf{to}$ $\\textbf{Consume}$ $\\textbf{(MPC)}$ is the $\\textbf{fraction}$ of $\\textbf{extra}$ $\\textbf{income}$ that a household $\\textbf{consumes}$ rather than $\\textbf{saves}$.",
+        "image": "",
+        "options": [
+            "Interest Rate",
+            "Marginal Propensity to Consume (MPC)",
+            "Velocity of Money",
+            "Capital-Output Ratio"
+        ],
+        "answer": "Marginal Propensity to Consume (MPC)",
+        "explanation": "MPC is a key concept in Keynesian economics, used to calculate the effectiveness of fiscal stimulus."
+    },
+    {
+        "id": "E2034",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Housing}$ $\\textbf{Finance}$ $\\textbf{Agency}$ $\\textbf{(FHFA)}$ $\\textbf{House}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(HPI)}$ became a critical $\\textbf{indicator}$ in 2002 due to the $\\textbf{surging}$ $\\textbf{home}$ $\\textbf{prices}$ $\\textbf{that}$ $\\textbf{were}$ $\\textbf{lifting}$ $\\textbf{the}$ $\\textbf{economy}$ $\\textbf{via}$ $\\textbf{the}$ $\\textbf{wealth}$ $\\textbf{effect}$.",
+        "image": "",
+        "options": [
+            "Consumer Confidence",
+            "Industrial Production",
+            "FHFA House Price Index (HPI)",
+            "Trade Deficit"
+        ],
+        "answer": "FHFA House Price Index (HPI)",
+        "explanation": "As housing became the main driver of wealth and spending, its tracking became more central to economic analysis."
+    },
+    {
+        "id": "E2035",
+        "text": "$\\textbf{Stagflation}$ is the economic condition of $\\textbf{simultaneous}$ $\\textbf{high}$ $\\textbf{inflation}$ and $\\textbf{high}$ $\\textbf{unemployment}$ and $\\textbf{stagnant}$ $\\textbf{demand}$ $\\textbf{that}$ $\\textbf{was}$ $\\textbf{a}$ $\\textbf{major}$ $\\textbf{risk}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{early}$ $\\textbf{2000s}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{geopolitical}$ $\\textbf{risks}$ $\\textbf{and}$ $\\textbf{a}$ $\\textbf{weak}$ $\\textbf{economy}$.",
+        "image": "",
+        "options": [
+            "Deflation",
+            "Stagflation",
+            "Hyperinflation",
+            "Disinflation"
+        ],
+        "answer": "Stagflation",
+        "explanation": "While 2002 was not characterized by high inflation, the environment of slow growth and rising costs (like oil) raised the specter of stagflation."
+    },
+    {
+        "id": "E2036",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Senate}$ approved a resolution in $\\textbf{October}$ $\\textbf{2002}$ $\\textbf{authorizing}$ the $\\textbf{use}$ $\\textbf{of}$ $\\textbf{military}$ $\\textbf{force}$ $\\textbf{against}$ $\\textbf{Iraq}$, leading to $\\textbf{increased}$ $\\textbf{geopolitical}$ $\\textbf{uncertainty}$ $\\textbf{that}$ $\\textbf{drove}$ $\\textbf{investors}$ $\\textbf{to}$ $\\textbf{Treasury}$ $\\textbf{bonds}$.",
+        "image": "",
+        "options": [
+            "Iran",
+            "Iraq",
+            "Afghanistan",
+            "North Korea"
+        ],
+        "answer": "Iraq",
+        "explanation": "The increasing certainty of military conflict caused both economic uncertainty and a rise in defense spending."
+    },
+    {
+        "id": "E2037",
+        "text": "The $\\textbf{economic}$ $\\textbf{condition}$ where $\\textbf{GDP}$ $\\textbf{growth}$ $\\textbf{is}$ $\\textbf{slow}$ $\\textbf{or}$ $\\textbf{flat}$ $\\textbf{while}$ $\\textbf{unemployment}$ $\\textbf{is}$ $\\textbf{low}$ $\\textbf{is}$ $\\textbf{known}$ $\\textbf{as}$ $\\textbf{Secular}$ $\\textbf{Stagnation}$.",
+        "image": "",
+        "options": [
+            "Secular Stagnation",
+            "Business Cycle",
+            "Monetarism",
+            "Rational Expectations"
+        ],
+        "answer": "Secular Stagnation",
+        "explanation": "Though not a perfect fit for 2002, the idea of a 'long slump' or weak potential growth was debated among economists."
+    },
+    {
+        "id": "E2038",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ cut the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ one final time in $\\textbf{November}$ $\\textbf{2002}$ from $\\textbf{1.75%}$ to **1.25%**, anticipating continued weakness.",
+        "image": "",
+        "options": [
+            "March 2002",
+            "August 2002",
+            "November 2002",
+            "December 2002"
+        ],
+        "answer": "November 2002",
+        "explanation": "After a 10-month pause, the Fed cut rates again in November, demonstrating continued concern about the economic recovery."
+    },
+    {
+        "id": "E2039",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{impact}$ of the $\\textbf{Jobless}$ $\\textbf{Recovery}$ included $\\textbf{automatic}$ $\\textbf{stabilizers}$ $\\textbf{like}$ $\\textbf{increased}$ $\\textbf{unemployment}$ $\\textbf{insurance}$ $\\textbf{payments}$ $\\textbf{that}$ $\\textbf{added}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{budget}$ $\\textbf{deficit}$.",
+        "image": "",
+        "options": [
+            "Reduced sales tax revenue",
+            "Increased unemployment insurance payments",
+            "Lower defense spending",
+            "A shift to a trade surplus"
+        ],
+        "answer": "Increased unemployment insurance payments",
+        "explanation": "As unemployment rose, more people qualified for benefits, which acts as an automatic fiscal stimulus."
+    },
+    {
+        "id": "E2040",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Deflator}$ $\\textbf{measures}$ inflation by $\\textbf{excluding}$ $\\textbf{import}$ $\\textbf{prices}$ $\\textbf{in}$ $\\textbf{contrast}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{CPI}$ $\\textbf{which}$ $\\textbf{includes}$ $\\textbf{them}$ $\\textbf{and}$ $\\textbf{is}$ $\\textbf{a}$ $\\textbf{key}$ $\\textbf{difference}$ $\\textbf{between}$ $\\textbf{the}$ $\\textbf{two}$ $\\textbf{measures}$ $\\textbf{of}$ $\\textbf{price}$ $\\textbf{level}$.",
+        "image": "",
+        "options": [
+            "Is only calculated annually",
+            "Excludes import prices",
+            "Only measures goods, not services",
+            "Only measures government spending"
+        ],
+        "answer": "Excludes import prices",
+        "explanation": "The GDP Deflator is based on goods and services *domestically produced*, whereas the CPI uses a basket of goods *purchased by consumers*, which includes imports."
+    }
+]

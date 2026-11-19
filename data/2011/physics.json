@@ -1,0 +1,322 @@
+[
+    {
+      "id": "PHYS_2011_01",
+      "text": "Which of the following units is derived?",
+      "image": "",
+      "options": ["kg", "m", "K", "N"],
+      "answer": "N",
+      "explanation": "Newtons (N) are derived from fundamental units ($kg \\cdot m/s^2$). Kilograms (kg), meters (m), and Kelvin (K) are fundamental units."
+    },
+    {
+      "id": "PHYS_2011_02",
+      "text": "A stone is thrown vertically upwards with a velocity of $20 \\text{ m/s}$. How high does it go? [Take $g = 10 \\text{ m/s}^2$]",
+      "image": "",
+      "options": ["$10 \\text{ m}$", "$20 \\text{ m}$", "$40 \\text{ m}$", "$25 \\text{ m}$"],
+      "answer": "$20 \\text{ m}$",
+      "explanation": "At maximum height, $v = 0$. Using $v^2 = u^2 - 2gh$, we get $0 = 20^2 - 2(10)h$. $400 = 20h$, so $h = 20 \\text{ m}$."
+    },
+    {
+      "id": "PHYS_2011_03",
+      "text": "The motion of the prongs of a sounding tuning fork is:",
+      "image": "[Diagram of a vibrating tuning fork]",
+      "options": ["Rotational", "Random", "Vibratory", "Translational"],
+      "answer": "Vibratory",
+      "explanation": "A tuning fork produces sound through the rapid back-and-forth vibration of its prongs."
+    },
+    {
+      "id": "PHYS_2011_04",
+      "text": "A body of mass $5 \\text{ kg}$ starts from rest and accelerates uniformly to a velocity of $10 \\text{ m/s}$ in $4 \\text{ s}$. The force acting on the body is:",
+      "image": "",
+      "options": ["$12.5 \\text{ N}$", "$2.5 \\text{ N}$", "$50 \\text{ N}$", "$10 \\text{ N}$"],
+      "answer": "$12.5 \\text{ N}$",
+      "explanation": "Acceleration $a = (v - u)/t = (10 - 0)/4 = 2.5 \\text{ m/s}^2$. Force $F = ma = 5 \\times 2.5 = 12.5 \\text{ N}$."
+    },
+    {
+      "id": "PHYS_2011_05",
+      "text": "The principle of operation of a rocket is based on the law of conservation of:",
+      "image": "[Diagram of a rocket launch illustrating momentum conservation]",
+      "options": ["Energy", "Mass", "Momentum", "Charge"],
+      "answer": "Momentum",
+      "explanation": "Rocket propulsion is a classic application of the conservation of linear momentum (Newton's third law)."
+    },
+    {
+      "id": "PHYS_2011_06",
+      "text": "A simple machine has an efficiency of $75\\%$. If the velocity ratio is 4, the mechanical advantage is:",
+      "image": "",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "explanation": "Efficiency $E = (M.A. / V.R.) \\times 100$. $75 = (M.A. / 4) \\times 100$. $M.A. = (75 \\times 4) / 100 = 3$."
+    },
+    {
+      "id": "PHYS_2011_07",
+      "text": "The pressure at a point in a liquid depends on:",
+      "image": "",
+      "options": ["Surface area", "Depth", "Shape of container", "Volume of liquid"],
+      "answer": "Depth",
+      "explanation": "Liquid pressure $P = \\rho gh$. It depends on density ($\\rho$), gravity ($g$), and depth ($h$)."
+    },
+    {
+      "id": "PHYS_2011_08",
+      "text": "Which of the following thermometers is used to measure the temperature of a furnace?",
+      "image": "[Diagram of an optical pyrometer]",
+      "options": ["Clinical thermometer", "Gas thermometer", "Resistance thermometer", "Optical pyrometer"],
+      "answer": "Optical pyrometer",
+      "explanation": "Pyrometers are used for measuring very high temperatures, such as those inside furnaces, by analyzing the radiation emitted."
+    },
+    {
+      "id": "PHYS_2011_09",
+      "text": "The quantity of heat required to melt a unit mass of a solid at its melting point without a change in temperature is called:",
+      "image": "",
+      "options": ["Specific heat capacity", "Latent heat of fusion", "Latent heat of vaporization", "Heat capacity"],
+      "answer": "Latent heat of fusion",
+      "explanation": "Latent heat of fusion is the energy needed to change a substance from solid to liquid at constant temperature."
+    },
+    {
+      "id": "PHYS_2011_10",
+      "text": "If the pressure of a fixed mass of gas is halved while its volume is doubled, the temperature will:",
+      "image": "",
+      "options": ["Remain constant", "Double", "Halve", "Increase four times"],
+      "answer": "Remain constant",
+      "explanation": "Using the ideal gas law $PV/T = k$. If $P' = P/2$ and $V' = 2V$, then $P'V' = (P/2)(2V) = PV$. Since $PV$ is unchanged, $T$ must remain constant."
+    },
+    {
+      "id": "PHYS_2011_11",
+      "text": "A transverse wave of frequency $10 \\text{ Hz}$ travels with a speed of $20 \\text{ m/s}$. The wavelength is:",
+      "image": "",
+      "options": ["$0.5 \\text{ m}$", "$2.0 \\text{ m}$", "$200 \\text{ m}$", "$10 \\text{ m}$"],
+      "answer": "$2.0 \\text{ m}$",
+      "explanation": "$v = f\\lambda \\Rightarrow \\lambda = v/f = 20/10 = 2.0 \\text{ m}$."
+    },
+    {
+      "id": "PHYS_2011_12",
+      "text": "The phenomenon of resonance occurs when the forcing frequency matches the:",
+      "image": "",
+      "options": ["Fundamental frequency", "Natural frequency", "Harmonic frequency", "Overtone frequency"],
+      "answer": "Natural frequency",
+      "explanation": "Resonance occurs when the frequency of the periodic driving force equals the natural frequency of the oscillating system."
+    },
+    {
+      "id": "PHYS_2011_13",
+      "text": "Which of the following electromagnetic waves is used for night vision cameras?",
+      "image": "",
+      "options": ["Ultraviolet rays", "X-rays", "Infrared rays", "Gamma rays"],
+      "answer": "Infrared rays",
+      "explanation": "Infrared radiation is emitted by warm objects and is used in thermal imaging and night vision equipment."
+    },
+    {
+      "id": "PHYS_2011_14",
+      "text": "An object is placed $15 \\text{ cm}$ in front of a convex lens of focal length $10 \\text{ cm}$. The image position is:",
+      "image": "[Ray diagram for a convex lens with object between F and 2F]",
+      "options": ["$30 \\text{ cm}$ behind the lens", "$6 \\text{ cm}$ behind the lens", "$30 \\text{ cm}$ in front of the lens", "$6 \\text{ cm}$ in front of the lens"],
+      "answer": "$30 \\text{ cm}$ behind the lens",
+      "explanation": "Using $1/f = 1/u + 1/v$. $1/10 = 1/15 + 1/v$. $1/v = 1/10 - 1/15 = (3-2)/30 = 1/30$. $v = 30 \\text{ cm}$ (positive means real image behind lens)."
+    },
+    {
+      "id": "PHYS_2011_15",
+      "text": "The main difference between a camera and the human eye is that the:",
+      "image": "",
+      "options": ["Camera has a fixed focal length lens", "Eye has a fixed focal length lens", "Camera focuses by changing lens shape", "Eye focuses by changing lens distance"],
+      "answer": "Camera has a fixed focal length lens",
+      "explanation": "In a standard camera, focusing is done by moving the lens (changing image distance $v$), while the focal length ($f$) is fixed. In the human eye, focusing (accommodation) is done by changing the shape (focal length) of the lens."
+    },
+    {
+      "id": "PHYS_2011_16",
+      "text": "Dispersion of light by a glass prism is due to:",
+      "image": "[Diagram of light dispersion through a prism]",
+      "options": ["Different speeds of colors in glass", "Reflection of light", "Diffraction of light", "Interference of light"],
+      "answer": "Different speeds of colors in glass",
+      "explanation": "Different colors (wavelengths) travel at different speeds in glass, leading to different refractive indices and angles of deviation."
+    },
+    {
+      "id": "PHYS_2011_17",
+      "text": "Calculate the electrostatic force between two charges of $2 \\mu\\text{C}$ and $4 \\mu\\text{C}$ placed $2 \\text{ m}$ apart in a vacuum. [$k = 9 \\times 10^9 \\text{ Nm}^2\\text{C}^{-2}$]",
+      "image": "",
+      "options": ["$1.8 \\times 10^{-2} \\text{ N}$", "$1.8 \\times 10^{-3} \\text{ N}$", "$3.6 \\times 10^{-2} \\text{ N}$", "$9.0 \\times 10^{-3} \\text{ N}$"],
+      "answer": "$1.8 \\times 10^{-2} \\text{ N}$",
+      "explanation": "$F = k q_1 q_2 / r^2 = (9 \\times 10^9 \\times 2 \\times 10^{-6} \\times 4 \\times 10^{-6}) / 2^2 = (72 \\times 10^{-3}) / 4 = 18 \\times 10^{-3} = 1.8 \\times 10^{-2} \\text{ N}$."
+    },
+    {
+      "id": "PHYS_2011_18",
+      "text": "A capacitor of capacitance $5 \\mu\\text{F}$ is connected to a $20 \\text{ V}$ supply. The energy stored is:",
+      "image": "",
+      "options": ["$1.0 \\times 10^{-3} \\text{ J}$", "$2.0 \\times 10^{-3} \\text{ J}$", "$5.0 \\times 10^{-4} \\text{ J}$", "$1.0 \\times 10^{-4} \\text{ J}$"],
+      "answer": "$1.0 \\times 10^{-3} \\text{ J}$",
+      "explanation": "$E = 1/2 CV^2 = 0.5 \\times 5 \\times 10^{-6} \\times 20^2 = 0.5 \\times 5 \\times 10^{-6} \\times 400 = 1000 \\times 10^{-6} = 1.0 \\times 10^{-3} \\text{ J}$."
+    },
+    {
+      "id": "PHYS_2011_19",
+      "text": "Which of the following is an ohmic conductor?",
+      "image": "[Graph showing V-I characteristics of an ohmic conductor]",
+      "options": ["Filament lamp", "Diode", "Copper wire at constant temperature", "Electrolyte"],
+      "answer": "Copper wire at constant temperature",
+      "explanation": "Ohmic conductors obey Ohm's law ($V \\propto I$) where resistance is constant. This holds for metals at constant temperature."
+    },
+    {
+      "id": "PHYS_2011_20",
+      "text": "Three cells each of e.m.f. $1.5 \\text{ V}$ and internal resistance $0.5 \\Omega$ are connected in series. The total e.m.f. and internal resistance are:",
+      "image": "",
+      "options": ["$4.5 \\text{ V}, 1.5 \\Omega$", "$1.5 \\text{ V}, 0.5 \\Omega$", "$4.5 \\text{ V}, 0.5 \\Omega$", "$1.5 \\text{ V}, 1.5 \\Omega$"],
+      "answer": "$4.5 \\text{ V}, 1.5 \\Omega$",
+      "explanation": "In series, total e.m.f. = $1.5 + 1.5 + 1.5 = 4.5 \\text{ V}$. Total internal resistance = $0.5 + 0.5 + 0.5 = 1.5 \\Omega$."
+    },
+    {
+      "id": "PHYS_2011_21",
+      "text": "The magnetic field pattern around a straight current-carrying conductor consists of:",
+      "image": "[Diagram of concentric magnetic field lines around a straight wire]",
+      "options": ["Straight lines parallel to the wire", "Concentric circles", "Elliptical loops", "Radial lines"],
+      "answer": "Concentric circles",
+      "explanation": "According to the Right Hand Grip Rule, the magnetic field lines form concentric circles around the wire."
+    },
+    {
+      "id": "PHYS_2011_22",
+      "text": "An electric heater is rated $1000 \\text{ W}$, $240 \\text{ V}$. The current drawn by the heater is:",
+      "image": "",
+      "options": ["$0.24 \\text{ A}$", "$4.17 \\text{ A}$", "$2.40 \\text{ A}$", "$10.0 \\text{ A}$"],
+      "answer": "$4.17 \\text{ A}$",
+      "explanation": "$P = IV \\Rightarrow I = P/V = 1000 / 240 \\approx 4.17 \\text{ A}$."
+    },
+    {
+      "id": "PHYS_2011_23",
+      "text": "Electromagnetic induction is the phenomenon of generating an induced e.m.f. by:",
+      "image": "",
+      "options": ["Heating a coil", "Changing the magnetic flux linking a coil", "Charging a capacitor", "Passing current through a resistor"],
+      "answer": "Changing the magnetic flux linking a coil",
+      "explanation": "Electromagnetic induction occurs when there is a change in magnetic flux linkage, as described by Faraday's Law."
+    },
+    {
+      "id": "PHYS_2011_24",
+      "text": "The process of doping a semiconductor involves adding:",
+      "image": "[Diagram showing n-type and p-type doping]",
+      "options": ["Impurities to increase conductivity", "Electrons to the surface", "Protons to the nucleus", "Neutrons to the nucleus"],
+      "answer": "Impurities to increase conductivity",
+      "explanation": "Doping is the intentional introduction of impurities (like Arsenic or Boron) into an intrinsic semiconductor to modulate its electrical properties."
+    },
+    {
+      "id": "PHYS_2011_25",
+      "text": "The minimum frequency required to eject an electron from a metal surface is called the:",
+      "image": "",
+      "options": ["Fundamental frequency", "Threshold frequency", "Stopping frequency", "Critical frequency"],
+      "answer": "Threshold frequency",
+      "explanation": "The threshold frequency ($f_0$) is the minimum frequency of incident light required to overcome the work function of the metal."
+    },
+    {
+      "id": "PHYS_2011_26",
+      "text": "Which of the following is used as a nuclear fuel?",
+      "image": "",
+      "options": ["Lead-206", "Uranium-235", "Carbon-12", "Iron-56"],
+      "answer": "Uranium-235",
+      "explanation": "Uranium-235 is a fissile isotope commonly used as fuel in nuclear reactors."
+    },
+    {
+      "id": "PHYS_2011_27",
+      "text": "The resistance of an ideal ammeter is:",
+      "image": "",
+      "options": ["Infinite", "Zero", "Very high", "Equal to the circuit resistance"],
+      "answer": "Zero",
+      "explanation": "An ideal ammeter should have zero resistance so that it does not alter the current flowing in the circuit when connected in series."
+    },
+    {
+      "id": "PHYS_2011_28",
+      "text": "Water is a poor thermometric liquid because it:",
+      "image": "",
+      "options": ["Wets glass", "Has a low specific heat capacity", "Is opaque", "Has irregular expansion"],
+      "answer": "Wets glass",
+      "explanation": "Water wets glass (meniscus sticks to the tube) and has anomalous expansion (density maximum at $4^\\circ\\text{C}$), making it unsuitable for thermometers."
+    },
+    {
+      "id": "PHYS_2011_29",
+      "text": "Calculate the work done in stretching a spring by $0.1 \\text{ m}$ if the spring constant is $500 \\text{ N/m}$.",
+      "image": "",
+      "options": ["$2.5 \\text{ J}$", "$5.0 \\text{ J}$", "$25 \\text{ J}$", "$50 \\text{ J}$"],
+      "answer": "$2.5 \\text{ J}$",
+      "explanation": "Work done = Elastic Potential Energy = $1/2 kx^2 = 0.5 \\times 500 \\times (0.1)^2 = 250 \\times 0.01 = 2.5 \\text{ J}$."
+    },
+    {
+      "id": "PHYS_2011_30",
+      "text": "The dimension of power is:",
+      "image": "",
+      "options": ["$MLT^{-2}$", "$ML^2T^{-2}$", "$ML^2T^{-3}$", "$MLT^{-1}$"],
+      "answer": "$ML^2T^{-3}$",
+      "explanation": "Power = Work / Time = $(ML^2T^{-2}) / T = ML^2T^{-3}$."
+    },
+    {
+      "id": "PHYS_2011_31",
+      "text": "Which of the following waves requires a material medium for propagation?",
+      "image": "",
+      "options": ["Radio waves", "Light waves", "Sound waves", "X-rays"],
+      "answer": "Sound waves",
+      "explanation": "Sound waves are mechanical waves and cannot travel through a vacuum."
+    },
+    {
+      "id": "PHYS_2011_32",
+      "text": "An object of mass $2 \\text{ kg}$ is dropped from a height of $20 \\text{ m}$. Its kinetic energy just before hitting the ground is: [Take $g = 10 \\text{ m/s}^2$]",
+      "image": "",
+      "options": ["$200 \\text{ J}$", "$400 \\text{ J}$", "$40 \\text{ J}$", "$100 \\text{ J}$"],
+      "answer": "$400 \\text{ J}$",
+      "explanation": "By conservation of energy, Initial PE = Final KE. $PE = mgh = 2 \\times 10 \\times 20 = 400 \\text{ J}$."
+    },
+    {
+      "id": "PHYS_2011_33",
+      "text": "The angle of dip at the magnetic equator is:",
+      "image": "",
+      "options": ["$0^\\circ$", "$45^\\circ$", "$90^\\circ$", "$180^\\circ$"],
+      "answer": "$0^\\circ$",
+      "explanation": "At the magnetic equator, the magnetic field lines are horizontal, so the angle of dip (inclination) is $0^\\circ$."
+    },
+    {
+      "id": "PHYS_2011_34",
+      "text": "Which of the following is a scalar quantity?",
+      "image": "",
+      "options": ["Displacement", "Electric field intensity", "Work", "Magnetic flux density"],
+      "answer": "Work",
+      "explanation": "Work is a scalar quantity (dot product of force and displacement). The others are vectors."
+    },
+    {
+      "id": "PHYS_2011_35",
+      "text": "In a step-up transformer, the:",
+      "image": "",
+      "options": ["Primary current is greater than secondary current", "Secondary voltage is less than primary voltage", "Primary turns are greater than secondary turns", "Power output is greater than power input"],
+      "answer": "Primary current is greater than secondary current",
+      "explanation": "To conserve power ($V_p I_p \\approx V_s I_s$), if voltage is stepped up ($V_s > V_p$), current must be stepped down ($I_p > I_s$)."
+    },
+    {
+      "id": "PHYS_2011_36",
+      "text": "The principle of transmissibility of pressure in fluids is known as:",
+      "image": "",
+      "options": ["Archimedes' Principle", "Pascal's Law", "Bernoulli's Principle", "Boyle's Law"],
+      "answer": "Pascal's Law",
+      "explanation": "Pascal's Law describes how pressure applied to an enclosed fluid is transmitted undiminished throughout the fluid."
+    },
+    {
+      "id": "PHYS_2011_37",
+      "text": "A convex mirror always forms an image that is:",
+      "image": "[Ray diagram of image formation by a convex mirror]",
+      "options": ["Real and inverted", "Real and erect", "Virtual and inverted", "Virtual and erect"],
+      "answer": "Virtual and erect",
+      "explanation": "Convex mirrors are diverging mirrors and always produce virtual, upright (erect), and diminished images."
+    },
+    {
+      "id": "PHYS_2011_38",
+      "text": "The resistance of a semiconductor decreases with an increase in temperature because:",
+      "image": "",
+      "options": ["The atoms vibrate more", "The number of free charge carriers increases", "The drift velocity decreases", "The relaxation time increases"],
+      "answer": "The number of free charge carriers increases",
+      "explanation": "Heating a semiconductor provides energy to break bonds, releasing more electrons and holes (charge carriers), thus decreasing resistance."
+    },
+    {
+      "id": "PHYS_2011_39",
+      "text": "Which of the following has the highest penetrating power?",
+      "image": "[Diagram comparing penetrating power of alpha, beta, and gamma radiation]",
+      "options": ["Alpha particles", "Beta particles", "Gamma rays", "X-rays"],
+      "answer": "Gamma rays",
+      "explanation": "Gamma rays are high-energy photons with no mass or charge, allowing them to penetrate matter most deeply."
+    },
+    {
+      "id": "PHYS_2011_40",
+      "text": "The speed of light in vacuum is $3.0 \\times 10^8 \\text{ m/s}$. If the refractive index of water is $1.33$, the speed of light in water is:",
+      "image": "",
+      "options": ["$2.26 \\times 10^8 \\text{ m/s}$", "$4.0 \\times 10^8 \\text{ m/s}$", "$3.0 \\times 10^8 \\text{ m/s}$", "$1.5 \\times 10^8 \\text{ m/s}$"],
+      "answer": "$2.26 \\times 10^8 \\text{ m/s}$",
+      "explanation": "$v = c/n = (3.0 \\times 10^8) / 1.33 \\approx 2.26 \\times 10^8 \\text{ m/s}$."
+    }
+]

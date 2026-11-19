@@ -1,0 +1,325 @@
+[
+    {
+      "id": "JAMB_C_2005_01",
+      "text": "Which of the following is a chemical change?",
+      "image": "",
+      "options": ["Melting of ice", "Dissolving sugar", "Burning magnesium", "Evaporation of water"],
+      "answer": "Burning magnesium",
+      "explanation": "Burning magnesium forms a new substance (MgO), indicating chemical change."
+    },
+    {
+      "id": "JAMB_C_2005_02",
+      "text": "The smallest particle of an element that takes part in a chemical reaction is:",
+      "image": "",
+      "options": ["Molecule", "Atom", "Ion", "Radical"],
+      "answer": "Atom",
+      "explanation": "An atom is the basic reactive unit of an element."
+    },
+    {
+      "id": "JAMB_C_2005_03",
+      "text": "Which gas turns moist red litmus paper blue?",
+      "image": "",
+      "options": ["CO₂", "N₂", "NH₃", "SO₂"],
+      "answer": "NH₃",
+      "explanation": "Ammonia is basic and turns red litmus blue."
+    },
+    {
+      "id": "JAMB_C_2005_04",
+      "text": "The charge on a chloride ion is:",
+      "image": "",
+      "options": ["1−", "2−", "1+", "2+"],
+      "answer": "1−",
+      "explanation": "Chlorine gains one electron to form Cl⁻."
+    },
+    {
+      "id": "JAMB_C_2005_05",
+      "text": "Which separation technique is most suitable for separating crude oil into fractions?",
+      "image": "",
+      "options": ["Filtration", "Fractional distillation", "Chromatography", "Evaporation"],
+      "answer": "Fractional distillation",
+      "explanation": "Crude oil fractions differ in boiling points, separated by fractional distillation."
+    },
+    {
+      "id": "JAMB_C_2005_06",
+      "text": "The ability of carbon to form long chains is called:",
+      "image": "",
+      "options": ["Condensation", "Catenation", "Isomerism", "Hydrogenation"],
+      "answer": "Catenation",
+      "explanation": "Carbon can bond to itself repeatedly."
+    },
+    {
+      "id": "JAMB_C_2005_07",
+      "text": "The atomic number of an element represents the number of:",
+      "image": "",
+      "options": ["Neutrons", "Electrons", "Protons", "Nucleons"],
+      "answer": "Protons",
+      "explanation": "Atomic number equals number of protons."
+    },
+    {
+      "id": "JAMB_C_2005_08",
+      "text": "The oxidation state of sulphur in H₂SO₄ is:",
+      "image": "",
+      "options": ["+2", "+4", "+6", "0"],
+      "answer": "+6",
+      "explanation": "Sulphur is +6 in sulphuric acid."
+    },
+    {
+      "id": "JAMB_C_2005_09",
+      "text": "An endothermic reaction is one in which:",
+      "image": "",
+      "options": ["Heat is released", "Heat is absorbed", "Pressure increases", "Light is emitted"],
+      "answer": "Heat is absorbed",
+      "explanation": "Endothermic reactions take in heat."
+    },
+    {
+      "id": "JAMB_C_2005_10",
+      "text": "Which of the following is a noble gas?",
+      "image": "",
+      "options": ["Nitrogen", "Oxygen", "Helium", "Chlorine"],
+      "answer": "Helium",
+      "explanation": "Noble gases include He, Ne, Ar, Kr…"
+    },
+    {
+      "id": "JAMB_C_2005_11",
+      "text": "Which of these is a strong electrolyte?",
+      "image": "",
+      "options": ["Acetic acid", "Sugar solution", "NaCl solution", "Water"],
+      "answer": "NaCl solution",
+      "explanation": "NaCl dissociates completely in water."
+    },
+    {
+      "id": "JAMB_C_2005_12",
+      "text": "A catalyst increases reaction rate by:",
+      "image": "",
+      "options": ["Increasing temperature", "Lowering activation energy", "Changing equilibrium", "Increasing pressure"],
+      "answer": "Lowering activation energy",
+      "explanation": "Catalysts provide alternate pathways."
+    },
+    {
+      "id": "JAMB_C_2005_13",
+      "text": "Which of the following is a covalent compound?",
+      "image": "",
+      "options": ["NaCl", "MgO", "CO₂", "CaCl₂"],
+      "answer": "CO₂",
+      "explanation": "CO₂ consists of covalent bonds."
+    },
+    {
+      "id": "JAMB_C_2005_14",
+      "text": "The major constituent of natural gas is:",
+      "image": "",
+      "options": ["Ethane", "Methane", "Propane", "Butane"],
+      "answer": "Methane",
+      "explanation": "Natural gas is mostly methane."
+    },
+    {
+      "id": "JAMB_C_2005_15",
+      "text": "Which of these is a chemical property?",
+      "image": "",
+      "options": ["Density", "Boiling point", "Reactivity", "Colour"],
+      "answer": "Reactivity",
+      "explanation": "Chemical properties involve ability to react."
+    },
+    {
+      "id": "JAMB_C_2005_16",
+      "text": "The pH of a neutral solution is:",
+      "image": "",
+      "options": ["0", "7", "14", "1"],
+      "answer": "7",
+      "explanation": "Neutral solutions have pH = 7."
+    },
+    {
+      "id": "JAMB_C_2005_17",
+      "text": "A solution that resists change in pH is called:",
+      "image": "",
+      "options": ["Indicator", "Salt", "Buffer", "Base"],
+      "answer": "Buffer",
+      "explanation": "Buffers stabilize pH."
+    },
+    {
+      "id": "JAMB_C_2005_18",
+      "text": "The metallic bonding is due to:",
+      "image": "",
+      "options": ["Pairs of electrons", "Electrostatic attraction", "Sea of electrons", "Shared protons"],
+      "answer": "Sea of electrons",
+      "explanation": "Metals share delocalized electrons."
+    },
+    {
+      "id": "JAMB_C_2005_19",
+      "text": "Which of the following increases the solubility of gases in liquids?",
+      "image": "",
+      "options": ["Increase in temperature", "Decrease in pressure", "Increase in pressure", "Exposure to air"],
+      "answer": "Increase in pressure",
+      "explanation": "Henry’s law: solubility ↑ with pressure."
+    },
+    {
+      "id": "JAMB_C_2005_20",
+      "text": "The number of atoms present in 12 g of carbon-12 is:",
+      "image": "",
+      "options": ["1 mole", "6.02×10²³ atoms", "12 atoms", "Both A and B"],
+      "answer": "Both A and B",
+      "explanation": "12 g of carbon = 1 mole = Avogadro’s number."
+    },
+  
+    {
+      "id": "JAMB_C_2005_21",
+      "text": "The process of converting gas to liquid is called:",
+      "image": "",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Fusion"],
+      "answer": "Condensation",
+      "explanation": "Condensation forms liquid from gas."
+    },
+    {
+      "id": "JAMB_C_2005_22",
+      "text": "Hard water does NOT easily form lather due to:",
+      "image": "",
+      "options": ["Na⁺ ions", "K⁺ ions", "Ca²⁺ and Mg²⁺ ions", "Cl⁻ ions"],
+      "answer": "Ca²⁺ and Mg²⁺ ions",
+      "explanation": "Hardness is caused by Ca²⁺ and Mg²⁺."
+    },
+    {
+      "id": "JAMB_C_2005_23",
+      "text": "Which of the following is not an allotrope of carbon?",
+      "image": "",
+      "options": ["Diamond", "Graphite", "Charcoal", "Bronze"],
+      "answer": "Bronze",
+      "explanation": "Bronze is an alloy of copper and tin."
+    },
+    {
+      "id": "JAMB_C_2005_24",
+      "text": "Which gas is used in the Haber process?",
+      "image": "",
+      "options": ["CO₂", "NH₃", "H₂", "N₂"],
+      "answer": "H₂",
+      "explanation": "Haber process uses H₂ and N₂ to form NH₃."
+    },
+    {
+      "id": "JAMB_C_2005_25",
+      "text": "The property of an element to exist in two or more forms is called:",
+      "image": "",
+      "options": ["Isotopy", "Allotropy", "Isomerism", "Fusion"],
+      "answer": "Allotropy",
+      "explanation": "Allotropy refers to different physical forms."
+    },
+    {
+      "id": "JAMB_C_2005_26",
+      "text": "The strongest type of chemical bond is:",
+      "image": "",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Van der Waals force"],
+      "answer": "Covalent bond",
+      "explanation": "Covalent bonds are typically strongest."
+    },
+    {
+      "id": "JAMB_C_2005_27",
+      "text": "Electrolysis of acidified water produces:",
+      "image": "",
+      "options": ["H₂ and O₂", "Na and Cl₂", "HCl and NaOH", "CO and CO₂"],
+      "answer": "H₂ and O₂",
+      "explanation": "Hydrogen is produced at cathode; oxygen at anode."
+    },
+    {
+      "id": "JAMB_C_2005_28",
+      "text": "Which of the following is an exothermic process?",
+      "image": "",
+      "options": ["Melting ice", "Evaporation", "Combustion", "Boiling water"],
+      "answer": "Combustion",
+      "explanation": "Combustion releases heat."
+    },
+    {
+      "id": "JAMB_C_2005_29",
+      "text": "The pH of 0.001 M HCl is:",
+      "image": "",
+      "options": ["1", "2", "3", "11"],
+      "answer": "3",
+      "explanation": "pH = −log[H⁺] = −log(0.001) = 3."
+    },
+    {
+      "id": "JAMB_C_2005_30",
+      "text": "A redox reaction involves:",
+      "image": "",
+      "options": ["Only oxidation", "Only reduction", "Oxidation and reduction", "Neutralization"],
+      "answer": "Oxidation and reduction",
+      "explanation": "Both occur simultaneously."
+    },
+  
+    {
+      "id": "JAMB_C_2005_31",
+      "text": "An amphoteric oxide is one that reacts with:",
+      "image": "",
+      "options": ["Acids only", "Bases only", "Both acids and bases", "Neither acids nor bases"],
+      "answer": "Both acids and bases",
+      "explanation": "Amphoteric oxides behave as acid and base."
+    },
+    {
+      "id": "JAMB_C_2005_32",
+      "text": "Which of these is used as a drying agent?",
+      "image": "",
+      "options": ["H₂O", "CaCl₂", "NH₄Cl", "CO₂"],
+      "answer": "CaCl₂",
+      "explanation": "Calcium chloride absorbs moisture."
+    },
+    {
+      "id": "JAMB_C_2005_33",
+      "text": "Which element is most electronegative?",
+      "image": "",
+      "options": ["Oxygen", "Fluorine", "Nitrogen", "Chlorine"],
+      "answer": "Fluorine",
+      "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+      "id": "JAMB_C_2005_34",
+      "text": "The process of rusting requires:",
+      "image": "",
+      "options": ["Iron and oxygen only", "Iron and water only", "Iron, water and oxygen", "Iron and carbon"],
+      "answer": "Iron, water and oxygen",
+      "explanation": "Rusting requires moisture and air."
+    },
+    {
+      "id": "JAMB_C_2005_35",
+      "text": "The molar volume of a gas at STP is:",
+      "image": "",
+      "options": ["11.2 dm³", "22.4 dm³", "44.8 dm³", "2.24 dm³"],
+      "answer": "22.4 dm³",
+      "explanation": "One mole occupies 22.4 dm³ at STP."
+    },
+    {
+      "id": "JAMB_C_2005_36",
+      "text": "Which of the following is NOT an acid?",
+      "image": "",
+      "options": ["H₂SO₄", "HCl", "NaOH", "HNO₃"],
+      "answer": "NaOH",
+      "explanation": "NaOH is a base."
+    },
+    {
+      "id": "JAMB_C_2005_37",
+      "text": "The colour of phenolphthalein in a base is:",
+      "image": "",
+      "options": ["Colourless", "Red", "Pink", "Blue"],
+      "answer": "Pink",
+      "explanation": "Phenolphthalein turns pink in alkaline solution."
+    },
+    {
+      "id": "JAMB_C_2005_38",
+      "text": "Which hydrocarbon is saturated?",
+      "image": "",
+      "options": ["Alkene", "Alkyne", "Alkane", "Benzene"],
+      "answer": "Alkane",
+      "explanation": "Alkanes contain only single bonds."
+    },
+    {
+      "id": "JAMB_C_2005_39",
+      "text": "Which process removes temporary hardness from water?",
+      "image": "",
+      "options": ["Boiling", "Filtration", "Chlorination", "Sedimentation"],
+      "answer": "Boiling",
+      "explanation": "Boiling removes Ca(HCO₃)₂."
+    },
+    {
+      "id": "JAMB_C_2005_40",
+      "text": "The functional group in alcohols is:",
+      "image": "",
+      "options": ["–COOH", "–OH", "–CHO", "–NH₂"],
+      "answer": "–OH",
+      "explanation": "Alcohols contain hydroxyl groups."
+    }
+  ]
+  

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G01",
+        "text": "Which continent is the $\\textbf{largest}$ by land area?",
+        "image": "",
+        "options": [
+            "Africa",
+            "North America",
+            "Asia",
+            "Antarctica"
+        ],
+        "answer": "Asia",
+        "explanation": "Asia covers an area of 44,579,000 square kilometers, making it the largest continent on Earth."
+    },
+    {
+        "id": "G02",
+        "text": "What is the capital city of $\\textbf{Thailand}$?",
+        "image": "",
+        "options": [
+            "Hanoi",
+            "Bangkok",
+            "Jakarta",
+            "Manila"
+        ],
+        "answer": "Bangkok",
+        "explanation": "Bangkok is the political, commercial, and cultural hub of Thailand."
+    },
+    {
+        "id": "G03",
+        "text": "Mount Everest, the highest peak in the world, is located on the border between China and:",
+        "image": "",
+        "options": [
+            "India",
+            "Pakistan",
+            "Bhutan",
+            "Nepal"
+        ],
+        "answer": "Nepal",
+        "explanation": "The summit of Mount Everest marks the international border between China (Tibet) and Nepal."
+    },
+    {
+        "id": "G04",
+        "text": "Which country is home to the ancient city of $\\textbf{Machu Picchu}$?",
+        "image": "",
+        "options": [
+            "Chile",
+            "Bolivia",
+            "Peru",
+            "Ecuador"
+        ],
+        "answer": "Peru",
+        "explanation": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru."
+    },
+    {
+        "id": "G05",
+        "text": "The $\\textbf{Volga River}$, the longest river in Europe, flows through which country?",
+        "image": "",
+        "options": [
+            "Germany",
+            "Poland",
+            "Russia",
+            "Ukraine"
+        ],
+        "answer": "Russia",
+        "explanation": "The Volga flows entirely through Russia and empties into the Caspian Sea."
+    },
+    {
+        "id": "G06",
+        "text": "What is the capital city of $\\textbf{Portugal}$?",
+        "image": "",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Porto",
+            "Lisbon"
+        ],
+        "answer": "Lisbon",
+        "explanation": "Lisbon is the westernmost capital city in continental Europe."
+    },
+    {
+        "id": "G07",
+        "text": "Which U.S. state is known as the $\\textbf{Sunshine State}$?",
+        "image": "",
+        "options": [
+            "California",
+            "Florida",
+            "Hawaii",
+            "Arizona"
+        ],
+        "answer": "Florida",
+        "explanation": "Florida adopted the nickname 'Sunshine State' by legislature in 1970."
+    },
+    {
+        "id": "G08",
+        "text": "The $\\textbf{Gobi Desert}$ spans parts of China and which other country?",
+        "image": "",
+        "options": [
+            "India",
+            "Russia",
+            "Mongolia",
+            "Kazakhstan"
+        ],
+        "answer": "Mongolia",
+        "explanation": "The Gobi is a vast, arid region in northern China and southern Mongolia."
+    },
+    {
+        "id": "G09",
+        "text": "What is the capital city of $\\textbf{Indonesia}$?",
+        "image": "",
+        "options": [
+            "Kuala Lumpur",
+            "Singapore",
+            "Jakarta",
+            "Bali"
+        ],
+        "answer": "Jakarta",
+        "explanation": "Jakarta is located on the northwest coast of the island of Java."
+    },
+    {
+        "id": "G10",
+        "text": "Which country has the largest population in the world?",
+        "image": "",
+        "options": [
+            "India",
+            "United States",
+            "China",
+            "Indonesia"
+        ],
+        "answer": "China",
+        "explanation": "China has the world's largest population, exceeding 1.4 billion people."
+    },
+    {
+        "id": "G11",
+        "text": "The $\\textbf{Strait of Hormuz}$ connects the Persian Gulf with the:",
+        "image": "",
+        "options": [
+            "Red Sea",
+            "Gulf of Oman",
+            "Mediterranean Sea",
+            "Black Sea"
+        ],
+        "answer": "Gulf of Oman",
+        "explanation": "It is a strategically important strait, as a large percentage of the world's oil supply passes through it."
+    },
+    {
+        "id": "G12",
+        "text": "What is the capital city of $\\textbf{Sweden}$?",
+        "image": "",
+        "options": [
+            "Oslo",
+            "Helsinki",
+            "Copenhagen",
+            "Stockholm"
+        ],
+        "answer": "Stockholm",
+        "explanation": "Stockholm is spread across 14 islands where Lake Mälaren flows into the Baltic Sea."
+    },
+    {
+        "id": "G13",
+        "text": "Which African country is the largest by $\\textbf{land area}$?",
+        "image": "",
+        "options": [
+            "Sudan",
+            "Algeria",
+            "Democratic Republic of the Congo",
+            "Libya"
+        ],
+        "answer": "Algeria",
+        "explanation": "Since the split of Sudan in 2011, Algeria has been the largest country in Africa."
+    },
+    {
+        "id": "G14",
+        "text": "What is the capital of $\\textbf{South Korea}$?",
+        "image": "",
+        "options": [
+            "Pyongyang",
+            "Busan",
+            "Seoul",
+            "Incheon"
+        ],
+        "answer": "Seoul",
+        "explanation": "Seoul is a huge metropolis where modern skyscrapers, high-tech subways, and pop culture meet Buddhist temples."
+    },
+    {
+        "id": "G15",
+        "text": "The $\\textbf{Rhine River}$ empties into which body of water?",
+        "image": "",
+        "options": [
+            "The Mediterranean Sea",
+            "The North Sea",
+            "The Baltic Sea",
+            "The Black Sea"
+        ],
+        "answer": "The North Sea",
+        "explanation": "The Rhine flows through several European countries before forming a delta in the Netherlands and entering the North Sea."
+    },
+    {
+        "id": "G16",
+        "text": "Which country is known as the $\\textbf{Land of the Long White Cloud}$?",
+        "image": "",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "Japan",
+            "Iceland"
+        ],
+        "answer": "New Zealand",
+        "explanation": "The Māori name for New Zealand is Aotearoa, which translates to 'Land of the Long White Cloud'."
+    },
+    {
+        "id": "G17",
+        "text": "What is the capital of $\\textbf{Saudi Arabia}$?",
+        "image": "",
+        "options": [
+            "Mecca",
+            "Jeddah",
+            "Medina",
+            "Riyadh"
+        ],
+        "answer": "Riyadh",
+        "explanation": "Riyadh is the political and administrative center of Saudi Arabia."
+    },
+    {
+        "id": "G18",
+        "text": "Which ocean is the $\\textbf{smallest}$ in the world?",
+        "image": "",
+        "options": [
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Atlantic Ocean",
+            "Southern Ocean"
+        ],
+        "answer": "Arctic Ocean",
+        "explanation": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans."
+    },
+    {
+        "id": "G19",
+        "text": "The $\\textbf{Great Victoria Desert}$ is located in which country?",
+        "image": "",
+        "options": [
+            "United States",
+            "South Africa",
+            "Australia",
+            "Canada"
+        ],
+        "answer": "Australia",
+        "explanation": "It is a sparsely populated desert area in Western Australia and South Australia."
+    },
+    {
+        "id": "G20",
+        "text": "What is the capital city of $\\textbf{Venezuela}$?",
+        "image": "",
+        "options": [
+            "Bogotá",
+            "Quito",
+            "Lima",
+            "Caracas"
+        ],
+        "answer": "Caracas",
+        "explanation": "Caracas is located in a northern mountain valley of Venezuela."
+    },
+    {
+        "id": "G21",
+        "text": "Mount $\\textbf{Denali}$ (formerly McKinley) is the highest peak in which continent?",
+        "image": "",
+        "options": [
+            "South America",
+            "Africa",
+            "North America",
+            "Europe"
+        ],
+        "answer": "North America",
+        "explanation": "Located in Alaska, USA, Denali is the highest mountain peak in North America."
+    },
+    {
+        "id": "G22",
+        "text": "Which country is home to the $\\textbf{Black Forest}$?",
+        "image": "",
+        "options": [
+            "France",
+            "Poland",
+            "Austria",
+            "Germany"
+        ],
+        "answer": "Germany",
+        "explanation": "The Black Forest is a large forested mountain range in the state of Baden-Württemberg in southwest Germany."
+    },
+    {
+        "id": "G23",
+        "text": "What is the capital of $\\textbf{Mexico}$?",
+        "image": "",
+        "options": [
+            "Guadalajara",
+            "Cancún",
+            "Mexico City",
+            "Monterrey"
+        ],
+        "answer": "Mexico City",
+        "explanation": "Mexico City is built on the ruins of the ancient Aztec capital, Tenochtitlan."
+    },
+    {
+        "id": "G24",
+        "text": "Which island is the largest in the $\\textbf{Mediterranean Sea}$?",
+        "image": "",
+        "options": [
+            "Sardinia",
+            "Cyprus",
+            "Crete",
+            "Sicily"
+        ],
+        "answer": "Sicily",
+        "explanation": "Sicily is an autonomous region of Italy and the largest island in the Mediterranean."
+    },
+    {
+        "id": "G25",
+        "text": "What is the capital of $\\textbf{Turkey}$?",
+        "image": "",
+        "options": [
+            "Istanbul",
+            "Antalya",
+            "Ankara",
+            "Izmir"
+        ],
+        "answer": "Ankara",
+        "explanation": "While Istanbul is the largest city, Ankara has been the capital since 1923."
+    },
+    {
+        "id": "G26",
+        "text": "The $\\textbf{Victoria Falls}$, one of the world's largest waterfalls, lies on the border between:",
+        "image": "",
+        "options": [
+            "Brazil and Argentina",
+            "Canada and USA",
+            "Zambia and Zimbabwe",
+            "Kenya and Tanzania"
+        ],
+        "answer": "Zambia and Zimbabwe",
+        "explanation": "The falls are on the Zambezi River, forming the border between Zambia and Zimbabwe."
+    },
+    {
+        "id": "G27",
+        "text": "What is the capital of $\\textbf{Austria}$?",
+        "image": "",
+        "options": [
+            "Salzburg",
+            "Vienna",
+            "Zurich",
+            "Munich"
+        ],
+        "answer": "Vienna",
+        "explanation": "Vienna is known for its artistic and intellectual legacy, shaped by residents including Mozart and Beethoven."
+    },
+    {
+        "id": "G28",
+        "text": "Which country consists of an archipelago of over 7,000 islands in Southeast Asia?",
+        "image": "",
+        "options": [
+            "Philippines",
+            "Vietnam",
+            "Thailand",
+            "Malaysia"
+        ],
+        "answer": "Philippines",
+        "explanation": "The Philippines is an archipelagic country situated in the western Pacific Ocean."
+    },
+    {
+        "id": "G29",
+        "text": "What is the capital city of $\\textbf{Iran}$?",
+        "image": "",
+        "options": [
+            "Baghdad",
+            "Tehran",
+            "Kabul",
+            "Riyadh"
+        ],
+        "answer": "Tehran",
+        "explanation": "Tehran is the capital of Iran and Tehran Province."
+    },
+    {
+        "id": "G30",
+        "text": "The island of $\\textbf{Tasmania}$ is a state of which country?",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "United Kingdom",
+            "Australia",
+            "Canada"
+        ],
+        "answer": "Australia",
+        "explanation": "Tasmania is an island state of Australia, located 240 km to the south of the Australian mainland."
+    },
+    {
+        "id": "G31",
+        "text": "What is the capital of $\\textbf{Ukraine}$?",
+        "image": "",
+        "options": [
+            "Minsk",
+            "Moscow",
+            "Warsaw",
+            "Kyiv"
+        ],
+        "answer": "Kyiv",
+        "explanation": "Kyiv is the capital and most populous city of Ukraine, located on the Dnieper River."
+    },
+    {
+        "id": "G32",
+        "text": "Which country is famously shaped like a $\\textbf{Hexagon}$?",
+        "image": "",
+        "options": [
+            "Germany",
+            "Italy",
+            "Spain",
+            "France"
+        ],
+        "answer": "France",
+        "explanation": "The shape of metropolitan France is often referred to as 'l'Hexagone'."
+    },
+    {
+        "id": "G33",
+        "text": "What is the capital of $\\textbf{Pakistan}$?",
+        "image": "",
+        "options": [
+            "Karachi",
+            "Lahore",
+            "Islamabad",
+            "Dhaka"
+        ],
+        "answer": "Islamabad",
+        "explanation": "Islamabad was built in the 1960s to replace Karachi as Pakistan's capital."
+    },
+    {
+        "id": "G34",
+        "text": "The $\\textbf{Yellow River}$ is a major river in which country?",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "China",
+            "India",
+            "Japan"
+        ],
+        "answer": "China",
+        "explanation": "The Yellow River is the second-longest river in China and is often called the 'Mother River'."
+    },
+    {
+        "id": "G35",
+        "text": "What is the capital of $\\textbf{Belgium}$?",
+        "image": "",
+        "options": [
+            "Amsterdam",
+            "Brussels",
+            "Luxembourg",
+            "Berlin"
+        ],
+        "answer": "Brussels",
+        "explanation": "Brussels is the capital of Belgium and the administrative center of the European Union."
+    },
+    {
+        "id": "G36",
+        "text": "Which is the smallest U.S. state by land area?",
+        "image": "",
+        "options": [
+            "Delaware",
+            "Vermont",
+            "Connecticut",
+            "Rhode Island"
+        ],
+        "answer": "Rhode Island",
+        "explanation": "Despite its name, Rhode Island is not an island and is the smallest state by area."
+    },
+    {
+        "id": "G37",
+        "text": "What is the capital of $\\textbf{Malaysia}$?",
+        "image": "",
+        "options": [
+            "Jakarta",
+            "Bangkok",
+            "Singapore",
+            "Kuala Lumpur"
+        ],
+        "answer": "Kuala Lumpur",
+        "explanation": "Kuala Lumpur is the national capital and largest city in Malaysia."
+    },
+    {
+        "id": "G38",
+        "text": "The $\\textbf{Patagonia}$ region spans which two countries?",
+        "image": "",
+        "options": [
+            "Brazil and Peru",
+            "Chile and Argentina",
+            "Colombia and Venezuela",
+            "Bolivia and Paraguay"
+        ],
+        "answer": "Chile and Argentina",
+        "explanation": "Patagonia is a sparsely populated region at the southern end of South America."
+    },
+    {
+        "id": "G39",
+        "text": "What is the capital of $\\textbf{Cuba}$?",
+        "image": "",
+        "options": [
+            "Kingston",
+            "San Juan",
+            "Port-au-Prince",
+            "Havana"
+        ],
+        "answer": "Havana",
+        "explanation": "Havana is the capital city, largest city, province, major port, and leading commercial center of Cuba."
+    },
+    {
+        "id": "G40",
+        "text": "Which country is landlocked in South America?",
+        "image": "",
+        "options": [
+            "Uruguay",
+            "Peru",
+            "Bolivia",
+            "Ecuador"
+        ],
+        "answer": "Bolivia",
+        "explanation": "Bolivia and Paraguay are the only two landlocked countries in South America."
+    }
+]

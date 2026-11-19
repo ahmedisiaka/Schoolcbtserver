@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E7001",
+        "text": "The $\\textbf{key}$ $\\textbf{event}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$ $\\textbf{that}$ $\\textbf{signaled}$ $\\textbf{the}$ $\\textbf{onset}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{crisis}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{seizure}$ $\\textbf{of}$ $\\textbf{assets}$ $\\textbf{by}$ $\\textbf{BNP}$ $\\textbf{Paribas}$ $\\textbf{and}$ $\\textbf{the}$ $\\textbf{subsequent}$ $\\textbf{liquidity}$ $\\textbf{freeze}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{interbank}$ $\\textbf{lending}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "The fall of Bear Stearns",
+            "The collapse of Lehman Brothers",
+            "The liquidity freeze in the interbank lending market",
+            "The passage of TARP"
+        ],
+        "answer": "The liquidity freeze in the interbank lending market",
+        "explanation": "BNP Paribas freezing redemptions in three of its funds in August 2007 because it couldn't value the underlying assets (subprime securities) caused banks globally to stop lending to each other, leading to a critical liquidity crisis."
+    },
+    {
+        "id": "E7002",
+        "text": "The $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{that}$ $\\textbf{spiked}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$ $\\textbf{as}$ $\\textbf{banks}$ $\\textbf{stopped}$ $\\textbf{trusting}$ $\\textbf{each}$ $\\textbf{other}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{LIBOR}$ $\\textbf{(London}$ $\\textbf{Interbank}$ $\\textbf{Offered}$ $\\textbf{Rate)}$, $\\textbf{reflecting}$ $\\textbf{systemic}$ $\\textbf{risk}$.",
+        "image": "",
+        "options": [
+            "The Prime Rate",
+            "The Federal Funds Rate",
+            "The LIBOR (London Interbank Offered Rate)",
+            "The Discount Rate"
+        ],
+        "answer": "The LIBOR (London Interbank Offered Rate)",
+        "explanation": "LIBOR represents the rate banks charge each other for short-term, unsecured loans. Its surge showed the collapse of trust in the financial system."
+    },
+    {
+        "id": "E7003",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ $\\textbf{made}$ $\\textbf{its}$ $\\textbf{first}$ $\\textbf{emergency}$ $\\textbf{intervention}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$ $\\textbf{by}$ $\\textbf{Injecting}$ $\\textbf{liquidity}$ $\\textbf{into}$ $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{system}$ $\\textbf{through}$ $\\textbf{Open}$ $\\textbf{Market}$ $\\textbf{Operations}$.",
+        "image": "",
+        "options": [
+            "Bail out Lehman Brothers",
+            "Raise the Federal Funds Rate",
+            "Injecting liquidity into the financial system",
+            "Announce the TARP program"
+        ],
+        "answer": "Injecting liquidity into the financial system",
+        "explanation": "The Fed quickly injected tens of billions of dollars to ease the spiking interbank lending rate and stabilize the markets."
+    },
+    {
+        "id": "E7004",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Housing}$ $\\textbf{Market}$ $\\textbf{experienced}$ $\\textbf{its}$ $\\textbf{most}$ $\\textbf{severe}$ $\\textbf{decline}$ $\\textbf{in}$ $\\textbf{sales}$ $\\textbf{and}$ $\\textbf{prices}$ $\\textbf{during}$ $\\textbf{2007}$, $\\textbf{with}$ $\\textbf{the}$ $\\textbf{S&P}$ $\\textbf{Case}$-$\\textbf{Shiller}$ $\\textbf{Index}$ $\\textbf{showing}$ $\\textbf{a}$ $\\textbf{year}$-$\\textbf{over}$-$\\textbf{year}$ $\\textbf{drop}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{first}$ $\\textbf{time}$.",
+        "image": "",
+        "options": [
+            "Recovery",
+            "Stagnation",
+            "Most severe decline in sales and prices",
+            "New record high"
+        ],
+        "answer": "Most severe decline in sales and prices",
+        "explanation": "2007 was the year the crash became undeniable, with widespread drops in home values across the country."
+    },
+    {
+        "id": "E7005",
+        "text": "The $\\textbf{credit}$ $\\textbf{products}$ $\\textbf{whose}$ $\\textbf{value}$ $\\textbf{collapsed}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{mass}$ $\\textbf{subprime}$ $\\textbf{defaults}$ $\\textbf{were}$ $\\textbf{Collateralized}$ $\\textbf{Debt}$ $\\textbf{Obligations}$ $\\textbf{(CDOs)}$, $\\textbf{which}$ $\\textbf{were}$ $\\textbf{pools}$ $\\textbf{of}$ $\\textbf{mortgage}$-$\\textbf{backed}$ $\\textbf{securities}$.",
+        "image": "",
+        "options": [
+            "Treasury bonds",
+            "Corporate debt",
+            "Collateralized Debt Obligations (CDOs)",
+            "Commercial Paper"
+        ],
+        "answer": "Collateralized Debt Obligations (CDOs)",
+        "explanation": "CDOs, particularly the tranches rated AAA that contained subprime mortgages, lost their value as defaults mounted, causing massive losses for banks and investors."
+    },
+    {
+        "id": "E7006",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ $\\textbf{cut}$ $\\textbf{the}$ $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{first}$ $\\textbf{time}$ $\\textbf{in}$ $\\textbf{four}$ $\\textbf{years}$ $\\textbf{in}$ $\\textbf{September}$ $\\textbf{2007}$, $\\textbf{lowering}$ $\\textbf{it}$ $\\textbf{by}$ **50 basis points** $\\textbf{(bps)}$ $\\textbf{to}$ $\\textbf{4.75\\%}$.",
+        "image": "",
+        "options": [
+            "10 bps",
+            "25 bps",
+            "50 bps",
+            "100 bps"
+        ],
+        "answer": "50 bps",
+        "explanation": "The larger-than-expected cut was a direct response to the August liquidity crisis and the rapidly deteriorating economic outlook."
+    },
+    {
+        "id": "E7007",
+        "text": "The $\\textbf{primary}$ $\\textbf{driver}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{distress}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{Subprime}$ $\\textbf{Mortgage}$ $\\textbf{Crisis}$, $\\textbf{where}$ $\\textbf{defaults}$ $\\textbf{on}$ $\\textbf{loans}$ $\\textbf{to}$ $\\textbf{less}$ $\\textbf{creditworthy}$ $\\textbf{borrowers}$ $\\textbf{spilled}$ $\\textbf{over}$ $\\textbf{into}$ $\\textbf{global}$ $\\textbf{financial}$ $\\textbf{markets}$.",
+        "image": "",
+        "options": [
+            "Commercial Real Estate",
+            "Automotive Debt",
+            "Subprime Mortgage Crisis",
+            "Sovereign Debt Crisis"
+        ],
+        "answer": "Subprime Mortgage Crisis",
+        "explanation": "The failure of these underlying assets was the ignition point for the much larger crisis in complex credit products."
+    },
+    {
+        "id": "E7008",
+        "text": "$\\textbf{SIVs}$ $\\textbf{(Structured}$ $\\textbf{Investment}$ $\\textbf{Vehicles)}$ $\\textbf{were}$ $\\textbf{off}$-$\\textbf{balance}$ $\\textbf{sheet}$ $\\textbf{entities}$ $\\textbf{used}$ $\\textbf{by}$ $\\textbf{banks}$ $\\textbf{to}$ $\\textbf{hold}$ $\\textbf{toxic}$ $\\textbf{assets}$ $\\textbf{and}$ $\\textbf{securities}$, $\\textbf{which}$ $\\textbf{they}$ $\\textbf{were}$ $\\textbf{forced}$ $\\textbf{to}$ $\\textbf{bring}$ $\\textbf{back}$ $\\textbf{onto}$ $\\textbf{their}$ $\\textbf{balance}$ $\\textbf{sheets}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2007}$.",
+        "image": "",
+        "options": [
+            "Special Economic Zones (SEZs)",
+            "Exchange Traded Funds (ETFs)",
+            "Structured Investment Vehicles (SIVs)",
+            "Money Market Funds (MMFs)"
+        ],
+        "answer": "Structured Investment Vehicles (SIVs)",
+        "explanation": "As the value of the assets in SIVs plunged, banks had to repatriate the losses, dramatically increasing their liabilities."
+    },
+    {
+        "id": "E7009",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Stock}$ $\\textbf{Market}$ $\\textbf{(S&P}$ $\\textbf{500)}$ $\\textbf{hit}$ $\\textbf{its}$ $\\textbf{pre}$-$\\textbf{crisis}$ $\\textbf{peak}$ $\\textbf{in}$ **October 2007** $\\textbf{before}$ $\\textbf{beginning}$ $\\textbf{its}$ $\\textbf{long}$ $\\textbf{decline}$ $\\textbf{into}$ $\\textbf{the}$ $\\textbf{Great}$ $\\textbf{Recession}$.",
+        "image": "",
+        "options": [
+            "March 2007",
+            "June 2007",
+            "October 2007",
+            "December 2007"
+        ],
+        "answer": "October 2007",
+        "explanation": "The market held up remarkably well until late 2007, reflecting optimism that the crisis would be contained to the subprime sector."
+    },
+    {
+        "id": "E7010",
+        "text": "The $\\textbf{economic}$ $\\textbf{condition}$ $\\textbf{that}$ $\\textbf{made}$ $\\textbf{it}$ $\\textbf{difficult}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{to}$ $\\textbf{cut}$ $\\textbf{rates}$ $\\textbf{in}$ $\\textbf{early}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{still}$-$\\textbf{high}$ $\\textbf{Core}$ $\\textbf{Inflation}$ $\\textbf{readings}$, $\\textbf{despite}$ $\\textbf{economic}$ $\\textbf{weakness}$.",
+        "image": "",
+        "options": [
+            "Low unemployment",
+            "Strong GDP growth",
+            "Still-high Core Inflation readings",
+            "A surging Dollar"
+        ],
+        "answer": "Still-high Core Inflation readings",
+        "explanation": "Inflation remained 'uncomfortably high,' forcing the Fed to keep rates higher than they would have otherwise, even as the economy was slowing."
+    },
+    {
+        "id": "E7011",
+        "text": "The $\\textbf{term}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{assets}$ $\\textbf{that}$ $\\textbf{banks}$ $\\textbf{could}$ $\\textbf{not}$ $\\textbf{easily}$ $\\textbf{sell}$ $\\textbf{or}$ $\\textbf{value}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{freeze}$ $\\textbf{in}$ $\\textbf{credit}$ $\\textbf{markets}$ $\\textbf{was}$ $\\textbf{Illiquid}$ $\\textbf{Assets}$.",
+        "image": "",
+        "options": [
+            "Liquid Assets",
+            "Current Assets",
+            "Illiquid Assets",
+            "Tangible Assets"
+        ],
+        "answer": "Illiquid Assets",
+        "explanation": "These included various mortgage-backed securities and CDOs; their illiquidity made banks fear each other's solvency."
+    },
+    {
+        "id": "E7012",
+        "text": "The $\\textbf{Discount}$ $\\textbf{Rate}$ is $\\textbf{the}$ $\\textbf{interest}$ $\\textbf{rate}$ $\\textbf{at}$ $\\textbf{which}$ $\\textbf{commercial}$ $\\textbf{banks}$ $\\textbf{can}$ $\\textbf{borrow}$ $\\textbf{directly}$ $\\textbf{from}$ $\\textbf{the}$ $\\textbf{Fed}$, $\\textbf{which}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{also}$ $\\textbf{cut}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$.",
+        "image": "",
+        "options": [
+            "Federal Funds Rate",
+            "LIBOR",
+            "Discount Rate",
+            "Prime Rate"
+        ],
+        "answer": "Discount Rate",
+        "explanation": "The Fed cut the Discount Rate by 50 bps in August 2007 to encourage banks to use the borrowing window and signal support."
+    },
+    {
+        "id": "E7013",
+        "text": "$\\textbf{Rising}$ $\\textbf{Unemployment}$ $\\textbf{was}$ $\\textbf{not}$ $\\textbf{a}$ $\\textbf{primary}$ $\\textbf{feature}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{2007}$ $\\textbf{economic}$ $\\textbf{crisis}$, $\\textbf{as}$ $\\textbf{the}$ $\\textbf{labor}$ $\\textbf{market}$ $\\textbf{held}$ $\\textbf{up}$ $\\textbf{until}$ $\\textbf{late}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{year}$.",
+        "image": "",
+        "options": [
+            "Illiquid assets",
+            "Rising unemployment",
+            "Spiking LIBOR",
+            "Subprime defaults"
+        ],
+        "answer": "Rising unemployment",
+        "explanation": "Unemployment only started to climb significantly toward the very end of 2007 and into 2008, as the crisis moved from finance to the real economy."
+    },
+    {
+        "id": "E7014",
+        "text": "The $\\textbf{main}$ $\\textbf{reason}$ $\\textbf{for}$ $\\textbf{the}$ $\\textbf{rising}$ $\\textbf{defaults}$ $\\textbf{on}$ $\\textbf{subprime}$ $\\textbf{loans}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{Expiration}$ $\\textbf{of}$ $\\textbf{low}$ $\\textbf{teaser}$ $\\textbf{rates}$ $\\textbf{on}$ $\\textbf{Adjustable}$-$\\textbf{Rate}$ $\\textbf{Mortgages}$ $\\textbf{(ARMs)}$ $\\textbf{and}$ $\\textbf{falling}$ $\\textbf{home}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Low inflation",
+            "Expiration of low teaser rates on ARMs and falling home prices",
+            "Bank nationalization",
+            "A strong U.S. Dollar"
+        ],
+        "answer": "Expiration of low teaser rates on ARMs and falling home prices",
+        "explanation": "The payment shock of resets, combined with the inability to refinance due to falling home equity, forced borrowers into default."
+    },
+    {
+        "id": "E7015",
+        "text": "The $\\textbf{Fed}$ $\\textbf{introduced}$ $\\textbf{the}$ $\\textbf{Term}$ $\\textbf{Auction}$ $\\textbf{Facility}$ $\\textbf{(TAF)}$ $\\textbf{in}$ $\\textbf{December}$ $\\textbf{2007}$ $\\textbf{to}$ $\\textbf{provide}$ $\\textbf{banks}$ $\\textbf{with}$ $\\textbf{a}$ $\\textbf{more}$ $\\textbf{discreet}$ $\\textbf{way}$ $\\textbf{to}$ $\\textbf{borrow}$ $\\textbf{liquidity}$ $\\textbf{than}$ $\\textbf{the}$ $\\textbf{Discount}$ $\\textbf{Window}$.",
+        "image": "",
+        "options": [
+            "Liquidity swaps with foreign central banks",
+            "Term Auction Facility (TAF)",
+            "Quantitative Easing (QE)",
+            "TARP"
+        ],
+        "answer": "Term Auction Facility (TAF)",
+        "explanation": "Banks were reluctant to borrow from the Discount Window due to the 'stigma' of signaling financial weakness, so the TAF was created as an auction process."
+    },
+    {
+        "id": "E7016",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Current}$ $\\textbf{Account}$ $\\textbf{Deficit}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{narrow}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{as}$ $\\textbf{consumer}$ $\\textbf{spending}$ $\\textbf{slowed}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{crisis}$.",
+        "image": "",
+        "options": [
+            "Widened further",
+            "Narrowed",
+            "Turned into a surplus",
+            "Remained stable"
+        ],
+        "answer": "Narrowed",
+        "explanation": "As the wealth effect from housing reversed, consumers had less equity to withdraw and less confidence, leading to fewer imports and a lower trade deficit."
+    },
+    {
+        "id": "E7017",
+        "text": "The $\\textbf{major}$ $\\textbf{accounting}$ $\\textbf{issue}$ $\\textbf{that}$ $\\textbf{exacerbated}$ $\\textbf{the}$ $\\textbf{crisis}$ $\\textbf{by}$ $\\textbf{forcing}$ $\\textbf{banks}$ $\\textbf{to}$ $\\textbf{value}$ $\\textbf{illiquid}$ $\\textbf{assets}$ $\\textbf{at}$ $\\textbf{fire}$-$\\textbf{sale}$ $\\textbf{prices}$ $\\textbf{was}$ $\\textbf{Mark}$-$\\textbf{to}$-$\\textbf{Market}$ $\\textbf{Accounting}$ $\\textbf{(Fair}$ $\\textbf{Value}$ $\\textbf{Accounting)}$.",
+        "image": "",
+        "options": [
+            "LIFO inventory accounting",
+            "Mark-to-Market Accounting",
+            "Straight-line depreciation",
+            "Accrual accounting"
+        ],
+        "answer": "Mark-to-Market Accounting",
+        "explanation": "When the market for CDOs froze, banks were forced to value them based on the few trades that occurred, which drove values down, forcing massive write-downs and making banks appear weaker."
+    },
+    {
+        "id": "E7018",
+        "text": "The $\\textbf{term}$ $\\textbf{Subprime}$ $\\textbf{means}$ $\\textbf{a}$ $\\textbf{lending}$ $\\textbf{category}$ $\\textbf{for}$ $\\textbf{borrowers}$ $\\textbf{with}$ $\\textbf{low}$ $\\textbf{credit}$ $\\textbf{scores}$ $\\textbf{(typically}$ $\\textbf{below}$ $\\textbf{620)}$ $\\textbf{and}$ $\\textbf{poor}$ $\\textbf{credit}$ $\\textbf{histories}$.",
+        "image": "",
+        "options": [
+            "Government-insured",
+            "Low credit scores",
+            "Jumbo loans",
+            "Fixed-rate loans"
+        ],
+        "answer": "Low credit scores",
+        "explanation": "Subprime borrowers were the most susceptible to the interest rate resets and house price declines."
+    },
+    {
+        "id": "E7019",
+        "text": "The $\\textbf{Investment}$ $\\textbf{Bank}$ $\\textbf{that}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{first}$ $\\textbf{to}$ $\\textbf{suffer}$ $\\textbf{massive}$ $\\textbf{write}$-$\\textbf{downs}$ $\\textbf{related}$ $\\textbf{to}$ $\\textbf{subprime}$ $\\textbf{mortgages}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{Merrill}$ $\\textbf{Lynch}$.",
+        "image": "",
+        "options": [
+            "Goldman Sachs",
+            "Merrill Lynch",
+            "JPMorgan Chase",
+            "Morgan Stanley"
+        ],
+        "answer": "Merrill Lynch",
+        "explanation": "Merrill Lynch announced $8.4 billion in losses from CDOs in October 2007, surprising the market."
+    },
+    {
+        "id": "E7020",
+        "text": "The $\\textbf{initial}$ $\\textbf{fear}$ $\\textbf{during}$ $\\textbf{the}$ $\\textbf{August}$ $\\textbf{2007}$ $\\textbf{liquidity}$ $\\textbf{crisis}$ $\\textbf{was}$ $\\textbf{that}$ $\\textbf{banks}$ $\\textbf{did}$ $\\textbf{not}$ $\\textbf{know}$ $\\textbf{which}$ $\\textbf{counterparties}$ $\\textbf{were}$ $\\textbf{holding}$ $\\textbf{the}$ $\\textbf{toxic}$ $\\textbf{assets}$, $\\textbf{leading}$ $\\textbf{to}$ $\\textbf{a}$ $\\textbf{freeze}$ $\\textbf{on}$ $\\textbf{lending}$.",
+        "image": "",
+        "options": [
+            "High employment",
+            "Trade surplus",
+            "Not knowing which counterparties held toxic assets",
+            "Over-regulation"
+        ],
+        "answer": "Not knowing which counterparties held toxic assets",
+        "explanation": "The systemic uncertainty—the 'fog of war'—caused banks to hoard cash and refuse to lend, regardless of the borrower's apparent strength."
+    },
+    {
+        "id": "E7021",
+        "text": "The $\\textbf{term}$ $\\textbf{shadow}$ $\\textbf{banking}$ $\\textbf{system}$ $\\textbf{refers}$ $\\textbf{to}$ $\\textbf{a}$ $\\textbf{group}$ $\\textbf{of}$ $\\textbf{financial}$ $\\textbf{intermediaries}$ $\\textbf{that}$ $\\textbf{are}$ $\\textbf{not}$ $\\textbf{heavily}$ $\\textbf{regulated}$ $\\textbf{like}$ $\\textbf{commercial}$ $\\textbf{banks}$, $\\textbf{such}$ $\\textbf{as}$ $\\textbf{investment}$ $\\textbf{banks}$ $\\textbf{and}$ $\\textbf{hedge}$ $\\textbf{funds}$.",
+        "image": "",
+        "options": [
+            "Local credit unions",
+            "The Federal Reserve",
+            "Shadow banking system",
+            "The Treasury Department"
+        ],
+        "answer": "Shadow banking system",
+        "explanation": "This sector, which included entities like investment banks and SIVs, was where much of the risky lending and securitization took place outside of traditional banking regulation."
+    },
+    {
+        "id": "E7022",
+        "text": "The $\\textbf{annual}$ $\\textbf{GDP}$ $\\textbf{Growth}$ $\\textbf{Rate}$ $\\textbf{slowed}$ $\\textbf{markedly}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{second}$ $\\textbf{half}$ $\\textbf{of}$ $\\textbf{2007}$ $\\textbf{as}$ $\\textbf{the}$ $\\textbf{crisis}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{impact}$ $\\textbf{the}$ $\\textbf{real}$ $\\textbf{economy}$.",
+        "image": "",
+        "options": [
+            "Accelerated",
+            "Turned negative",
+            "Slowed markedly",
+            "Held steady"
+        ],
+        "answer": "Slowed markedly",
+        "explanation": "The contraction in housing investment and tightening credit conditions began to seriously drag down overall economic activity."
+    },
+    {
+        "id": "E7023",
+        "text": "The $\\textbf{Euro}$ $\\textbf{Exchange}$ $\\textbf{Rate}$ $\\textbf{reached}$ $\\textbf{a}$ $\\textbf{new}$ $\\textbf{high}$ $\\textbf{against}$ $\\textbf{the}$ $\\textbf{U.S.}$ $\\textbf{Dollar}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{as}$ $\\textbf{investors}$ $\\textbf{fled}$ $\\textbf{U.S.}$ $\\textbf{financial}$ $\\textbf{markets}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{crisis}$.",
+        "image": "",
+        "options": [
+            "Fell dramatically",
+            "Remained stable",
+            "Reached a new high against the U.S. Dollar",
+            "Was de-pegged from the dollar"
+        ],
+        "answer": "Reached a new high against the U.S. Dollar",
+        "explanation": "Monetary policy divergence (the ECB was still tightening) and U.S. financial instability pushed the dollar down."
+    },
+    {
+        "id": "E7024",
+        "text": "$\\textbf{The}$ $\\textbf{yield}$ $\\textbf{on}$ $\\textbf{the}$ $\\textbf{10}$-$\\textbf{Year}$ $\\textbf{Treasury}$ $\\textbf{Note}$ $\\textbf{fell}$ $\\textbf{sharply}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2007}$ $\\textbf{as}$ $\\textbf{investors}$ $\\textbf{rushed}$ $\\textbf{into}$ $\\textbf{safe}$ $\\textbf{assets}$ $\\textbf{(Flight}$ $\\textbf{to}$ $\\textbf{Quality)}$.",
+        "image": "",
+        "options": [
+            "Rose sharply",
+            "Remained inverted",
+            "Fell sharply",
+            "Was set by the Fed"
+        ],
+        "answer": "Fell sharply",
+        "explanation": "The crisis prompted a massive 'flight to quality,' driving demand for U.S. government bonds and pushing their yields down."
+    },
+    {
+        "id": "E7025",
+        "text": "The $\\textbf{policy}$ $\\textbf{action}$ $\\textbf{the}$ $\\textbf{U.S.}$ $\\textbf{government}$ $\\textbf{took}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2007}$ $\\textbf{to}$ $\\textbf{address}$ $\\textbf{foreclosures}$ $\\textbf{was}$ $\\textbf{Project}$ $\\textbf{Lifeline}$ $\\textbf{which}$ $\\textbf{encouraged}$ $\\textbf{lenders}$ $\\textbf{to}$ $\\textbf{voluntarily}$ $\\textbf{modify}$ $\\textbf{loans}$.",
+        "image": "",
+        "options": [
+            "Nationalize banks",
+            "Launch Project Lifeline (voluntary loan modifications)",
+            "Buy all toxic assets",
+            "Stop all new construction"
+        ],
+        "answer": "Launch Project Lifeline (voluntary loan modifications)",
+        "explanation": "This was the first major government effort to intervene directly in the foreclosure process, though its impact was limited."
+    },
+    {
+        "id": "E7026",
+        "text": "The $\\textbf{major}$ $\\textbf{global}$ $\\textbf{bank}$ $\\textbf{that}$ $\\textbf{suffered}$ $\\textbf{a}$ $\\textbf{massive}$ $\\textbf{loss}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{subprime}$ $\\textbf{exposure}$ $\\textbf{in}$ $\\textbf{2007}$, $\\textbf{resulting}$ $\\textbf{in}$ $\\textbf{a}$ $\\textbf{sovereign}$ $\\textbf{wealth}$ $\\textbf{fund}$ $\\textbf{bailout}$, $\\textbf{was}$ $\\textbf{Citigroup}$.",
+        "image": "",
+        "options": [
+            "HSBC",
+            "Citigroup",
+            "Deutsche Bank",
+            "Bank of China"
+        ],
+        "answer": "Citigroup",
+        "explanation": "Citigroup announced enormous write-downs in the fourth quarter of 2007 and required an investment from the Abu Dhabi Investment Authority."
+    },
+    {
+        "id": "E7027",
+        "text": "The $\\textbf{type}$ $\\textbf{of}$ $\\textbf{money}$ $\\textbf{market}$ $\\textbf{security}$ $\\textbf{that}$ $\\textbf{banks}$ $\\textbf{used}$ $\\textbf{to}$ $\\textbf{finance}$ $\\textbf{their}$ $\\textbf{CDO}$ $\\textbf{holdings}$ $\\textbf{and}$ $\\textbf{that}$ $\\textbf{froze}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{Asset}$-$\\textbf{Backed}$ $\\textbf{Commercial}$ $\\textbf{Paper}$ $\\textbf{(ABCP)}$.",
+        "image": "",
+        "options": [
+            "Treasury bills",
+            "Asset-Backed Commercial Paper (ABCP)",
+            "Corporate bonds",
+            "Municipal bonds"
+        ],
+        "answer": "Asset-Backed Commercial Paper (ABCP)",
+        "explanation": "ABCP was short-term debt backed by longer-term, often toxic, mortgage assets. When the market lost confidence in the assets, the ABCP market seized up."
+    },
+    {
+        "id": "E7028",
+        "text": "$\\textbf{Quantitative}$ $\\textbf{Easing}$ $\\textbf{(QE)}$ $\\textbf{is}$ $\\textbf{the}$ $\\textbf{policy}$ $\\textbf{of}$ $\\textbf{large}$-$\\textbf{scale}$ $\\textbf{asset}$ $\\textbf{purchases}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{central}$ $\\textbf{bank}$, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{not}$ $\\textbf{used}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{but}$ $\\textbf{began}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2008}$.",
+        "image": "",
+        "options": [
+            "Quantitative Easing (QE)",
+            "Operation Twist",
+            "Project Lifeline",
+            "The Discount Window"
+        ],
+        "answer": "Quantitative Easing (QE)",
+        "explanation": "QE was an unconventional tool that the Fed reserved for when short-term interest rates hit zero (the Zero Lower Bound), which had not yet happened in 2007."
+    },
+    {
+        "id": "E7029",
+        "text": "The $\\textbf{term}$ $\\textbf{Moral}$ $\\textbf{Hazard}$ $\\textbf{refers}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{problem}$ $\\textbf{where}$ $\\textbf{one}$ $\\textbf{party}$ $\\textbf{takes}$ $\\textbf{excessive}$ $\\textbf{risks}$ $\\textbf{because}$ $\\textbf{another}$ $\\textbf{party}$ $\\textbf{(like}$ $\\textbf{the}$ $\\textbf{government)}$ $\\textbf{bears}$ $\\textbf{the}$ $\\textbf{cost}$ $\\textbf{of}$ $\\textbf{those}$ $\\textbf{risks}$.",
+        "image": "",
+        "options": [
+            "Adverse Selection",
+            "Moral Hazard",
+            "Systemic Risk",
+            "Liquidity Risk"
+        ],
+        "answer": "Moral Hazard",
+        "explanation": "Federal interventions in 2007 and 2008 raised concerns that future financial institutions would assume the government would always bail them out."
+    },
+    {
+        "id": "E7030",
+        "text": "The $\\textbf{final}$ $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ $\\textbf{target}$ $\\textbf{at}$ $\\textbf{the}$ $\\textbf{end}$ $\\textbf{of}$ $\\textbf{2007}$ $\\textbf{after}$ $\\textbf{three}$ $\\textbf{rate}$ $\\textbf{cuts}$ $\\textbf{was}$ **4.25%**.",
+        "image": "",
+        "options": [
+            "5.25%",
+            "4.25%",
+            "2.00%",
+            "1.00%"
+        ],
+        "answer": "4.25%",
+        "explanation": "The Fed cut rates three times in 2007: 50 bps in September, 25 bps in October, and 25 bps in December, bringing the rate from 5.25% down to 4.25%."
+    },
+    {
+        "id": "E7031",
+        "text": "The $\\textbf{GDP}$ $\\textbf{component}$ $\\textbf{that}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{show}$ $\\textbf{significant}$ $\\textbf{weakness}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{beyond}$ $\\textbf{housing}$ $\\textbf{was}$ $\\textbf{Consumer}$ $\\textbf{Spending}$, $\\textbf{as}$ $\\textbf{rising}$ $\\textbf{gas}$ $\\textbf{prices}$ $\\textbf{and}$ $\\textbf{declining}$ $\\textbf{home}$ $\\textbf{equity}$ $\\textbf{hit}$ $\\textbf{household}$ $\\textbf{budgets}$.",
+        "image": "",
+        "options": [
+            "Government spending",
+            "Net exports",
+            "Consumer Spending",
+            "Corporate Investment (CapEx)"
+        ],
+        "answer": "Consumer Spending",
+        "explanation": "Consumption had been the economy's primary engine, and its slowdown signaled the broader economic malaise."
+    },
+    {
+        "id": "E7032",
+        "text": "The $\\textbf{major}$ $\\textbf{global}$ $\\textbf{banking}$ $\\textbf{power}$ $\\textbf{that}$ $\\textbf{partnered}$ $\\textbf{with}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{to}$ $\\textbf{provide}$ $\\textbf{liquidity}$ $\\textbf{to}$ $\\textbf{its}$ $\\textbf{local}$ $\\textbf{banks}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{European}$ $\\textbf{Central}$ $\\textbf{Bank}$ $\\textbf{(ECB)}$.",
+        "image": "",
+        "options": [
+            "Bank of Japan",
+            "European Central Bank (ECB)",
+            "People's Bank of China",
+            "Bank of England"
+        ],
+        "answer": "European Central Bank (ECB)",
+        "explanation": "The crisis was global, and the Fed established currency swap lines with the ECB to ensure the Euro banking system had access to dollars."
+    },
+    {
+        "id": "E7033",
+        "text": "The $\\textbf{economic}$ $\\textbf{indicator}$ $\\textbf{that}$ $\\textbf{signaled}$ $\\textbf{the}$ $\\textbf{crisis}$ $\\textbf{was}$ $\\textbf{more}$ $\\textbf{than}$ $\\textbf{just}$ $\\textbf{housing}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{surge}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{TED}$ $\\textbf{Spread}$ $\\textbf{(Treasury}$ $\\textbf{yield}$ $\\textbf{minus}$ $\\textbf{LIBOR)}$ $\\textbf{in}$ $\\textbf{August}$ $\\textbf{2007}$.",
+        "image": "",
+        "options": [
+            "The decline in oil prices",
+            "The surge in the TED Spread",
+            "Record low gold prices",
+            "Record high unemployment"
+        ],
+        "answer": "The surge in the TED Spread",
+        "explanation": "The TED Spread is a measure of credit risk. A wide spread indicates that banks believe the risk of lending to each other is high, reflecting systemic distrust."
+    },
+    {
+        "id": "E7034",
+        "text": "The $\\textbf{prime}$ $\\textbf{motivation}$ $\\textbf{for}$ $\\textbf{mortgage}$ $\\textbf{loan}$ $\\textbf{originators}$ $\\textbf{to}$ $\\textbf{issue}$ $\\textbf{subprime}$ $\\textbf{loans}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{mid}$-$\\textbf{2000s}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{ability}$ $\\textbf{to}$ $\\textbf{quickly}$ $\\textbf{sell}$ $\\textbf{them}$ $\\textbf{off}$ $\\textbf{to}$ $\\textbf{investment}$ $\\textbf{banks}$ $\\textbf{(The}$ $\\textbf{Originate}$-$\\textbf{to}$-$\\textbf{Distribute}$ $\\textbf{Model)}$.",
+        "image": "",
+        "options": [
+            "Keep the loans on their books",
+            "Sell the loans quickly to investment banks",
+            "Use them as collateral for federal aid",
+            "Meet government quotas"
+        ],
+        "answer": "Sell the loans quickly to investment banks",
+        "explanation": "Lenders cared only about generating volume and fees, as they immediately sold the loans, passing the credit risk to investors."
+    },
+    {
+        "id": "E7035",
+        "text": "The $\\textbf{official}$ $\\textbf{start}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{Great}$ $\\textbf{Recession}$ $\\textbf{was}$ $\\textbf{dated}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{NBER}$ $\\textbf{to}$ **December 2007**.",
+        "image": "",
+        "options": [
+            "March 2007",
+            "August 2007",
+            "December 2007",
+            "September 2008"
+        ],
+        "answer": "December 2007",
+        "explanation": "While the financial crisis began in August, the NBER judged that the peak of economic activity (and thus the start of the recession) occurred in December 2007."
+    },
+    {
+        "id": "E7036",
+        "text": "The $\\textbf{Bank}$ $\\textbf{for}$ $\\textbf{International}$ $\\textbf{Settlements}$ $\\textbf{(BIS)}$ $\\textbf{is}$ $\\textbf{often}$ $\\textbf{called}$ $\\textbf{the}$ $\\textbf{'central}$ $\\textbf{bank}$ $\\textbf{of}$ $\\textbf{central}$ $\\textbf{banks'}$, $\\textbf{playing}$ $\\textbf{a}$ $\\textbf{key}$ $\\textbf{role}$ $\\textbf{in}$ $\\textbf{international}$ $\\textbf{financial}$ $\\textbf{stability}$.",
+        "image": "",
+        "options": [
+            "World Bank",
+            "Bank for International Settlements (BIS)",
+            "International Monetary Fund (IMF)",
+            "World Trade Organization (WTO)"
+        ] ,
+        "answer": "Bank for International Settlements (BIS)",
+        "explanation": "The BIS fosters cooperation among central banks and is the home of the Basel Committee on Banking Supervision."
+    },
+    {
+        "id": "E7037",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{response}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{slowdown}$ $\\textbf{in}$ $\\textbf{late}$ $\\textbf{2007}$ $\\textbf{was}$ $\\textbf{Minimal}$, $\\textbf{with}$ $\\textbf{the}$ $\\textbf{major}$ $\\textbf{stimulus}$ $\\textbf{not}$ $\\textbf{coming}$ $\\textbf{until}$ $\\textbf{early}$ $\\textbf{2008}$.",
+        "image": "",
+        "options": [
+            "Massive tax cuts",
+            "Minimal",
+            "Record infrastructure spending",
+            "Balanced budget"
+        ],
+        "answer": "Minimal",
+        "explanation": "Congress and the Administration were slow to react with fiscal stimulus; the main action in 2007 was monetary (Fed rate cuts)."
+    },
+    {
+        "id": "E7038",
+        "text": "The $\\textbf{type}$ $\\textbf{of}$ $\\textbf{financial}$ $\\textbf{institution}$ $\\textbf{that}$ $\\textbf{did}$ $\\textbf{not}$ $\\textbf{have}$ $\\textbf{access}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{Discount}$ $\\textbf{Window}$ $\\textbf{prior}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{crisis}$ $\\textbf{was}$ $\\textbf{Investment}$ $\\textbf{Banks}$.",
+        "image": "",
+        "options": [
+            "Commercial Banks",
+            "Savings & Loans",
+            "Investment Banks",
+            "Credit Unions"
+        ],
+        "answer": "Investment Banks",
+        "explanation": "Investment banks (like Lehman, Bear Stearns, Goldman Sachs) funded themselves primarily through the volatile repo market, lacking the central bank liquidity backstop of traditional banks, making them highly vulnerable."
+    },
+    {
+        "id": "E7039",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Trade}$ $\\textbf{Deficit}$ $\\textbf{narrowed}$ $\\textbf{in}$ $\\textbf{2007}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{slowdown}$ $\\textbf{in}$ $\\textbf{domestic}$ $\\textbf{demand}$ $\\textbf{and}$ $\\textbf{a}$ $\\textbf{weakening}$ $\\textbf{Dollar}$, $\\textbf{which}$ $\\textbf{boosted}$ $\\textbf{exports}$.",
+        "image": "",
+        "options": [
+            "Widened significantly",
+            "Narrowed",
+            "Became balanced",
+            "Was subsidized by the government"
+        ],
+        "answer": "Narrowed",
+        "explanation": "Weak domestic consumption reduced imports, and the falling dollar made U.S. exports more competitive abroad."
+    },
+    {
+        "id": "E7040",
+        "text": "The $\\textbf{type}$ $\\textbf{of}$ $\\textbf{inflation}$ $\\textbf{that}$ $\\textbf{the}$ $\\textbf{Fed}$ $\\textbf{was}$ $\\textbf{primarily}$ $\\textbf{concerned}$ $\\textbf{with}$ $\\textbf{in}$ $\\textbf{early}$ $\\textbf{2007}$, $\\textbf{as}$ $\\textbf{it}$ $\\textbf{reflected}$ $\\textbf{underlying}$ $\\textbf{price}$ $\\textbf{pressures}$, $\\textbf{was}$ $\\textbf{Core}$ $\\textbf{Inflation}$.",
+        "image": "",
+        "options": [
+            "Headline Inflation",
+            "Wage Inflation",
+            "Core Inflation",
+            "Asset Inflation"
+        ],
+        "answer": "Core Inflation",
+        "explanation": "Core inflation (excluding volatile food and energy prices) is what the Fed watches most closely as a guide to future, sustained price trends."
+    }
+]

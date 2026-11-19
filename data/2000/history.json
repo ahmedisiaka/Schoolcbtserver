@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Great Wall of China}$ was primarily built to protect the Chinese states from invasions by which group?",
+        "image": "",
+        "options": [
+            "The Mongols",
+            "The Romans",
+            "The Japanese",
+            "The Persians"
+        ],
+        "answer": "The Mongols",
+        "explanation": "Construction began as early as the 7th century BC, with the most famous sections built by the Ming Dynasty to defend against nomadic northern tribes."
+    },
+    {
+        "id": "H02",
+        "text": "Which city-state in ancient Greece is credited with introducing the concept of $\\textbf{Democracy}$?",
+        "image": "",
+        "options": [
+            "Sparta",
+            "Athens",
+            "Corinth",
+            "Thebes"
+        ],
+        "answer": "Athens",
+        "explanation": "In the 5th century BC, Athens developed a system where eligible citizens could vote directly on legislation."
+    },
+    {
+        "id": "H03",
+        "text": "Who was the Macedonian king who created one of the largest empires in the ancient world, stretching from Greece to India?",
+        "image": "",
+        "options": [
+            "Pericles",
+            "Leonidas",
+            "Alexander the Great",
+            "Philip II"
+        ],
+        "answer": "Alexander the Great",
+        "explanation": "Tutored by Aristotle, Alexander remained undefeated in battle and spread Hellenistic culture throughout his empire."
+    },
+    {
+        "id": "H04",
+        "text": "The $\\textbf{Ides of March}$ (44 BC) marks the assassination of which Roman dictator?",
+        "image": "",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Julius Caesar",
+            "Marcus Aurelius"
+        ],
+        "answer": "Julius Caesar",
+        "explanation": "Caesar was stabbed to death by a group of senators, an event that ultimately led to the end of the Roman Republic."
+    },
+    {
+        "id": "H05",
+        "text": "The fall of the $\\textbf{Western Roman Empire}$ is traditionally dated to which year?",
+        "image": "",
+        "options": [
+            "476 AD",
+            "1066 AD",
+            "1453 AD",
+            "800 AD"
+        ],
+        "answer": "476 AD",
+        "explanation": "This year marks the deposition of the last Roman Emperor, Romulus Augustulus, by the Germanic chieftain Odoacer."
+    },
+    {
+        "id": "H06",
+        "text": "Which prophet founded the religion of $\\textbf{Islam}$ in the 7th century?",
+        "image": "",
+        "options": [
+            "Abraham",
+            "Moses",
+            "Jesus",
+            "Muhammad"
+        ],
+        "answer": "Muhammad",
+        "explanation": "Muhammad united Arabia into a single Muslim polity, with the Quran becoming the central religious text of Islam."
+    },
+    {
+        "id": "H07",
+        "text": "Who was crowned $\\textbf{Emperor of the Romans}$ on Christmas Day, 800 AD, uniting much of Western Europe?",
+        "image": "",
+        "options": [
+            "Clovis",
+            "Charlemagne",
+            "Pepin the Short",
+            "Charles Martel"
+        ],
+        "answer": "Charlemagne",
+        "explanation": "Also known as Charles the Great, he was the King of the Franks and laid the foundations for modern France and Germany."
+    },
+    {
+        "id": "H08",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 resulted in the conquest of England by:",
+        "image": "",
+        "options": [
+            "The Vikings",
+            "The Saxons",
+            "The Normans",
+            "The Romans"
+        ],
+        "answer": "The Normans",
+        "explanation": "William the Conqueror, Duke of Normandy, defeated King Harold II, changing the course of English history and language."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Magna Carta}$, signed in 1215, is significant because it:",
+        "image": "",
+        "options": [
+            "Established the Church of England",
+            "Limited the power of the King",
+            "Declared war on France",
+            "Granted women the right to vote"
+        ],
+        "answer": "Limited the power of the King",
+        "explanation": "It established the principle that everyone, including the king, was subject to the law."
+    },
+    {
+        "id": "H10",
+        "text": "Which Mongol leader established the largest contiguous land empire in history?",
+        "image": "",
+        "options": [
+            "Kublai Khan",
+            "Attila the Hun",
+            "Genghis Khan",
+            "Tamerlane"
+        ],
+        "answer": "Genghis Khan",
+        "explanation": "He united the nomadic tribes of Northeast Asia and launched invasions that conquered vast territories."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Black Death}$ was a pandemic that killed millions in Europe during the:",
+        "image": "",
+        "options": [
+            "12th Century",
+            "14th Century",
+            "16th Century",
+            "18th Century"
+        ],
+        "answer": "14th Century",
+        "explanation": "Caused by the bacterium *Yersinia pestis*, it is estimated to have killed 30% to 60% of Europe's population."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the French heroine of the $\\textbf{Hundred Years' War}$ burned at the stake in 1431?",
+        "image": "",
+        "options": [
+            "Marie Antoinette",
+            "Joan of Arc",
+            "Eleanor of Aquitaine",
+            "Catherine de' Medici"
+        ],
+        "answer": "Joan of Arc",
+        "explanation": "The 'Maid of Orléans' claimed divine guidance and led the French army to several important victories."
+    },
+    {
+        "id": "H13",
+        "text": "Who is credited with inventing the movable-type $\\textbf{Printing Press}$ in Europe around 1440?",
+        "image": "",
+        "options": [
+            "Leonardo da Vinci",
+            "Johannes Gutenberg",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Johannes Gutenberg",
+        "explanation": "His invention revolutionized the spread of information, playing a key role in the Renaissance and Reformation."
+    },
+    {
+        "id": "H14",
+        "text": "Which Renaissance artist painted the $\\textbf{Mona Lisa}$ and the $\\textbf{Last Supper}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Leonardo was a polymath whose notebooks reveal a spirit of scientific inquiry and mechanical inventiveness."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Protestant Reformation}$ began when Martin Luther posted his:",
+        "image": "",
+        "options": [
+            "Communist Manifesto",
+            "95 Theses",
+            "Magna Carta",
+            "Declaration of Independence"
+        ],
+        "answer": "95 Theses",
+        "explanation": "In 1517, Luther criticized the Catholic Church's sale of indulgences, sparking a religious schism in Europe."
+    },
+    {
+        "id": "H16",
+        "text": "Which English King is famous for having six wives and breaking with the Catholic Church?",
+        "image": "",
+        "options": [
+            "Henry V",
+            "Henry VIII",
+            "Richard III",
+            "James I"
+        ],
+        "answer": "Henry VIII",
+        "explanation": "He established the Church of England, naming himself its supreme head, to annul his first marriage."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Spanish Armada}$ was defeated by the English navy in 1588 during the reign of:",
+        "image": "",
+        "options": [
+            "Mary I",
+            "Elizabeth I",
+            "Victoria",
+            "Anne"
+        ],
+        "answer": "Elizabeth I",
+        "explanation": "The defeat of the Armada prevented a Spanish invasion and is considered one of England's greatest military victories."
+    },
+    {
+        "id": "H18",
+        "text": "Which astronomer famously faced the Inquisition for supporting the theory that the $\\textbf{Earth revolves around the Sun}$?",
+        "image": "",
+        "options": [
+            "Nicolaus Copernicus",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler"
+        ],
+        "answer": "Galileo Galilei",
+        "explanation": "Galileo was tried in 1633 and spent the rest of his life under house arrest for his heliocentric views."
+    },
+    {
+        "id": "H19",
+        "text": "Who formulated the $\\textbf{Laws of Motion}$ and the Law of Universal Gravitation?",
+        "image": "",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Nikola Tesla",
+            "Charles Darwin"
+        ],
+        "answer": "Isaac Newton",
+        "explanation": "His work 'Principia Mathematica' (1687) laid the groundwork for classical mechanics."
+    },
+    {
+        "id": "H20",
+        "text": "The $\\textbf{American Revolution}$ officially began with the 'shot heard 'round the world' at the battles of:",
+        "image": "",
+        "options": [
+            "Yorktown and Saratoga",
+            "Lexington and Concord",
+            "Bunker Hill and Trenton",
+            "Gettysburg and Antietam"
+        ],
+        "answer": "Lexington and Concord",
+        "explanation": "Fought on April 19, 1775, these were the first military engagements of the American Revolutionary War."
+    },
+    {
+        "id": "H21",
+        "text": "The storming of the $\\textbf{Bastille}$ in 1789 signaled the start of which revolution?",
+        "image": "",
+        "options": [
+            "The Russian Revolution",
+            "The French Revolution",
+            "The Haitian Revolution",
+            "The Industrial Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "The Bastille was a symbol of royal tyranny, and its fall marked a turning point in French history."
+    },
+    {
+        "id": "H22",
+        "text": "Which military leader declared himself Emperor of France in 1804?",
+        "image": "",
+        "options": [
+            "Louis XVI",
+            "Robespierre",
+            "Napoleon Bonaparte",
+            "Charlemagne"
+        ],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Napoleon rose to prominence during the French Revolution and conquered much of Europe before his eventual defeat."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Industrial Revolution}$ began in Great Britain with the development of which engine?",
+        "image": "",
+        "options": [
+            "The Internal Combustion Engine",
+            "The Steam Engine",
+            "The Jet Engine",
+            "The Electric Motor"
+        ],
+        "answer": "The Steam Engine",
+        "explanation": "Improvements to the steam engine by James Watt were critical for powering factories and transport."
+    },
+    {
+        "id": "H24",
+        "text": "Who was the President of the United States during the $\\textbf{Civil War}$?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Andrew Jackson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Lincoln led the nation through its greatest moral, constitutional, and political crisis, preserving the Union and abolishing slavery."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Wright Brothers}$ are credited with the first successful powered flight in which year?",
+        "image": "",
+        "options": [
+            "1899",
+            "1903",
+            "1914",
+            "1927"
+        ],
+        "answer": "1903",
+        "explanation": "Orville and Wilbur Wright achieved the feat at Kitty Hawk, North Carolina."
+    },
+    {
+        "id": "H26",
+        "text": "Which ship famously sank on its maiden voyage in 1912 after hitting an iceberg?",
+        "image": "",
+        "options": [
+            "The Lusitania",
+            "The Titanic",
+            "The Bismarck",
+            "The Queen Mary"
+        ],
+        "answer": "The Titanic",
+        "explanation": "The luxury liner sank in the North Atlantic, resulting in the deaths of over 1,500 people."
+    },
+    {
+        "id": "H27",
+        "text": "The assassination of $\\textbf{Archduke Franz Ferdinand}$ in 1914 triggered which conflict?",
+        "image": "",
+        "options": [
+            "The Franco-Prussian War",
+            "World War I",
+            "World War II",
+            "The Crimean War"
+        ],
+        "answer": "World War I",
+        "explanation": "His assassination in Sarajevo set off a chain of alliances that dragged the major powers of Europe into war."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Russian Revolution}$ of 1917 was led by which Bolshevik leader?",
+        "image": "",
+        "options": [
+            "Joseph Stalin",
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Nicholas II"
+        ],
+        "answer": "Vladimir Lenin",
+        "explanation": "Lenin led the overthrow of the Provisional Government and established the world's first communist state."
+    },
+    {
+        "id": "H29",
+        "text": "Which amendment to the US Constitution granted $\\textbf{women the right to vote}$ in 1920?",
+        "image": "",
+        "options": [
+            "13th Amendment",
+            "15th Amendment",
+            "19th Amendment",
+            "21st Amendment"
+        ],
+        "answer": "19th Amendment",
+        "explanation": "It prohibits the states and the federal government from denying the right to vote to citizens on the basis of sex."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Great Depression}$ was triggered by the stock market crash in:",
+        "image": "",
+        "options": [
+            "1919",
+            "1929",
+            "1939",
+            "1945"
+        ],
+        "answer": "1929",
+        "explanation": "The crash on Wall Street led to a decade-long economic downturn that affected the entire world."
+    },
+    {
+        "id": "H31",
+        "text": "Who was the dictator of $\\textbf{Nazi Germany}$ during World War II?",
+        "image": "",
+        "options": [
+            "Benito Mussolini",
+            "Joseph Stalin",
+            "Adolf Hitler",
+            "Hideki Tojo"
+        ],
+        "answer": "Adolf Hitler",
+        "explanation": "Hitler's aggressive foreign policy and antisemitic ideology led to the outbreak of WWII and the Holocaust."
+    },
+    {
+        "id": "H32",
+        "text": "The attack on $\\textbf{Pearl Harbor}$ in 1941 brought which country into World War II?",
+        "image": "",
+        "options": [
+            "The United Kingdom",
+            "The Soviet Union",
+            "The United States",
+            "China"
+        ],
+        "answer": "The United States",
+        "explanation": "The surprise Japanese attack led the US to declare war on Japan the following day."
+    },
+    {
+        "id": "H33",
+        "text": "The systematic persecution and genocide of six million Jews by the Nazi regime is known as:",
+        "image": "",
+        "options": [
+            "The Inquisition",
+            "The Holocaust",
+            "The Great Purge",
+            "The Pogroms"
+        ],
+        "answer": "The Holocaust",
+        "explanation": "It remains one of the darkest chapters in human history."
+    },
+    {
+        "id": "H34",
+        "text": "The United States dropped atomic bombs on which two Japanese cities in 1945?",
+        "image": "",
+        "options": [
+            "Tokyo and Kyoto",
+            "Hiroshima and Nagasaki",
+            "Osaka and Kobe",
+            "Yokohama and Sapporo"
+        ],
+        "answer": "Hiroshima and Nagasaki",
+        "explanation": "The bombings led to Japan's unconditional surrender, ending World War II."
+    },
+    {
+        "id": "H35",
+        "text": "The term $\\textbf{'Iron Curtain'}$ refers to the division of Europe during which period?",
+        "image": "",
+        "options": [
+            "The Renaissance",
+            "The Industrial Revolution",
+            "The Cold War",
+            "The Napoleonic Wars"
+        ],
+        "answer": "The Cold War",
+        "explanation": "It divided the democratic West from the communist East from 1945 until 1991."
+    },
+    {
+        "id": "H36",
+        "text": "Who was the leader of the Indian independence movement known for his philosophy of $\\textbf{nonviolent resistance}$?",
+        "image": "",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah",
+            "Indira Gandhi"
+        ],
+        "answer": "Mahatma Gandhi",
+        "explanation": "Gandhi's methods inspired civil rights movements across the world."
+    },
+    {
+        "id": "H37",
+        "text": "Which US President was assassinated in Dallas, Texas, in 1963?",
+        "image": "",
+        "options": [
+            "Franklin D. Roosevelt",
+            "John F. Kennedy",
+            "Lyndon B. Johnson",
+            "Richard Nixon"
+        ],
+        "answer": "John F. Kennedy",
+        "explanation": "His assassination was a pivotal moment in 20th-century American history."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Apollo 11}$ mission in 1969 resulted in the first humans walking on:",
+        "image": "",
+        "options": [
+            "Mars",
+            "The Moon",
+            "Venus",
+            "An Asteroid"
+        ],
+        "answer": "The Moon",
+        "explanation": "Neil Armstrong and Buzz Aldrin became the first humans to land on the lunar surface."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Berlin Wall}$ fell in which year, symbolizing the end of the Cold War?",
+        "image": "",
+        "options": [
+            "1961",
+            "1989",
+            "1991",
+            "2001"
+        ],
+        "answer": "1989",
+        "explanation": "The fall of the wall paved the way for German reunification and the collapse of the Soviet Union."
+    },
+    {
+        "id": "H40",
+        "text": "Who was the first black president of $\\textbf{South Africa}$, elected in 1994?",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Steve Biko",
+            "Nelson Mandela",
+            "F.W. de Klerk"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela spent 27 years in prison for his anti-apartheid activities before leading the country's transition to democracy."
+    }
+]

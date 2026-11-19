@@ -1,0 +1,2082 @@
+[
+    {
+        "id": "C101",
+        "text": "The branch of business that deals with the exchange of goods and services is called $\\textbf{Commerce}$.",
+        "image": "",
+        "options": [
+            "Industry",
+            "Production",
+            "Commerce",
+            "Finance"
+        ],
+        "answer": "Commerce",
+        "explanation": "Commerce includes trade and aids to trade, facilitating the flow of goods from producer to consumer."
+    },
+    {
+        "id": "C102",
+        "text": "Which of the following is an $\\textbf{Aid to Trade}$?",
+        "image": "",
+        "options": [
+            "Farming",
+            "Manufacturing",
+            "Warehousing",
+            "Mining"
+        ],
+        "answer": "Warehousing",
+        "explanation": "Warehousing (storage) helps bridge the gap of time between production and consumption."
+    },
+    {
+        "id": "C103",
+        "text": "The document sent by the seller to the buyer detailing the goods sold and the amount due is the $\\textbf{Invoice}$.",
+        "image": "",
+        "options": [
+            "Proforma Invoice",
+            "Delivery Note",
+            "Bill of Lading",
+            "Invoice"
+        ],
+        "answer": "Invoice",
+        "explanation": "The invoice is a formal demand for payment and a record of the transaction."
+    },
+    {
+        "id": "C104",
+        "text": "The type of trade carried out between two different countries is called $\\textbf{Foreign Trade}$.",
+        "image": "",
+        "options": [
+            "Home Trade",
+            "Retail Trade",
+            "Foreign Trade",
+            "Wholesale Trade"
+        ],
+        "answer": "Foreign Trade",
+        "explanation": "Foreign trade includes export, import, and entrepôt trade."
+    },
+    {
+        "id": "C105",
+        "text": "A cooperative society is primarily formed to $\\textbf{Protect the interests of its members}$.",
+        "image": "",
+        "options": [
+            "Maximize shareholder profit",
+            "Protect the interests of its members",
+            "Monopolize the market",
+            "Engage in political activities"
+        ],
+        "answer": "Protect the interests of its members",
+        "explanation": "Cooperative societies operate on the principle of mutual help and voluntary association."
+    },
+    {
+        "id": "C106",
+        "text": "The process of informing the public about a product or service is known as $\\textbf{Advertising}$.",
+        "image": "",
+        "options": [
+            "Branding",
+            "Packaging",
+            "Advertising",
+            "Public Relations"
+        ],
+        "answer": "Advertising",
+        "explanation": "Advertising overcomes the barrier of 'knowledge' by making consumers aware of products."
+    },
+    {
+        "id": "C107",
+        "text": "Which factor of production earns $\\textbf{Wages}$?",
+        "image": "",
+        "options": [
+            "Land",
+            "Capital",
+            "Labour",
+            "Entrepreneurship"
+        ],
+        "answer": "Labour",
+        "explanation": "Labour is the human effort in production, and wages are the payment for this effort."
+    },
+    {
+        "id": "C108",
+        "text": "The principle of $\\textbf{Utmost Good Faith}$ (uberrimae fidei) is fundamental to which type of contract?",
+        "image": "",
+        "options": [
+            "Sales Contract",
+            "Employment Contract",
+            "Insurance Contract",
+            "Hire Purchase Contract"
+        ],
+        "answer": "Insurance Contract",
+        "explanation": "Both parties must fully disclose all material facts in an insurance contract."
+    },
+    {
+        "id": "C109",
+        "text": "The market structure with a single seller and many buyers is called $\\textbf{Monopoly}$.",
+        "image": "",
+        "options": [
+            "Oligopoly",
+            "Monopolistic Competition",
+            "Perfect Competition",
+            "Monopoly"
+        ],
+        "answer": "Monopoly",
+        "explanation": "The monopolist has significant control over the price of the product."
+    },
+    {
+        "id": "C110",
+        "text": "The person responsible for forming a company and raising capital is called a $\\textbf{Promoter}$.",
+        "image": "",
+        "options": [
+            "Auditor",
+            "Promoter",
+            "Liquidator",
+            "Receiver"
+        ],
+        "answer": "Promoter",
+        "explanation": "Promoters conceive the idea and take the initial steps to incorporate the company."
+    },
+    {
+        "id": "C111",
+        "text": "Which type of retailer usually deals in a narrow range of goods but in great depth (many varieties)?",
+        "image": "",
+        "options": [
+            "Department Store",
+            "Supermarket",
+            "Specialty Store",
+            "Chain Store"
+        ],
+        "answer": "Specialty Store",
+        "explanation": "A specialty store focuses on a specific product line, such as shoes or watches."
+    },
+    {
+        "id": "C112",
+        "text": "The risk covered by $\\textbf{Fidelity Insurance}$ is $\\textbf{Fraud by employees}$.",
+        "image": "",
+        "options": [
+            "Fire damage",
+            "Loss of goods in transit",
+            "Fraud by employees",
+            "Loss of profit due to strike"
+        ],
+        "answer": "Fraud by employees",
+        "explanation": "Fidelity insurance protects a business against financial loss due to employee dishonesty."
+    },
+    {
+        "id": "C113",
+        "text": "What is the primary function of a $\\textbf{Commercial Bank}$?",
+        "image": "",
+        "options": [
+            "Issuing currency notes",
+            "Controlling the money supply",
+            "Accepting deposits and granting loans",
+            "Managing foreign exchange reserves"
+        ],
+        "answer": "Accepting deposits and granting loans",
+        "explanation": "These are the core intermediary functions of commercial banks."
+    },
+    {
+        "id": "C114",
+        "text": "A document acknowledging the receipt of goods for shipment by a shipping company is a $\\textbf{Bill of Lading}$.",
+        "image": "",
+        "options": [
+            "Insurance Policy",
+            "Customs Entry",
+            "Certificate of Origin",
+            "Bill of Lading"
+        ],
+        "answer": "Bill of Lading",
+        "explanation": "It serves as a receipt, a contract of carriage, and a document of title to the goods."
+    },
+    {
+        "id": "C115",
+        "text": "The term $\\textbf{Debenture}$ represents $\\textbf{A loan taken by a company}$.",
+        "image": "",
+        "options": [
+            "Ownership in a company",
+            "A loan taken by a company",
+            "A declaration of dividend",
+            "A short-term debt instrument"
+        ],
+        "answer": "A loan taken by a company",
+        "explanation": "Debentures are fixed-income debt instruments issued by a company to raise capital."
+    },
+    {
+        "id": "C116",
+        "text": "What is the main advantage of $\\textbf{E-commerce}$ over traditional commerce?",
+        "image": "",
+        "options": [
+            "Higher personal interaction",
+            "Requires less technical knowledge",
+            "Global reach with reduced costs",
+            "No need for physical delivery"
+        ],
+        "answer": "Global reach with reduced costs",
+        "explanation": "E-commerce allows businesses to reach a worldwide market 24/7 with lower operational overhead."
+    },
+    {
+        "id": "C117",
+        "text": "The $\\textbf{Marketing Mix}$ is commonly known as the $\\textbf{4 P's}$ which include Product, Price, Place, and $\\textbf{Promotion}$.",
+        "image": "",
+        "options": [
+            "Packaging",
+            "Personnel",
+            "Profit",
+            "Promotion"
+        ],
+        "answer": "Promotion",
+        "explanation": "The 4 P's are the controllable tactical marketing tools used to produce the desired response."
+    },
+    {
+        "id": "C118",
+        "text": "In the context of sole proprietorship, $\\textbf{Unlimited Liability}$ means that $\\textbf{The owner's personal assets can be used to pay business debts}$.",
+        "image": "",
+        "options": [
+            "The business can borrow any amount of money",
+            "The owner's personal assets are protected",
+            "The owner's personal assets can be used to pay business debts",
+            "The liability is limited to the capital invested"
+        ],
+        "answer": "The owner's personal assets can be used to pay business debts",
+        "explanation": "Unlimited liability is a major risk for sole traders and partners."
+    },
+    {
+        "id": "C119",
+        "text": "Which function of money helps in calculating profits and losses?",
+        "image": "",
+        "options": [
+            "Medium of Exchange",
+            "Measure of Value",
+            "Store of Value",
+            "Standard of Deferred Payment"
+        ],
+        "answer": "Measure of Value",
+        "explanation": "Money acts as a common unit of account, allowing the value of goods and transactions to be compared."
+    },
+    {
+        "id": "C120",
+        "text": "The term $\\textbf{Re-insurance}$ refers to $\\textbf{A company insuring part of its risk with another insurer}$.",
+        "image": "",
+        "options": [
+            "Insuring the same property twice",
+            "A company insuring part of its risk with another insurer",
+            "Renewing an expired policy",
+            "Insuring property against all possible risks"
+        ],
+        "answer": "A company insuring part of its risk with another insurer",
+        "explanation": "Re-insurance helps spread the risk and protect the insurance company from massive losses."
+    },
+    {
+        "id": "C121",
+        "text": "A business organization owned by a maximum of 20 people in most common law jurisdictions is a $\\textbf{Partnership}$.",
+        "image": "",
+        "options": [
+            "Sole Proprietorship",
+            "Partnership",
+            "Private Limited Company",
+            "Public Limited Company"
+        ],
+        "answer": "Partnership",
+        "explanation": "Partnerships usually have a maximum number of partners, often 20, though this varies by country and sector."
+    },
+    {
+        "id": "C122",
+        "text": "The function of $\\textbf{Transportation}$ in commerce helps to overcome the barrier of $\\textbf{Place}$.",
+        "image": "",
+        "options": [
+            "Time",
+            "Risk",
+            "Place",
+            "Knowledge"
+        ],
+        "answer": "Place",
+        "explanation": "Transportation moves goods from the point of production to the point of consumption."
+    },
+    {
+        "id": "C123",
+        "text": "A $\\textbf{Hire Purchase}$ agreement involves $\\textbf{The buyer paying installments and taking ownership after the final payment}$.",
+        "image": "",
+        "options": [
+            "Immediate ownership transfer",
+            "The buyer paying installments and taking ownership after the final payment",
+            "The seller retaining ownership indefinitely",
+            "A lump sum payment only"
+        ],
+        "answer": "The buyer paying installments and taking ownership after the final payment",
+        "explanation": "Ownership is retained by the seller until all installments are paid."
+    },
+    {
+        "id": "C124",
+        "text": "The term used for goods bought from a foreign country is $\\textbf{Imports}$.",
+        "image": "",
+        "options": [
+            "Exports",
+            "Re-exports",
+            "Imports",
+            "Home Trade"
+        ],
+        "answer": "Imports",
+        "explanation": "Imports are goods and services brought into a domestic country."
+    },
+    {
+        "id": "C125",
+        "text": "In a $\\textbf{Public Limited Company (PLC)}$, shares are usually traded on the $\\textbf{Stock Exchange}$.",
+        "image": "",
+        "options": [
+            "Retail Market",
+            "Money Market",
+            "Commodity Exchange",
+            "Stock Exchange"
+        ],
+        "answer": "Stock Exchange",
+        "explanation": "PLCs are allowed to offer their shares to the general public for trading."
+    },
+    {
+        "id": "C126",
+        "text": "What is the main role of a $\\textbf{Wholesaler}$?",
+        "image": "",
+        "options": [
+            "Selling directly to the final consumer",
+            "Breaking bulk and distributing to retailers",
+            "Manufacturing products",
+            "Providing specialized professional services"
+        ],
+        "answer": "Breaking bulk and distributing to retailers",
+        "explanation": "Wholesalers act as an intermediary between the producer and the retailer."
+    },
+    {
+        "id": "C127",
+        "text": "The document that provides evidence of title to goods stored in a warehouse is a $\\textbf{Warehouse Warrant}$.",
+        "image": "",
+        "options": [
+            "Dock Warrant",
+            "Delivery Note",
+            "Warehouse Warrant",
+            "Consignment Note"
+        ],
+        "answer": "Warehouse Warrant",
+        "explanation": "A document of title that allows the owner to transfer the title of the goods."
+    },
+    {
+        "id": "C128",
+        "text": "A business undertaking owned and controlled by the government is called a $\\textbf{Public Corporation}$.",
+        "image": "",
+        "options": [
+            "Multinational Corporation",
+            "Private Limited Company",
+            "Public Corporation",
+            "Holding Company"
+        ],
+        "answer": "Public Corporation",
+        "explanation": "Established by a special Act of Parliament and serves public interest."
+    },
+    {
+        "id": "C129",
+        "text": "Which principle states that an insured person should not make a profit from an insurance claim?",
+        "image": "",
+        "options": [
+            "Subrogation",
+            "Insurable Interest",
+            "Indemnity",
+            "Proximate Cause"
+        ],
+        "answer": "Indemnity",
+        "explanation": "The insured is restored to the financial position they were in just before the loss occurred."
+    },
+    {
+        "id": "C130",
+        "text": "A $\\textbf{Brand}$ is a $\\textbf{Name, term, sign, or symbol used to identify and differentiate a product}$.",
+        "image": "",
+        "options": [
+            "Type of packaging material",
+            "Price reduction strategy",
+            "Name, term, sign, or symbol used to identify and differentiate a product",
+            "Distribution channel"
+        ],
+        "answer": "Name, term, sign, or symbol used to identify and differentiate a product",
+        "explanation": "Branding creates unique identity and recognition for the product."
+    },
+    {
+        "id": "C131",
+        "text": "The official record of proceedings at a meeting is known as the $\\textbf{Minutes}$.",
+        "image": "",
+        "options": [
+            "Agenda",
+            "Motion",
+            "Minutes",
+            "Proxy"
+        ],
+        "answer": "Minutes",
+        "explanation": "Minutes provide a summary of what was discussed, decisions made, and actions to be taken."
+    },
+    {
+        "id": "C132",
+        "text": "An $\\textbf{Endowment Policy}$ in life assurance is a policy that is $\\textbf{Payable after a specific term or upon death, whichever is earlier}$.",
+        "image": "",
+        "options": [
+            "Only payable upon the death of the insured",
+            "Only covers accident and injury",
+            "Payable after a specific term or upon death, whichever is earlier",
+            "Covers only fire damage"
+        ],
+        "answer": "Payable after a specific term or upon death, whichever is earlier",
+        "explanation": "It combines savings with insurance protection."
+    },
+    {
+        "id": "C133",
+        "text": "The document requesting the bank to pay a specific amount to a named person is a $\\textbf{Cheque}$.",
+        "image": "",
+        "options": [
+            "Promissory Note",
+            "Bill of Exchange",
+            "Cheque",
+            "Bank Draft"
+        ],
+        "answer": "Cheque",
+        "explanation": "A cheque is a written order to a bank to pay a specified sum of money from the account of the drawer."
+    },
+    {
+        "id": "C134",
+        "text": "What is $\\textbf{Job Production}$?",
+        "image": "",
+        "options": [
+            "Producing a large volume of standardized goods",
+            "Producing goods to meet a specific customer order",
+            "Producing a small batch of identical items",
+            "Production that flows continuously"
+        ],
+        "answer": "Producing goods to meet a specific customer order",
+        "explanation": "Job production involves creating one-off, unique products tailored to customer specifications."
+    },
+    {
+        "id": "C135",
+        "text": "A formal arrangement where a business is licensed to use another's successful business name and model is called $\\textbf{Franchising}$.",
+        "image": "",
+        "options": [
+            "Joint Venture",
+            "Merger",
+            "Franchising",
+            "Takeover"
+        ],
+        "answer": "Franchising",
+        "explanation": "The franchisor grants the franchisee the right to operate under its trademark and system."
+    },
+    {
+        "id": "C136",
+        "text": "The $\\textbf{Stock Exchange}$ primarily deals in the trading of $\\textbf{Securities (shares and bonds)}$.",
+        "image": "",
+        "options": [
+            "Raw materials",
+            "Finished consumer goods",
+            "Foreign currencies",
+            "Securities (shares and bonds)"
+        ],
+        "answer": "Securities (shares and bonds)",
+        "explanation": "It is a market for long-term finance, facilitating the buying and selling of corporate securities."
+    },
+    {
+        "id": "C137",
+        "text": "Which document is used by the buyer to place an order for goods?",
+        "image": "",
+        "options": [
+            "Quotation",
+            "Order Form",
+            "Statement of Account",
+            "Receipt"
+        ],
+        "answer": "Order Form",
+        "explanation": "The Order Form specifies the quantities and types of goods the buyer wishes to purchase."
+    },
+    {
+        "id": "C138",
+        "text": "The capital contributed by the owners of a company is known as $\\textbf{Share Capital}$.",
+        "image": "",
+        "options": [
+            "Borrowed Capital",
+            "Loan Capital",
+            "Debentures",
+            "Share Capital"
+        ],
+        "answer": "Share Capital",
+        "explanation": "Represents the equity or owned funds of the company."
+    },
+    {
+        "id": "C139",
+        "text": "The term $\\textbf{C.I.F.}$ (Cost, Insurance, Freight) in international trade means the price includes $\\textbf{Cost of goods, insurance, and transport to the destination port}$.",
+        "image": "",
+        "options": [
+            "Only the cost of the goods",
+            "Cost of goods and insurance only",
+            "Cost of goods, insurance, and transport to the destination port",
+            "Cost of goods and domestic transport only"
+        ],
+        "answer": "Cost of goods, insurance, and transport to the destination port",
+        "explanation": "It is an Incoterm defining the seller's responsibilities for costs and risks."
+    },
+    {
+        "id": "C140",
+        "text": "Which of the following is a $\\textbf{Tertiary}$ (Service) activity?",
+        "image": "",
+        "options": [
+            "Agriculture",
+            "Oil Refining",
+            "Teaching",
+            "Fishing"
+        ],
+        "answer": "Teaching",
+        "explanation": "Teaching is a service provided and thus belongs to the tertiary sector of the economy."
+    },
+    {
+        "id": "C141",
+        "text": "A business whose primary motive is to maximize profit for its owners is classified as a $\\textbf{Private Sector}$ organization.",
+        "image": "",
+        "options": [
+            "Public Corporation",
+            "Non-Governmental Organization (NGO)",
+            "Public Sector",
+            "Private Sector"
+        ],
+        "answer": "Private Sector",
+        "explanation": "Private sector businesses are owned and managed by individuals or groups with a profit motive."
+    },
+    {
+        "id": "C142",
+        "text": "A $\\textbf{Memorandum}$ (Memo) is mainly used for communication $\\textbf{Within the organization}$.",
+        "image": "",
+        "options": [
+            "With customers",
+            "With suppliers",
+            "With government agencies",
+            "Within the organization"
+        ],
+        "answer": "Within the organization",
+        "explanation": "Memos are concise, formal documents used for internal communication."
+    },
+    {
+        "id": "C143",
+        "text": "Which mode of transport is best suited for moving large volumes of $\\textbf{Oil and Gas}$ over long distances?",
+        "image": "",
+        "options": [
+            "Rail",
+            "Road",
+            "Air",
+            "Pipeline"
+        ],
+        "answer": "Pipeline",
+        "explanation": "Pipelines offer an efficient, reliable, and continuous flow for liquids and gases."
+    },
+    {
+        "id": "C144",
+        "text": "The insurance principle of $\\textbf{Subrogation}$ allows the insurer to $\\textbf{Step into the shoes of the insured}$ after paying a claim.",
+        "image": "",
+        "options": [
+            "Retain ownership of the damaged property",
+            "Step into the shoes of the insured",
+            "Refuse a claim if non-disclosure occurred",
+            "Reduce the amount of the claim"
+        ],
+        "answer": "Step into the shoes of the insured",
+        "explanation": "The insurer can then recover the loss from the party responsible for the damage."
+    },
+    {
+        "id": "C145",
+        "text": "The difference between current assets and current liabilities is known as $\\textbf{Working Capital}$.",
+        "image": "",
+        "options": [
+            "Fixed Capital",
+            "Share Capital",
+            "Working Capital",
+            "Loan Capital"
+        ],
+        "answer": "Working Capital",
+        "explanation": "Working capital is the capital required for the day-to-day operations of a business."
+    },
+    {
+        "id": "C146",
+        "text": "Dividing a broad consumer market into sub-groups based on shared characteristics is called $\\textbf{Market Segmentation}$.",
+        "image": "",
+        "options": [
+            "Branding",
+            "Product Development",
+            "Market Segmentation",
+            "Pricing Strategy"
+        ],
+        "answer": "Market Segmentation",
+        "explanation": "Segmentation helps businesses target specific customer groups more effectively."
+    },
+    {
+        "id": "C147",
+        "text": "A $\\textbf{Debit Note}$ is issued by a seller to a buyer when $\\textbf{The buyer has been undercharged in the original invoice}$.",
+        "image": "",
+        "options": [
+            "Goods are returned by the buyer",
+            "The buyer has been undercharged in the original invoice",
+            "A payment is made in cash",
+            "The seller agrees to a price reduction"
+        ],
+        "answer": "The buyer has been undercharged in the original invoice",
+        "explanation": "The Debit Note increases the amount owed by the buyer."
+    },
+    {
+        "id": "C148",
+        "text": "Which form of retailing offers goods 24 hours a day without the need for a salesperson?",
+        "image": "",
+        "options": [
+            "Chain Store",
+            "Vending Machine",
+            "Department Store",
+            "Mail Order"
+        ],
+        "answer": "Vending Machine",
+        "explanation": "Vending machines provide convenience and continuous availability of small, standardized products."
+    },
+    {
+        "id": "C149",
+        "text": "The first step in forming a valid contract is the $\\textbf{Offer}$ which must be clear and definite.",
+        "image": "",
+        "options": [
+            "Consideration",
+            "Acceptance",
+            "Offer",
+            "Legal Capacity"
+        ],
+        "answer": "Offer",
+        "explanation": "A contract requires an offer by one party and an acceptance by the other."
+    },
+    {
+        "id": "C150",
+        "text": "The distribution of surplus earnings to members of a cooperative society based on their purchases is called a $\\textbf{Dividend}$ or bonus.",
+        "image": "",
+        "options": [
+            "Profit Sharing",
+            "Commission",
+            "Interest",
+            "Dividend"
+        ],
+        "answer": "Dividend",
+        "explanation": "The dividend is typically paid based on patronage rather than share ownership."
+    },
+    {
+        "id": "C151",
+        "text": "The most fundamental objective that a new business must prioritize is $\\textbf{Survival}$.",
+        "image": "",
+        "options": [
+            "Maximization of profit",
+            "Survival",
+            "Social responsibility",
+            "Market leadership"
+        ],
+        "answer": "Survival",
+        "explanation": "A business must first ensure it can cover costs and remain operational before pursuing other goals."
+    },
+    {
+        "id": "C152",
+        "text": "Which method of production is characterized by continuous flow and high volume of standardized output?",
+        "image": "",
+        "options": [
+            "Job Production",
+            "Batch Production",
+            "Mass Production",
+            "Process Production"
+        ],
+        "answer": "Mass Production",
+        "explanation": "Mass production, often on an assembly line, leads to economies of scale and low unit costs."
+    },
+    {
+        "id": "C153",
+        "text": "Taxes imposed on imported goods to raise their price and protect domestic industries are called $\\textbf{Tariffs}$.",
+        "image": "",
+        "options": [
+            "Quotas",
+            "Subsidies",
+            "Tariffs",
+            "Bounties"
+        ],
+        "answer": "Tariffs",
+        "explanation": "Tariffs are a common form of protectionism in international trade."
+    },
+    {
+        "id": "C154",
+        "text": "In the stock market, a $\\textbf{Bull Market}$ is characterized by $\\textbf{Rising stock prices and investor optimism}$.",
+        "image": "",
+        "options": [
+            "Falling stock prices",
+            "High interest rates",
+            "Rising stock prices and investor optimism",
+            "A period of economic recession"
+        ],
+        "answer": "Rising stock prices and investor optimism",
+        "explanation": "A bull market is a period when stock prices are generally increasing."
+    },
+    {
+        "id": "C155",
+        "text": "The main body responsible for issuing currency and controlling the money supply in a country is the $\\textbf{Central Bank}$.",
+        "image": "",
+        "options": [
+            "Commercial Bank",
+            "Investment Bank",
+            "Central Bank",
+            "Development Bank"
+        ],
+        "answer": "Central Bank",
+        "explanation": "Central banks, like the Federal Reserve or the Bank of England, manage monetary policy."
+    },
+    {
+        "id": "C156",
+        "text": "Changes in government policy regarding taxation or deregulation are elements of the $\\textbf{Political/Legal}$ business environment.",
+        "image": "",
+        "options": [
+            "Socio-cultural",
+            "Technological",
+            "Economic",
+            "Political/Legal"
+        ],
+        "answer": "Political/Legal",
+        "explanation": "This environment encompasses laws, government agencies, and pressure groups that influence organizations."
+    },
+    {
+        "id": "C157",
+        "text": "Which function of money allows for borrowing and lending for future payments?",
+        "image": "",
+        "options": [
+            "Medium of Exchange",
+            "Store of Value",
+            "Standard of Deferred Payment",
+            "Measure of Value"
+        ],
+        "answer": "Standard of Deferred Payment",
+        "explanation": "Money is used as the basis for credit transactions."
+    },
+    {
+        "id": "C158",
+        "text": "The exchange of goods and services between businesses and individual consumers online is known as $\\textbf{B2C}$ commerce.",
+        "image": "",
+        "options": [
+            "B2B",
+            "B2C",
+            "C2C",
+            "G2B"
+        ],
+        "answer": "B2C",
+        "explanation": "Business-to-Consumer (B2C) is the most common form of e-commerce."
+    },
+    {
+        "id": "C159",
+        "text": "A key characteristic of entrepreneurship is $\\textbf{Innovation}$ and risk-taking.",
+        "image": "",
+        "options": [
+            "Risk avoidance",
+            "Innovation",
+            "Mass employment",
+            "Copying competitors"
+        ],
+        "answer": "Innovation",
+        "explanation": "Entrepreneurs identify new opportunities and introduce new products, processes, or organizational forms."
+    },
+    {
+        "id": "C160",
+        "text": "In accounting, resources owned by a business that are expected to provide future economic benefits are called $\\textbf{Assets}$.",
+        "image": "",
+        "options": [
+            "Liabilities",
+            "Assets",
+            "Expenses",
+            "Equity"
+        ],
+        "answer": "Assets",
+        "explanation": "Assets can be fixed (long-term) or current (short-term)."
+    },
+    {
+        "id": "C161",
+        "text": "The response given by the receiver to the sender in the communication process is called $\\textbf{Feedback}$.",
+        "image": "",
+        "options": [
+            "Encoding",
+            "Channel",
+            "Noise",
+            "Feedback"
+        ],
+        "answer": "Feedback",
+        "explanation": "Feedback indicates whether the message was received and understood."
+    },
+    {
+        "id": "C162",
+        "text": "The process of transferring ownership and control of a public corporation to private individuals is called $\\textbf{Privatization}$.",
+        "image": "",
+        "options": [
+            "Nationalization",
+            "Amalgamation",
+            "Privatization",
+            "Merger"
+        ],
+        "answer": "Privatization",
+        "explanation": "It often aims to improve efficiency and reduce government debt."
+    },
+    {
+        "id": "C163",
+        "text": "The record of all economic transactions between a country and the rest of the world is the $\\textbf{Balance of Payments}$.",
+        "image": "",
+        "options": [
+            "Balance of Trade",
+            "National Debt",
+            "National Income",
+            "Balance of Payments"
+        ],
+        "answer": "Balance of Payments",
+        "explanation": "It includes transactions related to goods, services, and capital transfers."
+    },
+    {
+        "id": "C164",
+        "text": "The insurance principle that seeks to find the dominant cause that led to a loss is the $\\textbf{Proximate Cause}$.",
+        "image": "",
+        "options": [
+            "Indemnity",
+            "Subrogation",
+            "Insurable Interest",
+            "Proximate Cause"
+        ],
+        "answer": "Proximate Cause",
+        "explanation": "The loss must be directly caused by an insured peril."
+    },
+    {
+        "id": "C165",
+        "text": "The system of standardized containers for transporting goods globally is called $\\textbf{Containerization}$.",
+        "image": "",
+        "options": [
+            "Piped Transport",
+            "Bulk Haulage",
+            "Containerization",
+            "Intermodal Transport"
+        ],
+        "answer": "Containerization",
+        "explanation": "It has revolutionized global trade by dramatically reducing handling costs and transport time."
+    },
+    {
+        "id": "C166",
+        "text": "In the Product Life Cycle, the stage characterized by rapid sales increase and the entry of competitors is the $\\textbf{Growth}$ stage.",
+        "image": "",
+        "options": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Decline"
+        ],
+        "answer": "Growth",
+        "explanation": "Profits rise significantly during this stage as costs are spread over more units."
+    },
+    {
+        "id": "C167",
+        "text": "Which of these is a source of $\\textbf{Long-Term Finance}$ for a business?",
+        "image": "",
+        "options": [
+            "Bank Overdraft",
+            "Trade Credit",
+            "Issuing Shares",
+            "Factoring"
+        ],
+        "answer": "Issuing Shares",
+        "explanation": "Share capital is permanent or long-term capital for the company."
+    },
+    {
+        "id": "C168",
+        "text": "A person must be of $\\textbf{Legal Age and Sound Mind}$ to have the $\\textbf{Capacity to Contract}$.",
+        "image": "",
+        "options": [
+            "Have a valid passport",
+            "Be a registered business owner",
+            "Have legal age and sound mind",
+            "Be employed for over one year"
+        ],
+        "answer": "Have legal age and sound mind",
+        "explanation": "Capacity ensures that parties entering a contract fully understand their obligations."
+    },
+    {
+        "id": "C169",
+        "text": "A very large retail store that sells a wide range of goods, including groceries and non-food items, often at discounted prices, is a $\\textbf{Hypermarket}$.",
+        "image": "",
+        "options": [
+            "Boutique",
+            "Specialty Store",
+            "Convenience Store",
+            "Hypermarket"
+        ],
+        "answer": "Hypermarket",
+        "explanation": "Hypermarkets combine a supermarket and a department store."
+    },
+    {
+        "id": "C170",
+        "text": "A $\\textbf{Credit Note}$ is sent to a buyer when $\\textbf{The buyer has been overcharged in the original invoice}$.",
+        "image": "",
+        "options": [
+            "The seller requests payment",
+            "The buyer places an order",
+            "The buyer has been overcharged in the original invoice",
+            "Goods are delivered"
+        ],
+        "answer": "The buyer has been overcharged in the original invoice",
+        "explanation": "The Credit Note reduces the amount owed by the buyer."
+    },
+    {
+        "id": "C171",
+        "text": "The term $\\textbf{Corporate Social Responsibility (CSR)}$ refers to $\\textbf{A company’s commitment to operate in an ethical and sustainable way}$.",
+        "image": "",
+        "options": [
+            "Paying taxes on time",
+            "Maximizing shareholder dividends",
+            "A company’s commitment to operate in an ethical and sustainable way",
+            "Donating to political campaigns"
+        ],
+        "answer": "A company’s commitment to operate in an ethical and sustainable way",
+        "explanation": "CSR involves considering the interests of society and the environment."
+    },
+    {
+        "id": "C172",
+        "text": "The process of checking a product or service to ensure it meets set standards is called $\\textbf{Quality Control}$.",
+        "image": "",
+        "options": [
+            "Marketing Mix",
+            "Quality Assurance",
+            "Quality Control",
+            "Market Research"
+        ],
+        "answer": "Quality Control",
+        "explanation": "QC involves inspection and testing of products."
+    },
+    {
+        "id": "C173",
+        "text": "A partner who contributes capital and shares in profits but is not actively involved in the day-to-day running of the business is called a $\\textbf{Sleeping (or Silent) Partner}$.",
+        "image": "",
+        "options": [
+            "Active Partner",
+            "Secret Partner",
+            "Sleeping (or Silent) Partner",
+            "Nominal Partner"
+        ],
+        "answer": "Sleeping (or Silent) Partner",
+        "explanation": "They provide finance but not labor or management."
+    },
+    {
+        "id": "C174",
+        "text": "Short-term debt securities issued by the government to raise money for a short period are known as $\\textbf{Treasury Bills}$.",
+        "image": "",
+        "options": [
+            "Shares",
+            "Bonds",
+            "Debentures",
+            "Treasury Bills"
+        ],
+        "answer": "Treasury Bills",
+        "explanation": "T-Bills are highly liquid, low-risk instruments traded in the money market."
+    },
+    {
+        "id": "C175",
+        "text": "The practice of importing goods into a country for the purpose of exporting them later without further processing is known as $\\textbf{Entrepot Trade}$.",
+        "image": "",
+        "options": [
+            "Bilateral Trade",
+            "Invisible Trade",
+            "Entrepot Trade",
+            "Free Trade"
+        ],
+        "answer": "Entrepot Trade",
+        "explanation": "It is a specialized form of international trade, often seen in trading hubs."
+    },
+    {
+        "id": "C176",
+        "text": "Holding a meeting where participants are geographically dispersed but connected via audio and video links is called $\\textbf{Teleconferencing (or Videoconferencing)}$.",
+        "image": "",
+        "options": [
+            "Oral Communication",
+            "Teleconferencing (or Videoconferencing)",
+            "Written Communication",
+            "Mailing"
+        ],
+        "answer": "Teleconferencing (or Videoconferencing)",
+        "explanation": "This allows for immediate, interactive communication across distances."
+    },
+    {
+        "id": "C177",
+        "text": "A temporary arrangement by which a customer is allowed to withdraw more money than they have in their current account is a $\\textbf{Bank Overdraft}$.",
+        "image": "",
+        "options": [
+            "Term Loan",
+            "Mortgage",
+            "Bank Overdraft",
+            "Fixed Deposit"
+        ],
+        "answer": "Bank Overdraft",
+        "explanation": "Overdrafts are flexible, short-term borrowing facilities for business operations."
+    },
+    {
+        "id": "C178",
+        "text": "The payment made to the factor of production $\\textbf{Land}$ is called $\\textbf{Rent}$.",
+        "image": "",
+        "options": [
+            "Wages",
+            "Interest",
+            "Rent",
+            "Profit"
+        ],
+        "answer": "Rent",
+        "explanation": "Rent is the return to land, which includes natural resources."
+    },
+    {
+        "id": "C179",
+        "text": "The organizational structure where authority flows directly from top management to subordinates is the $\\textbf{Line Organization}$.",
+        "image": "",
+        "options": [
+            "Matrix Organization",
+            "Functional Organization",
+            "Line Organization",
+            "Staff Organization"
+        ],
+        "answer": "Line Organization",
+        "explanation": "Also known as military organization, it has a clear, vertical chain of command."
+    },
+    {
+        "id": "C180",
+        "text": "The activity of giving a product a distinguishing name and identity, such as using a unique logo, is called $\\textbf{Branding}$.",
+        "image": "",
+        "options": [
+            "Grading",
+            "Standardization",
+            "Packaging",
+            "Branding"
+        ],
+        "answer": "Branding",
+        "explanation": "Branding helps consumers recognize and differentiate the product from competitors."
+    },
+    {
+        "id": "C181",
+        "text": "What is the primary document required for the registration of a partnership firm?",
+        "image": "",
+        "options": [
+            "Memorandum of Association",
+            "Articles of Association",
+            "Partnership Deed",
+            "Statutory Declaration"
+        ],
+        "answer": "Partnership Deed",
+        "explanation": "The Partnership Deed is a written agreement among partners, outlining the terms and conditions of the partnership."
+    },
+    {
+        "id": "C182",
+        "text": "A cheque that can only be deposited into the payee's account and not cashed over the counter is a $\\textbf{Crossed Cheque}$.",
+        "image": "",
+        "options": [
+            "Bearer Cheque",
+            "Open Cheque",
+            "Post-dated Cheque",
+            "Crossed Cheque"
+        ],
+        "answer": "Crossed Cheque",
+        "explanation": "Crossing a cheque enhances security by directing payment through a bank account."
+    },
+    {
+        "id": "C183",
+        "text": "The payment made to the factor of production $\\textbf{Capital}$ is called $\\textbf{Interest}$.",
+        "image": "",
+        "options": [
+            "Rent",
+            "Wages",
+            "Interest",
+            "Profit"
+        ],
+        "answer": "Interest",
+        "explanation": "Interest is the reward paid for the use of capital."
+    },
+    {
+        "id": "C184",
+        "text": "A business combination formed when two or more companies engaged in similar activities at the same stage of production join together is a $\\textbf{Horizontal Merger}$.",
+        "image": "",
+        "options": [
+            "Vertical Merger",
+            "Conglomerate Merger",
+            "Horizontal Merger",
+            "Lateral Merger"
+        ],
+        "answer": "Horizontal Merger",
+        "explanation": "A horizontal merger typically aims to increase market share and achieve economies of scale."
+    },
+    {
+        "id": "C185",
+        "text": "The barrier to trade overcome by $\\textbf{Advertising}$ and $\\textbf{Salesmanship}$ is $\\textbf{Knowledge}$.",
+        "image": "",
+        "options": [
+            "Time",
+            "Place",
+            "Risk",
+            "Knowledge"
+        ],
+        "answer": "Knowledge",
+        "explanation": "These aids inform consumers about the existence, nature, and availability of products."
+    },
+    {
+        "id": "C186",
+        "text": "Which method of inventory valuation assumes that the oldest stock is sold first?",
+        "image": "",
+        "options": [
+            "LIFO (Last-In, First-Out)",
+            "FIFO (First-In, First-Out)",
+            "AVCO (Average Cost)",
+            "Standard Costing"
+        ],
+        "answer": "FIFO (First-In, First-Out)",
+        "explanation": "FIFO is often used for perishable goods or businesses concerned with obsolescence."
+    },
+    {
+        "id": "C187",
+        "text": "The type of warehouse that stores highly perishable goods like meat, fruit, and vegetables is a $\\textbf{Cold Storage (Refrigerated) Warehouse}$.",
+        "image": "",
+        "options": [
+            "Bonded Warehouse",
+            "Public Warehouse",
+            "Cold Storage (Refrigerated) Warehouse",
+            "Private Warehouse"
+        ],
+        "answer": "Cold Storage (Refrigerated) Warehouse",
+        "explanation": "These warehouses provide temperature control to extend the shelf life of goods."
+    },
+    {
+        "id": "C188",
+        "text": "A $\\textbf{Bill of Exchange}$ is an unconditional order in writing, signed by the $\\textbf{Drawer}$, requiring the $\\textbf{Drawee}$ to pay a sum of money.",
+        "image": "",
+        "options": [
+            "Banker",
+            "Payee",
+            "Drawer",
+            "Endorser"
+        ],
+        "answer": "Drawer",
+        "explanation": "The drawer is the party issuing the instruction, typically the creditor."
+    },
+    {
+        "id": "C189",
+        "text": "What does a trade surplus indicate in a country's Balance of Trade?",
+        "image": "",
+        "options": [
+            "Imports exceed Exports",
+            "Exports exceed Imports",
+            "Trade is balanced",
+            "Services trade is dominant"
+        ],
+        "answer": "Exports exceed Imports",
+        "explanation": "A trade surplus means the country earns more from selling goods abroad than it spends on foreign goods."
+    },
+    {
+        "id": "C190",
+        "text": "The legal document that defines the relationship between a company and its shareholders is the $\\textbf{Articles of Association}$.",
+        "image": "",
+        "options": [
+            "Prospectus",
+            "Memorandum of Association",
+            "Articles of Association",
+            "Certificate of Incorporation"
+        ],
+        "answer": "Articles of Association",
+        "explanation": "The Articles govern the internal management of the company, while the Memorandum defines its external objectives."
+    },
+    {
+        "id": "C191",
+        "text": "The economic system where the means of production are controlled by the government is called $\\textbf{Socialism}$ (or a command economy).",
+        "image": "",
+        "options": [
+            "Capitalism",
+            "Mixed Economy",
+            "Socialism",
+            "Market Economy"
+        ],
+        "answer": "Socialism",
+        "explanation": "Socialism features state ownership and central planning, contrasting with private ownership in capitalism."
+    },
+    {
+        "id": "C192",
+        "text": "In the Product Life Cycle, sales are highest, and competition is most intense during the $\\textbf{Maturity}$ stage.",
+        "image": "",
+        "options": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Decline"
+        ],
+        "answer": "Maturity",
+        "explanation": "The market becomes saturated, forcing companies to maintain market share rather than grow it."
+    },
+    {
+        "id": "C193",
+        "text": "A $\\textbf{Department Store}$ is a large-scale retail unit that sells $\\textbf{A wide range of goods organized into separate departments}$.",
+        "image": "",
+        "options": [
+            "Only one type of product",
+            "Goods in small quantities at high prices",
+            "A wide range of goods organized into separate departments",
+            "Goods only through mail order"
+        ],
+        "answer": "A wide range of goods organized into separate departments",
+        "explanation": "Each department specializes in a particular type of product."
+    },
+    {
+        "id": "C194",
+        "text": "The use of money to buy goods or services is the function of money as a $\\textbf{Medium of Exchange}$.",
+        "image": "",
+        "options": [
+            "Store of Value",
+            "Unit of Account",
+            "Medium of Exchange",
+            "Standard of Deferred Payment"
+        ],
+        "answer": "Medium of Exchange",
+        "explanation": "This function eliminates the need for bartering and makes trade easier."
+    },
+    {
+        "id": "C195",
+        "text": "In the context of insurance, $\\textbf{Insurable Interest}$ means $\\textbf{The insured stands to gain financially if the event does not occur and suffer if it does}$.",
+        "image": "",
+        "options": [
+            "The insured must own the property",
+            "The insured must not profit from the loss",
+            "The insured stands to gain financially if the event does not occur and suffer if it does",
+            "The insurer must pay for all losses"
+        ],
+        "answer": "The insured stands to gain financially if the event does not occur and suffer if it does",
+        "explanation": "This principle is essential for the validity of any insurance contract."
+    },
+    {
+        "id": "C196",
+        "text": "Which type of communication involves facial expressions, body language, and gestures?",
+        "image": "",
+        "options": [
+            "Written Communication",
+            "Oral Communication",
+            "Non-verbal Communication",
+            "Formal Communication"
+        ],
+        "answer": "Non-verbal Communication",
+        "explanation": "Non-verbal cues are critical in conveying meaning alongside words."
+    },
+    {
+        "id": "C197",
+        "text": "A $\\textbf{Monopolistic Competition}$ market is characterized by $\\textbf{Many sellers offering differentiated products}$.",
+        "image": "",
+        "options": [
+            "One seller of a unique product",
+            "A few large sellers dominating the market",
+            "Many sellers offering identical products",
+            "Many sellers offering differentiated products"
+        ],
+        "answer": "Many sellers offering differentiated products",
+        "explanation": "Product differentiation allows firms some control over price."
+    },
+    {
+        "id": "C198",
+        "text": "The tax levied on the value of goods as they pass across a country's border (import or export) is called $\\textbf{Customs Duty}$.",
+        "image": "",
+        "options": [
+            "Income Tax",
+            "Sales Tax",
+            "Value Added Tax (VAT)",
+            "Customs Duty"
+        ],
+        "answer": "Customs Duty",
+        "explanation": "Customs duties are collected by customs authorities."
+    },
+    {
+        "id": "C199",
+        "text": "The process of reducing a business's scale of operations or closing down some divisions is called $\\textbf{Downsizing}$ (or Retrenchment).",
+        "image": "",
+        "options": [
+            "Expansion",
+            "Diversification",
+            "Downsizing",
+            "Amalgamation"
+        ],
+        "answer": "Downsizing",
+        "explanation": "Often done to cut costs or refocus on core competencies."
+    },
+    {
+        "id": "C200",
+        "text": "The minimum number of members required to form a $\\textbf{Private Limited Company}$ is $\\textbf{Two}$.",
+        "image": "",
+        "options": [
+            "One",
+            "Two",
+            "Seven",
+            "Fifty"
+        ],
+        "answer": "Two",
+        "explanation": "A private company has a maximum of 50 members (excluding employees) in many jurisdictions."
+    },
+    {
+        "id": "C201",
+        "text": "Which factor of production takes the $\\textbf{Risk}$ and coordinates the other factors?",
+        "image": "",
+        "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Entrepreneurship"
+        ],
+        "answer": "Entrepreneurship",
+        "explanation": "The entrepreneur organizes, manages, and bears the risks of the business."
+    },
+    {
+        "id": "C202",
+        "text": "A warehouse where imported goods are stored before Customs Duty is paid is a $\\textbf{Bonded Warehouse}$.",
+        "image": "",
+        "options": [
+            "Public Warehouse",
+            "Private Warehouse",
+            "Bonded Warehouse",
+            "Cold Storage Warehouse"
+        ],
+        "answer": "Bonded Warehouse",
+        "explanation": "Duty is only paid when the goods are withdrawn for local consumption."
+    },
+    {
+        "id": "C203",
+        "text": "The $\\textbf{Consumer Protection}$ law aims to protect consumers from $\\textbf{Unfair trading practices and unsafe products}$.",
+        "image": "",
+        "options": [
+            "Low prices",
+            "Excessive advertising",
+            "Unfair trading practices and unsafe products",
+            "International competition"
+        ],
+        "answer": "Unfair trading practices and unsafe products",
+        "explanation": "Consumer protection laws ensure fair competition and the free flow of truthful information."
+    },
+    {
+        "id": "C204",
+        "text": "What is the capital invested in a business for the purchase of long-term assets like machinery and buildings?",
+        "image": "",
+        "options": [
+            "Working Capital",
+            "Fixed Capital",
+            "Loan Capital",
+            "Venture Capital"
+        ],
+        "answer": "Fixed Capital",
+        "explanation": "Fixed capital refers to long-term investment in fixed assets."
+    },
+    {
+        "id": "C205",
+        "text": "The document that confirms a company has been legally established and can commence business (for a PLC) is the $\\textbf{Certificate of Commencement of Business}$.",
+        "image": "",
+        "options": [
+            "Certificate of Incorporation",
+            "Prospectus",
+            "Certificate of Commencement of Business",
+            "Memorandum of Association"
+        ],
+        "answer": "Certificate of Commencement of Business",
+        "explanation": "A Private Limited Company receives this upon receiving its Certificate of Incorporation, but a PLC needs a separate certificate."
+    },
+    {
+        "id": "C206",
+        "text": "The use of an external party to perform non-core business activities, such as IT or accounting, is called $\\textbf{Outsourcing}$.",
+        "image": "",
+        "options": [
+            "In-sourcing",
+            "Merger",
+            "Outsourcing",
+            "Vertical Integration"
+        ],
+        "answer": "Outsourcing",
+        "explanation": "Allows a business to focus its resources on its core competencies."
+    },
+    {
+        "id": "C207",
+        "text": "Which document is issued by the carrier (e.g., airline) acknowledging receipt of goods for air transport?",
+        "image": "",
+        "options": [
+            "Bill of Lading",
+            "Air Waybill",
+            "Dock Warrant",
+            "Customs Entry"
+        ],
+        "answer": "Air Waybill",
+        "explanation": "The Air Waybill serves as a contract of carriage and receipt for air freight; unlike a Bill of Lading, it is usually non-negotiable."
+    },
+    {
+        "id": "C208",
+        "text": "The primary objective of the $\\textbf{World Trade Organization (WTO)}$ is to $\\textbf{Liberalize international trade}$.",
+        "image": "",
+        "options": [
+            "Provide loans to developing countries",
+            "Maintain global peace",
+            "Liberalize international trade",
+            "Control global currency exchange rates"
+        ],
+        "answer": "Liberalize international trade",
+        "explanation": "The WTO aims to reduce trade barriers and resolve trade disputes among member countries."
+    },
+    {
+        "id": "C209",
+        "text": "In a $\\textbf{Supermarket}$, customers practice $\\textbf{Self-service}$ shopping.",
+        "image": "",
+        "options": [
+            "Personal service",
+            "Mail order",
+            "Self-service",
+            "Door-to-door selling"
+        ],
+        "answer": "Self-service",
+        "explanation": "Supermarkets are large self-service stores specializing in food and household goods."
+    },
+    {
+        "id": "C210",
+        "text": "The most liquid form of money is $\\textbf{Currency (Cash)}$.",
+        "image": "",
+        "options": [
+            "Fixed Deposit",
+            "Treasury Bills",
+            "Current Account Deposit",
+            "Currency (Cash)"
+        ],
+        "answer": "Currency (Cash)",
+        "explanation": "Liquidity refers to the ease with which an asset can be converted into cash without loss of value."
+    },
+    {
+        "id": "C211",
+        "text": "Which element of the Marketing Mix relates to the channels used to deliver the product to the consumer?",
+        "image": "",
+        "options": [
+            "Product",
+            "Price",
+            "Place (Distribution)",
+            "Promotion"
+        ],
+        "answer": "Place (Distribution)",
+        "explanation": "Place decisions concern distribution channels, coverage, location, inventory, and transport."
+    },
+    {
+        "id": "C212",
+        "text": "The legal right given to an inventor to exclude others from making, using, or selling an invention for a set period is a $\\textbf{Patent}$.",
+        "image": "",
+        "options": [
+            "Trademark",
+            "Copyright",
+            "Patent",
+            "Industrial Design"
+        ],
+        "answer": "Patent",
+        "explanation": "Patents protect inventions and new processes."
+    },
+    {
+        "id": "C213",
+        "text": "A business structure with two or more levels of management, resulting in a long chain of command, is a $\\textbf{Tall Organization}$.",
+        "image": "",
+        "options": [
+            "Flat Organization",
+            "Tall Organization",
+            "Matrix Organization",
+            "Project Organization"
+        ],
+        "answer": "Tall Organization",
+        "explanation": "Tall organizations have narrow spans of control and many layers of hierarchy."
+    },
+    {
+        "id": "C214",
+        "text": "The risk that money paid by a customer may be stolen or lost before being banked is best covered by $\\textbf{Cash-in-Transit Insurance}$.",
+        "image": "",
+        "options": [
+            "Fidelity Insurance",
+            "Fire Insurance",
+            "Burglary Insurance",
+            "Cash-in-Transit Insurance"
+        ],
+        "answer": "Cash-in-Transit Insurance",
+        "explanation": "This policy specifically covers the loss of cash while being moved from one location to another."
+    },
+    {
+        "id": "C215",
+        "text": "The primary role of the $\\textbf{International Monetary Fund (IMF)}$ is to $\\textbf{Stabilize global exchange rates and provide financial assistance}$.",
+        "image": "",
+        "options": [
+            "Fund long-term infrastructure projects",
+            "Stabilize global exchange rates and provide financial assistance",
+            "Promote environmental sustainability",
+            "Regulate international commodity markets"
+        ],
+        "answer": "Stabilize global exchange rates and provide financial assistance",
+        "explanation": "The IMF focuses on maintaining stability in the international monetary system."
+    },
+    {
+        "id": "C216",
+        "text": "A price skimming strategy involves setting an initial price that is $\\textbf{High, then gradually lowering it}$.",
+        "image": "",
+        "options": [
+            "Low, then gradually increasing it",
+            "High, then gradually lowering it",
+            "Equal to the competitor's price",
+            "Based purely on cost of production"
+        ],
+        "answer": "High, then gradually lowering it",
+        "explanation": "Skimming is used to maximize profits from early adopters before competition forces the price down."
+    },
+    {
+        "id": "C217",
+        "text": "A business owned and operated by one person, where the business is not legally separate from the owner, is a $\\textbf{Sole Proprietorship}$.",
+        "image": "",
+        "options": [
+            "Partnership",
+            "Cooperative Society",
+            "Sole Proprietorship",
+            "Public Limited Company"
+        ],
+        "answer": "Sole Proprietorship",
+        "explanation": "Characterized by ease of formation and unlimited liability."
+    },
+    {
+        "id": "C218",
+        "text": "The $\\textbf{Central Bank}$ uses the $\\textbf{Bank Rate}$ (or Discount Rate) to $\\textbf{Control the supply of credit by commercial banks}$.",
+        "image": "",
+        "options": [
+            "Fund government expenditure",
+            "Control the supply of credit by commercial banks",
+            "Manage foreign exchange reserves",
+            "Set commercial bank profit margins"
+        ],
+        "answer": "Control the supply of credit by commercial banks",
+        "explanation": "Raising the bank rate increases the cost of borrowing for commercial banks, which in turn reduces their lending."
+    },
+    {
+        "id": "C219",
+        "text": "Goods that are not visible or tangible, such as banking, transport, or legal advice, are known as $\\textbf{Services}$.",
+        "image": "",
+        "options": [
+            "Commodities",
+            "Invisibles",
+            "Services",
+            "Finished Goods"
+        ],
+        "answer": "Services",
+        "explanation": "Invisible trade (services) is a key part of the Balance of Payments."
+    },
+    {
+        "id": "C220",
+        "text": "The process of checking the accuracy and validity of a company's financial records is called $\\textbf{Auditing}$.",
+        "image": "",
+        "options": [
+            "Bookkeeping",
+            "Budgeting",
+            "Auditing",
+            "Invoicing"
+        ],
+        "answer": "Auditing",
+        "explanation": "Auditing is typically performed by an independent third party to ensure fair presentation of financial statements."
+    },
+    {
+        "id": "C221",
+        "text": "The party that undertakes to perform a duty on behalf of another party is called the $\\textbf{Agent}$.",
+        "image": "",
+        "options": [
+            "Principal",
+            "Client",
+            "Trustee",
+            "Agent"
+        ],
+        "answer": "Agent",
+        "explanation": "The agent acts as a legal representative of the principal."
+    },
+    {
+        "id": "C222",
+        "text": "The financial document issued by a seller to correct an overcharge to a customer is a $\\textbf{Credit Note}$.",
+        "image": "",
+        "options": [
+            "Debit Note",
+            "Invoice",
+            "Credit Note",
+            "Statement of Account"
+        ],
+        "answer": "Credit Note",
+        "explanation": "It reduces the amount owed by the buyer."
+    },
+    {
+        "id": "C223",
+        "text": "A market where short-term funds (less than one year) are borrowed and lent is the $\\textbf{Money Market}$.",
+        "image": "",
+        "options": [
+            "Capital Market",
+            "Stock Exchange",
+            "Money Market",
+            "Commodity Market"
+        ],
+        "answer": "Money Market",
+        "explanation": "Includes instruments like Treasury Bills and Commercial Paper."
+    },
+    {
+        "id": "C224",
+        "text": "The legal document inviting the public to subscribe for shares or debentures in a company is the $\\textbf{Prospectus}$.",
+        "image": "",
+        "options": [
+            "Memorandum of Association",
+            "Articles of Association",
+            "Prospectus",
+            "Certificate of Incorporation"
+        ],
+        "answer": "Prospectus",
+        "explanation": "Essential for Public Limited Companies seeking capital from the public."
+    },
+    {
+        "id": "C225",
+        "text": "Which communication barrier occurs when a message is poorly structured or uses confusing language?",
+        "image": "",
+        "options": [
+            "Psychological Barrier",
+            "Semantic Barrier",
+            "Physical Barrier",
+            "Cultural Barrier"
+        ],
+        "answer": "Semantic Barrier",
+        "explanation": "Semantic barriers relate to the meaning of words and symbols."
+    },
+    {
+        "id": "C226",
+        "text": "The price strategy that involves setting the price low to quickly capture market share is $\\textbf{Penetration Pricing}$.",
+        "image": "",
+        "options": [
+            "Cost-plus Pricing",
+            "Price Skimming",
+            "Penetration Pricing",
+            "Competitive Pricing"
+        ],
+        "answer": "Penetration Pricing",
+        "explanation": "Used for new products in highly competitive markets."
+    },
+    {
+        "id": "C227",
+        "text": "Which type of life assurance policy provides coverage for a specific period and pays out only if death occurs within that term?",
+        "image": "",
+        "options": [
+            "Whole Life Policy",
+            "Endowment Policy",
+            "Term Assurance",
+            "Annuity Policy"
+        ],
+        "answer": "Term Assurance",
+        "explanation": "Term assurance is pure protection without an investment component."
+    },
+    {
+        "id": "C228",
+        "text": "The legal term for failing to fulfill the obligations outlined in an agreement is $\\textbf{Breach of Contract}$.",
+        "image": "",
+        "options": [
+            "Void Contract",
+            "Unenforceable Contract",
+            "Breach of Contract",
+            "Misrepresentation"
+        ],
+        "answer": "Breach of Contract",
+        "explanation": "Occurs when one party fails to fulfill their obligations under the agreement."
+    },
+    {
+        "id": "C229",
+        "text": "The document used to clear goods from a bonded warehouse after Customs Duty is paid is the $\\textbf{Customs Entry}$.",
+        "image": "",
+        "options": [
+            "Bill of Sight",
+            "Bill of Lading",
+            "Customs Entry",
+            "Certificate of Origin"
+        ],
+        "answer": "Customs Entry",
+        "explanation": "Required by customs authorities before goods can enter domestic circulation."
+    },
+    {
+        "id": "C230",
+        "text": "The structure where the Central Bank acts as the 'lender of last resort' means it provides funds to $\\textbf{Commercial Banks}$ when they face liquidity crises.",
+        "image": "",
+        "options": [
+            "Individuals",
+            "The Government",
+            "Commercial Banks",
+            "Foreign Banks"
+        ],
+        "answer": "Commercial Banks",
+        "explanation": "This function ensures the stability of the banking system."
+    },
+    {
+        "id": "C231",
+        "text": "A $\\textbf{Holding Company}$ is one that $\\textbf{Owns sufficient shares to control the management of another company}$.",
+        "image": "",
+        "options": [
+            "Provides loans to small businesses",
+            "Manufactures only one product line",
+            "Owns sufficient shares to control the management of another company",
+            "Is a subsidiary of a larger corporation"
+        ],
+        "answer": "Owns sufficient shares to control the management of another company",
+        "explanation": "The controlled company is called a subsidiary."
+    },
+    {
+        "id": "C232",
+        "text": "The type of advertising aimed at creating a positive image for the entire industry or company is $\\textbf{Institutional Advertising}$.",
+        "image": "",
+        "options": [
+            "Product Advertising",
+            "Informative Advertising",
+            "Institutional Advertising",
+            "Persuasive Advertising"
+        ],
+        "answer": "Institutional Advertising",
+        "explanation": "Focuses on building goodwill rather than selling a specific product."
+    },
+    {
+        "id": "C233",
+        "text": "What is the main characteristic distinguishing $\\textbf{Ordinary Shares}$ from Preference Shares?",
+        "image": "",
+        "options": [
+            "Fixed dividend rate",
+            "Priority in capital repayment",
+            "Ordinary shareholders have voting rights",
+            "Ordinary shares have a higher par value"
+        ],
+        "answer": "Ordinary shareholders have voting rights",
+        "explanation": "Ordinary shares carry voting rights and fluctuating dividends based on profits."
+    },
+    {
+        "id": "C234",
+        "text": "The physical transfer of goods from one port to another without going through customs clearance is called $\\textbf{Transshipment}$.",
+        "image": "",
+        "options": [
+            "Entrepot Trade",
+            "Customs Clearance",
+            "Transshipment",
+            "Inland Clearance Depot"
+        ],
+        "answer": "Transshipment",
+        "explanation": "Part of the transport process, often done to change mode or routing."
+    },
+    {
+        "id": "C235",
+        "text": "The process of gathering and analyzing data about target markets, consumers, and competitors is $\\textbf{Market Research}$.",
+        "image": "",
+        "options": [
+            "Sales Promotion",
+            "Product Planning",
+            "Market Research",
+            "Inventory Control"
+        ],
+        "answer": "Market Research",
+        "explanation": "Provides essential information for making marketing decisions."
+    },
+    {
+        "id": "C236",
+        "text": "The legal term for the payment promised by the offeree to the offeror to make a contract legally binding is $\\textbf{Consideration}$.",
+        "image": "",
+        "options": [
+            "Acceptance",
+            "Offer",
+            "Consideration",
+            "Capacity"
+        ],
+        "answer": "Consideration",
+        "explanation": "It is something of value exchanged between the parties."
+    },
+    {
+        "id": "C237",
+        "text": "The $\\textbf{Quaternary}$ sector of the economy deals with $\\textbf{Information and knowledge-based services}$.",
+        "image": "",
+        "options": [
+            "Manufacturing and construction",
+            "Raw material extraction",
+            "Information and knowledge-based services",
+            "Retailing and transport"
+        ],
+        "answer": "Information and knowledge-based services",
+        "explanation": "Includes R&D, consulting, and IT services."
+    },
+    {
+        "id": "C238",
+        "text": "Which type of bank account is primarily used by businesses for frequent transactions and does not usually earn interest?",
+        "image": "",
+        "options": [
+            "Fixed Deposit Account",
+            "Savings Account",
+            "Current Account",
+            "Mortgage Account"
+        ],
+        "answer": "Current Account",
+        "explanation": "Also known as a checking account, designed for liquidity and ease of transaction."
+    },
+    {
+        "id": "C239",
+        "text": "The document used by a business to seek prices and terms for goods from a supplier is a $\\textbf{Letter of Enquiry}$.",
+        "image": "",
+        "options": [
+            "Order Form",
+            "Quotation",
+            "Letter of Enquiry",
+            "Proforma Invoice"
+        ],
+        "answer": "Letter of Enquiry",
+        "explanation": "The first step in a business buying process."
+    },
+    {
+        "id": "C240",
+        "text": "The legal protection given to the original creator of literary, artistic, or musical works is $\\textbf{Copyright}$.",
+        "image": "",
+        "options": [
+            "Patent",
+            "Trademark",
+            "Copyright",
+            "Industrial Design"
+        ],
+        "answer": "Copyright",
+        "explanation": "Prevents unauthorized copying of creative work."
+    },
+    {
+        "id": "C241",
+        "text": "The total number of units a product is expected to sell over its entire life cycle is its $\\textbf{Sales Forecast}$.",
+        "image": "",
+        "options": [
+            "Sales Quota",
+            "Sales Forecast",
+            "Market Potential",
+            "Production Budget"
+        ],
+        "answer": "Sales Forecast",
+        "explanation": "Critical for planning production, inventory, and marketing efforts."
+    },
+    {
+        "id": "C242",
+        "text": "The term $\\textbf{F.O.B.}$ (Free On Board) in international trade means the seller's responsibility ends when the goods $\\textbf{Pass the ship's rail at the port of shipment}$.",
+        "image": "",
+        "options": [
+            "Are loaded onto the buyer's truck",
+            "Pass the ship's rail at the port of shipment",
+            "Arrive at the port of destination",
+            "Are cleared through customs"
+        ],
+        "answer": "Pass the ship's rail at the port of shipment",
+        "explanation": "The buyer assumes all costs and risks thereafter."
+    },
+    {
+        "id": "C243",
+        "text": "The highest governing authority in a cooperative society is the $\\textbf{General Meeting of Members}$.",
+        "image": "",
+        "options": [
+            "Board of Directors",
+            "General Manager",
+            "General Meeting of Members",
+            "Creditors Committee"
+        ],
+        "answer": "General Meeting of Members",
+        "explanation": "Decisions are typically made on the principle of 'one member, one vote'."
+    },
+    {
+        "id": "C244",
+        "text": "Which method of communication is generally the most suitable for providing a permanent, legal record?",
+        "image": "",
+        "options": [
+            "Oral Communication",
+            "Non-verbal Communication",
+            "Written Communication",
+            "Teleconferencing"
+        ],
+        "answer": "Written Communication",
+        "explanation": "Provides evidence and reduces ambiguity."
+    },
+    {
+        "id": "C245",
+        "text": "The rate at which one country's currency is exchanged for another is the $\\textbf{Exchange Rate}$.",
+        "image": "",
+        "options": [
+            "Inflation Rate",
+            "Interest Rate",
+            "Exchange Rate",
+            "Discount Rate"
+        ],
+        "answer": "Exchange Rate",
+        "explanation": "Determines the cost of imports and the price of exports."
+    },
+    {
+        "id": "C246",
+        "text": "$\\textbf{Diversification}$ as a business strategy involves $\\textbf{Entering new markets with new products}$.",
+        "image": "",
+        "options": [
+            "Selling existing products in existing markets",
+            "Entering new markets with new products",
+            "Increasing sales of existing products in new markets",
+            "Introducing new products to existing markets"
+        ],
+        "answer": "Entering new markets with new products",
+        "explanation": "A high-risk, high-reward growth strategy."
+    },
+    {
+        "id": "C247",
+        "text": "The principle of $\\textbf{Contribution}$ in insurance applies when $\\textbf{Multiple insurers cover the same risk and must share the loss}$.",
+        "image": "",
+        "options": [
+            "The insured must contribute to the premium",
+            "Multiple insurers cover the same risk and must share the loss",
+            "The insured must contribute to preventing the loss",
+            "The insured must contribute to the policy's profit"
+        ],
+        "answer": "Multiple insurers cover the same risk and must share the loss",
+        "explanation": "Prevents the insured from being fully indemnified by multiple policies (Indemnity principle)."
+    },
+    {
+        "id": "C248",
+        "text": "A document detailing the breakdown of bulk goods and their quantities inside a shipment container is the $\\textbf{Packing List}$.",
+        "image": "",
+        "options": [
+            "Bill of Lading",
+            "Manifest",
+            "Certificate of Weight",
+            "Packing List"
+        ],
+        "answer": "Packing List",
+        "explanation": "Used by customs, freight forwarders, and the recipient for checking goods."
+    },
+    {
+        "id": "C249",
+        "text": "The legal structure of a business that is mandatory for banks and insurance companies in many countries is the $\\textbf{Public Limited Company (PLC)}$.",
+        "image": "",
+        "options": [
+            "Sole Proprietorship",
+            "Private Limited Company",
+            "Public Limited Company (PLC)",
+            "Unlimited Liability Partnership"
+        ],
+        "answer": "Public Limited Company (PLC)",
+        "explanation": "PLCs are subject to strict regulations due to their dealing with public funds."
+    },
+    {
+        "id": "C250",
+        "text": "In a $\\textbf{Flat Organization}$ structure, managers have a $\\textbf{Wide Span of Control}$.",
+        "image": "",
+        "options": [
+            "Narrow Span of Control",
+            "Long Chain of Command",
+            "High Degree of Centralization",
+            "Wide Span of Control"
+        ],
+        "answer": "Wide Span of Control",
+        "explanation": "Few management layers and decentralized decision-making."
+    },
+    {
+        "id": "C251",
+        "text": "Which type of advertising media is highly effective for geographical targeting in a specific local area?",
+        "image": "",
+        "options": [
+            "Television",
+            "Local Newspapers",
+            "Internet Banners",
+            "National Magazines"
+        ],
+        "answer": "Local Newspapers",
+        "explanation": "They reach a defined local community efficiently."
+    },
+    {
+        "id": "C252",
+        "text": "The Central Bank tool that specifies the minimum proportion of deposits that commercial banks must hold as reserves is the $\\textbf{Cash Reserve Ratio (CRR)}$.",
+        "image": "",
+        "options": [
+            "Bank Rate",
+            "Open Market Operations",
+            "Cash Reserve Ratio (CRR)",
+            "Selective Credit Control"
+        ],
+        "answer": "Cash Reserve Ratio (CRR)",
+        "explanation": "Directly controls the lending capacity of commercial banks."
+    },
+    {
+        "id": "C253",
+        "text": "A $\\textbf{Receiving Order}$ is a legal declaration that a person is $\\textbf{Bankrupt}$ and their assets are placed under official control.",
+        "image": "",
+        "options": [
+            "Solvent",
+            "Liquidated",
+            "Bankrupt",
+            "Amalgamated"
+        ],
+        "answer": "Bankrupt",
+        "explanation": "The first step in the formal insolvency process."
+    },
+    {
+        "id": "C254",
+        "text": "The movement of goods within the boundaries of a single country is referred to as $\\textbf{Home Trade}$ or domestic trade.",
+        "image": "",
+        "options": [
+            "Foreign Trade",
+            "Entrepot Trade",
+            "Visible Trade",
+            "Home Trade"
+        ],
+        "answer": "Home Trade",
+        "explanation": "Home trade is categorized into wholesale and retail trade."
+    },
+    {
+        "id": "C255",
+        "text": "The term for the reward earned by the factor of production $\\textbf{Entrepreneurship}$ is $\\textbf{Profit}$.",
+        "image": "",
+        "options": [
+            "Rent",
+            "Wages",
+            "Interest",
+            "Profit"
+        ],
+        "answer": "Profit",
+        "explanation": "This reward compensates for the risk and innovation involved."
+    },
+    {
+        "id": "C256",
+        "text": "Which type of distribution channel involves the producer selling directly to the consumer without any intermediaries?",
+        "image": "",
+        "options": [
+            "One-level Channel",
+            "Two-level Channel",
+            "Indirect Channel",
+            "Direct Channel (Zero-level)"
+        ],
+        "answer": "Direct Channel (Zero-level)",
+        "explanation": "E.g., door-to-door sales, company-owned retail stores, or e-commerce from the manufacturer."
+    },
+    {
+        "id": "C257",
+        "text": "The insurance policy covering damage or loss to a ship, cargo, or freight during a sea voyage is $\\textbf{Marine Insurance}$.",
+        "image": "",
+        "options": [
+            "Fidelity Insurance",
+            "Consequential Loss Insurance",
+            "Marine Insurance",
+            "Burglary Insurance"
+        ],
+        "answer": "Marine Insurance",
+        "explanation": "Essential for international trade conducted via sea."
+    },
+    {
+        "id": "C258",
+        "text": "A $\\textbf{Promissory Note}$ is an unconditional promise in writing, signed by the $\\textbf{Maker}$, to pay a sum of money to a specified person.",
+        "image": "",
+        "options": [
+            "Drawee",
+            "Payee",
+            "Maker",
+            "Endorser"
+        ],
+        "answer": "Maker",
+        "explanation": "The maker is the debtor, promising to pay the creditor (payee)."
+    },
+    {
+        "id": "C259",
+        "text": "The process of grouping similar products together based on size, quality, and weight is called $\\textbf{Grading}$.",
+        "image": "",
+        "options": [
+            "Standardization",
+            "Branding",
+            "Packaging",
+            "Grading"
+        ],
+        "answer": "Grading",
+        "explanation": "Used to standardize agricultural products and raw materials for sale."
+    },
+    {
+        "id": "C260",
+        "text": "The main disadvantage of oral communication in a business setting is the $\\textbf{Lack of a permanent record}$.",
+        "image": "",
+        "options": [
+            "Difficulty in immediate feedback",
+            "High cost of transmission",
+            "Lack of a permanent record",
+            "Requirement for highly skilled speakers"
+        ],
+        "answer": "Lack of a permanent record",
+        "explanation": "This can lead to disputes or misunderstandings later."
+    }
+]

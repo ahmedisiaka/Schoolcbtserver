@@ -1,0 +1,522 @@
+[
+    {
+        "id": "P1501",
+        "text": "A vehicle accelerates uniformly from rest at $4.0 \\text{ m/s}^2$ for $5.0 \\text{ s}$. Calculate its final velocity.",
+        "image": "",
+        "options": [
+            "10.0 $\\text{m/s}$",
+            "15.0 $\\text{m/s}$",
+            "20.0 $\\text{m/s}$",
+            "40.0 $\\text{m/s}$"
+        ],
+        "answer": "20.0 $\\text{m/s}$",
+        "explanation": "Using the first equation of motion, $v = u + at$. Since $u=0$, $v = 4.0 \\text{ m/s}^2 \\times 5.0 \\text{ s} = 20.0 \\text{ m/s}$."
+    },
+    {
+        "id": "P1502",
+        "text": "The $\\textbf{S.I. base unit}$ for temperature is the $\\textbf{Kelvin}$ (K).",
+        "image": "",
+        "options": [
+            "Degree Celsius",
+            "Joule",
+            "Kelvin",
+            "Mole"
+        ],
+        "answer": "Kelvin",
+        "explanation": "Kelvin (K) is the S.I. base unit for thermodynamic temperature."
+    },
+    {
+        "id": "P1503",
+        "text": "If a uniform beam of length $10 \\text{ m}$ is pivoted at its center, where should a $20 \\text{ N}$ load be placed to balance a $50 \\text{ N}$ load placed $2 \\text{ m}$ from the pivot?",
+        "image": "",
+        "options": [
+            "2 $\\text{m}$",
+            "5 $\\text{m}$",
+            "8 $\\text{m}$",
+            "10 $\\text{m}$"
+        ],
+        "answer": "5 $\\text{m}$",
+        "explanation": "For balance, the clockwise moment equals the anticlockwise moment: $F_1d_1 = F_2d_2$. $50 \\text{ N} \\times 2 \\text{ m} = 20 \\text{ N} \\times d_2$. $100 = 20d_2$. $d_2 = 5 \\text{ m}$."
+    },
+    {
+        "id": "P1504",
+        "text": "The change of momentum of an object is equal to the $\\textbf{Impulse}$ applied to it.",
+        "image": "",
+        "options": [
+            "Force",
+            "Power",
+            "Impulse",
+            "Work"
+        ],
+        "answer": "Impulse",
+        "explanation": "Impulse is defined as the change in momentum (Newton's second law in impulse form: $F \\Delta t = \\Delta p$)."
+    },
+    {
+        "id": "P1505",
+        "text": "A block of mass $5 \\text{ kg}$ rests on a horizontal surface. If the acceleration due to gravity is $10 \\text{ m/s}^2$, what is the normal reaction force?",
+        "image": "",
+        "options": [
+            "5 $\\text{N}$",
+            "10 $\\text{N}$",
+            "50 $\\text{N}$",
+            "500 $\\text{N}$"
+        ],
+        "answer": "50 $\\text{N}$",
+        "explanation": "The normal reaction force equals the weight of the block: $W = mg = 5 \\text{ kg} \\times 10 \\text{ m/s}^2 = 50 \\text{ N}$."
+    },
+    {
+        "id": "P1506",
+        "text": "The ratio of the speed of light in a vacuum to its speed in a medium is called the $\\textbf{Refractive Index}$ ($n$).",
+        "image": "",
+        "options": [
+            "Critical Angle",
+            "Refractive Index",
+            "Magnification",
+            "Focal Length"
+        ],
+        "answer": "Refractive Index",
+        "explanation": "Refractive Index $n = c/v$, where $c$ is the speed of light in vacuum and $v$ is the speed in the medium."
+    },
+    {
+        "id": "P1507",
+        "text": "Which color of light is refracted the $\\textbf{least}$ when passing through a triangular glass prism?",
+        "image": "",
+        "options": [
+            "Violet",
+            "Blue",
+            "Yellow",
+            "Red"
+        ],
+        "answer": "Red",
+        "explanation": "Red light has the longest wavelength and travels fastest in the glass, so it deviates the least (Violet deviates the most)."
+    },
+    {
+        "id": "P1508",
+        "text": "The amount of heat required to change $1 \\text{ kg}$ of a liquid completely into vapor at a constant temperature is the $\\textbf{Specific Latent Heat of Vaporization}$.",
+        "image": "",
+        "options": [
+            "Specific Heat Capacity",
+            "Specific Latent Heat of Fusion",
+            "Specific Latent Heat of Vaporization",
+            "Heat Capacity"
+        ],
+        "answer": "Specific Latent Heat of Vaporization",
+        "explanation": "This heat causes a change of state from liquid to gas without a temperature change."
+    },
+    {
+        "id": "P1509",
+        "text": "Heat transfer by $\\textbf{Conduction}$ is the primary mode of transfer in $\\textbf{Solids}$.",
+        "image": "",
+        "options": [
+            "Gases",
+            "Liquids",
+            "Solids",
+            "Vacuum"
+        ],
+        "answer": "Solids",
+        "explanation": "Conduction occurs through molecular vibration and collision, requiring direct physical contact."
+    },
+    {
+        "id": "P1510",
+        "text": "The $\\textbf{Period}$ ($T$) of a wave is the reciprocal of its $\\textbf{Frequency}$ ($f$).",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Velocity",
+            "Amplitude",
+            "Frequency"
+        ],
+        "answer": "Frequency",
+        "explanation": "The relationship is $T = 1/f$."
+    },
+    {
+        "id": "P1511",
+        "text": "Which type of wave is commonly used for telecommunications and cooking?",
+        "image": "",
+        "options": [
+            "Radio waves",
+            "Microwaves",
+            "X-rays",
+            "Visible light"
+        ],
+        "answer": "Microwaves",
+        "explanation": "Microwaves are used for communication (satellite, mobile) and in microwave ovens."
+    },
+    {
+        "id": "P1512",
+        "text": "If a current of $5 \\text{ A}$ flows through a wire for $20 \\text{ s}$, calculate the total electric charge that passes through the wire.",
+        "image": "",
+        "options": [
+            "4 $\\text{C}$",
+            "25 $\\text{C}$",
+            "100 $\\text{C}$",
+            "500 $\\text{C}$"
+        ],
+        "answer": "100 $\\text{C}$",
+        "explanation": "Charge $Q = I \\times t = 5 \\text{ A} \\times 20 \\text{ s} = 100 \\text{ C}$."
+    },
+    {
+        "id": "P1513",
+        "text": "The device used to store electrical charge in a circuit is called a $\\textbf{Capacitor}$.",
+        "image": "",
+        "options": [
+            "Resistor",
+            "Inductor",
+            "Capacitor",
+            "Diode"
+        ],
+        "answer": "Capacitor",
+        "explanation": "Capacitance is measured in Farads (F)."
+    },
+    {
+        "id": "P1514",
+        "text": "The energy of a photon of light is directly proportional to its $\\textbf{Frequency}$ ($E = hf$).",
+        "image": "",
+        "options": [
+            "Wavelength",
+            "Amplitude",
+            "Velocity",
+            "Frequency"
+        ],
+        "answer": "Frequency",
+        "explanation": "The energy is inversely proportional to the wavelength."
+    },
+    {
+        "id": "P1515",
+        "text": "Which fundamental particle of an atom carries a $\\textbf{Positive}$ charge?",
+        "image": "",
+        "options": [
+            "Electron",
+            "Neutron",
+            "Proton",
+            "Nucleon"
+        ],
+        "answer": "Proton",
+        "explanation": "Protons are found in the nucleus and have a positive charge ($+1.6 \\times 10^{-19} \\text{ C}$)."
+    },
+    {
+        "id": "P1516",
+        "text": "The process of splitting a heavy nucleus into lighter nuclei is called $\\textbf{Nuclear Fission}$.",
+        "image": "",
+        "options": [
+            "Nuclear Fusion",
+            "Nuclear Fission",
+            "Radioactive Decay",
+            "Ionization"
+        ],
+        "answer": "Nuclear Fission",
+        "explanation": "This process releases energy and is used in nuclear reactors."
+    },
+    {
+        "id": "P1517",
+        "text": "The $\\textbf{Principle of Archimedes}$ states that the buoyant force equals the weight of the $\\textbf{Fluid Displaced}$.",
+        "image": "",
+        "options": [
+            "Force applied",
+            "Mass of the object",
+            "Fluid Displaced",
+            "Volume of the object"
+        ],
+        "answer": "Fluid Displaced",
+        "explanation": "The buoyant force is equal to the weight of the fluid pushed aside by the object."
+    },
+    {
+        "id": "P1518",
+        "text": "A ball thrown vertically upwards reaches its maximum height when its $\\textbf{Velocity}$ is instantaneously zero.",
+        "image": "",
+        "options": [
+            "Acceleration",
+            "Time",
+            "Displacement",
+            "Velocity"
+        ],
+        "answer": "Velocity",
+        "explanation": "At the peak, the body changes direction, so its instantaneous velocity is zero."
+    },
+    {
+        "id": "P1519",
+        "text": "Calculate the kinetic energy of a $2 \\text{ kg}$ object moving at a speed of $3 \\text{ m/s}$. ($KE = \\frac{1}{2}mv^2$)",
+        "image": "",
+        "options": [
+            "3 $\\text{J}$",
+            "6 $\\text{J}$",
+            "9 $\\text{J}$",
+            "12 $\\text{J}$"
+        ],
+        "answer": "9 $\\text{J}$",
+        "explanation": "$KE = \\frac{1}{2}(2 \\text{ kg})(3 \\text{ m/s})^2 = 1 \\times 9 = 9 \\text{ J}$."
+    },
+    {
+        "id": "P1520",
+        "text": "Which of Newton's laws describes the relationship between force, mass, and acceleration ($F = ma$)?",
+        "image": "",
+        "options": [
+            "First Law",
+            "Second Law",
+            "Third Law",
+            "Law of Gravitation"
+        ],
+        "answer": "Second Law",
+        "explanation": "Newton's Second Law states that the force acting on an object is equal to the mass of that object times its acceleration."
+    },
+    {
+        "id": "P1521",
+        "text": "When a gas is compressed at a constant temperature, its pressure is inversely proportional to its volume ($\\textbf{Boyle's Law}$).",
+        "image": "",
+        "options": [
+            "Charles' Law",
+            "Boyle's Law",
+            "Pressure Law",
+            "Gay-Lussac's Law"
+        ],
+        "answer": "Boyle's Law",
+        "explanation": "Boyle's Law states $P \\propto 1/V$ (at constant temperature)."
+    },
+    {
+        "id": "P1522",
+        "text": "A liquid in a narrow tube rises due to surface tension and $\\textbf{Capillarity}$ (or Capillary action).",
+        "image": "",
+        "options": [
+            "Viscosity",
+            "Density",
+            "Capillarity",
+            "Osmosis"
+        ],
+        "answer": "Capillarity",
+        "explanation": "Capillary action is the ability of a liquid to flow in narrow spaces against the force of gravity, due to adhesive and cohesive forces."
+    },
+    {
+        "id": "P1523",
+        "text": "The phenomenon used to obtain solar energy from the sun is $\\textbf{Radiation}$.",
+        "image": "",
+        "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Insulation"
+        ],
+        "answer": "Radiation",
+        "explanation": "Solar energy reaches Earth through electromagnetic radiation (light and heat)."
+    },
+    {
+        "id": "P1524",
+        "text": "The distance between two successive crests or troughs of a wave is the $\\textbf{Wavelength}$ ($\\lambda$).",
+        "image": "",
+        "options": [
+            "Amplitude",
+            "Period",
+            "Wavelength",
+            "Frequency"
+        ],
+        "answer": "Wavelength",
+        "explanation": "Wavelength is measured in meters."
+    },
+    {
+        "id": "P1525",
+        "text": "The $\\textbf{Critical Angle}$ is the angle of incidence that produces an angle of refraction of $90^\\circ$.",
+        "image": "",
+        "options": [
+            "Angle of Reflection",
+            "Angle of Diffraction",
+            "Angle of Incidence",
+            "Critical Angle"
+        ],
+        "answer": "Critical Angle",
+        "explanation": "It is related to the boundary between two media of different refractive indices."
+    },
+    {
+        "id": "P1526",
+        "text": "In a series circuit, which quantity remains the $\\textbf{same}$ throughout the circuit?",
+        "image": "",
+        "options": [
+            "Voltage",
+            "Resistance",
+            "Current",
+            "Power"
+        ],
+        "answer": "Current",
+        "explanation": "The current is the same through every component in a series circuit."
+    },
+    {
+        "id": "P1527",
+        "text": "The device used to raise or lower the voltage of an alternating current (AC) supply is the $\\textbf{Transformer}$.",
+        "image": "",
+        "options": [
+            "Generator",
+            "Motor",
+            "Transformer",
+            "Rectifier"
+        ],
+        "answer": "Transformer",
+        "explanation": "Transformers work based on electromagnetic induction and require AC."
+    },
+    {
+        "id": "P1528",
+        "text": "The unit of electrical energy commonly used by electricity companies is the $\\textbf{Kilowatt-hour}$ (kWh).",
+        "image": "",
+        "options": [
+            "Joule",
+            "Watt",
+            "Volt",
+            "Kilowatt-hour"
+        ],
+        "answer": "Kilowatt-hour",
+        "explanation": "Electrical energy $E = P \\times t$. $1 \\text{ kWh} = 3.6 \\times 10^6 \\text{ J}$."
+    },
+    {
+        "id": "P1529",
+        "text": "A material that allows electric current to flow easily through it is a $\\textbf{Conductor}$.",
+        "image": "",
+        "options": [
+            "Insulator",
+            "Semiconductor",
+            "Conductor",
+            "Resistor"
+        ],
+        "answer": "Conductor",
+        "explanation": "Metals like copper and aluminum are good conductors."
+    },
+    {
+        "id": "P1530",
+        "text": "The process of combining two light nuclei to form a heavier nucleus, releasing massive energy, is $\\textbf{Nuclear Fusion}$.",
+        "image": "",
+        "options": [
+            "Nuclear Fission",
+            "Nuclear Fusion",
+            "Radioactive Decay",
+            "Chain Reaction"
+        ],
+        "answer": "Nuclear Fusion",
+        "explanation": "Fusion powers the sun and hydrogen bombs."
+    },
+    {
+        "id": "P1531",
+        "text": "What is the $\\textbf{Momentum}$ of a body of mass $4 \\text{ kg}$ moving at a velocity of $5 \\text{ m/s}$?",
+        "image": "",
+        "options": [
+            "1 $\\text{kg}\\cdot\\text{m/s}$",
+            "9 $\\text{kg}\\cdot\\text{m/s}$",
+            "20 $\\text{kg}\\cdot\\text{m/s}$",
+            "40 $\\text{kg}\\cdot\\text{m/s}$"
+        ],
+        "answer": "20 $\\text{kg}\\cdot\\text{m/s}$",
+        "explanation": "Momentum $p = m \\times v = 4 \\text{ kg} \\times 5 \\text{ m/s} = 20 \\text{ kg}\\cdot\\text{m/s}$."
+    },
+    {
+        "id": "P1532",
+        "text": "The $\\textbf{S.I. unit}$ of power is the $\\textbf{Watt}$ (W).",
+        "image": "",
+        "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Horsepower"
+        ],
+        "answer": "Watt",
+        "explanation": "Power is the rate of doing work, $1 \\text{ W} = 1 \\text{ J/s}$."
+    },
+    {
+        "id": "P1533",
+        "text": "The ability of a system to return to its original shape after an external force is removed is called $\\textbf{Elasticity}$.",
+        "image": "",
+        "options": [
+            "Ductility",
+            "Malleability",
+            "Hardness",
+            "Elasticity"
+        ],
+        "answer": "Elasticity",
+        "explanation": "This property is governed by Hooke's Law within the elastic limit."
+    },
+    {
+        "id": "P1534",
+        "text": "The force of attraction between two masses is called $\\textbf{Gravitation}$.",
+        "image": "",
+        "options": [
+            "Centrifugal Force",
+            "Friction",
+            "Gravitation",
+            "Surface Tension"
+        ],
+        "answer": "Gravitation",
+        "explanation": "Gravitation is proportional to the product of masses and inversely proportional to the square of the distance between them."
+    },
+    {
+        "id": "P1535",
+        "text": "The $\\textbf{Primary Colors}$ of light are red, green, and $\\textbf{Blue}$.",
+        "image": "",
+        "options": [
+            "Yellow",
+            "Cyan",
+            "Blue",
+            "Magenta"
+        ],
+        "answer": "Blue",
+        "explanation": "Combining these three colors produces white light (additive mixing)."
+    },
+    {
+        "id": "P1536",
+        "text": "A device that converts chemical energy into electrical energy is a $\\textbf{Cell}$ or Battery.",
+        "image": "",
+        "options": [
+            "Motor",
+            "Generator",
+            "Transformer",
+            "Cell"
+        ],
+        "answer": "Cell",
+        "explanation": "A cell converts stored chemical energy into usable electrical potential difference."
+    },
+    {
+        "id": "P1537",
+        "text": "The emission of particles or waves from the nucleus of an atom is called $\\textbf{Radioactivity}$.",
+        "image": "",
+        "options": [
+            "Magnetism",
+            "Conduction",
+            "Radioactivity",
+            "Fission"
+        ],
+        "answer": "Radioactivity",
+        "explanation": "Unstable nuclei spontaneously decay, releasing alpha, beta, or gamma radiation."
+    },
+    {
+        "id": "P1538",
+        "text": "The instrument used to measure the current in a circuit is the $\\textbf{Ammeter}$.",
+        "image": "",
+        "options": [
+            "Voltmeter",
+            "Ohmmeter",
+            "Ammeter",
+            "Potentiometer"
+        ],
+        "answer": "Ammeter",
+        "explanation": "An ammeter is connected in series with the component to measure current flow."
+    },
+    {
+        "id": "P1539",
+        "text": "When sound waves travel from air into water, their $\\textbf{Wavelength}$ changes, but their $\\textbf{Frequency}$ remains constant.",
+        "image": "",
+        "options": [
+            "Amplitude",
+            "Frequency",
+            "Velocity",
+            "Period"
+        ],
+        "answer": "Frequency",
+        "explanation": "The frequency is determined by the source and does not change when the medium changes."
+    },
+    {
+        "id": "P1540",
+        "text": "The unit of $\\textbf{Pressure}$ is the Pascal (Pa), which is equivalent to $\\textbf{Newton}$ per square meter ($\\text{N/m}^2$).",
+        "image": "",
+        "options": [
+            "Joule/m$^2$",
+            "Newton/m$^2$",
+            "Watt/m",
+            "Joule/s"
+        ],
+        "answer": "Newton/m$^2$",
+        "explanation": "Pressure is defined as Force per unit Area: $P = F/A$."
+    }
+]

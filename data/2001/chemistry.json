@@ -1,0 +1,523 @@
+[
+    {
+      "id": "JAMB_C_2001_001",
+      "text": "How long does it take all the solid to melt in a heating‑cooling curve if the plateau is 2.5 minutes?",
+      "image": "",
+      "options": [
+        "1.0 min",
+        "2.5 min",
+        "3.0 min",
+        "6.0 min"
+      ],
+      "answer": "2.5 min",
+      "explanation": "In the melting plateau (constant temperature), the time given (2.5 min) corresponds to the phase change."
+    },
+    {
+      "id": "JAMB_C_2001_002",
+      "text": "If the gas in the heating‑cooling graph is cooled, at what temperature will it begin to condense given that it started condensing at 250 °C on heating?",
+      "image": "",
+      "options": [
+        "250 °C",
+        "175 °C",
+        "150 °C",
+        "125 °C"
+      ],
+      "answer": "250 °C",
+      "explanation": "On cooling, the condensation (liquid formation) starts at the same temperature as the boiling/condensation point observed on heating."
+    },
+    {
+      "id": "JAMB_C_2001_003",
+      "text": "What mass of water is produced when 8.0 g of hydrogen reacts with excess oxygen? (H = 1, O = 16)",
+      "image": "",
+      "options": [
+        "8.0 g",
+        "16.0 g",
+        "36.0 g",
+        "72.0 g"
+      ],
+      "answer": "72.0 g",
+      "explanation": "Equation: 2 H₂ + O₂ → 2 H₂O. 8 g H₂ is 4 moles → produces 4 moles H₂O = 4 × 18 = 72 g."
+    },
+    {
+      "id": "JAMB_C_2001_004",
+      "text": "25 cm³ of gas X contains Z molecules at 15 °C and 75 mmHg. How many molecules will 25 cm³ of another gas Y contain at the same temperature and pressure?",
+      "image": "",
+      "options": [
+        "Y",
+        "Z",
+        "2Y",
+        "2Z"
+      ],
+      "answer": "Z",
+      "explanation": "At the same temperature and pressure, equal volumes of ideal gases contain the same number of molecules (Avogadro’s law)."
+    },
+    {
+      "id": "JAMB_C_2001_005",
+      "text": "Which of these elements with atomic numbers 2, 6, 16, and 20 is a metal?",
+      "image": "",
+      "options": [
+        "Atomic number 2",
+        "Atomic number 6",
+        "Atomic number 16",
+        "Atomic number 20"
+      ],
+      "answer": "Atomic number 20",
+      "explanation": "Element with atomic number 20 is calcium, which is a metal."
+    },
+    {
+      "id": "JAMB_C_2001_006",
+      "text": "Millikan's experiment contributed to atomic theory by determining the:",
+      "image": "",
+      "options": [
+        "Mass of electron",
+        "Charge-to-mass ratio of electron",
+        "Charge of proton",
+        "Mass of proton"
+      ],
+      "answer": "Charge-to-mass ratio of electron",
+      "explanation": "Millikan’s oil drop experiment allowed the determination of the electron’s charge, which in turn was used to find its charge-to-mass ratio."
+    },
+    {
+      "id": "JAMB_C_2001_007",
+      "text": "An oxide \\(XO_2\\) has a vapor density of 32. What is the atomic mass of X?",
+      "image": "",
+      "options": [
+        "12",
+        "14",
+        "20",
+        "32"
+      ],
+      "answer": "32",
+      "explanation": "Molecular mass = 2 × vapor density = 64. So \\(X + 2×16 = 64 → X = 32\\)."
+    },
+    {
+      "id": "JAMB_C_2001_008",
+      "text": "Which of the following particles has 9 protons, 10 neutrons, and 10 electrons?",
+      "image": "",
+      "options": [
+        "A neutral element",
+        "A cation",
+        "An anion",
+        "An isotope"
+      ],
+      "answer": "An anion",
+      "explanation": "9 protons = atomic number 9 (fluorine), but 10 electrons means it has one extra electron → negative charge → anion."
+    },
+    {
+      "id": "JAMB_C_2001_009",
+      "text": "Which method can produce pure solvents?",
+      "image": "",
+      "options": [
+        "Fractional distillation",
+        "Filtration",
+        "Chromatography",
+        "Centrifugation"
+      ],
+      "answer": "Fractional distillation",
+      "explanation": "Fractional distillation separates components based on boiling points, useful for purifying liquids (solvents)."
+    },
+    {
+      "id": "JAMB_C_2001_010",
+      "text": "Deliquescent substances are used for:",
+      "image": "",
+      "options": [
+        "Drying gases",
+        "Neutralizing acids",
+        "Forming buffer solutions",
+        "Coagulating colloids"
+      ],
+      "answer": "Drying gases",
+      "explanation": "Deliquescent substances absorb moisture from the air and can be used to dry gases."
+    },
+    {
+      "id": "JAMB_C_2001_011",
+      "text": "When chlorine is passed into water and exposed to sunlight, which products are formed?",
+      "image": "",
+      "options": [
+        "Chlorine gas and hydrogen",
+        "Oxygen and hypochlorous acid",
+        "Chlorine gas and hypochlorous acid",
+        "Hydrochloric acid and oxygen"
+      ],
+      "answer": "Chlorine gas and hypochlorous acid",
+      "explanation": "Under sunlight, chlorine reacts with water to give hypochlorous acid and release some chlorine gas."
+    },
+    {
+      "id": "JAMB_C_2001_012",
+      "text": "Proteins in acid solution undergo:",
+      "image": "",
+      "options": [
+        "Polymerization",
+        "Fermentation",
+        "Denaturation",
+        "Substitution"
+      ],
+      "answer": "Denaturation",
+      "explanation": "In strong acid, proteins lose their secondary and tertiary structure (denature) but do not break into monomers."
+    },
+    {
+      "id": "JAMB_C_2001_013",
+      "text": "Which statement about the average kinetic energy of gas molecules is true?",
+      "image": "",
+      "options": [
+        "Increases with increase in pressure",
+        "Increases at constant temperature",
+        "Increases with increase in temperature",
+        "Increases with increase in volume"
+      ],
+      "answer": "Increases with increase in temperature",
+      "explanation": "Kinetic molecular theory: average kinetic energy is proportional to temperature (in Kelvin)."
+    },
+    {
+      "id": "JAMB_C_2001_014",
+      "text": "Which chemical is used commonly for coagulation in water purification?",
+      "image": "",
+      "options": [
+        "Aluminium sulfate",
+        "Sodium carbonate",
+        "Sodium hydroxide",
+        "Hydrochloric acid"
+      ],
+      "answer": "Aluminium sulfate",
+      "explanation": "Aluminium sulfate (alum) is commonly used to coagulate impurities in water treatment."
+    },
+    {
+      "id": "JAMB_C_2001_015",
+      "text": "Environmental pollution from automobile exhausts is worsened by the release of:",
+      "image": "",
+      "options": [
+        "Nitrogen oxides",
+        "Helium",
+        "Oxygen",
+        "Neon"
+      ],
+      "answer": "Nitrogen oxides",
+      "explanation": "Automobile exhaust releases nitrogen oxides (NOₓ), which contribute to smog and acid rain."
+    },
+    {
+      "id": "JAMB_C_2001_016",
+      "text": "Phosphorus is stored under water to prevent it from:",
+      "image": "",
+      "options": [
+        "Subliming",
+        "Burning in air",
+        "Dissolving",
+        "Becoming inactive"
+      ],
+      "answer": "Burning in air",
+      "explanation": "White (or yellow) phosphorus is very reactive and can combust spontaneously in air, so it’s stored underwater."
+    },
+    {
+      "id": "JAMB_C_2001_017",
+      "text": "Which of these elements occurs naturally as isotopes and has a relative atomic mass of about 16.2 with 90% isotope of mass 16 and 10% of another isotope?",
+      "image": "",
+      "options": [
+        "Oxygen",
+        "Sulfur",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "Oxygen",
+      "explanation": "If an element has isotopes of mass 16 (90%) and m (10%) and average mass ~16.2, then m = 18; oxygen-16 and oxygen-18 are common isotopes."
+    },
+    {
+      "id": "JAMB_C_2001_018",
+      "text": "In which reaction does reduction take place?",
+      "image": "",
+      "options": [
+        "Zn → Zn²⁺ + 2e⁻",
+        "Cu²⁺ + 2e⁻ → Cu",
+        "H₂ → 2H⁺ + 2e⁻",
+        "Cl₂ + 2e⁻ → 2Cl⁻"
+      ],
+      "answer": "Cu²⁺ + 2e⁻ → Cu",
+      "explanation": "Reduction is gain of electrons; Cu²⁺ gaining 2 electrons becomes Cu."
+    },
+    {
+      "id": "JAMB_C_2001_019",
+      "text": "Cancerous growths are sometimes treated using radiation. Which type of radiation from radioactive elements is commonly used to kill cancer cells?",
+      "image": "",
+      "options": [
+        "Alpha particles",
+        "Beta particles",
+        "Gamma rays",
+        "Neutrons"
+      ],
+      "answer": "Gamma rays",
+      "explanation": "Gamma rays are highly penetrating and are often used in radiotherapy to target cancer cells."
+    },
+    {
+      "id": "JAMB_C_2001_020",
+      "text": "Which of the following describes the process of deliquescence?",
+      "image": "",
+      "options": [
+        "A solid gains water from the air and dissolves",
+        "A gas is absorbed by a liquid",
+        "A liquid changes directly into vapor without boiling",
+        "A solution spontaneously forms crystals"
+      ],
+      "answer": "A solid gains water from the air and dissolves",
+      "explanation": "Deliquescent compounds absorb moisture from the atmosphere to form a solution."
+    },
+    {
+      "id": "JAMB_C_2001_021",
+      "text": "Which of the following is NOT a likely metal from the set: atomic numbers 2, 6, 16, 20?",
+      "image": "",
+      "options": [
+        "Atomic number 20",
+        "Atomic number 16",
+        "Atomic number 6",
+        "Atomic number 2"
+      ],
+      "answer": "Atomic number 2",
+      "explanation": "Atomic number 2 is helium, which is a noble gas, not a metal."
+    },
+    {
+      "id": "JAMB_C_2001_022",
+      "text": "Which process in electrolysis would deposit aluminium metal when 0.27 g of Al is produced in 2 hours? (Use Faraday constant F = 96500 C)",
+      "image": "",
+      "options": [
+        "Oxidation at the anode",
+        "Reduction at the cathode",
+        "Thermal decomposition",
+        "Disproportionation"
+      ],
+      "answer": "Reduction at the cathode",
+      "explanation": "Al³⁺ ions are reduced at the cathode to form aluminium metal."
+    },
+    {
+      "id": "JAMB_C_2001_023",
+      "text": "In a concentrated solution containing H⁺, Cu²⁺, OH⁻, and Cl⁻, which ion is most likely to be discharged first at the cathode using platinum electrodes?",
+      "image": "",
+      "options": [
+        "H⁺",
+        "Cu²⁺",
+        "Cl⁻",
+        "OH⁻"
+      ],
+      "answer": "Cu²⁺",
+      "explanation": "Cu²⁺ will be preferentially reduced at the cathode in the presence of H⁺, because its reduction potential is higher."
+    },
+    {
+      "id": "JAMB_C_2001_024",
+      "text": "Which factor is majorly considered when choosing a method to prepare a simple salt?",
+      "image": "",
+      "options": [
+        "Cost of reagents",
+        "Solubility of the salt",
+        "Color of the salt",
+        "Odor of the products"
+      ],
+      "answer": "Solubility of the salt",
+      "explanation": "Solubility determines how the salt can be crystallized or purified during preparation."
+    },
+    {
+      "id": "JAMB_C_2001_025",
+      "text": "What happens to the average kinetic energy of gas molecules when temperature is constant and pressure increases?",
+      "image": "",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It stays the same",
+        "It fluctuates randomly"
+      ],
+      "answer": "It stays the same",
+      "explanation": "Average kinetic energy depends on temperature, not pressure; at constant T, it remains unchanged."
+    },
+    {
+      "id": "JAMB_C_2001_026",
+      "text": "Which of the following metals burns with a brick-red flame?",
+      "image": "",
+      "options": [
+        "Magnesium (Mg)",
+        "Sodium (Na)",
+        "Calcium (Ca)",
+        "Lead (Pb)"
+      ],
+      "answer": "Calcium (Ca)",
+      "explanation": "Calcium, when burned, produces a brick-red (reddish) flame characteristic of some alkaline-earth metals."
+    },
+    {
+      "id": "JAMB_C_2001_027",
+      "text": "Catalytic hydrogenation of benzene yields which product?",
+      "image": "",
+      "options": [
+        "Cyclohexane",
+        "Cyclohexene",
+        "Margarine",
+        "Oil"
+      ],
+      "answer": "Cyclohexane",
+      "explanation": "When benzene is fully hydrogenated (with a catalyst), it becomes cyclohexane (a saturated ring)."
+    },
+    {
+      "id": "JAMB_C_2001_028",
+      "text": "Which of these is a trihydric alkanol?",
+      "image": "",
+      "options": [
+        "Ethanol",
+        "Phenol",
+        "Glycerol",
+        "Glycol"
+      ],
+      "answer": "Glycerol",
+      "explanation": "Glycerol (propane-1,2,3-triol) has three –OH (hydroxyl) groups, making it a trihydric alkanol."
+    },
+    {
+      "id": "JAMB_C_2001_029",
+      "text": "Which statement best explains why the rate of a reaction increases when temperature is raised?",
+      "image": "",
+      "options": [
+        "Molecules move slower but collide more often",
+        "A larger proportion of molecules have sufficient energy to react",
+        "Molecules become more massive",
+        "Activation energy increases"
+      ],
+      "answer": "A larger proportion of molecules have sufficient energy to react",
+      "explanation": "Increasing temperature increases the fraction of molecules with energy ≥ activation energy, boosting the reaction rate."
+    },
+    {
+      "id": "JAMB_C_2001_030",
+      "text": "In the reaction \\(2SO₂ + O₂ ⇌ 2SO₃\\), which condition will increase the equilibrium constant (K)?",
+      "image": "",
+      "options": [
+        "Increasing pressure",
+        "Adding a catalyst",
+        "Increasing temperature",
+        "Decreasing pressure"
+      ],
+      "answer": "Increasing temperature",
+      "explanation": "This reaction is exothermic; increasing T shifts equilibrium to the left but also increases K for exothermic reactions with negative ΔH (if defined in a certain way). (Note: this depends on the definition of K and reaction enthalpy)."
+    },
+    {
+      "id": "JAMB_C_2001_031",
+      "text": "When ammonia reacts with hydrogen chloride gas, the entropy change of the system is:",
+      "image": "",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Indeterminate"
+      ],
+      "answer": "Negative",
+      "explanation": "NH₃(g) + HCl(g) → NH₄Cl(s): gas reactants form a solid → disorder decreases → negative entropy change."
+    },
+    {
+      "id": "JAMB_C_2001_032",
+      "text": "Which of the following best describes entropy in a system?",
+      "image": "",
+      "options": [
+        "Measure of energy",
+        "Measure of disorder",
+        "Measure of mass",
+        "Measure of volume"
+      ],
+      "answer": "Measure of disorder",
+      "explanation": "Entropy is often interpreted as a measure of randomness or disorder in a system."
+    },
+    {
+      "id": "JAMB_C_2001_033",
+      "text": "Which of these hydrocarbons has triple bond(s)?",
+      "image": "",
+      "options": [
+        "Ethene",
+        "Ethyne",
+        "Propane",
+        "Butane"
+      ],
+      "answer": "Ethyne",
+      "explanation": "Ethyne (C₂H₂) has a triple bond between the two carbon atoms."
+    },
+    {
+      "id": "JAMB_C_2001_034",
+      "text": "Which hybridization is present in ethyne (C₂H₂)?",
+      "image": "",
+      "options": [
+        "sp³",
+        "sp²",
+        "sp",
+        "sp³d"
+      ],
+      "answer": "sp",
+      "explanation": "In ethyne each carbon is bonded through two sp-hybrid orbitals (one for C–H, one for C≡C) and two unhybridized p orbitals."
+    },
+    {
+      "id": "JAMB_C_2001_035",
+      "text": "Which of the following gases is most easily collected by downward displacement of air?",
+      "image": "",
+      "options": [
+        "Ammonia",
+        "Carbon dioxide",
+        "Chlorine",
+        "Sulfur dioxide"
+      ],
+      "answer": "Ammonia",
+      "explanation": "Ammonia is less dense than air, so it can be collected by downward displacement (air is pushed down as NH₃ rises)."
+    },
+    {
+      "id": "JAMB_C_2001_036",
+      "text": "When sodium reacts with water, the resulting solution is:",
+      "image": "",
+      "options": [
+        "Acidic",
+        "Alkaline",
+        "Neutral",
+        "Slightly acidic"
+      ],
+      "answer": "Alkaline",
+      "explanation": "Sodium reacts with water to form sodium hydroxide (a strong base) → the solution is alkaline."
+    },
+    {
+      "id": "JAMB_C_2001_037",
+      "text": "Which of these best describes an oxidizing agent?",
+      "image": "",
+      "options": [
+        "Donates electrons",
+        "Accepts electrons",
+        "Loses oxygen",
+        "Loses hydrogen"
+      ],
+      "answer": "Accepts electrons",
+      "explanation": "An oxidizing agent is reduced (gains electrons) in a redox reaction."
+    },
+    {
+      "id": "JAMB_C_2001_038",
+      "text": "What happens to the volume of a fixed mass of gas when the pressure is halved at constant temperature?",
+      "image": "",
+      "options": [
+        "Volume doubles",
+        "Volume halves",
+        "Volume remains constant",
+        "Volume quadruples"
+      ],
+      "answer": "Volume doubles",
+      "explanation": "Boyle’s Law: at constant temperature, pressure × volume = constant. Halving pressure → volume doubles."
+    },
+    {
+      "id": "JAMB_C_2001_039",
+      "text": "Which of the following statements is correct about catalysts?",
+      "image": "",
+      "options": [
+        "Consumed during reaction",
+        "Change equilibrium position",
+        "Lower activation energy",
+        "Convert endothermic to exothermic"
+      ],
+      "answer": "Lower activation energy",
+      "explanation": "Catalysts speed up reactions by lowering activation energy, but are not consumed and do not change equilibrium position."
+    },
+    {
+      "id": "JAMB_C_2001_040",
+      "text": "In terms of atomic structure, isotopes are:",
+      "image": "",
+      "options": [
+        "Atoms with same mass number but different atomic numbers",
+        "Atoms with same atomic number but different mass numbers",
+        "Atoms with different numbers of protons and electrons",
+        "Ions of the same element with different charges"
+      ],
+      "answer": "Atoms with same atomic number but different mass numbers",
+      "explanation": "Isotopes have the same number of protons (same atomic number) but different numbers of neutrons → different mass numbers."
+    }
+  ]
+  

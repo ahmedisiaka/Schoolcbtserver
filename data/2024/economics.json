@@ -1,0 +1,522 @@
+[
+    {
+        "id": "JAMB_I_001",
+        "text": "The $\\textbf{primary}$ $\\textbf{role}$ of $\\textbf{scarcity}$ in economics is that it:",
+        "image": "",
+        "options": [
+            "encourages the government to provide free goods.",
+            "forces societies to make choices about resource allocation.",
+            "eliminates the need for specialization.",
+            "leads to unlimited economic wants."
+        ],
+        "answer": "forces societies to make choices about resource allocation.",
+        "explanation": "Scarcity, the fundamental problem, means resources are finite, compelling individuals and societies to choose how to allocate those resources, leading to the economic concept of opportunity cost."
+    },
+    {
+        "id": "JAMB_I_002",
+        "text": "If a government introduces a $\\textbf{maximum}$ $\\textbf{price}$ ($\\textbf{price}$ $\\textbf{ceiling}$) on a commodity, the likely outcome will be:",
+        "image": "",
+        "options": [
+            "a market surplus of the commodity.",
+            "a shift in the supply curve to the right.",
+            "a shortage (excess demand) in the market.",
+            "an increase in the overall quality of the commodity."
+        ],
+        "answer": "a shortage (excess demand) in the market.",
+        "explanation": "A price ceiling set below the equilibrium price creates a situation where quantity demanded exceeds quantity supplied, leading to a shortage. [Image of Supply and Demand Curve with Price Ceiling]"
+    },
+    {
+        "id": "JAMB_I_003",
+        "text": "The long-run $\\textbf{Average}$ $\\textbf{Cost}$ ($\\textbf{LAC}$) curve is $\\textbf{tangent}$ to the short-run $\\textbf{Average}$ $\\textbf{Cost}$ ($\\textbf{SAC}$) curves at the:",
+        "image": "",
+        "options": [
+            "minimum point of the LAC curve only.",
+            "maximum point of the SAC curves.",
+            "minimum point of all relevant SAC curves.",
+            "only the rising portion of the SAC curves."
+        ],
+        "answer": "minimum point of all relevant SAC curves.",
+        "explanation": "The LAC curve is the envelope of the SAC curves. For any given output level, the LAC curve is tangent to the SAC curve that represents the most efficient short-run plant size for that output."
+    },
+    {
+        "id": "JAMB_I_004",
+        "text": "The concept of $\\textbf{Near}$ $\\textbf{Money}$ refers to assets that are:",
+        "image": "",
+        "options": [
+            "physically close to the Central Bank.",
+            "highly liquid but not cash or demand deposits, e.g., savings deposits and treasury bills.",
+            "held only by commercial banks.",
+            "used exclusively for foreign exchange transactions."
+        ],
+        "answer": "highly liquid but not cash or demand deposits, e.g., savings deposits and treasury bills.",
+        "explanation": "Near money assets are not immediately convertible into cash without loss of value or delay (like $\\text{M}2$ components) but are very close to being money."
+    },
+    {
+        "id": "JAMB_I_005",
+        "text": "In a $\\textbf{Monopoly}$ market structure, the demand curve facing the firm is $\\textbf{also}$ the:",
+        "image": "",
+        "options": [
+            "Marginal Revenue curve.",
+            "Industry Supply curve.",
+            "Average Fixed Cost curve.",
+            "Industry Demand curve."
+        ],
+        "answer": "Industry Demand curve.",
+        "explanation": "Since a monopolist is the single seller in the industry, the market demand curve is the demand curve for the firm's product."
+    },
+    {
+        "id": "JAMB_I_006",
+        "text": "Which of the following $\\textbf{best}$ $\\textbf{measures}$ the $\\textbf{economic}$ $\\textbf{welfare}$ of a nation?",
+        "image": "",
+        "options": [
+            "Gross Domestic Product (GDP).",
+            "The Rate of Inflation.",
+            "Net National Product (NNP).",
+            "Human Development Index (HDI)."
+        ],
+        "answer": "Human Development Index (HDI).",
+        "explanation": "The HDI is a composite index that considers income (GNP per capita), health (life expectancy), and education (literacy/enrollment), providing a broader measure of welfare than just economic output like GDP."
+    },
+    {
+        "id": "JAMB_I_007",
+        "text": "The $\\textbf{Central}$ $\\textbf{Bank's}$ $\\textbf{most}$ $\\textbf{frequently}$ $\\textbf{used}$ tool of monetary policy is:",
+        "image": "",
+        "options": [
+            "changing the liquidity ratio.",
+            "open market operations (OMO).",
+            "selective credit control.",
+            "moral suasion."
+        ],
+        "answer": "open market operations (OMO).",
+        "explanation": "OMO, involving the buying and selling of government securities, is the most flexible, frequent, and powerful tool the Central Bank uses to influence the money supply and interest rates."
+    },
+    {
+        "id": "JAMB_I_008",
+        "text": "The ratio of a change in $\\textbf{income}$ to a change in $\\textbf{investment}$ is known as the:",
+        "image": "",
+        "options": [
+            "Marginal Propensity to Consume (MPC).",
+            "Accelerator.",
+            "Multiplier.",
+            "Average Propensity to Save (APS)."
+        ],
+        "answer": "Multiplier.",
+        "explanation": "The multiplier ($\\text{K}$) is defined as the ratio of the change in equilibrium real GDP ($\\Delta Y$) to the initial change in autonomous expenditure ($\\Delta I$), i.e., $\\text{K} = \\Delta Y / \\Delta I$."
+    },
+    {
+        "id": "JAMB_I_009",
+        "text": "The $\\textbf{African}$ $\\textbf{Development}$ $\\textbf{Bank}$ ($\\textbf{AfDB}$) is primarily involved in:",
+        "image": "",
+        "options": [
+            "providing military aid to African nations.",
+            "promoting intra-African trade through tariffs.",
+            "financing long-term development projects in Africa.",
+            "managing the exchange rate of African currencies."
+        ],
+        "answer": "financing long-term development projects in Africa.",
+        "explanation": "The AfDB, like the World Bank for its region, focuses on financing investment projects and promoting sustainable economic and social development across the African continent."
+    },
+    {
+        "id": "JAMB_I_010",
+        "text": "If the $\\textbf{income}$ $\\textbf{elasticity}$ $\\textbf{of}$ $\\textbf{demand}$ for a good is $\\textbf{-0.5}$, the good is classified as a(n):",
+        "image": "",
+        "options": [
+            "luxury good.",
+            "normal good.",
+            "inferior good.",
+            "complementary good."
+        ],
+        "answer": "inferior good.",
+        "explanation": "Income elasticity of demand is negative for inferior goods. This means that as income increases, the quantity demanded of the good decreases."
+    },
+    {
+        "id": "JAMB_I_011",
+        "text": "The $\\textbf{National}$ $\\textbf{Income}$ calculated using the $\\textbf{Expenditure}$ $\\textbf{Method}$ is the sum of:",
+        "image": "",
+        "options": [
+            "rent, wages, interest, and profit.",
+            "imports, exports, and government spending.",
+            "consumption, investment, government spending, and net exports.",
+            "output of primary, secondary, and tertiary sectors."
+        ],
+        "answer": "consumption, investment, government spending, and net exports.",
+        "explanation": "The expenditure method sums up all final spending on goods and services in the economy: $\\text{Y} = C + I + G + (X - M)$."
+    },
+    {
+        "id": "JAMB_I_012",
+        "text": "The $\\textbf{difference}$ between the $\\textbf{Total}$ $\\textbf{Value}$ of $\\textbf{Exports}$ and the $\\textbf{Total}$ $\\textbf{Value}$ of $\\textbf{Imports}$ of visible items is known as the:",
+        "image": "",
+        "options": [
+            "Balance of Payments.",
+            "Current Account Balance.",
+            "Balance of Trade.",
+            "Capital Account Balance."
+        ],
+        "answer": "Balance of Trade.",
+        "explanation": "The Balance of Trade focuses only on visible goods. The Current Account includes both visible and invisible (services, transfers) trade. The Balance of Payments is the overall record."
+    },
+    {
+        "id": "JAMB_I_013",
+        "text": "Which of the following markets is characterized by $\\textbf{product}$ $\\textbf{differentiation}$ and a $\\textbf{large}$ $\\textbf{number}$ of sellers?",
+        "image": "",
+        "options": [
+            "Perfect Competition.",
+            "Oligopoly.",
+            "Monopolistic Competition.",
+            "Monopoly."
+        ],
+        "answer": "Monopolistic Competition.",
+        "explanation": "Monopolistic competition features many firms selling differentiated but close substitute products, allowing each firm a degree of price-setting power."
+    },
+    {
+        "id": "JAMB_I_014",
+        "text": "A $\\textbf{progressive}$ $\\textbf{tax}$ system is one where the rate of tax:",
+        "image": "",
+        "options": [
+            "remains the same regardless of income.",
+            "decreases as income increases.",
+            "increases as income increases.",
+            "is set by local government authorities."
+        ],
+        "answer": "increases as income increases.",
+        "explanation": "A progressive tax takes a larger percentage of income from high-income earners than from low-income earners, promoting equity."
+    },
+    {
+        "id": "JAMB_I_015",
+        "text": "The $\\textbf{function}$ of $\\textbf{money}$ that facilitates $\\textbf{future}$ $\\textbf{transactions}$ is:",
+        "image": "",
+        "options": [
+            "unit of account.",
+            "medium of exchange.",
+            "store of value.",
+            "standard of deferred payment."
+        ],
+        "answer": "standard of deferred payment.",
+        "explanation": "This function allows debts and contracts to be specified in monetary terms, simplifying future payments and lending/borrowing."
+    },
+    {
+        "id": "JAMB_I_016",
+        "text": "If the Central Bank $\\textbf{increases}$ the $\\textbf{Cash}$ $\\textbf{Reserve}$ $\\textbf{Ratio}$ (CRR), the immediate effect is to:",
+        "image": "",
+        "options": [
+            "increase the lending capacity of commercial banks.",
+            "increase the money supply in the economy.",
+            "reduce the liquidity and lending capacity of commercial banks.",
+            "reduce the interest rate."
+        ],
+        "answer": "reduce the liquidity and lending capacity of commercial banks.",
+        "explanation": "A higher CRR forces banks to hold more of their deposits as reserves, shrinking the amount of money available for loans and thereby reducing money creation."
+    },
+    {
+        "id": "JAMB_I_017",
+        "text": "The $\\textbf{Reward}$ for $\\textbf{Capital}$ is $\\textbf{interest}$, while the reward for $\\textbf{Land}$ is:",
+        "image": "",
+        "options": [
+            "profit.",
+            "rent.",
+            "wages.",
+            "dividends."
+        ],
+        "answer": "rent.",
+        "explanation": "Rent is the payment for the use of land and natural resources."
+    },
+    {
+        "id": "JAMB_I_018",
+        "text": "A situation where $\\textbf{demand}$ for a product is $\\textbf{derived}$ from the demand for $\\textbf{another}$ $\\textbf{product}$ is called:",
+        "image": "",
+        "options": [
+            "joint demand.",
+            "competitive demand.",
+            "derived demand.",
+            "composite demand."
+        ],
+        "answer": "derived demand.",
+        "explanation": "Derived demand occurs when the demand for a factor of production (e.g., steel) is a result of the demand for the final product (e.g., cars) it helps produce."
+    },
+    {
+        "id": "JAMB_I_019",
+        "text": "Which of the following is an $\\textbf{implicit}$ $\\textbf{cost}$ of production?",
+        "image": "",
+        "options": [
+            "Wages paid to hired workers.",
+            "Rent paid for factory space.",
+            "The salary the owner could have earned working elsewhere.",
+            "Cost of raw materials."
+        ],
+        "answer": "The salary the owner could have earned working elsewhere.",
+        "explanation": "Implicit costs are non-monetary opportunity costs—the cost of using self-owned resources (e.g., owner's labor, self-owned capital) for which no cash payment is made."
+    },
+    {
+        "id": "JAMB_I_020",
+        "text": "The $\\textbf{major}$ $\\textbf{characteristic}$ of $\\textbf{Oligopoly}$ is:",
+        "image": "",
+        "options": [
+            "product homogeneity.",
+            "perfect knowledge.",
+            "interdependence of firms.",
+            "free entry and exit."
+        ],
+        "answer": "interdependence of firms.",
+        "explanation": "In an oligopoly (few dominant firms), each firm's decision on price or output significantly affects the rivals, leading to strategic interdependence."
+    },
+    {
+        "id": "JAMB_I_021",
+        "text": "The $\\textbf{size}$ of the $\\textbf{active}$ $\\textbf{population}$ that is $\\textbf{willing}$ and $\\textbf{able}$ to work but $\\textbf{cannot}$ $\\textbf{find}$ $\\textbf{jobs}$ is measured by the:",
+        "image": "",
+        "options": [
+            "dependency ratio.",
+            "unemployment rate.",
+            "labor force participation rate.",
+            "natural rate of unemployment."
+        ],
+        "answer": "unemployment rate.",
+        "explanation": "The unemployment rate is defined as the number of unemployed people expressed as a percentage of the total labor force."
+    },
+    {
+        "id": "JAMB_I_022",
+        "text": "The decision on $\\textbf{What}$ $\\textbf{to}$ $\\textbf{Produce}$ in a $\\textbf{Command}$ $\\textbf{Economy}$ is $\\textbf{mainly}$ determined by the:",
+        "image": "",
+        "options": [
+            "market forces of supply and demand.",
+            "private sector entrepreneurs.",
+            "central planning authority.",
+            "traditions and customs."
+        ],
+        "answer": "central planning authority.",
+        "explanation": "In a command economy, the state or government makes all major decisions regarding production and distribution, not individuals or market forces."
+    },
+    {
+        "id": "JAMB_I_023",
+        "text": "The $\\textbf{equilibrium}$ $\\textbf{price}$ of a commodity is determined when:",
+        "image": "",
+        "options": [
+            "demand is greater than supply.",
+            "supply is greater than demand.",
+            "quantity demanded equals quantity supplied.",
+            "the government intervenes in the market."
+        ],
+        "answer": "quantity demanded equals quantity supplied.",
+        "explanation": "Equilibrium is the point of balance where there is no tendency for the price to change because the quantity consumers want to buy matches the quantity producers want to sell. [Image of Supply and Demand Curve showing equilibrium]"
+    },
+    {
+        "id": "JAMB_I_024",
+        "text": "The type of $\\textbf{inflation}$ caused by an $\\textbf{increase}$ in the $\\textbf{cost}$ $\\textbf{of}$ $\\textbf{production}$ (e.g., rising wages or fuel prices) is known as:",
+        "image": "",
+        "options": [
+            "Demand-Pull Inflation.",
+            "Hyperinflation.",
+            "Cost-Push Inflation.",
+            "Stagflation."
+        ],
+        "answer": "Cost-Push Inflation.",
+        "explanation": "Cost-push inflation occurs when aggregate supply falls (shifts left) due to rising input costs, leading to higher prices and often lower output."
+    },
+    {
+        "id": "JAMB_I_025",
+        "text": "A $\\textbf{Regressive}$ $\\textbf{Tax}$ is defined as a tax where the average rate of tax $\\textbf{decreases}$ as the taxpayer's:",
+        "image": "",
+        "options": [
+            "consumption decreases.",
+            "income increases.",
+            "age increases.",
+            "family size increases."
+        ],
+        "answer": "income increases.",
+        "explanation": "Regressive taxes (like sales tax) take a larger percentage of income from low-income earners because the tax burden remains fixed regardless of income level."
+    },
+    {
+        "id": "JAMB_I_026",
+        "text": "A shift of the $\\textbf{Production}$ $\\textbf{Possibility}$ $\\textbf{Curve}$ ($\\textbf{PPC}$) $\\textbf{outwards}$ (to the right) indicates:",
+        "image": "",
+        "options": [
+            "a decrease in the level of efficiency.",
+            "economic recession.",
+            "economic growth or an increase in productive capacity.",
+            "full employment of resources."
+        ],
+        "answer": "economic growth or an increase in productive capacity.",
+        "explanation": "An outward shift of the PPC is caused by an increase in resources (e.g., labor, capital) or an improvement in technology. "
+    },
+    {
+        "id": "JAMB_I_027",
+        "text": "Which of the following is $\\textbf{not}$ a $\\textbf{major}$ $\\textbf{instrument}$ of $\\textbf{protectionism}$ in international trade?",
+        "image": "",
+        "options": [
+            "Tariffs.",
+            "Quotas.",
+            "Subsidies to domestic producers.",
+            "Free Trade Agreements (FTAs)."
+        ],
+        "answer": "Free Trade Agreements (FTAs).",
+        "explanation": "FTAs are mechanisms for reducing trade barriers and promoting free trade, which is the opposite of protectionism (Tariffs, Quotas, Subsidies)."
+    },
+    {
+        "id": "JAMB_I_028",
+        "text": "The $\\textbf{Liquidity}$ $\\textbf{Preference}$ $\\textbf{Theory}$ of interest rate determination was propounded by:",
+        "image": "",
+        "options": [
+            "Adam Smith.",
+            "Alfred Marshall.",
+            "David Ricardo.",
+            "John Maynard Keynes."
+        ],
+        "answer": "John Maynard Keynes.",
+        "explanation": "Keynes argued that the interest rate is determined by the demand for money (liquidity preference) and the supply of money."
+    },
+    {
+        "id": "JAMB_I_029",
+        "text": "The major reason why the $\\textbf{birth}$ $\\textbf{rate}$ $\\textbf{remains}$ $\\textbf{high}$ in most developing countries is:",
+        "image": "",
+        "options": [
+            "high literacy rate.",
+            "low infant mortality rate.",
+            "high economic dependence on children for labor and old age support.",
+            "widespread use of family planning methods."
+        ],
+        "answer": "high economic dependence on children for labor and old age support.",
+        "explanation": "Children are often seen as an economic asset to provide labor on the farm and security for parents in their old age, incentivizing larger families."
+    },
+    {
+        "id": "JAMB_I_030",
+        "text": "If a consumer's $\\textbf{Marginal}$ $\\textbf{Propensity}$ $\\textbf{to}$ $\\textbf{Save}$ (MPS) is $\\textbf{0.3}$, then their Marginal Propensity to Consume ($\\textbf{MPC}$) is:",
+        "image": "",
+        "options": [
+            "$\\textbf{1.0}$.",
+            "$\\textbf{0.7}$.",
+            "$\\textbf{0.3}$.",
+            "$\\textbf{0}$."
+        ],
+        "answer": "$\\textbf{0.7}$.",
+        "explanation": "MPC and MPS are complements; they must sum to $1$: $\\text{MPC} + \\text{MPS} = 1$. Therefore, $\\text{MPC} = 1 - 0.3 = 0.7$."
+    },
+    {
+        "id": "JAMB_I_031",
+        "text": "In the $\\textbf{short}$ $\\textbf{run}$, the $\\textbf{Total}$ $\\textbf{Cost}$ of a firm is the sum of $\\textbf{Total}$ $\\textbf{Variable}$ $\\textbf{Cost}$ and:",
+        "image": "",
+        "options": [
+            "Marginal Cost.",
+            "Total Fixed Cost.",
+            "Average Variable Cost.",
+            "Average Total Cost."
+        ],
+        "answer": "Total Fixed Cost.",
+        "explanation": "In the short run, at least one factor is fixed, giving rise to fixed costs. $\\text{TC} = \\text{TVC} + \\text{TFC}$."
+    },
+    {
+        "id": "JAMB_I_032",
+        "text": "The primary cause of $\\textbf{Cyclical}$ $\\textbf{Unemployment}$ is:",
+        "image": "",
+        "options": [
+            "lack of information about job openings.",
+            "seasonal changes in employment patterns.",
+            "a deficiency in aggregate demand during a recession.",
+            "mismatch between worker skills and job requirements."
+        ],
+        "answer": "a deficiency in aggregate demand during a recession.",
+        "explanation": "Cyclical unemployment rises and falls with the business cycle, increasing during economic downturns (recessions) due to insufficient overall demand for goods and services."
+    },
+    {
+        "id": "JAMB_I_033",
+        "text": "The $\\textbf{law}$ $\\textbf{of}$ $\\textbf{diminishing}$ $\\textbf{marginal}$ $\\textbf{utility}$ implies that as a consumer consumes more units of a commodity:",
+        "image": "",
+        "options": [
+            "Total utility will increase at an increasing rate.",
+            "Total utility will decrease.",
+            "Marginal utility will decrease.",
+            "Marginal utility will be equal to zero."
+        ],
+        "answer": "Marginal utility will decrease.",
+        "explanation": "The law states that the additional satisfaction (marginal utility) derived from consuming an extra unit of a commodity generally decreases as the consumption of that commodity increases. [Image of Total Utility and Marginal Utility Curves]"
+    },
+    {
+        "id": "JAMB_I_034",
+        "text": "The major disadvantage of $\\textbf{international}$ $\\textbf{specialization}$ is the:",
+        "image": "",
+        "options": [
+            "increase in global output.",
+            "vulnerability to changes in the world market.",
+            "reduction in resource waste.",
+            "promotion of trade relations."
+        ],
+        "answer": "vulnerability to changes in the world market.",
+        "explanation": "Countries that specialize heavily (especially in primary products) become dependent on the export market and are highly vulnerable to volatile price changes or external economic shocks."
+    },
+    {
+        "id": "JAMB_I_035",
+        "text": "Which of the following is $\\textbf{not}$ a $\\textbf{characteristic}$ of $\\textbf{Money}$?",
+        "image": "",
+        "options": [
+            "Durability.",
+            "Homogeneity.",
+            "Instability of value.",
+            "Divisibility."
+        ],
+        "answer": "Instability of value.",
+        "explanation": "For money to function effectively as a store of value and medium of exchange, it must have $\\textbf{stability}$ $\\textbf{of}$ $\\textbf{value}$. Instability reduces confidence in the currency."
+    },
+    {
+        "id": "JAMB_I_036",
+        "text": "The $\\textbf{Fiscal}$ $\\textbf{Policy}$ of the government is mainly concerned with the control of:",
+        "image": "",
+        "options": [
+            "interest rates and money supply.",
+            "public expenditure and taxation.",
+            "foreign exchange rates.",
+            "inflation through open market operations."
+        ],
+        "answer": "public expenditure and taxation.",
+        "explanation": "Fiscal policy involves the use of government spending (expenditure) and revenue collection (taxation) to influence the economy."
+    },
+    {
+        "id": "JAMB_I_037",
+        "text": "Given $\\textbf{Total}$ $\\textbf{Revenue}$ ($\\textbf{TR}$) of $\\$100$ and $\\textbf{Total}$ $\\textbf{Cost}$ ($\\textbf{TC}$) of $\\$80$, the firm's $\\textbf{profit}$ is:",
+        "image": "",
+        "options": [
+            "$\\$20.",
+            "$\\$80.",
+            "$\\$180.",
+            "$\\$0$."
+        ],
+        "answer": "$\\$20.",
+        "explanation": "Profit is calculated as $\\text{Profit} = \\text{TR} - \\text{TC}$. Therefore, $\\text{Profit} = \\$100 - \\$80 = \\$20$."
+    },
+    {
+        "id": "JAMB_I_038",
+        "text": "When a country's $\\textbf{Terms}$ $\\textbf{of}$ $\\textbf{Trade}$ $\\textbf{deteriorate}$, it means:",
+        "image": "",
+        "options": [
+            "the price of its imports has fallen relative to its exports.",
+            "it can import a greater volume of goods for a given volume of exports.",
+            "the price of its exports has fallen relative to its imports.",
+            "its Balance of Payments must be in surplus."
+        ],
+        "answer": "the price of its exports has fallen relative to its imports.",
+        "explanation": "Deterioration means the TOT index is lower, implying that the country has to export more goods to buy the same amount of imports."
+    },
+    {
+        "id": "JAMB_I_039",
+        "text": "The $\\textbf{Dependency}$ $\\textbf{Ratio}$ is the ratio of the $\\textbf{non-working}$ $\\textbf{population}$ to the:",
+        "image": "",
+        "options": [
+            "total population.",
+            "school-age population.",
+            "economically active population.",
+            "rural population."
+        ],
+        "answer": "economically active population.",
+        "explanation": "The dependency ratio measures the burden on the working population (economically active) by those who are considered dependents (usually those aged $0-14$ and $65+)$. "
+    },
+    {
+        "id": "JAMB_I_040",
+        "text": "The $\\textbf{Malthusian}$ $\\textbf{Theory}$ of Population argued that population tends to increase at a $\\textbf{geometric}$ $\\textbf{rate}$, while the food supply tends to increase at a:",
+        "image": "",
+        "options": [
+            "geometric rate.",
+            "constant rate.",
+            "arithmetic rate.",
+            "decreasing rate."
+        ],
+        "answer": "arithmetic rate.",
+        "explanation": "Malthus predicted that the difference between these two rates would eventually lead to widespread famine and poverty, unless population growth was checked."
+    }
+]

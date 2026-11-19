@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "Super Typhoon $\\textbf{Haiyan}$ (Yolanda), one of the strongest tropical cyclones ever recorded, devastated the city of $\\textbf{Tacloban}$ in the $\\textbf{Philippines}$ in November 2013.",
+        "image": "",
+        "options": [
+            "Vietnam",
+            "Philippines",
+            "Indonesia",
+            "Taiwan"
+        ],
+        "answer": "Philippines",
+        "explanation": "The storm caused massive storm surges and highlighted the vulnerability of the archipelago to extreme weather."
+    },
+    {
+        "id": "GEO02",
+        "text": "In July 2013, $\\textbf{Croatia}$ became the 28th member state of the $\\textbf{European Union}$, expanding the bloc's borders in the $\\textbf{Balkans}$.",
+        "image": "",
+        "options": [
+            "Serbia",
+            "Croatia",
+            "Bosnia",
+            "Montenegro"
+        ],
+        "answer": "Croatia",
+        "explanation": "It was the first expansion of the EU since Bulgaria and Romania joined in 2007."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Marmaray}$ rail tunnel opened in 2013, connecting the European and Asian sides of $\\textbf{Istanbul}$ under the $\\textbf{Bosphorus Strait}$.",
+        "image": "",
+        "options": [
+            "Dardanelles",
+            "Bosphorus Strait",
+            "Golden Horn",
+            "Sea of Marmara"
+        ],
+        "answer": "Bosphorus Strait",
+        "explanation": "This engineering marvel was the first standard-gauge rail connection between the two continents."
+    },
+    {
+        "id": "GEO04",
+        "text": "A massive meteor exploded over the $\\textbf{Chelyabinsk}$ region of $\\textbf{Russia}$ in 2013, near the $\\textbf{Ural Mountains}$.",
+        "image": "",
+        "options": [
+            "Siberia",
+            "Caucasus",
+            "Ural Mountains",
+            "Kamchatka"
+        ],
+        "answer": "Ural Mountains",
+        "explanation": "The shockwave injured over 1,000 people and damaged thousands of buildings."
+    },
+    {
+        "id": "GEO05",
+        "text": "In 2013, carbon dioxide levels at the $\\textbf{Mauna Loa Observatory}$ in $\\textbf{Hawaii}$ surpassed $\\textbf{400 ppm}$ for the first time in human history.",
+        "image": "",
+        "options": [
+            "Mount Everest",
+            "Mauna Loa",
+            "Fujifilm",
+            "Kilimanjaro"
+        ],
+        "answer": "Mauna Loa",
+        "explanation": "This milestone symbolized the growing impact of human activity on the atmosphere."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{One World Trade Center}$ in $\\textbf{New York City}$ was completed in 2013, becoming the tallest building in the $\\textbf{Western Hemisphere}$.",
+        "image": "",
+        "options": [
+            "Chicago",
+            "Toronto",
+            "New York City",
+            "Dubai"
+        ],
+        "answer": "New York City",
+        "explanation": "It stands at a symbolic height of 1,776 feet."
+    },
+    {
+        "id": "GEO07",
+        "text": "A temporary island named $\\textbf{Zalzala Koh}$ emerged off the coast of $\\textbf{Gwadar}$, $\\textbf{Pakistan}$, following a powerful earthquake in the province of $\\textbf{Balochistan}$.",
+        "image": "",
+        "options": [
+            "Iran",
+            "India",
+            "Pakistan",
+            "Oman"
+        ],
+        "answer": "Pakistan",
+        "explanation": "The mud volcano island appeared in the Arabian Sea but has since eroded away."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Rana Plaza}$ collapse, a disaster highlighting dangerous working conditions in the garment industry, occurred in $\\textbf{Dhaka}$, the capital of $\\textbf{Bangladesh}$.",
+        "image": "",
+        "options": [
+            "India",
+            "Bangladesh",
+            "Vietnam",
+            "Cambodia"
+        ],
+        "answer": "Bangladesh",
+        "explanation": "It is considered the deadliest structural failure accident in modern human history."
+    },
+    {
+        "id": "GEO09",
+        "text": "Civil war erupted in $\\textbf{South Sudan}$, the world's youngest nation, in late 2013, involving conflict between the Dinka and Nuer ethnic groups.",
+        "image": "",
+        "options": [
+            "Sudan",
+            "South Sudan",
+            "Ethiopia",
+            "Uganda"
+        ],
+        "answer": "South Sudan",
+        "explanation": "The country had only gained independence from Sudan two years prior, in 2011."
+    },
+    {
+        "id": "GEO10",
+        "text": "French forces launched $\\textbf{Operation Serval}$ in 2013 to push back Islamist militants in northern $\\textbf{Mali}$, a country in the $\\textbf{Sahel}$ region.",
+        "image": "",
+        "options": [
+            "Chad",
+            "Niger",
+            "Mali",
+            "Nigeria"
+        ],
+        "answer": "Mali",
+        "explanation": "The conflict centered around cities like Timbuktu and Gao."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Costa Concordia}$ cruise ship was successfully refloated (parbuckled) off the island of $\\textbf{Giglio}$ in $\\textbf{Italy}$ in 2013.",
+        "image": "",
+        "options": [
+            "Greece",
+            "Spain",
+            "Italy",
+            "Malta"
+        ],
+        "answer": "Italy",
+        "explanation": "The salvage operation was one of the largest and most expensive in maritime history."
+    },
+    {
+        "id": "GEO12",
+        "text": "In 2013, Russian scientists successfully drilled into $\\textbf{Lake Vostok}$, a massive subglacial lake buried beneath the ice of $\\textbf{Antarctica}$.",
+        "image": "",
+        "options": [
+            "Greenland",
+            "Siberia",
+            "Alaska",
+            "Antarctica"
+        ],
+        "answer": "Antarctica",
+        "explanation": "The lake had been isolated from the outside world for millions of years."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Senkaku Islands}$ (known as Diaoyu in China) were a flashpoint for tensions between $\\textbf{Japan}$ and China in the $\\textbf{East China Sea}$.",
+        "image": "",
+        "options": [
+            "South China Sea",
+            "East China Sea",
+            "Yellow Sea",
+            "Sea of Japan"
+        ],
+        "answer": "East China Sea",
+        "explanation": "Japan administers the islands, but both China and Taiwan claim them."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Moore}$ tornado, an EF5 storm, devastated suburbs of Oklahoma City, located in the region known as $\\textbf{Tornado Alley}$.",
+        "image": "",
+        "options": [
+            "Kansas",
+            "Texas",
+            "Oklahoma",
+            "Nebraska"
+        ],
+        "answer": "Oklahoma",
+        "explanation": "The tornado caused significant loss of life and destruction of schools."
+    },
+    {
+        "id": "GEO15",
+        "text": "Pope Francis was elected in 2013, becoming the first pope from the $\\textbf{Americas}$ and hailing from $\\textbf{Argentina}$.",
+        "image": "",
+        "options": [
+            "Brazil",
+            "Argentina",
+            "Mexico",
+            "Colombia"
+        ],
+        "answer": "Argentina",
+        "explanation": "His election shifted the center of gravity of the Catholic Church away from Europe."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Nicaragua Canal}$ project was approved in 2013, intending to connect the $\\textbf{Caribbean Sea}$ and the $\\textbf{Pacific Ocean}$ through Lake Nicaragua.",
+        "image": "",
+        "options": [
+            "Panama",
+            "Costa Rica",
+            "Nicaragua",
+            "Honduras"
+        ],
+        "answer": "Nicaragua",
+        "explanation": "The project was intended to rival the Panama Canal but faced significant environmental and financial hurdles."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Euromaidan}$ protests began in late 2013 in Independence Square in $\\textbf{Kyiv}$, the capital of $\\textbf{Ukraine}$.",
+        "image": "",
+        "options": [
+            "Minsk",
+            "Kyiv",
+            "Moscow",
+            "Warsaw"
+        ],
+        "answer": "Kyiv",
+        "explanation": "The protests were sparked by the government's decision to suspend an association agreement with the European Union."
+    },
+    {
+        "id": "GEO18",
+        "text": "Mount $\\textbf{Sinabung}$, a volcano in northern $\\textbf{Sumatra}$, Indonesia, erupted in 2013 after being dormant for centuries, displacing thousands.",
+        "image": "",
+        "options": [
+            "Java",
+            "Bali",
+            "Sumatra",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "Indonesia sits on the Pacific Ring of Fire and has more active volcanoes than any other country."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Westgate}$ shopping mall attack occurred in $\\textbf{Nairobi}$, the capital city of $\\textbf{Kenya}$.",
+        "image": "",
+        "options": [
+            "Nigeria",
+            "Kenya",
+            "Somalia",
+            "Tanzania"
+        ],
+        "answer": "Kenya",
+        "explanation": "The attack was carried out by Al-Shabaab, a militant group based in neighboring Somalia."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{ALMA}$ observatory, the world's most powerful radio telescope, was inaugurated in the $\\textbf{Atacama Desert}$ of $\\textbf{Chile}$.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Chile",
+            "Argentina",
+            "Bolivia"
+        ],
+        "answer": "Chile",
+        "explanation": "The high altitude and extreme dryness of the Atacama make it ideal for astronomy."
+    },
+    {
+        "id": "GEO21",
+        "text": "Severe flooding struck $\\textbf{Central Europe}$ in 2013, causing the $\\textbf{Danube}$ and $\\textbf{Elbe}$ rivers to burst their banks.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Danube",
+            "Seine",
+            "Volga"
+        ],
+        "answer": "Danube",
+        "explanation": "Countries like Germany, Austria, and Hungary were heavily affected by the high water levels."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Salar de Uyuni}$ in $\\textbf{Bolivia}$ contains the world's largest lithium reserves, a resource that gained strategic importance in 2013 for battery production.",
+        "image": "",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Bolivia",
+            "Peru"
+        ],
+        "answer": "Bolivia",
+        "explanation": "It is also the world's largest salt flat, located in the Andes."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Gezi Park}$ protests began in $\\textbf{Taksim Square}$ in $\\textbf{Istanbul}$, Turkey, initially over urban development plans.",
+        "image": "",
+        "options": [
+            "Ankara",
+            "Istanbul",
+            "Izmir",
+            "Antalya"
+        ],
+        "answer": "Istanbul",
+        "explanation": "The protests quickly grew into a wider demonstration of civil unrest across the country."
+    },
+    {
+        "id": "GEO24",
+        "text": "The city of $\\textbf{Detroit}$ in $\\textbf{Michigan}$ filed for the largest municipal bankruptcy in U.S. history in 2013, highlighting the decline of the $\\textbf{Rust Belt}$.",
+        "image": "",
+        "options": [
+            "Ohio",
+            "Michigan",
+            "Pennsylvania",
+            "Illinois"
+        ],
+        "answer": "Michigan",
+        "explanation": "Detroit was once the heart of the global automobile industry."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Zaatari}$ refugee camp in $\\textbf{Jordan}$ became one of the world's largest 'cities' in 2013 due to the influx of refugees from the civil war in $\\textbf{Syria}$.",
+        "image": "",
+        "options": [
+            "Lebanon",
+            "Turkey",
+            "Jordan",
+            "Iraq"
+        ],
+        "answer": "Jordan",
+        "explanation": "The camp is located in the desert near the Syrian border."
+    },
+    {
+        "id": "GEO26",
+        "text": "A severe $\\textbf{Haze}$ crisis affected $\\textbf{Southeast Asia}$ in 2013, caused by illegal slash-and-burn land clearing in $\\textbf{Indonesia}$.",
+        "image": "",
+        "options": [
+            "Malaysia",
+            "Thailand",
+            "Indonesia",
+            "Philippines"
+        ],
+        "answer": "Indonesia",
+        "explanation": "The smoke blanketed Singapore and Malaysia, causing record-breaking pollution levels."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Spratly Islands}$ in the $\\textbf{South China Sea}$ saw the beginning of massive land reclamation and artificial island building by $\\textbf{China}$.",
+        "image": "",
+        "options": [
+            "East China Sea",
+            "South China Sea",
+            "Philippine Sea",
+            "Yellow Sea"
+        ],
+        "answer": "South China Sea",
+        "explanation": "This marked a significant escalation in the territorial disputes involving Vietnam, Philippines, and others."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Okhotsk Sea}$ in the Russian Far East was the site of a massive, deep earthquake in 2013 that was felt as far away as $\\textbf{Moscow}$.",
+        "image": "",
+        "options": [
+            "Bering Sea",
+            "Okhotsk Sea",
+            "Laptev Sea",
+            "Kara Sea"
+        ],
+        "answer": "Okhotsk Sea",
+        "explanation": "It lies between the Kamchatka Peninsula and the Russian mainland."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Ngorongoro Conservation Area}$ is a protected area and World Heritage Site located in $\\textbf{Tanzania}$, west of Arusha.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Uganda",
+            "Tanzania",
+            "Rwanda"
+        ],
+        "answer": "Tanzania",
+        "explanation": "It is famous for its large volcanic caldera and high density of wildlife."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Strait of Gibraltar}$ experienced border delays in 2013 due to a diplomatic row between $\\textbf{Spain}$ and the $\\textbf{United Kingdom}$ over an artificial reef.",
+        "image": "",
+        "options": [
+            "France",
+            "Portugal",
+            "Spain",
+            "Morocco"
+        ],
+        "answer": "Spain",
+        "explanation": "Gibraltar is a British Overseas Territory located on the southern tip of the Iberian Peninsula."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Xayaburi Dam}$, the first dam on the lower mainstream of the $\\textbf{Mekong River}$, faced criticism in 2013 for its potential impact on fish in $\\textbf{Laos}$.",
+        "image": "",
+        "options": [
+            "Cambodia",
+            "Vietnam",
+            "Laos",
+            "Thailand"
+        ],
+        "answer": "Laos",
+        "explanation": "The Mekong is a vital waterway for millions of people in Southeast Asia."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Curiosity Rover}$ drilled into a rock on Mars in 2013 at $\\textbf{Gale Crater}$ to analyze the planet's past habitability.",
+        "image": "",
+        "options": [
+            "Jezero Crater",
+            "Gale Crater",
+            "Olympus Mons",
+            "Valles Marineris"
+        ],
+        "answer": "Gale Crater",
+        "explanation": "The rover found evidence that ancient Mars could have supported microbial life."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Amazon Basin}$ spans nine nations, but the majority of the rainforest (about 60%) is contained within $\\textbf{Brazil}$.",
+        "image": "",
+        "options": [
+            "Peru",
+            "Colombia",
+            "Brazil",
+            "Venezuela"
+        ],
+        "answer": "Brazil",
+        "explanation": "Deforestation rates in the Brazilian Amazon are a critical global environmental indicator."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Pamir Highway}$ is a scenic road traversing the $\\textbf{Pamir Mountains}$ through Afghanistan, Uzbekistan, Tajikistan, and $\\textbf{Kyrgyzstan}$.",
+        "image": "",
+        "options": [
+            "Himalayas",
+            "Pamir Mountains",
+            "Caucasus",
+            "Altai Mountains"
+        ],
+        "answer": "Pamir Mountains",
+        "explanation": "It is the second-highest international highway in the world."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Suez Canal}$ connects the Mediterranean Sea to the $\\textbf{Red Sea}$, separating the African continent from $\\textbf{Asia}$ (Sinai Peninsula).",
+        "image": "",
+        "options": [
+            "Europe",
+            "Asia",
+            "Australia",
+            "South America"
+        ],
+        "answer": "Asia",
+        "explanation": "The canal offers a shorter journey between the North Atlantic and northern Indian Oceans."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Aral Sea}$ in Central Asia continued to shrink in 2013, with the eastern basin of the South Aral Sea drying up completely for the first time.",
+        "image": "",
+        "options": [
+            "Caspian Sea",
+            "Black Sea",
+            "Aral Sea",
+            "Baikal Lake"
+        ],
+        "answer": "Aral Sea",
+        "explanation": "This was largely due to water diversion from the Amu Darya and Syr Darya rivers for cotton irrigation."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Kuril Islands}$ are a chain of volcanic islands disputed between $\\textbf{Russia}$ and $\\textbf{Japan}$ since the end of World War II.",
+        "image": "",
+        "options": [
+            "China",
+            "Russia",
+            "South Korea",
+            "Philippines"
+        ],
+        "answer": "Russia",
+        "explanation": "The dispute has prevented the two nations from signing a formal peace treaty."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Strait of Malacca}$ is a narrow stretch of water between the Malay Peninsula and the Indonesian island of $\\textbf{Sumatra}$.",
+        "image": "",
+        "options": [
+            "Java",
+            "Borneo",
+            "Sumatra",
+            "Sulawesi"
+        ],
+        "answer": "Sumatra",
+        "explanation": "It is one of the most important shipping lanes in the world."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Great Barrier Reef}$ faced threats from port expansion and dredging at Abbot Point in $\\textbf{Queensland}$, Australia, in 2013.",
+        "image": "",
+        "options": [
+            "New South Wales",
+            "Victoria",
+            "Queensland",
+            "Western Australia"
+        ],
+        "answer": "Queensland",
+        "explanation": "The reef is a UNESCO World Heritage site and sensitive to water quality changes."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Sochi}$ region, located on the coast of the $\\textbf{Black Sea}$, underwent massive construction in 2013 in preparation for the 2014 Winter Olympics.",
+        "image": "",
+        "options": [
+            "Caspian Sea",
+            "Baltic Sea",
+            "Black Sea",
+            "White Sea"
+        ],
+        "answer": "Black Sea",
+        "explanation": "It is one of the few places in Russia with a humid subtropical climate."
+    }
+]

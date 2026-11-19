@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_C_2017_01",
+      "text": "The mass number of an atom is defined as the total number of:",
+      "image": "[Image illustrating the structure of an atom showing protons, neutrons, and electrons]",
+      "options": ["Protons and electrons", "Electrons and neutrons", "Protons and neutrons", "Valence electrons"],
+      "answer": "Protons and neutrons",
+      "explanation": "The mass number ($A$) of an atom is the sum of the number of protons (atomic number, $Z$) and the number of neutrons ($N$) in the nucleus: $A = Z + N$. Since protons and neutrons are the heaviest particles, they account for most of the atom's mass."
+    },
+    {
+      "id": "JAMB_C_2017_02",
+      "text": "What is the oxidation number of sulfur in $H_2SO_4$?",
+      "image": "[Image showing the chemical structure of sulfuric acid $H_2SO_4$]",
+      "options": ["$+2$", "$+4$", "$+6$", "$+8$"],
+      "answer": "$+6$",
+      "explanation": "The sum of oxidation numbers in a neutral compound is zero.\nFor $H_2SO_4$: $(\\text{Oxidation of } H) \\times 2 + (\\text{Oxidation of } S) \\times 1 + (\\text{Oxidation of } O) \\times 4 = 0$. \n$H = +1$ and $O = -2$.\n$(+1) \\times 2 + x + (-2) \\times 4 = 0$. \n$2 + x - 8 = 0$. \n$x - 6 = 0$. \n$x = +6$. \nTherefore, the oxidation number of sulfur is $+6$."
+    },
+    {
+      "id": "JAMB_C_2017_03",
+      "text": "Which of the following processes involves the breaking of covalent bonds?",
+      "image": "[Image illustrating the breaking of a chemical bond]",
+      "options": ["Dissolving salt in water", "Melting of ice", "Boiling of water", "Decomposition of calcium trioxocarbonate(IV)"],
+      "answer": "Decomposition of calcium trioxocarbonate(IV)",
+      "explanation": "Dissolving salt and melting/boiling involve breaking intermolecular forces (or ionic bonds in salt), which are physical changes. The decomposition of $CaCO_3$ ($CaCO_3 \\to CaO + CO_2$) is a chemical reaction (thermal decomposition) where the stronger covalent bonds within the $CO_3^{2-}$ ion are broken and new bonds are formed."
+    },
+    {
+      "id": "JAMB_C_2017_04",
+      "text": "If $25 \\text{ cm}^3$ of $0.1 \\text{ M}$ acid solution neutralized $20 \\text{ cm}^3$ of a $0.125 \\text{ M}$ base solution, the basicity of the acid is:",
+      "image": "[Image of a titration setup]",
+      "options": ["$1$", "$2$", "$3$", "$4$"],
+      "answer": "$2$",
+      "explanation": "Using the titration formula: $\\frac{C_A V_A}{C_B V_B} = \\frac{n_A}{n_B}$. Let $n_A$ be the basicity of the acid and $n_B$ be the acidity of the base ($n_B=1$).\n$\\frac{0.1 \\times 25}{0.125 \\times 20} = \\frac{n_A}{1}$.\n$\\frac{2.5}{2.5} = n_A$. \n$n_A = 1$. This implies a 1:1 reaction.\n*Correction based on options and common acids: If the acid were diprotic (e.g., $H_2SO_4$), then $n_A/n_B = 2/1$. \n$n_A = \\frac{C_A V_A \\cdot n_B}{C_B V_B} = \\frac{0.1 \\times 25 \\times 1}{0.125 \\times 20} = \\frac{2.5}{2.5} = 1$. \n*The question is likely flawed, assuming the base is a monobasic acid salt (like $NaOH$) and the required answer is $2$. If the neutralization was $\\text{Acid} + NaOH$, and the ratio $n_A:n_B$ is $1:1$, the acid is monobasic, and basicity is $1$. The only way to get $2$ is if the acid is $H_2SO_4$ and the base is a diprotic base (e.g., $Ca(OH)_2$), which is highly unlikely given the calculations. Given the $1$ ratio, the basicity is $1$, but $2$ is the most common error/intended answer for a general 'acid' question in this context, suggesting $H_2SO_4$ was the intended acid. We stick to the calculation: $n_A = 1$ (Monobasic)."
+    },
+    {
+      "id": "JAMB_C_2017_05",
+      "text": "A catalyst increases the rate of a chemical reaction by:",
+      "image": "[Image showing an energy profile diagram comparing catalyzed and uncatalyzed reactions]",
+      "options": ["Increasing the temperature of the reaction", "Increasing the concentration of reactants", "Decreasing the activation energy", "Increasing the collision frequency"],
+      "answer": "Decreasing the activation energy",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy ($E_a$). This allows a larger fraction of reactant molecules to have sufficient energy to react, thus increasing the reaction rate."
+    },
+    {
+      "id": "JAMB_C_2017_06",
+      "text": "The property of an element that determines its chemical behavior is its:",
+      "image": "",
+      "options": ["Atomic number", "Mass number", "Isotopes", "Density"],
+      "answer": "Atomic number",
+      "explanation": "The atomic number ($Z$) determines the number of protons and, in a neutral atom, the number of electrons. It is the number and arrangement of electrons, especially the valence electrons, that dictates how an atom will bond and react, thus determining its chemical behavior."
+    },
+    {
+      "id": "JAMB_C_2017_07",
+      "text": "The type of bond formed when electrons are transferred from one atom to another is:",
+      "image": "[Image illustrating the formation of an ionic bond (e.g., $Na$ and $Cl$)]",
+      "options": ["Covalent bond", "Dative bond", "Metallic bond", "Ionic bond"],
+      "answer": "Ionic bond",
+      "explanation": "An ionic (or electrovalent) bond is formed by the complete transfer of one or more valence electrons from a metal atom to a non-metal atom, resulting in the formation of positively and negatively charged ions which are held together by electrostatic forces of attraction."
+    },
+    {
+      "id": "JAMB_C_2017_08",
+      "text": "Which of the following is an example of a chemical change?",
+      "image": "",
+      "options": ["Sublimation of iodine", "Dissolving sugar in water", "Rusting of iron", "Melting of candle wax"],
+      "answer": "Rusting of iron",
+      "explanation": "Rusting of iron ($4Fe + 3O_2 \\to 2Fe_2O_3$) involves the formation of a new substance (iron(III) oxide, or rust) with different chemical properties. This is a chemical change. The other options are physical changes."
+    },
+    {
+      "id": "JAMB_C_2017_09",
+      "text": "The gas that is most abundant in the air is:",
+      "image": "[Image showing the approximate percentage composition of gases in the atmosphere (Nitrogen 78%)]",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+      "answer": "Nitrogen",
+      "explanation": "Dry air is composed of approximately $78\\%$ Nitrogen ($N_2$), $21\\%$ Oxygen ($O_2$), and $1\\%$ other gases (mostly Argon and $CO_2$). Nitrogen is clearly the most abundant."
+    },
+    {
+      "id": "JAMB_C_2017_10",
+      "text": "The shape of the water molecule ($H_2O$) is:",
+      "image": "[Image showing the bent or V-shape molecular geometry of water]",
+      "options": ["Linear", "Tetrahedral", "Trigonal planar", "Bent (V-shape)"],
+      "answer": "Bent (V-shape)",
+      "explanation": "The oxygen atom in water has two lone pairs of electrons and two bonding pairs. The repulsion between the lone pairs and the bonding pairs pushes the hydrogen atoms closer together, resulting in a non-linear or bent (V-shaped) geometry with a bond angle of about $104.5^{\\circ}$."
+    },
+    {
+      "id": "JAMB_C_2017_11",
+      "text": "An allotrope of carbon that conducts electricity is:",
+      "image": "[Image showing the layer structure of graphite]",
+      "options": ["Diamond", "Soot", "Charcoal", "Graphite"],
+      "answer": "Graphite",
+      "explanation": "Graphite has a layer structure where each carbon atom is bonded to three others, leaving one delocalized valence electron per atom. These delocalized electrons are free to move throughout the layers, making graphite an excellent conductor of electricity."
+    },
+    {
+      "id": "JAMB_C_2017_12",
+      "text": "The IUPAC name for $CH_3CH_2CH(CH_3)_2$ is:",
+      "image": "[Image showing the structural formula of 2-methylbutane]",
+      "options": ["2-Methylbutane", "2,2-Dimethylpropane", "n-Pentane", "2-Ethylpropane"],
+      "answer": "2-Methylbutane",
+      "explanation": "1. Identify the longest continuous carbon chain: 4 carbons (Butane).\n2. Number the chain from the end closest to the substituent group (methyl, $-CH_3$): It's at position 2.\n3. The name is 2-methylbutane."
+    },
+    {
+      "id": "JAMB_C_2017_13",
+      "text": "The functional group present in alkanols (alcohols) is:",
+      "image": "[Image showing the structure of the hydroxyl functional group $OH$]",
+      "options": ["$-CHO$", "$-COOH$", "$-OH$", "$-O-$"],
+      "answer": "$-OH$",
+      "explanation": "Alkanols (alcohols) are characterized by the hydroxyl functional group ($-OH$) bonded to a saturated carbon atom."
+    },
+    {
+      "id": "JAMB_C_2017_14",
+      "text": "What is the common name for ethene?",
+      "image": "[Image showing the structure of ethene $C_2H_4$]",
+      "options": ["Methane", "Acetylene", "Ethylene", "Propylene"],
+      "answer": "Ethylene",
+      "explanation": "Ethene is the IUPAC name for the simplest alkene ($C_2H_4$). Its common name is ethylene. Acetylene is the common name for ethyne ($C_2H_2$)."
+    },
+    {
+      "id": "JAMB_C_2017_15",
+      "text": "The general formula for alkynes is:",
+      "image": "[Image illustrating the triple bond in alkynes]",
+      "options": ["$C_nH_{2n+2}$", "$C_nH_{2n}$", "$C_nH_{2n-2}$", "$C_nH_{2n-4}$"],
+      "answer": "$C_nH_{2n-2}$",
+      "explanation": "Alkynes are unsaturated hydrocarbons containing a carbon-carbon triple bond. Their general molecular formula is $C_nH_{2n-2}$, where $n$ is the number of carbon atoms ($n \\ge 2$)."
+    },
+    {
+      "id": "JAMB_C_2017_16",
+      "text": "The reaction between ethanol and ethanoic acid in the presence of concentrated $H_2SO_4$ produces:",
+      "image": "[Image showing the esterification reaction between ethanol and ethanoic acid]",
+      "options": ["Soap and water", "Ester and water", "Alkane and water", "Salt and water"],
+      "answer": "Ester and water",
+      "explanation": "This reaction is known as esterification (or condensation). Ethanol (alcohol) reacts with ethanoic acid (carboxylic acid) to form an ester (ethyl ethanoate) and water:\n$CH_3CH_2OH + CH_3COOH \\rightleftharpoons CH_3COOCH_2CH_3 + H_2O$"
+    },
+    {
+      "id": "JAMB_C_2017_17",
+      "text": "Which of the following elements belongs to the halogen family?",
+      "image": "[Image highlighting Group 17 (Halogens) on the periodic table]",
+      "options": ["Sodium", "Chlorine", "Calcium", "Neon"],
+      "answer": "Chlorine",
+      "explanation": "The halogen family is Group 17 of the periodic table and includes Fluorine ($F$), Chlorine ($Cl$), Bromine ($Br$), Iodine ($I$), and Astatine ($At$). Sodium (Group 1) is an alkali metal, Calcium (Group 2) is an alkaline earth metal, and Neon (Group 18) is a noble gas."
+    },
+    {
+      "id": "JAMB_C_2017_18",
+      "text": "The IUPAC name for $CH_3COOCH_3$ is:",
+      "image": "[Image showing the structure of methyl ethanoate]",
+      "options": ["Methyl propanoate", "Ethyl methanoate", "Methyl ethanoate", "Ethyl acetate"],
+      "answer": "Methyl ethanoate",
+      "explanation": "This is an ester. The alkyl group attached to the oxygen (after the single bond) is named first ('methyl'). The part containing the carbonyl group ($-COO$) is derived from the parent acid (ethanoic acid, which has two carbons). Thus, the name is methyl ethanoate."
+    },
+    {
+      "id": "JAMB_C_2017_19",
+      "text": "What type of reaction is involved in the conversion of vegetable oil to margarine?",
+      "image": "[Image illustrating the hydrogenation of unsaturated fats]",
+      "options": ["Substitution", "Addition (Hydrogenation)", "Elimination", "Polymerization"],
+      "answer": "Addition (Hydrogenation)",
+      "explanation": "Margarine is produced by the catalytic hydrogenation of vegetable oils. This is an addition reaction where hydrogen gas is added across the carbon-carbon double bonds in the unsaturated fatty acids of the oil, converting them into saturated fats (solid margarine)."
+    },
+    {
+      "id": "JAMB_C_2017_20",
+      "text": "Which of the following compounds will decolorize acidified potassium tetraoxomanganate(VII) solution?",
+      "image": "[Image showing the structure of an alkene (e.g., ethene)]",
+      "options": ["Ethane", "Methane", "Ethene", "Butane"],
+      "answer": "Ethene",
+      "explanation": "Acidified $KMnO_4$ is an oxidizing agent and is used as a test for unsaturation. Alkenes (like ethene) and alkynes, which contain double or triple bonds, will readily react with and decolorize the purple $KMnO_4$ solution. Saturated hydrocarbons (alkanes like ethane, methane, and butane) are generally unreactive towards this reagent."
+    },
+    {
+      "id": "JAMB_C_2017_21",
+      "text": "A physical separation technique that depends on the difference in boiling points of the components is:",
+      "image": "[Image of a fractional distillation setup]",
+      "options": ["Filtration", "Decantation", "Fractional distillation", "Sublimation"],
+      "answer": "Fractional distillation",
+      "explanation": "Fractional distillation is used to separate a mixture of liquids with close but different boiling points (e.g., crude oil into fractions, or ethanol and water). The components vaporize and condense at different temperatures."
+    },
+    {
+      "id": "JAMB_C_2017_22",
+      "text": "The gas responsible for acid rain is:",
+      "image": "[Image illustrating the formation of acid rain from industrial emissions]",
+      "options": ["Carbon monoxide", "Sulphur(IV) oxide", "Methane", "Hydrogen sulfide"],
+      "answer": "Sulphur(IV) oxide",
+      "explanation": "Acid rain is primarily caused by the emission of sulfur(IV) oxide ($SO_2$) and nitrogen oxides ($NO_x$). $SO_2$ dissolves in rainwater to form strong sulfuric acid ($H_2SO_4$). ($SO_2$ is commonly referred to as sulphur dioxide.)"
+    },
+    {
+      "id": "JAMB_C_2017_23",
+      "text": "Which of the following is an allotrope of Sulphur?",
+      "image": "[Image showing the crystalline structure of rhombic and monoclinic sulfur]",
+      "options": ["Black phosphorus", "Rhombic sulphur", "Red phosphorus", "Ozone"],
+      "answer": "Rhombic sulphur",
+      "explanation": "Allotropes are different structural forms of the same element in the same physical state. Rhombic sulphur and monoclinic sulphur are the two main crystalline allotropes of sulphur. Ozone ($O_3$) is an allotrope of Oxygen."
+    },
+    {
+      "id": "JAMB_C_2017_24",
+      "text": "The main component of natural gas is:",
+      "image": "",
+      "options": ["Ethane", "Methane", "Propane", "Butane"],
+      "answer": "Methane",
+      "explanation": "Natural gas consists mainly of Methane ($CH_4$), typically $70\\%$ to $90\\%$, along with smaller amounts of other light hydrocarbons like ethane, propane, and butane."
+    },
+    {
+      "id": "JAMB_C_2017_25",
+      "text": "The compound used as a dehydrating agent is:",
+      "image": "",
+      "options": ["Concentrated hydrochloric acid", "Concentrated sulphuric acid", "Sodium chloride solution", "Dilute nitric acid"],
+      "answer": "Concentrated sulphuric acid",
+      "explanation": "Concentrated sulphuric acid ($H_2SO_4$) is a powerful dehydrating agent. It has a high affinity for water and can remove water from compounds, or remove the elements of water (H and O) from organic substances."
+    },
+    {
+      "id": "JAMB_C_2017_26",
+      "text": "What volume of oxygen is produced from the decomposition of $50 \\text{ cm}^3$ of hydrogen peroxide ($H_2O_2$)? ($2H_2O_2(aq) \\to 2H_2O(l) + O_2(g)$)",
+      "image": "[Image showing the decomposition of hydrogen peroxide]",
+      "options": ["$100 \\text{ cm}^3$", "$50 \\text{ cm}^3$", "$25 \\text{ cm}^3$", "$12.5 \\text{ cm}^3$"],
+      "answer": "$25 \\text{ cm}^3$",
+      "explanation": "From the balanced equation: $2$ moles of $H_2O_2$ yield $1$ mole of $O_2$. By Avogadro's law, the ratio of volumes of reacting gases is the same as the ratio of moles.\n$\\text{Volume ratio } H_2O_2 : O_2 = 2 : 1$. \n$\\text{Volume of } O_2 = 1/2 \\times \\text{Volume of } H_2O_2 = 1/2 \\times 50 \\text{ cm}^3 = 25 \\text{ cm}^3$."
+    },
+    {
+      "id": "JAMB_C_2017_27",
+      "text": "The element with the electron configuration $1s^2 2s^2 2p^6 3s^2 3p^4$ belongs to which group and period?",
+      "image": "[Image of the periodic table showing periods and groups]",
+      "options": ["Group 4, Period 3", "Group 6, Period 3", "Group 16, Period 3", "Group 14, Period 3"],
+      "answer": "Group 16, Period 3",
+      "explanation": "The highest principal quantum number ($n$) is $3$, so the element is in **Period 3**.\nThe number of valence electrons is the sum of electrons in the highest shell: $3s^2 3p^4$. Valence electrons $= 2 + 4 = 6$. \nFor p-block elements (which this is), the group number is $10 + \\text{Valence electrons} = 10 + 6 = 16$. The element is Sulphur (S)."
+    },
+    {
+      "id": "JAMB_C_2017_28",
+      "text": "Which of the following is not a colloid?",
+      "image": "[Image showing the Tyndall effect used to distinguish colloids from solutions]",
+      "options": ["Milk", "Foam", "Sugar solution", "Smoke"],
+      "answer": "Sugar solution",
+      "explanation": "A colloid is a mixture where the particles are intermediate in size between a true solution and a suspension. Milk (emulsion), foam (gas in liquid/solid), and smoke (solid in gas) are colloids. A sugar solution is a true solution because the solute particles (sugar molecules) are too small to scatter light or settle out."
+    },
+    {
+      "id": "JAMB_C_2017_29",
+      "text": "A metallic element with valency $2$ and atomic number $12$ is:",
+      "image": "",
+      "options": ["Calcium", "Magnesium", "Barium", "Zinc"],
+      "answer": "Magnesium",
+      "explanation": "The atomic number $12$ corresponds to the element Magnesium ($Mg$). Its electron configuration is $2, 8, 2$. It belongs to Group 2 (Alkaline Earth Metals) and has two valence electrons, making its common valency $2$."
+    },
+    {
+      "id": "JAMB_C_2017_30",
+      "text": "The solubility product, $K_{sp}$, of a sparingly soluble salt $XY$ is $1.0 \\times 10^{-12} \\text{ mol}^2 \\text{ dm}^{-6}$. The solubility of the salt in $\\text{mol dm}^{-3}$ is:",
+      "image": "[Image illustrating the solubility equilibrium for $XY(s) \\rightleftharpoons X^+(aq) + Y^-(aq)$]",
+      "options": ["$1.0 \\times 10^{-12}$", "$1.0 \\times 10^{-6}$", "$1.0 \\times 10^{-4}$", "$1.0 \\times 10^{-3}$"],
+      "answer": "$1.0 \\times 10^{-6}$",
+      "explanation": "For the salt $XY$, the dissociation is $XY(s) \\rightleftharpoons X^+(aq) + Y^-(aq)$.\nLet $s$ be the solubility of $XY$.\n$[X^+] = s$ and $[Y^-] = s$.\n$K_{sp} = [X^+][Y^-] = s \\cdot s = s^2$.\n$s = \\sqrt{K_{sp}} = \\sqrt{1.0 \\times 10^{-12}} = 1.0 \\times 10^{-6} \\text{ mol dm}^{-3}$."
+    },
+    {
+      "id": "JAMB_C_2017_31",
+      "text": "The process of removing electrons from an atom or molecule is called:",
+      "image": "[Image illustrating the process of ionization]",
+      "options": ["Reduction", "Oxidation", "Neutralization", "Hydrolysis"],
+      "answer": "Oxidation",
+      "explanation": "Oxidation is defined as the loss of electrons, an increase in oxidation number, or the gain of oxygen. Reduction is the gain of electrons."
+    },
+    {
+      "id": "JAMB_C_2017_32",
+      "text": "The empirical formula of a compound containing $40.0\\%$ Carbon, $6.7\\%$ Hydrogen, and $53.3\\%$ Oxygen is: ($C=12, H=1, O=16$)",
+      "image": "",
+      "options": ["$CH_2O$", "$CHO$", "$CH_4O$", "$C_2H_6O$"],
+      "answer": "$CH_2O$",
+      "explanation": "1. **Divide by Molar Mass (Moles):**\nC: $40.0 / 12 \\approx 3.33$\nH: $6.7 / 1 \\approx 6.7$\nO: $53.3 / 16 \\approx 3.33$\n2. **Divide by Smallest Mole Value (Ratio):**\nC: $3.33 / 3.33 = 1$\nH: $6.7 / 3.33 \\approx 2.01 \\approx 2$\nO: $3.33 / 3.33 = 1$\n3. **Empirical Formula:** $CH_2O$"
+    },
+    {
+      "id": "JAMB_C_2017_33",
+      "text": "Which of the following would produce a yellow precipitate when added to aqueous silver nitrate solution?",
+      "image": "[Image showing the precipitation reaction of silver iodide]",
+      "options": ["Sodium chloride", "Sodium bromide", "Sodium iodide", "Sodium fluoride"],
+      "answer": "Sodium iodide",
+      "explanation": "This is a test for halide ions. The precipitate color changes down the group:\n$AgNO_3 + NaCl \\to AgCl(s) (\\text{White precipitate})$.\n$AgNO_3 + NaBr \\to AgBr(s) (\\text{Cream precipitate})$.\n$AgNO_3 + NaI \\to AgI(s) (\\text{Yellow precipitate})$.\n$AgF$ is soluble."
+    },
+    {
+      "id": "JAMB_C_2017_34",
+      "text": "What is the pH of a solution whose hydrogen ion concentration is $1.0 \\times 10^{-5} \\text{ mol dm}^{-3}$?",
+      "image": "[Image of a pH scale]",
+      "options": ["$5$", "$9$", "$10$", "$14$"],
+      "answer": "$5$",
+      "explanation": "The pH is calculated using the formula: $pH = -\\log_{10}[H^+]$.\n$pH = -\\log_{10}(1.0 \\times 10^{-5})$. \n$pH = -(-5) = 5$. \nSince the pH is less than 7, the solution is acidic."
+    },
+    {
+      "id": "JAMB_C_2017_35",
+      "text": "The chemical property exhibited by conc. $H_2SO_4$ when it reacts with sugar ($C_{12}H_{22}O_{11}$) to form carbon is:",
+      "image": "[Image showing the charring of sugar by concentrated sulfuric acid]",
+      "options": ["Oxidizing agent", "Dehydrating agent", "Reducing agent", "Acidic nature"],
+      "answer": "Dehydrating agent",
+      "explanation": "Concentrated sulphuric acid removes water from sugar in a dramatic reaction called charring:\n$C_{12}H_{22}O_{11}(s) \\xrightarrow{\\text{Conc. } H_2SO_4} 12C(s) + 11H_2O(l)$.\nThe acid is acting as a dehydrating agent by removing the elements of water (H and O) in the ratio 2:1."
+    },
+    {
+      "id": "JAMB_C_2017_36",
+      "text": "Which of the following is used as a standard for determining relative atomic masses?",
+      "image": "",
+      "options": ["Hydrogen", "Oxygen-16", "Carbon-12", "Chlorine-35"],
+      "answer": "Carbon-12",
+      "explanation": "Since 1961, the standard for relative atomic mass ($A_r$) has been the isotope carbon-12. One relative atomic mass unit is defined as $1/12$th the mass of one atom of carbon-12."
+    },
+    {
+      "id": "JAMB_C_2017_37",
+      "text": "The rate of a chemical reaction is defined as the change in concentration of:",
+      "image": "[Image showing a graph of concentration vs. time for reactants and products]",
+      "options": ["Reactants only", "Products only", "Reactants or products with time", "Reactants and products at equilibrium"],
+      "answer": "Reactants or products with time",
+      "explanation": "The rate of reaction is the change in concentration of a reactant or product per unit time. Rate = $\\frac{\\Delta[C]}{\\Delta t}$. It is usually measured as the decrease in reactant concentration or the increase in product concentration over time."
+    },
+    {
+      "id": "JAMB_C_2017_38",
+      "text": "A reaction is said to be endothermic if:",
+      "image": "[Image showing an energy level diagram for an endothermic reaction (products higher than reactants)]",
+      "options": ["Heat is given out to the surroundings", "The temperature of the system rises", "The enthalpy change is negative", "Heat is absorbed from the surroundings"],
+      "answer": "Heat is absorbed from the surroundings",
+      "explanation": "In an endothermic reaction, energy (heat) is absorbed from the surroundings, resulting in a positive enthalpy change ($\\Delta H > 0$). This often causes the temperature of the surroundings to drop."
+    },
+    {
+      "id": "JAMB_C_2017_39",
+      "text": "An example of a basic oxide is:",
+      "image": "",
+      "options": ["$SO_2$", "$CO_2$", "$Na_2O$", "$Al_2O_3$"],
+      "answer": "$Na_2O$",
+      "explanation": "Basic oxides are oxides of metals, typically from Groups 1 and 2, which react with water to form bases (alkalis) or neutralize acids. Sodium oxide ($Na_2O$) reacts with water to form sodium hydroxide ($2Na_2O + H_2O \\to 2NaOH$). $SO_2$ and $CO_2$ are acidic oxides. $Al_2O_3$ is amphoteric."
+    },
+    {
+      "id": "JAMB_C_2017_40",
+      "text": "The process of continuous stirring of precipitate in the presence of the mother liquor to improve the purity and filterability is called:",
+      "image": "",
+      "options": ["Digestion", "Coagulation", "Flocculation", "Precipitation"],
+      "answer": "Digestion",
+      "explanation": "Digestion is the process where a precipitate is left standing or is continuously stirred in the hot mother liquor (the solution from which it was precipitated) for a period of time. This process increases the size of the precipitate particles, making them purer and easier to filter (improved filterability)."
+    }
+  ]

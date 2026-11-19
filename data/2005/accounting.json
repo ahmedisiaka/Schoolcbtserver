@@ -1,0 +1,522 @@
+[
+    {
+      "id": "ACCO_2023_321",
+      "text": "The ethical principle requiring accountants to avoid conflicts of interest or undue influence is:",
+      "image": "ACCO_2023_321.png",
+      "options": [
+        "Confidentiality",
+        "Professional Competence",
+        "Objectivity",
+        "Integrity"
+      ],
+      "answer": "Objectivity",
+      "explanation": "Objectivity means not allowing bias, conflict of interest, or the undue influence of others to override professional or business judgments."
+    },
+    {
+      "id": "ACCO_2023_322",
+      "text": "In a limited company, the journal entry to recognize the declaration of a dividend is to debit the:",
+      "image": "ACCO_2023_322.png",
+      "options": [
+        "Cash Account and Credit Dividend Payable",
+        "Retained Earnings and Credit Dividend Payable",
+        "Dividend Payable and Credit Cash Account",
+        "Share Capital and Credit Retained Earnings"
+      ],
+      "answer": "Retained Earnings and Credit Dividend Payable",
+      "explanation": "Declaration of a dividend reduces Retained Earnings (Equity) and creates a Current Liability (Dividends Payable). Payment later debits Dividend Payable and credits Cash/Bank."
+    },
+    {
+      "id": "ACCO_2023_323",
+      "text": "The difference between the total of the Purchases Ledger balances and the balance of the Purchases Ledger Control Account indicates a possible error in the:",
+      "image": "ACCO_2023_323.png",
+      "options": [
+        "General Ledger",
+        "Purchases Journal",
+        "Purchases Ledger (Individual Creditors' Accounts)",
+        "Cash Book"
+      ],
+      "answer": "Purchases Ledger (Individual Creditors' Accounts)",
+      "explanation": "The control account is used as an internal check; disagreement suggests errors in the individual personal accounts maintained in the subsidiary ledger."
+    },
+    {
+      "id": "ACCO_2023_324",
+      "text": "The main focus of the capital maintenance concept is to ensure that:",
+      "image": "ACCO_2023_324.png",
+      "options": [
+        "All capital expenditures are depreciated",
+        "Profits are distributed equally among partners",
+        "The firm's capital base is preserved before calculating profit available for distribution",
+        "Assets are valued at market price"
+      ],
+      "answer": "The firm's capital base is preserved before calculating profit available for distribution",
+      "explanation": "The capital maintenance concept ensures that an entity's profit is only recognized if the net assets at the end of the period exceed the net assets at the beginning, after adjusting for owner contributions and drawings."
+    },
+    {
+      "id": "ACCO_2023_325",
+      "text": "The term for expenses paid by the Consignee that are incurred after the goods have reached the Consignee's warehouse (e.g., storage, selling expenses) is:",
+      "image": "ACCO_2023_325.png",
+      "options": [
+        "Non-recurring expenses",
+        "Capital expenditures",
+        "Recurring expenses (or selling expenses)",
+        "Direct expenses"
+      ],
+      "answer": "Recurring expenses (or selling expenses)",
+      "explanation": "Recurring expenses occur regularly and are generally not added to the cost of unsold stock, unlike non-recurring expenses (e.g., carriage, insurance in transit)."
+    },
+    {
+      "id": "ACCO_2023_326",
+      "text": "The ratio that measures the percentage of profit generated from every unit of sales revenue is the:",
+      "image": "ACCO_2023_326.png",
+      "options": [
+        "Asset Turnover Ratio",
+        "Profit Margin Ratio",
+        "Quick Ratio",
+        "Current Ratio"
+      ],
+      "answer": "Profit Margin Ratio",
+      "explanation": "Profit margin ratios (Gross or Net) relate profit to sales, indicating how much profit is realized per Naira of sales."
+    },
+    {
+      "id": "ACCO_2023_327",
+      "text": "The accounting standard that provides guidelines for the recognition and measurement of intangible assets (like goodwill or patents) is:",
+      "image": "ACCO_2023_327.png",
+      "options": [
+        "IAS 2 (Inventory)",
+        "IAS 38 (Intangible Assets)",
+        "IAS 16 (PPE)",
+        "IFRS 15 (Revenue)"
+      ],
+      "answer": "IAS 38 (Intangible Assets)",
+      "explanation": "IAS 38 sets out the criteria for recognizing, measuring, and disclosing intangible assets that are non-monetary assets without physical substance."
+    },
+    {
+      "id": "ACCO_2023_328",
+      "text": "In partnership dissolution, the journal entry to close the Partner's Loan Account (if the firm is liquid) is to debit the:",
+      "image": "ACCO_2023_328.png",
+      "options": [
+        "Partner's Loan Account and Credit Bank Account",
+        "Partner's Capital Account and Credit Partner's Loan Account",
+        "Realization Account and Credit Partner's Loan Account",
+        "Bank Account and Credit Partner's Loan Account"
+      ],
+      "answer": "Partner's Loan Account and Credit Bank Account",
+      "explanation": "The Partner's Loan is a liability paid off before capital. Payment involves: Debit Partner's Loan Account (reduction in liability) and Credit Bank Account (reduction in asset)."
+    },
+    {
+      "id": "ACCO_2023_329",
+      "text": "The primary objective of preparing a Statement of Cash Flows is to show the movement in:",
+      "image": "ACCO_2023_329.png",
+      "options": [
+        "Net Profit",
+        "Retained Earnings",
+        "Cash and Cash Equivalents",
+        "Working Capital"
+      ],
+      "answer": "Cash and Cash Equivalents",
+      "explanation": "The Statement of Cash Flows reports the cash inflows and outflows from operating, investing, and financing activities over a period, reconciling the opening and closing cash balance."
+    },
+    {
+      "id": "ACCO_2023_330",
+      "text": "The term for the minimum number of shares that must be subscribed by the public before a company can proceed to allot shares is the:",
+      "image": "ACCO_2023_330.png",
+      "options": [
+        "Authorized Capital",
+        "Called-up Capital",
+        "Minimum Subscription",
+        "Reserve Capital"
+      ],
+      "answer": "Minimum Subscription",
+      "explanation": "This is a statutory requirement for public companies to ensure sufficient funds are raised before commencing business operations."
+    },
+    {
+      "id": "ACCO_2023_331",
+      "text": "Which method of inventory valuation is generally prohibited under IFRS due to its potential distortion of profit?",
+      "image": "ACCO_2023_331.png",
+      "options": [
+        "FIFO (First-in, First-out)",
+        "LIFO (Last-in, First-out)",
+        "Weighted Average Cost",
+        "Specific Identification"
+      ],
+      "answer": "LIFO (Last-in, First-out)",
+      "explanation": "LIFO is generally disallowed under IFRS (and US GAAP, with exceptions) because it often leads to matching older, lower costs with current revenues during periods of rising prices, potentially understating inventory values."
+    },
+    {
+      "id": "ACCO_2023_332",
+      "text": "The cost of goods lost due to unavoidable causes inherent in the nature of the goods (e.g., slight leakage or evaporation) is referred to as:",
+      "image": "ACCO_2023_332.png",
+      "options": [
+        "Abnormal loss",
+        "Extraordinary loss",
+        "Normal loss",
+        "Sunk cost"
+      ],
+      "answer": "Normal loss",
+      "explanation": "Normal loss is treated as part of the cost of the good units produced or sold, often by increasing the cost per unit of the good inventory."
+    },
+    {
+      "id": "ACCO_2023_333",
+      "text": "The ratio (Earning Before Interest and Tax / Total Assets) calculates the:",
+      "image": "ACCO_2023_333.png",
+      "options": [
+        "Return on Equity",
+        "Asset Turnover Ratio",
+        "Return on Total Assets (ROA)",
+        "Gross Profit Margin"
+      ],
+      "answer": "Return on Total Assets (ROA)",
+      "explanation": "ROA measures the efficiency of assets in generating profit regardless of how those assets were financed (i.e., before deducting interest and tax)."
+    },
+    {
+      "id": "ACCO_2023_334",
+      "text": "The document used to authorize a transfer of goods from the store to the factory floor is the:",
+      "image": "ACCO_2023_334.png",
+      "options": [
+        "Purchase Order",
+        "Material Requisition Note",
+        "Delivery Note",
+        "Goods Received Note"
+      ],
+      "answer": "Material Requisition Note",
+      "explanation": "The Material Requisition Note is a request issued by the production department to the store to release specific raw materials for a job or process."
+    },
+    {
+      "id": "ACCO_2023_335",
+      "text": "The method of calculating depreciation that is compliant with the Matching Concept by spreading the cost evenly over the asset's useful life is the:",
+      "image": "ACCO_2023_335.png",
+      "options": [
+        "Reducing Balance Method",
+        "Units of Production Method",
+        "Straight-Line Method",
+        "Revaluation Method"
+      ],
+      "answer": "Straight-Line Method",
+      "explanation": "The Straight-Line Method assumes a constant benefit from the asset over its life, leading to a constant annual charge and the most uniform matching of cost to revenue."
+    },
+    {
+      "id": "ACCO_2023_336",
+      "text": "The term for liabilities that may or may not be recognized depending on the outcome of a future event is:",
+      "image": "ACCO_2023_336.png",
+      "options": [
+        "Current Liabilities",
+        "Non-Current Liabilities",
+        "Provisions",
+        "Contingent Liabilities"
+      ],
+      "answer": "Contingent Liabilities",
+      "explanation": "Contingent liabilities are obligations whose existence is uncertain and depend on the occurrence or non-occurrence of one or more future events."
+    },
+    {
+      "id": "ACCO_2023_337",
+      "text": "In Cost Accounting, the sum of direct labor and factory overhead is known as the:",
+      "image": "ACCO_2023_337.png",
+      "options": [
+        "Prime Cost",
+        "Conversion Cost",
+        "Works Cost",
+        "Total Cost"
+      ],
+      "answer": "Conversion Cost",
+      "explanation": "Conversion costs are the costs of converting raw materials into finished goods: Direct Labor + Factory Overheads."
+    },
+    {
+      "id": "ACCO_2023_338",
+      "text": "Which ratio measures the number of times a company’s inventory is sold and replaced during a period?",
+      "image": "ACCO_2023_338.png",
+      "options": [
+        "Debtors Turnover Ratio",
+        "Inventory Turnover Ratio",
+        "Asset Turnover Ratio",
+        "Creditors Turnover Ratio"
+      ],
+      "answer": "Inventory Turnover Ratio",
+      "explanation": "Inventory Turnover Ratio (Cost of Goods Sold / Average Inventory) is an efficiency metric indicating how well inventory is managed."
+    },
+    {
+      "id": "ACCO_2023_339",
+      "text": "The accounting concept that states that money is the only common yardstick for recording transactions is the:",
+      "image": "ACCO_2023_339.png",
+      "options": [
+        "Historical Cost concept",
+        "Money Measurement concept",
+        "Dual Aspect concept",
+        "Business Entity concept"
+      ],
+      "answer": "Money Measurement concept",
+      "explanation": "This concept underlies the ability of accounting to aggregate diverse economic events using a common unit of measure."
+    },
+    {
+      "id": "ACCO_2023_340",
+      "text": "An error of commission where a correct amount is posted to the wrong side of the ledger is an error of:",
+      "image": "ACCO_2023_340.png",
+      "options": [
+        "Principle",
+        "Transposition",
+        "Posting to the wrong side",
+        "Compensating"
+      ],
+      "answer": "Posting to the wrong side",
+      "explanation": "Posting to the wrong side is a single-sided error that causes the Trial Balance to disagree by twice the amount of the error."
+    },
+    {
+      "id": "ACCO_2023_341",
+      "text": "The formula (Total Assets - Intangible Assets - Total Liabilities) calculates the:",
+      "image": "ACCO_2023_341.png",
+      "options": [
+        "Working Capital",
+        "Tangible Net Worth",
+        "Capital Employed",
+        "Net Book Value"
+      ],
+      "answer": "Tangible Net Worth",
+      "explanation": "Tangible Net Worth represents the owners' equity (net worth) backed only by tangible assets, excluding potentially volatile intangible assets."
+    },
+    {
+      "id": "ACCO_2023_342",
+      "text": "In a partnership, the profit/loss on revaluation of assets upon retirement of a partner is shared among the:",
+      "image": "ACCO_2023_342.png",
+      "options": [
+        "Remaining partners only",
+        "All partners (including the retiring one) in the old profit sharing ratio",
+        "Remaining partners in the gaining ratio",
+        "All partners in the new profit sharing ratio"
+      ],
+      "answer": "All partners (including the retiring one) in the old profit sharing ratio",
+      "explanation": "Revaluation relates to the period before retirement, so the retiring partner is entitled to their share of the profit/loss based on the ratio before retirement."
+    },
+    {
+      "id": "ACCO_2023_343",
+      "text": "The main ethical threat arising when an accountant has close family relationships with the client's management is the:",
+      "image": "ACCO_2023_343.png",
+      "options": [
+        "Self-interest threat",
+        "Advocacy threat",
+        "Familiarity threat",
+        "Intimidation threat"
+      ],
+      "answer": "Familiarity threat",
+      "explanation": "The Familiarity threat arises when an accountant becomes too sympathetic to a client's interests due to a long or close relationship."
+    },
+    {
+      "id": "ACCO_2023_344",
+      "text": "The legal document that contains the regulations for a company's internal operations, such as calling meetings and powers of directors, is the:",
+      "image": "ACCO_2023_344.png",
+      "options": [
+        "Prospectus",
+        "Memorandum of Association",
+        "Certificate of Incorporation",
+        "Articles of Association"
+      ],
+      "answer": "Articles of Association",
+      "explanation": "The Articles of Association governs the internal organization and management of a company."
+    },
+    {
+      "id": "ACCO_2023_345",
+      "text": "The term for the money spent on advertising a new product to create market awareness (which yields benefit over several years) is:",
+      "image": "ACCO_2023_345.png",
+      "options": [
+        "Revenue Expenditure",
+        "Deferred Revenue Expenditure",
+        "Capital Expenditure",
+        "Prime Cost"
+      ],
+      "answer": "Deferred Revenue Expenditure",
+      "explanation": "This is a large revenue expense written off over several years because the benefit extends beyond the current period. It's an example of an intangible asset that might not meet IAS 38 recognition criteria, but the concept remains relevant."
+    },
+    {
+      "id": "ACCO_2023_346",
+      "text": "The ratio (Operating Profit / Capital Employed) $\\times$ 100 calculates the:",
+      "image": "ACCO_2023_346.png",
+      "options": [
+        "Net Profit Margin",
+        "Return on Capital Employed (ROCE)",
+        "Gross Profit Margin",
+        "Asset Turnover"
+      ],
+      "answer": "Return on Capital Employed (ROCE)",
+      "explanation": "ROCE uses Operating Profit (EBIT) to measure the efficiency of all capital invested in the business, irrespective of financing structure."
+    },
+    {
+      "id": "ACCO_2023_347",
+      "text": "The accounting concept that requires the financial statements to be based on facts and supported by verifiable evidence is the:",
+      "image": "ACCO_2023_347.png",
+      "options": [
+        "Consistency concept",
+        "Objectivity principle",
+        "Materiality concept",
+        "Prudence concept"
+      ],
+      "answer": "Objectivity principle",
+      "explanation": "The Objectivity Principle requires that data recorded in the financial statements must be capable of independent verification, reducing bias and improving reliability."
+    },
+    {
+      "id": "ACCO_2023_348",
+      "text": "The total amount of credit sales is ultimately transferred from the Sales Journal to the:",
+      "image": "ACCO_2023_348.png",
+      "options": [
+        "Debit side of the Sales Account",
+        "Credit side of the Debtors Control Account",
+        "Credit side of the Sales Account",
+        "Debit side of the Debtors Control Account"
+      ],
+      "answer": "Credit side of the Sales Account",
+      "explanation": "The total of the Sales Journal increases revenue, requiring a credit entry in the Sales Account in the General Ledger."
+    },
+    {
+      "id": "ACCO_2023_349",
+      "text": "In a non-profit organization, subscriptions received that relate to the following year are classified as:",
+      "image": "ACCO_2023_349.png",
+      "options": [
+        "Revenue",
+        "Accrued Income",
+        "Current Asset",
+        "Current Liability (Income Received in Advance)"
+      ],
+      "answer": "Current Liability (Income Received in Advance)",
+      "explanation": "This is unearned revenue, representing a liability to provide membership services in the future or a future obligation to refund the money."
+    },
+    {
+      "id": "ACCO_2023_350",
+      "text": "An error where a transaction is completely missed when calculating the total of a journal or ledger account is a(n):",
+      "image": "ACCO_2023_350.png",
+      "options": [
+        "Error of Commission",
+        "Casting Error",
+        "Error of Principle",
+        "Compensating Error"
+      ],
+      "answer": "Casting Error",
+      "explanation": "A casting error refers to a mistake in summation or calculation (footing) of the debit or credit sides of an account or journal."
+    },
+    {
+      "id": "ACCO_2023_351",
+      "text": "The ratio that indicates the percentage of sales revenue remaining after deducting all operating costs (but before interest and tax) is the:",
+      "image": "ACCO_2023_351.png",
+      "options": [
+        "Gross Profit Margin",
+        "Net Profit Margin",
+        "Operating Profit Margin",
+        "Return on Equity"
+      ],
+      "answer": "Operating Profit Margin",
+      "explanation": "Operating Profit Margin (Operating Profit / Sales) measures the return from the core business operations."
+    },
+    {
+      "id": "ACCO_2023_352",
+      "text": "The main component of an independent branch's final account that is used to reconcile with the Head Office books is the:",
+      "image": "ACCO_2023_352.png",
+      "options": [
+        "Branch Profit and Loss Account",
+        "Head Office Account (in Branch Books)",
+        "Branch Debtors Account",
+        "Head Office Trading Account"
+      ],
+      "answer": "Head Office Account (in Branch Books)",
+      "explanation": "The Head Office Account (in the Branch's ledger) acts as a control account representing the Head Office. Its balance must reconcile with the Branch Account in the Head Office's ledger."
+    },
+    {
+      "id": "ACCO_2023_353",
+      "text": "The cost of goods lost in transit on consignment, where the loss is considered abnormal (e.g., due to a major accident), is treated as:",
+      "image": "ACCO_2023_353.png",
+      "options": [
+        "Normal loss (borne by remaining units)",
+        "Expense to be charged to the Consignee",
+        "Charge to the General Profit and Loss Account",
+        "Revenue from sales"
+      ],
+      "answer": "Charge to the General Profit and Loss Account",
+      "explanation": "Abnormal loss is charged to the P&L Account as it is non-recurring and should not distort the true cost of goods sold."
+    },
+    {
+      "id": "ACCO_2023_354",
+      "text": "In partnership admission, the sacrifice made by old partners to the new partner is compensated by the new partner's payment for:",
+      "image": "ACCO_2023_354.png",
+      "options": [
+        "Capital",
+        "Loan",
+        "Goodwill (Premium)",
+        "Revaluation loss"
+      ],
+      "answer": "Goodwill (Premium)",
+      "explanation": "The premium for goodwill is the payment for the right to share in future profits, compensating the old partners for their sacrifice of profit share."
+    },
+    {
+      "id": "ACCO_2023_355",
+      "text": "The formula (Total Liabilities / Total Assets) calculates the:",
+      "image": "ACCO_2023_355.png",
+      "options": [
+        "Debt-to-Equity Ratio",
+        "Current Ratio",
+        "Debt-to-Assets Ratio",
+        "Times Interest Earned"
+      ],
+      "answer": "Debt-to-Assets Ratio",
+      "explanation": "This ratio indicates the percentage of a company's assets that are financed by debt, revealing the extent of financial leverage."
+    },
+    {
+      "id": "ACCO_2023_356",
+      "text": "The term for a cost that is partly fixed and partly variable (e.g., telephone bills with a fixed line rental and variable usage) is:",
+      "image": "ACCO_2023_356.png",
+      "options": [
+        "Prime Cost",
+        "Sunk Cost",
+        "Fixed Cost",
+        "Semi-Variable Cost (or Mixed Cost)"
+      ],
+      "answer": "Semi-Variable Cost (or Mixed Cost)",
+      "explanation": "Semi-variable costs need to be analyzed and separated into their fixed and variable components for proper decision-making and marginal costing."
+    },
+    {
+      "id": "ACCO_2023_357",
+      "text": "The accounting standard that establishes principles for recognizing, measuring, and presenting cash flows is:",
+      "image": "ACCO_2023_357.png",
+      "options": [
+        "IAS 1 (Presentation)",
+        "IAS 7 (Statement of Cash Flows)",
+        "IFRS 15 (Revenue)",
+        "IAS 36 (Impairment)"
+      ],
+      "answer": "IAS 7 (Statement of Cash Flows)",
+      "explanation": "IAS 7 requires the presentation of a cash flow statement that classifies cash flows into operating, investing, and financing activities."
+    },
+    {
+      "id": "ACCO_2023_358",
+      "text": "The error where the correct accounts are used but the entry is posted with the wrong amount on both sides (e.g., N100 debited/credited instead of N1,000) is an error of:",
+      "image": "ACCO_2023_358.png",
+      "options": [
+        "Omission",
+        "Principle",
+        "Original Entry",
+        "Commission"
+      ],
+      "answer": "Original Entry",
+      "explanation": "An error of original entry occurs when the amount recorded in the book of original entry is incorrect, but the ledger posting is then carried out correctly based on that incorrect figure."
+    },
+    {
+      "id": "ACCO_2023_359",
+      "text": "The accounting standard that provides a framework for selecting and applying accounting policies is:",
+      "image": "ACCO_2023_359.png",
+      "options": [
+        "IFRS 13 (Fair Value)",
+        "IAS 8 (Accounting Policies, Changes in Estimates and Errors)",
+        "IAS 10 (Events after Reporting Period)",
+        "IAS 33 (EPS)"
+      ],
+      "answer": "IAS 8 (Accounting Policies, Changes in Estimates and Errors)",
+      "explanation": "IAS 8 prescribes the criteria for selecting, applying, and changing accounting policies, as well as the accounting treatment for changes in estimates and the correction of errors."
+    },
+    {
+      "id": "ACCO_2023_360",
+      "text": "In partnership dissolution, the journal entry to close the Partner's Loan Account by transferring the balance to the Partner's Capital Account occurs only when the firm is:",
+      "image": "ACCO_2023_360.png",
+      "options": [
+        "Highly profitable",
+        "Admitting a new partner",
+        "Insolvent (using the remaining funds)",
+        "Converting to a limited company"
+      ],
+      "answer": "Insolvent (using the remaining funds)",
+      "explanation": "In a solvent dissolution, the loan is paid off in cash. Transfer to the Capital Account (or current account) only happens when cash is insufficient, or when the loan is treated as capital (which is incorrect) or is used to offset a deficiency in the capital account."
+    }
+  ]

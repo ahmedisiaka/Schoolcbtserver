@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E4001",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ initiated its $\\textbf{rate}$-$\\textbf{hike}$ $\\textbf{cycle}$ in $\\textbf{June}$ $\\textbf{2004}$, raising the $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ from **1.0%** to **1.25%**.",
+        "image": "",
+        "options": [
+            "January 2004",
+            "March 2004",
+            "June 2004",
+            "September 2004"
+        ],
+        "answer": "June 2004",
+        "explanation": "This was the first rate hike in four years and marked the end of the post-2001 recession monetary easing."
+    },
+    {
+        "id": "E4002",
+        "text": "The $\\textbf{primary}$ $\\textbf{reason}$ the $\\textbf{Fed}$ began $\\textbf{raising}$ $\\textbf{rates}$ in 2004 was $\\textbf{concerns}$ $\\textbf{that}$ $\\textbf{the}$ $\\textbf{low}$ $\\textbf{rates}$ $\\textbf{would}$ $\\textbf{lead}$ $\\textbf{to}$ $\\textbf{future}$ $\\textbf{inflation}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{strong}$ $\\textbf{GDP}$ $\\textbf{growth}$ $\\textbf{and}$ $\\textbf{job}$ $\\textbf{gains}$.",
+        "image": "",
+        "options": [
+            "To fund the Iraq War",
+            "Concerns about future inflation",
+            "A sharp decline in the U.S. Dollar",
+            "A drop in housing prices"
+        ],
+        "answer": "Concerns about future inflation",
+        "explanation": "With the economy growing robustly (Q3 2003 surge) and the labor market finally firming up, the Fed shifted focus from deflation to controlling inflation."
+    },
+    {
+    "id": "E4003",
+    "text": "The phrase $\\textbf{'measured}$ $\\textbf{pace'}$ was used by the $\\textbf{Fed}$ throughout the $\\textbf{2004}$ $\\textbf{rate}$ $\\textbf{hike}$ $\\textbf{cycle}$ to $\\textbf{signal}$ $\\textbf{that}$ $\\textbf{rates}$ $\\textbf{would}$ $\\textbf{be}$ $\\textbf{raised}$ $\\textbf{slowly}$ $\\textbf{and}$ $\\textbf{predictably}$, $\\textbf{typically}$ $\\textbf{in}$ $\\textbf{25}$ $\\textbf{basis}$-$\\textbf{point}$ $\\textbf{increments}$.",
+    "image": "",
+    "options": [
+        "Rapid acceleration",
+        "Economic stagnation",
+        "Measured pace",
+        "Immediate shock"
+    ],
+    "answer": "Measured pace",
+    "explanation": "This 'forward guidance' ensured that markets were not surprised by the hikes, minimizing volatility and ensuring the economy had time to adjust."
+},
+    {
+        "id": "E4004",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{economy}$ finally $\\textbf{added}$ $\\textbf{jobs}$ $\\textbf{consistently}$ $\\textbf{(over}$ $\\textbf{200,000}$ $\\textbf{per}$ $\\textbf{month)}$ $\\textbf{starting}$ in $\\textbf{early}$ $\\textbf{2004}$, formally $\\textbf{ending}$ the $\\textbf{Jobless}$ $\\textbf{Recovery}$ $\\textbf{period}$.",
+        "image": "",
+        "options": [
+            "1999",
+            "2002",
+            "Early 2004",
+            "Late 2005"
+        ],
+        "answer": "Early 2004",
+        "explanation": "After months of weak or negative payroll numbers, the labor market finally broke out, confirming the return to a traditional expansion phase."
+    },
+    {
+        "id": "E4005",
+        "text": "The $\\textbf{price}$ of $\\textbf{West}$ $\\textbf{Texas}$ $\\textbf{Intermediate}$ $\\textbf{(WTI)}$ $\\textbf{crude}$ $\\textbf{oil}$ $\\textbf{experienced}$ a $\\textbf{sharp}$ $\\textbf{surge}$ $\\textbf{in}$ $\\textbf{2004}$, $\\textbf{breaking}$ the **$\\$$50/barrel** mark for the first time.",
+        "image": "",
+        "options": [
+            "$\\$$10/barrel",
+            "$\\$$20/barrel",
+            "$\\$$50/barrel",
+            "$\\$$100/barrel"
+        ],
+        "answer": "$\\$$50/barrel",
+        "explanation": "Increased global demand, geopolitical tensions, and supply bottlenecks led to a major energy price shock, increasing inflationary pressure."
+    },
+    {
+        "id": "E4006",
+        "text": "The $\\textbf{rise}$ in $\\textbf{oil}$ $\\textbf{prices}$ $\\textbf{in}$ $\\textbf{2004}$ caused $\\textbf{Headline}$ $\\textbf{Inflation}$ $\\textbf{(CPI)}$ to $\\textbf{rise}$ $\\textbf{more}$ $\\textbf{quickly}$ than $\\textbf{Core}$ $\\textbf{Inflation}$ $\\textbf{(excluding}$ $\\textbf{food}$ $\\textbf{and}$ $\\textbf{energy)}$ $\\textbf{as}$ $\\textbf{energy}$ $\\textbf{is}$ $\\textbf{part}$ $\\textbf{of}$ $\\textbf{headline}$ $\\textbf{CPI}$.",
+        "image": "",
+        "options": [
+            "Core Inflation",
+            "PCE Deflator",
+            "Headline Inflation (CPI)",
+            "GDP Deflator"
+        ],
+        "answer": "Headline Inflation (CPI)",
+        "explanation": "Headline CPI includes volatile energy and food prices, making it more sensitive to oil shocks than the Core CPI favored by the Fed."
+    },
+    {
+        "id": "E4007",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Budget}$ $\\textbf{Deficit}$ **reached a record high** in 2004, driven by war spending and tax cuts.",
+        "image": "",
+        "options": [
+            "Reached a record high",
+            "Narrowed into a surplus",
+            "Was completely eliminated",
+            "Remained stable"
+        ],
+        "answer": "Reached a record high",
+        "explanation": "The fiscal situation deteriorated significantly due to the confluence of weak post-recession tax receipts, military spending, and the 2003 tax cuts."
+    },
+    {
+        "id": "E4008",
+        "text": "The $\\textbf{House}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(HPI)}$ accelerated $\\textbf{dramatically}$ in 2004, indicating the $\\textbf{housing}$ $\\textbf{market}$ was $\\textbf{moving}$ $\\textbf{into}$ $\\textbf{an}$ $\\textbf{unsustainable}$ $\\textbf{boom}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{speculation}$ $\\textbf{and}$ $\\textbf{loose}$ $\\textbf{lending}$.",
+        "image": "",
+        "options": [
+            "Fell slightly",
+            "Decelerated",
+            "Accelerated dramatically",
+            "Remained flat"
+        ],
+        "answer": "Accelerated dramatically",
+        "explanation": "Demand, fueled by low rates and loosening underwriting standards, pushed housing price growth into double digits in many areas."
+    },
+    {
+        "id": "E4009",
+        "text": "The $\\textbf{Stock}$ $\\textbf{Market}$ (S&P 500) continued its $\\textbf{recovery}$ in 2004, posting $\\textbf{moderate}$ $\\textbf{gains}$ despite $\\textbf{rising}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{and}$ $\\textbf{high}$ $\\textbf{oil}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Sharp decline",
+            "Moderate gains",
+            "Stagnation",
+            "A record-breaking surge"
+        ],
+        "answer": "Moderate gains",
+        "explanation": "The S&P 500 gained about 9% in 2004, showing resilience due to strong corporate earnings and GDP growth."
+    },
+    {
+        "id": "E4010",
+        "text": "The $\\textbf{weakness}$ of the $\\textbf{U.S.}$ $\\textbf{Dollar}$ $\\textbf{against}$ $\\textbf{major}$ $\\textbf{currencies}$ $\\textbf{continued}$ in 2004, $\\textbf{contributing}$ to the $\\textbf{widening}$ $\\textbf{U.S.}$ $\\textbf{Current}$ $\\textbf{Account}$ $\\textbf{Deficit}$ $\\textbf{that}$ $\\textbf{required}$ $\\textbf{massive}$ $\\textbf{foreign}$ $\\textbf{capital}$ $\\textbf{inflows}$ $\\textbf{to}$ $\\textbf{finance}$.",
+        "image": "",
+        "options": [
+            "Reached an all-time high",
+            "Weakness",
+            "Was pegged to gold",
+            "Was fixed against the Euro"
+        ],
+        "answer": "Weakness",
+        "explanation": "The large budget and current account deficits made the U.S. dollar less attractive to global investors, leading to a multi-year depreciation."
+    },
+    {
+        "id": "E4011",
+        "text": "The $\\textbf{increase}$ in $\\textbf{job}$ $\\textbf{growth}$ in 2004 led to a $\\textbf{decline}$ in the $\\textbf{Unemployment}$ $\\textbf{Rate}$, which fell from **6.0%** at the start of the year to $\\textbf{5.4\\%}$ by the end of the year.",
+        "image": "",
+        "options": [
+            "An increase",
+            "A decline",
+            "Stagnation",
+            "A spike"
+        ],
+        "answer": "A decline",
+        "explanation": "The unemployment rate peaked in mid-2003 and finally began a steady, significant decline throughout 2004."
+    },
+    {
+        "id": "E4012",
+        "text": "The $\\textbf{housing}$ $\\textbf{boom}$ was $\\textbf{increasingly}$ $\\textbf{fueled}$ by $\\textbf{subprime}$ $\\textbf{mortgages}$ $\\textbf{and}$ $\\textbf{Adjustable}$-$\\textbf{Rate}$ $\\textbf{Mortgages}$ $\\textbf{(ARMs)}$ in $\\textbf{2004}$ $\\textbf{as}$ $\\textbf{affordability}$ $\\textbf{declined}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{rising}$ $\\textbf{prices}$.",
+        "image": "",
+        "options": [
+            "Conventional 30-year fixed-rate mortgages",
+            "Zero-interest loans",
+            "Adjustable-Rate Mortgages (ARMs)",
+            "Reverse mortgages"
+        ],
+        "answer": "Adjustable-Rate Mortgages (ARMs)",
+        "explanation": "ARMs offered lower initial 'teaser' rates, allowing buyers to qualify for larger loans and thus keep the boom going despite rising prices."
+    },
+    {
+        "id": "E4013",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Growth}$ $\\textbf{rate}$ in 2004 stabilized to a $\\textbf{strong}$ $\\textbf{annual}$ $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{around}$ **3.8%**, indicating a sustained expansion.",
+        "image": "",
+        "options": [
+            "1.0%",
+            "3.8%",
+            "7.5%",
+            "-0.5%"
+        ],
+        "answer": "3.8%",
+        "explanation": "This was a healthy rate of growth, higher than the long-run potential GDP, demonstrating the effectiveness of the prior monetary and fiscal stimulus."
+    },
+    {
+        "id": "E4014",
+        "text": "$\\textbf{Securitization}$ is the $\\textbf{process}$ of $\\textbf{pooling}$ $\\textbf{financial}$ $\\textbf{assets}$ $\\textbf{(like}$ $\\textbf{mortgages)}$ $\\textbf{and}$ $\\textbf{selling}$ $\\textbf{shares}$ $\\textbf{to}$ $\\textbf{investors}$ $\\textbf{as}$ $\\textbf{bonds}$, $\\textbf{which}$ $\\textbf{accelerated}$ $\\textbf{the}$ $\\textbf{growth}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{bubble}$ $\\textbf{by}$ $\\textbf{transferring}$ $\\textbf{risk}$.",
+        "image": "",
+        "options": [
+            "Hedging",
+            "Arbitrage",
+            "Securitization",
+            "Short selling"
+        ],
+        "answer": "Securitization",
+        "explanation": "The rapid growth of the MBS market in 2004 was due to increased securitization, allowing banks to offload mortgages quickly."
+    },
+    {
+        "id": "E4015",
+        "text": "The $\\textbf{yield}$ $\\textbf{on}$ the $\\textbf{10}$-$\\textbf{year}$ $\\textbf{Treasury}$ $\\textbf{Note}$ **increased** in 2004, primarily $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{rate}$ $\\textbf{hikes}$ $\\textbf{and}$ $\\textbf{optimism}$ $\\textbf{about}$ $\\textbf{economic}$ $\\textbf{growth}$.",
+        "image": "",
+        "options": [
+            "Fell sharply",
+            "Increased",
+            "Remained fixed",
+            "Reached historic lows"
+        ],
+        "answer": "Increased",
+        "explanation": "Bond yields generally move opposite to bond prices. Expectations of higher future short-term rates and stronger growth pushed long-term yields higher."
+    },
+    {
+        "id": "E4016",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(CPI)}$ $\\textbf{rose}$ $\\textbf{significantly}$ in 2004, largely due to the $\\textbf{spike}$ in **oil and gasoline prices**.",
+        "image": "",
+        "options": [
+            "Housing costs only",
+            "Oil and gasoline prices",
+            "Imported electronics",
+            "Government services"
+        ],
+        "answer": "Oil and gasoline prices",
+        "explanation": "Energy was the largest factor causing the Headline CPI to rise faster than the Core CPI."
+    },
+    {
+        "id": "E4017",
+        "text": "$\\textbf{Productivity}$ $\\textbf{growth}$ **remained strong** in 2004, which helped $\\textbf{contain}$ $\\textbf{unit}$ $\\textbf{labor}$ $\\textbf{costs}$ $\\textbf{and}$ $\\textbf{prevented}$ $\\textbf{wage}$-$\\textbf{driven}$ $\\textbf{inflation}$ $\\textbf{from}$ $\\textbf{taking}$ $\\textbf{hold}$ $\\textbf{despite}$ $\\textbf{job}$ $\\textbf{growth}$.",
+        "image": "",
+        "options": [
+            "Weakened significantly",
+            "Remained strong",
+            "Became negative",
+            "Was irrelevant to inflation"
+        ],
+        "answer": "Remained strong",
+        "explanation": "High productivity means firms can afford to pay more or charge less, keeping price pressures in check, even with higher employment."
+    },
+    {
+        "id": "E4018",
+        "text": "The $\\textbf{fiscal}$ $\\textbf{policy}$ environment in 2004 was characterized by **continued deficits** due to $\\textbf{tax}$ $\\textbf{cuts}$ and $\\textbf{war}$ $\\textbf{spending}$.",
+        "image": "",
+        "options": [
+            "Large surpluses",
+            "Balanced budget",
+            "Continued deficits",
+            "Massive debt repayment"
+        ],
+        "answer": "Continued deficits",
+        "explanation": "The expansionary fiscal policy of the early 2000s continued to put strain on the national budget, despite stronger economic growth."
+    },
+    {
+        "id": "E4019",
+        "text": "The $\\textbf{economic}$ $\\textbf{indicator}$ that $\\textbf{measures}$ $\\textbf{the}$ $\\textbf{number}$ $\\textbf{of}$ $\\textbf{workers}$ $\\textbf{filing}$ $\\textbf{for}$ $\\textbf{jobless}$ $\\textbf{benefits}$ for $\\textbf{the}$ $\\textbf{first}$ $\\textbf{time}$ is $\\textbf{Initial}$ $\\textbf{Jobless}$ $\\textbf{Claims}$, $\\textbf{which}$ $\\textbf{fell}$ $\\textbf{steadily}$ $\\textbf{in}$ $\\textbf{2004}$.",
+        "image": "",
+        "options": [
+            "Nonfarm Payrolls",
+            "Initial Jobless Claims",
+            "Unemployment Rate",
+            "Job Openings and Labor Turnover Survey (JOLTS)"
+        ],
+        "answer": "Initial Jobless Claims",
+        "explanation": "The sustained drop in Initial Jobless Claims was a clear sign that the labor market recovery was solid."
+    },
+    {
+        "id": "E4020",
+        "text": "The $\\textbf{Trade}$ $\\textbf{Deficit}$ **widened** to a $\\textbf{new}$ $\\textbf{record}$ in 2004, driven by $\\textbf{strong}$ $\\textbf{domestic}$ $\\textbf{consumer}$ $\\textbf{demand}$ $\\textbf{and}$ $\\textbf{a}$ $\\textbf{weakening}$ $\\textbf{dollar}$.",
+        "image": "",
+        "options": [
+            "Norrowed sharply",
+            "Widened",
+            "Turned into a surplus",
+            "Was balanced"
+        ],
+        "answer": "Widened",
+        "explanation": "As the U.S. economy grew strongly, consumers bought more foreign goods, further expanding the deficit."
+    },
+    {
+        "id": "E4021",
+        "text": "The $\\textbf{housing}$ $\\textbf{boom}$ $\\textbf{was}$ $\\textbf{accompanied}$ by $\\textbf{a}$ $\\textbf{decline}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{Personal}$ $\\textbf{Savings}$ $\\textbf{Rate}$, $\\textbf{as}$ $\\textbf{consumers}$ $\\textbf{substituted}$ $\\textbf{home}$ $\\textbf{equity}$ $\\textbf{extraction}$ $\\textbf{for}$ $\\textbf{traditional}$ $\\textbf{savings}$.",
+        "image": "",
+        "options": [
+            "Increase",
+            "Decline",
+            "Stagnation",
+            "Reversal"
+        ],
+        "answer": "Decline",
+        "explanation": "Homeowners increasingly viewed their rising home equity as a form of savings they could tap into via refinancing."
+    },
+    {
+        "id": "E4022",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ continued $\\textbf{to}$ $\\textbf{raise}$ $\\textbf{rates}$ in $\\textbf{25}$ $\\textbf{basis}$-$\\textbf{point}$ $\\textbf{increments}$ at $\\textbf{every}$ $\\textbf{Federal}$ $\\textbf{Open}$ $\\textbf{Market}$ $\\textbf{Committee}$ $\\textbf{(FOMC)}$ $\\textbf{meeting}$ $\\textbf{from}$ $\\textbf{June}$ $\\textbf{2004}$ $\\textbf{onwards}$.",
+        "image": "",
+        "options": [
+            "50 basis points",
+            "25 basis points",
+            "100 basis points",
+            "5 basis points"
+        ],
+        "answer": "25 basis points",
+        "explanation": "This consistent, predictable approach fulfilled the promise of a 'measured pace' and was maintained through 2005 and 2006."
+    },
+    {
+        "id": "E4023",
+        "text": "The $\\textbf{Term}$ $\\textbf{structure}$ $\\textbf{of}$ $\\textbf{interest}$ $\\textbf{rates}$ (yield curve) $\\textbf{began}$ to $\\textbf{flatten}$ in $\\textbf{2004}$, $\\textbf{as}$ $\\textbf{short}$-$\\textbf{term}$ $\\textbf{rates}$ $\\textbf{rose}$ $\\textbf{faster}$ $\\textbf{than}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Steepened further",
+            "Began to flatten",
+            "Inverted completely",
+            "Reached zero"
+        ],
+        "answer": "Began to flatten",
+        "explanation": "Fed rate hikes directly raised short-term yields, but long-term yields rose less because investors expected future inflation to remain moderate."
+    },
+    {
+        "id": "E4024",
+        "text": "The $\\textbf{rise}$ of $\\textbf{oil}$ $\\textbf{prices}$ $\\textbf{in}$ $\\textbf{2004}$ was $\\textbf{partially}$ $\\textbf{attributable}$ to $\\textbf{rapid}$ $\\textbf{demand}$ $\\textbf{growth}$ $\\textbf{from}$ $\\textbf{China}$ $\\textbf{and}$ $\\textbf{India}$ $\\textbf{as}$ $\\textbf{their}$ $\\textbf{economies}$ $\\textbf{industrialized}$ $\\textbf{at}$ $\\textbf{a}$ $\\textbf{fast}$ $\\textbf{pace}$.",
+        "image": "",
+        "options": [
+            "Japan and Russia",
+            "China and India",
+            "Germany and France",
+            "Brazil and Canada"
+        ],
+        "answer": "China and India",
+        "explanation": "Emerging market demand, especially from these two rapidly industrializing nations, put new, persistent upward pressure on global commodity prices."
+    },
+    {
+        "id": "E4025",
+        "text": "$\\textbf{The}$ $\\textbf{Dilemma}$ $\\textbf{faced}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{Fed}$ in $\\textbf{2004}$ was $\\textbf{balancing}$ $\\textbf{the}$ $\\textbf{risk}$ $\\textbf{of}$ $\\textbf{inflation}$ $\\textbf{against}$ $\\textbf{the}$ $\\textbf{risk}$ $\\textbf{of}$ $\\textbf{choking}$ $\\textbf{off}$ $\\textbf{the}$ $\\textbf{fragile}$ $\\textbf{economic}$ $\\textbf{recovery}$.",
+        "image": "",
+        "options": [
+            "Tax cuts vs. spending cuts",
+            "Inflation risk vs. stalling the recovery",
+            "Trade surplus vs. trade deficit",
+            "Currency appreciation vs. depreciation"
+        ],
+        "answer": "Inflation risk vs. stalling the recovery",
+        "explanation": "The Fed had to raise rates to fight inflation expectations but did not want to raise them so fast that it would trigger another recession."
+    },
+    {
+        "id": "E4026",
+        "text": "The $\\textbf{increase}$ in $\\textbf{money}$ $\\textbf{supply}$ $\\textbf{(M2)}$ **slowed** in 2004 as the $\\textbf{Federal}$ $\\textbf{Reserve}$ began $\\textbf{its}$ $\\textbf{rate}$ $\\textbf{hike}$ $\\textbf{cycle}$, $\\textbf{making}$ $\\textbf{credit}$ $\\textbf{more}$ $\\textbf{expensive}$.",
+        "image": "",
+        "options": [
+            "Accelerated sharply",
+            "Slowed",
+            "Stopped completely",
+            "Turned negative"
+        ],
+        "answer": "Slowed",
+        "explanation": "Tighter monetary policy reduces the rate at which money and credit expand in the economy."
+    },
+    {
+        "id": "E4027",
+        "text": "The $\\textbf{increase}$ in $\\textbf{employment}$ $\\textbf{in}$ $\\textbf{2004}$ was $\\textbf{most}$ $\\textbf{pronounced}$ in $\\textbf{the}$ $\\textbf{service}$ $\\textbf{sector}$ $\\textbf{(including}$ $\\textbf{health}$ $\\textbf{care}$ $\\textbf{and}$ $\\textbf{professional}$ $\\textbf{services)}$ $\\textbf{rather}$ $\\textbf{than}$ $\\textbf{manufacturing}$.",
+        "image": "",
+        "options": [
+            "Manufacturing",
+            "Agriculture",
+            "Service Sector",
+            "Mining"
+        ],
+        "answer": "Service Sector",
+        "explanation": "The U.S. economy continued its structural shift away from manufacturing toward service-based industries."
+    },
+    {
+        "id": "E4028",
+        "text": "The $\\textbf{economic}$ $\\textbf{concept}$ of $\\textbf{Crowding}$ $\\textbf{Out}$ $\\textbf{suggests}$ $\\textbf{that}$ $\\textbf{large}$ $\\textbf{government}$ $\\textbf{deficits}$ $\\textbf{may}$ $\\textbf{lead}$ $\\textbf{to}$ $\\textbf{higher}$ $\\textbf{interest}$ $\\textbf{rates}$ $\\textbf{by}$ $\\textbf{increasing}$ $\\textbf{the}$ $\\textbf{demand}$ $\\textbf{for}$ $\\textbf{loanable}$ $\\textbf{funds}$.",
+        "image": "",
+        "options": [
+            "Crowding In",
+            "Crowding Out",
+            "Fiscal Multiplier",
+            "Say's Law"
+        ],
+        "answer": "Crowding Out",
+        "explanation": "The record deficit in 2004 led to fears that government borrowing would raise the cost of borrowing for the private sector."
+    },
+    {
+        "id": "E4029",
+        "text": "In $\\textbf{2004}$, $\\textbf{consumer}$ $\\textbf{spending}$ **remained robust**, driven by the $\\textbf{wealth}$ $\\textbf{effect}$ $\\textbf{from}$ $\\textbf{rising}$ $\\textbf{housing}$ $\\textbf{prices}$ $\\textbf{and}$ $\\textbf{improving}$ $\\textbf{employment}$ $\\textbf{prospects}$.",
+        "image": "",
+        "options": [
+            "Fell sharply",
+            "Remained robust",
+            "Stagnated",
+            "Turned negative"
+        ],
+        "answer": "Remained robust",
+        "explanation": "Consumption was the primary engine of GDP growth in 2004, offsetting the drag from the trade deficit."
+    },
+    {
+        "id": "E4030",
+        "text": "The $\\textbf{risk}$ $\\textbf{of}$ $\\textbf{systemic}$ $\\textbf{risk}$ in $\\textbf{the}$ $\\textbf{financial}$ $\\textbf{system}$ $\\textbf{increased}$ in $\\textbf{2004}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{rapid}$ $\\textbf{growth}$ $\\textbf{of}$ $\\textbf{complex}$ $\\textbf{derivatives}$ $\\textbf{like}$ $\\textbf{Credit}$ $\\textbf{Default}$ $\\textbf{Swaps}$ $\\textbf{(CDS)}$ $\\textbf{linked}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{housing}$ $\\textbf{market}$.",
+        "image": "",
+        "options": [
+            "Simple bank loans",
+            "Credit Default Swaps (CDS)",
+            "Treasury bonds",
+            "Savings accounts"
+        ],
+        "answer": "Credit Default Swaps (CDS)",
+        "explanation": "These unregulated derivatives, used to insure against bond defaults (including mortgage bonds), grew massively, concentrating risk in the financial system."
+    },
+    {
+        "id": "E4031",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Reserve}$ $\\textbf{uses}$ the $\\textbf{PCE}$ $\\textbf{Price}$ $\\textbf{Index}$ $\\textbf{(Personal}$ $\\textbf{Consumption}$ $\\textbf{Expenditures)}$ $\\textbf{as}$ $\\textbf{its}$ $\\textbf{primary}$ $\\textbf{measure}$ $\\textbf{of}$ $\\textbf{inflation}$ $\\textbf{to}$ $\\textbf{guide}$ $\\textbf{monetary}$ $\\textbf{policy}$.",
+        "image": "",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Producer Price Index (PPI)",
+            "PCE Price Index (Personal Consumption Expenditures)",
+            "GDP Deflator"
+        ],
+        "answer": "PCE Price Index (Personal Consumption Expenditures)",
+        "explanation": "The Fed generally prefers the Core PCE because it better reflects consumer spending shifts and is less volatile than the CPI."
+    },
+    {
+        "id": "E4032",
+        "text": "The $\\textbf{housing}$ $\\textbf{boom}$ of $\\textbf{2004}$ was $\\textbf{characterized}$ by $\\textbf{a}$ $\\textbf{high}$ $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{speculative}$ $\\textbf{purchases}$, $\\textbf{where}$ $\\textbf{investors}$ $\\textbf{bought}$ $\\textbf{homes}$ $\\textbf{with}$ $\\textbf{the}$ $\\textbf{intention}$ $\\textbf{of}$ $\\textbf{flipping}$ $\\textbf{them}$ $\\textbf{quickly}$ $\\textbf{for}$ $\\textbf{a}$ $\\textbf{profit}$.",
+        "image": "",
+        "options": [
+            "First-time buyer stagnation",
+            "High rate of speculative purchases",
+            "High rate of all-cash sales",
+            "Decline in home remodeling"
+        ],
+        "answer": "High rate of speculative purchases",
+        "explanation": "The belief that house prices could only go up fueled speculative demand, exacerbating the bubble."
+    },
+    {
+        "id": "E4033",
+        "text": "$\\textbf{Quantitative}$ $\\textbf{Easing}$ $\\textbf{(QE)}$ is $\\textbf{a}$ $\\textbf{non}$-$\\textbf{traditional}$ $\\textbf{monetary}$ $\\textbf{policy}$ $\\textbf{involving}$ $\\textbf{the}$ $\\textbf{central}$ $\\textbf{bank}$ $\\textbf{buying}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{assets}$ $\\textbf{to}$ $\\textbf{lower}$ $\\textbf{long}$-$\\textbf{term}$ $\\textbf{interest}$ $\\textbf{rates}$, $\\textbf{a}$ $\\textbf{tool}$ $\\textbf{not}$ $\\textbf{used}$ $\\textbf{in}$ $\\textbf{2004}$.",
+        "image": "",
+        "options": [
+            "Open Market Operations",
+            "Setting the Discount Rate",
+            "Quantitative Easing (QE)",
+            "Changing Reserve Requirements"
+        ],
+        "answer": "Quantitative Easing (QE)",
+        "explanation": "QE was a policy adopted later (2008) in response to the ZIRP (Zero Interest Rate Policy) environment; 2004 saw a return to traditional rate hikes."
+    },
+    {
+        "id": "E4034",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Debt}$-$\\textbf{to}$-$\\textbf{GDP}$ $\\textbf{ratio}$ **continued to increase** in 2004 as the $\\textbf{national}$ $\\textbf{debt}$ $\\textbf{grew}$ $\\textbf{faster}$ $\\textbf{than}$ $\\textbf{economic}$ $\\textbf{output}$.",
+        "image": "",
+        "options": [
+            "Fell to a stable level",
+            "Was reduced to zero",
+            "Continued to increase",
+            "Was only financed by foreign countries"
+        ],
+        "answer": "Continued to increase",
+        "explanation": "Persistent and large budget deficits meant the government was borrowing more relative to the size of the overall economy."
+    },
+    {
+        "id": "E4035",
+        "text": "$\\textbf{Disinflation}$ is $\\textbf{a}$ $\\textbf{slowdown}$ $\\textbf{in}$ $\\textbf{the}$ $\\textbf{rate}$ $\\textbf{of}$ $\\textbf{inflation}$, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{the}$ $\\textbf{prevailing}$ $\\textbf{condition}$ $\\textbf{prior}$ $\\textbf{to}$ $\\textbf{2004}$ $\\textbf{but}$ $\\textbf{began}$ $\\textbf{to}$ $\\textbf{reverse}$ $\\textbf{in}$ $\\textbf{2004}$.",
+        "image": "",
+        "options": [
+            "Disinflation",
+            "Deflation",
+            "Stagflation",
+            "Hyperinflation"
+        ],
+        "answer": "Disinflation",
+        "explanation": "From the late 1990s through early 2004, the rate of inflation was slowing. The rise in oil prices in 2004 threatened to end this disinflationary trend."
+    },
+    {
+        "id": "E4036",
+        "text": "The $\\textbf{U.S.}$ $\\textbf{Dollar}$'s $\\textbf{decline}$ in 2004 was $\\textbf{partially}$ $\\textbf{attributed}$ $\\textbf{to}$ the $\\textbf{growing}$ $\\textbf{imbalance}$ $\\textbf{between}$ $\\textbf{U.S.}$ $\\textbf{savings}$ $\\textbf{and}$ $\\textbf{investment}$, $\\textbf{known}$ $\\textbf{as}$ $\\textbf{the}$ $\\textbf{Twin}$ $\\textbf{Deficits}$ $\\textbf{Phenomenon}$.",
+        "image": "",
+        "options": [
+            "Strong U.S. exports",
+            "Growing current account deficit",
+            "Foreign capital flight",
+            "High U.S. interest rates"
+        ],
+        "answer": "Growing current account deficit",
+        "explanation": "The current account deficit (primarily the trade deficit) is intrinsically linked to the imbalance between national savings and investment."
+    },
+    {
+        "id": "E4037",
+        "text": "The $\\textbf{rise}$ $\\textbf{in}$ $\\textbf{housing}$ $\\textbf{prices}$ $\\textbf{in}$ $\\textbf{2004}$ was $\\textbf{not}$ $\\textbf{matched}$ by $\\textbf{a}$ $\\textbf{commensurate}$ $\\textbf{rise}$ $\\textbf{in}$ $\\textbf{rents}$ $\\textbf{or}$ $\\textbf{income}$, $\\textbf{leading}$ $\\textbf{to}$ $\\textbf{concerns}$ $\\textbf{about}$ $\\textbf{market}$ $\\textbf{sustainability}$.",
+        "image": "",
+        "options": [
+            "Rents or income",
+            "Stock prices",
+            "Consumer debt",
+            "Trade deficit"
+        ],
+        "answer": "Rents or income",
+        "explanation": "The disconnection between price appreciation and fundamental value measures (like rental yields or income) is a hallmark of a speculative bubble."
+    },
+    {
+        "id": "E4038",
+        "text": "The $\\textbf{labor}$ $\\textbf{force}$ $\\textbf{participation}$ $\\textbf{rate}$ (the $\\textbf{share}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{population}$ $\\textbf{either}$ $\\textbf{working}$ $\\textbf{or}$ $\\textbf{actively}$ $\\textbf{looking}$ $\\textbf{for}$ $\\textbf{work)}$ **stagnated** in $\\textbf{2004}$ $\\textbf{despite}$ $\\textbf{job}$ $\\textbf{growth}$, $\\textbf{a}$ $\\textbf{structural}$ $\\textbf{trend}$ $\\textbf{that}$ $\\textbf{concerned}$ $\\textbf{economists}$.",
+        "image": "",
+        "options": [
+            "Increased sharply",
+            "Stagnated",
+            "Reached an all-time high",
+            "Fell to zero"
+        ],
+        "answer": "Stagnated",
+        "explanation": "The failure of the participation rate to rise with job creation suggested underlying structural challenges in the labor market."
+    },
+    {
+        "id": "E4039",
+        "text": "The $\\textbf{increase}$ in $\\textbf{corporate}$ $\\textbf{earnings}$ $\\textbf{in}$ $\\textbf{2004}$ $\\textbf{was}$ $\\textbf{largely}$ $\\textbf{driven}$ by $\\textbf{strong}$ $\\textbf{revenue}$ $\\textbf{growth}$ $\\textbf{due}$ $\\textbf{to}$ $\\textbf{a}$ $\\textbf{recovering}$ $\\textbf{economy}$ $\\textbf{and}$ $\\textbf{continued}$ $\\textbf{cost}$ $\\textbf{control}$.",
+        "image": "",
+        "options": [
+            "High borrowing costs",
+            "Strong revenue growth",
+            "Increased taxation",
+            "Low oil prices"
+        ],
+        "answer": "Strong revenue growth",
+        "explanation": "The expansion phase of the business cycle, coupled with past productivity gains, resulted in excellent profit growth for companies."
+    },
+    {
+        "id": "E4040",
+        "text": "The $\\textbf{Monetarist}$ $\\textbf{View}$ $\\textbf{argues}$ $\\textbf{that}$ $\\textbf{inflation}$ $\\textbf{is}$ $\\textbf{always}$ $\\textbf{and}$ $\\textbf{everywhere}$ $\\textbf{a}$ $\\textbf{monetary}$ $\\textbf{phenomenon}$, $\\textbf{and}$ $\\textbf{the}$ $\\textbf{Fed's}$ $\\textbf{rate}$ $\\textbf{hikes}$ $\\textbf{in}$ $\\textbf{2004}$ $\\textbf{were}$ $\\textbf{a}$ $\\textbf{direct}$ $\\textbf{response}$ $\\textbf{to}$ $\\textbf{the}$ $\\textbf{risk}$ $\\textbf{of}$ $\\textbf{excessive}$ $\\textbf{money}$ $\\textbf{supply}$ $\\textbf{from}$ $\\textbf{years}$ $\\textbf{of}$ $\\textbf{low}$ $\\textbf{rates}$.",
+        "image": "",
+        "options": [
+            "Monetarist View",
+            "Keynesian View",
+            "Supply-Side View",
+            "Rational Expectations"
+        ],
+        "answer": "Monetarist View",
+        "explanation": "This view holds that the excessive liquidity created by the Fed's 1.0% rate in 2003 would inevitably lead to inflation unless rates were normalized."
+    }
+]

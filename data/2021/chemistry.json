@@ -1,0 +1,522 @@
+[
+    {
+      "id": "Q1",
+      "topic": "Separation Techniques",
+      "text": "Which of the following techniques is most suitable for separating a mixture of ink dyes?",
+      "options": [
+        "Crystallization",
+        "Distillation",
+        "Chromatography",
+        "Sublimation"
+      ],
+      "answer": "Chromatography",
+      "explanation": "Chromatography is used to separate small amounts of mixtures, such as dyes in ink, based on their different rates of migration across a medium (adsorption)."
+    },
+    {
+      "id": "Q2",
+      "topic": "Atomic Structure",
+      "text": "How many neutrons are present in an atom of the isotope ${}^{238}_{92}\\text{U}$?",
+      "options": [
+        "92",
+        "146",
+        "238",
+        "330"
+      ],
+      "answer": "146",
+      "explanation": "Number of neutrons (N) = Mass number (A) - Atomic number (Z). N = 238 - 92 = 146."
+    },
+    {
+      "id": "Q3",
+      "topic": "Electronic Configuration",
+      "text": "The electronic configuration of an element is $1s^2 2s^2 2p^6 3s^2 3p^3$. To which group in the periodic table does the element belong?",
+      "options": [
+        "Group II",
+        "Group III",
+        "Group V",
+        "Group 15"
+      ],
+      "answer": "Group 15",
+      "explanation": "The element has 5 valence electrons (from $3s^2 3p^3$). Elements with 5 valence electrons belong to Group 15 (or Group V in the old IUPAC notation)."
+    },
+    {
+      "id": "Q4",
+      "topic": "Gas Laws",
+      "text": "A gas occupies a volume of $400 \\text{ cm}^3$ at $27 \\text{ \u00b0C}$ and $760 \\text{ mmHg}$. What is its volume at S.T.P.?",
+      "options": [
+        "$364 \\text{ cm}^3$",
+        "$400 \\text{ cm}^3$",
+        "$440 \\text{ cm}^3$",
+        "$324 \\text{ cm}^3$"
+      ],
+      "answer": "364 cm^3",
+      "explanation": "Use the General Gas Equation: $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$. $T_1 = 27 + 273 = 300 \\text{ K}$. At S.T.P.: $P_2 = 760 \\text{ mmHg}$, $T_2 = 273 \\text{ K}$. $V_2 = \\frac{760 \\times 400 \\times 273}{300 \\times 760} = 364 \\text{ cm}^3$."
+    },
+    {
+      "id": "Q5",
+      "topic": "Chemical Bonding",
+      "text": "Which of the following compounds exhibits both ionic and covalent bonding?",
+      "options": [
+        "$\\text{NaCl}$",
+        "$\\text{CH}_4$",
+        "$\\text{NH}_4\\text{Cl}$",
+        "$\\text{H}_2\\text{O}$"
+      ],
+      "answer": "$\\text{NH}_4\\text{Cl}$",
+      "explanation": "Ammonium chloride ($\\text{NH}_4\\text{Cl}$) has covalent bonds within the ammonium ion ($\\text{NH}_4^+$) and is held to the chloride ion ($\\text{Cl}^-$) by an ionic bond."
+    },
+    {
+      "id": "Q6",
+      "topic": "Stoichiometry",
+      "text": "$4.9 \\text{ g}$ of $\\text{KClO}_3$ were heated to a constant mass. Calculate the percentage mass loss. [$\\text{K}=39, \\text{Cl}=35.5, \\text{O}=16$].",
+      "options": [
+        "$39.2\\%$",
+        "$19.6\\%$",
+        "$24.5\\%$",
+        "$49.0\\%$"
+      ],
+      "answer": "39.2%",
+      "explanation": "The decomposition is $2\\text{KClO}_3 \\to 2\\text{KCl} + 3\\text{O}_2$. Molar mass of $\\text{KClO}_3 = 122.5 \\text{ g/mol}$. Mass of $\\text{O}_2$ lost from $245 \\text{ g}$ of $\\text{KClO}_3$ is $96 \\text{ g}$. Mass of $\\text{O}_2$ lost from $4.9 \\text{ g}$ is $\\frac{96}{245} \\times 4.9 = 1.92 \\text{ g}$. Percentage mass loss = $\\frac{1.92}{4.9} \\times 100 \\approx 39.2\\%$."
+    },
+    {
+      "id": "Q7",
+      "topic": "Acids, Bases, and Salts",
+      "text": "What is the concentration of the $\\text{OH}^-$ ion in a solution with a $\\text{pH}$ of 3?",
+      "options": [
+        "$1.0 \\times 10^{-3} \\text{ mol/dm}^3$",
+        "$1.0 \\times 10^{-7} \\text{ mol/dm}^3$",
+        "$1.0 \\times 10^{-11} \\text{ mol/dm}^3$",
+        "$1.0 \\times 10^{-14} \\text{ mol/dm}^3$"
+      ],
+      "answer": "$1.0 \\times 10^{-11} \\text{ mol/dm}^3$",
+      "explanation": "$\\text{pH} = 3 \\implies [\\text{H}^+] = 10^{-3} \\text{ mol/dm}^3$. In aqueous solution, $[\\text{H}^+][\\text{OH}^-] = K_w = 10^{-14}$. $[\\text{OH}^-] = \\frac{10^{-14}}{10^{-3}} = 10^{-11} \\text{ mol/dm}^3$."
+    },
+    {
+      "id": "Q8",
+      "topic": "Rates of Reaction",
+      "text": "Which of the following changes will increase the rate of the reaction $\\text{A}(\\text{g}) + \\text{B}(\\text{g}) \\to \\text{C}(\\text{g})$?",
+      "options": [
+        "Decreasing the temperature.",
+        "Decreasing the pressure.",
+        "Increasing the surface area of A.",
+        "Adding a suitable catalyst."
+      ],
+      "answer": "Adding a suitable catalyst.",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy, thus increasing the rate of reaction."
+    },
+    {
+      "id": "Q9",
+      "topic": "Redox Reactions",
+      "text": "In the reaction $\\text{MnO}_2 + 4\\text{HCl} \\to \\text{MnCl}_2 + \\text{Cl}_2 + 2\\text{H}_2\\text{O}$, the oxidation state of Manganese changes from:",
+      "options": [
+        "$+2$ to $+4$",
+        "$+4$ to $+2$",
+        "$+4$ to $0$",
+        "$+2$ to $0$"
+      ],
+      "answer": "+4 to +2",
+      "explanation": "In $\\text{MnO}_2$: $\\text{Mn} + 2(-2) = 0 \\implies \\text{Mn} = +4$. In $\\text{MnCl}_2$: $\\text{Mn} + 2(-1) = 0 \\implies \\text{Mn} = +2$. The change is from $+4$ to $+2$."
+    },
+    {
+      "id": "Q10",
+      "topic": "Chemical Equilibrium",
+      "text": "Consider the reaction $\\text{N}_2(\\text{g}) + 3\\text{H}_2(\\text{g}) \\rightleftharpoons 2\\text{NH}_3(\\text{g})$ $\\Delta H = -92 \\text{ kJ/mol}$. Which factor will favor the formation of more $\\text{NH}_3$?",
+      "options": [
+        "Decreasing the pressure.",
+        "Increasing the temperature.",
+        "Adding a catalyst.",
+        "Increasing the pressure."
+      ],
+      "answer": "Increasing the pressure.",
+      "explanation": "The forward reaction reduces the number of moles of gas (4 moles to 2 moles). Increasing the pressure shifts the equilibrium to the side with fewer moles of gas (Le Chatelier's Principle), favoring $\\text{NH}_3$."
+    },
+    {
+      "id": "Q11",
+      "topic": "Electrolysis",
+      "text": "In the electrolysis of a concentrated solution of $\\text{NaCl}$, the product at the anode is:",
+      "options": [
+        "Sodium metal",
+        "Hydrogen gas",
+        "Chlorine gas",
+        "Oxygen gas"
+      ],
+      "answer": "Chlorine gas",
+      "explanation": "At the anode, oxidation occurs. In concentrated $\\text{NaCl}$, chloride ions ($\\text{Cl}^-$) are preferentially oxidized over hydroxide ions ($\\text{OH}^-$) to form chlorine gas ($\\text{Cl}_2$)."
+    },
+    {
+      "id": "Q12",
+      "topic": "Organic Chemistry",
+      "text": "Which of the following is the final product formed when ethene is reacted with steam in the presence of a phosphoric acid catalyst?",
+      "options": [
+        "Ethanol",
+        "Ethanoic acid",
+        "Ethane",
+        "Ethyl ethanoate"
+      ],
+      "answer": "Ethanol",
+      "explanation": "This is the industrial hydration of ethene (an alkene) to produce ethanol (an alkanol): $\\text{C}_2\\text{H}_4 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{C}_2\\text{H}_5\\text{OH}$."
+    },
+    {
+      "id": "Q13",
+      "topic": "Non-Metals",
+      "text": "The major product formed when carbon monoxide is burnt in limited oxygen is:",
+      "options": [
+        "Carbon dioxide",
+        "Carbon (IV) oxide",
+        "Carbon (II) oxide",
+        "Soot"
+      ],
+      "answer": "Carbon dioxide",
+      "explanation": "Carbon monoxide ($\\text{CO}$) is further oxidized to carbon dioxide ($\\text{CO}_2$ or Carbon (IV) oxide) when burnt: $2\\text{CO} + \\text{O}_2 \\to 2\\text{CO}_2$."
+    },
+    {
+      "id": "Q14",
+      "topic": "Water and Solutions",
+      "text": "The difference between a true solution and a colloid is primarily:",
+      "options": [
+        "The concentration of the solute.",
+        "The size of the solute particles.",
+        "The temperature of the mixture.",
+        "The colour of the mixture."
+      ],
+      "answer": "The size of the solute particles.",
+      "explanation": "In a true solution, particle sizes are $< 1 \\text{ nm}$. In a colloid, particle sizes are between $1 \\text{ nm}$ and $1000 \\text{ nm}$."
+    },
+    {
+      "id": "Q15",
+      "topic": "Quantitative Analysis (Titration)",
+      "text": "$25.0 \\text{ cm}^3$ of $0.1 \\text{ mol/dm}^3$ $\\text{H}_2\\text{SO}_4$ required $20.0 \\text{ cm}^3$ of a $\\text{NaOH}$ solution for complete neutralization. What is the concentration of the $\\text{NaOH}$ solution?",
+      "options": [
+        "$0.20 \\text{ mol/dm}^3$",
+        "$0.25 \\text{ mol/dm}^3$",
+        "$0.125 \\text{ mol/dm}^3$",
+        "$0.10 \\text{ mol/dm}^3$"
+      ],
+      "answer": "$0.25 \\text{ mol/dm}^3$",
+      "explanation": "Reaction: $2\\text{NaOH} + \\text{H}_2\\text{SO}_4 \\to \\text{Na}_2\\text{SO}_4 + 2\\text{H}_2\\text{O}$. Molar ratio $n_A:n_B = 1:2$. $C_B = \\frac{C_A V_A n_B}{V_B n_A} = \\frac{0.1 \\times 25.0 \\times 2}{20.0 \\times 1} = 0.25 \\text{ mol/dm}^3$."
+    },
+    {
+      "id": "Q16",
+      "topic": "Kinetic Theory",
+      "text": "The increase in the pressure of a gas in a fixed volume as the temperature is increased is due to:",
+      "options": [
+        "An increase in the number of gas molecules.",
+        "An increase in the density of the gas.",
+        "An increase in the average velocity of the molecules.",
+        "A decrease in the number of collisions."
+      ],
+      "answer": "An increase in the average velocity of the molecules.",
+      "explanation": "Increasing the temperature increases the kinetic energy and thus the average velocity of the gas molecules, leading to more frequent and forceful collisions (increased pressure)."
+    },
+    {
+      "id": "Q17",
+      "topic": "Physical Changes",
+      "text": "Which of the following processes is a physical change?",
+      "options": [
+        "Burning of coal",
+        "Rusting of iron",
+        "Dissolving common salt in water",
+        "Electrolysis of water"
+      ],
+      "answer": "Dissolving common salt in water",
+      "explanation": "Dissolving salt in water is a physical change because the salt and water molecules retain their chemical identity and can be separated (reversible)."
+    },
+    {
+      "id": "Q18",
+      "topic": "Formulae and Equations",
+      "text": "What is the empirical formula of an organic compound containing $40.0\\%$ $\\text{C}$, $6.7\\%$ $\\text{H}$, and $53.3\\%$ $\\text{O}$? [$\\text{C}=12, \\text{H}=1, \\text{O}=16$].",
+      "options": [
+        "$\\text{CH}_2\\text{O}$",
+        "$\\text{C}_2\\text{H}_4\\text{O}_2$",
+        "$\\text{CHO}$",
+        "$\\text{CH}_3\\text{O}$"
+      ],
+      "answer": "$\\text{CH}_2\\text{O}$",
+      "explanation": "Moles ratio: $\\text{C}: \\frac{40.0}{12} \\approx 3.33$; $\\text{H}: \\frac{6.7}{1} = 6.7$; $\\text{O}: \\frac{53.3}{16} \\approx 3.33$. Divide by smallest (3.33): $\\text{C}: 1$; $\\text{H}: 2$; $\\text{O}: 1$. Empirical formula is $\\text{CH}_2\\text{O}$."
+    },
+    {
+      "id": "Q19",
+      "topic": "Water Hardness",
+      "text": "Temporary hardness of water is caused by the presence of dissolved:",
+      "options": [
+        "Chlorides of Calcium and Magnesium",
+        "Sulphates of Calcium and Magnesium",
+        "Trioxocarbonates (IV) of Sodium and Potassium",
+        "Hydrogen trioxocarbonates (IV) of Calcium and Magnesium"
+      ],
+      "answer": "Hydrogen trioxocarbonates (IV) of Calcium and Magnesium",
+      "explanation": "Temporary hardness is caused by dissolved hydrogen trioxocarbonates (bicarbonates) of calcium and magnesium (e.g., $\\text{Ca}(\\text{HCO}_3)_2$). It can be removed by boiling."
+    },
+    {
+      "id": "Q20",
+      "topic": "Group Chemistry (Alkali Metals)",
+      "text": "Which of the following is characteristic of the reaction of an alkali metal with water?",
+      "options": [
+        "The metal sinks and reacts slowly.",
+        "Hydrogen gas is evolved and a basic solution is formed.",
+        "Oxygen gas is evolved and an acidic solution is formed.",
+        "The reaction is endothermic."
+      ],
+      "answer": "Hydrogen gas is evolved and a basic solution is formed.",
+      "explanation": "Alkali metals react vigorously with water, producing hydrogen gas ($\\text{H}_2$) and forming a strongly basic metal hydroxide (e.g., $\\text{NaOH}$). The reaction is exothermic."
+    },
+    {
+      "id": "Q21",
+      "topic": "Organic Reactions",
+      "text": "The process of converting vegetable oil to margarine is called:",
+      "options": [
+        "Saponification",
+        "Esterification",
+        "Hydrogenation",
+        "Polymerization"
+      ],
+      "answer": "Hydrogenation",
+      "explanation": "Hydrogenation is the addition of hydrogen across the double bonds of unsaturated vegetable oils to make them saturated (fats), which is the process of making margarine."
+    },
+    {
+      "id": "Q22",
+      "topic": "Metals and Metallurgy",
+      "text": "Which of the following metals is extracted commercially by the reduction of its oxide with Carbon?",
+      "options": [
+        "Aluminium",
+        "Sodium",
+        "Iron",
+        "Magnesium"
+      ],
+      "answer": "Iron",
+      "explanation": "Iron is extracted in the blast furnace by reducing its oxide ($\\text{Fe}_2\\text{O}_3$) with coke (carbon) or carbon monoxide. $\\text{Al}$, $\\text{Na}$, and $\\text{Mg}$ are more reactive and extracted by electrolysis."
+    },
+    {
+      "id": "Q23",
+      "topic": "Pollution",
+      "text": "The major environmental problem associated with the use of chlorofluorocarbons ($\\text{CFCs}$) is:",
+      "options": [
+        "Acid rain",
+        "Global warming",
+        "Ozone layer depletion",
+        "Water pollution"
+      ],
+      "answer": "Ozone layer depletion",
+      "explanation": "$\\text{CFCs}$ release chlorine atoms in the stratosphere, which catalyze the destruction of the protective ozone layer."
+    },
+    {
+      "id": "Q24",
+      "topic": "Energy Changes",
+      "text": "If the reaction $\\text{A} + \\text{B} \\to \\text{C}$ is exothermic, which of the following statements is true?",
+      "options": [
+        "The enthalpy change ($\\Delta H$) is positive.",
+        "The total energy of the reactants is lower than the total energy of the product.",
+        "The reaction is spontaneous at all temperatures.",
+        "Heat is released to the surroundings."
+      ],
+      "answer": "Heat is released to the surroundings.",
+      "explanation": "An exothermic reaction releases energy (heat) to the surroundings, meaning the enthalpy change ($\\Delta H$) is negative and the energy of the products is lower than the reactants."
+    },
+    {
+      "id": "Q25",
+      "topic": "Periodic Table",
+      "text": "Elements in the same period of the periodic table have the same:",
+      "options": [
+        "Number of valence electrons.",
+        "Atomic size.",
+        "Number of electron shells.",
+        "Chemical properties."
+      ],
+      "answer": "Number of electron shells.",
+      "explanation": "The period number corresponds to the number of principal quantum shells occupied by electrons in an atom of the element."
+    },
+    {
+      "id": "Q26",
+      "topic": "Isomerism",
+      "text": "Which of the following pairs are isomers?",
+      "options": [
+        "Ethanol and Ethanal",
+        "Propanol and Propanone",
+        "Butane and 2-Methylpropane",
+        "Ethanoic acid and Methyl ethanoate"
+      ],
+      "answer": "Butane and 2-Methylpropane",
+      "explanation": "Isomers have the same molecular formula but different structural formulas. Both Butane and 2-Methylpropane have the formula $\\text{C}_4\\text{H}_{10}$."
+    },
+    {
+      "id": "Q27",
+      "topic": "Electrolysis (Faraday's Laws)",
+      "text": "How many Faradays of electricity are required to deposit $1 \\text{ mole}$ of Calcium from a solution of $\\text{CaCl}_2$?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "The reaction is $\\text{Ca}^{2+} + 2\\text{e}^- \\to \\text{Ca}$. Since 2 moles of electrons are required to deposit 1 mole of $\\text{Ca}$, this requires 2 Faradays of electricity."
+    },
+    {
+      "id": "Q28",
+      "topic": "IUPAC Nomenclature",
+      "text": "The correct $\\text{IUPAC}$ name for $\\text{CH}_3\\text{CH}(\\text{OH})\\text{CH}_2\\text{CH}_3$ is:",
+      "options": [
+        "2-Butanol",
+        "1-Butanol",
+        "Butan-2-ol",
+        "2-Hydroxybutane"
+      ],
+      "answer": "Butan-2-ol",
+      "explanation": "The longest carbon chain is 4 (Butane), and the $\\text{OH}$ functional group is on the second carbon. The IUPAC name is Butan-2-ol (or 2-Butanol, which is the accepted common name in older nomenclature)."
+    },
+    {
+      "id": "Q29",
+      "topic": "Colloids",
+      "text": "The $\\text{Tyndall}$ effect is exhibited by:",
+      "options": [
+        "True solutions",
+        "Colloidal solutions",
+        "Suspensions",
+        "All of the above"
+      ],
+      "answer": "Colloidal solutions",
+      "explanation": "The $\\text{Tyndall}$ effect (scattering of light) is characteristic of colloids due to their particle size ($1 \\text{ nm}$ to $1000 \\text{ nm}$). True solutions are too small, and suspensions are often too opaque."
+    },
+    {
+      "id": "Q30",
+      "topic": "Nuclear Chemistry",
+      "text": "The half-life of a radioactive element is 10 days. How long will it take for $\\frac{1}{16}$ of the original mass to remain?",
+      "options": [
+        "20 days",
+        "30 days",
+        "40 days",
+        "50 days"
+      ],
+      "answer": "40 days",
+      "explanation": "The fraction remaining after $n$ half-lives is $(\\frac{1}{2})^n$. Since $\\frac{1}{16} = (\\frac{1}{2})^4$, $n=4$ half-lives. Total time = $4 \\times 10 \\text{ days} = 40 \\text{ days}$."
+    },
+    {
+      "id": "Q31",
+      "topic": "Solubility",
+      "text": "If $30 \\text{ g}$ of $\\text{KNO}_3$ is dissolved in $100 \\text{ g}$ of water at $40 \\text{ \u00b0C}$, and the solubility of $\\text{KNO}_3$ at this temperature is $60 \\text{ g}$ per $100 \\text{ g}$ of water, the resulting solution is:",
+      "options": [
+        "Saturated",
+        "Unsaturated",
+        "Supersaturated",
+        "Concentrated"
+      ],
+      "answer": "Unsaturated",
+      "explanation": "Since the mass dissolved ($30 \\text{ g}$) is less than the maximum mass that can dissolve ($60 \\text{ g}$), the solution is unsaturated."
+    },
+    {
+      "id": "Q32",
+      "topic": "Chemical Laws",
+      "text": "Which law states that when gases react, they do so in volumes which bear a simple ratio to one another, and to the volume of the product if gaseous, provided the temperature and pressure remain constant?",
+      "options": [
+        "Boyle's Law",
+        "Charles' Law",
+        "Gay-Lussac's Law",
+        "Avogadro's Law"
+      ],
+      "answer": "Gay-Lussac's Law",
+      "explanation": "This is the definition of Gay-Lussac's Law of Combining Volumes."
+    },
+    {
+      "id": "Q33",
+      "topic": "Carbon and Its Compounds",
+      "text": "The allotrope of carbon used as a lubricant and in pencil production is:",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Carbon black",
+        "Fullerenes"
+      ],
+      "answer": "Graphite",
+      "explanation": "Graphite's layered structure allows layers to slide easily, making it an excellent solid lubricant and the primary component of pencil lead."
+    },
+    {
+      "id": "Q34",
+      "topic": "Hydrocarbons",
+      "text": "Alkanes are generally unreactive because they:",
+      "options": [
+        "Are gases at room temperature.",
+        "Are insoluble in water.",
+        "Have only sigma bonds and are non-polar.",
+        "Have a tetrahedral shape."
+      ],
+      "answer": "Have only sigma bonds and are non-polar.",
+      "explanation": "Alkanes are saturated with strong, non-polar sigma ($\\sigma$) bonds, making them resistant to attack by most reagents (inert)."
+    },
+    {
+      "id": "Q35",
+      "topic": "Laboratory Preparation",
+      "text": "To prepare a sample of pure $\\text{NaCl}$ from a solution of $\\text{NaCl}$ and sand, the following steps are necessary in the order:",
+      "options": [
+        "Evaporation, Filtration, Crystallization",
+        "Filtration, Evaporation, Crystallization",
+        "Sublimation, Filtration, Evaporation",
+        "Decantation, Distillation, Crystallization"
+      ],
+      "answer": "Filtration, Evaporation, Crystallization",
+      "explanation": "Filtration removes the insoluble sand; Evaporation concentrates the salt solution; Crystallization yields pure salt crystals."
+    },
+    {
+      "id": "Q36",
+      "topic": "Relative Atomic Mass",
+      "text": "An element $\\text{X}$ consists of two isotopes with mass numbers $10$ and $11$. If the relative atomic mass of $\\text{X}$ is $10.8$, the percentage abundance of the heavier isotope is:",
+      "options": [
+        "$20\\%$",
+        "$40\\%$",
+        "$80\\%$",
+        "$90\\%$"
+      ],
+      "answer": "80%",
+      "explanation": "Let $y$ be the percentage of $\\text{X}-11$. $10.8 = \\frac{(10 \\times (100-y)) + (11 \\times y)}{100}$. $1080 = 1000 - 10y + 11y$. $y = 80$. The heavier isotope has $80\\%$ abundance."
+    },
+    {
+      "id": "Q37",
+      "topic": "Acids, Bases, and Salts",
+      "text": "A salt formed from a strong acid and a weak base will produce an aqueous solution that is:",
+      "options": [
+        "Neutral",
+        "Acidic",
+        "Basic",
+        "Amphoteric"
+      ],
+      "answer": "Acidic",
+      "explanation": "The conjugate acid of the weak base hydrolyzes in water, releasing $\\text{H}^+$ ions (e.g., $\\text{NH}_4\\text{Cl}$ is acidic)."
+    },
+    {
+      "id": "Q38",
+      "topic": "Transition Metals",
+      "text": "Transition metals are characterized by their ability to:",
+      "options": [
+        "Form coloured ions",
+        "Form only $+1$ ions",
+        "React violently with water",
+        "Act as strong reducing agents only"
+      ],
+      "answer": "Form coloured ions",
+      "explanation": "Transition metals typically form coloured compounds due to d-d electron transitions."
+    },
+    {
+      "id": "Q39",
+      "topic": "Atomic Structure (Shells)",
+      "text": "The maximum number of electrons in the 'L' shell ($n=2$) is:",
+      "options": [
+        "2",
+        "8",
+        "18",
+        "32"
+      ],
+      "answer": "8",
+      "explanation": "Maximum number of electrons in a shell is given by the formula $2n^2$. For $n=2$ (L shell), $2(2^2) = 8$."
+    },
+    {
+      "id": "Q40",
+      "topic": "Molecular Geometry",
+      "text": "Which of the following molecules has a linear shape?",
+      "options": [
+        "$\\text{CH}_4$",
+        "$\\text{NH}_3$",
+        "$\\text{H}_2\\text{O}$",
+        "$\\text{CO}_2$"
+      ],
+      "answer": "$\\text{CO}_2$",
+      "explanation": "$\\text{CO}_2$ has two electron domains and two bonding pairs around the central carbon atom, resulting in an $\\text{sp}$ hybridization and a linear shape (bond angle $180 \\text{ \u00b0}$). "
+    }
+  ]

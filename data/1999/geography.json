@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G9901",
+        "text": "The earth completes one revolution around the sun in approximately $\\textbf{365 1/4 days}$.",
+        "image": "",
+        "options": [
+            "24 hours",
+            "28 days",
+            "365 1/4 days",
+            "366 days"
+        ],
+        "answer": "365 1/4 days",
+        "explanation": "This period constitutes one solar year."
+    },
+    {
+        "id": "G9902",
+        "text": "Which type of rock is formed by the cooling and solidification of molten magma? $\\textbf{Igneous}$.",
+        "image": "",
+        "options": [
+            "Sedimentary",
+            "Metamorphic",
+            "Igneous",
+            "Stratified"
+        ],
+        "answer": "Igneous",
+        "explanation": "Igneous rocks are often called primary rocks."
+    },
+    {
+        "id": "G9903",
+        "text": "The instrument used to measure atmospheric pressure is the $\\textbf{Barometer}$.",
+        "image": "",
+        "options": [
+            "Thermometer",
+            "Barometer",
+            "Anemometer",
+            "Rain Gauge"
+        ],
+        "answer": "Barometer",
+        "explanation": "Pressure is measured in millibars."
+    },
+    {
+        "id": "G9904",
+        "text": "Lines on a map joining places of equal height above sea level are $\\textbf{Contours}$.",
+        "image": "",
+        "options": [
+            "Isobars",
+            "Isohyets",
+            "Contours",
+            "Isotherms"
+        ],
+        "answer": "Contours",
+        "explanation": "They depict the relief of the land."
+    },
+    {
+        "id": "G9905",
+        "text": "The lower course of a river is characterized by $\\textbf{Deposition}$.",
+        "image": "",
+        "options": [
+            "Vertical Erosion",
+            "Transportation",
+            "Deposition",
+            "Corrasion"
+        ],
+        "answer": "Deposition",
+        "explanation": "The river flows slowly and drops its load, forming features like deltas."
+    },
+    {
+        "id": "G9906",
+        "text": "The movement of people out of a country to settle in another is called $\\textbf{Emigration}$.",
+        "image": "",
+        "options": [
+            "Immigration",
+            "Emigration",
+            "Urbanization",
+            "Resettlement"
+        ],
+        "answer": "Emigration",
+        "explanation": "Emigrants leave their home country."
+    },
+    {
+        "id": "G9907",
+        "text": "Which of the following is a tertiary economic activity? $\\textbf{Teaching}$.",
+        "image": "",
+        "options": [
+            "Farming",
+            "Fishing",
+            "Teaching",
+            "Processing"
+        ],
+        "answer": "Teaching",
+        "explanation": "It involves providing a service rather than producing goods."
+    },
+    {
+        "id": "G9908",
+        "text": "The main crop grown in the Nile Valley of Egypt is $\\textbf{Cotton}$.",
+        "image": "",
+        "options": [
+            "Cocoa",
+            "Coffee",
+            "Cotton",
+            "Rubber"
+        ],
+        "answer": "Cotton",
+        "explanation": "Egyptian cotton is famous for its quality, grown under irrigation."
+    },
+    {
+        "id": "G9909",
+        "text": "A narrow strip of land joining two large landmasses is an $\\textbf{Isthmus}$.",
+        "image": "",
+        "options": [
+            "Strait",
+            "Isthmus",
+            "Peninsula",
+            "Island"
+        ],
+        "answer": "Isthmus",
+        "explanation": "Example: The Isthmus of Suez."
+    },
+    {
+        "id": "G9910",
+        "text": "Which mode of transport is best for heavy, bulky goods over long distances? $\\textbf{Rail}$.",
+        "image": "",
+        "options": [
+            "Road",
+            "Rail",
+            "Air",
+            "Pipeline"
+        ],
+        "answer": "Rail",
+        "explanation": "Rail is efficient for hauling raw materials like coal or ore."
+    },
+    {
+        "id": "G9911",
+        "text": "The layer of the atmosphere closest to the earth is the $\\textbf{Troposphere}$.",
+        "image": "",
+        "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Mesosphere",
+            "Ionosphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "Weather occurs in this layer."
+    },
+    {
+        "id": "G9912",
+        "text": "Limestone is a $\\textbf{Sedimentary}$ rock.",
+        "image": "",
+        "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Volcanic"
+        ],
+        "answer": "Sedimentary",
+        "explanation": "Formed from the remains of marine organisms."
+    },
+    {
+        "id": "G9913",
+        "text": "The wearing away of the land surface by natural agents is $\\textbf{Denudation}$.",
+        "image": "",
+        "options": [
+            "Deposition",
+            "Denudation",
+            "Vulcanicity",
+            "Folding"
+        ],
+        "answer": "Denudation",
+        "explanation": "Includes weathering and erosion."
+    },
+    {
+        "id": "G9914",
+        "text": "A steep slope on a map is indicated by contour lines that are $\\textbf{Close together}$.",
+        "image": "",
+        "options": [
+            "Far apart",
+            "Close together",
+            "Absent",
+            "Crossing each other"
+        ],
+        "answer": "Close together",
+        "explanation": "The closer the lines, the steeper the gradient."
+    },
+    {
+        "id": "G9915",
+        "text": "Which climate type has hot, dry summers and mild, wet winters? $\\textbf{Mediterranean}$.",
+        "image": "",
+        "options": [
+            "Equatorial",
+            "Tropical",
+            "Mediterranean",
+            "Tundra"
+        ],
+        "answer": "Mediterranean",
+        "explanation": "Ideally suited for citrus fruits and tourism."
+    },
+    {
+        "id": "G9916",
+        "text": "The mixture of decayed organic matter in soil is $\\textbf{Humus}$.",
+        "image": "",
+        "options": [
+            "Clay",
+            "Silt",
+            "Sand",
+            "Humus"
+        ],
+        "answer": "Humus",
+        "explanation": "It increases soil fertility."
+    },
+    {
+        "id": "G9917",
+        "text": "The difference between the highest and lowest temperatures in a day is the $\\textbf{Diurnal Range}$.",
+        "image": "",
+        "options": [
+            "Annual Range",
+            "Diurnal Range",
+            "Mean Temperature",
+            "Isotherm"
+        ],
+        "answer": "Diurnal Range",
+        "explanation": "Commonly high in deserts."
+    },
+    {
+        "id": "G9918",
+        "text": "Settlements arranged in a line along a road or river are $\\textbf{Linear}$.",
+        "image": "",
+        "options": [
+            "Nucleated",
+            "Dispersed",
+            "Linear",
+            "Isolated"
+        ],
+        "answer": "Linear",
+        "explanation": "Following a transportation route."
+    },
+    {
+        "id": "G9919",
+        "text": "Which of the following is a non-renewable resource? $\\textbf{Coal}$.",
+        "image": "",
+        "options": [
+            "Solar",
+            "Wind",
+            "Coal",
+            "Water"
+        ],
+        "answer": "Coal",
+        "explanation": "It takes millions of years to form."
+    },
+    {
+        "id": "G9920",
+        "text": "The breakdown of rocks in situ is called $\\textbf{Weathering}$.",
+        "image": "",
+        "options": [
+            "Erosion",
+            "Weathering",
+            "Transportation",
+            "Mass Wasting"
+        ],
+        "answer": "Weathering",
+        "explanation": "No movement of material occurs in weathering."
+    },
+    {
+        "id": "G9921",
+        "text": "The busiest ocean trade route is the $\\textbf{North Atlantic}$.",
+        "image": "",
+        "options": [
+            "South Atlantic",
+            "North Atlantic",
+            "Indian Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "North Atlantic",
+        "explanation": "Connecting Europe and North America."
+    },
+    {
+        "id": "G9922",
+        "text": "An area of land drained by a river system is a $\\textbf{Basin}$.",
+        "image": "",
+        "options": [
+            "Delta",
+            "Basin",
+            "Confluence",
+            "Source"
+        ],
+        "answer": "Basin",
+        "explanation": "Also called a catchment area."
+    },
+    {
+        "id": "G9923",
+        "text": "Which planet is closest to the sun? $\\textbf{Mercury}$.",
+        "image": "",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": "Mercury",
+        "explanation": "The first planet in the solar system."
+    },
+    {
+        "id": "G9924",
+        "text": "The conversion of wood into charcoal is a form of $\\textbf{Secondary}$ production.",
+        "image": "",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Secondary",
+        "explanation": "Processing raw material into a finished product."
+    },
+    {
+        "id": "G9925",
+        "text": "A wind measuring instrument is the $\\textbf{Anemometer}$.",
+        "image": "",
+        "options": [
+            "Wind Vane",
+            "Anemometer",
+            "Barometer",
+            "Rain Gauge"
+        ],
+        "answer": "Anemometer",
+        "explanation": "Measures wind speed."
+    },
+    {
+        "id": "G9926",
+        "text": "The rigid outer part of the earth consisting of the crust and upper mantle is the $\\textbf{Lithosphere}$.",
+        "image": "",
+        "options": [
+            "Asthenosphere",
+            "Lithosphere",
+            "Hydrosphere",
+            "Atmosphere"
+        ],
+        "answer": "Lithosphere",
+        "explanation": "It is broken into tectonic plates."
+    },
+    {
+        "id": "G9927",
+        "text": "The process where water vapor changes to liquid is $\\textbf{Condensation}$.",
+        "image": "",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Precipitation",
+            "Transpiration"
+        ],
+        "answer": "Condensation",
+        "explanation": "Forms clouds."
+    },
+    {
+        "id": "G9928",
+        "text": "Which soil type allows water to pass through most quickly? $\\textbf{Sand}$.",
+        "image": "",
+        "options": [
+            "Clay",
+            "Loam",
+            "Sand",
+            "Silt"
+        ],
+        "answer": "Sand",
+        "explanation": "It has large pores and low water retention."
+    },
+    {
+        "id": "G9929",
+        "text": "The intersection of the Prime Meridian and the Equator is found in the $\\textbf{Atlantic Ocean}$.",
+        "image": "",
+        "options": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Mediterranean Sea"
+        ],
+        "answer": "Atlantic Ocean",
+        "explanation": "Specifically in the Gulf of Guinea."
+    },
+    {
+        "id": "G9930",
+        "text": "A steep-sided inlet formed by the drowning of a glaciated valley is a $\\textbf{Fjord}$.",
+        "image": "",
+        "options": [
+            "Ria",
+            "Fjord",
+            "Estuary",
+            "Delta"
+        ],
+        "answer": "Fjord",
+        "explanation": "Common in Norway."
+    },
+    {
+        "id": "G9931",
+        "text": "The main factor influencing the location of a brick-making industry is $\\textbf{Raw Materials}$.",
+        "image": "",
+        "options": [
+            "Market",
+            "Labor",
+            "Raw Materials",
+            "Power"
+        ],
+        "answer": "Raw Materials",
+        "explanation": "Clay is heavy and costly to transport."
+    },
+    {
+        "id": "G9932",
+        "text": "Which of the following is a landform formed by wind deposition? $\\textbf{Sand Dune}$.",
+        "image": "",
+        "options": [
+            "Inselberg",
+            "Zeugen",
+            "Sand Dune",
+            "Yardang"
+        ],
+        "answer": "Sand Dune",
+        "explanation": "Accumulation of sand in deserts."
+    },
+    {
+        "id": "G9933",
+        "text": "The total number of deaths per 1000 people per year is the $\\textbf{Death Rate}$.",
+        "image": "",
+        "options": [
+            "Birth Rate",
+            "Death Rate",
+            "Infant Mortality",
+            "Growth Rate"
+        ],
+        "answer": "Death Rate",
+        "explanation": "Also known as the mortality rate."
+    },
+    {
+        "id": "G9934",
+        "text": "Which region in Nigeria is known for mining Tin and Columbite? $\\textbf{Jos Plateau}$.",
+        "image": "",
+        "options": [
+            "Niger Delta",
+            "Jos Plateau",
+            "Chad Basin",
+            "Sokoto Plains"
+        ],
+        "answer": "Jos Plateau",
+        "explanation": "A major mining area."
+    },
+    {
+        "id": "G9935",
+        "text": "A scale of 1:50,000 is a $\\textbf{Representative Fraction}$.",
+        "image": "",
+        "options": [
+            "Linear Scale",
+            "Statement Scale",
+            "Representative Fraction",
+            "Graphical Scale"
+        ],
+        "answer": "Representative Fraction",
+        "explanation": "Ratio of map distance to ground distance."
+    },
+    {
+        "id": "G9936",
+        "text": "The dense central part of the earth is the $\\textbf{Core}$.",
+        "image": "",
+        "options": [
+            "Crust",
+            "Mantle",
+            "Core",
+            "Lithosphere"
+        ],
+        "answer": "Core",
+        "explanation": "Composed of Iron and Nickel."
+    },
+    {
+        "id": "G9937",
+        "text": "Planting trees to create a forest where none existed is $\\textbf{Afforestation}$.",
+        "image": "",
+        "options": [
+            "Deforestation",
+            "Reforestation",
+            "Afforestation",
+            "Lumbering"
+        ],
+        "answer": "Afforestation",
+        "explanation": "Creating new forests."
+    },
+    {
+        "id": "G9938",
+        "text": "The movement of the earth on its axis causes $\\textbf{Day and Night}$.",
+        "image": "",
+        "options": [
+            "Seasons",
+            "Day and Night",
+            "Eclipses",
+            "Tides"
+        ],
+        "answer": "Day and Night",
+        "explanation": "Result of rotation."
+    },
+    {
+        "id": "G9939",
+        "text": "Which gas is most abundant in the atmosphere? $\\textbf{Nitrogen}$.",
+        "image": "",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "answer": "Nitrogen",
+        "explanation": "Approximately 78%."
+    },
+    {
+        "id": "G9940",
+        "text": "The process of urban areas expanding into rural land is $\\textbf{Urban Sprawl}$.",
+        "image": "",
+        "options": [
+            "Urban Decay",
+            "Urban Sprawl",
+            "Urban Renewal",
+            "Urbanization"
+        ],
+        "answer": "Urban Sprawl",
+        "explanation": "Uncontrolled expansion."
+    }
+]

@@ -1,0 +1,520 @@
+[
+    {
+      "id": "U2012_1",
+      "text": "London successfully hosted the $\\textbf{Summer}$ $\\textbf{Olympics}$ in 2012, showcasing athletic $\\textbf{prowess}$ and generating immense national $\\textbf{pride}$ across the $\\textbf{United}$ $\\textbf{Kingdom}$. (Comprehension Passage Snippet 1)\n\nWhat major international event did London host in 2012?",
+      "image": "",
+      "options": [
+        "The FIFA World Cup",
+        "The Winter Olympics",
+        "The Summer Olympics",
+        "The Commonwealth Games"
+      ],
+      "answer": "The Summer Olympics",
+      "explanation": "The text explicitly states 'London successfully hosted the Summer Olympics in 2012'."
+    },
+    {
+      "id": "U2012_2",
+      "text": "The athletes demonstrated exceptional $\\textbf{prowess}$ in their respective disciplines.\n\nChoose the word that is closest in meaning to $\\textbf{prowess}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Cowardice or fear",
+        "Remarkable skill or expertise",
+        "Laziness",
+        "Slight hesitation"
+      ],
+      "answer": "Remarkable skill or expertise",
+      "explanation": "Prowess means skill or expertise in a particular activity or field."
+    },
+    {
+      "id": "U2012_3",
+      "text": "The opening ceremony $\\textbf{(was/were)}$ $\\textbf{viewed}$ by billions of people around the world.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "have been"
+      ],
+      "answer": "was",
+      "explanation": "The subject 'ceremony' is singular, requiring the singular past passive verb form 'was viewed'."
+    },
+    {
+      "id": "U2012_4",
+      "text": "In the United States, $\\textbf{Barack}$ $\\textbf{Obama}$ won $\\textbf{re-election}$, $\\textbf{defeating}$ Republican challenger Mitt Romney in a closely watched $\\textbf{presidential}$ $\\textbf{contest}$. (Comprehension Passage Snippet 2)\n\nWho was the Republican challenger defeated by Barack Obama in the 2012 US election?",
+      "image": "",
+      "options": [
+        "Joe Biden",
+        "Mitt Romney",
+        "John McCain",
+        "Hillary Clinton"
+      ],
+      "answer": "Mitt Romney",
+      "explanation": "The text states Obama defeated 'Republican challenger Mitt Romney'."
+    },
+    {
+      "id": "U2012_5",
+      "text": "Obama was the $\\textbf{incumbent}$ President seeking a second term in office.\n\nChoose the word that is closest in meaning to $\\textbf{incumbent}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A first-time candidate",
+        "The current holder of an office or position",
+        "A foreign diplomat",
+        "A retired politician"
+      ],
+      "answer": "The current holder of an office or position",
+      "explanation": "Incumbent refers to the person currently holding an office."
+    },
+    {
+      "id": "U2012_6",
+      "text": "Neither the incumbent nor the challenger $\\textbf{(was/were)}$ $\\textbf{willing}$ to concede defeat early in the evening.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have been"
+      ],
+      "answer": "was",
+      "explanation": "In 'neither... nor...' constructions, the verb agrees with the noun closest to it, which is the singular 'challenger'."
+    },
+    {
+      "id": "U2012_7",
+      "text": "$\\textbf{Hurricane}$ $\\textbf{Sandy}$, a massive and destructive storm, $\\textbf{pummeled}$ the $\\textbf{Caribbean}$ and the $\\textbf{Eastern}$ $\\textbf{Seaboard}$ of the United States, causing billions in damage. (Comprehension Passage Snippet 3)\n\nWhat regions were primarily affected by Hurricane Sandy?",
+      "image": "",
+      "options": [
+        "West Coast of the US and Japan",
+        "Western Europe and Africa",
+        "The Caribbean and the Eastern Seaboard of the US",
+        "Australia and New Zealand"
+      ],
+      "answer": "The Caribbean and the Eastern Seaboard of the US",
+      "explanation": "The text states Sandy 'pummeled the Caribbean and the Eastern Seaboard of the United States'."
+    },
+    {
+      "id": "U2012_8",
+      "text": "The $\\textbf{catastrophic}$ $\\textbf{impact}$ of the storm resulted in a temporary power $\\textbf{blackout}$ for millions.\n\nChoose the word that is **opposite** in meaning to $\\textbf{catastrophic}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Disastrous or ruinous",
+        "Fortunate or beneficial",
+        "Expected",
+        "Intense"
+      ],
+      "answer": "Fortunate or beneficial",
+      "explanation": "Catastrophic means involving or causing sudden great damage or suffering. The opposite is fortunate or beneficial."
+    },
+    {
+      "id": "U2012_9",
+      "text": "If local officials $\\textbf{(had/had}$ $\\textbf{not)}$ $\\textbf{warned}$ residents, the number of casualties $\\textbf{would}$ $\\textbf{have}$ $\\textbf{been}$ much higher.\n\nChoose the correct option to fill the first gap.",
+      "image": "",
+      "options": [
+        "had",
+        "had not",
+        "have",
+        "did not"
+      ],
+      "answer": "had",
+      "explanation": "This is a Third Conditional sentence. Given the result ('would have been much higher'), the 'if' clause must be positive ('If local officials had warned residents...')."
+    },
+    {
+      "id": "U2012_10",
+      "text": "NASA's $\\textbf{Curiosity}$ $\\textbf{Rover}$ successfully $\\textbf{landed}$ on $\\textbf{Mars}$ in August 2012, beginning its mission to explore the planet's $\\textbf{potential}$ for past microbial life. (Comprehension Passage Snippet 4)\n\nWhat was the main purpose of the Curiosity Rover's mission?",
+      "image": "",
+      "options": [
+        "To build a human colony",
+        "To drill for water on the moon",
+        "To explore the planet's potential for past microbial life",
+        "To orbit Jupiter"
+      ],
+      "answer": "To explore the planet's potential for past microbial life",
+      "explanation": "The text states the mission's goal was 'to explore the planet's potential for past microbial life'."
+    },
+    {
+      "id": "U2012_11",
+      "text": "The $\\textbf{probe}$ used a complex Sky Crane maneuver for its precise landing.\n\nChoose the word that is closest in meaning to $\\textbf{probe}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "A temporary shelter",
+        "A piece of experimental space equipment",
+        "A large-scale weapon",
+        "A political investigation"
+      ],
+      "answer": "A piece of experimental space equipment",
+      "explanation": "A probe (in the space context) is a piece of exploratory spacecraft designed to investigate remote areas."
+    },
+    {
+      "id": "U2012_12",
+      "text": "The scientists were $\\textbf{aiming}$ $\\textbf{(at/for)}$ a landing site near a large mountain.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "at",
+        "for",
+        "on",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "To 'aim for' means to direct one's efforts toward achieving a goal or location. 'Aim at' usually refers to a target."
+    },
+    {
+      "id": "U2012_13",
+      "text": "CERN announced the observation of a new particle consistent with the $\\textbf{Higgs}$ $\\textbf{Boson}$, a major $\\textbf{breakthrough}$ in particle $\\textbf{physics}$. (Comprehension Passage Snippet 5)\n\nWhat scientific organization announced the observation of the new particle?",
+      "image": "",
+      "options": [
+        "NASA",
+        "The Royal Society",
+        "CERN",
+        "The United Nations"
+      ],
+      "answer": "CERN",
+      "explanation": "The text states 'CERN announced the observation of a new particle'."
+    },
+    {
+      "id": "U2012_14",
+      "text": "For decades, the existence of the particle had been purely $\\textbf{theoretical}$, not $\\textbf{proven}$ by experiment.\n\nChoose the word that is **opposite** in meaning to $\\textbf{theoretical}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Conceptual",
+        "Abstract",
+        "Practical or empirical",
+        "Philosophical"
+      ],
+      "answer": "Practical or empirical",
+      "explanation": "Theoretical means concerned with or based on theory rather than practical experience. The opposite is practical or empirical."
+    },
+    {
+      "id": "U2012_15",
+      "text": "The word $\\textbf{'announcement'}$ $\\textbf{a n n o u n c e m e n t}$.\n\nIdentify the syllable that carries the primary stress in the word **announcement**.",
+      "image": "",
+      "options": [
+        "an",
+        "nounce",
+        "ment"
+      ],
+      "answer": "nounce",
+      "explanation": "The primary stress in 'announcement' /əˈnaʊns.mənt/ falls on the second syllable, 'nounce'."
+    },
+    {
+      "id": "U2012_16",
+      "text": "PSY's $\\textbf{'Gangnam}$ $\\textbf{Style}'$ became a global cultural $\\textbf{phenomenon}$ and the first $\\textbf{YouTube}$ $\\textbf{video}$ to reach one billion views, setting an $\\textbf{unprecedented}$ record. (Comprehension Passage Snippet 6)\n\nWhat video record did 'Gangnam Style' set in 2012?",
+      "image": "",
+      "options": [
+        "The fastest video to be uploaded",
+        "The video with the most dislikes",
+        "The first video to reach one billion views",
+        "The longest music video ever"
+      ],
+      "answer": "The first video to reach one billion views",
+      "explanation": "The text specifies it was 'the first YouTube video to reach one billion views'."
+    },
+    {
+      "id": "U2012_17",
+      "text": "The song's popularity was an $\\textbf{unprecedented}$ event in digital media history.\n\nChoose the word that is closest in meaning to $\\textbf{unprecedented}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Common or usual",
+        "Never done or known before",
+        "Overly complicated",
+        "Minor"
+      ],
+      "answer": "Never done or known before",
+      "explanation": "Unprecedented means never done or known before."
+    },
+    {
+      "id": "U2012_18",
+      "text": "The success of the song took the music industry $\\textbf{by}$ $\\textbf{storm}$.\n\nChoose the option that best explains the idiom **take by storm**.",
+      "image": "",
+      "options": [
+        "To be severely damaged by a hurricane",
+        "To be attacked without warning",
+        "To be suddenly and overwhelmingly successful or popular",
+        "To be ignored by everyone"
+      ],
+      "answer": "To be suddenly and overwhelmingly successful or popular",
+      "explanation": "To 'take by storm' means to be extremely successful or popular very quickly."
+    },
+    {
+      "id": "U2012_19",
+      "text": "The $\\textbf{Sandy}$ $\\textbf{Hook}$ $\\textbf{Elementary}$ $\\textbf{School}$ $\\textbf{shooting}$ in $\\textbf{Newtown}$, Connecticut, was a devastating $\\textbf{tragedy}$ that reignited the debate over gun control in the U.S. (Comprehension Passage Snippet 7)\n\nWhere did the Sandy Hook Elementary School shooting take place?",
+      "image": "",
+      "options": [
+        "Boston, Massachusetts",
+        "Newtown, Connecticut",
+        "Orlando, Florida",
+        "New York City, New York"
+      ],
+      "answer": "Newtown, Connecticut",
+      "explanation": "The text specifies the location as 'Newtown, Connecticut'."
+    },
+    {
+      "id": "U2012_20",
+      "text": "The $\\textbf{devastating}$ loss of life led to calls for new $\\textbf{legislation}$.\n\nChoose the word that is **opposite** in meaning to $\\textbf{devastating}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Highly destructive or damaging",
+        "Minor or negligible",
+        "Expected",
+        "Continuous"
+      ],
+      "answer": "Minor or negligible",
+      "explanation": "Devastating means highly destructive. The opposite is minor or negligible."
+    },
+    {
+      "id": "U2012_21",
+      "text": "The nation mourned $\\textbf{deeply}$ and $\\textbf{collectively}$ in the wake of the senseless violence.\n\nWhich of the words is the $\\textbf{adverb}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Nation",
+        "Mourned",
+        "Deeply",
+        "Wake"
+      ],
+      "answer": "Deeply",
+      "explanation": "'Deeply' modifies the verb 'mourned', describing *how* the action was performed, making it an adverb."
+    },
+    {
+      "id": "U2012_22",
+      "text": "Instagram, $\\textbf{which}$ $\\textbf{was}$ $\\textbf{launched}$ just two years prior, $\\textbf{was}$ $\\textbf{acquired}$ by Facebook for approximately \\$1 billion.\n\nWhich of the words is the $\\textbf{relative}$ $\\textbf{pronoun}$ in the sentence?",
+      "image": "",
+      "options": [
+        "Launched",
+        "Which",
+        "Acquired",
+        "For"
+      ],
+      "answer": "Which",
+      "explanation": "'Which' introduces the non-restrictive relative clause ('which was launched just two years prior') and refers back to 'Instagram'."
+    },
+    {
+      "id": "U2012_23",
+      "text": "The founders $\\textbf{(had}$ $\\textbf{been)}$ $\\textbf{developing}$ the application for months before its launch in 2010.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "is developing",
+        "had been developing",
+        "will be developing",
+        "developed"
+      ],
+      "answer": "had been developing",
+      "explanation": "The Past Perfect Continuous ('had been developing') is used to emphasize the duration of an action (developing) that started in the past and continued up to another point in the past (the launch in 2010)."
+    },
+    {
+      "id": "U2012_24",
+      "text": "The price of the $\\textbf{acquisition}$ seemed $\\textbf{exorbitant}$ to many financial analysts at the time.\n\nChoose the word that is closest in meaning to $\\textbf{exorbitant}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Extremely low",
+        "Reasonable or moderate",
+        "Unreasonably high or excessive",
+        "Required by law"
+      ],
+      "answer": "Unreasonably high or excessive",
+      "explanation": "Exorbitant means unreasonably high."
+    },
+    {
+      "id": "U2012_25",
+      "text": "The word $\\textbf{'acquisition'}$ $\\textbf{a c q u i s i t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **acquisition**.",
+      "image": "",
+      "options": [
+        "ac",
+        "qui",
+        "si",
+        "tion"
+      ],
+      "answer": "si",
+      "explanation": "The primary stress in 'acquisition' /ˌæk.wɪˈzɪʃ.ən/ falls on the third syllable, 'si'."
+    },
+    {
+      "id": "U2012_26",
+      "text": "Ongoing $\\textbf{turmoil}$ in $\\textbf{Syria}$ led to escalating humanitarian concerns and $\\textbf{international}$ $\\textbf{diplomacy}$ $\\textbf{attempts}$ to broker a truce.\n\nChoose the word that is closest in meaning to $\\textbf{turmoil}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Perfect peace",
+        "A state of great disturbance, confusion, or uncertainty",
+        "A slow, steady process",
+        "A diplomatic ceremony"
+      ],
+      "answer": "A state of great disturbance, confusion, or uncertainty",
+      "explanation": "Turmoil means a state of great disturbance, confusion, or uncertainty."
+    },
+    {
+      "id": "U2012_27",
+      "text": "The prospect of a diplomatic solution was $\\textbf{remote}$ due to the deep divisions among the warring factions.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{remote}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Distant",
+        "Likely or imminent",
+        "Complex",
+        "Uncommon"
+      ],
+      "answer": "Likely or imminent",
+      "explanation": "Remote means unlikely to occur. The opposite is likely or imminent."
+    },
+    {
+      "id": "U2012_28",
+      "text": "Global powers were $\\textbf{at}$ $\\textbf{loggerheads}$ over how to approach the escalating conflict.\n\nChoose the option that best explains the idiom **at loggerheads**.",
+      "image": "",
+      "options": [
+        "Working together in perfect harmony",
+        "To be in violent dispute or disagreement",
+        "To be discussing peace treaties",
+        "To be completely unaware of the problem"
+      ],
+      "answer": "To be in violent dispute or disagreement",
+      "explanation": "To be 'at loggerheads' means to be in violent dispute or disagreement."
+    },
+    {
+      "id": "U2012_29",
+      "text": "The word $\\textbf{'diplomacy'}$ $\\textbf{d i p l o m a c y}$.\n\nIdentify the syllable that carries the primary stress in the word **diplomacy**.",
+      "image": "",
+      "options": [
+        "dip",
+        "lo",
+        "ma",
+        "cy"
+      ],
+      "answer": "plo",
+      "explanation": "The primary stress in 'diplomacy' /dɪˈpləʊ.mə.si/ falls on the second syllable, 'plo'."
+    },
+    {
+      "id": "U2012_30",
+      "text": "Environmental activists urged governments to $\\textbf{ameliorate}$ the effects of global warming before it was too late.\n\nChoose the word that is closest in meaning to $\\textbf{ameliorate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "To make worse or intensify",
+        "To make better or improve",
+        "To hide from view",
+        "To completely ignore"
+      ],
+      "answer": "To make better or improve",
+      "explanation": "Ameliorate means to make (something bad or unsatisfactory) better."
+    },
+    {
+      "id": "U2012_31",
+      "text": "The $\\textbf{pervasive}$ $\\textbf{influence}$ of social media continued to reshape public opinion on major issues.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{pervasive}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Widespread or present everywhere",
+        "Limited or restricted",
+        "Highly specific",
+        "Helpful"
+      ],
+      "answer": "Limited or restricted",
+      "explanation": "Pervasive means spreading widely throughout an area or group of people. The opposite is limited or restricted."
+    },
+    {
+      "id": "U2012_32",
+      "text": "The company was $\\textbf{obligated}$ $\\textbf{(to/for)}$ $\\textbf{reveal}$ its privacy policies to its users.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "to reveal",
+        "for revealing",
+        "revealing",
+        "reveals"
+      ],
+      "answer": "to reveal",
+      "explanation": "The adjective 'obligated' is followed by the infinitive 'to + base verb'."
+    },
+    {
+      "id": "U2012_33",
+      "text": "The new legislation foresaw the $\\textbf{need}$ $\\textbf{(for/of)}$ greater digital privacy protections.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "at"
+      ],
+      "answer": "for",
+      "explanation": "The construction 'need for' is used to express necessity (need *for* protection)."
+    },
+    {
+      "id": "U2012_34",
+      "text": "The word $\\textbf{'tragedy'}$ $\\textbf{t r a g e d y}$.\n\nIdentify the syllable that carries the primary stress in the word **tragedy**.",
+      "image": "",
+      "options": [
+        "tra",
+        "ge",
+        "dy"
+      ],
+      "answer": "tra",
+      "explanation": "The primary stress in 'tragedy' /ˈtrædʒ.ə.di/ falls on the first syllable, 'tra'."
+    },
+    {
+      "id": "U2012_35",
+      "text": "The company was accused of trying to $\\textbf{paper}$ $\\textbf{over}$ $\\textbf{the}$ $\\textbf{cracks}$ in its security system.\n\nChoose the option that best explains the idiom **paper over the cracks**.",
+      "image": "",
+      "options": [
+        "To repair damage with paper",
+        "To cover up problems instead of fixing them properly",
+        "To highlight minor flaws",
+        "To write a detailed report"
+      ],
+      "answer": "To cover up problems instead of fixing them properly",
+      "explanation": "To 'paper over the cracks' means to conceal difficulties or problems rather than addressing them effectively."
+    },
+    {
+      "id": "U2012_36",
+      "text": "The $\\textbf{tall,}$ $\\textbf{gleaming}$ $\\textbf{new}$ $\\textbf{skyscraper}$ dominated the London skyline.\n\nWhich is the correct order of the adjectives modifying the noun 'skyscraper'?",
+      "image": "",
+      "options": [
+        "new, tall, gleaming",
+        "gleaming, new, tall",
+        "tall, gleaming, new",
+        "new, gleaming, tall"
+      ],
+      "answer": "tall, gleaming, new",
+      "explanation": "The conventional order of adjectives is Size (tall) $\\rightarrow$ Appearance (gleaming) $\\rightarrow$ Age (new)."
+    },
+    {
+      "id": "U2012_37",
+      "text": "The financial sector's $\\textbf{precarious}$ $\\textbf{position}$ still $\\textbf{worried}$ many economists despite the $\\textbf{recovery}$.\n\nChoose the word that is closest in meaning to $\\textbf{precarious}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Safe and secure",
+        "Stable and predictable",
+        "Uncertain or dangerously unstable",
+        "Highly profitable"
+      ],
+      "answer": "Uncertain or dangerously unstable",
+      "explanation": "Precarious means dangerously likely to fall or collapse; uncertain."
+    },
+    {
+      "id": "U2012_38",
+      "text": "If the government $\\textbf{(hadn't}$ $\\textbf{intervened)}$, the crisis $\\textbf{(would}$ $\\textbf{still}$ $\\textbf{be)}$ escalating today.\n\nChoose the correct option to fill the second gap.",
+      "image": "",
+      "options": [
+        "would still be",
+        "will still be",
+        "is still",
+        "is being"
+      ],
+      "answer": "would still be",
+      "explanation": "This is a Mixed Conditional (Type 3/2): Past condition ('hadn't intervened') affecting a present result ('would still be escalating')."
+    },
+    {
+      "id": "U2012_39",
+      "text": "The word $\\textbf{'global'}$ $\\textbf{g l o b a l}$.\n\nWhich of the following words has the same consonant sound as the first letter 'g' in **global**?",
+      "image": "",
+      "options": [
+        "Giant",
+        "General",
+        "Ghost",
+        "Gymnasium"
+      ],
+      "answer": "Ghost",
+      "explanation": "The initial sound in 'global' /ɡləʊ.bəl/ is the voiced velar stop /ɡ/. 'Ghost' also begins with the sound /ɡ/. The others begin with the sound /dʒ/."
+    },
+    {
+      "id": "U2012_40",
+      "text": "The word $\\textbf{'scandal'}$ $\\textbf{s c a n d a l}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **scandal**?",
+      "image": "",
+      "options": [
+        "Cart",
+        "Can",
+        "Core",
+        "Coin"
+      ],
+      "answer": "Can",
+      "explanation": "The stressed syllable is 'scan' /skæn/ which contains the vowel sound /æ/. 'Can' also contains the sound /æ/."
+    }
+  ]

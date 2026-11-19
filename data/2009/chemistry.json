@@ -1,0 +1,322 @@
+[
+    {
+      "id": "CHEM_2009_01",
+      "text": "How many moles of hydrogen gas are contained in $44.8 \\text{ dm}^3$ of the gas at $\\text{S.T.P}$? [Take molar volume at $\\text{S.T.P}$ as $22.4 \\text{ dm}^3$]",
+      "image": "",
+      "options": ["1.0 mole", "2.0 moles", "0.5 mole", "4.0 moles"],
+      "answer": "2.0 moles",
+      "explanation": "Moles = Volume / Molar Volume. Moles = $44.8 \\text{ dm}^3 / 22.4 \\text{ dm}^3\\text{/mole} = 2.0 \\text{ moles}$."
+    },
+    {
+      "id": "CHEM_2009_02",
+      "text": "The $\\text{pH}$ of a solution is 9. What is the concentration of the hydrogen ion $[\text{H}^+]$ in the solution?",
+      "image": "[Image of the pH scale]",
+      "options": ["$1.0 \\times 10^{-5} \\text{ mol/dm}^3$", "$1.0 \\times 10^{-9} \\text{ mol/dm}^3$", "$1.0 \\times 10^{9} \\text{ mol/dm}^3$", "$9.0 \\text{ mol/dm}^3$"],
+      "answer": "$1.0 \\times 10^{-9} \\text{ mol/dm}^3$",
+      "explanation": "$[\text{H}^+] = 10^{-\text{pH}}$. $[\text{H}^+] = 10^{-9} \\text{ mol/dm}^3$."
+    },
+    {
+      "id": "CHEM_2009_03",
+      "text": "In the reaction: $\text{MnO}_2 + 4\text{HCl} \\rightarrow \text{MnCl}_2 + \text{Cl}_2 + 2\text{H}_2\text{O}$, the oxidizing agent is:",
+      "image": "",
+      "options": ["$\text{MnO}_2$", "$\text{HCl}$", "$\text{MnCl}_2$", "$\text{Cl}_2$"],
+      "answer": "$\text{MnO}_2$",
+      "explanation": "The oxidation state of $\text{Mn}$ in $\text{MnO}_2$ is $+4$, and in $\text{MnCl}_2$ it is $+2$. Since $\text{Mn}$ is reduced, $\text{MnO}_2$ is the oxidizing agent."
+    },
+    {
+      "id": "CHEM_2009_04",
+      "text": "A catalyst functions by:",
+      "image": "[Image of a reaction coordinate diagram showing catalyzed vs. uncatalyzed path]",
+      "options": ["Increasing the temperature of the reactants", "Increasing the surface area of the reactants", "Providing an alternative reaction path with lower activation energy", "Increasing the collision frequency of molecules"],
+      "answer": "Providing an alternative reaction path with lower activation energy",
+      "explanation": "A catalyst speeds up a reaction by reducing the energy barrier (activation energy) required for the reaction to proceed."
+    },
+    {
+      "id": "CHEM_2009_05",
+      "text": "Which of the following elements has the lowest first ionization energy?",
+      "image": "[Graph showing first ionization energy trend across a period]",
+      "options": ["$\text{Li}$", "$\text{Na}$", "$\text{K}$", "$\text{Rb}$"],
+      "answer": "$\text{Rb}$",
+      "explanation": "Ionization energy decreases down a group because the atomic radius increases and the outermost electron is further from the nucleus, experiencing less attraction."
+    },
+    {
+      "id": "CHEM_2009_06",
+      "text": "The bond formed between an atom of potassium ($\text{K}$) and an atom of chlorine ($\text{Cl}$) is:",
+      "image": "[Diagram illustrating electron transfer in ionic bonding]",
+      "options": ["Covalent", "Metallic", "Dative", "Ionic"],
+      "answer": "Ionic",
+      "explanation": "Potassium is an alkali metal (low electronegativity) and Chlorine is a halogen (high electronegativity). The bond is formed by the complete transfer of electrons, forming an ionic bond ($\text{K}^+\text{Cl}^-$)."
+    },
+    {
+      "id": "CHEM_2009_07",
+      "text": "What is the general formula for the alkyne homologous series?",
+      "image": "",
+      "options": ["$\text{C}_n\text{H}_{2n+2}$", "$\text{C}_n\text{H}_{2n}$", "$\text{C}_n\text{H}_{2n-2}$", "$\text{C}_n\text{H}_{2n-6}$"],
+      "answer": "$\text{C}_n\text{H}_{2n-2}$",
+      "explanation": "Alkanes are $\text{C}_n\text{H}_{2n+2}$, alkenes are $\text{C}_n\text{H}_{2n}$, and alkynes (containing a triple bond) are $\text{C}_n\text{H}_{2n-2}$."
+    },
+    {
+      "id": "CHEM_2009_08",
+      "text": "If the volume of a given mass of gas is reduced to half its original volume at constant temperature, the pressure will be:",
+      "image": "",
+      "options": ["Halved", "Doubled", "Quartered", "Remain the same"],
+      "answer": "Doubled",
+      "explanation": "According to Boyle's law ($P_1V_1 = P_2V_2$) at constant temperature, pressure is inversely proportional to volume. If $V_2 = V_1/2$, then $P_2 = P_1 \\times (V_1/V_2) = P_1 \\times (V_1 / (V_1/2)) = 2 P_1$."
+    },
+    {
+      "id": "CHEM_2009_09",
+      "text": "The quantity of electricity required to deposit one mole of a univalent metal is:",
+      "image": "",
+      "options": ["1 Faraday", "2 Faradays", "3 Faradays", "96500 Coulombs/mole"],
+      "answer": "1 Faraday",
+      "explanation": "One Faraday ($\/approx 96500 \\text{ C}$) is the quantity of electricity required to liberate one mole of a univalent ion ($\text{M}^+$) at an electrode."
+    },
+    {
+      "id": "CHEM_2009_10",
+      "text": "The mass of $2.5 \\text{ moles}$ of $\text{NaOH}$ is: [Atomic masses: $\text{Na}=23, \text{O}=16, \text{H}=1$]",
+      "image": "",
+      "options": ["40 g", "100 g", "16 g", "120 g"],
+      "answer": "100 g",
+      "explanation": "Molar mass of $\text{NaOH} = 23 + 16 + 1 = 40 \\text{ g/mol}$. Mass = Moles $\\times$ Molar Mass = $2.5 \\times 40 = 100 \\text{ g}$."
+    },
+    {
+      "id": "CHEM_2009_11",
+      "text": "Which of the following compounds is an aromatic hydrocarbon?",
+      "image": "[Diagram of the Benzene ring structure]",
+      "options": ["Cyclohexane", "Hexane", "Benzene", "Ethene"],
+      "answer": "Benzene",
+      "explanation": "Aromatic hydrocarbons are organic compounds that contain the Benzene ring structure ($\text{C}_6\text{H}_6$). Cyclohexane is an alicyclic compound."
+    },
+    {
+      "id": "CHEM_2009_12",
+      "text": "The substance used in the laboratory to dry gases without reacting with them is:",
+      "image": "",
+      "options": ["Concentrated $\text{HCl}$", "Quicklime ($\text{CaO}$)", "Concentrated $\\text{H}_2\\text{SO}_4$", "Anhydrous $\text{CaCl}_2$"],
+      "answer": "Anhydrous $\text{CaCl}_2$",
+      "explanation": "Anhydrous calcium chloride is a good drying agent that is chemically inert to most common gases, unlike concentrated sulfuric acid which is acidic."
+    },
+    {
+      "id": "CHEM_2009_13",
+      "text": "According to Le Chatelier's principle, for an exothermic reaction, increasing the temperature will shift the equilibrium:",
+      "image": "",
+      "options": ["To the right (products)", "To the left (reactants)", "Not change the equilibrium position", "Increase the reaction rate only"],
+      "answer": "To the left (reactants)",
+      "explanation": "For an exothermic reaction (heat is a product), increasing the temperature adds stress. The system counteracts this by favoring the endothermic (reverse) reaction, shifting the equilibrium to the left."
+    },
+    {
+      "id": "CHEM_2009_14",
+      "text": "The type of isomerism exhibited by But-1-ene and But-2-ene is:",
+      "image": "[Diagram showing structures of But-1-ene and But-2-ene]",
+      "options": ["Functional group isomerism", "Chain isomerism", "Positional isomerism", "Geometrical isomerism"],
+      "answer": "Positional isomerism",
+      "explanation": "Both have the formula $\text{C}_4\text{H}_8$ and the alkene functional group ($\text{C}=\text{C}$), but the position of the double bond differs (carbon 1 vs. carbon 2)."
+    },
+    {
+      "id": "CHEM_2009_15",
+      "text": "What is the colour of the complex ion formed when excess aqueous ammonia is added to a solution of copper(II) sulphate?",
+      "image": "",
+      "options": ["Light blue", "White precipitate", "Deep blue", "Colourless solution"],
+      "answer": "Deep blue",
+      "explanation": "The light blue $\text{Cu}^{2+}$ ion reacts with excess $\text{NH}_3$ to form the stable tetra-ammine copper(II) complex ion, $[\text{Cu}(\text{NH}_3)_4]^{2+}$, which is characterized by its deep blue colour."
+    },
+    {
+      "id": "CHEM_2009_16",
+      "text": "Which of the following is a physical method of separating components of a mixture?",
+      "image": "",
+      "options": ["Sublimation", "Electrolysis", "Combustion", "Neutralization"],
+      "answer": "Sublimation",
+      "explanation": "Sublimation (solid to gas) is a physical change used for separation. The others are chemical processes."
+    },
+    {
+      "id": "CHEM_2009_17",
+      "text": "If $20.0 \\text{ cm}^3$ of $0.1 \\text{ M}$ sulphuric acid ($\text{H}_2\text{SO}_4$) neutralizes $25.0 \\text{ cm}^3$ of sodium hydroxide ($\text{NaOH}$), the concentration of $\text{NaOH}$ is:",
+      "image": "",
+      "options": ["$0.16 \\text{ M}$", "$0.08 \\text{ M}$", "$0.20 \\text{ M}$", "$0.10 \\text{ M}$"],
+      "answer": "$0.16 \\text{ M}$",
+      "explanation": "Reaction: $\text{H}_2\text{SO}_4 + 2\text{NaOH} \\rightarrow \text{Na}_2\text{SO}_4 + 2\text{H}_2\text{O}$. $C_a V_a / n_a = C_b V_b / n_b$. $C_b = (n_b / n_a) \\times (C_a V_a / V_b) = (2/1) \\times (0.1 \\text{ M} \\times 20 \\text{ cm}^3) / 25 \\text{ cm}^3 = 2 \\times 0.08 \\text{ M} = 0.16 \\text{ M}$."
+    },
+    {
+      "id": "CHEM_2009_18",
+      "text": "The $\text{IUPAC}$ name for the compound $\text{CH}_3\text{CH}_2\text{COOCH}_3$ is:",
+      "image": "",
+      "options": ["Methyl propanoate", "Ethyl ethanoate", "Propyl methanoate", "Methyl ethanoate"],
+      "answer": "Methyl propanoate",
+      "explanation": "This is an ester. The alcohol part ($\text{CH}_3\text{O}-$) gives the 'methyl' prefix, and the carboxylic acid part ($\text{CH}_3\text{CH}_2\text{COO}-$) is derived from propanoic acid, giving the suffix 'propanoate'."
+    },
+    {
+      "id": "CHEM_2009_19",
+      "text": "Which of the following compounds will conduct electricity in the molten state?",
+      "image": "",
+      "options": ["$\text{Sugar}$", "$\text{Sodium chloride}$", "$\text{Sulphur}$", "$\text{Benzene}$"],
+      "answer": "$\text{Sodium chloride}$",
+      "explanation": "Ionic compounds (like $\text{NaCl}$) conduct electricity when molten or in solution because their ions are free to move and carry charge. Covalent compounds (sugar, sulfur, benzene) do not."
+    },
+    {
+      "id": "CHEM_2009_20",
+      "text": "The maximum number of electrons that can occupy the $d$-subshell is:",
+      "image": "[Diagram showing the shapes of d-orbitals]",
+      "options": ["2", "6", "10", "14"],
+      "answer": "10",
+      "explanation": "The $d$-subshell has 5 orbitals. Since each orbital can hold a maximum of 2 electrons, the total number of electrons is $5 \\times 2 = 10$."
+    },
+    {
+      "id": "CHEM_2009_21",
+      "text": "The process of converting vegetable oil into margarine is known as:",
+      "image": "",
+      "options": ["Saponification", "Cracking", "Hydrogenation", "Polymerization"],
+      "answer": "Hydrogenation",
+      "explanation": "Hydrogenation is the addition of hydrogen across double bonds in unsaturated vegetable oils in the presence of a catalyst (usually nickel) to make them saturated and solid (margarine)."
+    },
+    {
+      "id": "CHEM_2009_22",
+      "text": "The phenomenon of existence of an element in more than one physical form is called:",
+      "image": "",
+      "options": ["Isomerism", "Allotropy", "Polymerism", "Ductility"],
+      "answer": "Allotropy",
+      "explanation": "Allotropy is the property of some chemical elements to exist in two or more different forms in the same physical state (e.g., diamond and graphite are allotropes of carbon)."
+    },
+    {
+      "id": "CHEM_2009_23",
+      "text": "Which of the following halogens is the strongest oxidizing agent?",
+      "image": "",
+      "options": ["Iodine ($\text{I}_2$)", "Bromine ($\text{Br}_2$)", "Chlorine ($\text{Cl}_2$)", "Fluorine ($\text{F}_2$)"],
+      "answer": "Fluorine ($\text{F}_2$)",
+      "explanation": "Oxidizing power decreases down Group 17 (Halogens). Fluorine is the most electronegative element and the strongest oxidizing agent."
+    },
+    {
+      "id": "CHEM_2009_24",
+      "text": "The chemical used to soften hard water is:",
+      "image": "",
+      "options": ["Washing soda ($\text{Na}_2\text{CO}_3$)", "Common salt ($\text{NaCl}$)", "Caustic soda ($\text{NaOH}$)", "Baking soda ($\text{NaHCO}_3$)"],
+      "answer": "Washing soda ($\text{Na}_2\text{CO}_3$)",
+      "explanation": "Washing soda ($\text{Na}_2\text{CO}_3$) precipitates the $\text{Ca}^{2+}$ and $\text{Mg}^{2+}$ ions responsible for hardness as insoluble carbonates, thereby softening the water."
+    },
+    {
+      "id": "CHEM_2009_25",
+      "text": "If the concentration of $\text{OH}^-$ ions in a solution is $1.0 \\times 10^{-4} \\text{ mol/dm}^3$, the $\text{pOH}$ of the solution is:",
+      "image": "",
+      "options": ["4", "10", "7", "0"],
+      "answer": "4",
+      "explanation": "$\\text{pOH} = -\\log_{10}[\text{OH}^-]$. $\\text{pOH} = -\\log_{10}(1.0 \\times 10^{-4}) = 4$."
+    },
+    {
+      "id": "CHEM_2009_26",
+      "text": "The reaction between ethanol and ethanoic acid in the presence of concentrated $\\text{H}_2\\text{SO}_4$ produces:",
+      "image": "[Chemical equation for esterification reaction]",
+      "options": ["An alkane", "An ester", "A ketone", "An aldehyde"],
+      "answer": "An ester",
+      "explanation": "The reaction is esterification, which forms an ester (Ethyl ethanoate) and water: $\text{C}_2\text{H}_5\text{OH} + \text{CH}_3\text{COOH} \\rightleftharpoons \text{CH}_3\text{COOC}_2\text{H}_5 + \text{H}_2\text{O}$."
+    },
+    {
+      "id": "CHEM_2009_27",
+      "text": "Which separation method is best for separating a mixture of two miscible liquids with close boiling points?",
+      "image": "[Diagram of a fractional distillation setup]",
+      "options": ["Simple distillation", "Fractional distillation", "Evaporation", "Filtration"],
+      "answer": "Fractional distillation",
+      "explanation": "Simple distillation is for liquids with widely differing boiling points. Fractional distillation uses a column to achieve better separation for liquids with close boiling points."
+    },
+    {
+      "id": "CHEM_2009_28",
+      "text": "The characteristic reaction of alkenes is:",
+      "image": "[Diagram illustrating the addition reaction across a double bond]",
+      "options": ["Substitution", "Neutralization", "Addition", "Elimination"],
+      "answer": "Addition",
+      "explanation": "Alkenes are unsaturated hydrocarbons due to the carbon-carbon double bond, which readily undergoes addition reactions (e.g., hydrogenation, halogenation)."
+    },
+    {
+      "id": "CHEM_2009_29",
+      "text": "In the contact process for manufacturing $\\text{H}_2\\text{SO}_4$, the primary function of $\text{V}_2\text{O}_5$ (Vanadium(V) oxide) is as a:",
+      "image": "[Reaction scheme for the contact process]",
+      "options": ["Reactant", "Solvent", "Cooling agent", "Catalyst"],
+      "answer": "Catalyst",
+      "explanation": "Vanadium(V) oxide catalyzes the key reaction: $2\text{SO}_2(g) + \text{O}_2(g) \\rightleftharpoons 2\text{SO}_3(g)$."
+    },
+    {
+      "id": "CHEM_2009_30",
+      "text": "Which of the following is a physical property of metals?",
+      "image": "",
+      "options": ["Brittleness", "Low melting point", "Poor conductor of heat", "Ductility and malleability"],
+      "answer": "Ductility and malleability",
+      "explanation": "Metals are typically ductile (can be drawn into wires) and malleable (can be hammered into sheets). They are also good conductors and generally have high melting points."
+    },
+    {
+      "id": "CHEM_2009_31",
+      "text": "The empirical formula of a compound containing $40.0\\%$ Carbon, $6.7\\%$ Hydrogen, and $53.3\\%$ Oxygen is: [Atomic masses: $\\text{C}=12, \\text{H}=1, \\text{O}=16$]",
+      "image": "",
+      "options": ["$\text{C}_2\text{H}_4\text{O}_2$", "$\text{CH}_2\text{O}$", "$\text{C}\text{H}_4\text{O}$", "$\text{C}_3\text{H}_6\text{O}_3$"],
+      "answer": "$\text{CH}_2\text{O}$",
+      "explanation": "Divide percentage by atomic mass: $\\text{C}: 40/12 = 3.33$. $\\text{H}: 6.7/1 = 6.7$. $\\text{O}: 53.3/16 = 3.33$. Divide by smallest (3.33): $\\text{C}: 1, \\text{H}: 2, \\text{O}: 1$. Empirical formula is $\text{CH}_2\text{O}$."
+    },
+    {
+      "id": "CHEM_2009_32",
+      "text": "A substance that can behave both as an acid and as a base is:",
+      "image": "",
+      "options": ["Neutral", "Amphoteric", "Isotopic", "Homologous"],
+      "answer": "Amphoteric",
+      "explanation": "Amphoteric substances (like $\text{Al}_2\text{O}_3$ or water) can react with acids (acting as a base) and react with bases (acting as an acid)."
+    },
+    {
+      "id": "CHEM_2009_33",
+      "text": "Which of the following is a heavy metal that is useful to the human body in trace amounts but toxic in excess?",
+      "image": "",
+      "options": ["Sodium", "Iron", "Calcium", "Potassium"],
+      "answer": "Iron",
+      "explanation": "Iron is a transition metal essential for haemoglobin but highly toxic in large doses. Sodium, Calcium, and Potassium are lighter elements."
+    },
+    {
+      "id": "CHEM_2009_34",
+      "text": "The difference between the mass number and the atomic number of an atom gives the number of:",
+      "image": "[Diagram of an atom with protons, neutrons, and electrons]",
+      "options": ["Electrons", "Protons", "Neutrons", "Isotopes"],
+      "answer": "Neutrons",
+      "explanation": "Mass number ($A$) = number of protons ($Z$) + number of neutrons ($N$). Atomic number ($Z$) = number of protons. Therefore, $A - Z = N$ (number of neutrons)."
+    },
+    {
+      "id": "CHEM_2009_35",
+      "text": "Which of the following is used as a standard for determining relative atomic masses?",
+      "image": "",
+      "options": ["Hydrogen-1", "Oxygen-16", "Carbon-12", "Sulphur-32"],
+      "answer": "Carbon-12",
+      "explanation": "The standard unit for the relative atomic mass scale is $1/12$th of the mass of one atom of the carbon-12 isotope."
+    },
+    {
+      "id": "CHEM_2009_36",
+      "text": "In the Haber process, $\text{N}_2(g) + 3\text{H}_2(g) \\rightleftharpoons 2\text{NH}_3(g)$, increasing the pressure will:",
+      "image": "[Diagram of the Haber process industrial setup]",
+      "options": ["Decrease the yield of $\text{NH}_3$", "Increase the yield of $\text{NH}_3$", "Have no effect on the yield", "Slow down the reaction rate"],
+      "answer": "Increase the yield of $\text{NH}_3$",
+      "explanation": "The forward reaction leads to a decrease in the number of moles of gas ($4 \\rightarrow 2$). According to Le Chatelier's principle, increasing pressure favors the side with fewer moles of gas, which is the product side ($\text{NH}_3$)."
+    },
+    {
+      "id": "CHEM_2009_37",
+      "text": "The property of an atom that determines its ability to combine with other atoms is:",
+      "image": "",
+      "options": ["Mass number", "Atomic radius", "Valency", "Density"],
+      "answer": "Valency",
+      "explanation": "Valency is the combining power of an element, determined by the number of electrons it needs to gain, lose, or share to achieve a stable octet (or duet)."
+    },
+    {
+      "id": "CHEM_2009_38",
+      "text": "A primary alcohol is oxidized to an aldehyde. The oxidizing agent commonly used for this mild oxidation is:",
+      "image": "",
+      "options": ["Acidified $\text{KMnO}_4$", "Tollens' reagent", "Potassium dichromate", "Potassium manganate(VII)"],
+      "answer": "Tollens' reagent",
+      "explanation": "Tollens' reagent (or Fehlings' solution) is typically used for the milder oxidation of primary alcohols to aldehydes, or for distinguishing aldehydes from ketones."
+    },
+    {
+      "id": "CHEM_2009_39",
+      "text": "Which of the following substances will produce oxygen gas upon heating?",
+      "image": "",
+      "options": ["$\text{Calcium carbonate}$", "$\text{Sodium chloride}$", "$\text{Potassium trioxonitrate(V)}$", "$\text{Copper(II) oxide}$"],
+      "answer": "$\text{Potassium trioxonitrate(V)}$",
+      "explanation": "Heating potassium nitrate ($\text{KNO}_3$) causes it to decompose into potassium nitrite and oxygen: $2\text{KNO}_3(s) \\rightarrow 2\text{KNO}_2(s) + \text{O}_2(g)$."
+    },
+    {
+      "id": "CHEM_2009_40",
+      "text": "The separation of crude oil into different fractions is based on the difference in their:",
+      "image": "[Diagram of a fractionating column for crude oil]",
+      "options": ["Density", "Solubility", "Boiling points", "Viscosity"],
+      "answer": "Boiling points",
+      "explanation": "Crude oil is separated using fractional distillation, which exploits the differences in the boiling points of the various hydrocarbon components."
+    }
+]

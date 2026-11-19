@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2000_01",
+      "text": "The major function of the cell membrane is to:",
+      "image": "[Diagram of a cell membrane showing the fluid mosaic model]",
+      "options": [
+        "Manufacture protein for the cell",
+        "Control the movement of substances in and out of the cell",
+        "Store genetic information",
+        "Carry out photosynthesis"
+      ],
+      "answer": "Control the movement of substances in and out of the cell",
+      "explanation": "The cell membrane (plasma membrane) is selectively permeable, regulating the passage of materials between the cytoplasm and the exterior environment."
+    },
+    {
+      "id": "BIO_2000_02",
+      "text": "A specialized reproductive structure found in ferns that contains sporangia is the:",
+      "image": "",
+      "options": [
+        "Rhizome",
+        "Sorus",
+        "Pinna",
+        "Frond"
+      ],
+      "answer": "Sorus",
+      "explanation": "Sori (singular: Sorus) are clusters of sporangia (spore-producing sacs) found typically on the underside of fern fronds."
+    },
+    {
+      "id": "BIO_2000_03",
+      "text": "Which of the following classes of food is required for growth and repair of worn-out tissues?",
+      "image": "",
+      "options": [
+        "Carbohydrates",
+        "Fats",
+        "Vitamins",
+        "Proteins"
+      ],
+      "answer": "Proteins",
+      "explanation": "Proteins are body-building foods, essential for the synthesis of new protoplasm, and for repairing damaged tissues."
+    },
+    {
+      "id": "BIO_2000_04",
+      "text": "The maximum rate of photosynthesis occurs at:",
+      "image": "[Graph showing photosynthesis rate vs. light intensity]",
+      "options": [
+        "Low light intensity",
+        "High temperature and high $\\text{CO}_2$ concentration",
+        "Low temperature and low $\\text{CO}_2$ concentration",
+        "Moderate temperature and low light intensity"
+      ],
+      "answer": "High temperature and high $\\text{CO}_2$ concentration",
+      "explanation": "The rate of photosynthesis increases with higher light intensity, optimal temperature, and high carbon dioxide concentration, until another factor becomes limiting."
+    },
+    {
+      "id": "BIO_2000_05",
+      "text": "The main excretory organ in insects is the:",
+      "image": "[Diagram of an insect showing Malpighian tubules]",
+      "options": [
+        "Kidney",
+        "Nephridia",
+        "Malpighian tubules",
+        "Flame cells"
+      ],
+      "answer": "Malpighian tubules",
+      "explanation": "Malpighian tubules are the excretory and osmoregulatory organs found in insects and some other arthropods."
+    },
+    {
+      "id": "BIO_2000_06",
+      "text": "The blood vessel that carries deoxygenated blood from the body tissues to the right atrium of the heart is the:",
+      "image": "[Diagram of the human heart and major blood vessels]",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Vena cava",
+        "Pulmonary vein"
+      ],
+      "answer": "Vena cava",
+      "explanation": "The superior and inferior vena cavae collect deoxygenated blood from the upper and lower parts of the body, respectively, and deliver it to the right atrium."
+    },
+    {
+      "id": "BIO_2000_07",
+      "text": "Which of the following is an example of discontinuous variation?",
+      "image": "",
+      "options": [
+        "Height in humans",
+        "Skin colour",
+        "Blood groups in humans",
+        "Weight"
+      ],
+      "answer": "Blood groups in humans",
+      "explanation": "Discontinuous variation results in distinct categories (e.g., blood groups A, B, AB, O), unlike continuous variation (like height) which shows a range of intermediates."
+    },
+    {
+      "id": "BIO_2000_08",
+      "text": "The outer non-living layer of the plant stem that reduces water loss is the:",
+      "image": "[Cross-section of a plant stem showing the cuticle]",
+      "options": [
+        "Epidermis",
+        "Cortex",
+        "Phloem",
+        "Cuticle"
+      ],
+      "answer": "Cuticle",
+      "explanation": "The cuticle is a waxy, waterproof layer secreted by the epidermal cells, primarily serving to minimize water loss through the plant surface."
+    },
+    {
+      "id": "BIO_2000_09",
+      "text": "In the process of vision, the image of an object is formed on the:",
+      "image": "[Labeled diagram of the human eye]",
+      "options": [
+        "Cornea",
+        "Iris",
+        "Lens",
+        "Retina"
+      ],
+      "answer": "Retina",
+      "explanation": "The retina, containing the photoreceptor cells (rods and cones), is where light is focused to form an inverted, real image."
+    },
+    {
+      "id": "BIO_2000_10",
+      "text": "The most effective method of preventing soil erosion on a steep slope is:",
+      "image": "[Image showing contour ploughing or terracing]",
+      "options": [
+        "Overgrazing",
+        "Ploughing straight down the slope",
+        "Terracing",
+        "Bush burning"
+      ],
+      "answer": "Terracing",
+      "explanation": "Terracing involves converting steep slopes into a series of broad, level steps, which slows down the flow of water and prevents soil runoff."
+    },
+    {
+      "id": "BIO_2000_11",
+      "text": "Which of the following is a function of the liver in mammals?",
+      "image": "",
+      "options": [
+        "Digestion of starch",
+        "Secretion of insulin",
+        "Detoxification of blood",
+        "Production of red blood cells"
+      ],
+      "answer": "Detoxification of blood",
+      "explanation": "The liver plays a major role in metabolism, including detoxifying the blood by breaking down alcohol, drugs, and metabolic waste products."
+    },
+    {
+      "id": "BIO_2000_12",
+      "text": "The sequence of organisms in a food chain starting with a producer is:",
+      "image": "[Simple food chain diagram]",
+      "options": [
+        "Consumer $\\rightarrow$ Producer $\\rightarrow$ Decomposer",
+        "Producer $\\rightarrow$ Primary consumer $\\rightarrow$ Secondary consumer",
+        "Decomposer $\\rightarrow$ Producer $\\rightarrow$ Consumer",
+        "Primary consumer $\\rightarrow$ Secondary consumer $\\rightarrow$ Producer"
+      ],
+      "answer": "Producer $\\rightarrow$ Primary consumer $\\rightarrow$ Secondary consumer",
+      "explanation": "Energy flows from producers (plants) to primary consumers (herbivores) and then to secondary consumers (carnivores)."
+    },
+    {
+      "id": "BIO_2000_13",
+      "text": "A plant with parallel venation and fibrous roots is likely a:",
+      "image": "[Diagram comparing monocot and dicot features]",
+      "options": [
+        "Dicotyledonous plant",
+        "Monocotyledonous plant",
+        "Non-flowering plant",
+        "Gymnosperm"
+      ],
+      "answer": "Monocotyledonous plant",
+      "explanation": "Parallel venation (in leaves) and a fibrous root system are characteristic features of monocots (e.g., grasses, maize)."
+    },
+    {
+      "id": "BIO_2000_14",
+      "text": "The fusion of the nucleus of a sperm and an egg is called:",
+      "image": "",
+      "options": [
+        "Amniocentesis",
+        "Oogenesis",
+        "Fertilization",
+        "Gametogenesis"
+      ],
+      "answer": "Fertilization",
+      "explanation": "Fertilization is the process where the male gamete (sperm) and female gamete (egg) fuse their nuclei to form a diploid zygote."
+    },
+    {
+      "id": "BIO_2000_15",
+      "text": "Which of the following parts of the human digestive system is mainly responsible for the reabsorption of water?",
+      "image": "[Diagram of the human large intestine]",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Oesophagus"
+      ],
+      "answer": "Large intestine",
+      "explanation": "The large intestine's primary role is to absorb water and electrolytes from the remaining indigestible food matter, forming faeces."
+    },
+    {
+      "id": "BIO_2000_16",
+      "text": "The disease caused by the lack of iodine in the diet is:",
+      "image": "",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Kwashiorkor",
+        "Goitre"
+      ],
+      "answer": "Goitre",
+      "explanation": "Iodine is essential for the production of thyroid hormones. Deficiency leads to the enlargement of the thyroid gland, known as goitre."
+    },
+    {
+      "id": "BIO_2000_17",
+      "text": "In a food web, grasshoppers are classified as:",
+      "image": "[Food web showing different trophic levels]",
+      "options": [
+        "Producers",
+        "Primary consumers",
+        "Secondary consumers",
+        "Decomposers"
+      ],
+      "answer": "Primary consumers",
+      "explanation": "Grasshoppers are herbivores, feeding on producers (grass/plants). Therefore, they are primary consumers."
+    },
+    {
+      "id": "BIO_2000_18",
+      "text": "The instrument used to measure relative humidity is the:",
+      "image": "",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "answer": "Hygrometer",
+      "explanation": "A hygrometer is a device used to measure the amount of water vapour in the atmosphere, or humidity."
+    },
+    {
+      "id": "BIO_2000_19",
+      "text": "The structural and functional unit of the nervous system is the:",
+      "image": "[Diagram of a neuron (nerve cell)]",
+      "options": [
+        "Nephron",
+        "Alveolus",
+        "Neuron",
+        "Spinal cord"
+      ],
+      "answer": "Neuron",
+      "explanation": "The neuron, or nerve cell, is specialized to transmit nerve impulses and is the basic unit of the nervous system."
+    },
+    {
+      "id": "BIO_2000_20",
+      "text": "Which of the following characteristics is common to all organisms in the kingdom Animalia?",
+      "image": "",
+      "options": [
+        "Possession of cell walls",
+        "Autotrophic nutrition",
+        "Eukaryotic and multicellular",
+        "Presence of chlorophyll"
+      ],
+      "answer": "Eukaryotic and multicellular",
+      "explanation": "Animals are all multicellular organisms whose cells contain a true nucleus and membrane-bound organelles (Eukaryotic)."
+    },
+    {
+      "id": "BIO_2000_21",
+      "text": "The process of shedding the exoskeleton in arthropods is called:",
+      "image": "",
+      "options": [
+        "Metamorphosis",
+        "Ecdysis (Molting)",
+        "Regeneration",
+        "Hibernation"
+      ],
+      "answer": "Ecdysis (Molting)",
+      "explanation": "Ecdysis, or molting, is the periodic shedding of the cuticle/exoskeleton, which is necessary for growth."
+    },
+    {
+      "id": "BIO_2000_22",
+      "text": "The term used to describe the relationship where two organisms live together and one benefits while the other is neither harmed nor helped is:",
+      "image": "[Diagram illustrating commensalism, e.g., barnacles on a whale]",
+      "options": [
+        "Mutualism",
+        "Parasitism",
+        "Commensalism",
+        "Saprophytism"
+      ],
+      "answer": "Commensalism",
+      "explanation": "Commensalism is an association between two organisms in which one benefits and the other is neither significantly harmed nor benefited."
+    },
+    {
+      "id": "BIO_2000_23",
+      "text": "In man, the end products of aerobic respiration are:",
+      "image": "[Chemical equation for aerobic respiration]",
+      "options": [
+        "Glucose and Oxygen",
+        "Lactic acid and Energy",
+        "Carbon dioxide, Water and Energy",
+        "Alcohol and Carbon dioxide"
+      ],
+      "answer": "Carbon dioxide, Water and Energy",
+      "explanation": "Aerobic respiration in mammals breaks down glucose fully in the presence of oxygen to produce $\\text{CO}_2$, $\\text{H}_2\text{O}$, and a large amount of ATP (energy)."
+    },
+    {
+      "id": "BIO_2000_24",
+      "text": "The organelle responsible for generating energy through cellular respiration in eukaryotes is the:",
+      "image": "[Diagram of a mitochondrion]",
+      "options": [
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are the powerhouses of the cell, where the final stages of aerobic respiration occur to produce ATP."
+    },
+    {
+      "id": "BIO_2000_25",
+      "text": "The ability of the human body to maintain a relatively constant internal environment despite changes in the external environment is known as:",
+      "image": "[Feedback loop diagram illustrating homeostasis]",
+      "options": [
+        "Excretion",
+        "Osmoregulation",
+        "Homeostasis",
+        "Thermoregulation"
+      ],
+      "answer": "Homeostasis",
+      "explanation": "Homeostasis is the tendency of the body to seek and maintain a stable internal environment (e.g., temperature, $\\text{pH}$, blood glucose)."
+    },
+    {
+      "id": "BIO_2000_26",
+      "text": "The primary agent of dispersal for the fruit of a coconut tree is:",
+      "image": "",
+      "options": [
+        "Wind",
+        "Water",
+        "Animal",
+        "Explosion"
+      ],
+      "answer": "Water",
+      "explanation": "The coconut fruit is adapted for water dispersal (hydrochory) due to its light, fibrous outer layer (husk) which allows it to float."
+    },
+    {
+      "id": "BIO_2000_27",
+      "text": "Which of these is used to test for the presence of starch in a leaf?",
+      "image": "",
+      "options": [
+        "Fehling's solution",
+        "Benedict's solution",
+        "Iodine solution",
+        "Millon's reagent"
+      ],
+      "answer": "Iodine solution",
+      "explanation": "Iodine solution changes from brown/yellow to blue-black in the presence of starch."
+    },
+    {
+      "id": "BIO_2000_28",
+      "text": "The part of the flower that develops into the fruit after fertilization is the:",
+      "image": "[Diagram of a flower showing ovary developing into fruit]",
+      "options": [
+        "Ovule",
+        "Style",
+        "Ovary",
+        "Sepal"
+      ],
+      "answer": "Ovary",
+      "explanation": "After fertilization, the ovule develops into the seed, and the ovary wall develops into the fruit wall."
+    },
+    {
+      "id": "BIO_2000_29",
+      "text": "Which of the following organisms is likely to have its population controlled by a density-dependent factor?",
+      "image": "",
+      "options": [
+        "A population of bacteria in a laboratory culture",
+        "A population of fish killed by an oil spill",
+        "A population of trees affected by a hurricane",
+        "A population of birds killed by a sudden frost"
+      ],
+      "answer": "A population of bacteria in a laboratory culture",
+      "explanation": "Density-dependent factors (e.g., competition for food, accumulation of waste) increase their effect as population density increases. This is a classic example in a limited lab culture."
+    },
+    {
+      "id": "BIO_2000_30",
+      "text": "The primary site of absorption of digested food in man is the:",
+      "image": "[Cross-section of the small intestine showing villi]",
+      "options": [
+        "Stomach",
+        "Duodenum",
+        "Colon",
+        "Ileum (part of the small intestine)"
+      ],
+      "answer": "Ileum (part of the small intestine)",
+      "explanation": "The ileum, the final and longest section of the small intestine, has highly folded walls (villi) that provide a vast surface area for absorbing simple sugars, amino acids, and fatty acids."
+    },
+    {
+      "id": "BIO_2000_31",
+      "text": "The cell organelle that contains digestive enzymes and is responsible for breaking down worn-out cell parts is the:",
+      "image": "[Diagram of a lysosome]",
+      "options": [
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Lysosome",
+        "Centriole"
+      ],
+      "answer": "Lysosome",
+      "explanation": "Lysosomes contain hydrolytic enzymes and function in intracellular digestion, breaking down cellular waste, debris, and foreign particles."
+    },
+    {
+      "id": "BIO_2000_32",
+      "text": "If a tall plant (TT) is crossed with a dwarf plant (tt), the genotype of the $\\text{F}_1$ generation will be:",
+      "image": "[Punnett square for TT x tt cross]",
+      "options": [
+        "TT",
+        "tt",
+        "Tt",
+        "Tt and TT in equal proportion"
+      ],
+      "answer": "Tt",
+      "explanation": "The cross TT $\\times$ tt produces only heterozygous offspring (Tt) in the $\\text{F}_1$ generation."
+    },
+    {
+      "id": "BIO_2000_33",
+      "text": "Which of the following adaptations would be found in a xerophyte (desert plant)?",
+      "image": "",
+      "options": [
+        "Broad leaves with many stomata",
+        "Thin cuticle and shallow roots",
+        "Sunken stomata and thick, fleshy stems",
+        "Presence of aerenchyma tissue"
+      ],
+      "answer": "Sunken stomata and thick, fleshy stems",
+      "explanation": "Xerophytes are adapted to conserve water. Sunken stomata trap moist air, reducing water loss, and thick, fleshy stems (like in cacti) store water."
+    },
+    {
+      "id": "BIO_2000_34",
+      "text": "The condition caused by the excessive secretion of growth hormone after puberty is:",
+      "image": "[Image showing characteristics of Acromegaly]",
+      "options": [
+        "Gigantism",
+        "Dwarfism",
+        "Diabetes mellitus",
+        "Acromegaly"
+      ],
+      "answer": "Acromegaly",
+      "explanation": "Gigantism is caused by excess growth hormone before puberty (when growth plates are open). Acromegaly is caused by excess growth hormone in adulthood, leading to enlargement of the extremities and facial features."
+    },
+    {
+      "id": "BIO_2000_35",
+      "text": "The primary force that drives water up the xylem vessels in tall plants is:",
+      "image": "[Diagram illustrating the Cohesion-Tension Theory]",
+      "options": [
+        "Root pressure",
+        "Osmotic pressure",
+        "Turgor pressure",
+        "Transpiration pull"
+      ],
+      "answer": "Transpiration pull",
+      "explanation": "Transpiration (evaporation of water from leaves) creates a negative pressure (tension) that pulls a continuous column of water up the xylem vessels, a mechanism known as the cohesion-tension theory."
+    },
+    {
+      "id": "BIO_2000_36",
+      "text": "The final product of protein digestion are:",
+      "image": "",
+      "options": [
+        "Fatty acids and glycerol",
+        "Glucose",
+        "Amino acids",
+        "Maltose"
+      ],
+      "answer": "Amino acids",
+      "explanation": "Proteins are broken down by proteases into their monomer units, amino acids, which are small enough to be absorbed."
+    },
+    {
+      "id": "BIO_2000_37",
+      "text": "Which of the following is the largest taxonomic group?",
+      "image": "[Taxonomic hierarchy chart (Kingdom, Phylum, etc.)]",
+      "options": [
+        "Phylum",
+        "Order",
+        "Class",
+        "Kingdom"
+      ],
+      "answer": "Kingdom",
+      "explanation": "The standard hierarchy of classification is: Kingdom, Phylum, Class, Order, Family, Genus, Species. Kingdom is the most inclusive (largest) group."
+    },
+    {
+      "id": "BIO_2000_38",
+      "text": "The type of immunity acquired after vaccination is called:",
+      "image": "[Diagram comparing active and passive immunity]",
+      "options": [
+        "Natural active immunity",
+        "Artificial passive immunity",
+        "Artificial active immunity",
+        "Natural passive immunity"
+      ],
+      "answer": "Artificial active immunity",
+      "explanation": "Vaccination introduces a weakened or dead pathogen (artificial means) to stimulate the body's immune system to produce antibodies and memory cells (active response)."
+    },
+    {
+      "id": "BIO_2000_39",
+      "text": "In the ecological succession of a pond, the pioneer organisms are usually:",
+      "image": "[Diagram illustrating the stages of hydrosere succession]",
+      "options": [
+        "Shrubs and trees",
+        "Floating plants",
+        "Phytoplankton and submerged plants",
+        "Grasses"
+      ],
+      "answer": "Phytoplankton and submerged plants",
+      "explanation": "In hydrosere (aquatic succession), the first living organisms to colonize the open water are usually microscopic algae (phytoplankton) and submerged, rooted plants."
+    },
+    {
+      "id": "BIO_2000_40",
+      "text": "The function of the white blood cells (leucocytes) in mammals is primarily to:",
+      "image": "[Microscopic image of white blood cells engulfing bacteria]",
+      "options": [
+        "Transport oxygen",
+        "Initiate blood clotting",
+        "Defend the body against diseases",
+        "Transport hormones"
+      ],
+      "answer": "Defend the body against diseases",
+      "explanation": "White blood cells are the main component of the immune system, responsible for fighting infection and defending the body through phagocytosis and antibody production."
+    }
+  ]

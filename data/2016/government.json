@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G241",
+        "text": "The $\\textbf{2016 Presidential Election}$ outcome, where the popular vote winner lost the election, highlights the importance of the $\\textbf{Electoral College}$. The number of electors a state receives is determined by the total number of its:",
+        "image": "",
+        "options": [
+            "Registered voters only",
+            "Congressional representatives (House members + Senators)",
+            "Counties and parishes",
+            "State governors"
+        ],
+        "answer": "Congressional representatives (House members + Senators)",
+        "explanation": "A state gets a number of electors equal to its total delegation in Congress (House members based on population + two Senators)."
+    },
+    {
+        "id": "G242",
+        "text": "The death of Justice Antonin Scalia in February 2016 created a Supreme Court vacancy. The Senate's subsequent refusal to hold hearings on nominee Merrick Garland was a use of the check on the executive branch known as:",
+        "image": "",
+        "options": [
+            "The Power of the Purse",
+            "The Advice and Consent Power",
+            "Judicial Review",
+            "The Impeachment Power"
+        ],
+        "answer": "The Advice and Consent Power",
+        "explanation": "The Senate must consent to presidential appointments. By refusing to act, the Senate effectively blocked the nomination."
+    },
+    {
+        "id": "G243",
+        "text": "In the 2016 election, outside spending by groups like $\\textbf{Super PACs}$ and 'dark money' organizations played a huge role. These groups are heavily regulated by laws stemming from the power of Congress to:",
+        "image": "",
+        "options": [
+            "Regulate Interstate Commerce",
+            "Protect the Fifth Amendment",
+            "Appoint federal judges",
+            "Issue pardons"
+        ],
+        "answer": "Regulate Interstate Commerce",
+        "explanation": "Campaign finance law is often justified as regulating the flow of money in political communication and elections, tied to Congress's Commerce Clause power."
+    },
+    {
+        "id": "G244",
+        "text": "During the primaries, the media played a significant role by covering candidates who generated high public interest, often referred to as the media's function as a:",
+        "image": "",
+        "options": [
+            "Official Lawmaker",
+            "Gatekeeper",
+            "Rule-maker",
+            "Dissenting Judge"
+        ],
+        "answer": "Gatekeeper",
+        "explanation": "The gatekeeper role involves the media determining which stories (or candidates) are important enough to be covered and how much attention they receive."
+    },
+    {
+        "id": "G245",
+        "text": "The peaceful transfer of power following the 2016 election is a key component of the American political system, relying on the concept of:",
+        "image": "",
+        "options": [
+            "Judicial Activism",
+            "Political Legitimacy",
+            "Unfunded Mandates",
+            "Fiscal Policy"
+        ],
+        "answer": "Political Legitimacy",
+        "explanation": "Legitimacy means the citizens accept the government's right to rule and the authority of the election process."
+    },
+    {
+        "id": "G246",
+        "text": "Controversies during the campaign highlighted the rights of the accused. The $\\textbf{Fifth Amendment}$ guarantees protection against self-incrimination, which includes the right to:",
+        "image": "",
+        "options": [
+            "A speedy trial",
+            "Confront one's accuser",
+            "Remain silent ('Plead the Fifth')",
+            "Protection from cruel and unusual punishment"
+        ],
+        "answer": "Remain silent ('Plead the Fifth')",
+        "explanation": "The clause states that no person 'shall be compelled in any criminal case to be a witness against himself.'"
+    },
+    {
+        "id": "G247",
+        "text": "The debate over judicial nominees, such as Merrick Garland, involves $\\textbf{judicial philosophy}$. A judge who favors the $\\textbf{original meaning}$ of the Constitution is likely practicing:",
+        "image": "",
+        "options": [
+            "Judicial Restraint",
+            "Judicial Activism",
+            "Originalism",
+            "Selective Incorporation"
+        ],
+        "answer": "Originalism",
+        "explanation": "Originalism is the belief that the Constitution should be interpreted based on the meaning of the text at the time of its ratification."
+    },
+    {
+        "id": "G248",
+        "text": "Most states follow a $\\textbf{winner-take-all}$ system in the Electoral College. This means the presidential candidate who wins the state's popular vote receives:",
+        "image": "",
+        "options": [
+            "A proportion of the state's electoral votes equal to their popular vote share",
+            "All of the state's electoral votes",
+            "Only the votes of the state's Senators",
+            "None of the state's electoral votes"
+        ],
+        "answer": "All of the state's electoral votes",
+        "explanation": "This system concentrates campaign efforts on competitive 'swing' states."
+    },
+    {
+        "id": "G249",
+        "text": "The $\\textbf{motor voter laws}$ were intended to increase $\\textbf{voter turnout}$ by allowing citizens to register to vote when applying for a:",
+        "image": "",
+        "options": [
+            "Passport",
+            "Driver's license",
+            "Social Security number",
+            "Birth certificate"
+        ],
+        "answer": "Driver's license",
+        "explanation": "The National Voter Registration Act of 1993, or 'Motor Voter Act,' simplifies voter registration."
+    },
+    {
+        "id": "G250",
+        "text": "In the period following the election, the incoming administration began planning its agenda. The power to $\\textbf{veto}$ a bill is a primary check the President has over:",
+        "image": "",
+        "options": [
+            "The Supreme Court",
+            "The Federal Bureaucracy",
+            "Congress",
+            "State governors"
+        ],
+        "answer": "Congress",
+        "explanation": "The veto allows the President to block legislation, forcing Congress to achieve a two-thirds majority to override."
+    },
+    {
+        "id": "G251",
+        "text": "Political parties hold $\\textbf{National Conventions}$ primarily to formally nominate their presidential and vice-presidential candidates and to adopt their official:",
+        "image": "",
+        "options": [
+            "Campaign finance reports",
+            "Party Platform",
+            "Federal budget proposal",
+            "Cabinet appointees"
+        ],
+        "answer": "Party Platform",
+        "explanation": "The party platform outlines the official stance on major issues that the candidates are expected to support."
+    },
+    {
+        "id": "G252",
+        "text": "$\\textbf{Soft money}$ refers to campaign contributions that were historically unregulated and not subject to federal limits. This form of money was often funneled through:",
+        "image": "",
+        "options": [
+            "The Federal Reserve",
+            "National party organizations",
+            "Individual candidate committees",
+            "The U.S. Postal Service"
+        ],
+        "answer": "National party organizations",
+        "explanation": "Soft money was meant for 'party building' activities but was often used to aid federal campaigns before the Bipartisan Campaign Reform Act (BCRA) largely banned it."
+    },
+    {
+        "id": "G253",
+        "text": "The Electoral College system was created by the Framers as a compromise between electing the president by a vote in Congress and electing the president by:",
+        "image": "",
+        "options": [
+            "A vote of the governors",
+            "A direct popular vote",
+            "Appointment by the Supreme Court",
+            "Lottery"
+        ],
+        "answer": "A direct popular vote",
+        "explanation": "The Framers distrusted pure democracy but also wanted to ensure the president had some national mandate."
+    },
+    {
+        "id": "G254",
+        "text": "The majority of $\\textbf{voter participation}$ in the United States is generally highest for which type of election?",
+        "image": "",
+        "options": [
+            "Local school board elections",
+            "Midterm elections",
+            "Presidential elections",
+            "Primary elections"
+        ],
+        "answer": "Presidential elections",
+        "explanation": "Presidential elections attract the most media attention and mobilization efforts, leading to the highest turnout rates."
+    },
+    {
+        "id": "G255",
+        "text": "The $\\textbf{Free Exercise Clause}$ of the First Amendment was debated in 2016 regarding religious liberty and government mandates. This clause protects an individual's right to:",
+        "image": "",
+        "options": [
+            "Engage in political speech without limits",
+            "Practice their religion freely",
+            "Avoid paying taxes",
+            "Assemble peaceably"
+        ],
+        "answer": "Practice their religion freely",
+        "explanation": "It protects the right of citizens to hold any religious belief and exercise that belief, provided it doesn't violate public safety or morality."
+    },
+    {
+        "id": "G256",
+        "text": "The $\\textbf{Senate Judiciary Committee}$ plays a crucial role in judicial nominations by performing the initial:",
+        "image": "",
+        "options": [
+            "Filibuster",
+            "Investigation and public hearings",
+            "Veto override",
+            "Pardoning of nominees"
+        ],
+        "answer": "Investigation and public hearings",
+        "explanation": "The committee vets the nominee, questions them in public hearings, and ultimately votes on a recommendation to the full Senate."
+    },
+    {
+        "id": "G257",
+        "text": "When a presidential candidate wins the election, their incoming $\\textbf{Cabinet}$ must be confirmed by the Senate, illustrating the principle of:",
+        "image": "",
+        "options": [
+            "Federalism",
+            "Checks and Balances",
+            "Separation of Church and State",
+            "Judicial Supremacy"
+        ],
+        "answer": "Checks and Balances",
+        "explanation": "The Senate's role in confirming executive appointments is a classic check on the President's power."
+    },
+    {
+        "id": "G258",
+        "text": "The rise of $\\textbf{social media}$ in 2016 changed how candidates could communicate with the public, allowing them to bypass traditional media outlets. This is referred to as:",
+        "image": "",
+        "options": [
+            "Direct Communication",
+            "Agenda-Setting",
+            "Stare Decisis",
+            "Cloture"
+        ],
+        "answer": "Direct Communication",
+        "explanation": "Candidates can now speak directly to voters without needing journalists or editors to filter their message."
+    },
+    {
+        "id": "G259",
+        "text": "The decentralized nature of election administration means that the primary responsibility for conducting elections, setting polling times, and counting ballots rests with the:",
+        "image": "",
+        "options": [
+            "Department of Homeland Security",
+            "Federal Election Commission (FEC)",
+            "State and local governments",
+            "Electoral College"
+        ],
+        "answer": "State and local governments",
+        "explanation": "Under the principle of federalism, states have reserved powers to manage elections, even for federal office."
+    },
+    {
+        "id": "G260",
+        "text": "The $\\textbf{Fourteenth Amendment's Due Process Clause}$ ensures that state governments must:",
+        "image": "",
+        "options": [
+            "Provide life tenure to all state judges",
+            "Follow fair procedures when taking a person's life, liberty, or property",
+            "Establish a state religion",
+            "Ratify all federal treaties"
+        ],
+        "answer": "Follow fair procedures when taking a person's life, liberty, or property",
+        "explanation": "Due process guarantees procedural fairness and is the clause used to apply (incorporate) the Bill of Rights to the states."
+    },
+    {
+        "id": "G261",
+        "text": "The $\\textbf{Twenty-Third Amendment}$ grants electoral votes to:",
+        "image": "",
+        "options": [
+            "Puerto Rico",
+            "The District of Columbia",
+            "Guam",
+            "The U.S. territories"
+        ],
+        "answer": "The District of Columbia",
+        "explanation": "It allows D.C. to have as many electors as the least populated state (three)."
+    },
+    {
+        "id": "G262",
+        "text": "The Supreme Court case $\\textit{Citizens United v. FEC}$ (2010) established that corporations and unions have the same $\\textbf{First Amendment}$ free speech rights as individuals and thus allowed for:",
+        "image": "",
+        "options": [
+            "Unlimited direct contributions to candidates",
+            "Unlimited independent political spending (Super PACs)",
+            "Mandatory voter registration",
+            "The repeal of the Electoral College"
+        ],
+        "answer": "Unlimited independent political spending (Super PACs)",
+        "explanation": "The ruling created Super PACs and dramatically increased the amount of independent expenditure in elections."
+    },
+    {
+        "id": "G263",
+        "text": "The concept of $\\textbf{Judicial Independence}$—the freedom of judges from external pressures—is chiefly ensured by the constitutional provisions for $\\textbf{life tenure}$ and:",
+        "image": "",
+        "options": [
+            "The power of judicial review",
+            "The inability of Congress to reduce judicial salaries",
+            "The President's power to pardon",
+            "The right to a speedy trial"
+        ],
+        "answer": "The inability of Congress to reduce judicial salaries",
+        "explanation": "Article III protects judges' pay to ensure they cannot be punished by Congress for unpopular decisions."
+    },
+    {
+        "id": "G264",
+        "text": "The $\\textbf{Establishment Clause}$ of the First Amendment is often invoked to prevent government funding of:",
+        "image": "",
+        "options": [
+            "Public education",
+            "Religious instruction in public schools",
+            "Military equipment",
+            "Interstate highways"
+        ],
+        "answer": "Religious instruction in public schools",
+        "explanation": "The clause mandates separation between church and state, forbidding the government from financially supporting or endorsing religion."
+    },
+    {
+        "id": "G265",
+        "text": "The process of $\\textbf{Gerrymandering}$ involves drawing electoral district boundaries to benefit one political party. The Supreme Court has ruled that this practice is unconstitutional if it is based on:",
+        "image": "",
+        "options": [
+            "Socio-economic status",
+            "Race",
+            "Political party affiliation (partisan gerrymandering)",
+            "Age"
+        ],
+        "answer": "Race",
+        "explanation": "Racial gerrymandering is illegal under the Equal Protection Clause. Partisan gerrymandering remains a largely unsettled legal issue."
+    },
+    {
+        "id": "G266",
+        "text": "In the Electoral College, the term $\\textbf{safe state}$ refers to a state where:",
+        "image": "",
+        "options": [
+            "Election fraud is impossible",
+            "The outcome of the presidential vote is almost always predictable for one party",
+            "Voter turnout is extremely low",
+            "Voter registration is mandatory"
+        ],
+        "answer": "The outcome of the presidential vote is almost always predictable for one party",
+        "explanation": "Campaigns tend to ignore safe states, focusing resources instead on 'swing' or 'battleground' states."
+    },
+    {
+        "id": "G267",
+        "text": "The $\\textbf{watchdog function}$ of the media is best exemplified when a news organization:",
+        "image": "",
+        "options": [
+            "Runs a campaign advertisement for a candidate",
+            "Exposes corruption or abuse of power by public officials",
+            "Organizes a voter registration drive",
+            "Predicts the winner on election night"
+        ],
+        "answer": "Exposes corruption or abuse of power by public officials",
+        "explanation": "The watchdog role involves scrutinizing the actions of government officials and seeking to protect the public interest."
+    },
+    {
+        "id": "G268",
+        "text": "Which level of government has the $\\textbf{reserved power}$ to determine $\\textbf{voter qualifications}$ (beyond the constitutional minimums) and election procedures?",
+        "image": "",
+        "options": [
+            "Federal Government",
+            "State Governments",
+            "The United Nations",
+            "The Federal Reserve"
+        ],
+        "answer": "State Governments",
+        "explanation": "The Constitution delegates the power to set voter qualifications and administer elections primarily to the states."
+    },
+    {
+        "id": "G269",
+        "text": "The Supreme Court has upheld the constitutionality of $\\textbf{campaign spending limits}$ for individuals or groups, but only if the spending is considered a $\\textbf{contribution}$ and not an $\\textbf{independent expenditure}$, due to the protection of:",
+        "image": "",
+        "options": [
+            "The Fourth Amendment",
+            "The First Amendment (Free Speech)",
+            "The Ninth Amendment",
+            "The Tenth Amendment"
+        ],
+        "answer": "The First Amendment (Free Speech)",
+        "explanation": "Spending money to influence an election is generally considered a form of speech protected by the First Amendment."
+    },
+    {
+        "id": "G270",
+        "text": "A $\\textbf{PAC}$ (Political Action Committee) is a private group organized to raise and spend money to elect or defeat candidates. Unlike a Super PAC, a traditional PAC $\\textbf{can}$:",
+        "image": "",
+        "options": [
+            "Spend unlimited amounts independently",
+            "Accept unlimited contributions from corporations and unions",
+            "Contribute limited, direct funds to a candidate's campaign",
+            "Only raise money through lotteries"
+        ],
+        "answer": "Contribute limited, direct funds to a candidate's campaign",
+        "explanation": "Traditional PACs have limits on contributions but can give directly to candidates; Super PACs have no spending limits but cannot coordinate with or contribute directly to candidates."
+    },
+    {
+        "id": "G271",
+        "text": "The $\\textbf{Twenty-Second Amendment}$ (1951) was passed in response to Franklin D. Roosevelt's four terms in office, limiting the President to how many terms?",
+        "image": "",
+        "options": [
+            "One term only",
+            "Two terms",
+            "Three terms",
+            "Four terms"
+        ],
+        "answer": "Two terms",
+        "explanation": "The 22nd Amendment limits a person to two elected terms as President."
+    },
+    {
+        "id": "G272",
+        "text": "When a party $\\textbf{strategically uses the media}$ to frame an issue in a way that benefits their candidate, they are engaging in:",
+        "image": "",
+        "options": [
+            "Agenda Setting",
+            "Framing",
+            "Lobbying",
+            "Cloture"
+        ],
+        "answer": "Framing",
+        "explanation": "Framing is the process by which a communication source defines and constructs a political issue or public controversy."
+    },
+    {
+        "id": "G273",
+        "text": "The $\\textbf{incumbency advantage}$ in congressional elections (not presidential) is often attributed to superior fundraising, name recognition, and:",
+        "image": "",
+        "options": [
+            "Lifetime appointments",
+            "The Franking Privilege",
+            "The power of judicial review",
+            "The ability to issue executive orders"
+        ],
+        "answer": "The Franking Privilege",
+        "explanation": "The Franking Privilege allows members of Congress to send mail to constituents without paying postage, a significant communication advantage."
+    },
+    {
+        "id": "G274",
+        "text": "The constitutional requirement that the President must be a $\\textbf{natural-born citizen}$ means they must have been a citizen:",
+        "image": "",
+        "options": [
+            "Since their 18th birthday",
+            "For at least 14 years",
+            "At birth (either on U.S. soil or to U.S. citizen parents)",
+            "Before the age of 5"
+        ],
+        "answer": "At birth (either on U.S. soil or to U.S. citizen parents)",
+        "explanation": "This requirement ensures the President has a singular allegiance to the United States."
+    },
+    {
+        "id": "G275",
+        "text": "A $\\textbf{closed primary}$ election is one in which:",
+        "image": "",
+        "options": [
+            "Only the candidates can vote",
+            "Only registered members of the party may vote",
+            "Voters can vote for any candidate, regardless of party affiliation",
+            "Only mail-in ballots are accepted"
+        ],
+        "answer": "Only registered members of the party may vote",
+        "explanation": "Closed primaries tend to result in the nomination of more ideological candidates, as only committed partisans participate."
+    },
+    {
+        "id": "G276",
+        "text": "The $\\textbf{Supremacy Clause}$ of the Constitution resolves conflicts between the $\\textbf{national}$ government and $\\textbf{state}$ governments by stating that the supreme law is:",
+        "image": "",
+        "options": [
+            "The will of the people",
+            "The U.S. Constitution and federal law",
+            "The state constitutions",
+            "The local ordinances"
+        ],
+        "answer": "The U.S. Constitution and federal law",
+        "explanation": "Federal law takes precedence over state law when they conflict, provided the federal government is acting within its constitutional limits."
+    },
+    {
+        "id": "G277",
+        "text": "The concept that the judiciary should seldom use its power of judicial review and should defer to elected officials is known as:",
+        "image": "",
+        "options": [
+            "Judicial Activism",
+            "Judicial Restraint",
+            "Original Intent",
+            "Stare Decisis"
+        ],
+        "answer": "Judicial Restraint",
+        "explanation": "Judicial restraint is the guiding philosophy for judges who believe policy decisions should be left to the legislative and executive branches."
+    },
+    {
+        "id": "G278",
+        "text": "The $\\textbf{Whip}$ in both the House and Senate leadership is primarily responsible for:",
+        "image": "",
+        "options": [
+            "Managing the floor debate",
+            "Persuading party members to vote according to the party line",
+            "Presiding over the chamber",
+            "Writing the federal budget"
+        ],
+        "answer": "Persuading party members to vote according to the party line",
+        "explanation": "Whips count votes and ensure party discipline."
+    },
+    {
+        "id": "G279",
+        "text": "The $\\textbf{First Amendment}$ protects the right to $\\textbf{petition}$ the government. A modern example of this is:",
+        "image": "",
+        "options": [
+            "Impeaching the President",
+            "Signing an online petition to change a law",
+            "Writing a dissenting Supreme Court opinion",
+            "Declaring war"
+        ],
+        "answer": "Signing an online petition to change a law",
+        "explanation": "The right to petition includes communicating one's views to the government, often through letters, appeals, or petitions."
+    },
+    {
+        "id": "G280",
+        "text": "In the context of the federal budget, $\\textbf{entitlement programs}$ are a form of $\\textbf{mandatory spending}$ because:",
+        "image": "",
+        "options": [
+            "The President can eliminate them at will",
+            "Congress must set aside funds annually for all who qualify",
+            "The Supreme Court can cancel them",
+            "They are funded entirely by state governments"
+        ],
+        "answer": "Congress must set aside funds annually for all who qualify",
+        "explanation": "Entitlements (like Social Security) are programs for which Congress has legally committed to pay benefits to all who meet the eligibility requirements."
+    }
+]

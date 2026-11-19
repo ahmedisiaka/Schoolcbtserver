@@ -1,0 +1,322 @@
+[
+    {
+      "id": "CHEM_Q_01",
+      "text": "The amount of substance that contains as many elementary units as there are atoms in $0.012 \\text{ kg}$ of carbon-12 is known as:",
+      "image": "",
+      "options": ["Mole", "Molar mass", "Avogadro's number", "Relative atomic mass"],
+      "answer": "Mole",
+      "explanation": "The mole is the S.I. unit of the amount of substance, defined as the number of elementary entities equal to the number of atoms in 12 grams (or 0.012 kg) of carbon-12."
+    },
+    {
+      "id": "CHEM_Q_02",
+      "text": "What is the oxidation state of sulfur in sodium tetraoxosulphate(VI) ($\\text{Na}_2\\text{SO}_4$)?",
+      "image": "",
+      "options": ["+2", "+4", "+6", "+8"],
+      "answer": "+6",
+      "explanation": "The overall charge is 0. $\\text{Na}$ is +1, $\\text{O}$ is -2. $(2 \\times +1) + S + (4 \\times -2) = 0$. $2 + S - 8 = 0$. $S = +6$."
+    },
+    {
+      "id": "CHEM_Q_03",
+      "text": "Which of the following molecules exhibits hydrogen bonding?",
+      "image": "",
+      "options": ["$\text{CH}_4$", "$\text{H}_2\\text{S}$", "$\text{NH}_3$", "$\text{HCl}$"],
+      "answer": "$\text{NH}_3$",
+      "explanation": "Hydrogen bonding occurs when hydrogen is directly bonded to a highly electronegative atom like Nitrogen (N), Oxygen (O), or Fluorine (F)."
+    },
+    {
+      "id": "CHEM_Q_04",
+      "text": "The mass of 1 mole of calcium trioxocarbonate(IV) ($\text{CaCO}_3$) is: [Atomic masses: $\\text{Ca}=40, \\text{C}=12, \\text{O}=16$]",
+      "image": "",
+      "options": ["68 g", "72 g", "100 g", "104 g"],
+      "answer": "100 g",
+      "explanation": "Molar mass $= 40 + 12 + (3 \\times 16) = 40 + 12 + 48 = 100 \\text{ g/mol}$."
+    },
+    {
+      "id": "CHEM_Q_05",
+      "text": "According to the kinetic theory of gases, the collision between gas molecules are:",
+      "image": "",
+      "options": ["Inelastic", "Plastic", "Elastic", "Non-existent"],
+      "answer": "Elastic",
+      "explanation": "A key postulate of the kinetic theory of gases is that collisions between gas molecules and the container walls are perfectly elastic, meaning kinetic energy is conserved."
+    },
+    {
+      "id": "CHEM_Q_06",
+      "text": "Which compound is the major component of natural gas?",
+      "image": "",
+      "options": ["Butane", "Propane", "Methane", "Ethene"],
+      "answer": "Methane",
+      "explanation": "Methane ($\text{CH}_4$) is the simplest hydrocarbon and the primary component of natural gas."
+    },
+    {
+      "id": "CHEM_Q_07",
+      "text": "A catalyst increases the rate of a chemical reaction by:",
+      "image": "",
+      "options": ["Increasing the temperature", "Increasing the concentration of reactants", "Lowering the activation energy", "Increasing the enthalpy change"],
+      "answer": "Lowering the activation energy",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy, thus speeding up the reaction."
+    },
+    {
+      "id": "CHEM_Q_08",
+      "text": "The process of combining two or more small atoms to form a larger atom is called:",
+      "image": "",
+      "options": ["Nuclear fission", "Isomerization", "Nuclear fusion", "Radioactivity"],
+      "answer": "Nuclear fusion",
+      "explanation": "Nuclear fusion is the process where two or more atomic nuclei join together to form a single heavier nucleus, releasing massive amounts of energy."
+    },
+    {
+      "id": "CHEM_Q_09",
+      "text": "In a reversible reaction, when the rate of the forward reaction equals the rate of the backward reaction, the system is said to be at:",
+      "image": "",
+      "options": ["Saturation point", "Equilibrium", "Neutralization point", "Standard state"],
+      "answer": "Equilibrium",
+      "explanation": "Chemical equilibrium is the state in a reversible reaction where the concentrations of reactants and products are constant because the rates of the forward and reverse reactions are equal."
+    },
+    {
+      "id": "CHEM_Q_10",
+      "text": "Which of the following is an allotrope of carbon?",
+      "image": "",
+      "options": ["Silicon", "Sulphur", "Diamond", "Teflon"],
+      "answer": "Diamond",
+      "explanation": "Diamond, graphite, and fullerene are common allotropes of carbon."
+    },
+    {
+      "id": "CHEM_Q_11",
+      "text": "What is the phenomenon responsible for the separation of ink components during chromatography?",
+      "image": "[Image of paper chromatography process]",
+      "options": ["Adsorption", "Absorption", "Evaporation", "Sublimation"],
+      "answer": "Adsorption",
+      "explanation": "Chromatography separates components based on their differential distribution between a stationary phase and a mobile phase, often involving adsorption onto the stationary phase."
+    },
+    {
+      "id": "CHEM_Q_12",
+      "text": "An acid that completely ionizes in water is described as a:",
+      "image": "",
+      "options": ["Weak acid", "Strong acid", "Base", "Neutral acid"],
+      "answer": "Strong acid",
+      "explanation": "Strong acids (e.g., $\\text{HCl}, \\text{H}_2\\text{SO}_4$) fully dissociate into ions in water."
+    },
+    {
+      "id": "CHEM_Q_13",
+      "text": "The $\text{pH}$ of a solution is 3. What is the hydrogen ion concentration $[\text{H}^+]$?",
+      "image": "",
+      "options": ["$3.0 \\times 10^{-1} \\text{ mol/dm}^3$", "$1.0 \\times 10^{-3} \\text{ mol/dm}^3$", "$1.0 \\times 10^{3} \\text{ mol/dm}^3$", "$3.0 \\times 10^{-7} \\text{ mol/dm}^3$"],
+      "answer": "$1.0 \\times 10^{-3} \\text{ mol/dm}^3$",
+      "explanation": "$\\text{pH} = -\\log_{10}[\text{H}^+]$. $[\text{H}^+] = 10^{-\text{pH}} = 10^{-3} \\text{ mol/dm}^3$."
+    },
+    {
+      "id": "CHEM_Q_14",
+      "text": "The bond formed by the sharing of electrons between two non-metallic atoms is a(n):",
+      "image": "[Diagram illustrating the electron sharing in a covalent bond, e.g., $\text{H}_2$]",
+      "options": ["Ionic bond", "Metallic bond", "Covalent bond", "Dative bond"],
+      "answer": "Covalent bond",
+      "explanation": "Covalent bonds result from the mutual sharing of electron pairs between atoms."
+    },
+    {
+      "id": "CHEM_Q_15",
+      "text": "If $50 \\text{ cm}^3$ of $0.1 \\text{ M}$ acid is neutralized by $25 \\text{ cm}^3$ of a base, the concentration of the base is: (Assume a 1:1 reaction ratio)",
+      "image": "",
+      "options": ["$0.2 \\text{ M}$", "$0.1 \\text{ M}$", "$0.05 \\text{ M}$", "$0.4 \\text{ M}$"],
+      "answer": "$0.2 \\text{ M}$",
+      "explanation": "Using $C_a V_a / n_a = C_b V_b / n_b$. For 1:1 reaction, $C_a V_a = C_b V_b$. $C_b = (C_a V_a) / V_b = (0.1 \\text{ M} \\times 50 \\text{ cm}^3) / 25 \\text{ cm}^3 = 0.2 \\text{ M}$."
+    },
+    {
+      "id": "CHEM_Q_16",
+      "text": "The IUPAC name for $\text{CH}_3\\text{CH}_2\\text{CH}(\text{CH}_3)\\text{CH}_3$ is:",
+      "image": "",
+      "options": ["Butane", "2-Methylbutane", "Pentane", "2-Ethylpropane"],
+      "answer": "2-Methylbutane",
+      "explanation": "The longest chain has 4 carbons (butane). The methyl group ($\text{CH}_3$) is attached to the second carbon. Total number of carbons is 5, but it is a branched alkane (an isomer of pentane)."
+    },
+    {
+      "id": "CHEM_Q_17",
+      "text": "The general formula for the homologous series of alkanols (alcohols) is:",
+      "image": "",
+      "options": ["$\text{C}_n\text{H}_{2n}$", "$\text{C}_n\text{H}_{2n+1}\text{OH}$", "$\text{C}_n\text{H}_{2n+2}$", "$\text{C}_n\text{H}_{2n-2}$"],
+      "answer": "$\text{C}_n\text{H}_{2n+1}\text{OH}$",
+      "explanation": "Alkanes are $\text{C}_n\text{H}_{2n+2}$. Alkanols replace one $\text{H}$ with $\text{OH}$, giving $\text{C}_n\text{H}_{2n+1}\text{OH}$."
+    },
+    {
+      "id": "CHEM_Q_18",
+      "text": "Which of the following elements is a transition metal?",
+      "image": "[Section of the periodic table highlighting transition metals]",
+      "options": ["Calcium", "Potassium", "Iron", "Aluminium"],
+      "answer": "Iron",
+      "explanation": "Transition metals are found in the d-block of the periodic table, including Iron ($\text{Fe}$), Copper ($\text{Cu}$), Zinc ($\text{Zn}$), etc."
+    },
+    {
+      "id": "CHEM_Q_19",
+      "text": "The gas that turns lime water milky is:",
+      "image": "",
+      "options": ["Oxygen", "Nitrogen", "Carbon monoxide", "Carbon dioxide"],
+      "answer": "Carbon dioxide",
+      "explanation": "Carbon dioxide ($\text{CO}_2$) reacts with calcium hydroxide ($\text{Ca}(\text{OH})_2$) in lime water to form a white precipitate of calcium carbonate ($\text{CaCO}_3$). $\text{CO}_2 + \text{Ca}(\text{OH})_2 \\rightarrow \text{CaCO}_3 + \text{H}_2\text{O}$."
+    },
+    {
+      "id": "CHEM_Q_20",
+      "text": "The $\text{IUPAC}$ name for the functional group -$\text{COOH}$ is:",
+      "image": "",
+      "options": ["Aldehyde", "Ketone", "Carboxylic acid", "Ester"],
+      "answer": "Carboxylic acid",
+      "explanation": "The $-\text{COOH}$ group is the carboxyl functional group, characteristic of carboxylic acids."
+    },
+    {
+      "id": "CHEM_Q_21",
+      "text": "Which law states that equal volumes of all gases, at the same temperature and pressure, contain the same number of molecules?",
+      "image": "",
+      "options": ["Boyle's Law", "Charles' Law", "Graham's Law", "Avogadro's Law"],
+      "answer": "Avogadro's Law",
+      "explanation": "Avogadro's Law relates volume and the amount of gas (number of moles or molecules)."
+    },
+    {
+      "id": "CHEM_Q_22",
+      "text": "An example of a deliquescent substance is:",
+      "image": "",
+      "options": ["Anhydrous calcium chloride", "Copper(II) sulphate", "Sodium trioxocarbonate(IV)", "Iron(II) sulphate"],
+      "answer": "Anhydrous calcium chloride",
+      "explanation": "Deliquescent substances absorb so much water from the atmosphere that they dissolve in it to form a solution (e.g., $\text{CaCl}_2$, $\text{NaOH}$)."
+    },
+    {
+      "id": "CHEM_Q_23",
+      "text": "The total number of electrons in the $\text{O}^{2-}$ ion (Oxygen, atomic number 8) is:",
+      "image": "",
+      "options": ["6", "8", "10", "16"],
+      "answer": "10",
+      "explanation": "Neutral oxygen atom has 8 electrons. The $2-$ charge means it gained 2 electrons. $8 + 2 = 10$ electrons."
+    },
+    {
+      "id": "CHEM_Q_24",
+      "text": "The process of removing an electron from a gaseous atom is called:",
+      "image": "[Diagram illustrating the process of ionization energy]",
+      "options": ["Electron affinity", "Electronegativity", "Ionization energy", "Electrolysis"],
+      "answer": "Ionization energy",
+      "explanation": "Ionization energy is the minimum energy required to remove the most loosely bound electron of an isolated gaseous atom or molecule."
+    },
+    {
+      "id": "CHEM_Q_25",
+      "text": "What is the product formed when ethanol ($\text{C}_2\text{H}_5\text{OH}$) is oxidized by acidified potassium tetraoxomanganate(VII)?",
+      "image": "",
+      "options": ["Ethane", "Ethanal", "Ethanoic acid", "Ethene"],
+      "answer": "Ethanoic acid",
+      "explanation": "Ethanol is a primary alcohol, which undergoes oxidation first to ethanal (aldehyde) and then further to ethanoic acid (carboxylic acid)."
+    },
+    {
+      "id": "CHEM_Q_26",
+      "text": "The minimum energy required for a reaction to occur is the:",
+      "image": "",
+      "options": ["Bond energy", "Heat of reaction", "Activation energy", "Lattice energy"],
+      "answer": "Activation energy",
+      "explanation": "Activation energy ($E_a$) is the minimum energy that must be available to a chemical system for a chemical reaction to take place."
+    },
+    {
+      "id": "CHEM_Q_27",
+      "text": "Which of the following is a physical change?",
+      "image": "",
+      "options": ["Rusting of iron", "Burning of wood", "Dissolving salt in water", "Souring of milk"],
+      "answer": "Dissolving salt in water",
+      "explanation": "Physical changes do not result in the formation of new chemical substances, unlike chemical changes (rusting, burning, souring)."
+    },
+    {
+      "id": "CHEM_Q_28",
+      "text": "The process of electroplating is based on the principle of:",
+      "image": "[Diagram of an electroplating cell]",
+      "options": ["Electrolysis", "Neutralization", "Hydrolysis", "Fermentation"],
+      "answer": "Electrolysis",
+      "explanation": "Electroplating uses electrolysis to deposit a thin layer of one metal onto another object."
+    },
+    {
+      "id": "CHEM_Q_29",
+      "text": "A primary standard solution is one whose concentration:",
+      "image": "",
+      "options": ["Must be determined by titration", "Is constant during storage", "Is accurately known and stable", "Changes easily over time"],
+      "answer": "Is accurately known and stable",
+      "explanation": "A primary standard is a substance of known purity and stability, used to prepare a standard solution or to determine the concentration of an unknown solution."
+    },
+    {
+      "id": "CHEM_Q_30",
+      "text": "Which quantum number specifies the orientation of an orbital in space?",
+      "image": "",
+      "options": ["Principal quantum number ($n$)", "Azimuthal quantum number ($l$)", "Magnetic quantum number ($m_l$)", "Spin quantum number ($m_s$)"],
+      "answer": "Magnetic quantum number ($m_l$)",
+      "explanation": "The magnetic quantum number ($m_l$) defines the number of orbitals and their orientation in space for a given subshell."
+    },
+    {
+      "id": "CHEM_Q_31",
+      "text": "The bond angle in a molecule of water ($\text{H}_2\text{O}$) is approximately:",
+      "image": "[Molecular geometry diagram of $\text{H}_2\text{O}$]",
+      "options": ["$180^{\\circ}$", "$109.5^{\\circ}$", "$104.5^{\\circ}$", "$90^{\\circ}$"],
+      "answer": "$104.5^{\\circ}$",
+      "explanation": "Water has a bent or V-shape molecular geometry due to two lone pairs of electrons on the oxygen atom, which repel the bonding pairs more strongly than the bonding pairs repel each other."
+    },
+    {
+      "id": "CHEM_Q_32",
+      "text": "When chlorine gas ($\text{Cl}_2$) is bubbled into a solution of potassium iodide ($\text{KI}$), the solution turns reddish-brown due to the formation of:",
+      "image": "",
+      "options": ["$\text{KClO}_3$", "$\text{I}_2$", "$\text{HCl}$", "$\text{KCl}$"],
+      "answer": "$\text{I}_2$",
+      "explanation": "Chlorine is a stronger oxidizing agent than iodine, so it displaces iodine from the iodide solution: $\text{Cl}_2 + 2\text{KI} \\rightarrow 2\text{KCl} + \text{I}_2$. $\text{I}_2$ is reddish-brown."
+    },
+    {
+      "id": "CHEM_Q_33",
+      "text": "The process of refining crude oil by separating its components based on their boiling points is called:",
+      "image": "[Diagram of a fractional distillation column]",
+      "options": ["Cracking", "Polymerization", "Fractional distillation", "Hydrogenation"],
+      "answer": "Fractional distillation",
+      "explanation": "Fractional distillation separates the components (fractions) of crude oil because each fraction has a different boiling point."
+    },
+    {
+      "id": "CHEM_Q_34",
+      "text": "Which of the following is a heavy metal that can cause serious environmental pollution?",
+      "image": "",
+      "options": ["Sodium", "Potassium", "Calcium", "Lead"],
+      "answer": "Lead",
+      "explanation": "Lead ($\text{Pb}$), Mercury ($\text{Hg}$), and Cadmium ($\text{Cd}$) are common examples of toxic heavy metals."
+    },
+    {
+      "id": "CHEM_Q_35",
+      "text": "If a gas occupies a volume of $40 \\text{ cm}^3$ at $27^{\\circ}\text{C}$, what volume will it occupy at $227^{\\circ}\text{C}$ assuming constant pressure?",
+      "image": "",
+      "options": ["$80 \\text{ cm}^3$", "$240 \\text{ cm}^3$", "$67 \\text{ cm}^3$", "$120 \\text{ cm}^3$"],
+      "answer": "$67 \\text{ cm}^3$",
+      "explanation": "Using Charles' Law, $V_1/T_1 = V_2/T_2$. Convert temperatures to Kelvin: $T_1 = 27 + 273 = 300 \\text{ K}$, $T_2 = 227 + 273 = 500 \\text{ K}$. $V_2 = V_1 \\times (T_2/T_1) = 40 \\text{ cm}^3 \\times (500 \\text{ K} / 300 \\text{ K}) = 40 \\times 5/3 \\approx 66.67 \\text{ cm}^3$, which is closest to $67 \\text{ cm}^3$."
+    },
+    {
+      "id": "CHEM_Q_36",
+      "text": "A base that is soluble in water is known as an:",
+      "image": "",
+      "options": ["Acid", "Alkali", "Salt", "Oxide"],
+      "answer": "Alkali",
+      "explanation": "An alkali is a soluble base that produces hydroxide ions ($\text{OH}^-$) in water."
+    },
+    {
+      "id": "CHEM_Q_37",
+      "text": "Which bonding type is responsible for the hardness of diamond?",
+      "image": "",
+      "options": ["Ionic bonding", "Metallic bonding", "Covalent bonding (Giant molecular structure)", "Van der Waals forces"],
+      "answer": "Covalent bonding (Giant molecular structure)",
+      "explanation": "Diamond has a giant covalent network structure where each carbon atom is bonded to four others by strong covalent bonds, making it extremely hard."
+    },
+    {
+      "id": "CHEM_Q_38",
+      "text": "In the electrochemical series, a metal with a more negative standard electrode potential is a:",
+      "image": "",
+      "options": ["Weaker reducing agent", "Stronger reducing agent", "Stronger oxidizing agent", "Less reactive metal"],
+      "answer": "Stronger reducing agent",
+      "explanation": "A more negative standard electrode potential indicates a greater tendency to lose electrons (be oxidized), making the species a stronger reducing agent."
+    },
+    {
+      "id": "CHEM_Q_39",
+      "text": "The empirical formula of a compound is $\text{CH}_2$. If its molar mass is $56 \\text{ g/mol}$, what is its molecular formula? [Atomic masses: $\\text{C}=12, \\text{H}=1$]",
+      "image": "",
+      "options": ["$\text{C}_2\text{H}_4$", "$\text{C}_3\text{H}_6$", "$\text{C}_4\text{H}_8$", "$\text{C}_5\text{H}_{10}$"],
+      "answer": "$\text{C}_4\text{H}_8$",
+      "explanation": "Empirical formula mass $= 12 + 2(1) = 14$. $n = \\text{Molar mass} / \\text{Empirical formula mass} = 56 / 14 = 4$. Molecular formula $= (\text{CH}_2)_4 = \text{C}_4\text{H}_8$."
+    },
+    {
+      "id": "CHEM_Q_40",
+      "text": "Le Chatelier's principle states that if a change of condition is applied to a system in equilibrium, the system will shift in a direction that:",
+      "image": "",
+      "options": ["Increases the rate of the reverse reaction", "Increases the yield of the reactants", "Counteracts the applied change", "Increases the total pressure"],
+      "answer": "Counteracts the applied change",
+      "explanation": "Le Chatelier's principle describes how a system at equilibrium responds to external stresses (changes in concentration, temperature, or pressure)."
+    }
+]

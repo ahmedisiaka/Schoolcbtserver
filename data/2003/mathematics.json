@@ -1,0 +1,522 @@
+[
+    {
+      "id": "MATHS_2003_01",
+      "text": "Convert the number $10110_2$ to base 10.",
+      "image": "",
+      "options": [
+        "$18$",
+        "$22$",
+        "$24$",
+        "$26$"
+      ],
+      "answer": "$22$",
+      "explanation": "To convert from base 2 to base 10, use place values: $1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 1 \\times 2^1 + 0 \\times 2^0 = 16 + 0 + 4 + 2 + 0 = 22$."
+    },
+    {
+      "id": "MATHS_2003_02",
+      "text": "Simplify $\\frac{1}{\\sqrt{3} - 1}$ by rationalizing the denominator.",
+      "image": "",
+      "options": [
+        "$\\sqrt{3} + 1$",
+        "$\\frac{\\sqrt{3} + 1}{2}$",
+        "$\\frac{\\sqrt{3} - 1}{2}$",
+        "$\\frac{\\sqrt{3} + 1}{4}$"
+      ],
+      "answer": "$\\frac{\\sqrt{3} + 1}{2}$",
+      "explanation": "Multiply numerator and denominator by the conjugate $\\sqrt{3} + 1$: $\\frac{1}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{\\sqrt{3} + 1}{(\\sqrt{3})^2 - 1^2} = \\frac{\\sqrt{3} + 1}{3 - 1} = \\frac{\\sqrt{3} + 1}{2}$."
+    },
+    {
+      "id": "MATHS_2003_03",
+      "text": "Evaluate $81^{-1/4} \\times 9^{1/2}$.",
+      "image": "",
+      "options": [
+        "$-1$",
+        "$1/3$",
+        "$3$",
+        "$1$"
+      ],
+      "answer": "$1$",
+      "explanation": "$81^{-1/4} = \\frac{1}{81^{1/4}} = \\frac{1}{\\sqrt[4]{81}} = \\frac{1}{3}$. $9^{1/2} = \\sqrt{9} = 3$. The expression is $\\frac{1}{3} \\times 3 = 1$."
+    },
+    {
+      "id": "MATHS_2003_04",
+      "text": "If $\\log_2 x = 5$, find the value of $x$.",
+      "image": "",
+      "options": [
+        "$10$",
+        "$25$",
+        "$32$",
+        "$64$"
+      ],
+      "answer": "$32$",
+      "explanation": "Convert the logarithmic equation to the exponential form $b^c = a$: $2^5 = x$. $x = 32$."
+    },
+    {
+      "id": "MATHS_2003_05",
+      "text": "Express $0.00314$ in standard form.",
+      "image": "",
+      "options": [
+        "$3.14 \\times 10^{-3}$",
+        "$3.14 \\times 10^{3}$",
+        "$31.4 \\times 10^{-2}$",
+        "$3.14 \\times 10^{-2}$"
+      ],
+      "answer": "$3.14 \\times 10^{-3}$",
+      "explanation": "Move the decimal point 3 places to the right to get $3.14$. Since the original number is less than 1, the exponent is negative: $3.14 \\times 10^{-3}$."
+    },
+    {
+      "id": "MATHS_2003_06",
+      "text": "Evaluate $\\frac{2}{5} + \\frac{1}{2} - \\frac{3}{10}$.",
+      "image": "",
+      "options": [
+        "$1/5$",
+        "$3/10$",
+        "$6/5$",
+        "$3/5$"
+      ],
+      "answer": "$3/5$",
+      "explanation": "Find the Least Common Multiple (L.C.M) of 5, 2, and 10, which is 10. $\\frac{2(2)}{10} + \\frac{1(5)}{10} - \\frac{3}{10} = \\frac{4 + 5 - 3}{10} = \\frac{6}{10} = \\frac{3}{5}$."
+    },
+    {
+      "id": "MATHS_2003_07",
+      "text": "The first term of an arithmetic progression (A.P.) is $5$ and the common difference is $3$. Find the $10^{th}$ term.",
+      "image": "",
+      "options": [
+        "$29$",
+        "$32$",
+        "$35$",
+        "$38$"
+      ],
+      "answer": "$32$",
+      "explanation": "The $n^{th}$ term of an A.P. is $T_n = a + (n-1)d$. $T_{10} = 5 + (10 - 1)3 = 5 + 9(3) = 5 + 27 = 32$."
+    },
+    {
+      "id": "MATHS_2003_08",
+      "text": "In a class of $50$ students, $30$ passed Physics ($P$), $25$ passed Chemistry ($C$), and $10$ passed neither. How many students passed both subjects?",
+      "image": "[Venn diagram showing two overlapping sets P and C within a universal set]",
+      "options": [
+        "$10$",
+        "$15$",
+        "$20$",
+        "$25$"
+      ],
+      "answer": "$15$",
+      "explanation": "Students who passed at least one subject $= 50 - 10 = 40$. $n(P \\cup C) = n(P) + n(C) - n(P \\cap C)$. $40 = 30 + 25 - x$. $40 = 55 - x$. $x = 55 - 40 = 15$."
+    },
+    {
+      "id": "MATHS_2003_09",
+      "text": "Factorize completely $6x^2 - x - 2$.",
+      "image": "",
+      "options": [
+        "$(3x + 2)(2x - 1)$",
+        "$(6x - 2)(x + 1)$",
+        "$(3x - 2)(2x + 1)$",
+        "$(6x + 1)(x - 2)$"
+      ],
+      "answer": "$(3x - 2)(2x + 1)$",
+      "explanation": "Find two numbers that multiply to $6(-2) = -12$ and add to $-1$. These are $-4$ and $3$. $6x^2 - 4x + 3x - 2 = 2x(3x - 2) + 1(3x - 2) = (3x - 2)(2x + 1)$."
+    },
+    {
+      "id": "MATHS_2003_10",
+      "text": "Solve the simultaneous equations: $2x + y = 7$ and $x - y = 2$.",
+      "image": "",
+      "options": [
+        "$x=3, y=1$",
+        "$x=4, y=-1$",
+        "$x=2, y=3$",
+        "$x=3, y=-1$"
+      ],
+      "answer": "$x=3, y=1$",
+      "explanation": "Add the two equations: $(2x + y) + (x - y) = 7 + 2$. $3x = 9$. $x = 3$. Substitute $x=3$ into the second equation: $3 - y = 2$. $y = 3 - 2 = 1$. Solution: $x=3, y=1$."
+    },
+    {
+      "id": "MATHS_2003_11",
+      "text": "Solve the inequality $3x - 4 < 8$.",
+      "image": "",
+      "options": [
+        "$x < 4$",
+        "$x > 4$",
+        "$x < 12$",
+        "$x > 12$"
+      ],
+      "answer": "$x < 4$",
+      "explanation": "Add 4 to both sides: $3x < 8 + 4$. $3x < 12$. Divide by 3: $x < 4$."
+    },
+    {
+      "id": "MATHS_2003_12",
+      "text": "If $P$ varies directly as $Q$ and $P=6$ when $Q=3$, find $P$ when $Q=5$.",
+      "image": "",
+      "options": [
+        "$8$",
+        "$10$",
+        "$12$",
+        "$15$"
+      ],
+      "answer": "$10$",
+      "explanation": "The relationship is $P = kQ$. Find $k$: $6 = k(3) \\Rightarrow k = 2$. The equation is $P = 2Q$. When $Q=5$, $P = 2(5) = 10$."
+    },
+    {
+      "id": "MATHS_2003_13",
+      "text": "If $x - 1$ is a factor of the polynomial $x^3 - kx^2 + 1$, find the value of $k$.",
+      "image": "",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$1$",
+        "$2$"
+      ],
+      "answer": "$2$",
+      "explanation": "By the Factor Theorem, if $x-1$ is a factor, then $f(1) = 0$. $f(1) = (1)^3 - k(1)^2 + 1 = 0$. $1 - k + 1 = 0$. $2 - k = 0$. $k = 2$."
+    },
+    {
+      "id": "MATHS_2003_14",
+      "text": "Find the area of a sector of a circle with radius $7 \\text{ cm}$ and angle $60^\\circ$. (Take $\\pi = 22/7$)",
+      "image": "[Diagram of a circle sector with angle 60 degrees]",
+      "options": [
+        "$25.67 \\text{ cm}^2$",
+        "$22.5 \\text{ cm}^2$",
+        "$25.0 \\text{ cm}^2$",
+        "$22.0 \\text{ cm}^2$"
+      ],
+      "answer": "$25.67 \\text{ cm}^2$",
+      "explanation": "Area of sector $A = \\frac{\\theta}{360} \\times \\pi r^2$. $A = \\frac{60}{360} \\times \\frac{22}{7} \\times 7^2 = \\frac{1}{6} \\times 22 \\times 7 = \\frac{154}{6} \\approx 25.67 \\text{ cm}^2$."
+    },
+    {
+      "id": "MATHS_2003_15",
+      "text": "Find the volume of a cone with radius $3 \\text{ cm}$ and height $4 \\text{ cm}$. (Leave the answer in terms of $\\pi$)",
+      "image": "[Diagram of a cone with height and radius labeled]",
+      "options": [
+        "$12\\pi \\text{ cm}^3$",
+        "$36\\pi \\text{ cm}^3$",
+        "$48\\pi \\text{ cm}^3$",
+        "$16\\pi \\text{ cm}^3$"
+      ],
+      "answer": "$12\\pi \\text{ cm}^3$",
+      "explanation": "Volume of a cone $V = \\frac{1}{3} \\pi r^2 h$. $V = \\frac{1}{3} \\pi (3^2)(4) = \\frac{1}{3} \\pi (9)(4) = 12\\pi \\text{ cm}^3$."
+    },
+    {
+      "id": "MATHS_2003_16",
+      "text": "Find the length of an arc of a circle of radius $5 \\text{ cm}$ which subtends an angle of $72^\\circ$ at the centre. (Leave the answer in terms of $\\pi$)",
+      "image": "",
+      "options": [
+        "$\\pi \\text{ cm}$",
+        "$2\\pi \\text{ cm}$",
+        "$4\\pi \\text{ cm}$",
+        "$5\\pi \\text{ cm}$"
+      ],
+      "answer": "$2\\pi \\text{ cm}$",
+      "explanation": "Arc length $L = \\frac{\\theta}{360} \\times 2\\pi r$. $L = \\frac{72}{360} \\times 2\\pi (5) = \\frac{1}{5} \\times 10\\pi = 2\\pi \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2003_17",
+      "text": "Find the sum of the interior angles of a nonagon (a 9-sided polygon).",
+      "image": "",
+      "options": [
+        "$1080^\\circ$",
+        "$1260^\\circ$",
+        "$1440^\\circ$",
+        "$1620^\\circ$"
+      ],
+      "answer": "$1260^\\circ$",
+      "explanation": "Sum of interior angles $S = (n - 2) \\times 180^\\circ$. For $n=9$, $S = (9 - 2) \\times 180^\\circ = 7 \\times 180^\\circ = 1260^\\circ$."
+    },
+    {
+      "id": "MATHS_2003_18",
+      "text": "Find the equation of the locus of a point that moves such that its distance from the point $(3, 5)$ is always 5.",
+      "image": "[Locus of a point that is equidistant from a fixed point (circle)]",
+      "options": [
+        "$(x + 3)^2 + (y + 5)^2 = 25$",
+        "$(x - 3)^2 + (y - 5)^2 = 25$",
+        "$x^2 + y^2 = 25$",
+        "$(x - 3)^2 + (y - 5)^2 = 5$"
+      ],
+      "answer": "$(x - 3)^2 + (y - 5)^2 = 25$",
+      "explanation": "The locus is a circle with center $(h, k) = (3, 5)$ and radius $r = 5$. The equation is $(x - h)^2 + (y - k)^2 = r^2$. $(x - 3)^2 + (y - 5)^2 = 5^2 = 25$."
+    },
+    {
+      "id": "MATHS_2003_19",
+      "text": "Find the distance between the points $(1, 3)$ and $(4, 7)$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$\\sqrt{17}$",
+        "$\\sqrt{45}$",
+        "$25$"
+      ],
+      "answer": "$5$",
+      "explanation": "Distance $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. $d = \\sqrt{(4 - 1)^2 + (7 - 3)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+    },
+    {
+      "id": "MATHS_2003_20",
+      "text": "Find the gradient of the line $2x + 3y = 6$.",
+      "image": "",
+      "options": [
+        "$-2/3$",
+        "$2/3$",
+        "$-3/2$",
+        "$3/2$"
+      ],
+      "answer": "$-2/3$",
+      "explanation": "Convert to $y = mx + c$: $3y = -2x + 6$. $y = -\\frac{2}{3}x + 2$. The gradient $m = -2/3$."
+    },
+    {
+      "id": "MATHS_2003_21",
+      "text": "If $\\tan \\theta = 1$, find the value of $\\sin \\theta$ for $0^\\circ < \\theta < 90^\\circ$.",
+      "image": "[Right-angled triangle with equal opposite and adjacent sides]",
+      "options": [
+        "$\\frac{\\sqrt{2}}{2}$",
+        "$\\frac{1}{2}$",
+        "$1$",
+        "$\\sqrt{2}$"
+      ],
+      "answer": "$\\frac{\\sqrt{2}}{2}$",
+      "explanation": "If $\\tan \\theta = 1$, then $\\theta = 45^\\circ$. $\\sin 45^\\circ = \\frac{1}{\\sqrt{2}} = \\frac{1}{\\sqrt{2}} \\times \\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{\\sqrt{2}}{2}$."
+    },
+    {
+      "id": "MATHS_2003_22",
+      "text": "A ladder $10 \\text{ m}$ long leans against a wall at an angle of $60^\\circ$ to the horizontal ground. How high is the top of the ladder from the ground?",
+      "image": "[Trigonometry diagram showing a ladder against a wall forming a right triangle]",
+      "options": [
+        "$5 \\text{ m}$",
+        "$5\\sqrt{2} \\text{ m}$",
+        "$5\\sqrt{3} \\text{ m}$",
+        "$10\\sqrt{3} \\text{ m}$"
+      ],
+      "answer": "$5\\sqrt{3} \\text{ m}$",
+      "explanation": "Let $h$ be the height. $\\sin 60^\\circ = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{h}{10}$. $h = 10 \\sin 60^\\circ = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3} \\text{ m}$."
+    },
+    {
+      "id": "MATHS_2003_23",
+      "text": "Find $\\frac{dy}{dx}$ if $y = x^3 - 2x^2 + 5$.",
+      "image": "",
+      "options": [
+        "$3x^2 - 4x$",
+        "$3x^2 - 4x + 5$",
+        "$x^2 - 4x$",
+        "$3x^2 - 2x$"
+      ],
+      "answer": "$3x^2 - 4x$",
+      "explanation": "Differentiate term by term: $\\frac{d}{dx}(x^3) = 3x^2$. $\\frac{d}{dx}(-2x^2) = -4x$. $\\frac{d}{dx}(5) = 0$. So, $\\frac{dy}{dx} = 3x^2 - 4x$."
+    },
+    {
+      "id": "MATHS_2003_24",
+      "text": "Find $\\frac{dy}{dx}$ if $y = (x+1)(2x-3)$.",
+      "image": "",
+      "options": [
+        "$4x - 1$",
+        "$2x - 3$",
+        "$2x + 1$",
+        "$4x + 1$"
+      ],
+      "answer": "$4x - 1$",
+      "explanation": "Expand first: $y = 2x^2 - 3x + 2x - 3 = 2x^2 - x - 3$. Differentiate: $\\frac{dy}{dx} = 4x - 1$."
+    },
+    {
+      "id": "MATHS_2003_25",
+      "text": "Evaluate $\\int_0^1 (3x^2 + 2x) dx$.",
+      "image": "",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "answer": "$2$",
+      "explanation": "Integrate: $\\int (3x^2 + 2x) dx = x^3 + x^2$. Evaluate: $[x^3 + x^2]_0^1 = (1^3 + 1^2) - (0^3 + 0^2) = (1 + 1) - 0 = 2$."
+    },
+    {
+      "id": "MATHS_2003_26",
+      "text": "If $A = \\begin{pmatrix} 1 & 2 \\end{pmatrix}$ and $B = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$, find the matrix product $AB$.",
+      "image": "",
+      "options": [
+        "$\\begin{pmatrix} 3 & 8 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 11 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 7 \\end{pmatrix}$",
+        "$\\begin{pmatrix} 1 \\\\ 8 \\end{pmatrix}$"
+      ],
+      "answer": "$\\begin{pmatrix} 11 \\end{pmatrix}$",
+      "explanation": "The product is $(1 \\times 3) + (2 \\times 4) = 3 + 8 = 11$. The result is a $1 \\times 1$ matrix: $\\begin{pmatrix} 11 \\end{pmatrix}$."
+    },
+    {
+      "id": "MATHS_2003_27",
+      "text": "Find the determinant of the matrix $P = \\begin{pmatrix} 5 & 2 \\\\ 3 & 1 \\end{pmatrix}$.",
+      "image": "",
+      "options": [
+        "$-1$",
+        "$1$",
+        "$2$",
+        "$5$"
+      ],
+      "answer": "$-1$",
+      "explanation": "Determinant $D = ad - bc$. $D = (5)(1) - (2)(3) = 5 - 6 = -1$."
+    },
+    {
+      "id": "MATHS_2003_28",
+      "text": "If $P = \\{2, 3, 5, 7\\}$ and $Q = \\{3, 6, 9\\}$, find $P \\cap Q$.",
+      "image": "",
+      "options": [
+        "$\\emptyset$",
+        "$\\left\\{3\\right\\}$",
+        "$\\left\\{2, 3, 5, 6, 7, 9\\right\\}$",
+        "$\\left\\{2, 5, 7\\right\\}$"
+      ],
+      "answer": "$\\left\\{3\\right\\}$",
+      "explanation": "The intersection $P \\cap Q$ contains the elements common to both sets $P$ and $Q$. The only common element is 3."
+    },
+    {
+      "id": "MATHS_2003_29",
+      "text": "A binary operation $\\star$ is defined by $x \\star y = x + y + xy$. Find $3 \\star 5$.",
+      "image": "",
+      "options": [
+        "$8$",
+        "$15$",
+        "$23$",
+        "$19$"
+      ],
+      "answer": "$23$",
+      "explanation": "Substitute $x=3$ and $y=5$ into the definition: $3 \\star 5 = 3 + 5 + 3(5) = 8 + 15 = 23$."
+    },
+    {
+      "id": "MATHS_2003_30",
+      "text": "Find the sum of the roots of the quadratic equation $2x^2 + 5x - 3 = 0$.",
+      "image": "",
+      "options": [
+        "$5/2$",
+        "$-5/2$",
+        "$3/2$",
+        "$-3/2$"
+      ],
+      "answer": "$-5/2$",
+      "explanation": "For a quadratic equation $ax^2 + bx + c = 0$, the sum of the roots is given by $-\\frac{b}{a}$. Sum $= -\\frac{5}{2}$."
+    },
+    {
+      "id": "MATHS_2003_31",
+      "text": "Find the mean of the numbers $4, 6, 8, 10$.",
+      "image": "",
+      "options": [
+        "$7$",
+        "$8$",
+        "$9$",
+        "$10$"
+      ],
+      "answer": "$7$",
+      "explanation": "Mean $= \\frac{\\text{Sum of numbers}}{\\text{Count}} = \\frac{4 + 6 + 8 + 10}{4} = \\frac{28}{4} = 7$."
+    },
+    {
+      "id": "MATHS_2003_32",
+      "text": "Find the median of the data set $1, 3, 5, 7, 9, 11$.",
+      "image": "",
+      "options": [
+        "$5$",
+        "$6$",
+        "$7$",
+        "$8$"
+      ],
+      "answer": "$6$",
+      "explanation": "Since there is an even number of terms ($n=6$), the median is the average of the two middle terms (3rd and 4th). Median $= \\frac{5 + 7}{2} = \\frac{12}{2} = 6$."
+    },
+    {
+      "id": "MATHS_2003_33",
+      "text": "Find the mode of the data: $2, 3, 4, 3, 2, 5, 3$.",
+      "image": "",
+      "options": [
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "answer": "$3$",
+      "explanation": "The mode is the number that occurs most frequently. The number 3 appears three times, which is more than any other number."
+    },
+    {
+      "id": "MATHS_2003_34",
+      "text": "A fair die is rolled once. What is the probability of getting an even number?",
+      "image": "",
+      "options": [
+        "$1/6$",
+        "$1/3$",
+        "$1/2$",
+        "$2/3$"
+      ],
+      "answer": "$1/2$",
+      "explanation": "Total possible outcomes: $\\{1, 2, 3, 4, 5, 6\\}$ (6 outcomes). Even numbers: $\\{2, 4, 6\\}$ (3 favorable outcomes). Probability $= \\frac{3}{6} = \\frac{1}{2}$."
+    },
+    {
+      "id": "MATHS_2003_35",
+      "text": "Two fair coins are tossed once. What is the probability of getting at least one head?",
+      "image": "[Tree diagram for tossing two coins]",
+      "options": [
+        "$1/4$",
+        "$1/2$",
+        "$3/4$",
+        "$1$"
+      ],
+      "answer": "$3/4$",
+      "explanation": "Possible outcomes: $\\{HH, HT, TH, TT\\}$ (4 outcomes). Favorable outcomes (at least one head): $\\{HH, HT, TH\\}$ (3 outcomes). Probability $= \\frac{3}{4}$."
+    },
+    {
+      "id": "MATHS_2003_36",
+      "text": "Given that $A = P(1 + r/100)^n$, make $r$ the subject of the formula.",
+      "image": "",
+      "options": [
+        "$r = 100 \\left( \\sqrt[n]{\\frac{A}{P}} - 1 \\right)$",
+        "$r = 100 \\left( \\frac{A}{P} \\right)^{1/n} - 1$",
+        "$r = \\frac{100}{n} \\left( \\frac{A}{P} - 1 \\right)$",
+        "$r = \\frac{100}{n} \\left( \\frac{A}{P} + 1 \\right)$"
+      ],
+      "answer": "$r = 100 \\left( \\sqrt[n]{\\frac{A}{P}} - 1 \\right)$",
+      "explanation": "Divide by $P$: $\\frac{A}{P} = (1 + r/100)^n$. Take the $n^{th}$ root: $\\sqrt[n]{\\frac{A}{P}} = 1 + r/100$. Subtract 1: $\\sqrt[n]{\\frac{A}{P}} - 1 = r/100$. Multiply by 100: $r = 100 \\left( \\sqrt[n]{\\frac{A}{P}} - 1 \\right)$."
+    },
+    {
+      "id": "MATHS_2003_37",
+      "text": "A chord of length $16 \\text{ cm}$ is $6 \\text{ cm}$ from the center of a circle. Find the radius of the circle.",
+      "image": "[Diagram showing a chord, radius, and perpendicular distance from center]",
+      "options": [
+        "$8 \\text{ cm}$",
+        "$10 \\text{ cm}$",
+        "$12 \\text{ cm}$",
+        "$14 \\text{ cm}$"
+      ],
+      "answer": "$10 \\text{ cm}$",
+      "explanation": "The radius ($r$), the distance from the center ($6 \\text{ cm}$), and half the chord length ($16/2 = 8 \\text{ cm}$) form a right-angled triangle. By Pythagoras: $r^2 = 6^2 + 8^2 = 36 + 64 = 100$. $r = \\sqrt{100} = 10 \\text{ cm}$."
+    },
+    {
+      "id": "MATHS_2003_38",
+      "text": "Find the sum of the first $5$ terms of the arithmetic progression (A.P.): $2, 5, 8, 11, \\dots$",
+      "image": "",
+      "options": [
+        "$25$",
+        "$35$",
+        "$40$",
+        "$50$"
+      ],
+      "answer": "$40$",
+      "explanation": "First term $a=2$, common difference $d=3$. The sum of $n$ terms is $S_n = \\frac{n}{2}[2a + (n-1)d]$. $S_5 = \\frac{5}{2}[2(2) + (5-1)3] = \\frac{5}{2}[4 + 12] = \\frac{5}{2}(16) = 5 \\times 8 = 40$. (The $5^{th}$ term is $2+4(3)=14$, so $2+5+8+11+14=40$)."
+    },
+    {
+      "id": "MATHS_2003_39",
+      "text": "The first term of a geometric progression (G.P.) is $2$ and the common ratio is $3$. Find the $4^{th}$ term.",
+      "image": "",
+      "options": [
+        "$18$",
+        "$27$",
+        "$54$",
+        "$81$"
+      ],
+      "answer": "$54$",
+      "explanation": "The $n^{th}$ term of a G.P. is $T_n = ar^{n-1}$. $T_4 = 2 \\times 3^{4-1} = 2 \\times 3^3 = 2 \\times 27 = 54$."
+    },
+    {
+      "id": "MATHS_2003_40",
+      "text": "Find the center of the circle $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+      "image": "",
+      "options": [
+        "$(2, -3)$",
+        "$(4, -6)$",
+        "$(-2, 3)$",
+        "$(3, -2)$"
+      ],
+      "answer": "$(2, -3)$",
+      "explanation": "The general equation is $x^2 + y^2 + 2gx + 2fy + c = 0$, where center is $(-g, -f)$. Comparing $x^2 + y^2 - 4x + 6y - 3 = 0$: $2g = -4 \\Rightarrow g = -2$. $2f = 6 \\Rightarrow f = 3$. Center is $(-g, -f) = (2, -3)$."
+    }
+  ]

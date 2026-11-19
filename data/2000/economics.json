@@ -1,0 +1,522 @@
+[
+    {
+        "id": "E961",
+        "text": "The major economic event that began in March 2000, signaling the end of the long 1990s boom, was the bursting of the **Dot-com Bubble**.",
+        "image": "",
+        "options": [
+            "The Asian Financial Crisis",
+            "The collapse of the housing market",
+            "The Dot-com Bubble",
+            "The launch of the Euro"
+        ],
+        "answer": "The Dot-com Bubble",
+        "explanation": "The NASDAQ reached its all-time high in March 2000 before plummeting, destroying billions in market value."
+    },
+    {
+        "id": "E962",
+        "text": "The $\\textbf{NASDAQ}$ $\\textbf{Composite}$ index, heavily weighted toward technology stocks, lost approximately **78%** of its value between March 2000 and October 2002.",
+        "image": "",
+        "options": [
+            "10%",
+            "25%",
+            "78%",
+            "50%"
+        ],
+        "answer": "78%",
+        "explanation": "This massive loss defined the severity of the market crash and subsequent bear market."
+    },
+    {
+        "id": "E963",
+        "text": "Prior to the crash, many technology companies were valued primarily on their potential to capture $\\textbf{market}$ $\\textbf{share}$ rather than their current $\\textbf{profitability}$ or $\\textbf{earnings}$ per share.",
+        "image": "",
+        "options": [
+            "Asset base",
+            "Current debt",
+            "Profitability",
+            "Dividend yield"
+        ],
+        "answer": "Profitability",
+        "explanation": "The focus on 'eyeballs' and user acquisition over profit was the defining characteristic of the Dot-com era's speculative phase."
+    },
+    {
+        "id": "E964",
+        "text": "In 2000, the $\\textbf{Federal}$ $\\textbf{Reserve}$ continued its policy of monetary **tightening** (raising rates) to prevent the economy from overheating.",
+        "image": "",
+        "options": [
+            "Easing (cutting rates)",
+            "Quantitative easing",
+            "Tightening (raising rates)",
+            "Fiscal stimulus"
+        ],
+        "answer": "Tightening (raising rates)",
+        "explanation": "The Fed raised the Federal Funds Rate three times in the first half of 2000, eventually bringing it to 6.5%."
+    },
+    {
+        "id": "E965",
+        "text": "The Fed's primary concern with the economic boom leading into 2000 was the potential for an unwelcome increase in **inflation**, particularly due to wage growth.",
+        "image": "",
+        "options": [
+            "Deflation",
+            "High unemployment",
+            "Trade surplus",
+            "Inflation"
+        ],
+        "answer": "Inflation",
+        "explanation": "The fear was that the tight labor market would drive up wages, leading to price increases (wage-price spiral)."
+    },
+    {
+        "id": "E966",
+        "text": "The U.S. federal government achieved its largest ever dollar $\\textbf{budget}$ $\\textbf{surplus}$ in the fiscal year 2000.",
+        "image": "",
+        "options": [
+            "Deficit",
+            "Surplus",
+            "Balanced budget",
+            "Debt default"
+        ],
+        "answer": "Surplus",
+        "explanation": "The record surplus was largely due to high capital gains taxes resulting from the booming stock market."
+    },
+    {
+        "id": "E967",
+        "text": "The economic philosophy that dominated U.S. policy in 2000, emphasizing deregulation and free markets, is generally classified as **Neoliberalism**.",
+        "image": "",
+        "options": [
+            "Keynesianism",
+            "Socialism",
+            "Neoliberalism",
+            "Mercantilism"
+        ],
+        "answer": "Neoliberalism",
+        "explanation": "This policy framework favored globalization, market liberalization, and reduced government intervention."
+    },
+    {
+        "id": "E968",
+        "text": "The term for a general, long-term increase in the capacity of an economy to produce goods and services is **economic growth**.",
+        "image": "",
+        "options": [
+            "Stagflation",
+            "Recession",
+            "Economic growth",
+            "Depression"
+        ],
+        "answer": "Economic growth",
+        "explanation": "GDP growth was still relatively strong in 2000, despite the market crash."
+    },
+    {
+        "id": "E969",
+        "text": "The $\\textbf{labor}$ $\\textbf{force}$ $\\textbf{participation}$ $\\textbf{rate}$ reached a peak in 2000, reflecting the high percentage of the working-age population either employed or actively looking for a job.",
+        "image": "",
+        "options": [
+            "Interest rate",
+            "Inflation rate",
+            "Labor force participation rate",
+            "Exchange rate"
+        ],
+        "answer": "Labor force participation rate",
+        "explanation": "The boom encouraged many people to enter or re-enter the workforce."
+    },
+    {
+        "id": "E970",
+        "text": "A 'V-shaped' market recovery is one characterized by a **sharp decline followed by an equally sharp and sustained recovery**.",
+        "image": "",
+        "options": [
+            "Slow, grinding decline",
+            "Sharp decline followed by an equally sharp and sustained recovery",
+            "Prolonged period of stagnation",
+            "A gradual, slow recovery"
+        ],
+        "answer": "Sharp decline followed by an equally sharp and sustained recovery",
+        "explanation": "The 2000 crash was followed by a prolonged, not 'V-shaped,' decline, setting up a 'W-shaped' or 'L-shaped' worry."
+    },
+    {
+        "id": "E971",
+        "text": "The economic impact of the $\\textbf{stock}$ $\\textbf{market}$ $\\textbf{crash}$ on consumer spending is often transmitted through the **negative wealth effect**.",
+        "image": "",
+        "options": [
+            "Fiscal multiplier",
+            "Money multiplier",
+            "Negative wealth effect",
+            "Substitution effect"
+        ],
+        "answer": "Negative wealth effect",
+        "explanation": "As household wealth declined due to falling stock values, consumers cut back on spending."
+    },
+    {
+        "id": "E972",
+        "text": "The $\\textbf{recession}$ that officially began in March 2001 was widely seen as being preceded and heavily influenced by the 2000 market downturn.",
+        "image": "",
+        "options": [
+            "A period of high inflation",
+            "A period of falling prices",
+            "A severe trade war",
+            "A recession"
+        ],
+        "answer": "A recession",
+        "explanation": "Economic data from 2000 foreshadowed the start of the 2001 recession."
+    },
+    {
+        "id": "E973",
+        "text": "The **Term structure of interest rates** (yield curve) began to flatten or invert in 2000, which is often considered a reliable predictor of a future recession.",
+        "image": "",
+        "options": [
+            "Real wage growth",
+            "Labor productivity",
+            "Term structure of interest rates",
+            "Government spending"
+        ],
+        "answer": "Term structure of interest rates",
+        "explanation": "An inverted yield curve (short-term rates higher than long-term rates) suggests financial markets expect future economic weakness."
+    },
+    {
+        "id": "E974",
+        "text": "The financial instrument used by the Federal Reserve to implement its open market operations is the $\\textbf{Treasury}$ $\\textbf{security}$ (government bond).",
+        "image": "",
+        "options": [
+            "Corporate stock",
+            "Municipal bond",
+            "Treasury security",
+            "Commodity futures"
+        ],
+        "answer": "Treasury security",
+        "explanation": "The buying and selling of T-bills is the most common way the Fed adjusts the money supply."
+    },
+    {
+        "id": "E975",
+        "text": "The $\\textbf{high}$ $\\textbf{oil}$ $\\textbf{prices}$ experienced in 2000 contributed to cost-push inflation and dampened consumer purchasing power.",
+        "image": "",
+        "options": [
+            "Falling agricultural prices",
+            "Surging housing construction",
+            "High oil prices",
+            "Decreased foreign investment"
+        ],
+        "answer": "High oil prices",
+        "explanation": "Energy costs spiked in 2000, acting as a brake on the economy."
+    },
+    {
+        "id": "E976",
+        "text": "The $\\textbf{Consumer}$ $\\textbf{Confidence}$ $\\textbf{Index}$ began a significant decline in late 2000 as the effects of the stock market crash and economic slowdown began to be felt.",
+        "image": "",
+        "options": [
+            "Consumer Confidence Index",
+            "Producer Price Index",
+            "Velocity of Money",
+            "GDP Deflator"
+        ],
+        "answer": "Consumer Confidence Index",
+        "explanation": "Consumer confidence is a leading indicator, often signaling future shifts in spending behavior."
+    },
+    {
+        "id": "E977",
+        "text": "Fiscal policy during the 2000 election centered on the debate over how to use the federal **budget surplus**—specifically, tax cuts versus debt reduction.",
+        "image": "",
+        "options": [
+            "Inflation",
+            "Unemployment",
+            "Budget surplus",
+            "Trade deficit"
+        ],
+        "answer": "Budget surplus",
+        "explanation": "The surplus provided a rare opportunity for both parties to propose major fiscal initiatives."
+    },
+    {
+        "id": "E978",
+        "text": "The economic impact of the $\\textbf{Y2K}$ $\\textbf{issue}$ was largely $\\textbf{mitigated}$ by massive preventative spending in 1999, resulting in **no major economic disruptions** at the turn of the millennium.",
+        "image": "",
+        "options": [
+            "A global banking crisis",
+            "A surge in unemployment",
+            "No major economic disruptions",
+            "A sudden spike in inflation"
+        ],
+        "answer": "No major economic disruptions",
+        "explanation": "The extensive, costly preparation paid off, preventing catastrophic system failures."
+    },
+    {
+        "id": "E979",
+        "text": "When Alan Greenspan famously referred to the market's high valuations as 'irrational exuberance,' he was referring to a lack of fundamental justification for the $\\textbf{rising}$ $\\textbf{stock}$ $\\textbf{prices}$ in the late 90s.",
+        "image": "",
+        "options": [
+            "High employment rates",
+            "Rising stock prices",
+            "Low inflation",
+            "The federal budget surplus"
+        ],
+        "answer": "Rising stock prices",
+        "explanation": "The phrase was used to question whether the bubble was sustainable based on real economic output."
+    },
+    {
+        "id": "E980",
+        "text": "The sector that suffered the most severe job losses immediately following the Dot-com crash was the $\\textbf{Information}$ $\\textbf{Technology (IT)}$ and telecom sector.",
+        "image": "",
+        "options": [
+            "Agriculture",
+            "Manufacturing",
+            "Information Technology (IT)",
+            "Retail"
+        ],
+        "answer": "Information Technology (IT)",
+        "explanation": "Thousands of failed 'dot-com' companies and massive telecommunications overcapacity led to widespread layoffs."
+    },
+    {
+        "id": "E981",
+        "text": "A **liquidity crisis** occurs when financial institutions face difficulty meeting their short-term debt obligations due to a lack of ready cash.",
+        "image": "",
+        "options": [
+            "Fiscal cliff",
+            "Trade surplus",
+            "Liquidity crisis",
+            "Moral hazard"
+        ],
+        "answer": "Liquidity crisis",
+        "explanation": "While not a major crisis in 2000, market stresses increased the risk of such an event."
+    },
+    {
+        "id": "E982",
+        "text": "The $\\textbf{Capital}$ $\\textbf{Account}$ records the net change in foreign ownership of domestic assets (minus domestic ownership of foreign assets).",
+        "image": "",
+        "options": [
+            "Current Account",
+            "Capital Account",
+            "Trade Account",
+            "Fiscal Account"
+        ],
+        "answer": "Capital Account",
+        "explanation": "The massive U.S. current account deficit in 2000 was funded by a strong capital account surplus (foreign investment)."
+    },
+    {
+        "id": "E983",
+        "text": "The economic justification for high P/E ratios in the 'New Economy' was the belief that $\\textbf{high}$ $\\textbf{productivity}$ $\\textbf{growth}$ was permanent and sustainable.",
+        "image": "",
+        "options": [
+            "Zero inflation",
+            "High interest rates",
+            "High productivity growth",
+            "Falling real wages"
+        ],
+        "answer": "High productivity growth",
+        "explanation": "High productivity was expected to justify future massive earnings, making current valuations acceptable."
+    },
+    {
+        "id": "E984",
+        "text": "The $\\textbf{Federal}$ $\\textbf{Funds}$ $\\textbf{Rate}$ is the key short-term interest rate targeted by the FOMC.",
+        "image": "",
+        "options": [
+            "Prime Rate",
+            "Federal Funds Rate",
+            "Discount Window Rate",
+            "10-Year Treasury Yield"
+        ],
+        "answer": "Federal Funds Rate",
+        "explanation": "By mid-2000, the FOMC had hiked this rate to 6.5%."
+    },
+    {
+        "id": "E985",
+        "text": "The $\\textbf{GDP}$ $\\textbf{Deflator}$ is a measure of the average level of prices for all new, domestically produced goods and services in the economy.",
+        "image": "",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Unemployment Rate",
+            "GDP Deflator",
+            "Producer Price Index (PPI)"
+        ],
+        "answer": "GDP Deflator",
+        "explanation": "It provides a broader measure of price level changes than the CPI."
+    },
+    {
+        "id": "E986",
+        "text": "The $\\textbf{Crowding}$ $\\textbf{Out}$ effect, which suggests large government borrowing raises interest rates, was largely $\\textbf{absent}$ in 2000 due to the large budget surplus.",
+        "image": "",
+        "options": [
+            "Crowding Out",
+            "Wealth Effect",
+            "Multiplier Effect",
+            "Fisher Effect"
+        ],
+        "answer": "Crowding Out",
+        "explanation": "With a surplus, the government was a net saver, not borrower, easing pressure on interest rates."
+    },
+    {
+        "id": "E987",
+        "text": "The primary $\\textbf{benefit}$ of a strong $\\textbf{U.S.}$ $\\textbf{dollar}$ in 2000 was that it made $\\textbf{imports}$ cheaper for American consumers.",
+        "image": "",
+        "options": [
+            "Exports more competitive",
+            "Imports cheaper",
+            "Reduced inflation",
+            "Increased manufacturing jobs"
+        ],
+        "answer": "Imports cheaper",
+        "explanation": "A strong dollar reduces the price of foreign goods, benefiting consumers but hurting exporters."
+    },
+    {
+        "id": "E988",
+        "text": "The measure of inflation that tracks prices received by domestic producers for their output is the **Producer Price Index (PPI)**.",
+        "image": "",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Gross Domestic Product (GDP)",
+            "Producer Price Index (PPI)",
+            "Unemployment Rate"
+        ],
+        "answer": "Producer Price Index (PPI)",
+        "explanation": "The PPI often acts as a leading indicator of future consumer inflation."
+    },
+    {
+        "id": "E989",
+        "text": "The $\\textbf{Great}$ $\\textbf{Moderation}$ is the term economists use to describe the period from the mid-1980s to 2007, characterized by $\\textbf{low}$ $\\textbf{macroeconomic}$ $\\textbf{volatility}$ and stable inflation.",
+        "image": "",
+        "options": [
+            "High volatility in GDP and inflation",
+            "Low macroeconomic volatility",
+            "Frequent recessions",
+            "Persistent hyperinflation"
+        ],
+        "answer": "Low macroeconomic volatility",
+        "explanation": "The period was marked by relatively smooth economic growth and contained inflation, though 2000 marked its end."
+    },
+    {
+        "id": "E990",
+        "text": "When the government reduces its spending to lower a budget deficit, it is pursuing **contractionary fiscal policy**.",
+        "image": "",
+        "options": [
+            "Expansionary fiscal policy",
+            "Contractionary fiscal policy",
+            "Contractionary monetary policy",
+            "Expansionary monetary policy"
+        ],
+        "answer": "Contractionary fiscal policy",
+        "explanation": "Reducing spending is intended to slow aggregate demand and cool the economy."
+    },
+    {
+        "id": "E991",
+        "text": "The European Central Bank (ECB) is responsible for setting the monetary policy for the countries using the $\\textbf{Euro}$ currency.",
+        "image": "",
+        "options": [
+            "International Monetary Fund (IMF)",
+            "Federal Reserve",
+            "World Bank",
+            "European Central Bank (ECB)"
+        ],
+        "answer": "European Central Bank (ECB)",
+        "explanation": "The ECB became fully operational in 1999/2000, managing the Eurozone's interest rates."
+    },
+    {
+        "id": "E992",
+        "text": "In the foreign exchange market, the Euro generally **depreciated** against the U.S. dollar in 2000, reflecting the comparative strength of the U.S. economy before the crash.",
+        "image": "",
+        "options": [
+            "Appreciated",
+            "Depreciated",
+            "Remained fixed",
+            "Was pegged to gold"
+        ],
+        "answer": "Depreciated",
+        "explanation": "Money flowed into the U.S. due to the strong economy and high interest rates, boosting the dollar's value."
+    },
+    {
+        "id": "E993",
+        "text": "The **exchange rate** is the price of one country's currency in terms of another country's currency.",
+        "image": "",
+        "options": [
+            "Interest rate",
+            "Exchange rate",
+            "Inflation rate",
+            "Tariff rate"
+        ],
+        "answer": "Exchange rate",
+        "explanation": "The Euro-to-Dollar exchange rate was a major focus of international finance in 2000."
+    },
+    {
+        "id": "E994",
+        "text": "The term **Moral Hazard** describes a situation where one party takes undue risks because the costs of those risks will be borne by another party.",
+        "image": "",
+        "options": [
+            "Adverse Selection",
+            "Moral Hazard",
+            "Principal-Agent Problem",
+            "Tragedy of the Commons"
+        ],
+        "answer": "Moral Hazard",
+        "explanation": "This was a concern regarding IMF bailouts, where countries might take risks knowing they would be rescued."
+    },
+    {
+        "id": "E995",
+        "text": "The $\\textbf{Current}$ $\\textbf{Account}$ deficit includes the balance of trade (goods and services) plus net international income and transfers.",
+        "image": "",
+        "options": [
+            "Capital Account",
+            "Current Account",
+            "Fiscal Account",
+            "Balance of Payments"
+        ],
+        "answer": "Current Account",
+        "explanation": "The U.S. Current Account deficit widened significantly in 2000."
+    },
+    {
+        "id": "E996",
+        "text": "The $\\textbf{WTO}$ allows nations to negotiate trade agreements and resolve **trade disputes** between member countries.",
+        "image": "",
+        "options": [
+            "Political disputes",
+            "Trade disputes",
+            "Military disputes",
+            "Religious disputes"
+        ],
+        "answer": "Trade disputes",
+        "explanation": "The WTO's role in dispute settlement was a point of contention in globalization protests."
+    },
+    {
+        "id": "E997",
+        "text": "The $\\textbf{stock}$ $\\textbf{market}$ crash in 2000 was a major financial $\\textbf{shock}$ that preceded a period of reduced corporate investment, or $\\textbf{capital}$ $\\textbf{expenditure}$ ($\\mathbf{CapEx}$)",
+        "image": "",
+        "options": [
+            "Capital inflows",
+            "Capital expenditure (CapEx)",
+            "Consumer spending",
+            "Government taxation"
+        ],
+        "answer": "Capital expenditure (CapEx)",
+        "explanation": "Following the crash, companies became risk-averse and cut back on new investment."
+    },
+    {
+        "id": "E998",
+        "text": "The $\\textbf{business}$ $\\textbf{cycle}$ phase immediately following the Dot-com Bubble's **peak** in early 2000 was the **contraction/recession** phase.",
+        "image": "",
+        "options": [
+            "Trough",
+            "Expansion",
+            "Contraction/Recession",
+            "Recovery"
+        ],
+        "answer": "Contraction/Recession",
+        "explanation": "The stock market decline signaled the start of the economic contraction."
+    },
+    {
+        "id": "E999",
+        "text": "The primary $\\textbf{policy}$ $\\textbf{tool}$ the Federal Reserve used to $\\textbf{raise}$ $\\textbf{interest}$ $\\textbf{rates}$ in 2000 was **Open Market Operations** (selling government bonds).",
+        "image": "",
+        "options": [
+            "Setting Reserve Requirements",
+            "Adjusting the Discount Rate",
+            "Open Market Operations",
+            "Manipulating the Federal Budget"
+        ],
+        "answer": "Open Market Operations",
+        "explanation": "Open Market Operations are the Fed's day-to-day method for influencing the money supply and the Federal Funds Rate."
+    },
+    {
+        "id": "E1000",
+        "text": "The $\\textbf{potential}$ $\\textbf{GDP}$ (full employment output) was considered to be $\\textbf{rising}$ faster than previously thought in 2000 due to the high productivity growth of the New Economy.",
+        "image": "",
+        "options": [
+            "Falling rapidly",
+            "Rising faster",
+            "Remaining stagnant",
+            "Dependent on exchange rates"
+        ],
+        "answer": "Rising faster",
+        "explanation": "Optimism about technology led economists to revise their estimates of the economy's non-inflationary speed limit (potential GDP)."
+    }
+]

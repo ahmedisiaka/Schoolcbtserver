@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC41",
+        "text": "The $\\textbf{FIFO}$ (First-In, First-Out) inventory costing method generally provides a $\\textbf{Better Match}$ between $\\textbf{Cost}$ and $\\textbf{Revenue}$ on the Income Statement during periods of $\\textbf{Declining}$ prices.",
+        "image": "",
+        "options": [
+            "Rising",
+            "Declining",
+            "Stable",
+            "Unrelated"
+        ],
+        "answer": "Declining",
+        "explanation": "If prices are declining, FIFO matches current, lower costs (COGS) with current revenues, resulting in a lower reported net income, which better reflects economic reality than LIFO in that scenario."
+    },
+    {
+        "id": "ACC42",
+        "text": "$\textbf{Cryptocurrency}$ holdings by corporations (a major 2021 issue) were largely treated as $\\textbf{Indefinite-Lived}$ $\\textbf{Intangible Assets}$ under US GAAP, subject to the $\\textbf{Impairment Only}$ model.",
+        "image": "",
+        "options": [
+            "Amortization and Impairment",
+            "Fair Value through Net Income",
+            "Impairment Only",
+            "Historical Cost Only"
+        ],
+        "answer": "Impairment Only",
+        "explanation": "This model requires recording the asset at cost and only adjusting the value downward if its fair value drops below the recorded cost (conservative approach)."
+    },
+    {
+        "id": "ACC43",
+        "text": "The $\\textbf{Debt-to-Equity Ratio}$ measures the proportion of assets financed by $\\textbf{Creditors}$ ($\textbf{Liabilities}$) compared to $\\textbf{Shareholders}$ ($\textbf{Equity}$).",
+        "image": "",
+        "options": [
+            "Liquidity",
+            "Solvency",
+            "Profitability",
+            "Efficiency"
+        ],
+        "answer": "Solvency",
+        "explanation": "Solvency ratios, like Debt-to-Equity, measure a company's long-term ability to meet its obligations and remain in business."
+    },
+    {
+        "id": "ACC44",
+        "text": "The $\\textbf{Treasury Stock}$ account records shares of the company's own $\\textbf{Stock}$ that it has $\\textbf{Repurchased}$ from the open market.",
+        "image": "",
+        "options": [
+            "Issued",
+            "Cancelled",
+            "Repurchased",
+            "Authorized"
+        ],
+        "answer": "Repurchased",
+        "explanation": "Treasury stock is a contra-equity account and reduces the total amount of shareholder's equity."
+    },
+    {
+        "id": "ACC45",
+        "text": "The $\\textbf{Current Portion of Long-Term Debt}$ is classified as a $\\textbf{Current Liability}$ on the balance sheet because it is due within the $\\textbf{Next Year}$ or operating cycle.",
+        "image": "",
+        "options": [
+            "Long-Term Asset",
+            "Non-Current Liability",
+            "Current Liability",
+            "Owner's Equity"
+        ],
+        "answer": "Current Liability",
+        "explanation": "Proper classification is necessary to accurately compute working capital and current ratios."
+    },
+    {
+        "id": "ACC46",
+        "text": "The $\\textbf{Internal Audit}$ function primarily focuses on evaluating and improving the effectiveness of $\\textbf{Risk Management}$, control, and $\\textbf{Governance}$ processes.",
+        "image": "",
+        "options": [
+            "External Reporting",
+            "Tax Compliance",
+            "Governance",
+            "Investment Banking"
+        ],
+        "answer": "Governance",
+        "explanation": "Internal auditors work for the organization and provide assurance to the board and management."
+    },
+    {
+        "id": "ACC47",
+        "text": "A $\\textbf{Warrant}$ is a security that gives the holder the right, but not the obligation, to purchase shares of stock at a $\\textbf{Specified Price}$ in the future.",
+        "image": "",
+        "options": [
+            "Dividend",
+            "Bond",
+            "Warrant",
+            "Retained Earning"
+        ],
+        "answer": "Warrant",
+        "explanation": "Warrants are generally included in the calculation of diluted Earnings Per Share."
+    },
+    {
+        "id": "ACC48",
+        "text": "Under $\\textbf{ASC 842}$ (Leases), the expense related to a $\\textbf{Finance Lease}$ is recognized using the $\\textbf{Effective Interest Method}$ for the liability and $\\textbf{Straight-Line}$ for the ROU asset.",
+        "image": "",
+        "options": [
+            "Straight-Line",
+            "Accelerated",
+            "Units-of-Production",
+            "Declining Balance"
+        ],
+        "answer": "Straight-Line",
+        "explanation": "This method results in a front-loaded expense pattern (higher expense early in the lease term) compared to operating leases."
+    },
+    {
+        "id": "ACC49",
+        "text": "The $\\textbf{Gain or Loss on Disposal}$ of a fixed asset is calculated as the difference between the $\\textbf{Selling Price}$ and the asset's $\\textbf{Book Value}$.",
+        "image": "",
+        "options": [
+            "Original Cost",
+            "Salvage Value",
+            "Book Value",
+            "Depreciation Expense"
+        ],
+        "answer": "Book Value",
+        "explanation": "Book Value is the Cost minus Accumulated Depreciation. The gain or loss is reported on the Income Statement."
+    },
+    {
+        "id": "ACC50",
+        "text": "The $\\textbf{Return on Assets}$ ($\\,\\textbf{ROA}$) ratio is calculated by dividing $\\textbf{Net Income}$ by $\\textbf{Average Total Assets}$.",
+        "image": "",
+        "options": [
+            "Total Equity",
+            "Total Liabilities",
+            "Average Total Assets",
+            "Total Revenue"
+        ],
+        "answer": "Average Total Assets",
+        "explanation": "ROA measures how efficiently a company uses its assets (regardless of how they are financed) to generate profit."
+    },
+    {
+        "id": "ACC51",
+        "text": "The $\\textbf{Gross Profit Margin}$ is calculated as $\\textbf{Gross Profit}$ divided by $\\textbf{Net Sales}$.",
+        "image": "",
+        "options": [
+            "Operating Expenses",
+            "Net Sales",
+            "Cost of Goods Sold",
+            "Net Income"
+        ],
+        "answer": "Net Sales",
+        "explanation": "Gross profit is sales minus Cost of Goods Sold ($\\,\\textbf{COGS}$). The margin indicates the profitability of sales before operating expenses."
+    },
+    {
+        "id": "ACC52",
+        "text": "The $\\textbf{Master Budget}$ (a key planning tool for 2021) is a comprehensive set of interrelated budgets that includes operating budgets and $\\textbf{Financial Budgets}$.",
+        "image": "",
+        "options": [
+            "Zero-Based Budgets",
+            "Flexible Budgets",
+            "Static Budgets",
+            "Financial Budgets"
+        ],
+        "answer": "Financial Budgets",
+        "explanation": "Financial budgets include the budgeted balance sheet, statement of cash flows, and capital expenditure budget."
+    },
+    {
+        "id": "ACC53",
+        "text": "In $\\textbf{Standard Costing}$, a $\\textbf{Direct Material Price Variance}$ is computed by comparing the $\\textbf{Actual Price}$ paid to the $\\textbf{Standard Price}$.",
+        "image": "",
+        "options": [
+            "Actual Quantity",
+            "Standard Quantity",
+            "Actual Price",
+            "Standard Usage"
+        ],
+        "answer": "Actual Price",
+        "explanation": "The formula is $(\\textbf{Actual Price} - \\textbf{Standard Price}) \\times \\textbf{Actual Quantity}$."
+    },
+    {
+        "id": "ACC54",
+        "text": "The $\\textbf{Internal Rate of Return}$ ($\\,\\textbf{IRR}$) method is generally flawed for comparing mutually exclusive projects because it implicitly assumes reinvestment at the $\\textbf{IRR}$ rate.",
+        "image": "",
+        "options": [
+            "Cost of Capital",
+            "Risk-Free Rate",
+            "Inflation Rate",
+            "IRR"
+        ],
+        "answer": "IRR",
+        "explanation": "NPV is preferred over IRR for mutually exclusive projects because NPV assumes reinvestment at the cost of capital, which is more realistic."
+    },
+    {
+        "id": "ACC55",
+        "text": "The $\\textbf{Residual Income}$ performance measure is calculated as $\\textbf{Operating Income}$ minus the $\\textbf{Minimum Required Return}$ on assets.",
+        "image": "",
+        "options": [
+            "Net Income",
+            "Gross Profit",
+            "Operating Income",
+            "EBITDA"
+        ],
+        "answer": "Operating Income",
+        "explanation": "Residual Income is an alternative to Return on Investment ($\\,\\textbf{ROI}$) that encourages managers to accept projects that benefit the company overall."
+    },
+    {
+        "id": "ACC56",
+        "text": "The $\\textbf{Inventory Turnover}$ ratio indicates how many times a company $\\textbf{Sold}$ and replaced its inventory during the $\\textbf{Period}$.",
+        "image": "",
+        "options": [
+            "Purchased",
+            "Produced",
+            "Sold",
+            "Scrapped"
+        ],
+        "answer": "Sold",
+        "explanation": "It is calculated as $\\textbf{COGS} / \\textbf{Average Inventory}$. A higher ratio generally suggests efficient inventory management."
+    },
+    {
+        "id": "ACC57",
+        "text": "$\textbf{Unearned Revenue}$ is a $\\textbf{Liability}$ account representing cash received from customers for goods or services that have $\\textbf{Not Yet}$ been $\\textbf{Delivered}$ or $\\textbf{Rendered}$.",
+        "image": "",
+        "options": [
+            "Asset",
+            "Revenue",
+            "Expense",
+            "Liability"
+        ],
+        "answer": "Liability",
+        "explanation": "The obligation to deliver the service or product is a future sacrifice, making it a liability."
+    },
+    {
+        "id": "ACC58",
+        "text": "Under $\\textbf{US GAAP}$ (relevant in 2021), research and development ($\\,\\textbf{R&D}$) costs are generally $\\textbf{Expensed}$ immediately, regardless of the expected $\\textbf{Future Benefits}$.",
+        "image": "",
+        "options": [
+            "Capitalized",
+            "Amortized",
+            "Expensed",
+            "Ignored"
+        ],
+        "answer": "Expensed",
+        "explanation": "Due to the uncertainty of future benefits from R&D, conservatism requires expensing the costs immediately."
+    },
+    {
+        "id": "ACC59",
+        "text": "The $\\textbf{Discount}$ on a bond payable is amortized (reduced) over the life of the bond, increasing the periodic $\\textbf{Interest Expense}$.",
+        "image": "",
+        "options": [
+            "Interest Revenue",
+            "Principal Payable",
+            "Interest Expense",
+            "Premium Amortization"
+        ],
+        "answer": "Interest Expense",
+        "explanation": "Amortizing a discount increases the carrying value of the bond and increases the interest expense, ensuring the effective interest rate is recognized."
+    },
+    {
+        "id": "ACC60",
+        "text": "The $\\textbf{Quickbooks}$ or $\\textbf{SAP}$ accounting software systems (prominent in 2021) utilize the $\\textbf{Double-Entry}$ system to automatically update the $\\textbf{General Ledger}$ after every journal entry.",
+        "image": "",
+        "options": [
+            "Cash Basis",
+            "Single-Entry",
+            "Double-Entry",
+            "Tax Basis"
+        ],
+        "answer": "Double-Entry",
+        "explanation": "Modern accounting software relies entirely on the double-entry method to maintain balanced books and accurate financial statements."
+    },
+    {
+        "id": "ACC61",
+        "text": "A $\\textbf{Receivable}$ from a company's own officer or employee is generally classified as $\\textbf{Non-Trade Receivable}$ and separately disclosed on the $\\textbf{Balance Sheet}$.",
+        "image": "",
+        "options": [
+            "Accounts Payable",
+            "Accounts Receivable",
+            "Non-Trade Receivable",
+            "Notes Payable"
+        ],
+        "answer": "Non-Trade Receivable",
+        "explanation": "Trade receivables arise from normal business sales, whereas non-trade receivables arise from loans or advances, requiring distinct disclosure."
+    },
+    {
+        "id": "ACC62",
+        "text": "The $\\textbf{Statement of Owner's Equity}$ links the $\\textbf{Balance Sheet}$ (Equity) and the $\\textbf{Income Statement}$ (Net Income).",
+        "image": "",
+        "options": [
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Operating Expenses",
+            "Notes to the Financial Statements"
+        ],
+        "answer": "Balance Sheet",
+        "explanation": "The beginning equity balance (from the prior balance sheet) is adjusted by net income and dividends to arrive at the ending equity balance (for the current balance sheet)."
+    },
+    {
+        "id": "ACC63",
+        "text": "The $\\textbf{Closing Entries}$ process transfers the balances of all $\\textbf{Temporary}$ accounts (Revenue, Expense, Dividends) to the $\\textbf{Retained Earnings}$ account.",
+        "image": "",
+        "options": [
+            "Permanent",
+            "Liability",
+            "Temporary",
+            "Asset"
+        ],
+        "answer": "Temporary",
+        "explanation": "Closing entries zero out the temporary accounts at the end of the period, preparing them for the next fiscal year."
+    },
+    {
+        "id": "ACC64",
+        "text": "The $\\textbf{Expense Recognition Principle}$ (Matching Principle) states that $\\textbf{Expenses}$ should be recognized in the same period as the $\\textbf{Revenues}$ they helped generate.",
+        "image": "",
+        "options": [
+            "When cash is paid",
+            "When the expense is incurred",
+            "When the service is performed",
+            "When revenues are collected"
+        ],
+        "answer": "When the expense is incurred",
+        "explanation": "This principle ensures a more accurate measure of profitability for the period."
+    },
+    {
+        "id": "ACC65",
+        "text": "The $\\textbf{Audit Opinion}$ is the formal letter issued by the external auditor stating whether the financial statements are presented $\\textbf{Fairly}$ in all material respects.",
+        "image": "",
+        "options": [
+            "Perfectly",
+            "Fairly",
+            "Guaranteed",
+            "Accurately"
+        ],
+        "answer": "Fairly",
+        "explanation": "The standard opinion is 'unqualified' or 'clean,' meaning the statements are free from material misstatement."
+    },
+    {
+        "id": "ACC66",
+        "text": "The $\\textbf{Risk Assessment}$ component of the $\\textbf{COSO}$ framework focuses on the entity's identification and analysis of $\\textbf{Relevant Risks}$ to the achievement of its objectives.",
+        "image": "",
+        "options": [
+            "Control Activities",
+            "Control Environment",
+            "Risk Assessment",
+            "Monitoring"
+        ],
+        "answer": "Risk Assessment",
+        "explanation": "This process involves evaluating potential threats, such as fraud, economic changes, or system failures."
+    },
+    {
+        "id": "ACC67",
+        "text": "The $\\textbf{Internal Audit}$ function generally reports to the $\\textbf{Audit Committee}$ of the $\\textbf{Board of Directors}$ to ensure its independence from management.",
+        "image": "",
+        "options": [
+            "CEO",
+            "CFO",
+            "Audit Committee",
+            "Shareholders"
+        ],
+        "answer": "Audit Committee",
+        "explanation": "This reporting structure is vital for internal audit independence, allowing them to critique management controls freely."
+    },
+    {
+        "id": "ACC68",
+        "text": "In $\\textbf{Cost-Volume-Profit}$ ($\\,\\textbf{CVP}$) analysis, the key assumption is that all costs can be classified as either strictly $\\textbf{Fixed}$ or strictly $\\textbf{Variable}$.",
+        "image": "",
+        "options": [
+            "Sunk",
+            "Direct",
+            "Fixed",
+            "Indirect"
+        ],
+        "answer": "Fixed",
+        "explanation": "CVP assumes a linear relationship for costs and revenues within the relevant range of activity."
+    },
+    {
+        "id": "ACC69",
+        "text": "The $\\textbf{Discounted Payback Period}$ is an improvement over the simple payback period because it incorporates the $\\textbf{Time Value of Money}$.",
+        "image": "",
+        "options": [
+            "Total Risk",
+            "Accounting Rate of Return",
+            "Time Value of Money",
+            "Opportunity Cost"
+        ],
+        "answer": "Time Value of Money",
+        "explanation": "It uses discounted cash flows rather than nominal cash flows, making it a more accurate metric for capital budgeting."
+    },
+    {
+        "id": "ACC70",
+        "text": "The $\\textbf{Book Value}$ of a depreciable asset is its $\\textbf{Cost}$ minus $\\textbf{Accumulated Depreciation}$.",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Fair Value",
+            "Cost",
+            "Salvage Value"
+        ],
+        "answer": "Cost",
+        "explanation": "Book value represents the unexpired portion of the asset's cost remaining on the balance sheet."
+    },
+    {
+        "id": "ACC71",
+        "text": "A $\\textbf{Debenture}$ is a type of $\\textbf{Unsecured Bond}$ or loan certificate issued by a company without being backed by specific $\\textbf{Assets}$.",
+        "image": "",
+        "options": [
+            "Fixed Assets",
+            "Accounts Receivable",
+            "Inventory",
+            "Assets"
+        ],
+        "answer": "Assets",
+        "explanation": "Debentures rely solely on the general creditworthiness and reputation of the issuer."
+    },
+    {
+        "id": "ACC72",
+        "text": "The $\\textbf{Double Taxation}$ issue related to $\\textbf{Dividends}$ is a concern for shareholders of $\\textbf{C-Corporations}$.",
+        "image": "",
+        "options": [
+            "Sole Proprietorships",
+            "Partnerships",
+            "S-Corporations",
+            "C-Corporations"
+        ],
+        "answer": "C-Corporations",
+        "explanation": "The corporation pays income tax on its earnings, and then shareholders pay tax again on the dividends received."
+    },
+    {
+        "id": "ACC73",
+        "text": "$\textbf{Deferred Tax Liabilities}$ arise when tax laws allow a company to take deductions ($\textbf{Depreciation}$) $\\textbf{Earlier}$ than accounting rules permit.",
+        "image": "",
+        "options": [
+            "Later",
+            "Earlier",
+            "Equally",
+            "Never"
+        ],
+        "answer": "Earlier",
+        "explanation": "This temporary difference means the company pays less tax now (creating the liability) but will pay more in the future."
+    },
+    {
+        "id": "ACC74",
+        "text": "The $\\textbf{Acid-Test Ratio}$ (Quick Ratio) is a more stringent test of $\\textbf{Liquidity}$ than the Current Ratio because it excludes $\\textbf{Inventory}$ and $\\textbf{Prepaid Expenses}$.",
+        "image": "",
+        "options": [
+            "Accounts Payable",
+            "Cash",
+            "Prepaid Expenses",
+            "Long-Term Debt"
+        ],
+        "answer": "Prepaid Expenses",
+        "explanation": "Prepaid expenses and inventory cannot be quickly converted into cash to pay off current liabilities."
+    },
+    {
+        "id": "ACC75",
+        "text": "The $\\textbf{Going Concern}$ assumption is typically violated when there is substantial doubt about an entity's ability to continue operations for the next $\\textbf{One Year}$.",
+        "image": "",
+        "options": [
+            "Five Years",
+            "Ten Years",
+            "Three Years",
+            "One Year"
+        ],
+        "answer": "One Year",
+        "explanation": "If the assumption is violated, the financial statements must be prepared using liquidation basis accounting, which reports assets at their disposal value."
+    },
+    {
+        "id": "ACC76",
+        "text": "The $\\textbf{Audit Risk}$ is the risk that the auditor expresses an $\\textbf{Inappropriate}$ audit opinion when the financial statements are $\\textbf{Materially Misstated}$.",
+        "image": "",
+        "options": [
+            "Perfect",
+            "Appropriate",
+            "Inappropriate",
+            "Fair"
+        ],
+        "answer": "Inappropriate",
+        "explanation": "Audit risk is managed by controlling its three components: inherent risk, control risk, and detection risk."
+    },
+    {
+        "id": "ACC77",
+        "text": "The $\\textbf{Economic Order Quantity}$ ($\\,\\textbf{EOQ}$) model seeks to determine the optimal $\\textbf{Order Size}$ that minimizes total annual $\\textbf{Ordering}$ and $\\textbf{Holding}$ costs for inventory.",
+        "image": "",
+        "options": [
+            "Sales Volume",
+            "Order Size",
+            "Production Level",
+            "Reorder Point"
+        ],
+        "answer": "Order Size",
+        "explanation": "EOQ balances the trade-off between ordering costs (which decrease with larger orders) and holding costs (which increase with larger orders)."
+    },
+    {
+        "id": "ACC78",
+        "text": "A $\\textbf{Segment Report}$ must be prepared if a component of the entity meets certain quantitative thresholds, such as $\\textbf{10%}$ or more of total $\\textbf{Revenue}$ or $\\textbf{Assets}$.",
+        "image": "",
+        "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+        ],
+        "answer": "10%",
+        "explanation": "Public companies must report separate financial data for operating segments that meet the 10% significance test, as required by IFRS 8/ASC 280."
+    },
+    {
+        "id": "ACC79",
+        "text": "In a $\\textbf{Vertical Analysis}$ of the $\\textbf{Income Statement}$, each line item is expressed as a percentage of $\\textbf{Net Sales}$ (or $\\textbf{Revenue}$).",
+        "image": "",
+        "options": [
+            "Gross Profit",
+            "Total Assets",
+            "Net Sales",
+            "Operating Income"
+        ],
+        "answer": "Net Sales",
+        "explanation": "Vertical analysis helps compare the relative proportions of expenses and profitability across different periods or companies."
+    },
+    {
+        "id": "ACC80",
+        "text": "The $\\textbf{Interest Expense}$ recorded for a bond using the $\\textbf{Effective Interest Method}$ is calculated by multiplying the $\\textbf{Market Rate}$ by the bond's $\\textbf{Carrying Value}$ at the beginning of the period.",
+        "image": "",
+        "options": [
+            "Coupon Rate",
+            "Stated Rate",
+            "Market Rate",
+            "Tax Rate"
+        ],
+        "answer": "Market Rate",
+        "explanation": "This method produces a constant effective interest rate over the life of the bond, matching the actual economic interest cost."
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Silk Road}$ was a network of trade routes connecting:",
+        "image": "",
+        "options": [
+            "North and South America",
+            "Europe and Africa",
+            "The East and West",
+            "Australia and Asia"
+        ],
+        "answer": "The East and West",
+        "explanation": "It facilitated the exchange of goods, ideas, and culture between China, India, Persia, Arabia, and Europe."
+    },
+    {
+        "id": "H02",
+        "text": "Who was the first female ruler of $\\textbf{Ancient Egypt}$ to reign as a pharaoh with full power?",
+        "image": "",
+        "options": [
+            "Cleopatra VII",
+            "Nefertiti",
+            "Hatshepsut",
+            "Sobekneferu"
+        ],
+        "answer": "Hatshepsut",
+        "explanation": "Hatshepsut (reigned c. 1478–1458 BC) is considered one of the most successful pharaohs, overseeing a period of great prosperity."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Battle of Hastings}$ in 1066 led to the conquest of England by:",
+        "image": "",
+        "options": [
+            "The Vikings",
+            "The Romans",
+            "The Normans",
+            "The Saxons"
+        ],
+        "answer": "The Normans",
+        "explanation": "William the Conqueror, Duke of Normandy, defeated King Harold II, changing the course of English history and language."
+    },
+    {
+        "id": "H04",
+        "text": "Which civilization is known for its complex system of $\\textbf{aqueducts}$?",
+        "image": "",
+        "options": [
+            "The Aztec",
+            "The Romans",
+            "The Egyptians",
+            "The Greeks"
+        ],
+        "answer": "The Romans",
+        "explanation": "Roman aqueducts were engineering marvels used to transport water from distant sources into cities and towns."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Black Death}$ arrived in Europe in 1347 via ships docking in:",
+        "image": "",
+        "options": [
+            "London",
+            "Messina, Sicily",
+            "Marseille",
+            "Lisbon"
+        ],
+        "answer": "Messina, Sicily",
+        "explanation": "Geniese trading ships arriving from the Black Sea brought the plague, which would kill a vast portion of Europe's population."
+    },
+    {
+        "id": "H06",
+        "text": "Who nailed the $\\textbf{95 Theses}$ to the door of the Castle Church in Wittenberg?",
+        "image": "",
+        "options": [
+            "John Calvin",
+            "Martin Luther",
+            "Henry VIII",
+            "Erasmus"
+        ],
+        "answer": "Martin Luther",
+        "explanation": "This act in 1517 is traditionally considered the start of the Protestant Reformation."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Triangular Trade}$ system involved the exchange of goods and enslaved people between:",
+        "image": "",
+        "options": [
+            "Europe, Asia, and Africa",
+            "The Americas, Europe, and Africa",
+            "South America, North America, and Asia",
+            "Australia, Europe, and Asia"
+        ],
+        "answer": "The Americas, Europe, and Africa",
+        "explanation": "This transatlantic trading system operated from the late 16th to early 19th centuries."
+    },
+    {
+        "id": "H08",
+        "text": "Which revolution was inspired by the slogan $\\textbf{'Liberty, Equality, Fraternity'}$?",
+        "image": "",
+        "options": [
+            "The American Revolution",
+            "The Russian Revolution",
+            "The French Revolution",
+            "The Haitian Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "This motto became the defining principle of the revolution against the French monarchy starting in 1789."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Opium Wars}$ were fought between China and:",
+        "image": "",
+        "options": [
+            "Japan",
+            "France",
+            "Great Britain",
+            "The United States"
+        ],
+        "answer": "Great Britain",
+        "explanation": "The wars (1839–1842 and 1856–1860) resulted in China ceding Hong Kong to Britain and opening trade ports."
+    },
+    {
+        "id": "H10",
+        "text": "Who was the president of the $\\textbf{Confederate States of America}$ during the Civil War?",
+        "image": "",
+        "options": [
+            "Robert E. Lee",
+            "Jefferson Davis",
+            "Stonewall Jackson",
+            "Alexander Stephens"
+        ],
+        "answer": "Jefferson Davis",
+        "explanation": "Davis served as the only president of the Confederacy from 1861 to 1865."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Manhattan Project}$ was the code name for the US effort to develop:",
+        "image": "",
+        "options": [
+            "The Hydrogen Bomb",
+            "The Atomic Bomb",
+            "Radar",
+            "Jet Engines"
+        ],
+        "answer": "The Atomic Bomb",
+        "explanation": "Led by J. Robert Oppenheimer, the project successfully created the first nuclear weapons during WWII."
+    },
+    {
+        "id": "H12",
+        "text": "Which explorer's crew was the first to $\\textbf{circumnavigate}$ the globe?",
+        "image": "",
+        "options": [
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Francis Drake",
+            "James Cook"
+        ],
+        "answer": "Ferdinand Magellan",
+        "explanation": "Although Magellan died in the Philippines, his expedition, completed by Juan Sebastián Elcano, proved the world was round."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Berlin Conference}$ of 1884 is also known as the:",
+        "image": "",
+        "options": [
+            "Scramble for Africa",
+            "Partition of India",
+            "Division of Europe",
+            "Treaty of Paris"
+        ],
+        "answer": "Scramble for Africa",
+        "explanation": "European powers met to regulate colonization and trade in Africa, dividing the continent among themselves."
+    },
+    {
+        "id": "H14",
+        "text": "Who was the leader of the $\\textbf{Bolsheviks}$ during the Russian Revolution?",
+        "image": "",
+        "options": [
+            "Joseph Stalin",
+            "Leon Trotsky",
+            "Vladimir Lenin",
+            "Nicholas II"
+        ],
+        "answer": "Vladimir Lenin",
+        "explanation": "Lenin led the October Revolution in 1917, establishing the Soviet government."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Treaty of Versailles}$ (1919) placed sole blame for WWI on:",
+        "image": "",
+        "options": [
+            "Austria-Hungary",
+            "The Ottoman Empire",
+            "Germany",
+            "Russia"
+        ],
+        "answer": "Germany",
+        "explanation": "The 'War Guilt Clause' forced Germany to accept responsibility and pay massive reparations."
+    },
+    {
+        "id": "H16",
+        "text": "Which ancient city was buried by the eruption of $\\textbf{Mount Vesuvius}$ in 79 AD?",
+        "image": "",
+        "options": [
+            "Athens",
+            "Pompeii",
+            "Sparta",
+            "Carthage"
+        ],
+        "answer": "Pompeii",
+        "explanation": "The volcanic ash preserved the city and its inhabitants, providing a unique snapshot of Roman life."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Apartheid}$ regime in South Africa ended with the election of:",
+        "image": "",
+        "options": [
+            "Desmond Tutu",
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Jacob Zuma"
+        ],
+        "answer": "Nelson Mandela",
+        "explanation": "Mandela became South Africa's first black head of state in the fully representative democratic election of 1994."
+    },
+    {
+        "id": "H18",
+        "text": "Who painted the $\\textbf{Mona Lisa}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Sandro Botticelli"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Painted in the early 16th century, it is arguably the most famous painting in the world."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Cuban Missile Crisis}$ (1962) involved a confrontation between the US and:",
+        "image": "",
+        "options": [
+            "China",
+            "The Soviet Union",
+            "North Korea",
+            "Vietnam"
+        ],
+        "answer": "The Soviet Union",
+        "explanation": "The discovery of Soviet nuclear missiles in Cuba brought the world to the brink of nuclear war."
+    },
+    {
+        "id": "H20",
+        "text": "Which document begins with the words $\\textbf{'We the People'}$?",
+        "image": "",
+        "options": [
+            "The Declaration of Independence",
+            "The Magna Carta",
+            "The US Constitution",
+            "The Bill of Rights"
+        ],
+        "answer": "The US Constitution",
+        "explanation": "The Preamble to the United States Constitution sets the stage for the document's purpose and guiding principles."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Industrial Revolution}$ began in which country?",
+        "image": "",
+        "options": [
+            "The United States",
+            "France",
+            "Great Britain",
+            "Germany"
+        ],
+        "answer": "Great Britain",
+        "explanation": "Starting in the late 18th century, it marked the transition to new manufacturing processes, fueled by coal and steam."
+    },
+    {
+        "id": "H22",
+        "text": "Who was the longest-reigning monarch in French history, known as the $\\textbf{Sun King}$?",
+        "image": "",
+        "options": [
+            "Louis XIV",
+            "Louis XVI",
+            "Napoleon III",
+            "Charlemagne"
+        ],
+        "answer": "Louis XIV",
+        "explanation": "Louis XIV reigned for 72 years and 110 days, symbolizing the height of absolute monarchy in Europe."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Boxer Rebellion}$ in China was an uprising against:",
+        "image": "",
+        "options": [
+            "The Qing Dynasty",
+            "Foreign imperialism and Christianity",
+            "The Communist Party",
+            "The Japanese invasion"
+        ],
+        "answer": "Foreign imperialism and Christianity",
+        "explanation": "Taking place around 1900, the 'Boxers' fought to expel foreigners and foreign influence from China."
+    },
+    {
+        "id": "H24",
+        "text": "Which war is often called the $\\textbf{'Forgotten War'}$ in the United States?",
+        "image": "",
+        "options": [
+            "The Korean War",
+            "The Vietnam War",
+            "The Gulf War",
+            "The Spanish-American War"
+        ],
+        "answer": "The Korean War",
+        "explanation": "Fought between 1950 and 1953, it is often overshadowed by WWII and the Vietnam War."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Code of Hammurabi}$ is best described as:",
+        "image": "",
+        "options": [
+            "A religious text",
+            "One of the earliest written legal codes",
+            "A map of the stars",
+            "A guide to agriculture"
+        ],
+        "answer": "One of the earliest written legal codes",
+        "explanation": "Created by the Babylonian king Hammurabi, it established laws and punishments ('an eye for an eye')."
+    },
+    {
+        "id": "H26",
+        "text": "Who was the first woman to fly solo across the $\\textbf{Atlantic Ocean}$?",
+        "image": "",
+        "options": [
+            "Amelia Earhart",
+            "Bessie Coleman",
+            "Harriet Quimby",
+            "Sally Ride"
+        ],
+        "answer": "Amelia Earhart",
+        "explanation": "Earhart completed the flight in 1932, five years after Charles Lindbergh."
+    },
+    {
+        "id": "H27",
+        "text": "The $\\textbf{Protestant Reformation}$ began in which century?",
+        "image": "",
+        "options": [
+            "14th Century",
+            "15th Century",
+            "16th Century",
+            "17th Century"
+        ],
+        "answer": "16th Century",
+        "explanation": "It began in 1517 with Martin Luther's publication of the 95 Theses."
+    },
+    {
+        "id": "H28",
+        "text": "Which ancient wonder was located in $\\textbf{Babylon}$?",
+        "image": "",
+        "options": [
+            "The Great Pyramid",
+            "The Hanging Gardens",
+            "The Lighthouse of Alexandria",
+            "The Colossus of Rhodes"
+        ],
+        "answer": "The Hanging Gardens",
+        "explanation": "Though no archaeological evidence has been found, they are one of the Seven Wonders of the Ancient World."
+    },
+    {
+        "id": "H29",
+        "text": "The $\\textbf{Tet Offensive}$ was a major military campaign during which war?",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Vietnam War",
+            "The Korean War",
+            "The Cold War"
+        ],
+        "answer": "The Vietnam War",
+        "explanation": "Launched in 1968 by North Vietnamese forces, it was a turning point that swayed US public opinion against the war."
+    },
+    {
+        "id": "H30",
+        "text": "Who is credited with discovering $\\textbf{penicillin}$?",
+        "image": "",
+        "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Joseph Lister"
+        ],
+        "answer": "Alexander Fleming",
+        "explanation": "Fleming's discovery in 1928 revolutionized medicine by introducing the first true antibiotic."
+    },
+    {
+        "id": "H31",
+        "text": "The $\\textbf{Great Depression}$ was triggered by the stock market crash in:",
+        "image": "",
+        "options": [
+            "1919",
+            "1929",
+            "1939",
+            "1945"
+        ],
+        "answer": "1929",
+        "explanation": "The crash of 'Black Tuesday' led to a decade-long global economic downturn."
+    },
+    {
+        "id": "H32",
+        "text": "Which civilization built $\\textbf{Machu Picchu}$ high in the Andes Mountains?",
+        "image": "",
+        "options": [
+            "The Aztec",
+            "The Maya",
+            "The Inca",
+            "The Olmec"
+        ],
+        "answer": "The Inca",
+        "explanation": "Built in the 15th century, it was abandoned during the Spanish conquest but never found by the Spanish."
+    },
+    {
+        "id": "H33",
+        "text": "The $\\textbf{Magna Carta}$ was signed in the year:",
+        "image": "",
+        "options": [
+            "1066",
+            "1215",
+            "1492",
+            "1776"
+        ],
+        "answer": "1215",
+        "explanation": "King John of England was forced to sign it, establishing that the king was not above the law."
+    },
+    {
+        "id": "H34",
+        "text": "Who was the primary author of the $\\textbf{Declaration of Independence}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "answer": "Thomas Jefferson",
+        "explanation": "Adopted on July 4, 1776, it declared the thirteen American colonies independent from British rule."
+    },
+    {
+        "id": "H35",
+        "text": "The $\\textbf{Fall of Constantinople}$ in 1453 marked the end of:",
+        "image": "",
+        "options": [
+            "The Roman Empire",
+            "The Byzantine Empire",
+            "The Ottoman Empire",
+            "The Holy Roman Empire"
+        ],
+        "answer": "The Byzantine Empire",
+        "explanation": "The city fell to the Ottoman Turks led by Sultan Mehmed II."
+    },
+    {
+        "id": "H36",
+        "text": "Which US President issued the $\\textbf{Emancipation Proclamation}$?",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+        ],
+        "answer": "Abraham Lincoln",
+        "explanation": "Issued in 1863, it declared that all enslaved people in Confederate-held territory were free."
+    },
+    {
+        "id": "H37",
+        "text": "The $\\textbf{Russian Revolution}$ of 1917 led to the rise of which political ideology in Russia?",
+        "image": "",
+        "options": [
+            "Fascism",
+            "Communism",
+            "Democracy",
+            "Monarchy"
+        ],
+        "answer": "Communism",
+        "explanation": "The Bolsheviks, led by Lenin, established the world's first communist state."
+    },
+    {
+        "id": "H38",
+        "text": "Who was the British Prime Minister during most of $\\textbf{World War II}$?",
+        "image": "",
+        "options": [
+            "Neville Chamberlain",
+            "Winston Churchill",
+            "Clement Attlee",
+            "Tony Blair"
+        ],
+        "answer": "Winston Churchill",
+        "explanation": "Churchill's leadership and speeches rallied the British people against Nazi Germany."
+    },
+    {
+        "id": "H39",
+        "text": "The $\\textbf{Space Race}$ culminated in the Apollo 11 moon landing in:",
+        "image": "",
+        "options": [
+            "1959",
+            "1965",
+            "1969",
+            "1972"
+        ],
+        "answer": "1969",
+        "explanation": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon."
+    },
+    {
+        "id": "H40",
+        "text": "Which treaty ended $\\textbf{World War I}$?",
+        "image": "",
+        "options": [
+            "Treaty of Paris",
+            "Treaty of Versailles",
+            "Treaty of Ghent",
+            "Treaty of Vienna"
+        ],
+        "answer": "Treaty of Versailles",
+        "explanation": "Signed in 1919, it redrew the map of Europe and imposed harsh penalties on Germany."
+    }
+]

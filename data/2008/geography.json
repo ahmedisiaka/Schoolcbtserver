@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G801",
+        "text": "The movement of the earth on its axis from $\\textbf{West}$ to $\\textbf{East}$ is called $\\textbf{Rotation}$.",
+        "image": "",
+        "options": [
+            "Revolution",
+            "Rotation",
+            "Orbit",
+            "Gravitation"
+        ],
+        "answer": "Rotation",
+        "explanation": "The earth rotates on its axis once every 24 hours, causing day and night."
+    },
+    {
+        "id": "G802",
+        "text": "Rocks formed from the accumulation and cementation of sediments over a long period are called $\\textbf{Sedimentary}$ rocks.",
+        "image": "",
+        "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary",
+            "Volcanic"
+        ],
+        "answer": "Sedimentary",
+        "explanation": "These rocks often contain fossils and are formed in layers (strata)."
+    },
+    {
+        "id": "G803",
+        "text": "The $\\textbf{Mediterranean}$ climate is characterized by hot, dry summers and $\\textbf{Warm, Wet Winters}$.",
+        "image": "",
+        "options": [
+            "Cold, Dry Winters",
+            "Warm, Wet Winters",
+            "Hot, Wet Summers",
+            "Cool, Dry Summers"
+        ],
+        "answer": "Warm, Wet Winters",
+        "explanation": "This climate type is unique because most rain falls during the winter season."
+    },
+    {
+        "id": "G804",
+        "text": "On a topographical map, the steepness of a slope is referred to as the $\\textbf{Gradient}$.",
+        "image": "",
+        "options": [
+            "Bearing",
+            "Gradient",
+            "Altitude",
+            "Scale"
+        ],
+        "answer": "Gradient",
+        "explanation": "Gradient is calculated as the vertical interval divided by the horizontal equivalent."
+    },
+    {
+        "id": "G805",
+        "text": "An $\\textbf{Ox-bow Lake}$ is formed when a river meander is cut off from the main channel due to $\\textbf{Deposition}$ and erosion.",
+        "image": "",
+        "options": [
+            "Waterfall",
+            "Ox-bow Lake",
+            "Delta",
+            "Gorge"
+        ],
+        "answer": "Ox-bow Lake",
+        "explanation": "It is a crescent-shaped lake left behind in the lower course of a river."
+    },
+    {
+        "id": "G806",
+        "text": "The periodic headcount of the total population of a country is known as a $\\textbf{Census}$.",
+        "image": "",
+        "options": [
+            "Sample Survey",
+            "Census",
+            "Registration",
+            "Enumeration"
+        ],
+        "answer": "Census",
+        "explanation": "A census provides data on the size, distribution, and composition of the population."
+    },
+    {
+        "id": "G807",
+        "text": "Industries that produce goods that are light and easy to transport, and can be located anywhere, are called $\\textbf{Footloose}$ industries.",
+        "image": "",
+        "options": [
+            "Heavy",
+            "Footloose",
+            "Extractive",
+            "Primary"
+        ],
+        "answer": "Footloose",
+        "explanation": "Examples include electronics assembly or diamond cutting."
+    },
+    {
+        "id": "G808",
+        "text": "Farming practiced mainly to provide food for the farmer's family with little surplus for sale is $\\textbf{Subsistence}$ farming.",
+        "image": "",
+        "options": [
+            "Commercial",
+            "Plantation",
+            "Subsistence",
+            "Mechanized"
+        ],
+        "answer": "Subsistence",
+        "explanation": "It relies on simple tools and small land holdings."
+    },
+    {
+        "id": "G809",
+        "text": "The release of harmful substances into the environment is called $\\textbf{Pollution}$.",
+        "image": "",
+        "options": [
+            "Conservation",
+            "Pollution",
+            "Erosion",
+            "Afforestation"
+        ],
+        "answer": "Pollution",
+        "explanation": "It can affect air, water, and land resources."
+    },
+    {
+        "id": "G810",
+        "text": "Which mode of transport is most suitable for transporting $\\textbf{Oil}$ and gas over long distances on land?",
+        "image": "",
+        "options": [
+            "Road",
+            "Rail",
+            "Pipeline",
+            "Air"
+        ],
+        "answer": "Pipeline",
+        "explanation": "Pipelines provide continuous flow and are cost-effective for liquids and gases."
+    },
+    {
+        "id": "G811",
+        "text": "The uncontrolled expansion of urban areas into the surrounding countryside is known as $\\textbf{Urban Sprawl}$.",
+        "image": "",
+        "options": [
+            "Urban Renewal",
+            "Urban Sprawl",
+            "Gentrification",
+            "Conurbation"
+        ],
+        "answer": "Urban Sprawl",
+        "explanation": "It often leads to the loss of agricultural land and increased commuting times."
+    },
+    {
+        "id": "G812",
+        "text": "The instrument used to measure the $\\textbf{Speed}$ of the wind is the $\\textbf{Anemometer}$.",
+        "image": "",
+        "options": [
+            "Wind Vane",
+            "Barometer",
+            "Anemometer",
+            "Rain Gauge"
+        ],
+        "answer": "Anemometer",
+        "explanation": "It typically uses rotating cups to capture wind speed."
+    },
+    {
+        "id": "G813",
+        "text": "Debris transported and deposited by a glacier is called $\\textbf{Moraine}$.",
+        "image": "",
+        "options": [
+            "Alluvium",
+            "Loess",
+            "Moraine",
+            "Scree"
+        ],
+        "answer": "Moraine",
+        "explanation": "Moraines form ridges or mounds of unsorted glacial till."
+    },
+    {
+        "id": "G814",
+        "text": "Block mountains are formed by $\\textbf{Faulting}$ and tensional forces in the earth's crust.",
+        "image": "",
+        "options": [
+            "Folding",
+            "Faulting",
+            "Volcanicity",
+            "Deposition"
+        ],
+        "answer": "Faulting",
+        "explanation": "Also known as Horsts, they rise between parallel faults."
+    },
+    {
+        "id": "G815",
+        "text": "A vertical sheet of solidified magma that cuts across rock layers is called a $\\textbf{Dyke}$.",
+        "image": "",
+        "options": [
+            "Sill",
+            "Dyke",
+            "Laccolith",
+            "Batholith"
+        ],
+        "answer": "Dyke",
+        "explanation": "Sills are horizontal; dykes are vertical or discordant intrusions."
+    },
+    {
+        "id": "G816",
+        "text": "Which vegetation type is adapted to saline (salty) water in coastal swamps?",
+        "image": "",
+        "options": [
+            "Rainforest",
+            "Savanna",
+            "Mangrove",
+            "Desert Scrub"
+        ],
+        "answer": "Mangrove",
+        "explanation": "Mangrove trees have aerial roots (pneumatophores) to breathe in waterlogged soil."
+    },
+    {
+        "id": "G817",
+        "text": "The decayed organic matter in the soil that improves fertility is called $\\textbf{Humus}$.",
+        "image": "",
+        "options": [
+            "Clay",
+            "Sand",
+            "Humus",
+            "Silt"
+        ],
+        "answer": "Humus",
+        "explanation": "It is dark in color and rich in nutrients."
+    },
+    {
+        "id": "G818",
+        "text": "On a map, contour lines that are close together indicate a $\\textbf{Steep Slope}$.",
+        "image": "",
+        "options": [
+            "Gentle Slope",
+            "Steep Slope",
+            "Flat Plain",
+            "Valley Floor"
+        ],
+        "answer": "Steep Slope",
+        "explanation": "Widely spaced contours indicate a gentle slope."
+    },
+    {
+        "id": "G819",
+        "text": "The policy of encouraging local production of goods to replace foreign imports is $\\textbf{Import Substitution}$.",
+        "image": "",
+        "options": [
+            "Free Trade",
+            "Import Substitution",
+            "Export Promotion",
+            "Globalization"
+        ],
+        "answer": "Import Substitution",
+        "explanation": "It aims to reduce dependency on foreign goods."
+    },
+    {
+        "id": "G820",
+        "text": "Energy derived from the $\\textbf{Sun}$ is known as $\\textbf{Solar Energy}$.",
+        "image": "",
+        "options": [
+            "Geothermal Energy",
+            "Solar Energy",
+            "Nuclear Energy",
+            "Hydro Energy"
+        ],
+        "answer": "Solar Energy",
+        "explanation": "It is a renewable and clean source of power."
+    },
+    {
+        "id": "G821",
+        "text": "The degree of saltiness of ocean water is known as its $\\textbf{Salinity}$.",
+        "image": "",
+        "options": [
+            "Density",
+            "Temperature",
+            "Salinity",
+            "Acidity"
+        ],
+        "answer": "Salinity",
+        "explanation": "It is usually measured in parts per thousand."
+    },
+    {
+        "id": "G822",
+        "text": "A fertile area in a desert where water is available is called an $\\textbf{Oasis}$.",
+        "image": "",
+        "options": [
+            "Wadi",
+            "Oasis",
+            "Dune",
+            "Mesa"
+        ],
+        "answer": "Oasis",
+        "explanation": "Water typically comes from an underground aquifer."
+    },
+    {
+        "id": "G823",
+        "text": "Icicle-shaped limestone deposits hanging from the roof of a cave are $\\textbf{Stalactites}$.",
+        "image": "",
+        "options": [
+            "Stalagmites",
+            "Stalactites",
+            "Pillars",
+            "Dolines"
+        ],
+        "answer": "Stalactites",
+        "explanation": "Stalagmites grow upwards from the floor; stalactites hang tight to the ceiling."
+    },
+    {
+        "id": "G824",
+        "text": "The layer of the earth located between the crust and the core is the $\\textbf{Mantle}$.",
+        "image": "",
+        "options": [
+            "Lithosphere",
+            "Mantle",
+            "Atmosphere",
+            "Hydrosphere"
+        ],
+        "answer": "Mantle",
+        "explanation": "It is a semi-molten layer where convection currents drive plate tectonics."
+    },
+    {
+        "id": "G825",
+        "text": "The imaginary line at 180 degrees longitude where the date changes is the $\\textbf{International Date Line}$.",
+        "image": "",
+        "options": [
+            "Prime Meridian",
+            "Equator",
+            "International Date Line",
+            "Tropic of Cancer"
+        ],
+        "answer": "International Date Line",
+        "explanation": "Traveling east across it subtracts a day; traveling west adds a day."
+    },
+    {
+        "id": "G826",
+        "text": "The breakdown of rocks by the action of plants and animals is $\\textbf{Biological Weathering}$.",
+        "image": "",
+        "options": [
+            "Physical Weathering",
+            "Chemical Weathering",
+            "Biological Weathering",
+            "Thermal Weathering"
+        ],
+        "answer": "Biological Weathering",
+        "explanation": "Example: Tree roots growing into cracks and widening them."
+    },
+    {
+        "id": "G827",
+        "text": "The total area of land drained by a river and its tributaries is its $\\textbf{Catchment Area}$ or Basin.",
+        "image": "",
+        "options": [
+            "Delta",
+            "Estuary",
+            "Catchment Area",
+            "Confluence"
+        ],
+        "answer": "Catchment Area",
+        "explanation": "It is bounded by a watershed."
+    },
+    {
+        "id": "G828",
+        "text": "Industries located near the source of heavy or bulky raw materials are $\\textbf{Raw Material Oriented}$.",
+        "image": "",
+        "options": [
+            "Market Oriented",
+            "Power Oriented",
+            "Raw Material Oriented",
+            "Labor Oriented"
+        ],
+        "answer": "Raw Material Oriented",
+        "explanation": "Example: Cement factories located near limestone deposits."
+    },
+    {
+        "id": "G829",
+        "text": "The migration of skilled professionals from developing to developed countries is known as $\\textbf{Brain Drain}$.",
+        "image": "",
+        "options": [
+            "Brain Gain",
+            "Brain Drain",
+            "Refugee Crisis",
+            "Urbanization"
+        ],
+        "answer": "Brain Drain",
+        "explanation": "It depletes the skilled workforce of the home country."
+    },
+    {
+        "id": "G830",
+        "text": "A settlement pattern arranged along a road, river, or railway line is $\\textbf{Linear}$.",
+        "image": "",
+        "options": [
+            "Nucleated",
+            "Dispersed",
+            "Linear",
+            "Isolated"
+        ],
+        "answer": "Linear",
+        "explanation": "Buildings are aligned in a line along a transport route."
+    },
+    {
+        "id": "G831",
+        "text": "Growing different crops on the same piece of land in a specific sequence to maintain soil fertility is $\\textbf{Crop Rotation}$.",
+        "image": "",
+        "options": [
+            "Monoculture",
+            "Shifting Cultivation",
+            "Crop Rotation",
+            "Bush Fallowing"
+        ],
+        "answer": "Crop Rotation",
+        "explanation": "Legumes are often included to fix nitrogen."
+    },
+    {
+        "id": "G832",
+        "text": "A situation where temperature increases with altitude instead of decreasing is $\\textbf{Temperature Inversion}$.",
+        "image": "",
+        "options": [
+            "Lapse Rate",
+            "Temperature Inversion",
+            "Convection",
+            "Radiation"
+        ],
+        "answer": "Temperature Inversion",
+        "explanation": "It traps pollution near the ground, causing smog."
+    },
+    {
+        "id": "G833",
+        "text": "An isolated hill with steep sides rising abruptly from a plain is an $\\textbf{Inselberg}$.",
+        "image": "",
+        "options": [
+            "Plateau",
+            "Inselberg",
+            "Delta",
+            "Dune"
+        ],
+        "answer": "Inselberg",
+        "explanation": "German for 'island mountain', typical in arid or semi-arid regions."
+    },
+    {
+        "id": "G834",
+        "text": "Microscopic organisms in water that serve as food for fish are called $\\textbf{Plankton}$.",
+        "image": "",
+        "options": [
+            "Coral",
+            "Algae",
+            "Plankton",
+            "Seaweed"
+        ],
+        "answer": "Plankton",
+        "explanation": "Rich fishing grounds are often found where plankton is abundant."
+    },
+    {
+        "id": "G835",
+        "text": "Tourism that focuses on visiting natural environments without damaging them is $\\textbf{Ecotourism}$.",
+        "image": "",
+        "options": [
+            "Mass Tourism",
+            "Ecotourism",
+            "Cultural Tourism",
+            "Medical Tourism"
+        ],
+        "answer": "Ecotourism",
+        "explanation": "It emphasizes conservation and sustainability."
+    },
+    {
+        "id": "G836",
+        "text": "The wise use and management of natural resources to prevent depletion is $\\textbf{Conservation}$.",
+        "image": "",
+        "options": [
+            "Exploitation",
+            "Conservation",
+            "Deforestation",
+            "Mining"
+        ],
+        "answer": "Conservation",
+        "explanation": "It ensures resources are available for future generations."
+    },
+    {
+        "id": "G837",
+        "text": "The layer of the atmosphere that reflects radio waves back to earth is the $\\textbf{Ionosphere}$.",
+        "image": "",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Ionosphere",
+            "Exosphere"
+        ],
+        "answer": "Ionosphere",
+        "explanation": "It contains electrically charged particles (ions)."
+    },
+    {
+        "id": "G838",
+        "text": "A scale expressed as '1 cm represents 10 km' is a $\\textbf{Statement Scale}$.",
+        "image": "",
+        "options": [
+            "Linear Scale",
+            "Representative Fraction",
+            "Statement Scale",
+            "Bar Scale"
+        ],
+        "answer": "Statement Scale",
+        "explanation": "It uses words to describe the relationship between map and ground distance."
+    },
+    {
+        "id": "G839",
+        "text": "The theory that the earth's crust is divided into moving slabs is $\\textbf{Plate Tectonics}$.",
+        "image": "",
+        "options": [
+            "Continental Drift",
+            "Plate Tectonics",
+            "Big Bang",
+            "Evolution"
+        ],
+        "answer": "Plate Tectonics",
+        "explanation": "It explains earthquakes, volcanism, and mountain building."
+    },
+    {
+        "id": "G840",
+        "text": "Which of the following crops is typical of the $\\textbf{Savanna}$ region?",
+        "image": "",
+        "options": [
+            "Rubber",
+            "Cocoa",
+            "Millet",
+            "Oil Palm"
+        ],
+        "answer": "Millet",
+        "explanation": "Millet and sorghum are drought-resistant grains suitable for the Savanna."
+    }
+]

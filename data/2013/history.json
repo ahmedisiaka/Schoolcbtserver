@@ -1,0 +1,522 @@
+[
+    {
+        "id": "H01",
+        "text": "The $\\textbf{Battle of Little Bighorn}$, also known as Custer's Last Stand, was a victory for:",
+        "image": "",
+        "options": [
+            "The US Cavalry",
+            "The Confederate Army",
+            "The Lakota, Northern Cheyenne, and Arapaho",
+            "The Mexican Army"
+        ],
+        "answer": "The Lakota, Northern Cheyenne, and Arapaho",
+        "explanation": "Fought in 1876, the combined forces of the tribes, led by Sitting Bull and Crazy Horse, defeated the 7th Cavalry."
+    },
+    {
+        "id": "H02",
+        "text": "Which ancient Greek poet is credited with writing the $\\textbf{Iliad}$ and the $\\textbf{Odyssey}$?",
+        "image": "",
+        "options": [
+            "Sophocles",
+            "Homer",
+            "Virgil",
+            "Hesiod"
+        ],
+        "answer": "Homer",
+        "explanation": "These epic poems are foundational works of ancient Greek literature, detailing the Trojan War and its aftermath."
+    },
+    {
+        "id": "H03",
+        "text": "The $\\textbf{Parthenon}$ is a temple on the Athenian Acropolis dedicated to the goddess:",
+        "image": "",
+        "options": [
+            "Aphrodite",
+            "Hera",
+            "Athena",
+            "Artemis"
+        ],
+        "answer": "Athena",
+        "explanation": "Completed in 438 BC, it is regarded as an enduring symbol of Ancient Greece and democracy."
+    },
+    {
+        "id": "H04",
+        "text": "Who was the first woman to win a Nobel Prize and the only person to win twice in different sciences?",
+        "image": "",
+        "options": [
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Marie Curie",
+            "Florence Nightingale"
+        ],
+        "answer": "Marie Curie",
+        "explanation": "Curie pioneered research on radioactivity, winning Nobel Prizes in Physics (1903) and Chemistry (1911)."
+    },
+    {
+        "id": "H05",
+        "text": "The $\\textbf{Donner Party}$ was a group of American pioneers known for:",
+        "image": "",
+        "options": [
+            "Discovering gold in California",
+            "Resorting to cannibalism while snowbound",
+            "Mapping the Oregon Trail",
+            "Fighting in the Alamo"
+        ],
+        "answer": "Resorting to cannibalism while snowbound",
+        "explanation": "Trapped by winter snows in the Sierra Nevada in 1846–47, some members survived by consuming the deceased."
+    },
+    {
+        "id": "H06",
+        "text": "Which treaty ended the $\\textbf{Revolutionary War}$ and recognized American independence?",
+        "image": "",
+        "options": [
+            "Treaty of Ghent",
+            "Treaty of Paris (1783)",
+            "Treaty of Versailles",
+            "Treaty of Tordesillas"
+        ],
+        "answer": "Treaty of Paris (1783)",
+        "explanation": "Signed in Paris, the treaty officially ended the war between Great Britain and the United States."
+    },
+    {
+        "id": "H07",
+        "text": "The $\\textbf{Guillotine}$ became the symbol of which historical event?",
+        "image": "",
+        "options": [
+            "The Spanish Inquisition",
+            "The French Revolution",
+            "The Salem Witch Trials",
+            "The Russian Revolution"
+        ],
+        "answer": "The French Revolution",
+        "explanation": "It was used as the primary method of execution during the Reign of Terror for its perceived efficiency and equality."
+    },
+    {
+        "id": "H08",
+        "text": "Who painted the mural $\\textbf{The Last Supper}$?",
+        "image": "",
+        "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Vincent van Gogh"
+        ],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Painted in the late 15th century in Milan, it represents the last meal shared by Jesus with his disciples."
+    },
+    {
+        "id": "H09",
+        "text": "The $\\textbf{Chicago Fire}$ of 1871 was famously (and falsely) blamed on:",
+        "image": "",
+        "options": [
+            "A lightning strike",
+            "A cow kicking over a lantern",
+            "An arsonist",
+            "A train derailment"
+        ],
+        "answer": "A cow kicking over a lantern",
+        "explanation": "The story of Mrs. O'Leary's cow was a fabrication by a newspaper reporter, though the fire did destroy much of the city."
+    },
+    {
+        "id": "H10",
+        "text": "Which Native American woman served as a guide and interpreter for the $\\textbf{Lewis and Clark Expedition}$?",
+        "image": "",
+        "options": [
+            "Pocahontas",
+            "Sacagawea",
+            "Malinche",
+            "Lozen"
+        ],
+        "answer": "Sacagawea",
+        "explanation": "A Lemhi Shoshone woman, she was instrumental to the success of the expedition to the Pacific Ocean."
+    },
+    {
+        "id": "H11",
+        "text": "The $\\textbf{Battle of Bunker Hill}$ famously occurred near which city?",
+        "image": "",
+        "options": [
+            "New York",
+            "Philadelphia",
+            "Boston",
+            "Charleston"
+        ],
+        "answer": "Boston",
+        "explanation": "Fought in 1775, mostly on Breed's Hill, it was an early battle of the American Revolutionary War."
+    },
+    {
+        "id": "H12",
+        "text": "Who was the notorious gangster known as $\\textbf{'Scarface'}$ who dominated organized crime in Chicago during Prohibition?",
+        "image": "",
+        "options": [
+            "John Dillinger",
+            "Bugsy Siegel",
+            "Al Capone",
+            "Lucky Luciano"
+        ],
+        "answer": "Al Capone",
+        "explanation": "Capone was finally convicted on tax evasion charges in 1931."
+    },
+    {
+        "id": "H13",
+        "text": "The $\\textbf{Stonehenge}$ monument is located in:",
+        "image": "",
+        "options": [
+            "Ireland",
+            "Scotland",
+            "England",
+            "Wales"
+        ],
+        "answer": "England",
+        "explanation": "It is a prehistoric monument in Wiltshire, consisting of a ring of standing stones."
+    },
+    {
+        "id": "H14",
+        "text": "Which famous painting depicts the bombing of a Basque town during the Spanish Civil War?",
+        "image": "",
+        "options": [
+            "The Third of May 1808",
+            "Guernica",
+            "The Starry Night",
+            "The Persistence of Memory"
+        ],
+        "answer": "Guernica",
+        "explanation": "Painted by Pablo Picasso in 1937, it is one of the most powerful anti-war paintings in history."
+    },
+    {
+        "id": "H15",
+        "text": "The $\\textbf{Habeas Corpus Act}$ ensures that:",
+        "image": "",
+        "options": [
+            "Everyone has the right to free speech",
+            "A person cannot be imprisoned without being charged with a crime",
+            "Taxes must be approved by Parliament",
+            "The King is subject to the law"
+        ],
+        "answer": "A person cannot be imprisoned without being charged with a crime",
+        "explanation": "It is a fundamental legal principle protecting individuals from arbitrary detention."
+    },
+    {
+        "id": "H16",
+        "text": "Who is the primary figure of the $\\textbf{Protestant Reformation}$ who taught the doctrine of predestination?",
+        "image": "",
+        "options": [
+            "Martin Luther",
+            "John Calvin",
+            "Henry VIII",
+            "Erasmus"
+        ],
+        "answer": "John Calvin",
+        "explanation": "Calvinism became a major branch of Protestantism, emphasizing the sovereignty of God."
+    },
+    {
+        "id": "H17",
+        "text": "The $\\textbf{Zimmermann Telegram}$ proposed an alliance between Germany and which country against the US?",
+        "image": "",
+        "options": [
+            "Canada",
+            "Japan",
+            "Mexico",
+            "Brazil"
+        ],
+        "answer": "Mexico",
+        "explanation": "Intercepted by British intelligence in 1917, it helped draw the United States into World War I."
+    },
+    {
+        "id": "H18",
+        "text": "Which US President created the $\\textbf{Peace Corps}$?",
+        "image": "",
+        "options": [
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "John F. Kennedy",
+            "Lyndon B. Johnson"
+        ],
+        "answer": "John F. Kennedy",
+        "explanation": "Established in 1961, it sends American volunteers to assist developing countries."
+    },
+    {
+        "id": "H19",
+        "text": "The $\\textbf{Bastille}$ was a fortress-prison in Paris stormed by revolutionaries in:",
+        "image": "",
+        "options": [
+            "1776",
+            "1789",
+            "1812",
+            "1848"
+        ],
+        "answer": "1789",
+        "explanation": "The event is commemorated annually as Bastille Day and marked the flashpoint of the French Revolution."
+    },
+    {
+        "id": "H20",
+        "text": "Who was the first man to $\\textbf{orbit the Earth}$?",
+        "image": "",
+        "options": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Yuri Gagarin",
+            "Buzz Aldrin"
+        ],
+        "answer": "Yuri Gagarin",
+        "explanation": "The Soviet cosmonaut completed his orbit aboard Vostok 1 in 1961."
+    },
+    {
+        "id": "H21",
+        "text": "The $\\textbf{Maginot Line}$ proved ineffective in WWII because:",
+        "image": "",
+        "options": [
+            "The concrete was poor quality",
+            "The Germans flew over it",
+            "The Germans bypassed it through Belgium",
+            "The French surrendered before it was used"
+        ],
+        "answer": "The Germans bypassed it through Belgium",
+        "explanation": "The line of fortifications stopped at the Belgian border, allowing German forces to go around it."
+    },
+    {
+        "id": "H22",
+        "text": "Which scientist developed the process of $\\textbf{pasteurization}$ to kill bacteria in milk and wine?",
+        "image": "",
+        "options": [
+            "Marie Curie",
+            "Louis Pasteur",
+            "Joseph Lister",
+            "Gregor Mendel"
+        ],
+        "answer": "Louis Pasteur",
+        "explanation": "His work in the 19th century saved countless lives and revolutionized food safety."
+    },
+    {
+        "id": "H23",
+        "text": "The $\\textbf{Charge of the Light Brigade}$ took place during which war?",
+        "image": "",
+        "options": [
+            "The Napoleonic Wars",
+            "The Crimean War",
+            "The Boer War",
+            "World War I"
+        ],
+        "answer": "The Crimean War",
+        "explanation": "Immortalized by Tennyson's poem, it was a disastrous British cavalry charge in 1854."
+    },
+    {
+        "id": "H24",
+        "text": "Who was the Chancellor of Germany who unified the country through $\\textbf{'Blood and Iron'}$?",
+        "image": "",
+        "options": [
+            "Wilhelm II",
+            "Otto von Bismarck",
+            "Frederick the Great",
+            "Adolf Hitler"
+        ],
+        "answer": "Otto von Bismarck",
+        "explanation": "Bismarck served as Chancellor from 1871 to 1890, engineering the unification of German states."
+    },
+    {
+        "id": "H25",
+        "text": "The $\\textbf{Great Fire of Rome}$ occurred during the reign of which emperor?",
+        "image": "",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Caligula",
+            "Trajan"
+        ],
+        "answer": "Nero",
+        "explanation": "The fire in 64 AD destroyed much of the city; Nero famously blamed the Christians for it."
+    },
+    {
+        "id": "H26",
+        "text": "The $\\textbf{War of the Worlds}$ radio broadcast in 1938, which allegedly caused panic, was narrated by:",
+        "image": "",
+        "options": [
+            "Charlie Chaplin",
+            "Orson Welles",
+            "Franklin D. Roosevelt",
+            "H.G. Wells"
+        ],
+        "answer": "Orson Welles",
+        "explanation": "The realistic news bulletin style of the radio play convinced some listeners that a Martian invasion was actually happening."
+    },
+    {
+        "id": "H27",
+        "text": "Which civilization utilized $\\textbf{chinampas}$ (floating gardens) for agriculture?",
+        "image": "",
+        "options": [
+            "The Inca",
+            "The Maya",
+            "The Aztec",
+            "The Olmec"
+        ],
+        "answer": "The Aztec",
+        "explanation": "These artificial islands allowed the Aztecs to farm the shallow lake beds of the Valley of Mexico."
+    },
+    {
+        "id": "H28",
+        "text": "The $\\textbf{Social Contract}$ theory, arguing that government authority comes from the consent of the governed, was championed by:",
+        "image": "",
+        "options": [
+            "Jean-Jacques Rousseau",
+            "King Louis XIV",
+            "Napoleon Bonaparte",
+            "Karl Marx"
+        ],
+        "answer": "Jean-Jacques Rousseau",
+        "explanation": "His philosophy strongly influenced the French Revolution and modern political thought."
+    },
+    {
+        "id": "H29",
+        "text": "Who commanded the Confederate Army of Northern Virginia during the $\\textbf{American Civil War}$?",
+        "image": "",
+        "options": [
+            "Stonewall Jackson",
+            "Ulysses S. Grant",
+            "Robert E. Lee",
+            "Jefferson Davis"
+        ],
+        "answer": "Robert E. Lee",
+        "explanation": "Lee was the most prominent Confederate general, surrendering at Appomattox in 1865."
+    },
+    {
+        "id": "H30",
+        "text": "The $\\textbf{Manhattan Project}$ was the code name for:",
+        "image": "",
+        "options": [
+            "The D-Day Invasion",
+            "The development of the atomic bomb",
+            "The moon landing",
+            "The construction of the Pentagon"
+        ],
+        "answer": "The development of the atomic bomb",
+        "explanation": "It was a research and development undertaking during World War II that produced the first nuclear weapons."
+    },
+    {
+        "id": "H31",
+        "text": "Which famous conductor on the $\\textbf{Underground Railroad}$ was known as 'Moses'?",
+        "image": "",
+        "options": [
+            "Frederick Douglass",
+            "Harriet Tubman",
+            "Sojourner Truth",
+            "Nat Turner"
+        ],
+        "answer": "Harriet Tubman",
+        "explanation": "She escaped slavery and made some 13 missions to rescue approximately 70 enslaved people."
+    },
+    {
+        "id": "H32",
+        "text": "The $\\textbf{Triangle Shirtwaist Factory Fire}$ of 1911 led to improvements in:",
+        "image": "",
+        "options": [
+            "Firearm regulations",
+            "Factory safety standards",
+            "Child labor laws",
+            "Immigration quotas"
+        ],
+        "answer": "Factory safety standards",
+        "explanation": "The tragedy in New York City killed 146 garment workers and galvanized the labor movement."
+    },
+    {
+        "id": "H33",
+        "text": "Who was the leader of the $\\textbf{Rough Riders}$ during the Spanish-American War?",
+        "image": "",
+        "options": [
+            "Dwight D. Eisenhower",
+            "Theodore Roosevelt",
+            "Woodrow Wilson",
+            "George Patton"
+        ],
+        "answer": "Theodore Roosevelt",
+        "explanation": "The Rough Riders were a volunteer cavalry regiment; Roosevelt later became the 26th US President."
+    },
+    {
+        "id": "H34",
+        "text": "The $\\textbf{Hague Conventions}$ of 1899 and 1907 established international laws regarding:",
+        "image": "",
+        "options": [
+            "Trade tariffs",
+            "The conduct of war and war crimes",
+            "Maritime borders",
+            "Space exploration"
+        ],
+        "answer": "The conduct of war and war crimes",
+        "explanation": "They were among the first formal statements of the laws of war and war crimes."
+    },
+    {
+        "id": "H35",
+        "text": "Which English King signed the $\\textbf{Magna Carta}$?",
+        "image": "",
+        "options": [
+            "King Richard the Lionheart",
+            "King John",
+            "King Henry VIII",
+            "King George III"
+        ],
+        "answer": "King John",
+        "explanation": "Forced by his barons in 1215, it was a practical solution to a political crisis but became a symbol of liberty."
+    },
+    {
+        "id": "H36",
+        "text": "The $\\textbf{Domino Theory}$ was used to justify US intervention in:",
+        "image": "",
+        "options": [
+            "World War II",
+            "The Vietnam War",
+            "The Gulf War",
+            "The Balkans"
+        ],
+        "answer": "The Vietnam War",
+        "explanation": "It posited that if one country in a region came under the influence of communism, then the surrounding countries would follow."
+    },
+    {
+        "id": "H37",
+        "text": "Who wrote $\\textbf{Common Sense}$, inspiring American colonists to declare independence?",
+        "image": "",
+        "options": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "Thomas Paine",
+            "John Adams"
+        ],
+        "answer": "Thomas Paine",
+        "explanation": "Published in 1776, the pamphlet argued for independence from Great Britain in clear, simple language."
+    },
+    {
+        "id": "H38",
+        "text": "The $\\textbf{Dust Bowl}$ of the 1930s affected which region of the United States?",
+        "image": "",
+        "options": [
+            "New England",
+            "The Great Plains",
+            "The Pacific Northwest",
+            "The Deep South"
+        ],
+        "answer": "The Great Plains",
+        "explanation": "Severe drought and poor farming methods led to massive dust storms that devastated the region's agriculture."
+    },
+    {
+        "id": "H39",
+        "text": "Which famous wall was torn down in $\\textbf{1989}$?",
+        "image": "",
+        "options": [
+            "The Great Wall of China",
+            "Hadrian's Wall",
+            "The Berlin Wall",
+            "The Wailing Wall"
+        ],
+        "answer": "The Berlin Wall",
+        "explanation": "The fall of the wall symbolized the collapse of the Iron Curtain and the end of the Cold War."
+    },
+    {
+        "id": "H40",
+        "text": "The $\\textbf{Bay of Pigs Invasion}$ was a failed attempt to overthrow:",
+        "image": "",
+        "options": [
+            "Saddam Hussein",
+            "Fidel Castro",
+            "Manuel Noriega",
+            "Salvador Allende"
+        ],
+        "answer": "Fidel Castro",
+        "explanation": "Launched in 1961 by CIA-backed Cuban exiles, the failure was a major embarrassment for the Kennedy administration."
+    }
+]

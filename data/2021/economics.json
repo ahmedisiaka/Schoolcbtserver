@@ -1,0 +1,522 @@
+[
+    {
+        "id": "JAMB_F_001",
+        "text": "The $\\textbf{opportunity}$ $\\textbf{cost}$ of a student deciding to study economics is the:",
+        "image": "",
+        "options": [
+            "total money spent on the course.",
+            "value of the next best alternative course given up.",
+            "cost of tuition and books.",
+            "time spent studying the course."
+        ],
+        "answer": "value of the next best alternative course given up.",
+        "explanation": "Opportunity cost is defined as the value of the next best alternative foregone when a choice is made."
+    },
+    {
+        "id": "JAMB_F_002",
+        "text": "The relationship between $\\textbf{Average}$ $\\textbf{Product}$ (AP) and $\\textbf{Marginal}$ $\\textbf{Product}$ (MP) is such that when MP is greater than AP:",
+        "image": "",
+        "options": [
+            "AP must be falling.",
+            "AP must be rising.",
+            "MP must be falling.",
+            "AP must be maximum."
+        ],
+        "answer": "AP must be rising.",
+        "explanation": "If the addition (Marginal Product) is greater than the current average (Average Product), the average must necessarily be pulled up, meaning AP is rising. [Image of Average Product and Marginal Product Curves]"
+    },
+    {
+        "id": "JAMB_F_003",
+        "text": "A situation where the $\\textbf{percentage}$ $\\textbf{change}$ in $\\textbf{quantity}$ $\\textbf{demanded}$ is $\\textbf{equal}$ to the $\\textbf{percentage}$ $\\textbf{change}$ in $\\textbf{price}$ is known as:",
+        "image": "",
+        "options": [
+            "Perfectly elastic demand.",
+            "Perfectly inelastic demand.",
+            "Unitary elastic demand.",
+            "Relatively inelastic demand."
+        ],
+        "answer": "Unitary elastic demand.",
+        "explanation": "Unitary elasticity ($E_d = 1$) occurs when the proportional change in quantity demanded is exactly the same as the proportional change in price."
+    },
+    {
+        "id": "JAMB_F_004",
+        "text": "The $\\textbf{primary}$ $\\textbf{function}$ of the $\\textbf{Central}$ $\\textbf{Bank}$ of Nigeria (CBN) is:",
+        "image": "",
+        "options": [
+            "accepting deposits from the public.",
+            "granting loans to individuals and businesses.",
+            "issuing legal tender currency.",
+            "providing safe deposit boxes."
+        ],
+        "answer": "issuing legal tender currency.",
+        "explanation": "The CBN is the sole authority responsible for issuing the Naira, the legal tender currency in Nigeria, which is its most basic function."
+    },
+    {
+        "id": "JAMB_F_005",
+        "text": "Which of the following is $\\textbf{not}$ a characteristic of $\\textbf{Perfect}$ $\\textbf{Competition}$?",
+        "image": "",
+        "options": [
+            "Homogeneous products.",
+            "Free entry and exit.",
+            "Price discrimination.",
+            "Perfect knowledge of the market."
+        ],
+        "answer": "Price discrimination.",
+        "explanation": "Price discrimination is only possible when a firm has market power (like in Monopoly or Monopolistic Competition). Perfect competition firms are price takers and cannot discriminate."
+    },
+    {
+        "id": "JAMB_F_006",
+        "text": "A $\\textbf{regressive}$ $\\textbf{tax}$ is one which takes:",
+        "image": "",
+        "options": [
+            "a decreasing proportion of income as income increases.",
+            "an increasing proportion of income as income increases.",
+            "the same proportion of income as income increases.",
+            "only from the high-income earners."
+        ],
+        "answer": "a decreasing proportion of income as income increases.",
+        "explanation": "In a regressive tax system, the tax burden shifts relatively more to lower-income individuals because the tax rate decreases as the taxpayer's income increases (e.g., consumption taxes)."
+    },
+    {
+        "id": "JAMB_F_007",
+        "text": "The $\\textbf{major}$ $\\textbf{tool}$ used for $\\textbf{fiscal}$ $\\textbf{policy}$ is:",
+        "image": "",
+        "options": [
+            "open market operations.",
+            "the Bank Rate.",
+            "government spending and taxation.",
+            "reserve requirements."
+        ],
+        "answer": "government spending and taxation.",
+        "explanation": "Fiscal policy involves the government using its own spending levels and tax rates to influence the economy."
+    },
+    {
+        "id": "JAMB_F_008",
+        "text": "The concept of $\\textbf{derived}$ $\\textbf{demand}$ is most applicable to the demand for:",
+        "image": "",
+        "options": [
+            "consumer goods.",
+            "luxury goods.",
+            "factors of production.",
+            "inferior goods."
+        ],
+        "answer": "factors of production.",
+        "explanation": "Derived demand is the demand for a factor of production (like labour or raw materials) which results from the demand for the final product it helps to produce."
+    },
+    {
+        "id": "JAMB_F_009",
+        "text": "If Country A can produce a commodity at a $\\textbf{lower}$ $\\textbf{opportunity}$ $\\textbf{cost}$ than Country B, Country A is said to have a(n):",
+        "image": "",
+        "options": [
+            "absolute advantage.",
+            "comparative advantage.",
+            "competitive advantage.",
+            "monopoly power."
+        ],
+        "answer": "comparative advantage.",
+        "explanation": "Comparative advantage is the ability of an economy to produce a good or service at a lower opportunity cost than others."
+    },
+    {
+        "id": "JAMB_F_010",
+        "text": "The total value of $\\textbf{goods}$ $\\textbf{and}$ $\\textbf{services}$ produced in a country in a year is known as:",
+        "image": "",
+        "options": [
+            "National Debt.",
+            "National Income.",
+            "National Expenditure.",
+            "Balance of Trade."
+        ],
+        "answer": "National Income.",
+        "explanation": "National Income generally refers to the total monetary value of all final goods and services produced in an economy over a specific period, usually a year."
+    },
+    {
+        "id": "JAMB_F_011",
+        "text": "The $\\textbf{study}$ $\\textbf{of}$ $\\textbf{individual}$ $\\textbf{economic}$ $\\textbf{units}$ such as a consumer, a firm, or a market is called:",
+        "image": "",
+        "options": [
+            "Econometrics.",
+            "Macroeconomics.",
+            "Development Economics.",
+            "Microeconomics."
+        ],
+        "answer": "Microeconomics.",
+        "explanation": "Microeconomics focuses on the behavior of individual economic agents, while macroeconomics studies the economy as a whole."
+    },
+    {
+        "id": "JAMB_F_012",
+        "text": "Which of the following is an example of an $\\textbf{Injection}$ into the $\\textbf{circular}$ $\\textbf{flow}$ of $\\textbf{income}$?",
+        "image": "",
+        "options": [
+            "Taxes",
+            "Imports",
+            "Savings",
+            "Investment"
+        ],
+        "answer": "Investment",
+        "explanation": "Injections are additions to the circular flow (Investment, Government Spending, Exports), while leakages are withdrawals (Savings, Taxes, Imports). [Image of Circular Flow of Income model]"
+    },
+    {
+        "id": "JAMB_F_013",
+        "text": "The relationship between quantity supplied and price is $\\textbf{direct}$ which is represented by a(n):",
+        "image": "",
+        "options": [
+            "downward sloping demand curve.",
+            "upward sloping supply curve.",
+            "vertical supply curve.",
+            "horizontal demand curve."
+        ],
+        "answer": "upward sloping supply curve.",
+        "explanation": "The Law of Supply states that as price increases, quantity supplied increases, and vice versa. This positive relationship is shown by an upward (or positively) sloping supply curve."
+    },
+    {
+        "id": "JAMB_F_014",
+        "text": "A situation where a firm uses a single plant to produce a variety of products is known as:",
+        "image": "",
+        "options": [
+            "horizontal integration.",
+            "vertical integration.",
+            "economies of scale.",
+            "economies of scope."
+        ],
+        "answer": "economies of scope.",
+        "explanation": "Economies of scope are achieved when producing a wider variety of goods or services jointly is more cost-efficient than producing them separately."
+    },
+    {
+        "id": "JAMB_F_015",
+        "text": "The $\\textbf{major}$ $\\textbf{asset}$ $\\textbf{of}$ a $\\textbf{commercial}$ $\\textbf{bank}$ is:",
+        "image": "",
+        "options": [
+            "its deposit accounts.",
+            "its borrowings from the Central Bank.",
+            "its vault cash.",
+            "loans and advances to customers."
+        ],
+        "answer": "loans and advances to customers.",
+        "explanation": "Loans represent the money owed to the bank by customers and are the primary source of income (interest) and the largest asset item on a commercial bank's balance sheet."
+    },
+    {
+        "id": "JAMB_F_016",
+        "text": "If a country has a $\\textbf{current}$ $\\textbf{account}$ $\\textbf{deficit}$ and a $\\textbf{capital}$ $\\textbf{account}$ $\\textbf{surplus}$, the country's Balance of Payments is likely to be:",
+        "image": "",
+        "options": [
+            "in equilibrium.",
+            "in deficit.",
+            "in surplus.",
+            "unbalanced."
+        ],
+        "answer": "in equilibrium.",
+        "explanation": "The Balance of Payments (BoP) is always balanced overall (Current Account + Capital Account + Financial Account + Errors and Omissions = 0). A deficit in one section is usually financed by a surplus in another."
+    },
+    {
+        "id": "JAMB_F_017",
+        "text": "The $\\textbf{primary}$ $\\textbf{difference}$ between $\\textbf{Gross}$ $\\textbf{Domestic}$ $\\textbf{Product}$ (GDP) and $\\textbf{Gross}$ $\\textbf{National}$ $\\textbf{Product}$ (GNP) is:",
+        "image": "",
+        "options": [
+            "transfer payments.",
+            "indirect taxes.",
+            "depreciation.",
+            "net factor income from abroad."
+        ],
+        "answer": "net factor income from abroad.",
+        "explanation": "GDP measures income generated within a country's borders, while GNP measures income earned by a country's residents, regardless of location. The difference is Net Factor Income from Abroad (NFA)."
+    },
+    {
+        "id": "JAMB_F_018",
+        "text": "Which type of firm enjoys $\\textbf{monopoly}$ power due to $\\textbf{large}$ $\\textbf{economies}$ $\\textbf{of}$ $\\textbf{scale}$ in production?",
+        "image": "",
+        "options": [
+            "Oligopoly.",
+            "Perfect competition.",
+            "Monopolistic competition.",
+            "Natural monopoly."
+        ],
+        "answer": "Natural monopoly.",
+        "explanation": "A natural monopoly arises when the most efficient scale of production is so large that only one firm can operate profitably (e.g., utility companies)."
+    },
+    {
+        "id": "JAMB_F_019",
+        "text": "When the government sells its shares in state-owned enterprises to the public, this is called:",
+        "image": "",
+        "options": [
+            "Commercialization.",
+            "Nationalization.",
+            "Privatization.",
+            "Deregulation."
+        ],
+        "answer": "Privatization.",
+        "explanation": "Privatization is the transfer of ownership of property or business from a government to a privately owned entity."
+    },
+    {
+        "id": "JAMB_F_020",
+        "text": "If the $\\textbf{exchange}$ $\\textbf{rate}$ of a currency $\\textbf{falls}$ under a $\\textbf{floating}$ $\\textbf{exchange}$ $\\textbf{rate}$ system, the currency is said to have:",
+        "image": "",
+        "options": [
+            "been devalued.",
+            "appreciated.",
+            "been revalued.",
+            "depreciated."
+        ],
+        "answer": "depreciated.",
+        "explanation": "Depreciation is the fall in the value of a currency relative to other currencies under a floating (market-determined) exchange rate system. Devaluation happens under a fixed system."
+    },
+    {
+        "id": "JAMB_F_021",
+        "text": "In the short run, a firm should shut down if its $\\textbf{Total}$ $\\textbf{Revenue}$ is less than its:",
+        "image": "",
+        "options": [
+            "Total Cost.",
+            "Total Fixed Cost.",
+            "Total Variable Cost.",
+            "Marginal Cost."
+        ],
+        "answer": "Total Variable Cost.",
+        "explanation": "The shut-down condition in the short run is met when the firm's total revenue is not enough to cover its total variable costs. If $TR < TVC$, the firm minimizes losses by shutting down."
+    },
+    {
+        "id": "JAMB_F_022",
+        "text": "A population is $\\textbf{over-populated}$ when:",
+        "image": "",
+        "options": [
+            "the population density is high.",
+            "the existing resources cannot support the population.",
+            "per capita income is at its minimum.",
+            "the rate of population growth is too high."
+        ],
+        "answer": "the existing resources cannot support the population.",
+        "explanation": "Over-population refers to a situation where the number of people exceeds the carrying capacity of the environment, leading to a fall in the average output (or per capita income)."
+    },
+    {
+        "id": "JAMB_F_023",
+        "text": "The major objective of the $\\textbf{Economic}$ $\\textbf{Community}$ $\\textbf{of}$ $\\textbf{West}$ $\\textbf{African}$ $\\textbf{States}$ (ECOWAS) is to promote:",
+        "image": "",
+        "options": [
+            "political stability among members.",
+            "socio-economic integration and cooperation.",
+            "common defense and military intervention.",
+            "cultural exchange and sports."
+        ],
+        "answer": "socio-economic integration and cooperation.",
+        "explanation": "ECOWAS was established to promote economic integration across all sectors of activity among its members."
+    },
+    {
+        "id": "JAMB_F_024",
+        "text": "The $\\textbf{Marginal}$ $\\textbf{Propensity}$ $\\textbf{to}$ $\\textbf{Consume}$ (MPC) is the ratio of:",
+        "image": "",
+        "options": [
+            "Total Consumption to Total Income.",
+            "Change in Consumption to Change in Income.",
+            "Change in Savings to Change in Income.",
+            "Total Savings to Total Income."
+        ],
+        "answer": "Change in Consumption to Change in Income.",
+        "explanation": "MPC is the fraction of any change in income that is consumed, calculated as $\\Delta C / \\Delta Y$."
+    },
+    {
+        "id": "JAMB_F_025",
+        "text": "A farmer's decision to use a $\\textbf{tractor}$ instead of a $\\textbf{hoe}$ addresses the economic question of:",
+        "image": "",
+        "options": [
+            "What to produce.",
+            "For whom to produce.",
+            "How to produce.",
+            "Where to produce."
+        ],
+        "answer": "How to produce.",
+        "explanation": "'How to produce' concerns the method of production, specifically the mix of factors (e.g., labour-intensive vs. capital-intensive, like tractor vs. hoe)."
+    },
+    {
+        "id": "JAMB_F_026",
+        "text": "The $\\textbf{burden}$ of an $\\textbf{indirect}$ $\\textbf{tax}$ is usually shared between the:",
+        "image": "",
+        "options": [
+            "government and the consumers.",
+            "producer and the consumers.",
+            "producer and the government.",
+            "importer and the exporter."
+        ],
+        "answer": "producer and the consumers.",
+        "explanation": "The incidence (burden) of an indirect tax is usually split between the seller (producer) and the buyer (consumer), with the actual share depending on the elasticity of demand and supply."
+    },
+    {
+        "id": "JAMB_F_027",
+        "text": "The main $\\textbf{monetary}$ $\\textbf{policy}$ tool used by the Central Bank to control the ability of commercial banks to lend is the:",
+        "image": "",
+        "options": [
+            "Moral Suasion.",
+            "Special Deposits.",
+            "Reserve Requirement (Cash Reserve Ratio).",
+            "Open Market Operations."
+        ],
+        "answer": "Reserve Requirement (Cash Reserve Ratio).",
+        "explanation": "The Cash Reserve Ratio (CRR) mandates the fraction of deposits banks must keep as reserves, directly controlling the amount they can lend out and thus the money supply."
+    },
+    {
+        "id": "JAMB_F_028",
+        "text": "The $\\textbf{money}$ $\\textbf{multiplier}$ is calculated as:",
+        "image": "",
+        "options": [
+            "$1 / (1 - MPC)$",
+            "$1 / (1 / MPS)$",
+            "$1 / \\text{Reserve Ratio}$",
+            "$\\text{MPC} / \\text{MPS}$"
+        ],
+        "answer": "$1 / \\text{Reserve Ratio}$",
+        "explanation": "The simple money multiplier is the reciprocal of the reserve ratio (r). It shows the maximum amount of money the banking system can create from an initial deposit."
+    },
+    {
+        "id": "JAMB_F_029",
+        "text": "The $\\textbf{marketing}$ $\\textbf{board}$ system was primarily established in Nigeria to:",
+        "image": "",
+        "options": [
+            "encourage local consumption of food crops.",
+            "improve the quality of local manufactured goods.",
+            "stabilize and guarantee prices for farmers' cash crops.",
+            "control the import of foreign finished goods."
+        ],
+        "answer": "stabilize and guarantee prices for farmers' cash crops.",
+        "explanation": "Marketing Boards were government agencies designed to buy export crops from local producers, sell them internationally, and stabilize prices against global fluctuations."
+    },
+    {
+        "id": "JAMB_F_030",
+        "text": "The $\\textbf{concept}$ $\\textbf{of}$ $\\textbf{the}$ $\\textbf{invisible}$ $\\textbf{hand}$ is associated with the economist:",
+        "image": "",
+        "options": [
+            "John Maynard Keynes.",
+            "Alfred Marshall.",
+            "Adam Smith.",
+            "David Ricardo."
+        ],
+        "answer": "Adam Smith.",
+        "explanation": "Adam Smith introduced the concept of the 'invisible hand' in his book, 'The Wealth of Nations,' arguing that individuals pursuing their own self-interest unintentionally benefit society as a whole."
+    },
+    {
+        "id": "JAMB_F_031",
+        "text": "The $\\textbf{population}$ $\\textbf{census}$ in Nigeria is faced with the problem of:",
+        "image": "",
+        "options": [
+            "low literacy rate.",
+            "mass migration to urban centres.",
+            "political and ethnic bias.",
+            "a large number of nomadic groups."
+        ],
+        "answer": "political and ethnic bias.",
+        "explanation": "Census figures in Nigeria are often controversial and subject to political manipulation due to the link between population size and the allocation of political representation and financial resources."
+    },
+    {
+        "id": "JAMB_F_032",
+        "text": "The major way in which an $\\textbf{oligopolist}$ $\\textbf{avoids}$ $\\textbf{price}$ $\\textbf{wars}$ is by:",
+        "image": "",
+        "options": [
+            "colluding with rivals on prices.",
+            "engaging in aggressive advertising.",
+            "producing differentiated products.",
+            "adopting rigid production schedules."
+        ],
+        "answer": "colluding with rivals on prices.",
+        "explanation": "Since an oligopoly market has few firms, they often engage in collusion (formal or informal agreements) to set prices high and avoid destructive price wars."
+    },
+    {
+        "id": "JAMB_F_033",
+        "text": "The $\\textbf{Bretton}$ $\\textbf{Woods}$ $\\textbf{System}$ led to the establishment of the $\\textbf{International}$ $\\textbf{Monetary}$ $\\textbf{Fund}$ (IMF) and the:",
+        "image": "",
+        "options": [
+            "World Trade Organization (WTO).",
+            "Organization of Petroleum Exporting Countries (OPEC).",
+            "World Bank (IBRD).",
+            "United Nations (UN)."
+        ],
+        "answer": "World Bank (IBRD).",
+        "explanation": "The 1944 Bretton Woods Conference established the IMF to manage exchange rates and the International Bank for Reconstruction and Development (IBRD), which is the core of the World Bank, to fund post-war rebuilding and development."
+    },
+    {
+        "id": "JAMB_F_034",
+        "text": "The $\\textbf{consumer}$ $\\textbf{surplus}$ is the difference between the price a consumer $\\textbf{is}$ $\\textbf{willing}$ $\\textbf{to}$ $\\textbf{pay}$ and the price they $\\textbf{actually}$ $\\textbf{pay}$.",
+        "image": "",
+        "options": [
+            "cost of production and the price of the commodity.",
+            "price the consumer is willing to pay and the actual price paid.",
+            "price the producer is willing to accept and the actual price received.",
+            "total utility and the marginal utility."
+        ],
+        "answer": "price the consumer is willing to pay and the actual price paid.",
+        "explanation": "Consumer surplus is the benefit consumers receive when they pay a price lower than the maximum price they would be willing to pay for a good or service. "
+    },
+    {
+        "id": "JAMB_F_035",
+        "text": "In Nigeria, the $\\textbf{securities}$ $\\textbf{market}$ (stock exchange) is primarily regulated by the:",
+        "image": "",
+        "options": [
+            "Central Bank of Nigeria (CBN).",
+            "Federal Ministry of Finance.",
+            "Securities and Exchange Commission (SEC).",
+            "Nigerian Deposit Insurance Corporation (NDIC)."
+        ],
+        "answer": "Securities and Exchange Commission (SEC).",
+        "explanation": "SEC is the apex regulatory institution of the Nigerian capital market, responsible for protecting investors and ensuring the integrity of the market."
+    },
+    {
+        "id": "JAMB_F_036",
+        "text": "A situation where a firm is neither making a $\\textbf{profit}$ $\\textbf{nor}$ $\\textbf{a}$ $\\textbf{loss}$ is known as the:",
+        "image": "",
+        "options": [
+            "shut-down point.",
+            "equilibrium point.",
+            "optimum output.",
+            "break-even point."
+        ],
+        "answer": "break-even point.",
+        "explanation": "The break-even point occurs where Total Revenue equals Total Cost ($TR = TC$), meaning the firm is making zero economic profit (or normal profit)."
+    },
+    {
+        "id": "JAMB_F_037",
+        "text": "The $\\textbf{Marginal}$ $\\textbf{Rate}$ $\\textbf{of}$ $\\textbf{Substitution}$ (MRS) along an indifference curve is:",
+        "image": "",
+        "options": [
+            "constant.",
+            "increasing.",
+            "decreasing.",
+            "zero."
+        ],
+        "answer": "decreasing.",
+        "explanation": "The MRS is the rate at which a consumer is willing to give up one good to get one more unit of another good. It diminishes as a consumer has more of one good and less of the other, which is why the curve is bowed inwards (convex to the origin)."
+    },
+    {
+        "id": "JAMB_F_038",
+        "text": "The $\\textbf{most}$ $\\textbf{effective}$ $\\textbf{way}$ to correct a $\\textbf{persistent}$ $\\textbf{balance}$ $\\textbf{of}$ $\\textbf{payments}$ $\\textbf{deficit}$ is:",
+        "image": "",
+        "options": [
+            "devaluation or depreciation of the domestic currency.",
+            "imposing higher tariffs on imports.",
+            "offering subsidies to importers.",
+            "selling more domestic currency abroad."
+        ],
+        "answer": "devaluation or depreciation of the domestic currency.",
+        "explanation": "Devaluation makes a country's exports cheaper and imports more expensive, thereby discouraging imports and encouraging exports, which directly improves the BoP position."
+    },
+    {
+        "id": "JAMB_F_039",
+        "text": "Which of the following is an example of $\\textbf{direct}$ $\\textbf{production}$?",
+        "image": "",
+        "options": [
+            "A tailor sewing clothes for sale.",
+            "A mechanic repairing a faulty engine for a fee.",
+            "A family growing crops solely for home consumption.",
+            "A fisherman catching fish for commercial export."
+        ],
+        "answer": "A family growing crops solely for home consumption.",
+        "explanation": "Direct production (or subsistence production) involves producing goods for personal or family consumption rather than for exchange (sale) in a market."
+    },
+    {
+        "id": "JAMB_F_040",
+        "text": "In a $\\textbf{mixed}$ $\\textbf{economy}$, the government provides $\\textbf{public}$ $\\textbf{goods}$ because they are:",
+        "image": "",
+        "options": [
+            "profitable for the government to produce.",
+            "rivalrous in consumption.",
+            "non-excludable and non-rivalrous.",
+            "always produced at the least cost."
+        ],
+        "answer": "non-excludable and non-rivalrous.",
+        "explanation": "Public goods (like defense and street lighting) suffer from the 'free-rider' problem due to non-excludability and non-rivalry, meaning the private sector usually fails to provide them efficiently."
+    }
+]

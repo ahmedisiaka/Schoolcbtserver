@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G361",
+        "text": "The $\\textbf{federal government shutdown}$ in October 2013, which lasted 16 days, occurred because Congress could not agree on a bill to authorize $\\textbf{discretionary}$ funding. This is an example of $\\textbf{legislative}$:",
+        "image": "",
+        "options": [
+            "Oversight",
+            "Cooperation",
+            "Cloture",
+            "Gridlock"
+        ],
+        "answer": "Gridlock",
+        "explanation": "Gridlock is the inability of the government to act because rival parties control different parts of the government (divided government) and refuse to compromise."
+    },
+    {
+        "id": "G362",
+        "text": "The 2013 shutdown was primarily a fight over funding the implementation of the $\\textbf{Affordable Care Act (ACA)}$. Congress's power to approve all federal spending is known as the $\\textbf{power of the}$:",
+        "image": "",
+        "options": [
+            "Sword",
+            "Purse",
+            "Veto",
+            "Gavel"
+        ],
+        "answer": "Purse",
+        "explanation": "Article I gives Congress the power to tax and spend, which is its most powerful check on the Executive Branch."
+    },
+    {
+        "id": "G363",
+        "text": "In $\\textbf{Shelby County v. Holder}$ (2013), the Supreme Court struck down the formula used to determine which states needed federal preclearance for changes to voting laws (Section 4 of the VRA). This decision significantly restricted the federal government's role in:",
+        "image": "",
+        "options": [
+            "Treaty negotiations",
+            "Judicial nominations",
+            "Protecting the right to vote",
+            "Controlling interstate commerce"
+        ],
+        "answer": "Protecting the right to vote",
+        "explanation": "The Court ruled that the coverage formula was outdated and an unconstitutional intrusion on states' reserved powers under the Tenth Amendment."
+    },
+    {
+        "id": "G364",
+        "text": "The $\\textit{Shelby County}$ ruling relied heavily on the concept of $\\textbf{equal sovereignty of the states}$, arguing that historical differences in election laws were no longer justified. This ruling shifted power away from the national government and back to the states, which aligns with the principle of:",
+        "image": "",
+        "options": [
+            "Cooperative Federalism",
+            "Dual Federalism (States' Rights)",
+            "Judicial Activism",
+            "Selective Incorporation"
+        ],
+        "answer": "Dual Federalism (States' Rights)",
+        "explanation": "Dual federalism views the states and national government as having separate, distinct spheres of power, favoring the states' reserved powers."
+    },
+    {
+        "id": "G365",
+        "text": "In $\\textbf{United States v. Windsor}$ (2013), the Supreme Court struck down Section 3 of the $\\textbf{Defense of Marriage Act (DOMA)}$. The Court argued that the federal law violated the $\\textbf{Due Process}$ and $\\textbf{Equal Protection}$ clauses of the:",
+        "image": "",
+        "options": [
+            "First Amendment",
+            "Fifth Amendment",
+            "Tenth Amendment",
+            "Fourteenth Amendment"
+        ],
+        "answer": "Fifth Amendment",
+        "explanation": "Because DOMA was a federal law, the Court applied the Equal Protection principle through the Due Process Clause of the Fifth Amendment, known as 'reverse incorporation'."
+    },
+    {
+        "id": "G366",
+        "text": "The $\\textbf{Snowden leaks}$ of 2013 exposed the NSA's $\\textbf{bulk collection}$ of Americans' data, sparking a debate over the scope of the government's surveillance power and its compliance with the $\\textbf{Fourth Amendment}$ protection against:",
+        "image": "",
+        "options": [
+            "Cruel and unusual punishment",
+            "Unreasonable searches and seizures",
+            "Self-incrimination",
+            "Excessive fines"
+        ],
+        "answer": "Unreasonable searches and seizures",
+        "explanation": "The Fourth Amendment requires a warrant based on probable cause for searches, which critics argued was ignored by the NSA's broad programs."
+    },
+    {
+        "id": "G367",
+        "text": "In response to the NSA surveillance debate, many argued that the President had exceeded his constitutional authority. The system designed to prevent this is $\\textbf{Checks and Balances}$, which ensures:",
+        "image": "",
+        "options": [
+            "States are supreme over the federal government",
+            "No single branch of government becomes too powerful",
+            "All laws must be approved by the Supreme Court",
+            "The media remains independent"
+        ],
+        "answer": "No single branch of government becomes too powerful",
+        "explanation": "Checks and balances allows each branch to limit the powers of the other two."
+    },
+    {
+        "id": "G368",
+        "text": "When the ACA health insurance exchanges went live in late 2013, technical failures prompted the bureaucracy to issue numerous $\\textbf{ad hoc rules}$ and deadline extensions. This is an example of the bureaucracy exercising its $\\textbf{inherent}$ power of:",
+        "image": "",
+        "options": [
+            "Appellate jurisdiction",
+            "Statutory interpretation (or rule-making)",
+            "Veto power",
+            "Eminent domain"
+        ],
+        "answer": "Statutory interpretation (or rule-making)",
+        "explanation": "Agencies must interpret and implement the broad laws passed by Congress, which includes issuing rules and regulations."
+    },
+    {
+        "id": "G369",
+        "text": "The $\\textbf{Cabinet Departments}$ (e.g., Department of Defense, State Department) are headed by Secretaries, all of whom are appointed by the President and must be confirmed by the:",
+        "image": "",
+        "options": [
+            "House of Representatives",
+            "Supreme Court",
+            "Senate",
+            "Governors of the States"
+        ],
+        "answer": "Senate",
+        "explanation": "The Senate uses its power of Advice and Consent (Article II, Section 2) for all high-level appointments."
+    },
+    {
+        "id": "G370",
+        "text": "The $\\textbf{House of Representatives}$ has the power to $\\textbf{impeach}$ federal officials, while the $\\textbf{Senate}$ has the power to:",
+        "image": "",
+        "options": [
+            "Override a veto",
+            "Declare war",
+            "Conduct the trial and remove the official",
+            "Approve constitutional amendments"
+        ],
+        "answer": "Conduct the trial and remove the official",
+        "explanation": "The House acts as the prosecutor, and the Senate acts as the jury in impeachment proceedings."
+    },
+    {
+        "id": "G371",
+        "text": "The $\\textbf{Iron Triangle}$ describes the mutually beneficial relationship among a $\\textbf{congressional committee}$, an $\\textbf{interest group}$, and a $\\textbf{federal}$:",
+        "image": "",
+        "options": [
+            "Court",
+            "Media outlet",
+            "State legislature",
+            "Agency/Bureaucracy"
+        ],
+        "answer": "Agency/Bureaucracy",
+        "explanation": "These three entities cooperate to create and implement policy in a specific area, often excluding outside input."
+    },
+    {
+        "id": "G372",
+        "text": "The concept of $\\textbf{selective incorporation}$ applies the Bill of Rights to the states using the $\\textbf{Due Process Clause}$ of the $\\textbf{Fourteenth Amendment}$. This means states $\\textbf{cannot}$ deny fundamental rights without:",
+        "image": "",
+        "options": [
+            "An executive order",
+            "A public vote",
+            "Proper legal procedure and fair treatment",
+            "A declaration of war"
+        ],
+        "answer": "Proper legal procedure and fair treatment",
+        "explanation": "Due process ensures procedural fairness when the government acts to deprive someone of life, liberty, or property."
+    },
+    {
+        "id": "G373",
+        "text": "A $\\textbf{Dissenting Opinion}$ written by a Supreme Court justice is important because it:",
+        "image": "",
+        "options": [
+            "Vetoes the majority ruling",
+            "Refers the case to the President",
+            "Provides a legal justification that may become the basis for future majority rulings",
+            "Calls for a constitutional convention"
+        ],
+        "answer": "Provides a legal justification that may become the basis for future majority rulings",
+        "explanation": "Dissenting opinions offer alternative legal theories that can later be adopted if the Court chooses to overturn precedent ($\textit{stare decisis}$)."
+    },
+    {
+        "id": "G374",
+        "text": "The President's power to issue $\\textbf{Executive Orders}$ is based on the constitutional duty to 'take care that the laws be faithfully executed.' This power is an example of the President's $\\textbf{implied}$ power as:",
+        "image": "",
+        "options": [
+            "Chief Legislator",
+            "Commander-in-Chief",
+            "Chief Diplomat",
+            "Chief Executive"
+        ],
+        "answer": "Chief Executive",
+        "explanation": "Executive orders are used to manage the federal government and implement existing legislation."
+    },
+    {
+        "id": "G375",
+        "text": "The $\\textbf{Establishment Clause}$ of the First Amendment is designed to prevent the government from establishing an official $\\textbf{religion}$ or excessively funding $\\textbf{religious}$ activities. This principle establishes a $\\textbf{wall of separation}$ between church and:",
+        "image": "",
+        "options": [
+            "State",
+            "Military",
+            "Media",
+            "Education"
+        ],
+        "answer": "State",
+        "explanation": "The Establishment Clause prohibits government sponsorship or endorsement of religion."
+    },
+    {
+        "id": "G376",
+        "text": "The $\\textbf{Speaker of the House}$ is the most powerful figure in the House of Representatives because they have the exclusive power to:",
+        "image": "",
+        "options": [
+            "Negotiate treaties",
+            "Appoint all Supreme Court justices",
+            "Refer bills to committee and control the flow of debate",
+            "Veto presidential actions"
+        ],
+        "answer": "Refer bills to committee and control the flow of debate",
+        "explanation": "The Speaker sets the legislative agenda and controls the floor, effectively determining which bills have a chance to pass."
+    },
+    {
+        "id": "G377",
+        "text": "$\\textbf{Stare Decisis}$ is the principle that judicial courts should rely on $\\textbf{precedent}$ (prior court decisions) when deciding cases. This doctrine promotes:",
+        "image": "",
+        "options": [
+            "Judicial activism",
+            "Political fundraising",
+            "Stability and predictability in the law",
+            "Expansion of executive power"
+        ],
+        "answer": "Stability and predictability in the law",
+        "explanation": "Litigants and citizens need to know how the law will be applied in the future."
+    },
+    {
+        "id": "G378",
+        "text": "The $\\textbf{Tenth Amendment}$ reserves powers to the states. Which of the following is an example of a $\\textbf{reserved power}$ that was debated in the $\\textit{Shelby County}$ case?",
+        "image": "",
+        "options": [
+            "The power to declare war",
+            "The power to regulate interstate commerce",
+            "The power to regulate elections (timing, registration, etc.)",
+            "The power to coin money"
+        ],
+        "answer": "The power to regulate elections (timing, registration, etc.)",
+        "explanation": "While Congress can regulate the 'times, places and manner' of federal elections, the bulk of election administration is a reserved power of the states."
+    },
+    {
+        "id": "G379",
+        "text": "The $\\textbf{media's role}$ in providing information that keeps the public informed and holds the government accountable is known as the $\\textbf{gatekeeper}$ and:",
+        "image": "",
+        "options": [
+            "Electoral College",
+            "Agenda-Setter (or Watchdog)",
+            "Lobbyist",
+            "Bureaucrat"
+        ],
+        "answer": "Agenda-Setter (or Watchdog)",
+        "explanation": "The media decides what issues reach the public (agenda-setting) and investigates government misconduct (watchdog)."
+    },
+    {
+        "id": "G380",
+        "text": "The $\\textbf{Free Rider Problem}$ is a challenge for $\\textbf{interest groups}$ because:",
+        "image": "",
+        "options": [
+            "It is difficult to negotiate with Congress",
+            "Individuals can enjoy the group's benefits without joining or contributing",
+            "The Supreme Court can rule against the group",
+            "The President can veto their policy goals"
+        ],
+        "answer": "Individuals can enjoy the group's benefits without joining or contributing",
+        "explanation": "This leads groups to offer selective incentives (like discounts or publications) to motivate membership."
+    },
+    {
+        "id": "G381",
+        "text": "The $\\textbf{full faith and credit clause}$ (Article IV) requires states to respect the $\\textbf{public acts, records, and judicial proceedings}$ of every other state. This was highly relevant to the $\\textit{Windsor}$ decision regarding:",
+        "image": "",
+        "options": [
+            "Congressional oversight",
+            "State recognition of marriage licenses",
+            "Federal budget deficits",
+            "Environmental regulations"
+        ],
+        "answer": "State recognition of marriage licenses",
+        "explanation": "Although $\\textit{Windsor}$ addressed federal law, the underlying issue was how states would recognize valid marriages performed elsewhere."
+    },
+    {
+        "id": "G382",
+        "text": "$\\textbf{Categorical grants}$ are the most common type of federal funding. They are attractive to Congress because they:",
+        "image": "",
+        "options": [
+            "Allow states complete discretion over spending",
+            "Provide specific instructions and tight restrictions on how the money must be used",
+            "Are used only for military purposes",
+            "Do not require a presidential signature"
+        ],
+        "answer": "Provide specific instructions and tight restrictions on how the money must be used",
+        "explanation": "These grants, with their 'strings attached,' allow the federal government to exert control over state policy."
+    },
+    {
+        "id": "G383",
+        "text": "$\\textbf{Discretionary spending}$ in the federal budget, which must be authorized by $\\textbf{Congress}$ every year, includes funding for:",
+        "image": "",
+        "options": [
+            "Social Security benefits",
+            "Medicare payments",
+            "National defense and education programs",
+            "Interest on the national debt"
+        ],
+        "answer": "National defense and education programs",
+        "explanation": "Discretionary spending is optional funding that Congress can choose to modify annually, unlike mandatory spending."
+    },
+    {
+        "id": "G384",
+        "text": "The $\\textbf{Necessary and Proper Clause}$ (Elastic Clause) has allowed Congress to vastly expand its powers. This clause is located in:",
+        "image": "",
+        "options": [
+            "Article I (Legislative Branch)",
+            "Article II (Executive Branch)",
+            "Article III (Judicial Branch)",
+            "The Tenth Amendment"
+        ],
+        "answer": "Article I (Legislative Branch)",
+        "explanation": "It grants Congress the 'implied powers' needed to carry out its listed, or 'enumerated,' powers."
+    },
+    {
+        "id": "G385",
+        "text": "The $\\textbf{filibuster}$ and the threat of a filibuster are procedural tools used in the Senate that often require legislation to achieve a $\\textbf{supermajority}$ of:",
+        "image": "",
+        "options": [
+            "51 votes",
+            "60 votes (for cloture)",
+            "75 votes",
+            "All 100 votes"
+        ],
+        "answer": "60 votes (for cloture)",
+        "explanation": "The need for 60 votes to invoke cloture (end debate) means that the minority party often has significant leverage."
+    },
+    {
+        "id": "G386",
+        "text": "The $\\textbf{media}$ often functions as a $\\textbf{gatekeeper}$ by:",
+        "image": "",
+        "options": [
+            "Declaring who won an election",
+            "Deciding which stories and issues are covered and for how long",
+            "Writing new laws for Congress to pass",
+            "Appointing political party chairmen"
+        ],
+        "answer": "Deciding which stories and issues are covered and for how long",
+        "explanation": "As gatekeepers, media organizations control what information flows to the public."
+    },
+    {
+        "id": "G387",
+        "text": "In the $\\textbf{Electoral College}$, the number of electors a state receives is equal to the number of its members in the House of Representatives plus the number of:",
+        "image": "",
+        "options": [
+            "State governors",
+            "Supreme Court justices",
+            "Senators (always two)",
+            "Cabinet secretaries"
+        ],
+        "answer": "Senators (always two)",
+        "explanation": "This is why smaller states have disproportionately greater representation in the Electoral College relative to their population."
+    },
+    {
+        "id": "G388",
+        "text": "The use of $\\textbf{political advertising}$ and $\\textbf{independent expenditures}$ by interest groups relies on the constitutional guarantee of:",
+        "image": "",
+        "options": [
+            "Right to bear arms",
+            "Freedom of assembly (First Amendment)",
+            "The protection of the Ninth Amendment",
+            "The Due Process Clause"
+        ],
+        "answer": "Freedom of assembly (First Amendment)",
+        "explanation": "Lobbying and group political spending are protected under the First Amendment rights to speech and association."
+    },
+    {
+        "id": "G389",
+        "text": "The $\\textbf{original intent}$ theory of constitutional interpretation holds that judges should be guided by the Framers' original meaning when applying the Constitution. This approach is generally associated with:",
+        "image": "",
+        "options": [
+            "Judicial activism",
+            "Judicial review",
+            "Judicial restraint",
+            "Partisan politics"
+        ],
+        "answer": "Judicial restraint",
+        "explanation": "Judicial restraint encourages judges to limit the exercise of their own power and avoid overturning legislation unless it clearly violates the literal text or original intent of the Constitution."
+    },
+    {
+        "id": "G390",
+        "text": "The $\\textbf{Miranda Rule}$ protects a criminal suspect's $\\textbf{Fifth Amendment}$ right to remain silent and $\\textbf{Sixth Amendment}$ right to:",
+        "image": "",
+        "options": [
+            "A speedy trial",
+            "Protection from double jeopardy",
+            "Protection from excessive bail",
+            "Counsel (an attorney)"
+        ],
+        "answer": "Counsel (an attorney)",
+        "explanation": "The Miranda warnings cover the right to silence (Fifth) and the right to a lawyer (Sixth)."
+    },
+    {
+        "id": "G391",
+        "text": "A $\\textbf{coalition}$ of interest groups may form to lobby Congress on a single issue, such as healthcare reform. This is a common practice in a $\\textbf{pluralist}$ democracy, which assumes:",
+        "image": "",
+        "options": [
+            "A single elite group controls all policy",
+            "Power is dispersed and many groups compete to influence policy",
+            "All decisions must be made by popular vote",
+            "The military holds ultimate authority"
+        ],
+        "answer": "Power is dispersed and many groups compete to influence policy",
+        "explanation": "Pluralism views politics as a competition among organized groups."
+    },
+    {
+        "id": "G392",
+        "text": "The $\\textbf{Habeas Corpus}$ right is a fundamental civil liberty that requires the government to:",
+        "image": "",
+        "options": [
+            "Provide all citizens with free legal counsel",
+            "Publicly announce all new laws",
+            "Formally charge a detained person or release them",
+            "Allow unlimited searches of private property"
+        ],
+        "answer": "Formally charge a detained person or release them",
+        "explanation": "Habeas Corpus prevents the government from holding people indefinitely without cause."
+    },
+    {
+        "id": "G393",
+        "text": "The $\\textbf{Gerrymandering}$ of congressional districts is most likely to lead to increased:",
+        "image": "",
+        "options": [
+            "Bipartisan compromise",
+            "Voter turnout",
+            "The number of swing seats",
+            "Partisan polarization and safe seats"
+        ],
+        "answer": "Partisan polarization and safe seats",
+        "explanation": "Drawing districts to maximize partisan advantage reduces competition, meaning elected officials are more concerned with primary voters than general election moderates."
+    },
+    {
+        "id": "G394",
+        "text": "The constitutional requirement that all $\\textbf{revenue bills}$ must originate in the House of Representatives reflects the Framers' intent to give the body closest to the people control over:",
+        "image": "",
+        "options": [
+            "Diplomacy",
+            "Taxation",
+            "Judicial appointments",
+            "Military command"
+        ],
+        "answer": "Taxation",
+        "explanation": "Article I, Section 7, ensures the taxing power lies with the House."
+    },
+    {
+        "id": "G395",
+        "text": "The $\\textbf{Commerce Clause}$ (Article I, Section 8) was the basis for Congress's authority to enact the ACA. This clause gives Congress the power to regulate $\\textbf{interstate}$ commerce, which the Supreme Court has interpreted to include:",
+        "image": "",
+        "options": [
+            "Only goods crossing state lines",
+            "Nearly any economic activity that substantially affects the economy",
+            "Only foreign trade",
+            "The establishment of local post offices"
+        ],
+        "answer": "Nearly any economic activity that substantially affects the economy",
+        "explanation": "This broad interpretation, dating back to the New Deal era, is key to modern federal regulatory power."
+    },
+    {
+        "id": "G396",
+        "text": "The President's power to issue $\\textbf{pardons}$ and $\\textbf{reprieves}$ is an example of a $\\textbf{formal}$ or $\\textbf{expressed power}$ granted by the Constitution. This power is a check on the:",
+        "image": "",
+        "options": [
+            "Legislative Branch",
+            "Judicial Branch",
+            "Media",
+            "State Governments"
+        ],
+        "answer": "Judicial Branch",
+        "explanation": "The power to pardon limits the finality of court judgments."
+    },
+    {
+        "id": "G397",
+        "text": "A $\\textbf{conference committee}$ is formed when the House and Senate pass $\\textbf{different versions}$ of the same bill. The committee's purpose is to:",
+        "image": "",
+        "options": [
+            "Refer the bill to the President",
+            "Hold public oversight hearings",
+            "Reconcile the differences into a single, unified bill",
+            "Determine the bill's constitutionality"
+        ],
+        "answer": "Reconcile the differences into a single, unified bill",
+        "explanation": "Both chambers must pass identical versions of a bill before it can be sent to the President."
+    },
+    {
+        "id": "G398",
+        "text": "When the Supreme Court, in $\\textit{Shelby County}$, questioned the constitutionality of a section of a $\\textbf{federal}$ law (VRA), it was exercising the power of:",
+        "image": "",
+        "options": [
+            "Veto",
+            "Executive Privilege",
+            "Judicial Review",
+            "Cloture"
+        ],
+        "answer": "Judicial Review",
+        "explanation": "Judicial review is the power to declare laws or executive actions unconstitutional."
+    },
+    {
+        "id": "G399",
+        "text": "The $\\textbf{Nineteenth Amendment}$ (1920) granted voting rights to women. Constitutional amendments are typically proposed by Congress and must be ratified by $\\textbf{three-fourths}$ of the:",
+        "image": "",
+        "options": [
+            "Supreme Court justices",
+            "State legislatures",
+            "President's cabinet",
+            "Electoral College"
+        ],
+        "answer": "State legislatures",
+        "explanation": "The amendment process (Article V) reflects the principle of federalism, requiring both national and state approval."
+    },
+    {
+        "id": "G400",
+        "text": "The $\\textbf{primary function}$ of the $\\textbf{Federal Reserve Board}$ (The Fed) is to set $\\textbf{monetary policy}$, which involves:",
+        "image": "",
+        "options": [
+            "Raising taxes and controlling government spending",
+            "Negotiating trade deals with foreign nations",
+            "Managing interest rates and the money supply",
+            "Confirming judicial nominees"
+        ],
+        "answer": "Managing interest rates and the money supply",
+        "explanation": "The Fed's actions influence inflation and economic growth, distinct from the government's $\\textbf{fiscal policy}$ (taxing and spending)."
+    }
+]

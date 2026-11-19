@@ -1,0 +1,522 @@
+[
+    {
+        "id": "G121",
+        "text": "The 2019 impeachment inquiry against President Trump was initiated by which body, using its constitutional power to $\\textbf{solely impeach}$?",
+        "image": "",
+        "options": [
+            "The U.S. Senate",
+            "The U.S. Supreme Court",
+            "The House of Representatives",
+            "The Department of Justice"
+        ],
+        "answer": "The House of Representatives",
+        "explanation": "Article I, Section 2 grants the House of Representatives the exclusive power of impeachment (charging the official)."
+    },
+    {
+        "id": "G122",
+        "text": "The articles of impeachment passed by the House in 2019 included $\\textbf{Abuse of Power}$ and $\\textbf{Obstruction of Congress}$. The trial on these charges was subsequently conducted by which body?",
+        "image": "",
+        "options": [
+            "The Supreme Court, presided over by the Chief Justice",
+            "The Senate, presided over by the Chief Justice",
+            "The House Judiciary Committee",
+            "A special joint committee of Congress"
+        ],
+        "answer": "The Senate, presided over by the Chief Justice",
+        "explanation": "Article I, Section 3 gives the Senate the sole power to try all impeachments, with the Chief Justice presiding when the President is being tried."
+    },
+    {
+        "id": "G123",
+        "text": "A key constitutional question raised during the impeachment inquiry regarding the President's actions was the scope of $\\textbf{Executive Privilege}$, which relates to the President's right to:",
+        "image": "",
+        "options": [
+            "Veto legislation without congressional override",
+            "Withhold information from Congress and the courts",
+            "Issue pardons for federal crimes",
+            "Appoint ambassadors without Senate approval"
+        ],
+        "answer": "Withhold information from Congress and the courts",
+        "explanation": "Executive privilege is the claimed right of the President to keep conversations and records confidential to facilitate candid advice and protect national security."
+    },
+    {
+        "id": "G124",
+        "text": "The Supreme Court case $\\textit{Rucho v. Common Cause}$ (2019) ruled that federal courts could not intervene in disputes over $\\textbf{partisan gerrymandering}$. The Court determined that such cases involved a:",
+        "image": "",
+        "options": [
+            "Violation of the Establishment Clause",
+            "Clear breach of the Commerce Clause",
+            "Non-justiciable political question",
+            "Matter of *habeas corpus*"
+        ],
+        "answer": "Non-justiciable political question",
+        "explanation": "The Court held that federal courts lacked judicially manageable standards for resolving disputes based on partisan bias, leaving the issue to state legislatures and state courts."
+    },
+    {
+        "id": "G125",
+        "text": "In 2019, the Supreme Court heard arguments regarding the addition of a $\\textbf{citizenship question}$ to the $\\textbf{decennial census}$. This issue directly related to Congress's power under which clause of the Constitution?",
+        "image": "",
+        "options": [
+            "The Free Exercise Clause",
+            "The Necessary and Proper Clause",
+            "The Census Clause (Article I, Section 2)",
+            "The Fifth Amendment Takings Clause"
+        ],
+        "answer": "The Census Clause (Article I, Section 2)",
+        "explanation": "The Constitution mandates that an enumeration (count) of the population must be made every ten years for the purposes of apportionment of the House."
+    },
+    {
+        "id": "G126",
+        "text": "The longest U.S. government $\\textbf{shutdown}$ (starting late 2018 and extending into early 2019) resulted from a disagreement over funding for a border wall, demonstrating the power of the $\\textbf{power of the purse}$ held by:",
+        "image": "",
+        "options": [
+            "The President and the Federal Reserve",
+            "The Supreme Court",
+            "The Congress (House and Senate)",
+            "State governors"
+        ],
+        "answer": "The Congress (House and Senate)",
+        "explanation": "Congress's power of the purse (Article I, Section 9) gives it the final authority over government spending, making it central to budget conflicts."
+    },
+    {
+        "id": "G127",
+        "text": "The use of a $\\textbf{Continuing Resolution (CR)}$ to temporarily fund the government during the 2019 budget deadlock is a common legislative practice that avoids a shutdown but bypasses the ideal process of:",
+        "image": "",
+        "options": [
+            "Judicial review by the Supreme Court",
+            "Passing individual appropriations bills for each agency",
+            "Using executive orders for all spending",
+            "Appointing a special prosecutor"
+        ],
+        "answer": "Passing individual appropriations bills for each agency",
+        "explanation": "A CR simply continues the previous year's funding levels, whereas the proper process requires 12 annual appropriations bills."
+    },
+    {
+        "id": "G128",
+        "text": "President Trump declared a $\\textbf{National Emergency}$ in 2019 to reprogram previously appropriated funds for border wall construction. This executive action was legally challenged as violating the principle of:",
+        "image": "",
+        "options": [
+            "Due Process",
+            "Separation of Powers",
+            "The Free Exercise Clause",
+            "Original Jurisdiction"
+        ],
+        "answer": "Separation of Powers",
+        "explanation": "Opponents argued that by spending money not specifically allocated by Congress, the President was infringing on Congress's constitutional power of the purse."
+    },
+    {
+        "id": "G129",
+        "text": "When the President uses $\\textbf{tariffs}$ to influence foreign trade, he is executing a power delegated to him by Congress under its authority to:",
+        "image": "",
+        "options": [
+            "Establish post offices",
+            "Regulate Commerce with foreign Nations",
+            "Coin Money",
+            "Grant letters of marque and reprisal"
+        ],
+        "answer": "Regulate Commerce with foreign Nations",
+        "explanation": "While Congress sets the overall framework for trade, it delegates authority to the executive branch to implement specific trade policies like tariffs."
+    },
+    {
+        "id": "G130",
+        "text": "The $\\textbf{Federal Bureaucracy}$ was heavily involved in implementing the CARES Act and managing the public health crisis. Bureaucracies carry out policy through the process of:",
+        "image": "",
+        "options": [
+            "Judicial review",
+            "Executive privilege",
+            "Rule-making and implementation",
+            "Treaty ratification"
+        ],
+        "answer": "Rule-making and implementation",
+        "explanation": "Bureaucratic agencies create specific regulations (rules) and procedures to translate broad legislative goals into action (implementation)."
+    },
+    {
+        "id": "G131",
+        "text": "The concept of $\\textbf{devolution}$ was evident in 2019 as the federal government sought to give state governments more control over environmental and healthcare policy, aligning with the concept of:",
+        "image": "",
+        "options": [
+            "Cooperative Federalism",
+            "Dual Federalism",
+            "New Federalism",
+            "Supremacy Federalism"
+        ],
+        "answer": "New Federalism",
+        "explanation": "New Federalism, dating back to Nixon and Reagan, aims to return more administrative power and discretion back to state and local governments, often through block grants."
+    },
+    {
+        "id": "G132",
+        "text": "The release of the $\\textbf{Mueller Report}$ in 2019 highlighted the role of the $\\textbf{Attorney General}$ as the head of the Justice Department, who serves as the President's chief:",
+        "image": "",
+        "options": [
+            "Foreign diplomat",
+            "Military advisor",
+            "Law enforcement officer and legal advisor",
+            "Chief of Staff"
+        ],
+        "answer": "Law enforcement officer and legal advisor",
+        "explanation": "The Attorney General is the principal legal officer of the federal government and heads the Department of Justice."
+    },
+    {
+        "id": "G133",
+        "text": "The $\\textbf{Iron Triangle}$ concept describes the mutually beneficial relationship between an interest group, a bureaucratic agency, and which other entity?",
+        "image": "",
+        "options": [
+            "The Supreme Court",
+            "A congressional committee or subcommittee",
+            "The Federal Reserve",
+            "The President's Cabinet"
+        ],
+        "answer": "A congressional committee or subcommittee",
+        "explanation": "The three points are (1) interest groups, (2) the relevant bureaucratic agency, and (3) the congressional committee overseeing that agency/issue."
+    },
+    {
+        "id": "G134",
+        "text": "The $\\textbf{Freedom of the Press}$ was a central theme in 2019 as journalists fought to publish information related to government investigations. This freedom is guaranteed by the:",
+        "image": "",
+        "options": [
+            "Fourth Amendment",
+            "Fifth Amendment",
+            "First Amendment",
+            "Ninth Amendment"
+        ],
+        "answer": "First Amendment",
+        "explanation": "The First Amendment protects the freedoms of speech and the press."
+    },
+    {
+        "id": "G135",
+        "text": "A $\\textbf{Writ of Certiorari}$ (often just 'cert') is an order issued by the Supreme Court to:",
+        "image": "",
+        "options": [
+            "Impeach a federal judge",
+            "Lower courts requesting the records of a case for review",
+            "The President to enforce a court ruling",
+            "Congress to override a veto"
+        ],
+        "answer": "Lower courts requesting the records of a case for review",
+        "explanation": "The granting of cert is how the vast majority of cases reach the Supreme Court's appellate docket."
+    },
+    {
+        "id": "G136",
+        "text": "In the budget process, $\\textbf{authorizations}$ and $\\textbf{appropriations}$ are distinct. Appropriations bills do what?",
+        "image": "",
+        "options": [
+            "Delegate power to the executive branch",
+            "Set term limits for Congress",
+            "Legally allocate the money to be spent",
+            "Determine the number of Supreme Court Justices"
+        ],
+        "answer": "Legally allocate the money to be spent",
+        "explanation": "Authorization bills establish programs; appropriations bills provide the actual money necessary to fund them."
+    },
+    {
+        "id": "G137",
+        "text": "The $\\textbf{22nd Amendment}$ limits the President to two terms. This amendment was enacted in response to the four-term presidency of:",
+        "image": "",
+        "options": [
+            "George Washington",
+            "Theodore Roosevelt",
+            "Franklin D. Roosevelt",
+            "Abraham Lincoln"
+        ],
+        "answer": "Franklin D. Roosevelt",
+        "explanation": "FDR served four terms (1933–1945), prompting the post-war passage of the 22nd Amendment in 1951."
+    },
+    {
+        "id": "G138",
+        "text": "The $\\textbf{Supremacy Clause}$ (Article VI) ensures that if a state law conflicts with a valid federal law, the federal law will:",
+        "image": "",
+        "options": [
+            "Be declared unconstitutional by the state legislature",
+            "Yield to the state law",
+            "Take precedence and be enforced",
+            "Be subject to a national referendum"
+        ],
+        "answer": "Take precedence and be enforced",
+        "explanation": "The Supremacy Clause makes the Constitution, and federal laws made pursuant to it, the 'supreme Law of the Land.'"
+    },
+    {
+        "id": "G139",
+        "text": "A $\\textbf{discharge petition}$ is a procedural move used in the House of Representatives to:",
+        "image": "",
+        "options": [
+            "Remove the Speaker of the House",
+            "Force a bill out of committee and onto the floor for a vote",
+            "End a filibuster in the Senate",
+            "Overturn a presidential veto"
+        ],
+        "answer": "Force a bill out of committee and onto the floor for a vote",
+        "explanation": "This tactic is rarely successful, as it requires an absolute majority (218 signatures) and is generally opposed by party leadership."
+    },
+    {
+        "id": "G140",
+        "text": "The primary goal of $\\textbf{Interest Groups}$ in the policy process is to:",
+        "image": "",
+        "options": [
+            "Win elections and control government directly",
+            "Influence specific public policies and programs",
+            "Staff the federal judiciary",
+            "Draft and sign international treaties"
+        ],
+        "answer": "Influence specific public policies and programs",
+        "explanation": "Unlike political parties, interest groups do not seek to run the government, but rather to influence its decisions on specific issues."
+    },
+    {
+        "id": "G141",
+        "text": "The concept of $\\textbf{original jurisdiction}$ for the Supreme Court means that the Court is the first and only court to hear a case, which applies primarily to cases involving:",
+        "image": "",
+        "options": [
+            "Federal taxation disputes",
+            "Challenges to state election laws",
+            "Disputes between states or involving ambassadors",
+            "Minor traffic violations"
+        ],
+        "answer": "Disputes between states or involving ambassadors",
+        "explanation": "Article III specifies a very limited set of cases where the Supreme Court has original jurisdiction."
+    },
+    {
+        "id": "G142",
+        "text": "The $\\textbf{Twenty-Fourth Amendment}$ (1964) outlawed the use of $\\textbf{poll taxes}$ in federal elections, which had been used primarily to:",
+        "image": "",
+        "options": [
+            "Encourage charitable donations",
+            "Discourage voting by African Americans and poor citizens",
+            "Fund the military",
+            "Pay the salaries of Supreme Court Justices"
+        ],
+        "answer": "Discourage voting by African Americans and poor citizens",
+        "explanation": "This was a key step in expanding suffrage, outlawing a practice that created a financial barrier to voting."
+    },
+    {
+        "id": "G143",
+        "text": "The $\\textbf{Speaker of the House}$ holds the most powerful position in the House of Representatives and is second in the line of presidential succession after the:",
+        "image": "",
+        "options": [
+            "Secretary of State",
+            "Vice President",
+            "President Pro Tempore of the Senate",
+            "Chief Justice of the Supreme Court"
+        ],
+        "answer": "Vice President",
+        "explanation": "The Presidential Succession Act of 1947 establishes the order: VP, Speaker of the House, President Pro Tempore, and then Cabinet members."
+    },
+    {
+        "id": "G144",
+        "text": "When a court applies the $\\textbf{Exclusionary Rule}$, it means that:",
+        "image": "",
+        "options": [
+            "The jury is excluded from viewing certain evidence",
+            "Illegally obtained evidence cannot be used in a criminal trial",
+            "The court excludes all prior precedents",
+            "The defendant is excluded from the trial proceedings"
+        ],
+        "answer": "Illegally obtained evidence cannot be used in a criminal trial",
+        "explanation": "This rule, tied to the Fourth Amendment, is intended to deter police from conducting unlawful searches and seizures."
+    },
+    {
+        "id": "G145",
+        "text": "The primary characteristic of a $\\textbf{federal system}$ of government is that power is:",
+        "image": "",
+        "options": [
+            "Concentrated entirely in the national government",
+            "Divided and shared between a national government and regional (state) governments",
+            "Delegated entirely to local governments",
+            "Held by an absolute monarchy"
+        ],
+        "answer": "Divided and shared between a national government and regional (state) governments",
+        "explanation": "Federalism is the division of power between the central government and constituent political units."
+    },
+    {
+        "id": "G146",
+        "text": "The ability of the Senate to approve presidential nominations for Cabinet positions and judges illustrates the principle of $\\textbf{Checks and Balances}$ and is referred to as:",
+        "image": "",
+        "options": [
+            "Judicial Activism",
+            "Executive Order",
+            "Advice and Consent",
+            "The Franking Privilege"
+        ],
+        "answer": "Advice and Consent",
+        "explanation": "Article II, Section 2 requires the President to seek the Senate's approval for appointments and treaties."
+    },
+    {
+        "id": "G147",
+        "text": "A $\\textbf{Block Grant}$ differs from a $\\textbf{Categorical Grant}$ in that a block grant:",
+        "image": "",
+        "options": [
+            "Requires state governments to match federal funds dollar-for-dollar",
+            "Gives states more discretion over how the funds are spent",
+            "Can only be used for national defense programs",
+            "Is issued only by the Judicial Branch"
+        ],
+        "answer": "Gives states more discretion over how the funds are spent",
+        "explanation": "Block grants are preferred by states because they come with fewer strings attached than categorical grants."
+    },
+    {
+        "id": "G148",
+        "text": "The practice of $\\textbf{logrolling}$ is when members of Congress:",
+        "image": "",
+        "options": [
+            "Vote against a bill to block its passage",
+            "Trade support for each other's unrelated bills or projects",
+            "Refuse to appear for a public debate",
+            "Use their personal funds to run campaigns"
+        ],
+        "answer": "Trade support for each other's unrelated bills or projects",
+        "explanation": "Logrolling ('I'll vote for your dam if you vote for my highway') is a common tactic to gain majority support for localized legislation."
+    },
+    {
+        "id": "G149",
+        "text": "The constitutional requirement that the President must give a $\\textbf{State of the Union}$ address to Congress is found in:",
+        "image": "",
+        "options": [
+            "The First Amendment",
+            "Article II, Section 3",
+            "The Tenth Amendment",
+            "The Preamble"
+        ],
+        "answer": "Article II, Section 3",
+        "explanation": "This section states the President 'shall from time to time give to the Congress information of the State of the Union.'"
+    },
+    {
+        "id": "G150",
+        "text": "When the Supreme Court strikes down a law based on its interpretation of the Constitution, it is often criticized for $\\textbf{Judicial Activism}$, which refers to judges:",
+        "image": "",
+        "options": [
+            "Strictly adhering to the original text of the Constitution",
+            "Actively touring the country to meet with citizens",
+            "Imposing their own policy views rather than deferring to elected branches",
+            "Only hearing cases involving state-level laws"
+        ],
+        "answer": "Imposing their own policy views rather than deferring to elected branches",
+        "explanation": "Judicial activism is the philosophy that the courts should use their power to correct perceived social and political wrongs."
+    },
+    {
+        "id": "G151",
+        "text": "The $\\textbf{due process clause}$ of the Fourteenth Amendment requires that states:",
+        "image": "",
+        "options": [
+            "Provide for an official state religion",
+            "Treat all citizens equally under the law",
+            "Follow fair legal procedures before depriving someone of life, liberty, or property",
+            "Establish a minimum wage"
+        ],
+        "answer": "Follow fair legal procedures before depriving someone of life, liberty, or property",
+        "explanation": "Due process ensures procedural fairness (e.g., notice, hearing, counsel) in legal proceedings."
+    },
+    {
+        "id": "G152",
+        "text": "A $\\textbf{referendum}$ is a process where a state legislature refers a proposed law to the voters for their approval or rejection. This is an example of:",
+        "image": "",
+        "options": [
+            "Direct democracy",
+            "Representative democracy",
+            "A unitary government",
+            "Judicial review"
+        ],
+        "answer": "Direct democracy",
+        "explanation": "Referendums, initiatives, and recalls are all forms of direct democracy that allow citizens to vote directly on policy."
+    },
+    {
+        "id": "G153",
+        "text": "The $\\textbf{media's}$ primary role in setting the public agenda is often described as $\\textbf{gatekeeping}$, meaning they:",
+        "image": "",
+        "options": [
+            "Fund political campaigns",
+            "Control which issues the public and policymakers focus on",
+            "Hold public office",
+            "Draft all federal legislation"
+        ],
+        "answer": "Control which issues the public and policymakers focus on",
+        "explanation": "Gatekeeping refers to the media's ability to choose which stories and issues receive prominent coverage, thereby influencing public discourse."
+    },
+    {
+        "id": "G154",
+        "text": "The $\\textbf{Office of Management and Budget (OMB)}$ is the most important agency in the Executive Office of the President and is primarily responsible for:",
+        "image": "",
+        "options": [
+            "Confirming judicial nominations",
+            "Managing the entire federal government's budget preparation",
+            "Negotiating international trade agreements",
+            "Printing currency"
+        ],
+        "answer": "Managing the entire federal government's budget preparation",
+        "explanation": "The OMB prepares the President’s annual budget proposal for submission to Congress."
+    },
+    {
+        "id": "G155",
+        "text": "Which principle limits the federal government's authority to intrude upon the domain of the states and is protected by the $\\textbf{Tenth Amendment}$?",
+        "image": "",
+        "options": [
+            "National Supremacy",
+            "Separation of Powers",
+            "Federalism (Reserved Powers)",
+            "Judicial Review"
+        ],
+        "answer": "Federalism (Reserved Powers)",
+        "explanation": "The Tenth Amendment states that powers not delegated to the U.S. by the Constitution, nor prohibited by it to the States, are reserved to the States, or the people."
+    },
+    {
+        "id": "G156",
+        "text": "A $\\textbf{conference committee}$ is created when the House and Senate pass $\\textbf{different versions}$ of the same bill. Its purpose is to:",
+        "image": "",
+        "options": [
+            "Veto the bill entirely",
+            "Override a presidential veto",
+            "Reconcile the differences into a single, unified bill",
+            "Begin the impeachment process"
+        ],
+        "answer": "Reconcile the differences into a single, unified bill",
+        "explanation": "Both chambers must pass identical versions of a bill before it can be sent to the President."
+    },
+    {
+        "id": "G157",
+        "text": "The $\\textbf{Equal Protection Clause}$ of the Fourteenth Amendment has been the legal basis for challenging $\\textbf{discriminatory}$ laws since its ratification in the post-Civil War era. It requires states to:",
+        "image": "",
+        "options": [
+            "Guarantee a minimum income for all citizens",
+            "Establish two major political parties",
+            "Apply the law equally to all persons",
+            "Prohibit all forms of political speech"
+        ],
+        "answer": "Apply the law equally to all persons",
+        "explanation": "It mandates that states cannot unreasonably discriminate against individuals or groups."
+    },
+    {
+        "id": "G158",
+        "text": "The constitutional requirement that the number of congressional seats be determined by population as measured by the census is found in:",
+        "image": "",
+        "options": [
+            "The Thirteenth Amendment",
+            "Article I, Section 2",
+            "The Preamble",
+            "The Twenty-Fifth Amendment"
+        ],
+        "answer": "Article I, Section 2",
+        "explanation": "This article mandates the decennial enumeration (census) for the purpose of reapportionment."
+    },
+    {
+        "id": "G159",
+        "text": "The concept of $\\textbf{political socialization}$ refers to the process by which individuals:",
+        "image": "",
+        "options": [
+            "Run for public office",
+            "Acquire their political beliefs and values",
+            "Register to vote in a new state",
+            "Lobby government officials"
+        ],
+        "answer": "Acquire their political beliefs and values",
+        "explanation": "Key agents of political socialization include family, school, peers, and the media."
+    },
+    {
+        "id": "G160",
+        "text": "If the President holds a bill for 10 days while Congress is adjourned, the bill $\\textbf{does not}$ become law. This inaction is known as a:",
+        "image": "",
+        "options": [
+            "Line-item veto",
+            "Executive order",
+            "Pocket veto",
+            "Legislative mandate"
+        ],
+        "answer": "Pocket veto",
+        "explanation": "Unlike a regular veto, which can be overridden by a 2/3rds vote, a pocket veto cannot be overridden as Congress is not in session."
+    }
+]

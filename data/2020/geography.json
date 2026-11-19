@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "The $\\textbf{'Black Summer'}$ bushfires of 2019-2020 burnt millions of acres primarily in the states of New South Wales and $\\textbf{Victoria}$ in $\\textbf{Australia}$.",
+        "image": "",
+        "options": [
+            "Queensland",
+            "Victoria",
+            "Western Australia",
+            "Tasmania"
+        ],
+        "answer": "Victoria",
+        "explanation": "The fires were among the most devastating in Australia's history, destroying thousands of homes and killing billions of animals."
+    },
+    {
+        "id": "GEO02",
+        "text": "In August 2020, a massive explosion occurred at the port of $\\textbf{Beirut}$, the capital city of $\\textbf{Lebanon}$, situated on the $\\textbf{Mediterranean}$ coast.",
+        "image": "",
+        "options": [
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Cyprus"
+        ],
+        "answer": "Lebanon",
+        "explanation": "The blast was caused by improperly stored ammonium nitrate and caused widespread destruction across the city."
+    },
+    {
+        "id": "GEO03",
+        "text": "The city of $\\textbf{Wuhan}$, where the COVID-19 pandemic originated, is the capital of $\\textbf{Hubei}$ province in central $\\textbf{China}$.",
+        "image": "",
+        "options": [
+            "Hunan",
+            "Hubei",
+            "Sichuan",
+            "Guangdong"
+        ],
+        "answer": "Hubei",
+        "explanation": "Wuhan is a major transportation hub, often called the 'Chicago of China' due to its key role in domestic transit."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Taal Volcano}$, which erupted in January 2020, is located on the island of $\\textbf{Luzon}$ in the $\\textbf{Philippines}$.",
+        "image": "",
+        "options": [
+            "Mindanao",
+            "Luzon",
+            "Visayas",
+            "Palawan"
+        ],
+        "answer": "Luzon",
+        "explanation": "Taal is known for being a 'lake within a volcano within a lake' and is one of the country's most active volcanoes."
+    },
+    {
+        "id": "GEO05",
+        "text": "The $\\textbf{United Kingdom}$ officially left the $\\textbf{European Union}$ (Brexit) in 2020, changing the political geography of $\\textbf{Europe}$.",
+        "image": "",
+        "options": [
+            "France",
+            "Germany",
+            "United Kingdom",
+            "Italy"
+        ],
+        "answer": "United Kingdom",
+        "explanation": "The UK became the first and only sovereign country to have left the EU."
+    },
+    {
+        "id": "GEO06",
+        "text": "In 2020, $\\textbf{Death Valley}$ in $\\textbf{California}$ recorded a temperature of 54.4°C (129.9°F), one of the highest reliably recorded temperatures on $\\textbf{Earth}$.",
+        "image": "",
+        "options": [
+            "Nevada",
+            "Arizona",
+            "California",
+            "New Mexico"
+        ],
+        "answer": "California",
+        "explanation": "Death Valley is known as the hottest, driest, and lowest national park in the United States."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{Grand Ethiopian Renaissance Dam}$ (GERD) on the $\\textbf{Blue Nile}$ was a source of major geopolitical tension in 2020 between Ethiopia, Sudan, and $\\textbf{Egypt}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Egypt",
+            "Uganda",
+            "Eritrea"
+        ],
+        "answer": "Egypt",
+        "explanation": "Egypt fears the dam will significantly reduce its water supply from the Nile, which is essential for its agriculture."
+    },
+    {
+        "id": "GEO08",
+        "text": "Massive swarms of $\\textbf{Desert Locusts}$ devastated crops across $\\textbf{East Africa}$ in 2020, affecting countries like Kenya, Somalia, and $\\textbf{Ethiopia}$.",
+        "image": "",
+        "options": [
+            "West Africa",
+            "East Africa",
+            "Southern Africa",
+            "North Africa"
+        ],
+        "answer": "East Africa",
+        "explanation": "The infestation was the worst in decades, threatening food security in an already vulnerable region."
+    },
+    {
+        "id": "GEO09",
+        "text": "Hurricane $\\textbf{Laura}$ made landfall in August 2020 as a Category 4 storm near Cameron, $\\textbf{Louisiana}$, causing severe flooding.",
+        "image": "",
+        "options": [
+            "Texas",
+            "Florida",
+            "Louisiana",
+            "Mississippi"
+        ],
+        "answer": "Louisiana",
+        "explanation": "The 2020 Atlantic hurricane season was the most active on record, exhausting the regular list of storm names."
+    },
+    {
+        "id": "GEO10",
+        "text": "The $\\textbf{Esperanza Base}$ in $\\textbf{Antarctica}$ recorded a new high temperature record of 18.3°C (64.9°F) in February 2020.",
+        "image": "",
+        "options": [
+            "Greenland",
+            "Siberia",
+            "Antarctica",
+            "Alaska"
+        ],
+        "answer": "Antarctica",
+        "explanation": "This record highlighted the rapid warming occurring on the Antarctic Peninsula."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Pantanal}$, the world's largest tropical $\\textbf{Wetland}$, suffered catastrophic fires in 2020, located mostly within $\\textbf{Brazil}$.",
+        "image": "",
+        "options": [
+            "Argentina",
+            "Brazil",
+            "Paraguay",
+            "Bolivia"
+        ],
+        "answer": "Brazil",
+        "explanation": "Roughly a quarter of the entire biome burned, killing millions of animals."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Aegean Sea}$ was the site of a powerful magnitude 7.0 earthquake in October 2020, affecting $\\textbf{Turkey}$ and $\\textbf{Greece}$.",
+        "image": "",
+        "options": [
+            "Ionian Sea",
+            "Aegean Sea",
+            "Adriatic Sea",
+            "Tyrrhenian Sea"
+        ],
+        "answer": "Aegean Sea",
+        "explanation": "The quake caused a mini-tsunami and significant damage in the city of Izmir."
+    },
+    {
+        "id": "GEO13",
+        "text": "The $\\textbf{Norilsk Oil Spill}$ in May 2020 occurred in the $\\textbf{Arctic Circle}$ region of $\\textbf{Russia}$, releasing tonnes of diesel fuel into local rivers.",
+        "image": "",
+        "options": [
+            "Canada",
+            "Norway",
+            "Russia",
+            "Alaska"
+        ],
+        "answer": "Russia",
+        "explanation": "It was one of the worst oil spills in modern Russian history, linked to melting permafrost destabilizing a fuel tank."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Nagorno-Karabakh}$ region was the subject of a war in 2020 between $\\textbf{Armenia}$ and $\\textbf{Azerbaijan}$.",
+        "image": "",
+        "options": [
+            "Georgia",
+            "Azerbaijan",
+            "Iran",
+            "Turkey"
+        ],
+        "answer": "Azerbaijan",
+        "explanation": "The conflict resulted in significant territorial shifts in the South Caucasus region."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Strait of Hormuz}$ lies between $\\textbf{Iran}$ and the Musandam Peninsula of $\\textbf{Oman}$ (and the UAE).",
+        "image": "",
+        "options": [
+            "Saudi Arabia",
+            "Yemen",
+            "Oman",
+            "Kuwait"
+        ],
+        "answer": "Oman",
+        "explanation": "It is the only sea passage from the Persian Gulf to the open ocean."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Mekong Delta}$ in $\\textbf{Vietnam}$ faced a historic $\\textbf{Drought}$ and saltwater intrusion in 2020, threatening global $\\textbf{Rice}$ supplies.",
+        "image": "",
+        "options": [
+            "Thailand",
+            "Cambodia",
+            "Vietnam",
+            "Laos"
+        ],
+        "answer": "Vietnam",
+        "explanation": "The delta is known as the 'Rice Bowl' of Vietnam."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Caspian Sea}$ is the world's largest inland body of water, classified as either a lake or a full-fledged $\\textbf{Sea}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Caspian Sea",
+            "Aral Sea",
+            "Red Sea"
+        ],
+        "answer": "Caspian Sea",
+        "explanation": "It lies between Europe and Asia and has characteristics of both sea and lake."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Sierra Madre}$ is a major mountain range system in $\\textbf{Mexico}$, consisting of the Occidental and Oriental ranges.",
+        "image": "",
+        "options": [
+            "Spain",
+            "Mexico",
+            "Philippines",
+            "Colombia"
+        ],
+        "answer": "Mexico",
+        "explanation": "These ranges frame the Mexican Plateau."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Ganges River}$ is the most sacred river to Hindus and is a lifeline to millions who live along its course in $\\textbf{India}$ and $\\textbf{Bangladesh}$.",
+        "image": "",
+        "options": [
+            "Pakistan",
+            "India",
+            "Nepal",
+            "Sri Lanka"
+        ],
+        "answer": "India",
+        "explanation": "It rises in the western Himalayas and empties into the Bay of Bengal."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Danakil Depression}$ in $\\textbf{Ethiopia}$ is one of the hottest and lowest places on Earth, known for its colorful hydrothermal $\\textbf{Pools}$.",
+        "image": "",
+        "options": [
+            "Kenya",
+            "Sudan",
+            "Ethiopia",
+            "Djibouti"
+        ],
+        "answer": "Ethiopia",
+        "explanation": "It is a geological depression resulting from the divergence of three tectonic plates."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Suez Canal}$ connects the Mediterranean Sea to the $\\textbf{Red Sea}$.",
+        "image": "",
+        "options": [
+            "Black Sea",
+            "Red Sea",
+            "Dead Sea",
+            "Caspian Sea"
+        ],
+        "answer": "Red Sea",
+        "explanation": "It creates a direct shipping route between Europe and Asia."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Great Slave Lake}$ is the deepest lake in $\\textbf{North America}$, located in the Northwest Territories of $\\textbf{Canada}$.",
+        "image": "",
+        "options": [
+            "United States",
+            "Canada",
+            "Mexico",
+            "Greenland"
+        ],
+        "answer": "Canada",
+        "explanation": "It reaches depths of over 600 meters."
+    },
+    {
+        "id": "GEO23",
+        "text": "The $\\textbf{Taklamakan Desert}$ is a desert in southwest Xinjiang in Northwest $\\textbf{China}$, bounded by the Kunlun Mountains and the Pamir Mountains.",
+        "image": "",
+        "options": [
+            "Mongolia",
+            "China",
+            "Kazakhstan",
+            "India"
+        ],
+        "answer": "China",
+        "explanation": "It is one of the world's largest shifting sand deserts."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Hudson Bay}$ is a large body of saltwater in northeastern $\\textbf{Canada}$, which drains a very large area of North America.",
+        "image": "",
+        "options": [
+            "Alaska",
+            "Canada",
+            "Greenland",
+            "Russia"
+        ],
+        "answer": "Canada",
+        "explanation": "It is relatively shallow and is considered an epicontinental sea."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Strait of Kerch}$ connects the $\\textbf{Black Sea}$ to the $\\textbf{Sea of Azov}$ and separates the Crimean Peninsula from Russia.",
+        "image": "",
+        "options": [
+            "Sea of Marmara",
+            "Sea of Azov",
+            "Caspian Sea",
+            "Aegean Sea"
+        ],
+        "answer": "Sea of Azov",
+        "explanation": "It is a strategic chokepoint heavily controlled by Russia since the annexation of Crimea."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Lake Titicaca}$ is located on the border of $\\textbf{Bolivia}$ and $\\textbf{Peru}$ and is the highest navigable lake in the world.",
+        "image": "",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Peru",
+            "Ecuador"
+        ],
+        "answer": "Peru",
+        "explanation": "It sits at 3,812 m (12,507 ft) above sea level in the Andes Mountains."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Darrien Gap}$ is a break across the $\\textbf{Pan-American Highway}$ consisting of a large watershed, forest, and mountains between $\\textbf{Panama}$ and $\\textbf{Colombia}$.",
+        "image": "",
+        "options": [
+            "Costa Rica",
+            "Colombia",
+            "Venezuela",
+            "Ecuador"
+        ],
+        "answer": "Colombia",
+        "explanation": "It is known for being extremely difficult and dangerous to cross."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{Zambezi River}$ is the fourth-longest river in Africa and flows into the $\\textbf{Indian Ocean}$, famous for $\\textbf{Victoria Falls}$.",
+        "image": "",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Southern Ocean"
+        ],
+        "answer": "Indian Ocean",
+        "explanation": "Victoria Falls is located on the border between Zambia and Zimbabwe."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Caucasus Mountains}$ lie at the intersection of Europe and Asia, stretching between the $\\textbf{Black Sea}$ and the $\\textbf{Caspian Sea}$.",
+        "image": "",
+        "options": [
+            "Mediterranean Sea",
+            "Caspian Sea",
+            "Red Sea",
+            "Aral Sea"
+        ],
+        "answer": "Caspian Sea",
+        "explanation": "They contain Mount Elbrus, the highest peak in Europe."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Coral Sea}$ lies off the northeast coast of $\\textbf{Australia}$ and contains the $\\textbf{Great Barrier Reef}$.",
+        "image": "",
+        "options": [
+            "New Zealand",
+            "Australia",
+            "Papua New Guinea",
+            "Indonesia"
+        ],
+        "answer": "Australia",
+        "explanation": "It was the site of a major naval battle during WWII."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Strait of Messina}$ separates the island of $\\textbf{Sicily}$ from the $\\textbf{Italian}$ mainland.",
+        "image": "",
+        "options": [
+            "Sardinia",
+            "Corsica",
+            "Sicily",
+            "Malta"
+        ],
+        "answer": "Sicily",
+        "explanation": "It connects the Tyrrhenian Sea with the Ionian Sea."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Rio Grande}$ forms part of the border between the $\\textbf{United States}$ and $\\textbf{Mexico}$.",
+        "image": "",
+        "options": [
+            "Canada",
+            "Mexico",
+            "Guatemala",
+            "Cuba"
+        ],
+        "answer": "Mexico",
+        "explanation": "It flows from Colorado to the Gulf of Mexico."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Loire River}$ is the longest river wholly in $\\textbf{France}$, known for the many $\\textbf{Châteaux}$ (castles) in its valley.",
+        "image": "",
+        "options": [
+            "Spain",
+            "Germany",
+            "France",
+            "Belgium"
+        ],
+        "answer": "France",
+        "explanation": "The Loire Valley is a UNESCO World Heritage site."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Khyber Pass}$ is a mountain pass connecting $\\textbf{Afghanistan}$ and $\\textbf{Pakistan}$, historically an important trade route.",
+        "image": "",
+        "options": [
+            "India",
+            "Iran",
+            "Pakistan",
+            "China"
+        ],
+        "answer": "Pakistan",
+        "explanation": "It cuts through the Spin Ghar mountains and was part of the Silk Road."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Simpson Desert}$ is a large area of dry, red sandy plain and dunes in $\\textbf{Central Australia}$.",
+        "image": "",
+        "options": [
+            "Western Australia",
+            "Central Australia",
+            "Northern Australia",
+            "Southern Australia"
+        ],
+        "answer": "Central Australia",
+        "explanation": "It is famous for the Big Red sand dune."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{Sea of Japan}$ (East Sea) is a marginal sea between the Japanese archipelago, Sakhalin, the Korean Peninsula, and $\\textbf{Russia}$.",
+        "image": "",
+        "options": [
+            "China",
+            "Russia",
+            "Mongolia",
+            "Vietnam"
+        ],
+        "answer": "Russia",
+        "explanation": "It has almost no tides due to being nearly enclosed."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Po River}$ is the longest river in $\\textbf{Italy}$, flowing eastward across northern Italy into the $\\textbf{Adriatic Sea}$.",
+        "image": "",
+        "options": [
+            "Spain",
+            "Italy",
+            "Greece",
+            "France"
+        ],
+        "answer": "Italy",
+        "explanation": "The Po Valley is the industrial and agricultural heartland of Italy."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Gulf of Tonkin}$ is located off the coast of northern $\\textbf{Vietnam}$ and southern $\\textbf{China}$.",
+        "image": "",
+        "options": [
+            "Thailand",
+            "Vietnam",
+            "Philippines",
+            "Malaysia"
+        ],
+        "answer": "Vietnam",
+        "explanation": "It is an arm of the South China Sea."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Murray River}$ forms part of the border between the Australian states of $\\textbf{New South Wales}$ and $\\textbf{Victoria}$.",
+        "image": "",
+        "options": [
+            "Queensland",
+            "Victoria",
+            "South Australia",
+            "Western Australia"
+        ],
+        "answer": "Victoria",
+        "explanation": "It is Australia's longest river."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Lake Ladoga}$ in $\\textbf{Russia}$ is the largest lake located entirely in $\\textbf{Europe}$.",
+        "image": "",
+        "options": [
+            "Finland",
+            "Sweden",
+            "Russia",
+            "Estonia"
+        ],
+        "answer": "Russia",
+        "explanation": "It is located near Saint Petersburg."
+    }
+]

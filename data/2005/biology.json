@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2005_01",
+      "text": "The fusion of male and female gametes to form a zygote is known as:",
+      "image": "[Diagram illustrating fertilization in animals]",
+      "options": [
+        "Pollination",
+        "Gametogenesis",
+        "Fertilization",
+        "Implantation"
+      ],
+      "answer": "Fertilization",
+      "explanation": "Fertilization is the process of sexual reproduction where the nuclei of a male gamete (sperm/pollen) and a female gamete (egg/ovule) fuse to form a diploid zygote."
+    },
+    {
+      "id": "BIO_2005_02",
+      "text": "Which organelle is responsible for generating energy in the form of $\\text{ATP}$ through aerobic respiration?",
+      "image": "[Diagram of a Mitochondrion and ATP production]",
+      "options": [
+        "Ribosome",
+        "Nucleus",
+        "Mitochondrion",
+        "Chloroplast"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "Mitochondria are the sites of cellular respiration, where $\\text{Glucose}$ is broken down in the presence of $\\text{Oxygen}$ to produce large amounts of $\\text{ATP}$ (energy)."
+    },
+    {
+      "id": "BIO_2005_03",
+      "text": "The pigment necessary for photosynthesis is:",
+      "image": "[Diagram of a leaf cross-section showing chloroplasts]",
+      "options": [
+        "Haemoglobin",
+        "Xanthophyll",
+        "Carotene",
+        "Chlorophyll"
+      ],
+      "answer": "Chlorophyll",
+      "explanation": "Chlorophyll is the green pigment found in chloroplasts that absorbs light energy, primarily in the blue and red spectrum, to initiate photosynthesis."
+    },
+    {
+      "id": "BIO_2005_04",
+      "text": "Which part of the $\\text{Mammalian}$ skin is responsible for temperature regulation through sweating?",
+      "image": "[Diagram of human skin cross-section highlighting the sweat gland]",
+      "options": [
+        "Hair follicle",
+        "Sebaceous gland",
+        "Sweat gland",
+        "Epidermis"
+      ],
+      "answer": "Sweat gland",
+      "explanation": "Sweat glands produce sweat, which evaporates from the skin surface. This evaporation is a cooling process that helps to regulate body temperature ($\text{Thermoregulation}$). "
+    },
+    {
+      "id": "BIO_2005_05",
+      "text": "The major function of the $\\text{Xylem}$ tissue in plants is the:",
+      "image": "[Diagram of Xylem and Phloem tissues in a plant stem]",
+      "options": [
+        "Transport of food (sugars)",
+        "Storage of starch",
+        "Transport of water and dissolved mineral salts",
+        "Photosynthesis"
+      ],
+      "answer": "Transport of water and dissolved mineral salts",
+      "explanation": "Xylem vessels form a continuous system for the conduction of water and inorganic ions from the roots, up the stem, to the leaves."
+    },
+    {
+      "id": "BIO_2005_06",
+      "text": "The structural unit of heredity is the:",
+      "image": "[Diagram illustrating the DNA double helix and gene location]",
+      "options": [
+        "Chromosome",
+        "Gamete",
+        "Gene",
+        "Allele"
+      ],
+      "answer": "Gene",
+      "explanation": "A gene is a segment of $\\text{DNA}$ that carries the instruction for a specific characteristic, and is the basic functional unit of heredity."
+    },
+    {
+      "id": "BIO_2005_07",
+      "text": "A plant adapted to growing in very dry habitats is called a:",
+      "image": "",
+      "options": [
+        "Hydrophyte",
+        "Mesophyte",
+        "Xerophyte",
+        "Halophyte"
+      ],
+      "answer": "Xerophyte",
+      "explanation": "Xerophytes (like cacti) are adapted to survive in areas with limited water availability, often having thick cuticles, reduced leaves, or succulent stems."
+    },
+    {
+      "id": "BIO_2005_08",
+      "text": "Which part of the human alimentary canal is the primary site for the absorption of digested food?",
+      "image": "[Diagram of the Small Intestine villi]",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Oesophagus",
+        "Small intestine"
+      ],
+      "answer": "Small intestine",
+      "explanation": "The small intestine, with its large surface area provided by $\\text{Villi}$ and microvilli, is where the majority of digestion and absorption of nutrients occurs."
+    },
+    {
+      "id": "BIO_2005_09",
+      "text": "The pumping action of the heart that drives blood circulation is initiated by the:",
+      "image": "[Diagram of the human heart showing the Sinoatrial (SA) node]",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Sinoatrial node (Pacemaker)",
+        "Ventricles"
+      ],
+      "answer": "Sinoatrial node (Pacemaker)",
+      "explanation": "The $\\text{SA}$ node, located in the right atrium, is the heart's natural pacemaker that generates the electrical impulses for heart muscle contraction."
+    },
+    {
+      "id": "BIO_2005_10",
+      "text": "Which of these is a function of the $\\text{Liver}$ in mammals?",
+      "image": "",
+      "options": [
+        "Gaseous exchange",
+        "Production of urine",
+        "Detoxification of blood",
+        "Absorption of water"
+      ],
+      "answer": "Detoxification of blood",
+      "explanation": "The liver plays a crucial role in breaking down and eliminating harmful substances like drugs, alcohol, and metabolic waste products from the blood."
+    },
+    {
+      "id": "BIO_2005_11",
+      "text": "The movement of water molecules across a selectively permeable membrane from a region of higher water potential to a region of lower water potential is called:",
+      "image": "[Diagram illustrating Osmosis and water movement]",
+      "options": [
+        "Diffusion",
+        "Active transport",
+        "Imbibition",
+        "Osmosis"
+      ],
+      "answer": "Osmosis",
+      "explanation": "Osmosis is the specialized form of $\\text{Diffusion}$ specific to the movement of water across a differentially (selectively) permeable membrane."
+    },
+    {
+      "id": "BIO_2005_12",
+      "text": "The absence of $\\text{Turgor}$ pressure in plant cells causes the plant to:",
+      "image": "",
+      "options": [
+        "Grow taller",
+        "Wilt",
+        "Undergo $\\text{Plasmolysis}$",
+        "Increase cell division"
+      ],
+      "answer": "Wilt",
+      "explanation": "Turgor pressure keeps plant cells firm and rigid. When it drops due to water loss, the cell becomes flaccid, causing the non-woody parts of the plant to $\\text{Wilt}$."
+    },
+    {
+      "id": "BIO_2005_13",
+      "text": "A food web is more stable than a food chain because:",
+      "image": "[Diagram comparing a simple food chain and a complex food web]",
+      "options": [
+        "It has only two trophic levels",
+        "It allows for multiple feeding relationships",
+        "Energy transfer is $100\\%$ efficient",
+        "It contains only $\\text{Decomposers}$"
+      ],
+      "answer": "It allows for multiple feeding relationships",
+      "explanation": "A food web shows interconnected food chains, providing alternative food sources for consumers. This redundancy makes the ecosystem more stable if one food source declines."
+    },
+    {
+      "id": "BIO_2005_14",
+      "text": "Which hormone promotes the conversion of excess $\\text{Glucose}$ into $\\text{Glycogen}$ in the $\\text{Liver}$?",
+      "image": "",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "answer": "Insulin",
+      "explanation": "Insulin, secreted by the $\\text{Pancreas}$, lowers blood sugar by promoting the uptake of $\\text{Glucose}$ by cells and its storage as $\\text{Glycogen}$."
+    },
+    {
+      "id": "BIO_2005_15",
+      "text": "The $\\text{Cerebellum}$ is primarily responsible for the control of:",
+      "image": "[Diagram of the human brain highlighting the Cerebellum]",
+      "options": [
+        "Conscious thought and memory",
+        "Breathing and heartbeat",
+        "Balance and muscular coordination",
+        "Sense of smell"
+      ],
+      "answer": "Balance and muscular coordination",
+      "explanation": "The $\\text{Cerebellum}$ coordinates voluntary movements such as posture, balance, coordination, and speech, resulting in smooth and balanced muscular activity."
+    },
+    {
+      "id": "BIO_2005_16",
+      "text": "The outermost protective layer of the plant cell is the:",
+      "image": "[Diagram of a plant cell showing cell wall and membrane]",
+      "options": [
+        "Cell membrane",
+        "Cytoplasm",
+        "Cell wall",
+        "Vacuole"
+      ],
+      "answer": "Cell wall",
+      "explanation": "The cell wall, made primarily of $\\text{Cellulose}$, lies outside the cell membrane and provides structural support and protection to the plant cell."
+    },
+    {
+      "id": "BIO_2005_17",
+      "text": "The mode of nutrition involving the ingestion of solid organic matter is called:",
+      "image": "",
+      "options": [
+        "Saprophytic",
+        "Parasitic",
+        "Autotrophic",
+        "Holozoic"
+      ],
+      "answer": "Holozoic",
+      "explanation": "Holozoic nutrition involves the consumption of complex organic matter, which is then processed through ingestion, digestion, absorption, assimilation, and egestion (e.g., humans, animals)."
+    },
+    {
+      "id": "BIO_2005_18",
+      "text": "Which class of food provides the highest amount of energy per gram?",
+      "image": "[Table showing energy values for Carbohydrates, Proteins, and Fats]",
+      "options": [
+        "Vitamins",
+        "Carbohydrates",
+        "Fats (Lipids)",
+        "Proteins"
+      ],
+      "answer": "Fats (Lipids)",
+      "explanation": "Fats (Lipids) yield about $37 \\text{ kJ/g}$ ($9 \\text{ kcal/g}$), which is roughly twice the energy provided by carbohydrates and proteins."
+    },
+    {
+      "id": "BIO_2005_19",
+      "text": "Insects and spiders belong to the phylum:",
+      "image": "[Diagram comparing an Insect and a Spider (Arachnid)]",
+      "options": [
+        "Mollusca",
+        "Annelida",
+        "Arthropoda",
+        "Chordata"
+      ],
+      "answer": "Arthropoda",
+      "explanation": "Arthropoda is the largest phylum, characterized by jointed appendages, a segmented body, and an exoskeleton. Insects (Class Insecta) and Spiders (Class $\\text{Arachnida}$) are major classes within this phylum."
+    },
+    {
+      "id": "BIO_2005_20",
+      "text": "The major excretory product of birds and reptiles is:",
+      "image": "",
+      "options": [
+        "Urea",
+        "Uric acid",
+        "Ammonia",
+        "Creatinine"
+      ],
+      "answer": "Uric acid",
+      "explanation": "Like insects, birds and reptiles excrete nitrogenous waste as $\\text{Uric acid}$ ($\text{Uricotelism}$). This minimizes water loss, an important adaptation for life on land."
+    },
+    {
+      "id": "BIO_2005_21",
+      "text": "Which structure connects bones to other bones at a joint?",
+      "image": "[Diagram of a joint showing ligaments and tendons]",
+      "options": [
+        "Tendon",
+        "Cartilage",
+        "Ligament",
+        "Muscle"
+      ],
+      "answer": "Ligament",
+      "explanation": "Ligaments are strong, fibrous connective tissues that connect bones to bones, stabilizing joints. Tendons connect muscle to bone."
+    },
+    {
+      "id": "BIO_2005_22",
+      "text": "In a plant community, the process of one dominant species being replaced by another over time is known as:",
+      "image": "[Diagram illustrating Ecological Succession stages]",
+      "options": [
+        "Competition",
+        "Stratification",
+        "Succession",
+        "Pioneerization"
+      ],
+      "answer": "Succession",
+      "explanation": "Ecological succession is the process of change in the species structure of an ecological community over time, often culminating in a climax community."
+    },
+    {
+      "id": "BIO_2005_23",
+      "text": "The exchange of $\\text{Oxygen}$ and $\\text{Carbon}$ dioxide between the blood and body cells occurs at the:",
+      "image": "[Diagram of a Capillary network showing gas exchange]",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Arterioles"
+      ],
+      "answer": "Capillaries",
+      "explanation": "Capillaries have thin walls (one cell thick) which facilitate the rapid diffusion of gases, nutrients, and waste products between the blood and surrounding tissues."
+    },
+    {
+      "id": "BIO_2005_24",
+      "text": "During $\\text{Mitosis}$, chromosomes are best viewed during the stage called:",
+      "image": "[Micrograph of Metaphase plate]",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": "Metaphase",
+      "explanation": "In Metaphase, the chromosomes align along the equatorial plane (Metaphase plate) and are fully condensed, making them most visible and countable."
+    },
+    {
+      "id": "BIO_2005_25",
+      "text": "A physical factor that determines the distribution of organisms in an aquatic habitat is:",
+      "image": "",
+      "options": [
+        "Predation",
+        "Salinity (Salt content)",
+        "Parasitism",
+        "Competition"
+      ],
+      "answer": "Salinity (Salt content)",
+      "explanation": "Salinity is a critical physical (abiotic) factor in aquatic environments, especially estuaries and marine habitats, dictating which organisms can osmoregulate effectively enough to survive."
+    },
+    {
+      "id": "BIO_2005_26",
+      "text": "The part of the flower that protects the inner floral parts in the bud stage is the:",
+      "image": "[Diagram of a flower showing the Calyx (Sepals)]",
+      "options": [
+        "Petal",
+        "Stamen",
+        "Sepal (Calyx)",
+        "Pistil"
+      ],
+      "answer": "Sepal (Calyx)",
+      "explanation": "The $\\text{Sepals}$ (collectively the $\\text{Calyx}$) are typically green, leaf-like structures that enclose and protect the flower bud before it opens."
+    },
+    {
+      "id": "BIO_2005_27",
+      "text": "Which of the following is a $\\text{Sex}$-linked $\\text{Disease}$?",
+      "image": "",
+      "options": [
+        "Malaria",
+        "Sickle cell $\\text{Anaemia}$",
+        "Haemophilia",
+        "Typhoid"
+      ],
+      "answer": "Haemophilia",
+      "explanation": "Haemophilia (a blood clotting disorder) is an $\\text{X}$-linked recessive disease, meaning the gene responsible is located on the $\\text{X}$ chromosome."
+    },
+    {
+      "id": "BIO_2005_28",
+      "text": "The relationship in which both organisms benefit from the association is called:",
+      "image": "[Image illustrating Mutualism (e.g., Bee and Flower)]",
+      "options": [
+        "Commensalism",
+        "Parasitism",
+        "Mutualism",
+        "Competition"
+      ],
+      "answer": "Mutualism",
+      "explanation": "Mutualism is a type of symbiotic relationship where both interacting species derive a fitness benefit from the association."
+    },
+    {
+      "id": "BIO_2005_29",
+      "text": "The process by which $\\text{Oxygen}$ is released into the atmosphere during photosynthesis is called:",
+      "image": "[Chemical equation of Photosynthesis]",
+      "options": [
+        "Respiration",
+        "Photolysis of water",
+        "Carbon fixation",
+        "Transpiration"
+      ],
+      "answer": "Photolysis of water",
+      "explanation": "Photolysis, the splitting of water molecules using light energy, occurs during the light-dependent reactions and releases $\\text{Oxygen}$ as a byproduct ($\\text{2H}_2\\text{O} \\rightarrow 4\\text{H}^+ + \\text{O}_2 + 4e^-$)."
+    },
+    {
+      "id": "BIO_2005_30",
+      "text": "The absence of $\\text{Platelets}$ in the blood would affect the process of:",
+      "image": "[Diagram illustrating the Blood Clotting cascade]",
+      "options": [
+        "Digestion",
+        "Blood clotting",
+        "Transport of $\\text{Oxygen}$",
+        "Defense against infection"
+      ],
+      "answer": "Blood clotting",
+      "explanation": "Platelets (thrombocytes) are crucial components of the blood clotting mechanism, initiating the process when a blood vessel is injured."
+    },
+    {
+      "id": "BIO_2005_31",
+      "text": "The correct sequence of the vertebrae from the head region to the tail is:",
+      "image": "[Diagram of the Human Vertebral Column]",
+      "options": [
+        "Cervical, Thoracic, Lumbar, Sacral, Caudal",
+        "Cervical, Lumbar, Thoracic, Sacral, Caudal",
+        "Thoracic, Cervical, Lumbar, Caudal, Sacral",
+        "Cervical, Thoracic, Sacral, Lumbar, Caudal"
+      ],
+      "answer": "Cervical, Thoracic, Lumbar, Sacral, Caudal",
+      "explanation": "The five regions of the vertebral column in order are: $\\text{Cervical}$ (neck), $\\text{Thoracic}$ (chest), $\\text{Lumbar}$ (lower back), $\\text{Sacral}$ (pelvis), and $\\text{Caudal}$ (tail/coccyx)."
+    },
+    {
+      "id": "BIO_2005_32",
+      "text": "The type of germinating seed that has its $\\text{Cotyledons}$ brought above the soil surface is called:",
+      "image": "[Diagram comparing Epigeal and Hypogeal germination]",
+      "options": [
+        "Epigeal germination",
+        "Hypogeal germination",
+        "Vivipary",
+        "Dormancy"
+      ],
+      "answer": "Epigeal germination",
+      "explanation": "In $\\text{Epigeal}$ germination (e.g., bean), the hypocotyl elongates and pulls the cotyledons and plumule above ground. In $\\text{Hypogeal}$ germination (e.g., maize), the cotyledons remain below ground."
+    },
+    {
+      "id": "BIO_2005_33",
+      "text": "Organisms that feed directly on producers are classified as:",
+      "image": "[Diagram of a Trophic Level pyramid]",
+      "options": [
+        "Secondary consumers",
+        "Producers",
+        "Primary consumers (Herbivores)",
+        "Tertiary consumers"
+      ],
+      "answer": "Primary consumers (Herbivores)",
+      "explanation": "Producers (plants/algae) occupy the first trophic level. Primary consumers (herbivores) feed directly on them and occupy the second trophic level."
+    },
+    {
+      "id": "BIO_2005_34",
+      "text": "Which substance is necessary for the emulsification of fats during digestion?",
+      "image": "",
+      "options": [
+        "Saliva",
+        "Hydrochloric acid",
+        "Bile",
+        "Amylase"
+      ],
+      "answer": "Bile",
+      "explanation": "Bile, produced by the $\\text{Liver}$ and stored in the $\\text{Gall}$ bladder, physically breaks down large fat globules into smaller droplets (emulsification), increasing the surface area for enzyme action."
+    },
+    {
+      "id": "BIO_2005_35",
+      "text": "The largest phylum in the Animal Kingdom is:",
+      "image": "",
+      "options": [
+        "Mollusca",
+        "Chordata",
+        "Arthropoda",
+        "Annelida"
+      ],
+      "answer": "Arthropoda",
+      "explanation": "Arthropoda (insects, spiders, crustaceans) is the largest phylum in terms of the number of described species, encompassing over $80\\%$ of all known animal species."
+    },
+    {
+      "id": "BIO_2005_36",
+      "text": "The part of the cell that controls the entry and exit of substances is the:",
+      "image": "[Diagram of the Fluid Mosaic Model of the cell membrane]",
+      "options": [
+        "Cell wall",
+        "Cytoplasm",
+        "Cell membrane (Plasma membrane)",
+        "Nucleus"
+      ],
+      "answer": "Cell membrane (Plasma membrane)",
+      "explanation": "The cell membrane is selectively (differentially) permeable, regulating which molecules can pass into and out of the cell, thus maintaining internal homeostasis."
+    },
+    {
+      "id": "BIO_2005_37",
+      "text": "In genetic crosses, the term $\\text{Pure}$ breeding refers to an organism that is:",
+      "image": "[Punnett square comparing Homozygous and Heterozygous parents]",
+      "options": [
+        "Heterozygous",
+        "Dominant",
+        "Homozygous",
+        "Recessive"
+      ],
+      "answer": "Homozygous",
+      "explanation": "A pure-breeding organism is $\\text{Homozygous}$ for a trait, meaning it has two identical alleles ($\text{TT}$ or $\\text{tt}$) for that trait."
+    },
+    {
+      "id": "BIO_2005_38",
+      "text": "The $\\text{Phototropic}$ response in plant shoots is largely controlled by the hormone:",
+      "image": "[Diagram showing Auxin distribution leading to Phototropism]",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Auxin",
+        "Ethylene"
+      ],
+      "answer": "Auxin",
+      "explanation": "Auxins (specifically $\\text{Indoleacetic acid, IAA}$) migrate away from light, concentrating on the shaded side of the shoot, where they stimulate cell elongation, causing the shoot to bend toward the light (Phototropism)."
+    },
+    {
+      "id": "BIO_2005_39",
+      "text": "An adaptation that enables organisms to survive adverse dry conditions by going into a resting state is:",
+      "image": "",
+      "options": [
+        "Hibernation",
+        "Aestivation",
+        "Migration",
+        "Oestivation"
+      ],
+      "answer": "Aestivation",
+      "explanation": "Aestivation (or 'summer sleep') is a state of dormancy, similar to $\\text{Hibernation}$ but triggered by high temperatures and dry conditions (drought) rather than cold."
+    },
+    {
+      "id": "BIO_2005_40",
+      "text": "The process of maintaining a stable internal environment in an organism is called:",
+      "image": "[Diagram illustrating a negative feedback loop for Homeostasis]",
+      "options": [
+        "Excretion",
+        "Metabolism",
+        "Homeostasis",
+        "Regulation"
+      ],
+      "answer": "Homeostasis",
+      "explanation": "Homeostasis is the tendency of an organism or a cell to regulate its internal conditions (like temperature, $\\text{pH}$, and water content) to maintain stability in response to external changes."
+    }
+  ]

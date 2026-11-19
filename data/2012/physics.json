@@ -1,0 +1,322 @@
+[
+    {
+      "id": "PHYS_2012_01",
+      "text": "Which of the following physical quantities is a scalar quantity?",
+      "image": "",
+      "options": ["Momentum", "Displacement", "Acceleration", "Work"],
+      "answer": "Work",
+      "explanation": "Scalar quantities have magnitude only. Work, Energy, Mass, and Distance are examples of scalar quantities. Momentum, Displacement, and Acceleration are vector quantities."
+    },
+    {
+      "id": "PHYS_2012_02",
+      "text": "A stone is thrown vertically upwards with an initial velocity of $20\text{ m/s}$. Calculate the maximum height reached. ($\text{g} = 10\text{ m/s}^2$)",
+      "image": "[Diagram of projectile motion showing maximum height]",
+      "options": ["$10\text{ m}$", "$20\text{ m}$", "$30\text{ m}$", "$40\text{ m}$"],
+      "answer": "$20\text{ m}$",
+      "explanation": "Using $v^2 = u^2 + 2gs$. At maximum height, $v=0$. $0^2 = 20^2 + 2(-10)s$. $400 = 20s$. $s = 400/20 = 20\text{ m}$."
+    },
+    {
+      "id": "PHYS_2012_03",
+      "text": "If a body moves with uniform velocity, its acceleration is:",
+      "image": "[Graph of displacement vs time for uniform velocity]",
+      "options": ["Constant but non-zero", "Increasing", "Decreasing", "Zero"],
+      "answer": "Zero",
+      "explanation": "Acceleration is the rate of change of velocity. If the velocity is uniform (constant in both magnitude and direction), the rate of change is zero."
+    },
+    {
+      "id": "PHYS_2012_04",
+      "text": "The unit of momentum is:",
+      "image": "",
+      "options": ["$\text{N}\text{ s}$", "$\text{N}/\text{s}$", "$\text{kg}\text{ m}/\text{s}^2$", "$\text{J}\text{ s}$"],
+      "answer": "$\text{N}\text{ s}$",
+      "explanation": "Momentum ($\text{p}$) is mass times velocity ($\text{kg}\text{ m}/\text{s}$). Since Force ($\text{N}$) is $\text{kg}\text{ m}/\text{s}^2$, then $\text{N}\text{ s}$ is $(\text{kg}\text{ m}/\text{s}^2) \times \text{s} = \text{kg}\text{ m}/\text{s}$."
+    },
+    {
+      "id": "PHYS_2012_05",
+      "text": "Which of the following is the condition for a body to be in equilibrium?",
+      "image": "[Diagram showing forces in equilibrium]",
+      "options": ["The sum of moments about a point is zero", "The resultant force is zero", "The sum of moments and the resultant force are zero", "The velocity is constant"],
+      "answer": "The sum of moments and the resultant force are zero",
+      "explanation": "For a body to be in complete equilibrium (both static and dynamic), both translational equilibrium (resultant force is zero) and rotational equilibrium (resultant torque/moment is zero) must be satisfied."
+    },
+    {
+      "id": "PHYS_2012_06",
+      "text": "A machine has a velocity ratio of 5. If the efficiency is $80\\%$, the mechanical advantage is:",
+      "image": "[Formula for efficiency, MA, and VR]",
+      "options": ["$4.0$", "$5.0$", "$6.25$", "$8.0$"],
+      "answer": "$4.0$",
+      "explanation": "Efficiency ($\\eta$) = $\text{MA}/\text{VR} \times 100\\%$. $80/100 = \text{MA}/5$. $\text{MA} = 0.80 \times 5 = 4.0$."
+    },
+    {
+      "id": "PHYS_2012_07",
+      "text": "The energy stored in an elastic band when it is stretched is in the form of:",
+      "image": "[Diagram showing a stretched elastic band]",
+      "options": ["Kinetic energy", "Chemical energy", "Potential energy", "Heat energy"],
+      "answer": "Potential energy",
+      "explanation": "The energy stored due to the deformation (stretching or compression) of an elastic material is called elastic potential energy."
+    },
+    {
+      "id": "PHYS_2012_08",
+      "text": "If a load of $10\text{ N}$ causes an extension of $0.02\text{ m}$ in a spring, what is the force constant of the spring?",
+      "image": "[Graph of force vs extension for a spring (Hooke's Law)]",
+      "options": ["$50\text{ N/m}$", "$200\text{ N/m}$", "$500\text{ N/m}$", "$1000\text{ N/m}$"],
+      "answer": "$500\text{ N/m}$",
+      "explanation": "From Hooke's Law, $F = ke$. Force constant $k = F/e$. $k = 10\text{ N} / 0.02\text{ m} = 500\text{ N/m}$."
+    },
+    {
+      "id": "PHYS_2012_09",
+      "text": "The pressure exerted by a fluid at a depth $h$ below the surface is proportional to:",
+      "image": "[Diagram illustrating hydrostatic pressure]",
+      "options": ["The surface area of the fluid", "The volume of the fluid", "The density of the fluid", "The shape of the container"],
+      "answer": "The density of the fluid",
+      "explanation": "Hydrostatic pressure $P = \rho gh$, where $\rho$ is the density, $g$ is acceleration due to gravity, and $h$ is the depth. Pressure is directly proportional to density."
+    },
+    {
+      "id": "PHYS_2012_10",
+      "text": "The phenomenon used to separate small particles suspended in a liquid is:",
+      "image": "",
+      "options": ["Diffusion", "Osmosis", "Capillarity", "Sedimentation"],
+      "answer": "Sedimentation",
+      "explanation": "Sedimentation is the process where suspended particles settle out of the fluid in which they are entrained, due to the force of gravity or centrifugal force (as in a centrifuge)."
+    },
+    {
+      "id": "PHYS_2012_11",
+      "text": "The linear expansivity of a solid is $\\alpha$. The cubic expansivity of the solid is:",
+      "image": "[Relationship between linear, area, and volume expansivity]",
+      "options": ["$\\alpha$", "$2\\alpha$", "$3\\alpha$", "$4\\alpha$"],
+      "answer": "$3\\alpha$",
+      "explanation": "For isotropic solids, the relationship between linear expansivity ($\\alpha$) and cubic (volume) expansivity ($\\gamma$) is approximately $\\gamma = 3\\alpha$."
+    },
+    {
+      "id": "PHYS_2012_12",
+      "text": "A metal rod of length $100\text{ cm}$ at $0^\\circ\text{C}$ is heated to $100^\\circ\text{C}$. If the new length is $100.2\text{ cm}$, the linear expansivity is:",
+      "image": "",
+      "options": ["$2.0 \times 10^{-5}\text{ K}^{-1}$", "$2.0 \times 10^{-4}\text{ K}^{-1}$", "$2.0 \times 10^{-3}\text{ K}^{-1}$", "$2.0 \times 10^{-2}\text{ K}^{-1}$"],
+      "answer": "$2.0 \times 10^{-5}\text{ K}^{-1}$",
+      "explanation": "Linear expansivity $\\alpha = \\Delta L / (L_0 \\Delta \theta)$. $\\Delta L = 100.2 - 100 = 0.2\text{ cm}$. $\\Delta \theta = 100 - 0 = 100\text{ K}$. $\\alpha = 0.2 / (100 \times 100) = 0.2 / 10000 = 2.0 \times 10^{-5}\text{ K}^{-1}$."
+    },
+    {
+      "id": "PHYS_2012_13",
+      "text": "The instrument used to measure the relative humidity of the atmosphere is the:",
+      "image": "[Diagram of a wet-and-dry bulb hygrometer]",
+      "options": ["Barometer", "Hydrometer", "Manometer", "Hygrometer"],
+      "answer": "Hygrometer",
+      "explanation": "A hygrometer, specifically the wet-and-dry bulb thermometer (Psychrometer), is used to measure the relative humidity and dew point."
+    },
+    {
+      "id": "PHYS_2012_14",
+      "text": "The transfer of heat energy through a fluid by the actual movement of the fluid particles is called:",
+      "image": "[Diagram illustrating convection currents]",
+      "options": ["Conduction", "Radiation", "Convection", "Insulation"],
+      "answer": "Convection",
+      "explanation": "Convection is the main mode of heat transfer in liquids and gases. Conduction occurs mainly in solids, and Radiation does not require a medium."
+    },
+    {
+      "id": "PHYS_2012_15",
+      "text": "The latent heat of fusion of a substance is the heat required to change a unit mass of the substance from:",
+      "image": "[Graph of temperature vs heat showing plateaus]",
+      "options": ["Solid to liquid at constant temperature", "Liquid to gas at constant temperature", "Solid to gas at constant temperature", "Liquid to solid at constant temperature"],
+      "answer": "Solid to liquid at constant temperature",
+      "explanation": "Fusion is melting (solid $\rightarrow$ liquid). Latent heat of fusion is the energy needed for this phase change without a change in temperature."
+    },
+    {
+      "id": "PHYS_2012_16",
+      "text": "Which of the following is true about boiling water?",
+      "image": "",
+      "options": ["It occurs only at $100^\\circ\text{C}$", "Bubbles form only at the surface", "The temperature remains constant during the process", "It is independent of atmospheric pressure"],
+      "answer": "The temperature remains constant during the process",
+      "explanation": "Boiling is a phase change (liquid to gas) that occurs at a constant temperature (the boiling point), as the heat supplied is used to overcome intermolecular forces."
+    },
+    {
+      "id": "PHYS_2012_17",
+      "text": "A narrow beam of white light passing through a triangular glass prism is split into its component colours. This phenomenon is called:",
+      "image": "[Diagram showing dispersion of white light through a prism]",
+      "options": ["Refraction", "Reflection", "Dispersion", "Diffraction"],
+      "answer": "Dispersion",
+      "explanation": "Dispersion is the separation of white light into its constituent colors (spectrum) when it passes through a medium like a prism, due to different colors having different refractive indices."
+    },
+    {
+      "id": "PHYS_2012_18",
+      "text": "If the angle of incidence is $45^\\circ$ and the angle of refraction is $30^\\circ$, the refractive index of the medium is:",
+      "image": "[Diagram illustrating Snell's Law]",
+      "options": ["$1.22$", "$1.41$", "$1.53$", "$1.73$"],
+      "answer": "$1.41$",
+      "explanation": "Refractive index $n = \\sin i / \\sin r$. $n = \\sin 45^\\circ / \\sin 30^\\circ = 0.7071 / 0.5 = 1.414$."
+    },
+    {
+      "id": "PHYS_2012_19",
+      "text": "A converging lens has a focal length of $10\text{ cm}$. What is its power?",
+      "image": "[Formula relating power and focal length]",
+      "options": ["$0.1\text{ Dioptre}$", "$1.0\text{ Dioptre}$", "$10\text{ Dioptre}$", "$100\text{ Dioptre}$"],
+      "answer": "$10\text{ Dioptre}$",
+      "explanation": "Power $P = 1/f$ (where $f$ is in meters). $f = 10\text{ cm} = 0.1\text{ m}$. $P = 1 / 0.1 = 10\text{ D}$."
+    },
+    {
+      "id": "PHYS_2012_20",
+      "text": "Which of the following is responsible for total internal reflection?",
+      "image": "[Diagram illustrating total internal reflection and critical angle]",
+      "options": ["Light travelling from a dense medium to a less dense medium", "Angle of incidence is less than the critical angle", "Angle of incidence is greater than the critical angle", "The speed of light in the media"],
+      "answer": "Angle of incidence is greater than the critical angle",
+      "explanation": "Total internal reflection occurs when light travels from a denser medium to a less dense medium, and the angle of incidence is greater than the critical angle."
+    },
+    {
+      "id": "PHYS_2012_21",
+      "text": "The distance between two successive crests of a wave is known as the:",
+      "image": "[Diagram labelling crests, troughs, and wavelength]",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Velocity"],
+      "answer": "Wavelength",
+      "explanation": "Wavelength ($\\lambda$) is the spatial period of a wave—the distance over which the wave's shape repeats, such as the distance between two consecutive crests or troughs."
+    },
+    {
+      "id": "PHYS_2012_22",
+      "text": "Sound waves cannot travel through:",
+      "image": "[Illustration showing sound propagation in different media]",
+      "options": ["Air", "Water", "Steel", "Vacuum"],
+      "answer": "Vacuum",
+      "explanation": "Sound waves are mechanical waves that require a material medium (solid, liquid, or gas) for their propagation. A vacuum contains no medium."
+    },
+    {
+      "id": "PHYS_2012_23",
+      "text": "The frequency of a wave is $50\text{ Hz}$ and its velocity is $20\text{ m/s}$. Calculate the wavelength.",
+      "image": "[Wave equation formula $v = f\\lambda$]",
+      "options": ["$0.4\text{ m}$", "$2.5\text{ m}$", "$4.0\text{ m}$", "$1000\text{ m}$"],
+      "answer": "$0.4\text{ m}$",
+      "explanation": "Using $v = f\\lambda$, $\\lambda = v/f$. $\\lambda = 20\text{ m/s} / 50\text{ Hz} = 0.4\text{ m}$."
+    },
+    {
+      "id": "PHYS_2012_24",
+      "text": "Which of the following does NOT affect the speed of sound in air?",
+      "image": "",
+      "options": ["Temperature", "Humidity", "Pressure", "Wind"],
+      "answer": "Pressure",
+      "explanation": "For an ideal gas, the speed of sound is independent of pressure, provided the temperature remains constant. Temperature, humidity, and wind velocity do affect it."
+    },
+    {
+      "id": "PHYS_2012_25",
+      "text": "Two resistors of $3\text{ \\Omega}$ and $6\text{ \\Omega}$ are connected in parallel. Their equivalent resistance is:",
+      "image": "[Circuit diagram showing two resistors in parallel]",
+      "options": ["$2\text{ \\Omega}$", "$3\text{ \\Omega}$", "$4.5\text{ \\Omega}$", "$9\text{ \\Omega}$"],
+      "answer": "$2\text{ \\Omega}$",
+      "explanation": "For parallel connection: $1/R_{eq} = 1/R_1 + 1/R_2$. $1/R_{eq} = 1/3 + 1/6 = (2+1)/6 = 3/6 = 1/2$. $R_{eq} = 2\text{ \\Omega}$."
+    },
+    {
+      "id": "PHYS_2012_26",
+      "text": "The force experienced by a charge moving in a magnetic field is maximum when the charge moves:",
+      "image": "[Diagram illustrating Fleming's Left-Hand Rule]",
+      "options": ["Parallel to the field lines", "Perpendicular to the field lines", "At $45^\\circ$ to the field lines", "Opposite to the field lines"],
+      "answer": "Perpendicular to the field lines",
+      "explanation": "The magnetic force $F = qvB \\sin\theta$. The force is maximum when $\\sin\theta$ is maximum, which occurs when $\theta = 90^\\circ$ (perpendicular)."
+    },
+    {
+      "id": "PHYS_2012_27",
+      "text": "What is the instrument used to detect small electric currents?",
+      "image": "",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Ohmmeter"],
+      "answer": "Galvanometer",
+      "explanation": "A galvanometer is a sensitive instrument used to detect and measure small electric currents. It can be adapted to become an Ammeter or Voltmeter."
+    },
+    {
+      "id": "PHYS_2012_28",
+      "text": "The direction of induced current in a circuit is given by:",
+      "image": "[Diagram illustrating Lenz's Law]",
+      "options": ["Ohm's Law", "Faraday's Law", "Ampere's Law", "Lenz's Law"],
+      "answer": "Lenz's Law",
+      "explanation": "Lenz's Law states that the direction of the induced current is such that it opposes the change in magnetic flux that produced it."
+    },
+    {
+      "id": "PHYS_2012_29",
+      "text": "In a transformer, which quantity remains the same in the primary and secondary coils?",
+      "image": "[Diagram of a step-up transformer]",
+      "options": ["Voltage", "Current", "Power", "Number of turns"],
+      "answer": "Power",
+      "explanation": "For an ideal transformer, the power input to the primary coil equals the power output from the secondary coil ($P_p = P_s$), assuming no energy losses."
+    },
+    {
+      "id": "PHYS_2012_30",
+      "text": "The energy of a photon of light is proportional to its:",
+      "image": "[Formula $E = hf$]",
+      "options": ["Wavelength", "Amplitude", "Velocity", "Frequency"],
+      "answer": "Frequency",
+      "explanation": "The energy $E$ of a photon is given by Planck's relation, $E = hf$, where $h$ is Planck's constant and $f$ is the frequency."
+    },
+    {
+      "id": "PHYS_2012_31",
+      "text": "Which of the following is true about $\text{p-type}$ semiconductors?",
+      "image": "[Diagram showing holes in p-type semiconductor lattice]",
+      "options": ["Majority carriers are electrons", "Majority carriers are holes", "Doped with pentavalent impurities", "Neutral atoms are created"],
+      "answer": "Majority carriers are holes",
+      "explanation": "$\text{p-type}$ semiconductors are formed by doping with trivalent (acceptor) impurities, creating 'holes' (positive charge carriers) as the majority carriers."
+    },
+    {
+      "id": "PHYS_2012_32",
+      "text": "The instrument used to convert alternating current ($\text{a.c.}$) to direct current ($\text{d.c.}$) is a:",
+      "image": "[Circuit diagram of a bridge rectifier]",
+      "options": ["Transformer", "Amplifier", "Rectifier", "Capacitor"],
+      "answer": "Rectifier",
+      "explanation": "A rectifier is an electrical device that converts $\text{a.c.}$ to pulsating $\text{d.c.}$, often using diodes."
+    },
+    {
+      "id": "PHYS_2012_33",
+      "text": "Which of the following electromagnetic waves has the lowest frequency?",
+      "image": "[Electromagnetic spectrum showing frequency and wavelength trends]",
+      "options": ["X-rays", "Infrared waves", "Ultraviolet waves", "Radio waves"],
+      "answer": "Radio waves",
+      "explanation": "In the electromagnetic spectrum, frequency increases from Radio waves $\rightarrow$ Microwaves $\rightarrow$ Infrared $\rightarrow$ Visible light $\rightarrow$ UV $\rightarrow$ X-rays $\rightarrow$ Gamma rays. Radio waves have the lowest frequency."
+    },
+    {
+      "id": "PHYS_2012_34",
+      "text": "The half-life of a radioactive element is $10$ days. What fraction of the original sample will remain after $40$ days?",
+      "image": "[Graph of exponential radioactive decay]",
+      "options": ["$1/2$", "$1/4$", "$1/8$", "$1/16$"],
+      "answer": "$1/16$",
+      "explanation": "Number of half-lives $n = \text{Total time} / \text{Half-life} = 40 / 10 = 4$. Fraction remaining $ = (1/2)^n = (1/2)^4 = 1/16$."
+    },
+    {
+      "id": "PHYS_2012_35",
+      "text": "The process by which a heavy nucleus splits into two lighter nuclei with the release of a large amount of energy is called:",
+      "image": "[Diagram illustrating nuclear fission]",
+      "options": ["Nuclear fusion", "Nuclear fission", "Radioactive decay", "Chain reaction"],
+      "answer": "Nuclear fission",
+      "explanation": "Nuclear fission is the splitting of a heavy atomic nucleus into two or more smaller nuclei, often initiated by neutron bombardment, releasing huge amounts of energy."
+    },
+    {
+      "id": "PHYS_2012_36",
+      "text": "The instrument used to measure electric energy consumption in homes is the:",
+      "image": "[Image of a kWh energy meter]",
+      "options": ["Wattmeter", "Ammeter", "Kilowatt-hour meter", "Voltmeter"],
+      "answer": "Kilowatt-hour meter",
+      "explanation": "Electric energy is consumed and measured in kilowatt-hours ($\text{kWh}$), which is the unit displayed by the energy meter."
+    },
+    {
+      "id": "PHYS_2012_37",
+      "text": "A wire of resistance $2\text{ \\Omega}$ is doubled back on itself so that its new length is half of the original length. The new resistance is:",
+      "image": "[Diagram showing a wire being folded]",
+      "options": ["$0.5\text{ \\Omega}$", "$1.0\text{ \\Omega}$", "$2.0\text{ \\Omega}$", "$4.0\text{ \\Omega}$"],
+      "answer": "$0.5\text{ \\Omega}$",
+      "explanation": "Initial resistance $R_1 = \rho L/A = 2\text{ \\Omega}$. When folded, new length $L_2 = L/2$ and new area $A_2 = 2A$. New resistance $R_2 = \rho L_2 / A_2 = \rho (L/2) / (2A) = 1/4 \times (\rho L/A) = 1/4 \times R_1$. $R_2 = 1/4 \times 2\text{ \\Omega} = 0.5\text{ \\Omega}$."
+    },
+    {
+      "id": "PHYS_2012_38",
+      "text": "Which property of a wave is NOT affected when it passes from one medium to another?",
+      "image": "",
+      "options": ["Wavelength", "Speed", "Frequency", "Direction"],
+      "answer": "Frequency",
+      "explanation": "The frequency of a wave is determined by the source creating the wave and remains unchanged when the wave crosses the boundary between two media."
+    },
+    {
+      "id": "PHYS_2012_39",
+      "text": "In the common emitter configuration of a transistor, the input signal is applied between the:",
+      "image": "[Circuit diagram of a common emitter amplifier]",
+      "options": ["Collector and emitter", "Base and collector", "Base and emitter", "Emitter and ground"],
+      "answer": "Base and emitter",
+      "explanation": "In a common emitter configuration, the emitter terminal is common to both the input and output circuits. The input signal is applied across the base-emitter junction."
+    },
+    {
+      "id": "PHYS_2012_40",
+      "text": "The phenomenon of light bending round corners or obstacles is known as:",
+      "image": "[Illustration of wave diffraction around an edge]",
+      "options": ["Refraction", "Interference", "Polarization", "Diffraction"],
+      "answer": "Diffraction",
+      "explanation": "Diffraction is the spreading of waves (like light or sound) as they pass through an opening or around an obstacle."
+    }
+]

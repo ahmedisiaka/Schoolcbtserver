@@ -1,0 +1,522 @@
+[
+    {
+      "id": "BIO_2008_01",
+      "text": "The major chemical substance that provides skeletal support in arthropods is:",
+      "image": "[Diagram of an Insect Exoskeleton]",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Chitin",
+        "Lignin"
+      ],
+      "answer": "Chitin",
+      "explanation": "$\\text{Chitin}$ is a strong, lightweight polysaccharide that forms the hard outer skeleton (exoskeleton) of $\\text{Arthropods}$ like insects, crustaceans, and arachnids."
+    },
+    {
+      "id": "BIO_2008_02",
+      "text": "The site where light energy is converted to chemical energy in plants is the:",
+      "image": "[Diagram of a Chloroplast and Thylakoids]",
+      "options": [
+        "Stroma",
+        "Grana",
+        "Matrix",
+        "Ribosomes"
+      ],
+      "answer": "Grana",
+      "explanation": "The $\\text{Grana}$ (stacks of $\\text{Thylakoids}$) contain $\\text{Chlorophyll}$ and are the location for the $\\text{Light}$-dependent reactions of $\\text{Photosynthesis}$, where light energy is captured and converted to $\\text{ATP}$ and $\\text{NADPH}$ (chemical energy)."
+    },
+    {
+      "id": "BIO_2008_03",
+      "text": "In the process of blood clotting, $\\text{Thrombin}$ acts as an enzyme to convert:",
+      "image": "[Diagram of the Coagulation Cascade]",
+      "options": [
+        "Prothrombin to Thrombin",
+        "Fibrinogen to Fibrin",
+        "Thromboplastin to Prothrombin",
+        "Platelets to Fibrin"
+      ],
+      "answer": "Fibrinogen to Fibrin",
+      "explanation": "$\\text{Thrombin}$ is the active enzyme that catalyzes the crucial final step of the clotting cascade: the conversion of soluble plasma protein $\\text{Fibrinogen}$ into insoluble $\\text{Fibrin}$ threads, which form the meshwork of the clot."
+    },
+    {
+      "id": "BIO_2008_04",
+      "text": "The blood vessel that carries deoxygenated blood from the $\\text{Heart}$ to the $\\text{Lungs}$ is the:",
+      "image": "[Diagram of the human circulatory system]",
+      "options": [
+        "Aorta",
+        "Vena cava",
+        "Pulmonary artery",
+        "Pulmonary vein"
+      ],
+      "answer": "Pulmonary artery",
+      "explanation": "Unlike other arteries, the $\\text{Pulmonary}$ $\\text{Artery}$ carries blood with a low $\\text{Oxygen}$ concentration from the $\\text{Right}$ $\\text{Ventricle}$ of the heart to the lungs for gaseous exchange."
+    },
+    {
+      "id": "BIO_2008_05",
+      "text": "The part of the plant embryo that develops into the root system is the:",
+      "image": "[Diagram of a Seed Structure (e.g., Bean Seed)]",
+      "options": [
+        "Plumule",
+        "Cotyledon",
+        "Epicotyl",
+        "Radicle"
+      ],
+      "answer": "Radicle",
+      "explanation": "The $\\text{Radicle}$ is the embryonic root and is the first part of a $\\text{Seedling}$ to emerge from the seed during $\\text{Germination}$, developing into the primary root."
+    },
+    {
+      "id": "BIO_2008_06",
+      "text": "Which of the following describes the mechanism of $\\text{Osmosis}$?",
+      "image": "[Diagram illustrating Osmosis across a Semi-Permeable Membrane]",
+      "options": [
+        "Movement of solute molecules from a high concentration to a low concentration.",
+        "Movement of water molecules from a region of low solute concentration to a region of high solute concentration.",
+        "Movement of water molecules from a region of high solute concentration to a region of low solute concentration.",
+        "Movement of molecules across a cell membrane using $\\text{ATP}$."
+      ],
+      "answer": "Movement of water molecules from a region of low solute concentration to a region of high solute concentration.",
+      "explanation": "$\\text{Osmosis}$ is the net movement of $\\text{Water}$ molecules across a semi-permeable membrane from an area of high water potential (low solute) to an area of low water potential (high solute)."
+    },
+    {
+      "id": "BIO_2008_07",
+      "text": "Which excretory product is used by reptiles and birds to conserve water?",
+      "image": "",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric $\\text{Acid}$",
+        "Creatinine"
+      ],
+      "answer": "Uric $\\text{Acid}$",
+      "explanation": "$\\text{Uric}$ $\\text{Acid}$ is excreted as a semi-solid paste, requiring minimal water for its elimination, which is a key $\\text{Adaptation}$ for terrestrial life and water conservation in $\\text{Birds}$ and $\\text{Reptiles}$."
+    },
+    {
+      "id": "BIO_2008_08",
+      "text": "The region of cell division in the root tip of a plant is the:",
+      "image": "[Diagram of a Root Tip showing the Meristematic Zone]",
+      "options": [
+        "Root cap",
+        "Zone of elongation",
+        "Zone of cell division",
+        "Zone of maturation"
+      ],
+      "answer": "Zone of cell division",
+      "explanation": "The $\\text{Zone}$ $\\text{of}$ $\\text{Cell}$ $\\text{Division}$ (apical $\\text{Meristem}$) is located just above the $\\text{Root}$ $\\text{Cap}$ and contains actively dividing cells that increase the number of cells for growth."
+    },
+    {
+      "id": "BIO_2008_09",
+      "text": "A feature that distinguishes $\\text{Monocotyledonous}$ plants from $\\text{Dicotyledonous}$ plants is the presence of:",
+      "image": "[Comparison of Monocot and Dicot seed, root, and leaf structures]",
+      "options": [
+        "Pinnate leaf venation",
+        "Flower parts in multiples of three",
+        "Tap root system",
+        "Vascular bundles arranged in a ring"
+      ],
+      "answer": "Flower parts in multiples of three",
+      "explanation": "$\\text{Monocots}$ typically have $\\text{Flower}$ parts (petals, sepals) in multiples of three ($\text{trimerous}$), whereas $\\text{Dicots}$ have flower parts in multiples of four or five ($\text{tetramerous}$ or $\\text{pentamerous}$)."
+    },
+    {
+      "id": "BIO_2008_10",
+      "text": "In a food chain, the energy is transferred from a lower trophic level to a higher trophic level with a loss of approximately:",
+      "image": "[Energy Pyramid showing 10% transfer rule]",
+      "options": [
+        "$10\\%$",
+        "$50\\%$",
+        "$90\\%$",
+        "$100\\%$"
+      ],
+      "answer": "$90\\%$",
+      "explanation": "The $\\text{Ten}$ $\\text{Percent}$ $\\text{Rule}$ in ecology states that only about $\\text{10}\\%$ of the energy from one $\\text{Trophic}$ $\\text{Level}$ is successfully transferred to the next. This implies a $\\text{90}\\%$ loss, primarily as heat, during metabolic processes."
+    },
+    {
+      "id": "BIO_2008_11",
+      "text": "Which hormone stimulates the conversion of $\\text{Glycogen}$ to $\\text{Glucose}$ in the liver?",
+      "image": "[Diagram illustrating the roles of Insulin and Glucagon]",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "answer": "Glucagon",
+      "explanation": "$\\text{Glucagon}$, secreted by the $\\text{Pancreas}$, has an opposite effect to $\\text{Insulin}$. It stimulates $\\text{Glycogenolysis}$ (the breakdown of $\\text{Glycogen}$) in the liver to raise blood $\\text{Glucose}$ levels."
+    },
+    {
+      "id": "BIO_2008_12",
+      "text": "The most appropriate method for estimating the population size of grasshoppers in a large field is the:",
+      "image": "[Diagram illustrating the Mark-Recapture technique]",
+      "options": [
+        "Total count",
+        "Quadrat method",
+        "Line transect",
+        "Mark-Recapture method"
+      ],
+      "answer": "Mark-Recapture method",
+      "explanation": "The $\\text{Mark}$-$\\text{Recapture}$ method is typically used for mobile animals like $\\text{Grasshoppers}$. The $\\text{Quadrat}$ and $\\text{Line}$ $\\text{Transect}$ methods are generally better for stationary organisms (plants) or slow-moving animals."
+    },
+    {
+      "id": "BIO_2008_13",
+      "text": "Which of the following $\\text{Genetic}$ crosses would result in a phenotypic ratio of $1:1$?",
+      "image": "[Punnett square for a Monohybrid Test Cross (Aa x aa)]",
+      "options": [
+        "Homozygous dominant $\\times$ Homozygous dominant",
+        "Homozygous dominant $\\times$ Heterozygous",
+        "Heterozygous $\\times$ Homozygous recessive",
+        "Heterozygous $\\times$ Heterozygous"
+      ],
+      "answer": "Heterozygous $\\times$ Homozygous recessive",
+      "explanation": "A $\\text{Test}$ $\\text{Cross}$ ($\text{Aa} \\times \\text{aa}$) yields offspring with genotypes $\\text{Aa}$ and $\\text{aa}$ in a $\\text{1}:\\text{1}$ ratio. This translates directly to a $\\text{1}:\\text{1}$ phenotypic ratio (e.g., tall:short)."
+    },
+    {
+      "id": "BIO_2008_14",
+      "text": "The process where a caterpillar changes into a butterfly is an example of:",
+      "image": "[Life cycle of a butterfly showing Metamorphosis]",
+      "options": [
+        "Regeneration",
+        "Ecdysis",
+        "Metamorphosis",
+        "Aestivation"
+      ],
+      "answer": "Metamorphosis",
+      "explanation": "$\\text{Metamorphosis}$ is the marked and rapid biological transformation of an animal's body structure through cell growth and differentiation, such as the change from a larva ($\\text{Caterpillar}$) to an adult ($\\text{Butterfly}$). Ecdysis is just the shedding of the exoskeleton."
+    },
+    {
+      "id": "BIO_2008_15",
+      "text": "Which vitamin is essential for blood clotting?",
+      "image": "[Molecular structure of Vitamin K]",
+      "options": [
+        "Vitamin $\\text{A}$",
+        "Vitamin $\\text{C}$",
+        "Vitamin $\\text{D}$",
+        "Vitamin $\\text{K}$"
+      ],
+      "answer": "Vitamin $\\text{K}$",
+      "explanation": "$\\text{Vitamin}$ $\\text{K}$ is a fat-soluble vitamin necessary for the liver to synthesize several $\\text{Plasma}$ $\\text{Clotting}$ factors, including $\\text{Prothrombin}$."
+    },
+    {
+      "id": "BIO_2008_16",
+      "text": "The primary cause of pollution by petroleum and oil in aquatic ecosystems is:",
+      "image": "[Image illustrating an Oil Spill]",
+      "options": [
+        "Eutrophication",
+        "Oil spillage from tankers",
+        "Acid rain",
+        "Thermal pollution"
+      ],
+      "answer": "Oil spillage from tankers",
+      "explanation": "Major pollution events in marine and freshwater environments are often caused by the accidental $\\text{Spillage}$ of crude oil during the $\\text{Transportation}$ or $\\text{Drilling}$ process."
+    },
+    {
+      "id": "BIO_2008_17",
+      "text": "The final product of anaerobic respiration in a mammalian muscle cell is:",
+      "image": "[Chemical equation for Lactic Acid Fermentation]",
+      "options": [
+        "Ethanol",
+        "Carbon dioxide and water",
+        "Lactic $\\text{Acid}$",
+        "Pyruvic $\\text{Acid}$"
+      ],
+      "answer": "Lactic $\\text{Acid}$",
+      "explanation": "During periods of intense activity and $\\text{Oxygen}$ $\\text{Deficit}$, muscle cells convert $\\text{Pyruvate}$ (from $\\text{Glycolysis}$) into $\\text{Lactic}$ $\\text{Acid}$ to quickly regenerate $\\text{NAD}^{+}$ and continue producing a small amount of $\\text{ATP}$."
+    },
+    {
+      "id": "BIO_2008_18",
+      "text": "Which part of the $\\text{Kidney}$ is primarily involved in the filtration of blood?",
+      "image": "[Diagram of a Nephron focusing on the Glomerulus and Bowman's Capsule]",
+      "options": [
+        "Loop of $\\text{Henle}$",
+        "Collecting duct",
+        "Malpighian $\\text{Capsule}$ (Glomerulus and Bowman's Capsule)",
+        "Convoluted tubules"
+      ],
+      "answer": "Malpighian $\\text{Capsule}$ (Glomerulus and Bowman's Capsule)",
+      "explanation": "The $\\text{Glomerulus}$ and $\\text{Bowman's}$ $\\text{Capsule}$ together form the $\\text{Malpighian}$ $\\text{Capsule}$, where $\\text{Blood}$ $\\text{Filtration}$ occurs, forcing small molecules (water, salts, glucose, urea) out of the blood plasma."
+    },
+    {
+      "id": "BIO_2008_19",
+      "text": "An example of a $\\text{Viviparous}$ animal is the:",
+      "image": "",
+      "options": [
+        "Lizard",
+        "Fish",
+        "Goat",
+        "Bird"
+      ],
+      "answer": "Goat",
+      "explanation": "$\\text{Viviparous}$ animals ($\\text{Mammals}$ like $\\text{Goats}$) give $\\text{Birth}$ to live young that have developed within the mother's body, as opposed to laying eggs ($\\text{Oviparous}$) like $\\text{Lizards}$ and $\\text{Birds}$."
+    },
+    {
+      "id": "BIO_2008_20",
+      "text": "The function of the $\\text{Cerebellum}$ in the $\\text{Mammalian}$ $\\text{Brain}$ is the control of:",
+      "image": "[Diagram of the human brain indicating the Cerebellum]",
+      "options": [
+        "Speech and memory",
+        "Balance and muscular coordination",
+        "Heartbeat and breathing",
+        "Temperature regulation"
+      ],
+      "answer": "Balance and muscular coordination",
+      "explanation": "The $\\text{Cerebellum}$ is located at the back of the brain and plays a crucial role in regulating $\\text{Motor}$ $\\text{Movements}$, $\\text{Posture}$, and $\\text{Equilibrium}$ (balance)."
+    },
+    {
+      "id": "BIO_2008_21",
+      "text": "The outermost protective layer of a $\\text{Bacterial}$ cell is the:",
+      "image": "[Diagram of a Bacterial Cell Structure]",
+      "options": [
+        "Cytoplasm",
+        "Cell membrane",
+        "Cell wall",
+        "Capsule or Slime layer"
+      ],
+      "answer": "Capsule or Slime layer",
+      "explanation": "While the $\\text{Cell}$ $\\text{Wall}$ is protective, the $\\text{Capsule}$ or $\\text{Slime}$ $\\text{Layer}$ is the outermost layer of many bacteria, providing additional protection against desiccation and $\\text{Phagocytosis}$."
+    },
+    {
+      "id": "BIO_2008_22",
+      "text": "Which plant hormone is commonly applied to break seed dormancy and promote flowering?",
+      "image": "[Image illustrating the effects of Gibberellins on plant growth]",
+      "options": [
+        "Auxins",
+        "Gibberellins",
+        "Abscisic $\\text{Acid}$",
+        "Ethylene"
+      ],
+      "answer": "Gibberellins",
+      "explanation": "$\\text{Gibberellins}$ promote stem elongation, fruit growth, and are particularly effective at breaking $\\text{Seed}$ $\\text{Dormancy}$ and inducing $\\text{Flowering}$ in some plants."
+    },
+    {
+      "id": "BIO_2008_23",
+      "text": "An instrument used to measure the rate of $\\text{Transpiration}$ in plants is the:",
+      "image": "[Diagram of a Simple Potometer Setup]",
+      "options": [
+        "Anemometer",
+        "Hygrometer",
+        "Potometer",
+        "Barometer"
+      ],
+      "answer": "Potometer",
+      "explanation": "A $\\text{Potometer}$ (or $\\text{Transpirometer}$) measures the rate of $\\text{Water}$ $\\text{Uptake}$ by a plant, which is assumed to be approximately equal to the rate of $\\text{Transpiration}$ (water loss)."
+    },
+    {
+      "id": "BIO_2008_24",
+      "text": "Which of the following is an example of discontinuous variation in humans?",
+      "image": "",
+      "options": [
+        "Height",
+        "Weight",
+        "Blood $\\text{Group}$",
+        "Skin colour"
+      ],
+      "answer": "Blood $\\text{Group}$",
+      "explanation": "$\\text{Discontinuous}$ $\\text{Variation}$ is controlled by one or a few genes, resulting in distinct categories with no intermediates ($\\text{A}$, $\\text{B}$, $\\text{AB}$, or $\\text{O}$). $\\text{Height}$, $\\text{Weight}$, and $\\text{Skin}$ $\\text{Colour}$ are examples of continuous variation."
+    },
+    {
+      "id": "BIO_2008_25",
+      "text": "The mode of feeding in $\\text{Hydra}$ is described as:",
+      "image": "[Diagram of Hydra capturing prey]",
+      "options": [
+        "Saprophytic",
+        "Parasitic",
+        "Filter feeding",
+        "Holozoic"
+      ],
+      "answer": "Holozoic",
+      "explanation": "$\\text{Hydra}$ captures solid food ($\text{Plankton}$ or small invertebrates) with its $\\text{Tentacles}$ and digests it internally in its $\\text{Gastrovascular}$ $\\text{Cavity}$, which defines $\\text{Holozoic}$ nutrition."
+    },
+    {
+      "id": "BIO_2008_26",
+      "text": "A population is defined as a group of organisms of the same $\\text{Species}$ living in:",
+      "image": "[Image illustrating a population of a single species in a defined area]",
+      "options": [
+        "Different habitats at the same time",
+        "The same habitat at different times",
+        "The same habitat at the same time",
+        "Different continents at the same time"
+      ],
+      "answer": "The same habitat at the same time",
+      "explanation": "The definition of a $\\text{Population}$ in ecology requires members of the $\\text{Same}$ $\\text{Species}$ occupying the $\\text{Same}$ geographic area during the $\\text{Same}$ time period."
+    },
+    {
+      "id": "BIO_2008_27",
+      "text": "The structures responsible for detecting the direction of gravity in a plant root are the:",
+      "image": "[Microscopic view of Root Cap cells showing Statoliths/Amyloplasts]",
+      "options": [
+        "Chloroplasts",
+        "Nuclei",
+        "Statoliths (Amyloplasts)",
+        "Mitochondria"
+      ],
+      "answer": "Statoliths (Amyloplasts)",
+      "explanation": "$\\text{Statoliths}$ (dense starch grains called $\\text{Amyloplasts}$ in plants) settle at the bottom of root cap cells, providing a gravity-sensing mechanism for $\\text{Geotropism}$ (Gravitropism)."
+    },
+    {
+      "id": "BIO_2008_28",
+      "text": "Which part of the $\\text{Human}$ $\\text{Digestive}$ system is mainly involved in the absorption of water, mineral salts, and vitamins?",
+      "image": "[Diagram of the Large Intestine]",
+      "options": [
+        "Stomach",
+        "Small $\\text{Intestine}$",
+        "Large $\\text{Intestine}$",
+        "Oesophagus"
+      ],
+      "answer": "Large $\\text{Intestine}$",
+      "explanation": "While most digested nutrients are absorbed in the $\\text{Small}$ $\\text{Intestine}$, the primary function of the $\\text{Large}$ $\\text{Intestine}$ is the final absorption of $\\text{Water}$, $\\text{Salts}$, and some $\\text{Vitamins}$ produced by gut bacteria."
+    },
+    {
+      "id": "BIO_2008_29",
+      "text": "The cell organelle that modifies, sorts, and packages proteins and lipids is the:",
+      "image": "[Diagram of the Golgi Apparatus/Complex]",
+      "options": [
+        "Endoplasmic $\\text{Reticulum}$",
+        "Golgi $\\text{Complex}$",
+        "Lysosome",
+        "Centriole"
+      ],
+      "answer": "Golgi $\\text{Complex}$",
+      "explanation": "The $\\text{Golgi}$ $\\text{Complex}$ (or $\\text{Apparatus}$) receives materials from the $\\text{ER}$, processes them, and packages them into $\\text{Vesicles}$ for secretion or delivery to other cell parts."
+    },
+    {
+      "id": "BIO_2008_30",
+      "text": "Which of the following is a density-independent factor affecting a population?",
+      "image": "",
+      "options": [
+        "Competition for food",
+        "Spread of disease",
+        "Predation",
+        "Severe weather condition"
+      ],
+      "answer": "Severe weather condition",
+      "explanation": "$\\text{Density}$-independent factors ($\text{Weather}$, $\\text{Floods}$, $\\text{Wildfires}$) affect a population regardless of its $\\text{Size}$ or $\\text{Density}$. $\\text{Competition}$, $\\text{Disease}$, and $\\text{Predation}$ are density-dependent."
+    },
+    {
+      "id": "BIO_2008_31",
+      "text": "The $\\text{Genotype}$ of an individual with blood group $\\text{O}$ is:",
+      "image": "[Punnett square for Blood Group (ABO) inheritance]",
+      "options": [
+        "$$\\text{I}^A\\text{I}^A$$",
+        "$$\\text{I}^A\\text{I}^B$$",
+        "$$\\text{I}^O\\text{I}^O$$",
+        "$$\\text{I}^A\\text{I}^O$$"
+      ],
+      "answer": "$$\\text{I}^O\\text{I}^O$$",
+      "explanation": "The allele for $\\text{Blood}$ $\\text{Group}$ $\\text{O}$ ($\text{I}^O$) is $\\text{Recessive}$. Therefore, it is only expressed (phenotypically $\\text{O}$) when the individual is $\\text{Homozygous}$ for the recessive allele ($$\\text{I}^O\\text{I}^O$$)."
+    },
+    {
+      "id": "BIO_2008_32",
+      "text": "The waste product of photosynthesis that is released into the atmosphere is:",
+      "image": "[Chemical equation for Photosynthesis]",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Oxygen",
+        "Glucose"
+      ],
+      "answer": "Oxygen",
+      "explanation": "In $\\text{Photosynthesis}$, $\\text{Carbon}$ $\\text{Dioxide}$ and $\\text{Water}$ are used to produce $\\text{Glucose}$ and $\\text{Oxygen}$. $\\text{Oxygen}$ ($\\text{O}_2$) is released as a byproduct."
+    },
+    {
+      "id": "BIO_2008_33",
+      "text": "The function of the $\\text{Myelin}$ $\\text{Sheath}$ around the $\\text{Axon}$ of a nerve cell is to:",
+      "image": "[Diagram of a Myelinated Neuron]",
+      "options": [
+        "Generate nerve impulses",
+        "Increase the speed of impulse transmission",
+        "Protect the cell body",
+        "Form synapses with other neurons"
+      ],
+      "answer": "Increase the speed of impulse transmission",
+      "explanation": "The $\\text{Myelin}$ $\\text{Sheath}$ acts as an electrical insulator, allowing the nerve impulse to 'jump' from one $\\text{Node}$ $\\text{of}$ $\\text{Ranvier}$ to the next ($\text{Saltatory}$ $\\text{Conduction}$), significantly $\\text{Increasing}$ the $\\text{Conduction}$ $\\text{Speed}$."
+    },
+    {
+      "id": "BIO_2008_34",
+      "text": "An organism that produces its food using energy derived from the oxidation of inorganic chemical compounds is called a:",
+      "image": "[Diagram illustrating Chemosynthesis in deep-sea vents]",
+      "options": [
+        "Photoautotroph",
+        "Chemoautotroph",
+        "Heterotroph",
+        "Saprophyte"
+      ],
+      "answer": "Chemoautotroph",
+      "explanation": "$\\text{Chemoautotrophs}$ (like certain bacteria) use the energy released from $\\text{Chemical}$ $\\text{Reactions}$ involving inorganic substances (e.g., $\\text{Sulphur}$ or $\\text{Nitrogen}$ compounds) to synthesize organic food, unlike $\\text{Photoautotrophs}$ (plants) which use $\\text{Light}$."
+    },
+    {
+      "id": "BIO_2008_35",
+      "text": "The simplest and most primitive form of $\\text{Innate}$ behaviour is the:",
+      "image": "",
+      "options": [
+        "Trial and error learning",
+        "Conditioned reflex",
+        "Reflex $\\text{Action}$",
+        "Imprinting"
+      ],
+      "answer": "Reflex $\\text{Action}$",
+      "explanation": "A $\\text{Reflex}$ $\\text{Action}$ is an involuntary, rapid, and predictable response to a stimulus, requiring no previous experience or learning, making it the most basic form of $\\text{Innate}$ $\\text{Behaviour}$."
+    },
+    {
+      "id": "BIO_2008_36",
+      "text": "Which part of the flower attracts insects for pollination?",
+      "image": "[Diagram of a flower showing the Petals]",
+      "options": [
+        "Sepals",
+        "Stamen",
+        "Carpel",
+        "Petals"
+      ],
+      "answer": "Petals",
+      "explanation": "$\\text{Petals}$ are often brightly $\\text{Coloured}$ or large and may possess $\\text{Nectar}$ $\\text{Guides}$ to visually and chemically attract $\\text{Pollinating}$ $\\text{Insects}$."
+    },
+    {
+      "id": "BIO_2008_37",
+      "text": "The $\\text{Epidermis}$ of a plant leaf is covered by a waxy layer called the:",
+      "image": "[Cross-section of a leaf showing the Cuticle]",
+      "options": [
+        "Pith",
+        "Cork",
+        "Cuticle",
+        "Vascular bundle"
+      ],
+      "answer": "Cuticle",
+      "explanation": "The $\\text{Cuticle}$ is a protective, water-resistant layer covering the $\\text{Epidermis}$ of the leaf, whose primary function is to reduce $\\text{Water}$ $\\text{Loss}$ through $\\text{Transpiration}$."
+    },
+    {
+      "id": "BIO_2008_38",
+      "text": "A key difference between a plant cell and an animal cell is the presence of a:",
+      "image": "[Comparison diagram of Plant and Animal Cells]",
+      "options": [
+        "Nucleus",
+        "Cytoplasm",
+        "Cell $\\text{Wall}$",
+        "Mitochondrion"
+      ],
+      "answer": "Cell $\\text{Wall}$",
+      "explanation": "$\\text{Plant}$ $\\text{Cells}$ possess a rigid $\\text{Cell}$ $\\text{Wall}$ made primarily of $\\text{Cellulose}$ located outside the cell membrane, which is absent in $\\text{Animal}$ $\\text{Cells}$."
+    },
+    {
+      "id": "BIO_2008_39",
+      "text": "In a food web, snakes that feed on rats which in turn feed on grass seeds are classified as:",
+      "image": "[Simple Food Web Diagram (Grass -> Rat -> Snake)]",
+      "options": [
+        "Primary consumers",
+        "Producers",
+        "Secondary consumers",
+        "Tertiary consumers"
+      ],
+      "answer": "Tertiary consumers",
+      "explanation": "The $\\text{Grass}$ $\\text{Seed}$ is the $\\text{Producer}$. The $\\text{Rat}$ is the $\\text{Primary}$ $\\text{Consumer}$. The $\\text{Snake}$ (feeding on the rat) is the $\\text{Secondary}$ $\\text{Consumer}$. Since the question implies a chain where the snake feeds on the rat, which feeds on the seed, the snake is the $\\text{Tertiary}$ $\\text{Consumer}$ (level 4 in the pyramid)."
+    },
+    {
+      "id": "BIO_2008_40",
+      "text": "The condition caused by a lack of $\\text{Iodine}$ in the diet, leading to the enlargement of the $\\text{Thyroid}$ gland, is:",
+      "image": "[Image illustrating a person with Goitre]",
+      "options": [
+        "Diabetes",
+        "Goitre",
+        "Rickets",
+        "Anaemia"
+      ],
+      "answer": "Goitre",
+      "explanation": "$\\text{Goitre}$ is the pathological enlargement of the $\\text{Thyroid}$ $\\text{Gland}$, often caused by a deficiency of $\\text{Iodine}$ which is necessary for the synthesis of $\\text{Thyroid}$ hormones."
+    }
+  ]

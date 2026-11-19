@@ -1,0 +1,12 @@
+{
+  "name": "schoolcbtserver-deployment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel entry points for the LIMLO Schools server API.",
+  "engines": {
+    "node": "26.x"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.5.1"
+  }
+}

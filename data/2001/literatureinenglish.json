@@ -1,0 +1,522 @@
+[
+    {
+        "id": "L2401",
+        "text": "In Alex Agyei-Agyiri's $\\textbf{Unexpected Joy at Dawn}$, Nii Tackie's journey to Nigeria is motivated by the hostile political climate in $\\textbf{Ghana}$ and his desire to claim his citizenship.",
+        "image": "",
+        "options": [
+            "Togo",
+            "Ghana",
+            "Benin",
+            "Liberia"
+        ],
+        "answer": "Ghana",
+        "explanation": "The Aliens Compliance Order in Ghana forces him to seek safety in Nigeria."
+    },
+    {
+        "id": "L2402",
+        "text": "The literary device in the phrase 'The $\\textbf{shadows}$ danced on the wall' is $\\textbf{Personification}$.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Hyperbole"
+        ],
+        "answer": "Personification",
+        "explanation": "Giving shadows the human ability to dance."
+    },
+    {
+        "id": "L2403",
+        "text": "In Buchi Emecheta's $\\textbf{Second Class Citizen}$, Adah's husband $\\textbf{Francis}$ burns her manuscript because he believes her writing will make her feel $\\textbf{Superior}$ to him.",
+        "image": "",
+        "options": [
+            "Inferior",
+            "Superior",
+            "Happy",
+            "Sad"
+        ],
+        "answer": "Superior",
+        "explanation": "He is threatened by her potential success and independence."
+    },
+    {
+        "id": "L2404",
+        "text": "The poem '$\\textbf{The Panic of Growing Older}$' depicts the loss of $\\textbf{Hope}$ as one ages, replaced by the mundane reality of survival.",
+        "image": "",
+        "options": [
+            "Fear",
+            "Hope",
+            "Pain",
+            "Love"
+        ],
+        "answer": "Hope",
+        "explanation": "The 'copybook' of life fills up, leaving little room for the hopes of youth."
+    },
+    {
+        "id": "L2405",
+        "text": "In August Wilson's $\\textbf{Fences}$, $\\textbf{Troy}$ admits to Rose that he has been 'standing in the same spot for eighteen years', feeling $\\textbf{Stuck}$ in his life.",
+        "image": "",
+        "options": [
+            "Happy",
+            "Stuck",
+            "Free",
+            "Rich"
+        ],
+        "answer": "Stuck",
+        "explanation": "He uses this to justify his affair, claiming he needed to feel something different."
+    },
+    {
+        "id": "L2406",
+        "text": "A poem that is meant to be sung and tells a story, often with a tragic ending, is a $\\textbf{Ballad}$.",
+        "image": "",
+        "options": [
+            "Sonnet",
+            "Ballad",
+            "Ode",
+            "Haiku"
+        ],
+        "answer": "Ballad",
+        "explanation": "Ballads often have a musical rhythm and refrain."
+    },
+    {
+        "id": "L2407",
+        "text": "In John Osborne's $\\textbf{Look Back in Anger}$, Jimmy Porter's anger is partly driven by his father's death, which taught him about $\\textbf{Suffering}$ while his mother ignored it.",
+        "image": "",
+        "options": [
+            "Joy",
+            "Suffering",
+            "Wealth",
+            "Power"
+        ],
+        "answer": "Suffering",
+        "explanation": "He claims to be the only one who cares about 'living' and feeling."
+    },
+    {
+        "id": "L2408",
+        "text": "In Wole Soyinka's $\\textbf{The Lion and the Jewel}$, $\\textbf{Sidi}$ is initially attracted to the 'Stranger' from the city because of his $\\textbf{Camera}$ (or magazine).",
+        "image": "",
+        "options": [
+            "Car",
+            "Camera",
+            "Money",
+            "Clothes"
+        ],
+        "answer": "Camera",
+        "explanation": "The photos appeal to her vanity."
+    },
+    {
+        "id": "L2409",
+        "text": "The feeling of anxiety created by a work of literature about the outcome of events is $\\textbf{Suspense}$.",
+        "image": "",
+        "options": [
+            "Theme",
+            "Suspense",
+            "Plot",
+            "Setting"
+        ],
+        "answer": "Suspense",
+        "explanation": "It keeps the reader engaged."
+    },
+    {
+        "id": "L2410",
+        "text": "In $\\textbf{Invisible Man}$, the narrator receives a scholarship to a Negro college, which he later discovers is a place of $\\textbf{Indoctrination}$ rather than true education.",
+        "image": "",
+        "options": [
+            "Freedom",
+            "Indoctrination",
+            "Wealth",
+            "Power"
+        ],
+        "answer": "Indoctrination",
+        "explanation": "The college creates subservient leaders."
+    },
+    {
+        "id": "L2411",
+        "text": "The poem '$\\textbf{Piano and Drums}$' uses the $\\textbf{Drums}$ to represent the $\\textbf{Urgency}$ and vigor of African youth.",
+        "image": "",
+        "options": [
+            "Piano",
+            "Drums",
+            "Violin",
+            "Flute"
+        ],
+        "answer": "Drums",
+        "explanation": "They speak of 'primal youth' and 'beginning'."
+    },
+    {
+        "id": "L2412",
+        "text": "In $\\textbf{Wuthering Heights}$, Heathcliff's desire for revenge destroys the lives of the $\\textbf{Earnshaw}$ and $\\textbf{Linton}$ families.",
+        "image": "",
+        "options": [
+            "Smith and Jones",
+            "Earnshaw and Linton",
+            "Miller and Baker",
+            "Green and White"
+        ],
+        "answer": "Earnshaw and Linton",
+        "explanation": "His vendetta spans two generations."
+    },
+    {
+        "id": "L2413",
+        "text": "A comparison using 'is' or 'are' to state that one thing is another is a $\\textbf{Metaphor}$.",
+        "image": "",
+        "options": [
+            "Simile",
+            "Metaphor",
+            "Symbol",
+            "Irony"
+        ],
+        "answer": "Metaphor",
+        "explanation": "Example: 'He is a lion'."
+    },
+    {
+        "id": "L2414",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah finds liberation through $\\textbf{Writing}$, creating a book called 'The Bride Price'.",
+        "image": "",
+        "options": [
+            "Cooking",
+            "Writing",
+            "Dancing",
+            "Singing"
+        ],
+        "answer": "Writing",
+        "explanation": "It allows her to express her true self."
+    },
+    {
+        "id": "L2415",
+        "text": "The use of words to convey a meaning opposite to the literal one is $\\textbf{Irony}$.",
+        "image": "",
+        "options": [
+            "Symbolism",
+            "Irony",
+            "Imagery",
+            "Tone"
+        ],
+        "answer": "Irony",
+        "explanation": "Verbal irony."
+    },
+    {
+        "id": "L2416",
+        "text": "In $\\textbf{Fences}$, the character $\\textbf{Gabriel}$ carries a $\\textbf{Trumpet}$ to signal the opening of heaven's gates.",
+        "image": "",
+        "options": [
+            "Drum",
+            "Trumpet",
+            "Guitar",
+            "Bell"
+        ],
+        "answer": "Trumpet",
+        "explanation": "He has no mouthpiece but tries to blow it anyway."
+    },
+    {
+        "id": "L2417",
+        "text": "The main character who drives the story's action is the $\\textbf{Protagonist}$.",
+        "image": "",
+        "options": [
+            "Antagonist",
+            "Protagonist",
+            "Foil",
+            "Narrator"
+        ],
+        "answer": "Protagonist",
+        "explanation": "The central figure."
+    },
+    {
+        "id": "L2418",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, $\\textbf{Mama Orojo}$ returns to Ghana to find her brother $\\textbf{Nii Tackie}$.",
+        "image": "",
+        "options": [
+            "Husband",
+            "Brother",
+            "Son",
+            "Father"
+        ],
+        "answer": "Brother",
+        "explanation": "The sibling bond is the core of the novel."
+    },
+    {
+        "id": "L2419",
+        "text": "The historical and social context of a story is its $\\textbf{Setting}$.",
+        "image": "",
+        "options": [
+            "Plot",
+            "Setting",
+            "Theme",
+            "Mood"
+        ],
+        "answer": "Setting",
+        "explanation": "Includes time and place."
+    },
+    {
+        "id": "L2420",
+        "text": "The poem '$\\textbf{The School Boy}$' criticizes the constraints of $\\textbf{Formal Education}$ on a child's spirit.",
+        "image": "",
+        "options": [
+            "Nature",
+            "Formal Education",
+            "Religion",
+            "Work"
+        ],
+        "answer": "Formal Education",
+        "explanation": "It 'drives all joy away'."
+    },
+    {
+        "id": "L2421",
+        "text": "In $\\textbf{Look Back in Anger}$, Jimmy Porter feels trapped in a $\\textbf{Sunday}$ routine of reading papers and boredom.",
+        "image": "",
+        "options": [
+            "Monday",
+            "Sunday",
+            "Friday",
+            "Saturday"
+        ],
+        "answer": "Sunday",
+        "explanation": "Sunday afternoons represent the stagnation of British life."
+    },
+    {
+        "id": "L2422",
+        "text": "A figure of speech where a part represents the whole is $\\textbf{Synecdoche}$.",
+        "image": "",
+        "options": [
+            "Metonymy",
+            "Synecdoche",
+            "Metaphor",
+            "Simile"
+        ],
+        "answer": "Synecdoche",
+        "explanation": "Example: 'Hired hands'."
+    },
+    {
+        "id": "L2423",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah realizes she is treated as a 'second class' human because of her $\\textbf{Race}$ and gender.",
+        "image": "",
+        "options": [
+            "Education",
+            "Race",
+            "Height",
+            "Weight"
+        ],
+        "answer": "Race",
+        "explanation": "The title refers to this social standing."
+    },
+    {
+        "id": "L2424",
+        "text": "The repetition of consonant sounds at the start of words is $\\textbf{Alliteration}$.",
+        "image": "",
+        "options": [
+            "Assonance",
+            "Alliteration",
+            "Rhyme",
+            "Rhythm"
+        ],
+        "answer": "Alliteration",
+        "explanation": "Example: 'Big bad wolf'."
+    },
+    {
+        "id": "L2425",
+        "text": "In $\\textbf{Invisible Man}$, the narrator is haunted by his grandfather's advice to 'overcome 'em with $\\textbf{Yeses}$'.",
+        "image": "",
+        "options": [
+            "No's",
+            "Yeses",
+            "Lies",
+            "Truths"
+        ],
+        "answer": "Yeses",
+        "explanation": "Subversive compliance."
+    },
+    {
+        "id": "L2426",
+        "text": "A literary work that uses humor to correct social wrongs is $\\textbf{Satire}$.",
+        "image": "",
+        "options": [
+            "Tragedy",
+            "Satire",
+            "Romance",
+            "Epic"
+        ],
+        "answer": "Satire",
+        "explanation": "Social criticism through wit."
+    },
+    {
+        "id": "L2427",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, Nii Tackie is an '$\\textbf{Alien}$' in Ghana due to his Nigerian heritage.",
+        "image": "",
+        "options": [
+            "Native",
+            "Alien",
+            "Tourist",
+            "Leader"
+        ],
+        "answer": "Alien",
+        "explanation": "He is targeted for expulsion."
+    },
+    {
+        "id": "L2428",
+        "text": "Unrhymed iambic pentameter is $\\textbf{Blank Verse}$.",
+        "image": "",
+        "options": [
+            "Free Verse",
+            "Blank Verse",
+            "Haiku",
+            "Sonnet"
+        ],
+        "answer": "Blank Verse",
+        "explanation": "Common in drama."
+    },
+    {
+        "id": "L2429",
+        "text": "In $\\textbf{The Lion and the Jewel}$, $\\textbf{Lakunle}$ opposes the payment of the $\\textbf{Bride Price}$.",
+        "image": "",
+        "options": [
+            "Tax",
+            "Bride Price",
+            "Rent",
+            "Fine"
+        ],
+        "answer": "Bride Price",
+        "explanation": "He calls it a barbaric custom."
+    },
+    {
+        "id": "L2430",
+        "text": "The central idea of a work is its $\\textbf{Theme}$.",
+        "image": "",
+        "options": [
+            "Plot",
+            "Theme",
+            "Setting",
+            "Mood"
+        ],
+        "answer": "Theme",
+        "explanation": "The underlying message."
+    },
+    {
+        "id": "L2431",
+        "text": "In $\\textbf{Wuthering Heights}$, the narrator $\\textbf{Lockwood}$ rents Thrushcross Grange.",
+        "image": "",
+        "options": [
+            "Heathcliff",
+            "Lockwood",
+            "Nelly",
+            "Joseph"
+        ],
+        "answer": "Lockwood",
+        "explanation": "He frames the narrative."
+    },
+    {
+        "id": "L2432",
+        "text": "Attributing human emotions to nature is $\\textbf{Pathetic Fallacy}$.",
+        "image": "",
+        "options": [
+            "Personification",
+            "Pathetic Fallacy",
+            "Metaphor",
+            "Simile"
+        ],
+        "answer": "Pathetic Fallacy",
+        "explanation": "Nature mirroring mood."
+    },
+    {
+        "id": "L2433",
+        "text": "In $\\textbf{Second Class Citizen}$, Adah finds work at the $\\textbf{Consulate}$ library in Nigeria before leaving.",
+        "image": "",
+        "options": [
+            "British",
+            "American",
+            "French",
+            "German"
+        ],
+        "answer": "American",
+        "explanation": "It pays well and helps her save money."
+    },
+    {
+        "id": "L2434",
+        "text": "Irony where the audience knows more than the characters is $\\textbf{Dramatic Irony}$.",
+        "image": "",
+        "options": [
+            "Verbal Irony",
+            "Dramatic Irony",
+            "Situational Irony",
+            "Cosmic Irony"
+        ],
+        "answer": "Dramatic Irony",
+        "explanation": "Creates suspense."
+    },
+    {
+        "id": "L2435",
+        "text": "In $\\textbf{Look Back in Anger}$, Alison's father is a $\\textbf{Colonel}$.",
+        "image": "",
+        "options": [
+            "General",
+            "Colonel",
+            "Major",
+            "Captain"
+        ],
+        "answer": "Colonel",
+        "explanation": "Symbol of the old order."
+    },
+    {
+        "id": "L2436",
+        "text": "A reference to a well-known person or event is an $\\textbf{Allusion}$.",
+        "image": "",
+        "options": [
+            "Illusion",
+            "Allusion",
+            "Allegory",
+            "Metaphor"
+        ],
+        "answer": "Allusion",
+        "explanation": "Enriches the text."
+    },
+    {
+        "id": "L2437",
+        "text": "In $\\textbf{Unexpected Joy at Dawn}$, the novel deals with the $\\textbf{Migration}$ crisis in West Africa.",
+        "image": "",
+        "options": [
+            "Migration",
+            "Farming",
+            "Mining",
+            "Fishing"
+        ],
+        "answer": "Migration",
+        "explanation": "People moving between Ghana and Nigeria."
+    },
+    {
+        "id": "L2438",
+        "text": "The poem '$\\textbf{Crossing the Bar}$' metaphorically describes $\\textbf{Death}$.",
+        "image": "",
+        "options": [
+            "Life",
+            "Death",
+            "Sleep",
+            "Travel"
+        ],
+        "answer": "Death",
+        "explanation": "Crossing into the afterlife."
+    },
+    {
+        "id": "L2439",
+        "text": "In $\\textbf{Fences}$, Rose takes in Troy's daughter $\\textbf{Raynell}$.",
+        "image": "",
+        "options": [
+            "Cory",
+            "Raynell",
+            "Lyons",
+            "Gabriel"
+        ],
+        "answer": "Raynell",
+        "explanation": "The innocent child of his affair."
+    },
+    {
+        "id": "L2440",
+        "text": "A 14-line poem with a set rhyme scheme is a $\\textbf{Sonnet}$.",
+        "image": "",
+        "options": [
+            "Ballad",
+            "Sonnet",
+            "Ode",
+            "Haiku"
+        ],
+        "answer": "Sonnet",
+        "explanation": "Standard poetic form."
+    }
+]

@@ -1,0 +1,523 @@
+[
+    {
+        "id": "E3001",
+        "text": "The major fiscal response enacted in February 2009, totaling $787 billion in tax cuts, spending, and federal contracts, was the $\\textbf{American}$ $\\textbf{Recovery}$ $\\textbf{and}$ $\\textbf{Reinvestment}$ $\\textbf{Act}$ ($\\textbf{ARRA}$).",
+        "image": "",
+        "options": [
+            "Troubled Asset Relief Program (TARP)",
+            "American Recovery and Reinvestment Act (ARRA)",
+            "Emergency Economic Stabilization Act (EESA)",
+            "Dodd-Frank Act"
+        ],
+        "answer": "American Recovery and Reinvestment Act (ARRA)",
+        "explanation": "ARRA was the primary fiscal stimulus package intended to jumpstart aggregate demand and create jobs, following the financial bailouts of 2008."
+    },
+    {
+        "id": "E3002",
+        "text": "The U.S. stock market (S&P 500) reached its $\\textbf{Great}$ $\\textbf{Recession}$ $\\textbf{trough}$ on **March 9, 2009**, marking the transition from market panic to a long bull run.",
+        "image": "",
+        "options": [
+            "September 15, 2008",
+            "March 9, 2009",
+            "June 30, 2009",
+            "December 31, 2009"
+        ],
+        "answer": "March 9, 2009",
+        "explanation": "This date is widely regarded as the lowest point of the stock market during the crisis, followed by a sustained recovery in equity prices."
+    },
+    {
+        "id": "E3003",
+        "text": "The $\\textbf{National}$ $\\textbf{Bureau}$ $\\textbf{of}$ $\\textbf{Economic}$ $\textbf{Research}$ ($\\textbf{NBER}$) officially determined that the $\\textbf{Great}$ $\\textbf{Recession}$ **ended** in which month of 2009?",
+        "image": "",
+        "options": [
+            "March 2009 (Stock Market Bottom)",
+            "June 2009",
+            "October 2009 (Unemployment Peak)",
+            "December 2009"
+        ],
+        "answer": "June 2009",
+        "explanation": "While employment continued to fall, the NBER judges the end of a recession based on the trough of real GDP, which occurred in June 2009."
+    },
+    {
+        "id": "E3004",
+        "text": "The U.S. $\\textbf{Unemployment}$ $\\textbf{Rate}$ peaked in $\\textbf{October}$ $\\textbf{2009}$ at approximately what percentage, the highest since the early 1980s?",
+        "image": "",
+        "options": [
+            "7.8%",
+            "9.1%",
+            "10.0%",
+            "12.5%"
+        ],
+        "answer": "10.0%",
+        "explanation": "Job losses lag economic recovery, so the unemployment rate peaked months after the recession officially ended."
+    },
+    {
+        "id": "E3005",
+        "text": "Both General Motors ($\textbf{GM}$) and Chrysler filed for $\\textbf{Chapter}$ $\\textbf{11}$ $\\textbf{bankruptcy}$ in 2009, with the U.S. government taking a majority stake in GM to facilitate a managed restructuring.",
+        "image": "",
+        "options": [
+            "Ford and Tesla",
+            "GM and Toyota",
+            "GM and Chrysler",
+            "Boeing and Airbus"
+        ],
+        "answer": "GM and Chrysler",
+        "explanation": "The auto industry required a massive government-led restructuring to shed debt and legacy costs, allowing the two firms to emerge as solvent entities."
+    },
+    {
+        "id": "E3006",
+        "text": "Which component accounted for the $\\textbf{largest}$ share of the initial $787 billion allocated under the $\\textbf{ARRA}$ stimulus package?",
+        "image": "",
+        "options": [
+            "Infrastructure spending",
+            "Tax cuts for individuals and businesses",
+            "Aid to state and local governments (education, Medicaid)",
+            "Direct bank recapitalization"
+        ],
+        "answer": "Aid to state and local governments (education, Medicaid)",
+        "explanation": "Aid to state and local governments and social safety net expansions accounted for the largest share of the package, preventing mass layoffs of teachers, police, and other public servants."
+    },
+    {
+        "id": "E3007",
+        "text": "The government conducted $\\textbf{Stress}$ $\\textbf{Tests}$ on major financial institutions in 2009. The primary purpose of these tests was to assess their ability to withstand:",
+        "image": "",
+        "options": [
+            "A sudden rise in inflation",
+            "A further steep economic downturn (loss-absorbing capacity)",
+            "A foreign exchange crisis",
+            "Increased competition from technology firms"
+        ],
+        "answer": "A further steep economic downturn (loss-absorbing capacity)",
+        "explanation": "The tests restored confidence by forcing banks to disclose potential losses and raise new capital if they were deemed undercapitalized."
+    },
+    {
+        "id": "E3008",
+        "text": "The economic recovery that began in the second half of 2009 was often labeled a $\\textbf{Jobless}$ $\textbf{Recovery}$ because:",
+        "image": "",
+        "options": [
+            "The stock market was not recovering",
+            "GDP was recovering, but employment was not growing at a matching pace",
+            "Inflation was too high",
+            "Interest rates were still at zero"
+        ],
+        "answer": "GDP was recovering, but employment was not growing at a matching pace",
+        "explanation": "The economy created little net new employment in the immediate aftermath of the recession, as firms maximized efficiency and hesitated to hire."
+    },
+    {
+        "id": "E3009",
+        "text": "The $\\textbf{Term}$ $\\textbf{Auction}$ $\\textbf{Facility}$ ($\\textbf{TAF}$), a Fed program to inject short-term liquidity, was $\\textbf{phased}$ $\\textbf{out}$ in 2009. This move signaled:",
+        "image": "",
+        "options": [
+            "Higher inflation risk",
+            "Return of confidence and stabilization in interbank lending",
+            "The end of TARP",
+            "The start of negative interest rates"
+        ],
+        "answer": "Return of confidence and stabilization in interbank lending",
+        "explanation": "The reduction of emergency facilities like the TAF showed that private banks were once again willing to lend to each other, reducing reliance on the Fed."
+    },
+    {
+        "id": "E3010",
+        "text": "The ARRA included significant investment in $\\textbf{infrastructure}$ $\\textbf{projects}$. These projects were controversially required to be $\\textbf{'shovel-ready}$ $\\textbf{to}$ $\\textbf{be}$ $\\textbf{effective}$ $\\textbf{stimulus}$, meaning they could:",
+        "image": "",
+        "options": [
+            "Be paid for entirely by state governments",
+            "Start quickly without lengthy planning or regulatory delays",
+            "Be completed in less than 3 months",
+            "Use only local materials"
+        ],
+        "answer": "Start quickly without lengthy planning or regulatory delays",
+        "explanation": "The goal of stimulus is speed, so projects that could begin immediately and inject cash into the economy were prioritized, often at the expense of large, complex, long-term investments."
+    },
+    {
+        "id": "E3011",
+        "text": "Starting in 2009, several major banks began $\\textbf{repaying}$ $\\textbf{TARP}$ funds early. This action was primarily driven by their desire to escape:",
+        "image": "",
+        "options": [
+            "Higher interest rates",
+            "Government oversight and restrictions on executive compensation",
+            "Foreign investment limits",
+            "Environmental regulations"
+        ],
+        "answer": "Government oversight and restrictions on executive compensation",
+        "explanation": "TARP money came with strict oversight, including limits on executive pay. Banks repaid the funds to get out from under these restrictions."
+    },
+    {
+        "id": "E3012",
+        "text": "The $\\textbf{Home}$ $\\textbf{Affordable}$ $\\textbf{Modification}$ $\\textbf{Program}$ ($\textbf{HAMP}$), launched in 2009, was designed to help struggling homeowners by:",
+        "image": "",
+        "options": [
+            "Giving them free homes",
+            "Bailing out mortgage companies",
+            "Reducing monthly mortgage payments to prevent foreclosure",
+            "Increasing the interest rate on subprime loans"
+        ],
+        "answer": "Reducing monthly mortgage payments to prevent foreclosure",
+        "explanation": "HAMP provided incentives to mortgage servicers to modify loan terms, often lowering interest rates or extending loan terms, to keep homeowners in their houses."
+    },
+    {
+        "id": "E3013",
+        "text": "The recession of 2009 was characterized as a $\\textbf{synchronized}$ $\\textbf{global}$ $\\textbf{recession}$ because:",
+        "image": "",
+        "options": [
+            "Only the U.S. and China were affected",
+            "The U.K. was the only nation spared",
+            "Almost all major advanced and developing economies contracted simultaneously",
+            "Only the Eurozone contracted"
+        ],
+        "answer": "Almost all major advanced and developing economies contracted simultaneously",
+        "explanation": "The intertwined nature of the global financial system and a universal collapse in trade and investment led to a deep and synchronized downturn across most major economies."
+    },
+    {
+        "id": "E3014",
+        "text": "As the stock market recovered in 2009, which economic measure suggested that investor risk appetite was $\\textbf{returning}$ to the market?",
+        "image": "",
+        "options": [
+            "The price of gold decreased",
+            "The VIX (fear gauge) declined steadily",
+            "Treasury yields continued to fall",
+            "The dollar weakened significantly"
+        ],
+        "answer": "The VIX (fear gauge) declined steadily",
+        "explanation": "The VIX index, which measures expected stock market volatility, dropped sharply from its 2008 highs, reflecting reduced market fear and uncertainty."
+    },
+    {
+        "id": "E3015",
+        "text": "In 2009, the Federal Reserve began purchasing $\\textbf{Long-term}$ $\\textbf{Treasury}$ $\\textbf{Securities}$ as part of its second phase of QE. The goal was to directly influence which interest rate?",
+        "image": "",
+        "options": [
+            "The Federal Funds Rate",
+            "Short-term commercial paper rates",
+            "Long-term borrowing rates (mortgages and corporate bonds)",
+            "The U.S. dollar exchange rate"
+        ],
+        "answer": "Long-term borrowing rates (mortgages and corporate bonds)",
+        "explanation": "Since the short-term rate (Federal Funds Rate) was already at zero, the Fed had to target long-term rates to provide further accommodation."
+    },
+    {
+        "id": "E3016",
+        "text": "Following its bailout, $\\textbf{AIG}$ was restructured into separate units, and the Federal Reserve created $\\textbf{special}$ $\\textbf{purpose}$ $\\textbf{vehicles}$ ($\\textbf{SPVs}$) to house what type of assets to ringfence them?",
+        "image": "",
+        "options": [
+            "Commercial Paper",
+            "Toxic mortgage assets and CDOs",
+            "Corporate debt",
+            "Foreign currency"
+        ],
+        "answer": "Toxic mortgage assets and CDOs",
+        "explanation": "The SPVs, like Maiden Lane LLC, were used to purchase the illiquid assets that backed AIG's Credit Default Swaps (CDS) to stabilize the company."
+    },
+    {
+        "id": "E3017",
+        "text": "The $\\textbf{First-Time}$ $\textbf{Homebuyer}$ $\textbf{Tax}$ $\textbf{Credit}$ was an important stimulus measure in 2009 designed to:",
+        "image": "",
+        "options": [
+            "Increase corporate investment",
+            "Boost demand in the depressed housing market",
+            "Lower mortgage interest rates",
+            "Encourage renting over buying"
+        ],
+        "answer": "Boost demand in the depressed housing market",
+        "explanation": "The $8,000 tax credit encouraged people to buy existing homes, helping to absorb the massive supply of foreclosed properties."
+    },
+    {
+        "id": "E3018",
+        "text": "The problem of $\\textbf{Underemployment}$ was particularly acute in 2009. This refers to workers who are:",
+        "image": "",
+        "options": [
+            "Working two or more jobs",
+            "Working part-time but desiring full-time work",
+            "Recently unemployed",
+            "Retired but looking for work"
+        ],
+        "answer": "Working part-time but desiring full-time work",
+        "explanation": "Underemployment, included in the U-6 measure, spiked as employers cut hours rather than jobs, masking the true extent of labor market weakness."
+    },
+    {
+        "id": "E3019",
+        "text": "The $787 billion ARRA stimulus relied on the $\\textbf{Keynesian}$ concept of the $\\textbf{Multiplier}$ $\\textbf{Effect}$, which assumes that:",
+        "image": "",
+        "options": [
+            "Government spending always crowds out private investment",
+            "An initial injection of government spending leads to a larger increase in overall GDP",
+            "Tax cuts are always more effective than spending",
+            "The Federal Reserve must raise interest rates simultaneously"
+        ],
+        "answer": "An initial injection of government spending leads to a larger increase in overall GDP",
+        "explanation": "Keynesian theory suggests that in a recession, a dollar of government spending can generate more than a dollar of total economic output."
+    },
+    {
+        "id": "E3020",
+        "text": "Which major emerging market economy launched a massive $586 billion $\\textbf{fiscal}$ $\textbf{stimulus}$ in 2009, which contributed significantly to the global rebound in commodity prices?",
+        "image": "",
+        "options": [
+            "India",
+            "Brazil",
+            "China",
+            "Russia"
+        ],
+        "answer": "China",
+        "explanation": "China's huge, state-driven stimulus focused heavily on infrastructure and housing, creating massive demand for iron ore, copper, and other commodities."
+    },
+    {
+        "id": "E3021",
+        "text": "The U.S. government implemented the $\\textbf{Car}$ $\textbf{Allowance}$ $\\textbf{Rebate}$ $\textbf{System}$ ($\\textbf{CARS}$), popularly known as $\\textbf{'Cash}$ $\textbf{for}$ $\textbf{Clunkers'}$, in the summer of 2009. What was its main economic goal?",
+        "image": "",
+        "options": [
+            "Increase U.S. oil exports",
+            "Boost auto sales and clear dealer inventory",
+            "Mandate electric vehicle sales",
+            "Fund highway construction"
+        ],
+        "answer": "Boost auto sales and clear dealer inventory",
+        "explanation": "It offered consumers up to $4,500 to trade in older, less fuel-efficient vehicles for new ones, providing a temporary but significant boost to the struggling auto sector."
+    },
+    {
+        "id": "E3022",
+        "text": "In 2009, Federal Reserve Chairman Ben Bernanke became famous for his use of $\\textbf{unconventional}$ $\\textbf{monetary}$ $\textbf{policy}$ tools. What was his academic expertise before becoming Fed Chair?",
+        "image": "",
+        "options": [
+            "International Trade",
+            "Game Theory",
+            "The Economics of the Great Depression",
+            "Behavioral Finance"
+        ],
+        "answer": "The Economics of the Great Depression",
+        "explanation": "Bernanke's study of the Great Depression informed his aggressive, non-traditional policy responses, which he believed necessary to prevent a 1930s-style outcome."
+    },
+    {
+        "id": "E3023",
+        "text": "The $\\textbf{Bank}$ $\textbf{Stress}$ $\textbf{Tests}$ in 2009 were a precursor to which later, stricter international standards for bank $\\textbf{capital}$ $\textbf{adequacy}$?",
+        "image": "",
+        "options": [
+            "Bretton Woods Agreement",
+            "Basel III",
+            "Maastricht Treaty",
+            "The Sarbanes-Oxley Act"
+        ],
+        "answer": "Basel III",
+        "explanation": "The crisis exposed weaknesses that led to the development of Basel III, which significantly raised capital and liquidity requirements for banks worldwide."
+    },
+    {
+        "id": "E3024",
+        "text": "During the first half of 2009, corporate earnings saw their $\\textbf{steepest}$ $\\textbf{decline}$ in decades, forcing companies to cut costs dramatically through:",
+        "image": "",
+        "options": [
+            "Increasing research and development",
+            "Massive layoffs and capital expenditure reductions",
+            "Aggressive stock buybacks",
+            "Foreign acquisitions"
+        ],
+        "answer": "Massive layoffs and capital expenditure reductions",
+        "explanation": "Companies prioritized preserving cash, leading to a halt in hiring and investment, which contributed to the 'jobless' nature of the recovery."
+    },
+    {
+        "id": "E3025",
+        "text": "The two largest Government-Sponsored Enterprises ($\textbf{GSEs}$), Fannie Mae and Freddie Mac, incurred $\\textbf{massive}$ $\\textbf{losses}$ in 2009, requiring how much in taxpayer funding?",
+        "image": "",
+        "options": [
+            "Less than $10 billion",
+            "Over $100 billion",
+            "Less than $1 billion",
+            "They broke even"
+        ],
+        "answer": "Over $100 billion",
+        "explanation": "The collapse of the housing market necessitated government support exceeding $100 billion in 2009 alone, and much more over the following years."
+    },
+    {
+        "id": "E3026",
+        "text": "The combined effect of the recession, the bailouts, and the ARRA stimulus caused the U.S. $\\textbf{Debt-to-GDP}$ $\\textbf{Ratio}$ to rise sharply in 2009, reflecting:",
+        "image": "",
+        "options": [
+            "An increase in foreign trade",
+            "Lower federal spending",
+            "Higher spending combined with lower tax revenue",
+            "A spike in inflation"
+        ],
+        "answer": "Higher spending combined with lower tax revenue",
+        "explanation": "The numerator (Debt) grew due to spending, and the denominator (GDP) shrank due to the recession, creating a dramatic spike in the ratio."
+    },
+    {
+        "id": "E3027",
+        "text": "The G20 Summit in $\\textbf{London}$ in April 2009 was crucial for establishing a $\\textbf{coordinated}$ $\\textbf{global}$ $\\textbf{response}$ to the crisis, primarily by agreeing to:",
+        "image": "",
+        "options": [
+            "Raise interest rates globally",
+            "Implement protectionist tariffs",
+            "Boost coordinated fiscal stimulus and regulate the financial sector",
+            "Adopt a single global currency"
+        ],
+        "answer": "Boost coordinated fiscal stimulus and regulate the financial sector",
+        "explanation": "The G20 nations agreed to inject trillions of dollars into their economies and pursue financial reform to prevent future crises."
+    },
+    {
+        "id": "E3028",
+        "text": "Which component of the labor force measurement became a major concern in 2009, as long-term unemployed workers stopped looking for work and were no longer counted in the official unemployment rate?",
+        "image": "",
+        "options": [
+            "The Inflation Rate",
+            "The Labor Force Participation Rate",
+            "The Consumer Price Index (CPI)",
+            "The Balance of Payments"
+        ],
+        "answer": "The Labor Force Participation Rate",
+        "explanation": "A sharp drop in this rate suggested that the official 10% unemployment figure understated the true number of people without jobs."
+    },
+    {
+        "id": "E3029",
+        "text": "Though the Fed continued QE in 2009, policy makers began debating the $\\textbf{Exit}$ $\textbf{Strategy}$, which involved planning how to eventually:",
+        "image": "",
+        "options": [
+            "Permanently lower interest rates",
+            "Shrink the size of the Fed's expanded balance sheet and raise rates",
+            "Increase bank regulation",
+            "Sell all U.S. Treasury securities"
+        ],
+        "answer": "Shrink the size of the Fed's expanded balance sheet and raise rates",
+        "explanation": "The exit strategy was crucial to prevent the massive injection of money (QE) from eventually causing uncontrollable inflation."
+    },
+    {
+        "id": "E3030",
+        "text": "The crisis saw a rapid consolidation of the financial sector. The merger of which major institutions, following a government-orchestrated deal, concluded in 2009, creating one of the largest financial firms?",
+        "image": "",
+        "options": [
+            "Goldman Sachs and Morgan Stanley",
+            "Bank of America and Merrill Lynch",
+            "Wells Fargo and Wachovia",
+            "JP Morgan Chase and Bear Stearns"
+        ],
+        "answer": "Bank of America and Merrill Lynch",
+        "explanation": "While announced in 2008, the integration of these two giants proceeded in 2009, demonstrating the 'too big to fail' consequences of the crisis."
+    },
+    {
+        "id": "E3031",
+        "text": "A key debate surrounding the $\\textbf{ARRA}$ stimulus was whether $\\textbf{government}$ $\\textbf{spending}$ ($\textbf{G}$) or $\\textbf{tax}$ $\textbf{cuts}$ ($\textbf{T}$) have a higher Keynesian multiplier. What did proponents of spending argue?",
+        "image": "",
+        "options": [
+            "Tax cuts are faster to implement",
+            "Spending is more likely to be saved than tax cuts, increasing the effect",
+            "Government spending is injected directly into the economy, minimizing savings leakage",
+            "Tax cuts target the wealthy who spend more"
+        ],
+        "answer": "Government spending is injected directly into the economy, minimizing savings leakage",
+        "explanation": "A dollar spent by the government is immediately injected (multiplier of 1), whereas tax cuts may be partially saved (multiplier less than 1)."
+    },
+    {
+        "id": "E3032",
+        "text": "Despite hitting its low in March 2009, the S&P 500 staged a dramatic rally, resulting in a $\\textbf{full-year}$ $\textbf{gain}$ of approximately what percentage by the end of 2009?",
+        "image": "",
+        "options": [
+            "1%",
+            "23%",
+            "50%",
+            "A net loss"
+        ],
+        "answer": "23%",
+        "explanation": "The market's 23% gain in 2009 (from Jan 1 to Dec 31) was one of the best years in decades, fueled by the stimulus and returning confidence."
+    },
+    {
+        "id": "E3033",
+        "text": "The $\\textbf{Talk}$ $\textbf{of}$ $\textbf{Deflation}$ in early 2009, where prices fell due to collapsed demand, was a major concern because it leads to:",
+        "image": "",
+        "options": [
+            "High inflation",
+            "Increased consumer spending",
+            "Delayed purchases and higher real debt burdens",
+            "Increased nominal interest rates"
+        ],
+        "answer": "Delayed purchases and higher real debt burdens",
+        "explanation": "When people expect prices to fall, they delay spending, which worsens the recession. Deflation also makes debt harder to pay off (the debt is repaid with dollars that are worth more)."
+    },
+    {
+        "id": "E3034",
+        "text": "The $\\textbf{Foreclosure}$ $\textbf{Crisis}$ $\\textbf{peaked}$ in 2009, with a record number of U.S. homes receiving notices. The primary economic impact of this was:",
+        "image": "",
+        "options": [
+            "A rapid increase in property taxes",
+            "A further steep drop in housing prices and wealth destruction",
+            "A sharp rise in construction jobs",
+            "Lower demand for rental properties"
+        ]
+        ,
+        "answer": "A further steep drop in housing prices and wealth destruction",
+        "explanation": "Foreclosures flood the market with cheap inventory, driving down prices for all homeowners and severely damaging household balance sheets."
+    },
+    {
+        "id": "E3035",
+        "text": "Which $\\textbf{sector}$ $\\textbf{of}$ $\\textbf{the}$ $\textbf{economy}$ suffered the $\\textbf{largest}$ $\\textbf{percentage}$ $\\textbf{job}$ $\textbf{losses}$ during the 2008-2009 period?",
+        "image": "",
+        "options": [
+            "Education and Health Services",
+            "Financial Activities",
+            "Manufacturing and Construction",
+            "Government"
+        ],
+        "answer": "Manufacturing and Construction",
+        "explanation": "These two sectors are highly cyclical and were hit hardest by the collapse in housing and business investment."
+    },
+    {
+        "id": "E3036",
+        "text": "A major global concern emerging in late 2009 was the rapid growth of sovereign debt and $\\textbf{fiscal}$ $\\textbf{imbalances}$ in the $\\textbf{Eurozone}$, starting with which nation?",
+        "image": "",
+        "options": [
+            "Germany",
+            "France",
+            "Greece",
+            "Ireland"
+        ],
+        "answer": "Greece",
+        "explanation": "Concerns about Greece's debt sustainability in late 2009 marked the beginning of the subsequent Eurozone sovereign debt crisis."
+    },
+    {
+        "id": "E3037",
+        "text": "Quantitative Easing ($\textbf{QE}$) aims to increase the $\\textbf{money}$ $\textbf{supply}$ and encourage bank lending by increasing the $\\textbf{reserves}$ held by:",
+        "image": "",
+        "options": [
+            "Consumers",
+            "Non-profit organizations",
+            "Commercial banks at the Federal Reserve",
+            "Foreign central banks"
+        ],
+        "answer": "Commercial banks at the Federal Reserve",
+        "explanation": "QE works by the Fed buying assets from banks, thus increasing the amount of money banks hold in reserve, which theoretically encourages them to lend more."
+    },
+    {
+        "id": "E3038",
+        "text": "Who was the Treasury Secretary under President Obama in 2009, overseeing the implementation of the ARRA and the auto industry restructuring?",
+        "image": "",
+        "options": [
+            "Henry Paulson",
+            "Tim Geithner",
+            "Ben Bernanke",
+            "Robert Rubin"
+        ],
+        "answer": "Tim Geithner",
+        "explanation": "Geithner took over from Paulson and was the key architect of the administration's financial stabilization and recovery efforts."
+    },
+    {
+        "id": "E3039",
+        "text": "As the U.S. economy began to $\\textbf{recover}$ in the second half of 2009, the $\\textbf{housing}$ $\textbf{market}$ stabilized due to low interest rates and government incentives, but $\\textbf{commercial}$ $\textbf{real}$ $\textbf{estate}$ ($\textbf{CRE}$) loans became the new sector of concern.",
+        "image": "",
+        "options": [
+            "Treasury bonds",
+            "Foreign currency",
+            "Commercial real estate (CRE) loans",
+            "Student loans"
+        ],
+        "answer": "Commercial real estate (CRE) loans",
+        "explanation": "The delayed effects of the recession led to rising defaults in office buildings, shopping malls, and hotels, causing stress on regional banks."
+    },
+    {
+        "id": "E3040",
+        "text": "The ARRA stimulus was designed to front-load spending in 2009 and 2010 to provide maximum benefit when the output gap (the difference between potential and actual GDP) was $\\textbf{largest}$, thus minimizing the risk of $\\textbf{crowding}$ $\textbf{out}$ $\\textbf{private}$ $\\textbf{investment}$.",
+        "image": "",
+        "options": [
+            "Inflation",
+            "Crowding out private investment",
+            "Deflation",
+            "Trade wars"
+        ],
+        "answer": "Crowding out private investment",
+        "explanation": "Crowding out is less likely during a severe recession because there is plenty of idle labor and capital, meaning government spending doesn't need to compete with private investment for resources."
+    }
+]

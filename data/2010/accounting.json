@@ -1,0 +1,522 @@
+[
+    {
+        "id": "ACC121",
+        "text": "The $\\textbf{Modified Accelerated Cost Recovery System}$ ($\\,\\textbf{MACRS}$) typically results in $\\textbf{Higher}$ depreciation expense in the $\\textbf{Early Years}$ of an asset's life compared to the straight-line method.",
+        "image": "",
+        "options": [
+            "Lower",
+            "Equal",
+            "Higher",
+            "Zero"
+        ],
+        "answer": "Higher",
+        "explanation": "Accelerated depreciation methods front-load the expense, leading to larger tax deductions initially, and thus a temporary deferred tax liability."
+    },
+    {
+        "id": "ACC122",
+        "text": "The $\\textbf{Audit Committee}$ is responsible for the appointment, compensation, and oversight of the $\\textbf{External Auditors}$.",
+        "image": "",
+        "options": [
+            "CFO",
+            "CEO",
+            "External Auditors",
+            "Internal Auditors"
+        ],
+        "answer": "External Auditors",
+        "explanation": "This independence from management is a key mandate of the Sarbanes-Oxley Act."
+    },
+    {
+        "id": "ACC123",
+        "text": "A $\\textbf{Permanent Difference}$ between book and tax income arises when certain income or expense items are $\\textbf{Never}$ recognized for tax purposes (e.g., municipal bond $\\textbf{Interest}$).",
+        "image": "",
+        "options": [
+            "Always",
+            "Sometimes",
+            "Never",
+            "Occasionally"
+        ],
+        "answer": "Never",
+        "explanation": "Permanent differences do not reverse over time and therefore do not create deferred tax assets or liabilities."
+    },
+    {
+        "id": "ACC124",
+        "text": "The $\\textbf{Accounts Payable}$ account is classified as a $\\textbf{Current Liability}$ because it represents amounts owed to suppliers that are typically due within the $\\textbf{Normal Operating Cycle}$.",
+        "image": "",
+        "options": [
+            "Long-Term Asset",
+            "Current Liability",
+            "Non-Current Liability",
+            "Owner's Equity"
+        ],
+        "answer": "Current Liability",
+        "explanation": "Accounts Payable arises from ordinary trade credit and is expected to be paid in the short term."
+    },
+    {
+        "id": "ACC125",
+        "text": "The $\\textbf{DuPont Analysis}$ breaks down the $\\textbf{Return on Equity}$ ($\\,\\textbf{ROE}$) into three components: Profit Margin, $\\textbf{Asset Turnover}$, and Financial $\\textbf{Leverage}$.",
+        "image": "",
+        "options": [
+            "Quick Ratio",
+            "Current Ratio",
+            "Asset Turnover",
+            "Inventory Turnover"
+        ],
+        "answer": "Asset Turnover",
+        "explanation": "ROE = ($\textbf{Net Income} / \\textbf{Sales}$) $\\times$ ($\textbf{Sales} / \\textbf{Assets}$) $\\times$ ($\textbf{Assets} / \\textbf{Equity}$)."
+    },
+    {
+        "id": "ACC126",
+        "text": "The $\\textbf{Horizontal Analysis}$ (Trend Analysis) of the $\\textbf{Income Statement}$ typically uses a $\\textbf{Base Year}$ as the starting point for percentage comparisons.",
+        "image": "",
+        "options": [
+            "Current Year",
+            "Future Year",
+            "Base Year",
+            "Average Year"
+        ],
+        "answer": "Base Year",
+        "explanation": "This technique allows users to see how each line item has changed relative to a stable reference point."
+    },
+    {
+        "id": "ACC127",
+        "text": "The $\\textbf{Going Concern}$ assumption is essential because it allows companies to report assets at $\\textbf{Historical Cost}$ rather than liquidation $\\textbf{Value}$.",
+        "image": "",
+        "options": [
+            "Market Value",
+            "Fair Value",
+            "Historical Cost",
+            "Replacement Cost"
+        ],
+        "answer": "Historical Cost",
+        "explanation": "If the company were not expected to continue operating, assets would have to be reported at their immediate liquidation value."
+    },
+    {
+        "id": "ACC128",
+        "text": "The $\\textbf{Existence}$ assertion in auditing relates to whether assets and liabilities actually $\\textbf{Exist}$ at the balance sheet date.",
+        "image": "",
+        "options": [
+            "Valuation",
+            "Completeness",
+            "Cutoff",
+            "Existence"
+        ],
+        "answer": "Existence",
+        "explanation": "Auditors typically test this assertion for assets (like inventory and fixed assets) by physical observation."
+    },
+    {
+        "id": "ACC129",
+        "text": "The $\\textbf{Indirect Method}$ for the $\\textbf{Cash Flow Statement}$ starts with $\\textbf{Net Income}$ and adjusts for non-cash items to arrive at cash from $\\textbf{Operating Activities}$.",
+        "image": "",
+        "options": [
+            "Total Revenue",
+            "Gross Profit",
+            "Net Income",
+            "EBIT"
+        ],
+        "answer": "Net Income",
+        "explanation": "Non-cash items (like depreciation, amortization, and changes in working capital) are added back or subtracted."
+    },
+    {
+        "id": "ACC130",
+        "text": "The $\\textbf{Internal Rate of Return}$ ($\\,\\textbf{IRR}$) is the $\\textbf{Discount Rate}$ that equates the present value of expected cash inflows to the $\\textbf{Initial Investment}$.",
+        "image": "",
+        "options": [
+            "Interest Rate",
+            "Discount Rate",
+            "Inflation Rate",
+            "Risk-Free Rate"
+        ],
+        "answer": "Discount Rate",
+        "explanation": "If a project's IRR is greater than the company's cost of capital, it is deemed acceptable."
+    },
+    {
+        "id": "ACC131",
+        "text": "$\textbf{Financial Leverage}$ ($\textbf{Equity Multiplier}$) is the use of $\\textbf{Debt}$ ($\textbf{Liabilities}$) to finance a company's assets, potentially magnifying $\\textbf{ROE}$.",
+        "image": "",
+        "options": [
+            "Cash",
+            "Debt",
+            "Equity",
+            "Revenue"
+        ],
+        "answer": "Debt",
+        "explanation": "Higher leverage can increase returns during good times but also magnifies losses during bad times."
+    },
+    {
+        "id": "ACC132",
+        "text": "The $\\textbf{FIFO}$ inventory method generally results in the highest $\\textbf{Net Income}$ during periods of $\\textbf{Rising}$ $\\textbf{Prices}$.",
+        "image": "",
+        "options": [
+            "Decreasing",
+            "Stable",
+            "Rising",
+            "Volatile"
+        ],
+        "answer": "Rising",
+        "explanation": "By assuming the older, cheaper inventory is sold first, COGS is lower, and Net Income is higher."
+    },
+    {
+        "id": "ACC133",
+        "text": "The $\\textbf{Production Budget}$ determines the number of units that must be $\\textbf{Manufactured}$ to satisfy sales needs and desired ending $\\textbf{Inventory}$.",
+        "image": "",
+        "options": [
+            "Sold",
+            "Purchased",
+            "Manufactured",
+            "Shipped"
+        ],
+        "answer": "Manufactured",
+        "explanation": "Required Production = Budgeted Sales + Desired Ending Inventory - Beginning Inventory."
+    },
+    {
+        "id": "ACC134",
+        "text": "The $\\textbf{Equivalent Units of Production}$ ($\\,\\textbf{EUP}$) is a measure used in $\\textbf{Process Costing}$ to convert partially completed units into their equivalent of $\\textbf{Fully Completed}$ units.",
+        "image": "",
+        "options": [
+            "Partially Completed",
+            "Scrapped",
+            "Fully Completed",
+            "Lost"
+        ],
+        "answer": "Fully Completed",
+        "explanation": "EUP allows for the accurate allocation of total manufacturing costs to both completed and partially completed units."
+    },
+    {
+        "id": "ACC135",
+        "text": "The $\\textbf{Payback Period}$ method is often used by management primarily because of its simplicity and focus on $\\textbf{Liquidity}$ (when cash is recovered).",
+        "image": "",
+        "options": [
+            "Profitability",
+            "Risk",
+            "Liquidity",
+            "Solvency"
+        ],
+        "answer": "Liquidity",
+        "explanation": "It tells managers how quickly an investment can generate enough cash flow to recoup the initial outlay."
+    },
+    {
+        "id": "ACC136",
+        "text": "The $\\textbf{CPA}$ (Certified Public Accountant) license is regulated at the $\\textbf{State}$ level in the $\\textbf{United States}$.",
+        "image": "",
+        "options": [
+            "Federal",
+            "International",
+            "State",
+            "County"
+        ],
+        "answer": "State",
+        "explanation": "Licensing requirements, including the necessary experience and ethics courses, vary by state."
+    },
+    {
+        "id": "ACC137",
+        "text": "The $\\textbf{Depletion}$ of a natural resource (e.g., oil, timber) is a cost allocation method analogous to the $\\textbf{Depreciation}$ of a tangible $\\textbf{Asset}$.",
+        "image": "",
+        "options": [
+            "Amortization",
+            "Impairment",
+            "Depletion",
+            "Accretion"
+        ],
+        "answer": "Depletion",
+        "explanation": "Depletion expenses the cost of extracting the resource as it is used up."
+    },
+    {
+        "id": "ACC138",
+        "text": "The $\\textbf{Effective Interest Method}$ of amortizing a bond $\\textbf{Premium}$ results in the periodic $\\textbf{Interest Expense}$ being $\\textbf{Less}$ than the coupon payment.",
+        "image": "",
+        "options": [
+            "Equal to",
+            "Greater than",
+            "Less",
+            "Double"
+        ],
+        "answer": "Less",
+        "explanation": "The interest expense is lower because the company is implicitly 'paying back' the premium received over the life of the bond."
+    },
+    {
+        "id": "ACC139",
+        "text": "$\textbf{Comprehensive Income}$ is the change in equity of a business enterprise during a period from $\\textbf{Nonowner Sources}$.",
+        "image": "",
+        "options": [
+            "Owner Investment",
+            "Dividends Paid",
+            "Nonowner Sources",
+            "Retained Earnings"
+        ],
+        "answer": "Nonowner Sources",
+        "explanation": "It includes both Net Income and Other Comprehensive Income ($\textbf{OCI}$)."
+    },
+    {
+        "id": "ACC140",
+        "text": "The $\\textbf{Internal Audit}$ function is responsible for performing an $\\textbf{Independent}$ assessment of the company's operations for the $\\textbf{Board of Directors}$ and management.",
+        "image": "",
+        "options": [
+            "External",
+            "Independent",
+            "Biased",
+            "Dependent"
+        ],
+        "answer": "Independent",
+        "explanation": "Independence is critical to the internal audit function's ability to objectively evaluate risks and controls."
+    },
+    {
+        "id": "ACC141",
+        "text": "The $\\textbf{Book Value Per Share}$ is calculated by dividing $\\textbf{Total Shareholder's Equity}$ by the number of $\\textbf{Shares Outstanding}$.",
+        "image": "",
+        "options": [
+            "Par Value",
+            "Market Price",
+            "Total Shareholder's Equity",
+            "Net Income"
+        ],
+        "answer": "Total Shareholder's Equity",
+        "explanation": "It represents the net assets available to common shareholders, assuming the company were liquidated at the balance sheet values."
+    },
+    {
+        "id": "ACC142",
+        "text": "The $\\textbf{Statement of Financial Position}$ is the $\\textbf{IFRS}$ equivalent of the $\\textbf{Balance Sheet}$.",
+        "image": "",
+        "options": [
+            "Income Statement",
+            "Statement of Equity",
+            "Balance Sheet",
+            "Statement of Cash Flows"
+        ],
+        "answer": "Balance Sheet",
+        "explanation": "Both reports show the accounting equation at a specific point in time."
+    },
+    {
+        "id": "ACC143",
+        "text": "The $\\textbf{Indirect Method}$ of cash flow reporting must include a $\\textbf{Reconciliation}$ of $\\textbf{Net Income}$ to net cash flow from $\\textbf{Operating Activities}$.",
+        "image": "",
+        "options": [
+            "Cash",
+            "Revenue",
+            "Reconciliation",
+            "Assets"
+        ],
+        "answer": "Reconciliation",
+        "explanation": "This is a key requirement of both GAAP and IFRS for the indirect method."
+    },
+    {
+        "id": "ACC144",
+        "text": "$\textbf{Lease Accounting}$ under $\\textbf{ASC 842}$ requires that the $\\textbf{Right-of-Use}$ asset and the lease liability be recorded at the $\\textbf{Present Value}$ of future $\\textbf{Lease Payments}$.",
+        "image": "",
+        "options": [
+            "Future Value",
+            "Historical Cost",
+            "Present Value",
+            "Fair Value"
+        ],
+        "answer": "Present Value",
+        "explanation": "This incorporates the time value of money, which is fundamental to the new lease accounting standards."
+    },
+    {
+        "id": "ACC145",
+        "text": "The $\\textbf{Acid-Test Ratio}$ (Quick Ratio) is primarily concerned with assessing the short-term ability to pay liabilities without relying on $\\textbf{Inventory}$.",
+        "image": "",
+        "options": [
+            "Accounts Payable",
+            "Cash",
+            "Inventory",
+            "Bonds Payable"
+        ],
+        "answer": "Inventory",
+        "explanation": "Inventory is considered less liquid and may not be easily convertible to cash quickly."
+    },
+    {
+        "id": "ACC146",
+        "text": "The $\\textbf{Economic Order Quantity}$ ($\\,\\textbf{EOQ}$) minimizes the sum of $\\textbf{Ordering Costs}$ and $\\textbf{Holding Costs}$.",
+        "image": "",
+        "options": [
+            "Production Costs",
+            "Sales Costs",
+            "Ordering Costs",
+            "Scrap Costs"
+        ],
+        "answer": "Ordering Costs",
+        "explanation": "EOQ is the optimal number of units to order to balance these two conflicting costs."
+    },
+    {
+        "id": "ACC147",
+        "text": "A $\\textbf{Responsibility Accounting}$ system evaluates managers based only on the revenues and costs they $\\textbf{Control}$.",
+        "image": "",
+        "options": [
+            "Observe",
+            "Control",
+            "Report",
+            "Forecast"
+        ],
+        "answer": "Control",
+        "explanation": "This principle holds managers accountable for items within their sphere of influence, ensuring fair performance evaluation."
+    },
+    {
+        "id": "ACC148",
+        "text": "The $\\textbf{Internal Control}$ component of $\\textbf{Control Activities}$ includes procedures like $\\textbf{Segregation of Duties}$ and $\\textbf{Physical Controls}$.",
+        "image": "",
+        "options": [
+            "Risk Assessment",
+            "Control Environment",
+            "Segregation of Duties",
+            "Monitoring"
+        ],
+        "answer": "Segregation of Duties",
+        "explanation": "Segregation of duties ensures that no single employee has control over all phases of a transaction, reducing the risk of fraud."
+    },
+    {
+        "id": "ACC149",
+        "text": "The $\\textbf{Horizontal Analysis}$ percentage change is calculated as $\\textbf{(Current Year Amount} - \\textbf{Base Year Amount)} / \\textbf{Base Year Amount}$.",
+        "image": "",
+        "options": [
+            "Average Amount",
+            "Base Year Amount",
+            "Current Year Amount",
+            "Total Amount"
+        ],
+        "answer": "Base Year Amount",
+        "explanation": "The comparison is always made relative to the amount in the base year."
+    },
+    {
+        "id": "ACC150",
+        "text": "The $\\textbf{Earnings Before Interest, Taxes, Depreciation, and Amortization}$ ($\\,\\textbf{EBITDA}$) is often used as a proxy for $\\textbf{Operating Cash Flow}$.",
+        "image": "",
+        "options": [
+            "Net Income",
+            "Net Present Value",
+            "Operating Cash Flow",
+            "Net Sales"
+        ],
+        "answer": "Operating Cash Flow",
+        "explanation": "EBITDA removes non-cash expenses ($\textbf{D\\&A}$) and non-operating expenses ($\textbf{I\\&T}$) from the income statement, approximating cash generated from operations."
+    },
+    {
+        "id": "ACC151",
+        "text": "A $\\textbf{Direct Write-Off}$ method for bad debts is $\\textbf{Not Allowed}$ under $\\textbf{GAAP}$ because it violates the $\\textbf{Matching Principle}$.",
+        "image": "",
+        "options": [
+            "Required",
+            "Preferred",
+            "Not Allowed",
+            "Optional"
+        ],
+        "answer": "Not Allowed",
+        "explanation": "The direct write-off method recognizes the expense only when the account is deemed uncollectible, failing to match the expense to the sales revenue of the period."
+    },
+    {
+        "id": "ACC152",
+        "text": "The $\\textbf{Allowance}$ for $\\textbf{Doubtful Accounts}$ reduces $\\textbf{Accounts Receivable}$ to its estimated $\\textbf{Net Realizable Value}$.",
+        "image": "",
+        "options": [
+            "Historical Cost",
+            "Market Value",
+            "Net Realizable Value",
+            "Acquisition Cost"
+        ],
+        "answer": "Net Realizable Value",
+        "explanation": "NRV is the amount the company expects to actually collect in cash from customers."
+    },
+    {
+        "id": "ACC153",
+        "text": "The $\\textbf{Weighted Average}$ cost method for inventory results in a $\\textbf{Middle}$ value for both $\\textbf{COGS}$ and $\\textbf{Ending Inventory}$ compared to FIFO and LIFO.",
+        "image": "",
+        "options": [
+            "Highest",
+            "Lowest",
+            "Middle",
+            "Unrelated"
+        ],
+        "answer": "Middle",
+        "explanation": "By averaging all available unit costs, the weighted-average method smooths out the fluctuations seen in FIFO and LIFO."
+    },
+    {
+        "id": "ACC154",
+        "text": "The $\\textbf{Job Cost Sheet}$ summarizes all $\\textbf{Manufacturing Costs}$ ($\textbf{DM, DL, OH}$) assigned to a specific $\\textbf{Job}$ in a job order costing system.",
+        "image": "",
+        "options": [
+            "Sales Budget",
+            "General Ledger",
+            "Manufacturing Costs",
+            "Cost of Goods Sold"
+        ],
+        "answer": "Manufacturing Costs",
+        "explanation": "The sheet is the subsidiary ledger that supports the Work in Process Inventory control account."
+    },
+    {
+        "id": "ACC155",
+        "text": "The $\\textbf{Overhead Application Rate}$ is calculated by dividing $\\textbf{Estimated Total Overhead}$ by the $\\textbf{Estimated Activity Base}$ (e.g., labor hours).",
+        "image": "",
+        "options": [
+            "Actual Overhead",
+            "Estimated Total Overhead",
+            "Actual Activity",
+            "Total Fixed Cost"
+        ],
+        "answer": "Estimated Total Overhead",
+        "explanation": "The predetermined rate is used to assign overhead costs to products as they are manufactured."
+    },
+    {
+        "id": "ACC156",
+        "text": "The $\\textbf{Cost of Goods Manufactured}$ ($\\,\\textbf{COGM}$) summarizes the total cost of products completed and $\\textbf{Transferred}$ to $\\textbf{Finished Goods Inventory}$ during the period.",
+        "image": "",
+        "options": [
+            "Sold",
+            "Purchased",
+            "Transferred",
+            "Scrapped"
+        ],
+        "answer": "Transferred",
+        "explanation": "COGM connects the Schedule of Cost of Goods Manufactured to the Income Statement."
+    },
+    {
+        "id": "ACC157",
+        "text": "A $\\textbf{Conversion Cost}$ consists of the sum of $\\textbf{Direct Labor}$ and $\\textbf{Manufacturing Overhead}$ costs.",
+        "image": "",
+        "options": [
+            "Direct Materials",
+            "Direct Labor",
+            "Selling Expense",
+            "Administrative Expense"
+        ],
+        "answer": "Direct Labor",
+        "explanation": "Conversion costs represent the costs incurred to convert raw materials into finished products."
+    },
+    {
+        "id": "ACC158",
+        "text": "The $\\textbf{Statement of Retained Earnings}$ is required to show the changes in the $\\textbf{Retained Earnings}$ balance due to $\\textbf{Net Income}$ and $\\textbf{Dividends}$ during the period.",
+        "image": "",
+        "options": [
+            "Total Assets",
+            "Total Liabilities",
+            "Retained Earnings",
+            "Common Stock"
+        ],
+        "answer": "Retained Earnings",
+        "explanation": "The ending balance of Retained Earnings flows directly to the Shareholder's Equity section of the Balance Sheet."
+    },
+    {
+        "id": "ACC159",
+        "text": "$\textbf{Preferred Stock}$ is a class of stock that typically has priority over common stock regarding $\\textbf{Dividends}$ and asset $\\textbf{Distribution}$ upon $\\textbf{Liquidation}$.",
+        "image": "",
+        "options": [
+            "Voting Rights",
+            "Dividends",
+            "Management Control",
+            "Auditor Selection"
+        ],
+        "answer": "Dividends",
+        "explanation": "Preferred stock often carries a fixed dividend rate but usually lacks voting rights."
+    },
+    {
+        "id": "ACC160",
+        "text": "The $\\textbf{Capital Budgeting}$ decision model that determines the exact discount rate at which $\\textbf{NPV}$ equals zero is the $\\textbf{Internal Rate of Return}$ ($\\,\\textbf{IRR}$).",
+        "image": "",
+        "options": [
+            "Payback Period",
+            "Accounting Rate of Return",
+            "Net Present Value",
+            "Internal Rate of Return"
+        ],
+        "answer": "Internal Rate of Return",
+        "explanation": "IRR is compared to the company's cost of capital to evaluate a project's acceptability."
+    }
+]

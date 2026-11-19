@@ -1,0 +1,517 @@
+[
+    {
+      "id": "U2020_1",
+      "text": "The year 2020 began with a health crisis that quickly evolved into a global $\\textbf{pandemic}$, leading to widespread, $\\textbf{unprecedented}$ $\\textbf{lockdowns}$ across continents. (Comprehension Passage Snippet 1)\n\nWhat global event defined the start of the year 2020, according to the passage?",
+      "image": "",
+      "options": [
+        "A major financial collapse",
+        "A surge in international travel",
+        "A global pandemic leading to lockdowns",
+        "The start of a geopolitical conflict"
+      ],
+      "answer": "A global pandemic leading to lockdowns",
+      "explanation": "The text states the year began with a health crisis that evolved into a 'global pandemic, leading to widespread, unprecedented lockdowns'."
+    },
+    {
+      "id": "U2020_2",
+      "text": "The year 2020 began with a health crisis that quickly evolved into a global pandemic, leading to widespread, $\\textbf{unprecedented}$ lockdowns across continents. (Comprehension Passage Snippet 1)\n\nChoose the word that is closest in meaning to $\\textbf{unprecedented}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Common or usual",
+        "Seen or known before",
+        "Never done or known before",
+        "Minor"
+      ],
+      "answer": "Never done or known before",
+      "explanation": "Unprecedented means never having happened or existed before."
+    },
+    {
+      "id": "U2020_3",
+      "text": "Governments enacted $\\textbf{unprecedented}$ $\\textbf{fiscal}$ $\\textbf{stimulus}$ measures and introduced $\\textbf{furlough}$ schemes to cushion the economic shock of halted commerce. (Comprehension Passage Snippet 2)\n\nWhat was the purpose of the furlough schemes introduced by governments?",
+      "image": "",
+      "options": [
+        "To encourage international trade",
+        "To reduce government debt",
+        "To cushion the economic shock of halted commerce",
+        "To invest in long-term infrastructure projects"
+      ],
+      "answer": "To cushion the economic shock of halted commerce",
+      "explanation": "The text states the schemes were introduced 'to cushion the economic shock of halted commerce'."
+    },
+    {
+      "id": "U2020_4",
+      "text": "Governments enacted unprecedented fiscal $\\textbf{stimulus}$ measures and introduced furlough schemes to cushion the economic shock of halted commerce. (Comprehension Passage Snippet 2)\n\nChoose the word that is closest in meaning to $\\textbf{stimulus}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Restriction",
+        "Deterrent",
+        "A measure to encourage economic activity",
+        "Debt repayment"
+      ],
+      "answer": "A measure to encourage economic activity",
+      "explanation": "Fiscal stimulus refers to government measures (like spending or tax cuts) to boost economic activity."
+    },
+    {
+      "id": "U2020_5",
+      "text": "The new manager's innovative approach was immediately $\\textbf{adopted}$ $\\textbf{by}$ the whole team.\n\nChoose the option that best explains the phrasal verb **adopted by**.",
+      "image": "",
+      "options": [
+        "Rejected by",
+        "Taken up and put into practice by",
+        "Disregarded by",
+        "Challenged by"
+      ],
+      "answer": "Taken up and put into practice by",
+      "explanation": "To be 'adopted by' means to be taken up and used or put into practice by a group or individual."
+    },
+    {
+      "id": "U2020_6",
+      "text": "The evidence presented by the defense was $\\textbf{specious}$, designed to mislead the jury.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{specious}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Plausible but false",
+        "Genuine or valid",
+        "Deceptive",
+        "Misleading"
+      ],
+      "answer": "Genuine or valid",
+      "explanation": "Specious means superficially plausible, but actually wrong. The opposite is 'genuine' or 'valid'."
+    },
+    {
+      "id": "U2020_7",
+      "text": "The majority of the committee $\\textbf{(supports/support)}$ the proposal for mandatory remote work.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "supports",
+        "support",
+        "are supporting",
+        "were supporting"
+      ],
+      "answer": "supports",
+      "explanation": "'Majority' is a collective noun. When the group is acting as a single unit (implied here), the singular verb 'supports' is used."
+    },
+    {
+      "id": "U2020_8",
+      "text": "The word $\\textbf{'quarantine'}$ $\\textbf{q u a r a n t i n e}$.\n\nIdentify the syllable that carries the primary stress in the word **quarantine**.",
+      "image": "",
+      "options": [
+        "quar",
+        "an",
+        "tine"
+      ],
+      "answer": "quar",
+      "explanation": "The primary stress in 'quarantine' /ˈkwɒrəntiːn/ falls on the first syllable, 'quar'."
+    },
+    {
+      "id": "U2020_9",
+      "text": "Societies had to $\\textbf{pivot}$ rapidly, with offices, schools, and shops forcing a $\\textbf{mass}$ $\\textbf{migration}$ to digital platforms, relying heavily on $\\textbf{essential}$ $\\textbf{workers}$. (Comprehension Passage Snippet 3)\n\nWhat was the main societal change caused by the lockdowns?",
+      "image": "",
+      "options": [
+        "A return to agrarian society",
+        "Mass migration to digital platforms",
+        "A decline in online retail",
+        "A focus on urban development"
+      ],
+      "answer": "Mass migration to digital platforms",
+      "explanation": "The text describes this as a 'mass migration to digital platforms'."
+    },
+    {
+      "id": "U2020_10",
+      "text": "Societies had to $\\textbf{pivot}$ rapidly, with offices, schools, and shops forcing a mass migration to digital platforms, relying heavily on essential workers. (Comprehension Passage Snippet 3)\n\nChoose the word that is closest in meaning to $\\textbf{pivot}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "To remain rigid",
+        "To stay fixed",
+        "To quickly or fundamentally change strategy or direction",
+        "To collapse"
+      ],
+      "answer": "To quickly or fundamentally change strategy or direction",
+      "explanation": "To 'pivot' means to turn on or as if on a pivot; in business, it means to quickly change strategy or direction."
+    },
+    {
+      "id": "U2020_11",
+      "text": "His decision was so $\\textbf{arbitrary}$ that no one could understand the reasoning behind it.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{arbitrary}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Random",
+        "Logical or reasoned",
+        "Capricious",
+        "Subjective"
+      ],
+      "answer": "Logical or reasoned",
+      "explanation": "Arbitrary means based on random choice or personal whim, rather than any reason or system. The opposite is 'logical' or 'reasoned'."
+    },
+    {
+      "id": "U2020_12",
+      "text": "The successful implementation of the plan will depend $\\textbf{(on/in)}$ your immediate assistance.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "on",
+        "in",
+        "to",
+        "at"
+      ],
+      "answer": "on",
+      "explanation": "The verb 'depend' is always followed by the preposition 'on' (or 'upon')."
+    },
+    {
+      "id": "U2020_13",
+      "text": "If the government $\\textbf{(had acted/acted)}$ faster in March, the outcome might have been less severe.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "had acted",
+        "acted",
+        "has acted",
+        "would act"
+      ],
+      "answer": "had acted",
+      "explanation": "This is a Third Conditional sentence, referring to an unreal past event. The structure is 'If + past perfect (had acted), ... might have + past participle'."
+    },
+    {
+      "id": "U2020_14",
+      "text": "The word $\\textbf{'contagious'}$ $\\textbf{c o n t a g i o u s}$.\n\nIdentify the syllable that carries the primary stress in the word **contagious**.",
+      "image": "",
+      "options": [
+        "con",
+        "ta",
+        "gious"
+      ],
+      "answer": "ta",
+      "explanation": "The primary stress in 'contagious' /kənˈteɪdʒəs/ falls on the second syllable, 'ta'."
+    },
+    {
+      "id": "U2020_15",
+      "text": "The word $\\textbf{'health'}$ $\\textbf{h e a l t h}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **health**?",
+      "image": "",
+      "options": [
+        "Hearth",
+        "Heal",
+        "Head",
+        "Halt"
+      ],
+      "answer": "Head",
+      "explanation": "The vowel sound in 'health' is /e/ (the short 'e' sound). The vowel sound in 'Head' is also /e/."
+    },
+    {
+      "id": "U2020_16",
+      "text": "Amid the crisis, the scientific community launched an $\\textbf{accelerated}$ global effort to develop and test vaccines, focusing heavily on $\\textbf{efficacy}$ $\\textbf{and}$ $\\textbf{safety}$. (Comprehension Passage Snippet 4)\n\nWhat was the primary focus of the accelerated global effort by the scientific community?",
+      "image": "",
+      "options": [
+        "Reducing social contact",
+        "Developing new travel routes",
+        "Developing and testing vaccines",
+        "Building temporary hospitals"
+      ],
+      "answer": "Developing and testing vaccines",
+      "explanation": "The text states the effort was 'to develop and test vaccines'."
+    },
+    {
+      "id": "U2020_17",
+      "text": "Amid the crisis, the scientific community launched an accelerated global effort to develop and test vaccines, focusing heavily on $\\textbf{efficacy}$ and safety. (Comprehension Passage Snippet 4)\n\nChoose the word that is closest in meaning to $\\textbf{efficacy}$ as used in the passage.",
+      "image": "",
+      "options": [
+        "Side effects",
+        "The ability to produce a desired or intended result",
+        "Cost of production",
+        "Storage requirements"
+      ],
+      "answer": "The ability to produce a desired or intended result",
+      "explanation": "Efficacy means the ability to produce a desired or intended result (effectiveness)."
+    },
+    {
+      "id": "U2020_18",
+      "text": "The sudden $\\textbf{abruptness}$ of the announcement surprised everyone in the meeting.\n\nChoose the word that is closest in meaning to the word $\\textbf{abruptness}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Slowness",
+        "Continuity",
+        "Suddenness or unexpectedness",
+        "Patience"
+      ],
+      "answer": "Suddenness or unexpectedness",
+      "explanation": "Abruptness refers to the quality of being sudden, unexpected, or brief."
+    },
+    {
+      "id": "U2020_19",
+      "text": "The politician was known for his $\\textbf{belligerent}$ $\\textbf{attitude}$ during debates.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{belligerent}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Hostile",
+        "Aggressive",
+        "Peaceful or cooperative",
+        "Warlike"
+      ],
+      "answer": "Peaceful or cooperative",
+      "explanation": "Belligerent means hostile and aggressive. The opposite is 'peaceful' or 'cooperative'."
+    },
+    {
+      "id": "U2020_20",
+      "text": "The word $\\textbf{'recession'}$ $\\textbf{r e c e s s i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **recession**.",
+      "image": "",
+      "options": [
+        "re",
+        "ces",
+        "sion"
+      ],
+      "answer": "ces",
+      "explanation": "The primary stress in 'recession' /rɪˈsɛʃən/ falls on the second syllable, 'ces'."
+    },
+    {
+      "id": "U2020_21",
+      "text": "The word $\\textbf{'social'}$ $\\textbf{s o c i a l}$.\n\nWhich of the following words has the same vowel sound as the 'o' in the first syllable of **social**?",
+      "image": "",
+      "options": [
+        "Sock",
+        "So",
+        "Soup",
+        "Sort"
+      ],
+      "answer": "So",
+      "explanation": "The 'o' in the first syllable of 'social' /ˈsoʊʃəl/ is the diphthong /oʊ/ (the long 'o' sound). The vowel sound in 'So' is also /oʊ/."
+    },
+    {
+      "id": "U2020_22",
+      "text": "The $\\textbf{government}$ $\\textbf{imposed}$ $\\textbf{severe}$ $\\textbf{restrictions}$ $\\textbf{on}$ $\\textbf{movement}$.\n\nWhich of the words is an $\\textbf{adjective}$?",
+      "image": "",
+      "options": [
+        "Government",
+        "Imposed",
+        "Severe",
+        "Movement"
+      ],
+      "answer": "Severe",
+      "explanation": "'Severe' modifies the noun 'restrictions', making it an adjective."
+    },
+    {
+      "id": "U2020_23",
+      "text": "The $\\textbf{cast}$ of $\\textbf{actors}$ received a standing ovation.\n\nWhich of the following is a $\\textbf{collective}$ $\\textbf{noun}$?",
+      "image": "",
+      "options": [
+        "Actors",
+        "Received",
+        "Cast",
+        "Standing"
+      ],
+      "answer": "Cast",
+      "explanation": "A 'cast' is a collective noun, referring to a group of actors in a play or film."
+    },
+    {
+      "id": "U2020_24",
+      "text": "We were quite concerned $\\textbf{(with/about)}$ his sudden lack of interest in the project.\n\nChoose the correct preposition to complete the sentence.",
+      "image": "",
+      "options": [
+        "with",
+        "about",
+        "of",
+        "on"
+      ],
+      "answer": "about",
+      "explanation": "The adjective 'concerned' is typically followed by 'about' when referring to a worry or issue (concerned *about* something)."
+    },
+    {
+      "id": "U2020_25",
+      "text": "The team tried to **put a brave face on** the unexpected loss in the tournament.\n\nChoose the option that best explains the idiom **put a brave face on**.",
+      "image": "",
+      "options": [
+        "To cry publicly",
+        "To pretend that one is happy or fine despite being upset",
+        "To celebrate prematurely",
+        "To criticize loudly"
+      ],
+      "answer": "To pretend that one is happy or fine despite being upset",
+      "explanation": "To 'put a brave face on' means to pretend to be happy, confident, or optimistic despite a difficult situation."
+    },
+    {
+      "id": "U2020_26",
+      "text": "Even if he $\\textbf{(runs/ran)}$ the marathon, he wouldn't win a medal.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "runs",
+        "ran",
+        "will run",
+        "has run"
+      ],
+      "answer": "ran",
+      "explanation": "This is a Second Conditional structure used to talk about an unlikely or hypothetical future event. The structure is 'If + simple past (ran), ... would + base verb'."
+    },
+    {
+      "id": "U2020_27",
+      "text": "The company decided to **turn a blind eye to** the minor infractions.\n\nChoose the option that best explains the idiom **turn a blind eye to**.",
+      "image": "",
+      "options": [
+        "To punish severely",
+        "To pay close attention to",
+        "To pretend not to notice",
+        "To investigate thoroughly"
+      ],
+      "answer": "To pretend not to notice",
+      "explanation": "To 'turn a blind eye to' means to deliberately ignore something that one should pay attention to."
+    },
+    {
+      "id": "U2020_28",
+      "text": "Identify the word where the sound represented by the letters 'gn' is $\\textbf{silent}$.",
+      "image": "",
+      "options": [
+        "Magnify",
+        "Cognitive",
+        "Sign",
+        "Ignore"
+      ],
+      "answer": "Sign",
+      "explanation": "In 'Sign' /saɪn/, the 'g' is silent. In 'Magnify' and 'Cognitive', the 'g' is pronounced."
+    },
+    {
+      "id": "U2020_29",
+      "text": "The word $\\textbf{'necessity'}$ $\\textbf{n e c e s s i t y}$.\n\nIdentify the syllable that carries the primary stress in the word **necessity**.",
+      "image": "",
+      "options": [
+        "ne",
+        "ces",
+        "si",
+        "ty"
+      ],
+      "answer": "ces",
+      "explanation": "The primary stress in 'necessity' /nəˈsɛsɪti/ falls on the second syllable, 'ces'."
+    },
+    {
+      "id": "U2020_30",
+      "text": "The team faced a $\\textbf{formidable}$ $\\textbf{opponent}$ in the final round of the competition.\n\nChoose the word that is closest in meaning to the word $\\textbf{formidable}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Weak or easy",
+        "Inspiring fear or respect through being powerful or intense",
+        "Friendly",
+        "Predictable"
+      ],
+      "answer": "Inspiring fear or respect through being powerful or intense",
+      "explanation": "Formidable means inspiring fear or respect through being impressively large, powerful, intense, or capable."
+    },
+    {
+      "id": "U2020_31",
+      "text": "The researchers $\\textbf{came}$ $\\textbf{across}$ a crucial piece of information in the old records.\n\nChoose the option that best explains the phrasal verb **came across**.",
+      "image": "",
+      "options": [
+        "Walked over",
+        "Found or encountered by chance",
+        "Argued with",
+        "Criticized severely"
+      ],
+      "answer": "Found or encountered by chance",
+      "explanation": "To 'come across' means to find or meet (something or someone) by chance."
+    },
+    {
+      "id": "U2020_32",
+      "text": "The word $\\textbf{'foot'}$ $\\textbf{f o o t}$.\n\nWhich of the following words has the same vowel sound as the stressed syllable in **foot**?",
+      "image": "",
+      "options": [
+        "Food",
+        "But",
+        "Put",
+        "Fight"
+      ],
+      "answer": "Put",
+      "explanation": "The vowel sound in 'foot' is /ʊ/ (the short 'oo' sound). The vowel sound in 'Put' is also /ʊ/."
+    },
+    {
+      "id": "U2020_33",
+      "text": "The company's $\\textbf{profligate}$ $\\textbf{spending}$ led to massive debt and eventual bankruptcy.\n\nChoose the word that is **opposite** in meaning to the word $\\textbf{profligate}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Wasteful",
+        "Extravagant",
+        "Thrifty or frugal",
+        "Reckless"
+      ],
+      "answer": "Thrifty or frugal",
+      "explanation": "Profligate means recklessly extravagant or wasteful in the use of resources. The opposite is 'thrifty' or 'frugal'."
+    },
+    {
+      "id": "U2020_34",
+      "text": "The $\\textbf{only}$ thing he $\\textbf{wanted}$ $\\textbf{was}$ $\\textbf{to}$ $\\textbf{finish}$ the $\\textbf{marathon}$.\n\nIdentify the $\\textbf{infinitive}$ $\\textbf{phrase}$ in the sentence.",
+      "image": "",
+      "options": [
+        "The only thing",
+        "he wanted",
+        "to finish the marathon",
+        "was to finish"
+      ],
+      "answer": "to finish the marathon",
+      "explanation": "The infinitive phrase starts with the infinitive 'to finish' and includes its object 'the marathon'."
+    },
+    {
+      "id": "U2020_35",
+      "text": "The $\\textbf{person}$ $\\textbf{standing}$ $\\textbf{by}$ $\\textbf{the}$ $\\textbf{door}$ $\\textbf{is}$ the $\\textbf{new}$ $\\textbf{security}$ $\\textbf{guard}$.\n\nWhat type of phrase is **standing by the door**?",
+      "image": "",
+      "options": [
+        "Noun phrase",
+        "Prepositional phrase",
+        "Participial phrase",
+        "Infinitive phrase"
+      ],
+      "answer": "Participial phrase",
+      "explanation": "'Standing by the door' is a participial phrase using the present participle ('standing') to modify the noun 'person'."
+    },
+    {
+      "id": "U2020_36",
+      "text": "The word $\\textbf{'present'}$ (as an adjective, meaning current).\n\nIdentify the syllable that carries the primary stress in the word **present** (adjective).",
+      "image": "",
+      "options": [
+        "pre",
+        "sent"
+      ],
+      "answer": "pre",
+      "explanation": "The primary stress in the adjective 'present' /ˈprɛzənt/ falls on the first syllable, 'pre'."
+    },
+    {
+      "id": "U2020_37",
+      "text": "The word $\\textbf{'social'}$ $\\textbf{s o c i a l}$.\n\nWhich of the following words has the same $\\textbf{consonant}$ $\\textbf{sound}$ as the 'c' in **social**?",
+      "image": "",
+      "options": [
+        "Car",
+        "Face",
+        "Ship",
+        "Casual"
+      ],
+      "answer": "Ship",
+      "explanation": "The 'c' in 'social' /ˈsoʊʃəl/ is pronounced /ʃ/ (the 'sh' sound). The consonant sound in 'Ship' is also /ʃ/."
+    },
+    {
+      "id": "U2020_38",
+      "text": "The employee was always **on the ball** and completed every task efficiently.\n\nChoose the option that best explains the idiom **on the ball**.",
+      "image": "",
+      "options": [
+        "Playing a sport well",
+        "Distracted and unfocused",
+        "Alert, competent, and aware of things",
+        "Waiting for instructions"
+      ],
+      "answer": "Alert, competent, and aware of things",
+      "explanation": "To be 'on the ball' is an idiom meaning to be alert, aware, and competent."
+    },
+    {
+      "id": "U2020_39",
+      "text": "The debate became $\\textbf{acrimonious}$ when the moderator lost control of the participants.\n\nChoose the word that is closest in meaning to the word $\\textbf{acrimonious}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Friendly and pleasant",
+        "Harmonious",
+        "Bitter and angry in tone",
+        "Calm"
+      ],
+      "answer": "Bitter and angry in tone",
+      "explanation": "Acrimonious means (typically of a speech or debate) angry and bitter."
+    },
+    {
+      "id": "U2020_40",
+      "text": "Neither the government nor the public health authorities $\\textbf{(was/were)}$ fully prepared for the speed of the global outbreak.\n\nChoose the correct option to fill the gap.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
+      "answer": "were",
+      "explanation": "When 'neither... nor' connects two subjects, the verb agrees with the subject closest to it. Since 'public health authorities' (plural) is closest, the plural verb 'were' is correct."
+    }
+  ]

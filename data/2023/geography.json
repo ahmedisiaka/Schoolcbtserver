@@ -1,0 +1,522 @@
+[
+    {
+        "id": "GEO01",
+        "text": "The $\\textbf{Prime Meridian}$, which determines the $\\textbf{Time Zones}$ for the world, passes through the Royal Observatory in $\\textbf{Greenwich}$, located in $\\textbf{England}$.",
+        "image": "",
+        "options": [
+            "Paris, France",
+            "Greenwich, England",
+            "New York, USA",
+            "Tokyo, Japan"
+        ],
+        "answer": "Greenwich, England",
+        "explanation": "Established in 1884, the Prime Meridian defines 0° longitude and serves as the reference point for Coordinated Universal Time (UTC)."
+    },
+    {
+        "id": "GEO02",
+        "text": "The $\\textbf{Himalayas}$ were formed by the collision of the $\\textbf{Indian Plate}$ and the $\\textbf{Eurasian Plate}$, a process known as $\\textbf{Continental Drift}$.",
+        "image": "",
+        "options": [
+            "Divergent Boundary",
+            "Transform Fault",
+            "Convergent Boundary",
+            "Subduction Zone"
+        ],
+        "answer": "Convergent Boundary",
+        "explanation": "The Himalayas are a classic example of a convergent boundary where two continental plates collide, forcing the crust upward to form mountains."
+    },
+    {
+        "id": "GEO03",
+        "text": "The $\\textbf{Amazon Rainforest}$ is frequently referred to as the 'Lungs of the Earth' because it produces roughly 20% of the world's $\\textbf{Oxygen}$ and acts as a massive $\\textbf{Carbon Sink}$.",
+        "image": "",
+        "options": [
+            "Sahara Desert",
+            "Amazon Rainforest",
+            "Great Barrier Reef",
+            "Siberian Taiga"
+        ],
+        "answer": "Amazon Rainforest",
+        "explanation": "Spanning nine nations, the Amazon acts as a critical carbon sink, absorbing billions of tons of carbon dioxide annually."
+    },
+    {
+        "id": "GEO04",
+        "text": "The $\\textbf{Suez Canal}$ creates a crucial artificial shipping route connecting the $\\textbf{Mediterranean Sea}$ to the $\\textbf{Red Sea}$, bypassing the need to sail around $\\textbf{Africa}$.",
+        "image": "",
+        "options": [
+            "Panama Canal",
+            "Suez Canal",
+            "Kiel Canal",
+            "Erie Canal"
+        ],
+        "answer": "Suez Canal",
+        "explanation": "Completed in 1869, the Suez Canal offers the shortest maritime route between Europe and the lands lying around the Indian and western Pacific oceans."
+    },
+    {
+        "id": "GEO05",
+        "text": "The phenomenon known as $\\textbf{El Niño}$ involves the warming of sea surface temperatures in the central and eastern $\\textbf{Pacific Ocean}$, significantly affecting global $\\textbf{Weather Patterns}$.",
+        "image": "",
+        "options": [
+            "La Niña",
+            "El Niño",
+            "The Gulf Stream",
+            "Monsoon"
+        ],
+        "answer": "El Niño",
+        "explanation": "El Niño is the warm phase of the El Niño–Southern Oscillation (ENSO) and is associated with a band of warm ocean water that develops in the central and east-central equatorial Pacific."
+    },
+    {
+        "id": "GEO06",
+        "text": "The $\\textbf{River Nile}$ is traditionally considered the longest river in the world, flowing north through $\\textbf{Northeastern Africa}$ to drain into the $\\textbf{Mediterranean Sea}$.",
+        "image": "",
+        "options": [
+            "Amazon River",
+            "Yangtze River",
+            "Nile River",
+            "Mississippi River"
+        ],
+        "answer": "Nile River",
+        "explanation": "While the Amazon's length is sometimes contested as longer, the Nile is historically recognized as the longest, sustaining civilizations in Egypt and Sudan."
+    },
+    {
+        "id": "GEO07",
+        "text": "The $\\textbf{Ring of Fire}$ is a major area in the basin of the $\\textbf{Pacific Ocean}$ where many $\\textbf{Earthquakes}$ and $\\textbf{Volcanic Eruptions}$ occur.",
+        "image": "",
+        "options": [
+            "Atlantic Ridge",
+            "Ring of Fire",
+            "San Andreas Fault",
+            "Great Rift Valley"
+        ],
+        "answer": "Ring of Fire",
+        "explanation": "The Ring of Fire is home to about 75% of the world's active volcanoes and 90% of the world's earthquakes due to tectonic plate movement."
+    },
+    {
+        "id": "GEO08",
+        "text": "The $\\textbf{Sahara Desert}$ is the largest hot desert in the world, covering most of $\\textbf{North Africa}$ and roughly comparable in size to the $\\textbf{United States}$.",
+        "image": "",
+        "options": [
+            "Gobi Desert",
+            "Kalahari Desert",
+            "Sahara Desert",
+            "Atacama Desert"
+        ],
+        "answer": "Sahara Desert",
+        "explanation": "The Sahara spans roughly 9.2 million square kilometers, making it the largest hot desert, though the Antarctic desert is larger by area."
+    },
+    {
+        "id": "GEO09",
+        "text": "The $\\textbf{Panama Canal}$ uses a system of $\\textbf{Locks}$ to raise ships 85 feet above sea level, allowing them to cross the $\\textbf{Isthmus of Panama}$ between the Atlantic and Pacific.",
+        "image": "",
+        "options": [
+            "Dredging",
+            "Locks",
+            "Tunnels",
+            "Aqueducts"
+        ],
+        "answer": "Locks",
+        "explanation": "The canal locks function as water lifts, raising and lowering ships to the level of Gatun Lake to traverse the continental divide."
+    },
+    {
+        "id": "GEO10",
+        "text": "The capital city of $\\textbf{Australia}$ is $\\textbf{Canberra}$, a planned city chosen as a compromise between the two largest rival cities, $\\textbf{Sydney}$ and $\\textbf{Melbourne}$.",
+        "image": "",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra",
+        "explanation": "Canberra was selected as the capital in 1908 and is located within the Australian Capital Territory, distinct from any state."
+    },
+    {
+        "id": "GEO11",
+        "text": "The $\\textbf{Great Barrier Reef}$, located off the coast of $\\textbf{Queensland}$, Australia, is the world's largest $\\textbf{Coral Reef}$ system and is visible from $\\textbf{Space}$.",
+        "image": "",
+        "options": [
+            "Belize Barrier Reef",
+            "Great Barrier Reef",
+            "Red Sea Coral Reef",
+            "New Caledonia Barrier Reef"
+        ],
+        "answer": "Great Barrier Reef",
+        "explanation": "Comprising over 2,900 individual reefs and 900 islands, it is the world's biggest single structure made by living organisms."
+    },
+    {
+        "id": "GEO12",
+        "text": "The $\\textbf{Strait of Hormuz}$ is a critical choke point for global $\\textbf{Oil}$ transportation, located between the $\\textbf{Persian Gulf}$ and the $\\textbf{Gulf of Oman}$.",
+        "image": "",
+        "options": [
+            "Strait of Gibraltar",
+            "Strait of Malacca",
+            "Strait of Hormuz",
+            "Bab el-Mandeb"
+        ],
+        "answer": "Strait of Hormuz",
+        "explanation": "Roughly one-fifth of the world's total oil consumption passes through this strait, making it highly strategic geopolitically."
+    },
+    {
+        "id": "GEO13",
+        "text": "The country with the largest $\\textbf{Population}$ in the world, having surpassed China in 2023, is $\\textbf{India}$.",
+        "image": "",
+        "options": [
+            "United States",
+            "Indonesia",
+            "India",
+            "China"
+        ],
+        "answer": "India",
+        "explanation": "According to UN estimates, India overtook China as the most populous nation in mid-2023, with over 1.4 billion people."
+    },
+    {
+        "id": "GEO14",
+        "text": "The $\\textbf{Andes Mountains}$ run along the western edge of $\\textbf{South America}$ and constitute the longest continental $\\textbf{Mountain Range}$ in the world.",
+        "image": "",
+        "options": [
+            "Rockies",
+            "Andes",
+            "Alps",
+            "Urals"
+        ],
+        "answer": "Andes",
+        "explanation": "Stretching approximately 7,000 km, the Andes traverse seven countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina."
+    },
+    {
+        "id": "GEO15",
+        "text": "The $\\textbf{Dead Sea}$, bordered by Jordan and Israel, is known for being the $\\textbf{Lowest Point}$ on Earth's land surface and for its extreme $\\textbf{Salinity}$.",
+        "image": "",
+        "options": [
+            "Caspian Sea",
+            "Dead Sea",
+            "Lake Baikal",
+            "Aral Sea"
+        ],
+        "answer": "Dead Sea",
+        "explanation": "Its surface and shores are more than 430 meters below sea level, and its hypersaline water makes floating easy but aquatic life impossible."
+    },
+    {
+        "id": "GEO16",
+        "text": "The $\\textbf{Mauna Kea}$ in $\\textbf{Hawaii}$ is technically the tallest mountain on Earth when measured from its $\\textbf{Base}$ on the ocean floor to its $\\textbf{Peak}$.",
+        "image": "",
+        "options": [
+            "Mount Everest",
+            "K2",
+            "Mauna Kea",
+            "Kilimanjaro"
+        ],
+        "answer": "Mauna Kea",
+        "explanation": "While Everest is highest above sea level, Mauna Kea is over 10,000 meters tall when measured from its underwater base."
+    },
+    {
+        "id": "GEO17",
+        "text": "The $\\textbf{Vatican City}$ is the smallest internationally recognized independent $\\textbf{State}$ in the world, located entirely within the city of $\\textbf{Rome}$.",
+        "image": "",
+        "options": [
+            "Monaco",
+            "San Marino",
+            "Vatican City",
+            "Liechtenstein"
+        ],
+        "answer": "Vatican City",
+        "explanation": "With an area of approximately 44 hectares (110 acres) and a population of roughly 800, it is the smallest sovereign state."
+    },
+    {
+        "id": "GEO18",
+        "text": "The $\\textbf{Gulf Stream}$ is a powerful $\\textbf{Warm Ocean Current}$ in the Atlantic that significantly influences the climate of the $\\textbf{East Coast}$ of North America and $\\textbf{Western Europe}$.",
+        "image": "",
+        "options": [
+            "Humboldt Current",
+            "Gulf Stream",
+            "Labrador Current",
+            "Canary Current"
+        ],
+        "answer": "Gulf Stream",
+        "explanation": "This current transports warm water from the tropics toward the North Atlantic, keeping Western Europe warmer than other regions at similar latitudes."
+    },
+    {
+        "id": "GEO19",
+        "text": "The $\\textbf{Antarctic Desert}$ is technically the largest desert on Earth because a desert is defined by low $\\textbf{Precipitation}$, not just $\\textbf{Heat}$.",
+        "image": "",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Antarctic",
+            "Arabian"
+        ],
+        "answer": "Antarctic",
+        "explanation": "Antarctica receives very little precipitation (mostly snow), classifying it as a polar desert and the largest desert globally."
+    },
+    {
+        "id": "GEO20",
+        "text": "The $\\textbf{Strait of Gibraltar}$ connects the $\\textbf{Atlantic Ocean}$ to the $\\textbf{Mediterranean Sea}$ and separates $\\textbf{Europe}$ from $\\textbf{Africa}$.",
+        "image": "",
+        "options": [
+            "Bosporus Strait",
+            "Strait of Gibraltar",
+            "Strait of Dover",
+            "Strait of Magellan"
+        ],
+        "answer": "Strait of Gibraltar",
+        "explanation": "At its narrowest point, the strait is only about 14 kilometers (9 miles) wide, separating Spain from Morocco."
+    },
+    {
+        "id": "GEO21",
+        "text": "The $\\textbf{Danube River}$ flows through ten countries, more than any other river in the world, including passing through four capital cities: $\\textbf{Vienna}$, $\\textbf{Bratislava}$, $\\textbf{Budapest}$, and $\\textbf{Belgrade}$.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Volga",
+            "Danube",
+            "Seine"
+        ],
+        "answer": "Danube",
+        "explanation": "It is the second-longest river in Europe and serves as a vital commercial waterway connecting Central and Eastern Europe."
+    },
+    {
+        "id": "GEO22",
+        "text": "The $\\textbf{Tropics}$ are defined as the region of Earth surrounding the Equator, bounded in latitude by the $\\textbf{Tropic of Cancer}$ in the north and the $\\textbf{Tropic of Capricorn}$ in the south.",
+        "image": "",
+        "options": [
+            "Arctic Circle",
+            "Prime Meridian",
+            "Tropic of Capricorn",
+            "Equator"
+        ],
+        "answer": "Tropic of Capricorn",
+        "explanation": "These latitudes (23.5° N and 23.5° S) mark the farthest points north and south where the sun can appear directly overhead."
+    },
+    {
+        "id": "GEO23",
+        "text": "The country of $\\textbf{Turkey}$ spans two continents, $\\textbf{Europe}$ and $\\textbf{Asia}$, with the city of $\\textbf{Istanbul}$ physically divided by the $\\textbf{Bosphorus Strait}$.",
+        "image": "",
+        "options": [
+            "Russia",
+            "Turkey",
+            "Egypt",
+            "Kazakhstan"
+        ],
+        "answer": "Turkey",
+        "explanation": "Turkey acts as a geographical and cultural bridge between East and West, with a small portion (Thrace) in Europe and the majority (Anatolia) in Asia."
+    },
+    {
+        "id": "GEO24",
+        "text": "The $\\textbf{Great Lakes}$ of North America contain approximately 21% of the world's surface fresh $\\textbf{Water}$ by volume.",
+        "image": "",
+        "options": [
+            "Caspian Sea",
+            "Great Lakes",
+            "Lake Victoria",
+            "Finger Lakes"
+        ],
+        "answer": "Great Lakes",
+        "explanation": "Consisting of Superior, Michigan, Huron, Erie, and Ontario, this system is the largest group of freshwater lakes on Earth by total area."
+    },
+    {
+        "id": "GEO25",
+        "text": "The $\\textbf{Atacama Desert}$ in $\\textbf{Chile}$ is considered the driest non-polar place on Earth, with some weather stations never having recorded $\\textbf{Rain}$.",
+        "image": "",
+        "options": [
+            "Mojave Desert",
+            "Atacama Desert",
+            "Namib Desert",
+            "Sonoran Desert"
+        ],
+        "answer": "Atacama Desert",
+        "explanation": "Its extreme aridity is caused by the rain shadow of the Andes and the cold Humboldt Current, preventing moisture formation."
+    },
+    {
+        "id": "GEO26",
+        "text": "The $\\textbf{Mariana Trench}$, located in the western Pacific Ocean, contains the $\\textbf{Challenger Deep}$, the deepest known point in Earth's $\\textbf{Seabed}$.",
+        "image": "",
+        "options": [
+            "Tonga Trench",
+            "Puerto Rico Trench",
+            "Mariana Trench",
+            "Java Trench"
+        ],
+        "answer": "Mariana Trench",
+        "explanation": "The Challenger Deep reaches a depth of approximately 10,935 meters (35,876 feet), deeper than Mount Everest is tall."
+    },
+    {
+        "id": "GEO27",
+        "text": "The $\\textbf{Ozone Layer}$, which absorbs most of the Sun's ultraviolet radiation, is located primarily in the $\\textbf{Stratosphere}$.",
+        "image": "",
+        "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+        ],
+        "answer": "Stratosphere",
+        "explanation": "The ozone layer is a region of Earth's stratosphere that contains a high concentration of ozone (O3) relative to other parts of the atmosphere."
+    },
+    {
+        "id": "GEO28",
+        "text": "The $\\textbf{English Channel}$ is the body of water that separates $\\textbf{Southern England}$ from $\\textbf{Northern France}$ and is crossed by the $\\textbf{Channel Tunnel}$.",
+        "image": "",
+        "options": [
+            "North Sea",
+            "Irish Sea",
+            "English Channel",
+            "Baltic Sea"
+        ],
+        "answer": "English Channel",
+        "explanation": "The Channel Tunnel ('Chunnel') runs beneath this waterway, providing the only fixed link between the island of Great Britain and the European mainland."
+    },
+    {
+        "id": "GEO29",
+        "text": "The $\\textbf{Greenland Ice Sheet}$ is the second-largest ice body in the world, after the $\\textbf{Antarctic Ice Sheet}$, and holds enough ice to raise sea levels by over 7 meters if $\\textbf{Melted}$.",
+        "image": "",
+        "options": [
+            "Icelandic Glacier",
+            "Greenland Ice Sheet",
+            "Alaskan Ice Field",
+            "Siberian Permafrost"
+        ],
+        "answer": "Greenland Ice Sheet",
+        "explanation": "Covering about 80% of Greenland, its melting is a major concern for global sea-level rise due to climate change."
+    },
+    {
+        "id": "GEO30",
+        "text": "The $\\textbf{Sahel}$ is the ecoclimatic and biogeographic zone of transition in Africa between the $\\textbf{Sahara}$ to the north and the $\\textbf{Sudanian Savanna}$ to the south.",
+        "image": "",
+        "options": [
+            "Serengeti",
+            "Sahel",
+            "Veld",
+            "Maghreb"
+        ],
+        "answer": "Sahel",
+        "explanation": "The Sahel stretches across the south-central latitudes of Northern Africa and faces significant challenges from desertification."
+    },
+    {
+        "id": "GEO31",
+        "text": "The $\\textbf{Bering Strait}$ is the narrow maritime passage between $\\textbf{Russia}$ and the $\\textbf{United States}$ (Alaska), connecting the Pacific and Arctic $\\textbf{Oceans}$.",
+        "image": "",
+        "options": [
+            "Davis Strait",
+            "Bering Strait",
+            "Denmark Strait",
+            "Florida Strait"
+        ],
+        "answer": "Bering Strait",
+        "explanation": "It is believed that early humans migrated from Asia to North America across a land bridge (Beringia) here during the last Ice Age."
+    },
+    {
+        "id": "GEO32",
+        "text": "The $\\textbf{Appalachian Mountains}$ are a system of mountains in eastern $\\textbf{North America}$ that are significantly $\\textbf{Older}$ and more eroded than the $\\textbf{Rocky Mountains}$.",
+        "image": "",
+        "options": [
+            "Cascades",
+            "Sierra Nevada",
+            "Appalachians",
+            "Ozarks"
+        ],
+        "answer": "Appalachians",
+        "explanation": "Formed roughly 480 million years ago, the Appalachians have been worn down by time, resulting in rounded peaks compared to the jagged Rockies."
+    },
+    {
+        "id": "GEO33",
+        "text": "The $\\textbf{Mediterranean Climate}$ is characterized by hot, dry $\\textbf{Summers}$ and mild, wet $\\textbf{Winters}$, commonly found in places like California, central Chile, and $\\textbf{Southern Europe}$.",
+        "image": "",
+        "options": [
+            "Tropical Rainforest",
+            "Tundra",
+            "Mediterranean Climate",
+            "Humid Continental"
+        ],
+        "answer": "Mediterranean Climate",
+        "explanation": "This climate is ideal for growing crops like olives, grapes, and citrus fruits, famously associated with the Mediterranean basin."
+    },
+    {
+        "id": "GEO34",
+        "text": "The $\\textbf{Horn of Africa}$ is a peninsula in Northeast Africa containing the countries of $\\textbf{Somalia}$, $\\textbf{Ethiopia}$, $\\textbf{Eritrea}$, and $\\textbf{Djibouti}$.",
+        "image": "",
+        "options": [
+            "Cape of Good Hope",
+            "Horn of Africa",
+            "Sinai Peninsula",
+            "Iberian Peninsula"
+        ],
+        "answer": "Horn of Africa",
+        "explanation": "It juts into the Arabian Sea and overlooks the strategic Bab el-Mandeb strait leading to the Red Sea."
+    },
+    {
+        "id": "GEO35",
+        "text": "The $\\textbf{Rhine River}$ is a major European river that starts in the $\\textbf{Swiss Alps}$ and flows north into the $\\textbf{North Sea}$, serving as a vital industrial transport $\\textbf{Artery}$.",
+        "image": "",
+        "options": [
+            "Rhine",
+            "Thames",
+            "Elbe",
+            "Loire"
+        ],
+        "answer": "Rhine",
+        "explanation": "The Rhine has historically been one of Europe's most important waterways for trade and industry, particularly for Germany and the Netherlands."
+    },
+    {
+        "id": "GEO36",
+        "text": "The $\\textbf{International Date Line}$ largely follows the $\\textbf{180° Meridian}$, deviating in places to avoid splitting countries or island groups into two different $\\textbf{Calendar Days}$.",
+        "image": "",
+        "options": [
+            "Prime Meridian",
+            "Equator",
+            "International Date Line",
+            "Arctic Circle"
+        ],
+        "answer": "International Date Line",
+        "explanation": "Crossing the line from west to east results in subtracting a day, while crossing from east to west adds a day."
+    },
+    {
+        "id": "GEO37",
+        "text": "The $\\textbf{Baltic States}$ is a geopolitical term used to group the three countries of $\\textbf{Estonia}$, $\\textbf{Latvia}$, and $\\textbf{Lithuania}$ in Northern $\\textbf{Europe}$.",
+        "image": "",
+        "options": [
+            "Balkan States",
+            "Nordic Countries",
+            "Baltic States",
+            "Benelux"
+        ],
+        "answer": "Baltic States",
+        "explanation": "These three nations are located on the eastern coast of the Baltic Sea and share similar histories of Soviet occupation and subsequent independence."
+    },
+    {
+        "id": "GEO38",
+        "text": "The $\\textbf{Great Rift Valley}$ is a continuous geographic trench running from $\\textbf{Lebanon}$ to $\\textbf{Mozambique}$, visible from space and known for its diverse $\\textbf{Wildlife}$ and early human $\\textbf{Fossils}$.",
+        "image": "",
+        "options": [
+            "Grand Canyon",
+            "Great Rift Valley",
+            "San Andreas Fault",
+            "Mariana Trench"
+        ],
+        "answer": "Great Rift Valley",
+        "explanation": "It is being created by the splitting of the African Plate into two new separate plates, a process that will eventually create a new ocean."
+    },
+    {
+        "id": "GEO39",
+        "text": "The $\\textbf{Gobi Desert}$ is a vast, cold desert region in northern $\\textbf{China}$ and southern $\\textbf{Mongolia}$, known for its dunes and rare $\\textbf{Snow Leopards}$.",
+        "image": "",
+        "options": [
+            "Sahara",
+            "Kalahari",
+            "Gobi",
+            "Patagonian"
+        ],
+        "answer": "Gobi",
+        "explanation": "Unlike the sandy Sahara, much of the Gobi is bare rock, and its high latitude and altitude result in very cold temperatures, especially in winter."
+    },
+    {
+        "id": "GEO40",
+        "text": "The $\\textbf{Strait of Malacca}$ is the primary shipping channel between the $\\textbf{Indian Ocean}$ and the $\\textbf{Pacific Ocean}$, located between $\\textbf{Indonesia}$ and $\\textbf{Malaysia}$.",
+        "image": "",
+        "options": [
+            "Sunda Strait",
+            "Strait of Malacca",
+            "Bass Strait",
+            "Torres Strait"
+        ],
+        "answer": "Strait of Malacca",
+        "explanation": "It is one of the most important shipping lanes in the world, carrying about 25% of all traded goods, including oil and Chinese manufactured products."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+      "id": "JAMB_P_2018_01",
+      "text": "Which of the following physical quantities is a vector quantity?",
+      "image": "[Image illustrating vectors (force, velocity) vs scalars (mass, time)]",
+      "options": ["Mass", "Distance", "Time", "Momentum"],
+      "answer": "Momentum",
+      "explanation": "Vector quantities have both magnitude and direction. Momentum (mass $\\times$ velocity), Force, Acceleration, and Displacement are vectors. Mass, Distance, and Time are scalar quantities."
+    },
+    {
+      "id": "JAMB_P_2018_02",
+      "text": "A car accelerates uniformly from rest at $4.0 \\text{ m/s}^2$. What is its velocity after $5.0 \\text{ s}$?",
+      "image": "[Image showing a graph of velocity vs time for uniform acceleration]",
+      "options": ["$1.25 \\text{ m/s}$", "$20.0 \\text{ m/s}$", "$40.0 \\text{ m/s}$", "$0.80 \\text{ m/s}$"],
+      "answer": "$20.0 \\text{ m/s}$",
+      "explanation": "Using the equation of motion $v = u + at$.\nGiven: $u = 0 \\text{ m/s}$ (from rest), $a = 4.0 \\text{ m/s}^2$, $t = 5.0 \\text{ s}$.\n$v = 0 + (4.0 \\times 5.0) = 20.0 \\text{ m/s}$."
+    },
+    {
+      "id": "JAMB_P_2018_03",
+      "text": "The maximum height reached by a projectile launched at an angle $\\theta$ to the horizontal with initial velocity $u$ is given by:",
+      "image": "[Image showing the trajectory of a projectile with height $H$ indicated]",
+      "options": ["$\\frac{u^2 \\sin(2\\theta)}{g}$", "$\\frac{u^2 \\sin^2\\theta}{2g}$", "$\\frac{u^2 \\cos^2\\theta}{2g}$", "$\\frac{u \\sin\\theta}{g}$"],
+      "answer": "$\\frac{u^2 \\sin^2\\theta}{2g}$",
+      "explanation": "The maximum height ($H$) of a projectile is determined by the vertical component of the initial velocity ($u \\sin\\theta$). The formula for maximum height is $H = \\frac{(u \\sin\\theta)^2}{2g} = \\frac{u^2 \\sin^2\\theta}{2g}$."
+    },
+    {
+      "id": "JAMB_P_2018_04",
+      "text": "If the ice and steam points on a thermometer are $20^{\\circ}$ and $100^{\\circ}$ respectively, what is the reading in Celsius when the thermometer reads $40^{\\circ}$?",
+      "image": "[Image showing two temperature scales (Celsius and an arbitrary scale) aligned for comparison]",
+      "options": ["$20^{\\circ}C$", "$25^{\\circ}C$", "$30^{\\circ}C$", "$50^{\\circ}C$"],
+      "answer": "$25^{\\circ}C$",
+      "explanation": "Use the conversion formula: $\\frac{\\text{Reading} - \\text{Ice Point}}{\\text{Steam Point} - \\text{Ice Point}} = \\text{Constant}$.\nFor Celsius: $\\frac{C - 0}{100 - 0} = \\frac{C}{100}$.\nFor the unknown scale: $\\frac{40 - 20}{100 - 20} = \\frac{20}{80} = \\frac{1}{4}$.\nEquating them: $\\frac{C}{100} = \\frac{1}{4} \\implies C = \\frac{100}{4} = 25^{\\circ}C$."
+    },
+    {
+      "id": "JAMB_P_2018_05",
+      "text": "A metal rod of length $1.00 \\text{ m}$ is heated from $20^{\\circ}C$ to $80^{\\circ}C$. If the linear expansivity of the metal is $2.0 \\times 10^{-5} \\text{ K}^{-1}$, what is the increase in length?",
+      "image": "[Image illustrating the linear expansion of a bar when heated]",
+      "options": ["$1.2 \\times 10^{-4} \\text{ m}$", "$1.2 \\times 10^{-3} \\text{ m}$", "$1.2 \\times 10^{-2} \\text{ m}$", "$1.2 \\times 10^{-1} \\text{ m}$"],
+      "answer": "$1.2 \\times 10^{-3} \\text{ m}$",
+      "explanation": "Increase in length $\\Delta L = L_o \\alpha \\Delta\\theta$.\n$L_o = 1.00 \\text{ m}$, $\\alpha = 2.0 \\times 10^{-5} \\text{ K}^{-1}$.\n$\\Delta\\theta = 80^{\\circ}C - 20^{\\circ}C = 60^{\\circ}C \\equiv 60 \\text{ K}$.\n$\\Delta L = (1.00 \\text{ m}) \\times (2.0 \\times 10^{-5} \\text{ K}^{-1}) \\times (60 \\text{ K})$\n$\\Delta L = 120 \\times 10^{-5} \\text{ m} = 1.2 \\times 10^{-3} \\text{ m}$."
+    },
+    {
+      "id": "JAMB_P_2018_06",
+      "text": "The pressure in a liquid at a given depth depends on:",
+      "image": "[Image showing a diagram of pressure increasing with depth $h$ in a liquid]",
+      "options": ["The volume of the liquid", "The shape of the container", "The density of the liquid", "The area of the surface"],
+      "answer": "The density of the liquid",
+      "explanation": "Pressure ($P$) in a liquid at depth ($h$) is given by the formula $P = \\rho g h$, where $\\rho$ is the density of the liquid and $g$ is the acceleration due to gravity. Therefore, pressure depends on the density and depth, but not the volume or shape of the container."
+    },
+    {
+      "id": "JAMB_P_2018_07",
+      "text": "Which of the following is true about a wave motion?",
+      "image": "[Image illustrating crests, troughs, wavelength, and amplitude of a transverse wave]",
+      "options": ["Energy is transferred along the wave", "Matter is transferred along the wave", "Both matter and energy are transferred", "Neither matter nor energy is transferred"],
+      "answer": "Energy is transferred along the wave",
+      "explanation": "A wave is a disturbance that transfers energy from one point to another without the net transfer of matter. The particles of the medium only oscillate about their mean positions."
+    },
+    {
+      "id": "JAMB_P_2018_08",
+      "text": "Sound waves travel fastest in:",
+      "image": "[Image comparing the speed of sound in solids, liquids, and gases]",
+      "options": ["Air", "Vacuum", "Water", "Steel"],
+      "answer": "Steel",
+      "explanation": "The speed of sound depends on the density and elasticity of the medium. Generally, sound travels fastest in solids (like steel) because particles are closely packed and elastic forces are high, intermediate in liquids (like water), and slowest in gases (like air). Sound cannot travel through a vacuum."
+    },
+    {
+      "id": "JAMB_P_2018_09",
+      "text": "If the angle of incidence of a ray of light passing from air to glass is $45^{\\circ}$ and the angle of refraction is $30^{\\circ}$, the refractive index of the glass is:",
+      "image": "[Image showing a ray of light refracting at the air-glass boundary]",
+      "options": ["$1.22$", "$1.41$", "$1.53$", "$1.80$"],
+      "answer": "$1.41$",
+      "explanation": "According to Snell's Law, the refractive index ($n$) is given by $n = \\frac{\\sin i}{\\sin r}$.\n$i = 45^{\\circ}$, $r = 30^{\\circ}$.\n$n = \\frac{\\sin 45^{\\circ}}{\\sin 30^{\\circ}} = \\frac{0.707}{0.5} = 1.414 \\approx 1.41$."
+    },
+    {
+      "id": "JAMB_P_2018_10",
+      "text": "Total internal reflection occurs only when light travels from:",
+      "image": "[Image illustrating total internal reflection and the critical angle]",
+      "options": ["A less dense medium to a denser medium", "A denser medium to a less dense medium", "Air to vacuum", "Water to glass"],
+      "answer": "A denser medium to a less dense medium",
+      "explanation": "Total internal reflection (TIR) requires two conditions: 1) The light must be traveling from an optically denser medium to an optically less dense medium. 2) The angle of incidence must be greater than the critical angle."
+    },
+    {
+      "id": "JAMB_P_2018_11",
+      "text": "A convex lens of focal length $10 \\text{ cm}$ forms a real image at $20 \\text{ cm}$. What is the object distance?",
+      "image": "[Image showing a ray diagram for a convex lens forming a real image]",
+      "options": ["$10 \\text{ cm}$", "$20 \\text{ cm}$", "$30 \\text{ cm}$", "$40 \\text{ cm}$"],
+      "answer": "$20 \\text{ cm}$",
+      "explanation": "Use the lens formula: $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$.\nGiven: $f = +10 \\text{ cm}$ (convex), $v = +20 \\text{ cm}$ (real image).\n$\\frac{1}{10} = \\frac{1}{u} + \\frac{1}{20}$\n$\\frac{1}{u} = \\frac{1}{10} - \\frac{1}{20} = \\frac{2 - 1}{20} = \\frac{1}{20}$\n$u = 20 \\text{ cm}$. (The object is at $2F$)."
+    },
+    {
+      "id": "JAMB_P_2018_12",
+      "text": "Which part of the human eye is analogous to the film in a camera?",
+      "image": "[Image of the human eye cross-section, highlighting the retina]",
+      "options": ["Iris", "Cornea", "Lens", "Retina"],
+      "answer": "Retina",
+      "explanation": "The retina is the light-sensitive surface at the back of the eye where the image is formed, much like the film or sensor in a camera. The lens focuses the light, and the iris controls the light intensity (aperture)."
+    },
+    {
+      "id": "JAMB_P_2018_13",
+      "text": "The potential difference across a $5 \\text{ \\Omega}$ resistor is $10 \\text{ V}$. What is the current flowing through it?",
+      "image": "[Image illustrating Ohm's Law formula $V = IR$]",
+      "options": ["$0.5 \\text{ A}$", "$2.0 \\text{ A}$", "$5.0 \\text{ A}$", "$10.0 \\text{ A}$"],
+      "answer": "$2.0 \\text{ A}$",
+      "explanation": "According to Ohm's Law, $V = IR$, where $I$ is the current, $V$ is the voltage, and $R$ is the resistance.\n$I = \\frac{V}{R} = \\frac{10 \\text{ V}}{5 \\text{ \\Omega}} = 2.0 \\text{ A}$."
+    },
+    {
+      "id": "JAMB_P_2018_14",
+      "text": "Three resistors of $2 \\text{ \\Omega}$, $3 \\text{ \\Omega}$ and $5 \\text{ \\Omega}$ are connected in series. The equivalent resistance is:",
+      "image": "[Image showing three resistors connected in series]",
+      "options": ["$1.0 \\text{ \\Omega}$", "$1.1 \\text{ \\Omega}$", "$5.0 \\text{ \\Omega}$", "$10.0 \\text{ \\Omega}$"],
+      "answer": "$10.0 \\text{ \\Omega}$",
+      "explanation": "For resistors in series, the equivalent resistance ($R_T$) is the sum of the individual resistances:\n$R_T = R_1 + R_2 + R_3 = 2 \\text{ \\Omega} + 3 \\text{ \\Omega} + 5 \\text{ \\Omega} = 10 \\text{ \\Omega}$."
+    },
+    {
+      "id": "JAMB_P_2018_15",
+      "text": "Capacitors are used in electrical circuits to store:",
+      "image": "[Image showing the structure of a simple parallel plate capacitor]",
+      "options": ["Voltage", "Current", "Charge", "Resistance"],
+      "answer": "Charge",
+      "explanation": "A capacitor is an electrical component designed to store electric charge. This stored charge creates a potential difference (voltage) across its plates, and the ability to store charge is measured by its capacitance ($C = Q/V$)."
+    },
+    {
+      "id": "JAMB_P_2018_16",
+      "text": "The magnetic field around a current-carrying straight wire is:",
+      "image": "[Image illustrating the magnetic field lines around a straight current-carrying wire using the right-hand grip rule]",
+      "options": ["Straight lines parallel to the wire", "Circular lines perpendicular to the wire", "Straight lines radiating outwards", "Circular lines parallel to the wire"],
+      "answer": "Circular lines perpendicular to the wire",
+      "explanation": "The magnetic field produced by a current flowing through a straight conductor is in the form of concentric circular field lines lying in a plane perpendicular to the wire. The direction is given by the Right-Hand Grip Rule."
+    },
+    {
+      "id": "JAMB_P_2018_17",
+      "text": "Which of the following is the best way to demagnetize a steel bar magnet?",
+      "image": "[Image showing heating/hammering or AC demagnetization of a magnet]",
+      "options": ["Heating it to a very high temperature", "Putting it near a strong magnet", "Stroking it with another magnet", "Keeping it in a magnetic field"],
+      "answer": "Heating it to a very high temperature",
+      "explanation": "Heating a magnet to a very high temperature (above the Curie temperature) or subjecting it to severe hammering breaks the alignment of the magnetic domains, thus demagnetizing it. This is a common method for demagnetizing steel, which is 'hard' magnetic material."
+    },
+    {
+      "id": "JAMB_P_2018_18",
+      "text": "The part of the AC generator that converts AC to DC is the:",
+      "image": "[Image comparing the structure of an AC generator (slip rings) and a DC generator (split-ring commutator)]",
+      "options": ["Slip rings", "Split-ring commutator", "Armature", "Field winding"],
+      "answer": "Split-ring commutator",
+      "explanation": "An AC generator (alternator) uses slip rings. A DC generator is essentially an AC generator that uses a split-ring commutator to reverse the connections every half-cycle, resulting in direct current output."
+    },
+    {
+      "id": "JAMB_P_2018_19",
+      "text": "The maximum power transfer to a load occurs when the load resistance is equal to the:",
+      "image": "[Image showing a circuit diagram illustrating the Maximum Power Transfer Theorem]",
+      "options": ["Internal resistance of the source", "Source voltage", "Source current", "Sum of all resistances"],
+      "answer": "Internal resistance of the source",
+      "explanation": "The Maximum Power Transfer Theorem states that for maximum power to be delivered from a source to a load, the resistance of the load must be equal to the internal resistance of the source."
+    },
+    {
+      "id": "JAMB_P_2018_20",
+      "text": "Which of the following is a unit of energy?",
+      "image": "",
+      "options": ["Newton", "Watt", "Joule", "Pascal"],
+      "answer": "Joule",
+      "explanation": "The Joule ($J$) is the SI unit of work and energy. The Newton ($N$) is the unit of force, the Watt ($W$) is the unit of power, and the Pascal ($Pa$) is the unit of pressure."
+    },
+    {
+      "id": "JAMB_P_2018_21",
+      "text": "A machine has a velocity ratio of 5. If it overcomes a load of $500 \\text{ N}$ with an effort of $125 \\text{ N}$, the efficiency of the machine is:",
+      "image": "[Image showing a simple machine like a pulley system, with force and load indicated]",
+      "options": ["$50\\%$", "$60\\%$", "$75\\%$", "$80\\%$"],
+      "answer": "$80\\%$",
+      "explanation": "1. **Calculate Mechanical Advantage (MA):** $\\text{MA} = \\frac{\\text{Load}}{\\text{Effort}} = \\frac{500 \\text{ N}}{125 \\text{ N}} = 4.0$.\n2. **Calculate Efficiency ($\\eta$):** $\\eta = \\frac{\\text{MA}}{\\text{VR}} \\times 100\\%$\n$\\eta = \\frac{4.0}{5.0} \\times 100\\% = 0.8 \\times 100\\% = 80\\%$."
+    },
+    {
+      "id": "JAMB_P_2018_22",
+      "text": "The escape velocity for a body on the surface of the Earth is:",
+      "image": "[Image illustrating a rocket escaping Earth's gravitational field]",
+      "options": ["$1.1 \\text{ km/s}$", "$11.2 \\text{ km/s}$", "$9.8 \\text{ km/s}$", "$3.0 \\times 10^8 \\text{ m/s}$"],
+      "answer": "$11.2 \\text{ km/s}$",
+      "explanation": "The escape velocity ($v_{\\text{esc}}$) is the minimum velocity required for an object to escape the gravitational influence of a massive body (like Earth). Its value for Earth is approximately $11.2 \\text{ km/s}$ or $11,200 \\text{ m/s}$."
+    },
+    {
+      "id": "JAMB_P_2018_23",
+      "text": "The phenomenon of beats is a result of:",
+      "image": "[Image showing the superposition of two waves with slightly different frequencies creating a beat pattern]",
+      "options": ["Refraction of waves", "Diffraction of waves", "Interference of waves", "Polarization of waves"],
+      "answer": "Interference of waves",
+      "explanation": "Beats are produced when two sound waves of slightly different frequencies travel in the same medium and interfere. This interference results in a periodic variation in loudness (alternating constructive and destructive interference)."
+    },
+    {
+      "id": "JAMB_P_2018_24",
+      "text": "The shortest wavelength of X-rays produced by an X-ray tube operating at a voltage $V$ is proportional to:",
+      "image": "[Image illustrating the Bremsstrahlung spectrum showing the cut-off wavelength $\\lambda_{\\text{min}}$]",
+      "options": ["$V$", "$1/V$", "$V^2$", "$\\sqrt{V}$"],
+      "answer": "$1/V$",
+      "explanation": "The minimum wavelength (cut-off wavelength) of X-rays is determined by the maximum energy of the photons, which is equal to the kinetic energy of the accelerated electrons: $eV = hf_{\\text{max}} = \\frac{hc}{\\lambda_{\\text{min}}}$. Therefore, $\\lambda_{\\text{min}} = \\frac{hc}{eV}$. Thus, $\\lambda_{\\text{min}}$ is inversely proportional to the operating voltage $V$ ($\\lambda_{\\text{min}} \\propto 1/V$)."
+    },
+    {
+      "id": "JAMB_P_2018_25",
+      "text": "An electron moving with a velocity of $1.0 \\times 10^7 \\text{ m/s}$ enters a uniform magnetic field of flux density $2.0 \\text{ T}$ at right angles to the field. If the charge on the electron is $1.6 \\times 10^{-19} \\text{ C}$, the magnitude of the force on the electron is:",
+      "image": "[Image showing the Lorentz force on a moving charge in a magnetic field ($F=qvB$)]",
+      "options": ["$3.2 \\times 10^{-12} \\text{ N}$", "$3.2 \\times 10^{-19} \\text{ N}$", "$1.6 \\times 10^{-12} \\text{ N}$", "$1.6 \\times 10^{-19} \\text{ N}$"],
+      "answer": "$3.2 \\times 10^{-12} \\text{ N}$",
+      "explanation": "The magnetic force ($F$) on a moving charge ($q$) in a magnetic field ($B$) is given by $F = qvB \\sin\\theta$. Since the angle $\\theta = 90^{\\circ}$, $\\sin\\theta = 1$.\n$F = (1.6 \\times 10^{-19} \\text{ C}) \\times (1.0 \\times 10^7 \\text{ m/s}) \\times (2.0 \\text{ T})$\n$F = (1.6 \\times 2.0) \\times 10^{(-19+7)} \\text{ N}$\n$F = 3.2 \\times 10^{-12} \\text{ N}$."
+    },
+    {
+      "id": "JAMB_P_2018_26",
+      "text": "The half-life of a radioactive substance is $10 \\text{ days}$. What fraction of the original sample will remain after $40 \\text{ days}$?",
+      "image": "[Image showing the exponential decay curve for a radioactive substance]",
+      "options": ["$1/2$", "$1/4$", "$1/8$", "$1/16$"],
+      "answer": "$1/16$",
+      "explanation": "1. **Determine the number of half-lives ($n$):** \n$n = \\frac{\\text{Total Time}}{\\text{Half-life}} = \\frac{40 \\text{ days}}{10 \\text{ days}} = 4$.\n2. **Calculate the remaining fraction ($N/N_o$):** \n$\\frac{N}{N_o} = (\\frac{1}{2})^n = (\\frac{1}{2})^4 = \\frac{1}{16}$."
+    },
+    {
+      "id": "JAMB_P_2018_27",
+      "text": "A transistor is used primarily as a/an:",
+      "image": "",
+      "options": ["Rectifier", "Filter", "Amplifier", "Capacitor"],
+      "answer": "Amplifier",
+      "explanation": "The primary function of a transistor is switching (used in digital logic) and **amplification** (used to increase the strength of an electrical signal). It is the fundamental building block of modern electronic devices."
+    },
+    {
+      "id": "JAMB_P_2018_28",
+      "text": "Which of the following describes the relationship between mass ($m$) and energy ($E$)?",
+      "image": "[Image showing Einstein's mass-energy equivalence equation $E=mc^2$]",
+      "options": ["$E = mc$", "$E = mc^2$", "$E = hf$", "$E = pc$"],
+      "answer": "$E = mc^2$",
+      "explanation": "Einstein's famous mass-energy equivalence relation states that energy ($E$) and mass ($m$) are interchangeable, related by the equation $E = mc^2$, where $c$ is the speed of light in a vacuum."
+    },
+    {
+      "id": "JAMB_P_2018_29",
+      "text": "The energy stored in a spring with a stiffness constant $k$ and extended by distance $x$ is:",
+      "image": "[Image illustrating a mass oscillating on a spring, with extension $x$]",
+      "options": ["$\\frac{1}{2} k x$", "$k x^2$", "$\\frac{1}{2} k x^2$", "$k x$"],
+      "answer": "$\\frac{1}{2} k x^2$",
+      "explanation": "The potential energy (or stored energy, $E_p$) in an elastic material like a spring is equal to the work done to stretch or compress it. This is given by the formula for elastic potential energy: $E_p = \\frac{1}{2} k x^2$."
+    },
+    {
+      "id": "JAMB_P_2018_30",
+      "text": "If a stone is tied to a string and whirled in a horizontal circle, the tension in the string provides the:",
+      "image": "[Image illustrating a mass undergoing uniform circular motion, with the centripetal force pointing towards the center]",
+      "options": ["Centrifugal force", "Gravitational force", "Centripetal force", "Coriolis force"],
+      "answer": "Centripetal force",
+      "explanation": "In uniform circular motion, a force directed towards the center of the circle is required to constantly change the direction of the velocity. This inward force is called the centripetal force ($F_c$), and in this case, it is provided by the tension in the string."
+    },
+    {
+      "id": "JAMB_P_2018_31",
+      "text": "Which of the following is not an electromagnetic wave?",
+      "image": "[Image showing the electromagnetic spectrum (radio, micro, IR, visible, UV, X-ray, Gamma)]",
+      "options": ["Radio waves", "Sound waves", "Light waves", "X-rays"],
+      "answer": "Sound waves",
+      "explanation": "Sound waves are mechanical waves that require a material medium (like air, water, or solid) for propagation. Electromagnetic waves (such as radio waves, light waves, and X-rays) are oscillations of electric and magnetic fields and can travel through a vacuum."
+    },
+    {
+      "id": "JAMB_P_2018_32",
+      "text": "When a small quantity of salt is dissolved in water, the boiling point of the water:",
+      "image": "[Image showing a phase diagram where the liquid-gas boundary is shifted by adding solute (Boiling Point Elevation)]",
+      "options": ["Decreases", "Increases", "Remains unchanged", "Becomes unstable"],
+      "answer": "Increases",
+      "explanation": "Adding a non-volatile solute (like salt) to a solvent (like water) is a colligative property effect called Boiling Point Elevation. The solute particles interfere with the escape of solvent molecules into the gas phase, requiring a higher temperature to reach the boiling point."
+    },
+    {
+      "id": "JAMB_P_2018_33",
+      "text": "A resistance of $20 \\text{ \\Omega}$ is connected in parallel with a variable resistor $R$. If the total resistance is $15 \\text{ \\Omega}$, what is the value of $R$?",
+      "image": "[Image showing two resistors connected in parallel]",
+      "options": ["$60 \\text{ \\Omega}$", "$35 \\text{ \\Omega}$", "$5 \\text{ \\Omega}$", "$1.33 \\text{ \\Omega}$"],
+      "answer": "$60 \\text{ \\Omega}$",
+      "explanation": "For parallel resistors: $\\frac{1}{R_T} = \\frac{1}{R_1} + \\frac{1}{R_2}$.\nGiven: $R_T = 15 \\text{ \\Omega}$, $R_1 = 20 \\text{ \\Omega}$.\n$\\frac{1}{15} = \\frac{1}{20} + \\frac{1}{R}$\n$\\frac{1}{R} = \\frac{1}{15} - \\frac{1}{20} = \\frac{4 - 3}{60} = \\frac{1}{60}$\n$R = 60 \\text{ \\Omega}$."
+    },
+    {
+      "id": "JAMB_P_2018_34",
+      "text": "Which property of waves is responsible for the phenomenon of resonance?",
+      "image": "[Image illustrating resonance where a driving frequency matches the natural frequency]",
+      "options": ["Reflection", "Diffraction", "Refraction", "Forced vibration"],
+      "answer": "Forced vibration",
+      "explanation": "Resonance is a special case of forced vibration where the frequency of the external force (driving frequency) matches the natural frequency of the oscillating system. This results in maximum amplitude of vibration."
+    },
+    {
+      "id": "JAMB_P_2018_35",
+      "text": "The electromagnetic wave used for sterilizing surgical instruments is:",
+      "image": "[Image showing the UV section of the EM spectrum used for sterilization]",
+      "options": ["Infrared waves", "Microwaves", "Ultraviolet (UV) rays", "Gamma rays"],
+      "answer": "Ultraviolet (UV) rays",
+      "explanation": "Ultraviolet (UV) radiation is commonly used for sterilization because it has sufficient energy to destroy the DNA of microorganisms (germicidal effect), making it effective for disinfecting surfaces and instruments."
+    },
+    {
+      "id": "JAMB_P_2018_36",
+      "text": "In a series R-L-C circuit, the condition for resonance is:",
+      "image": "[Image showing a series RLC circuit diagram]",
+      "options": ["$X_L > X_C$", "$X_L < X_C$", "$X_L = X_C$", "$R = 0$"],
+      "answer": "$X_L = X_C$",
+      "explanation": "In a series R-L-C circuit, resonance occurs when the inductive reactance ($X_L$) exactly cancels out the capacitive reactance ($X_C$). At this condition, the total impedance ($Z$) is purely resistive and is at its minimum ($Z=R$)."
+    },
+    {
+      "id": "JAMB_P_2018_37",
+      "text": "The nucleus of an atom consists of:",
+      "image": "[Image showing a simple Bohr model of an atom, highlighting the nucleus with protons and neutrons]",
+      "options": ["Electrons and protons", "Electrons and neutrons", "Protons and neutrons", "Electrons, protons, and neutrons"],
+      "answer": "Protons and neutrons",
+      "explanation": "The atomic nucleus is composed of nucleons, which are protons (positively charged) and neutrons (neutral). Electrons orbit the nucleus."
+    },
+    {
+      "id": "JAMB_P_2018_38",
+      "text": "The minimum energy required to liberate an electron from a metal surface is called the:",
+      "image": "[Image illustrating the photoelectric effect and the concept of work function $\\phi$]",
+      "options": ["Threshold frequency", "Binding energy", "Work function", "Kinetic energy"],
+      "answer": "Work function",
+      "explanation": "The work function ($\\phi$) is the minimum amount of energy (usually measured in electron volts, $eV$) required to cause an electron to be emitted from the surface of a metal in the photoelectric effect."
+    },
+    {
+      "id": "JAMB_P_2018_39",
+      "text": "A body of mass $5 \\text{ kg}$ is pulled up a plane inclined at $30^{\\circ}$ to the horizontal. If the force applied is $40 \\text{ N}$ and the distance moved is $2.0 \\text{ m}$, what is the work done against friction? ($g = 10 \\text{ m/s}^2$)",
+      "image": "[Image showing a body being pulled up an inclined plane, labeling forces: applied force, weight component, and friction]",
+      "options": ["$10 \\text{ J}$", "$20 \\text{ J}$", "$30 \\text{ J}$", "$40 \\text{ J}$"],
+      "answer": "$30 \\text{ J}$",
+      "explanation": "1. **Total Work Done (Input):** $W_{\\text{applied}} = F \\times d = 40 \\text{ N} \\times 2.0 \\text{ m} = 80 \\text{ J}$.\n2. **Work Done against Gravity (Useful Output):** $W_{\\text{gravity}} = mgh = m g (d \\sin\\theta)$.\n$h = 2.0 \\text{ m} \\times \\sin(30^{\\circ}) = 2.0 \\times 0.5 = 1.0 \\text{ m}$.\n$W_{\\text{gravity}} = 5 \\text{ kg} \\times 10 \\text{ m/s}^2 \\times 1.0 \\text{ m} = 50 \\text{ J}$.\n3. **Work Done against Friction:** $W_{\\text{friction}} = W_{\\text{applied}} - W_{\\text{gravity}}$\n$W_{\\text{friction}} = 80 \\text{ J} - 50 \\text{ J} = 30 \\text{ J}$."
+    },
+    {
+      "id": "JAMB_P_2018_40",
+      "text": "A transformer has $100$ turns in the primary coil and $200$ turns in the secondary coil. If the primary voltage is $240 \\text{ V}$, what is the secondary voltage?",
+      "image": "[Image showing a transformer with labeled primary and secondary coils and voltages]",
+      "options": ["$120 \\text{ V}$", "$240 \\text{ V}$", "$480 \\text{ V}$", "$960 \\text{ V}$"],
+      "answer": "$480 \\text{ V}$",
+      "explanation": "Use the transformer equation: $\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$.\nGiven: $N_p = 100$, $N_s = 200$, $V_p = 240 \\text{ V}$.\n$V_s = V_p \\times \\frac{N_s}{N_p} = 240 \\text{ V} \\times \\frac{200}{100} = 240 \\text{ V} \\times 2 = 480 \\text{ V}$."
+    }
+  ]

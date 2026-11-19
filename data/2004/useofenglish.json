@@ -1,0 +1,517 @@
+[
+    {
+      "id": "U2004_1",
+      "text": "The $\textbf{Indian}$ $\textbf{Ocean}$ $\textbf{earthquake}$ on December 26, 2004, was one of the $\textbf{most}$ $\textbf{powerful}$ ever $\textbf{recorded}$, triggering a massive $\textbf{tsunami}$ that devastated coastal $\textbf{regions}$ across 14 $\textbf{countries}$, resulting in immense $\textbf{loss}$ $\textbf{of}$ $\textbf{life}$. (Comprehension Passage Snippet 1)\n\nWhich natural disaster was triggered by the Indian Ocean earthquake?",
+      "image": "",
+      "options": [
+        "Volcanic eruption",
+        "Massive typhoon",
+        "Tsunami",
+        "Blizzard"
+      ],
+      "answer": "Tsunami",
+      "explanation": "The text states the earthquake was 'triggering a massive tsunami'."
+    },
+    {
+      "id": "U2004_2",
+      "text": "The earthquake was one of the most $\textbf{powerful}$ ever recorded.\n\nChoose the word that is closest in meaning to $\\textbf{powerful}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Insignificant",
+        "Intense",
+        "Quiet",
+        "Predictable"
+      ],
+      "answer": "Intense",
+      "explanation": "Powerful, in this context, refers to the strength or intensity of the seismic event."
+    },
+    {
+      "id": "U2004_3",
+      "text": "The tidal wave $\textbf{(had struck/struck)}$ the coast minutes after the ground stopped shaking.\n\nChoose the correct verb form for a single action completed in the past.",
+      "image": "",
+      "options": [
+        "had struck",
+        "struck",
+        "was striking",
+        "has struck"
+      ],
+      "answer": "struck",
+      "explanation": "The Simple Past ('struck') is the correct tense for a single, completed action in the past."
+    },
+    {
+      "id": "U2004_4",
+      "text": "The word $\\textbf{'devastating'}$ $\\textbf{d e v a s t a t i n g}$.\n\nIdentify the syllable that carries the primary stress in the word **devastating**.",
+      "image": "",
+      "options": [
+        "de",
+        "vas",
+        "tat",
+        "ing"
+      ],
+      "answer": "dev",
+      "explanation": "The primary stress in 'devastating' /ˈdev.ə.steɪ.tɪŋ/ falls on the first syllable, 'dev'."
+    },
+    {
+      "id": "U2004_5",
+      "text": "The number of victims $\textbf{(was/were)}$ staggering and required global assistance.\n\nChoose the correct form of the verb 'to be' to agree with the singular noun subject 'The number'.",
+      "image": "",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "be"
+      ],
+      "answer": "was",
+      "explanation": "The subject is 'The number' (singular), which requires the singular verb 'was', regardless of the intervening phrase 'of victims'."
+    },
+    {
+      "id": "U2004_6",
+      "text": "In February 2004, $\textbf{Mark}$ $\textbf{Zuckerberg}$ $\textbf{launched}$ \"Thefacebook\" at $\textbf{Harvard}$ $\textbf{University}$, initially intended as a social $\textbf{network}$ exclusively $\textbf{for}$ $\textbf{college}$ $\textbf{students}$ before its rapid global $\textbf{expansion}$. (Comprehension Passage Snippet 2)\n\nWhat kind of users was Thefacebook initially intended for?",
+      "image": "",
+      "options": [
+        "High school students",
+        "Small businesses",
+        "College students",
+        "General public"
+      ],
+      "answer": "College students",
+      "explanation": "The text states it was 'initially intended as a social network exclusively for college students'."
+    },
+    {
+      "id": "U2004_7",
+      "text": "It was initially $\textbf{intended}$ as a social network.\n\nChoose the word that is closest in meaning to $\\textbf{intended}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Accidentally created",
+        "Planned or meant",
+        "Immediately adopted",
+        "Strongly rejected"
+      ],
+      "answer": "Planned or meant",
+      "explanation": "To be intended means to be planned or meant for a particular purpose."
+    },
+    {
+      "id": "U2004_8",
+      "text": "The company $\textbf{(would grow/grew)}$ quickly in its first year of operation.\n\nChoose the correct verb form for a single, completed action in the past.",
+      "image": "",
+      "options": [
+        "would grow",
+        "grew",
+        "has grown",
+        "is growing"
+      ],
+      "answer": "grew",
+      "explanation": "The Simple Past ('grew') is the correct tense for a single, completed action in the past."
+    },
+    {
+      "id": "U2004_9",
+      "text": "The word $\\textbf{'exclusive'}$ $\\textbf{e x c l u s i v e}$.\n\nIdentify the syllable that carries the primary stress in the word **exclusive**.",
+      "image": "",
+      "options": [
+        "ex",
+        "clu",
+        "sive"
+      ],
+      "answer": "clu",
+      "explanation": "The primary stress in 'exclusive' /ɪkˈskluː.sɪv/ falls on the second syllable, 'clu'."
+    },
+    {
+      "id": "U2004_10",
+      "text": "The platform, $\textbf{(which/who)}$ was only for Harvard at first, quickly gained popularity.\n\nChoose the correct relative pronoun to refer to the platform.",
+      "image": "",
+      "options": [
+        "which",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "'Which' is the correct relative pronoun for non-human subjects like 'the platform'."
+    },
+    {
+      "id": "U2004_11",
+      "text": "NASA successfully $\textbf{landed}$ two $\textbf{Mars}$ $\textbf{Exploration}$ $\textbf{Rovers}$, $\textbf{Spirit}$ and $\textbf{Opportunity}$, on the planet's $\textbf{surface}$ in January 2004. Their primary $\textbf{mission}$ was to search for $\textbf{evidence}$ of past $\textbf{water}$ $\textbf{activity}$. (Comprehension Passage Snippet 3)\n\nWhat was the primary goal of the Mars rovers' mission?",
+      "image": "",
+      "options": [
+        "To drill for oil reserves",
+        "To search for evidence of past water activity",
+        "To establish a human colony",
+        "To map the atmospheric pressure"
+      ],
+      "answer": "To search for evidence of past water activity",
+      "explanation": "The text states their mission was 'to search for evidence of past water activity'."
+    },
+    {
+      "id": "U2004_12",
+      "text": "The mission was to search for $\textbf{evidence}$.\n\nChoose the word that is closest in meaning to $\\textbf{evidence}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Proof/Signs",
+        "Obstacles",
+        "Myths",
+        "Fiction"
+      ],
+      "answer": "Proof/Signs",
+      "explanation": "Evidence means the available body of facts or information indicating whether a belief or proposition is true or valid."
+    },
+    {
+      "id": "U2004_13",
+      "text": "If they $\textbf{(had found/found)}$ ice, it $\textbf{(would have confirmed/would confirm)}$ their hypothesis.\n\nChoose the correct verb forms to complete the Third Conditional sentence.",
+      "image": "",
+      "options": [
+        "had found / would have confirmed",
+        "found / would confirm",
+        "have found / confirmed",
+        "will find / would confirm"
+      ],
+      "answer": "had found / would have confirmed",
+      "explanation": "The Third Conditional structure is 'If + Past Perfect, would have + Past Participle'."
+    },
+    {
+      "id": "U2004_14",
+      "text": "The word $\\textbf{'exploration'}$ $\\textbf{e x p l o r a t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **exploration**.",
+      "image": "",
+      "options": [
+        "ex",
+        "plo",
+        "ra",
+        "tion"
+      ],
+      "answer": "ra",
+      "explanation": "The primary stress in 'exploration' /ˌek.spləˈreɪ.ʃən/ falls on the third syllable, 'ra'."
+    },
+    {
+      "id": "U2004_15",
+      "text": "One rover was sent $\textbf{(farther/further)}$ into the canyon than the other.\n\nChoose the correct word for a comparative distance in space.",
+      "image": "",
+      "options": [
+        "farther",
+        "further",
+        "more far",
+        "most far"
+      ],
+      "answer": "farther",
+      "explanation": "'Farther' is typically used for physical, measurable distance, while 'further' is used for metaphorical or additional distance/extent."
+    },
+    {
+      "id": "U2004_16",
+      "text": "The $\textbf{Summer}$ $\textbf{Olympics}$ returned to their $\textbf{historic}$ $\textbf{birthplace}$ in August 2004, when $\textbf{Athens}$, $\textbf{Greece}$, hosted the Games. The event brought a $\textbf{massive}$ $\textbf{influx}$ of $\textbf{tourists}$ and $\textbf{global}$ $\textbf{attention}$ to the Hellenic $\textbf{Republic}$. (Comprehension Passage Snippet 4)\n\nWhat country hosted the 2004 Summer Olympics?",
+      "image": "",
+      "options": [
+        "China",
+        "Greece",
+        "Australia",
+        "Spain"
+      ],
+      "answer": "Greece",
+      "explanation": "The text states the Olympics were hosted by 'Athens, Greece'."
+    },
+    {
+      "id": "U2004_17",
+      "text": "The event brought a massive $\textbf{influx}$ of tourists.\n\nChoose the word that is closest in meaning to $\\textbf{influx}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Outflow",
+        "Inflow/Arrival",
+        "Blockage",
+        "Reduction"
+      ],
+      "answer": "Inflow/Arrival",
+      "explanation": "Influx means an arrival or entry of large numbers of people or things."
+    },
+    {
+      "id": "U2004_18",
+      "text": "Many $\textbf{(athlete/athletes)}$ competed $\textbf{(fiercely/fierce)}$ for the gold medal.\n\nChoose the correct plural noun and the correct word form to modify the verb 'competed'.",
+      "image": "",
+      "options": [
+        "athlete / fierce",
+        "athletes / fierce",
+        "athlete / fiercely",
+        "athletes / fiercely"
+      ],
+      "answer": "athletes / fiercely",
+      "explanation": "The plural of 'athlete' is 'athletes', and an adverb ('fiercely') is required to modify the verb 'competed'."
+    },
+    {
+      "id": "U2004_19",
+      "text": "The word $\\textbf{'historic'}$ $\\textbf{h i s t o r i c}$.\n\nIdentify the syllable that carries the primary stress in the word **historic**.",
+      "image": "",
+      "options": [
+        "his",
+        "sto",
+        "ric"
+      ],
+      "answer": "sto",
+      "explanation": "The primary stress in 'historic' /hɪˈstɒr.ɪk/ falls on the second syllable, 'sto'."
+    },
+    {
+      "id": "U2004_20",
+      "text": "The organizing committee $\textbf{(is preparing/had been preparing)}$ for years before the opening ceremony.\n\nChoose the correct verb form to describe an action that continued up to a specific time in the past.",
+      "image": "",
+      "options": [
+        "is preparing",
+        "had been preparing",
+        "prepares",
+        "will prepare"
+      ],
+      "answer": "had been preparing",
+      "explanation": "The Past Perfect Continuous ('had been preparing') is used for an action that started in the past and continued until another time in the past (the ceremony)."
+    },
+    {
+      "id": "U2004_21",
+      "text": "The $\textbf{Orange}$ $\textbf{Revolution}$, a series of $\textbf{peaceful}$ $\textbf{protests}$ in $\textbf{Ukraine}$, took place in late 2004, $\textbf{challenging}$ the results of the $\textbf{presidential}$ $\textbf{election}$. The protests led to a $\textbf{re-run}$ of the runoff vote, which established a new $\textbf{government}$. (Comprehension Passage Snippet 5)\n\nWhat was the primary reason for the Orange Revolution protests in Ukraine?",
+      "image": "",
+      "options": [
+        "Demanding lower taxes",
+        "Challenging the results of the presidential election",
+        "Protesting NATO expansion",
+        "Calling for economic liberalization"
+      ],
+      "answer": "Challenging the results of the presidential election",
+      "explanation": "The text states the protests were 'challenging the results of the presidential election'."
+    },
+    {
+      "id": "U2004_22",
+      "text": "The protests led to a $\textbf{re-run}$ of the vote.\n\nChoose the word that is closest in meaning to $\\textbf{re-run}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Cancellation",
+        "Repeat/New iteration",
+        "Certification",
+        "Investigation"
+      ],
+      "answer": "Repeat/New iteration",
+      "explanation": "A 're-run' is a repetition or a second, corrective instance of an event."
+    },
+    {
+      "id": "U2004_23",
+      "text": "Thousands of people $\textbf{(demonstrate/demonstrated)}$ in the streets for weeks.\n\nChoose the correct verb form for a completed action in the past.",
+      "image": "",
+      "options": [
+        "demonstrate",
+        "demonstrated",
+        "is demonstrating",
+        "will demonstrate"
+      ],
+      "answer": "demonstrated",
+      "explanation": "The Simple Past ('demonstrated') is the correct tense for a completed action that occurred over a period in the past."
+    },
+    {
+      "id": "U2004_24",
+      "text": "The word $\\textbf{'revolution'}$ $\\textbf{r e v o l u t i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **revolution**.",
+      "image": "",
+      "options": [
+        "re",
+        "vo",
+        "lu",
+        "tion"
+      ],
+      "answer": "lu",
+      "explanation": "The primary stress in 'revolution' /ˌrev.əˈluː.ʃən/ falls on the third syllable, 'lu'."
+    },
+    {
+      "id": "U2004_25",
+      "text": "Neither the incumbent candidate $\textbf{(nor/or)}$ the opposition leader won the initial vote.\n\nChoose the correct correlative conjunction to complete the negative pairing.",
+      "image": "",
+      "options": [
+        "nor",
+        "or",
+        "and",
+        "but"
+      ],
+      "answer": "nor",
+      "explanation": "The correlative conjunction 'nor' is always used with 'neither'."
+    },
+    {
+      "id": "U2004_26",
+      "text": "The $\textbf{highly}$ $\textbf{anticipated}$ final episode of the $\textbf{iconic}$ American $\textbf{sitcom}$ $\textbf{Friends}$ aired in May 2004. The episode attracted over 52.5 $\textbf{million}$ viewers in the US, making it the $\textbf{most}$-$\textbf{watched}$ $\textbf{television}$ $\textbf{broadcast}$ of the $\textbf{decade}$. (Comprehension Passage Snippet 6)\n\nHow many US viewers watched the final episode of *Friends*?",
+      "image": "",
+      "options": [
+        "Less than 10 million",
+        "Exactly 35 million",
+        "Over 52.5 million",
+        "Over 70 million"
+      ],
+      "answer": "Over 52.5 million",
+      "explanation": "The text explicitly states it 'attracted over 52.5 million viewers'."
+    },
+    {
+      "id": "U2004_27",
+      "text": "It was a $\textbf{highly}$ $\textbf{anticipated}$ event.\n\nChoose the word that is closest in meaning to $\\textbf{anticipated}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Forgotten",
+        "Unexpected",
+        "Expected/Awaited",
+        "Disappointing"
+      ],
+      "answer": "Expected/Awaited",
+      "explanation": "To be anticipated means to be expected or looked forward to."
+    },
+    {
+      "id": "U2004_28",
+      "text": "Many fans $\textbf{(were crying/cried)}$ when the final scene ended.\n\nChoose the correct verb form for a completed reaction to a past event.",
+      "image": "",
+      "options": [
+        "were crying",
+        "cried",
+        "cry",
+        "will cry"
+      ],
+      "answer": "cried",
+      "explanation": "The Simple Past ('cried') is used to describe a specific, completed reaction at a moment in the past."
+    },
+    {
+      "id": "U2004_29",
+      "text": "The word $\\textbf{'iconic'}$ $\\textbf{i c o n i c}$.\n\nIdentify the syllable that carries the primary stress in the word **iconic**.",
+      "image": "",
+      "options": [
+        "i",
+        "co",
+        "nic"
+      ],
+      "answer": "co",
+      "explanation": "The primary stress in 'iconic' /aɪˈkɒn.ɪk/ falls on the second syllable, 'co'."
+    },
+    {
+      "id": "U2004_30",
+      "text": "The main cast $\textbf{(had negotiated/negotiated)}$ their salaries long before the final season was filmed.\n\nChoose the correct verb form to describe an action that was completed before another action in the past.",
+      "image": "",
+      "options": [
+        "had negotiated",
+        "negotiated",
+        "is negotiating",
+        "will negotiate"
+      ],
+      "answer": "had negotiated",
+      "explanation": "The Past Perfect ('had negotiated') is used because the negotiation happened before another past action (the filming of the season)."
+    },
+    {
+      "id": "U2004_31",
+      "text": "On May 1, 2004, the $\textbf{European}$ $\textbf{Union}$ undertook its $\textbf{largest}$ $\textbf{single}$ $\textbf{expansion}$ in history, $\textbf{welcoming}$ ten new $\textbf{member}$ $\textbf{states}$, mostly from $\textbf{Central}$ and $\textbf{Eastern}$ $\textbf{Europe}$, significantly $\textbf{increasing}$ the bloc's $\textbf{population}$ and $\textbf{area}$. (Comprehension Passage Snippet 7)\n\nFrom which two general regions were most of the ten new EU member states in 2004?",
+      "image": "",
+      "options": [
+        "Western and Southern Europe",
+        "Northern and Western Europe",
+        "Central and Eastern Europe",
+        "African and Mediterranean nations"
+      ],
+      "answer": "Central and Eastern Europe",
+      "explanation": "The text states the new members were 'mostly from Central and Eastern Europe'."
+    },
+    {
+      "id": "U2004_32",
+      "text": "The expansion significantly $\textbf{increasing}$ the bloc's area.\n\nChoose the word that is closest in meaning to $\\textbf{increasing}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Shrinking/Diminishing",
+        "Enlarging/Augmenting",
+        "Halting",
+        "Confining"
+      ],
+      "answer": "Enlarging/Augmenting",
+      "explanation": "Increasing means to become greater in size or amount; enlarging or augmenting."
+    },
+    {
+      "id": "U2004_33",
+      "text": "All existing members $\textbf{(must/had to)}$ ratify the treaty before the expansion could occur.\n\nChoose the correct modal or phrase to express necessity in the past.",
+      "image": "",
+      "options": [
+        "must",
+        "had to",
+        "will have to",
+        "can"
+      ],
+      "answer": "had to",
+      "explanation": "'Had to' is the past form of 'must' used to express past necessity."
+    },
+    {
+      "id": "U2004_34",
+      "text": "The word $\\textbf{'expansion'}$ $\\textbf{e x p a n s i o n}$.\n\nIdentify the syllable that carries the primary stress in the word **expansion**.",
+      "image": "",
+      "options": [
+        "ex",
+        "pan",
+        "sion"
+      ],
+      "answer": "pan",
+      "explanation": "The primary stress in 'expansion' /ɪkˈspæn.ʃən/ falls on the second syllable, 'pan'."
+    },
+    {
+      "id": "U2004_35",
+      "text": "The total population was $\textbf{(much/many)}$ greater after the accession of the new countries.\n\nChoose the correct quantifier for the uncountable adjective 'greater'.",
+      "image": "",
+      "options": [
+        "much",
+        "many",
+        "few",
+        "a lot of"
+      ],
+      "answer": "much",
+      "explanation": "'Much' is used to modify uncountable nouns (or adjectives of degree like 'greater'), while 'many' is used for countable nouns."
+    },
+    {
+      "id": "U2004_36",
+      "text": "The $\textbf{Millau}$ $\textbf{Viaduct}$, an $\textbf{enormous}$ cable-$\textbf{stayed}$ $\textbf{bridge}$ in $\textbf{France}$, was officially $\textbf{opened}$ in December 2004. With its highest $\textbf{mast}$ $\textbf{standing}$ taller $\textbf{than}$ the $\textbf{Eiffel}$ $\textbf{Tower}$, it was, at the time, the $\textbf{tallest}$ $\textbf{bridge}$ $\textbf{structure}$ in the world. (Comprehension Passage Snippet 8)\n\nWhat structure was the Millau Viaduct's highest mast compared to in terms of height?",
+      "image": "",
+      "options": [
+        "The Statue of Liberty",
+        "The Empire State Building",
+        "The Eiffel Tower",
+        "The London Eye"
+      ],
+      "answer": "The Eiffel Tower",
+      "explanation": "The text notes the mast was 'standing taller than the Eiffel Tower'."
+    },
+    {
+      "id": "U2004_37",
+      "text": "The viaduct is an $\textbf{enormous}$ cable-stayed bridge.\n\nChoose the word that is closest in meaning to $\\textbf{enormous}$ as used in the sentence.",
+      "image": "",
+      "options": [
+        "Tiny",
+        "Standard-sized",
+        "Delicate",
+        "Huge/Massive"
+      ],
+      "answer": "Huge/Massive",
+      "explanation": "Enormous means extremely large."
+    },
+    {
+      "id": "U2004_38",
+      "text": "The engineer worked $\textbf{(harder/more hard)}$ than anyone else to complete the project on time.\n\nChoose the correct comparative form of the adverb 'hard'.",
+      "image": "",
+      "options": [
+        "harder",
+        "more hard",
+        "most hard",
+        "more hardly"
+      ],
+      "answer": "harder",
+      "explanation": "The comparative form of the adverb 'hard' is 'harder'."
+    },
+    {
+      "id": "U2004_39",
+      "text": "The word $\\textbf{'viaduct'}$ $\\textbf{v i a d u c t}$.\n\nIdentify the syllable that carries the primary stress in the word **viaduct**.",
+      "image": "",
+      "options": [
+        "vi",
+        "a",
+        "duct"
+      ],
+      "answer": "vi",
+      "explanation": "The primary stress in 'viaduct' /ˈvaɪə.dʌkt/ falls on the first syllable, 'vi'."
+    },
+    {
+      "id": "U2004_40",
+      "text": "The bridge, $\textbf{(built by/is built by)}$ a British architect, became a modern marvel.\n\nChoose the correct reduced relative clause to describe the bridge.",
+      "image": "",
+      "options": [
+        "built by",
+        "is built by",
+        "has built by",
+        "which built by"
+      ],
+      "answer": "built by",
+      "explanation": "The phrase is a reduced relative clause of 'which was built by...'"
+    }
+  ]
