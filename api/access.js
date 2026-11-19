@@ -1,7 +1,7 @@
 const { authenticate, getDb } = require("../lib/firebase");
 const { handleOptions, sendError, setCorsHeaders } = require("../lib/http");
-
-const ROOT = "GIBBORSHUB";
+const { normalizeAllowedSubjects } = require("../lib/subjects");
+const { assertSchool, getTenant } = require("../lib/tenant");
 
 module.exports = async function accessHandler(req, res) {
     if (handleOptions(req, res)) return;
@@ -12,6 +12,8 @@ module.exports = async function accessHandler(req, res) {
     }
 
     try {
+        const tenant = getTenant(req);
+        const ROOT = tenant.dataRoot;
         const identity = await authenticate(req);
         const db = getDb();
         const uid = identity.uid;
@@ -23,6 +25,7 @@ module.exports = async function accessHandler(req, res) {
         if (!activeSnapshot.exists) return res.status(200).json({ status: "unregistered" });
 
         const device = activeSnapshot.data();
+        assertSchool(tenant, device.schoolId);
         const expiresAt = device.expiresAt?.toDate?.();
         if (device.status !== "active") return res.status(200).json({ status: "inactive" });
         if (!expiresAt || expiresAt.getTime() <= Date.now()) {
@@ -34,13 +37,21 @@ module.exports = async function accessHandler(req, res) {
             return res.status(200).json({ status: "inactive" });
         }
 
+        const accessCodeSnapshot = typeof device.accessCode === "string"
+            ? await db.doc(`${ROOT}/accessCodes/items/${device.accessCode}`).get()
+            : null;
+        const allowedSubjects = accessCodeSnapshot?.exists
+            ? accessCodeSnapshot.data().allowedSubjects
+            : device.allowedSubjects;
+
         return res.status(200).json({
             status: "active",
             device: {
                 uid,
                 schoolId: device.schoolId,
                 schoolName: device.schoolName || schoolSnapshot.data().name || "",
-                computerName: device.computerName || ""
+                computerName: device.computerName || "",
+                allowedSubjects: normalizeAllowedSubjects(allowedSubjects)
             },
             expiresAt: expiresAt.toISOString()
         });

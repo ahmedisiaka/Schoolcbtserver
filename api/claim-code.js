@@ -1,8 +1,9 @@
 const { FieldValue, Timestamp } = require("firebase-admin/firestore");
 const { authenticate, getDb } = require("../lib/firebase");
 const { handleOptions, HttpError, sendError, setCorsHeaders } = require("../lib/http");
+const { normalizeAllowedSubjects } = require("../lib/subjects");
+const { assertSchool, getTenant } = require("../lib/tenant");
 
-const ROOT = "GIBBORSHUB";
 const ACCESS_DAYS = 30;
 
 module.exports = async function claimCodeHandler(req, res) {
@@ -14,6 +15,8 @@ module.exports = async function claimCodeHandler(req, res) {
     }
 
     try {
+        const tenant = getTenant(req);
+        const ROOT = tenant.dataRoot;
         const identity = await authenticate(req);
         const code = typeof req.body?.code === "string" ? req.body.code.trim().toUpperCase() : "";
         if (!code || code.length > 80) throw new HttpError(400, "Enter a valid school access code.");
@@ -31,6 +34,8 @@ module.exports = async function claimCodeHandler(req, res) {
             ]);
             if (!codeSnapshot.exists) throw new HttpError(400, "That access code is not valid.");
             const accessCode = codeSnapshot.data();
+            assertSchool(tenant, accessCode.schoolId);
+            const allowedSubjects = normalizeAllowedSubjects(accessCode.allowedSubjects);
             const usedCount = Number(accessCode.usedCount || 0);
             const maxComputers = Number(accessCode.maxComputers);
             const codeExpiry = accessCode.expiresAt?.toDate?.();
@@ -88,12 +93,19 @@ module.exports = async function claimCodeHandler(req, res) {
                 schoolName: school.name || "",
                 status: "active",
                 accessCode: code,
+                allowedSubjects,
                 registeredAt,
                 updatedAt: FieldValue.serverTimestamp(),
                 expiresAt
             });
             return {
-                device: { uid, computerName, schoolId: accessCode.schoolId, schoolName: school.name || "" },
+                device: {
+                    uid,
+                    computerName,
+                    schoolId: accessCode.schoolId,
+                    schoolName: school.name || "",
+                    allowedSubjects
+                },
                 expiresAt: expiresAt.toDate().toISOString()
             };
         });

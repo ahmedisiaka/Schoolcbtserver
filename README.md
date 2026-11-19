@@ -10,7 +10,13 @@ Vercel-hosted access-code and computer-status APIs for the LIMLO Schools CBT app
 4. Add `GITHUB_DATA_READ_TOKEN` in Vercel, using a fine-grained token with read-only Contents access to this repository.
 5. Deploy. The app calls the API under `https://cbtsoftwareserver.vercel.app/server/api/`. Vercel rewrites these routes to the root API functions.
 
-The service account needs access to Firebase Authentication token verification and the `GIBBORSHUB` Firestore data used by the app. Keep both credentials only in Vercel's encrypted environment variables.
+The service account needs access to Firebase Authentication token verification and the configured Firestore data root. Keep credentials only in Vercel's encrypted environment variables.
+
+Set `CBT_DATA_ROOT` to the Firestore top-level collection used by a school edition (defaults to `GIBBORSHUB`). For an app dedicated to one school, also set `CBT_APP_SCHOOL_ID` to that school's Firestore document ID. The server rejects requests and access codes from another root or school when these values are configured. These settings are tenant enforcement, not a cryptographic client signature.
+
+In the desktop app repository, build a school edition with `npm run build-app -- --school-id=<school-document-id> --data-root=<firestore-root> --app-name="<school-name>"`. The optional `--server-url` parameter sets that edition's API base URL. Configure the deployed server with the matching `CBT_DATA_ROOT` and `CBT_APP_SCHOOL_ID`; never put service-account or GitHub tokens in build arguments.
+
+When generating an access code, select the JAMB and JSCE subjects that the code should enable. The server stores these permissions with each activated computer and checks them before serving a question bank. Downloaded banks are encrypted at rest in the desktop app using Electron `safeStorage`; this protects cached files on the local device but cannot prevent a determined user with control of the running computer from inspecting questions while the app uses them.
 
 ## Endpoints
 
