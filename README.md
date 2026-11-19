@@ -25,7 +25,7 @@ When generating an access code, select the JAMB and JSCE subjects that the code 
 - `POST /api/claim-code`: atomically registers the signed-in computer and redeems a school access code.
 - `GET /api/question-data?path=data/<year>/<subject>.json`: verifies permissions and reads a practice question bank from the configured Vercel static-data origin.
 
-The access endpoints require a Firebase ID token in the `Authorization: Bearer <token>` header. Question-bank requests are served by the Vercel function, which uses the private GitHub token. Neither credential is sent to the desktop app.
+The access endpoints require a Firebase ID token in the `Authorization: Bearer <token>` header. The question-data endpoint uses the server to check access before returning the requested file.
 
 ## Data layout
 
