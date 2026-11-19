@@ -5,6 +5,17 @@
       "includeFiles": "api/_question-data/**"
     }
   },
+  "headers": [
+    {
+      "source": "/data/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
       "source": "/data/:path*",
