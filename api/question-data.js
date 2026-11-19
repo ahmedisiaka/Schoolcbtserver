@@ -53,6 +53,6 @@ module.exports = async function questionDataHandler(req, res) {
         res.setHeader("Cache-Control", "public, s-maxage=3600, stale-while-revalidate=86400");
         return res.status(200).json(questions);
     } catch (error) {
-        return sendError(res, error);
+        return sendError(req, res, error);
     }
 };

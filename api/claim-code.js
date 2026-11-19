@@ -99,6 +99,6 @@ module.exports = async function claimCodeHandler(req, res) {
         });
         return res.status(200).json({ status: "active", ...outcome });
     } catch (error) {
-        return sendError(res, error);
+        return sendError(req, res, error);
     }
 };

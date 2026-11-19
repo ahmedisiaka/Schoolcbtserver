@@ -45,6 +45,6 @@ module.exports = async function accessHandler(req, res) {
             expiresAt: expiresAt.toISOString()
         });
     } catch (error) {
-        return sendError(res, error);
+        return sendError(req, res, error);
     }
 };
