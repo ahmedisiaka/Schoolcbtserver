@@ -2,7 +2,7 @@
   "functions": {
     "api/**/*.js": {
       "maxDuration": 10,
-      "includeFiles": "data/**"
+      "includeFiles": "api/_question-data/**"
     }
   },
   "rewrites": [

@@ -71,8 +71,14 @@ module.exports = async function questionDataHandler(req, res) {
             throw new HttpError(403, "This exam year is not enabled for this computer.");
         }
 
-        const questionFile = path.resolve(__dirname, "..", relativePath);
-        const privateDataRoot = path.resolve(__dirname, "..", "data");
+        if (req.query?.check === "1") {
+            res.setHeader("Cache-Control", "no-store");
+            return res.status(200).json({ success: true, allowed: true });
+        }
+
+        const privateDataRoot = path.resolve(__dirname, "_question-data");
+        const questionRelativePath = relativePath.replace(/^data[\\/]/i, "");
+        const questionFile = path.resolve(privateDataRoot, questionRelativePath);
         if (!questionFile.startsWith(`${privateDataRoot}${path.sep}`)) {
             throw new HttpError(400, "The requested question data is not available.");
         }

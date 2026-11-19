@@ -84,7 +84,7 @@ module.exports = async function questionCatalogHandler(req, res) {
             throw new HttpError(403, "Question bank access denied. Contact your school administrator.");
         }
 
-        const catalog = await listAvailableFiles(path.resolve(__dirname, "..", "data"));
+        const catalog = await listAvailableFiles(path.resolve(__dirname, "_question-data"));
         if (isAdmin) {
             return res.status(200).json({ jamb: catalog.jamb, jsceSubjects: catalog.jsceSubjects });
         }
