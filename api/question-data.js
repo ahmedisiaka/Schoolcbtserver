@@ -1,9 +1,11 @@
+const { randomUUID } = require("node:crypto");
+const fs = require("node:fs/promises");
+const path = require("node:path");
 const { HttpError, handleOptions, sendError, setCorsHeaders } = require("../lib/http");
+const { FieldValue } = require("firebase-admin/firestore");
 const { authenticate, getDb } = require("../lib/firebase");
-const { normalizeAllowedSubjects, parseQuestionPath } = require("../lib/subjects");
+const { isYearAllowed, normalizeAllowedSubjects, normalizeAllowedYears, parseQuestionPath } = require("../lib/subjects");
 const { assertSchool, getTenant } = require("../lib/tenant");
-
-const DEFAULT_DATA_BASE_URL = "https://cbtsoftwareserver.vercel.app";
 
 module.exports = async function questionDataHandler(req, res) {
     if (handleOptions(req, res)) return;
@@ -22,6 +24,9 @@ module.exports = async function questionDataHandler(req, res) {
             throw new HttpError(400, "The requested question data is not available.");
         }
 
+        if (typeof req.headers.authorization !== "string") {
+            throw new HttpError(401, "Question bank access denied. Open the school CBT app or contact your school administrator.");
+        }
         const identity = await authenticate(req);
         const db = getDb();
         const uid = identity.uid;
@@ -45,63 +50,55 @@ module.exports = async function questionDataHandler(req, res) {
             throw new HttpError(403, "This school's access has been disabled.");
         }
 
-        const accessCodeSnapshot = typeof device.accessCode === "string"
-            ? await db.doc(`${root}/accessCodes/items/${device.accessCode}`).get()
-            : null;
-        const allowedSubjects = normalizeAllowedSubjects(accessCodeSnapshot?.exists
-            ? accessCodeSnapshot.data().allowedSubjects
-            : device.allowedSubjects);
+        if (typeof device.accessCode !== "string" || !device.accessCode) {
+            throw new HttpError(403, "This computer has no valid school access code. Contact your school administrator.");
+        }
+        const accessCodeSnapshot = await db.doc(`${root}/accessCodes/items/${device.accessCode}`).get();
+        if (!accessCodeSnapshot.exists) {
+            throw new HttpError(403, "This computer's school access code could not be verified. Contact your school administrator.");
+        }
+        const accessCode = accessCodeSnapshot.data();
+        if (accessCode.enabled !== true || accessCode.schoolId !== device.schoolId ||
+            !Array.isArray(accessCode.usedBy) || !accessCode.usedBy.includes(uid)) {
+            throw new HttpError(403, "This computer's school access code is not active. Contact your school administrator.");
+        }
+        const allowedSubjects = normalizeAllowedSubjects(accessCode.allowedSubjects);
         if (!allowedSubjects[question.exam].includes(question.subject)) {
             throw new HttpError(403, "This subject is not enabled for this computer.");
         }
-
-        const dataBaseUrl = process.env.CBT_QUESTION_DATA_BASE_URL || DEFAULT_DATA_BASE_URL;
-        let dataUrl;
-        try {
-            const baseUrl = new URL(dataBaseUrl);
-            if ((baseUrl.protocol !== "https:" && baseUrl.hostname !== "localhost") ||
-                baseUrl.search || baseUrl.hash) {
-                throw new Error("The question data base URL must use HTTPS and cannot include a query or fragment.");
-            }
-            const encodedPath = relativePath.split("/").map(encodeURIComponent).join("/");
-            dataUrl = new URL(encodedPath, `${baseUrl.href.replace(/\/+$/, "")}/`);
-        } catch (error) {
-            throw new HttpError(503, "Question downloads are not configured on the server.", {
-                expose: true,
-                details: { configurationError: error.message }
-            });
+        const allowedYears = normalizeAllowedYears(accessCode.allowedYears);
+        if (!isYearAllowed(allowedYears, question.exam, question.year)) {
+            throw new HttpError(403, "This exam year is not enabled for this computer.");
         }
 
-        const upstreamResponse = await fetch(dataUrl, {
-            headers: { Accept: "application/json" },
-            signal: AbortSignal.timeout(8000)
-        });
-        if (upstreamResponse.status === 404) {
-            throw new HttpError(404, "Questions for this subject are not available yet.");
+        const questionFile = path.resolve(__dirname, "..", relativePath);
+        const privateDataRoot = path.resolve(__dirname, "..", "data");
+        if (!questionFile.startsWith(`${privateDataRoot}${path.sep}`)) {
+            throw new HttpError(400, "The requested question data is not available.");
         }
-        if (!upstreamResponse.ok) {
-            throw new HttpError(502, "Question data is temporarily unavailable.", {
-                details: {
-                    upstream: "Vercel question-data files",
-                    status: upstreamResponse.status,
-                    url: dataUrl.pathname
-                }
-            });
-        }
-
         let questions;
         try {
-            questions = await upstreamResponse.json();
-        } catch {
-            throw new HttpError(502, "Question data could not be loaded.", {
-                details: { upstream: "Vercel question-data files", url: dataUrl.pathname }
-            });
+            questions = JSON.parse(await fs.readFile(questionFile, "utf8"));
+        } catch (error) {
+            if (error.code === "ENOENT") {
+                throw new HttpError(404, "Questions for this subject are not available yet.");
+            }
+            throw error;
         }
         if (!Array.isArray(questions) || questions.length === 0) {
-            throw new HttpError(502, "Question data could not be loaded.", {
-                details: { upstream: "Vercel question-data files", url: dataUrl.pathname }
-            });
+            throw new HttpError(502, "Question data could not be loaded.");
         }
+
+        await db.doc(`${root}/questionDownloads/records/${randomUUID()}`).set({
+            schoolId: device.schoolId,
+            computerId: uid,
+            computerName: device.computerName || "",
+            accessCode: device.accessCode,
+            exam: question.exam,
+            subject: question.subject,
+            year: question.year,
+            downloadedAt: FieldValue.serverTimestamp()
+        });
 
         res.setHeader("Cache-Control", "no-store");
         return res.status(200).json(questions);

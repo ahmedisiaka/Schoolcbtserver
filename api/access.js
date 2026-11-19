@@ -1,6 +1,6 @@
 const { authenticate, getDb } = require("../lib/firebase");
 const { handleOptions, sendError, setCorsHeaders } = require("../lib/http");
-const { normalizeAllowedSubjects } = require("../lib/subjects");
+const { normalizeAllowedSubjects, normalizeAllowedYears } = require("../lib/subjects");
 const { assertSchool, getTenant } = require("../lib/tenant");
 
 module.exports = async function accessHandler(req, res) {
@@ -43,6 +43,9 @@ module.exports = async function accessHandler(req, res) {
         const allowedSubjects = accessCodeSnapshot?.exists
             ? accessCodeSnapshot.data().allowedSubjects
             : device.allowedSubjects;
+        const allowedYears = accessCodeSnapshot?.exists
+            ? accessCodeSnapshot.data().allowedYears
+            : device.allowedYears;
 
         return res.status(200).json({
             status: "active",
@@ -51,7 +54,8 @@ module.exports = async function accessHandler(req, res) {
                 schoolId: device.schoolId,
                 schoolName: device.schoolName || schoolSnapshot.data().name || "",
                 computerName: device.computerName || "",
-                allowedSubjects: normalizeAllowedSubjects(allowedSubjects)
+                allowedSubjects: normalizeAllowedSubjects(allowedSubjects),
+                allowedYears: normalizeAllowedYears(allowedYears)
             },
             expiresAt: expiresAt.toISOString()
         });

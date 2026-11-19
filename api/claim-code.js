@@ -1,7 +1,7 @@
 const { FieldValue, Timestamp } = require("firebase-admin/firestore");
 const { authenticate, getDb } = require("../lib/firebase");
 const { handleOptions, HttpError, sendError, setCorsHeaders } = require("../lib/http");
-const { normalizeAllowedSubjects } = require("../lib/subjects");
+const { normalizeAllowedSubjects, normalizeAllowedYears } = require("../lib/subjects");
 const { assertSchool, getTenant } = require("../lib/tenant");
 
 const ACCESS_DAYS = 30;
@@ -36,6 +36,7 @@ module.exports = async function claimCodeHandler(req, res) {
             const accessCode = codeSnapshot.data();
             assertSchool(tenant, accessCode.schoolId);
             const allowedSubjects = normalizeAllowedSubjects(accessCode.allowedSubjects);
+            const allowedYears = normalizeAllowedYears(accessCode.allowedYears);
             const usedCount = Number(accessCode.usedCount || 0);
             const maxComputers = Number(accessCode.maxComputers);
             const codeExpiry = accessCode.expiresAt?.toDate?.();
@@ -94,6 +95,7 @@ module.exports = async function claimCodeHandler(req, res) {
                 status: "active",
                 accessCode: code,
                 allowedSubjects,
+                allowedYears,
                 registeredAt,
                 updatedAt: FieldValue.serverTimestamp(),
                 expiresAt
@@ -104,7 +106,8 @@ module.exports = async function claimCodeHandler(req, res) {
                     computerName,
                     schoolId: accessCode.schoolId,
                     schoolName: school.name || "",
-                    allowedSubjects
+                    allowedSubjects,
+                    allowedYears
                 },
                 expiresAt: expiresAt.toDate().toISOString()
             };
