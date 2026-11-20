@@ -6,8 +6,9 @@ Vercel-hosted access-code, computer-status, and protected question-bank APIs for
 
 1. Import `ahmedisiaka/Schoolcbtserver` as a Vercel project and set its root directory to the repository root.
 2. Add `FIREBASE_SERVICE_ACCOUNT_JSON` in Vercel for the Firebase project used by the desktop app.
-3. Keep the question banks under `api/_question-data/`. They are bundled with the API functions and are not deployed as public static files.
-4. Deploy. The app calls `https://cbtsoftwareserver.vercel.app/server/api/`; Vercel rewrites these routes to the API functions.
+3. Add `CBT_SECRET_ENCRYPTION_KEY` as a Vercel environment variable. Use a randomly generated secret with at least 32 characters. It encrypts school AI API keys before they are stored in Firestore; keep it private and do not change it unless you are prepared to replace the stored school keys.
+4. Keep the question banks under `api/_question-data/`. They are bundled with the API functions and are not deployed as public static files.
+5. Deploy. The app calls `https://cbtsoftwareserver.vercel.app/server/api/`; Vercel rewrites these routes to the API functions.
 
 Keep service-account credentials only in Vercel's encrypted environment variables.
 
@@ -25,6 +26,9 @@ Downloaded banks, practice progress, and new local result files are protected at
 - `POST /api/claim-code`: atomically registers the signed-in computer and redeems a school access code.
 - `GET /api/question-catalog`: returns question subjects and years allowed for the active computer, or the full catalog for an active developer admin.
 - `GET /api/question-data?path=data/<year>/<subject>.json`: verifies permissions and serves a question bank from the API-only data bundle.
+- `POST /api/school-settings`: lets active developer admins publish question, exam, and API-key revisions to selected schools. New AI keys are encrypted with `CBT_SECRET_ENCRYPTION_KEY`.
+- `GET /api/school-updates`: returns non-secret update revisions for an authenticated active computer.
+- `POST /api/school-ai`: proxies question generation for an active computer using its school's server-held AI key; the key is never sent to or stored in the desktop app.
 - `GET /data/<year>/<subject>.json`: compatibility route rewritten to the same protected question-data endpoint; it does not serve a public JSON file.
 
 The access and question endpoints require a Firebase ID token in the `Authorization` header. Question downloads also require the configured tenant headers used by the desktop app.
