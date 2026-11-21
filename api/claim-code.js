@@ -65,7 +65,7 @@ module.exports = async function claimCodeHandler(req, res) {
                 }
             }
 
-            const schoolRef = db.doc(`${ROOT}/schools/items/${accessCode.schoolId}`);
+            const schoolRef = db.doc(`schoolDirectory/items/${accessCode.schoolId}`);
             const schoolSnapshot = await transaction.get(schoolRef);
             const school = assertSchoolRecord(tenant, accessCode.schoolId, schoolSnapshot);
             if (school.status !== "active") {

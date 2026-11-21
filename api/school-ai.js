@@ -26,9 +26,8 @@ module.exports = async function schoolAiHandler(req, res) {
             throw new HttpError(403, "Active school computer access is required.");
         }
         const schoolSnapshot = await assertSchool(tenant, device.schoolId, db);
-        const schoolRef = db.doc(`${tenant.dataRoot}/schools/items/${device.schoolId}`);
         const codeRef = db.doc(`${tenant.dataRoot}/accessCodes/items/${device.accessCode}`);
-        const [codeSnapshot] = await Promise.all([codeRef.get()]);
+        const codeSnapshot = await codeRef.get();
         const expiresAt = device.expiresAt?.toDate?.();
         if (device.status !== "active" || !expiresAt || expiresAt.getTime() <= Date.now() ||
             schoolSnapshot.data().status !== "active" ||
