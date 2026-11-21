@@ -1,7 +1,8 @@
-const { getDb } = require("../lib/firebase");
+const { authenticate, getDb } = require("../lib/firebase");
 const { assertPassword, clearLoginAttempts, consumeLoginAttempt, hashPassword, verifyPassword } = require("../lib/computer-admin-password");
 const { handleOptions, HttpError, sendError, setCorsHeaders } = require("../lib/http");
-const { assertSchool, getTenant } = require("../lib/tenant");
+const { getActiveComputer } = require("../lib/active-computer");
+const { getTenant } = require("../lib/tenant");
 
 module.exports = async function computerAdminAuthHandler(req, res) {
     if (handleOptions(req, res)) return;
@@ -20,10 +21,11 @@ module.exports = async function computerAdminAuthHandler(req, res) {
         if (action !== "login" && action !== "change-password") {
             throw new HttpError(400, "Choose a valid password action.");
         }
+        const identity = await authenticate(req);
         const db = getDb();
-        const schoolSnapshot = await assertSchool(tenant, tenant.schoolId, db);
-        if (schoolSnapshot.data().status !== "active") {
-            throw new HttpError(403, "This school's access is currently unavailable.");
+        const computer = await getActiveComputer(db, tenant, identity.uid);
+        if (!computer || computer.schoolId !== tenant.schoolId) {
+            throw new HttpError(403, "Activate this computer with a school access code before using Computer Admin.");
         }
         const rateLimitRef = await consumeLoginAttempt(db, tenant.dataRoot, req);
         const credentialRef = db.doc(`${tenant.dataRoot}/computerAdmin/items/credentials`);
