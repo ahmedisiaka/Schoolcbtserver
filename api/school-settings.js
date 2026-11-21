@@ -48,20 +48,29 @@ module.exports = async function schoolSettingsHandler(req, res) {
         if (!tenant.dataRoot) throw new HttpError(403, "This app is not configured for school administration.");
 
         const uniqueSchoolIds = [...new Set(schoolIds)];
-        if (tenant.schoolId && uniqueSchoolIds.some(schoolId => schoolId !== tenant.schoolId)) {
+        if (!tenant.developerAdmin && uniqueSchoolIds.some(schoolId => schoolId !== tenant.schoolId)) {
             throw new HttpError(403, "This app is not configured to update the selected school.");
         }
         const schoolRefs = uniqueSchoolIds.map(schoolId =>
-            db.doc(`${tenant.dataRoot}/schools/items/${schoolId}`)
-        );
-        const configRefs = uniqueSchoolIds.map(schoolId =>
-            db.doc(`${tenant.dataRoot}/schoolRuntime/items/${schoolId}`)
+            db.doc(`schoolDirectory/${schoolId}`)
         );
         await db.runTransaction(async transaction => {
             const schoolSnapshots = await Promise.all(schoolRefs.map(schoolRef => transaction.get(schoolRef)));
             if (schoolSnapshots.some(snapshot => !snapshot.exists)) {
                 throw new HttpError(404, "One or more selected schools could not be found.");
             }
+            const configRefs = schoolSnapshots.map((snapshot, index) => {
+                const school = snapshot.data();
+                if (school.status !== "active" ||
+                    !/^[A-Za-z0-9_-]{1,100}$/.test(school.dataRoot || "")) {
+                    throw new HttpError(403, "One or more selected schools are not configured.");
+                }
+                if (!tenant.developerAdmin &&
+                    (school.dataRoot !== tenant.dataRoot || uniqueSchoolIds[index] !== tenant.schoolId)) {
+                    throw new HttpError(403, "This app is not configured to update the selected school.");
+                }
+                return db.doc(`${school.dataRoot}/schoolRuntime/items/${uniqueSchoolIds[index]}`);
+            });
             const configSnapshots = await Promise.all(configRefs.map(configRef => transaction.get(configRef)));
             for (const [index, schoolId] of uniqueSchoolIds.entries()) {
                 const previous = configSnapshots[index].exists ? configSnapshots[index].data() : {};
