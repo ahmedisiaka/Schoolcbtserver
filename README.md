@@ -18,18 +18,28 @@ Configure `CBT_TENANTS_JSON` in Vercel with the server-side allowlist for all sc
 {
   "Gibbors Hub Schools": {
     "dataRoot": "GIBBORSHUB",
-    "schoolId": "gibbors-school-document-id",
+    "schoolId": "GIBBORSHUB",
     "schoolName": "Gibbors Hub Schools"
   },
   "Saint Academy CBT": {
     "dataRoot": "SAINTACADEMY",
-    "schoolId": "saint-academy-document-id",
+    "schoolId": "SAINTACADEMY",
     "schoolName": "Saint Academy"
+  },
+  "LIMLO Developer Admin": {
+    "dataRoot": "GIBBORSHUB",
+    "schoolId": "GIBBORSHUB",
+    "schoolName": "LIMLO Developer Admin",
+    "developerAdmin": true
   }
 }
 ```
 
-For a single-tenant deployment, the equivalent legacy variables are `CBT_DATA_ROOT`, `CBT_APP_SCHOOL_ID`, `CBT_SOFTWARE_NAME`, and `CBT_SCHOOL_NAME`. The default software name is `Gibbors Hub Schools`. Each API rejects unknown software names, mismatching roots/school IDs, missing school records, and school-name mismatches. Configure the Firestore school's `name` (or `softwareName`) to match the allowlisted `schoolName`.
+Each regular school profile must exist at `schoolDirectory/{schoolId}`, with `dataRoot`, `name` (or `softwareName`), and active status matching the allowlist. The data root is a separate top-level Firestore collection per school; do not nest schools under another school's root. The Developer Admin entry uses `developerAdmin: true` and still requires an active `admins/{uid}` record. Never mark a school-app tenant as `developerAdmin`.
+
+For legacy records under `OLD_ROOT/schools/items/{schoolId}`, run `node scripts/migrate-school-root.js --legacy-root=OLD_ROOT --school-id=SCHOOL_ID --target-root=NEW_ROOT` from this repository with `FIREBASE_SERVICE_ACCOUNT_JSON` set. The default is a read-only dry run. Review the report before adding `--apply`; add `--copy-global-setting` only when migrating the legacy global portal setting. This script copies records without deleting the old data, skips existing destinations, and does not migrate Computer Admin credentials. Set those passwords in Developer Admin after verifying the copied data.
+
+For a single-tenant deployment, the equivalent variables are `CBT_DATA_ROOT`, `CBT_APP_SCHOOL_ID`, `CBT_SOFTWARE_NAME`, and `CBT_SCHOOL_NAME`. The default software name is `Gibbors Hub Schools`. Each API rejects unknown software names, mismatching roots/school IDs, missing school profiles, and school-name mismatches.
 
 Build each school edition with `npm run build-app -- --school-id=<school-document-id> --data-root=<firestore-root> --software-name="<allowlisted-software-name>" --app-name="<display-name>"`. The optional `--server-url` parameter sets that edition's API base URL. Never put service-account credentials or server allowlists in build arguments. Do not commit generated school builds or copy one school's config into another school's release.
 
@@ -45,8 +55,11 @@ Downloaded banks, practice progress, and new local result files are protected at
 
 - `GET /api/access`: verifies the signed-in computer, school status, suspension status, entitlements, and access expiry.
 - `POST /api/claim-code`: atomically registers the signed-in computer and redeems a school access code.
-- `GET /api/question-catalog`: returns question subjects and years allowed for the active computer, or the full catalog for an active developer admin.
+- `GET /api/question-catalog`: returns question subjects and years allowed for the active computer, or the full catalog only for an active Developer Admin tenant and user.
 - `GET /api/question-data?path=data/<year>/<subject>.json`: verifies permissions and serves a question bank from the API-only data bundle.
+- `POST /api/exam-content`: verifies the active school computer and returns published exam content to the Electron main process for encrypted local storage. Direct student reads of Firestore exam content are denied by the updated rules; the renderer receives question text and options without answer keys.
+- `POST /api/computer-admin-auth`: verifies or changes the school's Computer Admin password. Passwords are salted scrypt hashes stored under that school's root; login attempts are rate limited.
+- `POST /api/school-admin-password`: lets an authenticated Developer Admin set a school's Computer Admin password.
 - `POST /api/school-settings`: lets active developer admins publish question, exam, and API-key revisions to selected schools. New AI keys are encrypted with `CBT_SECRET_ENCRYPTION_KEY`.
 - `GET /api/school-updates`: returns non-secret update revisions for an authenticated active computer.
 - `POST /api/school-ai`: proxies question generation for an active computer using its school's server-held AI key; the key is never sent to or stored in the desktop app.
