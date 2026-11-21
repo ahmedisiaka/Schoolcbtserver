@@ -22,6 +22,9 @@ module.exports = async function schoolSettingsHandler(req, res) {
 
     try {
         const tenant = getTenant(req);
+        if (!tenant.developerAdmin) {
+            throw new HttpError(403, "Developer administrator access is required.");
+        }
         const identity = await authenticate(req);
         const db = getDb();
         await assertDeveloperAdmin(db, identity.uid);

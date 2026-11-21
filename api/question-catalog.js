@@ -78,7 +78,7 @@ module.exports = async function questionCatalogHandler(req, res) {
         const db = getDb();
         const identity = await authenticate(req);
         const computer = await getActiveComputer(db, tenant.dataRoot, identity.uid, tenant);
-        const isAdmin = !computer && await isActiveAdmin(db, identity.uid);
+        const isAdmin = tenant.developerAdmin && !computer && await isActiveAdmin(db, identity.uid);
         if (!computer && !isAdmin) {
             throw new HttpError(403, "Question bank access denied. Contact your school administrator.");
         }
