@@ -21,20 +21,19 @@ module.exports = async function accessHandler(req, res) {
             db.doc(`${ROOT}/computers/active/${uid}`).get(),
             db.doc(`${ROOT}/computers/inactive/${uid}`).get()
         ]);
-        if (inactiveSnapshot.exists) return res.status(200).json({ status: "inactive" });
-        if (!activeSnapshot.exists) return res.status(200).json({ status: "unregistered" });
+        if (inactiveSnapshot.exists) return res.status(200).json({ status: "inactive", serverTime: Date.now() });
+        if (!activeSnapshot.exists) return res.status(200).json({ status: "unregistered", serverTime: Date.now() });
 
         const device = activeSnapshot.data();
-        assertSchool(tenant, device.schoolId);
+        const schoolSnapshot = await assertSchool(tenant, device.schoolId, db);
         const expiresAt = device.expiresAt?.toDate?.();
-        if (device.status !== "active") return res.status(200).json({ status: "inactive" });
+        if (device.status !== "active") return res.status(200).json({ status: "inactive", serverTime: Date.now() });
         if (!expiresAt || expiresAt.getTime() <= Date.now()) {
-            return res.status(200).json({ status: "expired" });
+            return res.status(200).json({ status: "expired", serverTime: Date.now() });
         }
 
-        const schoolSnapshot = await db.doc(`${ROOT}/schools/items/${device.schoolId}`).get();
-        if (!schoolSnapshot.exists || schoolSnapshot.data().status !== "active") {
-            return res.status(200).json({ status: "inactive" });
+        if (schoolSnapshot.data().status !== "active") {
+            return res.status(200).json({ status: "inactive", serverTime: Date.now() });
         }
 
         const accessCodeSnapshot = typeof device.accessCode === "string"
@@ -57,7 +56,8 @@ module.exports = async function accessHandler(req, res) {
                 allowedSubjects: normalizeAllowedSubjects(allowedSubjects),
                 allowedYears: normalizeAllowedYears(allowedYears)
             },
-            expiresAt: expiresAt.toISOString()
+            expiresAt: expiresAt.toISOString(),
+            serverTime: Date.now()
         });
     } catch (error) {
         return sendError(req, res, error);

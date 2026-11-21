@@ -2,7 +2,7 @@ const { FieldValue, Timestamp } = require("firebase-admin/firestore");
 const { authenticate, getDb } = require("../lib/firebase");
 const { handleOptions, HttpError, sendError, setCorsHeaders } = require("../lib/http");
 const { normalizeAllowedSubjects, normalizeAllowedYears } = require("../lib/subjects");
-const { assertSchool, getTenant } = require("../lib/tenant");
+const { assertSchoolRecord, getTenant } = require("../lib/tenant");
 
 const ACCESS_DAYS = 30;
 
@@ -34,7 +34,9 @@ module.exports = async function claimCodeHandler(req, res) {
             ]);
             if (!codeSnapshot.exists) throw new HttpError(400, "That access code is not valid.");
             const accessCode = codeSnapshot.data();
-            assertSchool(tenant, accessCode.schoolId);
+            if (accessCode.schoolId !== tenant.schoolId) {
+                throw new HttpError(403, "This access code is not valid for this school edition of the app.");
+            }
             const allowedSubjects = normalizeAllowedSubjects(accessCode.allowedSubjects);
             const allowedYears = normalizeAllowedYears(accessCode.allowedYears);
             const usedCount = Number(accessCode.usedCount || 0);
@@ -65,11 +67,11 @@ module.exports = async function claimCodeHandler(req, res) {
 
             const schoolRef = db.doc(`${ROOT}/schools/items/${accessCode.schoolId}`);
             const schoolSnapshot = await transaction.get(schoolRef);
-            if (!schoolSnapshot.exists || schoolSnapshot.data().status !== "active") {
+            const school = assertSchoolRecord(tenant, accessCode.schoolId, schoolSnapshot);
+            if (school.status !== "active") {
                 throw new HttpError(403, "The school attached to this code is not active.");
             }
 
-            const school = schoolSnapshot.data();
             const computerName = Array.isArray(accessCode.computerNames)
                 ? accessCode.computerNames[usedCount]
                 : `${accessCode.schoolId}-LEGACY-${uid}`;
@@ -112,7 +114,7 @@ module.exports = async function claimCodeHandler(req, res) {
                 expiresAt: expiresAt.toDate().toISOString()
             };
         });
-        return res.status(200).json({ status: "active", ...outcome });
+        return res.status(200).json({ status: "active", serverTime: Date.now(), ...outcome });
     } catch (error) {
         return sendError(req, res, error);
     }

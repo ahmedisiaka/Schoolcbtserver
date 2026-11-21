@@ -12,9 +12,30 @@ Vercel-hosted access-code, computer-status, and protected question-bank APIs for
 
 Keep service-account credentials only in Vercel's encrypted environment variables.
 
-Set `CBT_DATA_ROOT` to the Firestore top-level collection used by a school edition (defaults to `GIBBORSHUB`). For an app dedicated to one school, also set `CBT_APP_SCHOOL_ID` to that school's Firestore document ID. The server rejects requests and access codes from another root or school when these values are configured. These settings are tenant enforcement, not a cryptographic client signature.
+Configure `CBT_TENANTS_JSON` in Vercel with the server-side allowlist for all school editions. It must be a JSON object keyed by the exact `softwareName` embedded in each app. Every value must provide `dataRoot`, `schoolId`, and `schoolName`, for example:
 
-In the desktop app repository, build a school edition with `npm run build-app -- --school-id=<school-document-id> --data-root=<firestore-root> --app-name="<school-name>"`. The optional `--server-url` parameter sets that edition's API base URL. Configure the deployed server with the matching `CBT_DATA_ROOT` and `CBT_APP_SCHOOL_ID`; never put service-account credentials in build arguments.
+```json
+{
+  "Gibbors Hub Schools": {
+    "dataRoot": "GIBBORSHUB",
+    "schoolId": "gibbors-school-document-id",
+    "schoolName": "Gibbors Hub Schools"
+  },
+  "Saint Academy CBT": {
+    "dataRoot": "SAINTACADEMY",
+    "schoolId": "saint-academy-document-id",
+    "schoolName": "Saint Academy"
+  }
+}
+```
+
+For a single-tenant deployment, the equivalent legacy variables are `CBT_DATA_ROOT`, `CBT_APP_SCHOOL_ID`, `CBT_SOFTWARE_NAME`, and `CBT_SCHOOL_NAME`. The default software name is `Gibbors Hub Schools`. Each API rejects unknown software names, mismatching roots/school IDs, missing school records, and school-name mismatches. Configure the Firestore school's `name` (or `softwareName`) to match the allowlisted `schoolName`.
+
+Build each school edition with `npm run build-app -- --school-id=<school-document-id> --data-root=<firestore-root> --software-name="<allowlisted-software-name>" --app-name="<display-name>"`. The optional `--server-url` parameter sets that edition's API base URL. Never put service-account credentials or server allowlists in build arguments. Do not commit generated school builds or copy one school's config into another school's release.
+
+The tenant headers are identifiers, not credentials or cryptographic signatures. The server validates the authenticated computer record, code's school ID, Firestore school record and active status on each protected API request. `CBT_TENANTS_JSON` is server-only and must never be embedded in the desktop app.
+
+Firestore client rules use a tenant-root wildcard for school data paths. Direct client activation and access-code redemption are denied; only the authenticated server API using Firebase Admin can claim a code and create an active-computer record. Deploy the updated `developer-admin/firestore.rules` to the Firebase project before rollout.
 
 When generating an access code, select JAMB and JSCE subjects and choose specific JAMB years or all years currently available. The catalog is generated from the question files, so newly added years are included after deployment. The API checks the active computer, school, code usage, subject, and year before returning a bank. Successful downloads are recorded in Firestore.
 
@@ -31,7 +52,9 @@ Downloaded banks, practice progress, and new local result files are protected at
 - `POST /api/school-ai`: proxies question generation for an active computer using its school's server-held AI key; the key is never sent to or stored in the desktop app.
 - `GET /data/<year>/<subject>.json`: compatibility route rewritten to the same protected question-data endpoint; it does not serve a public JSON file.
 
-The access and question endpoints require a Firebase ID token in the `Authorization` header. Question downloads also require the configured tenant headers used by the desktop app.
+The access and question endpoints require a Firebase ID token in the `Authorization` header. Every protected request also requires `X-CBT-Software-Name` and `X-CBT-Data-Root`; school-bound builds also send `X-CBT-School-Id`. These headers must match the server-side allowlist, but they are identifiers rather than secrets.
+
+Access responses include server time. The desktop stores the resulting lease encrypted through Electron `safeStorage` and checks the adjusted time against the last persisted server-time value to detect clock rollback. This helps detect casual clock changes, but a fully offline computer cannot know elapsed real time while powered off if its operating-system clock is under the user's control.
 
 ## Data layout
 

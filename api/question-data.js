@@ -1,4 +1,4 @@
-const { randomUUID } = require("node:crypto");
+const { createHash } = require("node:crypto");
 const fs = require("node:fs/promises");
 const path = require("node:path");
 const { HttpError, handleOptions, sendError, setCorsHeaders } = require("../lib/http");
@@ -39,14 +39,13 @@ module.exports = async function questionDataHandler(req, res) {
         }
 
         const device = activeSnapshot.data();
-        assertSchool(tenant, device.schoolId);
+        const schoolSnapshot = await assertSchool(tenant, device.schoolId, db);
         const expiresAt = device.expiresAt?.toDate?.();
         if (device.status !== "active" || !expiresAt || expiresAt.getTime() <= Date.now()) {
             throw new HttpError(403, "This computer's school access has expired or been disabled.");
         }
 
-        const schoolSnapshot = await db.doc(`${root}/schools/items/${device.schoolId}`).get();
-        if (!schoolSnapshot.exists || schoolSnapshot.data().status !== "active") {
+        if (schoolSnapshot.data().status !== "active") {
             throw new HttpError(403, "This school's access has been disabled.");
         }
 
@@ -95,16 +94,17 @@ module.exports = async function questionDataHandler(req, res) {
             throw new HttpError(502, "Question data could not be loaded.");
         }
 
-        await db.doc(`${root}/questionDownloads/records/${randomUUID()}`).set({
+        const downloadSummaryId = createHash("sha256")
+            .update(`${uid}:${question.exam}`, "utf8")
+            .digest("hex");
+        await db.doc(`${root}/questionDownloads/records/${downloadSummaryId}`).set({
             schoolId: device.schoolId,
             computerId: uid,
             computerName: device.computerName || "",
-            accessCode: device.accessCode,
             exam: question.exam,
-            subject: question.subject,
-            year: question.year,
-            downloadedAt: FieldValue.serverTimestamp()
-        });
+            downloadedAt: FieldValue.serverTimestamp(),
+            downloadCount: FieldValue.increment(1)
+        }, { merge: true });
 
         res.setHeader("Cache-Control", "no-store");
         return res.status(200).json(questions);

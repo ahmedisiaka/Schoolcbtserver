@@ -23,19 +23,18 @@ module.exports = async function schoolUpdatesHandler(req, res) {
         }
 
         const device = activeSnapshot.data();
-        assertSchool(tenant, device.schoolId);
+        const schoolSnapshot = await assertSchool(tenant, device.schoolId, db);
         const expiresAt = device.expiresAt?.toDate?.();
         if (device.status !== "active" || !expiresAt || expiresAt.getTime() <= Date.now() ||
             typeof device.accessCode !== "string" || !device.accessCode) {
             throw new HttpError(403, "Active school computer access is required.");
         }
-        const [schoolSnapshot, codeSnapshot, runtimeSnapshot] = await Promise.all([
-            db.doc(`${tenant.dataRoot}/schools/items/${device.schoolId}`).get(),
+        const [codeSnapshot, runtimeSnapshot] = await Promise.all([
             db.doc(`${tenant.dataRoot}/accessCodes/items/${device.accessCode}`).get(),
             db.doc(`${tenant.dataRoot}/schoolRuntime/items/${device.schoolId}`).get()
         ]);
         const code = codeSnapshot.exists ? codeSnapshot.data() : null;
-        if (!schoolSnapshot.exists || schoolSnapshot.data().status !== "active" ||
+        if (schoolSnapshot.data().status !== "active" ||
             !code || code.enabled !== true || code.schoolId !== device.schoolId ||
             !Array.isArray(code.usedBy) || !code.usedBy.includes(identity.uid)) {
             throw new HttpError(403, "Active school computer access is required.");

@@ -13,11 +13,10 @@ async function getActiveComputer(db, root, uid, tenant) {
     if (inactiveSnapshot.exists || !activeSnapshot.exists) return null;
 
     const device = activeSnapshot.data();
-    assertSchool(tenant, device.schoolId);
+    const schoolSnapshot = await assertSchool(tenant, device.schoolId, db);
     const expiry = device.expiresAt?.toDate?.();
     if (device.status !== "active" || !expiry || expiry.getTime() <= Date.now()) return null;
-    const schoolSnapshot = await db.doc(`${root}/schools/items/${device.schoolId}`).get();
-    if (!schoolSnapshot.exists || schoolSnapshot.data().status !== "active") return null;
+    if (schoolSnapshot.data().status !== "active") return null;
     if (typeof device.accessCode !== "string") return null;
 
     const codeSnapshot = await db.doc(`${root}/accessCodes/items/${device.accessCode}`).get();
